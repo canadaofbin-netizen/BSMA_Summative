@@ -1,7 +1,7 @@
 <details>
 <summary><h2>Excel Data Entry Formatting Rules</h2></summary>
 
-When executing Step 2 of the workflow (Writing to the `BSMA_Actual Coding Sheet_v2.xlsx`), you must strictly adhere to the following formatting and sequencing rules for the first 4 columns and row spacing.
+When executing Step 2 of the workflow (Writing to the `BSMA_Master_Coding_Sheet.xlsx`), you must strictly adhere to the following formatting and sequencing rules for the first 4 columns and row spacing.
 
 > [!IMPORTANT]  
 > **1. Blank Row Separation Rule**  

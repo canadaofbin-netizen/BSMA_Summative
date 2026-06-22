@@ -10,7 +10,7 @@
 | 1 | Paper 1 Extraction | Evaluate Paper 1 inclusion/exclusion, extract metadata, deploy Subagent 1 for measures, and write `Paper1_Shadow_Report.md`. | None | PLANNED |
 | 2 | Paper 2 Extraction | Evaluate Paper 2 inclusion/exclusion, extract metadata, deploy Subagent 2 for measures, and write `Paper2_Shadow_Report.md`. | None | PLANNED |
 | 3 | Paper 3 Extraction | Evaluate Paper 3 inclusion/exclusion, extract metadata, deploy Subagent 3 for measures, and write `Paper3_Shadow_Report.md`. | None | PLANNED |
-| 4 | Excel Injection & Sync | Use Python to inject Shadow Reports into `v8.xlsx` and automatically sync to GitHub. | M1, M2, M3 | PLANNED |
+| 4 | Excel Injection & Sync | Use Python to inject Shadow Reports into `BSMA_Master_Coding_Sheet.xlsx` and automatically sync to GitHub. | M1, M2, M3 | PLANNED |
 
 ## Interface Contracts
 - **Shadow Report Schema**:

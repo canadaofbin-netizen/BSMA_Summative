@@ -13,7 +13,7 @@ Before we begin any data extraction, you MUST read the following 4 files in exac
 1. `PROJECT.md` (To understand the overarching meta-analysis goal)
 2. `04_Archives_and_Backups\09_Agent_Artifacts_Backup\System_Architecture.md` (To understand the multi-agent system structure, Shadow Reports, and Python execution layers)
 3. `05_Coding_Rulebook\03_automated_workflow.md` (To understand the strict Step 0 to Step 3 automated extraction pipeline rules)
-4. `04_Archives_and_Backups\09_Agent_Artifacts_Backup\walkthrough.md` (To understand the current progress, noting that we have successfully injected data up to `BSMA_Actual Coding Sheet_v8.xlsx`)
+4. `04_Archives_and_Backups\09_Agent_Artifacts_Backup\walkthrough.md` (To understand the current progress, noting that we have successfully injected data up to `BSMA_Master_Coding_Sheet.xlsx`)
 
 After reading all 4 files, you must explicitly pledge the following:
 **"I understand the system architecture. I swear that I will strictly follow Step 1.5 of `03_automated_workflow.md`. When extracting Measure Descriptors (Number of items, min score, max score, report type, source) for the dozens of variables in correlation matrices, I will NEVER do it manually to prevent context bloat and hallucination. I will ALWAYS use the `invoke_subagent` tool to deploy parallel Subagents to search the text and return the data in a clean JSON mapping."**

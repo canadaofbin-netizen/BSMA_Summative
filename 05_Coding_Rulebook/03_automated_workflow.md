@@ -31,8 +31,16 @@ Because correlation matrices often contain dozens of Non-Boundary-Spanning varia
 - The Orchestrator MUST wait for the Subagents to return this JSON mapping before proceeding to Excel Injection.
 
 **Step 2: Code the Conventional Excel Sheet**
-Once the logic is established in the metadata report, the AI will use those findings to accurately code the paper into the official `BSMA_Actual Coding Sheet_v2.xlsx`. 
-You MUST strictly adhere to the formatting, ID naming, and blank row rules defined in `08_data_entry_formatting.md` when writing to the spreadsheet.
+Once the logic is established in the metadata report, the AI will use those findings to accurately code the paper into the official `BSMA_Master_Coding_Sheet.xlsx`. 
+
+<details>
+<summary>Click to view Step 2 rules</summary>
+
+**Step 2: Excel Injection**
+1. Read the parsed tables and metadata report.
+2. Carefully format the values as per `08_data_entry_formatting.md`.
+3. Write the rows to `BSMA_Master_Coding_Sheet.xlsx`.
+</details>
 
 **Step 3: Self-Verification Loop (Double-Check All Numeric Entries)**
 Before declaring any paper's extraction complete, you MUST dump and review the exact inserted rows using Python. 
@@ -40,7 +48,7 @@ Before declaring any paper's extraction complete, you MUST dump and review the e
 - **No Mental Conversions:** You must ensure that every number exactly matches the paper's table character-for-character. Do **NOT** perform mental conversions (e.g., transforming `.43` to `43` for percentages). Loop and fix any discrepancies until the extraction is 100% flawless.
 
 **Step 4: GitHub Synchronization**
-After the extraction is complete and verified in Step 3, the Orchestrator AI MUST automatically commit and push the updated `BSMA_Actual Coding Sheet_vX.xlsx` and any new Shadow Reports to the GitHub repository.
+After the extraction is complete and verified in Step 3, the Orchestrator AI MUST automatically commit and push the updated `BSMA_Master_Coding_Sheet.xlsx` and any new Shadow Reports to the GitHub repository.
 - Run `git add .`
 - Run `git commit -m "Auto-backup: Extracted data for [Paper Author Year]"`
 - Run `git push`
