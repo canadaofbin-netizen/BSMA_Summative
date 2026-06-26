@@ -9,7 +9,7 @@ When triggered, you must execute the following automated workflow to extract mea
 
 ## 1. Subagent Invocation
 - Use the `invoke_subagent` tool to spawn a specialized `research` subagent.
-- **Prompt for Subagent:** "Read the provided PDF paper located at [Path]. Locate the 'Measures' section. For the following variables: [List of variables], extract the Number of Items, Anchor Range (Min/Max), Report Type (Self vs Others), and the original citation/source. Return this data EXACTLY as a JSON array of objects."
+- **Prompt for Subagent:** "Read the provided PDF paper located at [Path]. Locate the 'Measures' section. For the following variables: [List of variables], extract the Number of Items, Anchor Range (Min/Max), Report Type (Self vs Others), and the original citation/source. Return this data EXACTLY as a JSON array of objects. **CRITICAL EXCEPTION:** If a variable is a demographic or objective control variable (e.g., Age, Gender, Tenure, Education, Firm Size), do not search for its scale properties. Immediately return `999` for its Number of Items, Min Score, and Max Score."
 
 ## 2. Await Response
 - Wait asynchronously for the subagent to complete its task and return the JSON. Do not poll in a loop.

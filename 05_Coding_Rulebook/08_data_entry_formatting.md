@@ -22,6 +22,14 @@ When executing Step 2 of the workflow (Writing to the `BSMA_Master_Coding_Sheet.
 
 ## Demographic Extraction Rules
 
+> [!TIP]
+> **Simplified Measure Descriptors (999)**
+> For any demographic or objective variable (e.g., Age, Gender, Education, Tenure, Firm Size, Firm Age), you MUST hardcode the following three Measure Descriptors as `999`:
+> - Number of Items
+> - Minimum Possible Score
+> - Maximum Possible Score
+> This saves time as these objective variables do not possess true psychometric scale properties.
+
 > [!WARNING]
 > **Strict Tenure Rules (No Conversions)**
 > - **No Unit Conversion:** Never attempt to convert tenure values from months to years (e.g., dividing by 12). Extract and enter the exact numerical value reported in the paper.
