@@ -5,10 +5,12 @@ According to the master Inclusion-Exclusion criteria, the sample must consist of
 
 > [!CAUTION]
 > **Firm & Team Exclusion Rule**  
-> Mixing organizational-level boundary spanning with individual-level boundary spanning violates the level-of-analysis boundaries of this project.
+> Mixing organizational-level boundary spanning with individual-level boundary spanning violates the level-of-analysis boundaries of this project. The meta-analysis focuses EXCLUSIVELY on individual-level boundary spanning.
 > 
-> **Action:** If you identify that the focal sample is a Firm, Team, or Organization, the paper must ultimately be excluded. However, for complete record-keeping, you must still **extract the data normally** (bypassing demographics with `999`), but explicitly mark every row for that paper with:
+> **Action:** If you identify that the focal sample is a Firm, Team, or Organization, the paper MUST be excluded. You must **ABORT extraction immediately**. Do not waste resources extracting the correlation matrix. Instead, create a 1-row Shadow Report with the basic metadata (Article ID, Year, etc.) and mark:
 > - **Col 5 (Inclusion-Exclusion Judgment):** `0 = Exclude`
-> - **Col 6 (Reason for Exclusion):** `2 = Non-employee samples`
+> - **Col 6 (Reason for Exclusion):** `2 = Non-employee (Team/Org) samples`
+> 
+> Leave all measurement and correlation columns entirely blank.
 
 </details>

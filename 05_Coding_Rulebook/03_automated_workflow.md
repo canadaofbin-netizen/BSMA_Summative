@@ -5,7 +5,8 @@ To ensure the highest level of accuracy while keeping the official Excel sheet i
 
 **Step 0: Inclusion/Exclusion Triage (Absolute Priority 1)**
 Before reading correlation tables or extracting metadata, the AI MUST first evaluate the paper's abstract and methodology against the Inclusion/Exclusion criteria.
-- If the paper is flagged as `0 = Exclude` (e.g., it is a theoretical review, qualitative study, or does not report Pearson correlations), the AI MUST:
+Specifically, check if the sample involves **individual-level** boundary spanning. If the boundary spanner is a team, organization, or firm, the paper violates the level-of-analysis.
+- If the paper violates any exclusion rule (e.g. non-empirical, Team-Level, qualitative, wrong variables), the AI MUST:
   1. Immediately **HALT** any further data extraction (do not look for N, Mean, SD, or correlations).
   2. Generate a 1-row Shadow Report detailing only the `Effect Size ID`, `Inclusion-Exclusion Judgment` (`0 = Exclude`), and the specific `Reason for Exclusion`.
   3. Declare the paper complete and move to the next paper.
