@@ -9,11 +9,13 @@ When triggered, you must execute the following automated workflow to extract mea
 
 ## 1. Subagent Invocation
 - Use the `invoke_subagent` tool to spawn a specialized `research` subagent.
-- **Prompt for Subagent:** "Read the provided PDF paper located at [Path]. 
-  - Locate the 'Measures' section. For the following variables: [List of variables], extract the Number of Items, Anchor Range (Min/Max), Report Type (Self vs Others), and the **exact descriptive sentence** used for the citation/source. 
-  - Additionally, extract the Publication Type, Study Design, International Context, and Occupation Type.
-  - Return this data EXACTLY as a JSON array of objects. 
-  - **CRITICAL EXCEPTION:** If a variable is a demographic or objective control variable (e.g., Age, Gender, Tenure, Education, Firm Size), do not search for its scale properties. Immediately return `999` for its Number of Items, Min Score, and Max Score."
+- **Prompt for Subagent:** "Read the provided PDF paper located at [Path].
+  - First, identify the Boundary Spanning construct and all paired variables by reading the Correlation Matrix. Extract `r`, `Mean`, `SD`, and `Alpha` for all variables.
+  - Locate the 'Measures' section. Extract Items, Min/Max, Report Type, and the **exact descriptive sentence** used for the citation/source.
+  - Extract the Publication Type, Study Design, International Context, and Occupation Type.
+  - Return this data EXACTLY using the following JSON schema:
+  `{ "article_id": "...", "sample_size": 123, "publication_type": 1, "study_design": 1, "international_context": 1, "occupation_type": "...", "bs_measure": { "name": "...", "items": 5, "alpha": 0.88, "mean": 4.1, "sd": 0.8, "min": 1, "max": 7, "report_type": 1, "specific_measure": "..." }, "correlations": [ { "non_bs_name": "...", "r": 0.26, "alpha": 0.90, "mean": 3.2, "sd": 1.1, "items": 9, "min": 1, "max": 7, "report_type": 1, "specific_measure": "..." } ] }`
+  - **CRITICAL EXCEPTION:** If a variable is demographic, return `999` for Items, Min, and Max."
 
 ## 2. Await Response
 - Wait asynchronously for the subagent to complete its task and return the JSON. Do not poll in a loop.

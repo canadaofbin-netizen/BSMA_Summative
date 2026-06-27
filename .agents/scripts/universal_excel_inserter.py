@@ -2,8 +2,9 @@ import openpyxl
 import os
 import argparse
 import json
+import re
 
-def insert_data(excel_path, data_rows):
+def insert_data(excel_path, data):
     if not os.path.exists(excel_path):
         print(f"Error: Excel file not found at {excel_path}")
         return
@@ -11,7 +12,7 @@ def insert_data(excel_path, data_rows):
     wb = openpyxl.load_workbook(excel_path)
     ws = wb.active
 
-    # Check if the last row is completely empty to avoid adding multiple blank rows
+    # Determine last row for spacing
     last_row_idx = ws.max_row
     last_row_empty = True
     for col in range(1, ws.max_column + 1):
@@ -19,67 +20,86 @@ def insert_data(excel_path, data_rows):
             last_row_empty = False
             break
 
-    # If the last row is NOT empty, we insert an empty row for visual spacing
-    if not last_row_empty and last_row_idx > 3:  # Row 3 is the header
+    if not last_row_empty and last_row_idx > 3:
         ws.append([None] * ws.max_column)
         last_row_idx += 1
 
     # Text mapping dictionaries
-    include_exclude_map = {0: "0 = Exclude", 1: "1 = Include"}
     pub_type_map = {1: "1 = Journal article", 2: "2 = Dissertation/thesis", 3: "3 = Conference paper", 4: "4 = Working paper/unpublished", 5: "5 = Book/book chapter"}
     study_design_map = {1: "1 = Cross-sectional", 2: "2 = Longitudinal/time-lagged", 3: "3 = Experimental", 4: "4 = Qualitative"}
     intl_context_map = {1: "1 = No (domestic only)", 2: "2 = Yes (expatriate, multinational, etc.)"}
     report_type_map = {1: "1 = Self", 2: "2 = Supervisor", 3: "3 = Others", 4: "4 = Objective"}
 
-    # Process each row
-    for index, row in enumerate(data_rows):
-        # Auto-generate IDs
-        article_id = row[1] if row[1] else "BSMA9999"
-        sample_id = f"{article_id}.1"
-        effect_size_id = f"{sample_id}.{index + 1}"
+    article_id = data.get("article_id", "BSMA9999")
+    sample_size = data.get("sample_size", None)
+    pub_type = pub_type_map.get(data.get("publication_type"), data.get("publication_type"))
+    study_design = study_design_map.get(data.get("study_design"), data.get("study_design"))
+    intl_context = intl_context_map.get(data.get("international_context"), data.get("international_context"))
+    occ_type = data.get("occupation_type", None)
+
+    bs_measure = data.get("bs_measure", {})
+    correlations = data.get("correlations", [])
+
+    for index, corr in enumerate(correlations):
+        row = [None] * 50 # 50 columns
         
-        # Hardcode Coder Initials and Auto-IDs
+        # Col 0-4: Identifiers
         row[0] = "KY"
-        row[2] = sample_id
-        row[3] = effect_size_id
+        row[1] = article_id
+        row[2] = f"{article_id}.1" # Sample ID
+        row[3] = f"{row[2]}.{index + 1}" # Effect Size ID
+        row[4] = "1 = Include"
         
-        # Apply Text Mappings (safely handling cases where the AI might have already provided text)
-        if len(row) > 4 and row[4] in include_exclude_map:
-            row[4] = include_exclude_map[row[4]]
-            
-        if len(row) > 11 and row[11] in pub_type_map:
-            row[11] = pub_type_map[row[11]]
-            
-        if len(row) > 16 and row[16] in study_design_map:
-            row[16] = study_design_map[row[16]]
-            
-        if len(row) > 20 and row[20] in intl_context_map:
-            row[20] = intl_context_map[row[20]]
-            
-        # Report Type mappings for specific variables (Columns 33 for BS Report Type, and 39 for Non-BS Report Type)
-        # Note: Actual column indices are 0-indexed in python list.
-        # BS Report Type is Col 34 (Index 33)
-        if len(row) > 33 and row[33] in report_type_map:
-            row[33] = report_type_map[row[33]]
-            
-        # Non-BS Report Type is Col 40 (Index 39)
-        if len(row) > 39 and row[39] in report_type_map:
-            row[39] = report_type_map[row[39]]
+        # Categoricals
+        row[11] = pub_type # Publication Type
+        row[16] = study_design # Study Design
+        row[20] = intl_context # International Context
+        row[21] = sample_size # N
+        row[25] = occ_type # Occupation Type
+
+        # Measure Descriptors: Boundary Spanning (Cols 26-31)
+        row[26] = bs_measure.get("items")
+        row[27] = bs_measure.get("min")
+        row[28] = bs_measure.get("max")
+        row[29] = report_type_map.get(bs_measure.get("report_type"), bs_measure.get("report_type"))
+        row[31] = bs_measure.get("specific_measure")
+
+        # Measure Descriptors: Non-BS (Cols 33-38)
+        row[33] = corr.get("items")
+        row[34] = corr.get("min")
+        row[35] = corr.get("max")
+        row[36] = report_type_map.get(corr.get("report_type"), corr.get("report_type"))
+        row[38] = corr.get("specific_measure")
+
+        # Effect Sizes: BS (Cols 40-43)
+        row[40] = bs_measure.get("name")
+        row[41] = bs_measure.get("mean")
+        row[42] = bs_measure.get("sd")
+        row[43] = bs_measure.get("alpha")
+
+        # Effect Sizes: Non-BS (Cols 44-47)
+        row[44] = corr.get("non_bs_name")
+        row[45] = corr.get("mean")
+        row[46] = corr.get("sd")
+        row[47] = corr.get("alpha")
+
+        # Effect Sizes: Correlation (Col 48)
+        row[48] = corr.get("r")
 
         ws.append(row)
 
     wb.save(excel_path)
-    print(f"Successfully injected {len(data_rows)} rows into {excel_path} with auto-IDs and text mapping.")
+    print(f"Successfully injected {len(correlations)} rows into {excel_path} using rigid JSON schema.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Universal Excel Inserter for BSMA Meta-Analysis")
     parser.add_argument("--excel", type=str, required=True, help="Path to the master Excel file")
-    parser.add_argument("--data", type=str, required=True, help="JSON string representing a list of rows to insert")
+    parser.add_argument("--data", type=str, required=True, help="JSON string matching the structured schema")
     
     args = parser.parse_args()
     
     try:
-        data_rows = json.loads(args.data)
-        insert_data(args.excel, data_rows)
+        payload = json.loads(args.data)
+        insert_data(args.excel, payload)
     except Exception as e:
-        print(f"Failed to parse JSON data or insert: {e}")
+        print(f"Failed to parse JSON schema or insert data: {e}")
