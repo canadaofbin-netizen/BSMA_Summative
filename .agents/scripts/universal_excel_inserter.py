@@ -19,6 +19,15 @@ def insert_data(excel_path, data):
     inclusion_map = {0: "0 = Exclude", 1: "1 = Include"}
 
     article_id = data.get("article_id", "BSMA9999")
+    
+    # [NEW] Backup raw JSON payload to disk
+    backup_dir = "03_Archives_and_Backups/extracted_jsons"
+    os.makedirs(backup_dir, exist_ok=True)
+    backup_path = os.path.join(backup_dir, f"{article_id}.json")
+    with open(backup_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    print(f"Backed up raw JSON to {backup_path}")
+
     inclusion_status = data.get("inclusion_status", 1)
     exclusion_reason = data.get("exclusion_reason", None)
     
