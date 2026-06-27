@@ -1,0 +1,1343 @@
+“It is ok to be interrupted;
+it is my job ”–perceptions
+on technology-mediated work-life
+boundary experiences;
+a sociomaterial analysis
+Sulakshana De Alwis
+Department of Computer and Systems Sciences (DSV), Stockholm University,
+Stockholm, Sweden and
+Faculty of Business, NSBM Green University, Colombo, Sri Lanka
+Patrik Hernwall
+Department of Computer and Systems Sciences (DSV), Stockholm University,
+Stockholm, Sweden, and
+Arosha S. Adikaram
+Department of Human Resources Management, University of Colombo,
+Colombo, Sri Lanka
+Abstract
+Purpose –This study aims to explore how and why employees perceive technology-mediated interruptions
+differently and the role of sociocultural factors in this process using sociomaterial analysis.
+Design/methodology/approach –Data were gathered from 34 Sri Lankan knowledge workers using a
+series of workshop-based activities. The concept of sociomateriality is employed to understand how
+sociocultural elements are entangled with technology in work-life boundary experiences.
+Findings –The findings of the thematic analyses suggest how culture is intertwined in the way employees
+perceive technology-mediated interruptions and how they manage information communication technologies
+(ICTs) to balance their work and nonwork demands. Participants have been unable to avoid technology-
+mediated boundary interruptions from work, as organisations have created norms to keep employeesconnected to organisations using information communication technologies. Traditional gender roles are
+specifically found to be entangled in employees ’boundary management practices, disadvantaging
+women more.
+Practical implications –The findings highlight how national culture and gender norms create challenging
+work-life experiences for female employees than males. This could create a disadvantageous position for female
+employees in their career progression. It is crucial to consider factors such as boundary preferences and familyconcerns when deciding on family-friendly work policies. Also, organisations have to consider the development
+of explicit guidelines on after-hours communication expectations.
+Originality/value –Using the lens of sociomateriality, researchers can understand the contextual
+entanglement of ICTs with national culture and gender norms in creating different work-life boundary
+experiences. It seems ICTs are creating a disadvantage for female employees when managing work –nonwork
+boundaries, especially in power distant and collectivist cultures where traditional gender norms are highlyQROM
+17,5
+108
+© Sulakshana De Alwis, Patrik Hernwall and Arosha S. Adikaram. Published by Emerald Publishing
+Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyonemay reproduce, distribute, translate and create derivative works of this article (for both commercial andnon-commercial purposes), subject to full attribution to the original publication and authors. The fullterms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcodeThe current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1746-5648.htm
+Received 7 January 2021
+Revised 20 July 202114 October 202116 January 2022
+Accepted 8 February 2022
+Qualitative Research in
+Organizations and Management:
+An International Journal
+Vol. 17 No. 5, 2022pp. 108-134
+Emerald Publishing Limited
+1746-5648
+DOI 10.1108/QROM-01-2021-2084
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+valued and largely upheld. This study also contributes to the current discourse on work-life boundaries by
+providing insights from non-western perspectives.
+Keywords Work-life balance, Boundary management, Technology, Sociomateriality, Power distance,
+Collectivism, Gender
+Paper type Research paper
+Introduction
+Information communication technologies (ICTs) have become an integral part of the modern
+society. Laptops, smartphones, tablets, wearables and remote access cloud computing has
+diffused ubiquitously in society, seamlessly connecting people and creating a networked
+society where people are approached via ICTs at any given time and place ( Cecez-
+Kecmanovic et al., 2014 ). ICTs have changed how, when and where employees work, thereby
+creating a new world of work ( Matusik and Mickel, 2011 ;Boswell and Olson-Buchanan, 2007 ;
+Koslowski et al., 2019 ). For example, employees now can be connected with work even after
+work hours with various media such as WhatsApp, Viber, e-mail and short messages via
+their smart devices, which was not possible two decades back. In earlier days, employees
+were practically unavailable after hours as many employees did not have communication
+devices to connect with the workplace like today.
+This shift within work domains has changed the earlier equilibrium of work-life balance
+(Duxbury and Smart, 2011 ). Early organisational discourses have assumed work and home
+as two distinct spheres where professional norms were set to distinguish one ’s private life
+from work-life ( Rothbard and Ollier-Malaterre, 2015 ;Duxbury and Smart, 2011 ). Following
+the norms of professional behaviour, people often created mental models (or set of rules) to
+demarcate boundaries between their different life domains (i.e. work and family) ( Rothbard
+and Ollier-Malaterre, 2015 ;Ashforth et al., 2000 ). However, today, ICTs have challenged this
+conceptualisation of work-life balance by blurring boundaries ( Duxbury and Smart, 2011 ;
+Duxbury et al. , 2014 ;Bittman et al. , 2009 ), enabling more integration between work and
+nonwork domains ( Fleming and Spicer, 2004 ). This integration of work and nonwork
+domains became more salient during COVID 19 period as many organisations adopted
+remote working strategies to cope with social distance requirements imposed.
+In the light of these developments in the world of work, it is important to investigate how
+people experience such ICT-mediated boundaries between work and nonwork domains. Thecurrent empirical base in this area gives mixed signals ( Duxbury and Smart, 2011 ). Some
+studies indicate that ICTs are advantageous in maintaining work-life balance, as they
+increase flexibility and control over work and family roles ( Golden and Geisler, 2007 ;Adisa
+et al., 2017 ) and facilitate the integration of work and family domains ( Gadeyne et al., 2018 ). On
+the contrary, some studies highlight how continuous connectivity can increase work-life
+conflict as it extends work after office hours, creating more tension between work and
+nonwork domains ( Wright et al., 2014 ;Boswell and Olson-Buchanan, 2007 ;Berkowsky, 2013 ).
+Sometimes, people struggle with this continuous connectivity as they do not know how to
+manage the expectations of different parties in terms of virtual presence ( Cecez-Kecmanovic
+et al., 2014 ). Ultimately, experiences of constant connectivity could lead to higher levels of
+tension and distress ( Cecez-Kecmanovic et al., 2014 ;Wright et al., 2014
+).
+These contradictory findings signal the need for more in-depth studies to understand how
+people perceive the boundaries between work and nonwork domains in this hyper-connected
+world. This is especially so from a non-western and developing countries context, as much of
+the current empirical evidence is based on developed western countries ( Allen et al., 2020 ;
+Ollo-L /C19opez and Go ~ni-Legaz, 2017 ). The construction of work-life boundaries are often
+influenced by cultural variables. For example, in collectivist cultures, work-life boundaries
+tend to be more integrated as work and family are considered to be interdependent. In such
+cultures, work interrupting nonwork would be seen as an acceptable phenomenon. However,Technology
+and work-life
+boundaries
+109
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+there is less evidence on the role of ICTs in crafting work-life boundaries in different cultural
+contexts. Hence, insights from socially, culturally and economically different contexts would
+also help uncover why these experiences could be different from person to person in various
+cultural, social and economic contexts.
+Further, much of the studies that have discussed the sociocultural impact on work-life
+experiences have failed to recognise the inevitable presence of ICTs in today ’s world of work.
+Some studies that have identified the presence of ICTs in the world of work have treated ICTs
+as an exogenous factor. However, technology in organisational discourse suggests the
+entanglement of technology with human agencies. Orlikowski (2007) suggests that if
+researchers focus on the constitutive entanglement of material aspects of the ICTs with social
+practices connected to it (i.e. sociomateriality), that will open up new avenues for
+understanding organisational life. In fact, in this digital era, work-life boundaries are
+formed through the mutual shaping of material aspects (i.e. capabilities) of the ICTs and
+human agencies of the world of work ( Orlikowski, 2007 ). Following this line of argument,
+moving away from the more traditional view of ICTs as an exogenous force that impacts work-
+life interactions, it would be possible to develop a new understanding of how ICTs reconfigure
+the boundaries between work and nonwork domains ( Cecez-Kecmanovic et al.,2 0 1 4 ).
+Accordingly, using a sample of professionals from Sri Lanka, this paper attempts to explore
+how employees experience blurred boundaries between work and nonwork domains due to the
+increased presence of ICTs in the world of work and why people experience this phenomenon
+differently. In answering these questions, this article focusses explicitly on how material
+aspects of ICTs are entangled with organisational and sociocultural elements in constructing
+boundaries between work and nonwork domains. We also believe the utilisation of
+sociomaterial theory would help the researchers to understand how sociocultural norms are
+entangled with ICTs in work-life boundary practices of individuals, as it explicitly recognises
+how social elements are related to technology in creating different meanings. Given the
+objectives of this study, the significance of the study is twofold. First, the findings of the present
+study will contribute to the current discourse on work-life boundary management from a non-
+western socio-cultural perspective. This is especially important as the most recent meta-
+analysis done by Allen et al. (2020) states that South Asia requires more studies that focus on
+sociocultural factors influencing the work-family experiences of people. Thus, the findings of
+this study will extend the generalisability of the current empirical base of work-life boundaries
+to non-western countries. Secondly, this study will also help practitioners to developcontextually relevant work-life balance policies for organisations. This study specifically
+looked at how ICTs have reconfigured the work-life boundaries through the entanglement of
+socio-cultural factors such as gender norms and national culture. This evidence would provide
+much-needed assistance to practitioners to evaluate their current work-life balance policies and
+develop more effective work-life balance policies for their employees in future.
+Theoretical background
+The boundary theory suggests that people set mental fences around their life roles,
+considering the circumstances they face ( Ashforth et al., 2000 ). Hence, boundary creation is a
+peculiar phenomenon that depends on an individual ’s personality, occupation, demographics,
+organisations they work for and other contextual factors ( Kreiner et al. , 2009 ). These
+boundaries help people understand and manage their life roles more effectively. The strength
+of the boundaries depends on their flexibility and permeability. Flexible boundaries allow
+people to perform their life roles in various settings and times, while permeable boundaries
+allow elements of one domain to enter another ( Allen et al., 2014 ).
+T h ew o r kd o m a i nr e p r e s e n t se m p l o y e e s ’behaviours related to their workplace, paid jobs or
+career ( Chen and Karahanna, 2018 ). The work domain plays a considerable role in employees ’QROM
+17,5
+110
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+lives as they invest significant time and effort in their lives at work. Employees often create
+boundaries between their work and nonwork domains to easily balance the expectations of work
+and nonwork domains ( Kossek et al., 2012 ). The nonwork domain primarily consists of family
+and home domains. More recently, scholars argued that it goes beyond traditional family
+commitments. Hence, nonwork domains include a broad range of life roles in family, personal
+life, education and community ( Hallet al., 2013 ;Keeney et al., 2013 ). Such broad conceptualisation
+will facilitate researchers to study how employees with different nonwork orientations would
+manage their boundaries with the work domain ( Keeney et al.,2 0 1 3 ).
+Some individuals prefer to segment work and nonwork domains through thicker
+boundaries, whereas others may prefer more porous boundaries that integrate work and
+nonwork domains ( Bulger et al. , 2007 ;Allen et al. , 2014 ;Kreiner et al. , 2009 ). However,
+boundary construction is not only an individual phenomenon but rather a collective
+phenomenon, and therefore, work-life boundaries are negotiated outcomes of collective
+norms and expectations of boundary participants such as family members, superiors, co-
+workers and clients ( Kreiner et al., 2009 ). Social and cultural factors also impact the boundary
+creation process, as boundaries are created based on the collective negotiation of norms and
+expectations of people involved in different life domains of an individual ( Ollo-L /C19opez and
+Go~ni-Legaz, 2017 ). In that, national culture is an important factor that influences the work-life
+experiences of individuals. In fact, there are many empirical studies that discuss the effect of
+cross-cultural differences on the work-family experiences of individuals. For example, a
+recent meta-analysis by Allen et al. (2020) revealed that the work-life experiences of
+individuals would vary with the cultural context of the country. Further, they stated that
+boundary theory could effectively explain the differences in work-life conflict in different
+contexts as cultural variations affect the role expectations of individuals, which ultimately
+affect their boundaries between work and nonwork domains.
+Since, work-life boundaries define how an individual decides to fulfil different roles in
+society. Such decisions are frequently influenced by the role expectations of society ( Ashforth
+et al., 2000 ;Uhlmann et al., 2013 ). These role expectations are often influenced by cultural
+norms and values of society. For example, in collectivist cultures such as Sri Lanka, people ’s
+lives are interdependent and intertwined with social groups such as family, friends and
+workplaces ( Allen et al., 2020 ;Kailasapathy et al., 2014 ). In such cultures, people will maintain
+more integrated boundaries as social expectations push them to fulfil the groups ’needs over
+their personal needs ( Ollo-L /C19opez and Go ~ni-Legaz, 2017 ). Power distance is another factor that
+is associated with work-life experiences. In highly power distant cultures (e.g. Sri Lanka),
+people tend to have less autonomy over their jobs. In such cultures, people have lessdiscretion over their boundary management decisions ( Allen et al., 2020 ). On the contrary, in
+these cultures, people tend to align with the organisational/supervisors expectations on
+boundaries between work and nonwork domains ( Kailasapathy et al., 2014 ).
+Further, gender role expectations of the society play an important role in the boundary
+management of individuals ( Kailasapathy and Metz, 2012 ;Ollo-L /C19opez and Go ~ni-Legaz, 2017 ).
+In countries like Sri Lanka, where highly patriarchal traditional gender roles are still upheld,
+females are expected to prioritise family responsibilities in the domestic sphere by society.
+Thus, females are expected to fulfil household duties, childcare and provide emotional and
+instrumental support for their husbands. More importantly, these expectations do not depend
+or change upon the employment status of women; whether they are employed or not, they are
+still expected to fulfil their family role ( Kailasapathy et al. , 2014 ;Wickramasinghe and
+Jayatilake, 2006 ). In comparison, society does not expect males to perform household and
+childcare responsibilities when employed ( Wickramasinghe and Jayatilake, 2006 ). In fact,
+they are not expected to perform these family responsibilities at all. Males are regarded as the
+primary breadwinner of the family, and their support in domestic work such as cooking,
+childcare, parent care is minimal in traditional cultures like Sri Lanka. Such flexibility at theTechnology
+and work-life
+boundaries
+111
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+home sphere allows males to accept the interruption from the work at home domain. These
+traditional gender role expectations, in turn, affect work-nonwork boundary decisions
+(Kailasapathy et al. , 2014 ). Thus, in cultures such as Sri Lanka, segmented boundaries
+between work and nonwork domains are found to be more applicable to married female
+employees who have more family responsibilities compared to male employees.
+Although there are studies such as Allen et al. (2020) andOllo-L /C19opez and Go ~ni-Legaz
+(2017) that have explored the effects of cultural and gender role aspects in work-life boundary
+management; much of the studies that had discussed these issues have not considered
+technology together with the work-boundary management process ( Ollier-Malaterre et al. ,
+2019). Today ’s workplaces are filled with different ICT capabilities such as computers,
+smartphones, tablets, wearables, internet, broadband networks, Wi-Fi, cloud computing
+systems, e-mail and instant messaging systems ( Ollier-Malaterre et al. , 2019 ;Cecez-
+Kecmanovic et al., 2014 ). According to recent statistics, this is no different in Sri Lanka, where
+according to recent statistics, the mobile penetration level of the country is 153.5% of the
+population, which is one of the highest in the Asian region. About 42.7% of the country ’s
+population is proficient in handling smartphones, tablets, laptops or computers (i.e. digital
+literacy). Further, 62.1% of the workforce are computer literate. This rate is higher than 70%
+when it comes to knowledge level workers. Also, 56.9% of internet users use smartphones to
+connect to the internet ( Department of Census and Statistics Sri Lanka, 2018 ).
+These hardware and software capabilities (i.e. ICTs) have become part and parcel of their
+work-life and connect employees to their workplaces anytime, anywhere without restrictions.
+Hence, ICTs have blurred the traditional boundaries between work and nonwork domains,
+creating a more ubiquitous workplace for employees. The consequences of such blurred
+boundaries between work and nonwork domains could be twofold ( Duxbury and Smart,
+2011). On the one hand, these capabilities are advantageous for employees as they allow
+employees to work from anywhere; they like creating flexibility in terms of time and place of
+work ( Adisa et al., 2017 ;Golden and Geisler, 2007 ;Gadeyne et al., 2018 ). On the other hand, this
+could also reduce the autonomy and control over their nonwork time as they could be
+contacted even after working hours through ICT capabilities such as e-mails ( Cecez-
+Kecmanovic et al. , 2014 ). This phenomenon is often t ermed technology-assisted
+supplementary work. Hence, ICT-mediated communications such as e-mails and instant
+messaging services have forced employees to stay connected with the workplace even if they
+are not required to do so ( Boswell and Olson-Buchanan, 2007 ).
+However, recent studies show that organisational expectations around connectivity play a
+vital role in how ICTs could influence employees ’work –nonwork boundary experiences
+(Piszczek, 2017 ;Mellner, 2016 ). Although ICTs play a crucial role in blurring the work –
+nonwork boundaries, ICTs alone will not exogenously decide the work –nonwork boundaries
+of employees. The empirical studies that focus on the work-life boundaries of employees
+should recognise the role of ICTs as an element that is embedded in the boundaries rather
+than exogenous factors ( Ollier-Malaterre et al., 2019 ). Hence, assuming the work-life boundary
+process as a sociomaterial practice could open up a new avenue for work-life boundary
+researchers to understand the entanglement of ICTs with the sociocultural norms of the
+society when creating boundaries between work and nonwork domains. Such assumptions
+will allow researchers to uncover the role of sociocultural elements in work-life boundaries
+influenced by ICTs.
+Orlikowski (2007 ,2010) explains that human beings and technology are constitutively
+entangled in practice without any superior entities (human or technologies). Hence, these
+entities do not have inherent attributes or properties but acquire them from their relations
+with each other ( Orlikowski, 2010 ;Parmiggiani and Mikalsen, 2013 ). Technology
+(i.e. material) and social aspects are entangled and create relational practices. This
+dynamic interaction between humans and technology reconfigures daily organisationalQROM
+17,5
+112
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+practices known as sociomaterial practices ( Leonardi, 2013 ;Orlikowski, 2007 ). In
+sociomaterial practices, the materiality of technology includes devices and all the
+capabilities, including software, hardware and networks. Social aspects include symbols,
+meanings, desires, fears and cultural discourse ( Moura and Bispo, 2020 ;Fenwick, 2014 ;
+Orlikowski, 2007 ). Technology and humans are inextricably entangled in the practice,
+creating one web of relations ( Moura and Bispo, 2020 ). Therefore, to understand an
+organisational phenomenon, it is crucial to investigate the sociomaterial aspects of
+organisational realities ( Leonardi, 2013 ;Orlikowski, 2007 ).
+This theoretical underpinning will facilitate us to analyse how the ICTs have reconfigured
+the work-life boundaries of individuals through its entanglement with cultural and gender
+norms of the society. We argue that people ’s choices and norms related to work-life
+boundaries are reconfigured with the entanglement of the material capabilities of ICTs
+(Orlikowski, 2007 ). Further, this inextricable entanglement is contingent upon the context and
+mutually shapes the boundaries between work and nonwork domains ( Ollier-Malaterre et al.,
+2019;Wajcman and Rose, 2011 ). Accordingly, this study will examine how the ICTs have
+reconfigured the cultural, social and gender norms related to the work-life boundary process
+using the sociomaterial lens. More specifically, we will examine the work-life boundary
+experiences of using the sociomaterial lens to uncover how cultural and gender norms are
+entangled in this boundary construction process among Sri Lankan knowledge workers.
+Methodology
+With the intention of exploring in detail the cultural and gender norms around the work-life
+boundary process, the study employs quali tative research methodology under the
+interpretive paradigm. In collecting data, we employed a series of activities within a
+workshop to collect data for the study at hand. Well-designed workshops are found to assist
+respondents in focusing on important elements of a phenomenon as the researcher can
+facilitate the respondents to develop an emphasis on critical elements of the phenomenon
+under the study ( Ørngreen and Levinsen, 2017 ;Ahmed and Asraf, 2018 ). Different activities
+within the workshop were used to facilitate information collection, and these activities were
+mainly developed to facilitate participants to reflect on different perspectives ( Ørngreen and
+Levinsen, 2017 ;Thoring et al., 2020 ). Further, this approach is identified to assist in enhancing
+the richness and reliability of the data collected ( Davies and Riach, 2018 ).
+Data collection strategy
+The workshop. The workshop was a voluntary session organised by the lead researcher (who
+is also the module lecturer) as an extra learning activity for the participants in their
+contemporary human resource management module. The lead researcher played a dual role
+as a facilitator as well as a researcher in this workshop. The content discussed in the
+workshop was not tied to any assessments of the students. The students were informed that it
+was a non-credit workshop in the initial e-mail sent to them. Hence, the participation in the
+workshop was solely based on their interest in the subject matter.
+Further, the researcher clearly explained the expectations of the workshop and how the
+data will be used for research purposes. The workshop consisted of five phases ( Table 1 ) and
+lasted for 4 h. Each phase had a stipulated timeframe.
+At the first phase of the workshop, participants were introduced to the concept of work-life
+boundaries and the impact of ICTs on work-life boundaries based on the current empirical
+findings. At the second phase of the workshop, a set of vignettes were used to elicit responses
+from the participants and induce them to relate their own experiences and explain their
+values and beliefs related to work-life boundary experiences ( Barter and Renold, 1999 ;
+Jenkins et al., 2010 ). Vignette is a conceptually based pre-planned account of certain events orTechnology
+and work-life
+boundaries
+113
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+situations used to elicit a response from a respondent about a specific aspect of the described
+event ( Barter and Renold, 1999 ;Lowcock et al., 2017 ). After reflecting on the given vignette, an
+open-ended questionnaire was distributed to write down their reflections. In the third phase
+of the workshop, participants were grouped based on the vignette they had worked on within
+the previous phase. Eight groups were formed, ensuring that at least one group member had
+covered one of the four vignettes used in the first phase. In this phase, participants were asked
+to discuss their views on the four vignettes and develop a creative poster to present their
+discussion. The core objective of the third phase was to facilitate participants to share their
+experiences and brainstorm what they learnt in the previous phase. This brainstorming
+effectively facilitated them to reflect on their personal experiences, which enabled a richer
+data set ( Silveira et al. , 2003 ). During the fourth phase of the study, a second open-ended
+questionnaire was given to the participants, where they had to answer two questions about
+their own work-life boundary experiences with ICTs. Finally, a debriefing session was
+conducted to sum up the session.
+The lead researcher was reflexive about his dual role in the workshop and ensured the
+complementary act throughout the workshop. On the one hand, the lead researcher ensured
+the data collected are not influenced by his role as facilitator. On the other hand, as the
+facilitator, the participant learning from the workshop also thoroughly considered the design
+and delivery of the workshop ( Ørngreen and Levinsen, 2017 ).
+Data collection tools: usage of vignettes and open-ended questionnaires
+As mentioned earlier, in the second phase of t he workshop, participants were presented
+with a set of vignettes to reflect and explain t heir perceptions of the scenario explained in
+the vignette ( Barter and Renold, 1999 ). Vignettes are widely seen in social science, health
+and psychology research to tap participant perce ptions on cultural and social norms related
+to a given phenomenon ( Barter and Renold, 1999 ;Finch, 1987 ;Azman and Mahadhir, 2017 ;
+Jackson et al. , 2015 ;Lowcock et al. , 2017 ). Accordingly, four vignettes were designed
+considering different boundary participants, different types of boundary interruptions and
+different work and family situations (refer to Appendix 1 for all vignettes used in the study).
+Such differences will allow researchers to u ncover different social and cultural norms
+related to work-boundary experiences. As suggested by Hughes and Huby (2012) ,v i g n e t t e s
+for this study were developed based on the previous literature on work-life boundary and
+ICTs such as Kreiner et al. (2009) ,Rothbard and Ollier-Malaterre (2015) ,Adisa et al. (2017) ,
+Hunter et al. (2019) ,Allen et al. (2014) ,Orlikowski (2007) andMazmanian et al. (2013) .T h e
+use of previous related literature to construc t vignettes increases the validity of the dataTime Event Data Collection method
+1.30 pm to 2.30 pm Phase 1
+Introduction to work-life boundary managementN/A
+2.30 pm to 3.00 pm Phase 2
+Handout 1
+Vignettes –Situations 1, 2, 3, 4Handout 1
+3.15 pm –4.45 pm Phase 3
+Group discussionPoster on work-life boundary and ICTsBrief presentation on group discussion
+4.45 pm –5.15 pm Phase 4
+Personal reflection of participantsHandout 2Handout 2
+5.15 pm –5.30 pm Debriefing N/ATable 1.
+The flow of theworkshopQROM
+17,5
+114
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+collection process as the scenarios re flect previous empirical findings ( Hughes and Huby,
+2012 ). Vignettes were written in the third-person view, and the participants had to attribute
+their perceptions to the hypothetical characters mentioned in the vignettes. This method
+could effectively reduce the social desirability of the participants ’answers, as they are
+attributing perceptions to ano ther person rather than self ( Barter and Renold, 1999 ). These
+vignettes were randomly distributed among t he 34 participants, where each participant
+was given one vignette to reflect upon.
+Two open-ended questionnaires (i.e. handouts) were used to collect qualitative data
+regarding participants ’perceptions of work-life boundaries and ICTs ( Thoring et al., 2020 ).
+The first handout/questionnaire was given in Phase 2, where the participant had to record
+their perceptions of the given vignette. The given handout had three open-ended questions
+developed to tap the cultural and gender norms related to work-life boundary experiences.
+Accordingly, the participants had to (1) attribute his or her perception towards the person
+mentioned in the vignette. Then they had to (2) answer the same question assuming the
+person is from the opposite gender. Finally, a participant had to respond assuming (3) if he or
+she faced the same situation how he or she would feel about the situation. These three
+questions helped the researchers understand how gender norms affect work-life boundary
+experiences of people effectively.
+Further attribution of the situation to both others and participants themselves helped
+the researchers to reduce the social desirability of answers ( Finch, 1987 ). The second point
+of data collection happened during the fourth phase of the study; another handout
+was given to the participant after they finished the brainstorming session. This phase was
+ideal for participants to reflect upon their work-life boundary situations as now their
+minds were focused on important aspects of the work-life boundary process and
+objectives of the study. Participants provided written responses to two open-ended
+questions in this phase. The first question was to explain their current work-life situation,
+and the second question was to explain how th ey perceive ICTs impact on their work-life
+boundaries.
+Participants
+To select participants for the study, we utilised the purposive sampling strategy. As per the
+aim of this study, we needed a diverse set of employed people from different demographicgroups such as age, gender, marital status and profession. Further, the study participants
+needed to be using ICTs in their day-to-day work and nonwork lives. Accordingly, 34 full-time
+employees following a part-time Executive MBA programme in a Sri Lankan University were
+selected as the main participants of the study. All participants are engaged in full-time work
+of at least 40 h per week, while their engagement in studies in the nonwork domain is limited
+to 4–8 h per week. Hence, the work domain played a significant role in their lived experiences
+at the time of the workshop. The above workshop was organised on a Saturday where the
+participants were not supposed to have formal work engagements. Such kind of sampling
+approaches where the participants were selected from MBA and postgraduate programmes
+are previously seen in work-life balance research (e.g. Kaoet al. (2020) ,Thompson et al. (1999) ,
+Breaugh and Frye (2008) ,Wang et al. (2019) and Lanaj et al. (2014) ). Such studies had
+investigated the interaction between work and nonwork domain, assuming student role is
+part of nonwork domain.
+Their demographic characteristics matched the expected sample characteristics, enabling
+us to get a representative view of Sri Lankan workplaces. The 34 participants were full-time
+employees in various organisations in Sri Lanka. Seventeen of the participants were male. All
+participants were employed in executive- or knowledge-level professions in different
+organisations ( Table 2 ). Fourteen participants were married, and 20 participants stated they
+were single. In terms of age distribution, 18 participants were between 20 and 29; eight wereTechnology
+and work-life
+boundaries
+115
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+between 30 and 39. Seven participants were between 40 and 49, and one participant was
+above 50 ( Table 1 ). We have used pseudonyms to identify the participants to ensure
+anonymity.
+Data analysis
+This paper followed the inductive thematic analysis approach discussed by Braun and Clarke
+(2006) to analyse the textual data collected. As our interest was to study how the ICTs have
+entangled with cultural and gender norms of the society, in the analysis, we focused on how
+ICTs constitute cultural and gender norms through a sociomaterial lens. Hence, we were more
+interested in examining how people have reconfigured their pre-existing cultural and gender
+norms with the entanglement of ICTs. Here, material capabilities nor social norms were given
+priority, but the meanings created by the constitutive entanglement of ICTs with social-
+cultural norms was given more attention in the analysis process ( Leonardi, 2013 ;Wajcman
+and Rose, 2011 ). This theoretical focus allowed us to explore how people form interpretations
+of the boundary practices between work and nonwork domains, considering both material
+aspects and sociocultural norms ( Leonardi, 2013 ).Name Age Gender Marital status Current profession/job role
+Amal 44 Male Married Officer –audit
+Namali 39 Female Single Management service providerSumali 26 Female Single Application support –IT
+Kamal 51 Male Married Director
+Raja 40 Male Married Production executiveSusila 23 Female Single Marketing executiveMenaka 28 Female Single CoordinatorAnne 31 Female Single Customer service executiveNalani 21 Female Single Junior executive
+Thilini 27 Female Single Management assistant
+Sahan 24 Male Single Junior executiveWimal 25 Male Single Management traineeHarin 37 Male Married Bank executiveMala 27 Female Married HR executiveSarala 29 Female Single Executive
+Seetha 26 Female Single Project coordinator
+Sunil 33 Male Married Assistant HR managerBandula 43 Male Married EngineerNihal 23 Male Single Shipping executiveRanil 38 Male Married ExecutiveRanjan 41 Male Married AccountantRavi 40 Male Married Business development manager
+Lalitha 29 Female Single Executive –HR
+Ashok 40 Male Married EngineerPriya 35 Female Married Commercial officerJayalal 49 Male Married EngineerRamani 30 Female Single AccountantKamani 25 Female Single Admin officer
+Sanduni 26 Female Single Software engineer
+Nipuni 27 Female Single Business analystPrema 31 Female Married HR senior executiveAshan 24 Male Single TutorPeter 27 Male Single EngineerKalum 25 Male Single Executive –operationsTable 2.
+Characteristics of the
+participantsQROM
+17,5
+116
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+The data collected was analysed in three steps. Firstly, through a repeated reading
+exercise, the principal researcher segmented participants ’thoughts and open coded them for
+thematic thought units ( Matusik and Mickel, 2011 ;Seibold and Weger, 2017 ;Strauss and
+Corbin, 1998 ) If one selected segment had more than one idea, those sentences were given
+multiple codes ( Matusik and Mickel, 2011 ). Secondly, these coded thematic thought units
+were then combined to develop initial thematic categories. In the final stage, all three authors
+went through an iterative process where we read and reread data inductively with the
+initially identified thematic categories. Codes and themes were revised as we familiarise
+ourselves more with data. Throughout this process, all authors met regularly and discussed
+the themes to ensure that themes are interpreted and aligned as per the sociomaterial focus
+and research objectives. The table below shows an example of the theme development
+process that was followed. Each theme is developed around a key idea that is situated in data.
+A detailed example of the theme development is given in Appendix 2 (Table A1 ).
+Findings
+In exploring the perceptions of participants towards ICT mediated interruptions, we were
+able to capture four main themes, namely, “impact of ICTs at work-life boundaries ”,“the
+dominance of the work domain due to entanglement of ICTs with culture ”,“entanglement of
+gender norms ”and “underlying preferences and differential acceptance of interruptions ”.W e
+also discovered that participants perceived the management of ICTs as an essential aspect of
+managing work-life boundaries as an essential theme. Under the theme of “Managing ICTs to
+manage boundaries ”, we explain five strategies that participants use to manage their ICT
+mediated work-home boundaries, namely, (1) task scheduling, (2) usage of technologicalcapabilities, (3) getting support from others, (4) indicating personal commitments and
+(5) maintaining separate devices for work and nonwork communication. These themes
+indicated a complex relationship with each other, demonstrating how participants perceived
+ICT mediated interruptions, including how they ultimately managed those interruptions.
+Excerpts presented in this section are reproduced as written by the participants, correcting
+minor grammatical and spelling errors.
+Impact of information communication technologies in work-life boundaries
+Participants ’perceptions of the impact of technology are twofold. Some participants see ICTs
+as a challenge to maintain boundaries between work and nonwork domains, while others
+perceive it as a facilitator to manage work and nonwork boundaries.
+I am getting more responsibilities and duties because of technology (Outlook, MS teams). It is easy to
+work the whole day with technology. Human interactions decrease, and stressfulness increase whenusing more technological devices. ICTs have an impact on work-life conflict (Sumali, reflecting on thepersonal work-life situation).
+Here, Sumali perceives ICTs as a negative phenomenon in work-life interactions, as it has
+created more work-based boundary interruptions in the nonwork spheres. Furthermore, the
+connectivity created through different applications of ICTs has increased the workload of theemployees.
+Our employer has provided us with laptops, mobile phones, and data. I could not say we cannot work
+from home. If we are going on a trip also, we should take our laptop with us. [ ...] even worked when I
+was on an overseas vacation. (Nihal, reflecting on the personal work-life situation).
+As Nihal states, facilities such as laptops provided by the employer seem to escalate the sense
+of responsibility towards work even after hours. Ultimately, this will lead to an increase in
+work-life conflict. However, contrary to the perceptions of the participants, such as SumaliTechnology
+and work-life
+boundaries
+117
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+and Nihal, some participants of this study perceive technology as a facilitator of their work-
+life interactions.
+Technology makes it easy to balance work and life. Having more technological devices will help us to
+balance work-life boundaries rather than making conflicts (Seetha, reflecting on the personalwork-life situation).
+Capabilities enabled through ICTs such as instant communication can help individuals
+manage their work –nonwork commitments with flexibility, which is regarded as a positive
+outcome of ICT. However, positive experiences may be contingent on the proper use of ICT
+facilities, nature of the job, workplace and family considerations at hand.
+I think it depends on what kind of work you do and the family you have. People should integrate
+technology into their work. It will be easier to communicate with loved ones and colleagues at work(Kalum, reflecting on the personal work-life situation).
+Hence, the impact of ICTs on work-life boundaries can be perceived as either a facilitator or a
+challenge. In fact, these findings are similar to earlier empirical studies on the subject
+(Duxbury and Smart, 2011 ). However, what is more important here is to examine why people
+differ in perceiving the impact of ICTs on their work-life boundaries as a facilitator or a
+challenge. Our data showed that there were several reasons for such perceptual differences
+among participants. Namely, the dominance of the work domain due to ICTs, the
+entanglement of gender norms, underlyin g boundary preference s and differential
+acceptance of interruptions.
+The dominance of the work domain due to the entanglement of information communication
+technologies with culture
+Whether perceived positively or negatively, overall, it was clear that the participants believed
+that the work domain dominates over their life roles. Under this central theme, four sub-
+themes were identified as “commitment rhetoric of collectivists ”,“power distant organisational
+culture ”,“financial security ”and “supportive family domain ”, which captures how the
+dominance of the work domain is manifested. The participants stated that they are supposed
+to work any time, under any circumstance, as they possess ICT devices with constant
+connectivity.
+Narmada has a smartphone with necessary apps to work anytime. [ ...] While feeding the baby she
+can attend to work [ ...] Both the company and Narmada have an agreement to work in such a
+manner (Kamal, as a response to Vignette 1).
+Kamal, who is a director of an organisation, via his statement, indicates how the material
+aspects of technology have created complicated organisational expectations and how power
+dynamics in organisations influence the boundaries between work and nonwork domains.
+For instance, in a case where the top management expects employees to continuously stay
+connected to the organisation through their ICTs, employees will invariably be more
+vulnerable to interruptions from the workplace when they are in nonwork spheres
+(Mazmanian et al. , 2013 ). Such rhetorical expectations will then be embedded in the
+organisational culture. Hence, the material capabilities have reconfigured the organisational
+culture where people have to accept the interruptions from the work sphere as it is an
+expected norm in organisations ( Mazmanian et al., 2013 ;Marcum et al., 2018 ). Especially such
+expectations coming from top management would not be opposed in a high-power distant
+culture like Sri Lanka. Challenging such expectations from hierarchy would be regarded as
+disrespectful and a confrontation against the superiors ( Kailasapathy and Metz, 2012 ;Allen
+et al. , 2020 ). In another perspective, the material capabilities of ICTs have extended the
+traditional “committed worker ”rhetoric to a new level.QROM
+17,5
+118
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+He is a marketing manager, He is bound by company ’s urgent needs any time ...this is the
+technology-driven era [ ...] He should have the ability to do work any time [ ...] he has to get
+knowledge about technology to manage personal life and work-life (Harin, responding to Vignette 2).
+The rhetoric of contemporary “committed worker ”is different from the traditional one, where
+committed workers are supposed to concentrate on work in the workplace. Today, committed
+workers are expected to work anywhere, anytime ( Worley and Gutierrez, 2020 ). This rhetoric
+is often seen in collectivist cultures, where they consider work as the most important domain.
+In such a culture, people believe that responsible employees are the individuals who give
+priority to the work role ( Allen et al., 2020 ). Accordingly, after hour connectivity via ICTs may
+be seen as something acceptable. Hence, the encroachment of the work domain to nonwork
+domains is accepted and promoted. Thus, if an employee does not accept this new work ethic
+that transcends regular working time and place with the support of ICTs, they may be
+regarded as an uncommitted employee. However, this does not mean that the tradition of
+maintaining a gap between the home and the workplace had changed.
+Although encroachment of work into the home domain is accepted, home interference in
+the work domain is still rejected in the organisational discourse ( Capitano et al., 2019 ). Many
+participants stated that connecting with nonwork domains during working hours is less
+accepted, though they are supposed to connect with the work domain after working hours.
+This contradiction signals the asymmetrical acceptance of work-life boundary interruptions,
+although ICTs possess the capability to cause interruptions both ways. Another important
+facet in the participants ’responses is the employee ’s acceptance of the encroachment and
+dominance of the work domain due to socio-economic reasons.
+[...] should have the courage to face any type of challenge [ ...] Sacrifice our favourite things because
+this period is money-based (Sumali, as a response to Vignette 1).
+Sumali ’s reflection highlights that people do n ot have a choice; they accept dominating
+encroachment of work to nonwork domains , as work is, in most instances, their sole
+source of income ( Richter et al. , 2014 ). This phenomenon may be more applicable for a
+developing country like Sri Lanka, wher e unemployment and job insecurity are
+considerably high compared to developed countries ( Huet al. ,2 0 2 1 ). Although national
+technological infrastructure has developed w ith modern capabilities, opportunities in the
+labour market do not provide many choices for individuals ( Richter et al. , 2010 ). Thereby
+confining them in the employment, the y have managed to secure, resulting in the
+acceptance of employer expectations of co ntinuous availability, and subsequent
+exploitation, through ICTs.
+In light of these organisational expectations, individuals expect that family members will
+support and understand the organisational expectations regarding work-based interruptions
+at home-nonwork domains.
+I will try to explain to my wife the importance of replying to such an e-mail. I will ask my wife to
+propose another day for kids (Ashok, personal reflections on Vignette 3).
+Here, Ashok gives priority to work over the family and kids and expects his wife to
+understand the importance of the work domain. Hence, the expectations of family flexibility
+are created due to the material features of ICTs and their entanglement with organisational
+expectations. As discussed above, in today ’s world of work, organisations are encroaching
+into employees ’nonwork domains through the ubiquitous connectivity of ICTs. As such,
+employer expectations that bind employees will ultimately affect their relationships in
+nonwork domains (i.e. family).
+However, ICTs do not have an inherent power to impact on work –nonwork boundaries of
+individuals. As sociomaterial theory suggests, it is the constitutive entanglement betweenTechnology
+and work-life
+boundaries
+119
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+ICTs and human elements that creates the boundary experiences of individuals. Sunil ’s
+experience below contrasts from Ashok ’s idea above, which shows that the same
+constellation of technologies can have different outcomes due to the complex entanglement
+of material capabilities, organisational culture, norms, expectations of superiors and socio-
+economic considerations.
+My managers will not insist me on doing official things at home. My superior believes we should
+leave our work stations exactly on time [ ...] Basically, that perception is across the organisation and
+derived because of the culture (Sunil, answering reflection questions on final phase).
+Sunil ’s experience indicates that the expectation for an employee to accept the interruptions
+at work is derived through organisational norms, which are promoted by the senior
+management of the organisation. Once such norms are reinforced, all employees expect that
+their fellow employees will be available at any time for their work-related communications.
+Furthermore, as an employee, if such expectations are neglected, there is a risk of being
+portrayed as a less committed employee in the organisation. Consequently, if such norms are
+not encouraged within the organisation, employees will most likely not be interrupted
+through ICTs.
+Entanglement of gender norms
+In work-family literature, gender ideologies are not uncommon ( Alwin et al., 1992 ;Srivastava,
+2007 ). While confirming the existence of traditional gender ideologies in work-life
+interactions, the findings of this study extend this discussion by including a sociomaterial
+perspective. Accordingly, three sub-themes emerged under entanglement of gender roles;
+“family expectations ”,“night-time conversations with external parties ”and “gendered job
+challenges ”. The participants ’responses show a considerable variation in how men and
+women perceived ICT-mediated boundary interruptions.
+There are no boundaries, work continues after work [ ...] She has got many responsibilities in work
+and home life [ ...] She does not have much free time (Nalani, as a response to Vignette 1).
+Although Nalini mentions that female employees do not have free time due to responsibilities
+at work and home. Her opinion differs when she assumes that the same situation is faced by a
+male employee. In fact, she states that male employees can balance work and home
+responsibilities.
+He is balancing his work-life as well as the domestic life equally with his wife.
+Nalini ’s response shows that traditional gender norms that accept that women are
+responsible for the domestic sphere compared to men are still upheld in society. Sumali ’s
+response assuming that the situation in Vignette 2 is faced by a male employee also confirms
+this idea.
+Men do not have to face many more challenges. Men can easily make their time to do work-related
+things. Females have to balance all housework too.
+Although ICTs are introduced to increase flexibility and reduce work-family conflict, it seems
+that women are experiencing elevated work-family conflict due to technology. By contrast,
+men do not experience the same level of conflict as they are not expected to perform domestic
+duties. Moreover, women seem to encounter a different experience when the family interferes
+in work matters.
+Husband has not understood the situation of the wife. [ ...] On the other hand, the husband ’s thinking
+is also acceptable; husband may become suspicious if the wife gets busier than needed [ ...]
+Husbands expect unconditional attention of wife (Ashan, as a response to Vignette 4).QROM
+17,5
+120
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+As is evident via the response above, Ashan ’s answer significantly differed when he assumed
+that the employee in Vignette 4 was male;
+Wife needs to understand that husband is busy [ ...] Many wives in the society has an attitude that
+husbands pay more attention to work than family or wife.
+As connectivity has allowed both organisational members and family members to interrupt
+anywhere, at any time, women are pressured by both organisational and family expectations.
+Hence, women have to play the role of the committed employee and be a responsible family
+member across all the domains without boundaries due to the expectations created through
+the capabilities of ICTs.
+Gender stereotyping norms and gender behavioural expectations in society also dictate
+how ICT-mediated interruptions should be handled by women. In the traditional Sri Lankan
+culture, there are certain limitations imposed on women when they associate with non-related
+males ( Adikaram, 2014 ,2018). Such limitations could become a barrier to women when they
+fulfil workplace obligations after-hours.
+It is not good to have night conversations with the customer because there are several barriers to
+females in these regards. As the boss is also female, Maheshika can continue the Viber chat (Thilini,as a response to Vignette 2 assuming employee as a female).
+Here, Thilini implies that if the boss is male, it would be inappropriate to continue the
+conversation on Viber chat. Accordingly, women may encounter marginalisation in
+professions that require continuous connect ivity with organisational stakeholders
+throughout the day.
+I think this post is not suitable for a female [ ...] she will face a lot of problems (Wimal, as a response
+to Vignette 2 assuming employee as a female).
+The above responses show that organisational expectations created by ICT capabilities are
+contradictory to gender-based expectations in society. Hence, women face more challenges
+than men when managing boundary interruptions.
+Underlying preferences and differential acceptance of interruptions
+Individual boundary preferences, nature of the interruptions and the interrupter also affect
+how people perceive ICT-mediated interruptions. Boundary preferences of individuals play a
+substantial role in the acceptance of boundary interruptions. For example, segmenters are
+more hesitant to accept boundary interruptions than integrators ( Kreiner et al., 2009 ). The
+responses of the participants varied in their preference for integrating or segmenting their
+work –nonwork boundaries.
+I will ignore the e-mail. I will keep a separate mobile for office work and turn it off around 5 pm. I do
+not like a job with less freedom. If they do not give me freedom, I will take it somehow (Susila,personal reflection on Vignette 1).
+Susila prefers to have segmented boundaries between work and nonwork domains. Although
+ICTs are challenging their preferred boundaries, segmenters like Susila have invented
+strategies to establish their preferences (e.g. having two phones for personal and office work).
+Such practices are sociomaterial as they are entangled by people ’s choices and the material
+capabilities of ICTs. Integrators seem to be more welcoming towards the ICTs in work –
+nonwork interactions ( Piszczek, 2017 ). They use the material capabilities (e.g. notifications) of
+ICTs to manage their interruptions, which is perceived as a positive phenomenon.
+I manage my work and home life properly. I will do important office work at home and will manage
+the home responsibilities efficiently. In the office, I would not hesitate to engage in important home-Technology
+and work-life
+boundaries
+121
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+related activities if needed [ ...]. Yes, technology has made things efficient, if used correctly/properly,
+we can usefully manage work and family life (Priya, reflecting on the personal work-life situation).
+Another interesting phenomenon is participants ’acceptance of boundary interruptions from
+work differed ( Kreiner et al., 2009 ), based on the interrupter and the nature of interruptions .
+For example, as the customers are treated as an important party by the participants,
+boundary interruptions from customers are accepted. However, interruptions from the
+organisation may not gain the same reception. Even if it is a customer, such interruptions will
+not be accepted if it is contrary to the accepted social norm (e.g. no night conversations with
+customers). On the other hand, even the segmenters stated that they would respond to urgent
+after-hour communications from the organisation.
+Furthermore, there is also a differential acceptance based on the device through which an
+employee may be interrupted ( Ciolfi and Lockley, 2018 ). Work-based interruptions received
+through devices provided by the organisation are accepted as it is perceived as a
+responsibility. However, the same interruption from a personal device is not perceived as an
+acceptable interruption. This contradictory stance shows how people attach meaning to
+material features in a sociomaterial practice ( Koslowski et al. , 2019 ). A personal device is
+regarded as an object belonging to the life domain, whereas the official device is regarded as
+an object in the work domain, even though it is physically in the life domain.
+Managing information communication technologies to manage boundaries
+Through the above themes, it is clear that ICTs have reconfigured boundaries between the world
+of work through its entanglement with social elements. People perceive the same ICTs in
+different ways due to various personal, social and organisational elements entangled with thecapabilities of ICTs. Whether people embrace it or not, ICTs will exist with their material
+capabilities in our day-to-day lives. Hence, employees perceive that they require the necessary
+knowledge to manage ICTs to implement better work-life boundaries ( Jahn et al., 2016 ).
+We cannot avoid technology. But we have to be talented enough to balance our day-to-day life and
+technology. It is not suitable to be addicted to the new technology (Raja, reflecting on the personalwork-life situation).
+Managing ICT-mediated boundary interruptions between work and nonwork domains is a
+skill. Understanding the entanglement of organisational expectations, norms and culture
+with the material capabilities of technology will help individuals manage work-life
+boundaries more effectively. The participant reflections, in this regard, displayed the
+different tactics they employ to handle the expectations of continuous availability.
+Build a personal discipline. [ ...]do not reply immediately if it is after office hours (Ravi, reflecting on
+the personal work-life situation).
+Some participants seem to believe that task scheduling and developing a personal discipline in
+handling boundary interruptions is essential. Ravi indicates that he will not immediately
+reply to work-related communications after office hours; this indicates that a person should
+self-regulate how he or she handles company expectations after work hours. In such a way,
+they can minimise the burden of handling multiple after hour interruptions from work.
+Through apps, it is easy to do duties. If I miss important calls, notifications using smartwatch helps
+me work in an efficient manner (Lalitha, personal reflections on Vignette 3).
+ICTs have the capability to store all the messages they receive. Hence, looking at all of them at
+a designated time will reduce the stress of handling multiple interruptions. Further, facilities
+such as e-mails can be integrated into phones, and such a practice will enable individuals to
+respond to interruption without sitting down in front of a laptop or a computer.QROM
+17,5
+122
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Support from other parties , especially from family and subordinates, has also emerged as a
+possible strategy to manage interruptions. Ramani reflecting on her work-life situation
+explains “Without family and subordinate support cannot complete the tasks ”. It is common
+in Sri Lankan culture for elderly parents to support individuals by assisting with childcare
+and domestic responsibilities ( Kailasapathy and Metz, 2012 ).
+Indication of home commitments to avoid after hour boundary interruptions is also
+indicated in participant data. In addition, communication of home commitments to avoid after
+hour boundary interruptions is also indicated in participant data.
+When it is forced to be committed after office, always make it a habit to indicate your personal and
+family commitments (Ravi, reflecting on the personal work-life situation).
+This strategy will indirectly send a message to the interrupter that they are violating a
+boundary. Female employees seem to have more advantages when implementing this
+strategy as gender ideologies support the acceptance of female responsibilities in the
+domestic sphere.
+As a female executive, she can avoid certain issues [ ...] That means she can give more excuses for
+not replying e-mails on Sundays (Jayalal, as a response to vignette 3 assuming employee as a female).
+The usage of separate ICT devices for personal and office work is another strategy adopted by
+participants. Many participants said t hat they would not respond to work-based
+interruptions coming through personal ICTs. Some even mentioned that they would
+switch off the office device after hours.
+Although these different factors are discussed separately, in a practical sense, all these
+factors are entangled in a complex way. For example, while boundary interruptions are more
+challenging to women, as they need to fulfil organisational expectations, family expectations
+and social norms. These same gender norms are sometimes used as a strategy to manage
+after-hour interruptions by female employees. To a certain extent, the material capabilities of
+ICTs appear to have dictated how people configure their social elements in work-nonwork
+interactions. However, people could also manipulate technological capabilities
+(e.g. integrating e-mails to smartphones) to manage their work –nonwork interactions.
+Therefore, these factors indicate the complex entanglement of social and material elements
+related to the work-life boundary process.
+Discussion
+This study, via the lens of sociomateriality, investigated how cultural and gender norms
+interact with ICTs in the work-life boundary management process of employees in Sri Lanka.
+ICTs have become an important element in today ’s world of work, in fact, the development
+and persistence of businesses now depend on their adaption of new ICTs. Using a sample of
+Sri Lankan employees, we specifically examined how people perceive blurred work-life
+boundaries due to the role of the growing use of ICTs at workplaces and how cultural and
+gender norms have reconfigured work-life boundaries through the entanglement with ICTs.
+Our analysis showed that the participants have different perceptions towards blurred work-
+life boundaries due to ICTs. Similar to the findings of past research, the participants of this study
+also differed on their perception of ICTs in boundary management ( Duxbury and Smart, 2011 ;
+Duxbury et al., 2014 ). Participant data showed that the reason for these different perceptions
+could come through the entanglement of different sociocultural factors with ICTs when creating
+boundaries between work and nonwork domains. More specifically, our analysis showed that
+national culture and gender norms of the society, along with organisational expectations
+towards after hour connectivity, are playing a crucial role in this entanglement, creating
+different effects on the work-life boundary experiences of individuals. Hence, the materialTechnology
+and work-life
+boundaries
+123
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+capabilities of ICTs alone cannot influence the work-life boundaries; work-life boundaries in
+today ’s world of work are an outcome of the entangled web of relations between ICTs, individual
+preferences, expectations, gender norms and cultural values of the society.
+According to participant responses, after-hours connectivity expectations derived
+through the top management and organisational culture plays a significant role in the
+work-life boundaries of individuals. It seems the committed workers in today ’s organisations
+are supposed to be available to organisations even after working hours via ICTs such as e-
+mail, calls and messages. Further, participants expressed that the employers have provided
+employees with ICT devices to reinforce the expectations of continuous connectivity to the
+organisation. Accordingly, employees living in high-power distance countries like Sri Lanka
+tend to accept these expectations as they believe that they are obliged to follow the order
+coming from the hierarchy ( Kailasapathy and Metz, 2012 ). However, evidence shows that if
+the organisational culture and superiors promote less after-hour connectivity expectations in
+the workplace, employees also tend to keep more segmented boundaries between work and
+nonwork domains. These differences in employee ’s behaviour show the significant role of
+power distant cultural norms in the work-life boundary process.
+These connectivity expectations are further enhanced by the collectivist values in Sri
+Lankan society. Accordingly, individuals tend to accept the norms of the work domain due to
+the adherence to group loyalty and employees who violate organisational expectations could
+be seen as uncommitted, irresponsible or selfish. However, the analysis shows that familial
+interference at the workplace is still regarded as taboo. It was apparent that the participants
+of this study expected the family domain to be flexible and tolerant of work-based
+interruptions at the home/nonwork domain and did not expect the work domain to
+reciprocate. This also goes in line with the collectivist values in Sri Lanka to give priority to
+the work domain. Ultimately, if the family domain does not support these expectations from
+the work domain, it could elevate the employee ’s work-life conflict. In this milieu, even though
+all organisations are use the same constellations of ICTs, its effect on work-life boundaries is
+contingent upon the roles played by national cultural values and expectations of the
+organisational hierarchy.
+These conflicting expectations will create more stressful circumstances for married female
+employees, as they need to be equally available at work and family domains after hours.
+Moreover, social norms related to women ’s behaviour also impact whether they could accept
+or reject boundary interruptions. In traditional cultures like Sri Lanka, it seems women arestill marginalised by social norms related to interpersonal interactions with males ( Adikaram,
+2014), which affects their ability to fulfil the committed worker expectations of the
+organisation, as discussed above. All in all, women may be more challenged by the
+entanglement of gender norms and other national cultural factors with ICTs in the work-life
+boundary process. It seems that the capabilities of ICTs have reconfigured the role of
+sociocultural factors in the work-life boundary process, making the work-life boundary
+setting more troublesome for female employees. These reconfigured boundaries will lead to
+male employees being labelled as more committed employees than female employees,
+contributing to the much-debated gender discrimination discourse in career progression
+(Smithson and Stokoe, 2005 ;Ford and Collinson, 2011 ).
+Entanglement of ICTs with sociocultural values of the society seems to have underscored
+individual boundary preferences. However, the findings of this study reveal that boundary
+preference is still vital for individuals. Both integrators and segmenters try to maintain their
+preferred boundaries. The findings suggest that even individuals with high segmentation
+preferences are forced to accept interruptions from the work domain due to the entanglement
+of ICTs with organisational expectations and cultural norms of the Sri Lankan society. This
+may be especially applicable to developing countries like Sri Lanka, where there is a higher
+level of unemployment. In such economic circumstances, individuals do not have the libertyQROM
+17,5
+124
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+to choose the employer; thus, they need to secure their current employment due to economic
+benefits.
+People seem to use different strategies to manage the connectivity expectations and
+establish their preferred boundaries between work and nonwork domains. These strategies
+are sociomaterial in nature. Hence, people do not manage ICTs, but they instead manage
+connectivity expectations from the work domain through manipulating constitutive
+entanglement of ICT tools with sociocultural norms and individual preferences. An
+example supporting this is that participants who prefer the segmented boundaries have used
+separate ICT devices to manage work and nonwork connectivity. Their strategy is to
+disconnect the work-based devices after hours. In this scenario, the two ICT devices have the
+same material capabilities but are allocated two separate meanings and domains based on the
+person ’s preferences and choices.
+Through the lens of sociomateriality, this study offers a nuanced understanding of how
+ICTs are entangled with sociocultural factors, gender norms and individual preferences in the
+work-life boundary experiences of people. It is clear the ICTs have no inherent power to affect
+the work-life boundaries of people, but ICTs can constitute relations with social elements and
+enact new meanings in practice. Hence, the interaction of ICTs with social factors is not pre-
+defined but rather enacted in practice ( Orlikowski, 2010 ). In today ’s world of work, ICTs are
+not an exogenous factor that affects work-life boundaries independently. Hence, the same
+constellation of technologies could yield different work-life experiences to different
+individuals based on individual, social, cultural and organisational circumstances.
+Theoretical implications and areas for future research
+The findings of this study expand the current theoretical base in work-life boundary research.
+Most of the previous research in work-life boundary has often either black-boxed (i.e. making
+absent) the impact of ICTs on boundaries or assumed boundaries as an exogenous force.
+However, the sociomaterial perspective used in this study reveals the complex intertwining of
+material capabilities of ICTs and related social elements in the work-life boundary
+management phenomenon ( Orlikowski, 2007 ). On the one hand, in this digital era, it is not
+possible to black box technology from organisational discourse ( Orlikowski and Scott, 2008 ).
+On the other hand, the material alone cannot make an impact on human behaviour. The
+findings of this study iterated, ICTs role in work-life boundary experiences of individualsdepends on its constitutive entanglement with social, cultural and individual factors ( Cecez-
+Kecmanovic et al., 2014 ;Orlikowski, 2007 ). Thus, studying the effects ICTs alone in work-life
+boundary experiences will not be effective in future empirical studies. In future, studies that
+involve work-life boundary theory could produce more effective results by understanding
+work-life boundaries as a sociomaterial process. Such studies would help researchers uncover
+more relations between ICT and sociocultural factors and how the intertwining of these
+factors created new meanings for individuals.
+This is especially applicable for cross-cultural studies involving work-boundary
+experiences. The findings of this study iterate that more in-depth studies are needed
+specifically on how national cultural variations and gender roles influence the work-life
+boundaries of individuals. These studies need to explicitly recognise the intertwining of
+ICTs with cultural and social elements when creating boundaries between work and
+nonwork domains. We argue that the sociomaterial lens enables researchers to uncover
+many contextual factors related to the work-life boundaries of individuals. Such approach
+would in turn help practitioners to develop more contextually relevant work-life balance
+policies.
+The applicability of role theory in work-boundary studies is further strengthened in this
+study. Hence, the boundaries are clearly a function of roles that one should play within
+society. Thus, how society dictates people to perform some roles have a clear impact on theTechnology
+and work-life
+boundaries
+125
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+boundary experiences of people. Social expectations of roles are often influenced by the
+national cultural values of the country. The findings of this study clearly showed that gender
+roles make work-life boundary management a significant challenge to female employees.
+Further, we would like to encourage future studies in work-life boundary studies with a
+greater focus on gender discourse. Do gender roles play a significant role in work-life
+boundaries in traditional non-western countries like Sri Lanka? Or, are these expectations still
+applicable to female employees of western countries? How would such the after-hour
+expectations create an unfair situation for female employees over male employees in their
+career progression? These research questions are still open for discussion irrespective of the
+country or the culture.
+The findings of our study showed that organisational expectations on after-hour
+availability via ICTs is the main reason that forces employees to maintain blurred boundaries
+between work and nonwork domains. More studies are required on how these informal
+expectations are developed and the role of ICTs in developing such unwritten expectations.
+Perhaps, future studies could study a managerial perspective rather than the employee
+experiences in this regard. Further, this study also revealed that people manage ICTs and
+expectations to balance work and nonwork domains. These findings correctly coincide with
+the recent review done by Ollier-Malaterre et al. (2019) , who explains the importance of
+technology-mediated boundary management practices and how cultural variations could
+affect such practices. Future research can focus on how people manipulate ICTs and
+sociocultural elements to manage their boundaries between work and nonwork domains.
+Practical implications
+From a practitioner ’s point of view, this study provides a set of important suggestions to
+organisational leaders. It seems the expectations on after-hour availability via ICTs is not a
+formal rule in organisations. However, informally, employees are expected to respond to
+matters communicated via ICTs even after hours. This phenomenon is not always preferred
+by employees, and if employees continuously experience such expectations, it would increase
+work-life conflict for them. Hence, it is now high time for organisational leaders to implement
+a more explicit and nuanced approach to communicate and manage after-hour expectations
+to employees.
+Such approaches to implementing after-hour work need to be more flexible and allow
+employees to meet their individual and collective needs. Further, after-hour expectations
+would be more challenging to employees who are having caring responsibilities in the home
+sphere. This is especially applicable if such caring responsibilities are institutionalised
+through cultural norms and practices of society. For example, the findings of this study
+revealed that married female employees in traditional cultures like Sri Lanka could be
+negatively affected due to after-hour connectivity expectations of their employers due to their
+increased home sphere responsibilities. Organisational leaders need to be more considerate
+about these employee categories and take more explicit measures to wear off negative effects
+on their careers. Moreover, our findings are quite useful for global organisations operating in
+multiple cultural settings. As in some cultural contexts such as power distant cultures like Sri
+Lanka, employees would be hesitant to openly communicate their inability to meet after-hour
+connectivity expectations.
+Further, organisations could also use their selection practices to select individuals who fit
+organisational expectations and norms. Hence, new recruits could be chosen based on
+boundary preferences. For example, if an organisation expects employees to be connected to
+the organisation even after hours, organisations should select individuals who prefer more
+integrated boundaries. Most employees believe managing boundaries in this technology-
+driven era is a skill. Such skills could be recognised in the human resource developmentQROM
+17,5
+126
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+agenda of the organisation. As such, organisations could support their employees to develop
+related technical skills to use ICT capabilities more effectively in their work-life interactions.
+Conclusion
+Further, the analysis of participant data revealed that organisations expect their employees
+to be continuously available to organisations via ICTs. Such expectations have influenced the
+work-life boundaries through their entanglement with ICTs and sociocultural elements. More
+specifically, this paper adds value to the current discourse of work boundary management
+through its finding of gendered work –nonwork boundary experiences. This study shows
+that a better understanding of individual needs is required to ensure that employees are not
+disadvantaged due to organisational expectations on after-hours connectivity, especially if
+they are coming from collectivist and power distant cultures where traditional gender norms
+are valued and upheld. The authors stress the importance of paying attention towards
+different expectations around work/nonwork boundaries in different countries. Similarstudies from different cultural contexts will add richer insights to the current empirical base
+of work –nonwork boundary management.
+This study used a diverse sample in terms of profession, age and industry type. The
+findings of this study represent the socio-economic circumstances of a developing country in
+South Asia. The data of this study were collected in December 2019 before the worldwide
+spread of the COVID-19 pandemic. Thus, interpretations of these findings represent the
+situation before the COVID-19 pandemic. The world of work has in many contexts changed
+significantly in terms of ICT use during the pandemic. Many organisations have adopted
+remote working strategy due to social distancing requirement imposed in the pandemic
+situation. These changes in the world of work have opened a new area of research.
+Future research in this area can also focus on how various cultural, social and
+organisational circumstances have entangled with ICTs in creating boundaries between
+work and nonwork domains. Utilisation of the sociomaterial theory in such research would
+enable researchers to uncover more valuable insights related to work –nonwork boundary
+experiences of employees. Such research could also compare the findings of this study with
+the situation after the COVID-19 breakout as well as post-pandemic work life.
+References
+Adikaram, A.S. (2014), “‘Good women ’and ‘bad women ’: how socialization of gendered behavioural
+norms influences Sri Lankan working women ’s interpretation of sexual harassment at
+workplaces ”,South Asian Journal of Human Resources Management , Vol. 1 No. 1, pp. 45-65.
+Adikaram, A.S. (2018), “Being sensitive to the culture: challenges in researching sensitive topics in an
+Asian culture ”,Qualitative Research Journal , Vol. 18 No. 3, pp. 287-299.
+Adisa, T.A., Gbadamosi, G. and Osabutey, E.L. (2017), “What happened to the border? The role of
+mobile information technology devices on employees ’work-life balance ”,Personnel Review ,
+Vol. 46 No. 8, pp. 1651-1671.
+Ahmed, S. and Asraf, R.M. (2018), “The workshop as a qualitative research approach: lessons learnt
+from a ‘critical thinking through writing ’workshop ”,The Turkish Online Journal of Design, Art
+and Communication-TOJDAC , Vol. 8 Special Issue, pp. 1504-1510.
+Allen, T.D., Cho, E. and Meier, L.L. (2014), “Work –family boundary dynamics ”,Annual Review of
+Organizational Psychology and Organizational Behavior , Vol. 1 No. 1, pp. 99-121.
+Allen, T.D., French, K.A., Dumani, S. and Shockley, K.M. (2020), “A cross-national meta-analytic
+examination of predictors and outcomes associated with work –family conflict ”,Journal of
+Applied Psychology , Vol. 105 No. 6, pp. 539-576.Technology
+and work-life
+boundaries
+127
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Alwin, D.F., Braun, M. and Scott, J. (1992), “The separation of work and the family: attitudes towards
+women ’s labour-force participation in Germany, Great Britain, and the United States ”,
+European Sociological Review , Vol. 8 No. 1, pp. 13-37.
+Ashforth, B.E., Kreiner, G.E. and Fugate, M. (2000), “All in a day ’s work: boundaries and micro role
+transitions ”,Academy of Management Review , Vol. 25 No. 3, pp. 472-491.
+Azman, H. and Mahadhir, M. (2017), “Application of the vignette technique in a qualitative paradigm ”,
+GEMA Online ®Journal of Language Studies , Vol. 17 No. 4, pp. 27-44.
+Barter, C. and Renold, E. (1999), “The use of vignettes in qualitative research ”,Social Research Update ,
+Vol. 25 No. 9, pp. 1-6.
+Berkowsky, R.W. (2013), “When you just cannot get away: exploring the use of information and
+communication technologies in facilitating negative work/home spillover ”,Information,
+Communication and Society , Vol. 16 No. 4, pp. 519-541.
+Bittman, M., Brown, J.E. and Wajcman, J. (2009), “The mobile phone, perpetual contact and time
+pressure ”,Work, Employment and Society , Vol. 23 No. 4, pp. 673-691.
+Boswell, W.R. and Olson-Buchanan, J.B. (2007), “The use of communication technologies after hours:
+the role of work attitudes and work-life conflict ”,Journal of Management , Vol. 33 No. 4,
+pp. 592-610.
+Braun, V. and Clarke, V. (2006), “Using thematic analysis in psychology ”,Qualitative Research in
+Psychology , Vol. 3 No. 2, pp. 77-101.
+Breaugh, J.A. and Frye, N.K. (2008), “Work –family conflict: the importance of family-friendly
+employment practices and family-supportive supervisors ”,Journal of Business and Psychology ,
+Vol. 22 No. 4, pp. 345-353.
+Bulger, C.A., Matthews, R.A. and Hoffman, M.E. (2007), “Work and personal life boundary
+management: boundary strength, work/personal life balance, and the segmentation-integrationcontinuum ”,Journal of Occupational Health Psychology , Vol. 12 No. 4, p. 365.
+Capitano, J., McAlpine Kristie, L. and Greenhaus Jeffrey, H. (2019), “Organizational influences on
+work –home boundary permeability: a multidimensional perspective ”, in Buckley, M.R.,
+Anthony, R.W., John, E.B. and Jonathon, R.B.H. (Eds), Research in Personnel and Human
+Resources Management
+, Emerald Publishing, pp. 133-172.
+Cecez-Kecmanovic, D., Boell, S. and Campbell, J. (2014), “Materiality of connectivity in the networked
+society: a sociomaterial perspective ”,25th Australasian Conference on Information System ,
+Auckland, New Zealand.
+Chen, A. and Karahanna, E. (2018), “Life interrupted: the effects of technology-mediated work
+interruptions on work and nonwork outcomes ”,MIS Quarterly , Vol. 42 No. 4, pp. 1023-1042.
+Ciolfi, L. and Lockley, E. (2018), “From work to life and back again: examining the digitally-mediated
+work/life practices of a group of knowledge workers ”,Computer Supported Cooperative Work
+(CSCW) , Vol. 27 No. 3, pp. 803-839.
+Davies, O. and Riach, K. (2018), “Sociomateriality and qualitative research: method, matter and
+meaning ”, in Cassell, C., Cunliffe, A.L. and Grandy, G. (Eds), The SAGE Handbook of Qualitative
+Business and Management Research Methods: Methods and Challenges , SAGE Publication,
+London, pp. 133-149.
+Duxbury, L. and Smart, R. (2011), “The ‘myth of separate worlds ’: an exploration of how mobile
+technology has redefined work-life balance ”, in Kaiser, S., Ringlstetter, M.J., Eikhof, D.R. and
+Pina e Cunha, M. (Eds), Creating Balance? International Perspectives on the Work-Life
+Integration of Professionals , Springer, Berlin, pp. 269-284.
+Department of Census and Statistics Sri Lanka (2018), Computer Literacy Statistics –2018 (Annual) ,
+Author, available at: http://www.statistics. gov.lk/education/ComputerLiteracy/Annual%
+20BuletinComputerLiteracy-2018.pdf .
+Duxbury, L., Higgins, C., Smart, R. and Stevenson, M. (2014), “Mobile technology and boundary
+permeability ”,British Journal of Management , Vol. 25 No. 3, pp. 570-588.QROM
+17,5
+128
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Fenwick, T. (2014), “Sociomateriality in medical practice and learning: attuning to what matters ”,
+Medical Education , Vol. 48 No. 1, pp. 44-52.
+Finch, J. (1987), “The vignette technique in survey research ”,Sociology , Vol. 21 No. 1, pp. 105-114.
+Fleming, P. and Spicer, A. (2004), “‘You can checkout anytime, but you can never leave ’: spatial
+boundaries in a high commitment organization ”,Human Relations , Vol. 57 No. 1, pp. 75-94.
+Ford, J. and Collinson, D. (2011), “In search of the perfect manager? Work-life balance and managerial
+work ”,Work, Employment and Society , Vol. 25 No. 2, pp. 257-273.
+Gadeyne, N., Verbruggen, M., Delanoeije, J. and De Cooman, R. (2018), “All wired, all tired? Work-related
+ICT-use outside work hours and work-to-home conflict: the role of integration preference,integration norms and work demands ”,Journal of Vocational Behavior ,V o l .1 0 7 ,p p .8 6 - 9 9 .
+Golden, A.G. and Geisler, C. (2007), “Work –life boundary management and the personal digital
+assistant ”,Human Relations , Vol. 60 No. 3, pp. 519-551.
+Hall, D.T., Kossek, E.E., Briscoe, J.P., Pichler, S. and Lee, M.D. (2013), “Nonwork orientations relative to
+career: a multidimensional measure ”,Journal of Vocational Behavior , Vol. 83 No. 3, pp. 539-550.
+Hu, S., Jiang, L., Probst, T.M. and Liu, M. (2021), “The relationship between qualitative job insecurity
+and subjective well-being in Chinese employees: the role of work –family conflict and work
+centrality ”,Economic and Industrial Democracy , Vol. 42 No. 2, pp. 203-225, 0143831X18759793,
+doi:10.1177/0143831X18759793 .
+Hughes, R. and Huby, M. (2012), “The construction and interpretation of vignettes in social research ”,
+Social Work and Social Sciences Review , Vol. 11 No. 1, pp. 36-51.
+Hunter, E.M., Clark, M.A. and Carlson, D.S. (2019), “Violating work-family boundaries: reactions to
+interruptions at work and home ”,Journal of Management , Vol. 45 No. 3, pp. 1284-1308,
+0149206317702221.
+Jackson, M., Harrison, P., Swinburn, B. and Lawrence, M. (2015), “Using a qualitative vignette to
+explore a complex public health issue ”,Qualitative Health Research , Vol. 25 No. 10,
+pp. 1395-1409.
+Jahn, K., Klesel, M., Lemmer, K., Weigel, A. and Niehaves, B. (2016), “Individual boundary
+management: an empirical investigation on technology-related tactics
+”,Pacific Asia Conference
+on Information Systems (PACIS) .
+Jenkins, N., Bloor, M., Fischer, J., Berney, L. and Neale, J. (2010), “Putting it in context: the use of
+vignettes in qualitative interviewing ”,Qualitative Research , Vol. 10 No. 2, pp. 175-198.
+Kailasapathy, P. and Metz, I. (2012), “Work –family conflict in Sri Lanka: negotiations of exchange
+relationships in family and at work ”,Journal of Social Issues , Vol. 68 No. 4, pp. 790-813.
+Kailasapathy, P., Kraimer, M.L. and Metz, I. (2014), “The interactive effects of leader –member
+exchange, gender and spouse ’s gender role orientation on work interference with family
+conflict ”,The International Journal of Human Resource Management , Vol. 25 No. 19,
+pp. 2681-2701.
+Kao, K.-Y., Chi, N.-W., Thomas, C.L., Lee, H.-T. and Wang, Y.-F. (2020), “Linking ICT availability
+demands to burnout and work-family conflict: the roles of workplace telepressure anddispositional self-regulation ”,The Journal of Psychology , Vol. 154 No. 5, pp. 325-345.
+Keeney, J., Boyd, E.M., Sinha, R., Westring, A.F. and Ryan, A.M. (2013), “From ‘work –family ’to‘work –
+life’: broadening our conceptualization and measurement ”,Journal of Vocational Behavior ,
+Vol. 82 No. 3, pp. 221-237.
+Koslowski, N.C., Linehan, C. and Tietze, S. (2019), “When is a bed not a bed? Exploring the interplay of
+the material and virtual in negotiating home-work boundaries ”,Culture and Organization ,
+Vol. 25 No. 3, pp. 159-177.
+Kossek, E.E., Ruderman, M.N., Braddy, P.W. and Hannum, K.M. (2012), “Work –nonwork boundary
+management profiles: a person-centered approach ”,Journal of Vocational Behavior , Vol. 81
+No. 1, pp. 112-128.Technology
+and work-life
+boundaries
+129
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Kreiner, G.E., Hollensbe, E.C. and Sheep, M.L. (2009), “Balancing borders and bridges: negotiating the
+work-home interface via boundary work tactics ”,Academy of Management Journal , Vol. 52
+No. 4, pp. 704-730.
+Lanaj, K., Johnson, R.E. and Barnes, C.M. (2014), “Beginning the workday yet already depleted?
+Consequences of late-night smartphone use and sleep ”,Organizational Behavior and Human
+Decision Processes , Vol. 124 No. 1, pp. 11-23.
+Leonardi, P.M. (2013), “Theoretical foundations for the study of sociomateriality ”,Information and
+Organization , Vol. 23 No. 2, pp. 59-76.
+Lowcock, D., Warwick-Booth, L., Grewal, P. and Underwood, S. (2017), Using Vignettes in Qualitative
+Research: Examples From Health Promotion Research , SAGE Publications, London.
+Marcum, T., Cameron, E.A. and Versweyveld, L. (2018), “Never off the clock: the legal implications of
+employees ’after hours work ”,Labor Law Journal , Vol. 69 No. 2, pp. 73-82.
+Matusik, S.F. and Mickel, A.E. (2011), “Embracing or embattled by converged mobile devices? Users ’
+experiences with a contemporary connectivity technology ”,Human Relations , Vol. 64 No. 8,
+pp. 1001-1030.
+Mazmanian, M., Orlikowski, W.J. and Yates, J. (2013), “The autonomy paradox: the implications of
+mobile email devices for knowledge professionals ”,Organization Science , Vol. 24 No. 5,
+pp. 1337-1357.
+Mellner, C. (2016), “After-hours availability expectations, work-related smartphone use during leisure,
+and psychological detachment: the moderating role of boundary control ”,International Journal
+of Workplace Health Management , Vol. 9 No. 2, pp. 146-164.
+Moura, E.O.d. and Bispo, M.d. S. (2020), “Sociomateriality: theories, methodology, and practice ”,
+Canadian Journal of Administrative Sciences/Revue Canadienne des Sciences del’Administration , Vol. 37 No. 3, pp. 350-365.
+Ollier-Malaterre, A., Jacobs, J.A. and Rothbard, N.P. (2019), “Technology, work, and family: digital cultural
+capital and boundary management ”,Annual Review of Sociology , Vol. 45 No. 1, pp. 425-447.
+Ollo-L /C19opez, A. and Go ~ni-Legaz, S. (2017), “Differences in work –family conflict: which individual and
+national factors explain them? ”,The International Journal of Human Resource Management ,
+Vol. 28 No. 3, pp. 499-525.
+Orlikowski, W.J. (2007),
+“Sociomaterial practices: exploring technology at work ”,Organization Studies ,
+Vol. 28 No. 9, pp. 1435-1448.
+Orlikowski, W.J. (2010), “The sociomateriality of organisational life: considering technology in
+management research ”,Cambridge Journal of Economics , Vol. 34 No. 1, pp. 125-141.
+Orlikowski, W.J. and Scott, S.V. (2008), “10 sociomateriality: challenging the separation of technology,
+work and organization ”,The Academy of Management Annals , Vol. 2 No. 1, pp. 433-474.
+Ørngreen, R. and Levinsen, K. (2017), “Workshops as a research methodology ”,Electronic Journal of
+E-Learning , Vol. 15 No. 1, pp. 70-81.
+Parmiggiani, E. and Mikalsen, M. (2013), “The facets of sociomateriality: a systematic mapping of
+emerging concepts and definitions ”,Scandinavian Conference on Information Systems ,
+pp. 87-103.
+Piszczek, M.M. (2017), “Boundary control and controlled boundaries: organizational expectations for
+technology use at the work –family interface ”,Journal of Organizational Behavior , Vol. 38 No. 4,
+pp. 592-611.
+Richter, A., N €aswall, K. and Sverke, M. (2010), “Job insecurity and its relation to work —family conflict:
+mediation with a longitudinal data set ”,Economic and Industrial Democracy , Vol. 31 No. 2,
+pp. 265-280.
+Richter, A., N €aswall, K., Bernhard-Oettel, C. and Sverke, M. (2014), “Job insecurity and well-being: the
+moderating role of job dependence ”,European Journal of Work and Organizational Psychology ,
+Vol. 23 No. 6, pp. 816-829.QROM
+17,5
+130
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Rothbard, N.P. and Ollier-Malaterre, A. (2015), “Boundary management ”, in Allen, T.D. and Eby, L.T.
+(Eds), The Oxford Handbook of Work and Family , Oxford University Press.
+Seibold, D. and Weger, H. (2017), “The conversational argument coding scheme ”, in VanLear, C. and
+Canary, D. (Eds), Researching Interactive Communication Behavior: A Sourcebook of Methods
+and Measures , SAGE Publications, Thousand Oaks, California.
+Silveira, M.d. F.d. A., Gualda, D.M.R., Sobral, V. and Garcia, A.M.d. S. (2003), “Workshops of
+sensitivity, expressiveness and creativity: a path to integrate subjectivity and reflection inqualitative research ”,Forum Qualitative Sozialforschung/Forum: Qualitative Social Research ,
+Vol. 4 No. 2, doi: 10.17169/fqs-4.2.715 .
+Smithson, J. and Stokoe, E.H. (2005), “Discourses of work –life balance: negotiating ‘genderblind ’terms
+in organizations ”,Gender, Work and Organization , Vol. 12 No. 2, pp. 147-168.
+Srivastava, S. (2007), “Women in workforce: work and family conflict ”,Management and Labour
+Studies , Vol. 32 No. 4, pp. 411-421.
+Strauss, A. and Corbin, J. (1998), Basics of Qualitative Research Techniques , Sage publications,
+Thousand Oaks, CA.
+Thompson, C.A., Beauvais, L.L. and Lyness, K.S. (1999), “When work –family benefits are not enough:
+the influence of work –family culture on benefit utilization, organizational attachment, and
+work –family conflict ”,Journal of Vocational Behavior , Vol. 54 No. 3, pp. 392-415.
+Thoring, K., Mueller, R. and Badke-Schaub, P. (2020), “Workshops as a research method: guidelines
+for designing and evaluating artifacts through workshops ”,Proceedings of the 53rd Hawaii
+International Conference on System Sciences , pp. 5036-5045.
+Uhlmann, E.L., Heaphy, E., Ashford, S.J., Zhu, L. and Sanchez-Burks, J. (2013), “Acting professional: an
+exploration of culturally bounded norms against nonwork role referencing ”,Journal of
+Organizational Behavior , Vol. 34 No. 6, pp. 866-886.
+Wajcman, J. and Rose, E. (2011), “Constant connectivity: rethinking interruptions at work ”,
+Organization Studies , Vol. 32 No. 7, pp. 941-961.
+Wang, X., Gao, L. and Lin, Z. (2019), “Help or harm? The effects of ICTs usage on work –life balance ”,
+Journal of Managerial Psychology , Vol. 34 No. 8, pp. 533-545.
+Wickramasinghe, M. and Jayatilake, W. (2006), Beyond Glass Ceilings and Brick Walls: Gender at the
+Workplace , International Labour Organization, Colombo.
+Worley, J.A. and Gutierrez, K.J. (2020), “Hope for the (new) ideal worker: resolving the flexibility-
+availability paradox ”, in las Heras Maestro, M., Chinchilla Albiol, N. and Grau, M. (Eds), The
+New Ideal Worker: Organizations between Work-Life Balance, Gender and Leadership , Springer
+International Publishing, Cham, pp. 9-23.
+Wright, K.B., Abendschein, B., Wombacher, K., O ’Connor, M., Hoffman, M., Dempsey, M., Krull, C.,
+Dewes, A. and Shelton, A. (2014), “Work-related communication technology use outside of
+regular work hours and work life conflict: the influence of communication technologies onperceived work life conflict, burnout, job satisfaction, and turnover intentions ”,Management
+Communication Quarterly , Vol. 28 No. 4, pp. 507-530.
+Corresponding author
+Sulakshana De Alwis can be contacted at: sulakshana@nsbm.ac.lkTechnology
+and work-life
+boundaries
+131
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Appendix 1
+Vignette 01
+Narmada is an account executive. She is 32 years old and married. Narmada is the mother of a two-year-old Nimeth. Narmada works for a multinational company, and she always has to deal with the overseashead office due to her work. Narmada uses a smartphone where she has included an app to connect herwork e-mail. Monday night, when she was feeding little Nimeth, she received a notification from heroverseas manager. The e-mail was flagged as highly urgent.
+The next night, while she was watching her favourite television programme; she heard her phone
+ringing. She picked up the phone to check who it was, and it turned out to be her work colleague, Sapna.
+Vignette 02
+Mahesh is an assistant marketing manager at XYZ limited. On Sunday morning, he received a Vibermessage on his personal smartphone from his boss, Ms. Yamuna, about a work-related matter. Since it isa holiday, Mahesh did not bother to reply. After 10 min, Yamuna sent another message saying, “Why do
+not you reply to me? I can see that you are online, posting photos on Facebook ”.
+Mahesh has two smartphones, one he uses for his personal matters (though he has shared this
+number with his boss and some close colleagues). The other smartphone was provided by the company,
+as he has to contact clients. Nimali is Mahesh ’s girlfriend, one night when Mahesh was on a call with an
+important client, Nimali was trying to get through to Mahesh simultaneously, via his personal mobile.Mahesh quickly ended the discussion with the client and answered Nimali ’s phone call. The next
+working day, Mahesh received an e-mail from his boss about a complaint received from the same clientabout low-quality service. Mahesh understood that the reason for this complaint was ending last night ’s
+phone call with the client abruptly, to answer her girlfriend ’s call.
+Vignette 03
+Keith is a supply chain executive. He is 40 years old and married. He has two children. His wife is Jessica.
+She is a housewife. Keith has one laptop, which he uses for both personal and official work. Usually, hechecks his e-mails while watching television with his family. Last Sunday, Keith received an e-mail froma client. Since it is urgent, he started typing a reply. But, his wife interrupted and said “Keith, today is
+Sunday, what are you doing on the laptop? Let ’s take the kids to the park ”.
+On Wednesday morning, when Keith was having a meeting with his boss, he received a call from his
+elderly mother. He instantly clicked the reject button. However, his mother continued to call. His bosslooked at him disapprovingly, and asked, “Do you need to answer that call? ”Keith, at once, said, “No, it is
+not important ”.
+Vignette 04
+Maheshika is working as an accountant in a government department. She is married. Her husband isMeril. They do not have children. On Wednesday, Meril sent a WhatsApp message to Maheshika to buysome medicine. Since it was a busy day, and it is not professional to use work time for personalconversations, Maheshika did not check her WhatsApp messages. When she went home in the evening,her husband asked, “Where is my medicine? ”to which Maheshika replied, “What medicine? ”And then
+Meril responded in a disappointed tone, “Seems you have not checked my message; do you have more
+important things than me? ”QROM
+17,5
+132
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Appendix 2
+Theme Codes Thematic thought units
+Impact of ICTs in work-life
+boundariesICTs as an interrupter of
+work-life boundaries“I am getting more responsibilities and duties
+because of technology (Outlook, MS teams). It is
+easy to work the whole day with technology.
+Human interactions decreased, and stressful mind
+increased while using more technological devices.ICTs have an impact on work-life conflict ”
+“Our employer has provided us with laptops.
+Mobile phones, data. Could not say we cannot workfrom home. If we are going on a trip also, we should
+take our laptop with us ...have worked when I
+was on an overseas vacation ”
+ICTs as facilitator of work-
+life boundary management“My job is mostly engaged with clients, so
+technology keeps my work ongoing. Technologyhelps me to balance up and do my work easy and
+properly ”
+The dominance of the work domain
+due to entanglement of ICTs with
+cultureCommitment rhetoric of
+collectivist“Narmada has a smartphone with necessary apps
+to work anytime ...While feeding the baby she
+can attend to work ...Both company and
+Narmada has an agreement to work in such
+manner ”
+“He is a marketing manager. He is bound by
+company ’s urgent things in any time ...this is the
+technology-driven era ...He should have the
+ability do work any time ...Getting knowledge
+about the technology he has to manage personal
+life and work-life ”
+Power distant
+organisational culture“In this culture, it is possible to ignore the personal
+issues, but not possible to ignore the office works ”
+“Narmada has a smartphone with necessary apps
+to work anytime ...While feeding the baby she
+can attend to work ...Both company and
+Narmada has an agreement to work in such
+manner ”
+“My managers will not insist me on doing official
+things at home. My superior believes we should
+leave our work stations exactly on time [ ...]
+Basically, that perception is across the
+organisation and derived because of the culture ”
+Financial security “...should have the courage to face any type of
+challenge ...Sacrifice our favourite things because
+this period is money-based ”
+Supportive family domain “I will try to explain to wife the importance of
+replying such e-mail. I will ask my wife to propose
+another day for kids ”
+Entanglement of gender norms Family expectations
+“Men do not have to face many more challenges.
+Men can easily make their time to do work related
+things. Females have to balance all housework too ”
+“Females have more responsibilities work in the
+house. Normally, we are not expecting females to
+work anytime ”
+Night-time conversations
+with external parties“It is not good to have night conversations with the
+customer because there are many barriers tofemale in these regards. As the boss is also female
+Maheshika can continue the Viber chat ”
+Gendered job challenges “I think this post is not suitable for female ...she
+will face a lot of problems ”
+(continued )Table A1.
+Detailed thematic mapTechnology
+and work-life
+boundaries
+133
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
+Theme Codes Thematic thought units
+Underlying preferences and
+differential acceptanceSegmentation preference “I will ignore the e-mail. I will keep a separate
+mobile for office work and turn it off around 5 pm. Ido not like a job with less freedom. If they do not
+give my freedom, I will take it somehow ”
+Integration preference “I manage my work and home life properly. I will
+do important office work at home and will do the
+home responsibilities efficiently. In the office, Iwould not hesitate to engage in important home-
+related activities if needed .... Yes, technology has
+made things efficient, if used correctly/properly,
+we can usefully manage work and family life ”
+Differential acceptance “I do answer a client ’s call, if I get a call from my
+girlfriend, I would decline my girlfriends call and
+continue the discussion with the client. The client is
+an outside party .... if my boss question me being
+online and not replying to her, I shall explain was
+busy with some personal issues ”
+“if it is a holiday ...Work related matter for the
+personal mobile then there is no point of replying to
+it. The boss should have sent it to the officialmobile, If he did not respond to that if it is a critical
+matter then only the boss should contact him via
+personal mobile ”
+Managing ICTs to manage
+boundariesImportance of managing
+ICTs“We cannot avoid or get off from technology. But
+we have to be talented enough to balance our dayto day life and technology. It is not suitable to
+addict to the new technology ”
+Scheduling tasks “Time management and work scheduling are
+helping to do tasks on time ”
+“Build a personal discipline. ...Not immediately if
+it is after office hours ”
+Using technological
+capabilities“Technology is well developed, and it is better to
+configure his e-mail to phone ”
+Getting support from others “Without family and subordinate support cannot
+complete the task ”
+“I could ask help from someone to balance my
+duties ”
+Indicate personalcommitments to the
+interrupter“When it is forced to be committed after office
+always make it habit to indicate your personal and
+family commitments ”
+Maintaining separatedevices“I will keep a separate mobile for office work and
+turn it off around 5 pm ”
+“would not respond to work related message in my
+personal phone ...I would not share my personal
+phone number with any of my colleagues ”
+Table A1.QROM
+17,5
+134
+Downloaded from http://www.emerald.com/qrom/article-pdf/17/5/108/2283341/qrom-01-2021-2084.pdf by University College London user on 30 May 2026
