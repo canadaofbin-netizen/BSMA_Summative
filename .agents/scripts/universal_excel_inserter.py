@@ -11,18 +11,6 @@ def insert_data(excel_path, data):
     wb = openpyxl.load_workbook(excel_path)
     ws = wb.active
 
-    # Determine last row for spacing
-    last_row_idx = ws.max_row
-    last_row_empty = True
-    for col in range(1, ws.max_column + 1):
-        if ws.cell(row=last_row_idx, column=col).value is not None:
-            last_row_empty = False
-            break
-
-    if not last_row_empty and last_row_idx > 3:
-        ws.append([None] * ws.max_column)
-        last_row_idx += 1
-
     # Text mapping dictionaries
     pub_type_map = {1: "1 = Journal article", 2: "2 = Dissertation/thesis", 3: "3 = Conference paper", 4: "4 = Working paper/unpublished", 5: "5 = Book/book chapter"}
     study_design_map = {1: "1 = Cross-sectional", 2: "2 = Longitudinal/time-lagged", 3: "3 = Experimental", 4: "4 = Qualitative"}
@@ -34,15 +22,24 @@ def insert_data(excel_path, data):
     inclusion_status = data.get("inclusion_status", 1)
     exclusion_reason = data.get("exclusion_reason", None)
 
+    # Find the target row
+    target_row_idx = None
+    for r in range(4, ws.max_row + 1):
+        if str(ws.cell(row=r, column=2).value).strip() == article_id:
+            target_row_idx = r
+            break
+            
+    if target_row_idx is None:
+        print(f"Warning: {article_id} not found in existing rows. Appending to bottom.")
+        target_row_idx = ws.max_row + 1
+
+    # Extract metadata from the existing row (if it exists) to copy into new rows
+    metadata = [ws.cell(row=target_row_idx, column=c).value for c in range(1, 11)] # Cols A to J
+
     # PATH A: EXCLUSION LOGIC
     if inclusion_status == 0:
-        row = [None] * 50
-        row[0] = "KY"
-        row[1] = article_id
-        row[4] = inclusion_map.get(0, "0 = Exclude")
-        row[5] = exclusion_reason
-        
-        ws.append(row)
+        ws.cell(row=target_row_idx, column=5).value = inclusion_map.get(0, "0 = Exclude")
+        ws.cell(row=target_row_idx, column=6).value = exclusion_reason
         wb.save(excel_path)
         print(f"Successfully excluded {article_id}. Reason logged in Excel.")
         return
@@ -53,6 +50,7 @@ def insert_data(excel_path, data):
         print(f"Error: No samples found in JSON for included paper {article_id}.")
         return
 
+    rows_to_insert = []
     total_rows = 0
 
     for s_idx, sample in enumerate(samples):
@@ -69,27 +67,27 @@ def insert_data(excel_path, data):
         correlations = sample.get("correlations", [])
 
         if not bs_measures or not correlations:
-            print(f"Warning: Missing bs_measures or correlations in sample {sample_id}.")
             continue
 
         for bs_measure in bs_measures:
             bs_name = bs_measure.get("name", "Unknown BS")
-            
-            # Find all correlations paired with THIS specific BS construct
-            # If the schema doesn't specify a mapping, we assume all correlations apply to all BS measures (cross-product)
-            # A more advanced schema might include "bs_name" in the correlation object.
             paired_corrs = [c for c in correlations if c.get("bs_name", bs_name) == bs_name]
             if not paired_corrs:
-                paired_corrs = correlations # Fallback: assume all apply
+                paired_corrs = correlations # Fallback
 
             for c_idx, corr in enumerate(paired_corrs):
                 row = [None] * 50
+                
+                # Copy metadata
+                for i in range(10):
+                    if i < len(metadata):
+                        row[i] = metadata[i]
                 
                 # Identifiers
                 row[0] = "KY"
                 row[1] = article_id
                 row[2] = sample_id
-                row[3] = f"{sample_id}.{total_rows + 1}" # Unique Effect Size ID
+                row[3] = f"{sample_id}.{total_rows + 1}"
                 row[4] = inclusion_map.get(1, "1 = Include")
                 
                 # Categoricals
@@ -105,7 +103,7 @@ def insert_data(excel_path, data):
                 row[28] = bs_measure.get("max")
                 row[29] = report_type_map.get(bs_measure.get("report_type"), bs_measure.get("report_type"))
                 row[31] = bs_measure.get("specific_measure")
-                row[32] = bs_measure.get("notes") # Col 33 is 0-indexed as 32
+                row[32] = bs_measure.get("notes")
 
                 # Non-BS Descriptors (Cols 33-39)
                 row[33] = corr.get("items")
@@ -113,7 +111,7 @@ def insert_data(excel_path, data):
                 row[35] = corr.get("max")
                 row[36] = report_type_map.get(corr.get("report_type"), corr.get("report_type"))
                 row[38] = corr.get("specific_measure")
-                row[39] = corr.get("notes") # Col 40 is 0-indexed as 39
+                row[39] = corr.get("notes")
 
                 # Effect Sizes: BS (Cols 40-43)
                 row[40] = bs_name
@@ -130,8 +128,21 @@ def insert_data(excel_path, data):
                 # Correlation
                 row[48] = corr.get("r")
 
-                ws.append(row)
+                rows_to_insert.append(row)
                 total_rows += 1
+
+    # Insert rows into Excel
+    if rows_to_insert:
+        # First row overwrites the target row
+        for col_idx, val in enumerate(rows_to_insert[0], start=1):
+            ws.cell(row=target_row_idx, column=col_idx).value = val
+            
+        # Subsequent rows are inserted below
+        if len(rows_to_insert) > 1:
+            ws.insert_rows(target_row_idx + 1, len(rows_to_insert) - 1)
+            for r_offset, row_data in enumerate(rows_to_insert[1:]):
+                for col_idx, val in enumerate(row_data, start=1):
+                    ws.cell(row=target_row_idx + 1 + r_offset, column=col_idx).value = val
 
     wb.save(excel_path)
     print(f"Successfully injected {total_rows} rows into {excel_path} for {article_id}.")
