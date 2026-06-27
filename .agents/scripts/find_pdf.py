@@ -23,9 +23,8 @@ def find_pdf_text(article_id, excel_path, texts_dir):
                 break
         
         if author and year:
-            # Look for a file containing the author and year in the texts directory
-            # Example: [256] Liu Ting et al.txt or Smith_2020.txt
-            all_files = glob.glob(os.path.join(texts_dir, "*.txt"))
+            # Look for a file containing the author and year recursively
+            all_files = glob.glob(os.path.join("03_Archives_and_Backups", "**", "*.txt"), recursive=True)
             for f in all_files:
                 fname = os.path.basename(f).lower()
                 if author.lower() in fname and year in fname:
