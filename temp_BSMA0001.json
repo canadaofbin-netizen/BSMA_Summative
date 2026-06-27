@@ -1,10 +1,47 @@
 {
   "article_id": "BSMA0001",
-  "inclusion_status": 0,
-  "exclusion_reason": "Not quantitative empirical (qualitative interviews without a correlation matrix).",
-  "title": "‘Everything else is public relations’: How rural journalists draw the boundary between journalism and public relations in rural communities",
-  "publication_name": "Mass Communication & Society",
-  "author": "Mildred F. Perreault, Jessica Walsh, Louisa Lincoln, Gregory Perreault, Ruth Moon",
+  "inclusion_status": 1,
+  "title": "Leader Boundary-Spanning Behavior and Employee Voice Behavior: The Job Demands–Resources Perspective",
+  "publication_name": "Behav. Sci.",
+  "author": "Lee et al.",
   "year": 2023,
-  "samples": []
+  "samples": [
+    {
+      "sample_number": 1,
+      "sample_size": 383,
+      "publication_type": 1,
+      "study_design": 1,
+      "international_context": 1,
+      "occupation_type": "Various industries",
+      "bs_measures": [
+        {
+          "name": "Leader Boundary-Spanning Behavior",
+          "items": 6,
+          "alpha": 0.93,
+          "mean": 5.31,
+          "sd": 1.08,
+          "min": 1,
+          "max": 7,
+          "report_type": 2,
+          "specific_measure": "measured with 6 items developed by Marrone et al. [ 36].",
+          "notes": ""
+        }
+      ],
+      "correlations": [
+        {
+          "non_bs_name": "Abusive Supervision",
+          "r": -0.57,
+          "alpha": 0.93,
+          "mean": 2.02,
+          "sd": 1.09,
+          "items": 5,
+          "min": 1,
+          "max": 7,
+          "report_type": 2,
+          "specific_measure": "shortened five-item version of Tepper [ 27,79].",
+          "notes": ""
+        }
+      ]
+    }
+  ]
 }
