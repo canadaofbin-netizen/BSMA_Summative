@@ -31,6 +31,12 @@ Because correlation matrices often contain dozens of Non-Boundary-Spanning varia
 - Provide the Subagent with the specific list of variables found in the correlation matrix, and instruct them to return a structured JSON mapping of the descriptors.
 - The Orchestrator MUST wait for the Subagents to return this JSON mapping before proceeding to Excel Injection.
 
+**Step 1.8: Validator Review (Self-Correction Loop)**
+Before proceeding to Excel Injection, the Orchestrator MUST deploy a `validator` subagent (or self-validate stringently using the validator skill prompt).
+- The Validator must review the Shadow Report to ensure no non-focal variables, team-level samples, or hallucinations are present.
+- If the Validator returns `REJECT`, the Orchestrator must fix the Shadow Report.
+- Only if the Validator returns `PASS`, proceed to Step 2.
+
 **Step 2: Code the Conventional Excel Sheet**
 Once the logic is established in the metadata report, the AI will use those findings to accurately code the paper into the official `BSMA_Master_Coding_Sheet.xlsx`. 
 
