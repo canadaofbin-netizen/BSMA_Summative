@@ -1,0 +1,214 @@
+{
+  "article_id": "BSMA0008",
+  "inclusion_status": 1,
+  "title": "A Multilevel Investigation of Antecedents and Consequences of Team Member Boundary-Spanning Behavior",
+  "publication_name": "Academy of Management Journal",
+  "author": "Marrone et al.",
+  "year": 2007,
+  "samples": [
+    {
+      "sample_number": 1,
+      "sample_size": 190,
+      "publication_type": 1,
+      "study_design": 1,
+      "international_context": 1,
+      "occupation_type": "MBA consulting teams",
+      "bs_measures": [
+        {
+          "name": "Boundary-spanning behavior",
+          "items": 6,
+          "alpha": 0.86,
+          "mean": 2.91,
+          "sd": 0.70,
+          "min": 1,
+          "max": 5,
+          "report_type": 2,
+          "specific_measure": "Closely following existing research, we measured individual boundary-spanning behavior with six items adapted directly from Ancona and Caldwell's (1992) study and modified to reflect the current consulting team context.",
+          "notes": ""
+        }
+      ],
+      "correlations": [
+        {
+          "non_bs_name": "Boundary-spanning role",
+          "r": 0.40,
+          "alpha": 0.86,
+          "mean": 3.09,
+          "sd": 0.82,
+          "items": 6,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "In accordance with role theory, we had all participants rate the extent to which they perceived each of the six boundary-spanning behaviors as an expected part of their responsibilities",
+          "notes": ""
+        },
+        {
+          "non_bs_name": "Boundary-spanning self-efficacy",
+          "r": 0.25,
+          "alpha": 0.92,
+          "mean": 4.07,
+          "sd": 0.69,
+          "items": 8,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "Scale items were based in part upon Parker's (1998) role breadth self-efficacy scale, which asks respondents to rate how confident they feel about contacting individuals outside of their own work units.",
+          "notes": ""
+        },
+        {
+          "non_bs_name": "Asian ethnicity",
+          "r": -0.23,
+          "alpha": 999,
+          "mean": 0.31,
+          "sd": 0.46,
+          "items": 999,
+          "min": 999,
+          "max": 999,
+          "report_type": 999,
+          "specific_measure": "",
+          "notes": "Dummy variable (1 for Asian, 0 for other)"
+        },
+        {
+          "non_bs_name": "GMAT score",
+          "r": -0.19,
+          "alpha": 999,
+          "mean": 653.90,
+          "sd": 57.89,
+          "items": 999,
+          "min": 999,
+          "max": 999,
+          "report_type": 999,
+          "specific_measure": "",
+          "notes": "Continuous score"
+        },
+        {
+          "non_bs_name": "Role overload",
+          "r": -0.04,
+          "alpha": 0.83,
+          "mean": 2.47,
+          "sd": 0.85,
+          "items": 3,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "Three items were adapted from Beehr et al. (1976) and modified for the current context.",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "sample_number": 2,
+      "sample_size": 31,
+      "publication_type": 1,
+      "study_design": 1,
+      "international_context": 1,
+      "occupation_type": "MBA consulting teams",
+      "bs_measures": [
+        {
+          "name": "Team boundary spanning",
+          "items": 6,
+          "alpha": 999,
+          "mean": 2.89,
+          "sd": 0.46,
+          "min": 1,
+          "max": 5,
+          "report_type": 2,
+          "specific_measure": "Following Ancona and Caldwell's (1992) measurement approach, and again in accordance with an additive compositional model (Chan, 1998), we calculated the team boundary-spanning behavior variable as the aggregated mean score for all team members on each of the six boundary-spanning behavior items.",
+          "notes": "Aggregated to team level"
+        }
+      ],
+      "correlations": [
+        {
+          "non_bs_name": "External focus",
+          "r": 0.46,
+          "alpha": 0.91,
+          "mean": 3.37,
+          "sd": 0.44,
+          "items": 4,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "Drawing on Ancona (1990) and Choi (2002), we asked team members to rate the extent to which their team saw boundary-spanning activities as important.",
+          "notes": ""
+        },
+        {
+          "non_bs_name": "Consensus on external focus",
+          "r": 0.29,
+          "alpha": 999,
+          "mean": 1.07,
+          "sd": 0.25,
+          "items": 4,
+          "min": 999,
+          "max": 999,
+          "report_type": 999,
+          "specific_measure": "Following Chan's (1998) dispersion model and prior examples of team consensus measures (e.g., Colquitt et al., 2002), we operationalized this variable as the standard deviation across all team members on the four external focus items",
+          "notes": "Dispersion measure (standard deviation)"
+        },
+        {
+          "non_bs_name": "Project demands",
+          "r": 0.25,
+          "alpha": 0.76,
+          "mean": 4.81,
+          "sd": 1.22,
+          "items": 2,
+          "min": 1,
+          "max": 7,
+          "report_type": 1,
+          "specific_measure": "we asked team members to rate two items indicating the degree to which their team's project involved an extremely high level of client demands/expectations related to the project and the challenging nature of the project itself",
+          "notes": ""
+        },
+        {
+          "non_bs_name": "Team size",
+          "r": 0.26,
+          "alpha": 999,
+          "mean": 6.13,
+          "sd": 0.85,
+          "items": 999,
+          "min": 999,
+          "max": 999,
+          "report_type": 999,
+          "specific_measure": "",
+          "notes": "Count of team members"
+        },
+        {
+          "non_bs_name": "Team role overload",
+          "r": 0.41,
+          "alpha": 999,
+          "mean": 2.48,
+          "sd": 0.49,
+          "items": 3,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "we calculated role overload at the team level as the aggregated mean score for all team members on each of the three role overload items noted above.",
+          "notes": "Aggregated to team level"
+        },
+        {
+          "non_bs_name": "Team viability",
+          "r": 0.37,
+          "alpha": 0.81,
+          "mean": 3.30,
+          "sd": 0.66,
+          "items": 3,
+          "min": 1,
+          "max": 5,
+          "report_type": 1,
+          "specific_measure": "assessed via three items developed for this study (based largely on Hackman [1987] and Sundstrom et al. [1990]). Following Chan's (1998) referent-shift consensus model, we used a team-level referent.",
+          "notes": ""
+        },
+        {
+          "non_bs_name": "Team performance",
+          "r": 0.47,
+          "alpha": 0.84,
+          "mean": 5.81,
+          "sd": 1.14,
+          "items": 4,
+          "min": 1,
+          "max": 7,
+          "report_type": 3,
+          "specific_measure": "Client contacts who had worked closely with a team and were the end users of its project's results rated team performance.",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
