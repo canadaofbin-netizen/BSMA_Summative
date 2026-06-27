@@ -15,7 +15,7 @@ When triggered, you must execute the following automated workflow to extract mea
   - Extract the Publication Type, Study Design, International Context, and Occupation Type.
   - Return this data EXACTLY using the following JSON schema:
   `{ "article_id": "...", "sample_size": 123, "publication_type": 1, "study_design": 1, "international_context": 1, "occupation_type": "...", "bs_measure": { "name": "...", "items": 5, "alpha": 0.88, "mean": 4.1, "sd": 0.8, "min": 1, "max": 7, "report_type": 1, "specific_measure": "..." }, "correlations": [ { "non_bs_name": "...", "r": 0.26, "alpha": 0.90, "mean": 3.2, "sd": 1.1, "items": 9, "min": 1, "max": 7, "report_type": 1, "specific_measure": "..." } ] }`
-  - **CRITICAL EXCEPTION:** If a variable is demographic, return `999` for Items, Min, and Max."
+  - **CRITICAL EXCEPTION:** If a variable is a demographic or objective control variable (e.g., Age, Gender, Tenure, Education, Firm Size), **DO NOT SEARCH** the text for its properties. **IMMEDIATELY** return `999` for Items, Min, and Max to save time and prevent hallucinations."
 
 ## 2. Await Response
 - Wait asynchronously for the subagent to complete its task and return the JSON. Do not poll in a loop.
