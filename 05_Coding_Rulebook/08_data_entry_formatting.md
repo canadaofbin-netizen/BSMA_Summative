@@ -23,6 +23,10 @@ When executing Step 2 of the workflow (Writing to the `BSMA_Master_Coding_Sheet.
 ## Demographic Extraction Rules
 
 > [!TIP]
+> ### Aesthetic Rules
+> 1. **Empty Row Between Papers:** To maintain human readability in the Master Excel Sheet, you MUST ensure there is exactly one empty row separating the data rows of different Article IDs.
+> 2. **Missing Demographics (The 999 Exception):** Do NOT guess values. If a demographic variable (Age, Gender, Tenure) does not explicitly list its scale properties (Items, Min, Max), you MUST output `999` for those fields. Do NOT waste time searching or guessing.
+>
 > **Simplified Measure Descriptors (999)**
 > For any demographic or objective variable (e.g., Age, Gender, Education, Tenure, Firm Size, Firm Age), you MUST hardcode the following three Measure Descriptors as `999`:
 > - Number of Items

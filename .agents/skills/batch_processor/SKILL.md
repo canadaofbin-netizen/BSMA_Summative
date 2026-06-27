@@ -17,6 +17,7 @@ For each paper in the batch, you must:
 - Read the PDF text.
 - Follow the Three-Step Workflow in `03_automated_workflow.md` (Step 0 Triage, Step 1 Shadow Report, Step 2 Excel Injection).
 - **CRITICAL:** Use subagents (`invoke_subagent` with the `extract_measures` skill) to handle detailed extraction of measure descriptors to keep your context window clean.
+- **CRITICAL:** When injecting data into the Master Excel Sheet, you MUST NOT write custom `ws.append()` Python scripts. You must invoke `python .agents/scripts/universal_excel_inserter.py --excel BSMA_Master_Coding_Sheet.xlsx --data <JSON_STRING>` to ensure aesthetic formatting (blank rows between papers) is maintained.
 
 ## 3. Fault Tolerance
 - If you or a subagent encounters an edge case that violates rules, or a fundamentally unparseable correlation table (`[UNRECOGNIZED PARADIGM]`), **DO NOT STOP THE BATCH**.
