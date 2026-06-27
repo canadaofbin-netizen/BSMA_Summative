@@ -2,7 +2,6 @@ import openpyxl
 import os
 import argparse
 import json
-import re
 
 def insert_data(excel_path, data):
     if not os.path.exists(excel_path):
@@ -32,12 +31,10 @@ def insert_data(excel_path, data):
     inclusion_map = {0: "0 = Exclude", 1: "1 = Include"}
 
     article_id = data.get("article_id", "BSMA9999")
-    inclusion_status = data.get("inclusion_status", 1) # Default to 1 if not provided
+    inclusion_status = data.get("inclusion_status", 1)
     exclusion_reason = data.get("exclusion_reason", None)
 
-    # ----------------------------------------------------
     # PATH A: EXCLUSION LOGIC
-    # ----------------------------------------------------
     if inclusion_status == 0:
         row = [None] * 50
         row[0] = "KY"
@@ -50,81 +47,103 @@ def insert_data(excel_path, data):
         print(f"Successfully excluded {article_id}. Reason logged in Excel.")
         return
 
-    # ----------------------------------------------------
-    # PATH B: INCLUSION LOGIC
-    # ----------------------------------------------------
-    sample_size = data.get("sample_size", None)
-    pub_type = pub_type_map.get(data.get("publication_type"), data.get("publication_type"))
-    study_design = study_design_map.get(data.get("study_design"), data.get("study_design"))
-    intl_context = intl_context_map.get(data.get("international_context"), data.get("international_context"))
-    occ_type = data.get("occupation_type", None)
+    # PATH B: INCLUSION LOGIC (M:N schema)
+    samples = data.get("samples", [])
+    if not samples:
+        print(f"Error: No samples found in JSON for included paper {article_id}.")
+        return
 
-    bs_measure = data.get("bs_measure", {})
-    correlations = data.get("correlations", [])
-    
-    if not correlations:
-        print(f"Warning: Included paper {article_id} has no correlations listed in the payload.")
+    total_rows = 0
 
-    for index, corr in enumerate(correlations):
-        row = [None] * 50
+    for s_idx, sample in enumerate(samples):
+        sample_number = sample.get("sample_number", s_idx + 1)
+        sample_id = f"{article_id}.{sample_number}"
         
-        # Col 0-4: Identifiers
-        row[0] = "KY"
-        row[1] = article_id
-        row[2] = f"{article_id}.1" # Sample ID
-        row[3] = f"{row[2]}.{index + 1}" # Effect Size ID
-        row[4] = inclusion_map.get(1, "1 = Include")
-        
-        # Categoricals
-        row[11] = pub_type # Publication Type
-        row[16] = study_design # Study Design
-        row[20] = intl_context # International Context
-        row[21] = sample_size # N
-        row[25] = occ_type # Occupation Type
+        sample_size = sample.get("sample_size", None)
+        pub_type = pub_type_map.get(sample.get("publication_type"), sample.get("publication_type"))
+        study_design = study_design_map.get(sample.get("study_design"), sample.get("study_design"))
+        intl_context = intl_context_map.get(sample.get("international_context"), sample.get("international_context"))
+        occ_type = sample.get("occupation_type", None)
 
-        # Measure Descriptors: Boundary Spanning (Cols 26-31)
-        row[26] = bs_measure.get("items")
-        row[27] = bs_measure.get("min")
-        row[28] = bs_measure.get("max")
-        row[29] = report_type_map.get(bs_measure.get("report_type"), bs_measure.get("report_type"))
-        row[31] = bs_measure.get("specific_measure")
+        bs_measures = sample.get("bs_measures", [])
+        correlations = sample.get("correlations", [])
 
-        # Measure Descriptors: Non-BS (Cols 33-38)
-        row[33] = corr.get("items")
-        row[34] = corr.get("min")
-        row[35] = corr.get("max")
-        row[36] = report_type_map.get(corr.get("report_type"), corr.get("report_type"))
-        row[38] = corr.get("specific_measure")
+        if not bs_measures or not correlations:
+            print(f"Warning: Missing bs_measures or correlations in sample {sample_id}.")
+            continue
 
-        # Effect Sizes: BS (Cols 40-43)
-        row[40] = bs_measure.get("name")
-        row[41] = bs_measure.get("mean")
-        row[42] = bs_measure.get("sd")
-        row[43] = bs_measure.get("alpha")
+        for bs_measure in bs_measures:
+            bs_name = bs_measure.get("name", "Unknown BS")
+            
+            # Find all correlations paired with THIS specific BS construct
+            # If the schema doesn't specify a mapping, we assume all correlations apply to all BS measures (cross-product)
+            # A more advanced schema might include "bs_name" in the correlation object.
+            paired_corrs = [c for c in correlations if c.get("bs_name", bs_name) == bs_name]
+            if not paired_corrs:
+                paired_corrs = correlations # Fallback: assume all apply
 
-        # Effect Sizes: Non-BS (Cols 44-47)
-        row[44] = corr.get("non_bs_name")
-        row[45] = corr.get("mean")
-        row[46] = corr.get("sd")
-        row[47] = corr.get("alpha")
+            for c_idx, corr in enumerate(paired_corrs):
+                row = [None] * 50
+                
+                # Identifiers
+                row[0] = "KY"
+                row[1] = article_id
+                row[2] = sample_id
+                row[3] = f"{sample_id}.{total_rows + 1}" # Unique Effect Size ID
+                row[4] = inclusion_map.get(1, "1 = Include")
+                
+                # Categoricals
+                row[11] = pub_type
+                row[16] = study_design
+                row[20] = intl_context
+                row[21] = sample_size
+                row[25] = occ_type
 
-        # Effect Sizes: Correlation (Col 48)
-        row[48] = corr.get("r")
+                # BS Descriptors (Cols 26-32)
+                row[26] = bs_measure.get("items")
+                row[27] = bs_measure.get("min")
+                row[28] = bs_measure.get("max")
+                row[29] = report_type_map.get(bs_measure.get("report_type"), bs_measure.get("report_type"))
+                row[31] = bs_measure.get("specific_measure")
+                row[32] = bs_measure.get("notes") # Col 33 is 0-indexed as 32
 
-        ws.append(row)
+                # Non-BS Descriptors (Cols 33-39)
+                row[33] = corr.get("items")
+                row[34] = corr.get("min")
+                row[35] = corr.get("max")
+                row[36] = report_type_map.get(corr.get("report_type"), corr.get("report_type"))
+                row[38] = corr.get("specific_measure")
+                row[39] = corr.get("notes") # Col 40 is 0-indexed as 39
+
+                # Effect Sizes: BS (Cols 40-43)
+                row[40] = bs_name
+                row[41] = bs_measure.get("mean")
+                row[42] = bs_measure.get("sd")
+                row[43] = bs_measure.get("alpha")
+
+                # Effect Sizes: Non-BS (Cols 44-47)
+                row[44] = corr.get("non_bs_name")
+                row[45] = corr.get("mean")
+                row[46] = corr.get("sd")
+                row[47] = corr.get("alpha")
+
+                # Correlation
+                row[48] = corr.get("r")
+
+                ws.append(row)
+                total_rows += 1
 
     wb.save(excel_path)
-    print(f"Successfully injected {len(correlations)} rows into {excel_path} using rigid JSON schema.")
+    print(f"Successfully injected {total_rows} rows into {excel_path} for {article_id}.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Universal Excel Inserter for BSMA Meta-Analysis")
-    parser.add_argument("--excel", type=str, required=True, help="Path to the master Excel file")
-    parser.add_argument("--data", type=str, required=True, help="JSON string matching the structured schema")
-    
+    parser = argparse.ArgumentParser(description="Universal Excel Inserter for BSMA")
+    parser.add_argument("--excel", type=str, required=True)
+    parser.add_argument("--data", type=str, required=True)
     args = parser.parse_args()
     
     try:
         payload = json.loads(args.data)
         insert_data(args.excel, payload)
     except Exception as e:
-        print(f"Failed to parse JSON schema or insert data: {e}")
+        print(f"Failed: {e}")
