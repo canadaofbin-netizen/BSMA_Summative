@@ -51,6 +51,8 @@ def insert_data(excel_path, data):
     metadata = [ws.cell(row=target_row_idx, column=c).value for c in range(1, 12)] # Cols A to K
     
     # Overwrite extracted bibliometrics if provided by AI
+    if inclusion_status == 1:
+        metadata[5] = None   # Clear exclusion reason when including
     if title: metadata[7] = title        # Col 8
     if pub_name: metadata[8] = pub_name  # Col 9
     if author: metadata[9] = author      # Col 10
