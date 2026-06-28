@@ -1,0 +1,86 @@
+{
+    "article_id": "BSMA0003",
+    "inclusion_status": 1,
+    "title": "Achieving strategic renewal: the multi-level influences of top and middle managers’ boundary-spanning",
+    "publication_name": "Small Business Economics",
+    "author": "Glaser et al.",
+    "year": 2015,
+    "samples": [
+        {
+            "sample_number": 1,
+            "sample_size": 397,
+            "publication_type": 1,
+            "study_design": 1,
+            "international_context": 2,
+            "occupation_type": "middle managers",
+            "bs_measures": [
+                {
+                    "name": "MM boundary-spanning",
+                    "items": 999,
+                    "alpha": 999,
+                    "mean": 4.8,
+                    "sd": 4.5,
+                    "min": 1,
+                    "max": 30,
+                    "report_type": 1,
+                    "specific_measure": "The MMs were presented with a list of the units and were asked to tick the units that provided them with new knowledge or expertise.",
+                    "notes": "Constructed from the number of units to which the MM in question was connected (range 1 to 30)."
+                }
+            ],
+            "correlations": [
+                {
+                    "non_bs_name": "Gender",
+                    "r": 0.03,
+                    "alpha": 999,
+                    "mean": 0.29,
+                    "sd": 0.47,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 1,
+                    "specific_measure": "At the individual level, we controlled for gender (female =1, male =0) and job grade.",
+                    "notes": "female = 1, male = 0"
+                },
+                {
+                    "non_bs_name": "Grade",
+                    "r": -0.14,
+                    "alpha": 999,
+                    "mean": 1.13,
+                    "sd": 1.6,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 1,
+                    "specific_measure": "We controlled for job grade, as, within the selected group of MMs, there were two different job grades. Job grade reflects the strategically hierarchical position of a manager, serving as a proxy for power and job complexity.",
+                    "notes": "grade A = 0, grade B = 1"
+                },
+                {
+                    "non_bs_name": "Role conflict",
+                    "r": -0.07,
+                    "alpha": 0.81,
+                    "mean": 3.7,
+                    "sd": 1.2,
+                    "items": 7,
+                    "min": 1,
+                    "max": 7,
+                    "report_type": 1,
+                    "specific_measure": "The MMs were asked to indicate the extent to which they experienced role conflict by rating the items on a scale ranging from 1, “strongly disagree”, to 7, “strongly agree.”",
+                    "notes": "Seven items were averaged to form a single measure of role conflict after excluding one item from the Rizzo et al. (1970) eight-item scale due to cross loadings."
+                },
+                {
+                    "non_bs_name": "Overlap",
+                    "r": 0.03,
+                    "alpha": 999,
+                    "mean": 0.22,
+                    "sd": 0.3,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 1,
+                    "specific_measure": "Next, we calculated the proportion of overlap for each MM, by dividing the number of mutual ties by the total number of MMs’ boundary-spanning ties.",
+                    "notes": "Calculated using Boolean combinations in UCINET 6, representing the proportion of overlap ranging from 0 to 1."
+                }
+            ]
+        }
+    ]
+}
