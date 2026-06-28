@@ -1,0 +1,132 @@
+{
+    "article_id": "BSMA0004",
+    "inclusion_status": 1,
+    "title": "A Longitudinal Study on the Impact Mechanism of Employees’ Boundary Spanning Behavior: Roles of Centrality and Collectivism",
+    "publication_name": "Acta Psychologica Sinica",
+    "author": "Liu et al.",
+    "year": 2014,
+    "samples": [
+        {
+            "sample_number": 1,
+            "sample_size": 292,
+            "publication_type": 1,
+            "study_design": 2,
+            "international_context": 1,
+            "occupation_type": "High-tech park employees",
+            "bs_measures": [
+                {
+                    "name": "员工跨界行为",
+                    "items": 5,
+                    "alpha": 0.869,
+                    "mean": 4.98,
+                    "sd": 0.84,
+                    "min": 1,
+                    "max": 7,
+                    "report_type": 1,
+                    "specific_measure": "员工的跨界行为 采用的是 Marrone 等(2007) 开发的量表。原量表共 6个条目 , 我们删除了原量表中专门针对样本 (咨询团队 )特点设计的 1个条目 , 所以共 5个条目 , 比如 “我会从团队外部人那里为我们团队寻求建议 ”等。",
+                    "notes": ""
+                }
+            ],
+            "correlations": [
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "员工年龄",
+                    "r": -0.08,
+                    "alpha": 999,
+                    "mean": 28.74,
+                    "sd": 5.43,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 999,
+                    "specific_measure": "999",
+                    "notes": "Years"
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "员工性别",
+                    "r": -0.06,
+                    "alpha": 999,
+                    "mean": 0.43,
+                    "sd": 0.5,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 999,
+                    "specific_measure": "999",
+                    "notes": "1 = male, 0 = female"
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "教育程度",
+                    "r": 0.01,
+                    "alpha": 999,
+                    "mean": 3.28,
+                    "sd": 0.85,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 999,
+                    "specific_measure": "999",
+                    "notes": "1 (high school and below) to 6 (doctoral degree)"
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "本团队工作时间",
+                    "r": 0.03,
+                    "alpha": 999,
+                    "mean": 20.64,
+                    "sd": 18.47,
+                    "items": 999,
+                    "min": 999,
+                    "max": 999,
+                    "report_type": 999,
+                    "specific_measure": "999",
+                    "notes": "Months"
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "集体主义导向",
+                    "r": 0.1,
+                    "alpha": 0.891,
+                    "mean": 5.84,
+                    "sd": 1.05,
+                    "items": 3,
+                    "min": 1,
+                    "max": 7,
+                    "report_type": 1,
+                    "specific_measure": "集体主义 采用 Ilies, Wagner 和Morgeson (2007) 使用过的量表 , 共3个条目 , 比如 “比起独自工作来说 , 我更愿意和同事一起工作 ”等。",
+                    "notes": ""
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "网络中心性",
+                    "r": 0.27,
+                    "alpha": 0.869,
+                    "mean": 3.1,
+                    "sd": 0.59,
+                    "items": 2,
+                    "min": 1,
+                    "max": 5,
+                    "report_type": 3,
+                    "specific_measure": "咨询网络中心性 采用的是 Sparrowe 等(2001) 采用的点入中心性 (in-degree centrality, Borgatti, Everett, & Freeman, 1992) 的测量方法。为了收集整体网络数据 , 我们在每个团队中都列上了所有成员的名字 , 然后要求员工对其同事进行评价。量表共 2个条目 , 比如 “你向 (某某 )寻求有关工作的帮助或建议吗 ”。我们关心的是这种关系的强度 (strength), 所以通过 Likert 5 点来进行测量 , 1表示 “从不 ”, 5表示 “总是 ”。",
+                    "notes": "Advice network centrality"
+                },
+                {
+                    "bs_name": "员工跨界行为",
+                    "non_bs_name": "任务绩效",
+                    "r": 0.31,
+                    "alpha": 0.919,
+                    "mean": 5.57,
+                    "sd": 0.81,
+                    "items": 4,
+                    "min": 1,
+                    "max": 7,
+                    "report_type": 2,
+                    "specific_measure": "任务绩效 采用的是 Liden, Wayne 和Stilwell (1993) 开发的量表 , 共4个条目 , 比如 “这名员工能够充分完成分配的任务 ”等, 由领导填写。",
+                    "notes": ""
+                }
+            ]
+        }
+    ]
+}
