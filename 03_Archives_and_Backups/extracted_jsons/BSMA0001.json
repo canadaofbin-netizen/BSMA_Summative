@@ -12,7 +12,11 @@
             "publication_type": 1,
             "study_design": 1,
             "international_context": 1,
+            "country": "South Korea",
             "occupation_type": "Various industries",
+            "mean_age": 43.4,
+            "percent_female": 19,
+            "org_tenure": 999,
             "bs_measures": [
                 {
                     "name": "Leader Boundary-Spanning Behavior",

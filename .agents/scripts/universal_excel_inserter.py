@@ -101,6 +101,11 @@ def insert_data(excel_path, data):
         study_design = study_design_map.get(sample.get("study_design"), sample.get("study_design"))
         intl_context = intl_context_map.get(sample.get("international_context"), sample.get("international_context"))
         occ_type = sample.get("occupation_type", None)
+        country = sample.get("country", None)
+        country_specify = sample.get("country_specify", None)
+        mean_age = sample.get("mean_age", 999)
+        percent_female = sample.get("percent_female", 999)
+        org_tenure = sample.get("org_tenure", 999)
 
         bs_measures = sample.get("bs_measures", [])
         correlations = sample.get("correlations", [])
@@ -132,8 +137,13 @@ def insert_data(excel_path, data):
                 # Categoricals
                 row[11] = pub_type
                 row[16] = study_design
+                row[18] = country
+                row[19] = country_specify
                 row[20] = intl_context
                 row[21] = sample_size
+                row[22] = mean_age
+                row[23] = percent_female
+                row[24] = org_tenure
                 row[25] = occ_type
 
                 # BS Descriptors (Cols 26-32)
