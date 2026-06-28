@@ -13,7 +13,7 @@ To ensure the highest level of accuracy and speed, all AI coding assistants must
   2. The boundary spanning behavior is NOT measured at the **Individual-level**. ONLY Individual-level passes. Any non-individual unit of analysis (Team, Unit, Department, Organization, Firm, etc.) → EXCLUDE. (See Casebook Precedent #002.)
   - NOTE: The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning IS the focal employee regardless of job title. (See Casebook Precedent #001).
   - If EXCLUDED: Immediately halt numerical extraction. Set `inclusion_status` to 0 and log the exclusion reason in the JSON schema.
-- **Bibliometrics Extraction:** Extract `title`, `publication_name` (journal), `author` (first author et al.), and `year` from the paper header. These must be included in the JSON payload.
+- **Bibliometrics Extraction:** Extract `title`, `publication_name` (full, unabbreviated journal name, e.g. 'Journal of Applied Psychology'), `author` (all authors' full names, e.g. 'Jihye Lee, Dongwon Choi, Minyoung Cheong'), and `year` from the paper header. These must be included in the JSON payload.
 - **Measure Extraction:** If INCLUDED, deploy subagents to extract the items, alphas, N, Means, SDs, and Pearson correlations (r) for the focal boundary spanning construct and all paired variables. 
   - Subagents must rigorously enforce the Zero-Order Lock (no betas), Dyadic Data rules (Focal Employee only), and Dummy Variable Alpha exceptions.
   - Compile the extracted data into a structured M:N JSON payload.

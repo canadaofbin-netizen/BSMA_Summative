@@ -12,7 +12,7 @@ When triggered, you must execute the following automated workflow to extract mea
 ## 1. Subagent Invocation
 - Use the `invoke_subagent` tool to spawn a specialized `research` subagent.
 - **Prompt for Subagent:** "Read the provided PDF paper located at [Path].
-  - First, extract the basic bibliometrics from the paper's header or title page: `title`, `publication_name` (journal name), `author` (first author et al.), and `year`.
+  - First, extract the basic bibliometrics from the paper's header or title page: `title`, `publication_name` (full, unabbreviated journal name, e.g. 'Journal of Applied Psychology', not 'J. Appl. Psychol.'), `author` (all authors' full names, e.g. 'Jihye Lee, Dongwon Choi, Minyoung Cheong', not 'Lee et al.'), and `year`.
   - Next, identify the Boundary Spanning construct and all paired variables by reading the Correlation Matrix. Extract `r`, `Mean`, `SD`, and `Alpha` for all variables.
   - Locate the 'Measures' section. Extract Items, Min/Max, Report Type, and the **exact descriptive sentence** used for the citation/source.
   - Return this data EXACTLY using the following nested M:N JSON schema:
