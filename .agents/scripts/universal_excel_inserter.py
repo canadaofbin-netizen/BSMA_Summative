@@ -45,7 +45,16 @@ def insert_data(excel_path, data):
             
     if target_row_idx is None:
         print(f"Warning: {article_id} not found in existing rows. Appending to bottom.")
-        target_row_idx = ws.max_row + 1
+        # Enforce Blank Row Separation Rule: check if the last row has any data
+        last_row_empty = True
+        for c in range(1, ws.max_column + 1):
+            if ws.cell(row=ws.max_row, column=c).value is not None:
+                last_row_empty = False
+                break
+        if last_row_empty and ws.max_row > 1:
+            target_row_idx = ws.max_row
+        else:
+            target_row_idx = ws.max_row + 2
 
     # Extract metadata from the existing row (if it exists) to copy into new rows
     metadata = [ws.cell(row=target_row_idx, column=c).value for c in range(1, 12)] # Cols A to K
