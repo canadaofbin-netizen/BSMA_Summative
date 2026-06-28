@@ -17,10 +17,11 @@ For each paper in the batch, you must:
 - Run `python .agents/scripts/find_pdf.py --id [Article_ID]` to automatically locate the `.txt` file for the paper.
 - Read the located `.txt` file.
 - Follow the Two-Step Workflow in `04_Coding_Rulebook/03_automated_workflow.md` (Step 1 Triage & Extraction, Step 2 Excel Injection).
+- **CRITICAL - PRE-TRIAGE: READ CASEBOOK FIRST.** Before making any inclusion/exclusion decision, you MUST read `.agents/skills/batch_processor/triage_casebook.md` in full. Apply the professor's established rulings (precedents) to your paper. If the paper resembles a past case, follow that precedent exactly.
 - **CRITICAL - TRIAGE CRITERIA:** You MUST independently evaluate if the paper should be EXCLUDED based on these rules: 
   1. Not empirical (e.g. theoretical).
   2. Team-level or Firm-level analysis instead of Individual-level.
-  *(NOTE: The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning is the focal employee.)*
+  *(NOTE: The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning is the focal employee. See Casebook Precedent #001.)*
   If the paper fails any criteria, set `"inclusion_status": 0` and `"exclusion_reason": "..."` in the JSON and immediately inject it into Excel. Skip all other steps.
 - **Step 0.5 (CRITICAL) - Variable Identification:** If INCLUDED, spawn a subagent to read the "Means, Standard Deviations, and Correlations" table. It must identify the Boundary Spanning construct, the sample size (N), and all paired variables, and extract their `r` values, Means, SDs, and Cronbach's Alphas.
 - **CRITICAL - ZERO-ORDER LOCK:** You MUST explicitly command the subagents to ONLY extract Pearson correlations (`r`). They are absolutely forbidden from pulling path coefficients (betas) from structural equation models (SEM) or regression tables.
