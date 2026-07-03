@@ -1,0 +1,79 @@
+A diagnostic model of private control and collective control in
+buyer-supplier relationships
+Yi Liu a, Yadong Luo b,c, Ying Huang d,⁎, Qian Yang e
+a Antai College of Economics & Management, Shanghai Jiao Tong University, Shanghai 200052, China
+b School of Business Administration, University of Miami, Coral Gables, FL 33124-9145, United States
+c Sun Yat Sen University Business School, Guangzhou, China
+d Manning School of Business, University of Massachusetts at Lowell, Lowell, MA 01854, United States
+e School of Management, Northwestern Polytechnical University, Xi'an 710072, China
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 10 September 2015
+Received in revised form 12 October 2016
+Accepted 28 November 2016
+Available online 4 December 2016
+This study examines the control-based governance in buyer-supplier relationships. Building on boundary span-
+ning theory and governance literature, we propose an integrated model that consists of exchange parties' private
+control (aimed at individual gains) and collective control (aimed at joint gains) in boundary spanning activities,
+along with their structural antecedents and relationship consequences in interorganizational governance. Using
+data collected from manufacturer-distributor dyads, we demonstrate that a buyer-supplier relationship charac-
+terized by a high degree of distributive justice and low degrees of goal difference and power asymmetry pro-
+motes exchange parties' collective control while inhibiting private control in boundary spanning conduct. The
+impact of private and collective controls on dyadic relationship performance is further mediated through gover-
+nance costs and returns. Speciﬁcally, private control results in conﬂict and transaction costs that undermine dy-
+adic relationship performance, whereas collective control leads to solidarity and reciprocity that sustain dyadic
+relationship performance. Recognizing and distinguishing between private control and collective control is es-
+sential to managing boundary-spanning behavior in buyer-supplier relationships and to solidifying relationship
+performance in supply chain and channel management.
+Published by Elsevier Inc.
+Keywords:
+Buyer-supplier relationships
+Control
+Governance
+Interorganizational exchange
+1. Introduction
+The abundant research on interorganizational relationships in the
+past few decades has clearly documented the role of collaboration in
+value creation as well as the importance of control in interorganization-
+al governance (Bensaou & Venkatraman, 1995; Jap & Ganesan, 2000;
+Majchrzak, Jarvenpaa, & Bagherzadeh, 2015). Control, a mode of struc-
+turing and regulating the conduct of parties, is essential to achieving
+ﬁrm performance and managing interorganizational relationships
+(Das, 1989; Das & Teng, 1998; Luo, 2007; Williamson, 1979), because
+proper control can curtail the risk and uncertainty that are inherent in
+exchange (Claycomb & Frankwick, 2010; Larson, 1992). Thus, choosing
+proper control practices is key to interorganizational relationships man-
+agement (Hoetker & Mellewigt, 2009) because “coordination and other
+desirable outcomes do not occur unless members recognize and choose
+behaviors most efﬁcient and effective for the conduct” (Gilliland, Bello,
+& Gundlach, 2010, p. 441). Accordingly, much research has been
+devoted to investigating control in interorganizational governance and
+results have been proliﬁc (e.g., Das & Teng, 1998; Gilliland et al., 2010;
+Heide, Wathne, & Rokkan, 2007; Jap & Ganesan, 2000; Varoutsa &
+Scapens, 2015).
+To date, control1 has been studied in various ways, including the de-
+gree of importance and effectiveness (primary & secondary controls;
+see Jaworski, 1988), point of intervention (process & output controls;
+see Jaworski, 1988), ownership structure (equity & non-equity controls;
+see Yan & Gray, 1994), control dimension (incenting, monitoring, &
+enforcing, see Gilliland et al., 2010), governance mechanism (transac-
+tional/formal & relational/social, see Popp & Zenger, 2002), and parties
+involved (private & collective controls, see Luo, 2007). Despite their
+fruition of providing multiple facets of the control practices, many of
+prior control typologies focus on control exerted by a single party. An
+Industrial Marketing Management 63 (2017) 116–128
+⁎ Corresponding author.
+E-mail addresses: liuyi76@sjtu.edu.cn (Y. Liu), dr.yadong@gmail.com (Y. Luo),
+Ying_Huang1@uml.edu (Y. Huang), bmyangqian@scut.edu.cn (Q. Yang).
+1 We distinguish control from governance. Governance is regarded as “a higher-level
+concept describing an organizational construction or, in broader term, institutional frame-
+work” whereas control is “the underlying and concrete operative practice” that is brought
+to achieve the desirable or predetermined goal (Hoetker & Mellewigt, 2009, p. 1027). Dif-
+ferent control activities (e.g., process and output controls) may be adopted by two parties
+to support interorganizational governance (e.g., a contractual arrangement).
+http://dx.doi.org/10.1016/j.indmarman.2016.11.003
+0019-8501/Published by Elsevier Inc.
+Contents lists available at ScienceDirect
+Industrial Marketing Management

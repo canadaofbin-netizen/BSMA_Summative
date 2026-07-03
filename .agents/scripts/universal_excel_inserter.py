@@ -78,7 +78,7 @@ def insert_data(excel_path, data):
         exclusion_code_map = {
             1: "1 = No effect size of interest",
             2: "2 = Non-employee samples",
-            3: "3 = Non-boundary spanning measures",
+            3: "3 = non-individual level",
             4: "4 = Non-primary study",
             5: "5 = Multiple reasons (specify in Notes)",
             6: "6 = Duplicate",

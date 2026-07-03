@@ -1,45 +1,50 @@
 import os
+import re
+import sys
 import argparse
 import glob
-import openpyxl
+import fitz  # PyMuPDF
 
-def find_pdf_text(article_id, excel_path, texts_dir):
-    # Try to find the exact BSMA000X match first (if renamed)
-    exact_match = os.path.join(texts_dir, f"{article_id}.txt")
-    if os.path.exists(exact_match):
-        return exact_match
+sys.stdout.reconfigure(encoding='utf-8')
 
-    # If not renamed, lookup Author/Year in Excel to fuzzy match the filename
-    try:
-        wb = openpyxl.load_workbook(excel_path, data_only=True)
-        ws = wb.active
-        
-        author = None
-        year = None
-        for row in ws.iter_rows(min_row=4, max_col=10, values_only=True):
-            if row[1] == article_id: # Col 2 is Article ID
-                author = str(row[7]).split(',')[0].strip() if row[7] else "" # First author
-                year = str(row[8]).strip() if row[8] else ""
+def find_pdf_text(article_id, excel_path="BSMA_Master_Coding_Sheet.xlsx", texts_dir="03_Archives_and_Backups/pdf_texts"):
+    os.makedirs(texts_dir, exist_ok=True)
+    target_txt = os.path.join(texts_dir, f"{article_id}.txt")
+    
+    # Extract number from Article ID (e.g., BSMA0005 -> 5)
+    m = re.search(r'(\d+)', article_id)
+    if not m:
+        return target_txt
+    art_no = int(m.group(1))
+    
+    # Look for the exact 1-to-1 PDF in 01_Academic_Papers
+    papers_dir = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
+    matched_pdf = None
+    if os.path.exists(papers_dir):
+        for f in os.listdir(papers_dir):
+            if f.startswith(f"[{art_no}]") and f.lower().endswith(".pdf"):
+                matched_pdf = os.path.join(papers_dir, f)
                 break
-        
-        if author and year:
-            # Look for a file containing the author and year recursively
-            all_files = glob.glob(os.path.join("03_Archives_and_Backups", "**", "*.txt"), recursive=True)
-            for f in all_files:
-                fname = os.path.basename(f).lower()
-                if author.lower() in fname and year in fname:
-                    return f
-            # If year is missing but author matches
-            for f in all_files:
-                fname = os.path.basename(f).lower()
-                if author.lower() in fname:
-                    return f
-
-    except Exception as e:
-        print(f"Error reading Excel for mapping: {e}")
-
-    # Fallback: Just return a structured path even if it fails, let the caller handle it
-    return exact_match
+    
+    # If PDF found, extract clean text using fitz (PyMuPDF) and write to target_txt
+    if matched_pdf and os.path.exists(matched_pdf):
+        try:
+            doc = fitz.open(matched_pdf)
+            text_pages = []
+            for page in doc:
+                text_pages.append(page.get_text("text"))
+            doc.close()
+            full_text = "\n--- PAGE BREAK ---\n".join(text_pages)
+            with open(target_txt, "w", encoding="utf-8", errors="ignore") as f:
+                f.write(full_text)
+            return target_txt
+        except Exception as e:
+            sys.stderr.write(f"Error extracting text from {matched_pdf}: {e}\n")
+            
+    # Fallback to old behavior if not found
+    if os.path.exists(target_txt):
+        return target_txt
+    return target_txt
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -49,4 +54,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     result = find_pdf_text(args.id, args.excel, args.dir)
-    print(result) # Print the resolved file path to stdout
+    print(result)
