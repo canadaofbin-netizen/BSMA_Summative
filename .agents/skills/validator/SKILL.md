@@ -16,8 +16,9 @@ When prompting the Validator subagent, instruct it to explicitly check for the f
 1. **Level of Analysis Violation:** Is the boundary spanning measured at the Individual-level? ONLY Individual-level passes. Any non-individual level (Team, Unit, Department, Organization, Firm) must be excluded. (Violates `06_non_individual_anchors.md`)
 2. **Focal-Entity Violation:** Did the orchestrator accidentally include cross-entity variables like a subordinate's voice behavior or a coworker's performance when the anchor is the Leader/Expatriate? (Violates `01_dyadic_data_rules.md`)
 3. **Level-of-Analysis & Construct Homonymy Audit:** Explicitly verify that the study is NOT a firm-level patent study, an interfirm alliance study, a team-level aggregated analysis ($N = \text{teams}$), or a bibliometric citation analysis. If any macro keywords (`patent`, `optical disk`, `strategic alliance`, `interfirm`, `firm value`, `team boundary work`, `bibliometric`) appear without individual employee dyadic/survey data, flag immediately for exclusion under `Code 3` or `Code 2`.
-4. **No Guesswork:** Did the orchestrator hallucinate alphas or ranges instead of safely using `999`? (Violates `00_core_process.md`)
-5. **Demographic Rule:** Did the orchestrator properly apply `999` for demographic measure descriptors (Items, Min, Max)? (Violates `08_data_entry_formatting.md`)
+4. **Zero False Negative & Surface Keyword Guardrail:** Never exclude a paper solely based on macro-sounding words in the title (e.g., "Interorganizational", "Selling Organizations", "Modelling"). Always open and check the abstract/methodology to verify whether the study collected quantitative survey data from individual organizational employees (e.g., salespeople, frontline staff, branch managers). If individual employee survey correlation data is present, protect the paper as **INCLUDE (1 = Include)**.
+5. **No Guesswork:** Did the orchestrator hallucinate alphas or ranges instead of safely using `999`? (Violates `00_core_process.md`)
+6. **Demographic Rule:** Did the orchestrator properly apply `999` for demographic measure descriptors (Items, Min, Max)? (Violates `08_data_entry_formatting.md`)
 
 ## 3. Reflection & Correction Loop
 - If the Validator returns `PASS`, proceed to Excel Injection via `universal_excel_inserter.py`.
