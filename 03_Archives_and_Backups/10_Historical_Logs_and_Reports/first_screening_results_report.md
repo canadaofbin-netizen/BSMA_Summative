@@ -36,7 +36,7 @@ When excluding a paper, standardized exclusion codes were recorded in Column F (
 
 ```mermaid
 pie title "Distribution of Excluded Papers by Reason (Total Excluded = 313)"
-    "3 = non-individual level (133)" : 133
+    "99 = Other (Team/Firm/Org Level) (133)" : 133
     "1 = No effect size of interest (109)" : 109
     "2 = Non-employee samples (41)" : 41
     "4 = Non-primary study (30)" : 30
@@ -46,8 +46,8 @@ pie title "Distribution of Excluded Papers by Reason (Total Excluded = 313)"
 
 | Reason Code (Col F / Col 6) | Count | % of Excluded | % of Total Pool | Detailed Rationale & Typical Examples |
 | :--- | :---: | :---: | :---: | :--- |
-| **`3 = non-individual level`** | **133** | **42.5%** | **19.0%** | **Macro or Group Level Analysis:** Examines boundary spanning at the team, business unit, firm, board of directors, supply chain, multiteam system (MTS), or inter-organizational alliance level rather than individual employee behavior. *(e.g., NPD team intelligence, firm technological alliances, bank branch autonomy).* |
+| **`99 = Other`** *(Wrong level of analysis)* | **133** | **42.5%** | **19.0%** | **Macro or Group Level Analysis:** Examines boundary spanning at the team, business unit, firm, board of directors, supply chain, multiteam system (MTS), or inter-organizational alliance level rather than individual employee behavior. *(e.g., NPD team intelligence, firm technological alliances, bank branch autonomy).* |
 | **`1 = No effect size of interest`** | **109** | **34.8%** | **15.5%** | **Missing Statistical Effect Sizes:** Empirical studies investigating individual organizational members, but failing to report quantitative bivariate correlation ($r$) or regression matrices linking boundary spanning behavior to outcome variables. |
 | **`2 = Non-employee samples`** | **41** | **13.1%** | **5.8%** | **Non-Workplace Populations:** Studies sampling non-employee subjects such as general consumers, hospital patients, university students, citizens, municipal governments, prescribing physicians, or adventure tourists. |
 | **`4 = Non-primary study`** | **30** | **9.6%** | **4.3%** | **Theoretical / Conceptual / Review:** Conceptual frameworks, literature reviews, theoretical models, editorials, typologies, or previous meta-analyses lacking an original primary empirical dataset. *(e.g., articles published in AMR, IJMR, or conceptual chapters).* |
-| **`5`, `6`, `7`, `99` (Other)** | **0** | **0.0%** | **0.0%** | **Zero Occurrences:** No duplicates (`6`), non-English publications (`7`), or unclassifiable edge cases (`99`) were found during screening. |
+| **`3`, `5`, `6`, `7`** | **0** | **0.0%** | **0.0%** | **Zero Occurrences:** No non-boundary spanning measures (`3`), duplicates (`6`), or non-English publications (`7`) were found. |
