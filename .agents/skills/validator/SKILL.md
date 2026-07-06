@@ -19,6 +19,7 @@ When prompting the Validator subagent, instruct it to explicitly check for the f
 4. **Zero False Negative & Surface Keyword Guardrail:** Never exclude a paper solely based on macro-sounding words in the title (e.g., "Interorganizational", "Selling Organizations", "Modelling"). Always open and check the abstract/methodology to verify whether the study collected quantitative survey data from individual organizational employees (e.g., salespeople, frontline staff, branch managers). If individual employee survey correlation data is present, protect the paper as **INCLUDE (1 = Include)**.
 5. **No Guesswork:** Did the orchestrator hallucinate alphas or ranges instead of safely using `999`? (Violates `00_core_process.md`)
 6. **Demographic Rule:** Did the orchestrator properly apply `999` for demographic measure descriptors (Items, Min, Max)? (Violates `08_data_entry_formatting.md`)
+7. **Verbatim Quote Audit for Exclusions:** If a study is judged as `0 = Exclude`, verify that the justification string in `Notes` contains the tag `Verbatim Evidence: "..."` with an exact unmodified sentence extracted from the PDF. Reject any exclusion claim that lacks a direct verbatim quotation.
 
 ## 3. Reflection & Correction Loop
 - If the Validator returns `PASS`, proceed to Excel Injection via `universal_excel_inserter.py`.

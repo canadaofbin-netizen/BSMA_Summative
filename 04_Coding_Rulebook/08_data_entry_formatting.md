@@ -46,4 +46,18 @@ When executing Step 2 of the workflow (Writing to the `BSMA_Master_Coding_Sheet.
 > **Longitudinal / Time-Lagged Criteria**
 > When determining `Col 17 (Study Design)` as longitudinal/time-lagged, the only thing that matters is whether there is a time gap between the measurement of boundary spanning and the measurement of the other focal variable (antecedent or outcome) it is paired with. It does **NOT** matter if boundary spanning itself was measured repeatedly over time. Focus exclusively on the measurement time gap between the two paired variables.
 
+## Exclusion Notes Rules (Col 16)
+
+> [!IMPORTANT]
+> **Verbatim Quote Injection Protocol (Zero Hallucination)**
+> Whenever a paper is judged as `0 = Exclude` in Col 5, you MUST record a character-for-character verbatim quote from the PDF text in **Col 16 (Notes)** proving the exclusion rationale. Do not rely solely on subjective AI summaries.
+>
+> **Standard Format:** `[Reason summary]. Verbatim Evidence: "<exact quote from PDF>" (<section name>)`
+>
+> **Examples by Exclusion Code:**
+> - **Code 3 (Macro/Firm):** `Macro/Firm-level study. Verbatim Evidence: "We tested our hypotheses using a panel dataset of 450 inter-firm strategic alliances and patent citations..." (Methodology)`
+> - **Code 3 (Team Aggregation):** `Team-level aggregation. Verbatim Evidence: "Individual responses were aggregated using rwg and ICC(1) to represent the 82 NPD teams (N = 82 teams)." (Analysis)`
+> - **Code 4 (Qualitative/Conceptual):** `Qualitative study. Verbatim Evidence: "The study employs a collaborative analytical autoethnography where, through memo-writings and reflective notes..." (Abstract)`
+> - **Code 2 (Non-employee Sample):** `Non-employee sample. Verbatim Evidence: "A total of 312 undergraduate business students participated in our simulation." (Sample)`
+
 </details>
