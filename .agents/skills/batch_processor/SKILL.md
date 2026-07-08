@@ -1,45 +1,40 @@
 ---
 name: batch_processor
-description: Master orchestrator loop for automating the extraction of academic papers.
+description: Master orchestrator loop for automating the pure data extraction of included academic papers.
 ---
 
-# Batch Processor Loop (Loop Engineering)
+# Batch Processor Loop (Data Extraction Engine)
 
-When the user asks you to "run the batch processor" or "process the next N papers", you must act as the Master Orchestrator and follow this precise Loop logic:
+When the user asks you to "run the batch processor" or "extract data from papers", you must act as the Master Orchestrator and follow this precise Loop logic:
 
-## 1. Queue Retrieval
-- Read `04_Archives_and_Backups/batch_queue.csv` using a Python script.
-- Identify the next `PENDING` paper(s) to process.
-- Change their status to `PROCESSING` in the CSV.
+## 1. Queue Self-Healing & Retrieval (Stateful Poison Pill Defense)
+- **Self-Healing:** Before starting, read `04_Archives_and_Backups/batch_queue.csv`. If any papers are stuck in `PROCESSING` status, increment their `ROLLBACK_COUNT` column by 1 and auto-rollback their status to `PENDING`. 
+- **Max 2 Rollbacks (Poison Pill):** If a paper's `ROLLBACK_COUNT` exceeds 2, DO NOT rollback to `PENDING`. Immediately mark it as `PERMANENT_FAIL` to prevent an infinite crash loop.
+- Identify the next `PENDING` paper(s) to process where the initial screening status is `1 = Include`.
+- Change their status to `PROCESSING` in the CSV immediately.
 
-## 2. Delegation (Per Paper)
-For each paper in the batch, you must:
-- Run `python .agents/scripts/find_pdf.py --id [Article_ID]` to automatically locate the `.txt` file for the paper.
-- Read the located `.txt` file.
-- Follow the Two-Step Workflow in `04_Coding_Rulebook/03_automated_workflow.md` (Step 1 Triage & Extraction, Step 2 Excel Injection).
-- **CRITICAL - PRE-TRIAGE: READ CASEBOOK FIRST.** Before making any inclusion/exclusion decision, you MUST read `.agents/skills/batch_processor/triage_casebook.md` in full. Apply the professor's established rulings (precedents) to your paper. If the paper resembles a past case, follow that precedent exactly.
-- **CRITICAL - TRIAGE CRITERIA:** You MUST independently evaluate if the paper should be EXCLUDED based on these rules: 
-  1. Not empirical (e.g. theoretical).
-  2. The boundary spanning behavior is NOT measured at the **Individual-level**. ONLY Individual-level passes. Any non-individual unit of analysis (Team, Unit, Department, Organization, Firm, etc.) → EXCLUDE.
-  *(NOTE: The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning is the focal employee. See Casebook Precedent #001.)*
-  If the paper fails any criteria, set `"inclusion_status": 0`, `"exclusion_code": 99` (or appropriate code), and `"exclusion_reason": "..."` in the JSON and immediately inject it into Excel. Skip all other steps.
-- **Step 0.5 (CRITICAL) - Variable Identification:** If INCLUDED, spawn a subagent to read the "Means, Standard Deviations, and Correlations" table. It must identify the Boundary Spanning construct, the sample size (N), and all paired variables, and extract their `r` values, Means, SDs, and Cronbach's Alphas.
-- **CRITICAL - ZERO-ORDER LOCK:** You MUST explicitly command the subagents to ONLY extract Pearson correlations (`r`). They are absolutely forbidden from pulling path coefficients (betas) from structural equation models (SEM) or regression tables.
-- **CRITICAL - MANDATORY CATEGORICALS:** You MUST explicitly tell subagents to extract Publication Type, Study Design, International Context, and Occupation Type.
-- **CRITICAL - EXACT MEASURE TEXT:** You MUST instruct subagents to extract the *exact descriptive sentence* for specific measures, not just the citation.
-- **CRITICAL - EXCEL INJECTION:** When injecting data into the Master Excel Sheet, you MUST invoke `python .agents/scripts/universal_excel_inserter.py --excel BSMA_Master_Coding_Sheet.xlsx --data <JSON_SCHEMA_STRING>`. Do not write custom inserters.
+## 2. 4-Node Multi-Agent Extraction (Per Paper)
+For each paper in the batch, you must coordinate 4 distinct Nodes:
+- Run `python .agents/scripts/find_pdf.py --id [Article_ID]` to automatically locate the `.txt` file.
+- **Node 1 (Pre-flight Triage):** Spawn a subagent to scan for Time-lag/Longitudinal flags.
+- **Node 2 (Footnote Scanner):** Spawn a subagent to check Table notes for partial correlations/controls.
+- **Node 3 (Table Parser):** Spawn a subagent to extract the correlation matrix using CoT matrix reasoning.
+- **Node 4 (Text Analyzer):** Spawn a subagent to extract verbatim sentences and dataset fingerprints.
+- Await all nodes. Merge their outputs into a single JSON response.
 
-## 3. Fault Tolerance & Infinite Loop Prevention
-- **MAX RETRIES (Circuit Breaker):** Maintain a `Retry_Count` for each paper. If a subagent crashes, returns an error, or hallucinates data, you may retry extraction. However, if a paper fails 3 times, you MUST immediately mark its status as `FAILED (Aborted)` in `batch_queue.csv`. NEVER attempt to process the same paper more than 3 times to prevent infinite loops.
-- If you or a subagent encounters an edge case that violates rules, or a fundamentally unparseable correlation table (`[UNRECOGNIZED PARADIGM]`), **DO NOT STOP THE BATCH**.
-- Mark the paper as `FAILED` or `EXCLUDED` in `batch_queue.csv`.
-- Append a detailed error entry to `03_Archives_and_Backups/error_log.md`.
-- Immediately proceed to the next paper in the loop.
+## 3. Fast-Fail Pre-Check (CRITICAL)
+- **Fast-Fail (Fatal Errors):** Before sending to Validator, check the merged string for fatal codes: `[DATA_NOT_FOUND]`, `[UNPARSEABLE_PDF]`, `[LoA_VIOLATION]`, `[CONSTRUCT_HOMONYMY_VIOLATION]`, `[PARTIAL_CORRELATION_POISONING]`, or `[AMBIGUOUS_MATRIX_DIAGONAL]`. 
+- If ANY of these codes exist, DO NOT pass to Validator. Abort extraction immediately. Mark as `PERMANENT_FAIL` in `batch_queue.csv` to bypass the HITL review queue and append the reason to `error_log.md`.
 
-## 4. State Persistence (Auto-Save)
-- After completing the requested batch, update `batch_queue.csv` with final statuses (`SUCCESS`, `FAILED`, `EXCLUDED`).
-- Run `git add .`, `git commit -m "Batch processor: completed N papers"`, and `git push` to save progress.
+## 4. Validator Chaining
+- You MUST pass the Merged JSON payload and the original Correlation Table to the `validator` subagent.
+- If `validator` returns `PASS`, proceed to step 5.
+- If `validator` returns `REJECT_RETRY`, retry up to 3 times. 
+- If `validator` returns `FATAL_REJECT`, treat it as a Fast-Fail (Abort immediately, mark as `PERMANENT_FAIL`).
 
-## 5. Reporting
-- Present a summary of the batch run to the user (e.g. "Processed 5 papers: 3 Success, 1 Excluded, 1 Failed").
-- Provide a link to the `error_log.md` if any failed.
+## 5. 4-Sheet Excel Routing & Atomic Sync
+- **Excel Injection (Safe CLI Args):** ONLY if validation passed, save the merged JSON payload to a temporary file (e.g., `temp_payload.json`). Invoke `python .agents/scripts/universal_excel_inserter.py --excel BSMA_Master_Coding_Sheet.xlsx --data-file temp_payload.json`. The script will handle routing to Raw, Transformed, Imputed, or Salami sheets.
+- **Atomic Sync:** The moment a paper succeeds or fails, immediately update its status and `ROLLBACK_COUNT` in `batch_queue.csv` and execute `git add .`, `git commit -m "Auto-extracted measures for [Paper ID]"`, and `git push` to save progress atomically.
+
+## 6. Reporting
+- Present a summary of the batch run to the user. Provide a link to the `error_log.md` if any failed.

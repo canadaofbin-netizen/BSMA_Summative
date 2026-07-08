@@ -1,6 +1,6 @@
 ---
 name: validator
-description: A Critic subagent that cross-checks Shadow Reports against the Coding Rulebook.
+description: A Critic subagent that cross-checks extracted Data JSON against the Data Integrity Rules.
 ---
 
 # Validator Subagent (Critic)
@@ -8,19 +8,20 @@ description: A Critic subagent that cross-checks Shadow Reports against the Codi
 The `validator` skill allows you to spawn a subagent dedicated to reviewing extraction output. It serves as a strict quality control layer before any data touches the Master Excel Sheet.
 
 ## 1. Invocation
-- Use `invoke_subagent` to spawn a subagent with the `self` or `research` type (if it needs to read rules).
-- Provide the generated **JSON payload** and the original **Correlation Table** from the paper to the subagent.
+- Use `invoke_subagent` to spawn a subagent with the `self` or `research` type.
+- Provide the generated **Merged JSON payload** and the original **Correlation Table / Methodology Text** from the paper to the subagent.
 
 ## 2. Validator Prompt Instructions
-When prompting the Validator subagent, instruct it to explicitly check for the following critical failure points:
-1. **Level of Analysis Violation:** Is the boundary spanning measured at the Individual-level? ONLY Individual-level passes. Any non-individual level (Team, Unit, Department, Organization, Firm) must be excluded. (Violates `06_non_individual_anchors.md`)
-2. **Focal-Entity Violation:** Did the orchestrator accidentally include cross-entity variables like a subordinate's voice behavior or a coworker's performance when the anchor is the Leader/Expatriate? (Violates `01_dyadic_data_rules.md`)
-3. **Level-of-Analysis & Construct Homonymy Audit:** Explicitly verify that the study is NOT a firm-level patent study, an interfirm alliance study, a team-level aggregated analysis ($N = \text{teams}$), or a bibliometric citation analysis. If any macro keywords (`patent`, `optical disk`, `strategic alliance`, `interfirm`, `firm value`, `team boundary work`, `bibliometric`) appear without individual employee dyadic/survey data, flag immediately for exclusion under `Code 3` or `Code 2`.
-4. **Zero False Negative & Surface Keyword Guardrail:** Never exclude a paper solely based on macro-sounding words in the title (e.g., "Interorganizational", "Selling Organizations", "Modelling"). Always open and check the abstract/methodology to verify whether the study collected quantitative survey data from individual organizational employees (e.g., salespeople, frontline staff, branch managers). If individual employee survey correlation data is present, protect the paper as **INCLUDE (1 = Include)**.
-5. **No Guesswork:** Did the orchestrator hallucinate alphas or ranges instead of safely using `999`? (Violates `00_core_process.md`)
-6. **Demographic Rule:** Did the orchestrator properly apply `999` for demographic measure descriptors (Items, Min, Max)? (Violates `08_data_entry_formatting.md`)
-7. **Verbatim Quote Audit for Exclusions:** If a study is judged as `0 = Exclude`, verify that the justification string in `Notes` contains the tag `Verbatim Evidence: "..."` with an exact unmodified sentence extracted from the PDF. Reject any exclusion claim that lacks a direct verbatim quotation.
+Instruct the Validator to explicitly check for the following 3 Core Integrity points (15-Round Architecture Rules):
 
-## 3. Reflection & Correction Loop
-- If the Validator returns `PASS`, proceed to Excel Injection via `universal_excel_inserter.py`.
-- If the Validator returns `REJECT`, you (the Orchestrator) MUST **Halt Excel Injection**. Read the Validator's feedback, correct the JSON payload, and repeat the Validation step until it passes.
+1. **Verbatim Fidelity (Strict Substring Rule):** Cross-check the extracted `specific_measure` texts from Node 4 against the `'source_quote'` field. The `specific_measure` MUST be an exactly identical, unmodified substring of `source_quote`. Reject the extraction immediately (`REJECT_RETRY`) if the Extractor altered any words, paraphrased, summarized, or if the exact source quote is missing.
+2. **Partial Mixed Matrix Deep Evaluation:** If Node 2 raised `is_partial_mixed: true`, you MUST evaluate Node 3's `<matrix_reasoning>` block. If Node 3 logically proves it extracted ONLY from the pure Zero-Order half of the matrix (e.g., lower diagonal), allow it to PASS. If Node 3 extracted from the partial correlation side, return `REJECT_RETRY`.
+3. **Formative/Objective Reliability Hallucination:** If the `measure_name` refers to an objective demographic (e.g., Age, Firm Size) or a Formative construct, verify that `reliability.type` is exactly `"Not_Applicable"`. If the LLM hallucinated a number or set it to `"Not_Reported"`, return `REJECT_RETRY`.
+
+*(Note: Zero Guesswork on numbers still applies; missing numeric fields must be `999`.)*
+
+## 3. Reflection & Correction Loop (Strict Circuit Breaker)
+- If the Validator returns `PASS`, the Orchestrator will proceed to Excel Injection.
+- If the Validator returns `REJECT_RETRY` (for formatting issues, zero-guesswork violations, verbatim fidelity, formative reliability mismatches), halt Excel Injection. Pass the feedback to the Extractors and retry.
+  - **MAX 3 RETRIES (CRITICAL):** You MUST NOT exceed 3 validation retries. If the payload still fails validation after 3 attempts, abort extraction and mark as `PERMANENT_FAIL`.
+- If the Validator returns `FATAL_REJECT` (e.g., Construct Homonymy), DO NOT RETRY. Abort immediately. Mark the paper as `PERMANENT_FAIL` in `batch_queue.csv`, log the Validator's exact failure reason in `error_log.md`, and proceed to the next paper.

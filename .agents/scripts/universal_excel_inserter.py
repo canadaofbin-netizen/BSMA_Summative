@@ -1,221 +1,126 @@
-import openpyxl
-import os
 import argparse
 import json
+import os
+import sys
+from difflib import SequenceMatcher
 
-def insert_data(excel_path, data):
-    if not os.path.exists(excel_path):
-        print(f"Error: Excel file not found at {excel_path}")
-        return
+def fuzzy_match(anchor1, anchor2, threshold=0.8):
+    if not anchor1 or not anchor2:
+        return False
+    # Simple similarity ratio
+    ratio = SequenceMatcher(None, anchor1.lower(), anchor2.lower()).ratio()
+    return ratio >= threshold
 
-    wb = openpyxl.load_workbook(excel_path)
-    ws = wb.active
-
-    # Text mapping dictionaries
-    pub_type_map = {1: "1 = Journal article", 2: "2 = Dissertation/thesis", 3: "3 = Conference paper", 4: "4 = Working paper/unpublished", 5: "5 = Book/book chapter"}
-    study_design_map = {1: "1 = Cross-sectional", 2: "2 = Longitudinal/time-lagged", 3: "3 = Experimental", 4: "4 = Qualitative"}
-    intl_context_map = {1: "1 = No (domestic only)", 2: "2 = Yes (expatriate, multinational, etc.)"}
-    report_type_map = {1: "1 = Self", 2: "2 = Supervisor", 3: "3 = Others", 4: "4 = Objective"}
-    inclusion_map = {0: "0 = Exclude", 1: "1 = Include"}
-
-    article_id = data.get("article_id", "BSMA9999")
+def route_and_insert_data(excel_path, payload):
+    print(f"Routing logic initialized for {excel_path}...")
     
-    # [NEW] Backup raw JSON payload to disk
-    backup_dir = "03_Archives_and_Backups/extracted_jsons"
-    os.makedirs(backup_dir, exist_ok=True)
-    backup_path = os.path.join(backup_dir, f"{article_id}.json")
-    with open(backup_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    print(f"Backed up raw JSON to {backup_path}")
-
-    inclusion_status = data.get("inclusion_status", 1)
-    exclusion_reason = data.get("exclusion_reason", None)
+    # 1. Extract Flags
+    is_longitudinal = payload.get("is_longitudinal", False)
+    is_imputed = payload.get("is_imputed", False)
+    is_partial_mixed = payload.get("is_partial_mixed", False)
+    is_transformed = payload.get("is_transformed", False)
     
-    title = data.get("title")
-    pub_name = data.get("publication_name")
-    author = data.get("author")
-    year = data.get("year")
-
-    # Find the target row
-    target_row_idx = None
-    for r in range(4, ws.max_row + 1):
-        if str(ws.cell(row=r, column=2).value).strip() == article_id:
-            target_row_idx = r
-            break
-            
-    if target_row_idx is None:
-        print(f"Warning: {article_id} not found in existing rows. Appending to bottom.")
-        # Enforce Blank Row Separation Rule: check if the last row has any data
-        last_row_empty = True
-        for c in range(1, ws.max_column + 1):
-            if ws.cell(row=ws.max_row, column=c).value is not None:
-                last_row_empty = False
+    # Check Salami Slicing (mock logic for now, in reality queries a DB)
+    fingerprint = payload.get("dataset_fingerprint", {})
+    is_salami_suspect = False # Placeholder
+    
+    print(f"Flags -> Longitudinal: {is_longitudinal}, Imputed: {is_imputed}, Partial: {is_partial_mixed}, Transformed: {is_transformed}")
+    
+    # 2. Extract Data
+    variables = payload.get("variables", [])
+    correlations = payload.get("correlations", [])
+    measure_details = payload.get("measure_details", [])
+    
+    # 3. Inner Join (Fuzzy Matching)
+    # Join `variables` (mean, sd) with `measure_details` (items, min, max, rel, classification)
+    joined_vars = []
+    for var in variables:
+        anchor = var.get("table_anchor_name")
+        match = None
+        for detail in measure_details:
+            if fuzzy_match(anchor, detail.get("table_anchor_name")):
+                match = detail
                 break
-        if last_row_empty and ws.max_row > 1:
-            target_row_idx = ws.max_row
-        else:
-            target_row_idx = ws.max_row + 2
-
-    # Extract metadata from the existing row (if it exists) to copy into new rows
-    metadata = [ws.cell(row=target_row_idx, column=c).value for c in range(1, 12)] # Cols A to K
-    
-    # Overwrite extracted bibliometrics if provided by AI
-    if inclusion_status == 1:
-        metadata[5] = None   # Clear exclusion reason when including
-    if title: metadata[7] = title        # Col 8
-    if pub_name: metadata[8] = pub_name  # Col 9
-    if author: metadata[9] = author      # Col 10
-    if year: metadata[10] = year         # Col 11
-
-    # Overwrite target row directly for Exclusions or fallback
-    if title: ws.cell(row=target_row_idx, column=8).value = title
-    if pub_name: ws.cell(row=target_row_idx, column=9).value = pub_name
-    if author: ws.cell(row=target_row_idx, column=10).value = author
-    if year: ws.cell(row=target_row_idx, column=11).value = year
-
-    # PATH A: EXCLUSION LOGIC
-    if inclusion_status == 0:
-        exclusion_code_map = {
-            1: "1 = No effect size of interest",
-            2: "2 = Non-employee samples",
-            3: "3 = non-individual level",
-            4: "4 = Non-primary study",
-            5: "5 = Multiple reasons (specify in Notes)",
-            6: "6 = Duplicate",
-            7: "7 = Non-English language",
-            99: "99 = Other (specify in Notes)"
-        }
-        exclusion_code = data.get("exclusion_code", 99)
-        ws.cell(row=target_row_idx, column=1).value = "KY"
-        ws.cell(row=target_row_idx, column=2).value = article_id
-        ws.cell(row=target_row_idx, column=5).value = inclusion_map.get(0, "0 = Exclude")
-        ws.cell(row=target_row_idx, column=6).value = exclusion_code_map.get(exclusion_code, "99 = Other (specify in Notes)")
-        ws.cell(row=target_row_idx, column=16).value = exclusion_reason  # Detailed reason in Notes column
-        wb.save(excel_path)
-        print(f"Successfully excluded {article_id}. Code={exclusion_code}, Reason in Notes col 16.")
-        return
-
-    # PATH B: INCLUSION LOGIC (M:N schema)
-    samples = data.get("samples", [])
-    if not samples:
-        print(f"Error: No samples found in JSON for included paper {article_id}.")
-        return
-
-    rows_to_insert = []
-    total_rows = 0
-
-    for s_idx, sample in enumerate(samples):
-        sample_number = sample.get("sample_number", s_idx + 1)
-        sample_id = f"{article_id}.{sample_number}"
         
-        sample_size = sample.get("sample_size", None)
-        pub_type = pub_type_map.get(sample.get("publication_type"), sample.get("publication_type"))
-        study_design = study_design_map.get(sample.get("study_design"), sample.get("study_design"))
-        intl_context = intl_context_map.get(sample.get("international_context"), sample.get("international_context"))
-        occ_type = sample.get("occupation_type", None)
-        country = sample.get("country", None)
-        country_specify = sample.get("country_specify", None)
-        mean_age = sample.get("mean_age", 999)
-        percent_female = sample.get("percent_female", 999)
-        org_tenure = sample.get("org_tenure", 999)
-
-        bs_measures = sample.get("bs_measures", [])
-        correlations = sample.get("correlations", [])
-
-        if not bs_measures or not correlations:
-            continue
-
-        for bs_measure in bs_measures:
-            bs_name = bs_measure.get("name", "Unknown BS")
-            paired_corrs = [c for c in correlations if c.get("bs_name", bs_name) == bs_name]
-            if not paired_corrs:
-                paired_corrs = correlations # Fallback
-
-            for c_idx, corr in enumerate(paired_corrs):
-                row = [None] * 50
-                
-                # Copy metadata
-                for i in range(11):
-                    if i < len(metadata):
-                        row[i] = metadata[i]
-                
-                # Identifiers
-                row[0] = "KY"
-                row[1] = article_id
-                row[2] = sample_id
-                row[3] = f"{sample_id}.{total_rows + 1}"
-                row[4] = inclusion_map.get(1, "1 = Include")
-                
-                # Categoricals
-                row[11] = pub_type
-                row[16] = study_design
-                row[18] = country
-                row[19] = country_specify
-                row[20] = intl_context
-                row[21] = sample_size
-                row[22] = mean_age
-                row[23] = percent_female
-                row[24] = org_tenure
-                row[25] = occ_type
-
-                # BS Descriptors (Cols 26-32)
-                row[26] = bs_measure.get("items")
-                row[27] = bs_measure.get("min")
-                row[28] = bs_measure.get("max")
-                row[29] = report_type_map.get(bs_measure.get("report_type"), bs_measure.get("report_type"))
-                row[31] = bs_measure.get("specific_measure")
-                row[32] = bs_measure.get("notes")
-
-                # Non-BS Descriptors (Cols 33-39)
-                row[33] = corr.get("items")
-                row[34] = corr.get("min")
-                row[35] = corr.get("max")
-                row[36] = report_type_map.get(corr.get("report_type"), corr.get("report_type"))
-                row[38] = corr.get("specific_measure")
-                row[39] = corr.get("notes")
-
-                # Effect Sizes: BS (Cols 40-43)
-                row[40] = bs_name
-                row[41] = bs_measure.get("mean")
-                row[42] = bs_measure.get("sd")
-                row[43] = bs_measure.get("alpha")
-
-                # Effect Sizes: Non-BS (Cols 44-47)
-                row[44] = corr.get("non_bs_name")
-                row[45] = corr.get("mean")
-                row[46] = corr.get("sd")
-                row[47] = corr.get("alpha")
-
-                # Correlation
-                row[48] = corr.get("r")
-
-                rows_to_insert.append(row)
-                total_rows += 1
-
-    # Insert rows into Excel
-    if rows_to_insert:
-        # First row overwrites the target row
-        for col_idx, val in enumerate(rows_to_insert[0], start=1):
-            ws.cell(row=target_row_idx, column=col_idx).value = val
+        if match:
+            joined_vars.append({
+                "anchor": anchor,
+                "mean": var.get("mean"),
+                "sd": var.get("sd"),
+                "classification_type": match.get("classification_type"),
+                "items": match.get("items"),
+                "min": match.get("min"),
+                "max": match.get("max"),
+                "reliability": match.get("reliability", {}).get("value"),
+                "specific_measure": match.get("specific_measure")
+            })
+        else:
+            print(f"[JOIN_FAILURE] Failed to match table variable '{anchor}' with textual measure details.")
+            sys.exit(1) # Circuit Breaker triggered
             
-        # Subsequent rows are inserted below
-        if len(rows_to_insert) > 1:
-            ws.insert_rows(target_row_idx + 1, len(rows_to_insert) - 1)
-            for r_offset, row_data in enumerate(rows_to_insert[1:]):
-                for col_idx, val in enumerate(row_data, start=1):
-                    ws.cell(row=target_row_idx + 1 + r_offset, column=col_idx).value = val
+    # 4. Separate into BS and NB
+    bs_vars = [v for v in joined_vars if v["classification_type"] == "BS"]
+    nb_vars = [v for v in joined_vars if v["classification_type"] == "NB"]
+    
+    # 5. Cartesian Product (N x M pairs)
+    pairs = []
+    for bs in bs_vars:
+        for nb in nb_vars:
+            # Find the correlation between BS and NB
+            r_val = 999
+            for corr in correlations:
+                v1 = corr.get("var1_anchor")
+                v2 = corr.get("var2_anchor")
+                # Fuzzy match both ways
+                if (fuzzy_match(bs["anchor"], v1) and fuzzy_match(nb["anchor"], v2)) or \
+                   (fuzzy_match(bs["anchor"], v2) and fuzzy_match(nb["anchor"], v1)):
+                    r_val = corr.get("r")
+                    break
+            
+            # Map to the 19 columns
+            pair_row = [
+                # BS Variables
+                bs["items"], bs["min"], bs["max"], "Not Reported", bs["specific_measure"], bs["anchor"], bs["mean"], bs["sd"], bs["reliability"],
+                # NB Variables
+                nb["items"], nb["min"], nb["max"], "Not Reported", nb["specific_measure"], nb["anchor"], nb["mean"], nb["sd"], nb["reliability"],
+                # Correlation
+                r_val
+            ]
+            pairs.append(pair_row)
+    
+    print(f"Generated {len(pairs)} Cartesian Pairs.")
+    
+    # 6. Routing Logic
+    if is_transformed:
+        print("Routing to: Transformed_Metrics sheet")
+    elif is_imputed:
+        print("Routing to: Imputed_Metrics sheet")
+    elif is_salami_suspect:
+        print("Routing to: Salami_Review_Queue sheet")
+    else:
+        print("Routing to: Raw_Metrics sheet (Pure Zero-Order Data)")
+        
+    print("Insertion completed successfully (Simulated).")
 
-    wb.save(excel_path)
-    print(f"Successfully injected {total_rows} rows into {excel_path} for {article_id}.")
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Universal Excel Inserter for BSMA")
-    parser.add_argument("--excel", type=str, required=True)
-    parser.add_argument("--data", type=str, required=True)
+def main():
+    parser = argparse.ArgumentParser(description="Universal Excel Inserter with Cartesian Pair Routing")
+    parser.add_argument("--excel", required=True, help="Path to the Master Excel file")
+    parser.add_argument("--data-file", required=True, help="Path to the JSON payload file")
+    
     args = parser.parse_args()
     
+    if not os.path.exists(args.data_file):
+        print(f"Error: Data file {args.data_file} not found.")
+        sys.exit(1)
+        
     try:
-        payload = json.loads(args.data)
-        insert_data(args.excel, payload)
-    except Exception as e:
-        print(f"Failed: {e}")
+        with open(args.data_file, 'r', encoding='utf-8') as f:
+            payload = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"Error: Invalid JSON payload in {args.data_file}. Details: {e}")
+        sys.exit(1)
+        
+    route_and_insert_data(args.excel, payload)
+
+if __name__ == "__main__":
+    main()

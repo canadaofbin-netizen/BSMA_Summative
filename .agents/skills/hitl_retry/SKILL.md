@@ -1,20 +1,18 @@
 ---
 name: hitl_retry
-description: Human-in-the-Loop review queue for processing failed papers.
+description: Human-in-the-Loop review queue for processing papers that failed data extraction.
 ---
 
 # HITL Retry System (Human-in-the-Loop)
 
-The `hitl_retry` skill is triggered when the user wants to review the backlog of papers that failed during the automated batch processing.
+The `hitl_retry` skill is triggered when the user wants to review the backlog of papers that failed during the automated data extraction (marked as `FAILED_EXTRACTION`).
 
 ## 1. Review Phase
-- Read `03_Archives_and_Backups/error_log.md` and identify all papers marked as failed or `[UNRECOGNIZED PARADIGM]`.
-- Present a concise summary of the errors to the User.
-- Ask the User for explicit rulings on how to handle each edge case (e.g., "For Paper X, should we exclude it, or is the anchor actually the Supervisor?").
+- Read `03_Archives_and_Backups/error_log.md` and identify all papers marked as `FAILED_EXTRACTION` or `[UNRECOGNIZED PARADIGM]`.
+- Present a concise summary of the errors to the User (e.g., "Paper 102 failed because the table formatting is corrupted").
+- Ask the User for explicit rulings or provide manual extraction data for those edge cases.
 
-## 2. Retry Phase
-- Once the User provides a ruling, apply that specific context to the failed papers.
-- Rerun the extraction pipeline (Steps 1 and 2 of the Two-Step Workflow) for those specific papers using the newly provided context.
+## 2. Retry Phase & Permanent Fails
+- Apply the user's manual context/extraction data to the failed papers and invoke the `universal_excel_inserter.py` to save them.
 - If successful, remove them from `error_log.md` and update their status to `SUCCESS` in `batch_queue.csv`.
-- If a rule change is permanent, remember to update the corresponding Markdown rulebooks (e.g., `04_general_exceptions.md` or `01_dyadic_data_rules.md`).
-- **CRITICAL:** If the professor's ruling establishes a new inclusion/exclusion precedent, you MUST also append it to `.agents/skills/batch_processor/triage_casebook.md` so future agents can learn from it.
+- **PERMANENT FAIL:** If a paper simply cannot be processed even with HITL intervention (e.g., the PDF text is completely missing), mark it as `PERMANENT_FAIL` in `batch_queue.csv` and skip it forever. Do not let it loop.

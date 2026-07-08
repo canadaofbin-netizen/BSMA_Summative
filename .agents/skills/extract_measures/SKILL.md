@@ -1,35 +1,69 @@
 ---
 name: extract_measures
-description: Automates the extraction of Measure Descriptors from PDF papers using subagents.
+description: Automates the extraction of statistical data from included PDF papers using 4-Node subagents.
 ---
 
 # Skill: Extract Measures
 
-When triggered, you must execute the following automated workflow to extract measurement details from an academic paper without suffering from context limits.
+When triggered, you must execute the following automated workflow to extract measurement details from an academic paper.
+> **PREREQUISITE:** This paper has already passed rigorous screening and is **CONFIRMED for inclusion**.
+> **EXCEPTION (Exclusion Authority):** Even though included, if you discover a clear Level of Analysis violation, Construct Homonymy, or Ambiguous Diagonal during data extraction, you possess explicit authority to Fast-Fail and return the corresponding fatal string code (e.g., `[LoA_VIOLATION]`) to exclude the data.
 
-> **PREREQUISITE:** This skill assumes the paper has ALREADY passed Triage (confirmed as Individual-level, empirical, with a correlation matrix). Do NOT invoke this skill on papers that have not been triaged.
+## 1. 4-Node Subagent Invocation (Parallel Execution)
+Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in parallel to prevent LLM cognitive overload and ensure 100% Zero-Defect extraction.
+**CRITICAL RULE:** Do NOT extract bibliometrics (Title, Author, Year, Country, N, etc.). They are already coded manually.
 
-## 1. Subagent Invocation
-- Use the `invoke_subagent` tool to spawn a specialized `research` subagent.
-- **Prompt for Subagent:** "Read the provided PDF paper located at [Path].
-  - First, extract the basic bibliometrics from the paper's header or title page: `title`, `publication_name` (full, unabbreviated journal name, e.g. 'Journal of Applied Psychology', not 'J. Appl. Psychol.'), `author` (all authors' full names, e.g. 'Jihye Lee, Dongwon Choi, Minyoung Cheong', not 'Lee et al.'), and `year`.
-  - Next, identify the Boundary Spanning construct and all paired variables by reading the Correlation Matrix. Extract `r`, `Mean`, `SD`, and `Alpha` for all variables.
-  - Locate the 'Measures' section. Extract Items, Min/Max, Report Type, and the **exact descriptive sentence** used for the citation/source.
-  - Return this data EXACTLY using the following nested M:N JSON schema:
-  `{ "article_id": "...", "inclusion_status": 1, "title": "...", "publication_name": "...", "author": "...", "year": 2024, "samples": [ { "sample_number": 1, "sample_size": 123, "publication_type": 1, "study_design": 1, "international_context": 1, "country": "...", "occupation_type": "...", "mean_age": 43.4, "percent_female": 19, "org_tenure": 999, "bs_measures": [ { "name": "...", "items": 5, "alpha": 0.88, "mean": 4.1, "sd": 0.8, "min": 1, "max": 7, "report_type": 1, "specific_measure": "...", "notes": "Reverse-coded" } ], "correlations": [ { "non_bs_name": "...", "r": 0.26, "alpha": 0.90, "mean": 3.2, "sd": 1.1, "items": 9, "min": 1, "max": 7, "report_type": 1, "specific_measure": "...", "notes": "" } ] } ] }`
-  - **If EXCLUDED during evaluation:** Return a simplified JSON: `{ "article_id": "...", "inclusion_status": 0, "exclusion_code": 99, "exclusion_reason": "...", "title": "...", "publication_name": "...", "author": "...", "year": 2024 }`.
-  - **CRITICAL EXCEPTION:** If a variable is a demographic, dummy, or proxy (e.g., Age, Gender, Tenure, Firm Size), **DO NOT SEARCH** the text for its properties. **IMMEDIATELY** return `999` for Items, Min, Max, and Alpha. Put the unit (e.g., "Months", "Years") in the `"notes"` field.
-  - **REVERSAL FLAG:** If the text explicitly states a scale was reverse-coded or reverse-scored, write `"Reverse-coded"` in the `"notes"` field for that measure."
+### Node 1: Pre-flight Triage Agent
+- **Prompt:** "Scan the Methodology section of the PDF [Path] for Time-lag/Longitudinal flags (e.g., 'Time 1', 'Time 2', 'T1', 'T2', 'six months later'). If found, return `{"is_longitudinal": true, "time_points": ["T1", "T2"]}`. If cross-sectional, return `{"is_longitudinal": false}`. Do not extract other data."
 
-## 2. Await Response
-- Wait asynchronously for the subagent to complete its task and return the JSON. Do not poll in a loop.
+### Node 2: Footnote Scanner (Circuit Breaker)
+- **Prompt:** "Scan ONLY the footnotes/notes below the 'Means, Standard Deviations, and Correlations' table in the PDF [Path]. 
+  - If you detect keywords indicating partial correlations (e.g., 'controlling for', 'partial', 'residuals'), return `{"is_partial_mixed": true}`.
+  - If you detect keywords indicating missing data imputation (e.g., 'FIML', 'imputed', 'multiple imputation'), return `{"is_imputed": true}`. Otherwise, return false for both flags."
 
-## 3. Data Injection
-- Once the JSON is received, you MUST NOT write a custom python script.
-- Instead, format the JSON to match the Master Coding Sheet column indices and invoke `python .agents/scripts/universal_excel_inserter.py --excel BSMA_Master_Coding_Sheet.xlsx --data <JSON_STRING>`.
-- The universal inserter will automatically handle Coder Initials, Sample ID, Effect Size ID auto-generation, and exact string mappings for dropdown columns.
-- **CRITICAL - CLEANUP RULE:** If you create any temporary `.json` or `.py` files in the workspace to bypass terminal limits while injecting, you MUST permanently delete them immediately after the injection succeeds. Do not leave scratch files behind.
+### Node 3: Table Parser (Flat Statistics)
+- **Prompt:** "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
+  - **Stage 1 (CoT):** Before extracting data, output a `<matrix_reasoning>` block. Explicitly state whether the upper or lower diagonal contains the zero-order correlations vs. corrected/partial correlations. If ambiguous, return `[AMBIGUOUS_MATRIX_DIAGONAL]`.
+  - **Stage 2 (Pruning):** If the table contains both Global (Total) scores and Sub-facet scores for the same construct, extract ONLY the sub-facets to preserve independence. Discard the Global score.
+  - **LoA CIRCUIT BREAKER:** If data is aggregated at Team/Unit/Firm level, return `[LoA_VIOLATION]`.
+  - Drop all demographic variables (Age, Gender, Tenure). 
+  - For remaining variables, copy the exact variable name/symbol from the table axis into `table_anchor_name`. Extract `mean` and `sd`. Include an `is_transformed` boolean (true if Log/Z-score was applied).
+  - Extract correlations mapping `var1_anchor` and `var2_anchor` to their `table_anchor_name`.
+  - Return JSON strictly following this structure (No Markdown):
+{
+  "is_transformed": false,
+  "variables": [{"table_anchor_name": "Exact Axis Name", "mean": 999, "sd": 999}],
+  "correlations": [{"var1_anchor": "Exact Axis Name 1", "var2_anchor": "Exact Axis Name 2", "r": 999}]
+}
+"
 
-## 4. Verification and Backup
-- Read back the modified Excel rows using Python to ensure no numeric hallucination occurred.
-- Execute `git add .`, `git commit -m "Auto-extracted measures for [Paper]"`, and `git push` to synchronize with GitHub.
+### Node 4: Text Analyzer (Delayed Classification)
+- **Prompt:** "Focus ONLY on the Methodology ('Measures' and 'Sample') section in the PDF [Path].
+  - **LoA CIRCUIT BREAKER:** If the Methodology text states the sample is aggregated at the Team/Firm level, return `[LoA_VIOLATION]`.
+  - Use `<anchor_inference>` block to infer the `table_anchor_name` from the text to match the table's abbreviation.
+  - Use `<target_analysis>` block to classify the variable. If the measure explicitly targets 'inter-boundary' entities (e.g., outside the department, other teams, customers, external organizations), classify as `"BS"`. If intra-team, vague, or an outcome variable, strictly classify as `"NB"`.
+  - Extract `items`, `min`, `max`. 
+  - For `reliability`, use a polymorphic object with `type` (Alpha, Omega, CR, Not_Applicable, Not_Reported) and `value`. For objective/formative metrics (Firm Size, Age), type MUST be `"Not_Applicable"` and value `999`.
+  - **VERBATIM RULE:** `source_quote` must be the exact sentence. Escape quotes with `\"` and newlines with `\n`. `specific_measure` MUST be an exact, unmodified substring of `source_quote`.
+  - Return JSON strictly following this structure (No Markdown):
+{
+  "dataset_fingerprint": {"sample_origin": "Not Reported", "data_collection_year": 999},
+  "measure_details": [
+    {
+      "table_anchor_name": "Inferred Name",
+      "classification_type": "BS",
+      "items": 999,
+      "min": 999,
+      "max": 999,
+      "reliability": {"type": "Not_Reported", "value": 999},
+      "specific_measure": "escaped string",
+      "source_quote": "exact escaped sentence"
+    }
+  ]
+}
+"
+
+## 2. STRICT JSON ONLY & Hand-off
+- Wait asynchronously for all 4 subagents.
+- If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
+- Otherwise, merge the 4 valid JSON responses into a single cohesive payload and return it to the Orchestrator for Validation.
