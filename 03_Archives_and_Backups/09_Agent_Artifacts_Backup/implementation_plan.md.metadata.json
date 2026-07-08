@@ -1,7 +1,0 @@
-{
-  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
-  "summary":  "Plan to use subagents to extract variable-specific measure descriptors and update the Excel sheet.",
-  "updatedAt":  "2026-06-21T00:44:22.085611300Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}

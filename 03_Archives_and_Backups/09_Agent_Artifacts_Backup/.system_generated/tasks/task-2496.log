@@ -1,9 +1,0 @@
-Requirement already satisfied: PyPDF2 in c:\users\yunky\appdata\local\python\pythoncore-3.14-64\lib\site-packages (3.0.1)
-
-[notice] A new release of pip is available: 25.3 -> 26.1.2
-[notice] To update, run: C:\Users\yunky\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install --upgrade pip
-Traceback (most recent call last):
-  File "<string>", line 8, in <module>
-    with open(pdf_path, 'rb') as f:
-         ~~~~^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'g:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[75] Yuma Akaho (2024) Conceptualizing the adventure tourist as a cross-boundary learner.pdf'
