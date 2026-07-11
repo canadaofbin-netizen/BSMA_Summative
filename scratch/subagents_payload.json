@@ -1,202 +1,202 @@
 [
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0476",
-        "Prompt": "Review `BSMA0476`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[476] Reiche (2011) - Knowledge transfer in multinationals The role of inpatriates' boundary spanning.pdf`. Output to `scratch/outputs/BSMA0476.json`."
+        "Role": "Reviewer for BSMA0516",
+        "Prompt": "Review `BSMA0516`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[516] Schierjott et al. (2018) - Entrepreneurial Attitudes as Drivers of Managers\u2019 Boundary-Spanning Knowledge Ties.pdf`. Output to `scratch/outputs/BSMA0516.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0477",
-        "Prompt": "Review `BSMA0477`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[477] Miles (1976) - Role Requirements as Sources of Organizational Stress.pdf`. Output to `scratch/outputs/BSMA0477.json`."
+        "Role": "Reviewer for BSMA0517",
+        "Prompt": "Review `BSMA0517`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[517] Schildt and Laamanen (2006) - Who buys whom information environments and organizational boundary spanning.pdf`. Output to `scratch/outputs/BSMA0517.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0478",
-        "Prompt": "Review `BSMA0478`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[478] Richter et al. (2006) - Boundary Spanners' Identification, Intergroup Contact, and Effective Intergroup Relations.pdf`. Output to `scratch/outputs/BSMA0478.json`."
+        "Role": "Reviewer for BSMA0518",
+        "Prompt": "Review `BSMA0518`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[518] Scholz et al. (2008) - Do Networks Solve Collective Action Problems Credibility, Search, and Collaboration.pdf`. Output to `scratch/outputs/BSMA0518.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0479",
-        "Prompt": "Review `BSMA0479`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[479] Rickards et al. (2001) - Development of a Self\u2010Report Instrument for Exploring Team Factor, Leadership.pdf`. Output to `scratch/outputs/BSMA0479.json`."
+        "Role": "Reviewer for BSMA0519",
+        "Prompt": "Review `BSMA0519`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[519] Schuster et al. (2019) - Knowledge sharing of inpatriates.pdf`. Output to `scratch/outputs/BSMA0519.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0480",
-        "Prompt": "Review `BSMA0480`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[480] Ridenour (2020) - Examining the Notion of the Boundary Object in Information Systems The Transdisciplinary Oeuvre of Cognitive Science.PDF`. Output to `scratch/outputs/BSMA0480.json`."
+        "Role": "Reviewer for BSMA0520",
+        "Prompt": "Review `BSMA0520`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[520] Scott (2012) - Corporate marketing leaders the key attributes.pdf`. Output to `scratch/outputs/BSMA0520.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0481",
-        "Prompt": "Review `BSMA0481`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[481] Rigg and O'Mahony (2013) - Frustrations in Collaborative Working Insights from institutional theory.pdf`. Output to `scratch/outputs/BSMA0481.json`."
+        "Role": "Reviewer for BSMA0521",
+        "Prompt": "Review `BSMA0521`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[521] Scott (1997) - Social identification effects in product and process development teams.pdf`. Output to `scratch/outputs/BSMA0521.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0482",
-        "Prompt": "Review `BSMA0482`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[482] Rigopoulou et al. (2012) - Information control, role perceptions, and work outcomes of boundary-spanning.pdf`. Output to `scratch/outputs/BSMA0482.json`."
+        "Role": "Reviewer for BSMA0522",
+        "Prompt": "Review `BSMA0522`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[522] Scuzzarello and Moro\u015fanu (2023) - Integration and intersectionality boundaries and belonging.pdf`. Output to `scratch/outputs/BSMA0522.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0483",
-        "Prompt": "Review `BSMA0483`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[483] Trent (1996) - Understanding and evaluating cross-functional sourcing team leadership.pdf`. Output to `scratch/outputs/BSMA0483.json`."
+        "Role": "Reviewer for BSMA0523",
+        "Prompt": "Review `BSMA0523`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[523] Selzer et al. (2021) - Effective coping strategies for stressed frontline employees in service occupations.pdf`. Output to `scratch/outputs/BSMA0523.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0484",
-        "Prompt": "Review `BSMA0484`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[484] Bregman (1995) - Intergrating Marketing, Operations, and Purchasing to Create Value.pdf`. Output to `scratch/outputs/BSMA0484.json`."
+        "Role": "Reviewer for BSMA0524",
+        "Prompt": "Review `BSMA0524`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[524] S\u00e9ror (1989) - A study of individual boundary-spanning communication patterns in a research.pdf`. Output to `scratch/outputs/BSMA0524.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0485",
-        "Prompt": "Review `BSMA0485`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[485] Gilson (2001) - Bridging the gap between individual innovativeness and group innovation An investigation of the innovation process in work groups.PDF`. Output to `scratch/outputs/BSMA0485.json`."
+        "Role": "Reviewer for BSMA0525",
+        "Prompt": "Review `BSMA0525`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[525] Sethi et al. (2001) - Cross-Functional Product Development Teams, Creativity, and the Innovativeness.pdf`. Output to `scratch/outputs/BSMA0525.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0486",
-        "Prompt": "Review `BSMA0486`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[486] Gunawan & Widodo (2023) - How Boundary-Spanning Leadership Affects Employees\u2019 Contextual Performance.pdf`. Output to `scratch/outputs/BSMA0486.json`."
+        "Role": "Reviewer for BSMA0526",
+        "Prompt": "Review `BSMA0526`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[526] Setiadi and Widodo (2024) - Unveiling the effect of proactive work behavior on task performance.pdf`. Output to `scratch/outputs/BSMA0526.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0487",
-        "Prompt": "Review `BSMA0487`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[487] Roach (2011) - The impact of product management on SME performance Evidence from Canadian firms.pdf`. Output to `scratch/outputs/BSMA0487.json`."
+        "Role": "Reviewer for BSMA0527",
+        "Prompt": "Review `BSMA0527`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[527] Shao et al. (2012) - Mapping Collaboration in Open Source Geospatial Ecosystem.pdf`. Output to `scratch/outputs/BSMA0527.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0488",
-        "Prompt": "Review `BSMA0488`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[488] Roach (2011) - The impact of product management on SME firm performance.pdf`. Output to `scratch/outputs/BSMA0488.json`."
+        "Role": "Reviewer for BSMA0528",
+        "Prompt": "Review `BSMA0528`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[528] Chen et al. (2024) - How boundary-spanning search brings about innovation performance.pdf`. Output to `scratch/outputs/BSMA0528.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0489",
-        "Prompt": "Review `BSMA0489`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[489] Judy (1984) - INTERORGANIZATIONAL LINKING MECHANISMS--HEALTH SYSTEMS AGENCIES AS A CASE IN POINT (BOUNDARY SPANNING).pdf`. Output to `scratch/outputs/BSMA0489.json`."
+        "Role": "Reviewer for BSMA0529",
+        "Prompt": "Review `BSMA0529`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[529] Shi et al. (2023) - Value co-creation for digital innovation An interorganizational boundary-spanning perspective.pdf`. Output to `scratch/outputs/BSMA0529.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0490",
-        "Prompt": "Review `BSMA0490`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[490] Rodriguez and Wang (2017) - An Empirical Study of Open Source Virtual Reality Software Projects.pdf`. Output to `scratch/outputs/BSMA0490.json`."
+        "Role": "Reviewer for BSMA0530",
+        "Prompt": "Review `BSMA0530`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[530] Shin and Jalajas (2010) - Technological relatedness, boundary-spanning combination of knowledge.pdf`. Output to `scratch/outputs/BSMA0530.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0491",
-        "Prompt": "Review `BSMA0491`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[491] Rodriguez-Escudero et al. (2025) - Examining the role of team boundary buffering as a proactive.pdf`. Output to `scratch/outputs/BSMA0491.json`."
+        "Role": "Reviewer for BSMA0531",
+        "Prompt": "Review `BSMA0531`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[531] Shipilov et al. (2017) - Which boundaries How mobility networks across countries and status.pdf`. Output to `scratch/outputs/BSMA0531.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0492",
-        "Prompt": "Review `BSMA0492`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[492] Rodr\u00edguez-L\u00f3pez (2025) - The sociology of healthcare professions.pdf`. Output to `scratch/outputs/BSMA0492.json`."
+        "Role": "Reviewer for BSMA0532",
+        "Prompt": "Review `BSMA0532`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[532] Sicotte and Langley (2000) - Integration mechanisms and R & D project performance.pdf`. Output to `scratch/outputs/BSMA0532.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0493",
-        "Prompt": "Review `BSMA0493`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[493] Rofcanin and Anand (2020) - Human Relations virtual special issue Flexible Work Practices and Work-Family.pdf`. Output to `scratch/outputs/BSMA0493.json`."
+        "Role": "Reviewer for BSMA0533",
+        "Prompt": "Review `BSMA0533`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[533] Smieth & Cincera (2016) - Corporate Science, Innovation, and Firm Value.pdf`. Output to `scratch/outputs/BSMA0533.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0494",
-        "Prompt": "Review `BSMA0494`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[494] Rogers (2019) - Project Success and Project Team Individuals.pdf`. Output to `scratch/outputs/BSMA0494.json`."
+        "Role": "Reviewer for BSMA0534",
+        "Prompt": "Review `BSMA0534`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[534] Simon (2006) - Managing creative projects An empirical synthesis of activities.pdf`. Output to `scratch/outputs/BSMA0534.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0495",
-        "Prompt": "Review `BSMA0495`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[495] Rojas et al. (2023) - Standardization can be good for exploration a social capital view of the productivity.pdf`. Output to `scratch/outputs/BSMA0495.json`."
+        "Role": "Reviewer for BSMA0535",
+        "Prompt": "Review `BSMA0535`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[535] Skowronski and Benton (2018) - The Influence of Intellectual Property Rights on Poaching.pdf`. Output to `scratch/outputs/BSMA0535.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0496",
-        "Prompt": "Review `BSMA0496`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[496] Rosenkopf and Nerkar (2001) - Beyond local search boundary\u2010spanning, exploration, and impact.pdf`. Output to `scratch/outputs/BSMA0496.json`."
+        "Role": "Reviewer for BSMA0536",
+        "Prompt": "Review `BSMA0536`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[536] Sleep et al. (2015) - Walking a tightrope the joint impact of customer and within-firm boundary spanning.pdf`. Output to `scratch/outputs/BSMA0536.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0497",
-        "Prompt": "Review `BSMA0497`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[497] Rothbard et al. (2022) - OMG! My Boss Just Friended Me How Evaluations of Colleagues\u2019 Disclosure, Gender.pdf`. Output to `scratch/outputs/BSMA0497.json`."
+        "Role": "Reviewer for BSMA0537",
+        "Prompt": "Review `BSMA0537`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[537] Keaveney (1988) - The effects of intrinsic and extrinsic motivational orientations in a boundary spanning model of retail buyers.PDF`. Output to `scratch/outputs/BSMA0537.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0498",
-        "Prompt": "Review `BSMA0498`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[498] Keller (2001) - Cross-functional project groups in research and new product developmen.pdf`. Output to `scratch/outputs/BSMA0498.json`."
+        "Role": "Reviewer for BSMA0538",
+        "Prompt": "Review `BSMA0538`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[538] Smit et al. (2016) - Out of sight, out of mind How and when cognitive role transition episodes influence.pdf`. Output to `scratch/outputs/BSMA0538.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0499",
-        "Prompt": "Review `BSMA0499`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[499] Keller et al. (1976) - BOUNDARY-SPANNING ACTIVITY AND EMPLOYEE REACTIONS AN EMPIRICAL STUDY.pdf`. Output to `scratch/outputs/BSMA0499.json`."
+        "Role": "Reviewer for BSMA0539",
+        "Prompt": "Review `BSMA0539`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[539] Snehvrat et al. (2022) - Ambidexterity and absorptive capacity in boundary-spanning managers.pdf`. Output to `scratch/outputs/BSMA0539.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0500",
-        "Prompt": "Review `BSMA0500`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[500] Keller & Holland (1981) - Job Change - A Naturally Occurring Field Experiment.pdf`. Output to `scratch/outputs/BSMA0500.json`."
+        "Role": "Reviewer for BSMA0540",
+        "Prompt": "Review `BSMA0540`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[540] Sohn and Harvey (2025) - Team-Supervisor Time Pressure (In)congruence and Team Creativity.pdf`. Output to `scratch/outputs/BSMA0540.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0501",
-        "Prompt": "Review `BSMA0501`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[501] Xue & Woo (2025) - A Longitudinal Analysis of Boundary-Spanning Leadership and Absorptive Capacity as.pdf`. Output to `scratch/outputs/BSMA0501.json`."
+        "Role": "Reviewer for BSMA0541",
+        "Prompt": "Review `BSMA0541`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[541] Solomon (1986) - Private and Public Sector Managers.pdf`. Output to `scratch/outputs/BSMA0541.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0502",
-        "Prompt": "Review `BSMA0502`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[502] Russ et al. (1998) - POWER AND INFLUENCE OF THE HUMAN RESOURCES FUNCTION.pdf`. Output to `scratch/outputs/BSMA0502.json`."
+        "Role": "Reviewer for BSMA0542",
+        "Prompt": "Review `BSMA0542`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[542] Somech & Khalaili (2014) - Team Boundary Activity.pdf`. Output to `scratch/outputs/BSMA0542.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0503",
-        "Prompt": "Review `BSMA0503`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[503] Russo and Vurro (2010) - Cross\u2010boundary ambidexterity Balancing exploration and exploitation.pdf`. Output to `scratch/outputs/BSMA0503.json`."
+        "Role": "Reviewer for BSMA0543",
+        "Prompt": "Review `BSMA0543`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[543] Son et al. (2019) - Small and Medium\u2010Sized Enterprises' Collaborative Buyer\u2013Supplier Relationships.pdf`. Output to `scratch/outputs/BSMA0543.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0504",
-        "Prompt": "Review `BSMA0504`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[504] Ryan and O\u2019Malley (2016) - The role of the boundary spanner in bringing about innovation.pdf`. Output to `scratch/outputs/BSMA0504.json`."
+        "Role": "Reviewer for BSMA0544",
+        "Prompt": "Review `BSMA0544`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[544] Song and Sun (2018) - Exploring effective work unit knowledge management (KM) roles of network, task.pdf`. Output to `scratch/outputs/BSMA0544.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0505",
-        "Prompt": "Review `BSMA0505`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[505] Ang & Slaughter (2004) - Turnover  of Information Technology Professionals.pdf`. Output to `scratch/outputs/BSMA0505.json`."
+        "Role": "Reviewer for BSMA0545",
+        "Prompt": "Review `BSMA0545`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[545] Spekman (1979) - Influence and Information.pdf`. Output to `scratch/outputs/BSMA0545.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0506",
-        "Prompt": "Review `BSMA0506`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[506] Lysonski & Woodside (1989) - Boundary Role Spanning Behavior, Conflicts and Performance of Industrial.pdf`. Output to `scratch/outputs/BSMA0506.json`."
+        "Role": "Reviewer for BSMA0546",
+        "Prompt": "Review `BSMA0546`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[546] Spencer (2023) - Collaborative Action in Informal Social Networks of Wildfire Managers in Northwestern Wyoming.pdf`. Output to `scratch/outputs/BSMA0546.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0507",
-        "Prompt": "Review `BSMA0507`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[507] Saeed et al. (2005) - Examining the Impact of Interorganizational Systems on Process Efficiency.pdf`. Output to `scratch/outputs/BSMA0507.json`."
+        "Role": "Reviewer for BSMA0547",
+        "Prompt": "Review `BSMA0547`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[547] Srivastava and Tang (2018) - Coping intelligence theory coping strategies, satisfaction and sales commission.pdf`. Output to `scratch/outputs/BSMA0547.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0508",
-        "Prompt": "Review `BSMA0508`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[508] Saeed et al. (2025) - Understanding career-meaningfulness and work centrality to serve customers.pdf`. Output to `scratch/outputs/BSMA0508.json`."
+        "Role": "Reviewer for BSMA0548",
+        "Prompt": "Review `BSMA0548`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[548] Srivastava and Tang (2015) - Coping Intelligence Coping Strategies and Organizational Commitment.pdf`. Output to `scratch/outputs/BSMA0548.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0509",
-        "Prompt": "Review `BSMA0509`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[509] Salem et al. (2018) - How field office leaders drive learning and creativity in humanitarian aid.pdf`. Output to `scratch/outputs/BSMA0509.json`."
+        "Role": "Reviewer for BSMA0549",
+        "Prompt": "Review `BSMA0549`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[549] Stan et al. (2021) - Salesperson socialization to the consumption of organizationally provided support.pdf`. Output to `scratch/outputs/BSMA0549.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0510",
-        "Prompt": "Review `BSMA0510`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[510] Santa et al. (2011) - The role of cross-functional teams on the alignment between tehcnology innovation.pdf`. Output to `scratch/outputs/BSMA0510.json`."
+        "Role": "Reviewer for BSMA0550",
+        "Prompt": "Review `BSMA0550`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[550] Standifer et al. (2010) - The Influence of Spirituality on Buyer Perception.pdf`. Output to `scratch/outputs/BSMA0550.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0511",
-        "Prompt": "Review `BSMA0511`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[511] Satheesh et al. (2024) - Enabling boundary spanners in public\u2013private collaboration.pdf`. Output to `scratch/outputs/BSMA0511.json`."
+        "Role": "Reviewer for BSMA0551",
+        "Prompt": "Review `BSMA0551`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[551] Stephenson Jr. and Schnitzer (2006) - Interorganizational trust, boundary spanning, and humanitarian.pdf`. Output to `scratch/outputs/BSMA0551.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0512",
-        "Prompt": "Review `BSMA0512`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[512] Satheesh et al. (2023) - The Impact of Boundary Spanning by Public Managers on Collaboration.pdf`. Output to `scratch/outputs/BSMA0512.json`."
+        "Role": "Reviewer for BSMA0552",
+        "Prompt": "Review `BSMA0552`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[552] Stjerne et al. (2019) - Crossing times Temporal boundary-spanning practices in interorganizational projects.pdf`. Output to `scratch/outputs/BSMA0552.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0513",
-        "Prompt": "Review `BSMA0513`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[513] Sawyer et al. (2010) - Social interactions of information systems development teams a performance perspective.pdf`. Output to `scratch/outputs/BSMA0513.json`."
+        "Role": "Reviewer for BSMA0553",
+        "Prompt": "Review `BSMA0553`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[553] Stock et al. (2022) - Corporate social responsibility as a driver of digital innovation in SMEs.pdf`. Output to `scratch/outputs/BSMA0553.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0514",
-        "Prompt": "Review `BSMA0514`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[514] Saxe Zerden et al. (2019) - Social workers in integrated health care Improving care throughout the life course.pdf`. Output to `scratch/outputs/BSMA0514.json`."
+        "Role": "Reviewer for BSMA0554",
+        "Prompt": "Review `BSMA0554`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[554] Stock (2006) - Interorganizational Teams as Boundary Spanners Between Supplier and Customer Companies.pdf`. Output to `scratch/outputs/BSMA0554.json`."
     },
     {
         "TypeName": "bsma_reviewer_v2",
-        "Role": "Reviewer for BSMA0515",
-        "Prompt": "Review `BSMA0515`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[515] Malone (1986) - STRATEGIC FLEXIBILITY AND FIRM PERFORMANCE IN A CYCLICAL INDUSTRY.pdf`. Output to `scratch/outputs/BSMA0515.json`."
+        "Role": "Reviewer for BSMA0555",
+        "Prompt": "Review `BSMA0555`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[555] Su and Vanhaverbeke (2019) - How do different types of interorganizational ties matter in technological exploration.pdf`. Output to `scratch/outputs/BSMA0555.json`."
     }
 ]

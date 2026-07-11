@@ -1,23 +1,6 @@
-import fitz
-import sys
-import os
+import PyPDF2
 
-folder = r'g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers'
-files = [f for f in os.listdir(folder) if '[257]' in f]
-if not files:
-    print("Not found")
-    sys.exit(1)
-pdf_path = os.path.join(folder, files[0])
-print(f"Reading {pdf_path}")
-
-try:
-    doc = fitz.open(pdf_path)
-    print("\n=== SEARCHING FOR CORRELATION TABLE / MEASURES ===")
-    for i, page in enumerate(doc):
-        p_text = page.get_text()
-        # look for tables
-        if "Table 1" in p_text or "Table 2" in p_text or "Descriptive" in p_text or "Correlation" in p_text:
-            print(f"\n--- PAGE {i+1} TABLE CONTENT ---")
-            print(p_text[:3000].encode('ascii', 'ignore').decode('ascii'))
-except Exception as e:
-    print(e)
+reader = PyPDF2.PdfReader(r'g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[518] Scholz et al. (2008) - Do Networks Solve Collective Action Problems Credibility, Search, and Collaboration.pdf')
+text = '\n'.join([page.extract_text() for page in reader.pages if page.extract_text()])
+with open(r'C:\Users\yunky\.gemini\antigravity\brain\3023f334-1b72-4cbe-b4e9-873623fa96af\scratch\temp_pdf_text.txt', 'w', encoding='utf-8') as f:
+    f.write(text)
