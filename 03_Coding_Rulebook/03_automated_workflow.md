@@ -1,42 +1,33 @@
 <details>
-<summary><h2>Automated Extraction Features (Two-Step Workflow)</h2></summary>
+<summary><h2>Automated Extraction Features (4-Node Hybrid Architecture)</h2></summary>
 
-To ensure the highest level of accuracy and speed, all AI coding assistants must follow a strict **Two-Step Workflow**:
+To ensure the highest level of accuracy and speed, all AI coding assistants must follow the **4-Node Hybrid Cartesian Workflow**. The monolithic extraction process is replaced by a decentralized, double-circuit-breaker system.
 
 **Step 0: Pre-Triage — Read Casebook**
-- **Objective:** Before making any inclusion/exclusion decision, the agent MUST read `.agents/skills/batch_processor/triage_casebook.md` in full. Apply established precedents to the current paper.
+- **Objective:** Before making any inclusion/exclusion decision, the agent MUST read `.agents/skills/batch_processor/triage_casebook.md` in full. Apply established precedents to the current paper. Note: Inclusion/Exclusion and Bibliometrics (Title, Author, N) are now handled manually prior to the extraction pipeline. The AI focuses purely on empirical variable pairs.
 
-**Step 1: Triage & Measure Extraction**
-- **Objective:** Evaluate if the paper should be included or excluded, and extract empirical variables.
-- **Triage Criteria (Exclusion):**
-  1. Not empirical (e.g. theoretical, review, conceptual).
-  2. The boundary spanning behavior is NOT measured at the **Individual-level**. ONLY Individual-level passes. Any non-individual unit of analysis (Team, Unit, Department, Organization, Firm, etc.) → EXCLUDE. (See Casebook Precedent #002.)
-  - NOTE: The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning IS the focal employee regardless of job title. (See Casebook Precedent #001).
-  - If EXCLUDED: Immediately halt numerical extraction. Set `inclusion_status` to 0, provide an `exclusion_code` (e.g., 3 for wrong level of analysis), and log the detailed reason in `exclusion_reason` in the JSON schema. **IMPORTANT: Excluded papers MUST still be inserted into Excel** (PATH A of the inserter: Coder, Article ID, Title, Authors, Year, Inclusion Status = "0 = Exclude", Exclusion Code, Notes). Assign a sequential BSMA ID (e.g. BSMA0004) regardless of include/exclude status.
-- **Bibliometrics Extraction:** Extract `title`, `publication_name` (full, unabbreviated journal name, e.g. 'Journal of Applied Psychology'), `author` (all authors' full names, e.g. 'Jihye Lee, Dongwon Choi, Minyoung Cheong'), and `year` from the paper header. These must be included in the JSON payload.
-- **Measure Extraction:** If INCLUDED, deploy subagents to extract the items, alphas, N, Means, SDs, and Pearson correlations (r) for the focal boundary spanning construct and all paired variables. 
-  - Subagents must rigorously enforce the Zero-Order Lock (no betas), Dyadic Data rules (Focal Employee only), and Dummy Variable Alpha exceptions.
-  - Compile the extracted data into a structured M:N JSON payload.
+**Step 1: 4-Node Parallel Extraction (Delayed Classification)**
+- **Objective:** Prevent LLM hallucination and cognitive overload by assigning specialized tasks to 4 concurrent subagents.
+- **Node 1 (Pre-flight Triage):** Scans the Methodology section to identify Longitudinal/Time-lag flags.
+- **Node 2 (Footnote Scanner):** Scans table footnotes to flag partial correlations (`is_partial_mixed`) or missing data imputations (`is_imputed`).
+- **Node 3 (Table Parser):** Extracts pure zero-order statistics (r, Mean, SD) and associates them with a `table_anchor_name` (UPK). Demographic variables (Age, Gender, Tenure) are completely DROPPED to save costs.
+- **Node 4 (Text Analyzer):** Extracts the "Specific Measure" text and classifies the variable as 'Boundary Spanning (BS)' or 'Non-Boundary (NB)' based on explicit inter-boundary interaction. Objective/Formative indicators must force reliability to `Not_Applicable`.
 
-**Step 2: Excel Injection & JSON Backup**
-- **Objective:** Inject the extracted JSON payload directly into the Master Excel sheet AND save a raw backup.
-- **Action:** The master orchestrator MUST execute the python script `universal_excel_inserter.py` to securely write the data into the `BSMA_Master_Coding_Sheet.xlsx` file, bypassing human formatting errors and automatically allocating sample numbers.
-- **Automatic JSON Backup:** The inserter script automatically saves a raw copy of the JSON payload to `03_Archives_and_Backups/extracted_jsons/BSMAxxxx.json`. This backup allows free restoration of data without re-running costly LLM extraction.
-- **Cleanup Rule:** If any temporary `.json` or `.py` files were created to bypass terminal limits, they MUST be deleted immediately after injection. Do not leave scratch files in the workspace root.
+**Step 2: Python Cartesian Inner Join ($N \times M$)**
+- **Objective:** Eliminate mathematical hallucination. The LLM does NOT map pairs. 
+- **Action:** The master orchestrator executes `universal_excel_inserter.py`. The Python script fuzzy-matches Node 3 and Node 4 outputs via `table_anchor_name`. It then calculates the Cartesian product of all [BS] and [NB] variables to form complete pairing rows.
+- **Circuit Breaker:** If a fuzzy match fails, a `[JOIN_FAILURE]` exception is raised, and the paper is aborted and sent to human review.
 
-**Step 3: Self-Verification Loop**
-Before declaring any paper's extraction complete, you MUST dump and review the exact inserted rows using Python. 
-- **Double-Check All Numeric Entries:** Pay special attention to Means, SDs, Reliability (Alphas), and Effect Sizes. 
-- **No Mental Conversions:** You must ensure that every number exactly matches the paper's table character-for-character. Loop and fix any discrepancies until the extraction is 100% flawless.
+**Step 3: Validator (Critic) Cross-Verification**
+- **Objective:** Prevent arbitrary data alteration.
+- **Rules:** The Validator enforces the Strict Substring Rule (verbatim quotes only), checks Node 3's reasoning for partial matrices, and ensures objective variables have no hallucinated Alpha scores. A paper failing 3 times is marked `PERMANENT_FAIL`.
 
-**Step 4: GitHub Synchronization**
-After the extraction is complete and verified in Step 3, the Orchestrator AI MUST automatically commit and push the updated `BSMA_Master_Coding_Sheet.xlsx` to the GitHub repository.
-- Run `git add .`
-- Run `git commit -m "Auto-backup: Extracted data for [Paper Author Year]"`
-- Run `git push`
+**Step 4: 4-Sheet Isolated Routing**
+- **Objective:** Preserve zero-order metric purity.
+- **Action:** Based on the flags extracted in Step 1, Python routes the Cartesian pairs into one of four physically isolated sheets in the Master Excel file: `Raw_Metrics`, `Transformed_Metrics`, `Imputed_Metrics`, or `Salami_Review_Queue`.
 
-**Step 5: Infinite Loop Prevention (Circuit Breaker)**
-- Maintain a `Retry_Count` for each paper. If a subagent crashes, returns an error, or hallucinates data, you may retry extraction.
-- However, if a paper fails **3 times**, you MUST immediately mark its status as `FAILED (Aborted)`. NEVER attempt to process the same paper more than 3 times.
+**Step 5: Zero-Agent Dependency Automated Backup**
+- **Objective:** Never lose data or provenance.
+- **Action:** Immediately after Step 4, the `backup_manager.py` script automatically zips the database state into `99_Archives_and_Backups/02_Database_Milestones` without requiring explicit agent instruction.
 
 </details>

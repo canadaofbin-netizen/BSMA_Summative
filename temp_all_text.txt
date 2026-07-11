@@ -1,0 +1,1555 @@
+Journal of Quality Assurance in Hospitality & Tourism
+ISSN: 1528-008X (Print) 1528-0098 (Online) Journal homepage: www.tandfonline.com/journals/wqah20
+Driving Hospitality Frontline Employees’
+Boundary-spanning Behaviors: A Social Exchange
+and Role Theory Perspective
+Jiaxin (Sylvia) Wang, Xiaoxiao Fu, Youcheng Wang & Fuxiang Wei
+To cite this article: Jiaxin (Sylvia) Wang, Xiaoxiao Fu, Youcheng Wang & Fuxiang Wei (2022)
+Driving Hospitality Frontline Employees’ Boundary-spanning Behaviors: A Social Exchange and
+Role Theory Perspective, Journal of Quality Assurance in Hospitality & Tourism, 23:2, 388-414,
+DOI: 10.1080/1528008X.2021.1871701
+To link to this article:  https://doi.org/10.1080/1528008X.2021.1871701
+Published online: 19 Jan 2021.
+Submit your article to this journal 
+Article views: 1208
+View related articles 
+View Crossmark data
+Citing articles: 16 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wqah20
+
+ARTICLE
+Driving Hospitality Frontline Employees’ Boundary- 
+spanning Behaviors: A Social Exchange and Role Theory 
+Perspective
+Jiaxin (Sylvia) Wang PhDa, Xiaoxiao Fu PhD
+b, Youcheng Wang PhDb, 
+and Fuxiang Wei PhDa
+aDepartment of Marketing, School of Management, Tianjin Normal University, Tianjin, China; bRosen 
+College of Hospitality Management, University of Central Florida, Orlando, FL, USA
+ABSTRACT
+The present study explores the antecedents of frontline employ­
+ees’ boundary-spanning behaviors in the hospitality industry. 
+Based on social exchange theory and role theory, a conceptual 
+model was built to explore how three dimensions of perceived 
+organizational support (perceived supervisory support, internal 
+communication, and training) cultivate frontline employees’ 
+boundary-spanning behaviors through job satisfaction and 
+organizational commitment. Based on the analysis of 597 hos­
+pitality frontline employees in the United States, which were 
+recruited through Amazon Mechanical Turk, this study shows 
+the differential impacts of organizational support types on driv­
+ing boundary spanning staff to effectively operate on the 
+boundary. Theoretical and practical implications of the findings 
+are articulated.
+KEYWORDS 
+Boundary-spanning 
+behavior; perceived 
+organizational support; 
+frontline employees; 
+hospitality industry
+Introduction
+The hospitality industry has seen an increasingly popular trend that more and 
+more hotels acknowledge and encourage above and beyond employee beha­
+viors, since delivering high-quality service and generating satisfied customers 
+is fundamental to businesses’ success (Madera et al., 2017). Unlike non-service 
+industries and other service settings, the hospitality industry is distinguished 
+by the delivery of an experience that extends beyond the provision of tangible 
+goods during irregular and long hours and thus requires high experiential 
+qualities. Thus, the success of hospitality businesses mainly relies on customer- 
+contact employees’ services in creating and delivering high-level, in-person 
+customer service and handling multiple responsibilities simultaneously (e.g., 
+Tsaur & Tang, 2012; Zeithaml et al., 2017).
+High-contact frontline employees, as the first and foremost representative 
+of service organizations, are an important nexus between hospitality firms and 
+customers (Yoo & Arnold, 2016; Zablah et al., 2012). Frontline employees not 
+CONTACT Xiaoxiao Fu 
+xiaoxiao.fu@ucf.edu 
+Rosen College of Hospitality Management, University of Central 
+Florida, 9907 Universal Blvd., Orlando, FL 32819, USA
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM 
+2022, VOL. 23, NO. 2, 388–414 
+https://doi.org/10.1080/1528008X.2021.1871701
+© 2021 Taylor & Francis Group, LLC
+
+only create service (Choi et al., 2014), but also represent the organization to 
+outsiders as ambassadors, building up customer relationships (Choi et al., 
+2014) and advocating the firm’s image (Yoo et al., 2014). On the other hand, 
+they also act as “envoys” sharing information internally for improvements in 
+service delivery (Johlke et al., 2002).
+Although different types of hospitality businesses may have their own 
+performance scales, frontline employees in this sector generally need to span 
+the firm’s boundary by interacting with its external stakeholders in their daily 
+work (Kim et al., 2009). Their behaviors have been encapsulated in the concept 
+of boundary-spanning behaviors, which contribute to products and service 
+excellence through boundary spanning employees’ exceeding their job respon­
+sibility, promoting the organization’s products and service, advocating an 
+outstanding image for the organization, and differentiating from competitors 
+(Bettencourt & Brown, 1997; Yoo et al., 2014). For example, during peak hours 
+in a restaurant, frontline associates may help the customers who are unfamiliar 
+with the menu to order, while acknowledging other customers’ time-sensitive 
+needs. On the other hand, the frontline employees may also be in a position to 
+share customers’ complaints with the organization to improve the service 
+process and experience in the future. Boundary-spanning behavior is distinct 
+from organizational citizenship behavior because the former highlights 
+a heterogeneous social landscape where employees interact with external 
+stakeholders possibly diverging from the firm’s goals, whereas the latter refers 
+to the proactive collaboration and assistance among all types of coworkers, 
+largely within an organization (Williams & Anderson, 1991).
+The hospitality industry exhibits a fitting boundary-spanning context where 
+frontline employees engaged with both external and internal environments on 
+the boundary of a firm. Oftentimes facing not only conflicting requests from 
+different parties but also unclear and ambiguous expectations, all while per­
+forming as boundary spanners, hospitality frontline employees may easily get 
+stressed due to divergent expectations from organizations and customers, 
+thereby creating cross-boundary issues (Kang et al., 2016; Yang & Lau, 
+2019). However, studies on how to cultivate boundary-spanning personnel 
+have been limited in hospitality literature until recently (Adam, 2019; Hu et al., 
+2017; Kim & Qu, 2019; Yang & Lau, 2019).
+What factors lead to boundary-spanning behaviors and how to promote 
+such behaviors among frontline employees have aroused interests in the 
+marketing literature (Bettencourt & Brown, 2003; Wintericht et al., 2013). 
+However, previous research tended to focus on personal motivational factors 
+such as individual differences (i.e., attitude, personality, psychology) 
+(Bettencourt et al., 2001) and contextual variables (i.e., role recognition, 
+symbolization, internalization) (Grant, 2012; Wintericht et al., 2013), neglect­
+ing other important organizational supportive factors such as how manage­
+ment interventions can motivate frontline employees’ boundary-spanning 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+389
+
+behaviors since boundary spanners are likely to be affected by the social 
+environment, especially social support, within the corporation (Bettencourt 
+et al., 2005; Goolsby, 1992; Korschun, 2015).
+To address the call for more attention to situational predictors of boundary- 
+spanning behaviors (Malhotra & Ackfeldt, 2016) and sustaining more extra- 
+role service among hospitality employees (Castro-Casal et al., 2019), this 
+research investigates how organizational support predict boundary-spanning 
+behaviors of hospitality frontline employees in the United States. It aims to 
+explain human behavior in a social exchange relationship. For example, when 
+hospitality frontline employees perceive they are getting support or benefits 
+from the organization, they are more likely to reciprocate with positive 
+organizational attitude and behavior (Cropanzano & Mitchell, 2005). It pro­
+vides the basic premise for the current study that frontline employees may 
+devote to more boundary-spanning behaviors when they perceive more orga­
+nizational support via job satisfaction and organizational commitment.
+Literature review and conceptual model
+This study is anchored in two theoretical streams: social exchange theory and 
+role theory. According to social exchange theory (Blau, 1964), denoting a two- 
+sided rewarding process between two or more parties (Mitchell et al., 2012; 
+Rasoolimanesh et al., 2015), employees trade commitment and efforts to the 
+organization in exchange for tangible incentives and socio-emotional benefits 
+(Blau, 1964; Eisenberger et al., 1986). Moreover, drawing upon role theory 
+(Walker Jr. et al., 1975), an individual’s role is shaped by their perceived 
+support or influences from role senders (supervisors or customers). 
+Presumably, organizational support would prompt boundary spanners to 
+have a clear understanding of their roles and increase their satisfaction and 
+effective performance (Walker Jr. et al., 1975). When employees recognize that 
+they are provided with the support needed, they feel more obliged to meet 
+expectations for work performance. Thus, frontline employees may devote to 
+more boundary-spanning behaviors when they acknowledge job satisfaction 
+and organizational commitment as a result of organizational support. 
+Integrating these two theoretical schools and taking into account the unique 
+characteristics of the hospitality industry, this study intends to the dynamic 
+relationships between three dimensions of perceived organizational support, 
+frontline employees’ job satisfaction, organizational commitment, and bound­
+ary-spanning behaviors.
+Boundary-spanning behaviors
+Defining organizations in terms of boundaries between members and non­
+members, the boundary-spanning theory postulates that boundary spanners 
+390
+J.(S.) WANG ET AL.
+
+are personnel that engage in social and economic exchanges between an 
+organization and its external environment and ensure the smooth functioning 
+of such interactions (Aldrich & Herker, 1977). Therefore, boundary-spanning 
+behaviors occur through “job-related interactions with a person who is con­
+sidered part of the environment” and “not a member of the organization” 
+(Robertson, 1995, p. 75). Boundary spanners not only operate within the 
+confines of the firm but interact with external stakeholders whose objectives 
+may diverge from those of the business (Korschun, 2015). As a result, bound­
+ary-spanning employees may perceive role stress due to divergent 
+expectations.
+Unlike organizational citizenship behaviors that are widely applicable 
+across positions and contexts, boundary-spanning behaviors focus on the 
+unique nature of boundary crossing in organizational functioning 
+(Robertson, 1995). This requires that boundary spanners are not only subject 
+to the expectation of the parent system but also that of a boundary interactive 
+system (Wall & Adams, 1974). That is, boundary-spanning employees not 
+only have the responsibility of presenting products or services in a quality way 
+and fulfilling the organization’s promise through service delivery (Hartline & 
+Ferrell, 1996; Mulki et al., 2012), they also perform value-added functions such 
+as establishing a desirable service environment, extensively communicating 
+with customers, and influencing their preferences toward organizational goals, 
+while crossing the organizational boundary (Manev & Stevenson, 2001; Owen 
+et al., 2015).
+Therefore, boundary-spanning behaviors are distinguished, by which cus­
+tomer-organization relationship benefits in terms of the quality of exchange 
+relationships through boundary spanners’ ties (Huang et al., 2016). A key 
+aspect of boundary-spanning behaviors is employees’ interpersonal interac­
+tion with the external environment, which is of strategic importance for 
+organizations. Specifically, in the hospitality firms, frontline employees are 
+considered typical boundary-spanners who are constantly involved in transac­
+tions with various influencing parties (e.g., supervisors, coworkers, and cus­
+tomers) (Coelho et al., 2011). They not only follow the in-role service 
+procedures but also promote service delivery through interpersonal relation­
+ships (Huang et al., 2016), monitoring customer preferences and demands 
+(Peng & Heath, 1996), and introducing innovations to products and services 
+(Manev & Stevenson, 2001). To some extent, the relationship between custo­
+mers and hospitality organizations is attributed to boundary spanners who are 
+instrumental in bridging communication in consumptive scenarios, resulting 
+in favorable ties and mutual trust between the internal and external 
+environments.
+Existing literature suggests that boundary-spanning behaviors manifest in 
+three major dimensions, namely external representation, internal influence, 
+and service delivery (Bettencourt & Brown, 2003; Bettencourt et al., 2005; 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+391
+
+Bowen & Schneider, 1985; Parasuraman et al., 1988; Schneider & Bowen, 
+1984). Specifically, (1) external representation denotes employees’ promotion 
+and advocacy of the organization’s products and service to consumers; (2) 
+internal influence happens when employees take initiatives to communicate 
+with the organization and/or colleagues for service improvement; and (3) 
+service delivery refers to providing responsive, courteous, and flexible service 
+to customers. For most frontline employees, external representation and 
+internal influence behaviors tend to be relatively more extra-role whereas 
+service delivery behaviors are more role-prescribed (Bettencourt et al., 2005). 
+Boundary spanning behavior is a significant contributor to hospitality firms’ 
+service excellence since it not only provides a mechanism for quality service 
+and settling customers’ complaints effectively, but also transmits information 
+about customers’ requirements, complaints, and expectations of the service to 
+the firm (Karatepe, 2012).
+Given the importance of such behaviors, scholars have been striving to 
+understand the factors that lead to more boundary spanning. A major stream 
+of studies focused on employees’ attitudes, personal features, and psychologi­
+cal states as potential triggers of boundary-spanning behaviors (J. Wang et al., 
+2020; Ying & Norman, 2017; Yoo et al., 2014). Yoo et al. (2014) revealed how 
+bank employees’ perception of positive sentiments (i.e., trust, commitment, 
+and satisfaction) motivates them to work, which may spur boundary-spanning 
+behaviors for positive work outcomes. Similarly, service employees who have 
+a strong sense of membership are likely to exhibit boundary-spanning beha­
+viors in the hospitality context (Bayighomog & Arasli, 2019). Nevertheless, few 
+studies in the hospitality context explored the organizational motivators of 
+boundary-spanning behaviors. Presumably, boundary spanners such as sales 
+personnel who perceive being greatly supported by the organization tend to 
+show a high level of job satisfaction (Stamper & Johlke, 2003). As a way to 
+reciprocate perceived organizational support, they may also exhibit higher 
+levels of organizational commitment and more boundary-spanning behaviors 
+(Srivastava & Tang, 2015).
+Perceived organizational support
+Being apt to face challenges and complexity in their daily work, boundary- 
+spanners are easy suffering stress and exhaustion (Kang & Jang, 2019), which 
+has a significant negative effect on task performance (Cropanzano et al., 2003). 
+Extant research has focused on investigating the impact of personal differences 
+and environmental factors (e.g., person-organization fit) on boundary- 
+spanning behaviors in service settings. Empirical research found that internal 
+undermining (such as supervisor undermining and coworker undermining) in 
+retail banks and insurance companies negatively impacted boundary-spanning 
+employees’ service behaviors toward their organizations (Yoo, 2013). On the 
+392
+J.(S.) WANG ET AL.
+
+contrary, desirable work resources and error-tolerance helps to promote the 
+formation of employees’ positive psychological states and well-being, which 
+lead to the successful execution of their work assignments (Schaufeli & Van 
+Rhenen, 2009; X. Wang et al., 2020). Nonetheless, few studies attempt to 
+discover the influence of favorable organizational support on hospitality 
+boundary-spanners’ attitudinal and behavioral outcomes.
+Perceived organizational support is defined as employees’ perception of the 
+extent to which their employers value their contribution and care for their 
+well-being (Eisenberger et al., 1986; Shanock et al., 2012). Usually, it is pre­
+sented as the employees’ perceptions of organizations’ commitment toward 
+their employees (Abou Hashish, 2017). Perceived organizational support 
+develops as a result of the social exchange relationship between employees 
+and organizations (Baran et al., 2012). It instills a sense of ownership among 
+the employees, leading to positive performance and attitudes toward the 
+organization (Marchand & Vandenberghe, 2016).
+A review of the literature endorsed that a few factors are believed to relate to 
+employees’ perceptions of organizational support, such as organizational 
+rewards and work environment (Baran et al., 2012). Employees assess the 
+amount of assistance the organization provides to help them complete assign­
+ments, as well as the training and development experiences in areas that are of 
+interest to employees (LaMastro, 2000). Besides, management support, cow­
+orker support, supervisor support, learning culture, job design, and job auton­
+omy(Islam & Ahmed, 2018) are evaluated as the environmental factors which 
+are likely to influence employees’ attitudinal and behavioral outcomes 
+(Chiaburu et al., 2013).Therefore, in accordance with previous studies(Castro- 
+Casal et al., 2019; Chiaburu et al., 2013; Islam & Ahmed, 2018), organizational 
+support is manifested through perceived supervisory support, internal com­
+munication, and training. Supervisory support refers to the level to which 
+employees recognize the support, encouragement, and concerns received from 
+supervisors (Krishnan & Mary, 2012; Rhoades & Eisenberger, 2002). Since the 
+supervisor is the one whom employees contact regularly and with whom they 
+maintain an intimate working relationship, he/she is considered instrumental 
+in pushing frontline employees’ organizational commitment (Qureshi & 
+Hamid, 2017) and strengthening their task-related behaviors (Chen & Wang, 
+2017). Working with a supportive supervisor, boundary spanners’ are more 
+receptive to their leader’s positive attitude and their work-related motivation 
+and enthusiasm are more likely to be aroused or activated (Chen & Wang, 
+2017). Supervisory support can lead to job satisfaction of hotel frontline 
+employees (Kang et al., 2015), and employees’ affective attachment and orga­
+nizational commitment (Kang et al., 2015). Hence, this research proposes the 
+following hypotheses: 
+H1a. Perceived supervisory support positively influences job satisfaction.
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+393
+
+H1b. Perceived supervisory support positively influences organizational 
+commitment.
+Another relevant aspect of organizational support is internal communica­
+tion (Hume & Leonard, 2014; Welch, 2012). As a service sector, the hospitality 
+industry relies on effective internal communication among employees to 
+ensure quality service delivery (King & Lee, 2016). Work-related information 
+redundancy may induce a “bystander effect”, which hardly benefits employees’ 
+job involvement (Hussain et al., 2019). High levels of internal communication 
+help solve problems, achieve goals, and benefit service and product innova­
+tion, which leads to higher employee satisfaction (Huang et al., 2016). Internal 
+communication also increases employees’ psychological attachment to their 
+organization, as “it encourages employees to perceive themselves as core 
+members of the organization” (Ng et al., 2006, p. 477). Moreover, reinforcing 
+communication channels and valuing external information exchange and 
+sharing help to create a team consensus. According to role theory, effective 
+internal communication would reduce the uncertainties about roles and 
+responsibilities perceived by boundary-spanners and enhance their satisfac­
+tion and organizational commitment (Malhotra & Ackfeldt, 2016). Thus, H2a 
+and H2b are formulated. 
+H2a. Internal communication positively influences job satisfaction.
+H2b. 
+Internal 
+communication 
+positively 
+influences 
+organizational 
+commitment.
+Last but not least, quality training represents a common means of support­
+ing employees in organizations (Johlke et al., 2002), promoting employees’ 
+positive attitudes and behaviors (Chen, 2017). Training programs are integral 
+to perceived organizational support, promoting employees’ skills, product and 
+customer knowledge, and career development. Both employees and organiza­
+tions perceive training as an important element for quality assurance, certainly 
+in the case of the hospitality industry (Costen & Salazar, 2011). Meanwhile, 
+training has been linked to greater employee satisfaction, commitment, and 
+positive behaviors, such as role and extra-role performance (Bhat, 2013; 
+Karatepe et al., 2018). Trained boundary spanners are capable of better tying 
+customers and the organization (Huang et al., 2016), gaining a sense of being 
+valued and trusted (Karatepe et al., 2018), and performing work effectively and 
+efficiently (Hanaysha & Tahir, 2016). Empirical study also provided evidence 
+that in the hospitality industry, a high level of training received by frontline 
+employees can affect their extra-role service behavior via affective commit­
+ment (Castro-Casal et al., 2019). In comparison to other job benefits, training 
+more likely shows the organization’s willingness to invest in employees, 
+394
+J.(S.) WANG ET AL.
+
+thereby increasing organizational commitment (Brunetto et al., 2012). Given 
+the above evidence, we arrive at the following hypotheses: 
+H3a. Training positively influences job satisfaction.
+H3b. Training positively influences organizational commitment.
+Job satisfaction and organizational commitment
+Job satisfaction is conceptualized as a pleasurable emotional state resulting 
+from the assessment of one’s job experience (Locke, 1969), which plays 
+a critical role in the mechanism of social exchange theory, performing as 
+a psychological construct mediating the relationship between workplace envir­
+onment and behaviors (Crede et al., 2007). High levels of job satisfaction are 
+the precursors of many positive outcomes such as organizational commitment 
+(Valaei & Rezaei, 2016) and better performance (Bowling et al., 2015). 
+Adams’s (1963) equity theory has been used to help understand job satisfac­
+tion and its outcomes (Sean et al., 2015). Simply put, individuals compare their 
+input in work (e.g., effort, knowledge, and skills) with what is gained from 
+such input (e.g., salary, benefits, and intrinsic rewards). Job satisfaction is 
+related to boundary spanning effectiveness (Owen et al., 2015) and used to 
+be measured as a motivator of boundary spanners’ performance (Liu et al., 
+2018; Marrone, 2010). In the hospitality industry, frontline employees’ job 
+satisfaction is even more crucial, as an essential contributor to experience 
+quality on the boundary and customer satisfaction (W. G. Kim et al., 2005; 
+Karatepe & Sokmen, 2006).
+Organizational commitment indicates the attachment between employees 
+and organizations (Angle & Perry, 1981), implying employees perform in 
+accordance with organizational values or goals (O’Reilly & Chatman, 1986). 
+Employees with high levels of organizational commitment are driven to 
+achieve superior task performance (Huang et al., 2016). In the hospitality 
+industry, both emotional satisfaction and organizational commitment can 
+predict how customer-oriented employees repay the organization and/or 
+represent it to others. Employees who are highly attached to organizations 
+can better handle work stress and make both in-role and extra-role contribu­
+tions (K. Y. Kim et al., 2016). Based on social exchange relationships such as 
+when employees feel satisfied and committed to their organizations, they tend 
+to reciprocate through supportive attitude and behavior toward the outside 
+audience in a boundary-spanning situation. Moreover, during the process of 
+interpersonal interactions with outside stakeholders, boundary-spanning 
+employees with a higher level of job satisfaction/organizational commitment 
+are typically more involved, acting as ties between the organization and 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+395
+
+customers, rather than simply delivering a service or product (Owen et al., 
+2015).Therefore, job satisfaction and organizational commitment are consid­
+ered as predictors of boundary-spanning behaviors, leading to the following 
+hypotheses and conceptual model (see Figure 1): 
+H4a. Job satisfaction positively influences organizational commitment.
+H4b. Job satisfaction positively influences boundary-spanning behaviors.
+H5. Organizational commitment positively influences boundary-spanning 
+behaviors.
+Methodology
+Questionnaire design
+The questionnaire was designed as a result of a critical literature review. First, 
+job-related questions (e.g., work context and job position) were asked. Two 
+screening questions were implemented at the beginning of the questionnaire, 
+“Do you work in the hospitality industry (e.g., hotels, restaurants, resorts) in the 
+United States?” and “At work, do you directly interact with guests daily?” to 
+recruit frontline employees in the hospitality industry only. Next, the respon­
+dents were directed to describe their perceived organizational support, job 
+satisfaction, organizational commitment, and boundary-spanning behaviors. 
+The survey closed with demographic questions including gender, age, educa­
+tion level, ethnic background, and annual income. The major constructs were 
+assessed with seven-point Likert-type scales from “1 = strongly disagree” to 
+“7 = strongly agree”.
+Organizational 
+Commitment
+Job 
+Satisfaction 
+Perceived 
+Supervisory 
+Support 
+Training 
+Boundary-spanning 
+behaviors 
+H1a 
+H1b 
+H2a 
+H2b 
+H3a 
+H3b 
+H4b 
+H4a 
+H5 
+Internal 
+Communication
+Perceived organizational support 
+External 
+Representative
+Internal 
+Influence 
+Service 
+Delivery 
+Figure 1. The conceptual model.
+396
+J.(S.) WANG ET AL.
+
+Multi-item indicators from previous studies were employed to operationa­
+lize the major constructs. Perceived organizational support consists of per­
+ceived supervisory support, internal communication, and training. Perceived 
+supervisory support was measured by a five-item shortened version of Kottke 
+& Sharafinski (1988); internal communication was assessed by a four-item 
+scale from Carrière & Bourque (2009); training was evaluated by three items 
+by Johlke et al. (2002). To evaluate job satisfaction, this study used a scale with 
+five items adapted from W. G. Kim et al. (2005). A four-item scale measuring 
+organizational commitment was developed by Mowday et al. (1979). Lastly, 
+the measurement of boundary-spanning behaviors in this study is based on the 
+conceptual definitions by Bettencourt et al. (2005). Particularly, external 
+representation was assessed by four items, internal influence was measured 
+via four items, and service delivery was tested through five items. The mea­
+surement items were adapted to fit the hospitality context and face and content 
+validity were assessed through a panel of academic and industry experts.
+Data collection
+To evaluate the questionnaire, a pilot test was conducted through Amazon 
+Mechanical Turk in December 2018and the target population of this study was 
+frontline employees of the hospitality industry who live in the United States. 
+M-Turk was used as data collection tool in this study because it served as an 
+online pool with large and diverse workers completing the required tasks 
+(Paolacci & Chandler, 2014) and proved useful with regard to reaching 
+samples with specific characteristics reliably and validly (Buhrmester et al., 
+2011).
+Among 230 distributed questionnaires, 195 complete questionnaires were 
+usable, for a valid response rate of 84.8%. All dimensions and the total scale 
+showed good internal consistency of the scale with Cronbach’s Alphas value 
+from 0.801 to 0.973 (Nunnally, 1978). After making some alterations to the 
+wording of items based on the pilot test, the research team launched the formal 
+survey in January 2019. Participants in the pilot test were excluded from re- 
+taking the survey. Respondents from the worker pool who completed the 
+questionnaires were paid a small honorarium. Out of 680 distributed ques­
+tionnaires, 83 were excluded due to incompletion, resulting in a response rate 
+of 87.5%. The large number of sample helps ensure a high level of statistical 
+validity (McQuitty, 2004).
+Data analysis
+Data were analyzed with the aid of SPSS 25.0 and AMOS 25.0. First, descrip­
+tive analysis was performed to offer baseline information of the study con­
+structs. Next, confirmatory factor analysis (CFA) was applied to verify the 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+397
+
+factorial structure and the reliability and validity of the proposed model. Both 
+first- and second-order models were examined to validate the structure of 
+boundary-spanning behaviors which contain three sub-dimensions (external 
+representative, internal influence, and service delivery). The first-order model 
+is usually used to evaluate the relationship between latent and observed 
+variables (Bollen, 1989), while the second-order model confirms the latent 
+variables and their sub-dimensions (Jarvis et al., 2003). Third, this study 
+performed Harman’s single factor test to check whether common method 
+variance was a serious problem. Harman’s single factor test is a principal 
+component factor analysis using varimax rotation (Podsakoff & Organ, 
+1986), suggesting that common method variance is problematic if the result 
+of one latent construct accounting for more than 50% total variance of the 
+measures. The results of this study supported multiple factors with eigenvalues 
+over the cutoff value of one with the first factor representing 22.55% of the 
+variance. In addition, a structural equation modeling (SEM) technique was 
+conducted to assess the hypothesized paths and the associated model fit 
+indexes (Anderson & Gerbing, 1988).
+Findings
+Sample profile
+The sample contains 325 males and 270 females. More than half of the 
+respondents were between the ages of 25–34 (54.94%) and had a white ethnic 
+background (82.07%). Respondents with a 2-year college education are the 
+largest proportion (35.51%). The median of respondents’ annual pretax 
+income is 30,000 USD-$39,999. Respondents represent a variety of job posi­
+tions across the hospitality industry, including waiter/waitress, bartender, 
+front desk clerk, receptionist, concierge, bellman, housekeeper, cashier, coor­
+dinator, supervisor, director, duty/shift manager, and so on. Among them, 
+those working in the front office department (i.e., front desk clerk, reception­
+ist, concierge, bellman, etc.) constitute the largest share (36.68%), followed by 
+the category of waiter/waitress, bartender, and attendant (32.50%). The results 
+showed no critical non-normality with all items’ skewness and kurtosis scores 
+below 2, which are under the thresholds of 3 and 10 respectively (Kline, 2015).
+Measurement model
+The measurement model of 34 items included three sub-dimensions of bound­
+ary-spanning behaviors together with job satisfaction and organizational 
+commitment as endogenous constructs and three exogenous constructs (i.e., 
+perceived organizational support, internal communication, and training) was 
+assessed via AMOS 25.0. The first-order model indicated an acceptable fit 
+398
+J.(S.) WANG ET AL.
+
+(χ2 = 1589.698, df = 499, χ2/df = 2.985, RMSEA = 0.058, GFI = 0.864, 
+AGFI = 0.838, NFI = 0.922, IFI = 0.946, TLI = 0.940, CFI = 0.946), in line 
+with the standard requirements (Byrne, 2010). Table 1 shows that all con­
+structs’ standardized regression weights are higher than 0.5 with a significant 
+level at p < .001, and the t-value for each factor loading is above the critical 
+score of 1.96 (Hair et al., 2010). Meanwhile, the average variances explained 
+(AVE) of each dimension exceeded 0.50, indicating sufficient convergent 
+validity (Fornell & Larcker, 1981). The lowest composite reliability (CR) of 
+the scales scored at 0.821, beyond the benchmarking of 0.70, showing sufficient 
+internal consistency (Bagozzi & Yi, 1988). Besides, by confirming that the AVE 
+value for each construct is greater than its squared correlations with other 
+constructs, discriminant validity of the scales was achieved (Table 2; Chin, 
+1998).
+Additionally, the second-order factor analysis was applied to examine 
+relationships between the three first-order factors and a second-order factor 
+(boundary-spanning behaviors). Each sub-dimension contributes differently 
+to boundary-spanning behaviors as a holistic construct. The secondary-order 
+factor model yields an acceptable model fit: χ2 = 1536.6, df = 502, χ2/ 
+df = 3.061), p< .001, GFI = 0.862, AGFI = 0.836, NFI = 0.919, IFI = 0.944, 
+TLI = 0.937, CFI = 0.944, RMSEA = 0.059. Figure 2 shows the results of the 
+secondary-order model with coefficients between boundary-spanning beha­
+viors and its sub-dimensions, indicating how much variances were shared 
+among the sub-constructs. Results indicate that the external representative 
+shares more variance in boundary-spanning behaviors than the other sub- 
+constructs.
+Structural model
+The hypothesized paths of the structural model were examined via SEM. The 
+structural path parameters are presented in Figure 3 and Table 3 with standard 
+coefficient estimates. The fit indexes showed that the model had a reasonable 
+fit (χ2 = 1513.08, df = 503, χ2/df = 3.008, goodness-of-fit index [GFI] = 0.862, 
+AGFI = 0.836, RMSEA = 0.058, NFI = 0.920, RFI = 0.911, IFI = 0.945, 
+TLI = 0.939, CFI = 0.945), in accordance with Byrne (2010).
+Perceived supervisory support significantly influenced both job satisfaction 
+(β = 0.51, t = 9.908) and organizational commitment (β = 0.12, t = 3.222). 
+Internal communication influenced both job satisfaction and organizational 
+commitment positively (βICsit = 0.08, t = 1.989; βIC→OC = = 0.10, t = 2.441). 
+Also, training affected job satisfaction (β = 0.33, t = 5.189) and organizational 
+commitment positively (β = 0.19, t = 4.316). Overall, the significant and 
+positive coefficients supported H1a, H1b, H2a, H2b, H3a, and H3b, demon­
+strating the three dimensions of perceived organizational support influenced 
+job satisfaction and organizational commitment.
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+399
+
+Table 1. Results of CFA.
+Constructs
+Items
+N = 597
+SRW
+t-value
+SMC
+AVE
+CR
+Perceived 
+Supervisory 
+Support 
+(PSS)
+My supervisor cares about my well-being.(PSS1)
+0.873
+NA
+0.761
+0.704
+0.922
+If I did the best job possible, my supervisor would be sure to notice. (PSS2)
+0.845
+27.954***
+0.715
+My supervisor cares about my general satisfaction at work. (PSS3)
+0.932
+34.436***
+0.863
+My supervisor shows a lot of concern for me. (PSS4)
+0.908
+32.535***
+0.715
+My supervisor cares about my opinions. (PSS5)
+0.892
+31.073***
+0.761
+Internal 
+Communication 
+(IC)
+I know the overall policies and goals of our firm well. (IC1)
+0.833
+NA
+0.693
+0.567
+0.837
+I know the information about departmental/group/team plans well. (IC2)
+0.800
+18.727***
+0.640
+I know my team mates/coworkers well. (IC3)
+0.701
+17.408***
+0.492
+I know what happens to our firm from internal channels (such as internal e-mails, memos etc.). (IC4)
+0.600
+13.715***
+0.360
+Training 
+(TR)
+My firm provides adequate training for new employees. (TR1)
+0.805
+NA
+0.648
+0.604
+0.821
+My firm provides adequate ongoing training for employees. (TR2)
+0.851
+22.672***
+0.725
+The training I have received has helped me to be successful. (TR3)
+0.892
+23.243***
+0.796
+Job Satisfaction 
+(JS)
+I consider my job pleasant. (JS1)
+0.870
+NA
+0.757
+0.628
+0.894
+I feel satisfied with my present job. (JS2)
+0.911
+32.457***
+0.831
+I definitely like my work. (JS3)
+0.926
+33.756***
+0.857
+My job is pretty interesting. (JS4)
+0.819
+26.053***
+0.670
+I find real enjoyment in my work. (JS5)
+0.906
+31.790***
+0.821
+Organizational 
+Commitment 
+(OC)
+I find that my values and my firm’s values are similar. (OC1)
+0.869
+NA
+0.755
+0.740
+0.919
+My firm really inspires the best in me. (OC2)
+0.863
+27.786***
+0.744
+I really care about the fate of my firm. (OC3)
+0.846
+25.890***
+0.716
+For me, my firm is a good organization for which to work. (OC4)
+0.854
+26.654***
+0.729
+External Representative 
+(ER)
+I always tell outsiders this is a great place to work. (ER1)
+0.864
+NA
+0.747
+0.686
+0.897
+I always generate favorable goodwill for our company. (ER2)
+0.869
+30.425***
+0.803
+I always say good things about our company to others. (ER3)
+0.927
+32.653***
+0.859
+I always promote our company’s products and services. (ER4)
+0.796
+24.386***
+0.633
+Internal Influence 
+(II)
+I always make constructive suggestions for service improvement. (II1)
+0.787
+NA
+0.619
+0.599
+0.857
+I always contribute many ideas for our product promotions and communications. (II2)
+0.785
+20.155***
+0.616
+I always share creative solutions to customer problems with other team members. (II3)
+0.767
+18.711***
+0.589
+I always encourage coworkers to contribute ideas and suggestions for service improvement. (II4)
+0.782
+18.933***
+0.612
+Service 
+Delivery 
+(SD)
+I always follow up customer service guidelines with extreme care. (SD1)
+0.735
+NA
+0.540
+0.635
+0.896
+I always show responsiveness to my customers. (SD2)
+0.853
+20.136***
+0.728
+I always show my courteous and respectful to customers regardless of circumstances. (SD3)
+0.753
+17.496***
+0.567
+I always keep promises to my customers. (SD4)
+0.792
+18.944***
+0.627
+I always show personal attentiveness to my customers. (SD5)
+0.797
+18.805***
+0.635
+Goodness-of-fit indices for the measurement model
+χ2
+df
+χ2/df
+P
+GFI
+NFI
+IFI
+TLI
+CFI
+RMSEA
+1589.698
+499
+2.985
+0.000
+0.864
+0.9220.946
+0.940
+0.946
+0.062
+Note: SRW = Standardized regression weights; t-value = critical ratios; NA = not available (regression coefficient is fixed to 1.0); SMC = Squared multiple correlations; AVE = Average variance 
+extracted; CR = Composite reliability.
+400
+J.(S.) WANG ET AL.
+
+Job satisfaction had a positive impact on organizational commitment 
+(β = 0.71, t = 18.056); however, it failed to significantly and positively influence 
+boundary-spanning behaviors (β = −0.05, t = −0.606). Also, organizational 
+commitment significantly influenced boundary-spanning behaviors (β = 0.83, 
+t = 21.061). Thus, H4a and H5 were supported, but H4b was not.
+Discussion and implications
+Discussion
+Boundary spanners operate at the boundary or periphery of a service firm, 
+managing communication, negotiating and resolving issues, and advocating 
+the organization’s image (Bettencourt et al., 2005). However, hardly any 
+research has examined the antecedents to boundary-spanning behaviors in 
+the hospitality industry, despite it being a highly relevant field. Taking a social 
+exchange and role theory perspective, the current research addresses the gap in 
+the literature by investigating the organizational supportive antecedents and 
+psychological constructs as mechanisms of boundary-spanning behaviors. 
+With most of the hypotheses supported, the results demonstrated that the 
+more organizational support customer-contact employees perceived, the more 
+job satisfaction and organizational commitment they demonstrated which, in 
+turn, led to boundary-spanning behaviors. A closer look at the findings 
+uncovers several valuable insights.
+First, all three dimensions of perceived organizational support lead to 
+boundary-spanning behaviors, via job satisfaction and organizational commit­
+ment, with varied influences, corroborating the existing findings in the general 
+marketing field that management interventions/supervisor support (Ackfeldt 
+& Wong, 2006), internal communication (Malhotra & Ackfeldt, 2016), and 
+training (Johlke et al., 2002) promote boundary-spanning behaviors of high- 
+contact employees. Overall, such findings harmonize with (1) social exchange 
+theory (Blau, 1964) since employees who perceive organizational support and 
+acknowledge their satisfaction and commitment would reciprocate their 
+Table 2. Assessment of discriminant validity.
+Constructs
+PSS
+IC
+TR
+JS
+OC
+ER
+II
+SD
+PSS
+0.704
+IC
+0.334
+0.567
+TR
+0.582
+0.413
+0.604
+JS
+0.578
+0.283
+0.510
+0.628
+OC
+0.648
+0.345
+0.503
+0.517
+0.740
+ER
+0.462
+0.309
+0.426
+0.605
+0.677
+0.686
+II
+0.300
+0.312
+0.270
+0.319
+0.406
+0.501
+0.599
+SD
+0.196
+0.094
+0.262
+0.138
+0.195
+0.243
+0.252
+0.635
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+401
+
+organizations to maintain a balance in their exchange relationships, and (2) 
+role theory in that boundary-spanners who receive effective organizational 
+support such as clear internal communication tend to become less distressed 
+about their roles and more committed to the job, thereby engaging in both 
+Table 3. Structural path estimates.
+Hypotheses
+Proposed Structural Model (n = 597)
+Result
+Βa
+t-Value
+H1a: PSS→JS
+0.51
+9.908
+Supported
+H1b: PSS→OC
+0.12
+3.222
+Supported
+H2a: IC→JS
+0.08
+1.989
+Supported
+H2b: IC→OC
+0.10
+2.441
+Supported
+H3a: TR→JS
+0.33
+5.189
+Supported
+H3b: TR→OC
+0.19
+4.316
+Supported
+H4a: JS→OC
+0.71
+18.056
+Supported
+H4b: JS→BSBs
+−0.05
+−0.606
+Not supported
+H5: OC→BSBs
+0.83
+21.061
+Supported
+Note: a Standardized path coefficient estimates (β) were statistically significant (｜t-value｜> 1.96 equals to 
+*Sig. < 0.05; ｜t-value｜> 2.58 equals to **Sig.<0.01; ｜t-value｜> 3.29 equals to ***Sig.<0.001).
+Boundary-spanning 
+behaviors 
+External 
+representative
+ER1 
+ER2 
+ER3 
+ER4 
+0.86 
+0.90 
+0.93 
+0.80 
+Internal 
+influence 
+II1 
+II2
+II3
+II4 
+0.79 
+0.79
+0.77 
+0.78 
+Service 
+delivery 
+SD1 
+SD2 
+SD3 
+SD4 
+SD5 
+0.73 
+0.85
+0.75 
+0.79 
+0.80 
+0.90 
+0.76 
+0.61 
+Figure 2. Second-order factor model of boundary-spanning behaviors.
+402
+J.(S.) WANG ET AL.
+
+role-prescribed and extra-role cooperative behaviors (Malhotra & Ackfeldt, 
+2016).
+Second, frontline employees react to the level of perceived support of the 
+organization, supervisor, and coworkers in different degrees. The results of 
+structural equation modeling illustrate that the coefficient between employees’ 
+perceived supervisory support and job satisfaction seems stronger than that of 
+internal communication to job satisfaction and that of training to job satisfac­
+tion. This converges with Ng & Sorensen (2008) argument that support from 
+the direct supervisor may be seen as particularly valuable, possibly leading to 
+a transformation of working attitudes.
+Third, in the case of hospitality frontline employees, this study proved that 
+organizational support leads to a high level of job satisfaction among custo­
+mer-contact employees and drive them to reciprocate the organizations 
+through high organizational commitment and boundary-spanning behavior, 
+substantiating Wayne et al. (2002). The discovery that the relationship 
+between perceived organizational support and boundary-spanning behaviors 
+is made possible through organizational commitment supports previous find­
+ings that (1) affective commitment arises in response to perceived organiza­
+tional support (Bettencourt & Brown, 2003), and (2) frontline employees on 
+the boundary who are psychologically bound with the organization and 
+identify with its goals tend to execute boundary-spanning jobs more effectively 
+(Malhotra & Ackfeldt, 2016).
+Fourth, job satisfaction failed to directly contribute to boundary-spanning 
+behaviors; instead, its effect was made possible only through organizational 
+commitment. Job satisfaction and organizational commitment are often tied 
+together in the literature (Yousef, 2017), with job satisfaction predicting 
+organizational commitment in the hospitality industry (Gunlu et al., 2010; 
+Yao et al., 2019), which is consistent with the current finding. Consistent with 
+Blau (1964, 1968), continued social exchange forming boundary-spanning 
+Organizational 
+Commitment 
+Job 
+Satisfaction 
+Perceived 
+Supervisory 
+Support 
+Training 
+Boundary-spanning 
+behaviors 
+0.51*** 
+0.12** 
+0.08* 
+0.10* 
+0.33*** 
+0.19***
+0.71*** 
+0.83*** 
+Internal 
+Communication
+Perceived organizational support 
+- 0.05 
+External 
+Representative
+Internal 
+Influence 
+Service 
+Delivery 
+0.94 
+0.75 
+0.64 
+Figure 3. Testing results of structural model.
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+403
+
+behaviors is based on an individual’s commitment to the relationship that 
+develops over time from his satisfaction with prior exchanges. Therefore, job 
+satisfaction, a psychological concept, only exerts its influence on the bound­
+ary-spanning behavior, through organizational commitment, which is also 
+a behavioral, and a relatively more stable, concept.
+Implications
+This study offers both theoretical and practical implications. Theoretically, 
+first, this paper contributes to past literature by developing a new conceptual 
+mechanism anchored in social exchange theory and role theory, which con­
+siders three distinct forms of organizational support as antecedents to custo­
+mer-oriented boundary-spanning behaviors. Compared to organizational 
+citizenship behaviors, boundary spanning is a more pertinent concept to the 
+hospitality industry, possessing unique boundary-crossing features such as 
+making both in-role and extra-role contributions to satisfy the expectations 
+of both the parent system and the interactive system. Considering the unique 
+role of boundary spanners, this study advances the research on frontline 
+employees by going beyond the management of distress and burnout and 
+mitigation of unfavorable service encounters (e.g., Adam, 2019; Yang & Lau, 
+2019), and taking a more proactive stance in creating desired “ambassadors” of 
+the organizations. Second, this study identified differentiated impacts of dif­
+ferent organizational supportive dimensions on job satisfaction, organiza­
+tional commitment, and boundary-spanning behaviors, shedding light on 
+the important role of perceived supervisory support. It informs the literature 
+that support from the direct supervisor is considered as more valuable to 
+frontline employees’ job satisfaction, compared to other organizational sup­
+portive dimensions. Those who work as boundary spanners and frequently 
+face conflicting expectations seem to value the supervisor’s support when 
+assessing the costs and benefits of performing the extra-role, indicating that 
+as a hygiene factor, interpersonal relationship between boundary spanners and 
+their supervisors promote boundary spanners’ job satisfaction and their go 
+above and beyond behaviors, which amplifies the insights of the previous 
+research on the outcomes of favorable relationship between supervisor- 
+subordinate (e.g., Major & Morganson, 2011; Tse et al., 2018). Moreover, 
+training presents its relatively stronger contribution to organizational com­
+mitment among the three organizational supportive forms. It enriches the 
+literature showing that training is not only critical for in-role performance 
+(e.g., Chen, 2017; Woodside et al., 2020) but also for sustaining affective 
+commitment and extra-role in hospitality firms. Finally, the paper highlights 
+the role of attitudinal constructs between organizational supportive dimen­
+sions and boundary-spanning behaviors.
+404
+J.(S.) WANG ET AL.
+
+Boundary spanning employees serve as ambassadors in hospitality organi­
+zations, resolving issues between the internal and external environment. 
+Meanwhile, they represent a group oftentimes plagued by staff shortage, 
+work overload, irregular work shifts, role stress, and role ambiguity, and 
+then high turnover rate, on the boundary. Therefore, a thorough consideration 
+of frontline employees’ work conditions and related hygiene factors, such as 
+clear job descriptions and reasonable hours, need to be given. Since a high level 
+of job satisfaction and organizational commitment lead to frontline employ­
+ees’ boundary-spanning behaviors, it is important to boost employees’ satis­
+faction and commitment so that they want to repay the organizations through 
+positive behavior and/or word-of-mouth to outside audiences.
+Moreover, it is of strategic importance for organizations to foster 
+a supportive organizational culture to align boundary-spanning behaviors 
+with managerial goals, encouraging the frontline employees to create and 
+deliver quality service especially when they face role stress and conflicting 
+demands. Hospitality organizations should implement multi-form internal 
+supportive policies and management intervention strategies that elicit 
+a greater sense of belonging and attachment among high contact employees 
+since employees who feel connected to their employer may take extra mea­
+sures of recommending the organization to others and advocating the orga­
+nization’s offerings. For example, on-the-job training at hospitality firms may 
+not only enable hotel frontline employees to become more competent in 
+completing tasks but also help them to internalize the brand and reinforces 
+their values and behaviors that reflect the brand promise. Such internal 
+branding initiatives make the frontline employees the believers first, and 
+then prompt them to perform boundary-spanning behaviors and deliver 
+excellent service.
+Last but not least, hospitality organizations wishing to engage their frontline 
+employees in boundary-spanning behaviors should leverage multi-level sup­
+ports. The findings showed that support perceived from the direct supervisor 
+is considered more valuable than other aspects. For supporting hospitality 
+high-contact employees who constantly face stressors and conflicting 
+demands, the supervisory support when time is tough is especially precious, 
+such as bringing the manager or supervisor to help high-contact employees to 
+handle demanding customers. To support boundary spanners and promote 
+boundary-spanning behaviors, democratic leadership or participative leader­
+ship style should be adopted to recognize, understand and respond to the 
+frontline employees’ needs and struggles. Especially, favorable leader beha­
+viors such as charismatic and supportive leadership can evoke positive affect 
+and behaviors among employees. Considering the uniqueness of a hospitality 
+job, supervisors should develop rapport with and show concerns for customer- 
+contact employees’ needs especially considering the long and irregular work 
+hours along with the work overload. This can be done by showing willingness 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+405
+
+to listen to the employees, expressing compliments and appreciation, or giving 
+them some extra ownership over a task. Besides, to enhance in-role and extra- 
+role behavioral performance in a boundary-spanning customer-contact role, 
+necessary training in different scenarios and quality internal communication 
+should be warranted in hospitality organizations.
+Limitations and directions for future research
+Several limitations are associated with the current study, which offers sugges­
+tions for future research. First, the proposed conceptual framework will benefit 
+from the incorporation of other variables for further exploring the triggering 
+mechanism of boundary-spanning behaviors. Further research can introduce 
+more organizational antecedents into the framework, such as empowerment 
+and social justice. The moderating effect of job satisfaction, organizational 
+commitment, and the mechanism of internal branding in the mechanism are 
+also worth testing. Training and its possible dimensions, considered as 
+a booster for individual development, also deserve further exploration. 
+Second, the research context of this study was the hospitality industry, 
+which is a typical high-contact service environment, but different sectors 
+(lodging, foodservice, tourism, etc.), positions (reservationist, housekeeper, 
+tour guide, etc.), and personality may play a role in the predictive mechanism 
+and thus deserve further exploration. Third, boundary-spanning behaviors 
+could be considered as a protective strategy used by employees to reduce 
+resource depletion at the workplace. Therefore, the conservation of resources 
+theory (Hobfoll, 1989) is worth applying to develop future research. Fourth, 
+this current study was conducted in the United States only; therefore, the 
+respondents’ understanding of boundary-spanning behaviors may be influ­
+enced by their respective social and cultural contexts. Thus, it is deemed 
+necessary to cross-validate the study findings across different service work­
+force settings. Also, a mixed-methods study can be designed to refine the 
+mechanism and its associated scales. For example, future studies can conduct 
+interviews with frontline employees to unearth items accounting for job- 
+specific characteristics. Besides, though M-Turk is considered as an effective 
+and valid data collection platform, caution still should be exercised when 
+interpreting the generalizability of the findings. Additionally, the results in 
+this current research are based on self-reported data, which may raise concerns 
+about common method bias, despite the efforts to minimize the threats: (1) the 
+research team informed the respondents of the anonymity of their responses 
+and there was no right or wrong answer to a question, which helped reduce 
+social desirability bias, (2) the researchers adapted the measurements of scales 
+from different empirical studies, removing unclear and ambiguous expres­
+sions, and (3) measurements of the predictor and outcome variables were not 
+placed in sequential orders, to reduce estimations of the relationships 
+406
+J.(S.) WANG ET AL.
+
+(Podsakoff et al., 2012). However, it is recommended to measure the variables 
+at different points in time (Podsakoff et al., 2012). Other research methods 
+such as naturalistic observations or experimental designs should be applied in 
+future research for a better understanding of the dynamics.
+Funding
+The author(s) acknowledge the following financial support for the research, authorship, and/or 
+publication of this article: The first author gratefully acknowledges the financial support of the 
+Research and Visiting Abroad Project for Young Scholars of Tianjin Normal University 2015- 
+2020, China; the National Natural Science Foundation of China (Grant No. 71472136); and the 
+National Natural Science Foundation of China (Grant No. 71502128), respectively. This 
+research was also supported by the Dean’s Research Scholars Program (2018-2019) of Rosen 
+College of Hospitality Management, University of Central Florida.
+ORCID
+Xiaoxiao Fu PhD 
+http://orcid.org/0000-0002-9590-5384
+References
+Abou Hashish, E. A. (2017). Relationship between ethical work climate and nurses’ perception 
+of organizational support, commitment, job satisfaction and turnover intent. Nursing Ethics, 
+24(2), 151–166. https://doi.org/10.1177/0969733015594667 
+Ackfeldt, A.-L., & Wong, V. (2006). The antecedents of prosocial Service behaviours: An 
+empirical investigation. The Service Industries Journal, 26(7), 727–745. https://doi.org/10. 
+1080/02642060600898237 
+Adam, I. (2019). Accommodators or non-accommodators? A typology of hotel frontline 
+employees’ attitude towards guests with disabilities. International Journal of Hospitality 
+Management, 82, 22–31. https://doi.org/10.1016/j.ijhm.2019.03.010 
+Adams, J. S. (1963). Toward an Understanding of Inequity. Journal of Abnormal and Social 
+Psychology, 67(5), 422–436. https://doi.org/10.1037/h0040968 
+Aldrich, H., & Herker, D. (1977). Boundary spanning roles and organization structure. 
+Academy of Management Review, 2, 217–230. https://doi.org/10.5465/amr.1977.4409044 
+Anderson, J. C. & Gerbing, D. W. (1988). Structural equation modeling in practice: A review 
+and recommended two-step approach .Psychological Bulletin,103(3), 411–423.
+Angle, H. L., & Perry, J. L. (1981). An empirical assessment of organizational commitment and 
+organizational effectiveness. Administrative Science Quarterly, 26(1), 1–14. https://doi.org/ 
+10.2307/2392596 
+Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural equation models. Journal of the 
+Academy of Marketing Science, 16(1), 74–94. https://doi.org/10.1007/BF02723327 
+Baran, B. E., Shanock, L. R., & Miller, L. R. (2012). Advancing organizational support theory 
+into the twenty-first century world of work. Journal of Business and Psychology, 27, 123–147. 
+http://doi.org/10.1007/s10869-011-9236-3 
+Bayighomog, S. W., & Arasli, H. (2019). Workplace spirituality-customer engagement Nexus: 
+The mediated role of spiritual leadership on customer-oriented boundary-spanning 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+407
+
+behaviors. The Service Industries Journal, 39(7–8), 637–661. https://doi.org/10.1080/ 
+02642069.2019.1570153 
+Bettencourt, L. A., & Brown, S. W. (1997). Contact employees: Relationships among workplace 
+fairness, job satisfaction and pro-social service behaviors. Journal of Retailing, 73(1), 39–61. 
+https://doi.org/10.1016/S0022-4359(97)90014-2 
+Bettencourt, L. A., & Brown, S. W. (2003). Role stressors and customer-oriented 
+boundary-spanning behaviors in service organizations. Journal of the Academy of 
+Marketing Science, 31(4), 394–408. https://doi.org/10.1177/0092070303255636 
+Bettencourt, L. A., Brown, S. W., & Mackenzie, S. B. (2005). Customer-oriented 
+bound-spanning behaviors: Test of a social exchange model of antecedents. Journal of 
+Retailing, 81(2), 141–157. https://doi.org/10.1016/j.jretai.2005.03.004 
+Bettencourt, L. A., Gwinner, K. P., & Meuter, M. L. (2001). A comparison of attitude, 
+personality, and knowledge predictors of service-oriented organizational citizenship 
+behaviors. Journal of Applied Psychology, 86(1), 29–41. https://doi.org/10.1037/0021-9010. 
+86.1.29 
+Bhat, Z. H. (2013). Impact of training on employee performance: A study of retail banking 
+sector in India. Indian Journal of Applied Research, 3(6), 292–293. http://doi.org/10.15373/ 
+2249555X/JUNE2013/97 
+Blau, P. (1964). Power and exchange in social life. John Wiley & Sons.
+Blau, P. (1968). Social exchange. International Encyclopedia of the Social Sciences, 7, 452–457. 
+http://www.researchgate.net/publication/285911305_Interaction_Social_exchange 
+Bollen, K. A. (1989). Structural equations with latent variables. John Wiley & Sons.
+Bowen, D. E., & Schneider, B. (1985). Boundary-spanning role employees and the service 
+encounter: Some guidelines for future management and research. In J. Czepiel, 
+M. R. Solomon, & C. F. Surprenant (Eds.), The service encounter (pp. 127–147). Lexington 
+Books.
+Bowling, N. A., Khazon, S., Meyer, R. D., & Burrus, C. J. (2015). Situational strength as 
+a moderator of the relationship between job satisfaction and job performance: A 
+meta-analytic examination. Journal of Business and Psychology, 30(1), 89–104. https://doi. 
+org/10.1007/s10869-013-9340-7 
+Brunetto, Y., Farr-Wharton, R., & Shacklock, K. (2012). Communication, training, well-being, 
+and commitment across nurse generations. Nursing Outlook, 60(1), 7–15. https://doi.org/10. 
+1016/j.outlook.2011.04.004 
+Buhrmester, M., Kwang, T. & Gosling, S.D. (2011). Amazon's Mechanical-Turk: A new source 
+of inexpensive, yet high-quality, data? Perspectives on Psychological Science,6(1), 3–5.
+Byrne, B. M. (2010). Multivariate applications series. Structural equation modeling with AMOS: 
+Basic concepts, applications, and programming (2nd ed.). Routledge/Taylor & Francis Group.
+Carrière, J., & Bourque, C. (2009). The effects of organizational communication on job 
+satisfaction and organizational commitment in a land ambulance service and the mediating 
+role of communication satisfaction. Career Development International, 4(1), 29–49. https:// 
+doi.org/10.1108/13620430910933565 
+Castro-Casal, C., Vila-Vázquez, G., & Pardo-Gayoso, Á. (2019). Sustaining affective commit­
+ment and extra-role service among hospitality employees: Interactive effect of empowerment 
+and service training. Sustainability, 11(15), 4092–4107. https://doi.org/10.3390/su11154092 
+Chen, B. T. (2017). Service innovation performance in the hospitality industry: The role of 
+organizational training, personal-job fit and work schedule flexibility. Journal of Hospitality 
+Marketing Management, 26(5), 474–488. https://doi.org/10.1080/19368623.2017.1264344 
+Chen, L., & Wang, Y. (2017). The effect of promotion focus on R&D followers’ boundary 
+spanning behavior. Journal of Management Science, 30(1), 107–118. http://www.zhangqiao 
+keyan.com/academic-journal-cn_journal-management-science_thesis/0201241222967.html 
+408
+J.(S.) WANG ET AL.
+
+Chiaburu, D. S., Lorinkova, N. M., & Van Dyne, L. (2013). Employees’ social context and 
+change-oriented citizenship: A meta-analysis of leader, coworker, and organizational influ­
+ences. Group & Organization Management, 38(3), 291–333. https://doi.org/10.1177/ 
+1059601113476736 
+Chin, W. W. (1998). Commentary: Issues and opinion on structural equation modeling. MIS 
+Quarterly, 22(1), 1–4.
+Choi, C. H., Kim, T., Lee, G., & Lee, S. K. (2014). Testing the stressor-strain-outcome model of 
+customer- related social stressors in predicting emotional exhaustion, customer orientation 
+and service recovery performance. International Journal of Hospitality Management, 36, 
+272–285. https://doi.org/10.1016/j.ijhm.2012.09.009 
+Coelho, F., Augusto, M., & Lages, L.F.(2011). Contextual factors and the creativity of frontline 
+employees: The mediating effect of role stress and intrinsic motivation. Journal of 
+Retailing,87(1), 31–45.
+Costen, W. M., & Salazar, J. (2011). The impact of training and development on employee job 
+satisfaction, loyalty, and intent to stay in the lodging industry. Journal of Human Resources 
+in Hospitality & Tourism, 10(3), 273–284. https://doi.org/10.1080/15332845.2011.555734 
+Crede, M., Chernyshenko, O. S., Stark, S., Dalal, R. S., & Bashshur, M. R. (2007). Job satisfac­
+tion as mediator: An assessment of job satisfaction’s position within the nomological net­
+work. Journal of Occupational and Organizational Psychology, 80(3), 515–538. https://doi. 
+org/10.1348/096317906X136180 
+Cropanzano, R., & Mitchell, M. S. (2005). Social exchange theory: An interdisciplinary review. 
+Journal of Management, 31(6), 874–900. https://doi.org/10.1177/0149206305279602 
+Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to 
+work attitudes, job performance and organizational citizenship behaviors. Journal of Applied 
+Psychology, 88(1), 160–169. https://doi.org/10.1037/0021-9010.88.1.160 
+Eisenberger, R., Huntington, R., Hutchison, S., & Sowa, D. (1986). Perceived organizational 
+support. Journal of Applied Psychology, 7(3), 500–507. https://doi.org/10.1037/0021-9010.71. 
+3.500 
+Fornell, C., & Larcker, D. F. (1981). Evaluation structural equation models with unobservable 
+variables and measurement error. Journal of Marketing Research, 18(1), 39–50. https://doi. 
+org/10.1177/002224378101800104 
+Goolsby, J. R. (1992). A theory of role stress in boundary spanning positions of marketing 
+organizations. Journal of the Academy of Marketing Science, 20(2), 155–164. https://doi.org/ 
+10.1007/BF02723455 
+Grant, A. M. (2012). Giving time, time after time: Work design and sustained employee 
+participation in corporate volunteering. Academy of Management Review, 37(4), 589–615. 
+https://doi.org/10.5465/amr.2010.0280 
+Gunlu, E., Aksarayli, M., & Perçin, N. S. (2010). Job satisfaction and organizational commit­
+ment of hotel managers in Turkey. International Journal of Contemporary Hospitality 
+Management, 22(5), 693–717. https://doi.org/10.1108/09596111011053819 
+Hair, J. F., Jr., Black, W. C., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis: 
+A global perspective (7th ed.). Prentice Hall.
+Hanaysha, J., & Tahir, P. R. (2016). Examining the effect of employee empowerment, team­
+work, and employee training on job satisfaction. Procedia-Social and Behavioral Science, 219, 
+272–282. https://doi.org/10.1016/j.sbspro.2016.05.016 
+Hartline, M. D., & Ferrell, O. C. (1996). The management of customer-contact service employ­
+ees: An empirical investigation. Journal of Marketing, 60(October), 52–70. https://doi.org/ 
+10.1177/002224299606000406 
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. 
+American Psychologist, 44(3), 513–524. https://doi.org/10.1037/0003-066X.44.3.513 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+409
+
+Hu, -H.-H. S., Hu, H.-Y., & King, B. (2017). Impacts of misbehaving air passengers on frontline 
+employees: Role stress and emotional labor. International Journal of Contemporary 
+Hospitality Management, 29(7), 1793–1813. https://doi.org/10.1108/IJCHM-09-2015-0457 
+Huang, Y., Luo, Y., Liu, Y., & Yang, Q. (2016). An investigation of interpersonal ties in 
+interorganizational exchanges in emerging markets: A boundary-spanning perspective. 
+Journal of Management, 42(6), 1557–1587. https://doi.org/10.1177/0149206313511115 
+Hume, J., & Leonard, A. (2014). Exploring the strategic potential of internal communication in 
+international non-governmental organisations. Public Relations Review, 40(2), 294–304. 
+https://doi.org/10.1016/j.pubrev.2013.10.011 
+Hussain, I., Shu, R., Tangirala, S., & Ekkirala, S. (2019). The voice bystander effect: How 
+information redundancy inhibits employee voice. Academy of Management Journal, 62(3), 
+828–849. https://doi.org/10.5465/amj.2017.0245 
+Islam, T., & Ahmed, I. (2018). Mechanism between perceived organizational support and 
+transfer of training: Explanatory role of self-efficacy and job satisfaction. Management 
+Research Review, 41(3), 296–313. https://doi.org/10.1108/MRR-02-2017-0052 
+Jarvis, C. B., MacKenzie, S. B., & Podsakoff, P. M. (2003). A critical review of construct 
+indicators and measurement model misspecification in marketing and consumer research. 
+Journal of Consumer Research, 30(2), 199–218. https://doi.org/10.1086/376806 
+Johlke, M. C., Stamper, C. L., & Shoemaker, M. E. (2002). Antecedents to boundary-spanner 
+perceived organizational support. Journal of Managerial Psychology, 17(2), 116–128. https:// 
+doi.org/10.1108/02683940210417049 
+Kang, J., Gatling, A., & Kim, J. (2015). The impact of supervisory support on organizational 
+commitment, career satisfaction, and turnover intention for hospitality frontline employees. 
+Journal of Human Resources in Hospitality & Tourism, 14(1), 68–89. https://doi.org/10.1080/ 
+15332845.2014.904176 
+Kang, J., Heo, J., & Kim, J. (2016). The followership of hotel employees and the relationship 
+between occupational burnout, job stress, and customer orientation: Targeting the hotel 
+service providers at luxury hotels. Tourism and Hospitality Research, 16(4), 345–358. https:// 
+doi.org/10.1177/1467358415610374 
+Kang, J. & Jang, J. (2019). What do employees perceive as hindrance or challenge stressors in 
+the hotel industry? The role that hope plays. Journal of Human Resources in Hospitality & 
+Tourism,18, 1–24.
+Karatepe, O. M. (2012). The effects of coworker and perceived organizational support on hotel 
+employee outcomes: The moderating role of embeddedness. Journal of Hospitality & 
+Tourism Research,36(4), 495–516.
+Karatepe, O. M., & Sokmen, A. (2006). The effects of work role and family role variables on 
+psychological and behavioral outcomes of frontline employees. Tourism Management, 17(2), 
+255–268. https://doi.org/10.1016/j.tourman.2004.10.001 
+Karatepe, O. M., Yavas, U., Babakus, E., & Deitz, G. D. (2018). The effects of organizational and 
+personal resources on stress, engagement, and job outcomes. International Journal of 
+Hospitality Management, 74, 147–161. https://doi.org/10.1016/j.ijhm.2018.04.005 
+Kim, B. P., Murrmann, S. K., & Lee, G. (2009). Moderating effects of gender and organizational 
+level between role stress and job satisfaction among hotel employees. International Journal of 
+Hospitality Management,28(4), 612–619.
+Kim, H., & Qu, H. (2019). The effects of experienced customer incivility on employees’ 
+behavior toward customers and coworkers. Journal of Hospitality and Tourism Research, 
+43(1), 58–77. https://doi.org/10.1177/1096348018764583 
+Kim, K. Y., Eisenberger, R., & Baik, K. (2016). Perceived organizational service orientation on 
+job satisfaction, organizational commitment, and intention of leaving in a casual dining 
+410
+J.(S.) WANG ET AL.
+
+chain restaurant. International Journal of Hospitality Management, 24(2), 171–193. https:// 
+doi.org/10.1016/j.ijhm.2004.05.004 
+Kim, W. G., Leong, J. K., & Lee, Y. K. (2005). Effect of service orientation on job satisfaction, 
+organizational commitment, and intention of leaving in a casual dining chain restaurant. 
+International Journal of Hospitality Management, 24(2), 171–193. https://doi.org/10.1016/j. 
+ijhm.2004.05.004 
+King, C., & Lee, H. (2016). Enhancing internal communication to build social capital amongst 
+hospitality employees–the role of social media. International Journal of Contemporary 
+Hospitality Management, 28(12), 2675–2695. https://doi.org/10.1108/IJCHM-06-2015-0321 
+Kline, R. B. (2015). Principles and practice of structural equation modeling (4th ed.). Guilford 
+Press.
+Korschun, D. (2015). Boundary-spanning employees and relationships with external stake­
+holders: A social identity approach. Academy of Management Review, 40(4), 611–629. 
+https://doi.org/10.5465/amr.2012.0398 
+Kottke, J. L., & Sharafinski, C. E. (1988). Measuring perceived supervisory and organizational 
+support. Educational and Psychological Measurement, 48(4), 1075-1079. Http://doi.org/10. 
+1177/0013164488484024 
+Krishnan, J., & Mary, V. S. (2012). Perceived organisational support- an overview on its 
+antecedents and consequences. International Journal of Multidisciplinary Research, 2(4), 
+1–13. http://doi.org/10.3928/00220124/20140925-15 
+LaMastro, V. (2000). Commitment and perceived organizational support. National Forum of 
+Applied Educational Research Journal, 13(1), 1–13. http://www.researchgate.net/publica 
+tion/267796412 Commitmeent and perceived organizational support 
+Liu, S., Jiang, K., Chen, J. Pan, J. & Lin, X. (2018). Linking employee boundary spanning 
+behavior to task performance: The influence of informal leader emergence and group power 
+distance. The International Journal of Human Resource Management,29(12), 1879–1899.
+Locke, E. A. (1969). What is job satisfaction? Organizational Behavior and Human 
+Performance, 4(4), 309–336. https://doi.org/10.1016/0030-5073(69)90013-0 
+Madera, J. M., Dawson, M., Guchait, P., & Belarmino, A. M. (2017). Strategic human resources 
+management research in hospitality and tourism a review of current literature and sugges­
+tions for the future. International Journal of Contemporary Hospitality Management, 29(1), 
+48–67. https://doi.org/10.1108/IJCHM-02-2016-0051 
+Major, D. A., & Morganson, V. J. (2011). Coping with work-family conflict: A leader-member 
+exchange perspective. Journal of Occupational Health Psychology, 16(1), 126–138. https:// 
+doi.org/10.1037/a0021727 
+Malhotra, N., & Ackfeldt, A. (2016). Internal communication and prosocial service behaviors 
+of front-line employees: Investigating mediating mechanisms. Journal of Business Research, 
+69(10), 4132–4139. https://doi.org/10.1016/j.jbusres.2016.03.038 
+Manev, I. M., & Stevenson, W. B. (2001). Balancing ties: Boundary spanning and influence in 
+the 
+organization’s 
+extended 
+network 
+of 
+communication. 
+Journal 
+of 
+Business 
+Communication, 38(2), 183–205. https://doi.org/10.1177/002194360103800203 
+Marchand, C., & Vandenberghe, C. (2016). Perceived organizational support, emotional 
+exhaustion, and turnover: The moderating role of negative affectivity. International 
+Journal of Stress Management, 23(4), 350–375. https://doi.org/10.1037/str0000020 
+Marrone, J. A. (2010). Team boundary spanning: A multilevel review of past research and 
+proposals for the future. Journal of Management, 36(4), 911–940. https://doi.org/10.1177/ 
+0149206309353945 
+McQuitty, S. (2004). Statistical power and structural equation models in business research. 
+Journal of Business Research, 57(2), 175–183. https://doi.org/10.1016/S0148-2963(01)00301- 
+0 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+411
+
+Mitchell, M. S., Cropanzano, R., & Quisenberry, D. (2012). Social exchange theory, exchange 
+resources and interpersonal relationships: A modest resolution of theoretical difficulties. In 
+K. Tornblom & A. Kazemi (Eds.), Handbook of social resource theory: Theoretical extensions, 
+empirical insights, and social applications (pp. 99–118). Springer.
+Mowday, R. T., Steers, R. M., & Porter, L. W. (1979). The measurement of organizational 
+commitment. Journal of Vocational Behavior, 14(2), 224–247. https://doi.org/10.1016/0001- 
+8791(79)90072-1 
+Mulki, J. P., Jaramillo, J. F., Malhotra, S., & Locander, W. B. (2012). Reluctant employees and 
+felt stress: The moderating impact of manager decisiveness. Journal of Business Research, 65 
+(1), 77–83. https://doi.org/10.1016/j.jbusres.2011.01.019 
+Ng, T. W., & Sorensen, K. L. (2008). Toward a further understanding of the relationships 
+between perceptions of support and work attitudes: A meta-analysis. Group & Organization 
+Management, 33(3), 243–268. https://doi.org/10.1177/1059601107313307 
+Ng, T. W. H., Butts, M. M., Vandenberg, R. J., DeJoy, D. M., & Wilson, M. G. (2006). Effects of 
+management communication, opportunity for learning, and work schedule flexibility on 
+organizational commitment. Journal of Vocational Behavior, 68(3), 474–489. https://doi.org/ 
+10.1016/j.jvb.2005.10.004 
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). McGraw-Hill.
+O’Reilly, C. A., & Chatman, J. (1986). Organizational commitment and psychological attach­
+ment: The effects of compliance, identification, and internalization on prosocial behavior. 
+Journal of Applied Psychology, 71(3), 492–499. https://doi.org/10.1037/0021-9010.71.3.492 
+Owen, R. S., Grabner, J. R., & Cooper, M. C. (2015). The Value-added role of boundary- 
+spanning employees. In B. Dunlap (Ed.), proceedings of the 1990 academy of marketing 
+science (AMS) annual conference. Developments in marketing science: Proceedings of the 
+academy of marketing science (pp. 513–517). Springer.
+Paolacci, G., & Chandler, J. (2014). Inside the turk: Understanding the mechanical turk as a 
+participant pool. Current Directions in Psychological Science,23(3), 184–188.
+Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988). SERVQUAL: A multiple-item scale for 
+measuring consumer perceptions of service quality. Journal of Retailing, 64(Spring), 12–40. 
+http://www.searchgate.net/publication/225083802_SERVUQUAL_A_multiple-_Item_ 
+Scale_for_measuring_customer_perception_of_service_quality 
+Peng, M. W., & Heath, P. (1996). The growth of the firm in planned economies in transition: 
+Institutions, organizations, and strategic choice. Academy of Management Review, 21(2), 
+492–528. https://doi.org/10.5465/amr.1996.9605060220 
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of method bias in social 
+science research and recommendations on how to control it. Annual Review of Psychology,63 
+(1), 539–569.
+Podsakoff, P.M. & Organ, D.W. (1986). Self-reports in organizational research, problems and 
+Ppospects. Journal of Management,12,531–544
+Qureshi, M. A., & Hamid, K. A. (2017). Impact of supervisory support on job satisfaction: 
+A moderating role of fairness perception. International Journal of Academic Research in 
+Business and Social Sciences, 7(3), 23–242. http://ideas.repec.org/a/hur/ijarbs/ 
+v7y2017i3p235-242.html 
+Rasoolimanesh, S. M., Jaafar, M., Kock, N., & Ramayah, T. (2015). A revised framework of 
+social exchange theory to investigate the factors influencing residents’ perception. Tourism 
+Management Perspectives, 16(October), 335–345. https://doi.org/10.1016/j.tmp.2015.10.001 
+Rhoades, L., & Eisenberger, R. (2002). Perceive organizational support: A review of the 
+literature. Journal of Applied Psychology, 87(4), 698–714. https://doi.org/10.1037/0021- 
+9010.87.4.698 
+412
+J.(S.) WANG ET AL.
+
+Robertson, P. (1995). Involvement in boundary-spanning activity: Mitigating the relationship 
+between work setting and behavior. Journal of Public Administration Research and Theory, 5 
+(1), 73–98.
+Schaufeli, W. B., & Van Rhenen, W. (2009). How changes in job demands and resources 
+predict burnout, work engagement and sickness absenteeism. Journal of Organizational 
+Behavior, 75(6), 893–917. https://doi.org/10.1002/job.595 
+Schneider, B., & Bowen, D. E. (1984). New service design, development and implementation 
+and the employee. In W. R. George & C. E. Marshall (Eds.), Developing new services (pp. 
+82–101). American Marketing Association.
+Sean, V., Gary, F., & Lynn, G. (2015). Rogues in the ranks of selling organizations: Using 
+corporate ethics to manage workplace bullying and job satisfaction. Journal of Personal 
+Selling & Sales Management, 35(2), 143–163. https://doi.org/10.1080/08853134.2015.1010542 
+Shanock, L. R., Roch, S. G., & Mishra, V. (2012). Why we should care about exchange 
+relationships with coworkers as well as supervisors: Both fellow employees and the organi­
+zation benefit. TPM: Testing, Psychometrics, Methodology in Applied Psychology, 19(4), 
+291–310.
+Srivastava, R., & Tang, T. L. P. (2015). Coping intelligence: Coping strategies and organiza­
+tional commitment among boundary spanning employees. Journal of Business Ethics, 130(3), 
+525–542. https://doi.org/10.1007/s10551-014-2234-4 
+Stamper, C. L., & Johlke, M. C. (2003). The impact of perceived organizational support on the 
+relationship between boundary spanner role stress and work outcomes. Journal of 
+Management, 29(4), 569–588. https://doi.org/10.1016/S0149-2063(03)00025-4 
+Tsaur, S.-H., & Tang, Y.-Y. (2012). Job stress and well-being of female employees in hospitality: 
+The role of regulatory leisure coping styles. International Journal of Hospitality 
+Management, 32(4), 302. https://doi.org/10.1016/j.ijhm.2012.09.007 
+Tse, H. H. M., Troth, A. C., Ashkanasy, N. M., & Collins, A. L. (2018). Affect and leader-member 
+exchange in the new millennium: A state-of-art review and guiding framework. Leadership 
+Quarterly, 29(1), 135–149. https://doi.org/10.1016/j.leaqua.2017.10.002 
+Valaei, N., & Rezaei, S. (2016). Job satisfaction and organizational commitment: An empirical 
+investigation among ICT-SMEs. Management Research Review, 39(12), 1663–1694. https:// 
+doi.org/10.1108/MRR-09-2015-0216 
+Walker Jr., O. C., Churchill Jr., G. A., & Ford, N. M. (1975). Organizational determinants of 
+industrial Salesman’s role conflict and ambiguity. Journal of Marketing, 39(1), 32–39. http:// 
+doi.org/10.1177/002224297503900106 
+Wall, J. A., & Adams, J. S. (1974). Some variables affecting constituent’s evaluations of and 
+behavior toward a boundary role occupant. Organizational Behavior and Human 
+Performance, 11(3), 390–408. https://doi.org/10.1016/0030-5073(74)90028-2 
+Wang, J., Fu, X., & Wang, Y. (2020). Can “bad” stressors spark “good” behaviors in frontline 
+employees? Incorporating motivation and emotion”. International Journal of Contemporary 
+Hospitality Management. https://doi.org/10.1108/IJCHM-06-2020-0519 
+Wang, X., Guchait, P., & Paşamehmetoğlu, A. (2020). Why should errors be tolerated? 
+Perceived organizational support, organization-based self-esteem and psychological 
+well-being. Journal of International Contemporary Hospitality Management, 32(5), 
+1987–2006. https://doi.org/10.1108/IJCHM-10-2019-0869 
+Wayne, S. J., Shore, L. M., Bommer, W. H., & Tetrick, L. E. (2002). The role of fair treatment 
+and rewards in perceptions of organizational support and leader-member exchange. Journal 
+of Applied Psychology, 87(3), 590–598. https://doi.org/10.1037/0021-9010.87.3.590 
+Welch, M. (2012). Appropriateness and acceptability: Employee perspectives of internal 
+communication. Public Relations Review, 38(2), 246–254. https://doi.org/10.1016/j.pubrev. 
+2011.12.017 
+JOURNAL OF QUALITY ASSURANCE IN HOSPITALITY & TOURISM
+413
+
+Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organizational commitment as 
+predictors of organizational citizenship and in-role behaviors. Journal of Management, 17 
+(3), 601–617. https://doi.org/10.1177/014920639101700305 
+Wintericht, K. P., Aquino, K., Mittal, V., & Swartz, R. (2013). When moral identity symboliza­
+tion motivates prosocial behavior: The role of recognition and moral identity 
+internalization. Journal of Applied Psychology, 98(5), 759–770. https://doi.org/10.1037/ 
+a0033177 
+Woodside, A. G., Caldwell, M., & Calhoun, J. R. (2020). Service breakdown prevention: 
+Delivering requisite variety and training for achieving the highly reliable service 
+organization. International Journal of Contemporary Hospitality Management, 32(2), 
+889–912. https://doi.org/10.1108/IJCHM-02-2019-0152 
+Yang, F. X., & Lau, V. M. C. (2019). Evil customers, an angel boss and coopetitive coworkers: 
+Burnout of frontline employees. International Journal of Hospitality Management, 83, 1–10. 
+https://doi.org/10.1016/j.ijhm.2019.04.004 
+Yao, T., Qiu, Q., & Wei, Y. (2019). Retaining hotel employees as internal customers: Effect of 
+organizational commitment on attitudinal and behavioral loyalty of employees. 
+International Journal of Hospitality Management, 76, 1–8. https://doi.org/10.1016/j.ijhm. 
+2018.03.018 
+Ying, T., & Norman, W. C. (2017). Personality effects on the social network structure of 
+boundary-spanning personnel in the tourism industry. Journal of Hospitality & Tourism 
+Research, 41(5), 515–538. https://doi.org/10.1177/1096348014538047 
+Yoo, J. (2013). The influence of social undermining on the service employee’s customer- 
+oriented boundary-spanning behavior. Journal of Services Marketing, 27(7), 539–550. 
+https://doi.org/10.1108/JSM-03-2012-0060 
+Yoo, J. J., & Arnold, T. J. (2016). Frontline employee customer-oriented attitude in the presence 
+of job demands and resources: The influence upon deep and surface acting. Journal of Service 
+Research, 19(1), 102–117. https://doi.org/10.1177/1094670515589956 
+Yoo, J. J., Arnold, T. J., & Frankwick, G. L. (2014). Promoting boundary-spanning behavior 
+among service personnel. European Journal of Marketing, 48(9/10), 1626–1647. https://doi. 
+org/10.1108/EJM-10-2012-0610 
+Yousef, D. A. (2017). Organizational commitment, job satisfaction and attitudes toward 
+organizational change: A study in the local government. International Journal of Public 
+Administration, 40(1), 77–88. https://doi.org/10.1080/01900692.2015.1072217 
+Zablah, A. R., Chonko, L. B., Bettencourt, L. A., Allen, G., & Haas, A. (2012). A job 
+demands-resources (JD-R) perspective on new product selling: A framework for future 
+research. Journal of Personal Selling & Sales Management, 32(1), 73–87. https://doi.org/10. 
+2753/PSS0885-3134320107 
+Zeithaml, V. A., Bitner, M., & Gremler, D. D. (2017). Services marketing: Integrating customer 
+focus across the firm (7th ed.). McGraw-Hill Education.
+414
+J.(S.) WANG ET AL.
+

@@ -1,0 +1,2586 @@
+The rise of the customer success function as
+catalyst for team innovation: the importance of
+boundary spanning, knowledge integration, and
+shared vision.
+Wagner, André
+https://researchdiscovery.drexel.edu/esploro/outputs/doctoral/The-rise-of-the-customer-success/991014885649304721/filesAndLinks?index=0
+Wagner, A. (2021). The rise of the customer success function as catalyst for team innovation: the
+importance of boundary spanning, knowledge integration, and shared vision [Drexel University].
+https://doi.org/10.17918/00000897
+Document Version: PDF
+Downloaded On 2026/05/30 01:19:46 -0400
+Research:Open
+Open Access (License Unspecified)
+Contact: libsystems@drexel.edu
+Repository homepage: https://researchdiscovery.drexel.edu/
+Please do not remove this page
+GRADUATE THESIS/DISSERTATION APPROVAL 
+FORM AND SIGNATURE PAGE  
+Instructions: This form must be completed by all m aster’ s and doctoral  students with a thesis or dissertation requirement.  
+Please type or print clearly as this form MUST be included as page 1 of your thesis or dissertation via electronic 
+submission to ProQuest. All theses and dissertations must be formatted according to the University and 
+department/program requirements. Remi nder: It is the responsibility of the student to submit any /all edits request ed by 
+the Examining Committee to the Faculty Mentor or Supervising P rofessor  for final approval and signature via the 
+Graduate Program Completion Form. 
+Type : Master’s Thesis   PhD/Doctoral Thesis or Dissertation  
+Thesis or Dissertation Title:  ________________________________________________________________________ _________ _______________________________________________________________ 
+Author’s Name :  ________________________________________________________________________ 
+Month and Year:  ____________________________________ 
+The signatures below certify that this thesis / dissertation (circle one) is complete and approved by the Examining 
+Committee.
+Committee Chair person ’s Name : 
+__________________________________________________ 
+Title: _____________________________________________ 
+Department:  _______________________________________  
+Institution ( if other than Drexel University ): 
+__________________________________________________ 
+Signature:  _________________________________________ 
+Committee Member’s Name : _________________________  
+Title: _____________________________________________ 
+Department: _______________________________________  
+Institution ( if other than Drexel University ): 
+__________________________________________________ 
+Signature:  _________________________________________ 
+Committee Member’s Name : _________________________  
+Title: _____________________________________________ 
+Department: _______________________________________  
+Institution ( if other than Drexel University ): 
+__________________________________________________ 
+Signature:  _________________________________________ Committee Member’s Name : _________________________  
+Title: _____________________________________________ 
+Department: _______________________________________  
+Institution ( if other than Drexel University ): 
+__________________________________________________ 
+Signature:  _________________________________________ 
+Committee Member’s Name : _________________________  
+Title: _____________________________________________ 
+Department: _______________________________________  
+Institution ( if other than Drexel University ): 
+_________________________________________________ _ 
+Signature:  _________________________________________ 
+Committee Member’s Name : _________________________  
+Title: _____________________________________________ Department: _______________________________________  
+Institution ( if other than Drexel University ): 
+__________________________________________________ 
+Signature:  _________________________________________ 
+ 
+  
+The Rise of the Customer Success  Function as Catalyst for Team Innovation : 
+The Importance of  Boundary Spanning, Knowledge Integration , and Shared Vision  
+ 
+A Thesis  
+Submitted to the Faculty  
+of 
+Drexel University  
+by 
+André Wagner  
+in partial fulfillment of the  
+requirements for the degree  
+of 
+Doctor ate in Business Administration  
+February  2021  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Copyright 2021  
+André Wagner . All Rights Reserved.  
+    ii 
+ ACKNOWLEDGEMENTS  
+ I would like to seize  this opportunity to thank everyone who helped me in this 
+effort sincerely . Primarily, I would like to thank my chairpersons  Daan van Knippenberg  
+and Lauren D’Innocenzo . Their guidance and support throughout my dissertation have 
+been priceless. I would also like to thank Marty Mrugal sincerely . His vision truly 
+inspired this initiative , just as it continues to motivate me as a professional.  Many thanks 
+go to my fellow students of the Executive DBA cohort  of 2021 for adding the most 
+beauti ful moments to our years of study.  
+ This research was made possible from the kind support of all the teams and client 
+organizations  involved in the fieldwork. I accordingly  recognize  and sincerely thank them 
+for their participation. I would especially like to thank all the survey participants  for 
+sharing their experiences and perspectives on team innovation .  
+ Finally , I would like to recognize  the infinite  support of my dear wife , Heike, my 
+family , and my friends. They have given me all they possibly could that I crucially 
+needed throughout my professional and personal life. I could hardly be who I am today 
+without their support. All throughout , Heike has been a pillar of support, and I thank her 
+for being there when I needed motivation. Heike has shared the ups and downs and 
+contributed significantly with her understanding and encouragement. Moreover, there has 
+been nobody as close as her to see thi s project evolve and enjoy truly that moment with 
+me when I wrote the concluding words on this document.  
+    iii 
+ TABLE OF CONTENTS  
+ 
+LIST OF TABLES  ................................ ................................ ................................ ............... v 
+LIST OF FIGURES  ................................ ................................ ................................ ...........  vi 
+ABSTRACT  ................................ ................................ ................................ ......................  vii 
+CHAPTER 1: INTRODUCTION  ................................ ................................ ........................ 1 
+Context  ................................ ................................ ................................ ............................  1 
+Problem Statement  ................................ ................................ ................................ ..........  2 
+Research Questions  ................................ ................................ ................................ .........  5 
+Purpose  ................................ ................................ ................................ ............................  7 
+An Example from the Construction Industry  ................................ ...............................  9 
+Assumptions  ................................ ................................ ................................ ..................  10 
+CHAPTER 2: LITERATURE REVIEW  ................................ ................................ ........... 12 
+Theoretical Background  ................................ ................................ ................................  12 
+Team Innovation  ................................ ................................ ................................ ...........  14 
+Knowledge Integration Perspective  ................................ ................................ ..............  17 
+Team Diversity  ................................ ................................ ................................ ...........  17 
+Information Integration  ................................ ................................ .............................  19 
+Team Climate Perspective  ................................ ................................ .............................  25 
+Research Model  ................................ ................................ ................................ .............  30 
+CHAPTER 3: METHODS  ................................ ................................ ................................ .32 
+Research Design  ................................ ................................ ................................ ............  32 
+Data and Sample ................................ ................................ ................................ ............  33 
+Measures ................................ ................................ ................................ ........................  37 
+Functional Background Diversity  ................................ ................................ .............  37 
+Boundary Spanning Treatment  ................................ ................................ ..................  38   iv 
+ Shared Vision  ................................ ................................ ................................ .............  39 
+Information Elaboration  ................................ ................................ ............................  39 
+Team Innovation  ................................ ................................ ................................ ........  40 
+Controls  ................................ ................................ ................................ .....................  40 
+Manipulation Checks  ................................ ................................ ................................ . 43 
+Analytical Approach  ................................ ................................ ................................ ..... 44 
+CHAPTER 4: RESULTS  ................................ ................................ ................................ ...46 
+Descriptive Statistics  ................................ ................................ ................................ ..... 46 
+Data Analysis  ................................ ................................ ................................ ................  50 
+Supplementary Analysis  ................................ ................................ ................................  56 
+Treatment -centric Moderated Mediation Analysis  ................................ ....................  56 
+Three -way Interaction Analysis  ................................ ................................ .................  62 
+Findings and Interpretations  ................................ ................................ ..........................  64 
+CHAPTER 5: DISCUSSION  ................................ ................................ ............................. 71 
+Theoretical Contributions  ................................ ................................ ..............................  71 
+Managerial Implications  ................................ ................................ ................................  76 
+Limitations and Future Research ................................ ................................ ...................  78 
+Conclusion  ................................ ................................ ................................ .....................  81 
+REFERENCES  ................................ ................................ ................................ .................. 83 
+APPENDIX A: Measures  ................................ ................................ ................................ ..94 
+Boundary Spanning  ................................ ................................ ................................ ....... 94 
+Shared Vision  ................................ ................................ ................................ ................  94 
+Psychological Safety  ................................ ................................ ................................ ..... 95 
+Information Elaboration  ................................ ................................ ................................  95 
+APPENDIX B: Regression Results without Controls  ................................ ....................... 96 
+APPENDIX C: PROCESS Custom Model 91  ................................ ................................ ...98 
+   v 
+ LIST OF TABLES  
+Table 1   Means, Standard Deviations, and Correlations  ................................ ..................  46 
+Table 2   Direct and Indirect Effects of Functional Diversity on Team Innovation  .........  50 
+Table 3   Conditional Effects of Functional Diversity on Information Elaboration  .........  53 
+Table 4   Conditional Indirect Effects of Functional Diversity on Team Innovation  ....... 54 
+Table 5   Conditio nal Indirect Effects for all Combinations of the Moderators  ...............  54 
+Table 6   Conditional Direct Effects of Functional Diversity on Team Innovation  .........  55 
+Table 7   Direct and Conditional Effects of Boundary Spanning on Team Innovation  .... 58 
+Table 8   Treatment -centric Moderated Mediation Results  ................................ ..............  59 
+Table 9   Three -Way Interaction Effect  ................................ ................................ ............  62 
+Table 10   Conditional Interaction Effect of Functional Diversity on Team Innovation  .. 63 
+ 
+ 
+    vi 
+ LIST OF FIGURES  
+Figure 1   Customer Journey Support by Technology Providers  ................................ ........  3 
+Figure 2   Knowledge Integration / Team Climate Model of Team Innovation  .................  8 
+Figure 3   Research Model  ................................ ................................ ................................  30 
+Figure 4   Research and Data Collection Timeline  ................................ ...........................  33 
+Figure 5   Composition of a Customer Engagement Team  ................................ ...............  34 
+Figure 6   Experiment Sample Population in Con text of the Entire Customer Base  ........  35 
+Figure 7   Team Distribution Across Engagement Phases  ................................ ................  47 
+Figure 8   Distribution of Functional Backgrounds Across Team Members  ....................  48 
+Figure 9   Moderating Effect of Shared Vision ................................ ................................ . 52 
+Figure 10   Moderating Effect of the Boundary Spanning Treatment  ..............................  55 
+Figure 11   Treatment -centric Research Model  ................................ ................................  57 
+Figure 12   Interaction Effect of Functional Diversi ty and Shared Vision  .......................  60 
+Figure 13   Interaction Effect of Functional Diversity and Boundary Spanning  ..............  61 
+Figure 14   Three -way Interaction Effect  ................................ ................................ ..........  64 
+Figure 15   Result of the Team Innovation Experiment ................................ ....................  65 
+ 
+    vii 
+ ABSTRACT  
+The Rise of the Customer Success Function as Catalyst for Team Innovation:  
+The Importance of Boundary Spanning, Knowledge Integration , and Shared Vision  
+André Wagner  
+Drexel University, February 2021  
+Chairpersons: Daan van Knippenberg, Lauren D’Innocenzo  
+In this study, I assess the causal impact of boundary spanning on team innovation. 
+I explore conditions and processes in 144 engagement teams in an enterprise software 
+company driving innovation with customers in North America across industries. In this 
+context, innovation is defined as the development and implementation of technology -
+based ideas in organizations. Using an integrated conditional process analysis, I find that 
+boundary -spanning team practices combined  with a shared vision and functional 
+background diversity lead to a significant team innovation increase . I further assess the 
+team process of information elaboration through which functional diversity and boundary 
+spanning foster solution use. In particular, I argue that boundary spanning amplifies the 
+effects of shared vision and information elaboration , leading to significantly increased 
+team innovation. Consistent with this argument, I find that function al diversity's positive 
+impact  on team innovation through information elaboration is conditional on a shared 
+vision , whereas  the impact is more significant  when team members share  a commitment 
+to common goals  for their work. Therefore, my findings contribu te actionable insight into 
+how to  enable cross -functional engagement teams to successfully drive customer 
+innovation with enterprise software in the technology industry.    
+    1 
+ CHAPTER 1: INTRODUCTION  
+Context  
+New digital technologies and business models  are radically transforming our 
+economies  and reshap ing industry sectors  around the world . Digital offerings from 
+dominant technology companies  including Amazon, Apple, Facebook, Google,  and 
+Microsoft  are indivisible from most people’s lives in Western societ ies. Such d igital 
+platform businesses – even relatively smaller c ompanies like Airbnb  with about 6,000 
+employees and a market cap of $74 billion  – challenge incumbent enterprises , such as 
+Hilton with 173,000 employees and $30B market cap italization  (Yahoo! finance, 2020) , 
+in unprecedented ways and achieve  higher  market valuations with significantly fewer  
+resources than traditional businesses (Cusumano, Gawer, & Yoffie , 2019 ). Therefore, for 
+many businesses , the question is no longer whether they need to innovate  but how . 
+One of the strategic imperatives for this digital business transformation is cloud 
+computing ( Brynjolfsson, Hofmann, & Jordan , 2010). In the second decade of the cloud, 
+the role of software has moved beyond  support ing the business . Digital transformation is 
+the business  (Siebel, 2017) . Disney, for example , created Disney  Plus, a completely new 
+direct -to-consumer digital business model.  While the total 2020 Disney revenue was 
+down 6 percent because of the COVID -19 pandemic  with theme park closures and the 
+shift of many movies to 2021 , Disney Plus counted 86+ million global subscribers in its 
+first year , driving 41 percent revenue growth in its segment . Disney is now restructuring 
+its media  and entertainment  divisions to accelerate its digital strategy by centraliz ing its 
+delivery units with Disney Plus . However, Disney also acknowledg es that it will not be 
+profitable until 2024  because of additional investment requirements  (Zeitchik, 2020 ).   2 
+ In this context,  it is no surprise that lack of resources and knowledge ha ve been 
+identified as a critical  challenge for businesses  innovating with cloud infrastructure, 
+platform, and application services ( Retana, Forman, Narasimhan, & Niculescu , 2018) . 
+Specifically, Lucas , Swanson, and Zmud (2007) ask ed for studies that help us understand 
+better how innovat ion with digital technologies  can lead to  capabilities that provide 
+sustainable competitive advantage s. 
+Problem  Statement  
+With the rise of subscription business models for technology companies, it is no 
+longer good enough to sell enterprise application software packages ; instead,  technology 
+providers need to ensure that customers adopt their solutions and that the expected va lue 
+is delivered. In the traditional software license model, the software and what was 
+accomplished with it was the customer’s responsibility. After an up -front payment, most 
+revenue and profit were  guaranteed for the provider regardless of whether the cus tomer 
+received value or not. Today , technology provider s realize that sustainable business 
+success requires an organizational culture, determination, and strategic vision that 
+prioritizes enduring customer value (Kumar & Reinartz, 2016). In other words, the 
+provider needs to ensure value realization for the  customer  and orch estrate a simplified 
+customer journey that ensures ongoing satisfaction and an optimal experience as 
+recurring revenue streams could be stopped at any point if the service does not meet the 
+needs. In response to this challenge, technology  providers are developing customer 
+success functions  to drive adoption and usage  (Mehta & Pickens, 2020 ). Lah, Nanus, and 
+Stegman (2017) define customer success as a technology provider's function  responsible 
+for ensuring t hat customers receiv e the full value and are on track to achiev e their desired   3 
+ business outcomes  with the acquired technolog ies. As shown in Figure 1, the customer 
+success function  complements the sales function to ensure  full life  cycle engagement  and 
+protect renewal revenues . Renewals are critical for long -term profitability. In fact, studies 
+by Reichheld and Schefter  (2000)  found that a “5% improvement in  retention increases 
+profits by up to 95%.”  
+ 
+Figure 1   Customer Journey Support by Technology Providers  
+Nevertheless , as an emerging  function , there has not been a reliable and proven 
+model for technology providers to efficiently drive  customer success at scale ( Mehta & 
+Pickens, 2020 ). Despite resource investments , technology providers still struggle with 
+subscription renewals and customer busi ness innovation.  The complementary deployment 
+of customer success resource s, for example,  could even lead to decreasing customer 
+lifetime value . Despite the importance of churn management and the extensive  academic 
+work on customer churn and retention in the field of marketing, information systems, and 
+operations ( e.g., Hadden, Tiwari, Roy, & Ruta , 2007; Neslin , Gupta, Kamakura, Lu, & 
+Mason, 2006), there is a gap whether it is efficient for businesses to target customers at 
+risk without knowing if or to what intervention efforts they are responsive (Ascarza, 
+2018). Ascar za, Iyengar, and Schleicher  (2016), for example, found that proactive 
+  4 
+ retentio n campaigns can increase rather than decrease customer churn. Digital 
+transformation  studies from Forth, Reichert, de Laubier, and Chakraborty  (2020 ) and 
+McKinsey (2018 ), furthermore , found that less than one-third of organizational 
+transformation s succeed at improving performance and sustain ing it over time .  
+The research of Anderson, Potocnik, and Zhou (2014) , van Knippenberg (2017) , 
+and West (2002)  highlight s that understanding factors that enhance  implementation 
+success deserves more focus since it is more challenging  than idea generation . Bring ing 
+creative ideas to li fe in organizations requires  executive buy -in and the mobilization of 
+resources and support, change management, diligence, persistence, and commitment 
+(Drucker , 2002 ). Anderson  and colleagues  (2014) summarize  in their state -of-the-science 
+review that innovation is more critical  than ever before for organizational survival and 
+corporate growth . Moreover,  it is even more relevant  in today’s knowledge -intensive and 
+fast-paced business environment with digital competit ors and changing customer needs  
+and regulations (van Knippenberg, 2017) . However, the conditions that foster team 
+innovation  are not very well understood (Hoever, van Knippenberg, van Ginkel, & 
+Barkema, 2012). While the creativity aspect of innovat ion has received much attention in 
+research, the contingencies of the relationship between ideation and implementation ha ve 
+been identified as a  critical  understudied issue (van Knippenberg, 2017).  
+Small and large  businesses  across industries facing the need to innovate rely on 
+teams as a predominant way of organizing work (Mathieu, Hollenbeck, van Knippenberg, 
+& Ilgen, 2017 ). Although teams play a central  role in the contemporary business 
+environment  (Barczak , Griffin, & Kahn , 2009 ; Resick, Murase, Randall, & DeChurch , 
+2014 ), innovation research has mainly focused on individual or organizational level of   5 
+ analysis and has provided inconclusive results regarding crucial  factors that  give a team 
+informational resources , and what motivates  a team to use those resources to drive 
+innovati on (Hülsheger , Ander son, & Salgado , 2009; Lucas et al., 2003; Shams, Vrontis, 
+Weber, & Tsoukatos, 2018 ; Tzabbar & Vestal, 2018 ; van Knippenberg, 2017 ). 
+Furthermore, the extant learning literature has shown the role of organizational learning 
+in overcoming knowledge barriers but much less is known about how technology 
+provider s' customer success strategies affect the consumption of cloud services (Retana e t 
+al., 2018). The pressing  question arising from these insights  puts the spotlight on the 
+mechanisms and conditions that facilitate knowledge integration . This leads to my 
+research questions . 
+Research Questions  
+Firstly, I address the question, how and under what conditions are customer 
+engagement teams in technology companies likely to benefit from divers e informational 
+resources in pursuing innovation challenges?  The central thesis is that team innovation 
+benefits from informational resources through its relationship with information 
+elaboration and engenders team innovation success only if teams operate in a positive 
+climate for innovation. Factors contributing t o a team’s informational resources, such as 
+functional background diversity and social networks, are beneficial for team innovation. 
+Furthermore, Hoever and colleagues (2012) and Drach -Zahavy and Somech (2001) show  
+that knowledge exchange and integration a re conducive to team innovation. Teams 
+should be more innovative the more team members bring different perspectives and can 
+create novel insight by engaging in information elaboration to address innovation 
+challenges. However, team innovation benefits from  informational resources only if the   6 
+ team engages in information elaboration . Even if a team possesse s informational 
+resources, it is not automatically given that the team uses them. Edmondson and Harvey 
+(2018) also found positive and negative effects of d iversity. The equivocal results of team 
+diversity point to the presence of moderators , which I study by determining when 
+functional diversity is beneficial to team innovation. In that regard , van Ginkel and van 
+Knippenberg (2008) suggested that the team climate for innovation positively moderates  
+the relationship between team informational resources and information elaboration.  This 
+leads me to my next question.  
+Secondly, I address  the question , what is the role of boundary spanning , and how 
+can it stimulate team innovation success for customer engagement teams?  Building on 
+the work of many i nnovation  researchers who highlight the need for organizations to 
+manage innovation within and outside the firm to sustain their competitive advantage 
+(Alexander & van Knippenberg, 2014; Gawer & Cusumano, 2014; Leifer, McDermott, 
+O’Connor, Peters, Rice, & Veryzer, 2000) , the notion of bounda ry spanning is straight 
+forward: Teams with members who promote cross -boundary work, in the sense of  
+interface collaboration spanning functions or domains, significantly outperform teams 
+without such people  (Casciaro, Edmondson, & Jang, 2019 ). This effect is specifically 
+relevant for teams working complex service engagements and pursuing  innovation s that 
+require tight business and information technology (IT) alignment  (Henderson & 
+Venkatraman, 1993 ; Sabherwal, Hirsch heim, & Goles, 2001 ). Kleinbaum and Tushman 
+(2007) further  argue that collaboration across organizational units is necessary for 
+innovations to be successful .   7 
+ Tambe, Hitt, and Brynjolfsson (2012)  found that external focus, decentraliz ation , 
+and IT investments are corre lated and demonstrated that firms that combine all three 
+practices derive substantially greater benefits from their IT investments. However, on the 
+team level , the empirical evidence of boundary spanning success is equivocal , some 
+research indicating a facilitating  effect and other s finding an inhibiting effect to 
+knowledge exchange  (Tortoriello, Reagans, & McEvily , 2012 ). Ancona and Caldwell 
+(1992) , for example,  found that cross -functional teams that engage in external 
+communication drive long -term team innovation but also pointed out that specific types 
+of boundary spanning such as too much scouting or pure ambassadorial activities without 
+task-coordination are related to low er performance.  Boundary -spanning practices  in the 
+IT industry , generally speaking,  help to break down silos (Casciaro et al. , 2019) and 
+reduce the risk of being “too creative ,” in the sense of solely focusing on idea generation 
+without or little thought about planning, prioritization , feasibility, resource mobilization,  
+solution adoption , and change management . The integration of information across silos 
+helps team s drive business and technology alignment necessary for sustainable 
+innovation success (Reynolds & Yetton, 2015).  
+Purpose  
+My research aim s to understand better  the conditions that foster team innovati on. 
+Specifically, developing a deeper level of understanding under what circumstances 
+customer engagement teams successfully drive customer innovation with software 
+solutions. Team innovation research will benefit from integrating  the knowledge and 
+team climate perspectives ( van Knippenberg, 2017).  In this study , I conceptually apply 
+van Knippenberg’s (2017) model of team innovation shown in  Figure 2 that flows from   8 
+ integrating  these perspectives in the combined field of business / IT alignment and 
+customer retention.  
+ 
+Figure 2   Knowledge Integration / Team Climate Model of Team Innovation  
+By building on van Knippenberg’s state-of-the-science integrated process  model 
+and in cluding the notion of boundary spanning, I seek to further shed light on idea 
+implementation and study tea m innovation not only from the perspective of knowledge 
+integration and team climate but also from the perspective of the external context in 
+which engagement teams operate to bring creative ideas to life  and drive business 
+outcomes for the customer . Specifically , I study the impact of functional background 
+diversity on team innovation through the team process of information elaboration  
+motivated by a shared vision and boundary spanning.  
+The causal impact of boundary -spanning practices  on team innovation and the 
+contingenc ies inherent in the knowledge integration and team climate model is 
+empirically assessed in an applied research approach with a cross -sectional company 
+survey that is combined with field experiment data in the context of complex technology 
+services engagements of a global enterprise software company, hereinafter referred to as 
+the company, and its customers . In doing so, I seek to advance information elaboration  
+theory by integrating perspectives and developing  practical guidance for innovation 
+  9 
+ management , addressing both theoretical and practical  calls to action from Anderson and 
+colleagues  (2014) and van Knippenberg (2017)  and f urther a dding rigor to business 
+issues around the emerging customer success function s of technology providers and 
+developing a deeper level of understanding under what processes and conditions  
+customer engagement teams drive customer innovation  with enterprise software  
+technology solutions . 
+In summary, t he analysis of mechanisms that facilitate team innovation will 
+provide insights for three groups of stakeholders. First, the study  contributes to the 
+organizational behavior research community by addressing the research gap regarding the 
+integration of kno wledge and team climate perspectives. Second, since the deployment of 
+cross -functional customer engagement teams is a strategic decision with implications on 
+cost structures and profitab ility, the findings are relevant for technology  firms that engage 
+collaboratively with their customers to develop effective go-to-market strategies. Third, 
+these insights are of interest to organizations work ing with co -innovation partners on 
+their digital strategies and seek to optimize their engageme nt model.  Therefore, research 
+of the circumstances conducive to team innovation is imperative for business and IT 
+practitioners a s well as  organizational behavior , leadership , and organizational 
+psychology  academia. In the following section , I summarize an example engagement to 
+illustrate  the work of customer engagement teams in an actual , real-life situation . 
+An Example from the Construction Industry  
+After the mining downturn in 2012, an equipment company faced a changing market 
+environment res ulting in business contraction that required cost -cutting measures and 
+improvements in efficiency across the business. The human resources (HR) organization   10 
+ decided they needed to improve  the way they worked in order to create a sustainable 
+business. As a trusted partner in the HR transformation, the technology provider 
+company's customer engagement team  helped this organization successfully migrate 
+largely paper -based HR processes into an  integrated HR platform giving the business 
+increased transparency and enabling insight -driven decisions. Such an HR transformation 
+requires executive support, business process adjustments, user training, organizational 
+change management, measurement of im provements, and ongoing governance from the 
+business perspective and  data quality management , system integration,  security 
+management, and support  on the technical side . All such activities were  planned , 
+coordinated , and executed  by the engagement team in collaboration with this company . 
+As a result, the company has significantly improved HR processes' efficiency , reduced 
+manual, time -consuming administrative work, increased employee retention, reduced 
+lead times to fill open positions through automated HR processes, and repositioned HR 
+from an administrative to a strategic business function. The chief human resou rce officer 
+explains that “we see a shift now in how the HR team is seen by the business and by the 
+board. We are no longer being seen a s a cost to the business or back -office support. 
+There is being a shift because of the efficiencies we gain now with the  new operating 
+model. Now we are much more seen as a partner for the generation  of revenue and the 
+generation of profit as opposed to just the administrative cost center.”  
+Assumptions  
+There are several assumptions and restrictions  that influence my research  
+objectives, the literature review , and the methodological research design.  First and 
+foremost, t he findings will only represent teams from one technology provider company    11 
+ operating with customers in the U.S.  and Canada.  Unlike prior team research studies, 
+which often analyzed team s in educational or health care settings  with perceptual 
+outcome measures  (Drach -Zahavy & Somech, 2001 ; Fay, Borrill, Amir , Haward, &  
+West, 2006 ), I analyze cross -functional customer engagement teams  working with 
+customer s across industries with an objective measure ment method  for team innovation.  
+Regarding  the experimental part of the research design , it must be noted that despite the 
+company's best efforts  and an initial random  assignment  between the treatment and 
+control group , not all selected customer s did agree to program participation . Therefore,  
+the company experiment's design, which in part I build my data analysis on, is considered 
+a quasi -experimental study design with minor imper fections that often come with real -life 
+customer engagement situations . And then , of course,  there is the global COVID -19 
+crisis , which impacted the second half of the company experiment . I included these 
+aspects in the customer control conditions  to ensure that it does not bias results.  
+Furthermore,  the company experiment focus ed on existing customers  only and did not 
+include engagement situations with prospects . For a detailed description , please see the 
+section data and sample  in the methods chapter . 
+Finally, while I am focusing on the two main themes of knowledge integration 
+and team climate in management and organizational behavior research , the broad field of 
+team creativity and innovation cannot be reduced entirely  to these two perspective s only. 
+Other perspectives  and topics , such as team leadership , team composition , cross -cultural 
+differences , and team dynamics , are outlined in the future research section.     12 
+ CHAPTER 2: LITERATURE REVIEW  
+Theoretical Background  
+This study builds on the social categorization theory that takes similarities and 
+differences as a basis for categorizing individuals into groups and focuses on relational 
+aspects of group processes (Turner et al., 1987 c ited in van Knippenberg , De Dreu, & 
+Homan , 2004). Van Knippenberg  and colleagues  (2004) , building on this theory, 
+developed  the categorization -elaboration model (CEM) that integrates social 
+categorization perspectives with decision making in team elaboration and highlights the 
+importance of diversity  implications for  team performance . Diversity is defined as 
+“differences between individuals on any attribute that may lea d to the perception that 
+another person is different from self”  (van Knippenberg et al., 2004: 1008).  I am build ing 
+on the belief  in the value of diversity for team innovation  (van Knippenberg, Nishii, & 
+Dwertmann, 2020) . However, an objective analysis of the available evidence in the 
+diversity literature suggests that it does not consistently engender team creativity and 
+innovation (e.g., Edmondson & Harvey, 201 8). Van Knippenberg and Schippers (2007) 
+support this conclusion and outline that diversity can not only enhance but also impede  
+team performance , primari ly through the advers e effects associated with social 
+categorization processes for demographic diversity .  
+Building  on diversity theory, I explore the effects of moderators by determining 
+under which conditions diversity is beneficial for team innovation. The CEM has been 
+proven as a useful framework  to study such moderating influences in an integrate d model 
+of diversity and team innovation ( van Knippenberg & Hoever , 201 8). In this study, I 
+focus specifically on functional background diversity  since cross -functional teams are   13 
+ favorable  for digital business innovation  because of their capacity to engage in complex 
+problem solving  (Resick et al., 2014 ). Functional diversity refers to differences between 
+group members in their functional background.  
+Customer engagement teams are defined as virtual work groups of people with 
+different functional expertise sharing the responsib ility for group -level tasks to explore 
+new business opportunities and apply enterprise software and technology solutions by 
+engaging with their customers (Kozlowski & Bell, 2003). Exploration includes problem 
+identification focused on customer needs, ideation of solutions that address the needs and 
+problems, and eventually the implementation  of those solutions to address the identified 
+customer need s (March, 1991) . Within technology providers , such teams of knowledge 
+workers are typically referred to as account teams and comprise people with cross -
+functional backgrounds. Now increasingly , account teams include team members 
+performing customer success functions, such as deployment planning, feature adoption, 
+user training, guidance for optimal solution usage , support , ongoing system health 
+monitoring, and results tracking  (Lah et al., 2017; Mehta & Pickens, 2020) . These cross -
+functional teams include members with different functional backgrounds, such as 
+marketing, HR, logistic , and IT.  
+The following  literature review will discuss the most recent and relevant 
+published research and is grounded  on the literature review by v an Knippenberg (2017)  
+and van Knippenberg and Hoever (in press ) that are arguabl y the most eminent  review s 
+of team creativity and innovation literature in the recent history.  Van Knippenberg (2017) 
+identified the knowledge integration perspective and the team climate perspective as the 
+main themes for team innovation research. I begin my literature review with an overv iew   14 
+ of team innovation and th en focus on the team process of information elaboration in 
+connection to the available research about functional background diversity by exploring 
+the knowledge integration perspective  and highlighting the importance of boundary 
+spanning . Then I will review the shared vision literature and further explore the 
+importance of the team climate perspective for information elaboration  by focusing on 
+high-quality published research in management and organizational behavior . While 
+reviewing the literature in the following sections , I will also develop my hypotheses and 
+conclude this chapter with a summary of my research model.  
+Team Innovation  
+Innovation is defined as the development and implementation of ideas in an 
+organization (Edmondson, 2003). Within an organization, teamwork  bring s together 
+different resources , expertise,  and perspectives to solve complex business problem s 
+(Thayer, Petruzz elli, & McClurg, 2018). Following West and Farr (1990), I further define 
+team innovation as a team’s capability to generate technology -based ideas new for the 
+adopting customer and put these ideas into practice such that they achieve the desired 
+business outcomes. It is essential  not to  confuse innovation with invention. For team 
+innovation , it is not required to generally create something new but rather the intentional 
+introduction and application of enterprise software and technology solutions that are new 
+for the adopting custo mer and are designed to improve processes, products, or procedures 
+within that organization (West & Farr, 1990: 9). Such ideas, processes, or products could 
+already exist outside the adopting organization (van Knippenberg, 2017). In fact, since 
+the unit of  analysis in this study is the customer engagement team, most innovations of 
+such teams do exist and have been already implemented in similar forms in other   15 
+ organizations.  That is w hy many practitioners in the field see k engagement with 
+technology provider s to benefit from  such insight that is often regarded as best practice s. 
+The need and importance of best practices are also evident in the role of communities, 
+such as the Technology Services Industry Association, and analyst firms, such as Gartner 
+or International Data Corporation , that pro vide IT advice and research for leaders across 
+industries  to achieve their goals and optimize their businesses . The development , 
+documentation,  and sharing of such best prac tices help drive progress in the entire 
+technology industry and specifically speak to research calls for action addressing the 
+importan ce of idea implementation (Anderson et al., 2014 ; van Knippenberg , 2017).  
+Ultimately, it is only through the successful implementation of ideas and concepts that 
+the desired business outcomes are achieved  (West , 2002) . 
+In team creativity and innovation research , idea implementation is often  implied 
+and combined with idea development. Apart from  brainstorming,  which is geared 
+towards idea generation  specifically , most research assumes that creative and innovative 
+ideas somehow automatically lead to innovation , conceiving both creativity and 
+innovation as  integral parts of the same process . In that respect, Alexander and van 
+Knippenberg (2014) highlight that teams need to mobilize resources and collaborate with 
+stakeholders outside the team to drive innovation success. They specifically identi fy the 
+roles of ambidextrous leadership and reflexive team processes as crucial  success factors 
+for radical innovation. All of which take dedicated team efforts and by no means happen 
+by themselves . From that perspective , the study of Somech and Drach -Zahavy (2013) is a 
+good example that differentiates phases of creativity and implementation  by studying 
+team innovation in primary care teams .   16 
+ For IT-based innovations to become successfully adopted by an organization , it is 
+essential  to realize that critical  challenges are often  beyond the team and typically require 
+executive support  and collaboration across divisions , such as HR and IT (Leifer et al., 
+2000 ). To rise to the challenge of adopting IT innovations, Swanson and Ramiller (1997) 
+proposed the  conceptual  framework  of an “organizing vision ” that captures what a 
+specific innovation is suitable  for, how it works , and how  it should be implemented. 
+Through such a framework  and the related community discourse , teams can better 
+translate IT-related buzzwords, such as artificial intelligence , into a real understanding of 
+new IT , including its requi rements, design, applicability , and use. Charting a successful 
+IT implementation requires not only new organizational designs but also the continuous 
+reflection of own experiences and the evolving application in the industry  (Swanson & 
+Ramiller, 1997) . All of which creates an intensive need for knowledge integration.  
+Therefore, cross -boundary teamwork became a prevalent  practice to achieve innovation 
+success (Edmondson & Harvey, 2018).  Moser, Dawson, and West (2019) , for example, 
+found that information sharing and helping were positively related to innovation . 
+In information systems research , it is well -documented that besides a firms’ 
+internal capabilities, executive support, empowerme nt, operational excellence , and 
+culture , it is the technical know -how that affects the timing of the adoption of a new 
+information system and the extent of usage and diffusion after the initial stages (Seddon, 
+Calvert, & Yang, 2010). Therefore, beginning w ith the knowledge integration and 
+management perspective works well with the vast organizational behavior literature and  
+aligns well with research in management information systems (Alegre, Sengupta, & 
+Lapiedra, 2011; Andreeva & Kianto, 2012).    17 
+ Knowledge Integration Perspective  
+By applying th e knowledge integration  lens, team innovation is seen to follow 
+from integrating  diverse information, ideas, perspectives, and knowledge. Bell,  Villado,  
+Lukasik, and Briggs  (2011) and van Knippenberg, van Ginkel, and Homan (2013) argue 
+that having a greater variety of functional  backgrounds in a team is beneficial for team 
+innovation because such teams can utilize different pools of information, knowledge, and 
+experiences. Different per spectives can then lead to discussion  and better integration of 
+information in a collaborative team process resulting in a deeper under -standing of the 
+problem, finding a broader range of potential solutions , and alternative implementation 
+approaches , ultimately resulting in increased team innovation.  This logic is supported by 
+meta -analyses  of van Dijk, van Engen, and van Knippenberg  (2012 ). 
+Team Diversity  
+Diversity research has a long history , and already over three decades ago , Bantel 
+and Jackson (1989)  found that functional diversity in top management teams predict ed 
+organizational innovation.  In 1992 , Ancona and Caldwell (1992) presented their research 
+of boundary spanning practices in research and development (R&D) teams demonstrating 
+that functional diversity enhances team innovation  through  team external communication . 
+Ancona and Caldwell (1992) defined boundary spanning as external communication , 
+including ambassadorial, scouting , and task-coordinat or activities. Ambassadorial 
+activities include accessing and mobilizing critical resources and persuading others to 
+support the team’s goals. Scouting involves scanning for ideas and gathering information 
+about technologies , competition, and the industry . Coordination work embraces activities 
+to create alignment with the customer and establis h a feedback loop.    18 
+ Later , more supporting evidence for diversity 's main effects w as found confirming 
+their research . Tzabbar and Vestal (2015), also studying R&D teams, found a curvilinear 
+relationship between geographic dispersion and novelty of innovation that was moderated 
+by relational strength and status asymmetry. However, research on boundary spanning  
+was long evolving  in tw o parallel , almost independent research streams  (Schotter, 
+Mudambi, Doz, & Gaur , 2017) . One stream studies boundary spanning as an 
+organizational function (Zhao & Anand, 2013) , and the other focusing on individuals 
+with specific characteristics  and tasks . In my research , I am focused on the individual and 
+team -related aspects of boundary spanning and build  on Kleinbaum  and Tushman’s 
+(2007) definition , who defined boundary spanners  as people who act as knowledge 
+intermediaries among individuals within and outside the organization.  Casciaro  and 
+colleagues  (2019) found that diverse teams with people who promote cross -boundary 
+work significantly outperformed teams without such people. However, Zhao and Anand 
+(2013)  argue that boundary spanning is only efficient for tangible , discrete knowledge 
+and that more complex forms of collective knowledge require  a set of inter -unit ties.  
+Nevertheless, the organizational behavior literature on boundary spanning has 
+long recognized the informational advantages associated with access to external sources 
+of knowledge (Tortoriello & Krackhardt, 2010) , which should help  teams to drive 
+business and IT alignment that is necessary for sustainable team innovation success 
+(Reynolds & Yetton, 2015).  Such an information advantage resulting in better access to 
+knowledge, experiences, and resources shou ld amplify functional diversity's effects  on 
+team innovation.  Drach -Zahavy and Somech (2001) support this conclusion and argue 
+that f actors contributing to informational resources are conducive to innovation.    19 
+ Cummings (2004) argues that team performance increases when structurally 
+diverse teams engage in external knowledge sharing, including but not limited to 
+exchang ing feedback with customers . Furthermore, Moser and colleagues (2019)  
+presented evidence that teams were more innovative with greater occupational diversity 
+at higher levels of information sharing and helping  behavior in the team . This leads me to 
+my first hypothesis : 
+Hypothesis 1. Functional diversity is positively related to team innovation, and this 
+relationship is stronger for teams that practice boundary spanning.  
+Information Integration  
+As part of the knowledge integration theme , van Knippenberg (2017) put primary 
+focus on information elaboration as the main process driving team innovation  and making 
+the case that the integration of diverse information and perspectives enables teams to be 
+innovative ; speaking to the very core reason of the team’s existence  and how it can be 
+more innovative than any of the team members by themself . Van Knippenberg (2017) 
+proposed the mediating role of information elaboration to create synergies from 
+informational resources and defined it as the team process of “sharing, discussion, a nd 
+integration of task -relevant information and perspectives .” From a conceptual 
+perspective , as shown in Figure 2, constructs that provide the team informational 
+resources can be seen as input s for the elaboration process , which is  then driving team 
+innovation. This is also evident in diversity research on team networks (e.g., Baer , 2010; 
+Balkundi & Harrison, 2006 ) and team composition. Mathieu, Tannenbaum, Donsbach, 
+and Alliger  (2014 ) show that distributions of team member profiles facilitate team 
+processes and effectiveness. This is not only co nsistent with findings from the diversity   20 
+ literature but also points out that having access to informational resources does not mean 
+that the team is naturally using them in the right way.  Specifically, the task -coordination 
+aspect of boundary spanning cre ates a focus on better alignment with customer needs 
+through feedback loops and thus helps teams thrive with information elaboration.  
+Research has shown that accessing knowledge from across boundaries is an imperative  
+driver of team innovati on (Ancona & Caldwell, 1992 ; Reagans & Zuckerman, 2001 ). 
+Further, in the context of my research, boundary spanning is explicitly 
+operationalized as boundary spanning between the account team and the customer , which 
+is intended to bring  in information about the  client and create a focus on the client ’s 
+perspective  to not only better understand the core issues at hand but also increase 
+software us age to address these issues . This speaks to the broader issue in the software 
+and technology industry where innovation is not just about idea generation or bringing 
+products to market  but to ensure implementation (West, 2002) and customer usage . Many 
+companies  directly work with clients to develop solutions  specifically for the client . The 
+business interest is that the client uses the solution  and th at this  result s in a continued 
+relationship. In that sense , boundary -spanning can help to collaboratively develop a 
+mutual  understanding and address all aspects of the business  relationship , including the 
+strategic direction , business model and process alignment, solution functionality, IT 
+organization and implementation partner alignment, risk mitigation, as well as services 
+and support  for ongoing operations . For fast value rea lization, boundary spanning is 
+critical to bring in the customer's perspective to understand what users want and  include 
+the perspective of implementation partner (s) who typically have accountability for the 
+initial adoption .   21 
+ With a different  research focus but similar context, Harvey , Johnson, Roloff, and 
+Edmondson (2019)  studied sales teams of a large financial services firm and explored 
+how they coordinate their activities, share information about customers’ needs and issues . 
+They  found that the relationship between team learning orientation and team learning was 
+mediated by psychological safety , but only for teams with low open -mindedness. In that 
+regard , it is also important to note that a common and widely used practice of innovation -
+focused account teams is design thinking , which enables the team to prioritize the user 
+experience  (Plattner , Meinel, & Leifer , 2011 ). For example, Seidel & Fixson’s (2013) 
+research  outlines the advantages and limitation s of design methods , explicit ly 
+demonstrating how high team reflexivity  in the form of debating ideas, methods, and 
+concept changes was associated with more successful outcomes. Although design 
+thinking is essentially a form of boundary spanning  including communicat ion and 
+collaboration across functions and with other companies , it is currently not linked the 
+boundary spanning literature beyond foundational concepts, such as focus groups , 
+prototyping,  or brainstorming to generate ideas  (Micheli, Wilner, Bhatti, Mura, & 
+Beverland, 2019 ). 
+Design thinking is a  design -led approach to human -centered innovation based on 
+the notion that value can only be created if the needs of the people who use the 
+innovation are understood clearly.  It relates to the principles of experiential learning and 
+is practice d as an iter ative process of learning by doing, often including prototyp es and 
+early market tests of a minimum viable product  (Cousins, 2018 ). Design thinking helps 
+obtain a multi -perspective comprehension of complex and ambiguous problem s and 
+develop feasible, desirable, and economically viable solutions (Plattner et al., 2012).   22 
+ Venkatesh , Digerfeldt -Mansson, Brunel, and Chen (2012) argue that design thinking is a 
+recipe for innovation success.  Gruber, de Leon, George, and Thompson (2015) f urther 
+discuss using  a design -process  to innovate and focus on customer needs as a source of 
+information. I argue that this is especially critical for complex services engagement 
+where IT and business alignment is critical  over time (Sabherwal et al., 2001 ). Therefore, 
+by drawing on the se notion s, I propose:  
+Hypothesis 2. Functional diversity interacts with boundary spanning such that it is 
+positively related to information elaboration for teams that practice boundary 
+spanning . 
+Building on the learning literature, Tzabbar and Vestal (2015) elaborate that 
+knowl edge integration in a team requires not only access to unique information but also 
+requires the team’s ability to transform individual information into valuable innovation. 
+Bunderson and Sutcliffe (2003) provided consistent evidence and  found that an 
+appro priate emphasis on learning improves team effectiveness . The main argument  here, 
+further building on van Knippenberg’s (2017) propositions,  is that knowledge exchange 
+and integration are conducive to team innovation. This is consistent with the finding of 
+Ancona and Caldwell (1992) that external communication plays a mediating role  and 
+demonstrates that the diversity of a  team’s external network can also be understood as an 
+informational resource for the information elaboration process . 
+Somech and Khalaili (2014) found a positive relationship between inter-team goal 
+interdependence , functional diversity, and team innovation that was mediated by scouting 
+and coordinating boundary -spanning activities. Teams should be more innovative the 
+more team members bring different perspectives and can create novel insight by engaging   23 
+ in informat ion elaboration to address innovation challenges. Drach -Zahavy and Somech 
+(2001 ) presented supporting evidence for a positive relationship between functional 
+diversity and team innovation mediated by team interaction processes that reflected the 
+degree to which team members engaged in information exchange, learning, motivating, 
+and negotiating . To enable team innovation success, customer engagement teams need to 
+engage in boundary -spanning activities, such as exchanging informat ion, know -how, and 
+customer feedback  (Cummings, 2004) as well as coordination (Drach -Zahavy & Somech, 
+2010; Marks , DeChurch, Mathieu, Panzer, & Alonso,  2005). In that regard , Faraj and 
+Sproull (2000) also found a strong relationship between expertise coordination and team 
+performance.  Tortoriello and Krackhardt (2010) presented somewhat conflicting 
+evidence . They  showed that informational advantages of cross -organizational boundary 
+spanning have no positive impact on innovative performance unless there are at least 
+three  boundary -spanning connections in a group. Zhang (2016) presented further 
+evidence of a positive relationship between functional diversity and team creativity 
+mediated by the two mechanism s of knowledge sharing and group cohesion but only for 
+long-standing teams.   
+Mitchell and Boyle (2015) found that professional diversity enhances team 
+innovation through professional identity salience with second -stage moderation through 
+open -mindedness norms. Cheung, Gong, Wang, Zhou, and Shi (2016) presented 
+conflicting evidence and found a negative effect of functional diversity on team 
+innovatio n through knowledge sharing in teams with low trust and no significant 
+relationship with higher trust.  Miron -Spektor, Erez, and Naveh (2011) found that a mix of 
+creative and conformist team members enhance s a team’s capability to drive radical   24 
+ innovation, mediated by team potency.  Somech and Drach -Zahavy (2007) found that 
+functional diversity was positively related to team innovation mediated through team 
+processes , such as information exchange and learning,  that w as also influence d by 
+interaction frequency . Qu and Liu (2017) empirically verified a moderated mediation 
+effect of informational diversity faultlines on team creativity through external knowledge 
+acquisition and internal knowledge integration moderated by the team ’s focus on 
+cooperation.  Schotter and colleagues  (2017) postulate that managing and coordinating 
+across organizational boundaries emerged as a critical  capability required for sustainable 
+success. A coordinated and structured approach to innovation is needed  to help teams 
+with crucial  activities, such as planning, prioritization, resource mobilization, change 
+management , business / IT alignment, and  feedback . Specifically,  on the topic of 
+feedback , the research of Hoever, Zhou, and van Knippenberg (2018) provides 
+fascina ting insights into how positive and negative feedback  enhance s creativity at the 
+team level. They found a moderated mediation relationship between feedback valence 
+and team creativity through information elaboration a nd generative processing with first 
+stage moderation by informational diversity . Based on these arguments, I suggest the 
+following hypothesis of a moderated mediation model  where information elaborat ion 
+mediate s the relationship between functional diversity and team innovation , and 
+boundary -spanning activities moderate the knowledge integration process . 
+Hypothesis 3. The positive relationship between functional diversity and team 
+innovation through information elaboration is moderated by boundary spanning such 
+that it is stronger for teams that practice boundary spanning .   25 
+ Team Climate Perspective  
+The second major theme in team innovation research is the team climate 
+perspective (Hülsheger et al., 2009; West & Farr, 1990 ; van Knippenberg, 2017 ). Van 
+Knippenberg and colleagues  (2004)  postulated that team diversity benefits  are contingent 
+on factors motivating information elaboration  and factors preventing diversity’s negative 
+effects of social categorization . Schneider and Reichers  (1983 : 22) define d organizational 
+climate as “the shared perception s of organizational policies, practices, and 
+procedures.”  For innovation research , West (1990) shaped the team climate for 
+innovation by defining it as the perception of whether innovation is valued and supported 
+within the team. Anderson and West (1998) address the climate for work group 
+innovation with a four-factor  theory  and developed a team climate inventory  (TCI) . They 
+identified vision, participative safety, task orientation, and support for innovation as 
+climate factors associated with team innovativeness.  This logic suggests that innovati ve 
+outcomes are driven by  team members who share a commitment to common goals and 
+excellen ce and believe  that they can participate safely in team discussions contributing to 
+a worthwhile innovation . Based on TCI, Kivim äki and Elovainio (1999)  developed and 
+validated a shorter 14 -item version  of the TCI and demonstrated an acceptable item 
+coverage and predictive validity compared  to the original version.  Bain, Mann, and 
+Pirola -Merlo (2001) found supporting evidence of a positive relationship between the 
+climate for innovation and team innovation . The relationship between these factors and 
+team innovation has also bee n confirmed by the meta -analysis  of Hülsheger and 
+colleagues (2009) . Specifically showing that the climate for innovation is positively 
+related to team innovation  in the sense that  teamwork with a focus on shared goals is   26 
+ important for team  innovation . Lisak , Erez, Sui, and Lee (2016) found a positive 
+influence of team -shared innovation goals . Peltokorpi and Hasu (2014) , adding additional 
+nuance , found that participative safety was more relevant for team innovation with 
+increasing team size . In my  research , I focus on the moderating effects of shared vision 
+following the logic that a shared commitment to team objectives is positively related to 
+team innovation.  “Vision is an idea of a valued outcome, which represents a higher -
+order goal and motivating force at work” that provides the basis for action within the 
+team (West, 1990: 310).  Anderson and West (1 998) summarize that for a team to commit 
+to a shared vision , it requires  clarity of the valued outcome , acceptance within the team , 
+and attainability , meaning  a relative ly clear line of sight on how to achieve  the desired 
+innovation.  Fay and colleagues  (2006) support the argument and postulate that a shared 
+vision implies the pursuit of appealing and worthwhile goals . The research from Pearce 
+and Ensley (2004) is a good example in that regard showing not only the  positive impact 
+of a shared vision on innovation  effectiveness  but also demonstrating effectively that 
+shared vision plays a key role in the team innovation process . By applying the same 
+logic , Chen , Farh, Campbell -Bush, Wu, and Wu (2013)  focused on support for 
+innovation and found a positive relationship with team innovation. Eisenbeiss, van 
+Knippenberg, and Boerner (2008) further studied interactions between components of 
+climate for innovation and found, besides important insights on  transformational 
+leadership , that team innovation only benefited from support for  innovation in team s that 
+had a climate for excellence.  In yet another spin, Lyubovnikova, West, Dawson, and 
+West (2018) found a positive relationship bet ween shared objectives and team 
+productivity and innovation  by exploring the mediating process of generating shared   27 
+ objectives . Gong, Kim, Lee, and Zhu (2013) furthermore found that learning goal 
+orientation is positively associated with team innovation. In summary, t eams are more 
+likely to successfully implement idea s when they have a shared vision giving them  focus 
+and direction and allowing them to develop appropriate methods and practical steps.  
+Supporting this notion, Fay and colleagues  (2006) found a positive  interaction effect of 
+team climate and diversity predicting team innovation . More s pecifically, t he quality of 
+team processes, operationalized via a shared vision, a safe climate, working closely,  and 
+taking a reflexive approach to work, moderate d the relationship between team diversity  
+and innovation such that innovation qualit y benefited from increasing levels of diversity 
+only in the case of good team processes. As a result, the following hypothesis is 
+suggested : 
+Hypothesis 4. Functional diversity is positively related to team innovation, and this 
+relationship is stronger for t eams that share a  common vision . 
+Further building on van Knippenberg (2017) and team learning theories that  
+emphasize the importance of social structures required for effective communication and 
+knowledge sharing ( Argote, McEvily, & Reagans, 2003; Tzabbar & Vestal, 2015), it is 
+argued that the team climate for innovation moderates the relationship between 
+informational resources and information elaboration.  In that sense , the two main themes 
+of knowledge integration  and team climate complement each other. T he team climate 
+comprises factors that motivate the team to use informational resources in the information 
+elaboration process to drive innovation.  By differentiating idea generation and 
+innovation, Somech and Drach -Zahavy (2013) found evidence for a moderated mediation 
+model showing that both functional background diversity and creativity of the team   28 
+ member s predicted innovation through team creativity, but only for teams that operated 
+in a favorabl e climate for innovation.  This provides further evidence that the positive 
+effects of informational resources are moderated by factors encouraging and stimulating 
+their use . 
+Similarly, the research from van Ginkel and van Knippenberg (2008) suggests 
+that the team climate for innovation has a positive moderating influe nce on the 
+relationship between team informational resources and information elaboration. If team 
+members can speak up and take risks , they can generate ideas and  identify alternative 
+problem -solving approaches when facing barriers during the implementatio n. In contrast, 
+if they do not feel they can contribute freely and speak their mind , then diversity has no 
+positive effect on elaboration (Edmondson & Lei, 2014).  Rousseau, Aubé, and Tremblay  
+(2013) , also looking  at antecedents  of the team climate , found that goal commitment and 
+support for innovation  were positively related to team innovation , and both were 
+predicted by team coaching.  This leads to my fifth hypothesis , framing  these insights for 
+a shared vision  and arguing that shared vision motivates integrating  different functional 
+perspectives in the team information elaboration process . 
+Hypothesis 5. Functional diversity interacts with shared vision such that it is 
+positively related to information elaboration for te ams that share a common vision.  
+In further building out the knowledge integration  / team climate model of team 
+innovation, like in  hypothesis 3 , I argue that t eam innovation benefits from functional 
+background diversi ty when  team s engage in information elaboration and operate in a 
+positive climate for innovation (van Knippenberg, 2017 ). In that regard, Hoever and 
+colleagues’ (2012) research  is a good example that provides experimental  evidence  for a   29 
+ moderated mediation effect of diversity of perspectives on team creativity through 
+information elaboration  that is  conditional on member perspective -taking.  
+Further extending team creativity research, Bodla, Tang, Jiang, and Tian (2018) 
+presented in their study  evidence that an inclusive climate moderates the diversity -
+creativity relationship , mediated by knowledge sharing . They also provid ed specific 
+recommend ations for managers to cultivate an inclusive climate  by appreciating 
+difference, providing equal opportunities, and involving team members in decision 
+making as a highly inclusive climate will mitigate the advers e effects of demographic 
+diversity . 
+In related IT research, Sharma, Mihas, and Kankanhalli (2014) explored how 
+organizations can create value from big data and business analytics . They  argue that 
+managers need to transform their decision -making and resource allocation processes to 
+capture the value of business analytics. Kukenberger  and D'Innocenzo (2020) provide d 
+further evidence for moderation effects showing that, on the one side , shared leadership 
+benefits from functional diversity in team s operating in a cooperative climate. On the 
+other side , demographic diversity harmed  shared leadership for teams working in  a less 
+cooperative climate. Resick and colleagues  (2014), in a similar direction but further 
+exploring second -stage moderation effects,  showed that team s benefit from information 
+elaboration , specifically in turbulent environments.  More formally, I hypoth esize the 
+following : 
+Hypothesis 6. The positive relationship between functional diversity and team 
+innovation through information elaboration is moderated by shared vision such that 
+it is stronger for teams that share a common vision .   30 
+ The above -presented research  studies are c onsistent and well -aligned with the 
+knowledge integration and team climate perspective (van Knippenberg, 2017) and team 
+diversity theory (van Knippenberg et al., 2004). The discussed evidence and findings 
+show  significant relationships between functional diversity  and team innovation  with 
+mediation through information elaboration or similar constructs and moderation  by team 
+climate and other factors . Depending on the moderat ing conditions , diversity can have 
+positive or negative effects  on information elaboration . Specifically, if teams do not 
+operate in a favorabl e climate for innovation  and lack motivation for teamwork , then 
+social categorization processes  can prevail , leading to communication breakdowns , 
+disruption,  and conflict . Whereas , if team members are motivated to integrate diverse 
+perspective s, diversity is a positive force driving  team innovation.  
+Research Model  
+The integrated conditional process model of my research is shown in Figure 3. 
+While its heritage  from the knowledge integration  / team climate model of team 
+innovation is unmistakably clear regarding  the dependent and mediating variable s, the 
+independent and moderating variables were more precise ly defined . Measure s and scales 
+for each construct are specified in the measure s section of the following methods chapter.  
+ 
+Figure 3   Research Model  
+  31 
+ In summary , I conclude  this chapter with the main arguments  inherent in my 
+research model. Factors contributing to the team’s informational resources are conducive 
+to innovation. Building on the extensive team diversity literature, I explore the effects of 
+functional background diversity. Teams are more innovative , the more team members 
+bring di fferent functional perspectives and engag e in information elaboration . 
+Information elaboration is the critical  mediating team process of knowledge integration  to 
+address innovation challenges.  Positive effects of functional diversity  come through 
+information elaboration and are contingent on factors that stimulat e the integration of 
+different perspectives . Boundary spanning and a shared commitment to common team 
+goals are considered as such factors. Therefore, cross -functional teams with high shared 
+vision are more likely to drive team innovation when engaging in information elaboration 
+successfully . Likewise, teams that practice boundary spanning , such as scouting and task -
+coordination , will better integrate the different perspectives  resulting in more creative 
+ideas and targeted problem sol ving, ultimately more team innovation  success .    32 
+ CHAPTER 3: METHODS  
+Research Design  
+Since research on team innovation is maturing in terms of operationalization of 
+constructs, integration of perspectives and theories , as well as the availability of well -
+grounded building blocks (van Knippenberg, 2017), c hoosing a quantitative research 
+approach appear ed to be appropriate and allows for better gen eralization of results  
+(Shadish, Cook, & Campbell, 2002 : 348). I utilized a  cross -sectional company survey 
+(positivist, quantitative approach) to gather information about the shared vision of team 
+members, information elaboration team processes , and validate team member functional 
+backgroun ds along with certain control  variables , such as  team  tenure and executive 
+support,  that are explained later on in this section  together with all other measures . I 
+developed a new survey instrument for the data collection  by reusing empirically 
+validated  measurement scales for the specified constructs  (see Appendix A) . 
+To further establish causal relationships  for the impact of boundary spanning , I 
+obtained information from the company's field experiment  and combined it with the 
+survey results. T he experiment was conducted from Janu ary through  July 2020 and 
+involve d 162 customer engagement teams working actively with North American 
+customers  across industries.  I used the  experiment team innovation data from January as 
+baseline and July data as  a result . The survey was deployed from May 26 through  July 
+and was closed before the July team innovation outcome  measurement on August 7, 
+2020.  With the combined survey and experiment data , I was able to test the boundary -
+spanning assertions and their impact on team innovation through  a quasi -experimental 
+intervention that introduc ed an additional team role charged with boundary -spanning    33 
+ practices . The m ain tasks of the boundary -spanning role were  coordinating resources 
+across departments, focusing  on the customer’s business outcomes, relationship 
+management, ongoing process governanc e, and communication. For further details about 
+the intervention , please refer to the measure s section. As a result, the company  expected 
+that teams that receive d the treatment demonstrate more successful team innovation —
+facilitated by a better understanding of the product , targeted customer onboarding, end-
+user training, and result s-oriented  solution adoption . Further, in the sense of  overall better 
+relationship s with customer s, it was expected that as a result , customers are more likely to 
+accept and implement the ir solution s in full . The research and data collection timeline are 
+illustrated in Figure 4. 
+ 
+Figure 4   Research and Data Collection Timeline  
+Data and Sample  
+The unit of analysis is the customer engagement team with team size s ranging 
+from 3 to 27 and a median of 9 members , including but not limited to sales rep s, industry 
+and value advisors, solution and support engineers , enterprise  architects, engagement 
+  34 
+ managers, as well as product  and adoption experts . In the company experiment , teams 
+were randomly assigned to either the treatment or control group. Teams that were  part of 
+the treatment group received an additional team member charged with boundary -
+spanning activities . In 48% of the team s with treatment status , an existing team member 
+was promoted for th e new role , and his or her old position was backfilled . This is 
+consistent with a recommendation of Richter, West, van Dick, and Dawson (2006) and 
+Tushman  and Scanlan (1981) . They  argue that the promotion of technically competent 
+employees  with strong connections to the ir team and client s helps overcome 
+dysfunctional relations hips. In 20% of the cases , boundary spanners served  multiple  
+customer engagement teams. A typical treatment team is illustrated in Figure 5. 
+ 
+Figure 5   Composition of a Customer Engagement Team  
+The teams in the treatment group had to obtain consent from their customers for  
+program participation . Five customers rejected the treatment . I did not receive any survey 
+responses for one of the five customer s and therefore excluded that team from the 
+  35 
+ analysis . For another customer , it turned out that  this company was merging with a 
+customer  that was also in the treatment group and already had a boundary spanner 
+assigned.  One customer initially rejected the treatment because of an ongoing 
+restructuring but later agreed to participate.  Finally, two customers chose not to  
+participate , and therefore I excluded them from the analysis  (see also footnote 1 in the 
+results chapter ). 
+Although the experiment customers  represent ed only about 1% of the entire 
+customer base  by count , they represent ed 36% of the total revenue . They  thus can be 
+considered representative of the mid - to the top-segment business of the company.  As 
+shown in Figure 6, the cust omers in the experiment furthermore represent ed the right  mix 
+of industries.  
+ 
+Figure 6   Experiment Sample Population  in Context of the Entire Customer Base  
+ The de veloped survey instrument was piloted individually with five subject 
+matter experts . Based on the feedback , I made  some minor wording changes such that 
+participants better understand that the questions reference the team innovation 
+  36 
+ environment and related mechanism s. The survey participation was voluntary , and 
+employees who were not interested in completing the survey could ignore the survey 
+email. I sought  responses from the company employees  who ha d worked actively in a 
+customer engagement team for at least six months  and gained experience in a customer -
+facing capacity  from the experiment participation  in either the treatment or control group . 
+While many participants were  based at the company headquarter , it was not required to 
+be onsite to participate in the study. The survey was  constructed and made available via 
+Qualtrics, an online web application , and participants who decided to take the survey 
+could complete it at a time and location of their choice . The survey link was se nt via 
+email to 1,519 employees. Employees with back -office functions or engagements with 
+customers in other geographies, such as Europe  or Asia , were not eligible to participate in 
+this study  and were not contacted . Vulnerable populations, such as adults unable to 
+consent, children, or prisoners , were not included in the sample.  Pregnant women , 
+however, were not excluded . I did not collect pregnancy information , and therefore I am 
+not aware wh ether a participant was pregnant.  
+In order to  be able to  aggregate individual team member ratings to the team level, 
+the respondents were asked to  select the ir customer team. A default value was provided 
+based on company records for each respondent to simplify the team's selection from a 
+drop-down list with over 160 entries . Since respondents could be part of multiple teams, 
+they c ould change the default value.  The respondents  were asked to consider answering 
+the survey questions  for their  most relevant customer engagement  to get the best quality 
+insight on team innovation . In order to provide the accurate team  default, the Qualtrics 
+survey distribution capabilities with personalized links w ere leveraged. With the help of   37 
+ JavaScript code,  the default customer team was set for each respondent. It took 
+respondents between 10 to 15 minutes to complete  the survey . After the data collection , 
+all data w ere deidentified.  According to the Institutional Research Board protocol, 
+personal ly identifiable information in individual survey responses w as split -off and kept 
+strictly in separate files . The information is linked via a response identifier if  there should 
+arise a need to trace back to an individual respondent.  There were no anticipated risks and 
+inconveniences beyond filling out the survey.  
+Further, participants who elect ed to be part of th e study could skip any items that 
+they did not feel comfortable  answering  or terminate participation in the study at any 
+time. There were also no direct benefits for participating in the  study. Because of no more 
+than minimal risk of harm to subjects , no written documentation of consent was required. 
+The Institutional Research Board of the Drexel University approved the HRP -501 
+research protocol “Exploring the knowledge integration and team climate perspectives for 
+team innovation” (protocol n umber 2004007759)  on May 22, 2020 . 
+Measure s 
+Functional Background Diversity  
+Based on my theoretical approach and in alignment with previous research ( e.g., 
+Kukenberger & D'Innocenzo , 2020; Zhang, 2016 ), I operationalized the diversity of team 
+member functional background s with Blau’s index of heterogeneity normalized for 
+varying team sizes as recommended by Biemann and Kearney (2010 : 585) across the 
+following eleven categories of business function s: Distribution & Logistics, Finance & 
+Accounting, Human Resources, Information Technology, Marketing & Communications, 
+Production, Research & Development, Supply Chain & Operations, Sales & Customer   38 
+ Service, Sourcing & Purchasing, Strategy & Business Devel opment .  I calculated the 
+diversity index for each team based on available survey responses and company records 
+for team members that did not submit their survey . The index ranges from zero indicating 
+no functional diversity to one indicating maximum diversity of functional backgrounds 
+among team members.   
+Boundary Spanning Treatment  
+Teams with treatment status received an additional team member that was 
+charged with boundary -spanning activities . These activit ies include ambassadorial 
+activitie s to persuade stakeholders to support the team’s goals , access  and mobilize 
+critical resources . Scouting activities to gather relevant customer and market information 
+and task -coordinator activities to orchestrate key team processes focusing  on the 
+customer (Ancona & Caldwell, 1992). The boundary spanner's main tasks  were 
+coordinating resources across departments, focusing  on the customer’s business 
+outcomes , gathering information , ongoing process governance , relationship management,  
+and communication . In other words, the  overall orchestration of the implementation and 
+adoption process by understanding the fundamental  problems to be solved, planning  the 
+best solution with empathy for the customer, and creating an inclusive team climate that 
+involves everyone’s perspective . The boundary -spanning team members were trained for 
+this specific  customer engagement methodology before introducing them  to the team and 
+their customer s. Upon the beginning of their engagement, the boundary spanners were 
+tasked to organize a customer relationship assessment and with it reset the collaboration 
+no matter in which engagement phase the customer was at the time (for example, 
+exploration of new solutions or adoption of already acquired solutions). With the training ,   39 
+ the company ensured  that all boundary spanners operated under the same set of 
+guidelines  and operating p arameters.  It is also noteworthy that the company did a pilot 
+test of the boundary -spanning intervention  with 30 customers  in 2019 , which resulted in 
+several refinements of the engagement methodology  and the training material s that were 
+later utilized in the 2020  field experiment . 
+The boundary -spanning treatment was measured with a binary variable separating 
+treatment and control grou p wherein zero identifie d the control group and one the 
+treatment group .  
+Shared Vision  
+I adapted  six items from Anderson and West (1998 : 241) as defined in their team 
+climate inventory  to measure shared vision , for example , “How clear are you about what 
+your team’s objectives are? ” and “To what extent do you think they are useful and 
+appropriate objectives? ” Team members were asked to rate each item for their team on a 
+7-point scale ranging from “not at all” to “completely.” Cronbach’s alpha of .9 5 indicated 
+excellent internal homogeneity and reliability. The calculated agreement index median 
+Rwg of .87 and intraclass correlations ICC (1) of .74 and ICC (k) of .95 justified aggregation 
+to the team level (LeBreton & Senter, 2008).  
+Information Elaboration  
+To assess information elaboration,  I reused the scale of van Knippenberg, van 
+Ginkel, Stam, Giessner,  van Balen, and Ghorbani (2019) . Sample items include  “In our 
+team members complement each other by sharing their knowledge ” and “ We discuss 
+alternatives before making decisions .” As part of the survey, respondents were asked to 
+indicate their agreement to these items within their team on a 5 -point scale ranging from   40 
+ “strongly disagree” to “strongly agree.” Cronbach’s alpha of .9 6 indicated excellent 
+internal homogeneity and reliability. The calculated agreement index median Rwg of .87 
+and intraclass correlations ICC (1) of .80 and ICC (k) of .96 justified aggregation to the team 
+level (LeBreton & Senter, 2008).  
+Team Innovation  
+Team innovation was measured as the usage of an enterprise software technology 
+solution within the adopting customer organization. The utilization of the implemented 
+technology solution was represented as a percentage of the actual metered usage over the 
+purchased software entitlement. For e xample, if a customer purchased 500 users of a 
+particular  solution and 100 users a ctually used it, the team innovation index  would be 20 
+percent. The utilization percentages were calculated for all participating customers with 
+an analytics report of the company . They  were made available for the beginning 
+(baseline) and at the end of the measurement period.  The index ranges from zero 
+indicating no use to one indicating full use. In case a customer use d multiple software 
+solutions integrated into one business process , then the team innovation index was 
+calculated as the mean across all solutions.  
+Controls  
+I included the following control variables in my analyses  to partial out their 
+effects on team innovation : Team size, executive support , team tenure , and experience , as 
+well as several customer attributes , such as  industry , business familiarity , annual revenue , 
+and COVID -19 pandemic impact . 
+Team size was measured as the sum of core team members.  The company 
+separate s between the core and extended team . By contrast,  members of the extended   41 
+ team only join the engagement on a temporary  or as-needed basis  and do not , for 
+example , participate in regular team meetings . Accordingly, I focused on the core team  in 
+my analysis . I included team size as a control variable because it is often found in team 
+research that it influences  team performance  (Fay et al. , 2006; Hülsheger et al., 2009 ; 
+Moser et al., 2019 ). Research  evidence suggest s that smaller and larger teams differ in 
+many important ways . While larger teams can enjoy  access to more resources , higher 
+levels of diversity,  and may appear more legitim ate, they can also experience more 
+coordination and communication challenges, member  task conflict , and less cohesion 
+(Mathieu, Maynard, Rapp, & Gilson, 2008 ; Moreland, Levine, & Wingert, 1996  in Witte 
+& Davis, 2014 ). 
+Executive sponsorship  and top management support have been identified as 
+critical success factors for innovation  with information systems (e.g., Chandler & 
+Thomas, 2015; Lucas  et al. , 2007 ; Shao , Feng, & Hu, 2017 ; Sharma & Yetton, 2003 ), 
+specifically because of resources intensi ve implementation projects and the ongoing need 
+for end-user support  and training. Executive sponsors are typically important not only 
+during the initial stages of a customer engagement to ensure alignment and help mobilize 
+required resources but are also critical for ongoing govern ance, business reviews, conflict 
+resolution, and prioritization  (Drucker, 2002) . Furthermore, van Meerkerk and Edelenbos 
+(2017) found an indirect positive relationship between executive support and boundary 
+spanning. Therefore,  I also controlled for differ ences from executive support . I have 
+asked team members to rate how pleased they are with the executive sponsorship of their 
+customer engagement  using a 5 -point scale ranging from “extremely displeased ” to 
+“extremely pleased. ”   42 
+ Team tenure  was also included as a control variable since it has been identified as 
+a critical  component in team effectiveness model s. Gonzalez‐Mulé , Cockburn , 
+McCormick, and Zhao  (2019) , for example,  found that team tenure was positively related 
+to team performance. Zhang (2016) furthermore found that team longevity positively 
+moderated the relationship between functional diversity and team creativity  through 
+knowledge sharing and group cohesion.  
+Following the group development theory of Kozlowski, Gully, Nason, and Smith  
+(1999) , I calculated  the collective  team tenure as the mean amount of time  individual 
+members have been together on the same team , allowing them to gather shared 
+experiences . The data has been collected with the survey instrument  wherein  I asked team 
+members how long they work ed with their team . Beyond the collective tenure, building 
+on Becker’s (1 964 in Gonzalez‐Mulé et al., 2019 : 154) human capital theory , I measured 
+the work experience  of the team , which is also referred to as additive team tenure  
+capturing the differences  in skills , experience,  and knowledge available within the team . 
+This is consistent with team composition research (e.g., Bell, 2007) , where individual 
+attributes of team members are aggregated to team -level factor s. Work experience has 
+been captured with a simple survey question asking respondents for how many years they 
+have been in the workforce . Like Haas (2010) , I calculated it as the mean amount of years 
+that team members have spent in the workforce . 
+Finally, I controlled for the industry  segment of the customers.  The industry data 
+for each team and customer has been obtained from company records . Customers were 
+assigned to one of the following six industry clusters: Consumer, manufacturing, energy 
+& natural resources, financial services, public sector, and service s industries.    43 
+ The industry cluster assignment for each team was coded with dummy variable s. 
+Besides the industry, I also controlled for business familiarity  measured as the number of 
+days since becoming a customer , its annual revenue , and COVID -19 impact . Specifically,  
+for customers impacted by the COVID -19 pandemic , the company data set included an 
+indicator flagging customers who requested concessions, such as extended payment terms 
+or deferred maintenance payments, based on hardship situations  in their industry , most 
+prominently in the airline or hospitality industry . 
+Manipulation Checks  
+In order to assess the effectiveness of the experimental intervention , I used the 
+following direct and indirect manipu lation check s (Ejelöv & Luke, 2020 ). First, I check ed 
+directly whether a boundary -spanning team member  was assigned to the t reatment group 
+teams . This information was available in the data set of the company experiment. Beyond 
+this essential  check , I analyzed whether the boundary spanner s performed  the trained  
+intervention . As elaborated abo ve, boundary spanners were trained to start or res et the 
+customer engagement with a relationship assessment workshop  and document goals and 
+progress in an outcome success plan. In my survey , I ask ed team members to what extent 
+they agree or disagree  (5-point scale ranging from “strongly disagree” to “strongly 
+agree”) that an outcome success plan was developed by the team and shared with the 
+customer  since this represents the most salient and tan gible measure  of the intervention . 
+Furthermore, I reused Faraj and Yan’s (2009 : 611) scale to measure boundary 
+spanning team activities with my survey instrument. Respondents were asked to indicate 
+their agreement to the four items on a 5 -point scale ranging from “strongly disagree” to 
+“strongly agree.” For example: “Does your account team value team members for making   44 
+ use of their relationships with others on behalf  of the team?” Cronbach’s alpha of .91 
+indicated excellent internal homogeneity and reliability. The calculated agreement index  
+median  Rwg of .79 and intraclass correlations ICC (1) of .70 and ICC (k) of .90 justified 
+aggregation to the team level (LeBreton & Senter, 2008).  
+Analytical Approach  
+To test the hypothesized model of relationships, I utilized the IBM SPSS software 
+version 26 with the PROCESS macro version 3.4 developed by Hayes (2018 a). 
+PROCESS uses an ordinary least squares or logistic regression -based  path analysis to 
+estimate direct and indirect effects in mediator models, moderation models, and 
+conditional effects in moderated mediation models (Hayes, 2018 a). 
+Before testing the hypothesized relationships,  I first tested scale reliability and 
+validity , calculated  Rwg as an assessment of the within -group agreement and intraclass 
+correlation s (ICC s) to ensure the appropriateness of item aggregation  (LeBreton & 
+Senter, 2008) . All Rwg values did reach the defined cut -off values of .7 (Klein et al., 
+2000 ). I also assessed how well the previously empirically validated  measure ment  items 
+represent ed the constructs with a confirmatory factor analysis. According to Kline 
+(2005) , I used the following suggested cut -off values : Comparative fit index ( CFI) ≥.9, 
+non-normed fit index  (NNFI) ≥.95, root mean square error of approximation (RMSEA) 
+<.08, and a non -significant model chi -square p -value >.05. The expected three -factor 
+model demonstrate d good model fit (X2(101) = 550.03, p<.01, CFI = .97, NNFI  = .95, 
+RMSEA  = .07). I then aggregated individual survey responses to the team level  and 
+computed the constructs from the single items . Afterward, I merged the team survey data 
+with the team diversity and team innovation experiment data.    45 
+ I mean centered non-binary study and control  variables  (Cohen, Cohen , West, & 
+Aiken, 2003 ). For creating and testing interaction terms, I relied on PROCESS since it 
+automatically does that for the modeled interaction s (Hayes, 2018 a). 
+I evaluated t he fit of the model and the statistical significance of the interaction 
+terms as well as direct and indirect effects to determine if the hypothes es were supported  
+(or, more preci sely, if the null hypotheses could be rejected ). In doing so,  I utilized the 
+PROCESS Model 10, which is design ed to estimate, test, and probe interactions as I have 
+specified in my research model . It is important to note that in PROCESS Model 10 , 
+functional diversity is an additive linear function of boundary spanning and shared vision  
+(Hayes, 2018b) , meaning that the change in functional diversity’s effect as boundary 
+spanning changes is independent of the value of shared vision . Likewise, t he ch ange in 
+functional diversity’s effect as shared vision changes is independent of boundary 
+spanning.  The moderated mediation test  is based on an  interval estimate of the parameter 
+that links the indirect effect to moderator values, providing  moderated media tion indices  
+(Hayes , 2018a). 
+I used the setting of 20,000 iterations for the bootstrapping analyses . 
+Bootstrapping is considered the right  approach for studies of indirect effects with small 
+sample sizes  (MacKinnon, Lockwood, & Williams,  2004 ).    46 
+ CHAPTER 4: RESULTS  
+Descriptive Statistics  
+A total of 93 5 team members completed the surv ey, yielding a response rate of 
+62%. Thirty -nine responses (3%) did not have a team specified and were not included in 
+the analysis.  Individual team member  responses were aggregated to the team level by 
+computing the means resulting in 162 team cases.  Sixteen  teams with only one response 
+and two treatment teams where the customer did not consent1 were filtered out and not 
+included in the analysis. The remaining 144 teams are the basis for the analysis , of which  
+77 received the treatment , and 67 constituted the control group.  These 144 teams did 
+meet the sampling ratio cut -off value of 0.17 (Dawson , 2003; Richter et al., 2006) and 
+had response rates of at least 60%. The average team size was 9 ( SD = 4.33).  Table 1 
+reports the descriptive statistics and correlations for all study variables.  
+Table 1   Means, Standard Deviations, and Correlations  
+Variable  Mean  S.D. 1 2 3 4 5 6 7 8 9 
+1. Team Innovation  50.08 26.78                
+2. Information Elaboration  4.16 0.57 .12                 
+3. Shared Vision  5.56 0.66 -.01 .29**               
+4. Functional Diversity  0.79 0.17 .22** .51** -.04             
+5. Boundary Spanning  0.53 0.50 .21** .38** .18* .37**           
+6. Innovation Baseline  44.53 27.25 .78** -.20* -.15 -.08 -.02         
+7. Team Size  8.89 4.36 -.04 .10 -.04 .26** .30** .00       
+8. Executive Support  3.56 0.65 -.15 .04 .39** -.08 .14 -.18* -.01     
+9. Team Tenure  1.78 0.41 .06 .16 .17* .10 -.18* .08 -.02 .04   
+10. Work Experience  23.11 5.39 .07 .25** .01 .29** .14 -.05 .10 -.05 -.01 
+Notes. N=14 4. * p < .05. ** p < .01 
+ 
+1 In order to make sure that I do not bias my results, I also ran the analysis with these two teams included in 
+the treatment group , maintaining group integrity. Alternatively, I included these teams in the control group 
+to check that I do not underestimate  the treatment effect. Either way, my results did not change notably. An 
+intention -to-treat analysis was not justified because of >97% compliance.    47 
+ Team innovation was positively related to functional diversity ( r = .22, p<.01)  and 
+boundary spanning ( r = .21, p<.01), and highly correlated with the team innovation 
+baseline ( r = .78, p<.01). It is also important to note that boundary spanning is correlated 
+with functional diversity (r = .37, p<.01). While the boundary span ner as a full team 
+member is included in the  functional diversity measure, it is not the cause for that 
+correlation. Even when excluding the additional boundary -spanning role from the team 
+functional diversity calculation, boundary spanning is still correlated to functional 
+diversity ( r = .32, p<.01).  The following figure  shows how the analyzed teams were  
+distributed across customer engagement phases . 53% of the teams work ed on 
+implementing and adopting  the acquired software solutions , and 47% focused on ideation  
+and exploration of new opportunities . 
+ 
+Figure 7   Team Distribution Across Engagement Phases  
+66% of the customer engagements were classified as incremental innovation to 
+optimize the customers’ business by team members . Examples include  implementing 
+recruiting and talent management solutions, replacing a legacy enterprise resource 
+planning system, and exploring  new solutions to make supply chains more resilient.  
+  48 
+ 28% of the customer engagements were classified as disruptive innovation s with a 
+transformational character for the customer’s business. Team members specified 
+examples that included the use of predictive analytics solutions to automate  procurement 
+and finance  functions , database solutions for digital platform business models, and 
+expansion into new industry  and market segments . The remaining 6% of engagements 
+were describe d as a combination  of both . 
+Across all team members , 75% were  male and 25% female. 54% of the survey 
+respondents have a bachelor’s and 41% a master’s degree. The average work experience 
+was 23.5 years (SD = 9.31). The functional backgrounds of team members were  
+distributed as shown in Figure 8.  
+ 
+Figure 8   Distribution of Function al Backgrounds Across Team Members  
+The most common functional backgrounds were sales and customer services 
+(26%) and information technology (20%). 17% of the team members described their 
+function as “other” and provided detailed backgrounds, such as supply chain, sales and 
+distribution, logistics , and production in t he aerospace industry.   
+  49 
+ Finally, before going into the data analysis , I will assess and report the 
+effectiveness of the manipulation s (Ejelöv & Luke, 2020) . Independent t-test analysis of 
+the teams' boundary -spanning practices (Faraj & Yan, 2009) shows  a statistically 
+significant difference between the treatment and control group , providing evidence that 
+the intervention has been effective.  The 7 7 teams in the treatment group ( M = 4.05, SD = 
+.40) compared to the 67 teams in the control group ( M = 3.78, SD = .60) demonstrated 
+significantly higher levels of boundary spanning, t(142) = 3.21, p<.01. The teams in the 
+treatment group ( M = 11.03, SD = 6.65), furthermore,  reported significantly higher levels 
+of outcome success planning than the control group ( M = 6.74, SD = 3.85), t(129) = 4.36, 
+p<.01.  This provides further evidence that the boundary -spanning team members 
+performed the trained interventions.  
+In contrast to the boundary -spanning manipulation, the teams in the treatment 
+group did not significantly vary on executive support  and teamwork experience  compared 
+to the control group . There was no significant effect for executive support , t(142) = -1.65, 
+p = .10, despite the treatment group ( M = 3.65, SD = .56) reported slightly higher scores 
+than the control group ( M = 3.47, SD = .73). Similarly, there was no significant 
+difference in team work experience , t(142) = -1.72, p = .09, for the treatment group ( M = 
+23.82, SD = 4.10) compared to the control group ( M = 22.28, SD = 6.50). Furthermore, 
+individuals in the treatment and control groups did not significantly vary on demographic 
+varia bles. Team  members  in the treatment (M = 1.28, SD = .45) and control groups ( M = 
+1.26, SD = .44) were not significantly different on gender , t(654) = -.56, p = .57. There 
+was also no significant difference in education between the members in the control ( M = 
+3.39, SD = .58) and treatment group s (M = 3.37, SD = .57), t(659) = -.36, p = .72 .   50 
+ Data Analysis  
+Table 2 report s the regression results and PROCESS outputs for my research 
+model  that suggests a moderated mediation effect  of functional diversity on team 
+innovation through information elaboration that is conditional on boundary spanning and 
+shared vision . 
+Table 2   Direct and Indirect Effects of Functional Diversity on Team Innovation  
+  Info. Elaboration   Team Innovation  
+ Coeff.  SE p  Coeff.  SE p 
+Constant  .14 .34 .68  -.51 .27 .07 
+Functional Diversity  .22 .08 .01  .13 .07 .05 
+Boundary Spanning Treatment  .41 .13 <.01  .19 .11 .08 
+Functional Diversity  x Treatment  -.34 .16 .03  .27 .13 .03 
+Shared Vision  .48 .07 <.01  .03 .07 .61 
+Functional Diversity  x Shared Vision  .36 .05 <.01  .03 .04 .44 
+Team Innovation Baseline  -.11 .06 .07  .85 .05 <.01 
+Information Elaboration  – – –  .14 .07 .05 
+Team Size  -.05 .07 .49  -.09 .05 .08 
+Executive Support  -.09 .06 .16  -.01 .05 .86 
+Team Tenure  .07 .06 .24  -.02 .05 .69 
+Work Experience  -.05 .06 .46  .04 .05 .42 
+Consumer Industr ies -.27 .36 .45  .37 .28 .20 
+Service s Industr ies -.27 .39 .48  .34 .31 .26 
+Manufacturing Industr ies -.35 .36 .32  .38 .28 .18 
+Energy & Resources Industr ies -.36 .37 .33  .44 .29 .13 
+Financial Industr ies -.08 .39 .85  .09 .31 .77 
+Business Fami liarity  .04 .06 .47  -.06 .05 .21 
+Annual Revenue  .02 .06 .72  -.06 .05 .20 
+COVID -19 Impact  -.06 .26 .83  -.18 .21 .38 
+        
+ R2 = .64  R2 = .78 
+ F(18,125)  = 12.36,  
+p<.01  F(19,124)  = 22.58, 
+p<.01 
+Notes. N  = 144. Values are standardized coefficients.    51 
+ With PROCESS  I first regressed information elaboration on functional diversity 
+(β = .22, SE = .08, p<.01), boundary spanning ( β = .41, SE = .13, p<.01), shared vision ( β 
+= .48, SE = .07, p<.01), and the interaction terms of functional diversity and boundary 
+spanning ( β = -.34, SE = .16, p<.05) and functional diversity and shared vision ( β = .36, 
+SE = .05, p<.01) as well as the team innovation baseline ( β = -.11, SE = .06, ns) and the 
+control variables , which yielded a significant R2 of 64%. 26% of R2 change was explained 
+by functional diversity  (F(1,142) = 48.84, p<.01) , 33% by shared vision and its 
+interaction with functional diversity  (F(2,140) = 56.07, p<.01) . Boundary spanning and 
+its interaction  with functional diversity explained 3% R2 change  (F(2,138) = 5.14, p<.01) , 
+and 2% were explained by the controls  (F(13,125) = .67, ns). Next , team innovation was 
+regressed on information elaboration ( β = .14, SE = .07, p <.05), functional diversity  (β = 
+.13, SE = .07, p<.05), boundary spanning  (β = .19, SE = .11, ns) and its functional 
+diversity interaction ( β = .27, SE = .13, p<.05), shared vision (β = .03, SE = .07, ns) and 
+its functional diversity interaction  (β = .03, SE = .04, ns), as well as  the team innovation 
+baseline ( β = .85, SE = .05, p<.01)  and the control variables , which yielded a significant 
+R2 of 78%. The biggest portion of 61% R2 change was not surprisingly explained by the 
+team innovation baseline  (F(1,142) = 221.43, p<.01) . 5% R2 change was explained by the 
+treatment  (F(1,141) = 22.08, p<.01) , 4% by information elaboration  (F(1,140) = 20.51, 
+p<.01) , 2% by functional diversity2 (F(1,139) = 10.28, p<.01) , and 2% by the interaction 
+of treatment and functional diversity  (F(1,138) = 7.65, p<.01) . The control s added 
+another 4% R2 change  (F(14,124) = 1.4 1, ns). 
+ 
+2 The functional diversity measure includes the boundary -spanning role. The conclusions are the same 
+when the  boundary spanner is excluded from the analysis. I still found a moderated mediation effect and 
+there were no notable changes on information elaboration.  The diversity treatment interaction and 
+information elaboration however, exceeded the .05 significance  threshold for team innovation.    52 
+ As illustrated in Figure 9, to better discern the nature of the significant interaction 
+of functional diversity and shared vision , I examined a simple slope computation at “low” 
+(1 SD below the mean;  β = -.31, SE = .11,  p<.01) and “high” (1 SD above the mean;  β = 
+.40, SE = .08, p<.01) levels of shared vision (Aiken & West, 1991). These results indicate 
+that functional diversity is positively related to information elaboration only for teams 
+with a high shared vision.  Therefore, Hypothesis 5 is supported.  
+ 
+Figure 9   Moderating Effect of Shared Vision  
+As shown in the following Table 3, under the condition s of relatively high shared 
+vision , the negative effect of functional diversity flipped into a positive effect.  The 
+Johnson -Neyman technique showed that the relationship between functional background 
+diversity and information elaboration was significant for all cases with a mean -centered 
+shared vision score of -.14 where 40% of the cases in the data set had value s below , and 33.23.43.63.844.24.44.64.85
+Low Functional
+DiversityHigh Functional
+DiversityInformation ElaboraitonHigh Shared
+Vision
+Low Shared
+Vision  53 
+ 60% had value s above  this point , indicating that enough cases were within the 
+significance region  (Hayes, 2018 a). 
+Table 3   Conditional Effects of Functional Diversity on Information Elaboration  
+ Effect  SE p 95% CI  
+Low Shared Vision ( -1 SD) -.31 .11 <.01 -.53, -.10 
+Mean Shared Vision  .04 .08 .60 -.12, .21 
+High Shared Vision (+1 SD) .40 .08 <.01 .24, .57 
+Boundary Spanning Treatment  -.12 .14 .39 -.39, .15  
+Boundary Spanning Control  .22 .08 <.01 .06, .39  
+Notes. N  = 144. Values are standardized coefficients. CI = Confidence Interval.  
+The conditional effect of functional background diversity on information 
+elaboration ranged from -.31 to .40 for a low and high shared vision , respectively , across 
+the treatment and control group. While the boundary spanning treatment had a positive 
+effect on information elaboration , its interaction with functional diversity  surprisingly 
+had a negative effect on inf ormation elaboration  (β = -.34, SE = .16, p <.05). This 
+indicates that the boundary -spanning role likely substitutes for the informational effect of 
+functional diversity . In that vein, the boundary spanner  as a source of information adds 
+less (via scouting) , resulting  in a negative effect . Therefore, Hypothesis 2 and 3 are not 
+supported. Overall , however , I found a positive effect of the boundary -spanning treatment 
+on information elaboration , and teams in the treatment group performed at significantly 
+higher levels  of information elaboration . 
+As reported in Table 4, I found a similar data patter n of the conditional effects 
+described for information elaboration  for the conditional indirect effect s of functional 
+background diversity on team innovation . A bootstrap confidence interval for the indirect 
+effect s based on 20,000 bootstrap samples was entirely above zero for shared vision (. 01,   54 
+ .10) and entirely below zero for boundary spanning (-.12, -.01). Since the 95% 
+confidence intervals did not cross over zero , these moderated mediation effects were  
+statistically significant , supporting  Hypothesis 6 . The indices of moderated mediation are 
+reported in Table 4. 
+Table 4   Conditional Indirect Effects of Functional Diversity on Team Innovation  
+ Effect  SE 95% CI  
+Low Shared Vision ( -1 SD) -.04 .02 -.10, -.01 
+Mean Shared Vision  .01 .01 -.01, .04 
+High Shared Vision (+1 SD) .06 .03 .01, .12 
+Boundary Spanning Treatment  -.02 .02 -.05, .02 
+Boundary Spanning Control  .03 .02 .01, .08 
+Inde x of Moderated Mediation  
+Shared Vision  .05 .02 .01, .10  
+Boundary Spanning  -.05 .03 -.12, -.01 
+Notes. N  = 144. Values are standardized coefficients. CI = Confidence Interval.  
+In addition to the condi tional indirect effects for values of each moderator , Table 
+5 reports the conditional indirect effects for all combinations of the moderators.  
+Table 5   Conditional Indirect Effects for all Combinations of the Moderators  
+Boundary Spanning  Shared Vision  Effect  SE 95% CI  
+Treatment  Low ( -1 SD) -.07 .03 -.14, -.01 
+Mean  -.02 .02 -.06, .02 
+High (+1 SD) .03 .03 -.01, .10 
+Control  Low ( -1 SD) -.02 .02 -.07, .02 
+Mean  .03 .02 .01, .0 8 
+High (+1 SD) .08 .04 .02, .16 
+Notes. N  = 144. Values are standardized coefficients. CI = Confidence Interval.  
+Besides the conditional indirect effect of functional diversity on team innovation 
+through information elaboration, I also found a significant direct effect of functional 
+diversity  (β = .13, SE = .07, p<.05) , which was significantly moderated by boundary   55 
+ spanning  (β = .27, SE = .13, p<.05) . As reported in Table 6, teams in the treatment group 
+achieved higher levels of innovation than teams in the control group , providing further 
+evidence that the boundary -spanning treatment worked.  
+Table 6   Conditional Direct Effects of Functional Diversity on Team Innovation  
+ Effect  SE p 95% CI  
+Low Shared Vision ( -1 SD) .24 .09 <.01 .07, .41  
+Mean Shared Vision  .28 .07 <.01 .15, .41  
+High Shared Vision (+1 SD) .31 .07 <.01 .02, .45  
+Boundary Spanning Treatment  .41 .11 <.01 .19, .62  
+Boundary Spanning Control  .13 .07 .05 -.00, .26 
+Notes. N=144. Values are standardized coefficients. CI = Confidence Interval.  
+To better discern the direct effect  of the boundary spanning diversity interaction 
+on team innovation , I examined a simple slope computation for the  treatment (β = .41, SE 
+= .11, p<.01) and control group s (β = .13, SE = .07, p<.05) as shown in Figure 10.  
+ 
+Figure 10   Moderating Effect of the Boundary Spanning Treatment  05101520253035
+Low Functional
+DiversityHigh Functional
+DiversityTeam InnovationTreatment
+Control  56 
+ These results indicate that the treatment enhances the functional diversity effect 
+on innovation in cross -functional teams. Therefore, Hypothesis 1 is supported. Similarly, 
+teams with relatively high levels of shared vision achieved higher levels of team 
+innovation. However, i n contrast to boundary spanning, the interaction effect of shared 
+vision and functional diversity had no significant effect on team innovation , and therefore 
+Hypothesis 4 is not supported. The regression results with out control variabl es are 
+available in Appendix B , Table B1 . While all control variables were  statistically 
+insignificant, the moderated mediation effects' overall data pattern  without control 
+variables was consistent , yielding a significant R2 of 74%, which was four percentage 
+point s lower than  in the analysis with control variables  included . 
+Supplementary Analysis  
+Treatment -centric Moderated Mediation Analysis  
+In order to better understand the  negative interaction effect of functional diversity 
+and bou ndary spanning on information elaboration but the overall positive treatment 
+effect, I conducted an ancillary post-hoc analysis  that puts the boundary -spanning 
+treatment at center stage . The treatment -centric research model shown in Figure 11 
+focuse s on the boundary spanning treatment as an independent variable  and includes 
+serial mediation through shared vision and information elaboration  with functional 
+background diversity as a second -stage moderat or. This way , I can explore and better 
+understand the impact of boundary spanning on shared vision  and the interplay with 
+functional background diversity  and information elaboration . By doing so, I analyze the 
+direct and conditional effects of boundary spanning on team innovation through shared 
+vision and information elaboration, moderated by functional diversity .   57 
+  
+Figure 11   Treatment -centric Research Model  
+The following Table 7 reports the direct and conditional effects  for th e moderated 
+serial  mediation model . I utilized a custom version of PROCESS Model 91  (see 
+Appendix C , Figure C1  with the treatment -centric path analysis results ) to also include 
+tests for moderation of the relationship s between treatment and information elaboration , 
+treatment and team innovation, as well as the relationship  between  shared vision and 
+team innovation.  I first regress shared vision on boundary spanning (β = .39, SE = .16, 
+p<.05) , and the control variables , which yielded a significant R2 of 30%. Then 
+information elaboration was regressed on boundary spanning (β = .41, SE = .13, p<.01), 
+shared vision ( β = .48, SE = .07, p<.01), functional diversity ( β = .22, SE = .08, p<.05) 
+and its interaction  terms with boundary spanning ( β = -.34, SE = .16, p<.05) and shared 
+vision ( β = .36, SE = .05, p<.01), and the control variables , which yielded a significant R2 
+of 64%. Finally, team innovation was regressed on information elaboration  (β = .14, SE = 
+.07, p<.05), the boundary spanning treatment (β = .19, SE = .11, ns), shared vision ( β = 
+.03, SE = .07, ns), functional diversity (β = .13, SE = .07, p<.05) and its interaction  terms 
+with boundary spanning ( β = .27, SE = .13, p<.05) and shared vision ( β = .03, SE = .04, 
+ns), as well as the innovation baseline (β = .85, SE = .05, p<.01) and the control variables , 
+which yielded a significant R2 of 78%. 
+  58 
+ Table 7   Direct and Conditional Effects of Boundary Spanning on Team Innovation  
+ Shared 
+Vision   Information 
+Elaboration   Team 
+Innovation  
+Constant  .03 (.47)   .14 (.34)   -.51 (.27) 
+Boundary Spanning Treatment  .39 (.16)*   .41 (.13) **  .19 (.11)  
+Shared Vision  –  .48 (.07)**   .03 (.07)  
+Functional Diversity  –  .22 (.08)*   .13 (.07) * 
+Functional Diversity x Treatment  –  -.34 (.16)*   .27 (.13)*  
+Functional Diversity x Shared Vision  –  .36 (.05)**   .03 (.04)  
+Information Elaboration  –  –  .14 (.07)*  
+Team Innovation Baseline  -.10 (.08)   -.11 (.06)   .85 (.05)**  
+Team Size  -.08 (.09)  -.05 (.07)   -.09 (.05)  
+Executive Support  .34 (.08)**   -.09 (.06)   -.01 (.05)  
+Team Tenure  .25 (.08)**   .07 (.06)   -.02 (.05) 
+Work Experience  -.01 (.08)   -.05 (.06)   .04 (.05)  
+Consumer Industries  .02 (.48)   -.27 (.36)   .37 (.28)  
+Services Industries  -.49 (.52)   -.27 (.39)   .34 (.31)  
+Manufacturing Industries  -.30 (.48)   -.35 (.36)   .38 (.28)  
+Energy & Resources Industries  -.19 (.50)   -.36 (.37)  .44 (.29)  
+Financial Industries  -.72 (.54)   -.08 (.39)   .09 (.31)  
+Business Familiarity  -.16 (.08)*   .04 (.06)   -.06 (.05)  
+Annual Revenue  .02 (.09)   .02 (.06)   -.06 (.05)  
+COVID -19 Impact  -.50 (.35)   -.06 (.26)   -.18 (.21)  
+      
+R2 .30**   .64**   .78**  
+F 3.99**   12.36**   22.58**  
+Conditional Effect of Treatment on Information Elaboration  
+ Effect ( SE)  95% CI   t 
+Low Functional Diversity ( -1 SD) .75 (.23)**   .31, 1.20   3.33 
+Mean Functional Diversity  .41 (.13)**   .15, .68   3.08 
+High Functional Diversity (+1 SD) .07 (.19)   -.31, .44   .36 
+Conditional Effect of Shared Vision on Information Elaboration  
+ Effect ( SE)  95% CI   t 
+Low Functional Diversity ( -1 SD) .12 (.07)   -.02, .26   1.72 
+Mean Functional Diversity  .48 (.07)**   .34, .62   6.80 
+High Functional Diversity (+1 SD) .84 (.10)**   .65, 1.03   8.67 
+Notes. N  = 144. Values are standardized coefficients  (with st andard errors ). 
+* p < .05. ** p < .01. CI = Confidence Interval.    59 
+ The regression results without control variables are available in Appendix B , 
+Table B2 . The Johnson -Neyman technique showed that the relationship between 
+boundary spanning and information elaboration was significant for all cases with a mean -
+centered functional background diversity score of .41 where 56% of the cases in the data 
+set had value s below , and 44% had values above this point , indicating that enough cases 
+were within the significance region.  Similarly, the relationship between boundary 
+spanning and team innovation was significant for all cases with a mean -centered 
+functional background diversity score of . 07, where 38% of the cases had values below , 
+and 62% had values above this point.  Table 8 reports the results of the treatment -centric 
+moderated mediation model , including the conditional in direct effects . 
+Table 8   Treatment -centric Moderated Mediation Results  
+Conditional Direct Effect of Treatment on Team Innovation  
+ Effect ( SE)  95% CI  t 
+Low Functional Diversity ( -1 SD) -.08 (.19)  -.45, .29  -.43 
+Mean Functional Diversity  .20 (.11)   -.02, .41  1.79 
+High Functional Diversity (+1 SD) .47 (.15)**  .18, .77  3.15 
+      
+Conditional Indirect Effect of Treatment on Team Innovation  through Shared Visio and  
+Information Elaboration  Effect ( SE)  95% CI    
+Low Functional Diversity ( -1 SD) .01 (.01)  -.01, .03   
+Mean Functional Diversity  .03 (.02)  .01, .07   
+High Functional Diversity (+1 SD) .05 (.03)  .01, .11   
+      
+Index of Moderated Mediation  Index ( SE)  95% CI    
+Functional Diversity  .02 (.01)   .01, .05    
+Notes. N  = 144. Values are standardized coefficients (with standard errors ). 
+* p < .05. ** p < .01. CI = Confidence Interval.  
+As reported in Table 8, I found a positive moderated serial mediation effect of the 
+boundary spanning treatment on team innovation through shared vision and information 
+elaboration  that is conditional on functional background diversity . A bootstrap   60 
+ confidence interval for the indirect effect based on 20,000 bootstrap samples was entirely 
+above zero for functional diversity  (.01, . 05). These results indicate th at the treatment has 
+a positive direct effect on team innovation that is conditional on functional diversity and  
+an indirect effect through shared vision and information elaboration  that is stronger for 
+higher functional diversity levels . It is specifically notable that the boundary spanning 
+treatment also positively affects  shared vision , which is important for teams to benefit 
+from functional background diversity . It is positively related to information elaboration 
+only under a high share d vision . As illustrated in Figure 12, to better discern the nature of 
+the significant interaction of functional diversity and shared vision , I examined a simple 
+slope computation at “high” (1 SD above the mean; β = .73, SE = .09, p<.01) and “low” 
+(1 SD below the mean;  β = .23, SE = .07, p<.01) levels of functional diversity .  
+ 
+Figure 12   Interaction  Effect of Functional Diversity and Shared Vision  3.73.94.14.34.54.7
+Low Shared Vision High Shared VisionInformation ElaboraitonHigh
+Functional
+Diversity
+Low
+Functional
+Diversity  61 
+ These results emphasize the importance of shared vision showing that information 
+elaboration benefits from functional diversity . However,  teams with a low shared vision 
+and high diversity perform at lower levels than teams with low diversity and low shared 
+vision. As illustrated in the following Figure 13, to better discern the nature of the 
+significant interaction of functional diversity and treatment  on information elaboration , I 
+examined a simple slope computation at “high” (1 SD above the mean; β = .17, SE = .16, 
+ns) and “low” (1 SD below the mean;  β = .65, SE = .19, p<.01) levels of diversity.  
+ 
+Figure 13   Interaction  Effect of Functional Diversity and Boundary Spanning  
+These results show that teams in the treatment group perform at higher levels of 
+information elaboration  and emphasize the substitution effect of boundary spanning and 
+functional diversity , which leads to relatively lower levels of information elaboration for 
+teams with high functional diversity compared to  low diversity in the treatment  group.  3.73.94.14.34.54.7
+Control TreatmentInformation ElaboraitonHigh
+Functional
+Diversity
+Low
+Functional
+Diversity  62 
+ Three -way Interaction Analysis  
+I also conducted an ancillary analysis  to determine whether there is a three -way 
+interaction  effect of functional diversity, boundary spanning, and shared vision  on team 
+innovation . Table 9 report s the regression results for this three -way interaction analysis . I 
+utilized  PROCESS Model 3 to regress team innovation on functional diversity ( β = .13, 
+SE = .06, p<.05), boundary spanning ( β = .10, SE = .10, ns), shared vision ( β = -.05, SE = 
+.07, ns), and the four interaction terms of functional diversity and the boundary spanning 
+treatment (β = .26, SE = .13, p = .05), functional diversity and shared vision ( β = -.03, SE 
+= .05, ns), shared vision and treatment  (β = .10, SE = .11, ns), as well as  the product of  
+functional diversity , shared vision , and treatment  (β = .36, SE = .10, p<.01) while 
+controlling for information elaboration  (β = .15, SE = .07, p<.05) and the team innovation 
+baseline  (β = .86, SE = .04, p<.01) , which yielded a significant R2 of 77%.  
+Table 9   Three -Way Interaction Effect  
+  Team Innovation  
+Antecedent  Coeff . SE p 
+Constant  -.16 .07 .02 
+Functional Diversity  .13 .06 .04 
+Boundary Spanning Treatment  .10 .10 .29 
+Functional Diversity x Treatment  .26 .13 .05 
+Shared Vision  -.05 .07 .44 
+Functional Diversity x Shared Vision  -.03 .05 .50 
+Shared Vision x Treatment  .10 .11 .38 
+Functional Diversity x Shared Vision x Treatment  .36 .10 <.01 
+Information Elaboration  .15 .07 .03 
+Team Innovation Baseline  .86 .04 <.01 
+    
+ R2 = .77 
+ F(9,134) = 49.85, p<.01 
+Notes. N  = 144. Values are standardized coefficients.    63 
+ The team innovation baseline and information elaboration explained 69% R2 
+change (F(2,141) = 155.09, p<.01) . 6% R2 change was explained  by functional diversity, 
+boundary spanning, shared vision , and the two -way interactions  (F(6,135) = 5. 41, p<.01) . 
+The three -way interaction  of functional diversity , shared vision , and boundary spanning 
+explained 2% of the R2 change (F(1,134) = 12. 80, p<.01) . 
+The positive  significant coefficient of the three -way interaction indicate d that the 
+interaction of functional background diversity and shared vision on team innovation is 
+more positive in the tr eatment group  than in the control group . Since the interaction 
+between functional diversity and shared vision differs significantly  between treatment 
+and control, it is reasonable that this interaction is not significant for team innovation  by 
+itself . Table 10 further reports  the conditional effects of the interaction of functional 
+background diversity and shared vision on team innovation for the boundary spanning 
+treatment and control group . In contrast to the advers e effect in the control group 
+(although no t significant), the positive and significant treatment effect  provides evidence 
+that engagement teams with higher levels of functional diversity and shared vision that 
+practice boundary spanning outperform ed team s in the control group.  
+Table 10   Conditional Interaction Effect of Functional Diversity on Team 
+Innovation  
+ Effect  F p 
+Treatment  .33 12.32 <.01 
+Control  -.03 .45 .50 
+Notes. N  = 144. Values are standardized coefficients.  
+To better discern the nature of the significant three -way interaction , I illustrated 
+the impact on team innovation for high and low levels of functional background diversity 
+and shared vision  across the boundary -spanning treatment and control group  in Figure 14.   64 
+  
+Figure 14   Three -way Interaction Effect  
+These results highlight the importance of the interplay of functional diversity , 
+boundary spanning,  and shared vision  and demonstrate  that teams in the treatment group 
+are significantly more innovative only under the conditions of relatively high functional 
+diversity and high shared vision . At lower levels of shared vision , functional diversity 
+had no effect in the treatment group . The three -way interaction furthermore indicates that 
+it is not only worth investing in functional diversity, boundary spanning , and shared 
+vision in isolation  since these factors enhance each other’s effect and therefore should be 
+developed in combination.  
+Findings and Interpretations  
+The boundary -spanning treatment worked  and improved team innovation as 
+measured via the use of software technology solutions. As shown in Figure 15, teams in 
+the treatment group achieved on average 12 percentage points higher usage levels o f their -50510152025303540
+Low Functional
+DiversityHigh Functional
+DiversityTeam InnovationHigh Shared Vision,
+Treatment
+High Shared Vision,
+Control
+Low Shared Vision,
+Treatment
+Low Shared Vision,
+Control  65 
+ software solutions during the measurement period. While the average usage rate in the 
+treatment group increased from 44% to 56%, the control group usage rate  decreased from 
+45% to 44% in the same time frame.  
+ 
+Figure 15   Result of the Team Innovation Experiment  
+The results of my analysis – presented in the following section – show  an 
+apparent  positive effect o f the boundary spanning treatment that increases information 
+elaboration and team innovation.  This raises the questions about which mechanisms, 
+team processes, and conditions yielded this improvement.  
+One essential  part of the answer is functional diversity. Functional diversity 
+provides teams with the knowledge, information, expertise,  and perspectives that help the 
+team develop  innovative ideas and overcome implementation challenges  (van 
+Knippenberg, 2017) . As predicted in Hyp othesis 1, I found a significant positive 
+moderation effect of boundary spanning on the relationship between functional 
+  66 
+ background diversity and team innovation (see Table 2). As reported in  Table 6, the 
+effects of functional diversity on team innovation are significantly stronger in the 
+treatment group . This data provid es evidence for a positive relationship between 
+functional diversity and team innovation that is stronger for team s that practice boundary 
+spanning . With it, I confirmed the boundary -spanning treatment as facilitating condition 
+and functional diversity as a critical informational resource required for team innovation.  
+The overall positive treatment effect set a side;  the treatment has in a way a 
+negative downside that reduces the positive influence of functional diversity  on 
+information elaboration . I found a significant negative moderation effect of the treatment 
+on the relationship between functional diversity on in formation elaboration reported in 
+Table 2, leading to the rejection of Hypothesis 2. While this is not necessar ily negative in 
+the sense that the treatment overall leads to more elaborat ion and innovati on but because 
+of the treatment , information elabora tion is less driven by the team's functional 
+background diversity , meaning  the treatment reduces the informational e ffect of 
+functional diversity . This unexpected finding contradict s the predicted  positive pattern , 
+where I suggested that functional diversity interacts with boundary spanning such that it 
+is positively related to information elaboration , specifically because of additional 
+information about the client and  focus  on the customer perspective . However, i nstead  of 
+the anticipated boost on information elaboration, I found that the treatment rather works 
+as an al ternative source of customer information (likely via scouting) . Teams who  
+received the treatment relied less on functional diversity as an informational resource.  
+Nevertheless, boundary spanning affects not only the quantity  and how much the 
+team elaborate s (what I captured with my survey  measure ) but also the elaboration topics   67 
+ and content quality . As confirmed in Hypothesis 1, creating this client focus leads to 
+better use of functional diversity , and in that way , boundary spanning substitutes for 
+informatio n elaboration . As evidenced by the data, the boundary -spanning effect seems to 
+be expressed more in the quality of information elaboration than in quantity . 
+For the same reasons  and findings concerning  Hypothesis 2 , also Hypothesis 3 is 
+rejected.  Although I found a significant moderated mediation effect , the index of 
+moderated mediation reported in Table 4 captures a negative effect indicating an overall 
+less positive effect of functional diversity on team innovation through information 
+elaboration con ditional on boundary spanning. Despite this substitution effect, it is 
+essential  to note that teams in the treatment group operate at significantly higher 
+information elaboration levels  and delivered increased team innovation as measured by 
+customer usage  (see Figure 10). Furthermore, as reported in Table 5, the negative indirect 
+effect flipped to a positive effect for relatively high levels of a shared vision . 
+The interaction of functional diversity and shared vision  on team innovation was 
+not s tatistically significant, re jecting Hypothesis 4. Despite partially significant effects for 
+a range of shar ed vision ( -1 to +1 SD) reported in Table 6 indicating that a shared vision 
+and focus help to mobilize functional diversity resulting in increased team innovation for 
+cross -functional teams , I cannot  reject the null hypothesis in my sample population . 
+Contrary  to Hypothesis 4 , Hypothesis 5 is supported as I found evidence that 
+functional diversity interacts with shared vision such that it is positively related to 
+information elaboration . Meaning that t he utilization of informational resources yielded 
+from functional diversity in the team process of information elaboration – sharing, 
+discussion, and integration of task -relevant information and perspectives – are motivated   68 
+ by a shared vision and demotivated by the lack of shared vision. I found that in teams 
+with a low shared vision , functional diversity has a negative effect . In teams with a high 
+shared vision , functional diversity has a positive effect on information elaboratio n. This is 
+of specific relevance because of the negative effect of functional diversity on information 
+elaboration at relatively low shared vision levels . The negative effect  at low levels of a 
+shared vision  is not entirely surprising since diversity in fu nctional backgrounds also 
+creates both task and personal conflict and may cause communication breakdowns. This , 
+in turn , highlights the importance of the treatment  to facilitate communication and 
+coordination , shared vision as an idea of a valued outcome that provides the basis for 
+action within the team, and potential ly other team climate factors, such as psychological 
+safety  (Edmon dson & Harvey, 2018), that motivate the use of informational resources.  
+As reported in Table 5, for a range of shared vision ( -1 to +1 SD) across the 
+treatment and control group, the relationship between functional diversity and 
+information elaboration is conditional on boundary spanning and shared vision. While the 
+tipping point from a negative to a positive effect differs between the trea tment and 
+control group, the data shows a positive relationship for teams with a relatively high 
+shared vision.  
+As predicted in Hypothesis 6, I also found a moderated mediation effect where 
+functional diversity indirectly influenced team innovation through  its effect on 
+information elaboration that was contingent on a shared vision. Shared vision 
+significantly moderated the indirect effect of functional diversity on team innovation 
+through information elaboration  in such a way that these effects were  more potent  in 
+teams with a shared commitment to common goals  (see Table 4). As shown in  Figure 9,   69 
+ an increase in shared vision increases functional diversity's eff ect3 on information 
+elaboration relative to teams with a low shared vision.  As evidenced by the data, 
+functional diversity  affects  team innovation directly and indirectly  via information 
+elaboration , which is  the critical  mediating team process of knowledge integration  
+required to create synergies and foster team creativity and innovation  (van Knippenberg, 
+2017) . While Hypothesis 6 is supported as I found a significant moderated indirect path, I 
+also have the unexpected finding that even with the mediation by information elaboration  
+controlled  for, there is still a direct effect not accounted for by information elaboration . 
+This is where my supplementary analysis comes into play . 
+In that regard , it is es sential  to note that the boundary -spanning treatment, as 
+found in the treatment -centric supplementary analysis shown in Table 7, not only 
+positively influenced information elaboration and team innovation but also positively 
+influenced shared vision , which increases the effect of functional background diversity 
+and therefore is imperative for team innovation success. This could fur ther explai n why I 
+found an indirect effect that captures how much the team elaborates and a direct effect 
+where the treatment focused  on what is important for the customer , directly feeding into 
+customer usage. Finally, a s reported in Table 9, the results of my suppl ementary three -
+way interaction analysis indicate that it is worth investing in functionally diverse teams 
+with boundary -spanning roles and creating a shared team vision since all three factors 
+ 
+3 Consistent with the finding that team innovation benefits from functional background diversity, Balkundi 
+and Harrison (2006) found that well -networked teams perform better and Baer (2010), building on 
+Granovetter’s strengt h-of-weak -ties theory, confirmed the importance of network diversity as critical factor 
+for creative outcomes. In my analysis, similarly to functional diversity, I found a significant moderated 
+mediation effect of team network diversity on team innovation through information elaboration that is 
+conditional on shared vision and boundary spanning. Network diversity however, was not significant when 
+analyzed together with functional diversity , indicating that they are substitutes for one another. Functional 
+and network diversity were  significantly correlated ( r = .38, p<.01).    70 
+ enhance each other’s effect on team innovation.  Interestingly, the three -way interaction 
+analysis (see Figure 14) show s that teams with an above -average shared vision and low 
+functional diversity are generally less likely to drive innovation than teams with a low 
+shared vision and low functional diversity. Again, this finding  speaks to the importance 
+of information elaboration and boundary spanning  since shared vision and functional 
+diversity alone do not deliver the desired innovation success.  The boundary -spanning 
+treatment creates a focus on serving the customer and amplifies the effects of functional 
+diversity, shared vision, and information ela boration on team innovation. As evidenced 
+by the data analysis in this study, a team’s capability to generate technology -based ideas 
+new for the adopting customer and putting these ideas into practices such that they 
+achieve desired results benefits from functional diversity  and is advanced through  
+boundary spanning and shared vision.  
+In summary, teams with a high diversity of functional background s that operate 
+with a shared commitment to common goals  and engage in continuous information 
+elaboration by orchestrating proactive engagements innovate better with their customers.  
+My conditional process model explained 78% of the variance in team innovation change 
+starting from the January baseline till the end of the experiment . 17% R2 change w as 
+explained by the main effect of functional background diversity  on team innovation 
+through information elaboration  that was conditional on  boundary spanning  and shared 
+vision . Although all control variables were non -significant, the inclusion  added an 
+additional four percentage points to the overall team innovation explan ation.    71 
+ CHAPTER 5: DISCUSSION  
+In this chapter , I first recap the aim of my study briefl y. Then, I dig into my 
+findings' theoretical contribution s and address practical and managerial implications 
+focusing on recommendations and how to implement the results. Afterward , I outline the 
+limitations and shortcomings of my research design and how future resea rch could 
+address these. Finally, I conclude with a punchline summary of my study, the key 
+findings, and their importance.  
+The goal of my study was to better understand the role of boundary spanning for 
+team innovation success and develop a deeper level of understanding under what 
+conditions customer engagement teams in technology companies are likely to benefit 
+from functional background diversity in pursuing  digital  innovation challenges  together 
+with their clients . Specifically , exploring the effect s of shared vision and a boundary -
+spanning treatment with a field experimental research design . The central thesis is that 
+team innovation benefits from informational resources through its relationship with 
+information elaboration and e ngenders team innovation success only if teams operate in a 
+customer -centric climate for innovation  with a common goal shared by the team . In this 
+context, the boundary -spanning treatment was designed to bring in information about the 
+client and create a focus on the client's perspective,  resulting in increased software 
+solution use.  
+Theoretical Contributions  
+I applied van Knippenberg’s (2017) knowledge integration  / team climate model 
+of team innovation in my research . My study results provide supporting evidence for the 
+proposed moderated mediation effect of  functional background diversity – as an   72 
+ informational resource  – on team innovation through information elaboration that is 
+conditional on shared vision as one key factor of the broader team climate  construct . 
+Most notably, b y integrat ing the team climate and knowledge integration perspectives 
+and combining it with the notion of boundary spanning, I offer a rich and novel 
+investigati on of  the role of boundary spanning  for idea implementation  in customer 
+engagement teams . My study contributes to the diversity and information elaboration 
+theor ies and research by revealing that in the information elaboration process , we need to 
+account for the moderating role of boundary spanning and shared vision for functional 
+diversity effects on team innovation. My research findings are consistent with significant  
+reviews (e.g., van Knippenberg, 2017) and meta -analyses (van Dijk et al., 2012) in 
+suggesting that functional diversity can have positive and negative effects on team 
+innovation . Specific moderating influences are required to unlock the potential of 
+funct ional diversity. Both boundary spanning and shared vision are such moderators . My 
+study provides evidence that functional diversity positively affects  team innovation 
+through information elaboration in teams with a shared vision  of their work . 
+When team  members lack a shared vision for their work , then the categorization 
+process prevails over information elaboration. In such a situation, f unctional diversity 
+negatively affect s teamwork , defined as sharing , discussi ng, and integrating  task-relevant 
+inform ation (van Knippenberg et al., 2004) . By contrast,  when team members share a 
+common, higher -order goal within the team , information elaboration becomes dominant 
+so that cross -functional teams create synergies from the different perspectives and 
+integrate their knowledge , which then engenders innovative outcomes.  This finding is 
+consistent with  Somech and Drach -Zahavy (2013) and  Pearce and Ensley (2004) , who   73 
+ arrived at similar conclusions for primary care teams and product and process innovation 
+teams , respectively . These find ings provide answers to my first research question  
+explaining how and under what conditions teams are more likely to benefit from diverse 
+informational resources in pursuing innovation challenges .  
+Focusing  on the company experiment , I explored the impact of functional 
+background diversity on team innovation as impacted by the boundary -spanning 
+treatment , providing evidence that functional diversity is positively related to team 
+innovation . This relationship is stronger for teams that practice boundary spanning. I also 
+provide evidence of an interaction in which boundary spanning moderates the functional 
+diversity -information elaboration relationship, impacting  team innovation . However,  in 
+contrast to my prediction , I found a negative moderation effect.  While several studies 
+(e.g., Somech & K halaili, 2014) found negative effects of specific forms of boundary 
+spanning, in the vein of  buffering or boundary -tightening activities, this must not be 
+confused w ith the evidence I found . In teams that practice boundary spanning , I found 
+evidence that information elaboration is less driven by the team's functional background 
+diversity . The treatment reduce d the informational effect of functional diversity  and 
+boundary spanning substitute d for information elaboration.  Althou gh Hypot hesis 2 and 3 
+were not supported because of the negative moderation effect, it seems that the boundary 
+spanning effect is presumably more expressed in the quality of information elaboration 
+than in quantity . This explanation  is consistent with the theory  and other empirical 
+evidence . For example, Somech and Khalaili (2014) found a positive relationship 
+between team functional heterogeneity and team innovation mediated through boundary -
+spanning activit ies, indicating  that boundary spanning , speci fically the task -coordination   74 
+ activities , can substitute for information elaboration  as a key process for knowledge 
+integration . My supplementary analysis  further  provides evidence that boundary spanning 
+brings in information about the customer , focuse s on the customer , and influences  what 
+the team elaborates . However, as shown with the support of Hypothesis 1 , teams that 
+practice boundary spanning can also develop and implement innovative solutions with 
+their clients without extensive information elaboration in the form of detailed discussions 
+of perspectives . This is consistent with Sung and Choi 's (2012) research an d Nadkarni 
+and Narayanan (2007) , who specifically point  out that  team s build on past experiences 
+and procedures that are known to be working . Since most of the teams in my sample 
+worked on incremental innovation s with available best practices instead of  radical or 
+disruptive innovation s, this finding is consistent with the broader body of knowledge  
+(Alexander & van Knippenberg, 2014) . Interestingly  and in contrast to the boundary 
+spanning interaction effect , the shared vision did not significantly interact with functional 
+diversity to create a  stronger relationship with team innovation (Hypo thesis 4) . While  a 
+shared vision and focus should help to mobilize functional diversity resulting in increased 
+team innovation (Fay et al., 2006 ), it emphasizes the role of information elaboration as a 
+key team process that enables teams to leverage their informational resources to drive 
+innovation . Specifically  in more complex  service engagements with technology providers 
+that require business and IT alignment (Hoever  et al., 2012 ; Sabherwal et  al., 2001 ). 
+However, it is also possible that I have  a restriction of range in functional diversity and 
+shared vision  in my sample  teams. M eaning that all teams have enough of an 
+understand ing of what they are supposed to do together  and that the variation of a shared 
+vision between teams is within a restricted range of relatively high levels . Given that my   75 
+ sample teams  are customer -facing and given the quality of people on the teams , I do not 
+have team s with no shared vision . Therefore , I compare relatively speaking rather 
+moderate  to high levels of shared vision , and because of this, it may suppress effects that 
+exist.  Similarly, my study departs from many empirical studies of diversity that include 
+completely homo geneous teams  and are often restricted because  the included  teams are 
+not very diverse . On the contrary, t he teams in my data set are at the higher end of 
+functional diversity , with almost none being homogeneous in functional background s 
+within the team.  Therefore, it is possible that some of these limitations in range suppress 
+the theoretically expected  effects.  This phenomenon also needs to be considered when 
+interpreting the three -way interaction effect.  Although I found a positive significant 
+three -way interaction effect, this analy sis relies on the less frequent occurrence of low 
+shared vision in the treatment group even when treatment tends to increase shared vision , 
+pointing  to potential unmeasured covarying variables . On the contrary, the treatment -
+centric analysis of the serial mediation through a shared vision and information 
+elaboration with functional diversity as second -stage moderator is more robust . It 
+provides novel insight that  boundary spanning (via ambassadorial activities) increase s 
+shared vision.  Whereas my focal analysis  suggested that boundary spanning team s make 
+less use of informational resources from the functional diversity in information 
+elaboration, my supplementary analysis and qualitative insight suggest that boundary 
+spanning creates a focus on the client through a shared vision and  increases information 
+elaboration.  This insight also links to the related research on cooperative goals and shared 
+identity  that highlights the importance of teamwork , focusing  on shared goals  as a 
+requirement  for team s to be innovative (van Knippenberg, 2017).  Hülsheger and   76 
+ colleagues  (2009) , to that point, provide meta -analytic evidence for the positive influence 
+of team cohesion and goal interdependence  on team innovation.  Tjosvold , Tang, and 
+West  (2004) show that team innovation benefits from cooperative goals mediated through 
+team reflexivity.  
+Beyond previous research focused  on a shared vision and goals (e.g., Lisak et al. , 
+2016 ), the notion of team reflexivity also , in a way similar to boun dary spanning, 
+connects to the notion of design thinking , which  helps to focus on the user ’s needs and 
+bring s in the user perspective  to iteratively  ideate and implement solutions that address 
+critical  business issues  (Cousins, 2018; Venkatesh et al., 2012 ). I have theorized and 
+empirically validated a model of how the relationship between functional diversity and 
+team innovation is moderated by boundary spanning , addressi ng my second research 
+question. Here m y contribution is the finding that illustrate s how boundary spanning 
+enhances team innovation for cross -functional customer engagement teams . 
+Managerial Implications  
+Most notably, s upport for my research model suggest s that technology providers 
+in particular , or organizations in general , benefit from boundary -spanning team activities 
+and cross -functional team setups  to drive customer innovation . As evidenced by the field 
+experiment results , the boundary -spanning treatment had a significant pos itive effect on 
+team innovation as measure d by customer solution usage and on information elaboration 
+within the team and the team ’s shared vision . These  are critical for teams to leverage 
+diverse insight s and perspectives in achieving business outcomes for their customer s. 
+Driving customer success when many organizations struggle with their digital 
+transformation initiatives is critical for both the client’s sustained competitive advantage   77 
+ in the indus try and the technology provider's ability  to retain customers  and maintain 
+profitable recurring revenue streams.  In the company experiment , it was found that 
+customers in the treatment group ach ieved on average 12% higher usage of their software 
+solutions  during the measurement period , and customers with increasing usage rates  show 
+14% in revenue growth . In contrast,  customers with stable or declining utilization show 
+no revenue growth. Based on this experime ntal evidence, the company i ncreases  its 
+investments in customer success  and boundary -spanning team roles  to drive customer 
+lifetime value.  
+Furthermore, the vast academic debate of research design s with mediation models 
+show s that such models are efficient  because of the intended causal relationships  
+providing step-by-step guidance for crucial  factors and focus areas in the process to 
+achieve the desired outcomes  (e.g., Harve y et al., 2019) . In that sense , functional 
+background diversity should be considered a  critical factor for team composition when 
+creating account teams . It is one of the primary sources of knowledge, information, 
+expertise, and perspectives that help teams develop  innovative ideas and overcome 
+implementation challenges. Leaders  and executive s should consider investments in 
+boundary -spanning to facilitate knowledge integration and leverage the team's diverse 
+perspectives and expertise  to benefit  the customer. Knowledge integration in the form of 
+information elaboration in cross -functional teams is an essential step in the team 
+innovation process  recommended as a focus area for leaders . Depending on the context, 
+boundary spanners can take on an orchestration role for the transformation  effort and 
+increase the overall chances for  success.  In that vein, companies should also train their 
+account teams for joint success planning and create a shared vision since the idea of a   78 
+ valued outcome represents a substantial  motivating force at work. It is critical that the 
+work is personally important to team members and that all members  believe in their 
+work's purpose . Although it  is undoubted ly intuitive and straightforward t hat teams 
+should have motivating goals, my supplementary analysis shows that boundary spanning , 
+specifically through ambassadorial activities, positively affects  the team's shared vision. 
+It also creates a client focus in information elaboration . By considering all these benefits 
+together , executives  and leaders have a strong case to invest in boundary -spanning  for 
+teams  pursuing  innovation challenges . 
+Finally, I found a significant three -way interaction effect of boundary spanning, 
+functional diversity , and shared vision . Although  there is a risk of unmeasured variables 
+that covary  in the three -way analysis  (specifically because low shared vision is rare in the 
+treatment group ), it is valuable to note for executives  that not only is it worth investing in 
+these factors  in isolation , but the y should be developed in combination  to create high ly 
+innovative work teams . In summary, on their relentless mission to develop the perfect 
+team, executives and team leaders should put boundary spanning on the agenda  in order 
+to achieve new levels of customer -centricity  and facilitate innovation management in 
+cross -functional groups . 
+Limitations and Future Research  
+In contrast to  prior team innovation studies, which mostly analyzed teams with 
+perceptual outcome measures, I analyze d cross -functional customer engagement teams 
+with an objective measure of  team innovation  by evaluating customer usage  as the 
+ultimate measure of innovation success . While this addressed some limitations of 
+previous research, my research suffers from its own shortcomings , which I elaborate on   79 
+ in the following sections . First, the company field experiment was not without 
+challenges . For example , a few customers reject ed the treatment , and the COVID -19 
+crisis emerg ed in the middle of the experiment . However, despite the boundary -spanning 
+treatment work ing out very well, functional background diversity  relied on natural 
+variation given the quasi -experimental desig n. Therefore, I do not know to what extent 
+other team characteristics  that covary with functional diversity  cause its effect . Ideally, 
+future research would manipulate functional background diversity  to reduce the potential 
+for alternative interpretations . 
+Second, my survey measure of information elaboration captur ed how much teams 
+elaborate but does not provid e insights into their elaborat ion content . While in my context 
+boundary spanning is presumabl y more about what is important for the client,  for some 
+interpretations , I am relying on the unmeasured variable of the content of elaboration . 
+Therefore, future research would ideally provide mo re info rmation  about team 
+information elaboration quality and content to substantiate my interpretations further . 
+Such an analysis would also benefit from a broader perspective on different types of 
+informational resources. For example, studying  social network diversity ( e.g., Hirst, van 
+Knippenberg, Zhou, Quintane, & Zhu, 2015 ; Reagans & Zuckerman, 2001 ) and potential 
+interdependencies of functional diversity and network diversity  where, at least in the 
+context of customer engagement teams, one may argue that increased functional diversity 
+leads to increased network diversity . Like functional background diversity, team 
+networks are considered  critical informational resources that  help teams drive innovative 
+outcomes if leveraged in the right way  (Balkundi & Harrison, 2006 ; van Knippenberg, 
+2017). The notion of increased diversity lead ing to an increased performance also raises   80 
+ the question for a more nuanced analysis of the effects of diversity by , for example , 
+looking at the effects of adding specific functional backgrounds to the team ( van 
+Knippenberg, Dawson, West, & Homan, 2010 ) and better u nderstand ing potential 
+curvilinear relationships where diversity is potentially only better up to a specific point  
+(e.g., Tzabbar & Vestal, 20 15). 
+Third , I only partially cover the two main themes of knowledge integration and 
+team climate in the broad field of team innovation research (van Knippenberg, 2017) . 
+Analyzing the effect s of further factors of the team climate inventory ( Anderson & West, 
+1998 ), such as psychological safety (Edmondson, 2003; Harvey et al., 2019) , would 
+provide a more comprehensive  view on how the use of informational resources in the 
+team process of information elaboration can be stimulated. In that regard , the team 
+creativity and innovation body of knowledge would also benefi t from further 
+consolidation of potentially overlapping constructs . This includes elements of the  team 
+climate inventory, such as participative safety , which is related to psychological safety4 
+and trust, or shared vision that is related to cooperative goals and shared iden tity (e.g., 
+Tjosvold et al., 2004) . For example, van Knippenberg and Hoever (in press)  also address 
+the latest developments and importance of  team leadership in their literature review . 
+Especially for customer engagement teams working with clients on strategic digital 
+transformation initiatives , it would be fascina ting to understand better  how leadership can 
+impact team innovation by motivat ing knowledge integration. D’Innocenzo, Mathieu, and 
+ 
+4 I also measured psychologica l safety which is defined  as shared belief that the team is safe for 
+interpersonal risk taking  (Harvey et al., 2019) but I had the measurement problem that it overlap ped with 
+information elaboration. Since I was more interested in the team process of information elaboration which 
+is more  to the point of what is actually done in the team (vs. the individual feeling or perception of how  
+freely one can contribute) , I drop ped psychological safety from my analysis .   81 
+ Kukenberger (2016) provide meta -analytic evidence for a positive relationship between 
+shared leadership and team performance.  Kukenberger and D’Innocenzo ’s (2020) 
+research shows that shared leadership benefits from functional diversity when teams 
+operate in a cooperative climate  and consider the team dynamics over time . Li, She, and 
+Yang (2018) furthermore found that innovation benefits from the diversity of expertise 
+through perspective -taking and that this relationship is moderated by paradoxical 
+leadership.  Additionally, Zacher and Rosing (2015) show in their research that 
+ambidextrous leadership with stimulat ion for  divergence and  convergence has a positive 
+effect on team innovation . 
+Lastly, g iven the specific nature of customer engagement s and my U.S.-based 
+sample , my findings may be generalizable only to such teams involved in projects  driving 
+customer success with enterprise software solutions considering the specific cultural 
+norms across North America . 
+Conclusion  
+The results of my research, withstanding some limitations, provide a detailed 
+understanding of the role of boundary spanning for team innovation and emphasize the 
+importance of shared vision  and the information elaboration process in  cross -functional 
+teams . My study advances information elaboration theory and shows that the relationship 
+between functional diversity and team innovation is mediated by information elaboration 
+and is contingent on a shared vision and boundary spanning . I found that team innovation 
+benefit s from functional diversity and boundary spanning only in teams with a relatively 
+high shared vision . While functional diversity and boundary spanning can increase 
+information elaboration , boundary spanning can also substitute for information   82 
+ elaboration and not only affects how much teams elaborate but also about what they 
+elaborate , meaning  what is vital for the client . By bringing in information about the client 
+and focusing on the customer perspective, boundary spanning leads to  better use of 
+functional diversity  that directly feeds into client usage . My research provides 
+experimental evidence  that boundary -spanning team activities foster knowledge 
+integration and enhance team innovation . Technology providers seek ing to enhance 
+customer team innovation  should  create teams with divers e functional backgrounds and 
+focus  on boundary -spanning activities  since that not only puts the customer in the center 
+of all team activities but also enhances the shared higher -order goals of the team  to 
+deliver for their clients . For customer engagement teams  to benefit  from informational 
+resources in general and functional background diversity of team members in particular, 
+they need to integrate diverse information and invest in boundary spanning and a shared 
+commitment to common goals  since these factors enhance each other’s effect on team 
+innovation . Therefore, my findings contribute actionable insight into how to enable cross -
+functional engagement teams to drive customer success appropriately .    83 
+ REFERENCES  
+Aiken, L.  S., & West, S.  G. 1991. Multiple regression: Testing and interpreting 
+interactions . Newbury Park, CA: Sage.  
+Alegr e, J., Sengupta, K., & Lapiedra, R. 2011. Knowledge management and innovation 
+performance in a high -tech SMEs industry. International Small Business Journal , 
+31(4): 454 –470. 
+Alexander , L., & van Knippenberg, D. 201 4. Teams in Pursuit of Radical Innovation: A 
+Goal Orientation Perspective . Academy of Management Review , 39(4) : 423–438. 
+Ancona D.  G., & Caldwell D.  F. 1992. Bridging the boundary: external activity and 
+performance in organizational teams. Administrative Science Quarterly , 37: 634–665. 
+Andre eva, T., & Kianto, A. 2012. Does knowledge management really matter? Linking 
+knowledge management practices, competitiveness and economic  performance . Journal 
+of Knowledge Management , 16(4): 617 –636. 
+Anderson N., Potocnik K., Zhou J. 2014. Innovation and creativity in organizations: a 
+state-of-the-science review, prospective commentary, and guiding fra mework. Journal of  
+Manag ement , 40: 1297 –1333. 
+Anderson, N. , & West, M.  A. 1998. Team climate inventory: development of the TCI and 
+its applications in team building for innovativeness. European Journal of Work and 
+Organizational Psychology , 5: 53–66. 
+Argote L., McEvily, B., & Reagans R. 2003. Managing knowledge in organizatio ns: An 
+integrative framework and review of emerging themes. Management Science , 49(4): 
+571–582. 
+Ascarza, E. 2018. Retention Futility: Targeting High -Risk Customers Might be 
+Ineffective. Journal of Marketing Research , 55(1): 80 –98. 
+Ascarza, E., Iyengar, R.,  & Schleicher, M. 2016. The Perils of Proactive Churn 
+Prevention Using Plan Recommendations: Evidence from a Field Experiment. Journal of 
+Marketing Research , 53(1): 46 –60. 
+Baer, M. 2010. The strength -of-weak -ties perspective on creativity: A comprehensive 
+examination and extension. Journal of Applied Psychology , 95(3): 592 –601. 
+Bain, P. G., Mann, L., & Pirola -Merlo, A. 2001. The innovation imperative: The 
+relationship between team climate, innovation, and performance. Small Group Research , 
+32(1): 55–73. 
+Balkundi, P., & Harrison, D.  A. 2006. Ties, Leaders, and Time in Teams: Strong 
+Inference about Network Structure's Effects on Team Viability and Performance. The 
+Academy of Management Journal , 49(1): 49 –68.   84 
+ Bantel, K., & Jackson, S. E. 1989. Top management and innovations in banking: Does 
+the composition of top team make a difference? Strategic Management Journal , 10:107 –
+124. 
+Barczak  G., Griffin A., Kahn, K.  B. 2009.  Trends and drivers of success in NPD 
+practices. Journal of  Prod uct Innov ation  Manag ement , 26: 3–23. 
+Bell, S.  T. 2007. Deep -level composition variables as predictors of team performance: A 
+meta -analysis. Journal of Applied Psychology , 92: 595 –615. 
+Bell, S.  T., Villado, A.  J., Lukasik, M.  A., Belau, L., & Briggs, A.  L. 2011. Getting 
+specific about demographic diver sity variable and team performance relationship. 
+Journal of Management , 37: 709–743. 
+Biemann, K. & Kearney, E. 2010. Size Does Matter: How Varying Group Sizes in a 
+Sample Affect the Most Common Measures of Group Diversity. Organizational 
+Research Methods , 13(3) : 582–599. 
+Bodla, A.  A., Tang, N., Wan, J., & Tian, L. 2018. Diversity and creativity in cross -
+national teams:  The role of team knowledge sharing and inclusive climate. Journal of 
+Management & Organization , 24: 711 –729. 
+Brynjolfsson, E., Hofmann, P., & Jordan, J. 2010. Cloud computing and electricity: 
+beyond the utility model, Communication of the ACM , 53(5): 32 –34. 
+Bunderson, J.  S., & Sutcliffe, K.  M. 2003. Management Team Learning Orientation and 
+Business Unit Performance. Journal of Applied Psychology , 88(3): 552 –560. 
+Casciaro, E. , Edmondson , A. C., & Jang, S.  2019. Cross -Silo Leadership. Harvard 
+Business Review , May:1–. 
+Chandler, D. E. & Thomas, J.  L. 2015. Does Executive Sponsorship Matter for Realizing 
+Project Management Value? Project Management Journal , 46(5) : 46–61. 
+Chen, G., Farh, J.  L., Campbell -Bush, E.  M., Wu , Z., & Wu, X. 2013. Teams as 
+innovative systems: multilevel motivational  antecedents of innovation in R&D teams. 
+Journal of Applied Psychology , 98: 1018 –1027. 
+Cheung, S. Y., Gong, Y., Wang, M., Zhou, L., & Shi, J. 2016. When and how does 
+functional diversity influence team innovation? The mediating role of knowledge sharing 
+and the moderating role of affect -based trust in a team. Human Relations , 69: 1507 –
+1531.  
+Cohen, J., Cohen, P., West, S.  G., & Aiken, L.  S. 2003. Applied multiple 
+regression/correlation analysis for the behavioral sciences  (3rd ed.). Mahwah, NJ: 
+Lawrence Erlbaum Associates.  
+Cousins, B. 2018. DESIGN THINKING: ORGANIZATIONAL LEARNING IN VUCA 
+ENVIRONMENTS. Academy of Strategic Management Journal , 17(2): 1 –18.   85 
+ Cummings, J. N. 2004. Work groups, structural diversity, and knowledge sharing in a 
+global organization. Management Scien ce, 50: 352–364. 
+Cusumano, M. A., Gawer, A., & Yoffie, D. B. 2019. The Business of Platforms: 
+Strategy in the Age of Digital Competition, Innovation, and Power . New York: Harper 
+Business . 
+Dawson, J.  F. 2003. Do we have enough? The accuracy of incomplete data from small 
+groups.  Best paper proceedings of the Academy of Management, Seattle, WA.  
+D’Innocenzo, L., Mathieu, J.  E., & Kukenberger, M.  R. 2016. A Meta -Analysis of 
+Different Forms of Shared Leadership – Team Performance Relations. Journal of 
+Management , 42(7): 1964 –1991.  
+Drach -Zahavy, A., & Somech, A. 2010. From an intrateam to an interteam perspective of 
+effectiveness: The role of interdependence and boundary activities. Small Group 
+Research , 41: 143–174. 
+Drach -Zahavy A., & Somech , A. 2001. Understanding team innovation: the role of team 
+processes and structures. Group Dynam ics, 5: 111–134. 
+Drucker, P. F. 2002.  The Discipline of Innovation. Harvard Business Review , 80(8): 95–
+100. 
+Edmondson, A.  C. 2003. Speaking up in the operating room: How team leaders promote 
+learning in interdisciplinary action teams. Journal of Management Studies , 40: 1419 –
+1452.  
+Edmondson, A.  C., & Harvey, J.  F. 201 8. Cross -boundary teaming for innovation: 
+Integrating resear ch on teams and knowledge in organizations. Human Resource 
+Management Review , 28(4): 347 –360. 
+Edmondson , A. C.,  & Lei, Z. 2014.  Psychological safety: the history, renaissance, and 
+future of an interpersonal construct. Annual review of organizational psychology and 
+organizational behavior , 1(1): 23 -43. 
+Eisenbeiss, S.  A., van Knippenberg, D., & Boerner, S. 2008. Transformational lead ership 
+and team innovation: integrating transformational leadership and team climate models. 
+Journal of Applied Psychology , 93: 1438 –1446. 
+Ejelöv , E., & Luke,  T. J. 2020. Rarely safe to assume: Evaluating the use and 
+interpretation of manipulation checks in experimental social psychology,  Journal of 
+Experimental Social  Psychology , 87: 103937 –. 
+Faraj, S., & Yan, A. 2009. Boundary Work in Knowledge Teams. Journal of Applied 
+Psychology , 94(3): 604 –617. 
+Fay, D., Borrill , C., Amir , Z., Haward , R., & West , M. A. 2006. Getting the most out of 
+multidisciplinary teams: a multi -sample study of team innovation in health care. Journal 
+of Occupational and Organizational Psychology , 79(4):  553–567.   86 
+ Forth, P., Reichert, T., de Laubier, R., & Chakraborty, S. 2020. Flipping the Odds of 
+Digital Transformation Success . Boston Consulting Group. 
+https: //www.bcg.com/publications/2020/increasing -odds -of-success -in-digital -
+transformation  
+Gawer , A., & Cusumano,  M. A. 2014 . Industry Platforms and Ecosystem Innovation. 
+Journal of Product Innovation Management , 31: 417–433. 
+Gong, Y., Kim, T.  Y., Lee, D.  G., & Zhu, J. 2013. A multilevel model of team goal 
+orientation, information exchange, and creativity. Academy Management Journal , 56: 
+827–851. 
+Gonzalez‐Mulé, E., Cockburn, B. S., McCormick, B. W., & Zhao, P.  2019. Team tenure 
+and team performance: A meta‐analysis and process model. Personnel Psychology , 
+73(1): 151 –198. 
+Gruber,  M., de Leon, N., George, G., & Thompson , P. 2015. Manag ing by Design. 
+Academy of Management Journal , 58(1): 1 –7. 
+Haas, M.  R. 2010. The double -edged swords of autonomy and external knowledge: 
+Analyzing team effectiveness in a multi -national organization. Academy of Management 
+Journal , 53: 989 –1008.  
+Hadden, J., Tiwari, A., Roy, R., & Ruta, D. 2007. Computer assisted customer ch urn 
+management: State -of-the-art and future trends, Computers and Operations Research , 
+34(10): 2902 –2917.  
+Harvey, J., Johnson, K. J., Roloff, K. S., & Edmondson , A. C. 2019 . From orientation to 
+behavior: The interplay between learning orientation, open -mindedness, and 
+psychological safety in team learning. Human Relations , 72(11): 1726 –1751.  
+Hayes, A.  F. 2018 a. Introduction to mediation, moderation, and conditional process 
+analysis: a regression -based approach  (Second edition). The Guilford Press.  
+Hayes, A.  F. 2018b. Partial, conditional, and moderated moderated  mediation: 
+Quantification, inference, and  interpretation . Communication Monographs , 85(1): 4–40. 
+Henderson, J.  C., & Venkatraman, N.  1993. Strategic alignment: Leveraging  information 
+technology for transforming organizations. IBM Systems  Journal , 32(1): 472–484. 
+Hirst, G., van Knippenberg, D., Zhou, J., Quintane, E., & Zhu, C. 2015. Heard it through 
+the grapevine: Indirect networks and employee creativity. Journal of Applied 
+Psychology , 100(2): 567 –574. 
+Hoever, I.  J., Zhou, J., & van Knippenberg, D. 2018. Different strokes fo r different 
+teams: The contingent effects of positive and negative feedback on the creativity of 
+informationally homogeneous and diverse teams. Academy of Management Journal , 61: 
+2159 –2181.    87 
+ Hoeve r, I. J., van Knippenberg, D., van Ginkel, W. P., & Barkema, H. G. 2012. Fostering 
+Team Creativity: Perspective Taking as Key to Unlocking Diversity’s Potential. Journal 
+of Applied Psychology , 97(5): 982 –996. 
+Hülsheger , U. R., Anderson , N., & Salgado , J. F. 2009. Team -level predictors of 
+innovation at work: a comprehensive meta -analysis spanning three decades of research. 
+Journal of Applied Psychology , 94: 1128 –1145. 
+Kivim äki, M., &  Elovainio , M. 1999 . A short version of the Team Climate Inventory: 
+Development and psychometric properties. Journal of occupational and organizational 
+psychology , 72(2): 241 –246. 
+Klein, K.  J., Griffin, M.  A., Bliese, P.  D., Hofmann, D.  A., Kozlowski, A.  W. J., James, 
+L. R., … Bligh, M.  C. 2000. Multilevel analytical techniques: Commonalities, 
+differences, and continuing questions. In K.  J. Klein & S.  W. J. Kozlowski (Eds.), 
+Multilevel Theory, Research , and Methods in Organizations: Foundations, Extensions, 
+and New Directions  (pp. 513 -553). San Francisco: Jossey -Bass.  
+Kleinbaum, A.  M., & Tushman, M.  L. 2007, Building bridges: the social structure of 
+interdependent innovation. Strat egic Entrepreneurship J ournal , 1: 103 –122. 
+Kline, R.  B. 2005. Principles and Practice of Structural Equation Modeling . Second 
+Edition. New York: Guil ford Press.  
+Kozlowski , S. W., & Bell, B. S. 2003. Work groups and teams in organizations. In 
+Handbook of Psychology: Industrial and Organizational Psychology , ed. W . C. 
+Borman, D.  R. Ilgen, R.  J. Klimoski, pp. 333 –375. London:  Wiley.  
+Kozlowski, S.  W., Gully, S.  M., Nason, E.  R., & Smith, E.  M. 1999. Developing adaptive 
+teams: A theory of compilation and performance across levels and time. In D. R. Ilgen & 
+E. D. Pulakos ( Eds.), The changing nature of performance: Implications for staffing, 
+motivation, and development  (pp. 240 –292). San Francisco, CA: Jossey -Bass.  
+Kukenberger, M . R., & D'Innocenzo, L. 2020. The building blocks of shared leadership: 
+The interactive effects of diversity types, team climate, and time. Personnel Psychology , 
+73: 125–150. 
+Kumar, V., & Reinartz, W. 2016. Creating Enduring Customer Value. Journal of 
+Marketing , 80(6): 36 –68. 
+Lah, E.  T., Nanus, P., & Stegman, J. 2017. Helping Customers Succeed – Three Distinct 
+Plays . TSIA . https://www.tsia.com/resources/helping -customers -succeed -three -distinct -
+plays  
+LeBreton, S. , & Senter J.  L. 2008. Answers to 20 Questions About Interrater Reliabilit y 
+and Interrater Agreement. Organizational Research Methods , 11(4) : 815–852.   88 
+ Leifer , R., McDermott , C. M., O’Connor , G. C., Peters , L. S., Rice , M., & Veryzer , R. 
+2000. Radical Innovation: How  Mature Companies Can Outsmart Upstarts . Boston: 
+HBS Press . 
+Li, Q., She, Z., & Yang, B. 2018. Promoting innovative performance in multidisciplinary 
+teams: The roles of paradoxical leadership and team perspective taking. Frontiers in 
+Psychology , 9: 1 –10. 
+Lisak, A., Erez, M., Sui, Y., & Lee, C. 2016. The positive role of global leaders in 
+enhancing multicultural team innovation. Journal of International Business Studies , 47: 
+655–673. 
+Lucas, H.  C., Swanson, E.  B., Zmud , R. W. 2007. Implementation, Innovation , and 
+Related Themes Over the Years in Information Systems Research.  Journal of the 
+Association for Information Systems , 8(4): 206 –210. 
+Lyubovnikova, J., West, H.  R., Dawson, J.  F., & West, M.  A. 2018. Examining the 
+indirect effects of perceived organizational support for teamwork training on acute health 
+care team productivity and innovation: The role of shared objectives. Group & 
+Organization Management , 43: 382 –413. 
+MacKinnon, D. P., Lockwood , C. M., & Williams, J. 2004. Confidence limits for the 
+indirect effect: Distribution of the product and resampling methods. Multivariate 
+Behavioral Research , 39: 99–128. 
+March, J.  G. 1991. Exploration and exploitation in organizational learning. 
+Organizational Science , 2: 71–87. 
+Marks, M.  A., DeChurch, L.  A., Mathieu, J.  E., Panzer, F.  J., & Alonso, A. 2005. 
+Teamwork in multiteam systems. Journal of Applied Psychology , 90: 964–971. 
+Mathieu, J. E., Hollenbeck, J. R., van Knippenberg, D., & Ilgen, D. R. 2017. A century of 
+work groups in the Journal of Applied Psychology. Journal of Applied Psychology , 102 : 
+452–467. 
+Mathieu , J., Maynard , M. T., Rapp , T., & Gilson , L. 2008. Team Effectiveness 1997 -
+2007: A Review of Recent Advancements and a Glimpse into the Future. Journal of 
+Management . 34(3): 410 –476. 
+Mathieu, J.  E., Tannenbaum, S.  I., Donsbach, J.  S., & Alliger, G.  M. 2014. A Review and 
+Integration of Team Composition Models: Moving Toward a Dynamic and Temporal 
+Framework. Journal of Management , 40(1): 130 –160. 
+McKinsey . 2018.  Unlocking success in digital transformations . McKinsey.  
+https://www.mckinsey.com/business -functions/organization/our -insights/unlocking -
+success -in-digital -transformations    89 
+ Mehta, N., & Pickens, A.  2020 . The customer success economy: why every aspect of 
+your business model needs a paradigm shift . Hoboken, NJ: John Wiley and Sons, Inc.  
+Micheli, P., Wilner, S.  J. S., Bhatti, S.  H., Mura, M., & Beverland, M.B. 2019. Doing 
+Design Thinking: Conceptual Review, Synthesis, and  Research Agenda. Journal of 
+Prod uct Innov ation  Manag ement , 36: 124 –148. 
+Miron -Spektor , E., Erez , M., & Naveh , E. 2011. The Effect of Conformist and Attentive -
+To-Detail Members on Team Innovation: Reconciling the Innovation Paradox. Academy 
+of Management Journal , 54(4) : 740–760. 
+Mitchell , R., & Boyle , B. 2015. Professional diversity, identity salience and team 
+innovation: the moderating role of open -mindedness norms. Journal of Organizational 
+Behavior , 36(6): 873 –894. 
+Moser, K.  S., Dawson, J.  F., & West, M.  A. 2019. Antecedents of team innovation in 
+health care teams. Creativity & Innovation Management , 28: 72 –81. 
+Nadkarni, S., & Narayanan, V.  K. 2007. The evolution of collective strategy frames in 
+high and low velocity environments. Organization Science , 18: 688 –710. 
+Neslin, S.  A., Gupta, S., Kamakura, W., Lu, J., & Mason, C.  H. 2006. Defection 
+Detection: Measuring and Understanding the Predictive Accuracy of Customer Churn 
+Models. Journal of Marketing Research , 43(2): 204 –211. 
+Pearce , C. L., & Ensley , M. D. 2004. A reciprocal and longitudinal investigation of the 
+innovation process: the central role of shared vision in product and process innovation 
+teams (PPITs). Journal of Organizational Behavior , 25: 259–278. 
+Peltokorpi , V., & Hasu , M. 2014 . How participative safety matters more in team 
+innovation as team size increases. Journal of Business Psychology , 29: 37 –45. 
+Plattner , H., Meinel , C., & Leifer , L. 2011. Design thinking: understand - improve - 
+apply , Berlin : Springer . 
+Qu, X., & Liu, X. 201 7. Informational faultlines, integrative capability, and team 
+creativity. Group & Organization Management , 42: 767–791. 
+Reagans, R., & Zuckerman, E. 2001. Network, diversity and performance: The social 
+capital of R&D units. Organization Science , 12: 502 –517. 
+Reichheld , F. F., &  Schefter , P. 2000. The Economics of E -Loyalty . Harvard. 
+https://hbswk.hbs.edu/archive/the -economics -of-e-loyalty  
+   90 
+ Resick, C.  J., Murase, T., Randall, K.  R., & DeChurch, L.  A. 2014. Information 
+elaboration and team performance: Examining the psychological origins and 
+environmental contingencies. Organizational Behavior and Human Decision Processes , 
+124(2): 165 –176. 
+Retana, G.  F., Forman, C., Narasimhan, S., Niculescu, M.  F., & Wu, D.  J. 2018, 
+Technology Support and Post -Adoption IT Service Use: Evidence from the Cloud. MIS 
+Quarterly , 42(3): 961 –978. 
+Reynolds, P., & Yetton, P. 2015. Aligning business and IT strategies in multi -business 
+organizations. Journal of Information Tech nology , 30: 101 –118. 
+Richter, A.  W., West, M., van Dick, R., & Dawson, J. F. 2006. Boundary spanners’ 
+identification, intergroup contact and effective intergroup relations. Academy of 
+Management Journal , 49: 1252 –1269.  
+Rousseau, V., Aubé, C., &  Tremblay , S. 2013.  Team coaching and innovat ion in work 
+teams: An examination of the motivational and behavioral intervening mechanisms. 
+Leadership & Organization Development Journal , 34(4): 344 –364. 
+Sabherwal, R., Hirschheim, R., & Goles T. 2001. The Dynamics of Alignment: Insights 
+from a Punctuated Equilibrium Model. Organization Science , 12(2): 179 –197. 
+Schneider , B., &  Reichers , A. E. 1983 . On the etiology of climates. Personnel 
+Psychology , 36(1): 19–39. 
+Schotter, A.  P. J., Mudambi, R., Doz, Y. L., & Gaur, A. 2017, Boundary Spanning in 
+Global Organizations. Jour nal of Manage ment  Stud ies, 54(4): 403 –421. 
+Seddon, P. B., Calvert, C., & Yang, S. 2010. A Multi -Project Model of Key Factors 
+Affecting Organizational Benefits from Enterprise Systems. MIS Quarterly , 34(2): 305 –
+328. 
+Seidel, V.  P., & Fixson, S.  K. 2013. Adopting Design Thinking in Novice 
+Multidisciplinary Teams. Journal of  Prod uct Innov ation  Manag ement , 30: 19 –33. 
+Shadish, W.  R., Cook, T.  D., & Campbell, D.  T. 2002. Experimental and Quasi‐
+experimental Designs for Generalized Causal Inference . Boston: Houghton Mifflin.  
+Shams, S.  M. R., Vrontis, D., Weber, Y., & Tsoukatos, E. 2018. Business models for 
+strategic innovation: cross -functional perspectives , New York: Routledge, Abingdon, 
+Oxon.  
+Shao, Z., Feng, Y., & Hu, Q . 2017. Effectiveness of top management support in 
+enterprise systems success: a contingency perspective of fit between leadership style and 
+system life -cycle. European Journal of Information Systems , 25(2): 131 –153.   91 
+ Sharma , R., Mithas, S., & Kankan halli A., 2014. Transforming decision -making 
+processes: a research agenda for understanding the impact of business analytics on 
+organisations . European Journal of Information Systems , 23(4): 433–441. 
+Sharma , R., & Yetton  P., 2003. The Contingent Effects of Management Support and Task 
+Interdependence on Successful Information Systems Implementation. MIS Quarterly , 
+27(4): 533 –556. 
+Siebel, T.  M. 2017. Why digital transformation is now on the CEO’s shoulders . 
+McKinsey. https://www.mckinsey.com/business -functions/mckinsey -digital/our -
+insights/why -digital -transformation -is-now-on-the-ceos-shoulders   
+Somech, A., & Drach-Zahavy,  A. 2007. Schools as Team -Based Organizations: A 
+Structure -Process -Outcomes Approach. Group Dynamics , 11(4) : 305–320. 
+Somech , A., &  Drach -Zahavy , A. 2013 . Translating Team Creativity to Innovation 
+Implementation: The Role of Team Composition and Climate for Innovation. Journal of 
+Management , 39(3): 684–708. 
+Somech , A., & Khalaili , A. 2014. Team boundary activity: its mediating role in the 
+relationship betw een structural conditions and team innovation. Group Organizational 
+Management , 39: 274–299. 
+Sung, S.  Y., & Choi, J.  N. 2012. Effects of team knowledge management on the 
+creativity and financial performance of organizational teams. Organizational Behavior 
+and Human Decision Processes , 118: 4 –13. 
+Swanson, E.  B., & Ramiller, N.  C. 1997. The Organizing Vision in Information  Systems 
+Innovation. Organization Science , 8(5):  458–474. 
+Tambe , P., Hitt, L.  M., & Brynjolfsson, E. 2012. The Extroverted Firm: How External 
+Information Practices Affect Innovation and Productivity. Management Science , 58(5): 
+843–859. 
+Thayer, A.  L., Petruzzelli, A., & McClurg, C.  E. 2018. Addressing the paradox of the 
+team innovation process: A review  and practical considerations. The American 
+Psychologist , 73(4): 363 –375. 
+Tjosvold , D., Tang , M. M. L., & West , M. 2004. Reflexivity for team innovation in 
+China: the contribution of goal interdependence. Group Org anizational  Manag ement , 
+29: 540–559. 
+Tortoriello , M.,  & Krackhardt , D. 2010 . Activating Cross -Boundary Knowledge: The 
+Role of Simmelian Ties in the Gener ation of Innovations. Academy of Management 
+Journal , 53(1): 167 –181.   92 
+ Tortoriello, M., Reagans, R., & McEvily, B., 2012. Bridging the Knowledge Gap: The 
+Influence of Strong Ties, Network Cohesion, and Network Range on the Transfer of 
+Knowledge Between Organizational Units. Organization Science , 23(4): 1024 –1039. 
+Tushman, M.  L., & Scanlan, T.  J. 1981. Boundary Spanning Indivi duals: Their Role in 
+Information Transfer and Their Antecedents. Academy of Management Journal , 24(2): 
+289–305. 
+Tzabbar, D., & Vestal , A. 2015. Bridging the Social Chasm in Geographically 
+Distributed R&D Teams: The Moderating Effects of Relational Strength  and Status 
+Asymmetry on the Novelty of Team Innovation. Organization Science , 26(3): 811 –829. 
+van Dijk, H., van Engen, M . L., & van Knippenberg , D. 2012. Defying conventional 
+wisdom: a meta -analytical examination of the differences between demographic and job -
+related diversity relationships with performance.  Organizational Behavior and Human 
+Decision Processes , 119(1): 38–53. 
+van Ginkel, W.  P., & van Knippenberg, D. 2008. Group information elaboration and 
+group decision making: The role of s hared task representations. Organizational Behavior 
+and Human Decision Processes , 105(1): 82 –97. 
+van Knippenberg, D. 2017. Team Innovation. The Annual Reviews of Organizational 
+Psychology and Organizational Behavior , 4: 211–233. 
+van Knippenberg,  D., Dawson, J. F., West, M. A., & Homan, A. C. 2010 . Diversity 
+faultlines, shared objectives, and top management team performance. Human Relations , 
+64(3): 307 –336. 
+van Knippenberg, D., De Dreu, C.  K. W., & Homan, A.  C. 2004 . Work group diversity  
+and group performance: An integrative model and research agenda. Journal of  Applied 
+Psychology , 89(6): 1008 –1022.  
+van Knippenberg, D., & Hoever, I. J. (in press). Team innovation and team creativity. In. 
+J. Zhou & E. Rouse (Eds.), Handbook of research on c reativity and innovation . Edward 
+Elgar.  
+van Knippenberg, D., & Hoever, I. J. 2018. Team Diversity and Team Creativity: A 
+Categorization -Elaboration Perspective. In. R. Reiter -Palmon (Eds.), Team Creativity 
+and Innovation . New York: Oxford University Press.  
+van Knippenberg, D., Nishii, L.  H., & Dwertmann, D.  J. G. 2020. Synergy from 
+diversity: Managing team diversity to enhance performance. Behavioral Science & 
+Policy , 6(1): 75 –92.   93 
+ van Knippenberg, D., van Ginkel, W.  P., & Homan, A.  C. 2013. Diversity mindsets and 
+the performance of diverse teams . Organizational Behavior and Human Decision 
+Processes , 121(2): 183 –193. 
+van Knippenberg, D., van Ginkel, W. P., Stam, D. A., Giessner, S. R., van Balen, T., & 
+Ghorbani, M. 2019. Diversity Mindsets, Gender Dissimilarity, and Individual 
+Performance. Paper presented at the Annual Meeting of the Academy of Management , 
+Boston.  
+van Meerkerk , I., & Edelenbos , J. 2017 . Facilitating conditions for boundary -spanning 
+behaviour in governance networks. Public Management Review , 20(4): 503 –524. 
+Venkat esh, A., Digerfeldt -Mansson, T., Brunel, F. F., & Chen, S. 2012. Design 
+orientation: A grounded theory analysis of design thinking and action. Marketing 
+Theory , 12(3): 289 –309. 
+West , M. A. 1990. The social psychology of innovation in groups. See West & Farr 1990, 
+4–36. 
+West, M.  A. 2002 . Ideas are Ten a Penny: It’s team Implementation not Idea Generation  
+that Counts . Applied Psychology , 51(3): 411–424. 
+West, M.  A., & Farr, J.  L. 1990. Innovation and creativity at work: Psychological and 
+organizational strategies . Chichester, England: Wiley.  
+Witte, E.  H., & Davis, J.  H. 2014. Understanding Group Behavior . New York: 
+Psychology Press.  
+Yahoo!finance . 2020.  Key s tatistics for Hilton Worldwide Holdings Inc.  and Airbnb 
+Inc. Yahoo.  https://finance.yahoo.com/quote/HLT/key -statistics?p=HLT  
+https://finance.yahoo.com/quote/ABNB/key -statistics?p =ABNB  
+Zacher , H., & Rosing , K. 2015. Ambidextrous leadership and team innovation. 
+Leadership & Organization Development Journal , 36: 54–68. 
+Zeitchik, S. 2020. Disney’s profits plummet as coronavirus keeps its core businesses 
+flailing . The Washington  Post. 
+https://www.washingtonpost.com/business/2020/11/12/disneys -profits -plummet -
+coronavirus -keeps -its-core-businesses -flailing   
+Zhang, Y. 2016. Functional diversity and group creativity: The role of group longevity. 
+Journal of Applied Behavioral Science , 52: 97 –123. 
+Zhao, Z., & Anand, J. 2013. Beyond boundary spanners: The ‘collective bridge’ as an 
+efficient interunit structure for transferring collective knowledge. Strategic Management 
+Journal , 34: 1513 –1530.   94 
+ APPENDIX A: Measure s 
+Boundary Spanning  
+I reused the following items from Faraj & Yan (2009, p. 611) to measure boundary 
+spanning:  
+• Encourage its members to try to influence important stakeholders elsewhere in 
+and/or beyond the division on behalf of the team and its work?  
+• Encourage its members to solicit info rmation and resources from elsewhere in 
+and/or beyond the division?  
+• Value team members for making use of their relationships with others on behalf 
+of the team?  
+• Depend upon information and resources actively solicited by team members?  
+Survey respondents wer e asked to indicate their agreement to these items on a 5 -point 
+scale ranging from “strongly disagree” to “strongly agree.”  
+Shared Vision  
+For shared vision , I reused the following measurement items from Anderson & West 
+(1998 , p. 241 ) as defined in their team climate inventory : 
+• How clear are you about what your team ’s objectives are?  
+• To what extent do you think they are useful and appropriate objectives?  
+• How far are you in agreement with these objectives?  
+• To what extent do you think your team's objectives are clearly understood by 
+other members of the team?  
+• To what extent do you think your team's objectives can actually be achieved?  
+• How worthwhile do you think these objectives are to the organization?  
+Team  members were asked to rate each item for their team on a 7-point scale ranging 
+from “not at all” to “completely .”   95 
+ Psychological Safety  
+I measured psychological safety with four items defined by Harvey and colleagues 
+(2019):  
+• In this team, it is easy to speak up about what is on your mind  
+• People in this team are usually comfortable talking about problems and 
+disagreements  
+• People in this team are eager to share information about what does and doesn’t 
+work  
+• If you make a mistake in this team, it is often hel d against you (reverse scored)  
+Each item was rated for the team on a 7 -point scale ranging from “strongly disagree” to 
+“strongly agree.”  
+Information Elaboration  
+I measured information elaboration with six items defined by  van Knippenberg and 
+colleagues  (2019) : “In our team…”  
+• Members complement each other by sharing their knowledge  
+• We discuss alternatives before making decisions  
+• We combine information from different members to gain a better understanding 
+of the task  
+• We combine the input of different members  
+• We consider the implications of the combination of different members’ 
+viewpoints  
+• We exchange different ideas and perspectives on the task  
+As part of the survey , respondents were asked to indicate the ir agreement to these items 
+within their team on a 5-point scale ranging from “strongly disagree” to “strongly agree .” 
+    96 
+ APPENDIX B: Regression Results with out Controls  
+Table B1   Direct and Indirect Effects of Functional Diversity on Team Innovation 
+through Information Elaboration, moderated by Boundary Spanning and Shared 
+Vision  
+  Info. Elaboration   Team Innovation  
+Antecedent  Coeff.  SE p  Coeff.  SE p 
+Constant  -.09 .08 .26  -.14 .07 .05 
+Functional Diversity  .25 .08 <.01  .08 .06 .20 
+Boundary Spanning Treatment  .32 .12 .01  .15 .13 .15 
+Functional Diversity x Treatment  -.38 .15 .01  .32 .04 .01 
+Shared Vision  .47 .06 <.01  .06 .06 .35 
+Functional Diversity x Shared Vision  .36 .04 <.01  .05 .04 .21 
+Team Innovation Baseline  -.08 .05 .15  .85 .04 <.01 
+Information Elaboration  – – –  .12 .07 .09 
+        
+ R2 = .62  R2 = .74 
+ F(6,137) = 37.44, p<.01  F(7,136) = 56.24, p<.01 
+Notes. N  = 144. Values are standardized coefficients.  Control variables are not included.  
+    97 
+ Table B2   Direct and Conditional Effects of Boundary Spanning on Team 
+Innovation through Shared Vision and Information Elaboration, moderated by 
+Functional Diversity  
+ Shared 
+Vision   Information 
+Elaboration   Team 
+Innovation  
+Constant  -.19 (.12)  -.09 (.08)  -.14 (.07)* 
+Boundary Spanning Treatment  .36 (.16)*   .32 (.12)*  .15 (.10) 
+Shared Vision  –  .47 (.06)**  .06 (.06) 
+Functional Diversity  –  .25 (.08) **  .08 (.06) 
+Functional Diversity x Treatment  –  -.38 (.15)*  .32 (.13)*  
+Functional Diversity x Shared Vision  –  .36 (.0 4)**  .05 (.04)  
+Information Elaboration  –  –  .12 (.07)  
+Team Innovation Baseline  -.15 (.08)   -.08 (.05)  .85 (.0 4)** 
+      
+R2 .05*  .62**  .74** 
+F 4.03*  37.44**  56.24** 
+      
+Conditional Effect of Treatment on Information Elaboration at Values of Functional 
+Diversity  
+ Effect ( SE)  95% CI   t 
+Low Functional Diversity ( -1 SD) .59 (.18)**  .24, .94  3.34 
+Mean Functional Diversity  .22 (.12)  -.02, .45  1.83 
+High Functional Diversity (+1 SD) .05 (.14)  -.23, .34  .37 
+      
+Conditional Effect of Shared Vision on Information Elaboration at Values of Func. 
+Diversity  
+ Effect ( SE)  95% CI   t 
+Low Functional Diversity ( -1 SD) .22 (.06)**  .11, .34  3.80 
+Mean Functional Diversity  .57 (.06)**  .45, .70  8.88 
+High Functional Diversity (+1 SD) .73 (.0 8)**  .58, .87  9.68 
+Notes. N  = 144. Values are standardized coefficients (with standard errors ). 
+* p < .05. ** p < .01. CI = Confidence Interval.  Control variables are not included.  
+ 
+    98 
+ APPENDIX C: PROCESS Custom Model 91  
+SPSS PROCESS command for supplementary treatment -centric moderated serial 
+mediation analysis  with standardized variables  and custom w matrix : 
+PROCESS y=ZTIC7/x=Treatment/m=ZTSDVN ZTINEN/w=ZCTFBDYBN/model=91  
+/cov=ZTICB zctsize ztexecsp zttenure ztwkexp ic_consumer ic_service ic_discrete ic_enr 
+ic_finance zcustomer_since_days zrev_2019 
+covid19/wmatrix=0,1,1,1,1,0/boot=20000/decimals=F10. 2/jn=1 /moments=1 . 
+ 
+ 
+Figure C1   Treatment -centric Path Analysis Results  
+Notes. N = 144. Values are standardized coefficients (with standard errors).  
+* p < .05. ** p < .01.
+ 
+  

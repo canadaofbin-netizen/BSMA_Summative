@@ -1,0 +1,1258 @@
+Technological Forecasting & Social Change 180 (2022) 121689
+Available online 20 April 2022
+0040-1625/© 2022 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).Boundary spanning R&D collaboration: Key enabling technologies and 
+missions as alleviators of proximity effects? 
+Matthijs J. Janssena,b,*, Milad Abbasiharoftehc,d,e 
+aCopernicus Institute of Sustainable Development, Utrecht University, Princetonlaan 8a, Utrecht, 3584 CB, Netherlands 
+bDialogic Innovatie en Interactie, Hooghiemstraplein 33-36, Utrecht, 3514 AX, Netherlands 
+cDepartment of Economic Geography, Faculty of Spatial Sciences, University of Groningen, Landleven 1, Groningen, 9747 AD, Netherlands 
+dDepartment of Human Geography and Planning, Utrecht University, Princetonlaan 8a, Utrecht, 3584 CB, Netherlands 
+eLeibniz Institute of Agricultural Development in Transition Economies (IAMO), Theodor-Lieser-Str. 2, Halle (Saale), 06120 Germany   
+ARTICLE INFO  
+JEL codes: 
+O31 
+O38 
+Keywords: 
+Innovation policy 
+Societal challenges 
+General purpose technologies 
+Proximity dimensions 
+Networks ABSTRACT  
+Two main targets of contemporary preferential innovation policy support, especially in Europe, are key enabling 
+technologies (KETs) and innovation ‘missions ’ focused on solving societal challenges. Both topics are associated 
+with uniting disparate sets of capabilities, either by driving technology-based innovation into various application 
+domains or by eliciting interdisciplinary and cross-sectoral solutions to urgent societal demands. In this study we 
+assess to what extent pre-commercial R&D collaborations span geographic and cognitive boundaries. We analyze 
+firm-level tie formation in Dutch collaborative R&D projects initiated in the period 2013 –2018. Gravity models 
+reveal that, while results for geographic proximity are mixed, some KET types are indeed related to projects in 
+which cognitive proximity is significantly less relevant for tie formation. This contrasts with the findings for 
+projects that retroactively received a mission label. Projects on health and care missions, and especially energy 
+transition and sustainability missions, instead spur collaborations between cognitively proximate firms. The 
+latter suggests that without additional policy intervention, such projects might interconnect similar rather than 
+dissimilar knowledge bases. We conclude by discussing research and policy implications.   
+1.Introduction 
+Economic geographers have developed a special interest in knowl -
+edge recombination dynamics leading to otherwise unattainable 
+regional development paths (Content and Frenken, 2016 ; Balland et al., 
+2019 ; Grillitsch et al., 2018 ). A widely propagated policy imperative is 
+to challenge firms ’ tendencies to draw primarily on knowledge they can 
+easily assimilate, in terms of geographic and cognitive accessibility 
+(Asheim et al., 2011 ; Grillitsch et al., 2018 ; Janssen and Frenken, 2019 ). 
+At the same time, research and innovation policy are gradually moving 
+away from merely boosting knowledge development towards more 
+selectively guiding socioeconomic change (Todtling and Trippl, 2018 ; 
+Schot and Steinmueller, 2018 ; Foray, 2019 ). This study considers the 
+intersection of two major yet previously unconnected preferential policy 
+developments, both concerned with steering collaborative knowledge 
+development in supposedly promising directions. 
+First, inspired by the literature on general-purpose technologies 
+(‘GPTs ’; Bresnahan, 2010 ), the European Union has been pushing the idea of adopting Key Enabling Technologies (KETs) as springboards for 
+(regional) economic development strategies (European Commission 
+2012 ). Due to their wide application potential, KET-oriented R&D is 
+likely to generate knowledge spillovers that may lift the prospects of a 
+broad variety of activities in an economy (Foray et al., 2009 ). Given the 
+prominent place awarded to KETs in the European Union ’s 7th and 8th 
+Framework Programme for research and innovation, many European 
+member states have incorporated them into their strategies for building 
+national and regional comparative advantage (Ciffolilli and Muscio, 
+2018 ). 
+Second, there is renewed and increasingly vast interest in innovation 
+policies targeting grand societal challenges (Uyarra et al., 2019 ). 
+Formulating a mission (Ergas, 1987 ), as popularized again by Mazzucato 
+(2016 ; 2018a ), represents a prominent way to engage diverse stake -
+holders in developing and diffusing innovative responses to pressing 
+problems. Imparting clear directions allegedly allows actors to identify 
+unexploited complementarities and overcome the inertia that holds back 
+desirable changes (Hekkert et al., 2020 ; Janssen et al., 2021 ). One of the 
+*Corresponding author. 
+E-mail address: m.j.janssen@uu.nl (M.J. Janssen).  
+Contents lists available at ScienceDirect 
+Technological Forecasting & Social Change 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2�omsq{~o!
+https://doi.org/10.1016/j.techfore.2022.121689 
+Received 20 June 2021; Received in revised form 28 February 2022; Accepted 10 April 2022   Technological Forecasting & Social Change 180 (2022) 121689
+2most advanced mission-oriented policy initiatives today is the European 
+Union ’s new Framework Programme for research and innovation. 
+Following this example, individual countries and regions in Europe (and 
+beyond) have also begun to prioritize missions (OECD, 2021 ). 
+While clearly reflecting different policy traditions and ambitions, 
+both KETs and missions are supposed to present opportunities for unit-
+ing geographically and cognitively disparate sets of firm capabilities. 
+The effective exploitation of KETs, to begin with, requires that advanced 
+technologies be coupled to the capabilities of an economy (Antonietti 
+and Montresor, 2019 ). As KETs are being developed in only a few places, 
+research on new applications usually entails co-development processes 
+also involving distributed actors and capabilities (Montresor and Qua-
+traro, 2017 ; Wanzenb ock et al., 2020a ). Mission-based initiatives are no 
+different: successfully aligning complementary capabilities to develop 
+and diffuse solutions has been explicitly linked to achieving collabora -
+tion between actors spread across space (Coenen et al., 2015 ; McCann 
+and Soete, 2020 ). This imperative is often accompanied with the state-
+ment that answers to grand challenges require cross-disciplinary and 
+cross-sectoral innovation (Foray, 2018 ; Mazzucato, 2018a ). Wan-
+zenb ock and Frenken (2020, p.57) opine that policies spurring the 
+search for such answers may even be used as ‘a basis for regional 
+diversification ’. Altogether, both the pushing of new key enabling 
+technologies as well as the pulling demand for new solutions can prompt 
+boundary spanning mechanisms, thereby potentially propelling un-
+common knowledge recombination. 
+What remains unexplored, at least so far, is at which stages of in-
+vention and innovation the acclaimed cross-overs come about. The 
+available evidence and arguments discussed above mainly address novel 
+network interactions during the stage of knowledge application. One 
+might nevertheless imagine that, in order to integrate knowledge from 
+various domains and places, distant knowledge search needs to occur 
+long before innovative KET applications or mission solutions are ready 
+for deployment. The purpose of this study, therefore, is to examine to 
+what extent boundaries between places and knowledge bases have 
+already been spanned in R&D projects concerned with early-stage new 
+knowledge development. Of key interest is whether projects on KET and 
+mission themes are capable of bridging geographic and cognitive dis-
+tances, even in the absence of additional policy incentives. Insights on 
+this matter serve the justification and design of preferential policy 
+strategies aiming to strengthen or bring about such boundary spanning 
+tendencies. 
+In our empirical analysis, we investigate firm-level tie formation in 
+collaborative R&D projects in the Netherlands. The dataset we study, 
+retrieved from the administration of the Dutch Public-Private Research 
+Allowance scheme, includes the majority of public-private R&D projects 
+taking place between 2013 and 2018. In 2019, existing subsidized 
+projects in the allowance scheme have retroactively been labelled ac-
+cording to the KET and the mission theme they are associated with. By 
+looking at participating firms ’ location and sectors of activity, we 
+investigate to what extent the R&D projects are alleviating the in-
+fluences of (respectively) geographic and cognitive proximity – and how 
+that differs if the project is developing a KET or addressing a mission. 
+The empirical investigation confirms that geographic and cognitive 
+proximity are significant predictors for firm-level tie formation. For 
+some KETs, geographic and especially cognitive proximity are relatively 
+less important (to tie formation) than they are for R&D projects not 
+focused on a KET. This is less the case for projects on mission themes. By 
+showing the geographic and cognitive boundary spanning tendency to 
+be modestly present for some KETs, and mostly absent or even negative 
+in the context of missions, this paper primarily contributes to the current 
+debate on how to drive novel R&D collaboration. As the latter is believed 
+to be a basis for economies to diversify promisingly (Grillitsch et al., 
+2018 ), our results highlight an additional reason to target innovation 
+policies at KET research (besides their innate potential to transform 
+sectors). Insofar as mission-oriented innovation policy is legitimized 
+based on its potential to drive cross-overs at the R&D stage, more caution seems to be required. 
+The remainder of this paper is as follows. In Section 2 we review 
+relevant literature and develop hypotheses on the proximity alleviation 
+effects of KETs and missions. Particular attention is paid to the latter as, 
+due to their recent upsurge, less has been theorized about missions. 
+Section 3 describes the data and methodology deployed to test the hy-
+potheses. After describing regression results in Section 4, we interpret 
+our findings and draw conclusions in Section 5. 
+2.Theory and hypothesis development 
+2.1. KETs and overcoming distances 
+The European Commission (EC) regards investing in research on 
+KETs as a particularly sophisticated strategy for spurring the emergence 
+of new competitive economic activities ((Montresor and Quatraro, 
+2017 ); Evangelista et al., 2018 ). The umbrella term ‘KET ’ covers the 
+latest generation of advanced technologies applicable across vastly 
+different contexts. In research and innovation frameworks, such KETs 
+include industrial biotechnology, nanotechnology, micro- and nano-
+electronics, photonics, advanced materials, and advanced 
+manufacturing (European Commission, 2012). The EC’s original 2012 
+Smart specialization strategy heartily advocated increasing accessibility 
+to enabling technologies, so that actors could leverage existing capa-
+bilities and diversify in new directions (Foray et al., 2009 ; Boschma 
+et al., 2014 ). 
+As already pointed out by Foray et al. (2009) , some regions might 
+lead the development of advanced technologies like KETs, while others 
+might only apply them. Montresor and Quatraro (2017) and Evangelista 
+et al. (2018) situate the leading regions in Western and Central Europe, 
+with high concentrations in only a few places. Applying a new KET 
+means identifying complementarities among local capabilities – a pro-
+cess involving co-invention and possibly the emergence of new tech-
+nological specialisations (Montresor and Quatraro, 2017 ; Antonietti and 
+Montresor, 2019 ). Actual development, instead of the ‘plug-and-play ’ 
+that characterizes typical ICT automation, is needed to transfer KET 
+knowledge and fit it for use in a specific domain. Thus, before any 
+KET-based innovation can be tested for commercialization, resources 
+need to be invested in researching how to make a generic technology 
+usable in a specific context (Bresnahan, 2010 ). This holds importance for 
+what types of firms are involved in conducting collaborative R&D. 
+Project partners from one place might have specialized knowledge 
+concerning the advanced technology itself, whereas the capabilities of 
+project partners from other places might be more suited to the KET’s 
+prospective use (Wanzenb ock et al., 2020a ). Indeed, in their empirical 
+study on digital KETs, proximity constraints and challenges for indus -
+trial policy, Bilbao-Ubillos et al. (2021) state that broad relational net-
+works allow firms to operate at the knowledge frontier (i.e. master KETs) 
+while also exploiting deep industry knowledge obtained via local 
+anchorage. 
+Based on the above, we might expect that most R&D projects 
+involving KETs would be relatively diverse in terms of the firm capa-
+bilities and locations they unite. The positive influence of geographic 
+and cognitive proximity (on tie formation) would be lower, then, than 
+for R&D projects concerned with an innovation not based on a KET. 
+Hypothesis 1a.Tie formation in collaborative R&D projects for KETs 
+is less positively influenced by geographical proximity than in projects 
+not involving KETs. 
+Hypothesis 1b.Tie formation in collaborative R&D projects for KETs 
+is less positively influenced by cognitive proximity than in projects not 
+involving a KET. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+32.2. Missions and overcoming distances 
+Drafting a mission statement that expresses a clear direction and 
+level of ambition allows policy makers to engage stakeholders in 
+developing and diffusing innovative solutions for complex societal 
+problems (Kattel and Mazzucato, 2018 ). The notion of a ‘mission ’ dates 
+back to Ergas ’ (1987) edict to use ‘big science for big problems ’ (Maz-
+zucato and Semieniuk, 2017 ). Hence, one aspect of the vibrant debate 
+surrounding mission-based innovation concerns questions on what 
+research, development and innovation policies to devote to mobilizing 
+and steering a nation ’s, region ’s or organization ’s innovation capacities 
+(Mazzucato, 2016 ; Fisher et al., 2018 ; Mazzucato and Robinson, 2018 ). 
+While some have noted that not all solutions rely on knowledge-based 
+novelty (Wanzenb ock et al., 2020b ), and that user involvement and 
+institutional change may be crucial elements (Von Hippel, 1978 ; Hek-
+kert et al., 2020 ; Uyarra et al., 2020 ), mission-oriented research policies 
+continue to be associated with R&D policy. The European Union ’s Ho-
+rizon Europe Framework Programme for research and innovation, 
+operational as of 2021, is a case in point. The mission areas it focuses on 
+are climate change; cancer; climate-neutral and smart cities; healthy 
+oceans, seas, costal and inland waters; and soil health and food (Euro -
+pean Commission 2021). Other well-known examples at the national 
+level are the revised German High-Tech Strategy, featuring 12 missions, 
+and the Dutch Mission-oriented Topsector and Innovation Policy, which 
+encompasses 25 missions distributed among four mission themes 
+(OECD, 2021 ). 
+2.2.1. Geographical proximity 
+As mission-oriented research and innovation policies are back on the 
+policy agenda only recently, the spatial perspective on missions is still 
+emerging (Cappellano and Kurowska-Pysz, 2020 ; Bugge et al., 2021 ; 
+Flanagan et al., 2022 ). Available studies generally point at the impor -
+tance of place-specificity when it comes to searching and adopting 
+innovative solutions for societal problems, as both problems and inno-
+vative capacities tend to be marked by regional contextual factors 
+(Coenen et al., 2015 ; Wanzenb ock and Frenken, 2020 ). 
+For collaborative R&D in the pre-commercial stage of knowledge 
+development, however, it does not automatically follow that mission- 
+focused research projects draw mostly on regionally proximate firms. 
+A starting point for many studies and strategies dealing with mission- 
+oriented research policy is that addressing widespread societal prob-
+lems (Europe ’s ‘grand challenges ’, the UN’s Sustainable Development 
+Goals) will require input from world-class innovators with dissimilar 
+knowledge bases (Mazzucato, 2018b ; European Commission, 2018 ). The 
+rationale here is that if individual societies are unable to tackle persis -
+tent societal problems themselves, and if the complexity of these prob-
+lems makes it hard to even know which solution or direction to follow, 
+perhaps there are answers to be found by mobilizing diverse actors at the 
+global technology and knowledge frontier. As stated by (Foray et al., 
+1700) , “Mission-oriented R&D programs for future societal challenges 
+must support the development and deployment of many different 
+technologies that will be employed in a diverse array of sectors 
+throughout the world. ” 
+Following this science and technology based perspective, highly 
+visible missions can help solve quasi-universal problems by involving 
+geographically diffuse researchers in ground-breaking research, which 
+then opens the way to local tweaking of emerging solution directions. 
+Missions may accordingly be regarded as the ‘global pipelines ’ through 
+which distant actors are united, with the resulting knowledge the input 
+for further experimentation and diffusion through ‘local buzz ’ in 
+regional innovation systems (Bathelt et al., 2004 ). This implies that R&D 
+project teams working on possible solutions can be expected to have 
+relatively mixed geographical backgrounds, given that knowledge-based 
+innovations may need adjusting to local capabilities and contextual 
+factors. After all, R&D project teams involving parties affected by a so-
+cietal problem (or at least having knowledge about the conditions within which the problem arises) do not need to be located in the same place as 
+actors helping to develop suitable solutions (Mazzucato, 2018b ). An 
+agricultural mission dedicated to sustainable food security, for instance, 
+might benefit from expertise on tractors and crop yielding techniques 
+developed in a technology cluster located elsewhere. 
+In sum, missions have the potential to link frontier knowledge from 
+one place with firms in other places who are not able to solve a problem 
+with the capabilities they have available locally. Long distance knowl -
+edge exchange may also occur in ‘regular ’ R&D projects, of course, but 
+the question is whether missions on societal challenges can build on 
+some inherent (not policy-induced) characteristic of problem-oriented 
+R&D projects to unite geographically remote capabilities. If it is true 
+that teams working on such projects tend to be made up of remote 
+partners, this could be leveraged by innovation policy that promotes 
+problem-based directionalities. Here, we put this to the test by hy-
+pothesizing that collaboration in R&D projects with a mission-related 
+theme is relatively less affected by geographical proximity ’s 
+customary positive influence on tie formation. 
+Hypothesis 2a.Tie formation in collaborative R&D projects on mis-
+sions is less positively influenced by geographical proximity than in 
+projects not involving a mission. 
+2.2.2. Cognitive proximity 
+In their discussion of the nature and design of mission-oriented R&D 
+programs, Foray et al. (2012) stress the importance of support for 
+knowledge development in the basic research stage. They also make the 
+point that while private funding might increase when (technological) 
+solutions are ready for commercialization and dissemination, firms 
+already have a role to play in the early stages of research and develop -
+ment as well. In a more recent article, Foray (2018) explains how 
+mission-oriented R&D policy can drive the search for solutions emerging 
+from complementarities between different sets of actors and their ca-
+pacities. As opposed to individual industries as the target of selective 
+policies, missions are special because of their potential to spur research 
+activities at the interface of parts of different industries (which can also 
+help to transform these industries). 
+A similar claim is found in Mazzucato and Penna (2016) and Maz-
+zucato (2018a) . Setting a concrete direction can enable the alignment of 
+different types of capabilities, which in turn may yield innovative re-
+sponses to grand societal challenges. The innovation process, especially 
+when it comes to wicked societal problems, ought to bridge industries, 
+disciplines, and types of actors in the early stages of solution develop -
+ment (Kuhlmann and Rip, 2018 ). Mazzucato (2018a) therefore stresses 
+the importance of interaction among scholars from quite distinct sci-
+entific disciplines (spanning natural sciences, formal sciences, social 
+sciences and humanities) when conducting R&D activities related to 
+addressing wicked problems. In the case of healthcare, for example, 
+suitable outcomes would not only require codesign and cocreation to 
+investigate new pharmaceuticals, but also innovations from domains 
+such as “nutrition, artificial intelligence, mobility and new forms of 
+digitally enhanced public service provision ” (Mazzucato, 2018a , p. 
+811). 
+Compared to ‘vertical ’ research priorities (specific technologies, 
+predefined sectors) problem-based missions appear as ‘diagonal ’ in the 
+sense that they may act as natural interfaces between various ‘hori-
+zontally ’ unrelated sectors (Janssen and Frenken, 2019 ). While much of 
+the current debate surrounding mission-based initiatives is devoted to 
+how to govern them, there appears to be a resurgence of optimism that 
+innovation efforts focused on solutions for societal challenges are de 
+facto more cross-sectoral than regular innovation efforts. To test this 
+assumption, we hypothesize the following: 
+Hypothesis 2b.Tie formation in collaborative R&D projects on mis-
+sions is less positively influenced by cognitive proximity than in projects 
+not involving a mission. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+43.Data and methodology 
+3.1. Case description: collaborative R&D in the Netherlands 
+In 2012, the Dutch ministry of Economic Affairs and the ministry of 
+Education, Culture and Science implemented a new strategy to increase 
+the competitiveness of the Dutch economy. Fundamental to this strategy 
+was the creation of nine Topsectors: a set of triple-helix coordination 
+structures designed to strengthen the Dutch innovation system (for more 
+detail, see Janssen, 2019). Given that one of the Topsector’s main goals 
+is to increase business investments in public-private research, policy 
+support is largely geared towards facilitating collaborative R&D. 
+Through Topconsortia for Knowledge and Innovation (TKIs), the Top-
+sectors organize events and fund R&D activities in line with the 
+Knowledge and Innovation Agendas they publish every two years. The 
+Dutch Public Private Research Allowance scheme provides funding for 
+public-private R&D projects by adding 30% (previously 25%) to the 
+privately funded share of earlier public-private R&D projects. 
+For our empirical analysis, we use data sets provided by the 
+Netherlands Enterprise Agency (RVO.nl) on all collaborative R&D pro-
+jects that received support from the allowance scheme in the period 
+2013–2018. The data sets include information about project titles, 
+starting years, participants and budgets. By merging the data, it is 
+possible to map the evolution of the collaborative network for the period 
+2013–2018. The total network includes 1884 Dutch firms and 105 
+publicly-funded organizations. Given our focus on recombining firm 
+capabilities, our analyses concentrate on the 1884 firms only. 
+The continuation of the Topsector approach, announced in 2019, 
+attaches primary importance to missions and KETs (EZK, 2019). For 
+monitoring and evaluation purposes, RVO.nl has retroactively labelled 
+existing R&D projects according to the mission and KET themes they 
+would correspond to – even though they were not subject to policy 
+actively promoting these themes when they began. The ex-post labeling 
+(which we exploit here) ensures that projects retroactively allocated to a 
+theme have not received different formal treatment. The original 
+allowance scheme did not require or select projects based on team di-
+versity (in terms of geographic and cognitive proximity), nor did 
+granters seek to ascertain whether a project was relevant to a KET or a 
+mission. We can exclude the influence of informal treatment due to e.g. 
+biases from either the project team members (inserting KET- and 
+mission-related tags in their proposals to increase the likelihood of 
+getting funded) or the policy agency funding the projects. The fact that 
+not all granted projects could be associated with either a KET or a 
+mission allows us to benchmark KET and mission projects against ‘reg-
+ular’ R&D collaboration projects. 
+Our data contains information on the six KETs identified by the 
+European Commission (mentioned in Section 2.1) plus two additional 
+categories: chemical and quantum technologies. The last category in our 
+data includes projects that are not classified as a KET (hereafter ‘Not a 
+KET’). Labels were assigned by starting with a list of keywords, followed 
+by a manual inspection of all matches. Table 1 provides the descriptive 
+statistics of projects across the nine KET categories. ‘Not a KET’ is the 
+largest category. It contains about 40% of all projects. These projects are 
+technologically heterogeneous, covering a wide range of topics and 
+knowledge bases. Except for the distribution of the number of projects 
+across categories, it seems KETs are similar in terms of their statistics. 
+The only exception is the category Quantum Tech, with only 11 projects 
+having no involvement of SMEs (measured as firms with maximum 250 
+employees). Given the relatively small number of observations, we 
+exclude this category in our inferential analyses. The geographical dis-
+tribution of involved organizations shows that most activities are 
+concentrated in large cities (see Fig. 1). Interestingly, more than half of 
+collaborative ties (between 52% and 75%) cross regional boundaries, 
+and collaborative ties identified as ‘Not a KET’ have the second lowest 
+value of the share of interregional ties. This might imply that joint 
+research and innovation activities in KETs are being largely conducted by expert organisations located in knowledge hubs spread across the 
+country. 
+The so-called ‘Mission-oriented Topsector and Innovation Policy’ 
+approach announced in 2017 and introduced at the end of 2019 focuses 
+on 25 missions categorized under 4 central themes. The TKIs that 
+collected projects before administering them with RVO.nl initially 
+attempted linking the projects to mission themes themselves. RVO.nl 
+enriched this classification by following a combination of keyword and 
+manual matching, assigning them to four mission themes. These are: 
+Energy Transition and Sustainability (share: 0.09); Agriculture, Water 
+and Food (0.06); Health and Care (0.12); and Safety (0.01). 72% of 
+projects are not associated with a mission (‘No Mission’), and therefore 
+can serve as our reference group. Only 4 projects belong to the Safety 
+mission theme. Given the small number of observations for this theme, 
+we exclude this category from our inferential analysis. Table 1 provides 
+additional descriptive statistics. The total number of projects with a 
+mission theme label (including ‘No Mission’) is higher than the total 
+number of projects with a KET label (including ‘Not a KET’), as the latter 
+variable includes more projects with missing data. 
+As discussed, given the structure of our dataset, each project can 
+potentially fall into a KET category and a mission category. Fig. 2 il-
+lustrates the distribution of projects across KET types and mission 
+themes. This meets our intuitive expectation, as it shows that a relatively 
+large share of projects in the KETs Advanced Material and Chemical 
+Tech are part of the Energy Transition and Sustainability mission theme, 
+and projects in the KETs Life Sciences Tech and Engineering and 
+Fabrication Tech tend to address the Health and Care mission theme. 
+Again, these KET-Mission relationships are not affected by a top-down 
+design to integrate KETs and missions into a cohesive framework, 
+because this has been of major policy concern only since 2019 and was 
+not a dominant policy aim in the time period for which we retrieved the 
+data. 
+3.2. Variable construction 
+3.2.1. Dependent variable 
+In this study, we seek to provide a better understanding of how 
+proximity dimensions facilitate or hamper the formation of collabora -
+tive R&D ties across KET and mission categories. To construct the 
+dependent variable, we created a set of all possible pairwise combina -
+tions of firms, each of which takes the value of one if, for a particular 
+category, there is a collaborative tie between the given two firms, and Table 1 
+Descriptive statistics of projects.  
+Technologies Project 
+number Average 
+number of 
+participants Share 
+of 
+SMEs Share of Dutch 
+participants 
+KET category 
+Advanced material 54 4.09 0.62 0.95 
+Chemical 
+technologies 105 4 0.61 0.93 
+Digital technologies 52 3.69 0.63 0.99 
+Engineering and 
+fabrication 
+technologies 89 3.52 0.58 0.95 
+Life sciences 
+technologies 67 4.18 0.68 0.97 
+Nanotechnologies 15 2.8 0.5 0.9 
+Photonics and light 
+technologies 24 4.25 0.68 0.94 
+Not a KET 310 4.61 0.64 0.97 
+Mission category 
+Agriculture, water 
+and food 49 5.06 0.66 0.97 
+Energy transition and 
+sustainability 75 4 0.69 0.96 
+Health and care 91 3.67 0.7 0.98 
+No mission 572 4.33 0.67 0.96  M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+5takes the value of zero otherwise. The dependent variable thus varies 
+across models that focus on investigating the relationship between 
+collaborative tie formation and proximity dimensions in specific KETs or missions. Also, constructed dependent variables are not necessarily 
+mutually exclusive because two given firms can be involved in more 
+than one project associated with different KETs and missions. 
+Fig. 1.The geographic distribution of collaborative R&D ties.  
+Fig. 2.Distribution of projects across KET types and Mission themes.  M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+63.2.2. Independent variables 
+The association of geographical and cognitive proximities with the 
+formation of collaborative ties of different nature (i.e. KETs and mis-
+sions) is of interest in this study. After Boschma ’s (2005) paper, there has 
+been a rise of studies empirically using various methods to operation -
+alize proximity dimensions. Scholars use colocation in a geographic area 
+or the geographic distance between organizations to create geographical 
+proximity variables (for a review, see Micek 2018 ). We opted for the 
+latter because this measure is not biased by the modifiable areal unit 
+problem (Scholl and Brenner, 2014 ) and provides more granular infor-
+mation compared to a binary variable based on the former alternative. 
+Thus, we retrieved the information regarding the position of firms based 
+on their postal codes (4-digit level). Next, we calculated the distance (in 
+kilometres and log-transformed) between each two firms. The variable 
+regarding geographical proximity (GEO) is the opposite of the calculated 
+distance. 
+Cognitive proximity is the second independent variable of interest. 
+We follow similar studies, like the one by e.g. Janssen et al. (2020) , using 
+the method proposed by Neffke et al. (2017) based on the skill relat-
+edness measure. This method estimates inter-industry skill relatedness 
+by the observed volume of labor flows between industries normalized by 
+the theoretical expectation of such flows. To estimate the inter-industry 
+skill relatedness in the Netherlands, we used inter-industry labor 
+mobility data in 2009 and 2010 (NACE codes at the 4-digit level). In-
+dustries are assumed to be cognitively more proximate if there is a more 
+intense labor mobility between them, implying that they require similar 
+skills and knowledge. To create the cognitive proximity variable (COG), 
+we assigned the estimated values for inter-industry skill relatedness to 
+firms based on their NACE codes. This implies that two firms that share 
+the same NACE code have the highest degree of cognitive proximity, 
+otherwise the cognitive proximity between these two firms corresponds 
+to the normalized value for inter-industry skill relatedness of their NACE 
+codes. While empirical studies more often utilize patent or publication 
+data to operationalize the cognitive proximity variable (Messeni Pet-
+ruzzelli et al. 2009 ), such methods might be biased by underestimating 
+the cognitive proximity between smaller firms with a relatively small 
+number of patents and publications. Our method however treats all 
+firms equally because all firms are assigned to a NACE code. 
+3.2.3. Controls 
+We constructed three control variables to ensure the robustness of 
+our empirical analysis. Since firms vary in knowledge sourcing based on 
+their absorptive capacity and access to resources, we made a distinction 
+between large enterprises and small and medium-sized enterprises 
+(SMEs). The information on firm size is included in the retrieved dataset. SME is a dummy variable that takes the value of one if a given firm is 
+identified as SME, and it takes the value of zero otherwise. 
+The second size-related control variable is concerned with the 
+amount of project funding each firm received. To estimate this amount 
+(BUDGET ) we assigned the normalized funding value (project budget 
+divided by the number of involving firms) to involved firms (log-trans -
+formed). BUDGET increases if a given firm is involved in more R&D 
+projects. 
+The third set of control variables reflects the extent to which aca-
+demic intermediaries (PROs) are involved in collaborative R&D pro-
+jects. One may argue that the involvement of such actors enhances a 
+firm’s ability to tap into cognitively or geographically distant knowledge 
+pools – and thereby engage in boundary spanning collaborative ties. In 
+the R&D dataset, we identified the five Open Innovation Network 
+research organisations that facilitate and undertake cross-sectoral 
+research in the Netherlands (also known as the TO2 institutes).1 By 
+retrieving information on the TO2 institutes involved in each project, we 
+created two dummy variables for firms in each possible firm pair (i.e., 
+PRO origin and PRO destination ). The dummy takes the value of one if the 
+firm was involved in at least one project with one or multiple TO2 in-
+stitutes, and it takes the value of zero otherwise. By interacting the two 
+dummy variables for each firm pair, we also control for the effect of the 
+involvement of both firms in at least one project that includes one or 
+multiple TO2 institutes (PRO origin ×destination ). 
+3.3. Empirical model specification 
+The gravity model is an analytical tool to model the formation of 
+R&D collaborative ties. The model is derived from Newtonian physics 
+and implies that the intensity of interaction (e.g. R&D collaboration) 
+between two actors is proportional to their size and proximity (inversely 
+proportional to their distance) (Brodzicki and Uminski, 2017 ; Broekel 
+et al., 2014 ). The gravity model has been widely used to empirically 
+analyze co-inventorship, co-publishing, citation and R&D networks 
+(Maggioni et al., 2007 ; Hoekman et al., 2009 ; Peri, 2005 ; Scherngell and 
+Barber, 2009 ). 
+Given the skewed distribution of the frequency of the number of 
+collaborative ties, one may operationalize gravity models by negative 
+binomial regressions. Yet, the descriptive statistics shown in Fig. 3 
+suggest that only a small share of inter-firm relations (15%) includes 
+R&D collaborative ties more than once. The number of multiple ties is 
+Fig. 3.Frequency of single and multiple collaborative R&D ties.  
+1 For more information, see: https://www.euraxess.nl/netherlands/infor 
+mation-researchers/research-landscape . M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+7negligible if we exclude inter-firm relations that are created based on the 
+involvement of firms in two common projects. Thus, we opted for a set of 
+binary logit models with maximum likelihood estimation. Using the 
+gravity model, one can include two-way fixed effects with reference to 
+firm level variables at origin and destination as well as effects associated 
+with firm pairs (e.g. proximity dimensions).2 
+Our empirical setting includes 1884 firms and 8037 (out of 1773,786 
+possible) collaborative ties.3 The estimating equation takes the 
+following form: ln 
+yij\
+1 yij)
+αβ1GEOijβ2COG ijβ3Nodeiβ4Nodejuij
+(1)  
+where yij denotes the probability of the presence of at least one collab -
+orative tie, andGEO ij and COG ij correspond to the geographical and 
+cognitive proximities between firms i and j respectively. Node denotes 
+control variables at the firm level (i.e. SME, BUDGET, and PRO) with 
+reference to firms i and j (origin and destination). It is important to note 
+that we standardized4 the variables GEO and COG. Since the number of 
+observations and included variables remain constant across models, 
+including the main variables of interests (i.e. GEO and COG) in models as Table 2 
+Descriptive statistics (of regression variables) and correlation matrix.  
+Statistic N Mean St. Dev. Min Pctl(25) Pctl(75) Max   
+GEO (z-score) 1773,786 0.000 1.000 -1.727 -0.622 0.375 12.202   
+COG (z-score) 1773,786 0.000 1.000 -1.411 -0.884 0.765 2.175   
+SME (origin) 1773,786 0.693 0.461 0 0 1 1   
+SME (destination) 1773,786 0.692 0.462 0 0 1 1   
+BUDGET (origin) 1773,786 11.882 1.480 0.000 10.952 12.698 17.488   
+BUDGET (destination) 1773,786 11.944 1.458 0.000 10.949 12.794 17.488   
+PRO (origin) 1773,786 0.541 0.498 0 0 1 1   
+PRO (destination) 1773,786 0.547 0.498 0 0 1 1   
+PRO (origin ×destination) 1773,786 0.296 0.456 0 0 1 1     
+(1) (2) (3) (4) (5) (6) (7) (8) (9) 
+(1) GEO (z-score) 1.00         
+(2) COG (z-score) 0.02 1        
+(3) SME (origin) -0.03 0.056 1       
+(4) SME (destination) -0.01 0.031 -0.001 1      
+(5) BUDGET (origin) 0.05 0.004 -0.151 0 1     
+(6) BUDGET (destination) -0.01 0.032 0 -0.198 0 1    
+(7) PRO (origin) 0.03 -0.013 0 -0.17 0.001 0.066 1   
+(8) PRO (destination) 0.00 -0.03 -0.141 0.001 0.07 -0.001 0 1  
+(9) PRO (origin ×destination) 0.02 -0.019 -0.083 -0.101 0.041 0.039 0.597 0.59 1  
+Table 3 
+Regression results for KETs and missions (aggregate level).   
+KETs and Missions  
+KETs Not a KET Missions No mission KETs and missions Not a KET and no mission 
+GEO (z-score) 0.0669*** 0.1219*** 0.0763*** 0.0854*** 0.0537** 0.1333***  
+(0.0144) (0.0106) (0.0140) (0.0105) (0.0211) (0.0124)        
+COG (z-score) 0.2819*** 0.3425*** 0.4911*** 0.2204*** 0.2959*** 0.2200***  
+(0.0192) (0.0165) (0.0206) (0.0140) (0.0282) (0.0196) 
+SME (origin) -0.4105*** -0.5870*** -0.3214*** -0.4828*** -0.2477*** -0.6652***  
+(0.0413) (0.0330) (0.0418) (0.0293) (0.0626) (0.0400) 
+SME (destination) -0.4764*** -0.5523*** -0.2722*** -0.5017*** -0.1730*** -0.6458***  
+(0.0420) (0.0334) (0.0423) (0.0298) (0.0636) (0.0405) 
+BUDGET (origin) 0.3684*** 0.0211** 0.2424*** 0.1819*** 0.5281*** 0.0577***  
+(0.0122) (0.0106) (0.0133) (0.0090) (0.0184) (0.0126) 
+BUDGET (destination) 0.4095*** 0.0060 0.2157*** 0.2011*** 0.5354*** 0.0625***  
+(0.0120) (0.0107) (0.0132) (0.0088) (0.0186) (0.0125) 
+PRO (origin) -1.2029*** -1.4086*** -1.5730*** -1.0101*** -1.7479*** -1.4008***  
+(0.0677) (0.0648) (0.0653) (0.0587) (0.0975) (0.0902) 
+PRO (destination) -1.4070*** -1.2639*** -1.6087*** -1.0202*** -2.1429*** -1.2380***  
+(0.0741) (0.0613) (0.0657) (0.0592) (0.1138) (0.0851) 
+PRO (origin ×destination) 2.4524*** 2.9599*** 2.4098*** 2.7423*** 2.9122*** 3.3416***  
+(0.0953) (0.0857) (0.0927) (0.0776) (0.1469) (0.1175) 
+Constant -15.1291*** -5.4842*** -10.9995*** -9.9541*** -19.3918*** -7.1473***  
+(0.2310) (0.1895) (0.2411) (0.1653) (0.3595) (0.2271) 
+Observations 1773,786 1773,786 1773,786 1773,786 1773,786 1773,786 
+Log Likelihood -18,206.9400 -26,482.8800 -18,724.6400 -32,321.4400 -8979.2720 -18,621.5500 
+Akaike Inf. Crit. 36,433.8900 52,985.7500 37,469.2700 64,662.8700 17,978.5400 37,263.1000 
+Note: *p D0.1; **p D0.05; ***p D0.01. 
+2 Alternatively, one can use Exponential Random Graph Models (ERGMs) or 
+Stochastic Actor Oriented Models (SAOMs). However, such models normally 
+encounter convergence problems when the number of nodes (i.e. firms) is 
+greater than 1000.  
+3 The number of potential collaborative ties corresponds to (n (n-1))/2, where 
+n is the number of firms. 4 In doing so, we calculated the z-score for the two variables. z-score (x- 
+x)/sd(x) where x and sd(x) are the mean and standard deviation of x, 
+respectively. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+8z-scores enables us to compare and more easily interpret the magnitude 
+of their effects. We visualize the calculated coefficients and the corre -
+sponding 95% confidence intervals, in order to examine their sign and 
+significance and to investigate whether the effect sizes of the variables of 
+interest are meaningfully different from one another. Table 2 provides 
+descriptive statistics and the correlation matrix for the constructed 
+variables. 
+4.Results 
+To obtain an overall impression of the respective influences of 
+proximities on KETs and missions, we first report aggregate results based 
+on the ‘KET ’ and ‘Mission ’ categories as such. Subsequently, in Section 
+4.2 and 4.3 we unpack the observed patterns by providing detailed re-
+sults for specific KET types and mission themes. 
+4.1. Regressions for KETs and missions 
+The results for regressions at the aggregate KETs and missions level 
+are included in Table 3. Fig. 4 shows coefficients and 95% confidence 
+intervals for the dependent variables. Given that all intervals lie above 
+zero, geographical proximity is consistently a positive predictor for tie 
+formation. The independent variable ‘Not a KET and No mission ’ has the 
+highest coefficient (suggesting that reversely, KETs and missions might 
+indeed be associated with geographic boundary spanning), but to draw 
+conclusions on the relative importance of each regression variable we 
+compare the confidence intervals. As it turns out, for geographical 
+proximity only the relatively high estimates and intervals for ‘Not a KET 
+and No mission ’ and – to a lesser extent – ‘Not a KET’ are significantly 
+above the estimates for projects focused on a KET. This suggests that 
+conducting a project on KETs might alleviate the influence of GEO, while 
+from Fig. 4 this does not seem to be the case for missions. 
+In the results for cognitive proximity, the ‘Mission ’ category partic -
+ularly stands out. Projects focused on a mission generally exhibit a 
+stronger positive correlation with cognitive proximity (also in compar -
+ison to the reference category of ‘No mission ’), which goes against the 
+expectations captured by Hypothesis 2b. The contrast for key enabling 
+technologies is less prominent, as the KETs confidence interval overlaps 
+with the one for ‘Not a KET’-projects. 
+Table 3 also reports on the control variables. SMEs are less likely to 
+form ties, while (unsurprisingly) participating in projects with larger 
+budgets increases the chance of tie formation. Moreover, if only one of 
+the firms in a possible pair participates in projects with a PRO this re-
+duces the chance of tie formation, while the reverse holds if both firms 
+are active in projects involving such boundary-spanning research orga-
+nisations. The last effect is strongest for ‘Not a KET and no mission ’ 
+projects, suggesting that PROs make more of a difference in projects not 
+concerned with our key variables of interest. 
+Since younger companies may lack accumulated knowledge and 
+have sparser networks, the age of the company may also impact their 
+knowledge sourcing behavior. To ensure the robustness of our findings, 
+we retrieved establishment dates from Chamber of Commerce files and created a categorical age variable (AGE).5 The results of the models 
+including AGE are in line with the models presented earlier (see 
+Appendix A). We refrain from including this variable in other models 
+because missing age values decrease the number of observations by 
+about 10 percent, which for models at more disaggregated levels in-
+creases the chance of biases. 
+4.2. Regression results for KET types 
+To better grasp how proximity alleviation plays out, we also compare 
+findings per KET type. According to Table 4 and Fig. 5, GEO is signifi -
+cantly positive in the reference category of ‘Not a KET’, but also for the 
+categories Engineering and Fabrication, Digital Tech, Nanotech, and 
+Photonics and Light Tech. Tie formation in R&D projects in the other 
+three KETs is less subjected to the influence of geographical proximity. 
+Only in the Life Sciences Tech category, however, did we observe the 
+hypothesized significant difference from the ‘Not a KET’ category. 
+For cognitive proximity, the patterns look markedly different. Be-
+sides the significantly positive finding for ‘Not a KET’, the KETs that 
+exhibit a positive correlation with cognitive proximity are Engineering 
+and Fabrication Tech, Photonics, Life Sciences Tech, and Chemical Tech. 
+Nanotech and Advanced Material are not statistically significant, while 
+the results for Digital Tech depend on which control variables we 
+include in our model. With respect to Hypothesis 1b, it turns out that tie 
+formation in three KETs is less correlated with COG than in the reference 
+category of ‘Not a KET’: Advanced Material, Digital Tech and Chemical 
+Tech (the latter still being significantly positive but with a relatively 
+smaller effect size). At the same time, compared to the reference group, 
+tie formation in Life Sciences Tech correlates more with cognitive 
+proximity. This is remarkable, as for geographical proximity it was the 
+only one demonstrating the acclaimed proximity alleviating effects of 
+KETs. Apparently, Life Sciences Tech projects unite cognitively similar 
+firms from dissimilar places. 
+4.3. Regression results for mission themes 
+Turning towards the second type of possible proximity alleviator, ‘No 
+mission ’ projects are found to be positively correlated with both types of 
+proximity (see Table 5 and Fig. 6). We do not observe sharp contrasts 
+between ‘No mission ’ and the various mission themes regarding the 
+effects of geographical proximity. At first sight, tie formation in projects 
+associated with the Agriculture, Water and Food mission theme seems to 
+exhibit a less positive influence of cognitive proximity. This partial 
+confirmation of hypothesis 2a/b is only weak, however, given that the 
+confidence intervals for this mission theme still have a slight overlap 
+with the intervals for the ‘No mission ’ category. Instead, given that the 
+COG estimates and intervals for the Health and Care and especially 
+Energy Transition and Sustainability theme are clearly above the ‘No 
+Fig. 4.Coefficients of GEO (left panel) and COG (right panel) with a 95% confidence interval.  
+5 Number of firms per age category: 82 (5F), 307 (6-10), 502 (11-20), 627 
+(21-50), 286 (50D). 80 missing values. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+9mission ’ benchmark, projects in these mission themes rather seem to be 
+associated with cognitively proximate R&D collaborations.6 
+5.Conclusion 
+5.1. Discussion 
+This study sets out to assess the acclaimed boundary spanning po-
+tential of R&D projects that have ex-post been associated with KETs and 
+mission themes, but were not already influenced by any policy strategy 
+providing preferential support. Evidence that these topics spur 
+geographically and cognitive distant search would, from a knowledge 
+recombination perspective, imply an additional policy rationale for 
+targeting them through non-neutral collaborative R&D policies. 
+While aggregate results showed that, indeed, geographical proximity 
+has relatively little (positive) influence on tie formation in KET projects 
+– compared to the ‘Not a KET’ category – detailed inspection of particular KET types revealed this finding only holds for Life Sciences 
+Tech. In the case of cognitive proximity, we noticed the opposite: at the 
+aggregate level, there did not seem to be a substantial difference, but 
+looking at individual KETs there are three types (Digital Tech, Chemical 
+Tech, Advanced Materials) that exhibit significantly less positive influ-
+ence of COG than ‘Not a KET’ projects. This hypothesized relation is thus 
+obscured at the aggregate level, partially due to Life Sciences Tech 
+projects being in fact extremely sensitive to cognitive proximity. Projects 
+from the life science KET domain seem to unite cognitively similar firms 
+from geographically dissimilar places, which could reflect the relative 
+importance of science-input and codified knowledge for this particular 
+KET (Wanzenb ock et al., 2020a ). 
+The overall finding that several KETs are associated with uniting 
+cognitively disparate knowledge bases is consistent with their acclaimed 
+potential to drive unrelated recombination, but we find fewer in-
+dications that they also facilitate cross-overs in space compared to the 
+reference group (‘Not a KET’-projects). Besides the extent to which KETs 
+differ in how much they rely on scientific research and codified 
+knowledge, one other potential explanation can be found in how de-
+velopers and users of certain technologies are geographically distrib -
+uted. Our assumption was that tie formation in R&D projects is only 
+weakly influenced by geographical proximity if KETs are created by 
+specialized firms located in a few places, who then co-develop KET ap-
+plications together with clients from a broad range of sectors and places 
+(Montresor and Quatraro, 2017 ). An example would be the commercial Table 4 
+Regression results for KETs.   
+KETs  
+Advanced material Chemical tech Digital tech Engineering Life sciences Nanotech Photonics Not a KET 
+GEO (z-score) 0.0367 0.0523* 0.1537*** 0.1217*** -0.0176 0.1992*** 0.0981** 0.1219***  
+(0.0428) (0.0296) (0.0291) (0.0290) (0.0304) (0.0670) (0.0391) (0.0106) 
+COG (z-score) 0.0757 0.2029*** 0.0992** 0.3445*** 0.4464*** 0.2913* 0.3507*** 0.3425***  
+(0.0476) (0.0373) (0.0485) (0.0491) (0.0359) (0.1559) (0.0646) (0.0165) 
+SME (origin) 0.0111 -0.7064*** -0.4861*** -0.6840*** -0.2073*** -0.4485 0.3708** -0.5870***  
+(0.1057) (0.0817) (0.1008) (0.1037) (0.0788) (0.3476) (0.1560) (0.0330) 
+SME (destination) -0.3611*** -0.9644*** -0.1592 -0.7346*** -0.2285*** -0.8729** 0.2646* -0.5523***  
+(0.1048) (0.0849) (0.1034) (0.1081) (0.0791) (0.4427) (0.1538) (0.0334) 
+BUDGET (origin) 0.2222*** 0.3914*** 0.0804** 0.3231*** 0.6967*** 0.4562*** 0.6928*** 0.0211**  
+(0.0317) (0.0229) (0.0313) (0.0304) (0.0235) (0.1034) (0.0439) (0.0106) 
+BUDGET (destination) 0.3274*** 0.3895*** 0.1479*** 0.4204*** 0.6598*** 0.9792*** 0.8272*** 0.0060  
+(0.0296) (0.0228) (0.0306) (0.0293) (0.0244) (0.1113) (0.0471) (0.0107) 
+PRO (origin) -0.5681*** -0.3444** -0.5784** -1.0699*** -2.2273*** -0.5165 -1.5089*** -1.4086***  
+(0.2009) (0.1423) (0.2674) (0.1729) (0.1223) (0.5289) (0.1958) (0.0648) 
+PRO (destination) -0.6297*** -0.1889 -1.7156*** -1.8177*** -2.3663*** -2.2293** -1.1444*** -1.2639***  
+(0.2111) (0.1400) (0.3934) (0.2340) (0.1291) (1.0849) (0.1834) (0.0613) 
+PRO (origin ×destination) 2.1983*** 0.8578*** 4.1321*** 2.8950*** 2.6810*** 2.0147* 0.7706*** 2.9599***  
+(0.2636) (0.1748) (0.4460) (0.2762) (0.1772) (1.1368) (0.2721) (0.0857) 
+Constant -15.1695*** -16.6974*** -11.5735*** -16.4163*** -23.3708*** -28.2679*** -27.7511*** -5.4842***  
+(0.5860) (0.4400) (0.5855) (0.5650) (0.4700) (2.1416) (0.9157) (0.1895) 
+Observations 1773,786 1773,786 1773,786 1773,786 1773,786 1773,786 1773,786 1773,786 
+Log Likelihood -3706.7800 -5522.3820 -3611.0420 -3516.5750 -5856.5870 -361.9901 -2012.8730 -26,482.8800 
+Akaike Inf. Crit. 7433.5610 11,064.7600 7242.0840 7053.1510 11,733.1700 743.9802 4045.7460 52,985.7500 
+Note: *p D0.1; **p D0.05; ***p D0.01. 
+Fig. 5.Coefficients of GEO (left panel) and COG (right panel) across key enabling technologies, with a 95% confidence interval. Results not significantly different 
+from zero are shaded in light gray. 
+6 A robustness check focusing on only the years 2017-2018 indicates that the 
+‘No mission ’ benchmark exhibits a stronger positive relation with cognitive 
+proximity, compared to the results from the full 2013-2018 period. The coef-
+ficient and confidence interval are now above those for Agriculture, Water and 
+Food, but still significantly below those for the Energy Transition and Sus-
+tainability mission theme. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+10labs in the Life Science Technology hubs around Amsterdam, Utrecht or 
+Leiden, who partner with medical equipment manufacturers, food pro-
+ducers and hospitals from across the country. Alleviation of geograph -
+ical proximity constraints can also occur when the users are 
+concentrated in (a remote place in) space, like the chemical industry in 
+the south of the Netherlands, but still distant from distributed KET de-
+velopers. On the other hand, a positive relation between geographical 
+proximity and tie formation exists when all parties involved in joint R&D 
+co-locate in the same clusters. This might hold for e.g. the nanotech 
+developers and users in the Twente and Eindhoven regions, or the digital 
+technology firms in and around the Greater Amsterdam area. This 
+tentative interpretation would thus suggest that the potential influence 
+of R&D on KETs to unite spatially disparate parties is likely to depend on 
+how broadly a KET is applied – which in practice can be much narrower 
+than their theoretical potential – and on where (possible) technology 
+developers and users are located in the first place. 
+For the missions, projects under the three investigated mission 
+themes turned out not to be statistically different from the reference 
+group (i.e. projects that ex-post received the label ‘No Mission ’) 
+regarding the influence of geographical proximity. Moreover, and 
+directly against our expectations, tie formation is more subject to 
+cognitive proximity in Health and Care themed projects, and even more 
+so in Energy Transition and Sustainability themed projects. With effect 
+sizes for COG being two to seven times higher than for GEO, R&D pro-
+jects in these two mission themes unite relatively very uniform sets of capabilities. These results seem to contradict the notion that projects 
+focused on societal challenges are de facto more likely to entail spatial 
+and cognitive cross-overs. The latter result is only found for the mission 
+theme Agriculture, Water and Food, in the robustness check specifically 
+focusing on the years 2017 and 2018. 
+One factor that could give rise to the contrasting cognitive proximity 
+findings for the Agriculture, Water and Food mission theme and the 
+other two themes, is the historical presence of actors and structures that 
+support knowledge creation and diffusion. Teaming up for an R&D 
+project requires that firms have a sufficient degree of absorptive ca-
+pacity to effectively make use of complementary pieces of knowledge 
+(Cohen and Levinthal, 1989 ). Historically, the Dutch agricultural and 
+horticultural sectors have been very organized, with branch organisa -
+tions and research institutes strongly driving the development and 
+application of new knowledge (Klerkx and Leeuwis, 2009 ). A tradition of 
+exposing a wide variety of industry players to each other ’s developments 
+might explain why firms from these sectors find it relatively easy to 
+combine their knowledge, unhindered as they are by the hurdle of 
+cognitive distance. In the ‘newer ’ domains of Health and Care and 
+especially Energy Transition and Sustainability, institutionalized coor-
+dination was established more recently (EZK, 2019 ), which is possibly 
+why there firms (still) collaborate with cognitively similar counterparts. Table 5 
+Regression results for missions.   
+Missions     
+Agriculture, water, and food Energy transition  and sustainability Health and care No mission 
+GEO (z-score) 0.0588** 0.0476** 0.0823*** 0.0854***  
+(0.0288) (0.0228) (0.0215) (0.0105) 
+COG (z-score) 0.1573*** 0.6884*** 0.3685*** 0.2204***  
+(0.0355) (0.0311) (0.0355) (0.0140) 
+SME (origin) -0.5901*** 0.0083 -0.4942*** -0.4828***  
+(0.0755) (0.0631) (0.0763) (0.0293) 
+SME (destination) -0.4582*** -0.2109*** -0.1879** -0.5017***  
+(0.0762) (0.0609) (0.0793) (0.0298) 
+BUDGET (origin) 0.2508*** -0.0471*** 0.7765*** 0.1819***  
+(0.0222) (0.0182) (0.0244) (0.0090) 
+BUDGET (destination) 0.2036*** -0.0743*** 0.7660*** 0.2011***  
+(0.0223) (0.0193) (0.0260) (0.0088) 
+PRO (origin) -0.7745*** -1.3313*** -2.3127*** -1.0101***  
+(0.1594) (0.0872) (0.1114) (0.0587) 
+PRO (destination) -0.9690*** -1.2160*** -2.5876*** -1.0202***  
+(0.1669) (0.0839) (0.1203) (0.0592) 
+PRO (origin ×destination) 2.7409*** 1.8455*** 1.6046*** 2.7423***  
+(0.2116) (0.1238) (0.1785) (0.0776) 
+Constant -12.9148*** -5.1502*** -25.4028*** -9.9541***  
+(0.4190) (0.3269) (0.4975) (0.1653) 
+Observations 1773,786 1773,786 1773,786 1773,786 
+Log Likelihood -6266.4070 -10,364.2200 -5614.0940 -32,321.4400 
+Akaike Inf. Crit. 12,552.8100 20,748.4400 11,248.1900 64,662.8700      
+Note: *p D0.1; **p D0.05; ***p D0.01. 
+Fig. 6.Coefficients of GEO (left panel) and COG (right panel) across missions themes, with a 95% confidence interval.  M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+115.2. Theoretical and policy implications 
+Our analysis of boundary spanning in collaborative R&D projects 
+aims to advance the debate on overcoming proximity constraints and – 
+ultimately – facilitating unrelated diversification (Grillitsch et al., 
+2018 ). While the links between KETs and diversification trajectories 
+have been examined before ((Montresor and Quatraro, 2017 ); Anto-
+nietti and Montresor, 2019 ), we are the first to study KETs alongside 
+currently emerging and still under-investigated missions. By exploiting a 
+dataset containing ex-post assigned labels on both these policy topics, 
+we provide rare empirical insights into their natural tendency to alle-
+viate proximity effects. 
+In terms of research implications, our results probably serve more as 
+a supplemental form of legitimization for policies focused on KETs, and 
+less as a starting point for designing policy criteria. Given that explicitly 
+requiring project teams to be diverse might have perverse effects, our 
+findings suggest that supporting research directed at KETs (which in 
+itself can already drive competitiveness) presents an alternative way of 
+using collaborative R&D policies to connect cognitively distant partners. 
+Depending on how important this secondary objective is, more prefer -
+ence might be given to the selection of KETs demonstrating a higher 
+attenuation of proximity effects. Alternatively, in response to KETs ’ 
+unequal tendency to unite dissimilar capabilities, policy makers might 
+also opt for different policies per KET domain and per proximity 
+constraint (instead of using one single instrument like the PPP R&D 
+allowance scheme investigated here). For instance, the scope of e.g. 
+networking events designed to overcome cognitive proximity con-
+straints in a domain like Life Sciences Tech would probably need to 
+differ substantially from policy measures mediating the geographic 
+concentration of nanotechnology projects. The type of policies suitable 
+to such boundary spanning is likely to depend on the technological id-
+iosyncrasies of the domain they target, as for example the use of (and 
+therefore support for) capital-intensive infrastructures like R&D labo-
+ratories has a profound influence on collaboration dynamics (Neu-
+landtner and Scherngell, 2020 ). 
+For missions, the observations resulting from our analyses contribute 
+to the ongoing debate on why to deploy and what to expect from 
+mission-oriented research and innovation policies (Mazzucato, 2018a ; 
+Brown, 2020 ; (McCann and Soete, 2020 )). There appears to be a 
+consensus that finding solutions for societal challenges calls for inter-
+disciplinary collaborations that build on a wide range of expertise. As 
+Coenen et al. (2015) point out, challenge-based innovation policies can 
+play a major role in overcoming the transformational failures (including 
+coordination and network failures) preventing geographically distrib -
+uted actors from complementing each other ’s capabilities. A particularly 
+prominent feature of the mission approach in this respect is the belief 
+that directionality in the form of clearly recognizable goals, i.e. a 
+mission statement, offers a basis for different actors to seek each other 
+out in their attempts to develop novel solutions (Hekkert et al., 2020 ). 
+Missions can act as a ‘focusing device ’ for inviting different actors and 
+sectors to devote their innovation capacities to the same cause (Maz-
+zucato, 2018a ). However, there are also worries that mission-oriented 
+innovation and research strategies do little more than appoint priority 
+areas, without providing detailed views and complementary support 
+measures for developing particular solution directions (Brown, 2020 ; 
+OECD, 2021 ; Janssen et al., 2021 ). In light of this, it is striking that R&D 
+projects concerned with topics associated with the Dutch missions have 
+(so far) yet to show unusual collaboration patterns. Our findings indicate 
+that if left to actors in the Dutch innovation system themselves, R&D 
+projects that can be linked to the Energy Transition and Sustainability 
+mission theme in particular are often collaborations among relatively 
+similar and geographically proximate organizations. 
+In all fairness, mission-oriented research and innovation policies will 
+seldomly be deployed merely to stir up innovation systems. If the main 
+goal is to develop innovative solutions for pressing societal problems, it 
+might be understandable or even desirable that similar and nearby actors team up in their efforts to come up with a solution (McCann and 
+Soete, 2020 ). However, as Coenen et al. (2015) argue, the question is 
+always to what extent the results of local experimentation will yield 
+innovations that can also be applied beyond the particular regional 
+context from which they emerge. For mission-oriented innovation pol-
+icies also motivated by the ambition to obtain economic gains from 
+either the solutions themselves (Mazzucato, 2016 ), or from the 
+side-effects such policies might have on innovation system dynamics, 
+our results urge for prudence. The finding that uncommon knowledge 
+recombination is far from guaranteed does not necessarily discredit the 
+belief that missions can engender otherwise unattainable collaborations, 
+but rather suggests that complementary policy efforts are essential here. 
+Although the current study hasn ’t touched upon this empirically, it is 
+to be expected that the performativity of a shared goal benefits from a 
+clear narrative around what is being prioritized. The notion of incan -
+tatory governance, focusing on ritualisation and repetition, might offer 
+inspiration on how to manage the symbolic and discursive dimensions of 
+collectively tyring to tackle societal problems (Aykut et al., 2020 ). Also 
+forecasting and planning activities likely have an important role to play 
+here: for missions to be performative, it is helpful if they invoke coor-
+dination activities allowing various stakeholders to agree on solution 
+directions viable for addressing the technological as well as socioeco -
+nomic challenges arising when trying to complete the mission goal 
+(Wanzenb ock et al., 2020 ). Moreover, as missions do not rely on static or 
+closed-off policy instruments (Janssen et al., 2021 ), there is a continuous 
+need for alignment and adaptation of the set of policy initiatives sup-
+porting the search for solutions (OECD, 2021 ). Relevant policies may 
+include supply-side innovation instruments for developing the absorp -
+tive capacity required to engage in inter-disciplinary innovation (Maz-
+zucato, 2018a ), demand-side innovation instruments inviting unusual 
+solutions and collaborations (Boon and Edler, 2018 ), and softer policy 
+efforts like joint agenda writing, networking events or support for bodies 
+providing advisory and brokerage services (Van Lente et al., 2020 ). 
+Again, the scope of such policies can be refined by taking into account 
+the respective influences of geographical and cognitive proximity on tie 
+formation in a given mission ’s R&D projects – the Energy Transition and 
+Sustainability domain arguably requires more attention than the Agri-
+culture, Water and Food domain. As missions continue to spread, it will 
+become possible to assess to what extent complementary policy in-
+terventions (alone or jointly) can help unleash the cross-over potential 
+that missions allegedly present. Future evaluations can take findings like 
+ours as the ex ante situation when examining to what extent mission 
+policies have altered collaboration patterns. 
+5.3. Shortcomings and further research 
+This study presents some initial empirical evidence on the potential 
+that KETs and missions have to unite disparate actors. A potential 
+weakness in the deployed type of analysis is the possibility that socie -
+tally desirable behavior led project teams to write their proposals to-
+wards KETs and missions. However, the data used here stems from 
+before the renewed (mission-oriented) focus in the Topsector policy, and 
+independent administrators assigned the KETs and mission labels to 
+projects retroactively. 
+Moving forward, more research is needed to uncover why boundary 
+spanning results vary per KET and mission type. For KETs, it may also be 
+useful to relate proximity dynamics to attributes associated with in-
+dustry and technology lifecycle dynamics (Klepper, 1997 ). The extant 
+literature on technological complexity may provide an alternative 
+analytical framework to provide a better understanding of how and why 
+the formation of collaborative ties varies across technologies (Broekel, 
+2019 ). Also, while the focus of the current study was at the dyad level 
+(proximity dimensions), future studies can extend it by taking into 
+consideration place-specific characteristics as well as 
+micro-determinants of a given R&D network (Abbasiharofteh and 
+Broekel, 2020 ). After all, recent scholarly debate on proximities suggests M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+12that the relevance of proximity dimensions should be investigated hand 
+in hand with the structural properties of a given collaborative network 
+(Balland et al., 2020 ). For missions, frameworks are emerging that foster 
+analysis of proximity sensitivities related not only to different mission 
+types and mission ambitions (Fisher et al., 2018 ), but also relative to 
+currently deployed policy initiatives designed to spur creativity and 
+engage actors (OECD, 2021). Acknowledging the rising interest for 
+Europe ’s ‘twin transition ’ based on digital and green transformations, 
+finally, it seems worthwhile to examine boundary spanning dynamics at 
+the crossroads of these two particular KET and mission domains 
+(Andersen et al., 2021; Santoalha et al., 2021 ). 
+A rare feature of our study is that it concerns findings on pre- 
+commercial R&D projects, as this stage is often neglected in argu-
+ments on how KETs and missions might affect innovation processes. 
+Follow-up research could study the influence of KETs and missions along 
+the entire spectrum from knowledge development to deployment. For 
+the selection of domains that engage in technological innovation, such 
+research could rely on patent analyses to measure both technological 
+relatedness (instead of taking skill-relatedness as a proxy for cognitive 
+proximity) as well as the results of R&D projects. Furthermore, the 
+mechanisms behind the demonstrated boundary spanning potential of 
+some KETs and missions should be studied in more depth. Due to data 
+limitations, this study did not allow for examining the precise project 
+contributions made by different firms involved in an R&D project. While firms from distinct areas and sectors may seek each other out because of 
+technological complementarities on the one hand, and particular de-
+mands in application areas on the other, additional research is needed to 
+uncover the specificities in, for instance, the roles, capabilities and 
+marketing possibilities brought in by various project partners. 
+CRediT authorship contribution statement 
+Matthijs J. Janssen: Conceptualization, Writing – original draft. 
+Milad Abbasiharofteh: Methodology, Formal analysis, Visualization, 
+Writing – original draft. 
+Declaration of Competing Interest 
+The authors declare they have no conflict of interests. 
+Acknowledgments 
+The authors would like to thank participants at the UU-CWTS 
+workshop 2020 and Eu-SPRI Annual Conference 2021 as well as two 
+anonymous reviewers for their valuable suggestions. Our gratitude also 
+goes out to Koen Frenken and Iris Wanzenb ock for commenting on 
+earlier versions of the paper. We thank RVO.nl for the provision of the 
+data.  
+Appendix A 
+This appendix presents the results for regressions at the aggregate KETs and missions levels, based on models containing age variables for the two 
+firms that can form a tie (AGE_1 and AGE_2). The number of observations in this model is 8% lower than in the original empirical setting.    
+KETs and Missions  
+KETs Not a KET Missions No mission KETs and missions Not a KET and no mission 
+GEO (z-score) 0.0681*** 0.1271*** 0.0884*** 0.0855*** 0.0689*** 0.1384***  
+(0.0150) (0.0107) (0.0142) (0.0108) (0.0212) (0.0124) 
+COG (z-score) 0.2911*** 0.3541*** 0.5146*** 0.2362*** 0.3062*** 0.2310***  
+(0.0198) (0.0165) (0.0211) (0.0143) (0.0295) (0.0196) 
+SME (origin) -0.4190*** -0.4812*** -0.2491*** -0.4182*** -0.3168*** -0.5599***  
+(0.0448) (0.0350) (0.0450) (0.0315) (0.0686) (0.0424) 
+SME (destination) -0.4044*** -0.3878*** -0.0898* -0.3831*** -0.1084 -0.4959***  
+(0.0462) (0.0358) (0.0462) (0.0323) (0.0709) (0.0434) 
+BUDGET (origin) 0.3382*** 0.0095 0.2063*** 0.1671*** 0.4820*** 0.0453***  
+(0.0126) (0.0106) (0.0134) (0.0091) (0.0191) (0.0126) 
+BUDGET (destination) 0.3778*** -0.0004 0.1897*** 0.1827*** 0.5007*** 0.0511***  
+(0.0123) (0.0106) (0.0133) (0.0089) (0.0193) (0.0124) 
+PRO (origin) -1.1510*** -1.4752*** -1.6031*** -1.0341*** -1.6723*** -1.4623***  
+(0.0705) (0.0656) (0.0667) (0.0609) (0.1012) (0.0918) 
+PRO (destination) -1.3594*** -1.3431*** -1.6502*** -1.0280*** -2.0552*** -1.2863***  
+(0.0771) (0.0622) (0.0672) (0.0612) (0.1167) (0.0862) 
+PRO (origin ×destination) 2.3629*** 2.9572*** 2.3516*** 2.7162*** 2.7707*** 3.3216***  
+(0.0983) (0.0866) (0.0943) (0.0800) (0.1501) (0.1190) 
+AGE_1 0.0935*** 0.2390*** 0.2393*** 0.1506*** 0.0937*** 0.2300***  
+(0.0205) (0.0166) (0.0206) (0.0147) (0.0307) (0.0203) 
+AGE_2 0.1551*** 0.3062*** 0.3021*** 0.2305*** 0.1297*** 0.2956***  
+(0.0216) (0.0174) (0.0213) (0.0155) (0.0320) (0.0214) 
+Constant -15.2652*** -7.2429*** -12.2360*** -10.9526*** -19.1588*** -8.7701***  
+(0.2579) (0.2102) (0.2707) (0.1843) (0.4014) (0.2519) 
+Observations 1626,306 1626,306 1626,306 1626,306 1626,306 1626,306 
+Log Likelihood -17,012.4800 -25,337.7700 -17,547.9600 -30,481.7400 -8284.4840 -17,823.7900 
+Akaike Inf. Crit. 34,048.9500 50,699.5400 35,119.9100 60,987.4700 16,592.9700 35,671.5800 
+Note: *p D0.1; **p D0.05; ***p D0.01. 
+References 
+Abbasiharofteh, M., Broekel, T., 2020. Still in the shadow of the wall? The case of the 
+Berlin biotechnology cluster. Environ. Plann. A: Econ. Space 46, 3. Andersen, A.D., Frenken, K., Galaz, V., Kern, F., Klerkx, L., Mouthaan, M., Piscicelli, L., 
+Schor, J.B., Vaskelainen, T., 2021. On digitalization and sustainability transitions. 
+Environmental Innovation and Societal Transitions 41, 96–98. 
+Antonietti, R., Montresor, S., 2019. Regional diversification patterns and key enabling 
+technologies (KETs) in Italian regions. Papers in Evolutionary Econ. Geography 
+1928 . M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+13Asheim, B.T., Boschma, R., Cooke, P., 2011. Constructing regional advantage: platform 
+policies based on related variety and differentiated knowledge bases. Reg. Stud. 45 
+(7), 893–904. 
+Aykut, S.C., Morena, E., Foyer, J., 2020. ‘Incantatory ’ governance: global climate 
+politics ’ performative turn and its wider significance for global politics. Int. Politics 
+1–22. 
+Balland, P.-.A., Boschma, R., Crespo, J., Rigby, D.L., 2019. Smart specialization policy in 
+the European Union: relatedness, knowledge complexity and regional 
+diversification. Reg. Stud. 53 (9), 1252 –1268 . 
+Balland, P.-.A., Boschma, R., Frenken, K., 2020. Proximity, innovation and networks: a 
+concise review and some next steps. Papers in Evolutionary Econ. Geography 2019 . 
+Bathelt, H., Malmberg, A., Maskell, P., 2004. Clusters and knowledge: local buzz, global 
+pipelines and the process of knowledge creation. Prog. Hum. Geogr. 28 (1), 31–56. 
+Bilbao-Ubillos, J., Camino-Beldarrain, V., Intxaurburu-Clemente, G., 2021. Industry 4.0, 
+proximity constraints and new challenges for industrial policy. Eur. Plan. Stud. 29 
+(2), 329–345. 
+Boon, W., Edler, J., 2018. Demand, challenges, and innovation. Making sense of new 
+trends in innovation policy. Sci. Public Policy 45 (4), 435–447. 
+Boschma, R., 2005. Proximity and innovation: a critical assessment. Reg. Stud. 39 (1), 
+61–74. 
+Boschma, R., Heimeriks, G., Balland, P.-.A., 2014. Scientific knowledge dynamics and 
+relatedness in biotech cities. Res. Policy 43 (1), 107–114. 
+Bresnahan, T., 2010. General purpose technologies. In: Handbook of the Economics of 
+Innovation, 2. North-Holland, pp. 761–791. 
+Brodzicki, T., Uminski, S., 2017. A gravity panel data analysis of foreign trade by regions: 
+the role of metropolises and history. Reg. Stud. 52 (2), 261–273. 
+Broekel, T., Balland, P.-.A., Burger, M., van Oort, F., 2014. Modeling knowledge 
+networks in economic geography: a discussion of four methods. Ann. Reg. Sci. 53 (2), 
+423–452. 
+Broekel, T., 2019. Using structural diversity to measure the complexity of technologies. 
+PLoS ONE 14 (5), e0216856 . 
+Brown, R., 2020. Mission-oriented or mission adrift? A critical examination of mission- 
+oriented innovation policies. Eur. Plan. Stud. 1–23. 
+Bugge, M.M., Andersen, A.D., Steen, M., 2021. The role of regional innovation systems in 
+mission-oriented innovation policy: exploring the problem-solution space in 
+electrification of maritime transport. Eu. Plan. Stud. 1–22. 
+Cappellano, F., Kurowska-Pysz, J., 2020. The mission-oriented approach for (Cross- 
+Border) regional development. Sustainability 12 (12), 5181 . 
+Ciffolilli, A., Muscio, A., 2018. Industry 4.0: national and regional comparative 
+advantages in key enabling technologies. Eur. Plan. Stud. 26 (12), 2323 –2343 . 
+Coenen, L., Hansen, T., Rekers, J.V., 2015. Innovation policy for grand challenges. an 
+economic geography perspective. Geography Compass 9 (9), 483–496. 
+Cohen, W.M., Levinthal, D.A., 1989. Innovation and learning: the two faces of R & D. 
+Econ. J. 99 (397), 569–596. 
+Content, J., Frenken, K., 2016. Related variety and economic development: a literature 
+review. Eur. Plan. Stud. 24 (12), 2097 –2112 . 
+Ergas, H., 1987. Does technology policy matter? Technol. Global Ind. Companies and 
+Nations in the World Econ. 191–245. 
+European Commission, 2012. A European strategy for key enabling technologies —A 
+bridge to growth and jobs. In: Final communication from the commission to the 
+European Parliament, the Council, the European Economic and Social Committee 
+and the Committee of the Regions. COM (2012). European Commission, Brussels, 
+Belgium, p. 341. 
+European Commission, 2018. Mission-Oriented Research & Innovation in the European 
+Union: A Problem-solving Approach to Fuel Innovation-led Growth. Directorate- 
+General for Research and Innovation. Brussels: European Commission . 
+Evangelista, R., Meliciani, V., Vezzani, A., 2018. Specialisation in key enabling 
+technologies and regional growth in Europe. Econ. Innovation and New Technol. 27 
+(3), 273–289. 
+EZK/Dutch Ministry of Economic Affair and Climate Policy (2019). Kamerbrief Over 
+Missiegedreven Topsectoren- en Innovatiebeleid. Available online at: www.rijksove 
+rheid.nl/documenten/kamerstukken/2019/04/26/kamerbrief-over-missiegedreven 
+-topsectoren-en-innovatiebeleid . 
+Fisher, R., Chicot, J., Domini, A., Polt, W., Turk, A., Unger, M., Lehenkari, J., 2018. 
+Mission-oriented Research and innovation: Inventory and Characterisation of 
+Initiatives. European Commission EC. 
+Flanagan, K., Uyarra, E., Wanzenb ock, I., 2022. Towards a problem-oriented regional 
+industrial policy: possibilities for public intervention in framing, valuation and 
+market formation. Reg. Stud. 1–13. 
+Foray, D., David, P.A., Hall, B., 2009. Smart specialisation –the concept. Knowledge Econ. 
+Policy Brief 9 (85), 100. 
+Foray, D., Mowery, D.C., Nelson, R.R., 2012. Public R&D; and social challenges: what 
+lessons from mission R&D; programs? Res. Policy 41, 1697 –1702 . 
+Foray, D., 2018. Smart specialization strategies as a case of mission-oriented policy —A 
+case study on the emergence of new policy practices. Ind. Corporate Change 27 (5), 
+817–832. 
+Foray, D., 2019. On sector-non-neutral innovation policy: towards new design principles. 
+J. Evolutionary Econ. 29 (5), 1379 –1397 . 
+Grillitsch, M., Asheim, B., Trippl, M., 2018. Unrelated knowledge combinations: the 
+unexplored potential for regional industrial path development. Cambridge J. 
+Regions, Econ. Society 11 (2), 257–274. 
+Hekkert, M.P., Janssen, M.J., Wesseling, J.H., Negro, S.O., 2020. Mission-oriented 
+innovation systems. Environ. Innovation and Societal Transitions 34, 76–79. 
+Hoekman, J., Frenken, K., van Oort, F., 2009. The geography of collaborative knowledge 
+production in Europe. Ann. Reg. Sci. 43 (3), 721–738. Janssen, M.J., 2019. What bangs for your buck? Assessing the design and impact of 
+Dutch transformative policy. Technol. Forecast. Soc. Change 138, 78–94. 
+Janssen, M.J., Bogers, M., Wanzenb ock, I., 2020. Do systemic innovation intermediaries 
+broaden horizons? A proximity perspective on R&D partnership formation. Ind. 
+Innovation 27 (6), 605–629. 
+Janssen, M.J., Frenken, K., 2019. Cross-specialisation policy: rationales and options for 
+linking unrelated industries. Cambridge J. Regions, Econ. Soc. 12 (2), 195–212. 
+Janssen, M.J., Torrens, J., Wesseling, J.H., Wanzenb ock, I., 2021. The promises and 
+premises of mission-oriented innovation policy —A reflection and ways forward. Sci. 
+Public Policy 48 (3), 438–444. 
+Kattel, R., Mazzucato, M., 2018. Mission-oriented innovation policy and dynamic 
+capabilities in the public sector. Ind. Corporate Change 27 (5), 787–801. 
+Klepper, S., 1997. Industry Life Cycles. Ind. Corporate Change 6 (1), 145–181. 
+Klerkx, L., Leeuwis, C., 2009. Establishment and embedding of innovation brokers at 
+different innovation system levels: insights from the Dutch agricultural sector. 
+Technol. Forecast. Soc. Change 76 (6), 849–860. 
+Kuhlmann, S., Rip, A., 2018. Next-generation innovation policy and grand challenges. 
+Sci. public policy 45 (4), 448–454. 
+Maggioni, M.A., Nosvelli, M., Uberti, T.E., 2007. Space versus networks in the geography 
+of innovation: a European analysis. Papers in Regional Sci. 86 (3), 471–493. 
+Mazzucato, M., 2016. From market fixing to market-creating: a new framework for 
+innovation policy. Ind. Innovation 23 (2), 140–156. 
+Mazzucato, M., 2018a. Mission-oriented innovation policies: challenges and 
+opportunities. Ind. Corporate Change 27 (5), 803–815. 
+Mazzucato, M., 2018b. Mission-Oriented Research and Innovation in the European 
+Union. A Problem-Solving Approach to Fuel Innovation-Led Growth. European 
+Commission, Directorate-General for Research and Innovation, Brussels, Belgium .  
+Mazzucato, M., Robinson, D.K., 2018. Co-creating and directing innovation ecosystems? 
+NASA ’s changing approach to public-private partnerships in low-earth orbit. 
+Technol. Forecast. Soc. Change 136, 166–177. 
+Mazzucato, M., Penna, C.C., 2016. Beyond market failures: the market creating and 
+shaping roles of state investment banks. J. Econ. Policy Reform 19 (4), 305–326. 
+Mazzucato, M., Semieniuk, G., 2017. Public financing of innovation: new questions. 
+Oxford Re. Econ. Policy 33 (1), 24–48. 
+McCann, P., Soete, L., 2020. Place-based innovation for sustainability. Publications 
+Office of the European Union, Luxemburg .  
+Messeni Petruzzelli, A., Albino, V., Carbonara, N., 2009. External knowledge sources and 
+proximity. J. Knowledge Manag. 13 (5), 301–318. 
+Micek, G., 2018. Attempt at Summarising Past Studies on Geographic Proximity. Prace 
+Komisji Geografii Przemys łu Polskiego Towarzystwa Geograficznego 32 (4), 
+227–239. 
+Montresor, S., Quatraro, F., 2017. Regional branching and key enabling technologies: 
+evidence from European patent data. Econ. Geogr. 93 (4), 367–396. 
+Neffke, F.M.H., Otto, A., Weyh, A., 2017. Inter-industry labor flows. J. Econ. Behav. 
+Organ. 142, 275–292. 
+Neul andtner, M., Scherngell, T., 2020. Geographical or relational: what drives 
+technology-specific R&D collaboration networks? Ann. Reg. Sci. 65 (3), 743–773. 
+OECD (2021). The design and implementation of mission-oriented innovation policies: a 
+new systemic policy approach to address societal challenges. OECD STI Policy Paper 
+100; DSTI/STP(2020)15/FINAL. OECD, Paris. 
+Peri, G., 2005. Determinants of knowledge flows and their effect on innovation. Rev. 
+Econ. Statistics 87 (2), 308–322. 
+Santoalha, A., Consoli, D., Castellacci, F., 2021. Digital skills, relatedness and green 
+diversification: A study of European regions. Research Policy 50 (9), 104340 . 
+Scherngell, T., Barber, M.J., 2009. Spatial interaction modelling of cross-region R&D 
+collaborations: empirical evidence from the 5th EU framework programme. Papers 
+in Regional Sci. 88 (3), 531–546. 
+Scholl, T., Brenner, T., 2014. Detecting spatial clustering using a firm-level cluster index. 
+Reg. Stud. 50 (6), 1054 –1068 . 
+Schot, J., Steinmueller, W.E., 2018. Three frames for innovation policy: R&D, systems of 
+innovation and transformative change. Res. Policy 47 (9), 1554 –1567 . 
+Todtling, F., Trippl, M., 2018. Regional innovation policies for new path 
+development –beyond neo-liberal and traditional systemic views. Eur. Plan. Stud. 26 
+(9), 1779 –1795 . 
+Uyarra, E., Ribeiro, B., Dale-Clough, L., 2019. Exploring the normative turn in regional 
+innovation policy: responsibility and the quest for public value. Eu. Plan. Stud. 27 
+(12), 2359 –2375 . 
+Uyarra, E., Zabala-Iturriagagoitia, J.M., Flanagan, K., Magro, E., 2020. Public 
+procurement, innovation and industrial policy: rationales, roles, capabilities and 
+implementation. Res. Policy 49 (1), 103844 . 
+Van Lente, H., Boon, W.P., Klerkx, L., 2020. Positioning of systemic intermediaries in 
+sustainability transitions: between storylines and speech acts. Environ. Innovation 
+and Societal Transitions 36, 485–497. 
+Von Hippel, E., 1978. A customer-active paradigm for industrial product idea generation. 
+Res. Policy 7 (3), 240–266. 
+Wanzenb ock, I., Frenken, K., 2020. The subsidiarity principle in innovation policy for 
+societal challenges. Global Transitions 2, 51–59. 
+Wanzenb ock, I., Neul andtner, M., Scherngell, T., 2020a. Impacts of EU funded R&D 
+networks on the generation of key enabling technologies: empirical evidence from a 
+regional perspective. Papers in Regional Sci. 99 (1), 3–24. 
+Wanzenb ock, I., Wesseling, J., Frenken, K., Hekkert, M., Weber, M., 2020b. A framework 
+for mission-oriented innovation policy: alternative pathways through the problem- 
+solution space. Sci. Public Policy 47 (4), 474–489. 
+Matthijs J. Janssen is tenured assistant professor at the Copernicus Institute of Sustain -
+able Development, Utrecht University. He obtained his PhD degree from Eindhoven M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       Technological Forecasting & Social Change 180 (2022) 121689
+14University of Technology, and previously held a Growth Lab fellow position at the Center 
+for International Development – Harvard Kennedy School of Government. In his academic 
+work he studies the interface between industrial policy, (mission-oriented) innovation 
+policy, and transitions. Apart from his affiliation at Utrecht University, Matthijs also acts as 
+Principal Scientist at research and consultancy agency Dialogic (Utrecht). 
+Milad Abbasiharofteh is assistant professor at the Department of Economic Geography at 
+the University of Groningen’s Faculty of Spatial Sciences. Earlier he held positions as research associate at the Human Geography and Spatial Planning group of Utrecht Uni-
+versity, at the Structural Change department of the Leibniz Institute of Agricultural 
+Development in Transition Economies (IAMO), and the Academy for spatial research and 
+planning (ARL) in Hanover, Germany. Milad studied Urban Agglomerations at the 
+Frankfurt/Main University of applied Sciences, Germany. His PhD thesis underlines the 
+dynamic interplay between driving forces behind radical and incremental innovation and 
+knowledge networks. In his current work he investigates knowledge networks within and 
+across clusters. M.J. Janssen and M. Abbasiharofteh                                                                                                                                                                                                       

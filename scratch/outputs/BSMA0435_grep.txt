@@ -1,0 +1,150 @@
+﻿
+  procedure, i.e., PROCESS.
+  Findings â€“ The results of this paper reveal that an individual-level internal resource, i.e. time, positively
+  predicts group performance, while group-level internal resources, i.e., group composition and group membersâ€™
+> experience, negatively predict group performance. Both external resources (external communication and
+  instructorâ€™s support) are found to have a positive effect on group performance. The relationship quality
+  among group members partially relates to group performance. Instructorâ€™s support as an external resource is
+  found to moderate the relationship between only two aspects of relationship quality and group performance.
+  students to diffuse their anxiety while taking up tough tasks in the semester (Black and
+  Deci, 2000). Therefore, it is hypothesized that:
+  H3a. Instructorâ€™s support positively predicts studentsâ€™ group performance.
+> Being useful in both work and study contexts, external communication, i.e., sharing of ideas
+  with individuals outside the group, can contribute to group performance (Chermak and
+> Weiss, 2005). In group-based learning, external communication can help group members
+  mitigate the effects of misinformation, obtain the quality information and data they require
+  for completing their study project and seek informal feedback from out-group fellows
+  (Lovall, 2001). Having the requisite information fetched from outside the group, group
+  reiterate the groupâ€™s objectives and then compare with the groupâ€™s achievements, further
+  leading to overall group performance (Smidts et al., 2001). Based on the above, it is
+  hypothesized that:
+> H3b. External communication positively predicts studentsâ€™ group performance.
+  Relationship quality and group performance
+  The literature suggests a positive relationship between relationship quality and group
+  performance (see e.g. Curkovic et al., 2000; Rickards and Moger, 2000). However, the
+  performance. That is, support from instructors to complete assigned tasks, when combined
+  with relationship quality, produces more effective group performance (Black and Deci,
+  2000). Instructorâ€™s support has a strong relationship with both relationship quality
+> (Mullen and Tallent-Runnels, 2006) and external communication. When information is
+  gathered and shared outside a group, it has a multiplying effect on relationship quality,
+  thereby increasing group performance (Chermak and Weiss, 2005). Therefore, external
+  communication is also considered to strengthen the relationship between relationship
+  quality and group performance. Hence, it is hypothesized that:
+  H5a. Instructorâ€™s support moderates the association between relationship quality and
+  studentsâ€™ group performance by strengthening the relationship.
+> H5b. External communication moderates the relationship between relationship quality
+  and studentsâ€™ group performance by strengthening the relationship (Figure 1).
+  Method
+  Sample and procedures
+  gathered. It included time- and finance-related data and personal information (time 1,
+  questionnaire 1). This was the information that could be gathered initially as students had
+  clarity about this while enrolling in a semester. In the second wave, data about constructs of
+> external resources (instructorsâ€™ support and external communication) and internal resources
+  Internal Resources
+  (at individual level)
+  Group Performance
+  Group Membersâ€™
+  Experience
+  Instructorâ€™s Support
+> External Communication
+  Group Composition
+  Information Sharing
+  Communication Quality
+  3 Â¼ both.
+  External resources. External resources include instructorsâ€™ support and external
+  communication. For measuring the both these variables, respondents were asked to mention
+> the level of instructorsâ€™ help and external communication on the following scale: 1 Â¼ low,
+  2 Â¼ medium and 3 Â¼ high.
+  Results
+  Table I presents means, standard deviations and correlations.
+  0.09
+  0.09
+  â€“
+> (5) External communication
+  1.50
+  0.50
+  0.29***
+  --- Page 10 ---
+  H3aâ€“b pertain to the association between external resources and group performance.
+  As expected, the results reveal that instructorâ€™s support ( Î² Â¼ 0.35, t Â¼ 7.69, po0.001) and
+> external communication ( Î² Â¼ 0.45, t Â¼ 6.00, po0.001) have a significant positive effect on
+  group performance. Hence, H3a and H3b are supported.
+  H4 states that relationship quality positively predicts group performance. The results
+  reveal that all the elements of relationship quality, i.e., information sharing ( Î² Â¼ âˆ’0.45,
+  Thus, H4 is partially supported.
+  Moderating effects
+  H5aâ€“b pertain to the moderating effects of external resources, i.e., instructorâ€™s support and
+> external communication, on the relationship between relationship quality and group
+  performance. In order to run moderation analysis, we employed Preacher and Hayesâ€™
+  (2008) bootstrapping procedure (5,000 iterations, bias-corrected, 95% confidence intervals
+  (CI)). We ran eight moderated models. In models 1â€“4, we analyzed the moderating effect of
+  instructorâ€™s support on each factor of relationship quality, and in models 5â€“8, we analyzed
+> the moderating effects of external communication on each factor of relationship quality.
+  Of eight moderated models only the following two models provided evidence of
+  moderating effects.
+  First, the direct paths between information sharing (B Â¼ 1.17, po0.001) and instructorsâ€™
+  External resources
+  0.46
+  84.35(2, 201)***
+> External communication
+  0.45***
+  Instructorâ€™s support
+  0.35***
+  0.00 0.37(1, 200)ns [âˆ’1.00, âˆ’0.13] [âˆ’1.25, âˆ’0.29]
+  Information sharing
+  1.37*** 0.14
+> External communication
+  âˆ’0.67*** 0.16
+  Information sharing Ã— External
+  communication
+  [âˆ’0.24, 2.87]
+  Communication quality
+  1.48*** 0.14
+> External communication
+  0.68ns
+  0.41
+  Communication quality Ã— External
+  [âˆ’1.02, 0.11]
+  Long-term relationship orientation
+  1.57*** 0.15
+> External communication
+  âˆ’0.30ns
+  0.18
+  Long-term relationship
+> orientation Ã— External communication
+  0.31ns
+  0.37
+  Model 8
+  Satisfaction with the relationship
+  1.5***
+  0.14
+> External communication
+  0.19ns
+  0.21
+  Satisfaction with the
+  accomplish tasks without seeking othersâ€™ input. This reduces the chances of othersâ€™
+  learning, and may demotivate them, resulting in overall low group performance
+  (Homan et al., 2008).
+> External resources include external communication and instructorâ€™s support. The results
+  of our study confirm that both have a positive significant relationship with group
+> performance. External communication is the communication with other groups. The more
+> the external communication is, the more the level of information sharing and knowledge
+  transfer will be. As a result, group performance increases (Smidts et al., 2001; Lovall, 2001;
+  Chermak and Weiss, 2005). As regards instructorsâ€™ support, if instructors are supportive
+  and guide students, the group of students can increase their group performance (Black and
+  While examining the moderating effect of external resources on the relationship between
+  dimensions of relationship quality and group performance, we found that external
+  communication did not interact at all. It could be because in our study we assigned every
+> group a unique project. Maybe because of this, external communication could not moderate
+  the relationship between relationship quality and group performance, as ideas bought
+  into each group, from outside the groups, may not be relevant to the respective project
+  (Katz et al., 2004). However, the other external resource, instructorâ€™s support interacted with
+  Science Education, Vol. 84 No. 6, pp. 740-756.
+  Cannon, J.P. and Homburg, C. (2001), â€œBuyerâ€“supplier relationships and customer firm costsâ€, Journal
+  of Marketing, Vol. 65 No. 1, pp. 29-43.
+> Chermak, S. and Weiss, A. (2005), â€œMaintaining legitimacy using external communication strategies: an
+  analysis of police-media relationsâ€, Journal of Criminal Justice, Vol. 33 No. 5, pp. 501-512.
+  Curkovic, S., Vivkery, S. and Droge, C. (2000), â€œQuality-related action programs: their impact on quality
+  performance and ï¬rm performanceâ€, Decision Sciences, Vol. 31 No. 4, pp. 885-902.
+
+

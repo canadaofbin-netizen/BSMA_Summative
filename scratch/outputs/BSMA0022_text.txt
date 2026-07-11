@@ -1,0 +1,954 @@
+270 
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT. VOL. 42, NO. 3, AUGUST 1995 
+Innovation From Differentiation: 
+Pollution Control Departments and 
+Innovation in the Printed Circuit Industry 
+Andrew King 
+Invited Paper 
+Abstract-Theory predicts that managers will create specialized 
+boundary-spanning departments to insulate a firm from changing 
+surrounding conditions. Theory also predicts such insulating 
+structures will inhibit adaptation. I find that in response to 
+changing water-pollution regulation, top managers indeed created 
+specialized pollution-control departments to insulate the existing 
+process, but some of these departments acted not as insulators but 
+as conduits for information and thereby helped both to improve 
+the efficiency of the production process and to reduce pollution. 
+The special role of these departments allowed unique access 
+to and perspective on information from inside and outside the 
+organization and gave them an incentive to use this information to 
+improve core processes. Thus my research suggests that pollution- 
+control departments may belong to a class of boundary spanners 
+that represent a special case for organizational design. 
+I. INTRODUCTION 
+ANY companies now face the dual challenge of tougher 
+M global competition and increasing obligation to protect 
+the natural environment. In response. some firms, such as 
+Union Carbide, have created “environmental” departments 
+to mediate between the firm and environmental regulators. 
+while others, such as 3M and Dow, have attempted to in- 
+tegrate responsibility for the natural environment into existing 
+organizational roles [ I]-[3]. Theory suggests that choosing 
+between the two alternatives creates a dilemma for man- 
+agers. A separate boundary-spanning department, such as 
+Union Carbide’s, allows scale efficiencies, controlled risk, and 
+efficient production, while an integrated approach. such as 
+3M’s, allows the firm to learn and adapt to new conditions 
+[4]-[7]. Organizational theories predict that most managers 
+will respond to this dilemma by forming specialized pollution 
+control departments to protect existing procedures, processes, 
+and structures [4]. 
+This paper investigates the formation and behavior of pol- 
+lution control departments in the printed-circuit industry. I 
+find that top managers created separate pollution control 
+departments to insulate the firm from regulators, but that some 
+Manuscript received January 11, 1993. This work was supported in pan by 
+the Center for Innovation Management Studies at Lehigh University. Review 
+of this manuscript was processed by Special Issue Guest Associate Editors T. 
+Allen, C. Karlsson, and F. Norrgren. 
+The author is with the Department of Management and Operations Man- 
+agement, Stem School of Business. New York University. New York. NY 
+10012 USA. 
+IEEE Log Number 9413094. 
+of these departments did not act to insulate the firm, rather they 
+provided important process-improving information and inno- 
+vative ideas to process engineers. I find that pollution control 
+departments were able to make these process improvements 
+because they had unique information and that this information 
+derived in part from their specialized role. I propose that 
+this unexpected behavior suggests extensions of theories of 
+organizational design. 
+11. THEORETICAL 
+BACKGROUND 
+Pollution control departments span the boundary between 
+the organization and its surroundings. Organizational theory 
+provides three main perspectives on the effect and behavior 
+of such boundary-spanning entities. Time-honored models 
+of organizational design suggest that specialized boundary- 
+spanning entities allow organizations to remain efficient in the 
+face of changing business conditions, but may inhibit adap- 
+tation to changes in external conditions [4], [5]. In contrast, 
+proponents of “lean production” or “total quality” argue that 
+such departments reduce information flow and thus impede 
+adaptation and improvement of process efficiency [7]-[9]. A 
+third perspective considers the potential of boundary-spanning 
+departments to cause organizational conflict, and thus empha- 
+sizes the need for conflict-reducing integrating mechanisms 
+[IO]. 
+The customary view of the role of specialized boundary- 
+spanning departments derives from theories of division of 
+labor and efficiency [ 1 11-[ 131. These theories assume that 
+focused application of skill and technology best leads to effi- 
+ciency and leaming [ 111, [ 131. In this view, lateral interactions 
+between tasks or departments require application of scarce 
+management resources and distract attention from optimizing 
+the task at hand [4], [14]. If changing conditions (such as 
+increasing environmental regulation) require the firm to create 
+new tasks to address new conditions, these tasks should be 
+performed in separate organizational structures so that they do 
+not disrupt the production process (which is assumed to be 
+optimized). Thus rational firms seek “to isolate their technical 
+cores from environmental influence by establishing boundary- 
+spanning units to buffer or level environmental’ fluctuations” 
+’ Thompson did not. of course, mean to indicate only the natural environ- 
+ment but also the general conditions surrounding the firm. 
+1057-7149/94$04.00 0 1994 IEEE 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+KING: INNOVATION FROM DIFFERENTIATION. POLLUTION CONTROL DEPARTMENTS 
+27 1 
+[4, p. 671. In this perspective, since environmental influence 
+can only reduce efficiency, rational organizations attempt to 
+minimize information processing costs between boundary- 
+spanning departments and the core [41, [141-[171. 
+In the customary view. such separation and specialization 
+of boundary-spanning groups maintains efficiency but hinders 
+adaptation. Bums and Stalker [5] argue that reduced division of 
+labor, reduced specialization, increased lateral communication, 
+and increased task integration allow more rapid recognition of 
+new conditions, modification of objectives and acquisition of 
+new capabilities. Nevertheless, Burns and Stalker [5] share the 
+perspective that in stable environments lateral communication 
+patterns and task integration increase communication and coor- 
+dination costs without supporting performance improvement. 
+Another perspective arises from proponents of “quality” and 
+“lean production” who suggest that separation and specializa- 
+tion of boundary-spanning groups hinder both efficiency and 
+adaptation. Unlike Thompson [4], Galbraith [ 141, and even 
+Burns and Stalker [5], who assume that efficiency arises from 
+the focused application of specialized skills and technology, 
+proponents of “quality” or “lean production” assume that 
+efficiency results from the lateral exchange of information 
+and broadening of incentives [7], [8]. This efficiency can be 
+accomplished, they claim, only by distributing responsibility 
+for tasks (such as quality and pollution control) throughout 
+the company. Only when this responsibility is shared, do 
+workers have the incentive and the ability to transfer relevant 
+information, and only when such information transfer occurs 
+can organizations make processes more efficient or adapt to 
+new conditions IS, p. 99].2 
+The above perspectives consider information transfer to be 
+central to the influence of structure on performance. In con- 
+trast, Lawrence and Lorsch [ lo] emphasize the role of structure 
+in fostering or impeding intergroup conflict. Lawrence and 
+Lorsch [ lo] argue that precisely because boundary-spanning 
+departments mediate between the organization and different 
+surrounding institutions, these departments develop differing 
+goals, time perspectives, interpersonal orientations and formal- 
+ity of structures. These differences then cause conflict between 
+groups which must be offset through the use of integrative 
+devices (such as meetings and teams) [lo, p. 121. 
+In the remainder of this paper, I outline several hypotheses 
+consistent with the above theories, and attempt to validate them 
+by exploring the behavior of boundary-spanning departments 
+that managers of firms in one industry created in response to 
+environmental regulation. I show that the above theories do 
+not accurately predict the extent, nature, or implications of 
+interaction between these boundary-spanning departments and 
+the organizational core. I then propose extensions to theory to 
+explain this unusual behavior. 
+’The “quality” movement has had the greatest influence on professionals 
+in industry and analysts in government policy. Bemoski [ 181, Thomas [ 191, 
+and Martin [20] argue that pollution control and quality departments have 
+analogous roles in the organization. Therefore, they expect pollution control 
+groups to buffer the firm from a changing environment, delay and filter 
+feedback information, and prevent core-process adaptation [?I], [2 I]. The 
+Congressional Office of Technology Assessment, in its seminal report, Serious 
+Reduction of Huzurdous Wuste, argues that pollution control departments will 
+insulate the firm from environmental requirements, and consequently prevent 
+core-process change that might reduce the production of hazardous waste 1221. 
+A. Hypotheses 
+Thompson [4] predicts that, when faced with changing 
+external conditions, rational organizations form separated 
+boundary-spanning departments to mediate between the firm 
+and its surroundings. While “quality” theorists and industry 
+analysts propose that separate pollution control departments 
+will impede information transfer and learning, they agree 
+with Thompson [4] that firms will respond to changing 
+environmental conditions by creating such departments, and 
+they expect the relationship between these departments and 
+the rest of the organization to be distant [7], 
+Piore 
+and Sable [6] also anticipate that US firms will respond to 
+changing surrounding conditions by creating such boundary- 
+spanning departments. Once these departments are created, 
+Thompson [4], Galbraith [14], MacDuffie [7], and Womack 
+et al. [8] predict that relations between these departments and 
+the rest of the organization will be distant. Thompson [4] and 
+Galbraith [ 141 predict that interaction with such departments 
+will relate predominantly to issues of task coordination. Thus 
+my first two hypotheses are: 
+Hypothesis 1: In response to changing environmental con- 
+ditions, managers will create pollution control departments to 
+insulate the firm and maintain the efficiency of core processes. 
+Hypothesis 2a: Pollution-control departments and core 
+technical and managerial personnel will have little interaction. 
+Hjpothesis 2b: Interaction between pollution-control and 
+core personnel will relate to environmental issues. 
+Thompson [4] and Galbraith (141 both predict the core 
+organization will perform best when boundary-spanning de- 
+partments effectively insulate the core from surrounding con- 
+ditions. In this model, boundary-spanning departments allow 
+the core to focus on process efficiency. Thus: 
+Hyporhesis 30: Communication between pollution-control 
+departments and the process engineering staff will lead to 
+process change that improves environmental performance. 
+Interaction between pollution-control de- 
+partments and the process engineering staff will result in 
+process change that increases cost, reduces quality, or limits 
+the capability of the production process. 
+Hypothesis 3c: In high performing firms (low cost, high 
+quality) pollution-control departments will communicate less 
+frequently with process-engineering personnel than in low 
+performing firms.4 
+Hypothesis 3b: 
+111. RESEARCH METHOD 
+Understanding issues of structure, communication, and per- 
+formance requires multiple research methods to compare mul- 
+tiple organizations. To allow practical research, one must 
+choose between rich, multimethod data and a large sample size. 
+I chose to identify a few similar manufacturing organizations 
+‘In part for this reason, government has begun to create legislation that 
+“does not stop at the boundary of the firm,” and instead requires the adoption 
+of pollution control accounting and control practices throughout the firm [23]. 
+‘It might also be possible to form an altemative hypothesis from the 
+quality literature that interaction with the environmental department will be 
+associated with process innovation that improves environmental performance 
+and improves core performance, This literature generally assumes, however, 
+that such communication is unlikely [8]. 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+272 
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 42. NO. 3. AUGUST 1995 
+and then analyze them in detail using qualitative interviews, 
+archival records, and several written surveys. I believe that 
+in combination, these multiple sources triangle organizational 
+behavior. 
+A. The Research Setting 
+The printed circuit fabrication industry is a rich domain in 
+which to study response to environmental regulation and the 
+behavior of pollution control departments. The industry in- 
+cludes many companies that use similar technology to produce 
+commodity products, thereby allowing cross firm comparison 
+of performance. In the early 1980’s, printed circuit firms 
+faced more stringent regulation of the discharge of metals 
+and organic compounds. Most of these regulations became 
+standardized around the time of the promulgation of federal 
+standards (40CFR413-June 15, 1983). 
+All of the plants in my study produce multilayer rigid 
+printed circuit boards. All of the companies make medium 
+complexity boards for the computer industry, and fewer than 
+10% of their production volume (measured in panels) is of high 
+complexity.’Sales vary from $5 million to 50 million. Two 
+plants are owned by large computer firms; the rest represent 
+the chief activity of a closely held firm. 
+B. Qualitative Research Method 
+I )  Interviews: To understand how printed circuit fabrica- 
+tors have responded to new water pollution requirements, 
+I investigated the history and behavior of eight plants in 
+detail. I began with open-ended interviews of firm presidents, 
+plant managers, process engineers, quality personnel, and 
+pollution control personnel. To focus the field of inquiry, I 
+concentrated on the etching and plating part of the production 
+process-usually 
+known as the “wet-process.’’ Engineers re- 
+sponsible for this part of production are called Wet Process 
+Engineers. 
+After several exploratory interviews, I inquired about the 
+history of the plant and organization, and walked through 
+the plant with staff from the departments of wet process 
+engineering (WPE), quality, and pollution control (PC). During 
+each of these tours, I asked that major process changes be 
+identified. I also developed a list of potential improvements 
+and sought to determine if firms had discovered and adopted 
+these improvements. 
+2) Archival Analysis: To uncover responses to water pol- 
+lution regulation, I investigated government, institutional and 
+company archives from the 1970’s and 1980’s. Sewer author- 
+ities inspect each company at least eight times a year and give 
+extensive descriptions of technology and practice. 
+C. Quantitative Research Method 
+The quantitative research measures the extent, nature and 
+result of interaction between PC departments and core process 
+personnel. Twelve rigid printed circuit firms agreed to par- 
+ticipate in the written study and were sent questionnaires for 
+5Defined as 1) density of three traces between 0.100’’ centers, or 2) surface 
+mount with fine pitch applications. 
+the wet process, quality, and pollution control managers. Eight 
+firms returned all three surveys, two returned two surveys, and 
+two did not respond. I also sent performance surveys to the 
+12 firms with questions about quality, production cost, and 
+treatment cost. I received responses from seven. 
+1 )  Measuring Interaction: To measure the nature of inter- 
+action between functional groups, the survey asked managers 
+of the wet process, quality, and pollution control departments 
+to characterize both their own and their compatriots’ behavior. 
+The survey asked questions about time spent communicating 
+with personnel from other departments in the firm, the nature 
+of interaction and the topics discussed. 
+2) Measuring Process Innovation: The managers of wet 
+process engineering, quality, and pollution control were asked 
+to report the five most important process changes that had 
+occurred in the last year and to rate the members of each 
+of the three groups in terms of their role in: 1) “identifying 
+the opportunity or need that became the impetus for the 
+change,” and 2) “in designing the change.” The managers were 
+then asked to indicate the effects of these process changes. 
+Respondents could choose one or more of the following 
+options: improved product quality, improved production 
+capabilities, reduced production costs, improved pollution 
+control, or otheddon’t know. 
+3) Firm PerJbrmance: The performance survey separated 
+boards of unusual complexity from commonly produced ones. 
+For both types of boards, it measured yield rates at several 
+stages and the cost of materials used in production and in 
+treatment. Because of differences in cost tracking methods at 
+the firms, I was unable to use the responses to questions about 
+the cost of production materials. 
+Iv. INITIAL RESPONSE 
+TO WATER POLLUTION REGULATION 
+Early in my investigation, I found support for the hypothesis 
+that firms will create specialized departments to respond to 
+changing conditions (Hypothesis 1). In eight firms where I per- 
+formed intensive interviews and archival analysis, managers 
+responded to increased water pollution regulation by purchas- 
+ing waste filtration equipment and forming a pollution control 
+department to protect the firm from regulatory problems. 
+In response to new environmental regulations, a senior 
+member of the technical staff and a top manager of each 
+facility selected the technology and organizational structure to 
+use. Top managers remembered the decision as necessary to 
+reduce the risk of regulatory trouble. All of the managers chose 
+to buy robust technology and sized this equipment to include 
+substantial overcapacity. All eight companies sized treatment 
+equipment to between 1.5 and three times that needed for 
+growth.(‘ Consider for example, the decision of the president 
+of one company: 
+“[The plant] presently discharges approximately 20 000 
+gal/day.. .or 40 gal/min. Average production has been de- 
+termined to be 643 sq/ft/day. Allowing for at least 50% 
+increase in production and, consequently, water usage over 
+60ne plant sized the facility at “30% over peak load,” and one company 
+that purchased a new building inherited a treatment system with three times 
+the capacity they expected to need. 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+KING. INNOVATION FROM DIFFERENTIATION: POLLUTION CONTROL DEPARTMENTS 
+Infomaon Conduits: 7he pollution-control depmment attempts to reduce 
+waste as well as treat it. PC personnel frequently pass information on 
+performance, problem areas and solution ideas to process engineers. 
+Quote: “They (PC personnel) are like a sccond pair of eyes and cars for me 
+(the prKess managerr 
+Feedback Sources: The pollutioncontrol d e p m e n t  insures that the fm 
+is in compliance by treating waste, but it should not have to treat waste 
+unnecesdy. If a problem occurs in production, PC personnel pass, 
+relevant data to production conceming water flow, chemical composition 
+and sa forth. Quote: “If something goes wrong, we (Pollution-Control) 
+let them know about it.” 
+Buffers: The pollutioniontrol depamnent insulates the production process 
+from regulatory change by treating waste. PC personnel inform the 
+organization of environmental regulations and get involved in production 
+issues only when ueatmmt or health issues arise. Quote: “We (Pollution- 
+Control) should stay out of process procedures.” 
+213 
+2 
+2 
+4 
+the next three to four years, the treatment system would have 
+to be sized to handle a maximum flow rate of 60 gal/min. 
+However the [president] has required that the system be 
+designed to handle a maximum flow of 100 gal/min.” 
+Managers seem to have purchased large, robust treatment 
+systems in a conscious attempt to reduce uncertainty by pre- 
+cluding regulatory problems. As the president of one company 
+put it, “Make my industry stable, and I’ll look to making my 
+industry better.” All but one company purchased a ferrous 
+sulfate clarifier to remove metal contaminants from waste 
+water. Although more efficient and effective technologies 
+were available, ferrous sulfate clarification provides reliable 
+and fluctuation-insensitive waste treatment.’ All of the top 
+managers initially charged the pollution-control personnel with 
+treating and controlling waste at the boundary of the plant. As 
+one manager put it, “It’s easier to pay someone to operate a 
+waste-treatment plant than put up with meddling in manufac- 
+turing.” Pollution control managers at all of the plants agreed 
+that in the early 1980’s their job was (as one put it) to “treat 
+what production sent them.” 
+Thus as suggested by Hypothesis 1, managers chose to 
+create pollution control departments to insulate the firm from 
+changing external conditions and to maintain the efficiency of 
+core processes. 
+A. Evidence of Interaction Between Pollution 
+Control and the Rest of the Firm 
+In numerous interviews, I found behavior that contradicted 
+the hypothesis that communication between these specialized 
+departments and the organizational core would be infrequent 
+and limited [Hypothesis 2(a)]. While in about half the firms 
+PC personnel reported seldom conversing with wet process 
+personnel, in the other firms they judged such conversations 
+to be frequent. Three classes of behavior for pollution control 
+departments emerged (Fig. 1). 
+My qualitative evidence also contradicted the hypothesis 
+that interaction between pollution control departments and the 
+organizational core would lead to poorer performance [Hy- 
+pothesis 3(b)]. In discussions with wet process and pollution 
+control managers, I learned that pollution control departments 
+often had information important to improving the production 
+process in areas unrelated to environmental protection. Thus 
+when WPE managers acquired this information, substantial 
+performance improvement could result. In one firm, PC per- 
+sonnel had initiated innovations that, over one year, caused 
+a 41% reduction in the use of process materials (an annual 
+saving of $1 13 000 or about 1% of sales). 
+I )  Interaction Between Pollution Control and the Rest of 
+the Firm: Contrary to Hypothesis 2(a) (pollution control de- 
+partments will seldom interact with the organizational core), 
+my data indicate that PC personnel interact extensively with 
+the rest of the organization. WPE managers reported speaking 
+more often (though not significantly so) to PC personnel than 
+to maintenance, management, purchasing, or other engineering 
+’One manager jokingly calls this the “American” method, since it is nearly 
+foolproof, requires little skill to operate, and waste-treatment operators can 
+independently solve most problems simply by adding more ferrous sulfate. 
+personnel (usually dry process engineering). Moreover, despite 
+the current importance of quality in the industry, PC and 
+quality managers did not differ significantly in total time spent 
+communicating with the rest of the organization ( N  = 9:,uLpc 
+= 
+12.7 hrslweek = c = 8.65 pLqual 
+= 17.7 hrslweek c = 14.2). 
+Quality managers did differ significantly in time spent com- 
+municating with “production personnel” and “management” 
+0, < 0.05). This difference may be caused by management 
+concern about quality and by the direct role quality managers 
+often play in certain functions in production (e.g., automatic 
+optical inspection). 
+The data also indicate that conversations with PC personnel 
+frequently include topics other than pollution control [in 
+contrast to Hypothesis 2(b)]. While both pollution control and 
+wet process managers reported conversations about “waste 
+treatment” as “very common,” conversations about “waste of 
+material in production” were reported by both as “common.” 
+PC managers reported that their own conversations with WPE 
+personnel commonly included discussion of “quality” and 
+“yield.” 
+2) Pollution Control Interaction and Process Innovation: If 
+interaction is measured by the effect of the pollution-control 
+department on core technology, the data again show that PC 
+personnel interact with the organizational core [in contrast to 
+Hypothesis 2(a)]. WPE managers rated their own personnel 
+as most important in initiating and designing process changes 
+(see Table I), but judged quality and PC personnel to be of 
+nearly identical importance in initiating process changes.* 
+Remarkably, in two firms the Wet Process Engineering 
+manager rated PC personnel as more important, on average, 
+than his own staff in initiating reported process changes. 
+3) Pollution Control Interaction, Process Innovation and 
+Firm Perj-ormance: Hypothesis 3(a) predicts that pollution 
+control interaction with the core production process will be 
+associated with process innovation that leads to improved 
+environmental protection. The data support this hypothesis. 
+sData about process innovation from the three managers exhibit a substan- 
+tial respondent bias. All three types of managers tended to report innovations 
+in which their own personnel played a key role. Since WPE managers can best 
+judge innovations in their department and likely will underestimate the role 
+of other departments, I concluded that WPE manager reports of innovation 
+would be informed but conservative. 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+214 
+Qualit? 
+WPE 
+IEEE TRANSACTIONS O N  ENGINEERING MANAGEMENT. VOL. 42, NO. 3. AUGUST 1995 
+1.193 
+0.59 
+8 
+33 
+1.45 
+0.5 1 
+8 
+33 
+TABLE I 
+WET PROCESS ENGINEERING 
+MANAGERS 
+RATINGS OF IMPOKT-\NCE 
+OF PERSONNEI. OF DIFFERENT 
+GROUPS 
+IN INITIATING 
+MOST IMPORTANT PROCESS CHANGES IN PREVIOUS YEAR 
+N Process 
+Irinoratioris 
+As reported by the wet process manager, communication 
+time with pollution control personnel was associated with PC 
+initiated process innovations (Kendall’s Tau t = .62. p < . I ) ,  
+and 84% of these changes resulted in pollution reduction. 
+In contrast to Hypothesis 3(b), the data also show that PC 
+initiated innovation often led to improvement of the production 
+process relative to core objectives. PC initiated innovations 
+were as likely to lead to cost reduction as to pollution 
+control and often resulted in quality improvement. Out of 
+33 reported innovations, PC personnel received the highest 
+importance rating for 13. Of these, 84% resulted in pollution 
+reduction, 92% in cost reduction, 61% in quality improvement, 
+and 38% in extension of production capabilities. Obviously. 
+innovations often had numerous outcomes. Surprisingly, WPE 
+managers reported that not a single innovation that originated 
+from pollution control resulted in only pollution prevention 
+improvement; all had some other benefit. 
+Data from five firms (from which all surveys were received) 
+provide some suggestion that, in contrast to Hypothesis 3(c), 
+interaction between pollution control and process engineering 
+departments may improve the performance of the core process. 
+Three firms that reported PC initiated quality innovation had 
+8% higher first pass yields for etched layers (an important 
+measure for quality) than two firms reporting no PC initiated 
+quality improvements.’ Likewise, WPE managers reported 
+discussing quality (along with other nonpollution control top- 
+ics) with PC personnel more frequently in three firms with 
+high quality than they did in two firms with low quality (as 
+measured by first pass yields for etched layers). 
+B. C a s e s  of Interaction Between Pollution 
+Control and the Rest of the Firm 
+Thus as predicted, firms did indeed form boundary-spanning 
+(pollution control) departments to buffer themselves from 
+changing regulatory requirements. However, contrary to ex- 
+pectations, these departments had extensive interaction with 
+the core of the firm, and this interaction was correlated with 
+performance improvement with regard to both environmental 
+protection and core performance. 
+One might argue that such behavior is the result of un- 
+derlying firm characteristics that really caused the changes in 
+innovation and performance. For instance, pollution control 
+communication rates could result from an “organic” organ- 
+91n an industry as competitive as this such a difference can easily mean 
+survival. 
+ization, where lateral communication is emphasized. Alter- 
+natively, pollution control personnel might have unusual in- 
+dividual characteristics (e.g., better education or more recent 
+exposure to another company). The data do not show evidence, 
+however. that the WPE-PC communication patterns result from 
+individual or firm level characteristics. Organizational levels 
+of communication, as estimated by the wet process and quality 
+managers, are not correlated with the volume of communica- 
+tion between the WPE manager and PC personnel (Fig. 2). 
+Nor is the total time wet process and PC managers spend 
+communicating with the rest of the organization correlated 
+with how often they communicate with each other (Fig. 2). 
+Additionally, PC managers had somewhat shorter tenure in 
+the firm (3.9-6.8 years) but longer job tenure (3.5 years as 
+opposed to 1.9) [Neither difference is significant, even at 
+p < . I ] .  Three PC managers reported obtaining chemistry 
+or chemical engineering degrees. whereas six WPE managers 
+reported having chemical engineering degrees. 
+My research suggests that pollution control managers, rather 
+than inhibiting process improvement, actually can provide use- 
+ful information and support. My quantitative data show that it 
+was not communication per .se but rather communication about 
+certain topics that led to innovation. Communication about 
+topics outside of the normal purview of pollution control best 
+explained PC initiation of process innovation. Two breadth 
+measures comprised of 1 )  quality and yield related topics and 
+2) scrap and efficiency topics both correlate strongly with PC 
+initiated innovations (Fig. 2). Likewise, breadth correlates with 
+communication time, and communication time correlates with 
+PC innovation. The partial correlation between breadth and 
+innovation, controlling for communication time is still high 
+(t = 0.70). The partial correlation between communication 
+and innovation, however, is much lower (t = 0.34). 
+The clear correlation between the breadth of conversation 
+topic and communication time could suggest either that fre- 
+quent communication leads to a broadening of discussion 
+topics. or that knowledge about a variety of topics encourages 
+more frequent communication. To further explore this relation- 
+ship, 1 constructed a scale of PC “information helpfulness” 
+from reports of 1) PC frequency in requiring (for pollution 
+control reasons) process changes and 2) PC frequency in pro- 
+viding process improvement information.” I hypothesized that 
+pollution control departments that were more likely to provide 
+useful information than new demands would communicate 
+more frequently with WPE personnel. As predicted, this scale 
+is correlated with PC-WPE communication volume (t = .65, 
+My quantitative data closely match observations from my 
+qualitative study. I often observed PC personnel passing non- 
+pollution control information to process engineers. Likewise, 
+process engineers frequently asked pollution control personnel 
+for information on production chemicals or problems. Several 
+interviews with PC managers were interrupted by process 
+engineers or personnel who were seeking information or 
+assistance. 
+p < .05). 
+“’The scale was constructed by subtracting scores for frequency of requiring 
+change from scores for frequency of providing helpful information. 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+KING: INNOVATION FROM DIFFERENTIATION: POLLUTION CONTROL DEPARTMENTS 
+275 
+hganization 
+a 
+Zommunication Volume 
+W E  Manager 
+Communication. 
+=. 
+Volume b 
+PC Manager 
+Communicatio 
+Volume 
+Breadth 
+of Communication 
+Topic between 
+W E  
+manager and 
+N= 8 
+PC personnele 
+NOTES 
+a - h o d w e e k  spent by Quality and 
+WPE managers communicating with 
+people outside of their own group othei 
+than PC personnel 
+b - hours/week spent by WPE manager 
+communicating with non-PC personne 
+outside his department 
+c - hours/week spent by P c  manager 
+communicating with non-WPE 
+personnel outside of his department 
+d - h o d w e e k  spent by WPE manager 
+taking to PC personnel 
+e - breadth measure composed of Likert 
+frequency reports of conversations 
+about quality. yield, tmcking and 
+process control. 
+f - W E  manager reports of P c  
+involvement in initiating process 
+innovation 
+Fig. 2. 
+Paired Kendall Tau correlations between communication measures and PC initiated process innovation 
+TABLE I1 
+TOPICS 
+WITH PERSONNEL 
+FROM THE OTHER GROUP 
+COMPARISON OF PC AND WPE REPORTS OF DISCUSSION 
+Topic 
+Menn Difference 
+Std. Dev. 
+DF 
+Prob 
+Quality 
+-0.72 
+2.08 
+8 
+0.33 
+Yield 
+-0.39 
+1.50 
+8 
+0.46 
+Waste of Material 
+0.17 
+1.77 
+8 
+0.78 
+Scrap 
+0.056 
+1.18 
+8 
+0.89 
+Waste Treatment 
+0.89 
+1.05 
+8 
+0.035 
+Between Reports 
+in Production 
+Thus I believe that pollution control departments actually 
+have unique and important information that can be used to 
+improve the core of the firm. When process engineers tap this 
+resource, core process improvements result. Such a claim leads 
+to an obvious question: Why do pollution control departments 
+have information that is useful in improving the production 
+process? My research uncovered several explanations. 
+C. Why Pollution Control Has Unique Information 
+I )  Different Perspective on Commonly Available lnforma- 
+tion: Pollution control personnel work in a forgotten part of 
+the production process. They are concerned with discarded 
+material, byproducts of the operation, mistakes and waste. 
+While process engineers often focus on one process quality 
+measure (scrap rate laminar layer), pollution-control managers 
+must treat waste from every process and thus must consider 
+a wider range of waste sources. Perhaps because of this, 
+pollution control personnel bring a different perspective to 
+production problems. They have a broader definition of yield 
+that includes yield on chemicals, copper anodes, and cleaning 
+materials. Their definition of “quality” is also more general 
+and includes the reliability of process baths, the predictability 
+of variance and the safety and welfare of workers. 
+The quantitative data also support these assertions. PC and 
+WPE managers disagreed about the frequency with which 
+they discussed certain topics with each other (Table 11). The 
+data suggest that different perspectives on quality led W E  
+managers to report that more conversations related to “waste 
+treatment” and pollution-control personnel to report that more 
+related to “quality” or “yield.” 
+By bringing a different perspective to process problems, 
+and by looking at different process signals, pollution-control 
+personnel may be able to extract unique information about 
+process problems. 
+2) Internalizing 
+Externalities: 
+Pollution-control depart- 
+ments must process material that has been was discarded. In 
+doing so, they extract information contained in waste. In all 
+of the firms that I visited, PC managers knew that this waste 
+could be used to diagnose problems in the upstream process. 
+Most commonly PC personnel told me that if the water in the 
+treatment process turned blue, it meant that chelate copper 
+was leaking from one of the pumps in production. Since 
+most companies process their cleaning water continuously, 
+PC personnel must mindfully respond to process variation and 
+thus may be unusually aware of production fluctuations. 
+3) Waste Provides Diagnostic Information: By reverse en- 
+gineering, pollution control departments can extract the loca- 
+tion of problems from waste. Just as a urinalysis provides rich 
+information about human health, production waste provides 
+extensive information about the health of the production 
+process. More than many process signals, the waste stream 
+carries information about the location and cause of process 
+inefficiencies. For instance, at one firm pollution control 
+engineers noticed that they frequently received stacks of 
+discarded boards that had been partially etched and plated 
+but not electrically tested. Upon investigation they found that 
+the plating operation performed best when the hoist contained 
+a full load. To ensure the best performance, the ends of 
+production jobs were padded with extra boards to the nearest 
+full load. Extra boards were then discarded. Wet-process and 
+PC personnel designed a system of reusable dummy boards. 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+216 
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT. VOL. 42. NO 3, AUGUST 1995 
+As a result, the firm avoided discarding 5000 boards per year 
+at an estimated savings of $25 000 (0.25% of sales).” 
+personnel 
+have unusually diverse sources of information that allow them 
+to gain system-wide perspectives on problems. They gather 
+data in the form of waste from stages of production that cross 
+regions of authority and technology. For instance, at one local 
+firm the PC personnel noticed that several different groups 
+(the chemical lab, production, and lithography) would discard 
+out-of-date chemicals of the same type at approximately 
+the same time. Moreover, they noticed that the supply of 
+these chemicals in the stock room fluctuated widely. They 
+investigated and found that simultaneous orders from separate 
+production centers gave purchasing an incorrect impression 
+of increased demand, which in turn caused an overly large 
+order and an increase in inventory. To solve the problem, the 
+PC engineers developed a computer tracking system and a 
+purchasing projection system. 
+5) Access to Outside Information: Pollution control engi- 
+neers have unique opportunities to access information from 
+outside of the company. In some cases. regulation causes them 
+to gather and store particularly detailed technical information. 
+The rapid pace of technological change also causes PC per- 
+sonnel to interact frequently with outside vendors. In addition, 
+PC personnel have unique access to information from chemical 
+vendors. As one person put it: “When production calls up a 
+vendor, they get connected to sales. When we call up, we get 
+connected to the lab. They know that we have to know what 
+is in it [the vendor’s product] in order to treat it.” 
+Pollution control personnel also engage in “know how” 
+trading of information with competitors and suppliers of chem- 
+icals [24], [25]. Vendors arrange tours of interesting waste 
+treatment processes, and many firms welcome visits of waste 
+treatment processes from other companies. In Massachusetts, 
+local pollution control managers are now forming an informal 
+association that will meet monthly to discuss technical issues. 
+6) Motivution 
+to Improve 
+the 
+Production 
+Process: 
+Managers of pollution control departments have an incentive 
+to use any useful information that they acquire to improve 
+the core process. For instance, one PC manager argues 
+that “almost anything that I can do to help the production 
+process helps me [to treat waste].” Another argues, that “the 
+more I can get the process under control, the better I can 
+reduce waste treatment.” Thus some PC managers believe 
+that they can improve their own performance by reducing 
+waste generated in the production process and by reducing 
+swings in production performance. As one of them said, “I 
+don’t mind the FM [variance in effluent caused by production 
+volume changes], but I sure hate the AM [variance caused 
+by mistakes].” Thus PC managers have created tracking 
+and control systems for production baths, and automated 
+purchasing and inventory systems. Such systems allow PC 
+managers to more closely optimize their own treatment 
+process. 
+4) System- Wide Information: Pollution-control 
+”This savings represents just the cost of discarded boards and does not 
+include the cost of labor or materials needed to bring the\e boards to this 
+production step. 
+v. IMPLICATION OF THESE RESULTS 
+My research suggests that pollution control departments, in 
+the course of conducting their work, acquire information and 
+innovative ideas that can be useful to the rest of the organiza- 
+tion. When they communicate this information, performance 
+improves relative to pre-existing (cost, quality, etc.) and new 
+(environmental performance) criteria. 
+My research suggests an additional contingency for orga- 
+nizational design. It suggests that personnel performing tasks 
+that control process waste have unusual incentives and unusual 
+information sources, and as a result, organizational structures 
+may influence them in unusual ways. 
+First, my research suggests that Thompson’s concepts of in- 
+terdependency and organization may be contingent on the task 
+being performed. Tasks that control core-process waste, even 
+if highly interdependent with core processes, may improve 
+rather than harm the efficiency of the core. Pollution control 
+departments create new interdependencies with and constraints 
+on core processes (and thus should reduce performance), but 
+these constraints may act as a “process control” to ensure 
+minimum standards of efficiency. Moreover, pollution-control 
+personnel often work actively to improve process efficiency. 
+They capture information in discarded material that otherwise 
+would have been lost and use this information to improve the 
+efficiency of the core process. 
+Second. my research supports the general findings of 
+Lawrence and Lorsch [IO] that high differentiation and high 
+integration lead to high performance in changing environ- 
+ments. My research suggests, however, that specialization and 
+differentiation need not lead to conflict, as Lawrence and 
+Lorsch [IO] assume, but can instead cause a type of organic 
+solidarity based upon expectations of mutual benefit [26]. 
+Boundary-spanning departments that mediate core-process 
+waste have strong incentives to reduce conflict with the 
+core personnel so they can improve the efficiency of the 
+core process and thereby reduce waste. Such boundary- 
+spanning departments naturally create bridges (communication 
+forums, etc.) to the organizational core. Thus interdepartmental 
+integration may not require managerial support but may 
+instead arise naturally as different departments seek to gain 
+access to useful information and innovation sources. 
+Third. my research suggests that organic structures are 
+not required to facilitate information flow, cross functional 
+innovation, and adaptation. In fact, it poses an intriguing 
+question. Might the initial specialization of pollution-control 
+departments represent a useful stage in adaptation? In their 
+separate state they can acquire new perspectives and skills 
+that then help the organization to adapt. If so, my findings 
+support and extend research on the development of particular 
+process innovations. Just as Kazanjian and Drazin [27] and 
+Tyre [ 28) suggest that separation and subsequent reintegration 
+of innovation projects leads to better innovation, I suspect that 
+immediate integration of pollution control tasks would have 
+prevented the accumulation of specialized information, and 
+unusual perspectives and skills and thus inhibited innovation. 
+Thus boundary-spanners that control process waste may 
+pose a special case for organizational design. Because of their 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 
+
+---PAGE---
+KING: 1NNOVATION FROM DIFFERENTIATION: POLLUTION CONTROL DEPARTMENTS 
+211 
+interdependence with core processes, they share efficiency 
+goals with the core organization and they acquire useful 
+process information. Because of their separation, they have 
+new perspectives on old problems and can innovate. For both 
+reasons, they help improve the core’s efficiency and speed its 
+adaptation to new conditions. 
+ACKNOWLEDGMENT 
+This research would not have been possible without the in- 
+tellectual assistance of Thomas Allen, John Ehrenfeld, Stephan 
+Schrader, and Marcie Tyre. 
+REFERENCES 
+C. C. Smith, “Corporate environmental management,’’ Union Carbide 
+Report, 1990. 
+R. Bringer and D. Benforado, “Pollution prevention as corporate policy: 
+A look at the 3M experience,” The Environmental Profess.. vol. 1 I ,  pp. 
+117-126, 1989. 
+K. Nelson, “Are there any energy savings left‘?” Chem. Process.. Jan. 
+1989. 
+J. D. Thompson, Organiiutions in Action. 
+New York: McGraw-Hill, 
+1967. 
+T. Bums and G. M. Stalker, The Munagement of Innowtion. New 
+York: Free Press, 1961. 
+M. J. Piore and C. F. Sabel, The Second Indiistrial Ditmide. New York: 
+Basic Books, 1984. 
+J. P. MacDuffie, “Beyond mass production: Flexible production systems 
+and manufacturing performance in the world auto industry,“ Ph.D. 
+dissertation, MIT, 1991. 
+J .  Womack, D. Jones, and D. Roos, The Machine That Chunged the 
+World. 
+R. J. Schonberger, Japanese Manufacturing Techniques: Nine Hidden 
+Lessons in Simplicity. 
+P. R. Lawrence and J. W. Lorsch, Organization and En1,ironmentst Mnn- 
+aging Differentiution and Integration. 
+A. Smith, “The wealth of nations,” in Classics qfOrgoni,-ation Theur?. 
+Pacific Grove, CA: BrooksKole, 1987. 
+F. W. Taylor, “The principles of scientific management,” Bull. Taylor 
+Soc., 1916. 
+L. Gulick and L. Urwick, Ed., Papers on the Science of Administration. 
+New York: Inst. of Public Admin., 1937, pp. 3-13. 
+J. R. Galbraith, Organization Design. 
+Reading, MA: Addison-Wesley, 
+1977. 
+J. R. Galbraith, “Designing the innovating organization,” in Organi:. 
+Djnamics, vol. 10, pp. 5-25, 1982. 
+New York: Rawson Assoc., 1990. 
+New York: Free Press, 1982. 
+Homewood, IL: Irwin, 1967. 
+[I61 A. H. Van de Ven and A. L. Delbecq, “A task contingent model of 
+work-unit structure,” Admin. Sci. Quart., pp. 183-197, June 1974. 
+[I71 A. Van de Ven, A. L. Delbecq, and R. Koenig, “Determinants of 
+coordination modes within organizations,” Amer. Sociol. Rev., vol. 41, 
+pp. 322-338, 1976. 
+[IS] K. Bemoski, “Sorting fact from fiction,” in Qualify Progress, 1991, p. 
+21-25. 
+[I91 L. M. Thomas and C. C. Smith, “A jewel in the rough: A new global 
+initiative . . .,” in The Eni,ironmental Forum, 1990, pp. 10-13. 
+[20] J. B. Martin, “Is environmental quality good for business?: Problems and 
+prospects in agricultural, energy and chemical industries,” in American 
+Enrerprise Insr. Conj, Washington, DC, 1990. 
+1211 P. Cebon, “Organizational behavior as a key element in waste manage- 
+ment decision making,” in The Environmental Challenge of the 1990s. 
+Washington, DC: EPA, 1990. 
+[22] The Congress. Office of Tech. Assess., “Serious reduction of hazardous 
+waste,” Ofice of Tech. Assessment. US Printing Office, Sept. 1986. 
+[23] Interview with R. Reibstein, Office of Tech. Assist., Dept. Environmen- 
+tal Manage., State of Mass., 1991. 
+[24] S. Schrader, “Informal technology transfer between firms: Cooperation 
+through information trading,” Res. Policy, vol. 20, 1991. 
+[25) E. von Hippel, “Cooperation between rivals: Informal know-how trad- 
+ing.” Res. Policy, vol. 16. pp. 291-302, 1987. 
+[26] E. Durkheim, The Dii>i.sion of Labor in Society. 
+New York: Macmillan, 
+1984. 
+[27] R. K. Kazanjian and R. Drazin, “Implementing manufacturing innova- 
+tions: Critical choices of structure and staffing roles,” Human Resource 
+Munuge., vol. 25. no. 3, pp. 385403, 1986. 
+[28] M. J. Tyre, “Managing innovation in the manufacturing environment: 
+Creating forums for change on the factory floor,” MIT Sloan School of 
+Manage., 1989. 
+1291 M. G. Kendall, Rank Correlation Methods. 
+New York: Hafner, 1962. 
+Andrew King received the B A degree in me- 
+chanical engineering from Brown University, the 
+M S degree in mechanical engineenng from the 
+University of California dt Berkeley, and the Ph.D 
+degree from the Sloan School of Management at the 
+Massachusetts Institute of Technology 
+He is presently an Assistant Professor of Opera- 
+tions Management at the Stern School of Manage- 
+ment at NYU His research focuses on how firms 
+respond to changes in the surrounding conditions, 
+including increasing demands to protect the natural 
+environment. He I \  currently conducting multi-industry research on environ- 
+mentally conscious manufacturing 
+‘ Qb‘ 
+Authorized licensed use limited to: University of Oklahoma Libraries. Downloaded on June 18,2026 at 16:28:14 UTC from IEEE Xplore.  Restrictions apply. 

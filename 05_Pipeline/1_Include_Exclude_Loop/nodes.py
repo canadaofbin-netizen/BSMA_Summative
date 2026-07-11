@@ -50,7 +50,7 @@ def auditor_node(state: AgentState) -> AgentState:
 def injector_node(state: AgentState) -> AgentState:
     print(f"[Injector] Writing verified data for {state['article_id']} into Excel...")
     verdict = state["verdict_json"]
-    excel_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_Master_Coding_Sheet.xlsx"
+    excel_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_V2.xlsx"
     
     print("\n" + "="*40)
     print(" PENDING INJECTION PLAN ")

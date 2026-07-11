@@ -5,7 +5,7 @@ import openpyxl
 import subprocess
 import shutil
 
-EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_Master_Coding_Sheet.xlsx"
+EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_V2.xlsx"
 OUTPUTS_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\outputs"
 
 def inject_swarm_results():
@@ -20,9 +20,9 @@ def inject_swarm_results():
     scattered.extend(glob.glob(r"C:\Users\yunky\.gemini\antigravity\scratch\outputs\BSMA*.json"))
     for f in scattered:
         try:
-            shutil.copy2(f, os.path.join(target_dir, os.path.basename(f)))
-        except:
-            pass
+            shutil.move(f, os.path.join(target_dir, os.path.basename(f)))
+        except Exception as e:
+            print(f"Failed to move {f}: {e}")
 
     # 2. Proceed with injection
     json_files = glob.glob(os.path.join(target_dir, "BSMA*.json"))
@@ -42,8 +42,16 @@ def inject_swarm_results():
         art_id = os.path.basename(jpath).replace(".json", "")
         
         try:
-            with open(jpath, 'r', encoding='utf-8') as f:
-                verdict = json.load(f)
+            try:
+                with open(jpath, 'r', encoding='utf-8-sig') as f:
+                    verdict = json.load(f)
+            except UnicodeDecodeError:
+                with open(jpath, 'r', encoding='utf-16') as f:
+                    verdict = json.load(f)
+            except json.JSONDecodeError:
+                # Some files might be totally empty or corrupted.
+                print(f"Skipping {jpath} due to JSON Decode Error")
+                continue
                 
             # Find row
             target_row = None

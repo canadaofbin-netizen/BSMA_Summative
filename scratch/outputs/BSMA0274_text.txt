@@ -1,0 +1,283 @@
+Work 60 (2018) 475–483
+DOI:10.3233/WOR-182748IOS Press475
+After hours teleworking and boundary
+management: Effects on work-familyconﬂict
+David Jostella,∗and Sven Hemlinb
+aDepartment of Psychology, University of Gothenburg, Gothenburg, Sweden
+bGothenburg Research Institute, School of Business, Economics and Law, University of Gothenburg,
+Gothenburg, Sweden
+Received 10 May 2017
+Accepted 31 October 2017
+Abstract .
+BACKGROUND: There is a need for a better understanding of how the use of technology to complete work outside regular
+ofﬁce hours is related to work-life outcomes. Few studies have also investigated how individual differences in work-nonworkboundary management relate to work-life outcomes.OBJECTIVE: This study was conducted to examine how teleworking outside regular ofﬁce hours and individual boundary
+management relate to work-family conﬂict.METHODS: A web survey was sent to fulltime employees at the headquarters of a multinational high-tech ﬁrm in Sweden.
+A total of 71 answers were obtained and analyzed using regression analysis.RESULTS: The extent of teleworking after hours was unrelated to work-family conﬂict. However, as previous research has
+shown, having more permeable boundaries and allowing work to interrupt nonwork behavior was related to higher levels ofconﬂict.CONCLUSIONS: The ﬁndings suggest that teleworking after hours is not as problematic in terms of work-family conﬂict
+as has been reported in previous studies. Furthermore, in order to prevent high levels of work-family conﬂict, it is seeminglybeneﬁcial to avoid work interruptions during nonwork behavior.
+Keywords: Boundary permeability, role conﬂict, telecommuting, work-nonwork boundaries
+1. Introduction
+Teleworking (or telecommuting) typically involves
+using computer technology to work away from themain worksite for a proportion of the workweek [1].It offers many potential beneﬁts for employees andemployers alike [2, 3]. One often-stressed beneﬁtfor employees is increased ﬂexibility. The increased
+∗Address for correspondence: David Jostell, MSc, Department
+of Psychology, University of Gothenburg, Box 500, SE-405 30Gothenburg, Sweden. Tel.: +46 (0) 737 01 31 73; E-mail: david.jostell@gmail.com.ﬂexibility may help employees to better regulate and
+synchronize the demands between work and family[4]. As a result, teleworking has popularly been pre-sented as a way to alleviate work-family conﬂict - aconﬂict stemming from competing roles in the workand family domains [5]. However, evidence has beeninconsistent [4, 6–8].
+Previous research on work-family conﬂict has gen-
+erally studied teleworking during regular ofﬁce hours[9], with some exceptions [9–13]. Studies on theeffects of teleworking outside regular ofﬁce hours arethus needed. It is warranted given our limited under-standing of how the use of technology to complete
+1051-9815/18/$35.00 © 2018 – IOS Press and the authors. All rights reserved
+
+476 D. Jostell and S. Hemlin / After hours teleworking and boundary management
+work outside the regular ofﬁce hours relates to impor-
+tant aspects of work and work-life outcomes [14].
+Furthermore, as teleworking from home alters the
+traditional boundaries (e.g. physical, psychological,temporal) between work and family domains [15],work-family conﬂict could increase unless the bound-aries are managed effectively. Yet, how employeesmanage the boundaries between work and nonworkhas until more recently been given little attention[16]. In fact, little is known about how differences inmanagement of such boundaries relate to work-lifeoutcomes [17].
+This study addressed both these research gaps by
+examining how teleworking (from home) after hoursand boundary management affect work-family con-ﬂict. First, it examined how the extent of teleworkingafter regular ofﬁce hours is related to both directionsof the work-family conﬂict, i.e. work interferencewith family and family interference with work. Toenable comparisons, both telework during and out-side regular ofﬁce hours were measured and includedin the analysis. However, focus was on the latter –deﬁned in this study as voluntary or involuntary workconducted from home with the aid of information andcommunications technology outside a regular Mon-day to Friday 8 am to 5 pm workweek. The study alsoexamined how differences in boundary managementrelate to work interference with family and fam-ily interference with work. Boundary managementwas studied as the degree of boundary permeabil-ity a person allows between work and nonworkroles.
+2. Theory and hypotheses
+2.1. Work-family conﬂict
+Work-family conﬂict (WFC) can be deﬁned as ‘a
+form of inter-role conﬂict in which the role pres-sures form the work and family domains are mutuallyincompatible in some respect’ [18]. The role pressureis thought to generate moods or states, which affectwellbeing in both the work and family domain [19].Indeed, WFC has been linked to adverse outcomessuch as psychological distress, depression, somaticcomplaints, and exhaustion [5]. It has been foundto inﬂuence e.g. job satisfaction, life satisfaction,organizational commitment, and turnover [20]. Of lit-tle surprise, ways to reduce and prevent WFC is ofconsiderable interest for employers and managers oforganizations.WFC has been found to have two distinct dimen-
+sions: work interference with family (WIF) andfamily interference with work (FIW) [7, 20–23]. WIFoccurs e.g. when one has to skip family activities inorder to be able to complete work tasks. FIW occurse.g. when family responsibilities interfere with one’swork responsibilities. Although both types of conﬂicthave been found to be consistently negatively relatedto desirable outcomes, the negative effect of WIF hasbeen found to be greater [12]. That is, WIF is moreproblematic than FIW.
+Researchers have looked at different forms of con-
+ﬂict depending on the source [22]. The emphasis inresearch has mostly been on time-based and strain-based conﬂict [7, 9]. Time-based conﬂict occurs whenthe amount of time devoted in one domain (work orfamily) interferes with performing responsibilities inthe other domain [23]. Strain-based conﬂict occurswhen strain created in one domain interferes withperforming responsibilities in the other. Both formswere measured in this study. However, no distinctionwas made in the presentation of the results as theytend to be intertwined [7].
+2.2. Telework after hours and work-family
+conﬂict
+Researchers have become increasingly aware of
+the beneﬁt of looking at the extent of teleworking inorder to understand its impact on work-family con-ﬂict [9]. However, in work-family conﬂict research,telework has generally been studied as something thatmay only take place during regular ofﬁce hours. Thisis understandable given that it is usually perceived as aform of work where hours at the ofﬁce are substitutedwith hours at home [9, 24]. Nonetheless, telework-ing is also conducted outside regular ofﬁce hours, i.e.“after hours”. For employees who have ﬂextime andtherefore may alter workday start and ﬁnish times (asin this study), this type of work does not necessarilyhave to represent supplemental work or overtime incontrast to “traditional” ofﬁce employees (who mayonly telework after their workday at the ofﬁce or notat all).
+Telework, and telework from home after hours
+more speciﬁcally, has both potential costs and bene-ﬁts for employees. Potential beneﬁts that may lowerWFC include e.g. increased ﬂexibility, and increasedcontrol over the pacing and scheduling of the work, aswell as opportunity to spend more time at home withone’s family [10, 11]. However, we believe telework-ing outside regular ofﬁce hours is generally negative
+D. Jostell and S. Hemlin / After hours teleworking and boundary management 477
+for both types of WFC. For instance, the physical
+demarcation between work and family domains iserased for employees when they work from home[25]. This could lead to more distractions and inter-ruptions from work when a person is in a family role(and vice versa), increasing levels of WIF and FIW. Alack of demarcation between roles at home may alsomake it hard to mentally disengage from work [9].In addition, when an employee is teleworking fromhome after hours, he or she is likely detracting frompersonal/family time since work is conducted outsideregular ofﬁce hours. It might also be used as a formof supplemental work and augment the amount ofhours worked per week. This is problematic becausestudies have linked work hours to increased levels ofconﬂict [26].
+Previous studies on teleworking outside regular
+ofﬁce hours, treating it as a form of supplementalwork, have found that it is linked to higher WIF. Forinstance, Boswell and Olson-Buchanan [14] as wellas Fenner and Renn [13] found conducting work fromhome using technology after regular ofﬁce hours wasrelated to higher WIF. Duxbury et al. [10] similarlyfound a positive relationship between teleworkingafter hours and WIF. Duxbury et al. [11] found thatemployees teleworking after hours had higher levelsof WFC (not speciﬁcally WIF though) than thosenot engaged in this form of work. Hence, we propose:
+H1. The extent of teleworking outside regular
+ofﬁce hours is related to higher work interferencewith family (WIF).
+Duxbury et al. [10] investigated the relationship
+between teleworking outside regular ofﬁce hours andFIW. No signiﬁcant relationship was found. Yet, asteleworkers weaken the boundaries that normally sep-arate the work domain from the family domain, theymay become more accessible for demands of fam-ily members [7, 27]. This might lead to frequent,unwanted work interruptions, and consequentlyincreased FIW. Other family members might forexample not acknowledge or respect that work is con-ducted during evenings, early mornings and week-ends. This in combination with risks such as role-confusion and problems with role-detachment (e.g.from a family role) [28] should lead to an increaserather than decrease in FIW. Hence, we propose:
+H2. The extent of teleworking outside regular ofﬁce
+hours is related to higher family interference withwork (FIW).2.3. Boundary management and work-family
+conﬂict
+There is currently little knowledge how work-
+nonwork boundary management relates to work-family conﬂict, in part because researchers onlyrecently have begun to thoroughly examine suchboundaries and how they are managed [16].
+Two related and highly similar theories, but with
+different research origins, deal with the managementof boundaries [29]. These are boundary theory [28,30] (which focuses on work and lifedomains), and
+work-family border theory [31] (which focuses moreon work and family domains). According to these
+theories, individuals actively and deliberately cre-ate boundaries between work and personal/familylife roles. Some create boundaries to segment rolesand domains, while others maintain weaker bound-aries to integrate the roles. The theories suggestthese preferences range on a continuum from seg-mentation to integration, but the actual level ofintegration/segmentation is inﬂuenced by factorssuch as family, co-workers, and type of occupation.
+In the integration or segmentation of
+roles/domains, the strength of boundaries playsa central role. It is affected by ﬂexibility andpermeability [28, 31]. Flexibility is the extent towhich a boundary may contract or expand (in timeand space) depending on the demands in one domainor the other [31]. For example, a work domainboundary has a high degree of ﬂexibility (in termsof time and space) if the employee can choose bothwhen and where to work. The permeability of aboundary is the degree to which elements from otherdomains may enter [31]. Such permeations are oftenperceived as interruptions. When boundaries havea high degree of ﬂexibility and permeability, thereis more integration between work and nonworkroles/domains.
+The theories suggest there are both costs and ben-
+eﬁts with integrating and segmenting, respectively[28, 31]. An important advantage of integration isthe possibility of easier, less demanding transitionsbetween work and family roles/domains [28]. How-ever, integration can create increased complexity aswork and nonwork roles/domains start to blur [28,31]. More speciﬁcally, higher integration may leadto role-confusion (i.e. problems with determiningwhether a work or family role should be enacted),role-attachment issues (i.e. problems with switchingbetween work and family/life when needed), andmore frequent cross-boundary interruptions [28].
+478 D. Jostell and S. Hemlin / After hours teleworking and boundary management
+Previous empirical research has also found that
+higher integration (in the form of higher perme-ability between work and nonwork) is linked tohigher rather than lower WFC. Some studies havereported a positive relationship between WIF andwork to nonwork permeability, [16, 32, 33]. Somestudies have reported a positive relationship betweenFIW and nonwork to work permeability [16, 32].Moreover, Kossek et al. [17] found that higherintegration was linked to an increase in FIW. Kimand Hollensbe [34] reported a positive relationshipbetween home -to-work conﬂict (a similar form of
+conﬂict) and nonwork to work permeability. Hence,we expect the following:
+H3. Higher work to nonwork permeability is
+related to higher work interference with family (WIF).
+H4. Higher nonwork to work permeability is
+related to higher family interference with work (FIW).
+3. Method
+3.1. Study population
+The sample consisted of fulltime employees from
+two sales departments at the Swedish headquartersof a multinational high-tech ﬁrm with over 100,000employees worldwide. The employees, who were allable to telework (e.g. from home) some proportion oftheir workweek, were asked to complete an anony-mous web survey. The survey took place during Mayand June 2014. Reminders were sent by e-mail tothose who had not responded.
+3.2. Measurements
+3.2.1. Work-family conﬂict
+An 8-item measure by Gutek et al. [21] was used
+to assess WIF and FIW. Although this measure isa WFC scale, it relates to an individual’s personallife more generally [14]. The items are relevant evenfor persons without a family or a partner. The Likertscales ranged from 1 (strongly disagree) to 5 (stronglyagree). Items measuring WIF included e.g.: “Afterwork, I come home too tired to do some of the thingsI’d like to do”. Items measuring FIW included e.g.:“I’m often too tired at work because of the things Ihave to do at home”. Internal consistency was accept-able with /H9251= 0.83 for WIF and /H9251= 0.74 for FIW.3.2.2. Boundary management/permeability
+Items were selected from the permeability dimen-
+sion of the Work-life indicator by Kossek et al. [32].These items measure to what extent a person allowswork to interrupt nonwork behavior and the oppo-site. If more cross-boundary interruptions are allowedthen the person has more permeable boundariesbetween work and nonwork. Conversely, if little inter-ruption is allowed then the person has less permeableboundaries. However, a person might allow interrup-tions only in one direction, which makes it importantto acknowledge the direction. Of the selected items,ﬁve measured to what extent work to nonworkinterruption was allowed, and four allowance of inter-ruptions in the opposite direction. Likert scales wereused, ranging from 1 (strongly disagree) to 5 (stronglyagree). Internal consistency was acceptable for workto nonwork interruption ( /H9251= 0.78) and nonwork to
+work interruption ( /H9251= 0.78).
+3.2.3. Extent of teleworking
+Employees were asked: “How many hours do you
+work from home per week during regular ofﬁce hours(Mon-Fri, 8 a.m . – 5 p.m.)?”, and “How many hours
+do you work from home per week outside the regularofﬁce hours, e.g. evenings and weekends?” “Tele-working” was not mentioned speciﬁcally in thesequestions, and the work measured may thereforeencompass work that is not technology-aided as well.However, this must be considered unlikely sinceemployees at the company of interest are dependenton information and telecommunications equipmentas a means for work. Moreover, the company’s head-quarter is an open, activity based workplace withoutprivate, reserved ofﬁces; therefore storing all work-related material digitally is common practice.
+3.2.4. Control variables
+Age, gender, number of children living at home,
+marital status, and work hours per week wereincluded as control variables in all analyses sincethese consistently have been found to inﬂuence levelsof WFC [22].
+3.3. Statistical analysis
+Pearson product-moment correlation coefﬁcients
+were used in the initial analysis of variables, and hier-archical multiple regression was used for testing thehypotheses. A square root data transformation wasused before the regression analyses since “teleworkduring regular ofﬁce hours” was positively skewed
+D. Jostell and S. Hemlin / After hours teleworking and boundary management 479
+[35, 36]. Multicollinearity was not a problem since
+VIF was low (not above 1.9 in any of the analyses)and there were no extreme bivariate correlations [35].
+4. Results
+4.1. Participant demographics
+When the data collection ended, 71 useful
+responses had been received (representing a 68%response rate). Of the respondents, 65% were menand 35% female, 86% were married or cohabi-tant, and 89% were parents with children living athome. Most had one (24%) or two children (47%)at home. The respondents held a variety of posi-tions within sales: 68% were salesmen, 14% salesmanagers or sales directors, 13% had technical salesroles, 4% were business/industry developers, and 1%had administrative roles. As can be seen in Table 1(which presents means, standard deviations, and cor-relations) respondents were on average 43 years ofage (ranging from 27 to 57), had been employedby the company 8.9 years (ranging from 1 to 23),and worked 48.7 hours per week (ranging from 40to 60). Teleworking outside ofﬁce hours amountedto 9.4 hours per week on average (ranging from 1 to20) and teleworking during ofﬁce hours to 9.6 hours(ranging from 0 to 30).
+4.2. Hypotheses
+H1 stated extent of teleworking outside regular
+ofﬁce hours would be positively related to WIF.However, as can be seen from Table 2, no signiﬁcantrelationship was found between extent of telework-ing outside regular ofﬁce hours and WIF ( /H9252= 0.05,
+p= 0.77).
+H2 stated extent of teleworking outside regular
+ofﬁce hours would be positively related to FIW.This was not supported ( /H9252= 0.08, p= 0.60). Fur-
+thermore, as can be seen in Table 2, extent ofteleworking during ofﬁce hours was not related toWIF ( /H9252= 0.25, p= 0.05) or FIW ( /H9252= –0.03, p= 0.83).
+However, there was a tendency towards a signiﬁ-cant relationship between extent of telework duringofﬁce hours and WIF. This makes the result lessclear-cut.
+H3 stated a higher work to nonwork permeabil-
+ity would be related to higher levels of WIF. Thishypothesis was supported. Work to nonwork perme-ability was related to higher levels of WIF ( /H9252= 0.27,
+Table 1
+Descriptive statistics and correlations
+Variable Mean SD 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1. Age 43.03 6.20 —2. Gender 1.65 0.48 –0.11 —3. Marital status 1.14 0.35 –0.19 –0.04 —4. Children 1.77 1.04 0.22 0.21 –0.42
+∗∗—
+5. Workhours 48.71 5.78 0.10 –0.06 –0.10 0.06 —6. Tenure 8.89 5.56 0.24
+∗0.15 –0.07 0.06 0.16 —
+7. Occupation 1.38 0.49 –0.01 –0.12 –0.11 –0.11 0.13 0.18 —8. Work interference with family (WIF) 2.91 0.96 –0.02 0.14 0.07 –0.00 0.13 0.10 –0.02 —9. Family interference with work (FIW) 1.49 0.56 –0.09 0.35
+∗∗–0.12 –0.01 –0.04 0.01 –0.09 0.21 —
+10. Extent of teleworking during ofﬁce hours 9.60 5.64 0.07 0.22 0.18 0.19 –0.02 0.04 –0.14 0.19 0.05 —11. Extent of teleworking outside ofﬁce hours 9.37 4.37 0.14 –0.05 –0.17 0.22 0.62
+∗∗∗0.22 0.22 0.16 0.00 0.03 —
+12. Total extent of teleworking 18.97 7.22 0.14 0.15 0.04 0.28∗0.36∗∗0.17 0.02 0.25∗0.04 0.80∗∗∗0.63∗∗∗—
+13. Boundary permeability (work to nonwork) 3.65 0.88 0.09 –0.17 –0.18 0.14 0.17 –0.08 –0.19 0.14 0.00 –0.01 0.32∗∗0.19 —
+14. Boundary permeability (nonwork to work) 3.35 0.85 –0.14 0.02 –0.22 0.15 –0.26∗–0.18 –0.12 –0.32∗∗0.24∗0.16 –0.17 0.03 0.21 —
+Note. n= 71, but n= 69 for the 1st variable and 70 for 4th variable. Gender: female = 1, male = 2. Occupation: 1 = salesman, 2 = other. Marital status: 1 = married or cohabitan t, 2 = other. Tenure is
+in years at the company. WIF/FIW: 1 = lowest, 5 = highest. Boundary permeability: 1 = lowest, 5 = highest. Teleworking is in hours per week.∗p< 0.05,∗∗p< 0.01,∗∗∗p< 0.001. (Two-tailed).
+480 D. Jostell and S. Hemlin / After hours teleworking and boundary management
+Table 2
+Hierarchical regression analyses with work interference with family (WIF) and family interference with work (FIW) as dependent variables
+WIF FIW
+/H9252 R2Adjusted R /Delta1R2Final F /H9252 R2Adjusted R2/Delta1R2Final F
+Step 1 0.05 –0.03 0.16 0.09
+Age –0.12 0.00Gender 0.12 0.39
+∗∗
+Marital status –0.05 –0.11Children living at home –0.04 –0.19Hours worked per week –0.05 0.01
+Step 2 0.08 –0.03 0.03 0.16 0.06 0.00
+Extent of teleworking during regular ofﬁce hours 0.25 –0.03Extent of teleworking outside regular ofﬁce hours 0.05 0.08
+Step 3 0.24
+∗0.13∗0.16∗∗2.10∗0.21 0.09 0.05 1.75
+Boundary permeability (work to nonwork) 0.27∗–0.01
+Boundary permeability (nonwork to work) –0.45∗∗0.26
+Note. n= 71, but n= 69 for “age” and “children living at home”. Values represent standardized regression coefﬁcients ( /H9252) from the ﬁnal
+equation.∗p< 0.05,∗∗p< 0.01.
+p< 0.05). Interestingly, nonwork to work permeabil-
+ity was related to lower levels of WIF ( /H9252= –0.45,
+p< 0.005). Having permeable boundaries seems to
+have beneﬁcial impact on WIF, but only when non-work is allowed to interrupt work.
+H4 stated a higher nonwork to work permeabil-
+ity would be related to higher levels of FIW. Thishypothesis was not supported ( /H9252= 0.26, p= 0.07)
+(Table 2, step 3). When comparing the two analysesin Table 2, some important differences can be seen.In the ﬁnal model with WIF as dependent variable,F(9, 59) = 2.10, p< 0.05, 24% of the variance was
+explained. Among the included variables, boundarypermeability (work to nonwork and vice versa) werethe only variables that made signiﬁcant contributionsto WIF, Rsquare change = 0.16, p< 0.01.
+The ﬁnal model with FIW as dependent vari-
+able was not signiﬁcant, F(9, 59) = 1.75, p= 0.10, R
+square change 0.05, Fchange = 1.87, p= 0.16. In fact,
+the only variable that was signiﬁcant in this modelwas gender, /H9252= 0.39, p< 0.01. More precisely, male
+employees experienced higher levels of FIW thantheir female colleagues.
+5. Discussion
+5.1. General discussion
+This study was conducted in order to exam-
+ine how teleworking after hours is related to workinterference with family (WIF) and family interfer-ence with work (FIW). The purpose was also toexamine how boundary management, or more pre-cisely differences in boundary permeability, is relatedto WIF and FIW. Data was collected from full-
+time employees at a multinational high-tech ﬁrm.Most of them were male, married or cohabitant,parents with children at home, and working assalesmen.
+The results gave no support for hypothesis 1 and
+2, which stated the extent of teleworking after hourswould be related to higher levels of WIF and FIW.This is contrary to prior studies [10, 13, 14]. Whyﬁndings are different from these studies is difﬁcult topinpoint, but there are several possible explanations.First, Fenner and Renn [13] did not measure extent oftelework as in this study. Instead, they used a Likertscale. Second, Boswell and Olson-Buchanan [14] andDuxbury et al. [10] focused on “traditional” ofﬁceemployees and not people who have the ability totelework during regular ofﬁce hours. All teleworkingafter hours therefore represented supplemental work(as intended). This was also the case in the studyby Fenner & Renn [13]. However, teleworking afterhours did not always have to be supplemental work inthis study because employees had ﬂextime and couldalter the start and end of their workday. Third, skillsin goal setting and prioritizing have been found todampen the adverse effect of teleworking on WIF[13], and it is possible that the employees had suchskills. Fourth, research has shown that job control isbeneﬁcial in terms of work-family conﬂict [17, 37].Employees in this study may have felt they were incontrol over their work situation (in contrast to beingforced by workload and pressures from the employerto work more).
+Hypothesis 3, stating higher work to nonwork per-
+meability would be related to higher levels of WIF,was supported. In other words, allowing work to
+D. Jostell and S. Hemlin / After hours teleworking and boundary management 481
+interrupt nonwork behavior is generally problematic
+in terms of WIF. Prior research on the relationshipbetween WIF and this form of permeability hasreached the same conclusion [16, 32, 33]. It is inline with previous research claiming that a higherintegration is related to higher WIF.
+Hypothesis 4, stating higher nonwork to work
+permeability would be related to higher levels ofFIW, was not supported but a tendency was found(p= 0.07). In effect, to attend to family issues when
+working does not seem to increase family interfer-ence with work (FIW), which is surprising. Mainlysince the direction of the interruption coincides withthe direction of the interference (as with work to non-work permeability and WIF). This result contradictsrecent ﬁndings [16, 17, 32–34].
+However, results showed that permeability (non-
+work to work) was related to less WIF. It has beensuggested that it is important to focus on the direc-tion of the permeability [32], and this ﬁnding supportsthe notion. No prediction was made for this rela-tionship but, as Olson-Buchanan and Boswell [33]claim, it nevertheless makes conceptual sense. Deal-ing with family/life matters while working shouldarguably lower work interference with family (WIF).Moreover, interruptions are not always perceived assomething negative because they can be positivereminders of one’s role in another domain, e.g. theparental role [31]. Nonwork interruptions could beperceived as welcomed work breaks or just a positivechange of activity.
+Finally, the results showed men tended to have
+higher levels of FIW than women. Male employeesperceived the family to interfere more with their workthan their female colleagues. The ﬁnding and its mag-nitude were clear, but nonetheless surprising given thesmall sample size.
+5.2. Practical implications
+The ﬁndings suggest teleworking after regular
+ofﬁce hours is not as problematic as has been foundin previous telework research. The study also showsemployees who allow work interruptions to a greaterextent while not working tend to have higher WIF.As this ﬁnding suggests, employees should ben-eﬁt from enacting boundaries between work andnonwork to protect speciﬁcally from work encroach-ments. For instance, working during one’s vacation,bringing work materials to family activities, andallowing work to interrupt while with friends orfamily is generally not recommended to create lessinterference from work. There are individual dif-
+ferences when it comes to boundary preferences(degree of integration/segmentation) and how bound-aries are handled [16, 22]. Accordingly, in termsof work-family conﬂict, some may actually bene-ﬁt from having permeable boundaries. It could bethe case for some employees in this study (althoughnot visible at the aggregate level.) Furthermore,because the permeability may be affected by theorganizational climate and policies [28, 30, 31], itis important that managers consider organizationalsignals. Employees might have little control overboundaries as a result of organizational decisions [22,38]. For instance, simply supplying communicationdevices has been shown to create expectations amongemployees to be continuously available [39], i.e. hav-ing a more permeable boundary that allows workinterruptions.
+5.3. Limitations and directions for further
+research
+The study was cross-sectional and causality,
+therefore, cannot be determined. Common methodvariance could be a problem because the indepen-dent variable(s) and the dependent variable(s) weremeasured at the same time using the same method onthe same respondents [40]. The study was conductedon a speciﬁc group of individuals and the samplesize was small. More studies, using a larger sample,are needed to validate the ﬁndings for other typesof employees and organizations. It should be notedsome relevant variables were not studied, e.g. per-ceptions of job control. This variable has been foundto have a beneﬁcial effect on work-family conﬂict[17], and it is possible higher levels of job controlamong the employees could explain the absence of arelationship with WFC. It is also possible a lack ofcontrol could explain why more permeable bound-aries relate to higher levels of WIF [31]. Thereforefuture studies should include boundary control as avariable. It is important not the least since an effectivework-life strategy will vary depending on individ-uals’ perceptions of boundary control along withfactors such as identities and behaviors [41]. Accord-ingly, research should beneﬁt from studies that fullycapture and categorize the individual differences thatexist when it comes to managing work-nonworkboundaries, e.g., by using cluster analysis [see e.g.,16, 32]. Lastly, empirical studies referred to in thisstudy, both on boundary management and telework-ing after hours, were cross-sectional. The research
+482 D. Jostell and S. Hemlin / After hours teleworking and boundary management
+within this ﬁeld would beneﬁt from longitudinal
+designs to determine direction and causality [see e.g.,25, 29].
+6. Conclusions
+This study has shown teleworking from home after
+hours may not be as problematic in terms of work-family conﬂict as has been shown in some previousstudies. A plausible explanation is the sample con-sisted of professional teleworkers, who are able tochoose more freely both when and where to work,and not “traditional” fulltime ofﬁce employees, i.e.employees restricted to teleworking from home onlyoutside regular ofﬁce hours (or not at all). Moreover,employees in this study had ﬂextime, which meansthat the teleworking done after hours did not neces-sarily have to represent supplemental work.
+The study has also shown, in line with previous
+empirical studies, that higher boundary permeabil-ity, and more speciﬁcally allowing work to interruptnonwork roles and behavior, is related to higherwork interference with family. Accordingly, employ-ees should beneﬁt from enacting boundaries betweenwork and nonwork to protect from work encroach-ments (work calls, reminders of work, etc.). To whatextent the results in this study can be generalizedto other organizations is uncertain. More researchis clearly needed to untangle how telework outsideregular ofﬁce hours and individual boundary manage-ment impact work-life outcomes such as work-familyconﬂict.
+Conﬂict of interest
+None to report.
+References
+[1] Bailey DE, Kurland NB. A review of telework research:
+Findings, new directions, and lessons for the study of mod-ern work. Journal of Organizational Behavior. 2002;23(4):383-400. http://doi.org/10.1002/job.144
+[2] Kurland NB, Bailey DE. The advantages and challenges of
+working here, there anywhere, and anytime. OrganizationalDynamics. 1999;28(2):53-68.
+[3] Mann S, Holdsworth L. The psychological impact of tele-
+working: Stress, emotions and health. New Technology,Work and Employment. 2003;18(3):196-211.
+[4] Gajendran RS, Harrison DA. The good, the bad, and the
+unknown about telecommuting: Meta-analysis of psycho-logical mediators and individual consequences. Journal
+of Applied Psychology. 2007;92(6):1524-41. http://doi.org/10.1037/0021-9010.92.6.1524
+[5] Madsen SR. The effects of home-based teleworking on
+work-family conﬂict. Human Resource Development Quar-terly. 2003;14(1):35-58.
+[6] Allen TD, Johnson RC, Kiburz KM, Shockley KM. Work-
+family conﬂict and ﬂexible work arrangements: decon-structing ﬂexibility. Personnel Psychology. 2013;66(2):345-76. http://doi.org/10.1111/peps.12012
+[7] Golden TD, Veiga JF, Simsek Z. Telecommuting’s differ-
+ential impact on work-family conﬂict: Is there no place likehome? Journal of Applied Psychology. 2006;91(6):1340-50. http://doi.org/10.1037/0021-9010.91.6.1340
+[8] Shockley KM, Allen TD. When ﬂexibility helps: Another
+look at the availability of ﬂexible work arrange-ments and work–family conﬂict. Journal of V ocationalBehavior. 2007;71(3):479-93. http://doi.org/10.1016/j.jvb.2007.08.006
+[9] Golden TD. Altering the effects of work and family conﬂict
+on exhaustion: Telework during traditional and nontra-ditional work hours. Journal of Business and Psycho-logy. 2012;27(3):255-69. http://doi.org/10.1007/s10869-011-9247-0
+[10] Duxbury LE, Higgins CA, Mills S. After-hours telecom-
+muting and work-family conﬂict: A comparative analysis.Information Systems Research. 1992;3(2): 173-89.
+[11] Duxbury LE, Higgins CA, Thomas DR. Work and family
+environments and the adoption of computer-supported sup-plemental work-at-home. Journal of V ocational Behavior.1996;49(1):1-23.
+[12] Fenner GH, Renn RW. Technology-assisted supplemen-
+tal work: Construct deﬁnition and a research framework.Human Resource Management. 2004;43(2-3):179-200.http://doi.org/10.1002/hrm.20014
+[13] Fenner GH, Renn RW. Technology-assisted supplemen-
+tal work and work-to-family conﬂict: The role ofinstrumentality beliefs, organizational expectations andtime management. Human Relations. 2010;63(1):63-82.http://doi.org/10.1177/0018726709351064
+[14] Boswell WR, Olson-Buchanan JB. The use of communica-
+tion technologies after hours: The role of work attitudes andwork-life conﬂict. Journal of Management. 2007;33(4):592-610. http://doi.org/10.1177/0149206307302552
+[15] Greer TW, Payne SC. Overcoming telework chal-
+lenges: Outcomes of successful telework strategies. ThePsychologist-Manager Journal. 2014;17(2):87-111.
+[16] Bulger CA, Matthews RA, Hoffman ME. Work and
+personal life boundary management: Boundary strength,work/personal life balance, and the segmentation-integration continuum. Journal of Occupational HealthPsychology. 2007;12(4):365-75. http://doi.org/10.1037/1076-8998.12.4.365
+[17] Kossek EE, Lautsch BA, Eaton SC. Telecommuting, con-
+trol, and boundary management: Correlates of policyuse and practice, job control, and work-family effective-ness. Journal of V ocational Behavior. 2006;68(2):347-67.http://doi.org/10.1016/j.jvb.2005.07.002
+[18] Greenhaus JH, Beutell NJ. Sources of conﬂict between work
+and family roles. The Academy of Management Review.1985;10(1):76.
+[19] Standen P, Daniels K, Lamond D. The home as a workplace:
+Work-family interaction and psychological well-being intelework. Journal of Occupational Health Psychology.1999;4(4):368.
+D. Jostell and S. Hemlin / After hours teleworking and boundary management 483
+[20] Carlson DS, Kacmar KM, Williams LJ. Construction
+and initial validation of a multidimensional measure ofwork-family conﬂict. Journal of V ocational Behavior.2000;56(2):249-76.
+[21] Gutek BA, Searle S, Klepa L. Rational versus gender role
+explanations for work-family conﬂict. Journal of appliedpsychology. 1991;76(4):560.
+[22] Kreiner GE. Consequences of work-home segmenta-
+tion or integration: A person-environment ﬁt perspective.Journal of Organizational Behavior. 2006;27(4):485-507.http://doi.org/10.1002/job.386
+[23] Netemeyer RG, Boles JS, McMurrian R. Development and
+validation of work-family conﬂict and family-work con-ﬂict scales. Journal of applied psychology. 1996;81(4):400.
+[24] Noonan MC, Glass JL. The hard truth about telecommuting.
+Monthly Lab Rev. 2012;135:38.
+[25] Allen TD, Golden TD, Shockley KM. How effective is
+telecommuting? Assessing the status of our scientiﬁc ﬁnd-ings. Psychological Science in the Public Interest. 2015;16(2):40-68.
+[26] Hill EJ, Erickson JJ, Holmes EK, Ferris M. Workplace ﬂex-
+ibility, work hours, and work-life conﬂict: Finding an extraday or two. Journal of Family Psychology. 2010;24(3):349-58. http://doi.org/10.1037/a0019282
+[27] Golden TD. Applying technology to work: Toward a bet-
+ter understanding of telework. Organization ManagementJournal. 2009;6(4):241-50.
+[28] Ashforth BE, Kreiner GE, Fugate M. All in a day’s work:
+Boundaries and micro role transitions. The Academy ofManagement Review. 2000;25(3):472. http://doi.org/10.2307/259305
+[29] Allen TD, Cho E, Meier LL. Work-family boundary dynam-
+ics. Annual Review of Organizational Psychology andOrganizational Behavior. 2014;1(1):99-121.
+[30] Nippert-Eng CE. Home and work. Chicago, IL: The Uni-
+versity of Chicago Press, 1996.[31] Clark SC. Work/family border theory: A new theory of
+work/family balance. Human Relations. 2000;53(6):747-70. http://doi.org/10.1177/0018726700536001
+[32] Kossek EE, Ruderman MN, Braddy PW, Hannum
+KM. Work-nonwork boundary management proﬁles:A person-centered approach. Journal of V ocationalBehavior. 2012;81(1):112-28. http://doi.org/10.1016/j.jvb.2012.04.003
+[33] Olson-Buchanan JB, Boswell WR. Blurring bound-
+aries: Correlates of integration and segmentation betweenwork and nonwork. Journal of V ocational Behav-ior. 2006;68(3):432-45. http://doi.org/10.1016/j.jvb.2005.10.006
+[34] Kim S, Hollensbe E. Work interrupted: A closer look at work
+boundary permeability. Management Research Review. 11december 2017;40(12):1280-97.
+[35] Miles J, Shevlin M. Applying regression & correlation. A
+guide for students and researchers. London, UK: Sage Pub-lications Ltd, 2011.
+[36] Tabachnick BG, Fidell LS. Using multivariate statistics.
+Fifth edition. Boston, US: Pearson Education, 2007.
+[37] Duxbury LE, Higgins CA, Lee C. Work-family conﬂict: A
+comparison by gender, family type, and perceived control.Journal of Family Issues. 1994;15(3):449-66.
+[38] Rothbard NP, Phillips KW, Dumas TL. Managing multi-
+ple roles: Work-family policies and individuals’ desires forsegmentation. Organization Science. 2005;16(3):243-58.
+[39] Adkins CL, Premeaux SA. The use of communication
+technology to manage work-home boundaries. Journal ofBehavioral & Applied Management. 2014;15(2):82-100.
+[40] Podsakoff PM, MacKenzie SB, Lee J-Y , Podsakoff
+NP. Common method biases in behavioral research: Acritical review of the literature and recommended reme-dies. Journal of Applied Psychology. 2003;88(5):879-903.http://doi.org/10.1037/0021-9010.88.5.879
+[41] Kossek EE. Managing work-life boundaries in the digital
+age. Organizational Dynamics. juli 2016;45(3):258-70.

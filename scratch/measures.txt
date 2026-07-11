@@ -1,0 +1,506 @@
+226P. Kale, H. Singh and H. Perlmutter
+different ways. First, we used secondary data
+sources, such as the Standard & Poors’ digest oncompany executives, to create a preliminary list
+of executive names and contact details. In cases
+where we did not have enough information, wecalled up the company to collect or reconﬁrm
+this information. In some cases we were directed
+to send the survey to an executive or managerwho was different from the one we had in our
+original list. We dropped cases where we failed to
+get sufﬁciently clear information. We eventually
+mailed our survey to 592 companies.
+The primary recipient in each company was
+requested to select any one alliance that the com-
+pany had been involved with and forward the
+questionnaire to a manager who was directlyassociated with that alliance. This latter individual
+was the primary respondent to the survey ques-
+tionnaire. In certain cases, the primary recipientselected an alliance for which he/she was also
+the primary respondent. We received responses
+from 278 companies, of which 212 were completein all respects. With respect to the companies’
+sales and employees, no signiﬁcant differences
+were observed between the respondent and nonre-spondent groups.
+Measurement
+Multi-item scales were used to collect data on
+most of the key constructs. Since little empirical
+precedent existed to develop these measures, we
+relied on extant literature and our ﬁeldwork toselect individual items for our scales. Simplicity
+in scoring was sought by using a balanced 7-
+point Likert-type scale that is easy to master.Basically, each respondent was asked to indicate
+the extent to which he/she disagreed or agreed
+with the given statement, such that 1 =Strongly
+Disagree and 7 =Strongly Agree. We pretested
+the survey instrument with a small group of
+managers from different companies before send-ing out the ﬁnal version. Pretesting helped us
+modify the language suitably and reject items
+that were difﬁcult to understand, or involvedunnecessary repetition. The Appendix provides
+details of individual items used to measure each
+theoretical construct.
+The dependent variables, ‘learning’ and ‘pro-
+tection of proprietary assets,’ and the key
+explanatory variables, ‘conﬂict management’ and
+‘relational capital,’ are all measured using multi-
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)item scales. Among the controls, ‘partner ﬁt’ in
+terms of complementarity and compatibility isalso measured with a multi-item scale. However,
+for the rest of the control variables, we relied on
+categorical measures to obtain the responses. Foralliance structure, respondents had to indicate
+whether the alliance was an equity alliance or
+not and the responses were coded as ‘Yes =1’
+and ‘No =0.’ Similarly, respondents provided a
+‘Yes/No’ answer to indicate the existence of prior
+alliances between the partners, where existence
+of prior alliances was coded as ‘1’ and ‘0’ other-
+wise. For partner nationality, respondents had togive a ‘Yes/No’ response to whether the alliance
+partners belonged to same nationality and the
+coding was such that ‘Yes =1’ and ‘No =0.’
+Alliance duration is a simple count of the number
+of years since the alliance was formed.
+RESULTS AND ANALYSES
+The analyses have been conducted in multiplestages such that results from these can collectively
+help assess the proposed framework and hypoth-eses. When multiple-item scales are used to meas-
+ure latent constructs and a composite score based
+on these items is used in further analyses, it isimportant to assess the validity and reliability of
+the scales used (Gerbing and Anderson, 1988).
+Selection of scale items on the basis of prior
+literature, ﬁeldwork, and pretesting of the survey
+instrument helped ensure content or face validity.To assess scale reliability, we computed Cronbach
+alphas for each multiple scale item and found
+these to be well above the cut-off value of 0.7in each case (Nunnally, 1978). Table 1 provides
+the results of this analysis. Table 2 provides the
+descriptive statistics and correlation matrix of thekey variables.
+We ﬁrst used ordinary least-squares regression
+Table 1. Reliability of scales used to measure latent
+constructs
+Construct Cronbach aItems Valid N
+Partner ﬁt 0.8165 4 239
+Relational capital 0.9063 5 252Conﬂict 0.9160 6 231management
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+228P. Kale, H. Singh and H. Perlmutter
+protect against leakage of core proprietary assets.
+None of the other variables, including the con-trols, shows any signiﬁcant relationship with pro-
+tection of proprietary assets. This result is quite
+surprising, given the emphasis placed by priorresearch on aspects like equity governance or
+prior ties.
+Instead of conducting the analyses separately
+as above, we can use methods that combine
+these techniques as well as provide additional
+advantages. Structural modeling is one such tech-
+nique that can be used. It consists of two stages:
+(a) a measurement model that assesses reliabilityand validity of the scales used to measure each
+latent construct, and (b) a structural model that
+lays out and estimates multiple dependentrelationships between the constructs of interest.
+The true value of structural equation modeling
+comes from the beneﬁt of analyzing the structuraland measurement models simultaneously. An
+additional advantage of this technique lies in
+its ability to estimate a series of dependencerelationships, wherein one dependent variable
+becomes the explanatory variable in subsequent
+relationships. It also allows researchers to assessthe impact of explanatory variables on two or
+more dependent variables, at the same time (Hair
+et al., 1998).
+In our theory section, we had suggested that
+conﬂict management and partner ﬁt could have
+both a direct impact on the two dependent vari-
+ables (learning and the protection of proprietary
+assets), as well as an impact on the relationalcapital between partners. Thus, relational capital
+would be a dependent variable with respect to
+conﬂict management and partner ﬁt and anexplanatory variable with respect to learning and
+protection of proprietary assets. Structural model-
+ing is well equipped to handle such multipledependent relationships. We also believe that in
+alliance situations ﬁrms face the tension of trying
+to achieve the two focal objectives, learning andprotecting proprietary assets, simultaneously.
+Thus instead of estimating separate models for
+the relationships between the explanatory vari-ables and each of the dependent variables, as
+done earlier, we can use structural modeling to
+estimate the two sets of relationships si-multaneously. Finally, since we are measuring
+each of the theoretical constructs using a number
+of manifest items, the measurement model can
+also help us examine the validity and reliability
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)of these constructs, even as we examine the
+dependence relationships between them.
+Figure1 provides the path diagram for the
+model that includes the multiple dependent
+relationships that we propose and Tables4 and 5provide the equations for the measurement and
+structural models based on the path diagram.
+In the model that we estimate we have omitted
+all control variables, except partner ﬁt, for several
+reasons. First, structural modeling is better suited
+to examine relationships between constructs that
+are measured using interval or ratio scales. Most
+current techniques are not well suited toadequately handle categorical explanatory vari-
+ables such as all of our controls, with the excep-
+tion of partner ﬁt. Second, our initial analysesshow that none of those controls is in any way
+signiﬁcantly related to the dependent variables.
+Thus, dropping them from our model should notconstitute severe problems. We estimate the
+model using the maximum likelihood estimation
+procedure of LISREL 7, which is robust, efﬁcient,and unbiased, when the assumption of multi-
+variate normality is met (Joreskog and Sorbom,
+1988). Results of the analysis are discussed inthe following section.
+Overall model ﬁt
+The ﬁrst step in structural modeling is to assess
+overall model ﬁt with one or more goodness-of-
+ﬁt measures. Goodness-of-ﬁt is a measure of the
+correspondence of the actual or observed input
+Figure 1. Path diagram (structural modelling)
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+Learning and Protection of Proprietary Assets in Alliances 229
+Table 4. Measurement model
+(a) Measurement model (exogenous constructs)
+Exogenous Exogenous constructs Error
+indicator
+j1 j2
+X1= l11j1 +d1
+X2= l21j1 +d2
+X3= l31j1 +d3
+X4= l41j1 +d4
+X5= l12j2+d5
+X6= l22j2+d6
+X7= l32j2+d7
+X8= l42j2+d8
+X9= l52j2+d9
+X10= l62j2+d10
+X1–X4: indicators for ‘partner ﬁt’ ( j1) corresponding to PP1–
+PP4 in Figure1.
+X5–X10: indicators for ‘conﬂict management’ ( j2) corre-
+sponding to CM1–CM6 in Figure1.
+l11–l62: parameters estimating the relationship between
+manifest indicators and latent constructs.
+d1–d10: error terms for indicators X1–X10.
+(covariance or correlation) matrix with that pre-
+dicted from the proposed model. If the proposed
+model has acceptable ﬁt, by whatever criteriaapplied, the researcher has not ‘proved’ the pro-
+posed model, but has only conﬁrmed that it is
+one of the several possible acceptable models
+(Hairet al., 1998).
+The ﬁrst measure we report is the likelihood
+ratio chi-square statistic. For the proposed model,
+we get a chi-square of 316.19 (d.f. =177). If the
+model is to provide a satisfactory representationof the data, it is important for the chi-square
+value to be nonsigniﬁcant ( p.0.05). The sig-
+niﬁcance level of 0.02 for the chi-square of ourmodel is close to the usually acceptable threshold
+of 0.05, indicative of partially acceptable ﬁt. The
+second measure we report is the normed chi-square (Joreskog, 1969), where the chi-square is
+adjusted by the degrees of freedom to assess
+model ﬁt. Models with adequate ﬁt should havea normed chi-square less than 2.0 or 3.0
+(Carmines and McIver, 1981). With a normed
+chi-square of 1.78, the proposed model providesa fairly satisfactory representation of the data.
+The third measure reported is the GFI index,
+which is the most popular goodness-of-ﬁt measure
+provided by LISREL analysis (Joreskog and Sor-
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)(b) Measurement model (endogenous constructs)
+Endogenous Endogenous constructs Error
+indicators
+h1 h2 h3
+Y1= l11h1 +e1
+Y2= l21h1 +e2
+Y3= l31h1 +e3
+Y4= l41h1 +e4
+Y5= l51h1 +e5
+Y6= l12h2 +e6
+Y7= l22h2 +e7
+Y8= l32h2 +e8
+Y9= l13h3+e9
+Y10= l23h3+e10
+Y1–Y5: indicators for ‘relational capital’ ( h1) corresponding
+to RC1–RC5 in Figure1.
+Y6–Y8: indicators for ‘Learning’ ( h2) corresponding to L1–
+L3 in Figure1.
+Y9–Y10: indicators for ‘protection of proprietary assets’ ( h3)
+corresponding to PC1–PC2 in Figure 1.
+l11–l23: parameters estimating the relationship between
+manifest indicators and latent constructs.
+e1–e10: error terms for Y1–Y10.
+Table 5. Structural model
+Endogenous Exogenous Endogenous Error
+constructs constructs constructs
+j1 j2 h1 h2 h3
+h1=l11j1+l12j2 +z1
+h2=l21j1+l22j2+b21h1+z2
+h3=l31j1+l32j2+b31h1+z3
+h1=construct representing ‘relational capital’
+h2=construct representing ‘learning’
+h3=construct representing ‘protection of proprietary assets’
+j1=construct representing ‘partner ﬁt’
+j2=construct representing ‘conﬂict management’
+g11–g32=parameters estimating the relationship between
+exogenous and endogenous constructs
+b21–b31=parameters estimating the relationship between
+various endogenous constructs
+z1–z3=error terms
+bom, 1988). It is a nonstatistical measure ranging
+in value from 0 (poor ﬁt) to 1.0 (perfect ﬁt).
+We get a GFI of 0.89 for our model, which issufﬁciently close to the generally acceptable level
+of 0.90 (Hair et al., 1998. We also assessed the
+incremental ﬁt of the model compared to the null
+model by examining the Normed Fit Index. The
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+230P. Kale, H. Singh and H. Perlmutter
+Normed Fit Index of 0.91 is above the desired
+threshold level of 0.90. Overall, the differentgoodness-of-ﬁt measures indicate partial support
+Table 6. (a). Measurement model: Parameter esti-
+mates
+Construct Parameter t-statistic
+indicators estimate
+Partner ﬁt (PP)PP1 0.912 14.22*PP2 0.870 13.92*PP3 0.453 6.23*PP4 0.619 9.11*
+Conﬂict
+management(CM)CM1 0.857 14.68*CM2 0.889 15.63*CM3 0.848 14.24*CM4 0.891 15.85*CM5 0.735 11.69*CM6 0.848 14.21*
+Relational capital
+(RC)RC1 1.00RC2 0.810 9.41*RC3 0.872 11.36*RC4 0.883 11.73*RC5 0.851 10.47*
+Learning (L)
+L1 1.00L2 0.921 14.24*L3 0.835 9.08*
+Protection of
+proprietary assets(PC)PC1 1.00PC2 0.683 6.412*
+*p-value ,0.001
+(b). Measurement model: Construct reliability
+Construct Reliability estimates
+Partner ﬁt 0.826
+Conﬂict management 0.912Relational capital 0.902Learning 0.905Protection of prop. assets 0.848
+Note: Threshold levels for acceptability—construct
+reliability .0.70
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)for the proposed model. Although not perfect, the
+level of ﬁt seems sufﬁcient enough to proceedwith the assessment of the measurement and
+structural models.
+Measurement model ﬁt
+In the measurement model, the ﬁrst step is to
+examine the loading of the manifest indicators
+on the underlying theoretical constructs and to
+focus on nonsigniﬁcant loadings, if any. As we
+see in Table 6a, all the indicators are signiﬁcantly
+related with their respective underlying constructs(t-values .2.0 andp,0.05).
+Since none of the indicators have a loading
+that is so low or nonsigniﬁcant that they shouldbe deleted, we can proceed to assess the validity
+and reliability of the construct scales. The sig-
+niﬁcance of the factor loadings provides supportfor the convergent validity of the respective scales
+(Anderson and Gerbing, 1988). Discriminant va-
+lidity was assessed by comparing a model withthe correlation between two explanatory con-
+structs constrained to equal one with an uncon-
+strained model. A signiﬁcantly lower chi-squarefor the model with unconstrained correlation pro-
+vides support for discriminant validity (Joreskog,
+1971). Table 6b provides results for scalereliability. We see that the reliability estimates
+exceed the suggested level of 0.70, in all cases.
+Together, the results suggest that the manifest
+indicators are signiﬁcant and reliable measures of
+the latent constructs being used. Our analysisalso revealed signiﬁcant correlation ( p,0.05)
+between the measurement errors for some of the
+indicators within constructs (e.g.,
+d1 and d2;d5
+and d6;d7 and d8;e2 and e3;e5 and e6).
+Correlated measurement errors suggest the exis-
+tence of consistent response bias across certainindicators within constructs that needs to be con-
+trolled for while estimating the model.
+Structural model ﬁt
+Having assessed the overall model ﬁt and the
+measurement model, we can now examine the
+theoretical relationships between the underlying
+constructs. The most obvious examination in thestructural model involves the signiﬁcance of the
+estimated coefﬁcients. Structural modeling
+methods provide not only estimated coefﬁcients
+but also standard errors and t-values for each
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+Learning and Protection of Proprietary Assets in Alliances 233
+It also facilitates each partner to form alliances
+with other companies, based on the referrals oftrustworthiness that each partner is ready to give
+for its current partners owing to the strong
+relational capital between them. Thus relationalcapital opens up greater opportunities for the
+ﬁrms concerned to form new linkages and collab-
+orations with each other and with other companiesand thereby increase the network of alliances in
+which they are embedded (Ahuja, 2000; Gulati
+and Gargiulo, 1999).
+Relational capital can also inﬂuence the per-
+formance of individual ﬁrms embedded in alliancenetworks in several ways. Afuah (2000) argues
+that a ﬁrm’s competitive advantage is often ham-
+pered when technological change renders thecapabilities of its network of co-opetitors obso-
+lete. He goes on to suggest that companies can
+potentially minimize damage if they have a meansof detecting such changes in a timely and correct
+manner. We have seen that strong relational capi-
+tal between partners can foster timely and accur-ate exchange of information across the interface.
+It should thus enable individual ﬁrms to identify,
+better and faster, technological discontinuities thatmight hamper their co-opetitors and act accord-
+ingly to minimize the damage that may result.
+Similarly in the context of startups, Baum, Cala-brese, and Silverman (2000) have suggested that
+their performance is signiﬁcantly inﬂuenced by
+the size, composition, and diversity of their
+alliance network. Startups with larger and more
+diverse networks are expected to enjoy superiorearly performance, because of greater and richer
+access to relevant information and capabilities of
+such a network. We would like to suggest thatwhile network size and diversity provide a greater
+potential for accessing and learning important
+information and capabilities, it is the quality ofthe relationship between network partners that
+enables true and full realization of this potential.
+Startups that build a stronger relational capitalwith their network partners would exhibit higher
+performance, all other aspects of the network
+remaining the same. Essentially relational capitalat the dyadic level acts as a lubricant for poten-
+tially useful and important information to travel
+quickly and accurately through the network. Thus,having empirically established the role of
+relational capital with respect to learning in a
+dyadic exchange, we believe that future research
+can further examine its role and impact in net-
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)work situations, as described in some of the
+above situations.
+In the network context, Gulati and Lawrence
+(1999) have examined value chain alliances
+(VCAs), which are vertical links between inde-pendent ﬁrms operating at successive stages in
+the production chain. The authors argue that
+VCAs are superior to arm’s-length arrangementsor even to vertically integrated ﬁrms because of
+their ability to provide high levels of differen-
+tiation and integration simultaneously, especially
+under conditions of high task and environmental
+uncertainty. Integration, which refers to unity ofeffort and information exchange between VCA
+partners (Gulati and Lawrence, 1999), enables
+them to leverage their differentiated and special-ized capabilities more effectively. Based on our
+research, we believe that relational capital and
+integrative conﬂict management can play a keyrole in enhancing such integration in VCAs. Mu-
+tual interaction and trust that engender relational
+capital not only will enable VCA partners towork more unitedly, but also facilitate easier ﬂow
+of information and skills between them.
+Before we conclude we would like to highlight
+several important limitations of this paper. Owing
+to practical considerations, like most large-sample
+survey research on alliances we too haveresponses, for both the dependent and independent
+variables, from just one of the alliance partners.
+Ideally it would be beneﬁcial to get an assessment
+from all/both partners on aspects like relational
+capital or conﬂict management since they relateto aspects concerning both/all partners. It would
+be equally interesting to examine how these vari-
+ables impact learning opportunities and successof both partners. While strong relational capital
+can enhance the learning potential for both part-
+ners, actual learning may perhaps differ becauseof differential learning abilities of the concerned
+partners. Our data do not allow us to examine
+this issue. Second, in this research, we have reliedonly on perceptual measures to assess learning
+and protection of core assets. It would be useful
+to develop alternative measures for these variablesusing more objective data and examine how they
+relate to their corresponding perceptual measures
+as well as to the explanatory variables. Forexample, Mowery et al. (1996) have used patent
+cross-citations to assess learning in alliances.
+Future research could beneﬁt by combining such
+objective measures of learning with survey-based
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+234P. Kale, H. Singh and H. Perlmutter
+perceptual measures to investigate the important
+tension that we have highlighted in this paper.Third, it is important to recognize that aspects
+like relational capital and learning evolve over
+time; so might the relationship between them.Yet, in the current study, we have only cross-
+sectional data on these aspects, which limits our
+ability to understand the full richness of theirdynamic nature and interaction and to infer strong
+causal links between them.
+We also believe that there is scope to improve
+upon and reﬁne some of the measures that have
+been used. This study is one of the few that triesto examine and measure postformation alliance
+management aspects like relational capital and
+conﬂict management, using survey-basedresearch, and there was little empirical precedent
+to develop most of the measures that were used.
+Future research can also work towards includingother important variables that might have an impact
+upon the dependent variables examined here. For
+example, research suggests that learning in allianceswould also be inﬂuenced by the learning/absorptive
+capacity of the ﬁrms concerned (Cohen and Levin-
+thal, 1990), or the extent to which the partnersestablish knowledge-sharing or learning routines
+(Dyer and Singh, 1998) between them. Inclusion of
+these variables will improve model ﬁt considerablycompared to some of the models estimated here.
+Besides including additional variables, future
+research could also examine other theoretical
+relationships that might exist between some of the
+constructs considered here and estimate whethermodels corresponding to alternate theories provide
+better explanation of our data.
+CONCLUSION
+This paper is one of the few empirical studiesthat explores alliance dynamics at a cross-industry
+level and provides some empirical evidence tohighlight the signiﬁcance of alliance management
+practices such as managing conﬂicts integratively
+and building relational capital. It shows that thesepractices can, in fact, help ﬁrms simultaneously
+achieve alliance objectives that are often believed
+to be mutually exclusive, i.e., learning criticalskills, capabilities, or information from the partner
+and at the same time protecting one from losing
+core proprietary assets to the partner.
+To the extent that building relational capital
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)and managing conﬂicts in an integrative manner
+are important to the success of alliances, com-panies can beneﬁt substantially by possessing a
+superior capability of managing these aspects of
+alliance management. Research shows, however,that ﬁrms are quite heterogeneous with respect to
+their alliance capabilities and that this heterogen-
+eity is linked both to the amount of prior allianceexperience they have had (Anand and Khanna,
+2000) and how they learn and leverage from that
+experience (Kale and Singh, 1999). It has been
+observed that the prior alliance experience of the
+ﬁrm is important in being able to build or utilizeappropriate routines and mechanisms to build
+relational capital and manage conﬂicts. Future
+research needs to explore these important researchquestions in greater detail.
+REFERENCES
+Afuah, A. (2000). ‘How much do your co-opetitors’
+capabilities matter in the face of technologicalchange?’, Strategic Management Journal , Special
+Issue,21, pp. 387–404.
+Ahuja, G. (1996). ‘Collaboration and innovation: A
+longitudinal study of inter-ﬁrm linkages and ﬁrmpatenting in the global advanced materials industry’,Ph.D. dissertation, University of Michigan.
+Ahuja, G. (2000). ‘The duality of collaboration: Induce-
+ments and opportunities in the formation of interﬁrmalliances’, Strategic Management Journal , Special
+Issue,21, pp. 317–343.
+Anand, B. and T. Khanna (2000). ‘Do ﬁrms learn to
+create value? The case of alliances’, Strategic Manage-
+ment Journal , Special Issue, 21, pp. 295–315.
+Anderson, E. 1990. Two ﬁrms, one frontier: On
+assessing joint venture performance. Sloan Manage-
+ment Review ,31(2), pp. 19–30.
+Anderson, J. C. and D. W. Gerbing (1988). ‘Structural
+modeling in practice: A review and recommendedtwo-step approach’, Psychological Bulletin ,103(3),
+pp. 411–423.
+Arino, A. and J. de la Torre (1998). ‘Learning from
+failure: Towards an evolutionary model of collabo-rative ventures’, Organization Science ,9(3),
+pp. 306–325.
+Arrow, K. J. (1974). The Limits of Organization . Nor-
+ton, New York.
+Badaracco, J. L. (1988). General Motor’s Asian Alliances .
+Harvard Business School Press, Boston, MA.
+Badaracco, J. L. (1991). The Knowledge Link . Harvard
+Business School Press, Boston, MA.
+Bazerman, M. and M. Neal (1984). Negotiating Ration-
+ally. Free Press, New York.
+Baum, A. C., T. Calabrese and B. Silverman (2000).
+‘Don’t go it alone: Alliance network compositionand startups’ performance in Canadian biotechnolo-
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+---
+Learning and Protection of Proprietary Assets in Alliances 237
+APPENDIX: List of items used to measure each theoretical construct
+Note: Respondents used a 7-point Likert scale to provide responses on each item, such that
+‘1=Strongly Disagree and 7 =Strongly Agree’
+Reference source
+(a) Independent variables
+Relational capital (RC)1. There is close, personal interaction between the partners at multiple levels Dyer and Singh (1998);2. The alliance is characterized by mutual respect between the partners at Madhok (1995); Dyer
+multiple levels (1996); Gulati (1995);
+3. The alliance is characterized by mutual trust between the partners at multiple Inkpen (1994); Badaracco
+levels (1991); Mohr and Spekman
+4. The alliance is characterized by personal friendship between the partners at (1994)
+mulitple levels
+5. The alliance is characterized by high reciprocity among the partners
+Conﬂict management (CM)
+1. An explicit mechanism has been established and used to address or resolve Parkhe (1993); MacNeil
+conﬂicts (1981); Mohr and Spekman
+2. Managerial interaction between partners is closely monitored for identifying (1994)
+potential conﬂicts
+3. There is strong two-way communication while resolving conﬂicts4. Great emphasis is placed on dealing with cultural obstatcles while resolving
+conﬂicts
+5. The partners engage in joint problem solving while resolving conﬂicts6. Top management from both sides is involved in resolving conﬂicts
+(B) Controls
+Partner ﬁt: Complementarity and compatibility (PP)1. There is high Complementarity between the resources/capabilities of the two Beamish (1987); Harrigan
+partners (1988b); Tucchi (1996);
+2. There is high similarity/overlap between the core capabilities of each partner Geringer (1988); Parkhe3. The organizational cultures of the two partners are compatible with each (1993); Dyer and Singh
+other (1998); De la Sierra (1995)
+4. The management and operating styles of the partners are compatible with
+each other
+Other controls (these three items were not measured with a Likert scale)
+1. What was the structure of this alliance (choose one): equity or nonequity?2. Did the partners have other alliances between them, prior to this relationship
+(choose one): Yes/No?
+3. Do the partners belong to the same nationality (choose one): Yes/No?
+(C) Dependent variables
+Learning (L)1. Your company learnt or acquired some new or important information from
+the partner
+2. Your company learnt or acquired some critical capability or skill from the
+partner
+3. This alliance has helped your company to enhance its existing
+capabilities/skills
+Protection of proprietary assets (PC)
+1. Your company has been able to protect its core capabilities or skills from the
+partner
+2. Your company has been successful in protecting its crown jewels from being
+appropriated by the partner
+Copyright Ó2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 217–237 (2000)
+ 10970266, 2000, 3, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0266(200003)21:3<217::AID-SMJ95>3.0.CO;2-Y by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

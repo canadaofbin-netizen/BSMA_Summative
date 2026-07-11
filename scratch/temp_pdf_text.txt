@@ -1,0 +1,749 @@
+
+--- Page 1 ---
+Employee goal orientation and
+knowledge sharing: the moderating
+effect of leader boundary
+spanning behavior
+Myungsun Kim and Seckyoung Loretta Kim
+College of Business Administration, Incheon National University,
+Incheon, South Korea
+Abstract
+Purpose – The research aims to examine the impacts of two different types of goal orientation, i.e. leaning goal
+orientation (LGO) and performance-prove goal orientation (PPGO), on employee knowledge sharing, and
+whether these relationships are altered by leaders’ boundary spanning behavior (BSB).
+Design/methodology/approach – A sample of 170 employees and 93 leaders were collected from South
+Korean organizations. Data were analyzed using path analysis.
+Findings – The results demonstrated that employees with a high LGO are more likely to engage in knowledge
+sharing, while employees with a high PPGO are less likely to show knowledge sharing. Moreover, the findings
+showed that highly learning oriented employees tend to engage in knowledge sharing when they are under
+leaders who show active BSB.
+Practical implications – To encourage knowledge sharing between employees, organizations need to
+promote a mastery-structured work environment to help employees develop a stronger LGO. Also,
+organizations could benefit from implementing training programs for leaders that promote their BSB.
+Originality/value – The research aims to provide a more articulate account for how LGO and PPGO affect
+employee knowledge sharing in opposite ways. More importantly, this research provides new insights
+regarding the role of leaders’ BSB as a contextual factor in promoting employee knowledge sharing. Using
+social learning theory as a theoretical framework, this study indicates how employees with a high LGO learn
+the behaviors of boundary spanning leaders and are more willing to engage in knowledge sharing.
+Keywords Knowledge sharing behavior, Goal orientation, Leader boundary spanning behavior,
+Social learning theory, Interactionist perspective
+Paper type Research paper
+In a competitive and dynamic business environment, knowledge sharing is critical for
+organizations to achieve sustainable competitive advantages (Rao Jada et al., 2019; Yoon
+et al., 2020). Knowledge sharing defined as the action of making knowledge available to
+others within the organizations such as providing or receiving task information, know-
+how, and feedback regarding a product or procedure is widely known to contribute to
+performance, innovation, organizational learning, and even long-term success (Yoon et al.,
+2020; Wang and Noe, 2010). Recognizing the importance of knowledge sharing as a
+primary source of organizational competitive advantages, scholars have continuously
+conducted research to explore what promotes knowledge sharing between employees,
+which is an essential way to exploit an existing knowledge in the organizations (Rao Jada
+et al., 2019).
+Interestingly, the major obstacles for organizations to implement successful knowledge
+management systems were not the systems but individual employees (e.g. Lee et al., 2015).
+Since knowledge is a source of power and competitive advantages for each employee, sharing
+knowledge is undoubtedly challenging for them unless they have compelling reasons or
+motivations to engage in such behavior (e.g. Kim et al., 2016). As each individual is a primary
+entity that initiates knowledge sharing in an organization (Yoon et al., 2020), we focus on
+Goal
+orientation and
+knowledge
+sharing
+927
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/0143-7739.htm
+Received 25 May 2023
+Revised 26 July 2023
+Accepted 4 September 2023
+Leadership & Organization
+Development Journal
+Vol. 44 No. 7, 2023
+pp. 927-939
+© Emerald Publishing Limited
+0143-7739
+DOI 10.1108/LODJ-05-2023-0268
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 2 ---
+individual characteristics as potential predictors of employees’ knowledge sharing.
+Particularly, we select goal orientation dimensions such as learning goal orientation (LGO)
+and performance-prove goal orientation (PPGO) as key predictors of employee knowledge
+sharing given their approach component in common (Elliot and Church, 1997), yet differing
+tendencies toward knowledge sharing.
+Goal orientation refers to a motivational orientation that directs individuals’ attention and
+effort on how to approach, interpret, and respond to achievement situations (Vandewalle
+et al., 2019). Goal orientation has been known to be a potent antecedent of various individual
+attitudes and behaviors across diverse organizational settings (e.g. Stasielowicz, 2019).
+As a motivational force of behaviors, goal orientation is expected to influence individuals’
+reactions to achievement situations (DeShon and Gillespie, 2005), such as whether to engage
+in knowledge sharing at work. Considering the social aspect of most achievement settings in
+organizations, this study investigates the relationship between employee goal orientation and
+knowledge sharing, through exploring the different dimensions of goal orientation, such as
+LGO and PPGO. By empirically testing the effects of two types of goal orientation on
+employee knowledge sharing, we contribute to extant literature on goal orientation and
+knowledge sharing.
+Moreover, we take an interactionist perspective and suggest a comprehensive narrative
+that integrates both personal and contextual factors to explain what makes employees to
+engage in knowledge sharing. A recent review paper by Vandewalle et al. (2019) called for
+more research on the roles of moderator variables in explicating the relationships between
+goal orientation and proximal and distal outcome variables, which enhances the potential
+predictive power of each goal orientation factor in organizational settings. To respond to such
+call, we introduce leaders’ boundary spanning behavior (BSB) as a contextual factor,
+referring to leaders’ activities to gain valuable information and knowledge beyond their units
+or organization (Salem et al., 2018; Takanashi and Lee, 2019).
+Although leaders are the ones who can connect with external parties and actually perform
+boundary-spanning activities, little research has explored the role of leaders’ BSB that affects
+employees’ attitudes and behaviors (Liu et al., 2018; Marrone et al., 2022; Zhang and Li, 2021).
+Given that knowledge sharing requires resources from an individual employee to engage,
+leaders’ BSB could be an appropriate situational factor that can change the relationship
+between goal orientation and knowledge sharing by providing necessary resources.
+Importantly, boundary spanning leaders could act as a strong role model that influences how
+goal-oriented employees engage in knowledge sharing. Drawing upon social learning theory
+(Bandura, 1986), we expect leaders’ BSB to strengthen the positive relationship between LGO
+and knowledge sharing, and to weaken the negative relationship between PPGO and
+knowledge sharing. Figure 1 illustrates our hypothesized model.
+Theoretical background and hypotheses development
+Goal orientation and knowledge sharing
+Although knowledge sharing can occur at all different levels of organizations, such as
+between individuals, groups, departments, and organizations (Rao Jada et al., 2019; Wang and
+Noe, 2010), we focus on the individual level knowledge sharing as any level of knowledge
+sharing requires the initiation or the participation of individuals (Yoon et al., 2020). In fact,
+knowledge sharing mostly relies on each individual’s willingness to share their knowledge
+(Yoon et al., 2020). However, due to their concerns about losing the source of power and
+competitive advantages, employees tend to be reluctant to share their knowledge (e.g. Lee
+et al., 2015). Thus, prior research has suggested various organizational-, leader-, and
+individual factors that predict and promote knowledge sharing (Wang and Noe, 2010).
+LODJ
+44,7
+928
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 3 ---
+Building upon the scholarly work on personality trait and motivation as the antecedents of
+knowledge sharing (e.g. Kim et al., 2016), we expect goal orientation to serve as a powerful
+motivational drive for individuals to engage in more or less knowledge sharing in the
+workplace (Lee et al., 2015). Because of its motivational drives, goal orientation guides
+individuals to engage in certain types of behaviors, either consciously or subconsciously
+(DeShon and Gillespie, 2005). We adopt the most widely accepted conceptualization of goal
+orientation that consists of three dimensions: LGO, PPGO, and performance-avoid goal
+orientation (PAGO) (Vandewalle et al., 2019). Individuals with LGO focus on developing
+competences through mastering new skills in challenging situations. They believe that their
+ability can be developed through effort, which is an efficient strategy for improving
+performance. In contrast, individuals with PPGO and PAGO are mostly concerned with
+demonstrating their ability. Specifically, individuals with PPGO focus on demonstrating
+one’s competence and gaining favorable judgments, while individuals with PAGO focus on
+avoiding negation of one’s competence and negative judgments from others (Dweck and
+Leggett, 1988; Vandewalle et al., 2019).
+Given their relevance and different approaching tendencies, we select LGO and PPGO as
+key predictors of employee knowledge sharing. Depending on the types of goal orientation,
+employees would differ in the extent to which they engage in knowledge sharing because
+they tend to hold different beliefs about the possibility of ability development (e.g. Lee et al.,
+2015). For example, LGO and PPGO are known to be related to different interpersonal styles
+and levels of interest in cooperation (Poortvliet and Giebels, 2012). Similarly, information
+sharing with colleagues can be regarded as a positive opportunity for mutual growth for
+individuals with a strong LGO; while it could be viewed as risky and problematic for
+individuals with a strong PPGO (Vandewalle et al., 2019).
+We expect that highly learning oriented employees are more likely to engage in knowledge
+sharing. Employees with a high LGO tend to select challenging tasks and skill improvement
+goals, and value experiences that provide growth (Vandewalle et al., 2019). As they value
+challenging situations or tasks as a chance to develop their competencies by learning new and
+diverse information and knowledge, employees high in LGO would actively engage in
+Figure 1.
+Path analysis results
+Goal
+orientation and
+knowledge
+sharing
+929
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 4 ---
+interactions with others at work through searching for, obtaining, and sharing new
+information and knowledge that might help them deal with the challenging situations or
+tasks. Also, they tend to perceive knowledge sharing as a learning experience, which deepens
+their own understanding and encourages them to find a better way to explain the knowledge
+before sharing it (e.g. Wang and Noe, 2010). For example, Lu et al. (2012) found the effects of
+LGO on innovative performance through knowledge sharing.
+In contrast, we argue that employees with a high PPGO would be less likely to engage in
+knowledge sharing. Individuals holding a high PPGO assume challenging goals or tasks as a
+risk because they fear failing or revealing their inadequate ability to others. In fact, highly
+performance goal-oriented individuals are likely to respond to challenging tasks or difficult
+situations by avoiding challenges, showing little interest in difficult tasks, and putting little
+effort to succeed when facing adversity (Vandewalle et al., 2019). As a result, employees high
+in PPGO tend to repeat experienced tasks that might help them prove their competence to
+others (Vandewalle et al., 2019). As employees with a high PPGO are mostly concerned about
+their performance or outcomes rather than learning itself, they might not perceive any value
+for knowledge sharing.
+Moreover, knowledge sharing can be costly for employees with a high PPGO because they
+can lose their competitive advantages to remain superior to others once their knowledge
+becomes available for everyone else in the organization for free. Those employees are sensitive
+to the possibility of losing their competitive advantages, as they are motivated to demonstrate
+their abilities to others (Zhu et al., 2019). Unless they are confident that they are able to
+outperform others at work even after sharing their knowledge, they would not be willing to
+share their knowledge with others. Moreover, they may not want to waste their time and effort
+for knowledge sharing, which otherwise can be used for other work activities that might bring
+them greater personal benefits and rewards by outperforming others (Wang and Noe, 2010).
+H1. Employee LGO is positively related to knowledge sharing.
+H2. Employee PPGO is negatively related to knowledge sharing.
+The moderating roles of leader boundary spanning behavior
+BSB refers to actions taken by a focal individual or team reaching out into its environment to
+obtain important resources and support that might help accomplishing their objectives (Yao
+et al., 2022), and are generally classified into three broad categories: representation, task
+coordination, and general information search (Marrone et al., 2022). Importantly, boundary
+spanning underlies the survival and success of the team and its organization (Marrone et al.,
+2022; Yao et al., 2022). Prior research found BSB as one of significant antecedents of outcomes
+such as team knowledge sharing, innovativeness, and overall team effectiveness (Kou, 2021;
+Zhang and Li, 2021). Despite its importance, BSB at the individual level has not been studied
+sufficiently, especially for those who are in a leader position (Kim et al., 2022).
+Using a leadership approach “that creates direction, alignment, and commitment across
+boundaries in service of a higher goal” (Cross et al., 2013, p. 81), we expect leaders’ BSB to exert
+significant influences over employees’ knowledge sharing. Leaders’ BSB is defined as actions
+undertaken by a leader reaching out into the surrounding environment to establish linkages
+with external parties, and to obtain important resources and support from the parties (Salem
+et al., 2018). Given the vital power and position that leaders have in the workplace, they might
+act as key players in connecting with external parties and obtaining valuable resources from in-
+and out-group members, thereby exhibiting BSB (Takanashi and Lee, 2019). By serving an
+information-gathering function as well as an external representation function, leaders’ BSB can
+contribute to employee performance and creativity (Kim et al., 2022; Takanashi and Lee, 2019).
+Drawing upon social learning theory, we suggest leaders’ BSB as a critical context that
+might interact with goal orientation dimensions (i.e. LGO and PPGO) to affect employee
+LODJ
+44,7
+930
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 5 ---
+knowledge sharing. Social learning theory posits that individuals observe and imitate the
+behaviors of their role models (Bandura, 1986). In the workplace, employees tend to perceive
+their leaders as role models considering their higher position in social hierarchies (Lian et al.,
+2022). As a role model, boundary spanning leaders can create a context in which individuals
+can “seek or give information, views, and ideas through interaction with other individuals”
+(Decuyper et al., 2010, p. 118), and send signal to employees whether it is desirable to share
+information and knowledge with others.
+As noted, due to the risk of losing competitive advantages coming from their expertise by
+sharing knowledge with others, employees tend to be reluctant to engage in knowledge
+sharing without an assurance of fair evaluation or an expectation of recognition by their
+leaders or the organization for doing it (e.g. Rao Jada et al., 2019). Thus, depending on what
+their leaders pursue and expect them to achieve at work (Wang and Noe, 2010), employees
+may differ the extent to which they engage in knowledge sharing. Through a social learning
+process during which employees repeatedly observe and interact with their boundary
+spanning leaders, employees may perceive their knowledge sharing more positively because
+it is likely to be promoted by their boundary spanning leaders.
+Under the supervision of boundary spanning leaders, employees high in LGO would be
+more likely to engage in knowledge sharing. By observing the behaviors of boundary
+spanning leaders, i.e. role modeling, employees high in LGO might learn the value of
+obtaining critical information or resources through interacting with external actors (Salem
+et al., 2018), and thus be more motivated to imitate the behavior of searching for, obtaining,
+and sharing information and knowledge at work. Moreover, leaders’ BSB expands the
+amount and variety of information available to employees, allowing them to have additional
+information or resources for their work (Salem et al., 2018). Since knowledge sharing
+consumes resources (Kim et al., 2016; Yoon et al., 2020), employees with a high LGO are more
+willing to share their knowledge when leaders provide valuable resources through their
+boundary spanning activities. We thus expect the positive relationship between employee
+LGO and knowledge sharing to become stronger when leaders highly engage in BSB.
+When leaders engage in high levels of BSB, employees high in PPGO may also feel more
+comfortable to share their knowledge as this behavior is likely to be encouraged by their
+boundary spanning leaders. Due to the possibility of losing their competitive advantages by
+sharing knowledge, employees high in PPGO may find it difficult to take any interpersonal
+risks inherent in knowledge sharing unless their leaders show enough support and
+encouragement. Boundary spanning leaders, who tend to take on new opportunities and
+challenges, and frame their own setbacks as learning opportunities, can act as a role model
+that encourages employees to perceive the value of interacting with others for obtaining
+additional information and resources. Through observing and interacting with boundary
+spanning leaders who provide additional resources and support, employees with a high
+PPGO may receive signals from their leaders that it is desirable to share their valuable
+resources with others, which reduces their fear of failing at work.
+H3. Leader BSB moderates the relationship between employee LGO and knowledge
+sharing such that the positive relationship is stronger when leader BSB is at high
+than when it is at low.
+H4. Leader BSB moderates the relationship between employee PPGO and knowledge
+sharing such that the negative relationship is weaker when leader BSB is at high
+than when it is at low.
+Goal
+orientation and
+knowledge
+sharing
+931
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 6 ---
+Method
+Participants and procedures
+We collected data from fifteen companies located in South Korea, from industries of mainly
+financial services, consulting and IT service. We designed two separate questionnaires: one for
+employees and the other for their direct leaders. When making a list of supervisor and
+subordinate pairs, our coordinators were informed that supervisor-subordinate dyads should be
+in appropriate position to evaluate subordinates’ knowledge sharing and observe supervisors’
+boundaryspanning behavior. Participationfor thisresearch wasentirely voluntary. We informed
+participants the purpose of this study (in the cover letter) and assured that their responses would
+be kept confidential. They were asked to fill out the questionnaires and return them in the sealed
+envelopes. In total, 177 employees and 94 leaders returned their responses (89% of response rate).
+After deleting incomplete responses, our final sample consisting of 170 employees and 93 leaders
+wasusedinthefinalanalysis.Asforleaders,anaverageagewas42.97yearsand86%ofthemare
+male. As for employees, an average age was 34.01 years and 64% of them are male.
+Measures
+On a 7-point Likert-type scale ranging from 1 (strongly disagree) to 7 (strongly agree), leaders
+and employees indicated the extent to which they agree with each statement.
+Goal orientation. Goal orientation was assessed by using the 13-item scale from Brett and
+VandeWalle (1999). Specifically, LGO was measured by five items (Cronbach alpha 5 0.89),
+while PPGO was measured by four items (Cronbach alpha 5 0.88). Sample items are “I am
+willing to select a challenging work assignment that I can learn a lot from” for LGO and “I try
+to figure out what it takes to prove my abilities to others at work” for PPGO.
+Knowledge sharing. Leaders evaluated their employees’ knowledge sharing using the 7-
+item scale developed by Srivastava et al. (2006). A sample item includes “This employee
+shares their special knowledge and expertise with others” (Cronbach alpha 5 0.97).
+Leader boundary spanning behavior (BSB). Leader BSB rated by his or her immediate
+subordinate was measured by using the 24-item scale developed by Ancona and Caldwell
+(1992). A sample item includes “My leader coordinates activities with external groups”
+(Cronbach alpha 5 0.97).
+Control variables. We controlled for demographic variables (age and gender) of both
+leaders and employees to rule out their potential influences on the study results (Kim et al.,
+2017; Li et al., 2022; Shen et al., 2014). We also included PAGO as a control variable (Chen and
+Mathieu, 2008; Payne et al., 2007), which was measured by four items from the scale
+developed by Brett and VandeWalle (1999) (Cronbach alpha 5 0.82). A sample item for PAGO
+is “I prefer to avoid situations at work where I might perform poorly” [1].
+Analytical strategy [2]
+To test the hypotheses, we conducted a path analysis by using Mplus 8 with maximum
+likelihood estimation with robust standard errors (MLR) (Muthen and Muthen, 2012–2017),
+which was considered to handle a non-normality issue of the data. To take account of the non-
+independence of observations due to individuals’ nesting within leader groups, we employed
+“Type 5 Complex” syntax in the analysis (e.g. Liu et al., 2015).
+Results
+The means, standard deviations, reliability estimates, and inter-correlations of the study
+variables are shown in Table 1. The path analysis results are presented in Table 2.
+Hypothesis 1 predicts the positive relationship between employee LGO and knowledge
+sharing. The result showed that employee LGO is positively related to knowledge sharing
+LODJ
+44,7
+932
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 7 ---
+Variable
+M
+SD
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+Employee agea
+34.01
+4.93
+2
+Employee gendera
+1.36
+0.48
+0.37***
+3
+Leader ageb
+42.97
+4.28
+0.37***
+0.26**
+4
+Leader genderb
+1.14
+0.35
+0.13
+0.24*
+0.47***
+5
+Employee PAGOa
+3.86
+1.05
+0.11
+0.08
+0.04
+0.03
+(0.82)
+6
+Employee LGOa
+5.05
+0.84
+0.05
+0.23**
+0.17*
+0.12
+0.29***
+(0.89)
+7
+Employee PPGOa
+5.21
+0.84
+0.06
+0.03
+0.09
+0.04
+0.17*
+0.49***
+(0.88)
+8
+Leader BSB
+4.81
+0.96
+0.21**
+0.26**
+0.02
+0.02
+0.05
+0.06
+0.15*
+(0.97)
+9
+Employee knowledge sharingb
+4.94
+1.05
+0.18*
+0.22*
+0.08
+0.16
+0.16*
+0.22*
+0.06
+0.13
+(0.97)
+Note(s): n 5 177 for employees and N 5 94 for leaders. a Employee-rated variables. b Leader-rated variables. Age was measured in years and gender was dummy coded
+(1 5 male, 2 5 female). LGO 5 learning goal orientation; PPGO 5 performance-prove goal orientation; PAGO 5 performance-avoid goal orientation; BSB 5 boundary
+spanning behavior; Reliabilities were reported on the diagonal in parentheses
+*p < 0.05, **p < 0.01, ***p < 0.001
+Source(s): Authors’ work
+Table 1.
+Descriptive statistics
+and correlations of the
+study variables
+Goal
+orientation and
+knowledge
+sharing
+933
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 8 ---
+(b 5 0.37, SE 5 0.11, p < 0.001), thereby supporting Hypothesis 1. Hypothesis 2 posits that
+employee PPGO is negatively related to knowledge sharing. Our finding confirmed the
+negative relationship between PPGO and knowledge sharing (b 5 0.24, SE 5 0.11, p < 0.05),
+thereby supporting Hypothesis 2 (see Figure 1).
+Hypothesis 3 posits themoderating effect of leader BSBin therelationshipbetween employee
+LGO and knowledge sharing. The result found the significant interaction effect (b 5 0.22,
+SE 5 0.11, p < 0.05) (Table 2). Figure 2 shows that the relationship between employee LGO and
+knowledge sharing was positive when the level of leader BSB was high (simple slope 5 0.58,
+t 5 3.62, p < 0.001), buttherelationship was not significant when thelevel of leader BSBwas low
+(simple slope 5 0.16, t 5 1.22, n.s). Thus, Hypothesis 3 was supported.
+Hypothesis 4 predicts the moderating effect of leader BSB in the relationship between
+employee PPGO and knowledge sharing. Unlike our expectation, the interaction effect of
+employee PPGO and leader BSB on knowledge sharing was not significant (b 5 0.02,
+SE 5 0.11, n.s). Therefore, Hypothesis 4 was not supported.
+Discussion
+As knowledge sharing serves as a fundamental means for achieving organizational
+effectiveness, it is imperative to discover what factors affect employee knowledge sharing
+(Kim et al., 2016; Rao Jada et al., 2019). We examined two different types of employee goal
+orientation simultaneously, i.e. LGO and PPGO, as predictors of knowledge sharing.
+According to our findings, employee LGO was positively related to knowledge sharing, while
+employee PPGO was negatively associated with knowledge sharing. Further, we tested the
+roles of leaders’ BSB as a contextual factor that might alter such relationships and found that
+when leaders highly engage in BSB, learning-oriented employees are more likely to engage in
+knowledge sharing.
+Unlike our expectation, leaders’ BSB did not moderate the relationship between employee
+PPGO and knowledge sharing. There might be plausible reasons for this finding; it is possible
+that employees with a high PPGO may utilize the additional resources acquired from their
+boundary spanningleadersto increase theirin-role performance rather than knowledge sharing.
+Although employees with a high PPGO possess sufficient resources, they may decide not to
+Employee knowledge sharing
+Estimate (S.E.)
+Intercept
+5.54*** (1.10)
+Employee age
+0.02 (0.02)
+Employee gender
+0.18 (0.20)
+Leader age
+0.02 (0.02)
+Leader gender
+0.34 (0.28)
+Employee PAGO
+0.02 (0.08)
+Employee LGO
+0.37*** (0.11)
+Employee PPGO
+0.24* (0.11)
+Leader BSB
+0.01 (0.10)
+Employee LGO 3 Leader BSB
+0.22* (0.11)
+Employee PPGO 3 Leader BSB
+0.02 (0.11)
+Note(s): n 5 170 at employee level; N 5 93 at leader level. a Entries are unstandardized coefficients.
+LGO 5 learning goal orientation; PPGO 5 performance-prove goal orientation; PAGO 5 performance-avoid
+goal orientation; BSB 5 boundary spanning behavior
+*p < 0.05; **p < 0.01; ***p < 0.001 (two-tailed)
+Source(s): Authors’ work
+Table 2.
+Path analysis resultsa
+LODJ
+44,7
+934
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 9 ---
+engage in knowledge sharing, which seems as the least effective and safe way to fulfill their
+desire of demonstrating their competence. Also, leaders’ BSB may not provide specific resources
+or support to motivate employees with a high PPGO to share their knowledge.
+Theoretical implications
+This study suggests several theoretical contributions. First, our research advances extant
+literature on the antecedents of knowledge sharing in organizations. Since knowledge
+sharing observed at any level of organization primarily arises from each individual’s
+willingness and motivation to share, it is critical to understand what factors promote or
+hinder knowledge sharing at the individual level (Lee et al., 2015). Scholars have noted the
+importance of personal predictors of knowledge sharing such as exchange ideology,
+hypercompetitiveness, self-efficacy, and openness to experience (e.g. Yoon et al., 2020). This
+study thus focuses on goal orientation dimensions and provides an account for why LGO
+prompts knowledge sharing, while PPGO discourages knowledge sharing. Applying goal
+orientation theory (Dweck, 1986), this research provides a more articulate account for how
+LGO and PPGO affect employee knowledge sharing in opposite ways. By doing so, we
+suggest valuable insights into the role of goal orientation in explaining employee knowledge
+sharing in organizational contexts.
+Taking an interactionist perspective, we further demonstrate the significant role of
+a leader’s BSB as a contextual factor in promoting employee knowledge sharing. However,
+still more research is needed to explore various factors that might affect individuals’ initiation
+to share their knowledge in organizations (e.g. Tan et al., 2016). For example, incentives on
+knowledge sharing could be a possible moderator that alters the relationship between
+employee goal orientation dimensions and knowledge sharing.
+Second, this study contributes to existing literature on leadership and boundary spanning
+by demonstrating the significant role of a leader’s BSB that moderates the relationship
+between employee goal orientation dimensions and knowledge sharing. Prior studies have
+largely overlooked the complex dynamics of BSB undertaken by a leader, rather focused
+solely on team boundary spanning (e.g. Zhang and Li, 2021). Moreover, most existing
+leadership studies have focused on leaders’ internal activities, such as empowering
+leadership and abusive supervision as predictors of employees’ knowledge sharing (Kim
+Figure 2.
+The moderating effect
+of leader BSB
+Goal
+orientation and
+knowledge
+sharing
+935
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 10 ---
+et al., 2016; Rao Jada et al., 2019). Based on the existing body of work that mostly focuses on
+leaders’ internal activities, we expand the scope of leadership literature by shifting a focus to
+leaders’ external activities, i.e. BSB, as a potential contextual factor in our research model.
+Using social learning theory as a theoretical framework, this study sheds light on how
+boundary spanning leaders act as a role model and influence the relationship between
+employee goal orientation dimensions and knowledge sharing. Our results demonstrate that
+employees with a high LGO learn the behaviors of boundary spanning leaders and are more
+willing to engage in knowledge sharing. However, the moderating role of leaders’ BSB in the
+relationship between employee PPGO and knowledge sharing was not significant. This
+nonsignificant finding implies that employees with a high PPGO might be reluctant to share
+their knowledge with others unless leaders explicitly state that knowledge sharing is
+essential to be recognized as a high performer. In future research, it would be worthwhile to
+examine leaders’ specific behaviors that might promote employees with a high PPGO to
+engage in knowledge sharing. Moreover, future research will benefit from demonstrating the
+direct effects of boundary spanning leadership on various employee outcomes.
+Lastly, we extend the potential application of goal orientation research findings in
+organizational settings by providing empirical evidence with employees (Vandewalle et al.,
+2019). By investigating the differentiated effects of LGO and PPGO on employee knowledge
+sharing, this study improves the understanding of the potential predictive power of each goal
+orientation dimension. According to Vandewalle et al. (2019), different from early goal
+orientation research that primarily focused on individual behaviors and performance
+outcomes, research in the past decade has expanded to include the study of interpersonal
+behaviors, which aligns with the contribution of this study for knowledge sharing. Future
+research should reveal the underlying mechanisms of how different goal orientation
+dimensions influence employees’ knowledge sharing. With a stronger understanding of the
+impact of leaders’ BSB as a moderator, we also broaden the scope in which goal orientation
+research findings are applied in the context of leadership. In future research, it is worthwhile
+to examine the moderating roles of different leader behaviors or leadership in the relationship
+between employee goal orientation dimensions and work outcomes.
+Managerial implications
+This study also suggests practical implications. First, to encourage knowledge exchange
+between employees, managers and organizations should be well aware of the importance of
+goal orientation that employees are holding and develop interventions to educate them about
+the potential benefits of holding a strong LGO. As our findings confirmed the positive effect
+of LGO and the negative effect of PPGO on knowledge sharing, managers might consider
+adjusting a selection procedure to account for employees with different characteristics and
+preferences, especially for the jobs that require and value knowledge sharing. Furthermore,
+managers could foster a learning culture that helps employees develop a stronger preference
+for developing competence, i.e. LGO (Vandewalle et al., 2019). For example, acting as positive
+role models, managers could encourage employees to pursue new and challenging
+opportunities, provide useful feedback, and promote psychological safety (O’Keefe et al.,
+2013; Vandewalle et al., 2019).
+Second, our findings suggest the importance of leader behaviors that match with the
+characteristics of employees to promote knowledge sharing. As learning goal oriented
+employees exhibit a high level of knowledge sharing in the context of a high level of leader
+BSB, organizations should consider matching team members with team leaders properly to
+stimulate knowledge sharing (Kristof-Brown et al., 2005; Peng et al., 2022).
+Lastly, organizations could benefit from implementing training programs for leaders that
+promote their BSB. By adopting participatory and problem-solving approaches, these
+LODJ
+44,7
+936
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 11 ---
+training programs can educate leaders about how to effectively manage their work unit’s
+relationships with its external environment for securing and obtaining necessary resources
+and information (Marrone et al., 2022). It would be useful for leaders to gain practical
+knowledge about the potential impacts of their BSB on employees’ work behaviors and
+performance.
+Limitations and future research
+This study is not without limitations. First, as we used cross-sectional data, common method
+bias can be a potential threat to our findings, especially when interpreting the causal
+relationships (Podsakoff et al., 2003). Although the common method variance issue may bias
+our findings to some extent, the results of interaction effect would be less susceptible to such
+bias than are those concerning the main effect significance. Also, we collected data from
+different sources, including both leaders and employees, thereby addressing the common
+method bias issue to some degree.
+Second, as this study only included a limited set of variables, further research should
+consider other potential factors that might affect the hypothesized relationships. Through
+incorporating more situational and relational variables, researchers would be able to obtain
+a more complete picture of knowledge sharing phenomenon in organization settings. For
+example, outcome interdependence or perceived motivational climate could be an important
+contextual factor that alters the relationship between employee goal orientation and
+knowledge sharing (e.g. Zhu et al., 2019).
+Notes
+1. The authors conducted an additional path analysis without including any control variables, and the
+results were found consistent with the results from the hypothesized model.
+2. The authors performed a series of confirmatory factor analyses to investigate the discriminant
+validity of the study variables. The values of fit indices suggested that the hypothesized four-factor
+model shows a good model fit to the data (χ2 [164] 5 251.41 (p < 0.001), comparative fit index
+(CFI) 5 0.97, Turkey–Lewis index (TLI) 5 0.96, root-mean-square error of approximation
+(RMSEA) 5 0.06) and fits the data better than the alternative models do.
+References
+Ancona, D.G. and Caldwell, D.F. (1992), “Bridging the boundary: external activity and performance in
+organizational teams”, Administrative Science Quarterly, Vol. 37 No. 4, pp. 634-665.
+Bandura, A. (1986), Social Foundations of Thought and Action: A Social Cognitive Theory, Prentice
+Hall, Englewood Cliffs, NJ.
+Brett, J.F. and VandeWalle, D. (1999), “Goal orientation and goal content as predictors of performance
+in a training program”, Journal of Applied Psychology, Vol. 84 No. 6, pp. 863-873.
+Chen, G. and Mathieu, J.E. (2008), “Goal orientation dispositions and performance trajectories: the roles
+of supplementary and complementary situational inducements”, Organizational Behavior and
+Human Decision Processes, Vol. 106 No. 1, pp. 21-38.
+Cross, R., Ernst, C. and Pasmore, B. (2013), “A bridge too far? How boundary spanning networks drive
+organizational change and effectiveness”, Organizational Dynamics, Vol. 42 No. 2, pp. 81-91.
+Decuyper, S., Dochy, F. and Van den Bossche, P. (2010), “Grasping the dynamic complexity of team
+learning: an integrative model for effective team learning in organisations”, Educational
+Research Review, Vol. 5 No. 2, pp. 111-133.
+DeShon, R.P. and Gillespie, J.Z. (2005), “A motivated action theory account of goal orientation”, Journal
+of Applied Psychology, Vol. 90 No. 6, pp. 1096-1127.
+Goal
+orientation and
+knowledge
+sharing
+937
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 12 ---
+Dweck, C.S. (1986), “Motivational processes affecting learning”, American Psychologist, Vol. 41 No. 10,
+pp. 1040-1048.
+Dweck, C.S. and Leggett, E.L. (1988), “A social-cognitive approach to motivation and personality”,
+Psychological Review, Vol. 95 No. 2, pp. 256-273.
+Elliot, A.J. and Church, M.A. (1997), “A hierarchical model of approach and avoidance achievement
+motivation”, Journal of Personality and Social Psychology, Vol. 72 No. 1, pp. 218-232.
+Kim, S.L., Lee, S. and Yun, S. (2016), “Abusive supervision, knowledge sharing, and individual factors: a
+conservation-of-resources perspective”, Journal of Managerial Psychology, Vol. 31 No. 6, pp. 1106-1120.
+Kim, S.L., Han, S., Son, S.Y. and Yun, S. (2017), “Exchange ideology in supervisor-subordinate dyads,
+LMX, and knowledge sharing: a social exchange perspective”, Asia Pacific Journal of
+Management, Vol. 34, pp. 147-172.
+Kim, S.L., Lee, D. and Yun, S. (2022), “Leader boundary-spanning behavior and creative behavior: the
+role of need for status and creative self-efficacy”, Leadership and Organization Development
+Journal, Vol. 43 No. 6, pp. 835-846.
+Kou, C.Y. (2021), “Team boundary spanning in a large engineering project”, Small Group Research,
+Vol. 52 No. 4, pp. 405-430.
+Kristof-Brown, A.L., Zimmerman, R.D. and Johnson, E.C. (2005), “Consequences of individuals’ fit at
+work: a meta-analysis OF person–job, person–organization, person–group, and person–
+supervisor fit”, Personnel Psychology, Vol. 58 No. 2, pp. 281-342.
+Lee, S., Yoo, Y. and Yun, S. (2015), “Sharing my knowledge? An interactional perspective”, Journal of
+Managerial Psychology, Vol. 30 No. 8, pp. 986-1002.
+Li, Q., She, Z. and Gu, J. (2022), “Managerial coaching and employee knowledge sharing: a daily diary
+study”, Journal of Occupational and Organizational Psychology, Vol. 95 No. 4, pp. 821-845.
+Lian, H., Huai, M., Farh, J.L., Huang, J.C., Lee, C. and Chao, M.M. (2022), “Leader unethical pro-
+organizational behavior and employee unethical conduct: social learning of moral
+disengagement as a behavioral principle”, Journal of Management, Vol. 48 No. 2, pp. 350-379.
+Liu, Y., Wang, M., Chang, C.H., Shi, J., Zhou, L. and Shao, R. (2015), “Work–family conflict, emotional
+exhaustion, and displaced aggression toward others: the moderating roles of workplace
+interpersonal conflict and perceived managerial family support”, Journal of Applied Psychology,
+Vol. 100 No. 3, pp. 793-808.
+Liu, S., Jiang, K., Chen, J., Pan, J. and Lin, X. (2018), “Linking employee boundary spanning behavior to
+task performance: the influence of informal leader emergence and group power distance”, The
+International Journal of Human Resource Management, Vol. 29 No. 12, pp. 1879-1899.
+Lu, L., Lin, X. and Leung, K. (2012), “Goal orientation and innovative performance: the mediating roles
+of knowledge sharing and perceived autonomy”, Journal of Applied Social Psychology, Vol. 42,
+pp. E180-E197.
+Marrone, J.A., Quigley, N.R., Prussia, G.E. and Dienhart, J. (2022), “Can supportive coaching behaviors
+facilitate boundary spanning and raise job satisfaction? An indirect-effects model”, Journal of
+Management, Vol. 48 No. 5, pp. 1131-1159.
+Muthen, L.K. and Muthen, B.O. (2012-2017), Mplus: Statistical Analysis with Latent Variables: User’s
+Guide, Muthen & Muthen, Los Angeles.
+O’Keefe, P.A., Ben-Eliyahu, A. and Linnenbrink-Garcia, L. (2013), “Shaping achievement goal
+orientations in a mastery-structured environment and concomitant changes in related
+contingencies of self-worth”, Motivation and Emotion, Vol. 37, pp. 50-64.
+Payne, S.C., Youngcourt, S.S. and Beaubien, J.M. (2007), “A meta-analytic examination of the goal
+orientation nomological net”, Journal of Applied Psychology, Vol. 92 No. 1, pp. 128-150.
+Peng, Q., Zhong, X., Liu, S., Zhou, H. and Ke, N. (2022), “Job autonomy and knowledge hiding: the
+moderating roles of leader reward omission and person–supervisor fit”, Personnel Review,
+Vol. 51 No. 9, pp. 2371-2387.
+LODJ
+44,7
+938
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma
+
+--- Page 13 ---
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), “Common method biases in
+behavioral research: a critical review of the literature and recommended remedies”, Journal of
+Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+Poortvliet, P.M. and Giebels, E. (2012), “Self-improvement and cooperation: how exchange
+relationships promote mastery-approach driven individuals’ job outcomes”, European Journal
+of Work and Organizational Psychology, Vol. 21 No. 3, pp. 392-425.
+Rao Jada, U., Mukhopadhyay, S. and Titiyal, R. (2019), “Empowering leadership and innovative work
+behavior: a moderated mediation examination”, Journal of Knowledge Management, Vol. 23
+No. 5, pp. 915-930.
+Salem, M., Van Quaquebeke, N. and Besiou, M. (2018), “How field office leaders drive learning and
+creativity in humanitarian aid: exploring the role of boundary-spanning leadership for expatriate
+and local aid worker collaboration”, Journal of Organizational Behavior, Vol. 39 No. 5, pp. 594-611.
+Shen, J., Tang, N. and D’Netto, B. (2014), “A multilevel analysis of the effects of HR diversity
+management on employee knowledge sharing: the case of Chinese employees”, The
+International Journal of Human Resource Management, Vol. 25 No. 12, pp. 1720-1738.
+Srivastava, A., Bartol, K.M. and Locke, E.A. (2006), “Empowering leadership in management teams:
+effects on knowledge sharing, efficacy, and performance”, Academy of Management Journal,
+Vol. 49 No. 6, pp. 1239-1251.
+Stasielowicz, L. (2019), “Goal orientation and performance adaptation: a meta- analysis”, Journal of
+Research in Personality, Vol. 82, 103847.
+Takanashi, C. and Lee, K.J. (2019), “Boundary spanning leadership, resource obilization, and
+performance of university-industry R&D projects: a study in a Japanese university”,
+Technology Analysis and Strategic Management, Vol. 31 No. 2, pp. 140-154.
+Tan, K.W., Au, A.K., Cooper-Thomas, H.D. and Aw, S.S. (2016), “The effect of learning goal orientation
+and communal goal strivings on newcomer proactive behaviours and learning”, Journal of
+Occupational and Organizational Psychology, Vol. 89 No. 2, pp. 420-445.
+Vandewalle, D., Nerstad, C.G. and Dysvik, A. (2019), “Goal orientation: a review of the miles traveled
+and the miles to go”, Annual Review of Organizational Psychology and Organizational Behavior,
+Vol. 6, pp. 115-144.
+Wang, S. and Noe, R.A. (2010), “Knowledge sharing: a review and directions for future research”,
+Human Resource Management Review, Vol. 20 No. 2, pp. 115-131.
+Yao, J., Feng, J. and Liu, X. (2022), “The curvilinear relationship between team member boundary-spanning
+differentiation and creativity”, Journal of Organizational Behavior, Vol. 43 No. 6, pp. 1063-1077.
+Yoon, S., Kim, S.L., Go, C. and Yun, S. (2020), “Knowledge sharing, hypercompetitiveness, and
+contextual Factors: investigating a three-way effect”, Journal of Business and Psychology,
+Vol. 35, pp. 489-502.
+Zhang, Q. and Li, J. (2021), “Can employee’s boundary-spanning behavior exactly promote innovation
+performance? The roles of creative ideas generation and team task interdependence”,
+International Journal of Manpower, Vol. 42 No. 6, pp. 1047-1063.
+Zhu, Y., Chen, T., Wang, M., Jin, Y. and Wang, Y. (2019), “Rivals or allies: how performance-prove goal
+orientation influences knowledge hiding”, Journal of Organizational Behavior, Vol. 40 No. 7, pp. 849-868.
+Corresponding author
+Seckyoung Loretta Kim can be contacted at: loretta@inu.ac.kr
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Goal
+orientation and
+knowledge
+sharing
+939
+Downloaded from http://www.emerald.com/lodj/article-pdf/44/7/927/1936226/lodj-05-2023-0268.pdf by University College London user on 30 Ma

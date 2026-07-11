@@ -1,0 +1,1094 @@
+
+--- PAGE 1 ---
+ABSORBING INTEGRATION: EMPIRICAL EVIDENCE ON
+THE MEDIATING ROLE OF ABSORPTIVE CAPACITY
+BETWEEN FUNCTIONAL-/CROSS-FUNCTIONAL
+INTEGRATION AND INNOVATION PERFORMANCE
+JOHANN PIET HAUSBERG*
+Osnabrück University, School of Business Administration and Economics
+Rolandstr. 8, 49078 Osnabrück, Germany
+piet.hausberg@uni-osnabrueck.de
+PETER S. H. LEEFLANG
+University of Groningen
+Faculty of Economics and Business
+Nettelbosje 2 9747 AE Groningen, The Netherlands
+Aston Business School
+Aston Triangle, Birmingham, B4 7ET, UK
+p.s.h.lee ﬂang@rug.nl
+Published 16 November 2018
+Integration of organisational units has been extensively researched in various streams of
+management and organization sciences. It is very important whenever knowledge differ-ences have to be overcome due to functional departmentalisation and the ensuingknowledge specialisation. However, extant literature does not yet appreciate the mediatingrole of absorptive capacity (AC) in this context. We argue that departments use integration
+mechanisms in order to develop and maintain such an organisational capability to absorb
+knowledge from other departments, so that integration can succeed to increase innovationperformance. Our unique dataset of Italian manufacturing ﬁrms from various industries
+allows us to study this in the context of the integration of research and development (R&D)and marketing and sales (M&S) departments. Thereby, we provide empirical evidence onthe mediating role of AC. We ﬁnd evidence that R&D departments build AC via formal
+cross-functional integration, while M&S departments do so through informal integration.Moreover, we provide evidence of AC ’s mediating role for the relationship between cross-
+functional integration mechanisms and innovation performance. Our ﬁndings also reveal
+signiﬁcant differences between R&D and M&S functions in terms of effect sizes and
+⁄Corresponding author.International Journal of Innovation Management
+Vol. 23, No. 6 (August 2019) 1950056 (37 pages)
+© World Scienti ﬁc Publishing Europe Ltd.
+DOI: 10.1142/S1363919619500567
+1950056-1
+--- PAGE 2 ---
+signiﬁcance levels. AC of R&D departments has a signi ﬁcant and substantial effect on
+innovation performance and thus effectively acts as a mediating variable, while in case of
+M&S departments we observe a signi ﬁcant direct effect between formal cross-functional
+integration and innovation performance without any mediation by AC.
+Keywords : Innovation performance; cross-functional integration; Absorptive capacity;
+structural equation modeling.
+Introduction
+Specialisation offers a substantial ef ﬁciency advantage, but also creates silos of
+specialised knowledge ( Lessard and Zaheer ,1996 ). In order to remain innovative, it
+is fundamental for ﬁrms to successfully integrate these departments without
+compromising the bene ﬁts of specialisation ( Burns and Stalker ,1961 ;Galbraith ,
+1974 ;Iansiti and Clark ,1994 ;Lawrence and Lorsch ,1967 ;Lee and Kapoor ,2017 ).
+Integration is “the process of achieving unity of effort among the various sub-
+systems [functional departments] in the accomplishment of the organization ’s
+tasks”(Lawrence and Lorsch ,1967 , p. 4). However, knowledge specialisation can
+lead to con ﬂicting or incompatible thought worlds ( Dougherty ,1992 ), impede
+effective communication ( Bechky ,2003 ), and raise several barriers for compre-
+hension and cooperation ( Carlile ,2004 ). Therefore, integration mechanisms have to
+either transcend or traverse these knowledge differences ( Majchrzak et al. ,2012 ).
+For the scope of our study, we differentiate between corporate functions and
+departments. Corporate functions are intra- ﬁrm systems that are differentiated
+relative to the requirements of the particular environment with which they deal(Lawrence and Lorsch ,1967 ). Examples for such corporate functions are research
+and development (R&D) and marketing and sales (M&S). Departments are sub-systems within such functions ( Clark and Wheelright, 1992 ). For example, the
+“lighting technology R&D ”and the “driver assistance systems and automated
+driving R&D ”departments of an automobile manufacturer both are departments
+belonging to the R&D function. Knowledge differences obviously exist betweendepartments of different corporate functions. However, they also exist betweendepartments of the same corporate function. In fact, many studies show that intra-
+and cross-functional integration increase innovation performance, i.e., the degreeto which innovation objectives are met ( Atuahene-Gima et al. ,2005 ;Foss et al. ,
+2011 ).
+However, substantial divergence persists in ﬁndings regarding the relation
+between cross-functional integration and new product success, and, ultimatelyinnovation performance ( Rubera et al. ,2012 ;Troy et al. ,2008 ). Some argue that
+higher functional integration is always more bene ﬁcial for the ﬁrm (e.g., Song and
+Parry ,1997 ). Others, by contrast, suggest that the optimal degree of integration isJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-2
+--- PAGE 3 ---
+not necessarily its maximum (e.g., Grifﬁn and Hauser ,1996 ). Several studies have
+even found negative outcomes of cross-functional integration ( Bommer et al. ,
+2002 ;Hansen ,2009 ;Hoegl et al. ,2004 ). This divergence might be explained by
+(a) the different processes or mechanisms used to operationalise integration, aswell as (b) the different nature of the organisational units to be integrated.
+Indeed, regarding (a), previous research studied several different integration
+mechanisms, including not only functional and cross-functional but also formaland informal ones ( Grifﬁn and Hauser ,1996 ;Leenders and Wierenga ,2002 ).
+Examples of formal mechanisms are job rotation, regular meetings, and cross-
+functional project teams. Examples of informal mechanisms are ad hoc lateral
+communication, bypassing of ﬁcial channels, or the maintenance of open com-
+munication channels in the day-to-day operations with other departments. As aresult, previous research found different effects for different integration mechan-isms. Moenaert et al. (1994 ) report a positive impact of formalisation on com-
+munication ﬂows, while Maltz et al. (2001 ) could not ﬁnd support for their
+hypothesis of a positive impact of informal integration in form of socialisationopportunities on the conceptual use of marketing information by R&D managers.Other studies are agnostic towards the actual processes and operationalise inte-gration by the level of interaction ( Lamore et al. ,2013 ;Li and Calantone ,1998 ).
+Regarding (b), R&D and M&S are two types of corporate functions that seem
+to offer particularly high returns to integration. This is apparently due to their highcomplementarity. Grifﬁn and Hauser (1996 ) state that their “responsibilities in the
+new product development are neither independent nor static; they cannot be an-alyzed separately ”(p. 192). Consequently, a large number of studies focus on both
+R&D and M&S, many of which demonstrate that their integration has a positiveeffect on innovation performance ( Galbraith ,1974 ;Grifﬁn and Hauser ,1996 ;
+Gupta et al. ,1986 ;Jansen et al. ,2009 ;Lawrence and Lorsch ,1967 ;Ruekert and
+Walker ,1987 ). Similarly, ﬁndings from the literature on market orientation un-
+derline the crucial role that marketing plays in increasing performance ( Jaworski
+and Kohli ,1993 ;Menon and Varadarajan ,1992 ;Verhoef and Lee ﬂang,2009 ).
+Just as earlier studies mostly focused on R&D-marketing integration, more recentones likewise suggest that R&D-sales integration is highly relevant for newproduct development ( Homburg et al. ,2017 ). Research also shows the importance
+of integration of complementary units with similar functions, but covering dif-ferent product markets, such as in multiproduct ﬁrms ( Lee and Kapoor ,2017 ).
+However, what has been neglected so far is the role of organisational capabilities,such as that the capability to absorb knowledge in case of potentially asymmetrictask interdependencies between such complementary departments.
+Hence, focusing on formal and informal integration mechanisms in R&D and
+M&S departments, we address both of these explanations for persistentlyEmpirical Evidence of the Mediating Role of AC
+1950056-3
+--- PAGE 4 ---
+divergent ﬁndings regarding the bene ﬁts of functional integration. We explain the
+effects of different integration mechanisms on innovation performance arguing thatorganisational units of different functional natures can use these mechanisms todifferent degrees to build capabilities required for integration. Given the funda-mental importance of knowledge for innovation performance, we suggest that thecapability to absorb knowledge from other units is particularly important for in-novation performance.
+Absorptive Capacity (AC) is a ﬁrm’s ability to recognise the value of external
+knowledge, assimilate it, and exploit it to commercial ends ( Cohen and Levinthal ,
+1990 ). We argue that this ability not only exists at a ﬁrm’s external boundaries
+where such a capability can foster for example technology transfer ( Bauer et al. ,
+2018 ). It also exists beyond the ﬁrm-level at lower organisational levels as well,
+such as the department-level. Without a suf ﬁciently high degree of AC, the costs of
+coordination associated with integration can have negative effects on innovationperformance that are not outweighed by its bene ﬁts, like overspending, project
+delay, and project termination ( Cuijpers et al. ,2011 ). However, while research
+intensely investigated AC (e.g., Adams et al. ,2016 ;Todorova and Durisin ,2007 ;
+Volberda et al. ,2010 ;Zahra and George ,2002 ), AC literature is limited to
+analyses at the ﬁrm or business unit level. Only recently, research started to
+investigate the micro-foundations of AC ( Distel ,2018 ). However, the explicit
+consideration of the nature of the absorbed knowledge as well as the analysis ofAC at levels below the business unit are important and yet poorly explored sub-jects ( Volberda et al. ,2010 ). This raises important research questions: Can the
+capability of departments to absorb knowledge from other departments improveinnovation performance? Which integration mechanisms do actually contribute tothe development of such an ability? Is the relevance of AC symmetric or does it followpotential asymmetries in task interdependence? In this study, we aim to answer
+these research questions and thus make several important contributions to researchon AC as well as to research on functional and cross-functional integration.
+Theoretical Framework
+Integration mechanisms and innovation performance
+In line with previous research, we consider four types of integration mechanisms.
+First, we distinguish between formal and informal ones ( Bauer et al. ,2018 ;
+Burgers et al. ,2009 ;Moenaert et al. ,1994 ) and, for each, we further distinguish
+between intra- and cross-functional integration mechanisms ( Hoegl et al. ,2004 ;
+Olson et al. ,2001 ). These integration mechanisms can serve either to coordinate
+tasks of interdependent functional departments or to transfer knowledge betweenJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-4
+--- PAGE 5 ---
+them. However, also in case of mere coordination, the departments need to ex-
+change information. Hence, the sending and receiving of information andknowledge is at the core of all integration mechanisms. Several studies haveshown the positive effects functional integration can have. The literature on teamand group behaviour investigates the direct impact of different kinds of integratingprocesses on performance ( Ancona and Caldwell ,1992 ), such as boundary
+spanning behaviour ( Allen and Cohen ,1969 ;Tushman ,1977 ;Zhao and Anand ,
+2013 ). Further empirical ﬁndings have corroborated the direct effect of integration
+on innovation in form of corporate entrepreneurship ( Burgers and Covin ,2016 ;
+Foss et al. ,2011 ).
+However, the richness of integration mechanisms, such as their capacity to
+transfer a high variety and amount of information, comes at the cost of highercomplexity ( Tushman and Nadler ,1978 ). Moreover, Sherman and Keller (2011 )
+have shown that managers often misconceive the degree to which their unit ’s tasks
+and the tasks of other functional units are interdependent and may, therefore,choose wrong degrees of integration. Ultimately, this can lead to lower perfor-mance as is explained in several studies reporting negative effects of integrationmechanisms ( Troy et al. ,2008 ). The successful exchange of information and
+knowledge is necessary to carry out the innovation related tasks that drive inno-vation performance. For this exchange to be successful, receiving departmentsneed to have the capability to absorb the incoming information and knowledge.
+Absorptive capacities of functionally specialized departments
+Cohen and Levinthal (1990 )ﬁrst conceptualised AC as the ability of ﬁrms to
+recognise the value of external knowledge, assimilate it, and exploit it to com-
+mercial ends. Most of the extant research on AC treats prior related knowledge asthe most fundamental antecedent of AC ( Todorova and Durisin ,2007 ;Zahra and
+George ,2002 ). This is in part because most studies investigate AC at the ﬁrm
+level, for which it had been initially conceptualised. At this level, organisationalknowledge is most aggregate and hence analysed in a correspondingly generalmanner. Despite this high level of analysis, extant studies on AC almost alwaysimplicitly focus on technological knowledge.
+In fact, Cohen and Levinthal (1990 ) deemed R&D and manufacturing opera-
+tions the major sources of AC because these provide “prior related knowledge ”,
+which refers to such knowledge present in an organisation prior to absorption andrelated to the target knowledge. However, while this focus is justi ﬁed at the
+organisational boundary, where ﬁrms try to absorb external technological
+knowledge relevant for new innovations, it falls short in explaining the relevanceof AC within the ﬁrm, where M&S needs feedback on what is technologicallyEmpirical Evidence of the Mediating Role of AC
+1950056-5
+--- PAGE 6 ---
+feasible in order to make better market predictions and R&D needs updates on
+how the market conditions and customer expectations have changed. Yet, no studyso far has conceptualised AC as a phenomenon on the level of departments ofdifferent functional specialisations, limiting the scope to one functional setting orto higher levels, e.g., the transfer of more or less sticky practices among opera-tional units ( Szulanski ,1996 ) or across subsidiaries of multinational corporations
+(Gupta and Govindarajan ,1991 ,2000 ).
+Moreover, different functions have different goals and incentives and are in
+different degrees senders and receivers of knowledge ( Gupta et al. ,1986 ;Song
+et al. ,2001 ;Troy et al. ,2008 ). The departments are also embedded in completely
+different communities of practice ( Brown and Duguid ,2001 ) and they may use
+different narratives and stories to interpret their environment and the knowledgeavailable to them ( Beverland et al. ,2016 ;Boland and Tenkasi ,1995 ;Dougherty ,
+1992 ). Hence, barriers
+1to knowledge integration can arise from different vocab-
+ulary (syntactic barriers); different meanings (semantic); or different interests(pragmatic) ( Carlile ,2002 ,2004 ).
+Therefore, the challenges at departmental boundaries within corporate functions
+like the R&D function (e.g., interactions and knowledge integration between twoR&D departments) are fundamentally different from the challenges at inter-departmental boundaries across corporate functions ( Brettel et al. ,2011 ;Gupta
+et al. ,1986 ), like the boundary between an R&D and an M&S department. As a
+consequence, the involved unit ’s capability to absorb knowledge needs to be
+conceptualised as two distinct abilities in order to explain why the same integrationmechanisms may have different effects in different contexts. We thus assert that
+Functional AC (FAC ) and Cross-Functional AC (CFAC ) refer to
+the ability of a functionally specialised department to value, as-similate and apply the functionally specialised knowledge availablefrom other departments of the SAME or a DIFFERENT corporate
+function, respectively, in order to ful ﬁl the department ’s tasks.
+Antecedents of functional and cross-functional ACs
+In line with Grifﬁn and Hauser (1996 ), who suggest functions need to integrate in
+case of environmental uncertainty, Rubera et al. (2012 )ﬁnd that integration is
+particularly useful in case of exploration of new competences. However, AC is
+1While Carlile uses the term “boundaries, ”we use “barriers ”in order to clearly distinguish
+these mostly cognitive and communicative barriers to integration from organisational/structuralboundaries.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-6
+--- PAGE 7 ---
+assumed to depend principally on prior related knowledge and absorbing units
+have qua de ﬁnition little prior knowledge when they explore new ﬁelds. Hence,
+AC is lowest when it is needed most. The degree to which different integrationmechanisms are used affects the degree of speci ﬁc capabilities related therewith.
+Hence, we argue that the ability to absorb new knowledge not only depends onwhat the absorbing unit already knows on a topic ( prior related factual knowl-
+edge) , which may be helpful for resourceful sensemaking ( Beverland et al. ,2016 ),
+but it also depends on prior related procedural knowledge . This can be knowledge
+regarding which useful new knowledge resides in which other departments, how toget access to this new knowledge, or how to interact with the source department.
+Moreover, since AC depends on prior related knowledge it is not generally
+high or low for a speci ﬁc organisational unit, but always speci ﬁc to a particular
+knowledge domain. That means that, an R&D department can exhibit high ACregarding the knowledge of a fellow R&D department from a different businessunit and at the same time exhibit low AC regarding the knowledge of an M&Sdepartment, possibly due to potential tensions between the different personalitiesof marketers and engineers ( Shaw and Shaw ,1998 ).Cohen and Levinthal (1990 )
+focused on R&D and mostly ignored the in ﬂuence of M&S, leading to AC being
+studied in relation to technological knowledge only, at least implicitly. Whileseveral studies ﬁnd that innovation and performance are positively affected by AC
+(Rothaermel and Alexandre ,2009 ), AC literature lacks empirical studies that
+explicitly consider the type of knowledge being absorbed, such as technology andmarket knowledge. Therefore, we theorise and operationalise the concept of AC atthe level of functional departments in the form of two distinct abilities —func-
+tional and cross-functional AC —and reveal their mediating role in the rela-
+tionship between integration mechanisms and innovation performance.
+Hypotheses
+Effects of intra-functional integration mechanisms on departmental ACs
+The important ability to integrate knowledge is essentially based on communi-
+cation capabilities ( Daft and Lengel ,1986 ). Intra-functional communication is
+regarded as an important element in the R&D process ( Allen and Cohen ,1969 ;
+Szulanski ,1996 ) and particularly relevant in the intermediate phase of the inno-
+vation process ( Tushman ,1977 ). Organisational units at any level have to develop
+and improve these capabilities, and there is substantial evidence that organisationslearn through experience ( Ingram and Baum ,1997 ); through the repetition of a
+speciﬁc behaviour like integration mechanisms. Both formal and informal inte-
+gration mechanisms are notable forms of organisational memory ( Moorman andEmpirical Evidence of the Mediating Role of AC
+1950056-7
+--- PAGE 8 ---
+Miner ,1998 ;Walsh and Ungson ,1991 ). Consequently, they not only are subject
+to depreciation but also can be forgotten if not applied continuously. All intra-functional integration mechanisms have in common that they require the ab-sorption of knowledge from functional peers; that is, from departments that arespecialised within the same corporate function, such as two R&D departments ofdifferent product divisions. The more they interact with each other and exchangeknowledge, be it by means of formal or informal integration mechanisms, the moresophisticated they should become in the use of these mechanisms and, hence, thebetter they will be able to absorb knowledge from their peer departments.Therefore, it has to be assumed that the extensive use of intra-functional inte-gration mechanisms in general entails a higher departmental FAC.
+Hypothesis 1: The more extensively a department uses either (a)INFORMAL or
+(b)FORMAL intra-functional integration mechanisms, the higher its FAC.
+Effects of cross-functional integration mechanisms on departmental ACs
+It has been shown that R&D managers use market information that is perceived as
+being of high quality both instrumentally, for immediate decisions; and concep-tually, to adapt their view of the market environment ( Maltz et al. ,2001 ). For
+example, in the case of a disagreement in the R&D department regarding thepotential of a particular technical improvement or development path, integrationmechanisms might help to obtain a fast expert opinion on the market potential oftechnological developments. Informal cross-functional integration mechanismshave the potential to provide departments with feedback on ideas previously out ofsearch scope that might help to reconcile con ﬂicting interests because of their
+potential to be used ad hoc much more quickly and more spontaneously. Hence,informal cross-functional integration mechanisms also help receiving departmentsto better understand the value of incoming knowledge from their own functionalarea, thus supporting the integration with other departments belonging to the samecorporate function.
+Hypothesis 2: The more extensively a department uses informal cross-functional
+integration mechanisms, the higher its FAC .
+In different departments, systematically different personalities exist, such as
+marketers and engineers ( Shaw and Shaw ,1998 ); differences between them must
+be considered and understood in order to avoid misunderstandings and con ﬂicts.
+Moreover, in cross-functional integration, different departmental thought worldsface each other ( Dougherty ,1992 ), so departments must make a greater effort toJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-8
+--- PAGE 9 ---
+develop knowledge on how to deal with different types of departments to a greater
+extent than in intra-functional integration.
+In turn, the way in which AC builds through the use of formal integration
+mechanisms differs from that of informal integration mechanisms. Formalmechanisms can enhance, above all, the information ﬂow and knowledge ex-
+change in predetermined directions ( Moenaert et al. ,1994 ). An essential part of
+cross-functional integration is knowledge exchange between functional units thatare task interdependent: those units that depend on each other in their task ac-complishment ( Fry and Slocum ,1984 ). However, task interdependence is often
+asymmetric ( De Jong et al. ,2007 ), so that the required knowledge ﬂows can be
+asymmetric, too. This is particularly pronounced in the case of the M&S-R&Dinterface. Understanding feedback from M&S departments is vital in many stagesand types of innovation projects ( Wang ,1997 ). In fact, one important conclusion
+according to the marketing-R&D interface literature is that “(...) it is through the
+marketing-R&D interface that market knowledge is transferred, to and integratedwith technological knowledge ”(Li and Calantone ,1998 , p. 15). What is more,
+formal integration mechanisms are an important means to make market knowledgeavailable to the R&D function ( Ernst et al. ,2010 ;Li and Calantone ,1998 ;Song
+et al. ,1998 ). The direction of knowledge from M&S to R&D is most obvious in
+the market-pull approach to new product development ( Rothwell ,1994 ). With
+knowledge ﬂowing primarily from M&S to R&D and much less so vice-versa,
+strong CFAC is more relevant for R&D than for M&S departments. The very useof integration mechanisms can lead to learning by doing ( Ingram and Baum ,
+1997 ), thereby increasing departmental AC. Therefore, we expect R&D depart-
+ments to be more often the absorbing part when using integration mechanisms,thus building CFAC; in contrast, M&S departments use these mechanisms mostlytoprovide knowledge, not build CFAC.
+Hypothesis 3(a): The more formal cross-functional integration mechanisms are
+used by R&D departments, the higher is their CFAC, while more extensive use ofthese mechanisms by M&S departments has no impact on CFAC.
+Informal integration mechanisms can positively impact cross-functional inte-
+gration to the same degree as formal ones ( Pinto and Pinto ,1990 ;Zahra and
+Nielsen ,2002 ). In particular, M&S departments that do not improve CFAC
+through formal cross-functional integration mechanisms have the chance to getmore insight into the thought-worlds and practices of R&D departments when theyengage informally with them. However, there are at least three reasons why R&Ddepartments might suffer in their development of CFAC when they engage ininformal cross-functional integration mechanisms.Empirical Evidence of the Mediating Role of AC
+1950056-9
+--- PAGE 10 ---
+Theﬁrst reason is that the informal nature of a communication channel might
+provide opportunities and therefore tempt individual employees to advance theirpersonal agendas or even induce them to send more information than throughformal communication channels ( Johnson et al. ,1994 ). In these cases, informal
+communication channels can produce an information overload for departmentsthat already receive information through formal mechanisms. Such information is,furthermore, potentially contrasting and confusing as it is conveyed informally inan unstructured form. Altogether, the overload via unstructured information ties allattention and resources of the receiving department, thereby preventing re ﬂection
+of the knowledge absorption process itself and, ultimately, leading to a collapse ofsensemaking ( Weick ,1993 ).
+Secondly, a negative impact of informal cross-functional integration mechanisms
+on CFAC might be the result of the different types of knowledge involved. Tech-nological knowledge is very much path dependent ( Dosi,1982 ), which explains the
+focus on prior related knowledge in AC literature as it is concerned principally withtechnological knowledge. Market demands, however, might change radically overtime, thus more frequently creating disruptions ( Avagyan et al. ,2016 ;Christensen ,
+2003 ). Evidence suggests that companies fail to adapt to radically changing envir-
+onments, despite having the technological capabilities to do so, because new marketknowledge is rejected by key actors or units ( Tripsas ,2009 ). Formal cross-func-
+tional integration mechanisms can challenge such outdated market knowledgeoutright, although not without con ﬂict. Informal communication, however, offers
+more possibilities to avoid con ﬂict and to communicate only with less challenging
+sources that, rather, con ﬁrm existing convictions. This is consistent with the ten-
+dency known as con ﬁrmation bias: the “tendency, when testing an existing belief, to
+search for evidence which could con ﬁrm that belief, rather than for evidence which
+could discon ﬁrm it. ”(Jones and Sugden ,2001 , p. 59).
+Thirdly, recent empirical evidence suggests that informal communication might
+disrupt new product development particularly in cases of complex products ( Sosa
+et al. ,2015 ). This occurs when informal communication provides cyclic exchange
+across a social network, as often happens when teams responsible for the earlystages of the innovation process, such as the development stage, receive informalfeedback from teams responsible for the later stages, such as, the commerciali-sation stage. This continuously interrupts the innovation process rather than cre-ating higher market orientation. Consequently, we expect the effect EYJLEJ ofinformal cross-functional integration mechanisms on CFAC to be positive only forM&S, while we expect it to be negative in the case of R&D departments.
+Hypothesis 3(b): The more informal cross-functional integration mechanisms are
+used by R&D departments, the lower their CFAC is, while more extensive use ofJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-10
+--- PAGE 11 ---
+informal cross-functional integration mechanisms by M&S departments positively
+impacts CFAC.
+Effect of departmental ACs on innovation performance
+FAC and CFAC should be closely related. FAC can be considered as a kind of
+fundamental AC of a functionally specialised department. While FAC enables theabsorption of knowledge from other departments of the same functional special-isation, this ability impacts the ability to absorb knowledge from other corporatefunctions, i.e., CFAC. The understanding of the process of absorption in generalwithout the confounding element of different corporate functions can be regardedas the prior related procedural knowledge with respect to how to recombine,transform, and exploit new extra-departmental knowledge internally. This allowsthen for the more ef ﬁcient absorption of complementary, cross-functional
+knowledge. Therefore, we specify:
+Hypothesis 4: The higher the departments ’FAC, the higher their CFAC.
+Once the departments have developed FAC, they can valorise potential syn-
+ergies and complementarities existing between their own and other departments ’
+corporate function by absorbing their knowledge. Empirical studies of ﬁrms’sub-
+unit’s AC provide evidence that the recipient ’s AC is a major determinant of the
+success or failure of intra-organisational knowledge transfer ( van Wijk et al. ,
+2008 ). This ﬁnding should be valid for both FAC and CFAC and should also apply
+to both technological and market knowledge. For example, Luoet al. (2006 )ﬁnd
+that interdepartmental cooperative ability regarding market knowledge among
+departments —deﬁned in terms of AC —positively affects both customer and
+ﬁnancial performance.
+However, in context of cross-functional integration, M&S and R&D are not
+equally likely to be recipients of knowledge. While relations have been found
+between knowledge ﬂows from R&D to M&S and NPD performance ( Moenaert
+et al. ,1994 ), studies analysing the effect at various stages suggest that the role of
+R&D-M&S integration mainly consists in the provision of market feedback to theR&D department ( Brettel et al. ,2011 ;Drechsler et al. ,2013 ;Olson et al. ,2001 ),
+for example during the stages of market opportunity analysis, development, andpretesting ( Song et al. ,1998 ) or, with the goal to improve market orientation
+(Jaworski and Kohli ,1993 ) or customer connection ( Moorman and Rust ,1999 ).
+We may therefore conclude that the knowledge most important to innovationperformance ﬂows from M&S to R&D. R&D departments cannot simply partic-
+ipate in integration mechanisms and bene ﬁt from these without being able toEmpirical Evidence of the Mediating Role of AC
+1950056-11
+--- PAGE 12 ---
+actually absorb the knowledge in question, which might be possible for the M&S
+departments providing knowledge instead of absorbing it. We hence hypothesise:
+Hypothesis 5a: FAC of R&D and M&S departments shows a positive direct effect
+on innovation performance.Hypothesis 5b: CFAC of R&D departments shows a positive direct effect on
+innovation performance, whereas CFAC of M&S departments shows no directeffect on innovation performance.
+Indirect effects of integration mechanisms
+The above discussion implies some potential mediation effects. The consequence
+of the direct effects from informal cross-functional integration mechanisms onFAC, and from FAC on CFAC is that informal cross-functional integrationmechanisms indirectly positively affect cross-functional AC in the case of R&Ddepartments. This means that in turn it could counterbalance the negative directeffect that we predict informal cross-functional integration mechanisms could exerton CFAC of R&D departments. Thus, we put forward the following relatedhypothesis:
+Hypothesis 6: For R&D departments, there is a positive indirect effect from the
+use of informal cross-functional integration mechanisms via FAC on CFAC.
+Finally, CFAC of R&D departments mediates the effects of two antecedents of
+innovation performance: the effects of FAC and formal cross-functional integra-tion mechanisms. Cross-functional integration aims at providing the necessaryknowledge directly through lateral relations to those who need it in other functionsdue to task interdependence. Hence, in order to valorise formal cross-functionalintegration mechanisms, knowledge must be absorbed successfully. As arguedabove, the mere collaboration without understanding is not suf ﬁcient for a re-
+ceiving unit. In this case, the receiving unit is hypothesised to be the R&D unit,which heavily relies on market information from M&S departments to direct andorient its work towards current and future market demand. As information pro-
+viders, the M&S departments, in turn, are less dependent on a precise under-
+standing of technological knowledge. Thus, if the data con ﬁrm a direct effect of
+integration mechanisms for M&S departments —as hypothesised above —while,
+at the same time, negating such an effect for R&D departments (supporting insteadthe hypothesis of an indirect effect through CFAC), this would clearly support thethesis that the direction of knowledge ﬂow from M&S to R&D is more important
+than the reverse.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-12
+--- PAGE 13 ---
+Hypothesis 7a: FAC of R&D departments shows a positive indirect effect on
+innovation performance via CFAC.Hypothesis 7b: There is a positive indirect effect from R&D departments ’use
+of formal cross-functional integration mechanisms via CFAC on innovationperformance.
+Direct effects of integration mechanisms on innovation performance
+Since our conceptualisation of departmental AC is derived from the ﬁrm-level AC,
+it likewise includes not only the search and evaluation of external knowledge, butalso its transfer and exploitation. This would re ﬂect successful integration, which
+is supposed to improve innovation performance. Therefore, we hypothesised that
+departmental AC mediates all relevant integration mechanisms. In our model, the
+mediation should capture the entire effects from integration mechanisms on in-novation performance. The presence of direct effects would imply that integrationmechanisms achieve more than just (cross-) functional integration.
+However, given that M&S departments are usually the party providing access,
+they are less required to build ability for absorption. In the case of R&D-M&Sinterfaces, where innovation activities are organised according to the market-pullmodel, it is particularly clear that there might be a per se predominant direction of
+task dependence and hence knowledge ﬂow (Rothwell ,1994 ). M&S departments ’
+engagement in integration mechanisms, obviously, can only directly result inhigher innovation performance if either (i) the absorbing counterpart knows howto absorb or (ii) the integration mechanism is highly formalised and codi ﬁed so
+that no particular prior related procedural knowledge is required. Given that wealready expect informal cross-functional integration mechanisms to have a nega-
+tive effect on R&D departments ’CFAC, the only direct impact from integration
+mechanisms on innovation performance can be expected to result from the use offormal cross-functional integration mechanisms by M&S departments.
+Hypothesis 8: (a/b/c )None of the studied integration mechanisms directly affects
+innovation performance, (d)with the exception of M&S department ’s use of
+FORMAL cross-functional integration mechanisms, which positively affects in-novation performance.
+Methodology
+Sampling and data collection
+We empirically tested our hypotheses using data from the Italian manufacturing
+industry. In a ﬁrst step, we selected all Italian manufacturing ﬁrms from the AIDAEmpirical Evidence of the Mediating Role of AC
+1950056-13
+--- PAGE 14 ---
+database of Italian public and private ﬁrms. This database has been used in many
+previous studies ( Colombo et al. ,2007 ) and is considered almost exhaustive, as it
+includes not only publicly listed companies but also privately held SMEs. Itincludes 3769 ﬁrms with at least 200 employees, which was the minimum
+threshold we had to set since we could include only ﬁrms that had at least two
+departments of each type in focus: R&D and M&S departments. Several ﬁrms also
+had to be removed from this list because they were no longer active. In a secondstep, an online pool of potential survey participants was accessed, allowing us toselect professionals by ﬁrm and department. These restrictions reduced our sample
+to 541 professionals from either R&D or M&S departments. Professionals whohad worked less than one year in their current ﬁrm were excluded from our study
+because we could not assume their responses to be suf ﬁciently reliable, as the
+process of socialisation usually takes some time. The professionals thus matchedwere then contacted and asked to complete an online questionnaire. The distri-bution of experience of survey participants is slightly skewed towards shorterprofessional experience. This is due to an overrepresentation of younger profes-sionals in the database itself. Since this does not relate to our particular researchquestions we see no reason to suspect any systematic bias.
+The questionnaire was hosted on a dedicated server under the of ﬁcial university
+domain, and it was password protected to signal careful and con ﬁdential use of the
+participants ’data. Moreover, in the contact e-mail all participants were not only
+assured of the con ﬁdentiality of their answers, but incentivised also with a per-
+sonalised benchmark report. There were two rounds of reminder e-mails. Theresponses received amounted to 140, of which 126 were completed. Of the 126complete questionnaires, 51 were ﬁlled in by M&S professionals while 75 were
+completed by employees of R&D departments. Thus, we altogether achieved aresponse rate of over 23%, which is seen also in similar studies using onlinesurveys (e.g., Verhoef and Lee ﬂang,2009 ) and generally a good rate for online
+surveys of managers, given the decline in online survey response rates since the
+introduction of the Internet ( Sheehan ,2001 ).
+The sectors represented in our ﬁnal sample include automotive and suppliers,
+food and beverages, consumer electronics, instruments and industrial machinery.
+2
+The sectoral composition of respondents does not differ much from that of non-respondents. We tested for non-response bias using ﬁnancial data from the AIDA
+database, since this data was also available for non-respondents. The variableschosen were major performance indicators such as sales, EBIT, and ROE, but also
+2The 2-digit ATECO codes of the sectors represented in our sample are the following: 10, 15, 17, 20,
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-14
+--- PAGE 15 ---
+indicators of differences between sectors. This analysis was performed by means
+of a paired-sample t-test on mean differences for each of the selected key variables
+regarding both the entire sample and the two sub-samples of respondents fromR&D and M&S departments. At no point were signi ﬁcant differences found, and
+we concluded that there is no non-response bias.
+In order to avoid any biases related to the sequence of items in a battery, all
+item batteries used were presented in a random order. Moreover, it was importantto avoid the creation of an overly lengthy questionnaire that could have increasedthe number of response interruptions and, consequently, could have led to a highernumber of incomplete responses. The median response time, though, is moreinformative and was approximately 15 min. Finally, construct validity wasassessed in two steps. In a ﬁrst step, the questionnaire was discussed with senior
+researchers from both innovation management and marketing. In the second step, apretest was carried out with several professionals who were afterwards interviewedabout the comprehensibility and validity of the constructs. Both researchers andprofessionals were Italian native speakers with an excellent command of theEnglish language and were also asked to con ﬁrm the validity of the translation.
+However, the questionnaire language could be chosen and changed online by therespondents. Good construct validity can thus be assumed.
+Operationalisation
+With the exception of the newly established construct of departmental ACs (i.e.,
+FAC and CFAC), all variables have been measured based on previously validateditems used in the management literature (see Appendix). The scales for the newconcepts FAC and CFAC have been constructed on the basis of items establishedin the literature measuring AC at the organisational or sub-unit level and adaptedslightly to ﬁt the context of the functionally specialised departments chosen: R&D
+and M&S ( Flatten et al. ,2011 ;Hansen and Nohria ,2004 ;Jansen et al. ,2005 ;
+Szulanski ,1996 ).
+Innovation performance was assessed by means of a set of items chosen to
+measure innovation performance, based on instruments that are used in bothmarketing and management literature ( Atuahene-Gima et al. ,2005 ;De Luca and
+Atuahene-Gima ,2007 ). It was measured as the degree to which the stated
+objectives of innovation projects have been reached in the following fourdimensions: market share, sales, return on investment, and product performance.
+Luo et al. (2006, p. 72) conceptualised cross-functional cooperative ability as
+the“ability to assimilate and deploy market knowledge in lateral interactions
+among functional areas ”, a special case of our more general CFAC. However, this
+deﬁnition refers exclusively to market knowledge, so that it is not suited toEmpirical Evidence of the Mediating Role of AC
+1950056-15
+--- PAGE 16 ---
+distinguish between FAC and CFAC. As a consequence, the items used by Luo
+and colleagues do not distinguish between the department ’s own and other
+functional knowledge domains. In contrast, the present study focuses on thisdistinction, aimed at measuring FAC and CFAC explicitly as two distinct con-cepts. Particular care was taken to select only re ﬂective items from the previous
+literature.
+Furthermore, we made sure that these items were coherent with the theoretic
+conceptualisation of the construct as an ability, rather than as a set of speci ﬁc
+processes and routines. This means that only those items were included whichavoided asking “how extensively do you apply process X (a process thataims at
+knowledge absorption)? ”but, instead, asked “how successful are you in terms of
+Y (an aspect of knowledge absorption)? ”
+Formal and informal integration mechanisms can be implemented at both types
+of interface, thus, requiring four variables: formal and informal intra-functionalintegration mechanisms, as well as formal and informal cross-functional integra-tion mechanisms. Informal integration was measured by means of four items fromprevious studies ( Zahra and Nielsen ,2002 )a sar e ﬂective scale, thus, indicating
+the degree of a latent informal integration. While functional integration has beenmeasured unidimensional in the past, for example, in terms of extensive use ofcross-disciplinary teams within the R&D function ( Henderson and Clark ,1990 ),
+formal integration mechanisms have been adopted from previous literature interms of a formative, multi-dimensional scale ( Gupta and Govindarajan ,2000 ;
+Jansen et al. ,2005 ). The formative scale of formal integration mechanisms was
+also measured by means of an additional item in order to achieve a more completeconstruct, which is particularly important for formative constructs ( Edwards and
+Bagozzi ,2000 ).
+Our model also includes several control variables. We analyse industry effects
+by means of the variable IND2ROS, that is the industry average return on sales(ROS) calculated based on the two-digit ATECO code ( Coombs and Bierly ,
+2006 ). Alternatively, common industry dummies based on two-digit ATECO
+codes have been used in OLS regression analyses as a further robustness check(Cassiman and Veugelers ,2006 ). We control for ﬁrm size by applying one of the
+most common measures: the logarithm of the number of full-time equivalentemployees. We control for the degree of centralisation applying the measure used
+byJaworski and Kohli (1993 ) and for the degree to which the ﬁrm or business unit
+directly serves end consumers (B2C) rather than other businesses (B2B) using the
+scale applied by ( Verhoef and Lee ﬂang,2009 ).Environmental turbulence is con-
+trolled for by means of a formative item battery ( Verhoef and Lee ﬂang,2009 ).
+Finally, we control for market oriented reward mechanisms using items from
+Jaworski and Kohli (1993 ).J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-16
+--- PAGE 17 ---
+Data
+The sample in the present study includes responses from 126 professionals in
+R&D and/or M&S departments from 79 different ﬁrms (in 37 cases, we received a
+response from only one department). Although it has been found that StructuralEquation Models (SEM) can perform well, even with sample sizes as low as 50(Iacobucci ,2010 ), it is well known that one should aim for sample sizes above 100
+(preferably 200) cases ( Bagozzi and Yi ,2012 ). While our sample size is admit-
+tedly towards the lower bound of admissible sample sizes, other recent studieshave applied SEM on similar topics with similar values ( Stock et al. ,2014 , for
+example, use a sample size of 125). However, in order to further check the impactof sample size on the robustness of our models in terms of stable parameterestimates, we tested our model initially by means of the ﬁrst 100 cases and,
+subsequently, by means of the ﬁnal set of 126 cases. There was no indication
+of bias.
+Missing data can have serious effects on data quality and the conclusions that
+can be drawn from empirical data ( Byrne ,2010 ;Schafer and Graham ,2002 ). The
+variables with most missing cases showed less than 10% of cases missing, whichwould still suf ﬁciently limit potential bias ( Schafer and Graham ,2002 ). The two
+most common imputation techniques have been chosen for the missing data:variable means and maximum likelihood estimation as available in AMOS(cf.Byrne ,2010 ). Moreover, all analyses of the measurement and structural
+models were performed based on both types of imputation techniques showing nosubstantial differences. Since the maximum likelihood estimation of missingobservations is generally regarded as robust even in cases where the missing-at-random condition is not exactly met ( Byrne ,2010 ), we report results based on this
+imputation technique.
+Common method bias was checked by means of Harman ’s single-factor test
+that is commonly applied in cross-sectional studies ( Harman ,1967 ). Thus, a
+principal component analysis of all items of the survey extracting factors witheigenvalues above 1 has been performed, which resulted in many factorsexplaining about 75% of total variance and another principal component analysisconstraining the extraction of one single factor of the unrotated solution. Thissingle factor could explain only about 23.8% of total variance. Thus, we found noindication that common method bias is a major problem. To reduce the potential ofsocial desirability bias, particular care was taken to indicate full anonymity of bothindividuals and ﬁrms. In order to avoid biases due to the order of items, the items
+of all multi-item scales were presented in random order each time the site was
+accessed.Empirical Evidence of the Mediating Role of AC
+1950056-17
+--- PAGE 18 ---
+Model speci ﬁcation
+Given the low sample size, we tested the measurement and the structural model
+separately ( Anderson and Gerbing ,1988 ). First, the pure measurement model of
+the re ﬂective scales was estimated in a con ﬁrmatory factor analysis. In this way,
+we estimated not only composite reliability (CR), but also convergent and dis-criminant validities. We subsequently used the derived composite variables for theestimation of the pure structural model in a path analysis. An important criterion isthe logic of causal direction theorised, which should be con ﬁrmed by high inter-
+item correlations in case of re ﬂective scales ( Edwards and Bagozzi ,2000 ) since, if
+there is a common latent factor in ﬂuencing the items, these will have to be cor-
+related to some degree. In contrast, there is no such constraint if the indicators form
+the latent variable. Indeed, for all scales for which we argue that are formative, theinter-item correlations, although signi ﬁcant, are not as high as one might expect if
+they were re ﬂective. While commonly formative scales are simple, that is, non-
+weighted averages of the equally scaled items, formal integration mechanismshave been differently summed in extant literature. The items we use to measurecross-functional integration or interfaces have been combined into a weightedaverage in previous studies, the weights being 1 for liaison personnel, 2 fortemporary task forces, and 3 for permanent teams ( Gupta and Govindarajan ,2000 ;
+Jansen et al. ,2005 ). The same weights have been applied in this study, while the
+additional indicator “job rotation ”is a weighted one, because by nature it is closest
+to liaison personnel as it involves only single individuals.
+Results
+Measurement model results
+Items of re ﬂective scales have been found to correlate at least over 0.45 and
+signiﬁcantly so, mostly at the 1%-level. This is in line with the pattern of factor
+loadings identi ﬁed by the exploratory factor analysis where all items of the re-
+ﬂective scales load together on their respective factors, with the exception of a few
+items of the FAC and CFAC scales. The con ﬁrmatory factor analysis led to the
+elimination of several items from the original scales because factor loadings weretoo low ( <0:55). Moreover, a test for metric invariance during con ﬁrmatory factor
+analysis revealed that FAC and CFAC have to be measured by different items.This further corroborates that the two concepts are actually different. Both theTucker –Lewis-Index (TLI) and the comparative ﬁt index (CFI) are over 0.9 with
+values of 0.921 and 0.941, respectively, the root mean square error of approxi-mation (RMSEA) at 0.063 being in a well acceptable range ( <0:1moderate;J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-18
+--- PAGE 19 ---
+<0:05good), and chi-square/d.f. at 1.491 being below the conservative threshold
+of 2. Model ﬁt is at least as good for the solution with variable means imputed
+data, for which the estimate of SRMR was well below the threshold of 0.08, too(Hu and Bentler ,1999 ). Moreover, no indication of problems with model ﬁt could
+be found following a check of the matrix of the standardised residual covariancesavailable for the analysis with mean imputed variable means, since no value islarger than 2.58 (cf. Byrne, 1999, p. 86). The values for CR of all scales werelargely above the 0.7 threshold ( Bagozzi and Yi ,1988 ). Moreover, for all vari-
+ables, convergent and discriminant validity is supported, since average varianceextracted (AVE) is always smaller than CR and larger than both maximum sharedsquared variance (MSV) and average shared squared variance (ASV).
+Structural model results
+The structural model is based on the speci ﬁed hypotheses and includes the
+speciﬁed control variables. Table 1and Fig. 1summarise our results. In multi-
+group SEM models, an R-square value is estimated contemporaneously in onemodel for every endogenous variable for each group. All six of our R-squarevalues are between 0.35 and 0.59 and hence show that our model explains arelatively large percentage of variance of the endogenous variables.
+Ourﬁrst hypotheses could not be con ﬁrmed. We found no signi ﬁcant effects of
+either informal (H1a) or formal (H1b) intra-functional integration mechanisms onFAC. A possible explanation is that, within functional areas, vertical informationﬂows are more important than lateral ones and complementarities are realised
+directly and exclusively in projects rather than at the level of departments.
+Another possible explanation is that FAC depends more on in-depth knowledge
+since it concerns the absorption of knowledge from the same domain (e.g., amarketing department in the USA absorbing knowledge from a marketing de-partment in Europe). In this case, successful absorption hinges more on thedepartments ’knowledge bases being already very similar rather than their orga-
+nisational integration. By contrast, where knowledge bases are always relativelydistant and little common ground exists, integration mechanisms and higher fre-quency of exchange substitute for the common ground provided by a similardomain background. In fact, the positive effect of informal integration acrossfunctional domains on FAC is found to be highly signi ﬁcant for both R&D and
+M&S departments, which con ﬁrms our Hypothesis 2.
+Likewise, we ﬁnd support for Hypotheses 3a and 3b. We can con ﬁrm for R&D
+departments that formal cross-functional integration mechanisms highly signi ﬁ-
+cantly and positively affect CFAC, while informal cross-functional integrationmechanisms have a slightly signi ﬁcant negative effect on CFAC. Moreover, weEmpirical Evidence of the Mediating Role of AC
+1950056-19
+--- PAGE 20 ---
+Table 1. Structural path model results with control variables (ML estimation of missing data).
+R&D M&S
+DV Hypothesis Path R2/C12 (p-val.) R2/C12 (p-val.) Expected Conﬁrmed
+FAC 0.357 0.590
+H1a: FAC  IIM 0.079 (0.362) /C00.098 (0.362) þ No
+H1b: FAC  FIM /C00.002 (0.982) /C00.002 (0.982) þ No
+H2: FAC  IXM /C00.379*** (0.000) /C00.437*** (0.000) þ Yes
+C1: FAC  CNTR /C00.169* (0.013) /C00.207* (0.013) /C0 Yes
+C2: FAC  IND2ROS /C00.106þ(0.112) /C00.102þ(0.112)/C0/C24
+C3: FAC  REW /C00.247*** (0.000) /C00.329*** (0.000) þ Yes
+CFAC 0.529 0.407
+H3a (R&D): CFAC  FXM /C00.378*** (0.000) þ Yes
+H3a (M&S): CFAC  FXM 0 (n.a.) 0 Yes
+H3b (R&D): CFAC  IXM /C00.185þ(0.108) /C0/C24
+H3b (M&S): CFAC  IXM /C00.209þþ(0.073)þ/C24
+H4: CFAC  FAC /C00.523*** (0.000) /C00.497*** (0.000) þ Yes
+C4 (R&D): CFAC  REW /C00.183* (0.046) þ Yes
+C4 (M&S): CFAC  REW 0 (n.a.) 0 Yes
+IP 0.372 0.356
+H5a: IP  FAC /C00.020 (0.847) /C00.016 (0.847) þ No
+H5b (R&D): IP  CFAC /C00.560*** (0.000) þþ Yes
+H5b (M&S): IP  CFAC 0 (n.a.) 0 Yes
+H8a: IP  IIM 0 (n.a.) 0 (n.a.) 0 /C24
+H8b: IP  IXM 0 (n.a.) 0 (n.a.) 0 /C24
+H8c: IP  FIM 0 (n.a.) 0 (n.a.) 0 /C24
+H8d (R&D): IP  FXM 0 (n.a.) 0 /C24
+H8d (M&S): IP  FXM 0.227þþ(0.061)þ/C24J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-20
+--- PAGE 21 ---
+Table 1. ( Continued )
+R&D M&S
+DV Hypothesis Path R2 /C12 (p-val.) R2 /C12 (p-val.) Expected Conﬁrmed
+C5: IP  B2C /C00.136þ(0.101) /C00.120þ(0.101)þ/C24
+C6: IP  ENV /C00.100 (0.255) /C00.068 (0.255) þ No
+C7 (R&D): IP  SIZE /C00.077 (0.425) /C0 No
+C7 (M&S): IP  SIZE /C00.364** (0.002) /C0 Yes
+C8: IP IND2ROS /C00.102 (0.204) /C00.079 (0.204) /C0 No
+C9 (R&D): IP  REW /C00.084 (0.487) þ No
+C9 (M&S): IP  REW /C00.408** (0.002) þ Yes
+Indirect effects of integration mechanisms
+H6: CFAC  FAC IXM/C00.198*** (0.000) þ Yes
+H7a: IP CFAC FAC/C00.283*** (0.000) þ Yes
+H7b: IP CFAC FXM/C00.204** (0.000) þ Yes
+Notes :n¼126;þ<0:11,þþ<0:07,*<0:05,* *<0:01***<0:001;/C312¼30:645;d:f:¼45;p¼0:950;/C312=d:f:¼0:681; TLI¼1:142;
+CFI¼1:00; RMSEA¼0:000(90% con ﬁdence interval 0:000!0:003); SRMR¼not de ﬁned for data with missing values. /C12¼standardised
+parameter estimates. Signi ﬁcance levels of indirect effects based on two-tailed Sobel-test.
+Hypotheses regarding zero effects have been tested by constraining the parameters in question to zero and calculate the chi-square difference teststatistic to compare it with the unconstrained model. Acceptance based on chi-square difference test always coincided with decision if based on AIC.Abbreviations: Innovation Performance (IP), Functional AC (FAC), Cross-functional AC (CFAC), Informal (IXM) and formal (FXM) cross-
+functional integration mechanisms, Informal (IIM) and formal (FIM) intra-functional integration mechanisms, Market oriented reward mechanisms
+(REW), Centralisation (CNTR), Environmental turbulence (ENV), Industry average of Return on Sales (IND2ROS), Percentage of Business-to-
+Consumer sales of total sales (B2C).Empirical Evidence of the Mediating Role of AC
+1950056-21
+--- PAGE 22 ---
+ﬁnd evidence that these effects of formal and informal cross-functional integration
+mechanisms are, as predicted, partly inversed when considering M&S depart-ments. Constraining the path of formal cross-functional integration mechanisms onCFAC to zero for M&S departments signi ﬁcantly improves model ﬁt, and the
+effect of informal mechanisms has a positive rather than negative effect that issigniﬁcant at 7%.
+Weﬁnd support for Hypothesis 4, that is, for the interrelation between FAC and
+CFAC. FAC has a signi ﬁcant and highly positive impact on CFAC. FAC can thus
+be regarded as a fundamental capability on which CFAC can build. One may alsointerpret FAC as an auxiliary capability for successful cross-functional integration.Cross-functional integration processes sometimes require additional informationfrom peer departments, thus making FAC to a certain degree a precondition forCFAC.
+Weﬁnd no support for our Hypothesis 5a, whereby FAC positively affects
+innovation performance. A possible explanation for the insigni ﬁcant result re-
+garding Hypothesis 6a is that in most organisations the departmental structure, inparticular that of R&D departments, mirrors more or less closely the modularstructure of the underlying technology. That means that each of the loosely
+Notes : Abbreviations as in Table 1.
+Fig. 1. Overview of structural model results.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-22
+--- PAGE 23 ---
+coupled modules corresponds to an organisational unit to develop it, and that these
+units are coupled as loosely as the modules ( MacCormack et al. ,2012 ). If this is
+the case, there are fewer interdependencies between peer departments, between,for example an R&D department responsible for innovations and improvementsaround module A, and another department responsible for module B. The rele-vance of knowledge absorption depends on these interdependencies; hence, inthese cases, FAC should exhibit low to no impact on innovation performance. Incontrast to 5a, we can con ﬁrm our Hypothesis 5b: in case of R&D departments,
+CFAC signi ﬁcantly and positively affects innovation performance, as expected.
+This effect is robust across diverse model speci ﬁcations.
+Weﬁnd support for Hypothesis 6: there is a signi ﬁcant, positive indirect effect
+from cross-functional integration mechanisms through FAC on CFAC. In the caseof R&D departments, this indirect effect compensates for the negative direct effectof these mechanisms on CFAC, resulting in a total effect close to zero.
+The hypothesised indirect effects from FAC (H7a) and formal cross-functional
+integration mechanisms (H7b) through CFAC on innovation performance arehighly signi ﬁcant, too. The signi ﬁcance levels of all indirect effects are based on a
+two-tailed Sobel-test. Together with the hypothesis of zero effects for direct pathsof cross-functional integration mechanisms on innovation performance, as con-ﬁrmed above, this might explain previous contrasting results that ﬁnd negative,
+positive or no effects at all from these mechanisms on innovation performance. Inparticular, the indirect positive effect of informal cross-functional integrationmechanisms via FAC on CFAC of R&D departments does balance out the neg-ative effect that these mechanisms exert directly on CFAC. This could explainwhy previous studies did not ﬁnd any signi ﬁcant effect for informal cross-func-
+tional integration mechanisms on integration success ( Leenders and Wierenga ,
+2002 ).
+None of the integration mechanisms included in hypotheses 8a-c affects in-
+novation performance directly. These, and all other zero-effect hypotheses, were
+tested by means of chi-square difference tests of the nested models and can thus be
+regarded as not rejected. All models specifying a direct effect of integrationmechanisms on innovation performance had to be rejected due to bad model ﬁt.
+Hence, this con ﬁrms our Hypotheses 8a-c. We also ﬁnd that Hypothesis 8d is
+conﬁrmed; hence, formal cross-functional integration mechanisms have the
+expected signi ﬁcant, positive direct effect on innovation performance for M&S
+departments, whereas they do not show such effect in the case of R&D depart-ments, where the direct effect is zero but the indirect effect is highly signi ﬁcant and
+positive. This can be interpreted as evidence of the direction of knowledge ﬂow
+between departments and indirectly supports our assumption that M&S depart-ments do not need CFAC to increase innovation performance, since they deliverEmpirical Evidence of the Mediating Role of AC
+1950056-23
+--- PAGE 24 ---
+the required knowledge without the necessity to absorb R&D knowledge in turn.
+In contrast, R&D departments can use all formal integration mechanismsaccording to their needs; however, without learning how to use these mechanismsto foster knowledge absorption, there will be no signi ﬁcantly positive effect on
+innovation performance.
+Most control variables load as anticipated. Industry sectors, as measured by
+average return on sales of the sector, have no effect, as con ﬁrmed by mostly
+insigni ﬁcant industry dummies in OLS regressions (see section on further
+robustness checks below).
+Further robustness checks
+We discuss the outcomes of several competing models that have been tested and
+compared with the base model. In model (1), we assume that FAC is not aprerequisite causing CFAC as argued above, but rather that both variables inde-pendently cause innovation performance. Given the differences of the alternativemodels, we compare them based on Akaike ’s Information Criterion (AIC). With
+an AIC value of 391.685, this model has a ﬁt which is worse compared with the
+base model, which has an AIC value of 356.645.
+In model (2), we assume that not only informal but also formal cross-functional
+integration mechanisms affect FAC. Knowledge about the formal integrationmechanisms used across domain boundaries could also be transferred to improvethe implementation of these integration mechanisms with other departments of theown corporate function, thus improving FAC. Not only is the newly introducedeffect of formal cross-functional integration mechanisms on FAC itself insigni ﬁ-
+cant ( p-level 0.253), but the chi-square difference test also fails to indicate a
+signiﬁcant difference ( p-level 0.269). Moreover, the AIC of this alternative model
+is higher than that of the original model. Our original model thus overall out-performs this alternative speci ﬁcation as well.
+In model (3), we also tested for reversed causality. In this model, we try to
+address potential endogeneity as much as possible. We assume in this model thathigher innovation performance increases managers ’perception of their depart-
+ment’s ability to absorb new external knowledge. While model 3 performs better
+than model 1, it performs worse than the original model, based not only on thecomparison of the AIC (360.210) but also on all other model ﬁt indicators, except
+for CFI, which is equally maximised.
+Finally, in model (4), OLS regression was applied to double check the principal
+hypotheses. This allows us to check for robustness not only in terms of modelconﬁguration, but also in terms of an alternative and still more common way to
+assess industry effects, namely by means of the usual industry dummies. All otherJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-24
+--- PAGE 25 ---
+controls and composite variables are those used in the structural model. At the
+same time, OLS also permits a check for multicollinearity issues by means ofinspection of the variance in ﬂation factors (VIF). Here, we found all factors
+ranging between 1 and 3, far below the upper threshold value of 5 ( De Vaus ,2002 ;
+Kutner et al. ,2005 ). Visual inspection as to heteroskedasticity does not suggest
+such an issue for any of the OLS models we ran. Generally, the OLS modelsconﬁrm our principal hypotheses that are also con ﬁrmed by the SEM model.
+Moreover, we cannot exclude ﬁrm-speci ﬁc effects, but since we had only very few
+cases per ﬁrm, we can relatively safely assume unrelated residual errors. However,
+as a robustness check, we created a dummy variable for those ﬁrms from which we
+had received only one response. It is not possible to include dummies in an MLestimation-based SEM, but we controlled for the in ﬂuence of this dummy on the
+main results in the OLS regressions. Our ﬁndings were still supported when
+controlling for number of responses per ﬁrm.
+Discussion and Conclusion
+We argued that a crucial aspect of integration success at inter-departmental
+boundaries in terms of innovation performance is the capability of the organisa-tional units to absorb each other ’s knowledge. We hence empirically studied
+integration within and between the M&S and R&D functions and were able toexplain a considerable share of the variance of innovation performance. Previousresearch on this phenomenon investigated the direct relationship between differ-ently operationalised integration mechanisms and innovation performance withouttaking into account the nature of the units ’corporate function. This led to con-
+trasting empirical results and explanations. Hence, we investigated whether theability of departments to absorb knowledge from other departments can improveinnovation performance, as well as whether such an ability can be built by meansof integration mechanisms.
+Based on our analysis, however, we found evidence of contrasting direct and
+indirect effects of some integration mechanisms on CFAC and hence innovationperformance. In fact, it is important to note that, in case of R&D departments, theuse of informal cross-functional integration mechanisms has a positive indirecteffect on CFAC mediated by FAC, while, at the same time, it has a negative directeffect on CFAC. That is, it generally improves the ability to understand what typesof external knowledge from within the department ’s own functional domain are
+most valuable given the complementarity with other functional domains, but itmay likewise provide too much potentially contradictory information that hindersthe integration of these other functional domains. Since the indirect effect ofEmpirical Evidence of the Mediating Role of AC
+1950056-25
+--- PAGE 26 ---
+informal cross-functional integration via FAC on CFAC is highly signi ﬁcant and
+positive, while the direct effect is signi ﬁcantly negative, the total effect on CFAC
+—and thus innovation performance —is close to zero. This is in line with
+previous ﬁndings that did not consider the mediation but only the aggregate effect,
+and hence did not ﬁnd a signi ﬁcant relation ( Leenders and Wierenga ,2002 ).
+Moreover, the CFAC of R&D departments enables them to improve innovation
+performance. We found this construct, which we conceptualise for the ﬁrst time at
+this level of analysis, to be an important mediating variable. It shows that the mereimplementation of integration mechanisms is not a suf ﬁcient criterion for im-
+proved innovation performance. R&D departments have to learn how to use themand how to absorb knowledge from M&S in order to develop more valuable andbetter performing innovations. We also show that M&S departments need not beparticularly skilled in absorbing knowledge from R&D departments to provide thenecessary updated market knowledge to R&D departments. While these ﬁndings
+conﬁrm previous studies on the direction of knowledge ﬂow from M&S to R&D
+departments in new product development, they also contribute to the clari ﬁcation
+of previous contrasting ﬁndings regarding the effects of integration mechanisms on
+innovation performance.
+Several limitations have to be mentioned, however. First, the results are limited
+so far to the Italian context, and a cross-national replication would add to thereliability of the generalisation of the results. Secondly, the fact that the study isbased on cross-sectional data makes the causal directions depend fundamentallyon the theory developed. A future study based on panel data could add to thestrength of the causal inference, as changes over time in terms of departmentalFAC and CFAC and their impact on innovation performance could actually thenbe analysed. This model can be re ﬁned using scales that better re ﬂect the theorised
+multi-dimensionality. However, these simpler preliminary scales could be usedalready for further inquiries. A third limitation is the relatively small sample size.The statistical power of the model is relatively limited; in particular the hypotheses
+of zero effects have to be regarded with caution, since, with a comparatively low
+power, the probability of false negatives increases.
+Theoretical implications
+We conceptualise Functional and Cross-functional Absorptive Capacity (FAC and
+CFAC, respectively) and apply technically valid and reliable empirical mea-surement instruments for these concepts. In doing so, we follow similar con-siderations expressed in the conceptualisation of relative AC at the ﬁrm level
+(Lane and Lubatkin ,1998 ) and address highly relevant yet under-researched
+issues of the AC literature ( Volberda et al. ,2010 ). Hence, this study contributes toJ. P. Hausberg & P. S. H. Lee ﬂang
+1950056-26
+--- PAGE 27 ---
+theory in several important ways. We provide theoretical underpinning for the
+relevance of AC (in form of FAC and CFAC) for functional integration andinnovation performance. Based on an original database from Italian manufactur-ingﬁrms from a broad range of different sectors, we also provide the ﬁrst em-
+pirical evidence for the role that departmental AC plays in functional integration.Hence, our study also provides quantitative evidence of CFAC ’s positive medi-
+ation of the effect that formal cross-functional integration mechanisms have oninnovation performance.
+Furthermore, we contribute to the theory of cross-functional integration through
+analysing the role of AC in this context, thus providing a deeper understanding ofthe integration process. Our differentiated view, based on the revised con-ceptualisation of AC helps to explain previously contrasting results in the literature(Troy et al. ,2008 ). Departments ’absorptive capacities are speci ﬁc to the type of
+intra-organisational boundary; hence, these distinct capabilities mediate differentlythe effects of different integration mechanisms (i.e., formal and informal) on in-novation performance. In particular, with our distinction of two fundamental typesof integration mechanisms (formal versus informal) at two different types oforganisational boundaries (intra-versus cross-functional), we allow for a nuancedunderstanding of how departmental ACs affect innovation performance.
+Finally, including and comparing R&D and M&S departments in one joint
+analysis, we can show how these effects differ across different corporate functions.In this way, we contribute to a better understanding of the differences in successfulfunctional integration and to an explanation for the contrasting ﬁndings on the role
+of integration for innovation performance ( Troy et al. ,2008 ).
+Clearly, there are many new research questions implied by our ﬁndings, of
+which we can only point to some we view as most relevant. Regarding functionaland cross-functional integration, the recognition of these mediating effects permitsmore ﬁne-grained analyses of contingency theories and moderating effects re-
+garding differentiation and reintegration in functionally specialised organisations.
+Future research hence could, for example, address the issue of intra- ﬁrm hetero-
+geneity regarding not only the development, but also the use of these abilities.Furthermore, future research could analyse what this means in the context ofmultinational corporations and globally dispersed innovation activities as well asin terms of recent contingency views on integration ( Burgers and Covin ,2016 ).
+Multinational corporations have to differentiate and reintegrate in differentenvironments and different degrees of innovation dynamism. On one hand, de-partmental ACs could help to explain heterogeneity on the levels of success ofintegration across countries. A multinational that tries to integrate knowledgeinﬂows from its foreign subsidies should perform better when its receiving home-
+country departments exhibit high levels of AC. On the other hand, theEmpirical Evidence of the Mediating Role of AC
+1950056-27
+--- PAGE 28 ---
+multinational context could help to explain differences in the way and speed in
+which geographically dispersed departments develop these ACs. For example,R&D departments of a multinational corporation are necessarily integrated morethrough formal integration mechanisms, since geographical distance reduces thelikelihood of informal exchange, leading thus to higher CFAC.
+Regarding AC, this concept is still mostly theorised and observed at the ﬁrm-
+level. While most recent research tries to connect individual employee-level di-rectly to ﬁrm-level AC ( Distel ,2018 ;Ebers and Maurer ,2014 ;Yao and Chang ,
+2017 ) in order to establish micro-foundations ( Felin et al. ,2012 ) more research is
+needed to develop sound micro-foundations for AC on the department-level aswell, for which we offer a starting point. This means appreciating the fact that, inhierarchical organisations with many levels, the observation and analysis of meso-level phenomena helps one to understand the emergence of more macro-levelphenomena.
+Managerial implications
+Ourﬁndings also have several implications for managing departments involved in
+new product development. In particular, we demonstrate that informal, sponta-neous communication might pose serious pitfalls for R&D departments and for thenew product development process altogether. This is in line with and adds to ratherrecent ﬁndings ( Sosa et al. ,2015 ). We ﬁnd a positive effect on FAC and a negative
+one on CFAC. This could be leveraged by focusing on strengthening the positiveﬁrst effect and avoiding the second negative one. First, ﬁrms should focus on the
+scope of informal communication between M&S and R&D departments on theproduct development stages in which such communication helps R&D depart-ments understand the markets and, hence, to develop requirements and targets oftheir peer R&D departments with which they cooperate. The informal commu-nication with M&S could thus complement and integrate the rather technicalcommunication with their R&D peers. On the other hand, to avoid any negativeeffect on CFAC, continuous interruptions of their own development processthrough informal feedback at arbitrary development stages should be avoided,because they disrupt the work ﬂow. This is in line with recent ﬁndings based on
+social network analysis in complex new product development ( Sosa et al. ,2015 ).
+Companies can benchmark their departments based on our scales in order to judgethe need to pay more attention to the development of departmental absorptivecapacities, thereby improving strategic decisions in innovation management. Thisallows ﬁrms to allocate the appropriate level of attention, time, et cetera to build
+departmental absorptive capacities.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-28
+--- PAGE 29 ---
+Acknowledgements
+We thank Francesco Rullani, Sebastian Spaeth, Diego Stea, Kinsuk Mani Sinha,
+Felice Simonelli, Luca Sabini and Alfredo Valentino for their helpful commentsand discussions. We are furthermore very grateful for excellent proofreading byAlexandra Christiansen, Sara Turner, and Sarah McCarthy. This article is based ona part of Piet Hausberg ’s dissertation.
+Appendix
+Table A1. Core scales used in the questionnaire.
+Mean (SD)
+Cross-/Functional AC (CFAC/FAC) (re ﬂective) Item based on: FAC CFAC
+Members of our department ...
+(5) quickly analyse and interpret changing
+opportunities of “technologies ”/“markets ”.Jansen et al.
+(2005 )4.17 (1.55) 4.10 (1.44)
+(6) structure and integrate new external knowledge
+with ease.Jansen et al.
+(2005 )a 3.94 (1.46)
+(9) recognise timely the consequences of new
+external knowledge to our mode of operation.(Flatten et al.
+2011 )4.37 (1.51) a
+(10) are able to apply new external knowledge in
+their practical work.Flatten et al.
+(2011 )4.59 (1.51) a
+(11) regularly reconsider their knowledge and adapt
+it according to new external knowledge.Jansen et al.
+(2005 )4.52 (1.53) 4.13 (1.46)
+(12) know to share and apply new external
+knowledge with those in our department who
+is most apt.Szulanski
+(1996 )4.19 (1.53) a
+Informal Integration (IIM & IXM Scales)Mean (SD)
+Based on Zahra and Nielsen (2002). (re ﬂective) IIM IXM
+To what extent does your department use ...
+(1) free exchange of operating and ﬁnancial information, with ... a 3.06 (1.80)
+(2) bypassing of formal communication channels, as needed, with ... a 3.53 (1.90)
+(3) informal relationships for getting things done, with ... 4.71 (1.69) 4.05 (1.84)
+(4) maintains open communication channels in its operations
+with ...
+other departments of the (own/other functiona)4.61 (1.63) aEmpirical Evidence of the Mediating Role of AC
+1950056-29
+--- PAGE 30 ---
+References
+Adams, DR, TC Flatten, H Brinkmann and M Brettel (2016). Consequences and ante-
+cedents of absorptive capacity in a cross-cultural context. International Journal of
+Innovation Management , 20(1), 1650003.
+Allen, TJ and SI Cohen (1969). Information ﬂow in research and development laborato-
+ries. Administrative Science Quarterly , 14(1), 12 –19.
+Ancona, DG and DF Caldwell (1992). Bridging the boundary. external activity and per-
+formance in organizational teams. Administrative Science Quarterly , 37, 634 –665.
+Anderson, JC and DW Gerbing (1988). Structural equation modeling in practice: A review
+and recommended two-step approach. Psychological Bulletin , 103(3), 411 –423.
+Atuahene-Gima, K, SF Slater and EM Olson (2005). The contingent value of responsive
+and proactive market orientations for new product program performance. Journal of
+Product Innovation Management , 22, 464 –482.Formal Integration (FIM & FXM Scales)
+Based on Gupta and Govindarajan (2000 ),Item weights Mean (SD)
+Jansen et al. (2005 ). (formative) Extant Adj. FIM FXM
+To what extent does your department use:
+(1) liaison personnel with ... 1 1 3.94
+(1.77)3.52
+(1.98)
+(2) temporary task forces with ... 2 2 4.01
+(1.86)3.28
+(1.94)
+(3) permanent teams with ... 3 3 4.32
+(1.86)3.66
+(2.03)
+(4) job rotation with ...
+other departments of the (own/other functionb)N.A. 1 2.98
+(1.88)2.02
+(1.37)
+Innovation Performance (IP)
+Based on Atuahene-Gima et al. (2005 ) (re ﬂective) Mean (SD)
+Rate how your business unit is performing on the following new product
+development objectives relative to your ﬁrm’s stated objectives:
+(1) Market share 4.37 (1.25)(3) ROI 4.35 (1.37)
+(4) Pro ﬁtability 4.47 (1.42)
+Notes : Scaling for CFAC, FAC, IIM, IXM, FIM, FXM: 1 —“No or very little extent ”...7—
+“Very large extent ”
+Scaling for IP: 1 —“much worse ”...7—“much better ”.
+aItem deleted.
+b(own function) replaced with “R&D function ”for R&D departments and “M&S function ”for
+M&S departments (FIM); (other function) replaced with “M&S function ”for R&D departments and
+“R&D function ”for M&S departments (FXM).Table A.1. ( Continued )J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-30
+--- PAGE 31 ---
+Avagyan, V, M Esteban-Bravo and JM Vidal-Sanz (2016). Riding successive product
+diffusion waves. Building a tsunami via upgrade-rebate programs. International
+Journal of Research in Marketing , 33(4), 780 –796.
+Bagozzi, RP and Y Yi (1988). On the evaluation of structural equation models. Academy
+of Marketing Science , 16(1), 74 –94.
+Bagozzi, RP and Y Yi (2012). Speci ﬁcation, evaluation, and interpretation of structural
+equation models. Journal of the Academy of Marketing Science , 40(1), 8 –34.
+Bauer, U, H Endres, M Dowling and R Helm (2018). Organisational capabilities for
+technology transfer: A study of R&D-intensive ﬁrms in Germany. International
+Journal of Innovation Management , 22(4). doi: 10.1142/S136391961850041X.
+Bechky, BA (2003). Sharing meaning across occupational communities: The transfor-
+mation of understanding on a production ﬂoor. Organization Science , 14(3),
+312–330.
+Beverland, MB, P Micheli and FJ Farrelly (2016). Resourceful sensemaking: Overcoming
+barriers between marketing and design in NPD. Journal of Product Innovation
+Management , 33(5), 628 –648. doi: 10.1111/jpim.12313.
+Boland, RJJ and RV Tenkasi (1995). Perspective making and perspective taking in
+communities of knowing. Organization Science , 6(4), 350 –372.
+Bommer, M, R De La Porte and J Higgins (2002). Skunkworks approach to project
+management. Journal of Management in Engineering , 18(1), 21 –28.
+Brettel, M, F Heinemann, A Engelen and S Neubauer (2011). Cross-functional integration
+of R&D, marketing, and manufacturing in radical and incremental product innova-
+tions and its effects on project effectiveness and ef ﬁciency. Journal of Product
+Innovation Management , 28, 251 –269.
+Brown, JS and P Duguid (2001). Knowledge and organization: A social-practice
+perspective. Organization Science , 12(2), 198 –213.
+Burgers, JH and JG Covin (2016). The contingent effects of differentiation and integration
+on corporate entrepreneurship. Strategic Management Journal , 37(3), 521 –540.
+Burgers, JH, JJP Jansen, FAJ van den Bosch and HW Volberda (2009). Structural dif-
+ferentiation and corporate venturing: The moderating role of formal and informal
+integration mechanisms. Journal of Business Venturing , 24(3), 206 –220.
+Burns, T and GM Stalker (1961). The Management of Innovation . London: Tavistock
+Publications.
+Byrne, BM (2010). Structural Equation Modeling with AMOS: Basic Concepts, Appli-
+cations, and Programming , 2nd Ed., p. 418. New York, NY: Routledge.
+Carlile, PR (2002). A pragmatic view of knowledge and boundaries. Boundary objects in
+new product development. Organization Science , 13(4), 442 –455.
+Carlile, PR (2004). Transferring, translating, and transforming: An integrative framework
+for managing knowledge across boundaries. Organization Science , 15(5), 555 –568.
+Cassiman, B and R Veugelers (2006). In search of complementarity in innovation strategy:
+Internal R&D and external knowledge acquisition. Management Science , 52(1),
+68–82.Empirical Evidence of the Mediating Role of AC
+1950056-31
+--- PAGE 32 ---
+Christensen, CM (2003). The Innovator ’s Dilemma: The Revolutionary Book that will
+Change the Way you do Business . New York, NY: HarperBusiness Essentials.
+Available at http://www.loc.gov/catdir/description/hc041/2002027518.html
+Clark, KB and SC Wheelwright (1992). Organizing and leading “heavyweight ”devel-
+opment teams. California Management Review , 34(3), 9 –28.
+Cohen, WM and DA Levinthal (1990). Absorptive capacity. A new perspective on
+learning and innovation. Administrative Science Quarterly , 35, 128 –152.
+Colombo, MG, M Delmastro and L Rabbiosi (2007). High performance work practices,
+decentralization, and pro ﬁtability: Evidence from panel data. Industrial and Corpo-
+rate Change , 16(6), 1037 –1067.
+Coombs, JE and PEI Bierly (2006). Measuring technological capability and performance.
+R&D Management , 36, 421 –438.
+Cuijpers, M, H Guenter and K Hussinger (2011). Costs and bene ﬁts of inter-departmental
+innovation collaboration. Research policy: Policy and Management Studies of Sci-
+ence, Technology and Innovation , 40(4), 565 –575.
+Daft, RL and RH Lengel (1986). Organizational information requirements, media richness
+and structural design. Management Science , 32(5), 554 –571.
+De Jong, SB, GS Van der Vegt and E Molleman (2007). The relationships among
+asymmetry in task dependence, perceived helping behavior, and trust. Journal of
+Applied Psychology , 92(6), 1625 –1637.
+De Luca, LM and K Atuahene-Gima (2007). Market knowledge dimensions and cross-
+functional collaboration: Examining the different routes to product innovation per-
+formance. Journal of Marketing , 71, 95 –112.
+De Vaus, DA (2002). Surveys in Social Research , 5th ed. London: Routledge.
+Distel, AP (2018). Unveiling the microfoundations of absorptive capacity: A study of
+Coleman ’s Bathtub model. Journal of Management . doi: 10.1177/0149206317741963.
+Dosi, G (1982). Technological paradigms and technological trajectories: A suggested
+interpretation of the determinants and directions of technical change. Research
+Policy: A Journal Devoted to Research Policy, Research Management and Planning ,
+11(3), 147 –162.
+Dougherty, D (1992). Interpretive barriers to successful product innovation in large ﬁrms.
+Organization science , 3(2), 179 –202.
+Drechsler, W, M Natter and PSH Lee ﬂang (2013). Improving marketing ’s contribution
+to new product development. Journal of Product Innovation Management , 30(2),
+298–315.
+Ebers, M and I Maurer (2014). Connections count: How relational embeddedness and
+relational empowerment foster absorptive capacity. Research Policy , 43(2), 318 –332.
+Edwards, JR and RP Bagozzi (2000). On the nature and direction of relationships between
+constructs and measures. Psychological Methods , 5(2), 155 –174.
+Ernst, H, WD Hoyer and C Rübsaamen (2010). Sales, marketing, and research-and-
+development cooperation across new product development stages: Implications for
+success. Journal of Marketing , 74(5), 80 –92.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-32
+--- PAGE 33 ---
+Felin, T, NJ Foss, KH Heimeriks and TL Madsen (2012). Microfoundations of routines
+and capabilities: Individuals, processes, and structure. Journal of Management
+Studies , 49(8), 1351 –1374.
+Flatten, TC, A Engelen, SA Zahra and M Brettel (2011). A measure of absorptive ca-
+pacity: Scale development and validation. European Management Journal , 29(2),
+98–116.
+Foss, NJ, K Laursen and T Pedersen (2011). Linking customer interaction and innovation:
+The mediating role of new organizational practices. Organization Science , 22(4),
+980–999.
+Fry, LW and JW Slocum (1984). Technology, structure, and workgroup effectiveness:
+A test of a contingency model. Academy of Management Journal , 27(2), 221 –246.
+Galbraith, JR (1974). Organization design: An information processing view. Interfaces:
+An International Journal of the Institute for Operations Research and the Manage-
+ment Sciences , 4(3), 28 –36.
+Grifﬁn, A and JR Hauser (1996). Integrating R&D and marketing. A review and analysis
+of the literature. Journal of Product Innovation Management , 13, 191 –215.
+Gupta, Anil K and V Govindarajan (1991). Knowledge ﬂows and the structure of control
+within multinational corporations. Academy of Management Review , 16(4), 768 –792.
+Gupta, Anil K and V Govindarajan (2000). Knowledge ﬂows within multinational cor-
+porations. Strategic Management Journal , 21(4), 473 –496.
+Gupta, Ashok K, SP Raj and D Wilemon (1986). A model for studying R&D-marketing
+interface in the product innovation process. Journal of Marketing , 50(April), 7 –17.
+Hansen, MT (2009). When internal collaboration is bad for your company. Harvard
+Business Review , 87(4), 82 –88.
+Hansen, MT and N Nohria (2004). How to build collaborative advantage. MIT Sloan
+Management Review , 46(1), 21 –30.
+Harman, HH (1967). Modern Factor Analysis , 2nd Ed. Chicago: University of Chicago
+Press.
+Henderson, RM and KB Clark (1990). Architectural innovation: The recon ﬁguration of
+existing product technologies and the failure of established ﬁrms. Administrative
+Science Quarterly , 35(1), 9 –30.
+Hoegl, M, K Weinkauf and HG Gemuenden (2004). Interteam coordination, project
+commitment, and teamwork in multiteam R&D projects: A longitudinal study.
+Organization Science , 15(1), 38 –55.
+Homburg, C, S Alavi, T Rajab and J Wieseke (2017). The contingent roles of R&D –sales
+versus R&D –marketing cooperation in new-product development of business-to-
+business ﬁrms. International Journal of Research in Marketing , 34(1), 212 –230.
+doi: 10.1016/j.ijresmar.2016.05.008.
+Hu, L and PM Bentler (1999). Cutoff criteria for ﬁt indexes in covariance structure
+analysis: Conventional criteria versus new alternatives. Structural Equation Model-
+ing: A Multidisciplinary Journal , 6(1), 1 –55.
+Iacobucci, D (2010). Structural equations modeling: Fit Indices, sample size, and advanced
+topics. Journal of Consumer Psychology , 20, 90 –98.Empirical Evidence of the Mediating Role of AC
+1950056-33
+--- PAGE 34 ---
+Iansiti, M and KB Clark (1994). Integration and dynamic capability: Evidence from
+product development in automobiles and mainframe computers. Industrial and
+Corporate Change , 3(3), 557 –605.
+Ingram, P and JAC Baum (1997). Opportunity and constraint: Organizations ’learning
+from the operating and competitive experience of industries. Strategic Management
+Journal , 18(Summer Special Issue), 75 –98.
+Jansen, JJP, MP Tempelaar, FAJ van den Bosch and HW Volberda (2009). Structural
+differentiation and ambidexterity: The mediating role of integration mechanisms.Organization Science , 20(4), 797 –811.
+Jansen, JJP, FAJ van den Bosch and HW Volberda (2005). Managing potential and
+realized absorptive capacity: How do organizational antecedents matter? Academy of
+Management Journal , 48(6), 999 –1015. doi: 10.5465/AMJ.2005.19573106.
+Jaworski, BJ and AK Kohli (1993). Market orientation. Antecedents and consequences.
+Journal of Marketing , 57(July), 53 –70.
+Johnson, JD, WA Donohue, CK Atkin and S Johnson (1994). Differences between formal
+and informal communication channels. Journal of Business Communication , 31(2), 111 –122.
+Jones, M and R Sugden (2001). Positive con ﬁrmation bias in the acquisition of infor-
+mation. Theory and Decision: An International Journal for Multidisciplinary
+Advances in Decision Science , 50(1), 59 –99.
+Kutner, MH, CJ Nachtsheim, J Neter and W Li (2005). Applied Linear Statistical Models ,
+5. Ed., internat. ed. Boston, Mass.: McGraw-Hill.
+Lamore, PR, D Berkowitz and PA Farrington (2013). Proactive/responsive market ori-
+entation and marketing —Research and development integration. Journal of Product
+Innovation Management , 30(4), 695 –711.
+Lane, PJ and M Lubatkin (1998). Relative absorptive capacity and interorganizational
+learning. Strategic Management Journal , 19, 461 –477.
+Lawrence, PR and JW Lorsch (1967). Differentiation and integration in complex orga-
+nizations. Administrative Science Quarterly , 12(1), 1 –47.
+Lee, JM and R Kapoor (2017). Complementarities and coordination: Implications for
+governance mode and performance of multiproduct ﬁrms. Organization Science,
+Articles in Advance , 28(5), 931 –946.
+Leenders, MA and B Wierenga (2002). The effectiveness of different mechanisms for
+integrating marketing and R&D. Journal of Product Innovation Management , 19,
+305–317.
+Lessard, DR and S Zaheer (1996). Breaking the silos: Distributed knowledge and strategic
+responses to volatile exchange rates. Strategic Management Journal , 17(7), 513 –533.
+Li, T and RJ Calantone (1998). The impact of market knowledge competence on new
+product advantage: Conceptualization and empirical examination. Journal of
+Marketing , 62(4), 13 –29. doi: 10.2307/1252284.
+Luo, X, RJ Slotegraaf and X Pan (2006). Cross-functional coopetition: The simultaneous
+role of cooperation and competition within ﬁrms. Journal of Marketing , 70(April),
+67–80.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-34
+--- PAGE 35 ---
+MacCormack, A, C Baldwin and J Rusnak (2012). Exploring the duality between product
+and organizational architectures: A test of the nd qmirroringnd q hypothesis.
+Research Policy: Policy And Management Studies of Science, Technology and
+Innovation , 41(8), 1309 –1324.
+Majchrzak, A, PH More and S Faraj (2012). Transcending knowledge differences in cross-
+functional teams. Organization Science , 23(4), 951 –970.
+Maltz, E, WE Souder and A Kumar (2001). In ﬂuencing R&D/marketing integration and
+the use of market information by R&D managers: Intended and unintended effects ofmanagerial actions. Journal of Business Research , 52(1), 69 –82.
+Menon, A and R Varadarajan (1992). A model of marketing knowledge use within ﬁrms.
+Journal of Marketing , 52(4), 53 –71.
+Moenaert, RK, WE Souder, A de Meyer and D Deschoolmeester (1994). R&D-marketing
+integration mechanisms, communication ﬂows, and innovation success. Journal of
+Product Innovation Management , 11(1), 31 –45.
+Moorman, C and AS Miner (1998). Organizational improvisation and organizational
+memory. Academy of Management Review , 23(4), 698 –723.
+Moorman, C and RT Rust (1999). The role of marketing. Journal of Marketing , 63(SI),
+180–197.
+Olson, EM, OC Walker, RW Ruekert and JM Bonner (2001). Patterns of cooperation
+during new product development among marketing, operations and R&D. Implications
+for project performance. Journal of Product Innovation Management , 18, 258 –271.
+Pinto, MB and JK Pinto (1990). Project team communication and cross-functional co-
+operation in new program development. Journal of Product Innovation Management ,
+7(3), 200 –212.
+Rothaermel, FT and MT Alexandre (2009). Ambidexterity in technology sourcing: The
+moderating role of absorptive capacity. Organization Science , 20(4), 759 –780.
+Rothwell, R (1994). Towards the ﬁfth-generation innovation process. International
+Marketing Review , 11(1), 7 –31.
+Rubera, G, A Ordanini and R Calantone (2012). Whether to integrate R&D and marketing:
+The effect of ﬁrm competence. Journal of Product Innovation Management , 29(5),
+766–783.
+Ruekert, RW and OC Walker (1987). Marketings ’s interaction with other functional units:
+A conceptual framework and empirical evidence. Journal of Marketing , 51(1), 1 –19.
+Schafer, JL and JW Graham (2002). Missing data: Our view of the state of the art.
+Psychological Methods , 7(2), 147 –177.
+Shaw, V and CT Shaw (1998). Con ﬂict between engineers and marketers. Industrial
+Marketing Management , 27(4), 279 –291.
+Sheehan, KB (2001). E-mail survey response rates: A review. Journal of Computer-Medi-
+ated Communication , 6(2). https://doi.org/10.1111/j.1083-6101.2001.tb00117.x.
+Sherman, JD and RT Keller (2011). Suboptimal assessment of interunit task interdepen-
+dence: Modes of integration and information processing for coordination perfor-
+mance. Organization Science , 22(1), 245 –261.Empirical Evidence of the Mediating Role of AC
+1950056-35
+--- PAGE 36 ---
+Song, XM and ME Parry (1997). Teamwork barriers in Japanese high technology ﬁrms:
+The sociocultural differences between R&D and marketing managers. Journal of
+Product Innovation Management , 14, 356 –367.
+Song, XM, RJ Thieme and J Xie (1998). The impact of cross-functional joint involvement
+across product development stages. An exploratory study. Journal of Product
+Innovation Management , 15, 289 –303.
+Song, XM, J Xie and CA Di Benedetto (2001). Message and source factors, market
+uncertainty, and extrafunctional information processing. Hypotheses and empiricalevidence. IEEE Transaction on Engineering Management , 48(2), 223 –238.
+Sosa, ME, M Gargiulo and C Rowles (2015). Can informal communication networks
+disrupt coordination in new product development projects? Organization Science ,
+26(4), 1059 –1078.
+Stock, RM, F Totzauer and NA Zacharias (2014). A closer look at cross-functional R&D
+cooperation for innovativeness: Innovation-oriented leadership and human resource
+practices as driving forces. Journal of Product Innovation Management , 31(5),
+924–938. doi: 10.1111/jpim.12132.
+Szulanski, G (1996). Exploring internal stickiness: Impediments to the transfer of best
+practice within the ﬁrm.Strategic Management Journal , 17(Special Issue (Winter):
+Knowledge and the Firm), 27 –43.
+Todorova, G and B Durisin (2007). Absorptive capacity: Valuing a reconceptualization.
+Academy of Management Review , 32(3), 774 –786.
+Tripsas, M (2009). Technology, identity, and inertia through the lens of ndq the digital
+photography company ndq .Organization Science , 20(2), 441 –460.
+Troy, LC, T Hirunyawipada and AK Paswan (2008). Cross-functional integration and new
+product success. An empirical investigation of the ﬁndings. Journal of Marketing ,
+72(Nov), 132 –146.
+Tushman, ML (1977). Special boundary roles in the innovation process. Administrative
+Science Quarterly , 22(4), 587 –605.
+Tushman, ML and DA Nadler (1978). Information processing as an integrating concept in
+organizational design. Academy of Management Review , 3(3), 613 –624.
+Van Wijk, R, JJP Jansen and MA Lyles (2008). Inter- and intra-organizational knowledge
+transfer: A meta-analytic review and assessment of its antecedents and consequences.
+Journal of Management Studies , 45(4), 830 –853. doi: 10.1111/j.1467-6486.2008.
+00771.x.
+Verhoef, PC and PSH Lee ﬂang (2009). Understanding the marketing department ’s in-
+ﬂuence within the ﬁrm.Journal of Marketing , 73, 1 –42.
+Volberda, HW, NJ Foss and MA Lyles (2010). Absorbing the concept of absorptive
+capacity: How to realize its potential in the organization ﬁeld.Organization Science ,
+21(4), 931 –951.
+Walsh, JP and GR Ungson (1991). Organizational memory. Administrative Science
+Quarterly , 16(1), 57 –91.J. P. Hausberg & P. S. H. Lee ﬂang
+1950056-36
+--- PAGE 37 ---
+Wang, Q (1997). R&D/Marketing Interface in a ﬁrm’s capability-building process: Evi-
+dence from pharmaceutical ﬁrms. International Journal of Innovation Management ,
+1(1), 23 –52. doi: 10.1142/S1363919697000036.
+Weick, K (1993). The collapse of sensemaking in organizations: The Mann Gulch Di-
+saster. Administrative Science Quarterly , 38(4), 628 –652.
+Yao, FK and S Chang (2017). Do individual employees ’learning goal orientation and
+civic virtue matter? A micro-foundations perspective on ﬁrm absorptive capacity.
+Strategic Management Journal . Available at http://onlinelibrary.wiley.com/doi/
+10.1002/smj.2636/full.
+Zahra, SA and G George (2002). Absorptive capacity. A review, reconceptualization, and
+extension. Academy of Management Review , 27(2), 185 –203.
+Zahra, SA and AP Nielsen (2002). Sources of capabilities, integration and technology
+commercialization. Strategic Management Journal , 23(5), 377 –398. doi: 10.1002/
+smj.229.
+Zhao, ZJ and J Anand (2013). Beyond boundary spanners: The ndq collective bridge ndq
+as an ef ﬁcient interunit structure for transferring collective knowledge. Strategic
+Management Journal , 34(13), 1513 –1530.Empirical Evidence of the Mediating Role of AC
+1950056-37
+--- PAGE 38 ---
+Copyright
+of
+International
+Journal
+of
+Innovation
+Management
+is
+the
+property
+of
+World
+Scientific
+Publishing
+Company
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

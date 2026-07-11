@@ -1,0 +1,3184 @@
+
+--- PAGE 1 ---
+INFORMATION  TO USERS
+This manuscript  has been  reproduced  from  the microfilm  master.  UMI  
+films the text directly  from  the original  or copy  submitted.  Thus,  some  
+thesis  and dissertation  copies  are in typewriter  face, while  others  may 
+be from  any type of computer  printer.
+The quality  of this reproduction  is dependent  upon  the quality  of the 
+copy submitted.  Broken  or indistinct  print, colored  or poor quality  
+illustrations  and photographs,  print  bleedthrough,  substandard  margins,  
+and improper  alignment  can adversely  affect  reproduction.
+In the unlikely  event  that the author  did not send UMI a complete  
+manuscript  and there are missing  pages,  these  will be noted. Also, if 
+unauthorized  copyright  material  had to be removed,  a note  will indicate  
+the deletion.
+Oversize  materials  (e.g., maps,  drawings,  charts)  are reproduced  by 
+sectioning  the original,  beginning  at the upper  left-hand  corner  and 
+continuing  from  left to right  in equal  sections  with small  overlaps.  Each  
+original  is also photographed  in one exposure  and is included  in 
+reduced  form  at the back  of the book.
+Photographs  included  in the original  manuscript  have been  reproduced  
+xerographically  in this copy. Higher  quality  6" x 9" black  and white  
+photographic  prints  are available  for any photographs  or illustrations  
+appearing  in this copy for an additional  charge. Contact  UMI directly  
+to order.
+UMI
+University  Microfilms  International  
+A Bell & Howell  Information  Company  
+300 North  Zeeb  Road.  Ann Arbor.  MI 48106-1346  USA 
+313/761-4700  800/521-0600
+
+--- PAGE 2 ---
+
+--- PAGE 3 ---
+Order  Number  9128284
+Boundary  behavior  and sellers ’ performance  in business  
+relationships:  A contingency  approach
+Leuthesser,  Lance  Edward,  Ph.D.
+The University  of Texas at Austin,  1991
+UMI
+300 N. Zeeb  Rd.
+Ann Arbor,  MI 48106
+
+--- PAGE 4 ---
+
+--- PAGE 5 ---
+BOUNDARY  BEHAVIOR  AND SELLERS ’ PERFORMANCE  IN BUSINESS
+RELATIONSHIPS:  A CONTINGENCY  APPROACH
+by
+Lance  Edward  Leuthesser,  B.S., M.B.A.
+DISSERTATION  
+Presented  to the Faculty  of the Graduate  School  of Business  
+The University  of Texas  at Austin  
+in Partial  Fulfillment  
+of the Requirements  
+for the Degree  of 
+DOCTOR  OF PHILOSOPHY
+THE UNIVERSITY  OF TEXAS  AT AUSTIN
+May, 1991
+
+--- PAGE 6 ---
+BOUNDARY  BEHAVIOR  AND SELLERS ’ PERFORMANCE  IN BUSINESS
+RELATIONSHIPS:  A CONTINGENCY  APPROACH
+APPROVED  BY
+DISSERTATION  COMMITTEE:
+Ajay K. Kohli
+Eli P. Cox III
+
+--- PAGE 7 ---
+ACKNOWLEDGEMENTS
+I am deeply  grateful  for the assistance  I was fortunate  enough  to receive  
+throughout  this dissertation  project. First, my committee  members  provided  
+valuable  insights  during  the conceptual  development  of the research,  and their  
+input was always  offered  in an entirely  constructive  manner. This assistance  
+enabled  me to approach  the "doing"  phase  of the research  with a clearer  head,  
+and a better  plan. I thank  my committee  members.  Second,  my advisor,  Ajay  
+Kohli,  was a real pleasure  to work  with. He is extremely  bright  and challenging,  
+yet empathetic,  and an excellent  motivator.  There  is a good measure  of Ajay 
+Kohli in this project,  and yet I am able to take comfort  in feeling  it is "my" 
+project.  For all of his help I thank  him, and I look  forward  to a long association.  
+Finally,  I owe my deepest  debt of gratitude  to my loving  wife Stephanie,  who 
+persevered,  not only through  this dissertation  project,  but throughout  my entire  
+Ph.D.  education.  I could not have succeeded  without  her.
+iii
+
+--- PAGE 8 ---
+BOUNDARY  BEHAVIOR  AND SELLERS ’ PERFORMANCE  IN BUSINESS
+RELATIONSHIPS:  A CONTINGENCY  APPROACH
+Publication  No.
+Lance  Edward  Leuthesser,  Ph.D.
+The University  of Texas  at Austin,  1991 
+Supervisor:  Ajay K. Kohli
+Prompted  by the relationship  management  literature  which has appeared  
+recently  in marketing,  we posit  that the performance  of sellers  in ongoing  buyer ­
+seller relationships  is influenced  significantly  by the manner  in which sellers  
+interact  with buyers,  which we refer to as "boundary  behavior."  Although  a 
+growing  literature  has drawn attention  to the importance  of relationship  
+management,  no research  has investigated  the extent  to which,  if any, relation ­
+ship management  leads to improved  performance  in terms  of "hard"  measures,  
+such as sales. We fill this gap by examining  how managerially  controllable  
+boundary  behaviors  influence  sellers ’ sales performance.  We further  examine  
+how situational  factors moderate  these effects,  and consequently  illuminate  
+contexts  in which  the actions  of boundary  spanning  personnel  are most critical.  
+The findings  are likely to be of interest  to managers  who operate  at the 
+organization  boundary,  and who are therefore  concerned  with the effective  
+deployment  of these important  resources.
+iv
+
+--- PAGE 9 ---
+TABLE  OF CONTENTS
+I. INTRODUCTION  ......................................................................................... 1
+II. CONCEPTUALIZING  BUSINESS  RELATIONSHIPS  ........................... 4
+A. Defining  Performance  in Business  Relationships ................................... 4
+B. Relationships  as Emergent  Groups ......................................................... 5
+C. Boundary  Group  as Coordination  Mechanism  .................................... 8
+D. Boundary  Spanning ............................................................................... 10
+E. Context  Effect ......................................................................................... 11
+F. Domain  of Study .................................................................................... 12
+G. Summary ................................................................................................. 13
+III. MODEL  OF SELLERS ’ PERFORMANCE ............................................. 15
+A. Dependent  Variables ............................................................................. 15
+1. Share  Ratio  - Actual ...................................................................... 15
+2. Share  Ratio  - Predicted .................................................................. 16
+3. Trust .................................................................................................. 16
+B. Explanatory  Variables ........................................................................... 17
+1. Seller ’s Vertical  Involvement ......................................................... 17
+2. Seller ’s Lateral  Involvement ........................................................... 18
+3. Buyer ’s Vertical  and Lateral  Involvement .................................... 20
+4. Disclosing ........................................................................................ 23
+5. Initiating ........................................................................................... 25
+6. Signaling ........................................................................................... 26
+7 Frequency ........................................................................................ 28
+8. Richness ........................................................................................... 28
+C. Moderator  Variables ............................................................................. 30
+1. Environmental  Dynamism  - Share ............................................... 30
+2. Environmental  Dynamism  - Trust ................................................ 34
+3. Environmental  Diversity  - Share .................................................. 35
+4. Environmental  Diversity  - Trust .................................................... 38
+5. Product  Importance  - Share  and Trust ......................................... 39
+6. Product  Type - Share  and Trust .................................................... 41
+7. Age of Relationship  - Trust ........................................................... 43
+D. Covariates ............................................................................................... 44
+1. Product  Rating ............................................................................... 44
+2. Seller ’s Dependence  ...................................................................... 45
+v
+
+--- PAGE 10 ---
+IV. METHOD ...................................................................................................... 50
+A. Measures .................................................................................................. 50
+B. Data Collection ....................................................................................... 52
+C. Data Analysis  ......................................................................................... 54
+V. FINDINGS  AND  DISCUSSION  ............................................................... 76
+A. Main  Effects ........................................................................................... 76
+1. Actual  and Predicted  Share  Ratio ................................................ 76
+2. Trust  and Satisfaction  ..................................................................... 78
+B. Moderating  Effects ................................................................................ 81
+1. Actual  and Predicted  Share  Ratio ................................................ 81
+2. Trust  and Satisfaction  ..................................................................... 81
+C. Summary .................................................................................................. 87
+VI. CONCLUSION ............................................................................................ 92
+APPENDIX  A - Measures ................................................................................ 95
+APPENDIX  B - Cover  Letters ........................................................................ 101
+APPENDIX  C - Questionnaire ........................................................................ 104
+APPENDIX  D - Chow  Test - Example .......................................................... 112
+REFERENCES ................................................................................................... 114
+vi
+
+--- PAGE 11 ---
+I. INTRODUCTION
+The purpose  of this study is to examine  how the manner  in which sellers  
+interact  with buyers,  in ongoing  industrial  buyer-seller  relationships  (hereafter  
+"business  relationships"),  influences  sellers ’ performance.  The study  is motivated  
+by the basic premise  that the success  of business  relationships  is influenced  by 
+both the product  exchanged  and the nature of the interactions  (hereafter  
+"boundary  behavior")  that take place  between  buyers  and sellers.
+This premise  is supported  by research  which  has appeared  recently  in the 
+marketing  literature  which underscores  the importance  of cooperation  and 
+reciprocity  in ongoing  relationships  (e.g. Anderson  and Narus 1990; Anderson  
+and Weitz 1989; Arndt 1979; Dwyer, Schurr and Oh 1987; Levitt 1983).  
+Presumably,  improved  relationships  lead to improved  performance  of sellers  in 
+terms of "hard"  measures  such as increased  share of buyers ’ business,  but no 
+empirical  research  has addressed  this question.
+In this study we seek to address  this void by assessing  the influence  of 
+managerially  controllable  boundary  behaviors  on sellers ’ performance  across  a 
+variety  of business  relationships.  Further,  we examine  how contextual  factors  
+(environment,  buying  situation,  and age of relationship)  moderate  this relation ­
+ship. The implications  of such moderating  effects  are particularly  important
+1
+
+--- PAGE 12 ---
+2
+because  boundary  behavior  involves  an investment  of human  resources.  To 
+effectively  allocate  these limited  resources  it is essential  that managers  know  
+under  what circumstances  the boundary  behavior > performance  linkage  is 
+more,  or less, strong. The main objective  of this study  is, therefore,  to address  
+this question.
+In developing  our model  of seller  performance,  we draw  upon  extant  theory  
+and empirical  evidence  in the areas of (1) marketing  channels  and industrial  
+buyer behavior,  (2) negotiation  behavior,  (3) group behavior,  and (4) or­
+ganizational  information  processing  to identify  boundary  behaviors  which are 
+likely to lead to enhanced  performance  of sellers. These behaviors  relate  
+primarily  to how effectively  boundary  activities  are coordinated,  and how 
+effective  these  behaviors  are in creating  favorable  perceptions  among  organiza ­
+tion members.  We further  identify  characteristics  of the environment  and buying  
+situation  which  are expected  to moderate  these  effects,  principally  through  their  
+influence  on decision-making  risk. Finally,  we examine  the moderating  effects  
+of age of the relationship.
+The model  is tested  by surveying  buyers  in a broad  cross-section  of business  
+relationships.  Organization  informants  evaluate  a particular  supplier  ("target  
+supplier"),  concerning  a particular  product  ("target  product")  for which  their  firm 
+regularly  uses alternative  suppliers.  Accordingly,  assessments  of target  suppliers ’ 
+
+--- PAGE 13 ---
+3
+performance  are in relation  to competitive  suppliers.  So as to enhance  the 
+generalizability  of results,  a sample  which is heterogeneous  with respect  to 
+industry,  organization  size, and organization  structure  is used.
+The next section  of the paper  provides  the conceptual  framework  which  
+underlies  our model (Figure  III-1). Section  III discusses  the variables  and 
+research  hypotheses  to be tested. In Section  IV, measures,  data collection,  and 
+data analysis  are discussed.  Section  V is a discussion  of the findings  of the study.  
+The dissertation  concludes  with  managerial  implications  and directions  for future  
+research.
+
+--- PAGE 14 ---
+IL CONCEPTUALIZING  BUSINESS  RELATIONSHIPS
+A. Defining  Performance  in Business  Relationships
+In keeping  with tradition  in marketing,  we define  performance  in business  
+relationships  from the perspective  of the seller. We examine  two quantitative  
+and one qualitative  measure  of sellers ’ performance.  The first quantitative  
+measure  is the share of business  suppliers  derive from buyers,  taking into 
+consideration  the number  of competitive  suppliers  used. The second  quantitative  
+measure  consists  of buyers ’ estimates  of their allocations  to target suppliers,  
+assuming  such allocations  were  unconstrained  by contractual  agreements,  supply  
+limitations,  switching  costs, and so on. This measure  is intended  to draw out 
+buyers ’ "idealistic"  purchases  which  may not be reflected  by the current  status.
+In addition  to these quantitative  measures,  we also assess  buyers ’ trust in 
+sellers. Trust  is regarded  as a critical  attitude  in ongoing  relationships  because  
+it captures  the degree  to which  one party  is willing  to rely on another,  knowing  
+it will incur losses  if the trusted  party  fails (Deutsch  1958; Rotter  1971; Schurr  
+and Ozanne  1985). Buyers  do not normally  "hedge"  by placing  simultaneous  
+orders  with multiple  sellers;  they trust that sellers  will deliver  as promised.  
+Where  trust in a seller  is high relative  to competitive  sellers,  a buyer  is likely  to 
+rely more  on that seller  (i.e., place  more  business  with that seller).  We therefore
+4
+
+--- PAGE 15 ---
+5
+expect  that trust will be highly  correlated  with our quantitative  measures.
+B. Relationships  as Emergent  Groups
+Organizations  are related  through  exchanges  (boundary  behaviors)  which  
+occur among  a subset  of members  (boundary  spanners)  belonging  to both the 
+buying  and selling  organizations.  As a result  of their ongoing  interaction,  these  
+boundary  spanners  also comprise  a separate  group  (Schopler  1987; Van de Ven 
+1976) or "social action system"  (Van de Ven 1976) which is the conduit  of 
+information  and resource  exchanges  between  the two organizations  (hereafter  
+this group is referred  to as the "boundary  group"). In a very real sense the 
+boundary  group  is the relationship.  Johnston  and Bonoma  (1981),  in a related  
+vein, developed  this notion  in connection  with the buying  center:
+The buying  center  exists as a communication  network  that does 
+not necessarily  derive its configuration  nor operation  from the 
+formal  organization,  but rather  from the regularized  patterns  of 
+communication  that reflect the individuals  involved  and their  
+relationships  (p. 146).
+Although  the emergent  group concept  has been recognized  by previous  
+researchers  investigating  interorganizational  relationships  (Schopler  1987; Van 
+de Ven 1976),  its major  implication,  that our understanding  of such relationships  
+
+--- PAGE 16 ---
+6
+can be enhanced  by examining  group processes , has not been reflected  in 
+empirical  research.  We therefore  draw, in part, upon group  theory  to develop  
+our investigation  of boundary  behaviors,  recognizing  that it is the conjunction  of 
+these  behaviors  as both organization  spanning  and group  actions  that is a unique  
+characteristic  of interorganizational  relationships.
+In research  on group behavior,  group effectiveness  is usually  defined  in 
+accordance  with two broad  sets of criteria. The first is the effectiveness  with 
+which  groups  accomplish  external  tasks  (Johnson  and Johnson  1987;  Shaw  1981).  
+For boundary  groups, the overriding  external  task involves  consummating  
+economic,  i.e., product,  exchanges.  Outcomes  of such exchanges  are evaluated  
+from  both buyers ’ and sellers ’ perspectives.  Specifically,  buyers ’ assessments  are 
+expected  to follow  principally  from  their  evaluations  of sellers ’ product  offerings.  
+We acknowledge  the primary  importance  of the offering,  but in this study we 
+wish  to examine  how  boundary  behavior  affects  performance  after  accounting  for 
+the value afforded  by the offering . Accordingly,  we include  as a covariate  the 
+buyers ’ evaluation  of seller ’s offerings.
+The second  set of group  effectiveness  criteria  includes  the cohesiveness  and 
+adaptiveness  with which  group  members  work  to achieve  external  tasks,  i.e., how 
+well groups  deploy  their  human  resources  independent  of external  task (Bradford  
+1964; Egan 1976; Martin 1983). This type of effectiveness  is important  in 
+
+--- PAGE 17 ---
+7
+predicting  how  well groups  are likely  to perform  when  faced  with tasks  which  are 
+not routine,  practiced,  or highly procedurized.  Business  relationships  are 
+characterized  by varying  levels  of future  uncertainty,  and thus boundary  groups  
+require  varying  levels of cohesiveness  and adaptiveness.  We expect  buyers  to 
+adjust  their dependence  on sellers  (i.e., allocation  of business  to those sellers)  
+partly  in accordance  with their  perceptions  of how  effectively  the boundary  group  
+is likely  to deal with future  contingencies.  For buyers  this is a simple  matter  of 
+risk balancing;  the greater  the perceived  risk associated  with a particular  seller,  
+the less the dependence  on that seller. Accordingly,  it is this latter  concept  of 
+group effectiveness  (relating  to cohesiveness  and adaptiveness)  which is our 
+focus,  and which  motivates  our investigation  of boundary  behavior  as an antece ­
+dent to performance.
+Activities  which  promote  group  cohesiveness  and adaptiveness  are frequently  
+referred  to as group  maintenance  functions  (Ancona  and Caldwell  1988;  Dimock  
+1986). Maintenance  functions  relate to interaction  among  boundary  group  
+members  (Van de Ven 1976),  that is, the flow of information  which  influences  
+their  knowledge  and perceptions.  Much  of what  we know  about  group  processes  
+has been  gained  through  the "experiential  learning"  approach  to group  research,  
+wherein  participant-observers  have learned  effective  group  skills in an environ ­
+ment in which external  goals are de-emphasized  (Bradford  1964; Gibb 1964).
+
+--- PAGE 18 ---
+8
+Group  researchers  frequently  identify  group  structure  as an explanatory  factor  
+for group effectiveness  (Dimock  1986; Johnson  and Johnson  1987). Group  
+structure  is frequently  defined  in terms  of the pattern  of interaction  among  group  
+members  (Dimock  1986;  Johnson  and Johnson  1987). Generally,  group  resear ­
+chers  have found  that when  interaction  among  group  members  is extensive,  that 
+is, when  all (or nearly  all) members  are engaged  in meaningful  interactions  with 
+each other,  group  cohesiveness  and adaptiveness  is enhanced  (Bradford  1964;  
+Egan 1976; Gibb 1964). Based  upon findings  from group  research,  we include  
+boundary  group  structure  variables  among  the explanatory  variables  in our model  
+of business  relationships  (Figure  III-1).
+C. Boundary  Group  as Coordination  Mechanism
+A broad range of literature,  including  negotiation  theory (Pruitt 1981),  
+transaction  cost theory  (Williamson  1979), and the "relationship"  literature  in 
+marketing  (Anderson  and Narus 1984, 1990; Dwyer,  Schurr and Oh 1987;  
+Frazier,  Spekman  and O’Neal 1988), converges  on the notion  of coordinative  
+behavior  (also referred  to as "collaborative,"  or "cooperative"  behavior)  as a 
+central  desideratum  of ongoing  relationships.  Coordinative  behavior  is a very 
+general  phrase  referring  to parties ’ commitment  to, and behaviors  directed  
+toward,  achieving  mutually  rewarding  outcomes  (Dwyer,  Schurr  and Oh 1987;
+
+--- PAGE 19 ---
+9 
+Pruitt  1981;  Van de Ven and Walker  1984). This is in contrast  with competitive  
+behavior,  wherein  parties  perceive  that achievement  of their  own goals  comes  at 
+the expense  of their partners ’ (i.e., outcomes  are zero sum). Over and above  
+specific  actions  taken to achieve  coordination  in the narrow,  logistical  sense,  
+coordinative  behavior  includes  actions  which  show  that partners ’ are committed  
+to achieving  mutual  benefit. Coordinative  interorganizational  behavior  and 
+cohesive  group  behavior  are achieved  simultaneously  in the boundary  group.
+Business  relationships  are seldom  circumscribed  by detailed  contracts  which  
+spell out responses  to every contingency,  and most managers  are averse to 
+pursuing  such contracts  (Macaulay  1963). Boundary  group members,  as 
+boundary  spanners,  may be expected  to experience  relatively  high levels  of role 
+conflict  and role ambiguity  as they strive  to reconcile  differences  in organization ­
+al goals which inevitably  arise (Lysonski  1985). Therefore,  for relationship  
+stability,  coordinative  behavior  is necessary  from  two viewpoints:  (1) integrating  
+organizational  goals,  and (2) promoting  the psychological  well-being  of boundary  
+group members,  who in turn influence  the perceptions  and attitudes  of other  
+organization  members.  Anderson  and Narus  (1990)  found  coordination  to have  
+a positive  influence  on trust in channel  relationships,  and research  on industrial  
+buyer behavior  has shown  that industrial  buyers  strongly  prefer  to use a col­
+laborative  problem-solving  approach  in dealing  with sellers  (Day, Michaels  and
+
+--- PAGE 20 ---
+10 
+Perdue  1988; Dion and Banting  1988; Perdue,  Day and Michaels  1986). No 
+research,  however,  has investigated  the influence  of coordinative  behavior  on 
+sales-related  performance.
+Specific  coordinative  behaviors  relate to the manner  in which boundary  
+group  members  provide  information  about  themselves  and their organizations,  
+as well as the manner  in which  they acquire  information  about their partners  
+(Pruitt  1981). We distinguish  coordinative  behavior  from coordinative  mechan ­
+isms . such as formal  rules and procedures  (Ruekert  and Walker  1987),  on the 
+basis of the former ’s ability  to convey  motives  and intentions  in addition  to 
+providing  specific  information,  or heuristics,  for coordinating  activities.  Sellers ’ 
+coordinative  behaviors  comprise  the second  set of explanatory  variables  in Figure  
+III-1.
+D. Boundary  Spanning
+In order to effectively  coordinate  activities,  related  organizations  must  
+process  information  across  their respective  boundaries.  Accordingly,  boundary  
+group  effectiveness  is likely to be influenced  by its capacity  as an information  
+processing  unit. Daft and Lengel  (1986) suggest  that organizations  process  
+information  for two reasons:  (1) to reduce uncertainty,  and (2) to reduce  
+equivocality  (ambiguity).  Uncertainty  means  the absence  of information,  and
+
+--- PAGE 21 ---
+11
+corresponds  to the amount  of information  that must be processed,  whereas  
+equivocality  refers  to the existence  of multiple  or conflicting  interpretations,  and 
+relates  to the ability  of the information  channel  to deal  with  complex  information  
+and/or  subtle  differences  in meaning.
+We assume  organizations  have both information  processing  requirements,  
+and accordingly  define  information  capacity  of the boundary  group  in terms  of 
+its ability  to accommodate  both  kinds  of information  processing  needs.  The third  
+set of explanatory  variables  in Figure  III-1 relates  to the information  capacity  
+of the boundary  group.
+E. Context  Effects
+The boundary  group approach  to business  relationships  is "micro,"  when  
+viewed  from the perspective  of the organization  as a whole. From  the buyer ’s 
+perspective,  a seller  represents  but one element  in a larger  environment.  The 
+boundary  group  perspective  focuses  on interpersonal  processes,  independent  of 
+larger organizational  considerations.  Assuming  interpersonal  processes  are 
+influential  in establishing  boundary  group norms and behaviors,  then the 
+evolution  of boundary  groups may not necessarily  "fit" the needs of the 
+organization  as viewed  from a larger  perspective.  For example,  buyers  facing 
+rapid technological  change  or other dynamic  elements  in their output  market  
+
+--- PAGE 22 ---
+12
+generally  require  more  adaptive,  responsive  business  relationships  than  do buyers 
+facing  relatively  stable  output  markets  (Ruekert  and Walker  1987; Walker  and 
+Ruekert  1987). But what will result  if the boundary  group  is not adaptive  or 
+responsive?
+Stated  differently,  the foregoing  question  asks to what extent,  if any, the 
+influence  of boundary  behaviors  on sellers ’ performance  is contingent  on the 
+context  of the business  relationship.  In addition  to buyers ’ output market  
+environment,  characteristics  of the product  may also be expected  to moderate  
+the boundary  behavior > performance  linkage  because,  from  the buyer ’s point  
+of view, different  buying  situations  may be more, or less, critical  to buyers ’ 
+overall  profitability.  Finally,  we expect age of the relationship  to have a 
+moderating  effect,  because  over time buyers  and sellers  tend to form enduring  
+beliefs  which  are not necessarily  related  to their current  interaction  (Anderson  
+and Weitz  1989). Figure  III-1 therefore  incorporates  the moderating  influence  
+of buyers ’ environment,  product  characteristics,  and age of relationship.
+F. Domain  of Study
+Researchers  emphasize  that voluntary  exchanges  between  organizations  may 
+be placed  along  a continuum  ranging  from "discrete"  ("market")  on one end to 
+"relational"  on the other  end, depending  on the parties ’ level of incentive  for, or 
+
+--- PAGE 23 ---
+13
+commitment  to, an ongoing  relationship  (Dwyer,  Schurr  and Oh 1987; Macneil  
+1980; Ruekert,  Walker  and Roering  1985; Williamson  1979). It is only in 
+instances  in which exchange  is at least moderately  "relational"  that our 
+framework  is relevant.  Williamson  (1979)  conceptualizes  such relationships  as 
+those  requiring  investment  of significant  idiosyncratic  human  capital,  in the form  
+of relationship  specific  training  and leaming-by-doing.  We place  this study  in the 
+relational  domain  by examining  only business  relationships  which  (1) have been  
+ongoing  for one year or longer,  and (2) involve  a product,  in terms  of potential  
+impact  on buyers ’ profitability,  of at least moderate  importance.  We therefore  
+expect  at least a moderate  level of relationship-specific  human  capital  in our 
+sample  of business  relationships.
+G. Summary
+We define  sellers ’ performance  in business  relationships  in terms  of the share  
+of business  sellers  obtain  (or might  obtain)  from  buyers,  as well as buyers ’ trust 
+in them. Traditionally,  marketers  have focused  on the marketing  mix as the 
+principal  factor  explaining  sellers ’ performance.  Recent  marketing  literature  has 
+emphasized  the importance  of the "human"  element  in business  relationships,  
+which  we view from the perspective  of the boundary  group.
+Boundary  groups  emerge  as a result of ongoing  interaction,  and form the 
+
+--- PAGE 24 ---
+14
+primary  mechanism  of coordination  in business  relationships.  Coordination  
+entails  the processing  of information,  not only for specific,  logistical  purposes,  
+but also as the basis  for boundary  group  members ’ perceptions  and motivational  
+inferences.  Three  sets of boundary  behavior  variables  are expected  to influence  
+sellers ’ performance:  (1) boundary  group structure,  (2) sellers ’ coordinative  
+behaviors,  and (3) boundary  information  capacity.  Boundary  group structure  
+refers to the interaction  pattern  in the boundary  group. Sellers ’ coordinative  
+behavior  refers to sellers ’ information  giving and information  seeking  style.  
+Boundary  information  capacity  refers  to the amount  and complexity  of informa ­
+tion which  the boundary  group  is able to process.
+The environment,  buying  situation,  and age of the relationship  are expected  
+to moderate  the influence  of boundary  behavior  on sellers ’ performance  through  
+their effects  on decision-making  uncertainty,  decision-making  importance,  and 
+belief  formation,  respectively.
+
+--- PAGE 25 ---
+III. MODEL  OF SELLERS ’ PERFORMANCE
+A. Dependent  Variables
+1. Share  Ratio  - Actual. Actual  share ratio refers  to the ratio of sellers ’ 
+actual  share  of buyers ’ business  divided  by their  "expected"  share,  where  expected  
+share is the inverse  of the number  of suppliers  used by buyers ’ for the focal 
+product. A share ratio of greater  than 1.0 thus indicates  a share premium,  
+whereas  a ratio of less than 1.0 indicates  a share  penalty.
+Buyers  are expected  to spread  their business  among  a set of suppliers  such 
+that their dependence  on each represents  a balanced  risk. Buyers ’ perceptions  
+of risk associated  with sellers  are expected  to follow  from their perceptions  of 
+the (1) uncertainty,  and (2) significance  of the outcomes  from  dealing  with those  
+sellers  (March  and Shapira  1987). Where  uncertainty  is lower,  the significance 
+of outcomes  must therefore  be greater  for a given level of perceived  risk. The 
+more  effectively  coordinated  the business  relationship,  the less uncertainty  buyers  
+will associate  with an inherently  unpredictable  future;  buyers  will be confident  
+that they will be able to adapt. Factors  such as price, quality,  delivery,  and 
+service  being  equal,  sellers  in better  coordinated  relationships  are expected  to 
+receive  more of buyers ’ business.
+15
+
+--- PAGE 26 ---
+16
+2. Share  Ratio  - Predicted.  Predicted  share ratio is based  on buyers ’ es­
+timates  of business  that sellers  would  receive  if allocations  were based  solely  on 
+sellers ’ performance.  We include  predicted  share  ratio as a dependent  measure  
+to assess buyers ’ intentions  which, for reasons  unrelated  to performance  
+evaluations  (e.g., binding  contracts,  switching  costs,  production  limitations),  may 
+not be reflected  in actual  share. As modeled  in Figure  III-1, predicted  share  
+ratio and actual share ratio are expected  to be influenced  similarly,  and the 
+subsequent  discussion  addresses  these two variables  collectively  as "share."
+3. Trust. Trust refers to the degree  to which  buyers  believe  sellers  are 
+reliable  and may be counted  on to act in buyers ’ interests  (Schurr  and Ozanne  
+1985). As has been noted in the literature,  trust implies  a willingness  to put 
+oneself  at risk, because  there is always  the possibility  that the trusted  party  may 
+not act in one’s interests  (Deutsch  1958; Rotter  1971; Rempel,  Holmes  and 
+Zanna  1985). Trust is strongly  linked  to ongoing  exchange  because  it is not 
+possible  to specify  in advance  all possible  contingencies  which can affect a 
+relationship.  One party  in a relationship  must  inevitably  act on the expectation  
+that the other  will respond  as desired,  and thus must  trust the other  (Blau 1974).  
+Trust  has been emphasized  in recent  marketing  channels  literature  as an
+
+--- PAGE 27 ---
+17
+important  factor  in relationship  continuity  (Anderson  and Weitz  1989;  Anderson  
+and Narus  1990).
+B. Explanatory  Variables
+1. Seller ’s Vertical  Involvement.  Seller ’s vertical  involvement  refers  to the 
+degree  to which interaction  with the buyer is hierarchically  dispersed  in the 
+seller ’s organization.  Boundary  group  members,  acting  as representatives  for the 
+organization  as a whole,  are accountable  to others  in the hierarchy  (upward  and 
+downward)  for their actions  as organization  representatives.  Where  sellers ’ 
+hierarchical  representation  is greater,  buyers  will perceive  less seller account ­
+ability  outside  the boundary  group,  and consequently  less likelihood  of agree ­
+ments  with  boundary  personnel  being  modified,  or countermanded  (Pruitt  1981).  
+Where  the perceived  risk of modification  or abrogation  of agreements  is less, 
+buyers  will associate  less uncertainty  with boundary  group  decisions,  and will be 
+more  likely  to increase  their  dependence  on sellers  by increasing  share. We thus 
+hypothesize  that seller ’s vertical  involvement  will be positively  associated  with 
+share.
+Seller ’s vertical  involvement  is also expected  to be positively  related  to 
+buyer ’s trust. Group  researchers  have consistently  reported  that the level  of trust 
+in groups  is influenced  positively  by the extent  to which  all group  members  are 
+
+--- PAGE 28 ---
+18
+"connected,"  i.e., all engaged  in ongoing  interaction  (Bradford  1964; Gibb 1964;  
+Golembiewski  and McConkie  1975;  Martin  1983). The distinction  between  par­
+ticipants  and observers  in groups  actualizes  this concept.  An overarching  group  
+objective  is to achieve  a condition  in which all members  are participants  
+(Bradford  1964). Observers  lower  the level  of group  trust  because  it is uncertain  
+whether  or not they have "bought  in" to the group  norms  and commitments,  and 
+thus it is unclear  whether  they are motivated  to support  group  decisions  (with  
+which  they may not fully agree).
+The boundary  group is embedded  in a larger system comprising  the 
+respective  parent organizations.  From the buyer ’s perspective,  there are 
+"observers"  in the seller  organization  to the extent  that the boundary  group  fails 
+to subsume  it entirely  ("complete"  trust may be viewed  as a goal, not fully 
+attainable  in the small  group  sense).  Seller ’s vertical  involvement  is one measure  
+of the degree  to which  the boundary  group  subsumes  seller  organizations,  and 
+is therefore  expected  to correlate  positively  with the perceived  level of "par­
+ticipants"  in the seller organizations.  We therefore  hypothesize  that seller ’s 
+vertical  involvement  will be positively  related  to buyer ’s trust.
+2. Seller ’s Lateral  Involvement,  Seller ’s lateral  involvement  refers to the 
+degree  to which interaction  with the buyer  is functionally  dispersed  within  the 
+
+--- PAGE 29 ---
+19
+seller  organization.  Business  relationships  typically  require  the coordination  of 
+activities  involving  a number  of functional  areas (Walker  and Ruekert  1987).  
+The more extensively  representatives  of these functional  areas are involved  in 
+interaction  with the buyer, the greater  is the expected  level of participative  
+coordination  (McCann  and Galbraith  1981; Walker  and Ruekert  1987).
+Participative  coordination  refers  to mutual  resolution  of conflict,  or potential  
+conflict,  among  the parties  whose  activities  must be coordinated.  This is in 
+contrast  to hierarchical  coordination,  which refers to imposition  of higher  
+authority,  usually  through  required  adherence  to formal rules or operating  
+procedures  (Walker  and Ruekert  1987). Participative  coordination  is expected  
+to lead to fuller understanding  of, and more adaptive  solutions  to, problems  
+which  may cut across  functional  areas. Effective  coordination  on the part of the 
+seller will result in fewer problems  adversely  affecting  the buyer, and should  
+result  in greater  perceived  competence  and enhanced  confidence  in sellers  (i.e., 
+lower  perceived  risk associated  with those sellers). Other  factors  being equal,  
+buyers  are more  likely  to shift  business  toward  sellers  in which  they  perceive  less 
+risk. Accordingly,  we hypothesize  the level of sellers ’ lateral  involvement  to be 
+positively  related  to share.
+Following  from  the same  argument  advanced  for vertical  involvement,  sellers ’ 
+lateral  involvement  is expected  to be positively  related  to the perceived  level of
+
+--- PAGE 30 ---
+20
+"participants"  in the seller organization.  Where  the level of participants  is 
+higher,  trust  is expected  to be correspondingly  higher.  We therefore  hypothesize  
+that sellers ’ lateral  involvement  will be positively  related  to buyers ’ trust.
+3. Buyer ’s Vertical  and Lateral  Involvement.  Buyer ’s vertical  involvement  
+refers to the degree to which interaction  with the seller is hierarchically  
+dispersed  within  buyer ’s organization.  Buyer ’s lateral  involvement  refers  to the 
+degree  to which  interaction  with the seller is functionally  dispersed  within  the 
+buyer ’s organization.  Buyers ’ vertical  involvement  is expected  to relate  primarily  
+to the level of approval  of, and organizational  commitment  to, boundary  group  
+agreements,  whereas  lateral  involvement  is expected  to relate  primarily  to coor­
+dination  of functionally  interdependent  activities.
+More  extensive  vertical  involvement  within  the buyer  organization  will result  
+in greater  opportunity  for responsible  members  to directly  negotiate  with the 
+seller  regarding  scope  of activities,  mutual  responsibilities,  terms  and conditions  
+of payment,  remedies  and recourse,  etc. More  extensive  lateral  involvement  will 
+result  in greater  opportunity  to coordinate  functional  assignments,  set schedules,  
+establish  liaison,  etc. We expect  both of these  measures  to be positively  related  
+to the level of coordinative  effort,  and we assume  that, on average,  such efforts 
+are effective.  Accordingly,  both  variables  are expected  to exert  a direct  influence  
+
+--- PAGE 31 ---
+21
+on coordination  effectiveness.
+Further,  owing  to bounded  rationality,  individual  boundary  group  members  
+within  buyers ’ organizations  are not likely  to have familiarity  with all details  of 
+the business  relationship.  Where  these  individuals  perceive  extensive  boundary  
+group involvement,  therefore,  they are likely to conclude  that others  in their  
+organization  have "signed  off* in their respective  areas. Consequently,  they are 
+likely  to have greater  generalized  confidence  in dealings  with that seller,  even  
+pertaining  to areas  outside  of their direct  responsibility.  Therefore,  in addition  
+to their  direct  impact  on coordination  effectiveness  in the logistical  sense,  greater  
+vertical  and lateral  involvement  also operate  through  their influence  on the 
+perceptions  of boundary  group  members.
+In sum, greater  vertical  and lateral  involvement  of buyers  is expected  to lead 
+to (1) more  effective  coordination  with sellers,  as well as (2) perceptions  which  
+enhance  buyers ’ general  level of confidence  in sellers. Accordingly,  we 
+hypothesize  that buyers ’ vertical  involvement  and buyers ’ lateral  involvement  will 
+positively  influence  share.
+Buyers ’ vertical  involvement  and lateral  involvement  are also expected  to 
+positively  influence  buyers ’ trust. As buyers ’ involvement  with sellers  becomes  
+more extensive,  greater  opportunities  are available  for members  of seller  
+organizations  to demonstrate  trustworthy  behavior.  In the process  of interaction  
+
+--- PAGE 32 ---
+22
+members  of both organizations  are able to learn  the needs  and expectations  of 
+the other,  and communicate  their  respective  intentions  (Egan  1976). In everyday  
+circumstances,  numerous  instances  occur  in which  boundary  group  members  can 
+display  trust. Seemingly  insignificant  interactions  such as returning  phone  calls 
+promptly,  anticipating  and responding  to others ’ concerns  without  being  asked,  
+and making  the effort  to confirm  commitments,  all build trust (Golembiewski  
+and McConkie  1975). Based  on the assumption  that exchanges  are, on average,  
+used propitiously  to this end, greater  interaction  will enhance  the trust of both 
+parties. Empirical  support  for this conclusion  has been found in marketing  
+channels,  where  greater  channel  member  participation  in decision  making  was 
+found  to positively  influence  trust (Dwyer  and Oh 1987).
+Following  from the above  discussion,  the following  hypotheses  are offered  
+regarding  the influence  of boundary  group  structure  on performance:
+HIA: Sellers ’ vertical  involvement  will have a positive  influence  
+on actual  share ratio.
+HIB: Sellers ’ lateral  involvement  will have  a positive  influence  on 
+predicted  share ratio.
+HIC: Buyers ’ vertical  involvement  will have a positive  influence  
+on actual  share ratio.
+HID: Buyers ’ lateral  involvement  will have  a positive  influence  on 
+actual  share  ratio.
+
+--- PAGE 33 ---
+23
+H2A: Sellers ’ vertical  involvement  will have a positive  influence  
+on predicted  share  ratio.
+H2B: Sellers ’ lateral  involvement  will have  a positive  influence  on 
+predicted  share  ratio.
+H2C: Buyers ’ vertical  involvement  will have a positive  influence  
+on predicted  share ratio.
+H2D: Buyers ’ lateral  involvement  will have  a positive  influence  on 
+predicted  share  ratio.
+H3A: Sellers ’ vertical  involvement  will have a positive  influence  
+on trust.
+H3B: Sellers ’ lateral  involvement  will have  a positive  influence  on 
+trust.
+H3C: Buyers ’ vertical  involvement  will have a positive  influence  
+on trust.
+H3D: Buyers ’ lateral  involvement  will have  a positive  influence  on 
+trust.
+4. Disclosing,  Disclosing  refers to the extent,  as perceived  by buyers,  to 
+which  sellers  provide  information  regarding  their (sellers ’) plans,  programs,  and 
+objectives.  In business  relationships  it is imperative  that each party  have a suffi­
+cient understanding  of the other ’s business  so as to permit  adaptive  problem  
+solving. In support  of this, Anderson  and Weitz  (1989)  have found  that when  
+channel  members  keep their partners  well informed  as to the details  of their  
+
+--- PAGE 34 ---
+24
+business,  partners  are likely to place greater  confidence  in them, coordinate  
+more effectively  with them,  and be more  willing  to rely on them.
+Business  relationships  involve  a process  of ongoing  negotiation,  that is, a 
+continual  resolution,  or prevention,  of conflict. Pruitt (1981) stresses  the 
+importance  of information  exchange  in achieving  coordinative  agreements.  In 
+simulation  of buyer-seller  bargaining  Pruitt  and his associates  have found that 
+providing  explicit  information  about goals, values,  and priorities  consistently  
+leads to increased  levels of "integrative  agreements"  (Carnevale,  Pruitt and 
+Seilheimer  1981; Pruitt and Lewis 1975; Pruitt and Lewis 1977). Integrative  
+agreements  are those which  entail  a high level of mutual  satisfaction  with the 
+outcomes.  Greater  disclosing  by the seller  is expected  to lead to more effective  
+coordination  because  it provides  buyers  with a rich data base for the formulation  
+of adaptive  solutions  to conflict  which  are perceived  to be based  on the genuine  
+needs  of the seller  (Pruitt  1981). Because  disclosing  has been shown  to lead to 
+coordination  effectiveness,  we hypothesize  that disclosing  will have a positive  
+influence  on share.
+In small groups,  disclosing  is risk-taking  behavior  because  it opens the 
+discloser  to possible  rebuff  or ridicule  (Egan  1976;  Golembiewski  and McConkie  
+1975;  Martin  1983). Analogously,  disclosing  in business  relationships  may entail  
+giving  information  which  is potentially  damaging  to the seller. Examples  of such 
+
+--- PAGE 35 ---
+25
+disclosures  would  be the revealing  of plans  and goals,  which  if passed  on to com­
+petitors  could be used to sellers ’ detriment.  When such disclosing  is done  
+because  it is in the best interests  of the relationship,  it is perceived  as a trusting  
+action  on the part of sellers,  and should  in turn enhance  buyers ’ trust. In 
+support,  Anderson  and Weitz (1989)  found that the level of communications  
+concerning  plans,  programs,  expectations,  goal setting,  and performance  evalua ­
+tion was positively  related  to trust in channel  relationships.  We therefore  
+hypothesize  that disclosing  will have a positive  influence  on trust.
+5. Initiating.  Initiating  refers to the degree  to which  sellers  overtly  seek 
+relevant  information  about buyers ’ business  operations  and market  needs.  
+Initiating  is a relationship-specific  form  of intelligence  gathering.  If all relevant  
+and important  information  needed  to effectively  coordinate  activities  in a 
+business  relationship  were  voluntarily  offered,  then  initiating  would  not be neces ­
+sary. However,  owing  to bounded  rationality,  buyers  are unlikely  to know  all of 
+the information  which is either useful, or necessary,  for sellers ’ optimal  
+fulfillment  of their obligations  in the business  relationship.  The degree  to which  
+sellers  actively  seek this information  is likely to be predictive  of the degree  to 
+which they actually  possess  such information.  The degree  to which sellers  
+possess  needed  information  is, in turn, likely  to positively  influence  coordination  
+
+--- PAGE 36 ---
+26
+effectiveness,  and share.
+Initiating  behavior  is also expected  to positively  influence  buyers ’ perceptions  
+of sellers ’ motivation  to perform  in their (buyers ’) interests.  Where  sellers  show  
+high initiation,  they are likely to be perceived  as "intrinsically"  motivated  (i.e., 
+motivated  by concerns  for the mutual  welfare  of the parties),  and consequently  
+trusted  more  by buyers (Rempel,  Holmes  and Zanna  1985).
+6. Signaling.  Signaling  refers  to the degree  to which  sellers  communicate  
+their  intended  actions  in the relationship.  Signaling  by sellers  is the most direct  
+form of coordinative  behavior  because  it (1) clarifies/confirms  planned  actions,  
+and (2) provides  an opportunity  for buyers  to modify  planned  actions  before  they 
+are (potentially)  erroneously  enacted. Accordingly,  we expect signaling  to 
+positively  influence  coordination  effectiveness,  and share.
+Signaling  also complements  initiating  by providing  feedback  on information  
+gained  from  buyers.  In small  group  settings  this has been  described  as "reflecting  
+accurate  empathy"  (Egan 1976), or "clear signaling"  (Golembiewski  and 
+McConkie  1975). Signaling  closes the loop begun  with initiating.  Signaling  
+presents  an opportunity  for sellers  to confirm  that they have attended  to sellers ’ 
+needs  and expectations,  and that those  needs  and expectations  will be responded  
+to. In relationships,  partners  must not only be empathetic  with their counter ­
+
+--- PAGE 37 ---
+27
+parts,  they must actively  convey  this (Egan  1976). In group  research,  signaling  
+has been shown  to be a trust-building  behavior  (Egan  1976; Golembiewski  and 
+McConkie  1975); accordingly  we hypothesize  that it will positively  influence  
+buyers ’ trust in business  relationships.
+Based upon the foregoing  discussion,  we offer the following  hypotheses  
+regarding  the influence  of sellers ’ coordinative  behavior  on performance:
+H4A: Disclosing  will have a positive  influence  on actual share  
+ratio.
+H4B: Initiating  will have a positive  influence  on actual share  
+ratio.
+H4C: Signaling  will have a positive  influence  on actual share  
+ratio.
+H5A: Disclosing  will have a positive  influence  on predicted  share  
+ratio.
+H5B: Initiating  will have a positive  influence  on predicted  share  
+ratio.
+H5C: Signaling  will have a positive  influence  on predicted  share  
+ratio.
+H6A: Disclosing  will have a positive  influence  on trust.
+H6B: Initiating  will have a positive  influence  on trust.
+H6C: Signaling  will have a positive  influence  on trust.
+
+--- PAGE 38 ---
+28
+7. Frequency.  Frequency  is defined  as the inverse  of the average  time 
+between  interactions  between  buyer and seller. Other factors  being equal,  
+frequency  relates  positively  to the amount  of information  processed  in the 
+boundary  group,  and to the ability  of boundary  interaction  to reduce  uncertainty  
+(Daft  and Lengel  1986). On balance,  greater  uncertainty  reduction  should  lead 
+to greater  coordination  effectiveness  (Anderson  and Weitz 1989),  and greater  
+share.
+The finding  of a positive  relationship  between  communication  frequency  and 
+trust has been  fairly  robust,  both within  the marketing  literature  (Anderson  and 
+Nanis 1990; Anderson  and Weitz 1989) and the literature  on group  behavior  
+(Bradford  1964;  Loomis  1959; Golembiewski  and McConkie  1975). In general,  
+the more frequently  individuals  communicate,  the more they are perceived  by 
+their partners  to be motivated  in the interest  of the relationship,  and the more  
+they are trusted.  Accordingly,  we hypothesize  that frequency  will have a positive  
+influence  on buyers ’ trust.
+8. Richness.  Richness  is defined  as the proportion  of interactions  between  
+the buyer  and seller  which  are conducted  face-to-face.  Face-to-face  communica ­
+tion is a richer  medium  than impersonal  modes  (Daft and Lengel  1986). In 
+contrast  to quantity  of information,  richness  refers to the ability to process  
+
+--- PAGE 39 ---
+29
+ambiguous  information  (Daft and Lengel  1986). Rich communication  media  
+(e.g., face-to-face  meetings)  are most effective  in dealing  with ambiguity.  
+Organizations  are expected  to have both types of information  processing  needs  
+(Daft and Lengel  1986; Huber  and Daft 1987), and we assume  both types of 
+information  must be processed  for effective  coordination  in business  relation ­
+ships. We further  assume  that, due to considerations  of cost and logistics,  most  
+business  relationships  are characterized  by sub-optimal  levels of face-to-face  
+communication  (sub-optimal  in an information  processing  sense,  not cost/benefit  
+sense).  Accordingly,  increasing  the proportion  of face-to-face  communication  is 
+expected  to produce  a more balanced  fit with the actual  information  load, and 
+enhance  coordination  effectiveness.  We therefore  hypothesize  that richness  will 
+positively  influence  share.
+Richness  is expected  to have a positive  influence  on buyers ’ trust because  
+face-to-face  interaction  has the capacity  to convey  non-verbal  cues and voice  
+inflections  which can substantially  influence  individuals ’ perceptions  of others  
+(Johnson  and Johnson  1987; Shaw 1981). Indeed,  some researchers  consider  
+face-to-face  interaction  to be a necessary  condition  for group development  
+(Bonner  1959; Homans  1950). Considering  the extent  to which face-to-face  
+interaction  and non-verbal  information  processing  has been emphasized  in the 
+trust literature,  we expect  richness  to have a positive  influence  on buyers ’ trust.
+
+--- PAGE 40 ---
+30
+Based on the foregoing  discussion  of frequency  and richness,  the following  
+hypotheses  are advanced:
+H7A: Frequency  will have a positive  influence  on actual share  
+ratio.
+H7B: Richness  will have a positive  influence  on actual share  
+ratio.
+H8A: Frequency  will have a positive  influence  on predicted  share  
+ratio.
+H8B: Richness  will have a positive  influence  on predicted  share  
+ratio.
+H9A: Frequency  will have a positive  influence  on trust.
+H9B: Richness  will have a positive  influence  on trust.
+C. Moderator  Variables
+The hypothesized  moderating  effects for each moderator  variable  -
+dependent  variable  combination  embodied  in Figure  III-1 are discussed  below.
+1. Environmental  Dynamism  - Share.  Environmental  dynamism  refers  to the
+perceived  frequency  of change  in market  forces  in buyers ’ environments  (Achrol  
+
+--- PAGE 41 ---
+31
+and Stern 1988). Environmental  dynamism  has been found to be positively  
+related  to decision-making  uncertainty  in marketing  channels  (Achrol  and Stern  
+1988). This finding  is in general  agreement  with the literature  which has 
+investigated  the effects  of environmental  uncertainty  (Duncan  1972; Huber  and 
+Daft 1987; Leblebici  and Salancik  1981; Thompson  1967).
+Where decision-making  uncertainty  is high, the relative  importance  of 
+participative  coordination  is expected  to be greater  than when  decision-making  
+uncertainty  is low, because  more flexible  and innovative  approaches  to the 
+resolution  of interdepartmental  conflict  are likely to be required  (Walker  and 
+Ruekert  1987). Therefore,  the greater  the environmental  dynamism,  the more  
+important  the coordination  enhancing  effects of sellers ’ and buyers ’ lateral  
+involvement  are expected  to be.
+Sellers ’ and buyers ’ vertical  involvement  both relate to the dispersion  of 
+decision-making  authority  represented  in the boundary  group. We expect  the 
+responsiveness  of the boundary  group  as a decision-making  unit to be enhanced  
+by greater  vertical  involvement,  because  accountability  to members  outside  the 
+boundary  group is lessened  (more  key decision  makers  belong  to the group).  
+Where  environmental  dynamism  is high, the responsiveness  of the boundary  
+group  is likely  to be a more important  consideration  than when  environmental  
+dynamism  is low, because  the boundary  group  will be called  upon  to make  more  
+
+--- PAGE 42 ---
+32
+decisions,  more quickly  (Huber  and Daft 1987; Walker  and Ruekert  1987).  
+Accordingly,  we hypothesize  a greater  influence  of vertical  involvement  (buyers ’ 
+and sellers ’) when  environmental  dynamism  is high.
+Sellers ’ coordinative  behaviors  are also expected  to have  a stronger  influence  
+on performance  under conditions  of high environmental  dynamism.  Where  
+decision-making  uncertainty  is high,  the need  to make  more  innovative  decisions,  
+and consequently  the need for more extensive  knowledge  of sellers,  is greater  
+than under  conditions  of low decision-making  uncertainty  (Walker  and Ruekert  
+1987). Sellers ’ disclosing  gives buyers ’ a basis from which  to formulate  more  
+adaptive  solutions  to problems,  and is therefore  expected  to be more  instrumen ­
+tal in achieving  coordination  effectiveness  under  conditions  of high, versus  low, 
+decision-making  uncertainty.  Likewise,  the coordination  enhancing  effects  of 
+sellers ’ initiating  and signaling  should  have a greater  impact  when decision ­
+making  uncertainty  is high.
+Environmental  uncertainty  has typically  been examined  as an antecedent  of 
+boundary  spanning  activity  (Katz  and Kahn 1966; Schwab,  Ungson  and Brown  
+1985; Thompson  1967), although  there is evidence  that organization  structure  
+may influence  boundary  spanning  more than environmental  uncertainty  (Leifer  
+and Huber  1977). However,  no research  has investigated  the moderating  effect  
+of environmental  uncertainty  on boundary  spanning  as a predictor  of perfor ­
+
+--- PAGE 43 ---
+33
+mance. Greater  environmental  dynamism  is expected  to result in a greater  
+amount  of product-related  information  for processing  in the boundary  group  
+(Ruekert  and Walker  1987;  Walker  and Ruekert  1987). Frequency  alone  cannot  
+completely  capture  the amount  of information  processed,  which  is related  to both 
+the frequency  and duration  of communication  (Farace,  Monge  and Russell  1977).  
+Other factors being equal, however,  greater  communication  frequency  will 
+correspond  to a greater  amount  of information  being  processed.  On average,  the 
+greater  the level of uncertainty,  the greater  the uncertainty  reduction  per 
+exchange  (exchanges  will tend to be longer  or more  dense),  and the greater  the 
+decision  enhancing  capacity  of each exchange.
+Environmental  dynamism  increases  primarily  the amount  of information  
+which  must be processed  in the boundary  group. Accordingly,  we expect  that as 
+the amount  of information  to be processed  increases,  other  factors  being  equal,  
+communication  modes  other than face-to-face  are likely to be more effective,  
+because  they tend to be more timely. Based  on the foregoing  discussion,  we 
+hypothesize:
+The greater  the environmental  dynamism,  the stronger  (weaker)  
+the relationship  between  actual  share ratio and:
+H10A: Sellers ’ vertical  involvement.
+H10B: Sellers ’ lateral  involvement.
+H10C: Buyers ’ vertical  involvement.
+
+--- PAGE 44 ---
+34
+H10D: Buyers ’ lateral  involvement.
+H10E: Disclosing.
+H10F: Initiating.
+H10G: Signaling.
+H10H: Frequency.
+HIOI: (Richness).
+The greater  the environmental  dynamism,  the stronger  (weaker)  
+the relationship  between  predicted  share ratio and:
+H11A: Sellers ’vertical  involvement.
+HUB: Sellers ’ lateral  involvement.
+HI IC: Buyers ’ vertical  involvement.
+Hl ID: Buyers ’ lateral  involvement.
+H11E: Disclosing.
+HUF: Initiating.
+H11G: Signaling.
+H11H: Frequency.
+Hill: (Richness).
+2. Environmental  Dynamism  - Trust, In dynamic  environments,  where  
+decision-making  uncertainty  is greater,  sellers ’ coordinative  behaviors  are 
+expected  to be more  strongly  related  to trust  than  when  environmental  dynamism  
+is low. Under  conditions  of high uncertainty  the risk of making  poor decisions  
+is greater  and it is therefore  more  important  that each  party  fully understand  the 
+capabilities,  limitations,  goals, needs, and intentions  of the other. Viewing  
+boundary  behavior  as a form  of risk-taking  behavior,  sellers ’ disclosing,  initiating,  
+and signaling  are expected  to have greater  influence  on buyers ’ trust because  
+
+--- PAGE 45 ---
+35
+these  behaviors  carry  more "psychological  weight"  when  decision-making  risk is 
+high (Golembiewski  and McConkie  1975). Support  for this conclusion  can be 
+found  in group  research,  where  trust has been  found  to be enhanced  more  when  
+greater  risk-taking  behavior  is displayed  (Gibb  1964). Accordingly,  we hypothe ­
+size:
+The greater the environmental  dynamism,  the stronger  the 
+relationship  between  trust and:
+H12A: Disclosing.
+H12B: Initiating.
+H12C: Signaling.
+3. Environmental  Diversity  - Share. Environmental  diversity  refers  to the 
+degree  of heterogeneity  in buyers ’ output  markets  for the focal  product.  Where  
+buyers ’ customers  are diverse  with respect  to demographics,  industry,  and 
+preferences  for product  features,  buyers ’ strategic  behavior  is likely  to approxi ­
+mate "prospector"  businesses  (Miles  and Snow  1978;  Walker  and Ruekert  1987).  
+Under  such  conditions,  greater  interfunctional  conflict  and need  for coordination  
+(within  buyer  organizations)  is expected  because  managers  must contend  with,  
+and adapt to, a broader  array of unfamiliar  situations  (Walker  and Ruekert  
+1987). On average,  this adaptation  is likely  to also complicate  the coordination  
+task on the part of sellers,  as they are called  upon  to make  modifications  in their  
+
+--- PAGE 46 ---
+36
+offerings  to meet  the diverse  market  needs  of buyers.  Dwyer  and Welsh  (1985)  
+argue that, due to such added complexities,  heterogeneous  environments  in 
+channels  require  more  decentralized  decision  structures  and more  participative  
+decision  making.  Accordingly,  we hypothesize  that the coordination  enhancing  
+effects  of sellers ’ lateral  involvement  and buyers ’ lateral  involvement  will be 
+relatively  more  important  under  conditions  of high environmental  diversity  than 
+under  low diversity.
+Greater  vertical  involvement  in the boundary  group  means  greater  decision ­
+making  authority  and less accountability,  thus enabling  it to respond  to a broader  
+range  of situations  than  when  vertical  involvement  is lower. Where  buyers  serve  
+a diverse  set of customers,  with diverse  needs  (which,  in turn, face a diverse  set 
+of environments),  buyers  will be presented  with (1) more frequent  decision ­
+making  situations,  and (2) more  varied  decision-making  situations.  Environmen ­
+tal diversity  is, therefore,  expected  to increase  the importance  of the decision ­
+making  responsiveness  of the boundary  group.
+Sellers ’ coordinative  behaviors  are also expected  to assume  greater  impor ­
+tance under conditions  of high environmental  diversity. Specifically,  sellers ’ 
+disclosing,  initiating,  and signaling  will have  greater  impact  when  the number  and 
+complexity  of problems  are greater,  and the potential  adverse  impact  of sub­
+optimal  solutions  is greater.  Under  such conditions  the risk reducing  potential  
+
+--- PAGE 47 ---
+37
+of these behaviors  is greater  than when  environmental  diversity  is lower.
+Environmental  diversity  is expected  to lead to a relatively  greater  increase  
+in the ambiguity  of information  than  uncertainty  of information  (Daft  and Lengel  
+1986; Dwyer  and Welsh  1985),  although  both information  processing  require ­
+ments  are expected  to increase.  With high environmental  diversity,  therefore,  
+communication  frequency  should  have a stronger  influence  on coordination  
+effectiveness  because,  on average,  each interaction  has greater  potential  for 
+reducing  uncertainty.  Because  ambiguity  plays a greater  role in information  
+processing  in diverse  environments,  organizations  must "enact"  solutions  to 
+problems  to a greater  extent than "learning"  those solutions  through  the 
+collection  of additional  data (Weick  1979). Consequently,  richness  is expected  
+to have a greater  influence  on information  processing  effectiveness  when  
+environmental  diversity  is greater.  In summary:
+The greater  the environmental  diversity,  the stronger  the relation ­
+ship between  actual  share ratio and:
+H13A: Sellers ’ vertical  involvement.
+H13B: Sellers ’ lateral  involvement.
+H13C: Buyers ’ vertical  involvement.
+H13D: Buyers ’ lateral  involvement.
+H13E: Disclosing.
+H13F: Initiating.
+H13G: Signaling.
+H13H: Frequency.
+H13I: Richness.
+
+--- PAGE 48 ---
+38
+The greater  the environmental  diversity,  the stronger  the relation ­
+ship between  predicted  share ratio and:
+H14A: Sellers ’ vertical  involvement.
+H14B: Sellers ’ lateral  involvement.
+H14C: Buyers ’ vertical  involvement.
+H14D: Buyers ’ lateral  involvement.
+H14E: Disclosing.
+H14F: Initiating.
+H14G: Signaling.
+H14H: Frequency.
+H14I: Richness.
+4, Environmental  Diversity  - Trust. Since environmental  diversity  is 
+expected  to increase  decision-making  risk, the trust enhancing  effects of 
+disclosing,  initiating,  and signaling  are expected  to be more influential  under  
+conditions  of high diversity  than under conditions  of low diversity. This 
+conclusion  follows  from the expectation  of greater  psychological  impact  of 
+coordinative  communication  (riskier  decision  context).  Accordingly,  disclosing  
+useful  information,  showing  motivation  to act in partners ’ interests,  and signaling  
+intentions  should  enhance  trust  to a greater  degree  when  environmental  diversity  
+is greater.  Therefore:
+The greater  the environmental  diversity,  the stronger  the relation ­
+ship between  trust and:
+H15A: Disclosing.
+H15B: Initiating.
+H15C: Signaling.
+
+--- PAGE 49 ---
+39
+5. Product  Importance  - Share  and Trust. Product  importance  refers  to the 
+perceived  impact  of the product  on buyers ’ profitability.  Product  importance  is 
+expected  to be directly  related  to the magnitude  of decision-making  outcomes,  
+and thus decision-making  risk (March  and Shapira  1987). Where  the economic  
+value  of the product  is greater,  or the product  otherwise  has greater  potential  to 
+affect  buyers ’ profitability  (via impact  on quality,  productivity,  etc.), buyers  are 
+likely  to place higher  priority  on those  product-related  decisions,  and attend  to 
+those  decisions  to a greater  degree  than for products  of lesser  importance.
+This conclusion  has been  supported  in buying  center  research,  where  product  
+importance  has been found  to be positively  related  to the amount  of product-  
+related  communication  offered  (McQuiston  1989),  and positively  related  to both 
+vertical  and lateral  involvement  (Johnston  and Bonoma  1981). We expect  the 
+same effects,  on average,  to obtain  in business  relationships.  No research,  
+however,  has examined  the moderating  effect  of product  importance  on boundary  
+behavior  as a predictor  of performance.
+Clearly,  where product  importance  is greater,  any variability  in decision  
+outcomes  has a magnified  effect  compared  to less important  situations;  buyers  
+are therefore  likely to place more weight  on the quality  of those decisions.  
+Coordination  and risk reduction  are therefore  expected  to be more strongly  
+predictive  of performance  in more  important  situations.  It follows  logically,  then,  
+
+--- PAGE 50 ---
+40
+that  where  product  importance  is greater,  the main  effects  posited  in Figure  III-1 
+will be stronger  than under conditions  of lower product  importance.  We 
+therefore  hypothesize  that:
+The greater  the product  importance,  the stronger  the relationship  
+between  actual  share ratio and:
+H16A: Sellers ’ vertical  involvement.
+H16B: Sellers ’ lateral  involvement.
+H16C: Buyers ’ vertical  involvement.
+H16D: Buyers ’ lateral  involvement.
+H16E: Disclosing.
+H16F: Initiating.
+H16G: Signaling.
+H16H: Frequency.
+H16I: Richness.
+The greater  the product  importance,  the stronger  the relationship  
+between  predicted  share  ratio and:
+H17A: Sellers ’ vertical  involvement.
+H17B: Sellers ’ lateral  involvement.
+H17C: Buyers ’ vertical  involvement.
+H17D: Buyers ’ lateral  involvement.
+H17E: Disclosing.
+H17F: Initiating.
+H17G: Signaling.
+H17H: Frequency.
+H17I: Richness.
+
+--- PAGE 51 ---
+41
+The greater  the product  importance,  the stronger  the relationship  
+between  trust and:
+H18A: Sellers ’ vertical  involvement.
+H18B: Sellers ’ lateral  involvement.
+H18C: Buyers ’ vertical  involvement.
+H18D: Buyers ’ lateral  involvement.
+H18E: Disclosing.
+H18F: Initiating.
+H18G: Signaling.
+H18H: Frequency.
+HI  81: Richness.
+6. Product  Type  - Share  and Trust. Product  type refers  to whether  the focal  
+product  is a good, or service. The most frequently  cited difference  between  
+goods  and services  is intangibility  (Berry  1980; Lovelock  1981; Shostack  1977;  
+Zeithaml,  Parasuraman  and Berry  1985). Because  services  cannot  be seen, felt, 
+tasted,  or touched  in the same  manner  as goods,  buyers  frequently  find the task 
+of evaluating  service  performance  to be more difficult  than for goods. Buyers  
+frequently  rely on cues obtained  from  the service  context  to infer  the quality  and 
+performance  of services  (Berry  1980; Shostack  1977).
+Another  distinguishing  characteristic  of services is inseparability  of 
+production  and consumption . For many services  this forces the buyer into 
+intimate  contact  with the production  process  (Carmen  and Langeard  1980),  and 
+also results in marketing  and production  being highly interactive  (Gronroos  
+1978). In the case of services,  then,  boundary  behavior  and the service  itself  are 
+
+--- PAGE 52 ---
+42
+often inseparable.
+For these reasons,  service  buyers  are expected  to place  greater  reliance  on 
+boundary  behaviors  to guide their purchase  behavior  than are goods  buyers.  
+Other  factors  being  equal,  the main  effects  posited  in Figure  III-1 are expected  
+to be stronger  in business  relationships  involving  services,  as compared  to goods.  
+Accordingly:
+For services,  as compared  to goods,  actual  share  ratio will be in­
+fluenced  more strongly  by:
+H19A: Sellers ’ vertical  involvement.
+H19B: Sellers ’ lateral  involvement.
+H19C: Buyers ’ vertical  involvement.
+H19D: Buyers  lateral  involvement.
+H19E: Disclosing.
+H19F: Initiating.
+H19G: Signaling.
+H19H: Frequency.
+H19I: Richness.
+For services,  as compared  to goods,  predicted  share ratio will be 
+influenced  more strongly  by:
+H20A: Sellers ’ vertical  involvement.
+H20B:
+H20C:
+H20D:
+H20E:
+H20F:
+H20G:
+H20H:
+H20I:Sellers ’ lateral  involvement.
+Buyers ’ vertical  involvement.
+Buyers ’ lateral  involvement.
+Disclosing.
+Initiating.
+Signaling.
+Frequency.
+Richness.
+
+--- PAGE 53 ---
+43
+For services,  as compared  to goods,  trust will be influenced  more  
+strongly  by:
+H21A: Sellers ’ vertical  involvement.
+H21B: Sellers ’ lateral  involvement.
+H21C: Buyers ’ vertical  involvement.
+H21D: Buyers ’ lateral  involvement.
+H21E: Disclosing.
+H21F: Initiating.
+H21G: Signaling.
+H21H: Frequency.
+H21I: Richness.
+7. Age of Relationship  - Trust, Trust  is posited  to result  from evolutionary  
+processes;  deepening  beliefs  are formed  through  the accumulation  of evidence  
+about  the relationship  partner  (Anderson  and Narus 1990; Dwyer  and Lagace  
+1986;  Rempel,  Holmes  and Zanna  1985). The literature  on trust emphasizes  the 
+importance  of the early stages  of relationships  as a critical  period  for the trust ­
+building  process  (Dwyer,  Schurr  and Oh 1987;  Giffen  1967;  Rempel,  Holmes  and 
+Zanna  1985). In the initial  stages  of business  relationships,  therefore,  boundary  
+behaviors  are expected  to correspond  more closely  to buyers ’ trust than in later  
+stages  when  beliefs  have been  relatively  well established.  Everyday  examples  of 
+this, on an interpersonal  level,  would  include  trusted  old friends  or relatives  with 
+whom  one had not interacted  in years. Under  such conditions,  the relationship  
+is in a "holding"  or "maintenance"  mode;  absent  disconfirming  evidence,  beliefs  
+remain  intact. A similar  evolution  is likely  to prevail  in organizational  relation ­
+
+--- PAGE 54 ---
+44
+ships. In support,  Anderson  and Weitz (1989)  found that, while there was, 
+overall,  a strong  positive  relationship  between  the level of communication  and 
+trust  in marketing  channel  dyads,  older  dyads  tended  to be "communication  effi­
+cient,"  apparently  sustained  by "inertia"  (p. 320). Therefore:
+The greater  the age of the relationship,  the weaker  the relation ­
+ship between  trust and:
+H22A: Sellers ’ vertical  involvement.
+H22B: Sellers ’ lateral  involvement.
+H22C: Buyers ’ vertical  involvement.
+H22D: Buyers ’ lateral  involvement.
+H22E: Disclosing.
+H22F: Initiating.
+H22G: Signaling.
+H22H: Frequency.
+H221: Richness.
+For a summary  of hypothesized  effects  on actual  share  ratio,  predicted  share  
+ratio, and trust refer to Tables  III-1, III-2 and III-3 respectively.
+D. Covariates
+1. Product  Rating.  Product  rating  refers  to buyers ’ evaluations  of how well 
+sellers  perform  on the basic  marketing  mix elements  of price, quality,  delivery,  
+and service. Satisfactory  execution  on the basic offering  is the sine qua non of 
+
+--- PAGE 55 ---
+45
+any business  relationship,  and is expected  to significantly  influence  share and 
+buyers ’ trust. We include  a composite  score  for product  rating  as a covariate  in 
+all equations  modeling  sellers ’ performance.
+2. Sellers ’ Dependence.  Sellers ’ dependence  refers to the estimated  
+proportion  of sellers ’ total  sales  provided  by buyers.  Where  buyers ’ perceive  that 
+they  represent  a greater  share  of sellers ’ business,  they are likely  also to perceive  
+that sellers  have greater  dependence  on them  and, therefore,  greater  motivation  
+to act in buyers ’ interests.  Accordingly,  buyers  are expected  to have  greater  trust 
+in sellers. We therefore  include  sellers ’ dependence  as a covariate  in all 
+equations  modeling  buyers ’ trust.
+
+--- PAGE 56 ---
+46
+FIGURE  HI-1
+Hypothesized Model  of Sellers'  Performance  in Business  Relationships
+Age of 
+RelationshipBuyers*  
+Environment
+Dynamism  
+DiversityProduct
+Characteristics
+Importance  
+Type
+Sellers*  
+Performance
+Share  Ratio  (A) 
+Share  Ratio  (P) 
+TrustCoordinative  
+Pehayjpr  
+Disclosing  
+Initiating  
+Signaling
+Boundary  
+Information  
+Capacity
+Frequency
+RichnessBoundary  
+Structure
+Vertical  
+Involvement  (S)
+Lateral
+Involvement  (S)
+Vertical
+Involvement  (B) 
+Lateral
+Involvement  (B)
+
+--- PAGE 57 ---
+47
+TABLE  Ill i
+Hypothesized  Effects  - Dependent  Variable  Actual  Share  Ratio
+Explanatory  
+VariableMain
+EffectModerating  Effects
+Dynamism Diversity Importance Type Age
+Sellers ’ vertical  
+involvement + a >b > > >
+(1A) (10A) (13A) (16A) (19A)
+Sellers ’ lateral  
+involvement + > > > >
+(IB) (10B) (13B) (16B) (19B)
+Buyers ’ vertical  
+involvement + > >
+(IC) (IOC) (13C) (16C) (19C)
+Buyers ’ lateral  
+involvement + > > > >
+(ID) (10D) (13D) (16D) (19D)
+Disclosing + > > > >
+(4A) (10E) (13E) (16E) (19E)
+Initiating + > > >
+(4B) (10F) (13F) (16F) (19F)
+Signaling + > > > >
+(4C) (10G) (13G) (16G) (19G)
+Frequency + > > > >
+(7A) (10H) (13H) (16H) (19H)
+Richness + < c > > >
+(7B) (101) (131) (161) (191)
+a To be read as: Sellers ’ vertical  involvement  will have a positive  influence  on actual  share  
+ratio.
+b To be read as: The influence  of sellers ’ vertical  involvement  on actual  share  ratio will be 
+stronger  under  conditions  of high dynamism  than under  conditions  of low dynamism.
+c To be read as: The influence  of richness  on actual  share  ratio will be weaker  under  
+conditions  of high dynamism  than under  conditions  of low dynamism.
+Figures  in parentheses  are hypothesis  numbers.
+
+--- PAGE 58 ---
+48
+TABLE  III-2
+Hypothesized  Effects  - Dependent  Variable  Predicted  Share  Ratio
+Explanatory
+VariableMain  
+EffectModerating  Effects
+Dynamism Diversity Importance Type Age
+Sellers ’ vertical  
+involvement + a >b > > >
+(2A) (11A) (14A) (17A) (20A)
+Sellers ’ lateral  
+involvement + > > > >
+- (2B) (11B) (14B) (17B) (20B)
+Buyers ’ vertical  
+involvement + > > >
+(2C) (11C) (14C) (17C) (20C)
+Buyers ’ lateral  
+involvement + > > > >
+(2D) (HD) (14D) (17D) (20D)
+Disclosing + > > > >
+(5A) (he) (14E) (17E) (20E)
+Initiating + > > > >
+(5B) (11F) (14F) (17F) (20F)
+Signaling + > > > >
+(5C) (11G) (14G) (17G) (20G)
+Frequency + > > > >
+(SA) (11H) (14H) (17H) (20H)
+Richness + < c > > >
+(SB) (111) (141) (171) (201)
+a To be read as: Sellers ’ vertical  involvement  will have a positive  influence  on predicted  share  
+ratio.
+b To be read as: The influence  of sellers ’ vertical  involvement  on predicted  share  ratio will be 
+stronger  under  conditions  of high dynamism  than under  conditions  of low dynamism.
+c To be read as: The influence  of richness  on predicted  share  ratio will be weaker  under  
+conditions  of high dynamism  than under  conditions  of low dynamism.
+Figures  in parentheses  are hypothesis  numbers.
+
+--- PAGE 59 ---
+49
+TABLE  III-3
+Hypothesized  Effects  - Dependent  Variable  Trust
+Explanatory  
+VariableMain  
+EffectModerating  Effects
+Dynamism Diversity Importance Type Age
+Sellers ’ vertical  
+involvement + a > b > < c
+(3A) (ISA) (21A) (22A)
+Sellers ’ lateral  
+involvement + >
+(3B) (18B) (21B) (22B)
+Buyers ’ vertical  
+involvement + >
+(3C) (18C) (21C) (22C)
+Buyers ’ lateral  
+involvement + > > <
+(3D) (18D) (21D) (22D)
+Disclosing + > > > > <
+(6A) (12A) (15A) (18E) (21E) (22E)
+Initiating + > > > > <
+(6B) (12B) (15B) (18F) (21F) (22F)
+Signaling + > > > > <
+(6C) (12C) (15C) (18G) (21G) (22G)
+Frequency + > > <
+(9A) (18H) (21H) (22H)
+Richness + > > <
+(9B) (181) (211) (221)
+a To be read as: Sellers ’ vertical  involvement  will have a positive  influence  on trust.
+b To be read as: The influence  of sellers ’ vertical  involvement  on trust will be stronger  under  
+conditions  of high importance  than under  conditions  of low importance.
+c To be read as: The influence  of sellers ’ vertical  involvement  on trust will be weaker  when  age 
+of the relationship  is high than when  age of the relationship  is low.
+Figures  in parentheses  are hypothesis  numbers.
+
+--- PAGE 60 ---
+IV. METHOD
+A. Measures
+Descriptions  of the measures  used in the study appear  in Appendix  A. 
+Scales used to measure  these constructs  were either adapted  from previous  
+measures  or developed  specifically  for this study. In developing  these  measures  
+a thorough  literature  review  was first conducted.  Next, a pool of items was 
+developed  taking  into consideration  extant  measures,  the domain  of the construct  
+as defined  herein,  and the context  of the study. Preliminary  questionnaires  were  
+then  developed  and pre-tested  via personal  interviews  with purchasing  managers  
+and purchasing  agents. Successive  rounds  of two or three interviews  were  
+conducted,  each round incorporating  refinements  to the instrument  based on 
+prior rounds.  This process  was continued  until feedback  from the interviewees  
+indicated  that the instrument  was clear, answerable,  meaningful,  and relevant,  
+and that further  continuation  of the process  was unlikely  to result  in substantive  
+improvements.  The process  comprised  four rounds  and a total of ten interviews 
+(averaging  about  45 minutes  each).
+In the early stages  of questionnaire  development,  three  changes  were made  
+to the original  plans regarding  study variables.  First, the emphasis  of the 
+variable  disclosing  was shifted  toward  sellers ’ tendencies  to reveal  potentially
+50
+
+--- PAGE 61 ---
+51
+damaging  or embarrassing  information,  rather  than straightforward  information  
+regarding  plans, objectives,  and so on (as originally  planned).  This latter  
+information  was viewed  by interviewees  as "normal-course-of-business,"  and thus,  
+expected.  In contrast,  disclosing  "less-than-glamorous"  information  emerged  as 
+a more powerful  construct  in the context  of relationships.  Second,  informants  
+were asked to evaluate  a target product  (rather  than product  or service,  as 
+originally  planned).  Early  interviews  revealed  that (1) a "product"  focus  allowed  
+informants  to more easily  select  a "target"  offering,  and (2) attempts  to elicit a 
+mix of target products  and services  would be likely to confuse  informants.  
+Informants  were, however,  asked to classify  the target  product  as (1) capital  
+goods,  (2) parts  or components,  (3) raw materials,  (4) operating  or maintenance  
+supplies,  or (5) other. We then used this information  to infer the size of the 
+"service"  component  of the target product. Specifically,  we regarded  "capital  
+equipment"  and "parts  and components"  as "high  service"  products,  whereas  "raw 
+materials"  and "operating  or maintenance  supplies"  were classed  as "low service."  
+This classification  served  as the basis for testing  moderating  effects  of product  
+type. Third,  an additional  dependent  measure,  satisfaction  with the relationship , 
+was incorporated.  The purpose  of this addition  was to assess  buyers ’ affect at 
+a very global  level. Accordingly,  our measure  tapped  buyers ’ overall  feelings  
+toward  suppliers  (including  their  wishes  that other  suppliers  were  "like this one,"  
+
+--- PAGE 62 ---
+52
+and their general  disposition  toward  continued  relationships;  see Appendix  A). 
+We hypothesized  that our global  satisfaction  measure  would  be influenced  in the 
+same manner  as trust, but sought  a more global  indicator  of affect  toward  the 
+supplier.  Analyses  and discussion  which follow  reflect  these three changes  to 
+prior  plans.
+B. Data Collection
+Data  were collected  via a national  mail survey. The sampling  frame  for the 
+study  was the master  membership  list of the National  Association  of Purchasing  
+Management  (NAPM),  from  which  a random  sample  of 800 names  and business  
+addresses  was obtained  (NAPM  provided  this sample). NAPM  members  
+typically  belong  to their firm ’s purchasing  department  and have the title of 
+"Purchasing  Manager"  or "Purchasing  Agent." Along  with the study question ­
+naire, each of the 800 informants  was sent a personalized  cover letter and 
+postage-paid  business  reply envelope. No gift or monetary  incentive  was 
+provided.  One week after the initial  mailing  a postcard  reminder  was sent to 
+every  informant,  again  requesting  their participation  in the study. Three  weeks 
+after the initial  mailing  a replacement  questionnaire,  modified  cover  letter,  and 
+return  envelope  were mailed  to those informants  who had not yet responded.  
+Copies  of the first cover letter, postcard,  and second  cover letter appear  in
+
+--- PAGE 63 ---
+53
+Appendix  B. Appendix  C contains  the study  questionnaire.
+Thirty-five  of the 800 questionnaires  were returned  unanswered  for one of 
+the following  reasons:  (1) the address  was undeliverable,  (2) the addressee  was 
+no longer employed  at that address,  or (3) the addressee  was no longer  
+employed  in a purchasing-related  position.  Consequently,  these  informants  were  
+deleted  from the sample. From  the remaining  765 informants,  a total of 454 
+usable  responses  was obtained  for a response  rate of 59.3%,  which  compares  
+quite favorably  to response  rates typically  obtained  in organizational  surveys.  
+Further,  a comparison  of the early  and late responses  (specifically,  the first 20% 
+received  versus  the last 20% received)  showed  no significant  differences  in the 
+means  of any of the study  variables,  indicating  that nonresponse  bias is unlikely  
+to be a problem.
+Informants  were asked  to select  their firms ’ most recent  product  purchases  
+meeting  the following  three conditions:  (1) the product  was at least moderately  
+important,  (2) they  purchased  the product  from  two or more  competing  suppliers,  
+and (3) they were very familiar  with their firms ’ relationships  with these  
+suppliers.  These instructions  were intended  to ensure that informants  had 
+adequate  knowledge  of the relationship  and that the relationship  was of 
+sufficient  importance  that the effects  hypothesized  in our model  could  reasonably  
+be expected.  Informants  were instructed  to select  one supplier  of the product,  
+
+--- PAGE 64 ---
+54
+thereafter  directing  their responses  to the "target  product"  and "target  supplier."  
+So as to obtain  variance  on the dependent  measures,  half of the informants  were  
+asked to select as the target supplier  the one with the largest  share of their  
+business  for the target  product,  and the other half were asked to select the 
+supplier  with the smallest  share.
+C. Data  Analysis
+First, the reliability  of each of the measures  was estimated  by computing  its 
+Cronbach  alpha. One scale item with a low inter-item  correlation  was 
+eliminated  (importance  scale). Cronbach  alphas  for the scales  range  from .67 
+to .92, generally  demonstrating  high reliability  (see Table  IV-1).
+Next, a regression  model  was estimated  for each of the dependent  measures  
+as follows:
+SHRA = b0 + b.|RATE  + b2VRTS  + b3LATS + b4VRTB  + b5LATB
++ b 6 DISC + b7INIT + bgSIG  + b g FREQ  + b10RICH  (4.1)
+SHRP = b0 + b-|RATE  + b2VRTS  + b3LATS  + b4VRTB  + b5LATB
++ b 6 DISC + b7INIT + baSIG + bgFREQ  + b10RICH (4.2)
+
+--- PAGE 65 ---
+55
+TRST = b0 + b1RATE  + b2VRTS  + b3LATS + b4VRTB  + b5LATB
++ b6DISC + b7INIT + baSIG + bgFREQ  + b10RICH  (4.3)
+SAT = b0 + b1RATE  + b2VRTS  + b3LATS + b4VRTB  + b5LATB
++ b 6 DISC + b7INIT + bgSIG  + bgFREQ  + b10RICH  (4.4)
+variable  names  are as follows:
+SHRA - Actual  share  ratio  
+SHRP - Predicted  share  ratio  
+TRST - Trust  
+SAT - Satisfaction
+RATE - Product  rating
+VRTS - Sellers ’ vertical  involvement  
+LATS - Sellers ’ lateral  involvement  
+VRTB - Buyers ’ vertical  involvement  
+LATB - Buyers ’ lateral  involvement  
+DISC - Disclosing
+INIT - Initiating
+SIG - Signaling
+FREQ - Frequency
+RICH - Richness
+Parameter  estimates  for the above  regression  models  provided  bases  for testing  
+hypothesized  main  effects.  The following  summary  indicates  hypothesis  numbers  
+(in parentheses)  immediately  following  their  test parameters  (refer  also to Tables
+III-2, and III-3 for a summary  of hypothesized  main effects):
+Model  4.1 (Actual  share ratio)  -
+b2 (lA),b 3 (IB), b4 (IC), b5 (ID),  b6 (4A),  b7 (4B),  b6 (4C), b9 (7A), b10 (7B).
+
+--- PAGE 66 ---
+56
+Model  4.2 (Predicted  share ratio)  -
+b2 (2A),  b3 (2B),b 4 (2C),  b5 (2D),b 6 (5A),b 7 (5B),b 8 (5C),b 9 (8A),b 10 (8B).
+Model  4.3 (Trust)  -
+b2 (3A),  b3 (3B),  b4 (3C),b 5 (3D),b 6 (6A),b 7 (6B),b 8 (6C),b 9 (9A),b 10 (9B).
+Model  4.4 (Satisfaction)  -
+Same  effects  as model  4.3, hypotheses  not formally  specified.
+Initially,  sellers ’ dependence  was to be included  as a covariate  in the 
+regression  model  for trust. However,  after a preliminary  run showed  sellers ’ 
+dependence  to have a non-significant  coefficient  (p < .93), and further  
+considering  the low (.13) correlation  between  sellers ’ dependence  and trust, it 
+was dropped  from further  analysis.  It does not appear  that sellers ’ dependence,  
+as measured  by the proportion  of business  that sellers  derive  from the buyer,  is 
+significantly  related  to buyers ’ levels  of trust.
+The presence  of outlying  observations  was investigated  following  the initial  
+regression  runs. Observations  which  were  both outliers  (student  residuals  > 3.0) 
+and influential,  as measured  by Cook ’s D, were eliminated  (Neter,  Wasserman,  
+and Kutner  1983). This procedure  resulted  in the elimination  of two observa ­
+tions from  both share  ratio (actual  and predicted)  regressions  (in each instance
+
+--- PAGE 67 ---
+57 
+the same  two observations).  Subsequently,  these  regression  models  were rerun,  
+as well as regressions  on three random  samples  of 80% of the observations.  
+These  runs,  together  with  pairwise  correlations  among  the variables  (Table  IV-2),  
+were used to assess  the stability  of the parameter  estimates.
+To assess  moderating  effects,  subgroup  analyses  were performed  (Arnold  
+1982; Sharma,  Durand  and Gur-Arie  1981). Observations  were first ordered  
+from low to high on a moderator  variable  (see Table IV-3 for pairwise  
+correlations  among  the moderator  variables).  Next,  two subgroups  were formed  
+corresponding  to (1) the low 40% of the observations  and (2) the high 40% of 
+the observations  (the middle  20% of the observations  were deleted  so as to 
+obtain  greater  contrast  between  the subgroups).  Following  this, for each model  
+(4.1-4.4  above)  in which the moderator  was hypothesized  to have an effect,  
+separate  regressions  were run on the low and high subgroups.  Again,  80% 
+random  samples  were estimated  for each subgroup.  The above subgrouping  
+procedure  was repeated  for each of the moderator  variables.  A Chow test 
+(Chow 1960) was performed  to test the significance  of differences  between  
+corresponding  regression  coefficients  in the low and high groups (refer to 
+Appendix  D for an explanation  of this test). The following  example  illustrates  
+this procedure  for the moderator  variable  dynamism  and the dependent  variable  
+actual  share  ratio:
+
+--- PAGE 68 ---
+58
+SHRA  high dynamism = bOhd + b1hdRATE  + b2hdVRTS  + b3hdLATS  + b4hdVRTB
++ b 5hd LATB  + b 6hd DISC + b 7hdINIT + b 8hdSIG
++ b ghd FREQ  + b iQhd RICH
+SHRA  low dynamism = b0ld + b1ldRATE  + b2ldVRTS  + b3ldLATS + b4ldVRTB
++ b 5,d LATB  + b 6|d DISC + b 7,d INIT + bg,dSIG
++ b g|d FREQ  + b 10|dRICH
+To test the moderating  effects  of dynamism,  corresponding  regression  
+coefficients  for the high dynamism  and low dynamism  subgroups  were  
+compared  as follows  (refer  to Tables  m-1, III-2,  and III-3 for a summary  
+of hypothesized  moderating  effects,  and to Appendix  D for an explanation  
+of the Chow  test used to compare  regression  coefficients):
+Regression  Coefficients
+(High  dynamism  - Low dynamism)  Hypothesis
+b 2hd ' b 2ld 10A
+b 3hd ■ b 3id 10B
+b 4hd ' b 4|d 10C
+b 5hd * b 5id 10D
+bend ‘ bgid 10E
+b 7hd * b 7|d 10F
+band ■ baid 10G
+b ghd ' b gid 10H
+b lOhd ‘ b laid 101
+A similar  procedure  was used for the balance  of the moderating  effects  
+
+--- PAGE 69 ---
+59
+involving  actual  share  ratio,  and all moderating  effects  involving  predicted  share  
+ratio, trust, and satisfaction.
+Preliminary  analyses  of the above  estimations  revealed  two broad  patterns.  
+First, none of the parameter  coefficients  in regressions  for share ratio (actual  
+and predicted),  including  the subgroups,  were significant.  Adjusted  R2 for 
+regressions  for actual  share ratio and predicted  share ratio averaged  .029 and 
+.034 respectively.  Second,  none of the coefficients  for sellers ’ vertical  involve ­
+ment, sellers ’ lateral involvement,  buyers ’ vertical  involvement,  and buyers ’ 
+lateral  involvement  (i.e., the boundary  structure  variables,  see Figure  III-1 ) were  
+significant  in regressions  for trust and satisfaction,  including  the subgroups.  
+Pairwise  correlations  in the range  of .06 to .13 between  these  predictors  and trust 
+and satisfaction  (see Table  IV-2)  confirm  the weak  relationship.  So as to reduce  
+the standard  errors  of the other  predictor  variables,  the regression  models  for 
+trust  and satisfaction  were  rerun,  omitting  the four boundary  structure  variables.  
+R2 (unadjusted)  for these  models  (pooled  sample)  declined  from .6236 to .6196,  
+and .6422 to .6370,  respectively.  Similar  results  obtained  for the subgroupings.  
+Since the boundary  structure  variables  had essentially  no ability to explain  
+additional  variance  in trust and satisfaction,  and were non-significant  in all 
+regressions,  they were omitted  from the final regression  models. Accordingly,  
+the final regression  models  for trust and satisfaction  were as follows:
+
+--- PAGE 70 ---
+60
+TRST = b0 + bfRATE  + b2DISC + b3INIT + b4SIG + b5FREQ  + b6RICH (4.5)
+SAT = b0 + bi RATE  + b2DISC + b3INIT + b4SIG + b5FREQ  + b6RICH (4.6)
+All analyses  involving  trust and satisfaction  were repeated,  in accordance  
+with the procedures  described  above,  using  regression  models  4.5 and 4.6. The 
+results  of these final analyses  are reported  in Tables  IV-4 through  IV-12. As 
+Tables  IV-5 and IV-10 indicate,  the pooled  sample  parameter  estimates  in 
+regressions  for both trust and satisfaction  are quite stable. This, along  with the 
+moderate  size of pairwise  correlations  among  the independent  variables  (Table  
+IV-2),  suggest  that collinearity  is not a problem.  For the dependent  variable  
+trust,  age of the.relationship  was found  to moderate  the influence  of communica ­
+tion frequency,  environmental  diversity  was found  to moderate  the influence  of 
+initiation  and product  rating,  and product  importance  moderated  the influence  
+of product  rating  (see Table  IV-4). For the dependent  variable  satisfaction,  age 
+of the relationship  moderated  the influence  of communication  frequency,  and 
+environmental  diversity  moderated  the influence  of product  rating  (see Table  IV- 
+9). No other  moderating  effects  were found. As Tables  IV-6, IV-7,  IV-8, IV-11, 
+and IV-12  indicate,  parameter  estimates  are stable  for all subgroups  in which  
+moderating  effects were found. Again, considering  the stability  of these  
+parameter  estimates  along  with  the moderate  correlation  among  the independent  
+
+--- PAGE 71 ---
+61
+variables,  it does not appear  that collinearity  is a problem.
+
+--- PAGE 72 ---
+62
+TABLE  IV-1
+Cronbach ’s Alpha
+Initial  
+Scale # ItemsFinal
+Scale # Items
+Trust .81 7 .81 7
+Satisfaction .92 6 .92 6
+Disclosing .71 6 .71 6
+Initiating .91 6 .91 6
+Signaling .87 6 .87 6
+Importance .67 4 .73 3
+Dynamism  (frequency) a .83 4 .83 4
+Dynamism  (effect)  b .85 4 .85 4
+Diversity  (consumer)  c .75 4 .75 4
+Diversity  (business)  d .82 4 .82 4
+Product  Rating .67 3 .67 3
+a Frequency  component  of environmental  dynamism.
+b Effect  component  of environmental  dynamism.
+c Diversity  in consumer  markets.
+d Diversity  in business  markets.
+Note: Refer  to Appendix  A for an explanation  of measures.
+
+--- PAGE 73 ---
+63
+TABLE  IV-2 
+Correlations  - Dependent  and Independent  Variables
+Actual  
+Share
+RatioPredict  
+Share  
+Ratio TrustSatis ­
+factionProduct  
+RatingLateral  
+Involve.  
+(Buyer)Vertical  
+Involve.  
+(Buyer)
+Actual  share  ratio -
+Predicted  share  ratio .87 -
+Trust .12 .16 -
+Satisfaction .15 .19 .83 -
+Product  rating .05 .08 .55 .60 -
+Lateral  involvement  (B) .06 .03 .06 .06 .01 -
+Vertical  involvement  (B) .10 .07 .13 .11 .07 .63 -
+Lateral  involvement  (S) .15 .13 .13 .08 .03 .67 .59
+Vertical  involvement  (S) .15 .11 .12 .09 .04 .55 .66
+Disclosing .07 .07 .55 .53 .35 .03 .02
+Initiating .18 .19 .66 .64 .41 .16 .21
+Signaling .10 .10 .64 .65 .51 .07 .11
+Frequency .11 .11 .32 .35 .12 .30 .30
+Richness .06 .05 .07 .09 .12 .03 .00
+Lateral  
+Involve.  
+(Seller)Vertical  
+Involve.  
+(Seller)Disclos ­
+ingInitiat ­
+ingSignal ­
+ingFreq ­
+uencyRich ­
+ness
+Lateral  involvement  (S) -
+Vertical  involvement  (S) .70 -
+Disclosing .06 .08 -
+Initiating .20 .24 .42 -
+Signaling .13 .17 .52 .56 -
+Frequency .26 .34 .14 .47 .28 -
+Richness -.05 .07 .03 .15 .10 .20 -
+
+--- PAGE 74 ---
+64
+TABLE  IV-3
+Correlations  - Moderator  Variables
+Age Importance Dynamism Diversity
+Age —
+Importance .12 --
+Dynamism .00 .19 —
+Diversity .11 .06 .12 —
+
+--- PAGE 75 ---
+65
+TABLE  IV-4
+Dependent  Variable  Trust  
+Unstandardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Full
+(N = 435).62 .58 a .23 a .32 a .20 a .11d -2.53  d
+Low  Age 1 
+(N = 176).66 .57 a .16 c .23 a .31a .33 a -5.22  c
+High  Age 
+(N = 172).61 .63 a .21a .39 a .18 a -.09 d -.41 d
+Low Diversity 2 
+(N = 154).64 .36 a .21a .38 a .20 a .07 d -3.47  d
+High  Diversity  
+(N = 158).70 .83 a .25 a .19 a .27 a .22 c -4.59  d
+1 Coefficient  of Frequency  greater  in low age group  (Chow  test: F = 8.93 b).
+2 Coefficient  of Initiating  greater  in low diversity  group  (Chow  test: F = 4.80 c). 
+Coefficient  of Product  Rating  greater  in high diversity  group  (Chow  test: F = 5.98 c).
+a p<.001
+b p<.01
+c p<.05
+d not significant  at .05 level
+
+--- PAGE 76 ---
+66
+TABLE  IV-4 (continued)
+Dependent  Variable  Trust  
+Unstandardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Dynam.  
+(N = 162).69 .61a .25 a .37 a .20 b .07 d -3.46  d
+High Dynam.  
+(N = 167).59 .63 a .23 a .25 a .27 a .06 d -5.36  c
+Low Import. 3 
+(N = 174).68 .39 b .29 a .43 a .17 b ,13 d -2.15  d
+High Import.  
+(N = 174).62 .77 a .13 b .29 a .19 b .09 d -2.16  d
+Low Service  
+(N = 226).64 .72 a .24 a .30 a .12 d ,21e -1.66  d
+High Service  
+(N = 175).61 .55 a .23 a .35 a .24 a -.01 d -4.15  d
+3 Coefficient  of Product  Rating  greater  in high importance  group  (Chow  test: F = 4.01 c).
+a p<.001
+b pc.01
+c p<.05
+d not significant  at .05 level
+
+--- PAGE 77 ---
+67
+TABLE  IV-5
+Dependent  Variable  Trust  - Pooled  Sample
+Standardized  Parameter  Estimates
+Sample R2Product
+Rating Disclosing Initiating Signaling Frequency Richness
+Full
+(N = 433).62 .24 a .19 a .35 a .20 a .06 d -.05 d
+80%
+(N = 347).59 .26 a .17 a .35 a .19 a .05 d -.06 d
+80%
+(N = 347).61 .26 a .21a .35 a ,17 s .05 d -.04 d
+80%
+(N = 346).63 .23 a .21a .35 a .21a ,03 d -.01 d
+a pc.001
+b pc.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 78 ---
+68
+TABLE  IV-6 
+Dependent  Variable  Trust  - Subgroupings  by Age 
+Standardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Age 
+(N = 176).66 .24 a .12c .26 a .31a .18 a -.11 e
+80%
+(N = 142).69 .22 a .18 b .25 a .33 b .16 a -.08 d
+80%
+(N = 141).65 .22 a .26 a .30 a .30 a .19 b -.10 d
+80%
+(N = 140).67 .23 a .12c .25 a .30 a .21a -,11 e
+High  Age 
+(N = 172).62 .27 a .18 b .41a .17 b -.05 d -.01 d
+80%
+(N = 135).63 .27 a .18 b .44 a .15 c -.04 d .00 d
+80%
+(N = 138).64 .28 a .20 b .41a .18 c -.07 d .01 d
+80%
+(N = 140.63 .30 a .18 b .40 a ,17 e -.04 d -.04 d
+a pc.001
+b pc.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 79 ---
+69
+TABLE  IV-7 
+Dependent  Variable  Trust  - Subgroupings  by Diversity  
+Standardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Diversity  
+(N = 154).64 .17 b .19 b .42 8 .20 b .04 d -.07 d
+80%
+(N = 123).63 .16 e .19 e .42 8 .23 b -,03 d -.12  e
+80%
+(N = 123).68 .16 e .25 8 .39 8 .17 e .11 d -.05 d
+80%
+(N = 122).65 ,15 e .17 e .418 .25 b .03 d -.09 d
+High Diversity  
+(N = 158).70 .35 a .20 8 .22 8 .27 8 .11e -.09 d
+80%
+(N = 128).68 .32 8 .24 8 .20 b .25 b .09 d -.07 d
+80%
+(N = 125).72 .30 8 .20 8 .21b .32 8 .13 e -.II e
+80%
+(N = 127).73 .36 8 .15 b .28 8 .27 8 .10 d -.09 d
+a pc.OOl
+b pc.Ol
+c p<.05
+d not significant  at .05 level
+
+--- PAGE 80 ---
+70
+TABLE  rV-8
+Dependent  Variable  Trust  - Subgroupings  by Product  Importance
+Standardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Import.  
+(N = 174).68 .16 b .24 a .45 a .17 b .07 d -.04 d
+80%
+(N = 140).69 .16 b .28 a .42 a .19 b .02 d -.05 d
+80%
+(N = 140).69 .20 a .20 a .43 a ,15 e ,14 e -.04 d
+80%
+(N = 140).65 .12 e .22 a .49 a .15 e .06 d -.05 d
+High Import.  
+(N = 174).62 .33 a ,12 e .35 a .19 b .05 d -.05 d
+80%
+(N = 140).66 .36 a .11d .36 a .19 b .04 d -.09 d
+80%
+(N = 138).59 34 a .07 d .34 a .19 b .02 d .02 d
+80%
+(N = 138).57 .29 a ,17 e .31a .18 e .09 d -.04 d
+a pc.001
+b pc.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 81 ---
+71
+TABLE  FV-9
+Dependent  Variable  Satisfaction
+Unstandardized  Parameter  Estimates
+Sample R1 2Product
+Rating Disclosing Initiating Signaling Frequency Richness
+Full
+(N = 435).64 .80 a .22 a .26 a .20 a .21a -1.74  d
+Low  Age 1 
+(N = 176).68 .72 a .24 b .24 a .28 a .42 a -4.96 c
+High  Age 
+(N = 172).60 .87 a .27 a .25 a .11d -.04 d 1.18 d
+Low Diversity  2 
+(N = 154).65 .53 a ,13 d .30 a .29 a .29 b -1.24  d
+High Diversity  
+(N = 158).68 .93 a .24 a .20 a .21b .20 d -4.17  d
+1 Coefficient  of Frequency  greater  in low age group  (Chow  test: F = 10.63  b).
+2 Coefficient  of Product  Rating  greater  in high diversity  group  (Chow  test: F = 4.02 e).
+a pc.001
+b pc.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 82 ---
+72
+TABLE  IV-9 (continued)
+Dependent  Variable  Satisfaction
+Unstandardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Dynam.  
+(N = 162).70 .78 a .21a .33 a .18 b .18 d -.53 d
+High  Dynam. .60 .95 a .25 a .18 b .18 c .20 d -3.70  d
+Low Import.  
+(N = 174).65 .60 a .24 b .36 a .18 b .29 b -1.31 d
+High  Import.  
+(N = 174).63 .98 a .25 a .22 a .12 d .12 d .66 d
+Low Service  
+(N = 226).60 .92 a .22 a .23 a .15 c .24 c -2.82  d
+High  Service  
+(N = 175).69 .77 a .23 a .31a .22 a .18 d -.92 d
+a pc.001
+b pc.Ol
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 83 ---
+73
+TABLE  IV-10  
+Dependent  Variable  Satisfaction  - Pooled  Sample  
+Standardized  Parameter  Estimates
+Sample R2Product
+Rating Disclosing Initiating Signaling Frequency Richness
+Full
+(N = 433).64 .33 a .18 a .28 a .19 a .11a -.03 d
+80%
+(N = 347).62 .33 a .17 a .29 a .18 a .11b -.04 d
+80%
+(N = 347).63 .34 a .17 a .27 a .19 a .12 b -.01 d
+80%
+(N = 346).64 .33 a .19 a .26 a .18 a .10 b -.01 d
+a pc.001
+b p<.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 84 ---
+74
+TABLE  IV-11
+Dependent  Variable  Satisfaction  - Subgroupings  by Age
+Standardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low  Age 
+(N = 176).68 .28 a .17 b .25 a .25 a .21a -.09 c
+80%
+(N = 142).73 .30 a .18 b .25 a .24 a .25 a -.11 c
+80%
+(N = 141).69 .27 a .20 b .23 a .25 a .21a -.08 d
+80%
+(N = 140).72 .24 a .15° .29 a .28 a .20 a -.09 d
+High  Age 
+(N = 172).60 .39 a .25 a .27 a .11d -.02 d .02 d
+80%
+(N = 135).59 .37 a .24 a .29 a .12 d .02 d -.01 d
+80%
+(N = 138).62 .38 a .27 a .29 a .08 d -.01 d .01 d
+80%
+(N = 140).66 .40 a .27 a .28 a .13 c -.07 d .03 d
+a pc.001
+b pc.01
+c pc.05
+d not significant  at .05 level
+
+--- PAGE 85 ---
+75
+TABLE  IV-12  
+Dependent  Variable  Satisfaction  - Subgroupings  by Diversity  
+Standardized  Parameter  Estimates
+Sample R2Product  
+Rating Disclosing Initiating Signaling Frequency Richness
+Low Diversity  
+(N = 154).65 .23 a .11 d .31a .27 a .15 b -.02 d
+80%
+(N = 123).68 .24 a .11d .34 a .30 a .10 d -.07 d
+80%
+(N = 123).68 .19 b .18 b .31a .23 b .19 b .01 d
+80%
+(N = 122).64 .22 b .09 d .34 a .27 a .14 e -.03 d
+High Diversity  
+(N = 158).68 .39 a .19 a .23 a .21b .10 d -.08 d
+80%
+(N = 128).67 .39 a .19 b .28 a .17 c .04 d -.09 d
+80%
+(N = 125).68 .39 a .20 b .22 b .20 b ,14 e -.06 d
+80%
+(N = 127).68 .40 a .17 b .25 a .19 b .11d -.09 d
+a pc.001
+b p<.01
+c p<.05
+d not significant  at .05 level
+
+--- PAGE 86 ---
+V. FINDINGS  AND DISCUSSION
+A. Main  Effects
+1. Actual  and Predicted  Share  Ratio. On balance,  our findings  suggest  that 
+boundary  behavior  has little ability  to predict  sellers ’ shares. Specifically,  since  
+none  of the regression  coefficients  for model  4.1 were  significant,  hypotheses  1 A, 
+IB, IC, ID, 4A, 4B, 4C, 7A, and 7B, relating  to the main  effects  on actual  share  
+ratio, were not supported.  Likewise,  none of the regression  coefficients  for 
+model  4.2 were significant,  thus failing  to support  hypotheses  2A, 2B, 2C, 2D, 
+5A, 5B, 5C, 8 A, and 8B, relating  to the main effects  on predicted  share ratio.  
+In sharp contrast  to these findings,  it appears  that boundary  behavior  is quite  
+effective  in explaining  buyers ’ trust and satisfaction  (discussed  below). In light 
+of these latter  findings,  the former  are surprising  because  trust in, and satisfac ­
+tion with, a seller  might,  on their own merits,  reasonably  be expected  to lead to 
+rewarding  that seller with greater  business. Parenthetically,  we tested this 
+supposition  by regressing  both actual  share ratio and predicted  share ratio on 
+trust and satisfaction,  and neither  variable  was significant  in explaining  sellers ’ 
+shares  (actual  or predicted).  It is also important  to bear in mind that product  
+rating was non-significant  in regressions  for sellers ’ shares (both actual and 
+predicted).
+76
+
+--- PAGE 87 ---
+77
+These  results  suggest  that other  factors,  not addressed  in the study,  underlie  
+buyers ’ failure  to "reward"  those  suppliers  which  they trust, and with which  they 
+are satisfied,  and whose  product  they rate highly. Clearly,  buyers  may choose  to 
+reward  suppliers  in ways other than increasing  shares  (e.g., paying  a premium  
+price, "trading  up" to high-margin  goods, accepting  seller-preferred  deliv-  
+ery/service  schedules,  and so on). Also,  non-performance  factors  may influence  
+sellers ’ shares  (e.g., sellers ’ location,  complementary  offerings,  reciprocity,  and 
+so on). On the other hand, it may be that control  mechanisms  necessary  to 
+effect  "performance-share"  matching  are not in place in many  organizations,  or 
+that momentum  and convenience  tend  to perpetuate  buying  patterns  even  though  
+disconfirming  evidence  is available.  The concluding  section  of the dissertation  
+discusses  these issues  more fully.
+Notwithstanding  the foregoing  discussion,  which  addresses  omitted  variables  
+which might be responsible  for the "non-findings"  relating  to sellers ’ shares,  
+methodological  limitations  must  also be considered.  It should  be noted  that the 
+study  employed  a single  informant  in each organization.  Consequently,  it is not 
+possible  to fully assess  the construct  validity  of measures  employed  in the study,  
+particularly  convergent  validity  (Campbell  and Fiske 1959; Phillips  1981). Had 
+multiple  methods  (multiple  informants)  been utilized  for each organizational  
+measure,  such an assessment  would  be possible.  This limitation  was knowingly  
+
+--- PAGE 88 ---
+78
+accepted  in the study  because  the chosen  organizational  informants  were those  
+individuals  thought  to have greatest  access  to, and knowledge  of, the requested  
+information.  Nonetheless,  this is an important  limitation.
+2. Trust and Satisfaction,  Because  the regression  coefficients  of sellers ’ 
+vertical  involvement,  sellers ’ lateral  involvement,  buyers ’ vertical  involvement,  
+and buyers ’ lateral  involvement  in model  4.3 (original  trust model)  were all non­
+significant,  hypotheses  3A, 3B, 3C, and 3D (Table  III-1)  were not supported.  In 
+regression  model  4.5 (final  trust model),  coefficients  of disclosing,  initiating,  and 
+signaling  were each significant,  and in the hypothesized  direction  (see Table  IV- 
+5), thus supporting  hypotheses  6A, 6B, and 6C respectively.  Coefficients  for 
+frequency  and richness  were not significant;  hypotheses  9A and 9B were,  
+therefore,  not supported.  As expected,  product  rating  also had a strong  positive  
+relationship  to trust (Table  V-1 summarizes  findings  resulting  from analysis  of 
+the final trust model). Overall,  then, our findings  suggest  that product  rating,  
+disclosing,  initiating,  and signaling  have a positive,  and important,  influence  on 
+buyers ’ trust (R2 for the final trust model = .62, see Table IV-4). Initiation  
+appears  to have the greatest  influence,  moderately  greater  than product  rating,  
+disclosing,  and signaling,  which  are all of roughly  equal  influence  (see full sample  
+standardized  parameter  estimates,  Table  IV-5). In general,  sellers  who reveal  
+
+--- PAGE 89 ---
+79
+the less-than-glamorous  aspects  of their businesses,  make  overt efforts  to keep  
+abreast  of their buyers ’ changing  businesses,  and clearly communicate  their  
+intentions,  appear  to be trusted  to a greater  degree  than sellers  who do not do 
+these  things  as well or to as great  a degree.  These  findings  should  be of interest  
+to both researchers  and managers.  We extend  prior  research  findings  in support  
+of a communication  > trust  linkage  (Anderson  and Nanis  1990;  Anderson  and 
+Weitz 1989; Loomis  1959), by identifying  specific  kinds of communication  
+behavior  which appear  to be influential.  For managers,  our findings  provide  
+actionable  bases  for "effective"  communication.
+Regression  coefficients  of sellers ’ vertical involvement,  sellers ’ lateral  
+involvement,  buyers ’ vertical  involvement,  and buyers ’ lateral  involvement  in 
+model  4.4 (original  satisfaction  model)  were  all non-significant.  Accordingly,  our 
+prior expectation  of a positive  relationship  between  these variables  and 
+satisfaction  was not supported.  In regression  model  4.6 (final  satisfaction  model)  
+coefficients  of product  rating,  disclosing,  initiating,  signaling,  and frequency  are 
+all significant,  and positive,  in support  of our prior expectations.  Finally,  the 
+coefficient  of richness  is non-significant,  failing  to support  our expectation  (Table  
+V-2 summarizes  findings  resulting  from analysis  of the final satisfaction  model).  
+These  findings  suggest  that, overall,  satisfaction  with the relationship  is positively,  
+and substantially  (R2 for the final satisfaction  model = .64, see Table IV-9),  
+
+--- PAGE 90 ---
+80
+influenced  by product  rating,  disclosing,  initiating,  signaling,  and communication  
+frequency.  Product  rating  and initiating  appear  to have the greatest  influence  
+on satisfaction,  followed  by disclosing  and signaling,  followed  by frequency  (see 
+full sample standardized  parameter  estimates,  Table IV-10). In general,  
+satisfaction  with the relationship  and trust  appear  to be influenced  similarly,  with 
+the exception  that communication  frequency  has a positive  overall  effect on 
+satisfaction  (but not trust). On balance,  then, it appears  that sellers  can employ  
+essentially  the same communication  strategy  to enhance  both buyers ’ trust and 
+their overall  satisfaction  with the relationship.  The single  point of difference  
+appears  to be that increasing  communication  frequency  may be more effective  
+in enhancing  satisfaction.
+The above discussion  must be qualified,  however,  by noting the cross ­
+sectional  nature  of the study. This is an important  limitation  which  significantly  
+tempers  our ability  to make  causal  attributions.  It is possible,  for example,  that 
+more frequent  communication,  as well as greater  disclosure,  initiating,  and 
+signaling  tend to occur  in those  relationships  which  are characterized  by greater  
+trust  and satisfaction  (i.e., reverse  causation).  Furthermore,  although  our a priori  
+reasoning  was that greater  richness  would  lead to greater  trust and satisfaction,  
+it is possible  that low trust and satisfaction  ("crisis  levels")  could lead to buyer  
+and seller engaging  in greater  face-to-face  discussions  (to "fix" the problem).
+
+--- PAGE 91 ---
+81
+Due to the cross-sectional  nature  of the study,  had both processes  taken  place  
+in our sample,  richness  would  appear  to be unrelated  to trust (or satisfaction)  as 
+we observed.  Consequently,  our findings,  both in support  of and contrary  to a 
+priori  reasoning,  should  be interpreted  cautiously.
+B. Moderating  Effects
+1. Actual  and Predicted  Share Ratio. None of the subgroup  regression  
+coefficients  in models  4.1 (actual  share ratio) and 4.2 (predicted  share ratio)  
+were  significant  for subgroupings  on any of the moderator  variables;  consequent ­
+ly no moderating  effects  were  found.  Accordingly  hypotheses  10A-1,13A-I,16A-  
+1, and 19A-I (Table  IH-1),  regarding  moderating  effects  on actual  share ratio,  
+were  not supported.  Similarly,  hypotheses  11A-1,14A-1,17A-I,  and 20A-I  (Table  
+III-2) were not supported.  Given  the absence  of main effects  on actual and 
+predicted  share ratios, and the low explained  variance  (R = .029 and .034, 
+respectively),  these results  are not surprising.  The previously  noted  limitations  
+regarding  omitted  variables,  and the use of a single  informant,  might  also have  
+contributed  to these "non-findings."2
+2, Trust and Satisfaction.  As noted earlier, the subgroup  regression  
+coefficients  of sellers ’ vertical  involvement,  sellers ’ lateral  involvement,  buyers ’
+
+--- PAGE 92 ---
+82
+vertical  involvement,  and buyers ’ lateral  involvement,  in models  4.3 (original  
+trust model)  and 4.4 (original  satisfaction  model)  were all non-significant.  
+Accordingly,  hypotheses  18A-D,  21A-D,  and  22A-D,  regarding  moderating  effects  
+of the influence  of these  variables  on trust  (Table  III-3),  were  not supported,  nor 
+were our expectations  of similar moderating  effects regarding  satisfaction.  
+Findings  regarding  the remaining  moderating  effects involving  trust and 
+satisfaction,  obtained  from subgroup  analyses  of the final trust model  (4.5) and 
+the final satisfaction  model  (4.6),  are discussed  below  and summarized  in Tables  
+V-1 and V-2.
+First,  concerning  environmental  dynamism,  no moderating  effects  were  found  
+on the relationship  between  trust and disclosing,  initiating,  or signaling.  Thus,  
+hypotheses  12A, 12B, and 12C, respectively,  were not supported.  Second,  
+concerning  environmental  diversity,  no moderating  effects  were found on the 
+relationship  between  trust and disclosing  or signaling;  therefore,  hypotheses  15A 
+and 15C, respectively,  were not supported.  Environmental  diversity  moderates  
+the relationship  between  trust and initiating,  but contrary  to our hypothesis  15B. 
+Also, environmental  diversity  moderates  the relationship  between  trust and 
+product  rating, such that the relationship  is stronger  when environmental  
+diversity  is high. Third,  concerning  product  importance,  no moderating  effects  
+were  found  on the relationship  between  trust  and disclosing,  initiating,  signaling,
+
+--- PAGE 93 ---
+83 
+frequency,  or richness;  thus, hypotheses  18E, 18F, 18G, 18H, and 181 are not 
+supported.  Trust  and product  rating  are, however,  more  strongly  related  when  
+product  importance  is high. Fourth,  concerning  product  type, no moderating  
+effect was found on the relationship  between  trust and disclosing,  initiating,  
+signaling,  frequency,  or richness;  thus, hypotheses  2IE, 21F, 21G, 21H, and 211 
+are not supported.  Finally,  concerning  age of the relationship,  frequency  is more  
+strongly  related  to trust when  age is low, thus supporting  hypothesis  22H. Age 
+does not, however,  moderate  the relationship  between  trust and disclosing,  
+initiating,  signaling,  or richness. Hypotheses  22E, 22F, 22G, and 221 are, 
+therefore,  not supported.  Refer  to Table  IV-4 for the results  of those  Chow  tests 
+significant  at the .05 level.
+Findings  regarding  moderating  effects  on satisfaction  are quite similar  to 
+those for trust. The only two exceptions  are as follows: (1) environmental  
+diversity  has no moderating  effect  on the relationship  between  satisfaction  and 
+initiating  (whereas,  trust and initiating  are more strongly  related  when  diversity  
+is low), and (2) product  importance  has no moderating  effect  on the relationship  
+between  satisfaction  and product  rating  (whereas,  trust and product  rating  are 
+more strongly  related  when  product  importance  is high). All other  moderating  
+effects  are similar  to trust. Refer  to Table  IV-9 for the results  of those Chow  
+tests significant  at the .05 level.
+
+--- PAGE 94 ---
+84
+Our findings  suggest  that when  age of the relationship  is low, communication  
+frequency  has a greater  positive  influence  on trust. Similarly,  age of the 
+relationship  also appears  to moderate  the influence  of communication  frequency  
+on satisfaction.  Apparently,  communication  frequency  is more  influential  in the 
+early stages  of a relationship,  when  initial  perceptions  are being  formed.  Later  
+on perceptions  may become  "calcified"  and relatively  resistant  to modification.  
+Sellers  may be particularly  interested  in this finding  because  it is easy for them  
+to distinguish  among  customers  according  to age. Therefore,  it should  prove  
+useful  for them  to design  communication  programs  separately  for different  age 
+groups,  with more "intensive"  communication  strategies  directed  to the newer  
+customers.
+Our findings  also suggest  that environmental  diversity  moderates  the 
+influence  of both initiating  and product  rating  on buyers ’ trust. When  environ ­
+mental  diversity  is low, initiating  appears  to have a greater  influence  on trust 
+than when  environmental  diversity  is high. As noted,  this finding  runs counter  
+to our hypothesis.  Since  our definition  of environmental  diversity  focuses  on the 
+level of diversity  in buyers ’ output  markets  (customers),  it is logical  to expect  
+that, in instances  of high diversity,  initiating  behavior  on the part of sellers  
+(efforts  to keep abreast  of buyers ’ customers  and competitive  environment)  
+would  have a greater  influence  on buyers ’ trust. However,  the opposite  was
+
+--- PAGE 95 ---
+85 
+found  in our sample,  i.e., the influence  of initiating  on trust appears  to be weaker  
+when  environmental  diversity  is high. In search  of possible  explanations  for this 
+finding,  we first note that the influence  of product  rating  on buyers ’ trust was 
+also moderated  by environmental  diversity,  but in the opposite  direction.  That  
+is, product  rating  was found  to have a greater  positive  influence  on buyers ’ trust 
+for the high diversity  group. Collinearity  between  product  rating  and initiating  
+could,  therefore,  lead to the unexpected  finding  regarding  initiating.  However,  
+the correlation  between  product  rating  and initiating  is only .41 (Table  IV-2),  
+and this, when considered  with the relatively  stable subgroup  parameter  
+estimates  (Table IV-7), suggests  that collinearity  is unlikely  to have been  
+responsible.  Another  possible  explanation  for this finding  is that buyers ’ facing  
+diverse markets  produce  a wider range of products,  have more suppliers,  
+purchase  a wider  variety  of inputs,  and thus, on average,  attach  less importance  
+to a single  product/supplier  than do buyers  facing  less diverse  markets.  This 
+possibility  was investigated  and rejected.  No significant  difference  in the level 
+of target product  importance  was found between  the high diversity  and low 
+diversity  groups;  this is confirmed  by the very low correlation  (.06) between  
+environmental  diversity  and target  product  importance.  Finally,  buyers  in firms  
+facing  very diverse  markets  (serving  numerous  customers  unrelated  to the target  
+product  via the value chain)  may view initiating  (attempts  by suppliers  to "find
+
+--- PAGE 96 ---
+86
+out" about  their customers  and competitive  situation)  as rather  irrelevant.  This 
+explanation  is, however,  highly  speculative,  and further  research  would  appear  
+to be necessary  before  drawing  any such conclusion.
+Our failure  to find other  moderating  effects  is not offered  as evidence  that 
+the other  moderator  variables  are unrelated  to boundary  behavior.  For example,  
+buyers ’ levels of trust and satisfaction  may tend to vary systematically  across  
+specific  product  categories,  within  our broad  classes  of product  type. According ­
+ly, the variance  due to specific  category  effects might have overwhelmed  
+boundary  behavior  effects,  thus leading  to our finding  that product  type has no 
+moderating  influence.  Further,  dimensions  such as complexity  and intangibility  
+may be the most significant  product-related  factors bearing  on boundary  
+behavior.  Our four broad  classes  of product  type may not have cleanly  tapped  
+differences  on these dimensions.  A second  example  concerns  environmental  
+dynamism,  where,  again  no moderating  effects  were  observed.  It is possible  that 
+under  conditions  of high dynamism,  a great  deal of boundary  behavior  "noise"  is 
+introduced  (that is, excessive,  ineffective  communication),  stimulated  by the 
+turbulent  environment.  The presence  of such "noise" would be likely to 
+confound  the moderating  effect  of dynamism  on the influence  of communication  
+frequency,  because  the relative  efficiency  of communication  may  differ  across  the 
+high/low  dynamism  conditions.  Clearly,  a number  of other  explanations  might
+
+--- PAGE 97 ---
+87
+be offered  for these,  and other,  hypothesized  moderating  effects  which  we failed  
+to observe.  Accordingly,  we again  note that our findings  should  be interpreted  
+cautiously.
+C. Summary
+in summary,  our findings  suggest  that, in addition  to product  rating,  the 
+boundary  behaviors,  (1) disclosing,  (2) initiating,  and (3) signaling,  have,  overall,  
+a positive  influence  on buyers ’ trust. Furthermore,  when the age of the buyer ­
+seller relationship  is low, communication  frequency  has a significant,  and 
+significantly  greater,  positive  influence  on trust than  when  age of the relationship  
+is high. Overall,  the boundary  behaviors,  (1) disclosing,  (2) initiating,  (3) 
+signaling,  and (4) frequency,  appear  to have a positive  influence  on buyers ’ 
+satisfaction.  Age of the relationship  also moderates  the influence  of communica ­
+tion frequency  on buyers ’ satisfaction;  when age is low the influence  of 
+communication  frequency  on satisfaction  is stronger  that when age is high.  
+Figure  V-1 presents  a revised  model  of the influence  of boundary  behavior  on 
+buyers ’ trust and satisfaction,  based  on the findings  of the study. Our study  thus 
+extends  prior research  by identifying  specific  communication  behaviors  which  
+lead to trust and satisfaction.  Managers  should  also be interested  because  these  
+boundary  behaviors  represent  actionable  interaction  strategies.  This finding  
+
+--- PAGE 98 ---
+88
+points  to the importance  of boundary  behavior  in the early  stages  of relationship  
+development,  and suggests  to managers  that newer  customers  could  usefully  be 
+targeted  with more intensive  communication  strategies.
+Finally,  it should  be noted  that environmental  diversity  appears  to moderate  
+the influence  of initiating  on buyers ’ trust. When  diversity  is high, the effect  of 
+initiating  on trust  appears,  unexpectedly,  to be weaker  than  when  diversity  is low. 
+Given  the unexpected  direction  of this effect,  and lack of compelling  explanation  
+for it, it seems  premature  to offer  recommendations  without  further  investigation.
+
+--- PAGE 99 ---
+89
+FIGURE  V-l
+Revised  Model  of Sellers'  Performance  in Business  Relationships
+Age of 
+Relationship  (a)
+Sellers'  
+Performance
+• Trust
+• Satisfaction Boundary  
+Information  
+Capacity
+FrequencyCoordinative
+Ikliavisr
+Disclosing
+Initiating
+Signaling
+(a) Age has a moderating  effect  on the influence  of frequency  only.
+
+--- PAGE 100 ---
+90
+TABLE  V-l
+Dependent  Variable  Trust
+Summary  of Findings
+Explanatory
+VariableMain
+EffectModerating  Effects
+Dynamism Diversity Importance Type Age
+Disclosing + a — —— — — — —
+(6A) S (12A)  ns (15A)  ns (18E)  ns (21E)  ns (22E)  ns
+Initiating + — — < b —— — - — —
+(6B) S (12B)  ns (15B)  ns (18F)  ns (21F)  ns (22F)  ns
+Signaling + — ——__ d— — — —
+(6C) S (12C)  ns (15C) ns (18G)  ns (21G)  ns (22G)  ns
+Frequency
+(9A) ns— —
+(18H)  ns (21H)  ns (22H)  5
+Richness
+(9B) ns— —
+(181) ns (211)  ns (221)  ns
+Product  Rating + — >c > —
+a To be read as: Disclosing  was found  to have a positive  influence  on trust.
+b To be read as: The influence  of initiating  on trust was found  to be weaker  when  diversity  was 
+high than when  diversity  was low.
+c To be read as: The influence  of product  rating  on trust was found  to be stronger  when  product  
+importance  was high than when  product  importance  was low.
+d Effect  not significant  at .05 level.
+5 Hypothesis  supported.
+ns Hypothesis  not supported.
+
+--- PAGE 101 ---
+91
+TABLE  V-2
+Dependent  Variable  Satisfaction
+Summary  of Findings
+Moderating  Effects
+Explanatory Main
+Variable Effect Dynamism  Diversity Importance Type Age
+Disclosing + a „d „ __ — —
+Initiating + — -- — — —
+Signaling + — -- — —
+Frequency + — -- — — <c
+Richness — -- — -- —
+Product  Rating + - >b - — —
+a To be read as: Disclosing  was found  to have a positive  influence  on satisfaction.
+b To be read as: The influence  of product  rating  on satisfaction  was found  to be stronger  when  
+diversity  was high than when  diversity  was low.
+c To be read as: The influence  of frequency  on satisfaction  was found  to be weaker  when  age of 
+the relationship  was high than when  age of the relationship  was low.
+d Effect  not significant  at .05 level.
+
+--- PAGE 102 ---
+VI. CONCLUSION
+We have examined  how boundary  behavior  influences  buyers ’ trust in, and 
+satisfaction  with, suppliers.  We have also examined  the influence  of boundary  
+behavior  on the share  of business  received  by suppliers  in competitive  situations.  
+Further,  we have  examined  how  effects  of the environment,  buying  situation,  and 
+age of the relationship  moderate  these influences.
+In sum, boundary  behavior  is quite  effective  in explaining  variance  in buyers ’ 
+levels of trust and satisfaction,  but is ineffective  in explaining  variance  in the 
+amount  of business  received  by suppliers.  The age of the buyer-seller  relation ­
+ship moderates  the influence  of communication  frequency  on both trust and 
+satisfaction.  In each case communication  frequency  has a stronger  (positive)  
+influence  when age of the relationship  is relatively  low, thus pointing  to the 
+importance  of maintaining  an "open"  channel  of communication  in the early  
+stages  of relationships.  This finding  should  be important  to managers  who have 
+"key" account  responsibility;  age of the relationship  may be a variable  which  is 
+overlooked  by many  of them and we provide  evidence  that newer  relationships  
+may benefit  most from intensive  communication  strategies.  Environmental  
+diversity  was found  to moderate  the influence  of initiation,  but, surprisingly,  in 
+the opposite  direction  from that which  we had predicted.  As noted earlier,  it
+92
+
+--- PAGE 103 ---
+93
+does not appear  prudent  to draw conclusions  from this finding.
+Of particular  interest  are the "non-findings"  relating  to sellers ’ shares of 
+business.  This area would seem to be a particularly  fruitful  one for future  
+research.  Prior  research  on market  share  has concentrated  heavily  on consumer  
+markets,  primarily  retail grocery  (e.g, Guadagni  and Little 1983; Lattin and 
+Bucklin  1989). Recently,  this research  has benefitted  from scanner  data which  
+facilitates  investigation  at the level of the individual  consumer.  In the sparse  
+literature  on competition  in business  markets,  however,  no prior studies  have 
+investigated  sellers ’ shares,  or their antecedents,  at the individual  account  level.  
+It appears  that an understanding  of buyers ’ allocation  behavior  in competitive  
+supplier  situations  would  fill an important  void in our knowledge  of industrial  
+buyer  behavior.  Our initial  attempt  at filling  this void suggests  several  avenues  
+that should  be pursued  in future  research.
+First,  although  we defined  sellers ’ performance  in terms  of share,  follow-up  
+research  should examine  the notion of "reward,"  as seen from the buyer ’s 
+perspective.  Rather  than attempting  to explain  share in isolation  from other  
+reward  factors,  it will probably  prove  more useful  to examine  the behavior  of a 
+set of variables  which captures  this notion. In addition  to share, suggestions  
+advanced  earlier  include  (1) price  premium,  (2) favoring  high-margin  items,  and 
+(3) accepting  seller-preferred  delivery/service  schedules. Second,  reward  
+
+--- PAGE 104 ---
+94
+structures  are likely to vary by industry,  therefore,  future research  should  
+examine  them by industry.  Third, "non-performance"  factors  such as sellers ’ 
+location,  complementary  offerings,  and reciprocity  are likely  to have an effect  on 
+the manner  in which  buyers  reward  sellers. These  factors  were not considered  
+in this study. Therefore,  a model  predicting  sellers ’ rewards  might  include  both 
+a set of "performance"  antecedents  (those in this study) and a set of "non ­
+performance"  antecedents.  Fourth,  proceeding  in a somewhat  different  direction,  
+the issue of performance-reward  matching  (control)  is raised  by the findings  of 
+our study. We did not assess  whether  buyers  in our sample  had in-place  supplier  
+rating  systems. Such systems  range from very informal  methods  to elaborate,  
+computer-based  "cost-ratio"  plans  (Hutt  and Speh 1989). It would  be interesting  
+to examine  whether  share,  under  any of these  systems,  is differentially  predicted  
+by supplier  evaluations.  To date, no study has addressed  this question.
+
+--- PAGE 105 ---
+APPENDIX  A
+Measures
+Share  Ratio  - Actual
+1. In all, how many  suppliers  did you use for the target  product  during  the past year?
+2. What percent  of last year ’s target product  purchases  (dollar  value)  were from the target  
+supplier?
+Computed  as the ratio  of target  supplier ’s actual  share,  as reported  by buyer,  to "expected  share"  
+(expected  share = 1/n, where  n = number  of suppliers  used by buyer  for target  product).
+Share  Ratio  - Predicted
+1. Assuming  you were not bound  by contractual  or other  constraints  (and the target  supplier  
+had no supply  limitations),  what share  would  the target  supplier  have received?
+Computed  as the ratio of target  supplier ’s predicted  share  to expected  share (above).
+Trust
+1. We are confident  they would  charge  us fair prices  even if they had an opportunity  to take 
+advantage  of us.
+2. We’re afraid  they would  cut corners  if we let up on inspection.
+3. If we were  facing  unprofitable  times,  we believe  that they  would  share  the burden  by trimming  
+their margins.
+4. If it was important  to us, we could  count  on them  to do a rush  job even if they had to absorb  
+some  additional  costs.
+5. They  readily  acknowledge  it if another  supplier  can meet our needs  better.
+6. We are confident  in their ability  to help us solve any problems  involving  the target  product.
+7. From  our perspective,  this supplier  is very competent.
+Items  scored  on a 5-point  scale ranging  from "strongly  disagree"  to "strongly  agree."
+95
+
+--- PAGE 106 ---
+96
+Satisfaction  with Relationship
+1. We are delighted  with our overall  relationship  with them.
+2. We wish more  of our suppliers  were like this one.
+3. We would  like our relationship  with them to continue  in the coming  years.
+4. It is a pleasure  dealing  with this supplier.
+5. There  is always  some  problem  or another  with this supplier.
+6. There  are close  ties between  us and this supplier.
+Items  scored  on a 5 point  scale ranging  from "strongly  disagree"  to "strongly  agree."
+Buyers'  Lateral  Involvement
+Please  give 10 points  to the department  in your firm which  communicated  most frequently  with 
+the target  supplier  over the past year, then give 0 to 9 points  to the remaining  departments.  (An 
+illustrative  example  followed.)
+1. Sales/Marketing
+2. Production/Quality  Control
+3. R&D/Engineering
+4. Finance/Accounting
+5. Transportation/Distribution
+6. Purchasing/Materials  Management
+Computed  as the number  of non zero departments.  Adapted  from Johnston  and Bonoma  1981.
+Buyers ’ Vertical  Involvement
+Please  give 10 points  to the level in your  firm  which  communicated  most  frequently  with the target  
+supplier  over the past year, and 0 to 9 points  to the remaining  levels,  as above.
+1. Top Management  (Directors,  Pres.,  Exec.  VP, and so on)
+2. Functional  Vice President
+3. Department  Manager  (Sales  Mgr.,  Pur  ch. Mgr.,  and so on)
+4. Department  Members  (Sales  Rep.,  Purch  Agent,  and so on)
+5. Clerical
+Computed  as the number  of non zero levels. Adapted  from Johnston  and Bonoma  1981.
+
+--- PAGE 107 ---
+97
+Sellers ’ Lateral  Involvement
+Now,  please  focus  on the target  supplier  and give 10 points  to the department  in their company  
+which  communicated  most frequently  with your firm over the past year, and 0 to 9 points  to the 
+remaining  departments.
+Same  scale and computation  as for buyers ’ lateral  involvement.
+Sellers ’ Vertical  Involvement
+Please  give 10 points  to the level in the target  supplier  which  communicated  most frequently  with 
+your firm over the past year, and 0 to 9 points  to the remaining  levels.
+Same  scale and computation  as for buyers ’ vertical  involvement.
+Disclosing
+1. With respect  to the target  supplier,  it can be said that they . . .
+. . would  try to cover  it up if they had a manufacturing  setback.
+. . tend to be secretive  about  politics  in their company.
+. . would  freely  admit  it if they were having  internal  labor  problems.. . tend to sidestep  talk about  weaknesses  in their organization.
+. . are forthcoming  in discussing  managerial  promotions  and changes  in their company.
+. . give us a clear picture  of what goes on behind  the scenes  in their company.
+Items  scored  on a 5-point  scale ranging  from "strongly  disagree"  to "strongly  agree."
+Initiating
+1. Keeping  in mind your overall  relationship  with the target  supplier,  please  indicate  the extent  
+to which  they . . .
+. . spend  time trying  to learn how they can help you lower  the cost of using  the target  
+product.
+. . spend  time trying  to help you gain maximum  benefit  from the target  product.
+. . make  an effort  to keep abreast  of your customers ’ changing  needs.
+. . show  an interest  in helping  you become  more  competitive.
+. . keep up with changes  in your competitive  environment.
+. . show  interest  in understanding  how your firm works.
+Items  scored  on 5-point  scales  ranging  from "not at all" to "to a great extent."
+
+--- PAGE 108 ---
+98
+Signaling
+1 . With respect  to the target  supplier,  it can be said that they . . .
+.. give us ample  notice  of planned  price  changes.
+. . do a good  job of notifying  us in advance  of any delivery  schedule  changes.
+.. tell us of any changes  in billing  procedures  well ahead  of time.
+.. would  inform  us early  of any plans  to modify  the target  product.
+.. would  discuss  with us any plans  to change  the quality  of the target  product.
+.. would  give us plenty  of notice  if their  level  of after-sales  service  was going  to change.
+Items  scored  on 5-point  scales  ranging  from "strongly  disagree"  to "strongly  agree."
+Frequency
+1. How  frequently  did the target  supplier  use the following  to communicate  with  your  firm during  
+the past year?
+- Letters  or written  reports?
+- Telephone  calls?
+- Face-to-face  meetings?
+Items scored on 5-point  scales labeled  "6 months  or less often," "Quarterly,"  "Bi-monthly,"
+"Monthly,"  "Weekly  or more  often." Adapted  from Van de Ven and Ferry  (1980).
+Richness
+Computed  as score  for face-to-face  item on frequency  scale divided  by frequency  score.
+Environmental  Dynamism  - Frequency  Component
+1 . During  the past year, how frequently  have changes  occurred  in .. .
+. . the product  or service  features  desired  by your customers?
+. . the product  or service  features  offered  by your competitors?
+. . the price sensitivity  of your customers?
+. . the pricing  tactics  of your competitors?
+Items  scored  on 5-point  scales  ranging  from "no changes"  to "very frequent  changes."  Adapted  
+from Achrol  and Stern (1988)  and Doty  et al. (1988).
+
+--- PAGE 109 ---
+99
+Environmental  Dynamism  - Effect  Component
+1. To what extent  is your firm affected  bv changes  in . . .
+. . the product  or service  features  desired  by your customers?
+.. the product  or service  features  offered  by your competitors?
+.. the price sensitivity  of your customers?
+. . the pricing  tactics  of your competitors?
+Items  scored  on 5-point  scales  ranging  from  "very  little"  to "very  much."  Adapted  from  Achrol  and 
+Stern  (1988)  and Doty  et al. (1988).
+Environmental  Dynamism
+Computed  as the product  of the frequency  and effect  components  above.
+Environmental  Diversity  - Consumers
+1. How  similar  or different  are your individual  customers,  in terms  of . . .
+. . demographic  characteristics  (income,  profession,  education,  social  class)?
+. . preferences  for product/service  features?
+. . preferences  for after sales service?
+. . credit  needs?
+Items  scored  on 5-point  scales  ranging  from  "very  similar"  to "very  different."  Adapted  from  Achrol  
+and Stern  (1988).
+Environmental  Diversity  - Business  Customers
+1. How similar  or different  are your business  customers,  in terms  of . . .
+. . type of business?
+. . preferences  for product/service  features?
+. . preferences  for after  sales service?
+. . credit  needs?
+Items  scored  on 5-point  scales  ranging  from  "very  similar"  to "very  different."  Adapted  from  Achrol  
+and Stern  (1988).
+
+--- PAGE 110 ---
+100
+Environmental  Diversity
+Computed  as average  of consumer  and business  components,  weighted  by proportion  of customer  
+type.
+importance
+1. How  important  is . . .
+. . the price of the target  product  to your firm ’s profitability?
+. . the quality  of the target  product  to the quality  of your products?
+. . on-time  delivery  for maintaining  smooth  operations  in your firm?
+. . the level of after-sales  service  for maintaining  smooth  operations?
+Items  scored  on 5-point  scales  ranging  from "very  unimportant"  to "very  important."
+Age of the relationship
+1. For how many  years  has your firm been buying  form the target  supplier?
+Product  Rating
+1. Please  rate the target  supplier ’s:
+- product  quality
+- price
+- ability  to meet delivery  commitments
+Items  scored  on 5-point  scales  ranging  from "very  unsatisfactory"  to "very  satisfactory."
+Sellers ’ Dependence
+1. Approximately  what percent  of the target  supplier ’s total sales did your firm provide  in the 
+past year?
+Buyers ’ percentage  estimates  were used as score for dependence.
+Availability  of Alternative  Suppliers
+1. Please  rate the availability  of alternative  suppliers  for the target  product.
+Item scored  on 5-point  scale ranging  from "very  few available"  to "very  many  available."
+
+--- PAGE 111 ---
+APPENDIX  B
+COLLEGE  OF BUSINESS  ADMINISTRATION
+THE  UNIVERSITY  OF TEXAS  AT AUSTIN
+Department  ofMarketing  Administration  ‘CBA 7.202- Austin,  Texas  78712-1176
+(512)471-1128-Te!ex9108741305 ’FAX(512)471-3034
+June 22, 1990
+Mr. Norman  P. Addington  
+Procurement  Manager  
+Sperry  Marine  
+1070 Seminole  Trail  
+Charlottesville,  VA 22901
+Dear Mr. Addington:
+1 am writing  to request  your assistance  in connection  with my doctoral  dissertation  on 
+organizational  buyer-seller  relationships.  The purpose  of this research  is to (I) understand  
+the relative  importance  of factors  affecting  buyer-seller  relationships,  and (2) suggest  ways  
+for enhancing  such relationships,  from the buyer ’s point of view.
+I would  greatly  appreciate  your completing  the enclosed  questionnaire  and returning  it in the 
+self-addressed  envelope.  In preliminary  interviews,  business  people  like yourself  took about  
+15 minutes  to fill out the questionnaire  and found  it very interesting.  SINCE  YOU ARE  
+ONE OF A SMALL  NUMBER  OF N.A.P.M.  MEMBERS  BEING  CONTACTED,  YOUR  
+RESPONSE  IS VERY  IMPORTANT  FOR THE SUCCESSFUL  COMPLETION  OF 
+THIS RESEARCH  AND THE VALIDITY  OF ITS FINDINGS.  I would  like to emphasize  
+that your responses  are confidential,  and will be used strictly  for research  purposes.
+I would  be pleased  to provide  you with a summary  of the research  findings  as soon as the 
+study is completed.  You may request  a copy by providing  your name and address  on the 
+questionnaire,  or you may write to me separately  to ensure  anonymity  of your responses.
+I would  be happy  to answer  any questions  you might  have. Please  do not hesitate  to call me 
+at (512) 471-1128  (work)  or (512) 338-1747  (home).
+Thank  you for your assistance.
+Sincerely, ,
+Lance  Leuthesser
+Doctoral  Candidate
+101
+
+--- PAGE 112 ---
+102
+Last week I contacted  you, requesting  your assistance  in connection  with my doctoral  
+research  on buyer-seller  relationships.  If you have already  completed  and returned  the 
+study  questionnaire,  please  accept  my sincere  thanks.  If not, could  I please  ask you to do 
+so today.
+I am writing  to you again because  only a limited  number  of N.A.P.M.  members  are 
+being  contacted.  Therefore,  it is very important  that each person  contacted  return  the 
+completed  questionnaire.  It will only take 15 minutes,  and your  responses  are completely  
+confidential.
+I will greatly  appreciate  your  cooperation.
+Sincerely,
+Lance  Leuthesser  
+Doctoral  Candidate  
+The University  of Texas  at Austin
+
+--- PAGE 113 ---
+103
+COLLEGE  OF BUSINESS  ADMINISTRATION
+THE  UNIVERSITY  OF TEXAS  AT AUSTIN
+Department  of Marketing  Administration  • CBA  7.202 -Austin,  Texas  78712-1176  
+(512)471-1128- Tekx9108741 305-  FAX(5l2)471-3034
+July 13, 1990
+Mr. Norman  P. Addington  
+Procurement  Manager  
+Sperry  Marine  
+1070 Seminole  Trail  
+Charlottesville,  YA 22901
+Dear Mr. Addington:
+About  three weeks  ago I had written  to you, requesting  your participation  in a survey  on 
+buyer-seller  relationships.  Although  the response  has been very encouraging,  I have yet to 
+receive  some completed  questionnaires.  Because  the responses  are anonymous,  I am 
+uncertain  if you have returned  your questionnaire.  If you have, please  accept  my sincere  
+thanks.
+If you have not yet returned  the completed  questionnaire,  could you please take a few 
+minutes  to do so today? For the findings  of this research  to be valid, it is very important  that 
+each N.A.P.M.  member  in the scientifically  selected  sample  respond  to the survey. I would  
+like to emphasize  that your responses  are strictly  confidential.
+I have enclosed  a replacement  questionnaire,  in the event that the original  one is misplaced.  
+Also enclosed  is an extra pre-paid  return  envelope.  If you have any questions,  please  do not 
+hesitate  to call me at (512) 471-1128  (office)  or (512) 338-1747  (home).
+Thank  you very much for your consideration.
+Sincerely,
+XkMa  < 
+Lance  Leuthesser
+Doctoral  Candidate
+
+--- PAGE 114 ---
+APPENDIX  C
+University  of Texas  at Austin
+SURVEY  OF BUSINESS  BUYERS
+General  Instructions
+This questionnaire  concerns  your firm's relationship  with one of your suppliers. If you belong  to a large  
+corporation,  please  think of your "firm"  as being your business  unit or division,  not the entire  corporation.  If 
+a question  does not apply,  or if you cannot  answer  it, please  leave it blank .
+Please  mail the completed  survey  in the return envelope  provided.
+Thank  you for your help!
+104
+
+--- PAGE 115 ---
+1105
+IMPORTANT
+Please take a moment  to think of your firm’s most recent product  purchase  meeting  the 
+following  conditions:
+- The product  is at least moderately  important  to your firm.
+• You purchase  the product  from two or more competing  suppliers.
+• You are very familiar  with your firm's  relationships  with these suppliers.
+Please  select  the supplier  with the largest  share  of your business  for the product  (in case of 
+a tie, pick one of them).
+SECTION  I
+The following  questions  pertain  to the product  and supplier  you have just selected,  referred  to as the "target  
+product " and "target  supplier."  If you belong  to a large corporation,  please  keep in mind that your "firm"  
+means  your business  unit or division.
+1 The target  product  is best described  as:
+( ) Capital  or Accessory  Equipment
+( ) Raw or Semi-finished  Materials
+( ) Parts or Components
+( ) Operating  or Maintenance  Supplies
+Other  (please  specify) ______ ______________________ _______
+2 For how many years has your firm been buying from the target  
+supplier ?
+3- In all. how many  suppliers  did you use for the target product  during  
+the past year?
+4. What  percent  of last year’s target  product  purchases  (dollar  value)  were  
+from the target  supplier ?
+5. Assuming  you were not bound by contractual  or other constraints  
+(and the target supplier  had no supply limitations),  what share would  
+the target  supplier  have received?
+6. Approximately  what percent  of the target supplier ’s total sales did 
+your firm provide  in the past year?
+7. What are your total annual  purchases  of the target product?$
+
+--- PAGE 116 ---
+2 106
+8. Over the past year, to what extent  have your purchases  from the target Decreased Increased
+supplier  changed,  in terms of .. . Greatly Greatly
+. . . dollar  value? 1 2 34 5
+. . . share of your business? 1 2 34 5
+9. How important  is .. .Very  Very
+Unimportant  Important
+. . . the price of the target  product  to your firm’s profitability?
+. . . the quality of the target product  to the quality of your  
+products?
+. . . on-time  delivery  for maintaining  smooth  operations  in your  
+firm?
+• • • the level of after-sales  service for maintaining  smooth  
+operations?1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+10. Please  rate the target  supplier ’s:Very  
+UnsatisfactoryVery  
+Satisfactory
+- product  quality 1 2 34 5
+- price1 2 34 5
+- ability  to meet delivery  commitments1 2 34 5
+11. Please rate the availability  of alternative  suppliers  for the target  
+product.Very Few 
+Available
+1 2 3Very  Many  
+Available
+4 5
+SECTION  n
+This section  deals with your firm’s relationship  with the target  supplier.
+. ..... , Strongly  Strongly
+1. With respect  to the target  supplier,  it can be said that they . . . Disagree Agree
+. . . give us ample  notice  of planned  price changes.  1 2 3 4 5
+... do a good job of notifying  us in advance  of any delivery  
+schedule  changes.  1 2 3 4 5
+. . . tell us of any changes  in billing  procedures  well ahead  of time.  1 2 3 4 5
+. . . would inform us early of any plans to modify the target  
+product  12345
+. . . would discuss  with.us  any plans to change  the quality  of the 
+target product.1 2 3 4 5
+. . . would give us plenty of notice if their level of after-sales  
+service  was going  to change.1 2 3 4 5
+
+--- PAGE 117 ---
+3 107
+Strongly  Strongly
+Disagree  Agree
+, would  try to cover  it up if they had a manufacturing  setback.12 34 5
+. tend to be secretive  about  politics  in their company.12 34 5
+. would freely admit it if they were having internal labor  
+problems.12 34 5
+. tend to sidestep  talk about  weaknesses  in their organization.12 34 5
+. are forthcoming  in discussing  managerial  promotions  and 
+changes  in their company.12 34 5
+. give us a clear picture  of what goes on behind  the scenes  in 
+their company.12 34 5
+2. Keeping  in mind your firm’s overall relationship  with the target  
+supplier,  please  indicate  the extent  to which  they . ..
+. . . spend time trying to learn how they can help you lower the 
+cost of using the target  product.Not at To a Great
+All Extent
+1 2 3 4 5
+. . . spend time trying to help you gain maximum  benefit  from the 
+target product1 2 3 4 5
+. . . make an effort to keep abreast  of your customers ’ changing
+needs.  1 2 3 4 5
+. . . show an interest  in helping  you become  more competitive.  1 2 3 4 5
+. . . keep up with changes  in your competitive  environment.  1 2 3 4 5
+. . . show interest  in understanding  how your firm works.  1 2 3 4 5
+Strongly Strongly
+3. We are confident  they would  charge  us fair prices  even if they had anDisagree Agree
+opportunity  to take advantage  of us.1 2 34 5
+4. We’re afraid they would  cut comers  if we let up on inspection.1 2 34 5
+5. If we were facing  unprofitable  times,  we believe  that they would  share  
+the burden  by trimming  their margins.
+6. If it was important  to us, we could count on them to do a rush job 
+even if they had to absorb  some additional  costs.1 2 3 4 5
+1 2 3 4 5
+7. They readily  acknowledge  it if another  supplier  can meet our needs  
+better.
+8. We are confident  in their ability to help us solve any problems  
+involving  the target  product.
+9. From our perspective,  this supplier  is very competent.1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+10. We are delighted  with our overall  relationship  with them.
+11. We wish more of our suppliers  were like this one.1 2 3 4 5
+1 2 3 4 5
+
+--- PAGE 118 ---
+108
+4
+12. We would like our relationship  with them to continue  in the coming  
+years.Strongly
+DisagreeStrongly  
+Agree
+1 2 34 5
+13. It is a pleasure  dealing  with this supplier.1 2 34 5
+14. There  is always  some problem  or another  with this supplier.1 2 34 5
+15. There  are close ties between  us and this supplier.1 2 34 5
+SECTION  m
+This section  concerns  the way your firm interacts  with the target  supplier.
+1. Please  give 10 points  to the department  in your firm which  communicated  most frequently  with the target  
+supplier  over the past year, then give 0 to 9 points  to each of the remaining  departments,  per the following  
+example:
+Example
+If your engineering  department  communicated  the most with the target supplier  over the past 
+year, then mark "10" beside  "R&D/Engineering."  If your purchasing  department  communicated  
+with the target supplier  about half as frequently  as engineering,  then mark "5" beside  
+"Purchasing/Materials  Management. ” Follow  the same procedure  for each of the remaining  
+departments.
+- Sales/Marketing
+- Production/Quality  Assurance
+- R&D/Engineering
+• Finan  ce/Accounting
+- Transportation/Distribution
+• Purchasing/Materials  Management
+2. Please  give 10 points  to the level in your firm which  communicated  most frequently  with the target  supplier  
+over the past year, and 0 to 9 points  to the remaining  levels,  as above.
+- Top Management  (Directors,  Pres., Exec. VP, and so on)
+• Functional  Vice President
+• Department  Manager  (Sales  Mgr., Purch.  Mgr.,  and so on)
+- Department  Members  (Sales Rep., Purch.  Agent,  and so on)
+- Clerical
+
+--- PAGE 119 ---
+5 109
+3. Now, please focus on the target  supplier  and give 10 points to the department  in their company  which  
+communicated  most frequently  with your firm over the past year, and 0 to 9 points to the remaining  
+departments.  °
+• Sales/Marketing
+• Production/Quality  Assurance
+• R&D/Engineering
+• Finance/Accoun  ting
+• Transportation/Distribution
+• Pure  has  ing/Mate  rials Management
+4. Please  give 10 points to the level in the target  supplier  which communicated  most frequently  with your 
+firm over the past year, and 0 to 9 points  to the remaining  levels.
+- Top Management  (Directors,  President,  Exec VP, and so on) 
+■ Functional  Vice President
+- Department  Manager  (Sales  Mgr., Purch.  Mgr., and so on) 
+- Department  Members  (Sales Rep., Purch.  Agent,  and so on) 
+- Clerical
+5. How frequently  did the target supplier use the following  to 
+communicate  with your firm during the past year? (Please  circle the 
+best approximation.) /
+o'/
+• Letters  or written  reports?
+• Telephone  calls?1 2 3 4 5
+1 2 3 4 5
+- Face-to-face  meetings?1 2 3 4 5
+
+--- PAGE 120 ---
+6 110
+SECTION  IV
+This section  deals with your market  (i.e., your customers  and competitors).  If your firm competes  in several  
+markets,  select  one of the more important  ones. The selected  market  should  be one where  your performance  is 
+affected  by the target product (in certain  instances,  customers  may include  other business  units or divisions  
+within  your corporation.)
+Very
+1. During  the past year, how frequently  have changes  occurred  in . . .NO
+ChangeFrequent  
+Change
+... the ; xiuct or service  features  desired  by your customers?1 2 34 5
+. . . the product  or service  features  offered  by your competitors?1 2 34 5
+... the price sensitivity  of your customers?1 2 34 5
+... the pricing  tactics  of your competitors?1 2 34 5
+2. To what extent  is your firm affected  by changes  in . . .Very  
+LittleVery  
+Much
+. . . the product  or service  features  desired  by your customers?12 3 4 5
+. . . the product  or service  features  offered  by your competitors?12 3 4 5
+. . . the price sensitivity  of your customers?12 3 4 5
+... the pricing  tactics  of your competitors?12 3 4 5
+3. What percentage  of your immediate  customers  are . . .
+. . . individual  customers  (consumers)?
+. . . business  customers  (including  gov't, agencies)?
+Total
+4. How similar  or different  are your individual  customers,  in terms of . .
+. . . demographic  characteristics  (income,  profession,  education  
+social class)?
+. . . preferences  for product/service  features?
+. . . preferences  for after sales service?  .
+. . . credit  needs?
+5. How similar  or different  are your business  customers,  in terms of 
+. . . type of business?
+. . . preferences  for product/service  features?
+. . . preferences  for after sales service?
+. . . credit needs?%
+%
+100 %
+Very Very
+Similar Different
+12 34 5
+1 2 34 5
+12 34 5
+12 34 5
+12 34 5
+12 34 5
+12 34 5
+12 34 5
+
+--- PAGE 121 ---
+7 111
+SECTION  V
+Please  provide  the following  general  information.
+1. Approximately  how many employees  are there in your firm? 
+2. Approximately  how many employees  are there in the target supplier's  
+organization?  _______________
+3. What  are your firm's  approximate  annual  sales (including  intercompany  
+transfers)?  $
+4. Your firm's  primary  product  is best described  as:
+( ) Consumer  products  (durable  or non-durable)
+( ) Industrial  equipment,  parts,  or components
+( ) Raw materials  or industrial  supplies
+( ) Services
+( ) Retai  1/Wholesale
+( ) Other  (please  specify) ____________________________
+5. If you would  like to receive  a report  summary,  please  provide  your name and address  (if you prefer,  you 
+may request  it under separate  cover).
+6 Your response to this question  is optional . We would like the name and address  of a person  in another  
+department  in your firm, who is also familiar  with the target  product  and target  supplier,  whom we may 
+contact  to request  similar  information.
+THANK  YOU VERY  MUCH  FOR YOUR  TIME  AND COOPERATION!
+
+--- PAGE 122 ---
+APPENDIX  D
+Chow  Test - Example
+Step 1: Order  observations  on moderator  variable  of interest  ("age"  in the following  example).
+Step 2: Subgroup  by introducing  0.1 dummy  variable  (low 40% coded  "0", high 40% coded  "1").
+Step 3: Estimate  "unconstrained"  regression  model,  which  includes  (predictor  variable)  X 
+(subgroup  code) interaction  term for each independent  variable,  per the following  
+example:
+TRST  = b0 + b,RATE  + b2DISC + b3INIT + b4SIG + b5FREQ  +
++ b6RICH  + b7DUM + b 8 RATEX  + bgDISCX  + b10INITX
++ bnSlGX + b12FREQX  + b13RICHX
+where:
+TRST  = Trust
+RATE = Product  rating
+DISC  = Disclosing
+INIT  = Initiating
+SIG = Signaling
+FREQ  = Frequency
+RICH  = Richness
+DUM = Dummy  variable  = "0" for low age, "1" for high age
+RATEX = Product  rating  X dummy
+DISCX  = Disclosing  X dummy
+INITX  = Initiating  X dummy
+SIGX  = Signaling  X dummy
+FREQX  = Frequency  X dummy
+RICHX  = Richness  X dummy
+Step 4: Estimate  "constrained"  model  by omitting  interaction  term of independent  variable  of 
+interest  ("frequency"  in this example):
+TRST  = b0 + b 1 RATE  + b2DISC + b3INIT + b4SIG + b5FREQ
++ b 6 RICH  + b7 DUM + ba RATEX  + b9 DISCX  + b10 INITX
++ b 11 SIGX + b12RICHX
+112
+
+--- PAGE 123 ---
+Step 5: Compute  test statistic  as follows:
+SSE C - SSE U
+T = ----------------------
+(SSE U) / (N - p)
+where:
+T = Test statistic
+SSE  c = Error  sum of squares,  constrained  model
+SSE  u = Error  sum of squares,  unconstrained  model
+N = Number  of observations
+p = Number  of parameters  estimated  in unconstrained  model
+Step 6: Compare  T to F crit = F1 N.p 05
+113
+
+--- PAGE 124 ---
+REFERENCES
+Achrol,  Ravi  and Louis  Stem  (1988),  "Environmental  Determinants  of Decision ­
+Making  Uncertainty  in Marketing  Channels."  Journal  of Marketing  Research . 
+25 (February),  26-50.
+Ancona,  Deborah  G. and David F. Caldwell  (1988), "Beyond  Task and 
+Maintenance,"  Group  and Organization  Studies . 13(4),  468-493.
+--------- and Barton  Weitz  (1989),  "Determinants  of Continuity  in Conventional  
+Industrial  Channel  Dyads",  Marketing  Science . 8(4), 310-323.
+Anderson,  James  C. and James  A. Narus  (1990),  "A Model  of Distributor  Firm  
+and Manufacturer  Firm Working  Relationships,"  Journal  of Marketing . 
+54(January),  42-58.
+--------- and James  A. Narus  (1984),  "A Model  of the Distributor ’s Perspective  
+of Distributor-Manufacturer  Working  Relationships",  Journal  of Marketing . 
+48(Fall),  62-74.
+Arndt,  Johan  (1979),  "Toward  a Concept  of Domesticated  Markets."  Journal  of 
+Marketing . 43 (Fall),  69-75.
+Arnold,  Hugh  J. (1982),  "Moderator  Variables:  A Clarification  of Conceptual,  
+Analytic,  and Psychometric  Issues,"  Organizational  Behavior  and Human  
+Performance . 29, 143-174.
+Berry,  Leonard  L. (1980),  "Services  Marketing  is Different."  Business . 30(May-  
+June),  24-29.
+Blau, Peter M. (1974),  On the Nature  of Organizations . New York, NY: John  
+Wiley  and Sons.
+Bradford,  Leland  P. (1964),  "Membership  and the Learning  Process,"  in T-Group  
+Theory  and Laboratory  Method . Leland  P. Bradford,  Jack R. Gibb and 
+Kenneth  D. Benne  (eds.),  NY: John Wiley  & Sons, 190-215.
+114
+
+--- PAGE 125 ---
+115
+Campbell,  Donald  T. and Donald  W. Fiske  (1959),  "Convergent  and Discrimin ­
+ant Validation  by the Multitrait-Multimethod  Matrix."  Psychological  Bulletin . 
+56(2),  81-105.
+Carmen,  James  M. and Eric Langeard  (1980),  "Growth  Strategies  of Service  
+Firms,"  Strategic  Management  Journal . l(January-March),  7-22.
+Carnevale,  P. J. D., Dean G. Pruitt and S. Seilheimer  (1981),  "Looking  and 
+Competing:  Accountability  and Visual  Access  in Integrative  Bargaining,"  
+Journal  of Personality  and Social  Psychology . 40, 111-120.
+Chow,  Gregory  C. (1960),  "Test  of Equality  Between  Sets of Coefficients  in Two 
+Linear  Regressions."  Econometrika . 28(July),  591-605.
+Daft, Richard  L. and Robert  H. Lengel  (1986),  "Organizational  Information  
+Requirements,  Media  Richness  and Structural  Design."  Management  Science . 
+32(5),  554-571.
+Day, Ralph  L., Ronald  E. Michaels  and Barbara  C. Perdue  (1988),  "How  Buyers  
+Handle  Conflict,"  Industrial  Marketing  Management . 17, 153-160.
+Deutsch,  Morton  (1958),  'Trust  and Suspicion,"  Journal  of Conflict  Resolution . 
+2(4), 265-279.
+Dimock,  Hedley  G. (1986),  Groups:  Leadership  and Group  Development . San 
+Diego,  CA: University  Associates,  Inc.
+Dion,  Paul A. and Peter  M. Banting  (1988),  "Industrial  Supplier-Buyer  Negotia ­
+tions,"  Industrial  Marketing  Management . 17, 43-47.
+Doty,  D. H., W. H. Glick,  K. M. Sutcliffe,  C. C. Miller  and G. P. Huber  (1988),  
+Code  Study  Technical  Report  06. Department  of Management,  University  of 
+Texas  at Austin.
+Duncan,  Robert  B. (1972),  "Characteristics  of Organizational  Environments  and 
+Perceived  Environmental  Uncertainty."  Administrative  Science  Quarterly . 17, 
+313-327.
+Dwyer,  F. Robert  and Rosemary  R. Lagace  (1986),  "On the Nature  and Role of 
+Buyer-Seller  Trust,"  AMA  Proceedings . 40-45.
+
+--- PAGE 126 ---
+116
+--------- and Sejo Oh (1987),  "Output  Sector  Munificence  Effects  on the Internal  
+Political  Economy  of Marketing  Channels,"  Journal  of Marketing  Research . 
+24(November),  347-358.
+--------- , Paul H. Schurr and Sejo Oh (1987), "Developing  Buyer-Seller  
+Relationships."  Journal  of Marketing . 51 (April),  11-27.
+--------- and M. Ann Welsh  (1985),  "Environmental  Relationships  of the Internal  
+Political  Economy  of Marketing  Channels",  Journal  of Marketing  Research . 
+22(November),  397-414.
+Egan, Gerard  (1976),  Interpersonal  Living: A Skills/Contract  Approach  to 
+Human Relations  Training  in Groups . Monterey,  CA: Brooks/Cole  
+Publishing  Co.
+Farace,  Richard,  Peter  Monge  and Hamish  Russell  (1977).  Communication  and 
+Organizing . Reading,  MA: Addison-Wesley  Publishing  Co.
+Frazier,  Gary L., Robert  E. Spekman  and Charles  R. O’Neal (1988),  "Just-in ­
+time Exchange  Relationships  in Industrial  Markets,"  Journal  of Marketing . 
+52(October),  52-67.
+Gibb, Jack R. (1964),  "Climate  for Trust Formation,"  in T-Group  Theory  and 
+Laboratory  Method . Leland  P. Bradford,  Jack R. Gibb and Kenneth  D. 
+Benne  (eds.),  NY: John  Wiley  & Sons, 279-309.
+Giffen,  Kim (1967),  "The Contribution  of Studies  of Source  Credibility  to Theory  
+of Interpersonal  Trust  in the Communication  Process."  Psychological  Bulletin . 
+68(2), 104-120.
+Golembiewski,  Robert  T. and Mark McConkie  (1975), "The Centrality  of 
+Interpersonal  Trust in Group  Processes,"  in Theories  of Group  Processes . 
+Cary L. Cooper  (ed.), NY: John Wiley  & Sons, 131-185.
+Gronroos,  Christian  (1978),  "A Service-Oriented  Approach  to Marketing,  "Euro ­
+pean Journal  of Marketing . 12(8),  588-601.
+Guadagni,  Peter M. and John D. C. Little (1983),  "A Logit Model  of Brand  
+Choice  Calibrated  on Scanner  Data,"  Marketing  Science . 2(3), 203-238.
+
+--- PAGE 127 ---
+117
+Huber,  George  P. and Richard  L. Daft (1987),  "The Information  Environments  
+of Organizations,"  in Handbook  of Organizational  Communication . Beverly  
+Hills, CA: Sage Publications.
+--------- and Thomas  W. Speh  (1989).  Business  Marketing  Management . Chicago:  
+The Dryden  Press.
+Johnson,  David W. and Frank P. Johnson  (1987),  Joining  Together:  Group  
+Theory  and Group  Skills . Englewood  Cliffs,  NJ: Prentice-Hall,  Inc.
+Johnston,  Wesley  J. and Thomas  V. Bonoma  (1981), "The Buying  Center:  
+Structure  and Interaction  Patterns."  Journal  of Marketing . 45(Summer),  143­
+156.
+Katz, Daniel  and Robert  L. Kahn (1966),  The Social  Psychology  of Organiza  
+tions . New York,  NY: John Wiley  and Sons.
+Lattin,  James  M. and Randolph  E. Bucklin  (1989),  "Reference  Effects  of Price  
+and Promotion  on Brand  Choice  Behavior,"  Journal  of Marketing  Research . 
+26(3),  299-310.
+Leblebici,  Huseyin  and Gerald  R. Salancik  (1981),  "Effects  of Environmental  
+Uncertainty  on Information  and Decision  Processes  in Banks."  Administrative  
+Science  Quarterly . 26(December),  578-596.
+Leifer, Richard  and George  P. Huber (1977),  "Relations  among  Perceived  
+Environmental  Uncertainty,  Organization  Structure,  and Boundary-Spanning  
+Behavior,"  Administrative  Science  Quarterly . 22, 235-247.
+Levitt,  Theodore  (1983),  "After  the Sale is Over",  Harvard  Business  Review . 
+61(September-October),  87-93.
+Loomis,  J. L. (1959),  "Communication,  the Development  of Trust  and Coopera ­
+tive Behavior."  Human  Relations . 12(4),  305-315.
+Lovelock,  Christopher  H. (1981),  "Why Marketing  Management  Needs  to be 
+Different  for Services,"  in Marketing  of Services . J. H. Donnelly  and W. R. 
+George  (eds.),  Chicago,  IL: American  Marketing  Association.
+
+--- PAGE 128 ---
+118
+Lysonski,  Steven (1985),  "A Boundary  Theory  Investigation  of the Product  
+Manager ’s Role,"  Journal  of Marketing . 49(Winter),  26-40.
+Macaulay,  Stewart  (1963),  "Non-contractual  Relations  in Business:  A Preliminary  
+Study,"  American  Sociological  Review . 28(1),  55-69.
+Macneil,  Ian R. (1980),  The New Social Contract:  An Inquiry  into Modern  
+Contractual  Relations . New Haven,  CT: Yale University  Press.
+March,  James  G. and Zur Shapira  (1987),  "Managerial  Perspectives  on Risk and 
+Risk Taking,"  Management  Science . 33(11),  1404-1418.
+Martin,  R. J. (1983).  A Skills  and Strategies  Handbook  for Working  with People . 
+Englewood  Cliffs,  NJ: Prentice-Hall.
+McCann,  John and Jay R. Galbraith  (1981),  "Interdepartmental  Relations,"  
+Handbook  of Organizational  Design.  Vol. 2. Paul C. Nystrom  and William  
+Starbuck  (eds.),  New York,  NY: Oxford  University  Press,  60-84.
+McQuiston,  Daniel  (1989),  "Novelty,  Complexity,  and Importance  as Causal  
+Determinants  of Industrial  Buyer  Behavior."  Journal  of Marketing , 53(April),  
+66-79.
+Miles, Raymond  E. and Charles  C. Snow (1978), Organizational  Strategy.  
+Structure  and Process . New York,  NY: McGraw-Hill  Book  Co.
+Neter,  John,  William  Wasserman  and Michael  H. Kutner  (1983).  Applied  Linear  
+Regression  Models . Homewood,  IL: Richard  D. Irwin.
+Perdue,  Barbara  C., Ralph  L. Day and Ronald  E. Michaels  (1986),  "Negotiation  
+Styles  of Industrial  Buyers."  Industrial  Marketing  Management . 15, 171-176.
+Phillips,  Lynn W. (1981),  "Assessing  Measurement  Error in Key Informant  
+Reports:  A Methodological  Note on Organizational  Analysis  in Marketing,"  
+Journal  of Marketing  Research . 28(November),  395-415.
+Pruitt,  Dean  G. (1981).  Negotiation  Behavior . NY: Academic  Press.
+
+--- PAGE 129 ---
+119
+--------- , and Steven  A. Lewis  (1975),  "Development  of Integrative  Solutions  in 
+Bilateral  Negotiations."  Journal  of Personality  and Social  Psychology . 31,621­
+633.
+--------- , and Steven  A. Lewis  (1977),  "The  Psychology  of Integrative  Bargaining,"  
+in Negotiations:  Social  Psychological  Perspectives . Daniel  Druckman  (ed.),  
+Beverly  Hills, CA: Sage Publications.
+Rempel,  John K., John G. Holmes,  and Mark  P. Zanna  (1985),  "Trust  in Close  
+Relationships."  Journal  of Personality  and Social  Psychology . 49(1),  95-112.
+Rotter,  Julian  B. (1971),  "Generalized  Expectancies  for Interpersonal  Trust,"  
+American  Psychologist . 26(5),  443-452.
+Ruekert,  Robert  W. and Orville  C. Walker  Jr. (1987),  "Marketing ’s Interaction  
+with Other Functional  Units: A Conceptual  Framework  and Empirical  
+Evidence."  Journal  of Marketing . 51(January),  1-19.
+--------- , Orville  C. Walker  Jr., and Kenneth  J. Roering  (1985),  "The Organiza  
+tion of Marketing  Activities:  A Contingency  Theory  of Structure  and Perfor ­
+mance,"  Journal  of Marketing . 49(Winter),  13-25.
+Schopler,  Janice  H. (1987),  "Interorganizational  Groups:  Origins,  Structure,  and 
+Outcomes,"  Academy  of Management  Review . 12(4),  702-713.
+Schurr,  Paul H. and Julie  L. Ozanne  (1985),  "Influences  on Exchange  Processes:  
+Buyers ’ Perceptions  of a Seller ’s Trustworthiness  and Bargaining  Toughness," 
+Journal  of Consumer  Research . ll(March),  939-953.
+Schwab,  Robert C., Gerardo  R. Ungson  and Warren  B. Brown (1985),  
+"Redefining  the Boundary  Spanning  - Environment  Relationship."  Journal  of 
+Management . 11(1),  75-86.
+Sharma,  Subash,  Richard  M. Durand  and Oded  Gur-Arie  (1981),  "Identification  
+and Analysis  of Moderator  Variables,"  Journal  of Marketing  Research . 
+18(August),  291-300.
+Shaw, Marvin  E. (1981),  Group  Dynamics:  The Psychology  of Small Group  
+Behavior . NY: McGraw-Hill  Book  Co.
+
+--- PAGE 130 ---
+120
+Shostack,  G. Lynn (1977),  "Breaking  Free from Product  Marketing,"  Journal  of 
+Marketing . 41(April),  73-80.
+Thompson,  James  D. (1967).  Organizations  in Action . New  York,  NY: McGraw ­
+Hill Book  Company.
+Van de Ven, Andrew  H. (1976),  "On the Nature,  Formation,  and Maintenance  
+of Relations  Among  Organizations",  Academy  of Management  Review . 
+(October),  24-36.
+--------- , and Diane  L. Ferry (1980),  Measuring  and Assessing  Organizations . 
+New York,  NY: John Wiley  and Sons.
+--------- , and Gorden  Walker  (1984), "The Dynamics  of Interorganizational  
+Coordination,"  Administrative  Science  Quarterly . 29, 598-621.
+Walker,  Orville  C. Jr. and Robert  W. Ruekert  (1987),  "Marketing ’s Role in the 
+Implementation  of Business  Strategies:  A Critical  Review  and Conceptual  
+Framework."  Journal  of Marketing . 51(July),  15-33.
+Weick, Karl (1979), The Social Psychology  of Organizing . Reading,  MA: 
+Addison-Wesley  Publishing  Co.
+Williamson,  Oliver  E. (1979),  "Transaction-Cost  Economics:  The Governance  of 
+Contractual  Relations."  Journal  of Law and Economics . 22(2),  233-261.
+Zeithaml,  Valerie  A., A. Parasuraman  and Leonard  L. Berry  (1985),  "Problems  
+and Strategies  in Services  Marketing,"  Journal  of Marketing . 49(Spring),  33­
+46.
+
+--- PAGE 131 ---
+VITA
+Lance  Edward  Leuthesser  was born  in Chicago,  Illinois,  on October  6, 1943,  
+the son of Marie  R. Leuthesser  and Edward  G. Leuthesser.  He holds both 
+Bachelor  of Science  (1968) and Master  of Business  Administration  (1978)  
+degrees  from Florida  Atlantic  University.  Since receiving  his undergraduate  
+degree,  he has held a number  of positions  in sales, sales management,  and 
+general  management.  Prior to entering  graduate  studies  in January  1987, he 
+held the position  of Vice President,  Chemical  Waste  Systems  with Browning-  
+Ferris  Industries,  Inc., a firm based in Houston,  Texas. He is the author  of 
+"Defining,  Measuring,  and Managing  Brand Equity,"  a conference  summary  
+prepared  for the Marketing  Science  Institute,  and "The Customer  Service  
+Concept,"  a working  paper  coauthored  at The University  of Texas  with Roland  
+T. Rust.
+Permanent  address:
+22 Haverhill  Road  
+Laguna  Niguel,  California  
+92677
+This dissertation  was typed  by the author.

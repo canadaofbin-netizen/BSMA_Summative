@@ -1,0 +1,2209 @@
+Journal of Business-to-Business Marketing
+ISSN: 1051-712X (Print) 1547-0628 (Online) Journal homepage: www.tandfonline.com/journals/wbbm20
+Reducing Salesperson Turnover Intentions via
+Organizational Market Orientation and Selective
+Hiring: A Job Demand-Resources Approach
+David E. Fleming, Andrew B. Artis, Eric G. Harris, J. Ricky Fergurson &
+Matthew A Askew
+To cite this article: David E. Fleming, Andrew B. Artis, Eric G. Harris, J. Ricky Fergurson &
+Matthew A Askew (2022) Reducing Salesperson Turnover Intentions via Organizational Market
+Orientation and Selective Hiring: A Job Demand-Resources Approach, Journal of Business-to-
+Business Marketing, 29:3-4, 247-269, DOI: 10.1080/1051712X.2022.2121503
+To link to this article:  https://doi.org/10.1080/1051712X.2022.2121503
+Published online: 16 Sep 2022.
+Submit your article to this journal 
+Article views: 856
+View related articles 
+View Crossmark data
+Citing articles: 8 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wbbm20
+Reducing Salesperson Turnover Intentions via Organizational Market Orientation 
+and Selective Hiring: A Job Demand-Resources Approach
+David E. Fleminga, Andrew B. Artisb, Eric G. Harrisc, J. Ricky Fergursona, and Matthew A Askewd
+aScott College of Business, Indiana State University, Terre Haute, IN, USA; bMuma College of Business, University of South Florida, Tampa, FL, 
+USA; cInterstitial Lung Disease Specialist, Barney Barnett School of Business and Free Enterprise, Florida Southern College, Lakeland, FL, USA; 
+dBoehringer Ingelheim Pharmaceuticals, Inc, Ridgefield, CT, USA
+ABSTRACT
+Purpose: This study is designed to respond to repeated calls for research on sales person reten -
+tionby building upon a mature research stream to identify ways to reduce turnover in boundary 
+spanning employees and the resultant effect it has on organizational productivity. Specifically, this 
+research draws on the Job Demands-Resources model to explore the effect of employee percep -
+tions of firm market orientation as a way to reduce role stressors and subsequently turnover 
+intentions. It also looks at employee traits that may serve as a buffer to the role stress to turnover 
+intentions link and can be part of the hiring selection process (in this case grit). In so doing, this 
+research uses a sample of early career salespeople to examine the effects of a firm’s market 
+orientation (MO) and selective hiring for specific traits (level of grit) on a salesperson’s intention 
+to quit using Job Demand-Resources as a framework.
+Design/Methodology/Approach: The authors utilized a questionnaire to collect data from 
+a sample consisting of 260 respondents who were employed full-time and worked in either B2B 
+or B2C sales as boundary-spanning employees. The measures utilized in this study have been used 
+in previous research and have demonstrated acceptable reliability and validity. Analysis of the 
+latent constructs was conducted using PLS-SEM. The model was assessed as specified in the 
+hypotheses and was estimated using the PLS algorithm to obtain path coefficient estimates.
+Findings: Findings suggest that organizations can benefit internally from strong MO by mitigating 
+stressors placed on boundary-spanning employees. Those who perceived strong MO in their 
+employer experienced more clearly defined roles, which led to decreased role ambiguity. These 
+increased levels of job satisfaction, which reduced turnover intention. Additionally, Grit appears to 
+only moderate the link between role conflict and job satisfaction, which suggests that grit can serve 
+as an additional resource salespeople can tap into in response to the demands of role stressors 
+thereby reducing their likelihood of leaving their positions.
+Research Implications: In this research, inclusion of market orientation as an antecedent to role 
+stressors in the Job Demands-Resources model expands the conceptualization of the construct as it 
+relates to salespeople in that market orientation is something the firm can control directly. This 
+opens research opportunities to use this model in the sales literature. In addition, the job-demands- 
+resources model expands the role of grit beyond positive psychology to be viewed as a resource in 
+stressful situations and puts the role of grit into a theoretical framework for use in business 
+contexts. As such, the current work suggests that the grit scale can be used to replace measures 
+used for similar constructs such as tenacity.
+Practical Implications: This research suggests that role ambiguity can be reduced by the presence of 
+a market orientation. This reduction in role ambiguity leads to an increase in job satisfaction which 
+leads to reduced turnover intention. Thus, this study indicates that there may be a cost-saving benefit 
+(e.g. recruiting and retention efforts, lost sales, etc.) that accrues to firms with a market orientation due 
+to reduced salesperson turnover via role perceptions. This supports that the idea that organizations 
+can benefit from market orientation not only externally, but also internally in terms of mitigating 
+stressors placed on boundary-spanning employees. Therefore, companies should push for adoption 
+of market orientation in order to alleviate some key role stressors placed on their salespeople in 
+addition to the already established benefits from external customers.
+The link between grit, job satisfaction, and turnover intentions is another positive finding. As 
+expected, job satisfaction helps reduce turnover intentions; however, the relationship is moderated 
+by grit in such a way that people with higher grit show a weaker link between job satisfaction and 
+turnover intentions while those with lower levels of grit show a stronger link between job satisfac -
+tion and turnover intentions. This raises human resource issues in the hiring process: human KEYWORDS 
+Sales; turnover intentions; 
+grit; market orientation; role 
+stress; role ambiguity; 
+employee satisfaction
+CONTACT David E. Fleming 
+ david.fleming@indstate.edu 
+ Scott College of Business, Indiana State University, 30 N 7th Street, Terre Haute, IN 47809, USAJOURNAL OF BUSINESS-TO-BUSINESS MARKETING 
+2022, VOL. 29, NOS. 3–4, 247–269 
+https://doi.org/10.1080/1051712X.2022.2121503
+© 2022 Taylor & Francis Group, LLC 
+resource managers should work to identify salespeople with high levels of grit in order to better 
+minimize turnover intentions given the cost of turnover to organizations.
+Originality: This research expands existing research by examining the effects of a firm’s market 
+orientation (MO) and selective hiring for specific traits (level of grit) on a salesperson’s intention to 
+quit using Job Demand-Resources as a framework Combining these two literature streams – market 
+orientation and salesperson grit – is novel and will inspire new thinking and foster new insights. This 
+study serves as a starting point for future research to examine firm controllable resources (market 
+orientation) along with employee traits that can act as a buffer (grit) when resources are scarce.
+It is clear that employers are currently searching for 
+employee retention strategies unlike at any time 
+before (e.g., Cook 2021 ; Rajabi et al. 2021 ; Thomas 
+2021 ). As reported by the US (Bureau of Labor 
+Statiics 2021 ), US based employers have seen an 
+increase in the number of people quitting their jobs, 
+with the number reaching 4.43 million during the 
+period currently referred to as the “Great 
+Resignation.” Boundary spanning employees, as 
+Zagorsky (2022 ) notes, have exhibited an exorbi -
+tantly high resignation rate, exceeding the average 
+“quit rate” of 3% during this period. The issue is 
+especially relevant in sales settings, where turnover 
+rates have been as high as 70% annually (Katsikea, 
+Theodosiou and Morgan 2014) and companies have 
+frequently incurred costs upward of 200% of employ -
+ees’ salaries due to recruitment and training initia -
+tives (DeConinck and Johnson 2009 ).
+It can be argued that in today’s environment 
+dysfunctional turnover among salespeople is an 
+even more significant problem than ever before 
+(Thomas 2021 ). Exacerbating the problem is the 
+effect of the COVID pandemic, which led even 
+more professionals to make job changes for perso -
+nal and professional reasons (Cook 2021 ). The cli-
+mate also contributed to 2021 being the first year in 
+the previous decade wherein employee engagement 
+began to decline (Harter 2022 ). It is therefore 
+important to consider strategies, both top-down 
+and bottom-up that will reduce the turnover inten -
+tion of salespeople especially at an early career 
+stage. This is especially relevant given that millen -
+nial workers (and thus in the early stages of their 
+careers) are the largest generation in the modern 
+US workforce (Fry 2018 ). Accordingly, the current 
+study is designed to respond to repeated calls for 
+such research (e.g., Cook 2021 ; Rajabi et al. 2021 ; 
+Thomas 2021 ) by building upon a mature research 
+stream to identify ways to reduce turnover and theresultant effect it has on organizational 
+productivity.
+This research pulls from both the management 
+(Jobs Demands/Resources Model) and positive- 
+psychology (grit) domains while addressing these 
+issues. By drawing from these disparate domains, 
+an improved understanding of the antecedents and 
+moderating conditions of salesforce turnover 
+emerges. The JDR approach, as well as the theory 
+of conservation of resources (Hobfoll 1989 ), pro-
+vides a framework for a model which posits that 
+the increased market orientation of a firm has posi-
+tive internal consequences in terms of reduced role 
+stressors (both conflict and ambiguity), increased 
+job satisfaction, and reduced turnover intentions 
+for salespeople. Furthermore, the model posits 
+that grit (a personal resource) plays an important 
+moderating role between role stressors, job satisfac -
+tion, and turnover intentions. While many execu -
+tives emphasize the importance of being market- 
+oriented through a sustained focus on customer, 
+competitor, and inter-functional activities (Narver 
+and Slater, 1990), it is necessary to examine the 
+internal consequences of focusing on these activ -
+ities as they pertain to salespeople’s role stressors, 
+job satisfaction and turnover intentions within the 
+organization, and how grit plays a role in these 
+relationships.
+Literature review
+Salesperson turnover
+A review of the salesperson-turnover literature 
+from the past three decades highlights important 
+insights into one of the most pressing issues that 
+sales managers face: salesperson turnover (see 
+Appendix 1). Such a review reveals that variables 
+previously investigated can be grouped into five248
+ E. F. DAVID ET AL.
+categories relating to the: 1) individual, 2) job, 3) 
+supervisor, 4) organization, and 5) environment. 
+While insights have certainly been gained with 
+resultant contributions to the literature, the coun -
+termeasures available to managers have been some -
+what limited, and methodological concerns have 
+been raised (DeConinck, Moss, and Deconinck 
+2018 ; Johnston et al. 1987 ). Notably, these limita -
+tions have been recognized for decades. Rajabi et al. 
+(2021 ) have attempted to address some of these 
+limitations with a longitudinal study of salesperson 
+job satisfaction, organizational commitment and 
+turnover, but even their extensive model does not 
+examine the antecedents of role stress in a sales 
+context.
+Accordingly, finding new perspectives and 
+approaches is critical, while recognizing changes 
+that have occurred in salesforce composition and 
+associated limitations of previous work. First, for 
+practitioners, the composition of who is performing 
+the selling function has changed. As of 2017, mil-
+lennial workers are now the largest age-cohort 
+within the US workforce (Fry 2018 ), and women 
+currently comprise nearly 50% of professional US 
+workers (Kochhar 2020 ). Second, for researchers, 
+many extant studies either did not apply theory, or 
+failed to report the theory that was utilized. Third, 
+and also for researchers, problems have existed 
+regarding the generalizability of findings given 
+that many studies were done with salespeople in 
+a single firm. The current study addresses these 
+issues while including a sample of younger, diverse 
+salespeople across multiple firms.
+Theoretical foundations
+As detailed previously, the current work draws 
+from the Job-Demands/Resources approach (JD- 
+R). A central assumption of the JD-R model is 
+that the specific work characteristics of any job 
+can be modeled as either job demands or job 
+resources (Bakker, Demerouti, and Verbeke 2004 ). 
+The JD-R approach suggests that employees 
+become mentally exhausted, or experience burnout, 
+when demands placed on their job are too great and 
+when the resources available to complete the job are 
+limited (Demerouti et al. 2001 ). Existing research 
+(e.g., Bakker, Demerouti, and Verbeke 2004 ; 
+Demerouti et al. 2001 ; Schaufeli 2017 ) has utilizedthe JD-R model to examine the impact of job 
+demands and resources on burnout. In addition, 
+extant research (e.g., Lewin and Sager 2008 ; 
+Westbrook and Peterson 2020 ) has examined the 
+connection between burnout and turnover inten -
+tions. The wealth of existing research connecting 
+JD-R to burnout and then burnout to turnover 
+clearly elucidates how the use of the JD-R frame -
+work will aid in explaining salesperson turnover.
+The JD-R model is built, in part, on the theory of 
+conservation of resources (Hobfoll 1989 ), which 
+asserts that employees aim to assemble and pre-
+serve resources, and that they become threatened 
+by the possible loss of these resources. This 
+approach has added significantly to the employee 
+performance literature. Work resources are con-
+ceptualized as being either personal (e.g., personal -
+ity traits) or job-related (e.g., firm market 
+orientation), and the approach suggests that when 
+sales employees are threatened by the loss or deple -
+tion of the resources needed to complete a job, they 
+experience mental exhaustion and stress. One way 
+to mitigate this process is through the implementa -
+tion of internal marketing (Pollen 2021 ), which is 
+conceptualized by Berry (1981 ) as treating employ -
+ees as internal customers who receive other 
+employees’ work as products that satisfy needs 
+and wants that enable them to meet the needs of 
+the organization.
+Market orientation
+A vital assumption which captures the concept of 
+internal marketing is the idea that “to have satisfied 
+customers, the firm must also have satisfied 
+employees” (George 1977 , 91). A fundamental 
+tool to achieve employee satisfaction is treating 
+employees as customers (Berry 1981 ; Rafiq and 
+Ahmed 2000 ). One way to assist internal market -
+ing, i.e., treating employees as customers, is to 
+ensure an organization’s proactive and clear adop -
+tion of a market orientation, conceptualized herein 
+as a job-related resource. According to Narver and 
+Slater (1995 )), market orientation consists of three 
+major areas – customer orientation, competitor 
+orientation, and inter-functional orientation – and 
+each can provide substantial benefits to salespeople. 
+Customer orientation focuses on being knowledge -
+able enough about one’s customers to continually 
+create superior value; salespeople can help createJOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 249
+this value for customers by enhancing their benefits 
+in relation to costs, or by decreasing costs in rela-
+tion to perceived benefits. Competitor orientation 
+emphasizes understanding the facets of current 
+competitors and potential future competitors; 
+knowledge of competitive strengths and opportu -
+nities can assist salespeople when selling the 
+strength of their firms’ offerings against the weak -
+nesses of competitors. Inter-functional coordination 
+ensures that all company resources are deployed in 
+a manner that creates superior value; this benefits 
+salespeople by providing a superior value chain that 
+is more responsive and beneficial than those of 
+competitors. Kohli and Jaworski (1990 ) similarly 
+define market orientation as the adoption of the 
+marketing concept including generating market 
+intelligence, disseminating it throughout the orga -
+nization and organization-wide responsiveness to 
+the information. For example, Kholi and Jaworski’s 
+study (1990) indicated that adopting a market 
+orientation causes employees to develop a sense of 
+pride in belonging to an organization wherein all 
+employees work toward serving customers. In addi -
+tion, Gounaris, Chryssochoidis, and Boukis (2020 ) 
+also show that internal market orientation indir -
+ectly impacts team performance when it comes to 
+new service development through climate and team 
+integration. To truly develop a strong internal mar-
+keting presence, firms must focus on the customer 
+orientation and inter-functional coordination 
+aspects of the marketing orientation concept. This 
+idea allows firms to develop an understanding of 
+their employees and develop a responsive and 
+unique value proposition for employees.
+When employees feel more valued and have bet-
+ter communication with their firm via a firm’s 
+strong market orientation toward its internal cus-
+tomers (i.e., employees) role stressors are 
+decreased. Studies such as Jones, Busch, and 
+Dacin (2003 ) hypothesize that market orientation 
+does in fact decrease role stressors (i.e., ambiguity 
+and conflict), which in turn, increases job satisfac -
+tion as the direction of market orientation outlines 
+specific salesperson goals. Recent studies have 
+emerged to examine the role of market orientation 
+in the industrial marketing context (e.g., Crick, 
+Karami, and Crick 2022 ; Gligor et al. 2021 ), how -
+ever, they focus on firm level return on assets and 
+customer outcomes respectively and do notexamine market orientation’s role in employee out-
+comes such as turnover intentions or actual turn -
+over behaviors.
+Role stress
+The two major role stressors, role conflict and role 
+ambiguity, have been studied extensively since ori-
+ginally conceptualized by Rizzo, House, and 
+Lirtzman (1970 ). Role conflict is most common 
+when the expected roles of an employee within an 
+organization are perceived as being inconsistent. 
+This conflict thereby creates stress on individuals 
+by introducing conflicting demands, a stressor that 
+must be resolved in order to enhance employee 
+satisfaction, and to assist an organization in reach -
+ing its goals (Biddle 1986 ). Similarly, role ambiguity 
+creates stress for employees because they are unsure 
+of what they should be doing in their job (Rizzo, 
+House, and Lirtzman 1970 ) and also unsure of how 
+to assess if they are meeting the expectations of 
+their position. Prior research advocates that com -
+panies who are market oriented have a clearer mis-
+sion, leading to a better understanding of their 
+direction across the organization (Kohli and 
+Jaworski 1990 ; Narver and Slater 1995 ). This should 
+lead to a reduction in role stressors among sales -
+people, due to the fact that the successful imple -
+mentation of a market orientation relies upon 
+inter-functional coordination and communication 
+(Narver and Slater 1995 ). Greater coordination and 
+communication creates less conflict and ambiguity 
+among boundary-spanning employees in regards to 
+their expected behaviors, their responsibilities both 
+inside and outside the organization, and their 
+duties in helping to implement the organization’s 
+strategic plan. This leads to the first two hypotheses:
+H1a: Higher levels of market orientation per-
+ceived by the salesperson will lead to lower levels 
+of role conflict for the salesperson.
+H1b: Higher levels of market orientation per-
+ceived by the salesperson will lead to lower levels 
+of role ambiguity for the salesperson.
+Salesperson outcomes
+Substantial evidence in the literature reveals that as 
+role stress increases, job satisfaction decreases (e.g., 
+Bedeian and Armenakis 1981 ; Johnson and Stinson250
+ E. F. DAVID ET AL.
+1975 ; Rizzo, House, and Lirtzman 1970 ) and turn -
+over intentions rise (e.g., Bedeian and Armenakis 
+1981 ; Bluedorn 1982 ; Mobley et al. 1979 ; Shore and 
+Martin 1989 ). Support for these assertions are 
+found in the original work of Churchill, Ford, and 
+Walker (1976) up through the meta-analysis of 
+Rajabi et al. (2021 ), all of whom found that when 
+salespeople are unsure of what is expected of them, 
+how to meet those expectations, or how their work 
+will be assessed, they are more likely to be dissatis -
+fied with their jobs. A consistent second order effect 
+of role stressors, mediated through job dissatisfac -
+tion, found by these studies is that job satisfaction is 
+negatively related to turnover intentions and ulti-
+mately turnover (Arnold and Feldman 1982 ); that 
+is, higher levels of job satisfaction lead to reduced 
+levels of both turnover intentions and employee 
+turnover. Thus, it is further hypothesized that:
+H2a: Lower levels of role conflict will lead to 
+increased levels of job satisfaction.
+H2b: Lower levels of role ambiguity will lead to 
+increased levels of job satisfaction.
+H3: Higher levels of job satisfaction will lead to 
+decreased turnover intentions in salespeople.
+Salesperson grit
+The current work also pulls from the positive- 
+psychology literature by examining the impact of 
+salesperson grit on modeled constructs. The grit con-
+struct, referred to as a person’s character and overall 
+ability to persevere in the face of trying circumstances 
+(Singh and Jha 2008 ), has an established research 
+tradition in the positive psychology literature. 
+However, it’s efficacy in the sales realm needs to be 
+explored in more detail (e.g. Dugan et al. 2019 ). The 
+construct has also been defined as dedication in 
+enduring long-term goals (Duckworth et al. 2007 ). 
+Grit includes working vigorously toward goals while 
+maintaining discipline and interest regardless of past 
+failures and current challenges (Duckworth et al. 
+2007 ). Proponents of the grit construct argue that 
+grit helps to explain why two different individuals 
+who have similar ability levels can vary significantly 
+in overall task performance (Crede, Tynan, and 
+Harms 2017 ). Individuals with high grit levels remainfocused on the task and are insulated from failure 
+driven discouragement.
+Duckworth’s (2006 ) series of studies also reveals 
+that grit is a better indicator of success than IQ in 
+more difficult settings. Similarly, (Duckworth and 
+Eskreis-Winkler 2013 ) found that grit is often inde -
+pendent of, or even negatively correlated to, skill in 
+a particular task. These findings also reflect those of 
+Maddi et al. (2012 ) who found that military cadets 
+who remained in the academy were twice as likely to 
+have high grit scores versus those who did not. Based 
+on these studies, the role of grit can be extended to 
+the sales context given the challenging nature of 
+turbulent environments, intense competition, 
+required goal targets, and the reality of consistent 
+rejection (e.g., Loveland et al. 2015 ). This logic leads 
+to the idea that salespeople who possess grit will 
+remain dedicated to their work in spite of potentially 
+lower levels of job satisfaction; thus, the following 
+hypothesis is proposed:
+H4: Salesperson-grit moderates the relationship 
+between job satisfaction and turnover intentions 
+such that salespeople with higher levels of grit exhibit 
+a weaker link between satisfaction and turnover inten -
+tions than do salespeople with lower levels of grit.
+It is also argued that grit also serves as 
+a moderator between role stressors and job satisfac -
+tion in that it attenuates the links between both role 
+conflict and role ambiguity on job satisfaction. The 
+justification being that if a salesperson has higher 
+levels of grit, then the potentially damaging effects of 
+role stressors on job satisfaction should be mitigated. 
+This is similar to what Duckworth and Quinn (2009 ) 
+found in military academy students: those with 
+higher levels of grit were less likely to quit when 
+faced with stressful situations. Therefore, it is pro-
+posed that grit moderates the relationships between 
+role stressors and job satisfaction such that: 
+H5a: Salespeople with higher levels of grit show 
+a weaker link between role conflict and job satisfac -
+tion than do salespeople with lower levels of grit.
+H5b: Salespeople with higher levels of grit show 
+a weaker link between role ambiguity and job satis -
+faction than do salespeople with lower levels of grit.JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 251
+An overview of the hypothesized model is pre-
+sented in Figure 1.
+Study
+Sample
+A Qualtrics survey panel was selected as the sample 
+for this study with the sample consisting of 260 
+respondents who were employed full-time and 
+worked in either B2B or B2C sales as boundary- 
+spanning employees. The age range for the sample 
+was 18–25 which, based on the dates of data collec -
+tion, places them in either late Generation Y (the 
+first half of the millennial generational cohort born 
+between the early-80”s and mid-90”s) or early 
+Generation Z (the second half of the millennial 
+generational cohort born after the mid-90s and 
+raised in the 2000’s) collectively termed the millen -
+nial generational cohort by Tulgan (2013 ). The 
+sample was 72.3% female in order to incorporate 
+the changing composition of the salesforce. As of 
+2017, millennial workers are the largest age-cohort 
+within the US workforce (Fry 2018 ) and women 
+make up almost 50% of professional US workers 
+(Kochhar 2020 ). These respondents had been with 
+their current employer for an average of 19.44  
+months (range 1–96 months).
+Measures
+The measures utilized in this study have been used 
+in previous research and have demonstrated accep -
+table reliability and validity. Market orientation was 
+measured on a 14-item scale originally constructed 
+by Narver and Slater (1995 )) and adapted by 
+Hooley et al. (2000 ). The 14 items are broken intothree facets: customer orientation (MOC) assessed 
+with four items, competitor orientation (MOE) 
+assessed with six items, and internal dissemination 
+of information (MOI) assessed with four items as 
+originally conceptualized Narver and Slater 
+(1995 )). The results of prior studies show that 
+there were no discrepancies in the scale across 
+industry sector or market type (consumer vs. 
+industrial, services vs. manufacturing, or fast mov -
+ing vs. durables). Role conflict (eight items) and 
+role ambiguity (six items) scales were adapted 
+from Rizzo, House, and Lirtzman (1970 ). Job satis -
+faction was evaluated using a five-item scale com -
+prised by (Hartline and Ferrell 1996 ). Grit, as 
+conceptualized by Duckworth et al. (2007 ) as 
+a second order construct that has two first-order 
+facets (consistency of interest and perseverance of 
+effort), was measured with two six-item scales: 
+grit – consistency of interests (CI) and grit – per-
+severance of efforts (PE). Turnover intentions were 
+assessed via a six-item scale created by Bothma and 
+Roodt (2013 ). Each scale item was measured on 
+a six-point Likert scale (1 = strongly disagree, and 
+6 = strongly agree).
+Analysis
+Analysis of the latent constructs was conducted 
+using PLS-SEM via SmartPLS2 (Ringle, Wende, 
+and Will 2005 ). PLS-SEM was selected as the ana-
+lytic technique given that it works well with smaller 
+sample sizes and data that is not multivariate nor-
+mally distributed, and that it is designed to more 
+easily handle non-linear paths (moderating effects). 
+All of these properties were elements of this data 
+and the hypothesized model. The model was
+Market 
+Orientati on
+Role 
+AmbiguityJob 
+SatisfactionTurnover 
+Intention
+GritH1bH2bH3
+H4Role 
+ConflictH1a H2a
+H5bH5aFigure 1. Hypothesized model.252
+ E. F. DAVID ET AL.
+assessed as specified in the hypotheses and was 
+estimated using the PLS algorithm to obtain path 
+coefficient estimates. Construct quality was verified 
+using both internal consistency measures along 
+with convergent and discriminant validity checks 
+based on the latent variable correlations of the 
+constructs and the square root of each construct’s 
+AVE. Finally, the hypotheses were tested using the 
+bootstrapping procedure in the program using 500 
+draws of 250 cases.
+Scale quality
+The first step was to run the proposed model 
+through the base PLS algorithm to examine 
+latent variable quality. As can be seen in 
+Table 1, all of the scales exhibited acceptable 
+internal consistency (Cronbach’s alpha scores 
+above 0.70 and composite reliability scores 
+above 0.80). The scales also showed adequate 
+discriminant validity scores with the square root 
+of AVE for each construct being greater than that 
+construct’s correlation with the other latent vari-
+ables. The only suspect aspect of the measure -
+ment of the latent variables was the relatively low 
+AVE scores for three of the constructs. 
+Specifically, role conflict, Grit-PE and turnover 
+intentions were below the 0.50 threshold (Fornell 
+and Larcker 1981 ). These scales all exhibited 
+AVEs over 0.4 and had no other indications of 
+psychometric issues.
+PLS-SEM paths
+The hypothesized relationships were examined via 
+the PLS-SEM path model. As can be seen in 
+Table 1, the path model supported the hypotheses 
+with two exceptions. The supported hypotheses of 
+a significant negative relationship between (1) mar-
+ket orientation and role ambiguity, (2) the negative 
+relationships between role conflict and ambiguity 
+and job satisfaction and (3) the negative relation -
+ship between job satisfaction and turnover inten -
+tions all reinforce the conceptualization of market 
+orientation as a job resource. Specifically, market 
+orientation reduces employee perceptions of role 
+ambiguity by giving them a clearly defined role and 
+sharing that through internal company communi -
+cations, which leads to greater feelings of job satis -
+faction and reduced turnover as expected in the JD- 
+R framework.The first exception to the hypothesized relation -
+ships was that the path from market orientation to 
+role conflict (H1a) was not significant while it was 
+significant for the role ambiguity stressor (H1b). 
+Market orientation explained 35.4% of the variance 
+in role ambiguity while only explaining 0.4% of the 
+variance in role conflict. These findings lend sup-
+port to the idea that while market orientation func -
+tions as a resource pool or helps to preserve 
+salesperson resources in the job-demands- 
+resources model structure; it only applies to certain 
+types of demands. One possible explanation for this 
+is that salespeople in the same firm could be 
+exposed to similar levels of market orientation 
+information from the firm, but could experience 
+vastly different role conflict levels depending on 
+the individuals with whom they interact. It could 
+also be argued that role ambiguity is an individual 
+level perception of a departmental or organiza -
+tional level phenomena similar to how organiza -
+tional safety is conceptualized by Neal and Griffin 
+(2006 ), putting it at the same level of aggregation as 
+market orientation while role conflict operates at 
+the individual-to-individual level of aggregation. 
+Also, the nature of market orientation in its three 
+facets leans toward a stronger prima fascia case for 
+a relationship with role ambiguity than with role 
+conflict.
+The second exception was that grit did not mod -
+erate the link between role ambiguity and job satis -
+faction (H5b) but does moderate the role conflict to 
+job satisfaction relationship (H5a). This finding 
+seems reasonable as conflict tends to be at the 
+person-to-person level, and as such, the “grittier” 
+individual would be expected to be able to over -
+come this type of situation, and to persist, where as 
+a less “gritty” person would be expected to experi -
+ence a much more diminished satisfaction level 
+with their job given the same level of role conflict. 
+On the other hand, role ambiguity has to do with 
+a lack of direction and clarity which suggests that 
+the grittier individual does not have anything 
+directly to overcome, but rather is dealing with an 
+absence of guidance. However, the finding that grit 
+moderates the relationship between role conflict 
+and job satisfaction does means that grit can serve 
+as an insulating personality factor that reduces the 
+strength of the negative associations between stres -
+sors and outcomes in the JDR model as proposed inJOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 253
+positive psychology (e.g., Duckworth 2016 ). Even 
+with the two non-supported hypotheses, the model 
+shows the power of market orientation on sales -
+person job satisfaction and turnover intentions is 
+relatively large in terms of magnitude as show in 
+Table 1.
+Post Hoc testing
+In addition, the model was assessed without grit to 
+see what the incremental increase in explanatory 
+power for job satisfaction and turnover intentions 
+was by adding the moderating effects. The results 
+suggest that the moderating impact of grit on the 
+role conflict to job satisfaction link explains an 
+additional 3.1% of the variance in job satisfaction 
+versus the model without the moderating effect. 
+The moderating effect of grit on the job satisfaction 
+to turnover intentions link explains an additional 
+1.7% of variance in turnover intentions. This indi-
+cates that while grit does moderate theserelationships, the impact is relatively small. 
+A summary of findings for each hypothesis in 
+each study is shown in Table 2.
+Discussion and implications
+Practitioner implications
+This research suggests that role ambiguity can be 
+reduced by the presence of a market orientation. 
+Market orientation explains a small amount of the 
+variance in role clarity, but accounts for almost 40% 
+of the variance in role ambiguity. This indicates 
+that firms whose employees perceive their 
+employer as having a positive market orientation 
+experience more clearly defined roles as a result of 
+that market orientation. This reduction in role 
+ambiguity leads to an increase in job satisfaction 
+which leads to reduced turnover intention. Thus, 
+this study indicates that there may be a cost-saving
+Table 1. PLS-SEM results.
+Latent Variable Quality
+Construct/Facet AVE Composite Reliability Cronbach’s Alpha R Square
+MO-MOC 0.5271 0.8697 0.8200 N/A
+MO-MOE 0.5421 0.8242 0.7180 N/A
+MO-MOI 0.5109 0.8057 0.6814 N/A
+MO (2nd Order) 0.3683 N/A N/A N/A
+RA 0.5844 0.8933 0.8560 0.3541
+RC 0.4322 0.8550 0.8330 0.0037
+Grit-CI 0.5637 0.8841 0.8427 N/A
+Grit-PE 0.4941 0.8533 0.7941 N/A
+Grit (2nd order) 0.3067 N/A N/A NA
+Job sat 0.6572 0.9053 0.8688 0.3730
+TOI 0.4205 0.8062 0.7358 0.4483
+Latent Variable Correlations
+Grit Job sat. MO RA RC TOI
+Grit (2nd order) 0.5546
+Job satisfaction 0.1728 0.8107
+Market Orientation (2nd Order) 0.1703 0.5868 0.6069
+Role Ambiguity −0.3112 −0.5766 −0.5947 0.7644
+Role Conflict −0.3449 −0.1991 −0.0520 0.1905 0.6574
+Turn-Over Intentions −0.2100 −0.6151 −0.2915 0.3117 0.3277 0.6484
+Note: Diagonal elements are the square root of the AVE for the construct
+Model Paths
+Model Path Coefficient Standard Error t-value
+MO → RA −0.5950 0.0410 14.4999
+MO → RC −0.0610 0.1205 0.5059
+RA → Job sat −0.3893 0.3677 1.0586
+RA * Grit → Job sat −0.1183 0.3337 0.3545
+RC → Job sat −0.1420 0.0846 1.6783
+RC * Grit → Job sat −0.1821 0.0820 2.2217
+Job sat → TOI −0.5683 0.0523 10.8594
+Job sat * Grit → TOI −0.2495 0.0502 4.9682
+Note: italicized t-values are not significant at the = 0.05 level
+Total Effects
+Path Effect Standard Error t-value
+MO → TOI −0.1733 0.0279 6.2039
+MO → Job sat 0.3049 0.0431 7.0746
+Note: All t-values are significant at the = 0.05 level.254
+ E. F. DAVID ET AL.
+benefit (e.g., recruiting and retention efforts, lost 
+sales, etc.) that accrues to firms with a market 
+orientation due to reduced salesperson turnover 
+via role perceptions (Rizzo, House, and Lirtzman 
+1970 ). This supports that the idea that organiza -
+tions can benefit from market orientation not only 
+externally, but also internally in terms of mitigating 
+stressors placed on boundary-spanning employees. 
+Therefore, companies should push for adoption of 
+market orientation in order to alleviate some key 
+role stressors placed on their salespeople in addi -
+tion to the already established benefits from exter -
+nal customers.
+The link between grit, job satisfaction, and turn -
+over intentions is another positive finding. As 
+expected, job satisfaction helps reduce turnover 
+intentions; however, the relationship is moderated 
+by grit in such a way that people with higher grit 
+show a weaker link between job satisfaction and 
+turnover intentions while those with lower levels 
+of grit show a stronger link between job satisfaction 
+and turnover intentions. This raises human 
+resource issues in the hiring process: human 
+resource managers should work to identify sales -
+people with high levels of grit in order to better 
+minimize turnover intentions given the cost of 
+turnover to organizations. As noted by Zoltners, 
+Sinha, and Lorimer (2008 ) businesses spent 
+upwards of $15 billion training their sales forces 
+and that cost has only risen while Darmon (2008 ) 
+noted that salesforce turnover is as high as 27%. 
+Sales managers should consider using a grit scale as 
+part of the interview alongside traditional measures 
+to determine the likelihood of success of a new sales 
+hire, openly share that grit is a desired character -
+istic, and actively recruit salespeople with high 
+levels of the construct. Personality testing is com -
+monplace in hiring decisions today, though not 
+without controversy. Given that personality is 
+a major factor in preferences and behavior, andthat it often affects job performance by indicating 
+the natural fit of the employee to the job (Haynie, 
+2021), its popularity is understandable. Of course, 
+all testing must follow Equal Employment 
+Opportunity requirements. It is also noted that 
+Grit was found to reduce the negative relationship 
+between role conflict and job satisfaction making 
+selection of employees with higher levels of grit 
+even more desirable as it appears that grit doubly 
+effects the paths that lead to turnover intentions. 
+This is in keeping with the findings of Dugan et al. 
+(2019 ) of a main effect of grit on objective sales 
+performance and job satisfaction. The findings of 
+this study indicate that if a firm is hiring for an 
+industry in which customer contact employees 
+chronically experience lower levels of job sat, then 
+it would behoove them to include a measure of grit 
+in their hiring metrics.
+Practitioner recommendations
+This research helps to form a clear set of guidelines 
+for practitioners to consider:
+(1)Apply a combination of retention strategies 
+from the top down and bottom up – Of 
+course employers want to have a strong mar-
+ket orientation along with its other attendant 
+benefits, and in these cases grit has a reduced 
+effect on salespeople turnover intentions; 
+however, when firms suffer from a weak 
+market orientation then it is advised that 
+greater emphasis be placed on the salesper -
+son’s level of grit because this internal trait is 
+less likely to cause a salesperson to entertain 
+leaving because of a lack of market orienta -
+tion. Having many different employee reten -
+tion strategies provides multiple ways to 
+meet the psychological needs of salespeople 
+(Hartmann and Rutherford 2015 ).Table 2. Summary of findings.
+Hypothesis Result
+H1a: A market orientation leads to decreased role conflict of salespeople Not Supported
+H1b: A market orientation leads to decreased role ambiguity of salespeople Supported
+H2a: Decreased role conflict leads to increased job satisfaction of salespeople Supported
+H2b: Decreased role ambiguity leads to increased job satisfaction of salespeople Supported
+H3: Increased job satisfaction leads to decreased turnover intentions of salespeople Supported
+H4: Grit moderates the relationship between job satisfaction and turnover intentions Supported
+H5a: Grit moderates the relationship between role conflict and turnover intentions Supported
+H5b: Grit moderates the relationship between role ambiguity and turnover intentions Not SupportedJOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 255
+(2)Use Grit to practice meaningful behaviors – 
+Studies on grit indicate that the most promi -
+nent link between grit and success is calcu -
+lated practice; those who possess more grit 
+are more willing to deliberately practice their 
+work in order to achieve their goals 
+(Duckworth and Eskreis-Winkler 2013 ). 
+Hence, whatever the initial grit level of 
+a salesperson is, it is most helpful to use 
+that determination to practice the right beha -
+viors for greater success. Any and all means 
+used to prepare traditional skills (e.g., role 
+plays, presentation skills, dealing with objec -
+tions, online selling, etc.) and less obvious 
+skills (e.g., empathy, curiosity, critical think -
+ing, etc.) can all be practiced to improve 
+selling, closing, and customer fulfillment 
+outcomes (Thomas 2021 ). Therefore, detect -
+ing a salesperson’s grit is only the beginning; 
+it should be focused on organization goals 
+and put to good use.
+(3)Understand that something new is happen -
+ing with middle aged workers – The US 
+Bureau of Labor Statistics reports that turn -
+over is historically highest among younger 
+employees (20 to 25 years range) who are 
+thought to be more unsettled, unsure of 
+their interests, and may not always be prop -
+erly trained. This may be even more impor -
+tant to new salespeople whose early career 
+frustration and failure is thought to be the 
+impetus for this group’s willingness to jump 
+from job to job, and even out of 
+a professional sales careers (Thomas 2021 ). 
+For all types of workers, this has not been the 
+case during the 2020 and 2021 “Great 
+Resignation.” Instead, turnover dropped for 
+younger workers not in the food service 
+industry (Cook 2021 ). Between 2020 and 
+2021 the age group most likely to quit 
+appears to be middle aged (30 to 45 years of 
+age) with an average increase of 20% (Cook 
+2021 ). This trend is potentially dangerous for 
+business leaders because this age group 
+represents mid-level workers who have pro-
+ven track records, are costly to replace, and 
+who encompass the pool of workers to pro-
+vide the next generation of business leaders. 
+Retaining mid-career salespeople who havealready overcome early career bumps and 
+bruises is important for sales teams to reach 
+revenue targets on a consistent basis 
+(Thomas 2021 ).
+(4)Pay attention to the forces unique to the 
+industry – Workers with essential knowledge 
+who experience turnover intentions are more 
+likely to leverage their unique skills and 
+experiences with new employers, but in the 
+same industry. Employees in industries that 
+were placed under greater stress due to the 
+demands of the COVID-19 pandemic (i.e., 
+forced to deal with greater workloads and 
+coworker burnout) were more likely to quit. 
+For example, resignation rates were highest 
+in healthcare and high tech industries (Cook 
+2021 ). An added danger for sales managers 
+who are responsible for retaining salespeople 
+is the fact that good salespeople have skills 
+related to selling and may be able to more 
+easily transfer to new employers even in dif-
+ferent industries. Given the difficulty of 
+tracking potential rivals, a good retention 
+strategy is to be proactive and to focus on 
+the needs and concerns of existing sales and 
+support personnel.
+(5)Use analytics to track turnover, look for 
+insights, and customize a solution – For 
+example, Ian Cook (HR consultant, 
+researcher and journalist) and his team 
+searched 9 million employee records at over 
+4,000 global companies to develop generic 
+steps for business leaders to consider 
+(2021). He recommends employers should 
+use a data-drive approach to: 1) identify 
+root causes why employees quit that are 
+unique to the firm; 2) use metrics to quantify, 
+track, and clarify the cost of turnover so all 
+stakeholders understand what is a risk; 
+and, 3) implement targeted retention cam-
+paigns to address the problems unique to 
+each employer and its employees.
+(6)Set employee retention goals and action 
+plans as a team – Once an employer under -
+stands the larger market forces, industry 
+trends and the specific characters of the orga -
+nization’s employees, retention goals should 
+be developed by the entire workforce. 
+A firm’s market orientation should be256
+ E. F. DAVID ET AL.
+a team goal and responsibility. Hence, setting 
+retention goals as a group communicates the 
+importance of retention to everyone, and 
+emphasizes further that a productive and 
+content workforce is the mutual responsibil -
+ity of all employees throughout the organiza -
+tion. Sunder et al. (2017 ) used a sample of 
+over 6,700 salespeople and found strong evi-
+dence that peer turnover influenced other 
+salespeople’s turnover intentions. In addi -
+tion, multiple retention strategies developed 
+by employees for employees may be the best 
+way to develop action plans that target key 
+concerns and foster ownership by team 
+members. Ultimately, this may be the best 
+way to create a culture where salespeople feel 
+pride in being part of a winning 
+organization.
+Research implications
+Inclusion of market orientation as an antecedent to 
+role stressors in the job Demands-Resources model 
+expands the conceptualization of the construct as it 
+relates to salespeople in that market orientation is 
+something the firm can control directly. This opens 
+research opportunities to use this model in the sales 
+literature. The current research has helped support 
+the internal marketing consequences of market 
+orientation, supporting and extending the findings 
+of Narver and Slater (1995 )); Kohli and Jaworski 
+(1990 ); Lings and Greenley (2009 ) to the sales 
+domain. In addition, the job-demands-resources 
+model expands the role of grit beyond positive 
+psychology to be viewed as a resource in stressful 
+situations and puts the role of grit into a theoretical 
+framework for use in business contexts. In addition, 
+the current work suggests that the grit scale can be 
+used to replace measures used for similar con-
+structs such as tenacity (Avila and Fern 1986 ). 
+Research indicates that a person who is tenacious 
+is more likely to persevere through a task or job 
+(Avila and Fern 1986 ); and, given their conceptual 
+similarity, similar outcomes can be expected in 
+a person who possesses grit. However, since tena -
+city has proven to be an unreliable measure, grit is 
+proposed herein as a replacement construct, having 
+been psychometrically validated in multiple studies 
+(Crede, Tynan, and Harms 2017 ; Duckworth 2006 ,2016 ; Duckworth and Eskreis-Winkler 2013 ; 
+Duckworth and Quinn 2009 ; Duckworth et al. 
+2007 ).
+Limitations and future research
+Combining these two literature streams – market 
+orientation and salesperson grit – is novel and will 
+inspire new thinking and foster new insights. This 
+study serves as a starting point for future research 
+to examine firm controllable resources (market 
+orientation) along with employee traits that can 
+act as a buffer (grit) when resources are scarce. 
+A limitation of the research is that it only contains 
+responses from the United States, and failure to 
+retain key sales employees is a problem with global 
+implications. To date, there is relatively little 
+research on salesperson turnover as an interna -
+tional phenomena (see Appendix 2), so research 
+employing the JD-R framework to examine sales -
+person turnover from a global perspective is 
+warranted.
+Additionally, the link between turnover inten -
+tions and actual turnover behavior should be 
+assessed in a longitudinal manner to determine 
+whether grit moderates this link. Another set of 
+studies should assess other internal consequences 
+of market orientation on salespeople including 
+motivation, performance, organization citizenship 
+behaviors and lone-wolf tendencies. Furthermore, 
+research that combines the grit construct with team 
+performance can prove valuable to organizations 
+who increasingly pair sales representatives together 
+to increase territory performance (Cummings 
+2007 ). Finally, the question needs to be answered 
+as to whether grit is distinct and shows discrimi -
+nant validity from similar constructs such as tena -
+city, persistence, and/or mental toughness. 
+Additionally, grit can be tested in multiple ways – 
+to determine the level of grit inherent in salespeo -
+ple, to see if grit can be increased through training 
+and development, and if grit can be situation- 
+dependent.
+In summary, this study’s findings suggest that 
+role ambiguity can be reduced by the presence of 
+a positive market orientation culture that increases 
+job satisfaction, which leads to reduced turnover 
+intention. Findings also suggest that salesperson 
+grit moderates the relationship between roleJOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 257
+conflict and job satisfaction, but does not moderate 
+the relationship between role ambiguity and job 
+satisfaction. Hence, a market-orientation culture 
+has internal organizational benefits for salespeople, 
+and salesperson grit can serve as an insulating per-
+sonality factor when role conflict is prevalent.
+Acknowledgements
+Matthew A. Askew would like to thank Eastern Illinois University 
+for supporting this research as part of his MBA program.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This research did not receive any specific grant from funding 
+agencies in the public, commercial, or not-for-profit sectors.
+References
+Angess, M. 2022. The real reasons workers are leaving in 
+droves? (Burnout is on the list, but not at the top), Inc., 
+Accessed January 31, 2022. https://www.inc.com/melissa- 
+angell/great-resignation-burnout-workers-upskilling- 
+career-development.html 
+Arnold, H. J., and D. C. Feldman. 1982 . A multivariate analysis 
+of the determinants of job turnover. The Journal of Applied 
+Psychology 67:350–60. doi:10.1037/0021-9010.67.3.350 .
+Avila, R. A., and E. F. Fern. 1986 . The selling situation as 
+a moderator of the personality-sales performance relation -
+ship: An empirical investigation. Journal of Personal Selling 
+& Sales Management 6:53–63.
+Bakker, A. B., E. Demerouti, and W. Verbeke. 2004 . UsinG the 
+job demands-resources model to predict burnout and 
+performance. Human Resource Management 
+43 (1):83–104. doi:10.1002/hrm.20004 .
+Bande, B., P. Fernadez-Ferrin, J. A. Varela, and F. Jaramillo. 
+2015 . Emotions & salesperson propensity to leave: The 
+effects of emotional intelligence & resilience. Industrial 
+Marketing Management 44:142–53. doi:10.1016/j.indmar 
+man.2014.10.011 .
+Bedeian, A. G., and A. A. Armenakis. 1981 . A path-analytic 
+study of the consequences of role conflict and ambiguity. 
+Academy of Management Journal 24 (2):417–24.
+Berry, L. L. 1981 . The employee as customer. Journal of Retail 
+Banking 3:25–28.
+Biddle, B. J. 1986 . Recent developments in role theory. Annual 
+Review of Sociology 12:67–92. doi:10.1146/annurev.so.12. 
+080186.000435 .Bluedorn, A. C. 1982 . A unified model of turnover from 
+organizations. Human Relations 35 (2):135–53. doi:10. 
+1177/001872678203500204 .
+Bothma, C. F., and G. Roodt. 2013 . The validation of the 
+turnover intention scale. Journal of Human Resource 
+Management 11 (1):507–519. doi:10.4102/sajhrm.v11i1.507 .
+Boyd, N. G., J. E. Lewin, and J. K. Sager. 2009. A model of 
+stress and coping and their influence on individual and 
+organizational outcomes. Journal of Vocational Behavior 
+75:197–211. doi:10.1016/j.jvb.2009.03.010 .
+Brashear, T. G., J. S. Boles, D. N. Bellenger, and C. M. Brooks. 
+2003 . An empirical test of trust-building processes and out-
+comes in sales manager-salesperson relationships. Journal 
+of the Academy of Marketing Science 31 (2):189–200. doi:10. 
+1177/0092070302250902 .
+Brashear, T. G., C. Manolis, and C. M. Brooks. 2005 . The 
+effects of control, trust and justice on salesperson 
+turnover. Journal of Business Research 58 (3):241–49. 
+doi:10.1016/S0148-2963(03)00134-6 .
+Bureau of Labor Statiics. 2021 . Great resignation statistics. 
+Accessed. https://WWW.STATISTA.COM/CHART/ 
+26186/NUMBER-OF-PEOPLE-QUITTING-THEIR-JOBS- 
+IN-THE-UNITED-STATES/ 
+Chen, H., D. L. Ford Jr., G. Kalyanaram, and R. S. Bhagat. 2012. 
+Boundary condition for turnover intentions: Exploratory 
+evidence from China, Jordan, Turkey and the US. The 
+International Journal of Human Resource Management 
+23 (4):846–66. doi:10.1080/09585192.2011.610968 .
+Churchill, G. A., N. M. Ford, and O. C. Walker. 1974. 
+Measuring the job satisfaction of industrial salesmen. 
+Journal of Marketing Research 11 (3):254–60. doi:10.1177/ 
+002224377401100303 .
+Cook, I. 2021 . Who is driving the great resignation? Harvard 
+Business Review. Published September 15. https://hbr.org/ 
+2021/09/who-is-driving-the-great-resignation 
+Crede, M., M. C. Tynan, and P. D. Harms. 2017 . Much ado 
+about Grit: A meta-analytic synthesis of the grit literature. 
+Journal of Personality and Social Psychology 
+113 (3):492–511. doi:10.1037/pspp0000102 .
+Crick, J. M., M. Karami, and D. Crick. 2022 . Is it enough to be 
+market-oriented? How coopetition and industry experience 
+affect the relationship between a market orientation and 
+customer satisfaction performance. Industrial Marketing 
+Management 100:62–75. doi:10.1016/j.indmarman.2021.11. 
+002.
+Cummings, B. 2007 . Group dynamics. Sales and Marketing 
+Management 159 (1):8.
+Darmon, Y. 2008 . The concept of salesperson replacement 
+value: A sales force turnover management tool. Journal of 
+Personal Selling & Sales Management 28 (3):211–32. doi:10. 
+2753/PSS0885-3134280301 .
+DeConinck, J. B. 2011 . The effects of ethical climate on orga -
+nizational identification, supervisory trust, and turnover 
+among salespeople. Journal of Business Research 
+64:617–24. doi:10.1016/j.jbusres.2010.06.014 .
+DeConinck, J. B., and J. T. Johnson. 2009 . The effects of per-
+ceived supervisor support: Perceived organizational support258
+ E. F. DAVID ET AL.
+and organizational justice on turnover among salespeople. 
+Journal of Personal Selling & Sales Management 
+29 (4):333–50. doi:10.2753/PSS0885-3134290403 .
+DeConinck, J. B., H. K. Moss, and M. B. Deconinck. 2018 . The 
+relationship between servant leadership, perceived organi -
+zational support, performance & turnover among business 
+to business salespeople. Global Journal of Management & 
+Marketing 2 (1):38–52.
+Deczynski, R. 2021. Quitting is contagious. How you can pre-
+vent it from spreading at your company. Inc., Accessed 
+January 31, 2022. https://www.inc.com/rebecca-deczynski/ 
+quitting-contagion-retaining-employees-advice-great-resig 
+nation.html 
+Demerouti, E., A. B. Bakker, F. Nachreiner, and 
+W. B. Schaufeli. 2001 . The job demands-resources model 
+of burnout. The Journal of Applied Psychology 
+86 (3):499–512.
+Dimaculangan, E. D., and H. M. Aguiling. 2012 . The effects of 
+transformational leadership on salesperson’s turnover 
+intention. International Journal of Business & Social 
+Science 3 (19):197–210.
+Dubinsky, A. J., T. W. Dougherty, and R. Wunder. 1990. 
+Influence of role stress on turnover of sales personnel and 
+sales managers. International Journal of Research in 
+Marketing 7:121–33. doi:10.1016/0167-8116(90)90016-G .
+Duckworth, A. L. 2006 . Intelligence is not enough: Non-IQ 
+predictors of achievement. Dissertations available from 
+ProQuest . Paper AAI3211063. http://repository.upenn.edu/ 
+dissertations/AAI3211063 .
+Duckworth, A. L. 2016 . Grit: The power of passion and perse -
+verance . New York: Simon and Schuster.
+Duckworth, A. L., and L. Eskreis-Winkler. 2013 . True grit. 
+Association for Psychological Science Observer 26 (4). 
+https://www.psychologicalscience.org/observer/true-grit 
+Duckworth, A. L., C. Peterson, M. D. Matthews, and 
+D. R. Kelly. 2007 . Grit: Perseverance and passion for 
+long-term goals. Journal of Personality and Social 
+Psychology 92:1087–101. doi:10.1037/0022-3514.92.6.1087 .
+Duckworth, A. L., and P. D. Quinn. 2009 . Development and 
+validation of the short grit scale (GRIT–S). Journal of 
+Personality Assessment 91 (2):166–74. doi:10.1080/ 
+00223890802634290 .
+Dugan, R., B. Hochstein, M. Rouzious, and B. Britton. 2019 . 
+Gritting their teeth to close the sale: The positive effect of 
+salesperson grip on job satisfaction and performance. 
+Journal of Personal Selling & Sales Management 
+39 (1):81–101. doi:10.1080/08853134.2018.1489726 .
+Fern, E. F., R. A. Avila, and D. Grewal. 1989 . Salesforce turn -
+over: Those who left and those who stayed. Industrial 
+Marketing Management 18:1–9. doi:10.1016/0019- 
+8501(89)90015-1 .
+Flaherty, K. E., and J. M. Pappas. 2002a . Using career stage 
+theory to predict turnover intentions among salespeople. 
+Journal of Marketing Theory and Practice 10 (3):48–57. 
+doi:10.1080/10696679.2002.11501919 .
+Flaherty, K. E., and J. M. Pappas. 2002b . The influence of 
+career stage on job attitudes: toward a contingencyperspective. Journal of Personal Selling & Sales 
+Management 22 (3):135–143.
+Fornell, C., and D. F. Larcker. 1981 . Structural equation mod -
+els with unobservable variables and measurement error: 
+Algebra and statistics. Journal of Marketing Research 
+18 (3):382–88. doi:10.1177/002224378101800313 .
+Fournier, C., J. F. Tanner Jr, L. B. Chonko, and C. Manolis. 
+2010. The moderating role of ethical climate on salesperson 
+propensity to leave. Journal of Personal Selling & Sales 
+Management 30 (1):7–22. doi:10.2753/PSS0885-3134300101 .
+Fry, R. 2018 . Millennial are the largest generation in the US 
+labor force. Pew Research Center: Fact-tank news in the 
+numbers, April 11, p 1.
+George, W. R. 1977 . The retailing of services: a challenging 
+future. Journal of Retailing, Fall 53 (3): 85–98.
+George, J. M., and K. Bettenhausen. 1990 . Understanding 
+prosocial behaviors, sales performance and turnover: A 
+group-level analysis in a service context. The Journal of 
+Applied Psychology 6 (6):698–709. doi:10.1037/0021-9010. 
+75.6.698 .
+Gligor, D. M., I. Gölgeci, C. Newman, and S. Bozkurt. 2021 . 
+Performance implications of the buyer-supplier market 
+orientation fit. Industrial Marketing Management 
+93:161–73. doi:10.1016/j.indmarman.2021.01.010 .
+Gounaris, S., G. Chryssochoidis, and A. Boukis. 2020 . Internal 
+market orientation adoption and new service development 
+(NSD): Gearing up the internal performance of NSD teams. 
+European Journal of Marketing 54 (7):1641–74. doi:10.1108/ 
+EJM-02-2018-0148 .
+Guchait, P., and S. Cho. 2010 . The impact of human resource 
+management practices on intention to leave of employees in 
+the service industry in India: The mediation role of organi -
+zational commitment. The International Journal of Human 
+Resource Management 21 (8):1228–47. doi:10.1080/ 
+09585192.2010.483845 .
+Guthrie, J. P. 2001 . High-Involvement work practices, turn -
+over, and productivity: Evidence from New Zealand. 
+Academy of Management Journal 44 (1):180–90.
+Hakim Ahmad Dardar, A., A. Jusoh, and A. Rasli. 2012 . The 
+impact of job training, job satisfaction and alternative job 
+opportunities on job turnover in Libyan oil companies. 
+International Conference on Asia Pacific Business 
+Innovation & Technology Management , open access, 
+Procedia – Social and Behavioral Sciences 40:389–94.
+Harter, J. 2022 . U.S. employee engagement drops for first year 
+in a decade. Gallup . Accessed January 31, 2022. https:// 
+www.gallup.com/workplace/388481/employee-engagement 
+-drops-first-year-decade.aspx 
+Hartline, M. D., and O. C. Ferrell. 1996 . The management of 
+customer-contact service employees: An empirical 
+investigation. Journal of Marketing 60:52–70. doi:10.1177/ 
+002224299606000406 .
+Hartmann, N. N., and B. N. Rutherford. 2015 . Psychological 
+contract breach’s antecedents & outcomes in salespeople: 
+The roles of psychological climate, job attitudes & turnover 
+intentions. Industrial Marketing Management 51:158–70. 
+doi:10.1016/j.indmarman.2015.07.017 .JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 259
+Hobfoll, S. E. 1989 . Conservation of resources: A new attempt 
+at conceptualizing stress. The American Psychologist 
+44 (3):513–24. doi:10.1037/0003-066X.44.3.513 .
+Hoffmeister, D. C., and R. A. Rocco. 2012. 2011–2012 Sales 
+effectiveness survey . DePaul University, Center for Sales 
+Leadership.
+Hooley, G., T. Cox, J. Fahy, D. Shipley, J. Beracs, K. Fonfara, 
+and B. Snoj. 2000 . Market orientation in the transition 
+economies of central Europe: Tests of the Narver and 
+Slater market orientation scales. Journal of Business 
+Research 50:273–85. doi:10.1016/S0148-2963(99)00105-8 .
+Ingram, T. N., and K. S. Lee. 1990 . Sales force commitment 
+and turnover. Industrial Marketing and Management 
+19 (2):149–54. doi:10.1016/0019-8501(90)90039-X .
+Jain, S., and S. K. Nair. 2018. Construct validation and 
+exploration of turnover intentions of sales employees: 
+Evidences from India. International Journal of Indian 
+Culture and Business Management 17 (2). doi:10.1504/ 
+IJICBM.2018.094246 .
+Jaramillo, F., D. B. Grisaffe, L. B. Chonko, and J. A. Roberts. 
+2009 . Examining the impact of servant leadership on sales -
+person’s turnover intention. Journal of Personal Selling and 
+Sales Management 24 (4):351–65. doi:10.2753/PSS0885- 
+3134290404 .
+Jaramillo, F., J. P. Mulki, and P. Solomon. 2006. The role of 
+ethical climate on salesperson’s role stress, job attitudes, 
+turnover intention and job performance. Journal of 
+Personal Selling & Sales Management 26 (3):271–82. 
+doi:10.2753/PSS0885-3134260302 .
+Johnson, T. W., and J. E. Stinson. 1975 . Role ambiguity, role 
+conflict, and satisfaction: Moderating effects of individual 
+differences. The Journal of Applied Psychology 60:329–33. 
+doi:10.1037/h0076752 .
+Johnston, M. W., and C. M. Futrell. 1989 . Functional sales -
+force turnover: An empirical investigation into the positive 
+effects of turnover. Journal of Business Research 18:141–57. 
+doi:10.1016/0148-2963(89)90032-5 .
+Johnston, M. W., C. M. Futrell, A. Parasuraman, and J. Sager. 
+1988 . Performance and job satisfaction effects on salesper -
+son turnover: A replication and extension. Journal of 
+Business Research 16 (1):67–83. doi:10.1016/0148-2963(88) 
+90081-1 .
+Johnston, M. W., P. R. Varadarajan, C. M. Futrell, and J. Sager. 
+1987 . The relationship between organizational commit -
+ment, job satisfaction, and turnover among new 
+salespeople. Journal of Personal Selling and Sales 
+Management 7 (3):29–38.
+Jones, E., P. Busch, and P. Dacin. 2003 . Firm market orienta -
+tion and salesperson customer orientation: Interpersonal 
+and intrapersonal influences on customer service and reten -
+tion in business-to-business buyer–seller relationships. 
+Journal of Business Research 56:323–40. doi:10.1016/ 
+S0148-2963(02)00444-7 .
+Jones, E., L. Chonko, D. Rangarajan, and J. Roberts. 2007 . The 
+role of overload on job attitudes, turnover intentions and 
+salesperson performance. Journal of Business Research 
+60 (7):663–71. doi:10.1016/j.jbusres.2007.02.014 .Jones, E., D. M. Kantak, C. M. Futrell, and M. W. Johnston. 
+1996 . Leader behavior, work-attitudes, and turnover of 
+salespeople: An integrative study. Journal of Personal 
+Selling & Sales Management 16 (2):13–23.
+Jorgensen, F., and K. Becker. 2014. Balancing organizational 
+and professional commitments in professional services 
+firms: The HR practices that matter. International Journal 
+of Human Resource Management 26 (1):23–41.
+Kampkotter, P., and K. Marggraf. 2015 . Do employees reci-
+procate to intra-firm training? An analysis of absenteeism 
+and turnover rates. International Journal of Human 
+Resource Management 26 (22):2888–907.
+Katsikea, E., M. Theodosiou, and R. Morgam. 2015 . Why 
+people quit: Explaining employee turnover intentions 
+among export sales managers. International Business 
+Review 24 (3):367–79. doi:10.1016/j.ibusrev.2014.08.009 .
+Kochhar, R. 2020 . Women make gains in the workplace amid 
+a rising demand for skilled worker. Pew Research Center: 
+Social & Demographic Trends, January 30, pp. 1–9. https:// 
+www.pewsocialtrends.org/2020/01/30/women-make-gains-in- 
+the-workplace-amid-a-rising-demand-for-skilled-workers/ .
+Kohli, A. K., and B. J. Jaworski. 1990 . Market orientation: The 
+construct, research propositions and managerial 
+implications. Journal of Marketing 54 (2):1–18. doi:10. 
+1177/002224299005400201 .
+Kuvaas, B., R. Buch, M. Gagne, A. Dysvik, and J. Forest. 2016 . 
+Do you get what you pay for? Sales incentives and implica -
+tions for motivation and changes in turnover intention and 
+work effort. Motivation and Emotion 40 (5):667–80. doi:10. 
+1007/s11031-016-9574-6 .
+Lai, M. C., and Y. C. Chen. 2012. Self-Efficacy, effort, job 
+performance, job satisfaction and turnover intention: The 
+effect of personal characteristics on organization 
+performance. International Journal of Innovation, 
+Management and Technology 3 (4):387–91. doi:10.7763/ 
+IJIMT.2012.V3.260 .
+Lewin, J. E., and J. K. Sager. 2008 . Salesperson burnout: A test 
+of the coping-mediational model of social support. Journal 
+of Personal Selling & Sales Management 28 (3):233–46. 
+doi:10.2753/PSS0885-3134280302 .
+Lewin, J. E., and J. K. Sager. 2009 . An investigation of the 
+influence of coping resources in the salespersons’ emotional 
+exhaustion. Industrial Marketing Management 
+39 (7):798–805. doi:10.1016/j.indmarman.2008.02.013 .
+Lewin, J. E., and J. K. Sager. 2010 . The influence of personal 
+characteristics and coping strategies on salespersons’ turn -
+over intentions. Journal of Personal Selling & Sales 
+Management 30 (4):355–70. doi:10.2753/PSS0885- 
+3134300405 .
+Lings, I. N., and G. E. Greenley. 2009 . The impact of internal 
+and external market orientations on firm performance. 
+Journal of Strategic Marketing 17 (1):41–53. doi:10.1080/ 
+09652540802619251 .
+Lloyd, C., and H. Newell. 2001 . Capture and transfer: 
+Improving the performance of pharmaceutical sales reps. 
+International Journal of Human Resource Management 
+12 (3):464–83.260
+ E. F. DAVID ET AL.
+Loveland, J., J. Lounsbury, S. Park, and D. Jackson. 2015 . Are 
+salespeople born or made? Biology, personality, and the 
+career satisfaction of salespeople. Journal of Business & 
+Industrial Marketing 30 (2):233–40. doi:10.1108/JBIM-12- 
+2012-0257 .
+Lucas, G. H., Jr., A. Parasuraman, R. A. Davis, and B. M. Enis. 
+1987. An Empirical Study of Salesforce Turnover. Journal of 
+Marketing 51:34–59. doi:10.1177/002224298705100303 .
+Maddi, S. R., M. D. Matthews, D. R. Kelly, B. Villarreal, and 
+M. White. 2012 . The role of hardiness and grit in predicting 
+performance and retention of USMA cadets. Military 
+Psychology 24 (1):19–28. doi:10.1080/08995605.2012.639672 .
+Mathieu, C., B. Fabi, R. Lacoursiere, and L. Raymond. 2016 . 
+The role of supervisory behavior, job satisfaction and orga -
+nizational commitment on employee turnover. Journal of 
+Management and Organization 22 (1):113–29. doi:10.1017/ 
+jmo.2015.25 .
+McElroy, J. C., P. C. Morrow, and S. N. Rude. 2001 . Turnover 
+and organizational performance: A comparative analysis of 
+the effects of voluntary, involuntary and reduction-in-force 
+turnover. The Journal of Applied Psychology 86 (6):1294–99. 
+doi:10.1037/0021-9010.86.6.1294 .
+McNeilly, K. M., and F. A. Russ. 1992 . The moderating effect 
+of sales force performance on relationships involving ante -
+cedents of turnover. Journal of Personal Selling & Sales 
+Management 12 (1):9–20. doi:10.1080/08853134.1992. 
+10753894 .
+Mobley, W. H., R. W. Griffeth, H. H. Hand, and 
+B. M. Meglino. 1979 . Review and conceptual analysis of 
+the employee turnover process. Psychological Bulletin 
+86 (3):493–522. doi:10.1037/0033-2909.86.3.493 .
+Moncrief, W. C., III, R. Hoverstad, and G. H. Lucas Jr. 1989 . 
+Survival analysis: A new approach to analyzing sales force 
+retention. Journal of Personal Selling & Sales Management 
+9 (2):19–30.
+Msweli-Mbanga, P. 2004 . Predicting turnover behavior in 
+direct salespeople. South African Business Review 
+8 (3):14–25.
+Narver, J. C., and S. F. Slater. 1995 . The effect of a market 
+orientation on business profitability. Journal of Marketing 
+54 (4):20–35. doi:10.1177/002224299005400403 .
+Naumann, E., S. M. Widmier, and D. W. Jackson Jr. 2000 . 
+Examining the relationship between work attitudes and 
+propensity to leave among expatriate salespeople. Journal 
+of Personal Selling & Sales Management 20 (4):227–41.
+Neal, A., and M. A. Griffin. 2006 . A study of the lagged 
+relationships among safety climate, safety motivation, safety 
+behavior, and accidents at the individual and group levels. 
+The Journal of Applied Psychology 91 (4):946–53. doi:10. 
+1037/0021-9010.91.4.946 .
+Park, J. H., A. Newman, L. Zhang, C. Wu, and A. Hooke. 2016 . 
+Mentoring functions and turnover intention: The mediat -
+ing role of perceived organizational support. International 
+Journal of Human Resource Management 27 (11):1173–91.
+Peretz, H., A. Levi, and Y. Fried. 2015 . Organizational diversity 
+programs across cultures: Effects on absenteeism, turnover,performance and innovation. International Journal of 
+Human Resource Management 26 (6):875–903.
+Pettijohn, C. E., S. Linda, L. S. Pettijohn, and A. J. Taylor. 2007 . 
+Does salesperson perception of the importance of sales 
+skills improve sales performance, customer orientation, 
+job satisfaction and organization commitment, and reduce 
+turnover? Journal of Personal Selling & Sales Management 
+27 (1):75–88. doi:10.2753/PSS0885-3134270105 .
+Pettijohn, L. S., C. E. Pettijohn, and A. J. Taylor. 1999 . An 
+empirical investigation of the relationship between retail 
+sales force performance appraisals, performance, and 
+turnover. Journal of Marketing Theory and Practice 
+7 (1):39–52. doi:10.1080/10696679.1999.11501818 .
+Pettijohn, C. E., L. S. Pettijohn, and A. J. Taylor. 2008 . 
+Salesperson perceptions of ethical behaviors: Their influ -
+ence on job satisfaction and turnover intentions. Journal of 
+Business Ethics 78:547–57. doi:10.1007/s10551-007-9367-7 .
+Pettijohn, L. S., C. E. Pettijohn, and A. J. Taylor. 2009. Retail 
+sales training: Activities and effects on job satisfaction, 
+organizational commitment, turnover and 
+customer-orientation. Marketing Management Journal 
+19 (1):46–57.
+Pollen, S. 2021 . Want to weather the Great Resignation? 
+Create an internal brand employees actually believe in. 
+Fast Company . https://www.fastcompany.com/90708024/ 
+want-to-weather-the-great-resignation-create-an-internal- 
+brand-employees-actually-believe-in 
+Proudfoot, J. G., P. J. Corr, D. E. Guest, and G. Dunn. 2008 . 
+Cognitive-Behavioral training to change attributional styles 
+improves employee well-being, job satisfaction, productiv -
+ity and turnover. Personality and Individual Differences 
+46 (2):147–53. doi:10.1016/j.paid.2008.09.018 .
+Rafiq, M., and P. K. Ahmed. 2000 . Advances in the internal 
+marketing concept: Definition, synthesis, and extension. 
+Journal of Services Marketing 14 (6):449–62. doi:10.1108/ 
+08876040010347589 .
+Rajabi, R., J. Boles, T. G. B. Alejandro, and S. Sarin. 2021 . 
+Revisiting and replicating the dominant logic on salesper -
+son job satisfaction, organizational commitment, and 
+turnover. Journal of Business Research 126:524–32. doi:10. 
+1016/j.jbusres.2019.10.067 .
+Ringle, C. M., S. Wende, and A. Will. 2005 . SmartPLS 2.0. 
+www.smartpls.de .
+Rizzo, J. R., R. J. House, and S. I. Lirtzman. 1970 . Role conflict 
+and ambiguity in complex organizations. Administrative 
+Science Quarterly 15 (2):150–63. doi:10.2307/2391486 .
+Roberts, J. A., K. R. Coulson, and L. B. Chonko. 1999 . 
+Salesperson perceptions of equity and justice and their 
+impact on organizational commitment and intent to 
+turnover. Journal of Marketing Theory and Practice 
+7 (1):1–16. doi:10.1080/10696679.1999.11501815 .
+Rutherford, B., J. K. Park, and S. L. Han. 2011 . Increasing job 
+performance and decreasing salesperson propensity to 
+leave: An examination of an Asian sales force. Journal of 
+Personal Selling & Sales Management 31 (2):171–83. doi:10. 
+2753/PSS0885-3134310205 .JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 261
+Sager, J. K. 1991 . A longitudinal assessment of change in sales 
+force turnover. Journal of the Academy of Marketing Science 
+19 (1):25–36. doi:10.1007/BF02723421 .
+Sager, J. K. 1994 . A structural model depicting salespeo -
+ple’s job stress. Journal of the Academy of Marketing 
+Science 22 (1):74–84. doi:10.1177/0092070394221007 .
+Sager, J. K., C. M. Futrell, and P. R. Varadarajan. 1989 . 
+Exploring salespeople turnover: A causal model. Journal of 
+Business Research 18:303–26. doi:10.1016/0148-2963(89) 
+90024-6 .
+Sager, J. K., P. R. Varadarajan, and C. M. Futrell. 1988 . 
+Understanding salesperson turnover: A partial evaluation 
+of Mobley’s Turnover Process Model. Journal of Personal 
+Selling & Sales Management 8 (1):21–35.
+Schaufeli, W. B. 2017 . Applying the job demands-resources 
+model. Organizational Dynamics 49 (2):120–32. doi:10. 
+1016/j.orgdyn.2017.04.008 .
+Schwepker, C. H., Jr. 2001 . Ethical climate’s relationship to job 
+satisfaction organizational commitment, and turnover 
+intention in the salesforce. Journal of Business Research 
+54 (1):39–52. doi:10.1016/S0148-2963(00)00125-9 .
+Seriki, O. K., K. R. Evans, H. J. Jeon, R. P. Dant, and A. Helm. 
+2016 . Unintended effect of marketing messages on sales -
+people’s cynicism. European Journal of Marketing 
+50 (6):1047–2016. doi:10.1108/EJM-07-2014-0440 .
+Shi, H., S. Sridhar, R. Grewal, and G. Lilien. 2017 . Sales 
+representative departures and customer reassignment stra-
+tegies in business-to-business markets. Journal of Marketing 
+81:25–44. doi:10.1509/jm.15.0358 .
+Shore, L. M., and H. J. Martin. 1989 . Job satisfaction and 
+organizational commitment in relation to work perfor -
+mance and turnover intentions. Human Relations 
+42:625–38. doi:10.1177/001872678904200705 .
+Singh, K., and S. D. Jha. 2008 . Positive and negative affect: 
+Grit as predictors of happiness and life satisfaction. 
+Journal of the Indian Academy of Applied Psychology 
+34 (2):40–45.
+Skiba, J., A. Saini, and S. B. Friend. 2016 . The effect of manage -
+rial cost prioritization on sales force turnover. Journal of 
+Business Research 69:5917–24. doi:10.1016/j.jbusres.2016. 
+05.004 .
+Smith, A., E. Oczkowski, and C. S. Smith. 2011 . To have and to 
+hold: Modelling the drivers of employee turnover and skill 
+retention in Australian organizations. The International 
+Journal of Human Resource Management 22 (2):395–416. 
+doi:10.1080/09585192.2011.540162 .
+Sunder, S., V. Kumar, A. Goreczny, and T. Maurer. 2017 . Why 
+do salesperson quit? An empirical examination of own and 
+peer effects on salesperson turnover behavior. Journal of 
+Marketing Research 54 (3):381–97. doi:10.1509/jmr.15. 
+0485 .Thomas, P. 2021 . The pay is high and jobs are plentiful, but 
+few want to go into sales. Wall Street Journal . https://www. 
+proquest.com/docview/2551116403?parentSessionId= 
+txPbcHuFonyPxCFx8j4SpwlrafsVYaIVnyo0iwXMH9U% 
+3D&pq-origsite=primo&accountid=14745 
+Tulgan, B. 2013 . Meet Generation Z: The Second Generation 
+within the Giant “Millennial” Cohort. Available at: http:// 
+www.rainmakerthinking.com/assets/uploads/2013/10/Gen- 
+Z-Whitepaper.pdf 
+Tyagi, P. K., and T. R. Wotruba. 1993 . An exploratory study of 
+the reverse causality relationship among sales force turn -
+over variables. Journal of the Academy of Marketing Science 
+21 (2):143–53. doi:10.1007/BF02894425 .
+Valentine, S., L. Godkin, G. Fleischman, and R. Kidwell. 2011. 
+Corporate ethical values, group creativity, job satisfaction 
+and turnover intention: The impact of work context on 
+work response. Journal of Business Ethics 98:353–72. 
+doi:10.1007/s10551-010-0554-6 .
+Wang, G., and X. Ma. 2013 . The effect of psychological climate 
+for innovation on salespeople’s creativity and turnover 
+intention. Journal of Personal Selling & Sales Management 
+33 (4):373–87. doi:10.2753/PSS0885-3134330402 .
+Westbrook, K. W., and R. M. Peterson. 2020 . Sales enablement 
+and hindrance stressors’ effects on burnout, turnover inten -
+tions, and sales performance. Marketing Management 
+Journal 30 (2):64–85.
+Wotruba, T. R., and P. K. Tyagi. 1991 . Met expectation and 
+turnover in direct selling. Journal of Marketing 
+55 (3):24–35. doi:10.1177/002224299105500303 .
+Wren, B. M., and D. Berkowitz. 2014. Attitudinal, personal, & 
+job-related predictors of salesperson turnover. Marketing 
+Intelligence & Planning 32 (1):107–23. doi:10.1108/MIP-04- 
+2013-0061 .
+Yanadori, Y., and T. Kato. 2007 . Average employee tenure, 
+voluntary turnover ratio and labour productivity: Evidence 
+from Japanese firms. International Journal of Human 
+Resource Management 18 (10):1841–57.
+Zagorsky, J. L. 2022 . The ‘great resignation’: Historical data and 
+a deeper analysis show it’s not as great as screaming headlines 
+suggest. The Conversation . Accessed January 31, 2022. https:// 
+theconversation.com/the-great-resignation-historical-data- 
+and-a-deeper-analysis-show-its-not-as-great-as-screaming- 
+headlines-suggest-174454 
+Zain, O. M., and M. T. Jan. 2014. The extent of factors 
+influencing automobile salesperson’s career tenure in 
+Malaysia. Asian Journal of Business Research 4 (1):43–63. 
+doi:10.14707/ajbr.140004 .
+Zoltners, A. A., P. Sinha, and S. E. Lorimer. 2008 . Salesforce 
+effectiveness: A framework for researchers and practitioners. 
+Journal of Personal Selling & Sales Management 
+28 (2):115–31. doi:10.2753/PSS0885-3134280201 .262
+ E. F. DAVID ET AL.
+Appendix 1: Overview of empirical on salespeople turnover research 
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(Johnston et al. 
+1987 )Insurance sales agents 
+Silent & Boomers 
+Gender not reportedNot reported Job tenure 
+Age 
+Education 
+Assessment of supervisor 
+Intrinsic job satisfaction 
+Extrinsic job satisfaction
+(Johnston et al. 
+1987 )New salespeople of national 
+manf. 
+Silent & Boomers 
+Gender not reportedNot reported Org commitment 
+Pay satisfaction 
+Promotion satisfaction 
+Supervisor satisfaction 
+Co-worker satisfaction
+(Johnston et al. 
+1988 )Salespeople of natl manuf. retail 
+products 
+Silent & Boomers 
+Gender not reportedNot reported Propensity to leave 
+Performance 
+Job satisfaction (pay, promotion, coworkers, work, 
+supervisor)
+(Sager, 
+Varadarajan, 
+and Futrell 
+1988 )Salespeople of natl manf. retail 
+products 
+Silent & Boomers 
+Gender: 5% femaleMobley (1977) General Model of Employee 
+Turnover (positive thoughts about quitting → 
+lead to research for alternatives → found 
+favorable alternative → 5leads to i6ntention to 
+quit)Satisfaction (pay, promotion, supervisor, work, 
+coworker). 
+Thinking of quitting 
+Attitude toward searching 
+Attitude toward quitting 
+Comparison of perceived alt job w/present job 
+Intention to leave
+(Sager, Futrell, 
+and 
+Varadarajan 
+1989 )Salespeople 
+Silent & Boomers 
+Gender not reportedNot reported Intention to quit 
+Performance 
+Tenure 
+Org commitment 
+Alternative job offer 
+Job Satisfaction (pay, promotion, supervisor, work, 
+coworkers).
+(Fern, Avila, and 
+Grewal 1989 )Salespeople w/in large 
+computer manufacture 
+Silent & Boomers 
+Gender not reportedNot reported Demographic & Individual Characteristics (age, 
+marital status, no. of independents, educ., life 
+cycle state, hours worked per week, experience, 
+ave. sales, yr in territory, job security) 
+Work related factors (job satisfaction, role conflict, 
+role ambiguity, org commitment) 
+Performance (work w/others), technical 
+knowledge, sales produced, customer relations, 
+info collected, present skill, time mgmt, overall 
+perform, and percent of quota).
+(Johnston and 
+Futrell 1989 )Salespeople of natl manf. retail 
+products 
+Silent & Boomers 
+Gender not reportedNot reported Turnover frequency 
+Turnover functionality 
+Propensity of leave 
+Leadership role clarification 
+Leadership consideration 
+Role conflict 
+Role ambiguity 
+Overall job satisfaction 
+Salary
+(Moncrief, 
+Hoverstad, 
+and Lucas 
+1989 )Insurance sales agents 
+Silent & Boomers 
+Gender not reportedSurvival Analysis, a biomedical-life-sciences 
+technique to examine the pattern of attrition of 
+a selected sample over time (e.g., survival rate 
+of cancer patients)“Hazard rate” the point whereby a type of 
+salesperson is most likely to self-terminate. As 
+in, the hazard rate for ins sales agents is 15  
+months. 
+“Survival rate” 41% of insurance sales agents 
+remain employed after 24 months.
+(Ingram and Lee 
+1990 )Salespeople across 37 industrial 
+firms 
+Silent & Boomers 
+Gender not reportedNot reported Job withdrawal propensity (new job in same org) 
+Org withdrawal propensity (leave the org) 
+Org commitment 
+Job commitment
+. (Ingram and 
+Lee 1990 )Salespeople & mgrs. of 
+computer equipment manf. 
+Silent & Boomers 
+Gender: 11% femaleNone reported Role stress (role conflict, role ambiguity, role 
+overload)
+(Continued )JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 263
+Appendix 1: (Continued).
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(George and 
+Bettenhausen 
+1990 )Salespeople & mgrs from 33 
+retail stores in national chain 
+Silent, Boomers & GenX 
+Gender not reportedProsocial Behavior in Groups Group cohesiveness 
+Leadership positive mood 
+Group sales performance
+(Sager 1991 ) Salespeople at a natl. manf. of 
+consumer products 
+Silent, Boomers & GenX 
+Gender: 4% femaleNone reported Job stress 
+Fairness 
+Global satisfaction 
+Thoughts of quitting 
+Intent of leave 
+Comparison of perceived alternative 
+Stay vs Quit
+(Wotruba and 
+Tyagi 1991 )Salespeople from direct selling 
+firms (Mary Kay, Saladmaster, 
+Tupperware, & United 
+Consumer Club) 
+Silent, Boomers & GenX 
+Gender: 90% femaleNot reported Met expectations – the diff btwn what the 
+salesperson expects on the job and that which 
+one experiences.
+(McNeilly and 
+Russ 1992 )Salespeople in food brokerage 
+who call on supermarket 
+retailers 
+Silent, Boomers & GenX 
+Gender not reportedNot reported Role conflict 
+Role ambiguity 
+Organizational commitment 
+Job satisfaction 
+Intent to leave 
+Performance
+(Tyagi and 
+Wotruba 
+1993 )Salespeople from direct selling 
+firms (Mary Kay, Saladmaster, 
+Tupperware, & United 
+Consumer Club) 
+Silent, Boomers & GenX 
+Gender: 85% femaleNot reported Leader goal emphasis & work facilitation 
+Leader trust & support 
+Leader interaction facilitation 
+Organizational identification 
+Management concern and awareness 
+Job satisfaction 
+Organizational commitment 
+Quitting intentions
+(Sager 1994 ) Salespeople at a natl. manf. of 
+consumer products 
+Silent, Boomers & GenX 
+Gender: 10% femaleNot reported Sales managers consideration 
+Role conflict 
+Role ambiguity 
+Job stress 
+Overall job satisfaction 
+Organizational commitment 
+Intention to leave
+(Sager 1994 ) Salespeople at a natl. manf. of 
+consumer products 
+Silent, Boomers & GenX 
+Gender not reportedNot reported Overall job satisfaction 
+Thinking of quitting 
+Comparison of a perceived alternative job 
+Intention to search 
+Intention to leave
+(Jones et al. 
+1996 )National field sales force of 
+manf. goods 
+Slient, Boomers & GenX 
+Gender: 2% femaleNot reported Leadership consideration 
+Leadership role clarity 
+Role conflict 
+Role ambiguity 
+Job anxiety 
+Job satisfaction 
+Job tension 
+Propensity of leave
+(Roberts, 
+Coulson, and 
+Chonko 1999 )Outside salespeople across 80 
+industries 
+Silent, Boomers & GenX 
+Gender: 15% femaleEquity Theory Intent to turnover 
+Organizational commitment 
+Internal procedural justice 
+Internal distributive justice 
+Internal Equity (with my org: raise equity, fringe 
+benefit equity, promotion equity, incentive 
+equity, salary equity, & recognition equity). 
+External Equity (at other firms in my industry: with 
+my org: raise equity, fringe benefit equity, 
+promotion equity, incentive equity, salary 
+equity, & recognition equity).
+(Pettijohn, 
+Pettijohn, and 
+Taylor 1999 )Retail salespeople from across 
+54 stores 
+Silent, Boomers & Gen X 
+Gender: 65% femaleNot reported Performance appraisals
+(Continued )264
+ E. F. DAVID ET AL.
+Appendix 1: (Continued).
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(Naumann, 
+Widmier, and 
+Jackson 2000 )Salespeople based in Asia 
+Boomers & GenX 
+Gender not reportedNot reported Propensity to leave 
+Salesperson Attitudes: job satisfaction, org 
+commitment, & job involvement 
+Individual Characteristics: age, fluency in host 
+language, years of intl experience, tenure, 
+education, & met expectations. 
+Job characteristics: role conflict, role ambiguity, 
+skill variety, task identity, task significance & 
+autonomy 
+Origination Characteristics: participation, 
+expatriate training, org size, & org age
+(McElroy, 
+Morrow, and 
+Rude 2001 )Salespeople in financial services 
+(e.g., mortgages) 
+Boomers & GenX 
+Gender not reportedNot reported Voluntary turnover (employee decides to quick/ 
+retire). 
+Involuntary turnover (dismissal for lack of 
+performance or undesirable behavior) 
+Reduction-in-force turnover (layoffs)
+(Schwepker 
+2001 )Various B2B Salespeople 
+Boomers & GenX 
+Gender: 29% femaleNot reported Ethical climate 
+Job Satisfaction (pay, promotions, supervisor, 
+policy, customers, workers, job) 
+Organizational commitment 
+Turnover intent
+(Flaherty and 
+Pappas 2002a )Auto salespeople 
+Boomers & GenX 
+Gender: 13% femaleCareer Stage Theory Life stage (exploration, establishment, 
+maintenance, & disengagement) 
+Turnover intention 
+Job satisfaction 
+Org commitment 
+Education 
+Age 
+Job tenure 
+Occupation tenure
+(Flaherty and 
+Pappas 
+2002b )Salespeople in service industry 
+from cross-section of US 
+industries. 
+Boomers & GenX 
+Gender: 33% femaleCareer stage theory 
+Contingency theoryJob satisfaction 
+Turnover intentions 
+Career stage (exploration, establishment, 
+maintenance, & disengagement) 
+SBU strategy (Defender, Prospector, or Analyzer) 
+Compensation type (salary or incentive). 
+Age 
+Marital status 
+Firm size
+(Brashear et al. 
+2003 )B2B Salespeople based in US 
+across industries 
+Silent, Boomers & GenX 
+Gender: 22% femaleTheoretical Model of Interpersonal Trust Managerial opportunism 
+Managerial respect 
+Shared values (mgr/slprsn) 
+Salesperson trust 
+Benevolence 
+Honesty 
+Job satisfaction 
+“Relationalsim” 
+Organizational commitment 
+Turnover intention
+(Brashear, 
+Manolis, and 
+Brooks 2005 )B2B salespeople US based 
+across various industries 
+Boomers & Gen X 
+Gender: 33% femaleEquity Theory Process control 
+Decision control 
+Trust 
+Procedural justice 
+Distributive justice 
+Turnover intentions
+(Brashear et al. 
+2003 )Retail salespeople across 16 
+states 
+Boomers, GenX & Mill 
+Gender: 5% femaleRole Theory 
+Job Stress TheoryEthical climate 
+Role ambiguity 
+Role conflict 
+Organizational commitment 
+Job satisfaction 
+Turnover intention 
+Job performance 
+Gender 
+Age 
+Tenure 
+Total work experience
+(Continued )JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 265
+Appendix 1: (Continued).
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(Jones et al. 
+2007 )US based sales & marketing 
+executives 
+Boomers, GenX & Mill 
+Gender not reportedCareer stage theory Performance 
+Turnover intent 
+Role overload 
+Job satisfaction 
+Organizational commitment
+(Pettijohn, 
+Pettijohn, and 
+Taylor 2008 )US based retail salespeople 
+Boomer, GenX & Mill 
+Gender: 47% femaleTheory of cognitive dissonance Ethical attitude toward business in general 
+Ethical attitude toward employer 
+Attitude as consumer 
+Job satisfaction 
+Turnover intentions
+(Pettijohn et al. 
+2007 )Retail sales from 9 stores in US 
+Boomer, GenX & Mill 
+Gender: 35% femaleNot reported Sales skills (techniques: prospecting, need ident, 
+present, objections, close, etc.) 
+Sales behaviors (consulting clients) 
+Customer orientation 
+Organization commitment 
+Job satisfaction 
+Intent to leave 
+Performance
+(Lewin and 
+Sager 2009 )B2B Salespeople w/in manf. 
+products industry 
+Boomers, GenX & Mill 
+Gender: 27% femaleCognitive Appraisal Theory Emotional exhaustion 
+Role conflict 
+Role ambiguity 
+Problem coping strategy 
+Emotion coping strategy
+(Proudfoot et al. 
+2008 )Salespeople of insurance 
+services industry 
+Boomer, GenX & Mill 
+Gender: 2% femaleCognitive Behavioral Theory Attributional style (positive or negative 
+attribution) 
+Psychological distress 
+Job satisfaction 
+Self-esteem 
+Intention to quit
+(Brashear et al. 
+2003 )US based sales managers and 
+salespeople 
+Boomer, Gen X & Mill 
+Gender: 22% femaleNot reported Procedural justice 
+Interpersonal justice 
+Informational justice 
+Distributive justice 
+Perceived organization support 
+Perceived supervisor support 
+Organizational commitment 
+Turnover intentions
+(Jaramillo et al. 
+2009 )009)Salespeople across various US 
+based industries 
+Boomer, GenX, Mill 
+Gender: 53% femaleVirtue ethics theory Servant Leadership (relationship with 
+subordinates, empowering subordinates, 
+helping subordinates grow, behaving ethically, 
+having conceptual skills, putting subordinates 
+first, creates value outside the organization) 
+Ethical level 
+Person-organizational fit 
+Organizational commitment 
+Sales experience 
+Felt stress 
+Turnover intention
+(Brashear et al. 
+2003 )N = 495 US based salesforce of 
+chemical products 
+Age not reported 
+Gender: 27% female 
+(note: 40% of new hires are 
+female)Social learning theory Organizational Stressors: role clarity & role conflict 
+Personal Characteristic: self-efficacy & external 
+locus of control 
+Coping Styles: emotion focused & problem focused 
+Job-related strains: emotional exhaustion and job 
+anxiety 
+Job-related outcomes: job satisfaction & 
+withdrawal
+(Brashear et al. 
+2003 )N = 141 US based retail 
+salespeople 
+Boomer, GenX, Mill 
+Gender: not specified except 
+majority were maleNot reported Organizational commitment 
+Job Satisfaction 
+Intent-to-leave 
+Customer orientation 
+Introductory training 
+Sales skills 
+Customer satisfaction 
+Product knowledge 
+Company/Industry knowledge
+(Continued )266
+ E. F. DAVID ET AL.
+Appendix 1: (Continued).
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(Lewin and 
+Sager 2010 )N = 495 US based salesforce of 
+chemical products 
+Age not reported 
+Gender: 27% female 
+(note: 40% of new hires are 
+female)Self-efficacy theory Self-efficacy 
+External locus of control 
+Problem-focused coping 
+Emotion-focused coping 
+Turnover intention
+(Lewin and 
+Sager 2010 )N = 130 French B2C salespeople 
+Age not reported 
+Gender: 25% femalePerson-Career fit 
+Ethical climate 
+Satisfaction 
+Role overload 
+Self-efficacy 
+Propensity to leave 
+Performance
+(Brashear et al. 
+2003 )N = 393 salespeople 
+Boomers, GenX, Mill 
+Gender: 27% femaleOrganizational 
+Identification TheoryResponsibility/trust 
+Ethical norms 
+Peer behavior 
+Sales practices 
+Supervisory trust 
+Organizational identification 
+Organizational commitment 
+Turnover intentions 
+Turnover
+(DeConinck 
+2011 )N = 356 US based B2B 
+salespeople 
+Age not provided 
+Gender: 36% femaleSocial Exchange Theory & Leader-member 
+exchange TheoryLeader-member exchange 
+Organizational identification 
+Performance 
+Organizational commitment 
+Turnover intentions 
+Turnover
+(DeConinck 
+2011 )N = 127 US based retail 
+salespeople (and N = 781 
+healthcare workers) 
+Age not reported 
+Gender: 51% femaleNot reported Work Context: group creativity and corporate 
+ethical values 
+Work Response: job satisfaction and turnover 
+intention 
+Social desirability
+(Rutherford, 
+Park, and Han 
+2011 )N = 213 department store 
+salespeople (S. Korea) 
+Boomer, GenX, Mill 
+Gender: 80% femaleNot reported Emotional exhaustion 
+Perceived Org Support 
+Job satisfaction 
+Org commitment 
+Job performance 
+Propensity to leave
+(Dimaculangan 
+and Aguiling 
+2012 )N = 387 salespeople in 
+Philippines 
+Ages not provided 
+Gender: 46% femaleNot reported Transformational leadership 
+Ethical climate 
+Person-Org fit 
+Org commitment 
+Turnover intent
+(Wang and Ma 
+2013 )N = 210 US based B2B internal 
+sale people 
+Boomer & Genx 
+Gender: 36% femaleResource Advantage Theory Climate for innovation 
+Learning orientation 
+Job satisfaction 
+Turnover intention 
+Use of sales teams 
+Sales experience 
+Firm size
+(DeConinck 
+2011 )N = 604 US based salespeople 
+Boomer, GenX, Mill 
+Gender: 37% femaleNone reported Job satisfaction (pay, supervision, job richness, 
+autonomy, org commitment, job involvement) 
+Role stress (role conflict, role ambiguity, propensity 
+to leave) 
+Personal variables (age, gender, family status, 
+spousal employment, income level, education, 
+job tenure, & prior sales experience) 
+Compensation plan (salary, commission, or 
+combination)
+(Bande et al. 
+2015 )N = 209 industrial salespeople 
+from 105 Spanish firms 
+Boomer, GenX, Mill 
+Gender: 27% femaleTheory of Human Capital Resilience 
+Emotional intelligence (EI) 
+Emotional exhaustion (EE) 
+Work-family conflict (WFC) 
+Servant leadership 
+Turnover intention
+(Continued )JOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 267
+Appendix 1: (Continued).
+Citation sorted 
+by dateSample 
+Generation 
+GenderCentral 
+Theory Variables related to Turnover
+(Hartmann and 
+Rutherford 
+2015 )N = 308 salespeople for survey 
+panel in US 
+Boomers & GenX 
+Gender: 43% femaleNot reported Psychological Climate Dimensions: autonomy, 
+involvement, performance feedback, & clarity of 
+org goals. 
+Psychological contract breach 
+Job satisfaction 
+Org commitment 
+Turnover intention 
+Job performance 
+Org tenure 
+Age 
+Gender
+(DeConinck 
+2011 )N = 160 B2B salespeople in UK 
+based firms industrial 
+products 
+Boomer, GenX, Mill 
+Gender: 19% femaleNot reported Formalization 
+Centralization 
+Activity information 
+Activity rewards 
+Capability information 
+Capability rewards 
+Capability punishment 
+Role ambiguity 
+Role conflict 
+Satisfaction with job 
+Satisfaction with coworkers 
+Satisfaction with supervision 
+Satisfaction with customer 
+Propensity to leave 
+Psychic distance 
+Export sale mgr experience
+(Seriki et al. 
+2016 )N = 348 salespeople at banks in 
+US 
+Boomer, GenX, Mill 
+Gender not reportedAttitude Theory Marketing messages: incongruent value & 
+inaccurate claim 
+Organizational claim 
+Outcome: Org commitment, job satisfaction & 
+extra-role performance 
+Control variables: individual cynicism & social 
+cynicism
+(Skiba, Saini, and 
+Friend 2016 )N = 179 B2B sales managers 
+across many industries 
+Boomers, GenX, Mill 
+Gender: 45% femaleJobs demands-resource theory Salesforce turnover 
+Cost prioritization 
+Output control 
+Behavior control 
+Micromanagement 
+Firm age 
+Firm size
+(Kuvaas et al. 
+2016 )N = 322 Norwegian insurance 
+salespeople 
+Boomer, GenX, Mill 
+Gender: 41% femaleExpectancy theory 
+Reinforcement 
+theoryBase pay 
+Pay for performance (annual & quarterly) 
+Autonomous motivation 
+Controlled motivation 
+Work effort 
+Turnover intention
+(Sunder et al. 
+2017 )N = 6,727 telecomm retail 
+salespeople in US 
+Age not reported 
+Gender not reportedIdentity theory 
+Social identity theoryTenure 
+Goal achievement 
+Customer satisfaction 
+Voluntary per turnover 
+Involuntary per turnover 
+Relative performance 
+Peer performance 
+Peer performance variance 
+Store size
+(Shi et al. 2017 ) NA – Studied customers who 
+lost their repNot reported NA
+(DeConinck, 
+Moss, and 
+Deconinck 
+2018 )N = 382 US-based B2B industrial 
+manuf & services salespeople 
+Boomers, GenX, Mill 
+Gender: 26% femaleTheory of servant leadership Servant leadership 
+Perceived Org Support 
+Turnover intentions 
+Performance 
+Turnover268
+ E. F. DAVID ET AL.
+Appendix 2:International Research Efforts - Salesperson Turnover
+Citation date Country Sample
+(Lloyd and Newell 2001 ) Ireland 
+United KingdomPharma Salespeople
+(Guthrie 2001 ) New Zealand Generalized across industries and professional including sales.
+(Msweli-Mbanga 2004 ) South Africa Independent sales reps
+(Yanadori and Kato 2007 ) Japan Firm level turnover
+(Guchait and Cho 2010 ) India Salespeople, 
+customer service, and management
+(Smith, Oczkowski, and Smith 2011 ) Australia Professionals (including sales), and tradespeople.
+(Msweli-Mbanga 2004 ) South Korea Retail store salespeople
+(Yanadori and Kato 2007 ) China, Jordan, Turkey 
+USAKnowledge workers enrolled in EMBA programs
+(Hakim Ahmad Dardar, Jusoh, and Rasli 2012 ) Libya Oil industry professionals
+(Yanadori and Kato 2007 ) Taiwan Automotive sales/services reps, and supervisors
+(Guchait and Cho 2010 ) Denmark Financial sales and services
+(Yanadori and Kato 2007 ) Malaysia Automotive sales/services
+(Katsikea, Theodosiou, and Morgam 2015 ) United Kingdom Export sales managers
+(Kampkotter and Marggraf 2015 ) Germany Multi-national firms
+(Peretz, Levi, and Fried 2015 ) 22 Countries Firm level data on turnover
+(Mathieu et al. 2016 ) Canada Cross sample of various professions including sales
+(Park et al. 2016 ) China Bank sales personnel who were protégés in mentoring program
+(Kuvaas et al. 2016 ) Norway Insurance sales professionals
+(Guchait and Cho 2010 ) India Salespeople across multiple industriesJOURNAL OF BUSINESS-TO-BUSINESS MARKETING
+ 269

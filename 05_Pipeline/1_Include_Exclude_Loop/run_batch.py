@@ -10,7 +10,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from langgraph_main import build_graph
 
 BATCH_SIZE = 40
-EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_Master_Coding_Sheet.xlsx"
+EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_V2.xlsx"
 ERROR_REPORT_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\04_Reports\error_report.md"
 
 def get_pending_papers():

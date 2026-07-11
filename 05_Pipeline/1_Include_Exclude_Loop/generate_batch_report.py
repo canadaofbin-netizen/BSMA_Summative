@@ -63,5 +63,5 @@ if __name__ == "__main__":
     parser.add_argument("--ids", nargs='+', required=True, help="List of Article IDs (e.g. BSMA0100 BSMA0101)")
     args = parser.parse_args()
     
-    excel_file = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_Master_Coding_Sheet.xlsx"
+    excel_file = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_V2.xlsx"
     generate_batch_report(excel_file, args.ids)

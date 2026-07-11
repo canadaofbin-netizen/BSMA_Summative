@@ -24,6 +24,7 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 ### Node 3: Table Parser (Flat Statistics)
 - **Prompt:** "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
   - **Stage 1 (CoT):** Before extracting data, output a `<matrix_reasoning>` block. Explicitly state whether the upper or lower diagonal contains the zero-order correlations vs. corrected/partial correlations. If ambiguous, return `[AMBIGUOUS_MATRIX_DIAGONAL]`.
+  - **LATENT CIRCUIT BREAKER:** If the table title, labels, or footnotes contain keywords like 'Latent', 'AVE (Average Variance Extracted)', or 'Discriminant Validity', the values are NOT raw correlations. Return `[LATENT_CORRELATION_VIOLATION]`.
   - **Stage 2 (Pruning):** If the table contains both Global (Total) scores and Sub-facet scores for the same construct, extract ONLY the sub-facets to preserve independence. Discard the Global score.
   - **LoA CIRCUIT BREAKER:** If data is aggregated at Team/Unit/Firm level, return `[LoA_VIOLATION]`.
   - Drop all demographic variables (Age, Gender, Tenure). 

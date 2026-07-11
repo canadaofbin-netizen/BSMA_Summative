@@ -1,0 +1,1782 @@
+Business Strategy and the Environment, 2025; 34:4896–4911
+https://doi.org/10.1002/bse.4230
+4896
+Business Strategy and the Environment
+RESEARCH ARTICLE
+Sustainable Product Innovation Through Horizontal 
+Coopetition: The Role of Boundary-­Spanning Search and 
+Partner Similarity
+Xia Wu1
+  |  Jianjun Yang1  |  Sandra Hasanefendic2  |  Bart Bossink2
+1School of Management, Xi'an Jiaotong University, Xi'an, Shaanxi, China  |  2Breakthrough Tech Innovation Group, Faculty of Science, Vrije Universiteit 
+Amsterdam, Amsterdam, the Netherlands
+Correspondence: Jianjun Yang (jjyang@mail.xjtu.edu.cn)
+Received: 26 July 2024  |  Revised: 21 December 2024  |  Accepted: 17 February 2025
+Funding: The author gratefully acknowledges support from the China Scholarship Council for the Joint PhD Program (Project ID: 202306280233), the 
+Ministry of Education Humanities and Social Sciences Youth Fund (Grant No. 23XJC630001), the Fundamental Research Funds for the Central Universities 
+(Grant No. XJSJ23116), the National Natural Science Foundation of China (Grant No. 72362032), and the Major Project of the National Social Science 
+Foundation of China (Grant No. 22&ZD146).
+Keywords: boundary-­spanning search | horizontal coopetition | partner similarity | sustainable product innovation
+ABSTRACT
+This study is the first to examine the mediating role of boundary-­spanning search and the moderating role of partner similarity 
+in horizontal coopetition for sustainable product innovation. Analyzing empirical data from 236 Chinese firms, we found that 
+horizontal coopetition positively impacts both proactive search (aimed at surpassing competitors) and responsive search (aimed 
+at following competitors), with a stronger influence on proactive search. Both search types mediate the relationship between 
+horizontal coopetition and sustainable product innovation. Furthermore, greater competing similarity (e.g., market coverage) 
+between firms and their partners increases firms' inclination toward proactive search under the influence of horizontal coo-
+petition but weakens their tendency for responsive search. Conversely, greater cooperating similarity (e.g., corporate culture) 
+increases firms' inclination toward responsive search under the influence of horizontal coopetition but weakens their tendency 
+for proactive search.
+1   |   Introduction
+The global surge in industrialization, population growth, and 
+increased production has spurred economic development but 
+has also caused significant environmental degradation (Severo 
+et al. 2017; Hussain et al. 2020; C. H. Wang and Juo 2021). As 
+the main creators of carbon emissions, commercial enterprises 
+face the challenge of mediating environmental concerns while 
+pursuing economic development, most commonly through sus-
+tainable product innovation (SPI) (Severo et  al.  2017; Meiros 
+et al. 2022; Calik 2024). SPI refers to balancing economic, en-
+vironmental, and social goals in the process of product creation 
+and improvement, minimizing negative environmental impact 
+while gaining economic benefits (Severo et  al.  2017; Meiros 
+et al. 2022; Calik 2024). However, its complexity and uncertainty 
+often need collaborative relationships with various stakeholders 
+(Mousavi et al. 2019; Meiros et al. 2022), including cooperation 
+with direct competitors, which is also known as horizontal coo-
+petition (Le Roy et al. 2022; Xie et al. 2023).
+According to coopetition theory, coopetition refers to the co-
+existence of competition and cooperation between enterprises. 
+Horizontal coopetition refers specifically to the cooperation 
+between two enterprises at the same stage of the value chain 
+to jointly create, produce, and sell new products while compet-
+ing with other products in the same market (Le Roy et al. 2022; 
+© 2025 ERP Environment and John Wiley & Sons Ltd.
+
+4897
+Huo et al. 2024). Unlike other types of collaboration, horizon-
+tal coopetition means that companies share similarities with 
+their partners in technology or product positioning, which 
+makes it easier to increase opportunities for mutual compe-
+tence growth in the process of knowledge exchange (Massari 
+and Giannoccaro 2021; Le Roy et al. 2022; Xie et al. 2023). This 
+collaboration can also share the risks and costs of research and 
+development (Massari and Giannoccaro  2021). For example, 
+although Toyota and BMW are direct competitors in the auto-
+motive market, they have established partnerships to jointly de-
+velop hydrogen fuel cell technology for drive systems. However, 
+the inherent coopetition paradox implies that coopetition may 
+lead to opportunism, knowledge leakage, and power imbalances 
+(Bouncken and Kraus 2013; Le Roy et al. 2022; Corbo et al. 2023; 
+Huo et al. 2024). Therefore, the answer to the question of how 
+the value of horizontal coopetition for SPI can be controlled, in-
+creased, and improved becomes a critical issue.
+Although scholars argue that coopetition is linked to firms' 
+sustainability (Planko et  al.  2019; Munten et  al.  2021; Corbo 
+et  al.  2023; Mwesiumo et  al.  2023), additional mechanisms 
+are still required in horizontal coopetition to improve SPI 
+(Mwesiumo et al. 2023). Specifically, the tension in horizontal 
+coopetition creates explicit competitive pressure even during 
+collaboration (Raza-­Ullah and Kostis  2020; Czakon and 
+Czernek-­Marszałek  2021; Huo et  al.  2024). Faced with com-
+petitive pressure, companies must continuously span organiza-
+tional boundaries to search for diverse and valuable resources, 
+providing new insights and opportunities for innovation (Li 
+et al. 2024). Boundary-­spanning search involves sourcing het-
+erogeneous resources from diverse external sources (J. Wang 
+et al. 2020; Yang et al. 2021; Li et al. 2024). Specifically, proactive 
+search is directed toward gaining a competitive edge by staying 
+ahead of rivals, whereas responsive search is aimed at follow-
+ing them (J. Wang et al. 2020; Yang et al. 2021; Li et al. 2024). 
+Both proactive search and responsive search serve as sources of 
+heterogeneous innovation resources for firms (Yang et al. 2021; 
+Lee et al. 2024; Li et al. 2024) and may lay a solid foundation for 
+SPI. Relevant questions that arise are: Does horizontal coopeti-
+tion impact proactive search and responsive search? If so, are 
+there differences in impact? And does this impact on these two 
+search modes also affect firms' SPI? In summary, this study will 
+examine whether proactive and responsive search each serve as 
+significant intermediary pathways in the relationship between 
+horizontal coopetition and SPI.
+Furthermore, partner similarity, including competing and co-
+operating similarity, influences the behavior of collaborating 
+enterprises and the outcomes of the collaboration (Kim and 
+Parkhe 2009; Luo and Deng 2009; Gao et al. 2017). Therefore, we 
+substantiate that partner similarity may be a contingent factor 
+affecting the functioning of horizontal coopetition. Specifically, 
+competing similarity refers to similarity in geographic market 
+coverage, product market coverage, and areas of technologi-
+cal strength among partners (Kim and Parkhe 2009), possibly 
+triggering a ‘learning race’, where firms gain competitive ad-
+vantages only through being better at accumulating compe-
+tencies than their partners (Bouncken and Kraus  2013; Gao 
+et  al.  2017). Conversely, cooperating similarity refers to simi-
+larity in corporate culture and management practices (Kim and 
+Parkhe 2009), which is beneficial for promoting coordination of 
+the collaboration (Kim and Parkhe 2009; Vaez-­Alaei et al. 2022). 
+Resource-­advantage theory suggests that competition is a dy-
+namic process. This means firms typically make different stra-
+tegic choices based on the competitive environment to gain 
+relative competitive advantages (Hunt and Morgan 1996). Thus, 
+in the context of horizontal coopetition, a central question is: Do 
+different degrees of cooperating similarity and competing sim-
+ilarity affect firms' preference for different types of boundary-­
+spanning search? Overall, this paper will further explore 
+whether and how partner similarity affects the relationship be-
+tween horizontal coopetition and boundary-­spanning search.
+Given the above, the contribution of this study is threefold. First, 
+this study refines the research on coopetition in the field of 
+firms' sustainability by exploring the impact of horizontal coop-
+etition on SPI. Second, this study shows a new pathway for com-
+panies to achieve SPI through horizontal coopetition from the 
+perspective of boundary-­spanning search. Third, this study re-
+veals the differentiated moderating mechanisms of partner sim-
+ilarity in the relationship between horizontal coopetition and 
+boundary-­spanning search and further deepens the research on 
+the process mechanisms through which companies achieve SPI 
+through horizontal coopetition.
+The remainder of this paper is structured as follows. Section 2 
+discusses the theoretical background of the research model 
+constructed in this study and the formulation of the research 
+hypotheses related to it. Section 3 introduces the empirical re-
+search methods used to test the hypotheses. Section 4 reports, 
+and Section 5 analyzes the survey research outcomes and dis-
+cusses the contributions, limitations, and directions for future 
+research. Finally, Section 6 concludes with the main answers to 
+the research questions and their implications.
+2   |   Theoretical Framework and Research 
+Hypotheses
+2.1   |   Theoretical Framework
+2.1.1   |   Coopetition in Firms' Sustainability
+Scholars have recently emphasized the important role of coo-
+petition in achieving sustainability in enterprises (Vu and 
+Fath  2024; Mwesiumo et  al.  2023; Xin et  al.  2023). Vu and 
+Fath's (2024) empirical study on the New Zealand alternative 
+protein industry shows that enterprises can jointly produce 
+sustainable solutions through coopetition, which can not only 
+exceed the market growth created by individual enterprises 
+but also generate extensive social benefits. The research results 
+of Mwesiumo et al. (2023) show that coopetition is conducive 
+to cultivating the dynamic capabilities of enterprises (such as 
+knowledge development, organizational responsiveness, reflex-
+ive control, and fostering sustainability awareness), thereby im-
+proving the social, environmental, and economic dimensions of 
+enterprise sustainability performance. Mirzabeiki et al. (2023) 
+argue that coopetition is conducive to reducing logistics costs 
+and carbon footprint, enhancing regional economic competi-
+tiveness, and reducing emissions to affect sustainability per-
+formance. In addition, some empirical studies have confirmed 
+the positive impact of coopetition on carbon footprint reduction 
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4898
+Business Strategy and the Environment, 2025
+(Rosa et al. 2024) and sustainable competitive advantage (Della 
+Corte and Aria 2016).
+By reviewing the literature, we found that existing studies 
+mostly focus on the impact of coopetition on the overall sus-
+tainable performance of enterprises from a macro perspective 
+(Vu and Fath  2024; Mwesiumo et  al.  2023; Della Corte and 
+Aria 2016), lacking research on the role of horizontal coopetition 
+in more specific forms of innovation such as SPI. Given that SPI 
+necessitates technological exchange and knowledge integration, 
+and that horizontal coopetition promotes a diverse exchange of 
+ideas, knowledge, and resources among entities within the same 
+industry or market (Le Roy et al. 2022), this study specifically 
+examines the impact of horizontal coopetition on SPI, reveals 
+the mediating path of horizontal coopetition on SPI, and iden-
+tifies the contingent factors that affect the role of horizontal 
+coopetition.
+2.1.2   |   Boundary-­Spanning Search
+Boundary-­spanning search involves sourcing heterogeneous 
+resources and information from diverse external sources such 
+as customers, suppliers, research institutions, and univer-
+sities (J. Wang et al. 2020; Yang et al. 2021; Li et al. 2024). It 
+generally shows positive effects on the likelihood of generating 
+highly valuable innovations (Park et  al.  2024). Regarding the 
+division of boundary-­spanning search, existing literature has 
+delineated dimensions of it from different perspectives, such 
+as the depth and scope of search (S. S. Xiao et al. 2023), search 
+broadness and search narrowness (Li et al. 2019), and interac-
+tive and non-­interactive search (Roper et  al.  2017). However, 
+as noted by Katila and Chen  (2008), these classifications pri-
+marily focus on the company itself and overlook the situation 
+in which firms' search activity usually consider competitors' 
+strategies and strategic maneuvers. On the one hand, companies 
+pursue boundary-­spanning search to surpass competitors and 
+gain a first-­mover advantage, which is proactive search (Katila 
+and Chen 2008; J. Wang et al. 2020; Yang et al. 2021). On the 
+other hand, companies engage in boundary-­spanning search to 
+follow and imitate competitors in order to reduce risks, which 
+is known as responsive search (Katila and Chen 2008; J. Wang 
+et al. 2020; Yang et al. 2021). To gain a deeper understanding of 
+the behavioral logic of boundary-­spanning search in competi-
+tive environments, this study categorizes it into proactive search 
+and responsive search based on their objectives, drawing on the 
+works of Katila and Chen (2008) as well as Yang et al. (2021).
+At present, scholars have conducted much research on the im-
+pact of boundary-­spanning search on organizational innovation, 
+such as business model innovation (Zhu et al. 2023), innovation 
+performance (Li et al. 2024), and new product innovation (Lee 
+et al. 2024). However, except for studies by Shi et al. (2024) and 
+Zhu et al. (2023), the antecedents of boundary-­spanning search 
+remain underexamined. As Shi et al. (2024) pointed out through 
+meta-­analysis, there is a gap in relevant research on the anteced-
+ents of boundary-­spanning search. In particular, few scholars 
+have explored the role of horizontal coopetition in promoting 
+boundary-­spanning search. Therefore, the link between hor-
+izontal coopetition and boundary-­spanning search merits fur-
+ther research.
+2.1.3   |   Coopetition Theory
+The concept of coopetition was initially coined in the 1980s by 
+Ray Noorda, the founder of Novell, and has since been enriched 
+and developed by scholars in the field of strategic management 
+(Xie et al. 2023). The essence of horizontal coopetition lies in 
+the coexistence of these contradictory logics of cooperation and 
+competition, with the overriding motivation for firms to engage 
+in coopetition to be able to create value (Gnyawali and Ryan 
+Charleton 2018). Coopetition theory suggests that value creation 
+through coopetition involves different mechanisms. On the 
+one hand, focal firms can unilaterally learn by acquiring skills 
+and knowledge from their alliance partner and applying them 
+to activities unrelated to the alliance activities and outside its 
+boundary (Rai 2016; Rai and Surana 2022). This implies compa-
+nies may obtain complementary resources and critical technol-
+ogies needed for SPI from horizontal coopetition. On the other 
+hand, focal firms create value by competing against their alli-
+ance partner to outperform it in activities directly linked to the 
+alliance-­related activities but taking place beyond the alliance 
+boundary (Rai 2016; Rai and Surana 2022). This implies that 
+firms may actively seek opportunities driven by the inherent 
+competitive attributes of horizontal coopetition, crossing orga-
+nizational boundaries to search for heterogeneous resources to 
+support innovation. In summary, coopetition theory is not only 
+the theoretical foundation for our study on the mechanism by 
+which horizontal coopetition affects SPI but also supports the 
+proposal of boundary-­spanning search as the mediating path 
+between them.
+2.1.4   |   Resource-­Advantage Theory
+Resource-­advantage theory, proposed by Shelby Hunt and 
+Robert Morgan in the 1990s, is a general competitive the-
+ory that describes the evolutionary process of competition 
+(Hunt and Morgan  1996; Varadarajan  2023; Agnihotri and 
+Gabler  2024). Different from the resource-­based view, which 
+emphasizes the importance of VRIN (valuable, rare, inimita-
+ble and non-­substitutable) resources for gaining competitive 
+advantage, resource-­advantage theory highlights the compar-
+ative advantage of resources, suggesting that in market envi-
+ronments, there is not just one competitive strategy to achieve 
+superior performance (Varadarajan 2023; Hansen et al. 2023). 
+For instance, firms can pursue different competitive strategies 
+(cost leadership, differentiation, focused cost leadership, or fo-
+cused differentiation) and market entry strategies (pioneering, 
+early followers, or late entrants) (Varadarajan 2023). Moreover, 
+resource-­advantage theory emphasizes that competition is a dy-
+namic process, and firms will evaluate their resources accord-
+ing to changes in the competitive environment to make different 
+strategic choices to obtain relative competitive advantages (Hunt 
+and Morgan 1996).
+Based on this theory, we argue that, in the context of hori-
+zontal coopetition, the different types and degrees of partner 
+similarity will lead firms to prefer different search strategies 
+for varying purposes. Increased competing similarity can 
+stimulate firms' competitiveness (Runge et al. 2022), driving 
+them to proactive search to seek new technologies different 
+from their partners for a competitive edge. Conversely, greater 
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4899
+cooperating similarity makes it easier for firms to learn from 
+their partners (Park et  al.  2014; Vaez-­Alaei et  al.  2022), en-
+couraging them to choose the low-­risk option of responsive 
+search for diverse resources. Therefore, resource-­advantage 
+theory is our theoretical support for using partner similarity 
+as a moderating factor.
+Overall, as shown in Figure 1, we develop a conceptual model in 
+which proactive and responsive search act as intermediaries in 
+the relationship between horizontal coopetition and SPI. Both 
+competing similarity and cooperating similarity moderate the 
+relationships between horizontal coopetition and each of proac-
+tive and responsive search.
+2.2   |   Research Hypotheses
+2.2.1   |   Horizontal Coopetition and SPI
+We expect that horizontal coopetition affects SPI. Firstly, firms 
+can acquire the resources, critical technologies, and knowl-
+edge required for SPI from horizontal coopetition, while its 
+competitive attribute prompts more efficient integration and 
+allocation of resources. SPI is a resource-­intensive practice, 
+so it largely depends on extensive resource support (Meiros 
+et  al.  2022). Research indicates that initial capital (Hussain 
+et al. 2020), advanced technologies (Rusch et al. 2023), intel-
+lectual capital (C. H. Wang and Juo 2021), among others, play 
+crucial roles in SPI. Within horizontal coopetition, firms not 
+only gain diverse innovation resources but also market align-
+ment and similar objectives facilitate easier technology sharing 
+and integration among partners. Secondly, horizontal coope-
+tition provides a mechanism for the collaborating parties to 
+share new resource costs, spread risks, and reduce uncertain-
+ties (Corbo et al. 2023). Specifically, SPI is frequently regarded 
+as a high-­risk R&D investment, and companies face multiple 
+risks such as poor market response, immature technology, 
+and unclear investment returns (Moshood et al. 2022). In the 
+process of horizontal coopetition, partners integrate their core 
+resources and capabilities to alleviate the financial risk of SPI 
+and reduce uncertainties in the innovation process. Third, 
+horizontal coopetition can make companies more sensitive to 
+market demand and customer feedback (Chen et al. 2021). In 
+this way, companies can more accurately judge market trends 
+and consumer preferences, enabling them to proactively ad-
+just the design and functionality of sustainable products to 
+meet changing market demands. By combining the preceding 
+considerations, the first hypothesis is as follows:
+Hypothesis 1.  Horizontal coopetition is positively correlated 
+with SPI.
+2.2.2   |   Horizontal Coopetition 
+and Boundary-­Spanning Search
+We expect that horizontal coopetition affects boundary-­
+spanning search. On the one hand, according to the coopetition 
+theory, an important mechanism for enterprises to gain bene-
+fits from horizontal coopetition is the opportunity to learn from 
+competitors (Xie et al. 2023). By observing competitors' inno-
+vative practices and market reactions, and linking their actions 
+and consequences, firms can better understand market dynam-
+ics and competitive patterns (Katila and Chen 2008). Therefore, 
+we argue that horizontal coopetition will drive companies to 
+search for new knowledge and resources in response to com-
+petitors, which not only reduces the risk and cost of knowledge 
+search but also enhances its effectiveness. On the other hand, 
+horizontal coopetition implies that firms and partners over-
+lap in market positioning, which enhances firms' competitive 
+awareness and motivation (Runge et al. 2022), prompting firms 
+to actively acquire resources that competitors do not possess in 
+order to lead competitors and achieve sustainable competitive 
+advantage. Furthermore, we argue that compared to responsive 
+search, horizontal coopetition has a stronger impact on proac-
+tive search. This is because the uniqueness of horizontal coope-
+tition lies in companies experiencing competitive pressure even 
+in cooperation (Raza-­Ullah and Kostis 2020). Competition is a 
+race, and gaining innovative resources that competitors lack 
+is crucial; otherwise, they risk losing their competitive edge 
+(Katila and Chen 2008). Accordingly, we suggest the following 
+hypotheses:
+FIGURE 1    |    Research model.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4900
+Business Strategy and the Environment, 2025
+Hypothesis 2a.  Horizontal coopetition is positively corre-
+lated with responsive search.
+Hypothesis 2b.  Horizontal coopetition is positively corre-
+lated with proactive search and has a stronger impact on it com-
+pared to responsive search.
+2.2.3   |   The Mediating Effect 
+of Boundary-­Spanning Search
+Horizontal coopetition triggers competitive responses from 
+firms, enabling them to access environmental resources across 
+organizational boundaries (Xin et  al.  2023; Li et  al.  2024). 
+Meanwhile, complementary resources from outside organi-
+zational boundaries open up new possibilities to achieve sus-
+tainability (J. Wang et  al.  2020). We therefore assume that 
+boundary-­spanning search plays a mediating role in the influ-
+ence of horizontal coopetition on SPI. On the one hand, coop-
+etition theory holds that competition coexists with coopetitive 
+activities—even if the degree of competition is very small (Crick 
+et al. 2024). This will induce competitive effects (Park et al. 2014; 
+Rai 2016; Rai and Surana 2022) and drive firms to seek opportu-
+nities to surpass competitors and pursue first-­mover advantages 
+(Mariani and Belitski 2023). Then they need to engage in proac-
+tive search, allowing them to access abundant environmental 
+resources such as eco-­friendly materials and green packaging, 
+which provide robust support for firms in developing and de-
+signing sustainable products (J. Wang et al. 2020, 2023; Yang 
+et al. 2021). On the other hand, due to similar knowledge bases 
+and expertise, coopetition also stimulates a mutual learning mo-
+tivation among firms (Park et al. 2014). Therefore, firms may 
+choose to engage in responsive search to acquire market infor-
+mation and innovation resources (Mariani and Belitski 2023). 
+This is because, by observing competitors' practices, innova-
+tive products and technologies, responsive search seems more 
+effective in acquiring knowledge (Yang et  al.  2021). Efficient 
+knowledge acquisition facilitates the flow, communication, and 
+exchange of knowledge required for SPI (Bossink 2018), thereby 
+enhancing the efficiency of firms' SPI (Liao 2018). As such, we 
+hypothesize the following:
+Hypothesis 3a.  Proactive search mediates the relationship 
+between horizontal coopetition and SPI.
+Hypothesis 3b.  Responsive search mediates the relationship 
+between horizontal coopetition and SPI.
+2.2.4   |   The Moderating Effects of Competing Similarity
+Competing similarity refers to the degree of similarity between 
+firms and partners in terms of geographical market coverage, 
+product market coverage, and technological advantages (Kim 
+and Parkhe  2009). We suggest that the higher the competing 
+similarity, the greater the influence of horizontal coopetition 
+on proactive search. When firms and partners exhibit signifi-
+cant resemblance in market positioning and business models, 
+the pressure from horizontal coopetition accentuates the neces-
+sity for differentiated strategies (Runge et al. 2022). This may 
+prompt increased involvement in boundary-­spanning search 
+aimed at outpacing competitors and venturing into new mar-
+ket domains. Conversely, we suggest that competing similarity 
+diminishes the beneficial effects of horizontal coopetition on 
+responsive search. As mentioned earlier, under the drive of hor-
+izontal coopetition, firms can acquire market information and 
+innovation resources through responsive search. However, the 
+higher the competing similarity between firms and their part-
+ners, the greater the similarity of market pressures and R&D 
+challenges faced by both parties (Kim and Parkhe 2009). So they 
+may be inclined to protect their core technologies and resources 
+from disclosure in order to prevent competitors from gaining a 
+competitive advantage (J. Xiao and Bao 2022). Therefore, knowl-
+edge sharing and coordination in the cooperation process will 
+become more difficult; the feasibility of proactive search for en-
+terprises will likely diminish. Accordingly, we propose the fol-
+lowing hypotheses:
+Hypothesis 4a.  Competing similarity strengthens the positive 
+relationship between horizontal coopetition and proactive search.
+Hypothesis 4b.  Competing similarity weakens the posi-
+tive relationship between horizontal coopetition and responsive 
+search.
+2.2.5   |   The Moderating Effects 
+of Cooperating Similarity
+Cooperating similarity refers to the degree of similarity between 
+firms and partners in terms of values, behavioral norms, so-
+cial or corporate culture, and management practices (Kim and 
+Parkhe 2009). We argue that cooperating similarity strengthens 
+the impact of horizontal coopetition on responsive search. A 
+high level of cooperating similarity implies mutual recognition 
+and similar practices between firms and partners. This facili-
+tates effective communication and coordination, thereby reduc-
+ing collaboration costs and promoting the transfer and sharing of 
+tacit knowledge such as critical technologies (Oh and Yoo 2022). 
+At the same time, based on similar behavioral norms and values, 
+firms can more effectively coordinate internal and external re-
+sources, rapidly understand, absorb, and assimilate new knowl-
+edge and technologies. Conversely, the higher the cooperating 
+similarity, the more firms and partners tend to align in terms 
+of values, norms, work processes, employee expectations, and 
+management practices (Kim and Parkhe 2009). This reduces the 
+cognitive gap between the parties, potentially leading to cogni-
+tive rigidity and group inertia (Oh and Yoo 2022). In such cir-
+cumstances, firms may be constrained by established cognitive 
+frameworks when facing the competitive pressure generated by 
+horizontal coopetition. This may hinder the emergence of novel 
+ideas and perspectives in collaboration and restrict firms' ex-
+ploration of heterogeneous and diversified resources, thereby 
+suppressing boundary-­spanning search aimed at surpassing 
+competitors. Accordingly, we suggest the following hypotheses:
+Hypothesis 5a.  Cooperating similarity strengthens the pos-
+itive relationship between horizontal coopetition and responsive 
+search.
+Hypothesis 5b.  Cooperating similarity weakens the positive 
+relationship between horizontal coopetition and proactive search.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4901
+3   |   Methodology
+3.1   |   Samples and Data Collection
+This study employed a questionnaire survey to collect data, and 
+the content validity of the questionnaire was based on existing 
+literature. We chose the manufacturing industry as the research 
+sample because it plays a predominant role in driving China's 
+economic advancement and has the highest carbon dioxide 
+(CO2) emissions among industrial sectors (Zhao et  al.  2017). 
+Hence, under China's climate crisis response policies, there 
+exists an urgent necessity for SPI within the manufacturing in-
+dustry to facilitate the transition from extensive growth to sus-
+tainable development.
+We developed an English language questionnaire based on 
+existing literature and enlisted two independent translators 
+to translate the questionnaire into Chinese language and per-
+form back translation. Prior to the official survey, a pilot sur-
+vey was conducted with 30 companies in the Chinese Shaanxi 
+Province, and the questionnaire content was adjusted accord-
+ingly. To ensure representative sampling, we systematically 
+selected firms across various regions of China, including the 
+northwestern, southern, eastern, and central areas. With the 
+help of established partnerships with local governments and 
+industry associations, we obtained local business directories 
+for each region and randomly chose 250 firms from the local 
+business directory within each of the four regions, totaling 
+1000 firms. Subsequently, professional interviewers were 
+hired to contact the senior managers of these companies, ei-
+ther by phone or email, explaining the academic objectives of 
+the survey and the confidentiality policy. A total of 530 firms 
+consented to participate in this study. Subsequently, after 
+scheduling appointments, our interviewers visited the com-
+panies to conduct the surveys. During the completion of the 
+questionnaires, we thoroughly described the process and an-
+swered any questions posed by the respondents. Each compa-
+ny's survey took an average of about 1h to complete.
+To avoid potential common method bias, we employed a 
+multiple-­informant approach to collect our data (Podsakoff 
+et al. 2012). First, we selected two senior managers from each 
+company to serve as our key informants. These senior manag-
+ers possess extensive knowledge about their firms' interfirm 
+cooperative activities and innovation performance. Two se-
+nior managers from each company were instructed to focus on 
+their most important partner within the past 3 years and pro-
+vide the name of the cooperating company and the duration 
+of the cooperation. Then, one manager provided responses to 
+basic company information, independent variables (e.g., hor-
+izontal coopetition, proactive search, and responsive search), 
+and control variables (e.g., firm age, size), while the scales of 
+the moderating variables (competing similarity, cooperating 
+similarity) and the dependent variable (SPI) were assessed by 
+another manager.
+In total, 321 questionnaires were returned, and after rigorous 
+screening, 85 invalid questionnaires were excluded, resulting 
+in a total of 236 responses received. The exclusion of invalid 
+questionnaires was due to data missing content and obvious 
+errors in common sense content. The final sample included 
+companies from 18 cities in China, primarily concentrated 
+in provinces and cities such as Shaanxi, Jiangsu, Henan, 
+and Guangzhou. The industries mainly comprised manufac-
+turing sectors including construction materials, automotive 
+and parts, environmental protection and landscaping, as 
+well as clothing and textiles. It consisted of 67 state-­owned 
+enterprises, 107 private enterprises, and 62 other types of 
+enterprises.
+3.2   |   Measures
+A mature 7-­point Likert scale was used for all the scale items 
+(Table 1), with 1–7 indicating a range from Strongly disagree to 
+Strongly agree.
+3.2.1   |   Horizontal Coopetition (HC)
+Based on Bouncken and Kraus  (2013), we used three items 
+(Cronbach's α = 0.788) to measure horizontal coopetition. An 
+example item is “Our company collaborates with direct compet-
+itors to achieve common goals.”
+3.2.2   |   Boundary-­Spanning Search
+Drawing on the research of Katila and Chen  (2008), as well 
+as Atuahene-­Gima and Murray  (2007), we used four items 
+(Cronbach's α = 0.953) to measure proactive search (PS). An exam-
+ple item is “Our company prefers to collect information with no 
+identifiable strategic market needs to ensure experimentation in 
+the project, aiming to surpass competitors” in boundary-­spanning 
+search activities. Additionally, we used four items (Cronbach's 
+α = 0.824) to measure responsive search (RS). An example item is 
+“Our aim is to search for information to refine common meth-
+ods and ideas in solving problems in the project in order to follow 
+competitors” in boundary-­spanning search activities.
+3.2.3   |   Partner Similarity
+Based on Kim and Parkhe (2009) and Zhang et al. (2010), we 
+utilized four items (Cronbach's α = 0.872) to measure compet-
+ing similarity (CMS). An example item is “Our company has the 
+same production line as our partner.” Drawing on the research 
+of Geringer (1991) and Kale et al. (2000), we used three items 
+(Cronbach's α = 0.824) to measure cooperating similarity (COS). 
+An example item is “Our company shares the same organiza-
+tional culture with our partner.”
+3.2.4   |   Sustainable Product Innovation (SPI)
+Drawing on the research of Klewitz and Hansen (2014) and Peng 
+and Lin (2008), the five items (Cronbach's α = 0.884) were used 
+to measure SPI. An example item is “Our company develops 
+products according to the product lifecycle method.”
+To control for potential influences from other variables that 
+may affect the study results, we included the following control 
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4902
+Business Strategy and the Environment, 2025
+variables in our analysis: firm age, size, cooperation duration, 
+environmental turbulence, and environmental competitive-
+ness. Firm age and cooperation duration were measured as the 
+TABLE 1    |    Measures and validation.
+Constructs
+Loading
+Horizontal coopetition
+Our company maintains a close competitive 
+relationship with the partner.
+0.789
+Our company collaborates with direct 
+competitors to achieve common goals.
+0.676
+Our company recognizes that maintaining 
+effective competition with our partner is crucial 
+for our success.
+0.772
+Proactive search
+To what extent do you rate your company's 
+boundary-­spanning search activities?
+In our search, our company focuses on 
+acquiring knowledge of project strategies that 
+involve experimentation and high market risks 
+in order to surpass competitors.
+0.917
+Our company prefers to collect information 
+with no identifiable strategic market needs to 
+ensure experimentation in the project, aiming 
+to surpass competitors.
+0.936
+Our company collects novel information and 
+ideas that went beyond our current market and 
+technological experiences.
+0.897
+Our aim was to acquire new resources that 
+forced us to learn new things in the product 
+development project, surpassing competitors.
+0.906
+Responsive search
+Our aim is to acquire resources to refine 
+common methods and ideas in solving problems 
+in the project in order to follow competitors
+0.774
+Our aim is to search for ideas and information 
+that we can implement well to ensure 
+productivity to keep pace with competitors 
+rather than those ideas that could lead to 
+implementation mistakes in the project and in 
+the marketplace.
+0.817
+Our company searches for the usual and 
+generally proven methods and solutions to 
+product development problems in order to keep 
+up with competitors.
+0.696
+Our company obtains resources through 
+surveys of current customers and competitors, 
+which helped us understand and update the 
+firm's current project and market experiences to 
+keep up with competitors.
+0.645
+Competing similarity
+Our company have the same suppliers as our 
+partner.
+0.751
+(Continues)
+Constructs
+Loading
+Our company are in the same product market 
+as the partner.
+0.850
+Our company have a product line very similar 
+to the partner's
+0.813
+Our company need the same type of knowledge 
+related to new product or process development 
+as the partner's.
+0.765
+Cooperating similarity
+Our company's organizational culture is 
+compatible with that of our partner.
+0.832
+Our company's management and operating 
+styles are compatible with those of our partner.
+0.845
+Our company and the partner maintain 
+relatively high mutual trust in various activities.
+0.773
+Sustainable product innovation
+Our company develops products according to 
+the product lifecycle method.
+0.701
+Our company adopts eco-­friendly product 
+design.
+0.842
+Our company applies green product promotion 
+and advertising methods.
+0.851
+Our company strives to use recyclable 
+packaging materials in our products.
+0.778
+Our company implements waste recycling 
+processes for our products.
+0.726
+Environmental turbulence
+Customer preferences for products change 
+rapidly over time.
+0.644
+Customers always tend to pursue new products.
+0.623
+In our industry, technological changes occur 
+very quickly.
+0.774
+This industry can develop many new products 
+through technological breakthroughs.
+0.726
+The frequency of technological changes is high.
+0.816
+Environmental competitiveness
+The local market competition is intense.
+0.868
+Our company faces many strong competitors.
+0.751
+The local market competition is very high.
+0.892
+Price competition is a characteristic of the local 
+market.
+0.638
+TABLE 1    |    (Continued)
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4903
+natural logarithm of the firm's age and partnership period, re-
+spectively. Firm size was transformed using the logarithm of the 
+number of employees with a base of 10. Environmental turbu-
+lence (ET) was measured using the scale developed by DeSarbo 
+et al. (2005), which consisted of five items (Cronbach's α = 0.842). 
+Environmental competitiveness (EC) was measured using the 
+scale developed by Jansen et al. (2006), which consisted of four 
+items (Cronbach's α = 0.866).
+3.3   |   Reliability and Validity
+As shown in Table 2, the reliability and validity analysis of the 
+scales yielded favorable results. The Cronbach's α coefficients 
+and composite reliabilities (CR) of all variables were greater 
+than 0.7, indicating a high reliability of the questionnaire. 
+Furthermore, the standardized factor loadings of each vari-
+able ranged from 0.6 to 0.9, and the average variance extracted 
+(AVE) values were greater than 0.5, indicating that the measure 
+had good convergent and discriminant validity of the variables 
+used in this study. At the same time, the square root of the AVE 
+(indicated by bold numbers on the diagonal) was greater than 
+the correlation coefficients between the respective variable and 
+other variables, indicating that the variables have good discrim-
+inant validity.
+3.4   |   Common Method Variance
+We adopted two methods for checking common method vari-
+ance (CMV) in this study. First, Harman's single-­factor method 
+was used to analyze the influence of CMV. The results revealed 
+that the first factor's variance contribution, in the unrotated fac-
+tor solution, was 21.137%, which was less than the recommended 
+threshold of 40%. This indicated that the CMV in this study 
+was within an acceptable range. Second, we adopted confirma-
+tory factor analysis to evaluate Harman's single-­factor model. 
+Specifically, the model fit based on the single-­factor model 
+(χ2 = 3803.225, df = 464, χ2/df = 8.197, p < 0.001, CFI = 0.247, 
+TLI = 0.195, NFI = 0.229, RMSEA = 0.175, and PGFI = 0.381) was 
+inferior to that of the eight-­factor model (χ2 = 822.118, df = 436, 
+χ2/df = 1.886, p < 0.001, CFI = 0.913, TLI = 0.901, NFI = 0.833, 
+RMSEA = 0.061, and PGFI = 0.680). Therefore, the CMV was 
+not an issue in this study.
+3.5   |   Descriptive Statistics and Correlations
+Table  2 presented the results of mean, standard deviation, 
+and variable correlation results for the variables included in 
+this study. The correlation coefficients indicated that there 
+were significant relationships among the variables, and the 
+TABLE 2    |    Descriptive statistics, Pearson correlations, reliability, and validity.
+Constructs
+STD. 
+loading
+CR
+AVE
+ET
+EC
+HC
+PS
+RS
+CMS
+COS
+SPI
+ET
+0.623–
+0.816
+0.842
+0.519
+0.720
+EC
+0.638–
+0.892
+0.870
+0.630
+0.413***
+0.794
+HC
+0.676–
+0.789
+0.791
+0.559
+0.058
+−0.058
+0.748
+PS
+0.897–
+0.936
+0.953
+0.836
+0.176*
+0.047
+0.334***
+0.914
+RS
+0.645–
+0.817
+0.824
+0.542
+0.263**
+−0.125†
+0.371***
+0.177*
+0.736
+CMS
+0.751–
+0.850
+0.873
+0.633
+0.222**
+0.196**
+0.421***
+0.252***
+0.094
+0.796
+COS
+0.773–
+0.845
+0.858
+0.668
+0.129†
+−0.018
+0.202*
+0.063
+0.427***
+0.137†
+0.817
+SPI
+0.701–
+0.851
+0.887
+0.611
+0.184*
+0.194*
+0.447***
+0.299***
+0.452***
+0.145†
+0.319***
+0.782
+Mean
+4.448
+5.083
+4.400
+4.515
+4.354
+4.389
+4.905
+5.125
+SD
+1.079
+1.151
+1.075
+1.462
+0.961
+1.127
+0.827
+0.935
+Note: N = 236. The square roots of AVE appear on the diagonal. Nondiagonal elements (nonbold) are the correlations among constructs.
+Abbreviation: SD = standard deviation.
+***indicates the significance level p < 0.001. 
+**indicates the significance level p < 0.01. 
+*indicates the significance level p < 0.05.
+†indicates the significance level p < 0.1.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4904
+Business Strategy and the Environment, 2025
+magnitude and direction of the correlations align with the 
+research expectations. Specifically, horizontal coopetition 
+was significantly positively correlated with SPI (r = 0.447, 
+p < 0.001), proactive search (r = 0.334, p < 0.001), and respon-
+sive search (r = 0.371, p < 0.001). These findings provided pre-
+liminary support for the validity of the model and hypotheses, 
+indicating the need for further examination of the relation-
+ships among the variables.
+4   |   Results
+4.1   |   Direct Effects of Horizontal Coopetition
+We tested the hypothesis using hierarchical regression anal-
+ysis, and centralization was conducted to the independent 
+and moderating variables to avoid multicollinearity concerns. 
+According to Model 8, we found that horizontal coopetition had 
+a significantly positive impact on SPI (β = 0.313, p < 0.001), as 
+shown in Table 3. Therefore, Hypothesis 1 was supported. In 
+Models 2 and 5, the results indicated the positive influence of 
+horizontal coopetition on proactive search (β = 0.408, p < 0.001) 
+and responsive search (β = 0.199, p < 0.001). Then, a Z-­test was 
+used to examine whether horizontal coopetition has statisti-
+cally significant differences in the impact of proactive search 
+and responsive search. The results showed that horizontal 
+coopetition had a stronger impact on proactive search than on 
+responsive search (Z-­value = 2.037 > 1.96, p < 0.05). Therefore, 
+Hypotheses 2a and 2b were supported.
+4.2   |   Mediations Effects 
+of Boundary-­Spanning Search
+To test for the mediating effect, we included the mediator 
+variables proactive search and responsive search in Model 8, 
+TABLE 3    |    Multiple regression results.
+Variables
+PS
+RS
+SPI
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+Controls
+Firm size
+0.064
+0.067
+0.093
+0.068
+0.070
+0.092
+0.095
+0.097
+0.069
+Firm age
+−0.097
+−0.118
+−0.084
+−0.011
+−0.021
+−0.053
+−0.055
+−0.071
+−0.055
+Cooperation 
+duration
+−0.018
+0.092
+0.036
+−0.040
+0.014
+0.044
+0.005
+0.089
+0.077
+ET
+0.226*
+0.187*
+0.115†
+0.259***
+0.240***
+0.245***
+0.099
+0.070
+−0.022
+EC
+−0.015
+0.026
+−0.024
+−0.182**
+−0.162**
+−0.130*
+0.097†
+0.128*
+0.178**
+Independent variable
+Horizontal 
+coopetition (HC)
+0.408***
+0.408***
+0.199***
+0.121*
+0.313***
+0.216***
+Moderating variables
+Competing 
+similarity (CMS)
+0.166† 
+−0.056
+Cooperating 
+similarity (COS)
+−0.087
+0.407***
+Interactions
+HC*CMS
+0.166**
+−0.111**
+HC*COS
+−0.158*
+0.156***
+Mediating variable
+PS
+0.083*
+RS
+0.318***
+R2
+0.030
+0.116
+0.167
+0.086
+0.134
+0.279
+0.047
+0.171
+0.283
+ΔR2
+0.030
+0.086
+0.138
+0.086
+0.047
+0.193
+0.047
+0.124
+0.236
+F
+1.415†
+5.000***
+4.525***
+4.352***
+5.889***
+8.712***
+2.263*
+7.869***
+11.211***
+Note: N = 236.
+***indicates the significance level p < 0.001. 
+**indicates the significance level p < 0.01. 
+*indicates the significance level p < 0.05.
+†indicates the significance level p < 0.1.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4905
+resulting in Model 9. We found that the relationship between 
+proactive search and SPI was positive and significant (β = 0.083, 
+p < 0.05) and the relationship between responsive search and 
+SPI was also positive and significant (β = 0.318, p < 0.001). At 
+the same time, the direct positive impact of horizontal coopeti-
+tion on SPI (β = 0.216, p < 0.001) remained significant but weak-
+ened. Therefore, both proactive and responsive search partially 
+mediated the relationship between horizontal coopetition and 
+SPI, supporting Hypotheses 3a and 3b. To ensure the stability 
+of the mediation test, we used a bootstrap approach to further 
+verify the mediating effects. The results are summarized in 
+Table 4. With a 95% bias-­corrected confidence interval (CI) for 
+1000 repetitions, the indirect effect of horizontal coopetition 
+on SPI via proactive search was significant (effect = 0.065, 95% 
+CI = [0.024, 0.034]); the indirect effect of horizontal coopetition 
+on SPI via responsive search was also significant (effect = 0.040, 
+95% CI = [0.010, 0.083]). Therefore, Hypotheses 3a and 3b were 
+further supported.
+4.3   |   Moderating Effects of Partner Similarity
+The results of the moderation effects were presented in Models 
+3 and 6. The coefficient of the interaction term of horizontal 
+coopetition and competing similarity was positive and mar-
+ginally significant for proactive search (Model 3, β = 0.166, 
+p < 0.01), while negative and marginally significant for re-
+sponsive search (Model 6, β = −0.111, p < 0.01). Therefore, 
+Hypotheses 4a and 4b were supported. Conversely, the coef-
+ficient of the interaction term of horizontal coopetition and 
+cooperating similarity was positive and marginally signif-
+icant for responsive search (Model 6, β = 0.156, p < 0.001), 
+while negative and marginally significant for proactive search 
+(Model 3, β = −0.158, p < 0.05). Therefore, Hypotheses 5a and 
+5b were supported.
+To gain further insights into these interaction relationships, 
+we plotted the moderating effects of different partner simi-
+larities in Figures  2–5. Figure  2 illustrates that the positive 
+linear relationship between horizontal coopetition and pro-
+active search has an upward trend when competing simi-
+larity is greater. As shown in Figure  3, the positive linear 
+relationship between horizontal coopetition and responsive 
+search has a downward trend when competing similarity is 
+greater. Figure 4 illustrates that the positive linear relation-
+ship between horizontal coopetition and responsive search 
+has an upward trend when cooperating similarity is greater. 
+As shown in Figure 5, the positive linear relationship between 
+horizontal coopetition and proactive search has a downward 
+trend when cooperating similarity is greater.
+5   |   Discussion
+5.1   |   Key Findings
+The background of the study is that coopetition is an important 
+factor in firms' strategies to achieve sustainability. The objective 
+of our study is to investigate whether and how horizontal coope-
+tition affects firms' SPI. We empirically examined the mediating 
+role of boundary-­spanning search in the relationship between 
+horizontal coopetition and SPI, as well as the moderating ef-
+fects of partner similarity. The results of the empirical tests are 
+shown in Table 5. Below, we provide a detailed discussion of the 
+research findings in this paper.
+TABLE 4    |    Multiple mediation analysis results.
+Path
+Bootstrapping  
+Bias-­corrected
+Confidence intervals
+Point estimate value
+SE
+Lower
+Upper
+Horizontal coopetition → PS → SPI
+0.065
+0.028
+0.024
+0.034
+Horizontal coopetition → RS → SPI
+0.040
+0.018
+0.010
+0.083
+Note: N = 236.
+Abbreviation: SE = standard errors.
+FIGURE 2    |    Moderating effect of competing similarity between hor-
+izontal coopetition and proactive search.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4906
+Business Strategy and the Environment, 2025
+Regarding Hypothesis 1, our research findings indicate that 
+horizontal coopetition has a significant positive impact on 
+SPI. This finding is similar to the findings of Mwesiumo 
+et al. (2023), Vu and Fath (2024), and Xin et al. (2023); that 
+is, coopetition has a positive impact on corporate sustainabil-
+ity. As Corbo et al. (2023) argue, although there are potential 
+drawbacks in coopetition, an abundance of empirical and 
+anecdotal evidence supports the rationale that coopetition 
+benefits innovation-­related activities. Our research focuses 
+on the context of corporate sustainability and confirms that 
+horizontal coopetition has a promoting effect on SPI. That is, 
+collaboration with companies of similar market positioning or 
+technological expertise not only enhances the environmental 
+performance and economic efficiency of new products but also 
+generates social benefits. This is a crucial result, since it offers 
+empirical support to scholars' calls for investigating the role 
+of coopetition in sustainable innovation (Munten et al. 2021; 
+Corbo et al. 2023; Xin et al. 2023).
+Concerning Hypothesis 2, we found that horizontal coopeti-
+tion positively impacts both proactive and responsive search. 
+As Shi et al. (2024) pointed out, there is a significant lack of 
+research on the antecedents of boundary-­spanning search. 
+Our study confirms horizontal coopetition not only stimulates 
+enterprises to engage in boundary-­spanning search with the 
+purpose of surpassing competition, but also stimulates enter-
+prises to conduct such searches in response to competitors. 
+This finding also supports the research by Shi et al. (2024) and 
+Ortiz et  al.  (2018) that firm partnerships are a prerequisite 
+for external knowledge search. More interestingly, we found 
+that horizontal coopetition has a stronger impact on proactive 
+search than on responsive search. Our explanation for this is 
+that in the current competitive environment where customer 
+preferences change rapidly and technological advancements 
+are significant, if companies want to benefit from horizontal 
+coopetition, they must quickly launch products (Nemeh and 
+Yami 2019). This further promotes the need for companies to 
+proactively search for resources that are significantly different 
+from their competitors, thus gaining an advantageous position 
+in the market.
+In Hypothesis 3, both proactive and responsive search play a me-
+diating role in the relationship between horizontal coopetition 
+and SPI. Although existing research on the mediating effects of 
+horizontal coopetition on SPI is scarce, studies related to how 
+coopetition influences firms' innovation, such as that of Zhang 
+FIGURE 3    |    Moderating effect of competing similarity between hor-
+izontal coopetition and responsive search.
+FIGURE 4    |    Moderating effect of cooperating similarity between 
+horizontal coopetition and responsive search.
+FIGURE 5    |    Moderating effect of cooperating similarity between 
+horizontal coopetition and proactive search.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4907
+et  al.  (2010), have identified that knowledge acquisition and 
+knowledge creation can help firms achieve greater innovation 
+performance through coopetition; Chen et al.'s (2021) research 
+has revealed the mediating role of external knowledge integra-
+tion in the relationship between coopetition and radical innova-
+tion. Consistent with these findings, our study also highlights 
+the importance of knowledge acquisition in the process of coo-
+petition influencing innovation by investigating the mediating 
+role of boundary-­spanning search.
+Regarding Hypothesis 4, cooperating similarity enhances the 
+positive impact of horizontal coopetition on responsive search, 
+while it weakens the positive impact of horizontal coopetition 
+on proactive search. This is consistent with the perspective of 
+Bacon et al. (2020) and Gao et al. (2017), who argue that con-
+sistency among participants in coopetition regarding shared 
+beliefs, values, and management practices facilitates tacit 
+knowledge transfer. This will further promote firms' learning 
+from competitors, thereby strengthening the impact of hori-
+zontal coopetition on responsive search. At the same time, this 
+may lock participants into a set of decision-­coordination norms, 
+increasing transaction costs and preventing any party from 
+independently launching new market products (Mariani and 
+Belitski 2023), thereby weakening the impact of horizontal coo-
+petition on proactive search.
+In Hypothesis 5, competing similarity strengthens the posi-
+tive impact of horizontal coopetition on proactive search while 
+weakening its positive impact on responsive search. This also 
+confirms the view of Luo (2007) and Farazi et al. (2024) that 
+within coopetitive relationships, the higher the competing simi-
+larity, the more challenging it is for a company to obtain a larger 
+market share and gain a competitive advantage over its compet-
+itors. This further strengthens the company's tendency to gain 
+a competitive advantage through boundary-­spanning search 
+aimed at surpassing its competitors. Simultaneously, as Ritala 
+and Hurmelinna-­Laukkanen  (2009) and Rouyre et  al.  (2024) 
+pointed out, competing similarity also intensifies opportunistic 
+behavior, so that prompt participants to establish mechanisms 
+to prevent imitation and knowledge theft. This, in turn, inhibits 
+firms' pursuit of boundary-­spanning search aimed at following 
+competitors.
+5.2   |   Theoretical Implications
+The current study has several theoretical implications. First, 
+by revealing the relationship between horizontal coopetition 
+and SPI, this research expands the current body of literature on 
+the relationship between coopetition and firms' sustainability. 
+Recently, the significance of coopetition in firms' sustainability 
+has gradually attracted scholars' attention (Planko et al. 2019; 
+Munten et al. 2021; Corbo et al. 2023; Mwesiumo et al. 2023). 
+However, SPI, as a crucial pathway for firms to achieve sustain-
+ability, has been seldom empirically supported for its association 
+with horizontal coopetition. Therefore, this study fills the gap 
+in empirical research on the value of horizontal coopetition in 
+enhancing SPI and also serves as a beneficial supplement to the 
+study of preconditions for SPI.
+Second, by innovatively introducing boundary-­spanning search 
+into the research framework of the relationship between hor-
+izontal coopetition and SPI, this study expands and enriches 
+the research on the underlying mechanisms between them. 
+Mwesiumo et al. (2023) pointed out the lack of exploration into 
+the underlying mechanisms through which coopetition affects 
+firms' sustainability. The scholars argued that the lack of explo-
+ration into the underlying mechanisms hinders the advancement 
+of coopetition theory and also impedes our understanding of the 
+value creation process of coopetition. Therefore, by introducing 
+boundary-­spanning search, this study not only bridges the gap 
+between horizontal coopetition and SPI but also advances the 
+development of coopetition theory.
+Third, this study encourages the integration of coopetition the-
+ory and resource advantage theory. Coopetition theory posits 
+TABLE 5    |    Summary of hypotheses and empirical results.
+No.
+Hypothesis
+Supported (yes/no)
+Hypothesis 1
+Horizontal coopetition is positively correlated with SPI.
+Yes
+Hypothesis 2a
+Horizontal coopetition is positively correlated with responsive search.
+Yes
+Hypothesis 2b
+Horizontal coopetition is positively correlated with proactive search 
+and has a stronger impact on it compared to responsive search.
+Yes
+Hypothesis 3a
+Proactive search mediates the relationship between horizontal coopetition and SPI.
+Yes
+Hypothesis 3b
+Responsive search mediates the relationship between horizontal coopetition and SPI.
+Yes
+Hypothesis 4a
+Competing similarity strengthens the positive relationship 
+between horizontal coopetition and proactive search.
+Yes
+Hypothesis 4b
+Competing similarity weakens the positive relationship between 
+horizontal coopetition and responsive search.
+Yes
+Hypothesis 5a
+Cooperating similarity strengthens the positive relationship 
+between horizontal coopetition and responsive search.
+Yes
+Hypothesis 5b
+Cooperating similarity weakens the positive relationship 
+between horizontal coopetition and proactive search.
+Yes
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4908
+Business Strategy and the Environment, 2025
+that coopetition has simultaneity, meaning competition and co-
+operation coexist simultaneously (Corbo et al. 2023). In other 
+words, firms make different strategic choices to gain compet-
+itive advantages in coopetition. However, coopetition theory 
+has overlooked the crucial role of partner similarity in strategic 
+decision-­making under coopetition. Resource-­advantage the-
+ory, on the other hand, explains this phenomenon by suggest-
+ing that firms make different strategic choices based on their 
+relative resource advantages in dynamic competitive environ-
+ments (Varadarajan 2023). This study integrates these two per-
+spectives, validating that in horizontal coopetition, enterprises 
+will judge their relative resource advantages based on similarity 
+with their partners, and will tend to make different boundary-­
+spanning search strategies based on this. These findings expand 
+the boundaries of current research on how horizontal coopeti-
+tion influences firm behavior, provide a beneficial supplement 
+to coopetition theory, and respond to the question raised by Ehls 
+et al. (2020): Under what conditions is one external search ac-
+tivity more valuable than another during the innovation phase.
+5.3   |   Practical Implications
+The present study has several practical implications. First, given 
+the significant role of horizontal coopetition in SPI, managers 
+should maintain an open mindset and actively identify and es-
+tablish cooperative relationships with trustworthy competitors. 
+Managers should realize that, despite firms being in competition 
+with direct rivals in the market, the value created through col-
+laboration with a specific competitor in today's vast and complex 
+market environment can be utilized to address challenges posed 
+by other competitors. Particularly in the context of SPI, compa-
+nies face issues such as scarcity of resources and technological 
+deficits, while also considering risk factors. Competitors often 
+encounter similar dilemmas; therefore, collaboration not only 
+provides access to resources but also enables joint risk mitigation. 
+Additionally, business managers should realize that horizontal 
+coopetition directly drives boundary-­spanning search activi-
+ties within companies. During the process of cooperating with 
+competitors, managers should carefully observe and learn from 
+competitors' management practices and operational strategies, 
+drawing experiences and lessons to select appropriate boundary-­
+spanning search strategies based on their own circumstances. 
+Whether conducting boundary-­spanning search strategies aimed 
+at surpassing competitors or following competitors' lead, man-
+agers should closely monitor competitors' dynamic changes, es-
+tablish effective information retrieval mechanisms, and better 
+formulate boundary-­spanning search strategies.
+Second, our study offers new potential pathways for companies 
+to achieve SPI through horizontal coopetition. The research finds 
+that horizontal coopetition can positively influence SPI through 
+both proactive and responsive search. On the one hand, driven 
+by horizontal coopetition, managers should value the role of re-
+sponsive search aimed at following competitors in SPI. By ob-
+serving and learning from competitors' innovative practices and 
+experiences, managers can better understand and grasp market 
+dynamics and industry trends. Thus, managers can reduce the 
+trial-­and-­error costs and risks in SPI by engaging in responsive 
+search aimed at following competitors, thereby increasing the like-
+lihood of successful SPI. On the other hand, driven by horizontal 
+coopetition, proactive search aimed at surpassing competitors can 
+similarly foster SPI. Managers should encourage teams to think 
+beyond traditional frameworks and actively explore innovative 
+opportunities surpassing competitors. By conducting search 
+across organizational boundaries to explore new technologies and 
+concepts from different industries or domains, new perspectives 
+can be provided for SPI, enhancing product differentiation and 
+further strengthening the company's competitiveness.
+Finally, our study suggests that managers should clearly define 
+selection criteria when establishing cooperative relationships 
+with competitors and choose different types of partners based 
+on different strategic objectives. On the one hand, if a company 
+intends to engage in boundary-­spanning search aimed at fol-
+lowing competitors in the future, managers should investigate 
+and evaluate the similarities in culture, values, and manage-
+ment practices of potential partners. They should actively es-
+tablish good cooperation with companies with high similarity. 
+Cooperating similarity not only enhances the stability of cooper-
+ation but also makes it easier for both parties to understand each 
+other's expectations and behavioral norms, facilitating knowl-
+edge sharing and learning. This accelerates the understanding 
+and absorption of competitor practices, thereby achieving a 
+more effective boundary-­spanning search aimed at following 
+competitors. On the other hand, if a company intends to engage 
+in boundary-­spanning search aimed at surpassing competitors 
+in the future, managers should choose companies with high 
+similarity in competitive aspects such as geographical market 
+coverage, product market coverage, and technological advan-
+tage areas. The higher the competing similarity, the more sim-
+ilar the company's market positioning and resource allocation 
+are with the partner. In this coopetition relationship, managers 
+should have a deep understanding of competitors' product ad-
+vantages and market competition situations and formulate strat-
+egies more targeted to surpass competitors.
+5.4   |   Limitations and Future Research
+Although this study explores the mechanism of horizontal coo-
+petition from both theoretical and empirical perspectives, some 
+research limitations still need to be further investigated and im-
+proved in future research. First, our sample is limited to manufac-
+turing companies and does not include other industries engaged 
+in SPI. Moreover, since our research results are based on samples 
+from Chinese companies, the generalizability of the research con-
+clusions may be limited. Therefore, in future research, these find-
+ings should be validated in other countries and industries.
+Second, although we implemented a multiple-­informant approach 
+when collecting questionnaires to reduce common method bias, 
+the subjective judgments of the respondents inevitably lead to 
+some degree of common method bias in the data analysis process. 
+Therefore, in future research, scholars should adopt a combination 
+of subjective and objective data to avoid this issue. Additionally, 
+the cross-­sectional data used in this study may not fully represent 
+dynamic causal conclusions. Therefore, future research can avoid 
+this issue by tracking data from multiple time points.
+Third, the outcomes of sustainable innovation are not only re-
+flected in product development but also in processes. Therefore, 
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4909
+future research can incorporate sustainable process innovation 
+into the research model to explore the differences in the impact 
+of horizontal coopetition on SPI and sustainable process innova-
+tion, thereby gaining a deeper understanding of the role of hori-
+zontal coopetition in firms' sustainability development.
+Fourth, this study confirms the mediating role of boundary-­
+spanning search in the relationship between horizontal coopeti-
+tion and SPI. Future research can explore the mechanism of how 
+horizontal coopetition affects SPI based on other theoretical per-
+spectives, such as knowledge management theory, thereby fur-
+thering understanding of the underlying mechanisms through 
+which horizontal coopetition affects SPI.
+6   |   Conclusion
+This study is based on coopetition theory and constructs a the-
+oretical model of “horizontal coopetition—boundary-­spanning 
+search (proactive/responsive)—SPI.” Building upon this frame-
+work, the study integrates resource-­advantage theory to analyze 
+the moderating effect of partner similarity (cooperating/com-
+peting) on the relationship between horizontal coopetition and 
+boundary-­spanning search. Using survey data from 236 Chinese 
+manufacturing firms, the results indicate that horizontal coopeti-
+tion has a positive impact on SPI. Furthermore, horizontal coope-
+tition positively influences both proactive and responsive search, 
+with a stronger effect on proactive search compared to responsive 
+search. Additionally, our findings suggest that both proactive and 
+responsive search mediate the relationship between horizontal 
+coopetition and SPI. Finally, we reveal the moderating effect of 
+partner similarity on the relationship between horizontal coop-
+etition and boundary-­spanning search. Specifically, competing 
+similarity strengthens the positive effect of horizontal coopetition 
+on proactive search but weakens the positive effect on responsive 
+search; while cooperating similarity strengthens the positive ef-
+fect of horizontal coopetition on responsive search but weakens 
+the positive effect on proactive search.
+Author Contributions
+Xia Wu: writing – review and editing, writing – original draft, for-
+mal analysis, investigation, methodology, conceptualization. Jianjun 
+Yang: formal analysis, investigation, methodology, supervision, con-
+ceptualization, final approval. Sandra Hasanefendic: writing – review 
+and editing, supervision, conceptualization. Bart Bossink: writing – 
+review and editing, supervision, conceptualization.
+Acknowledgments
+The author gratefully acknowledges support from the China Scholarship 
+Council for the Joint PhD Program (Project ID: 202306280233), the 
+Ministry of Education Humanities and Social Sciences Youth Fund 
+(Grant No. 23XJC630001), the Fundamental Research Funds for the 
+Central Universities (Grant No. XJSJ23116), the National Natural 
+Science Foundation of China (Grant No. 72362032), and the Major 
+Project of the National Social Science Foundation of China (Grant No. 
+22&ZD146).
+Conflicts of Interest
+The authors declare no conflicts of interest.
+References
+Agnihotri, R., and C. B. Gabler. 2024. “Pursuing Competitive 
+Advantages in the Interactive Digital Marketplace and Resource-­
+Advantage (RA) Theory of Competition: A Research Agenda.” Journal 
+of Marketing Management 40, no. 13–14: 1155–1173. https://​doi.​org/​10.​
+1080/​02672​57X.​2024.​2419656.
+Atuahene-­Gima, K., and J. Y. Murray. 2007. “Exploratory and Exploitative 
+Learning in New Product Development: A Social Capital Perspective on 
+New Technology Ventures in China.” Journal of International Marketing 
+15, no. 2: 1–29. https://​doi.​org/​10.​1509/​jimk.​15.2.​1.
+Bacon, E., M. D. Williams, and G. Davies. 2020. “Coopetition in 
+Innovation Ecosystems: A Comparative Analysis of Knowledge 
+Transfer Configurations.” Journal of Business Research 115: 307–316. 
+https://​doi.​org/​10.​1016/j.​jbusr​es.​2019.​11.​005.
+Bossink, B. 2018. “The Influence of Knowledge Flow on Sustainable 
+Innovation in a Project-­Based Industry: From Demonstration to 
+Limited Adoption of Eco-­Innovations.” Journal of Cleaner Production 
+193: 249–262. https://​doi.​org/​10.​1016/j.​jclep​ro.​2018.​05.​063.
+Bouncken, R. B., and S. Kraus. 2013. “Innovation in Knowledge-­
+Intensive Industries: The Double-­Edged Sword of Coopetition.” Journal 
+of Business Research 66, no. 10: 2060–2070. https://​doi.​org/​10.​1016/j.​
+jbusr​es.​2013.​02.​032.
+Calik, E. 2024. “A Validated Measurement Scale for Sustainable Product 
+Innovation Performance.” Technovation 129: 102882. https://​doi.​org/​10.​
+1016/j.​techn​ovati​on.​2023.​102882.
+Chen, H., Y. Yao, A. Zan, and E. G. Carayannis. 2021. “How Does 
+Coopetition Affect Radical Innovation? The Roles of Internal 
+Knowledge Structure and External Knowledge Integration.” Journal of 
+Business & Industrial Marketing 36, no. 11: 1975–1987. https://​doi.​org/​
+10.​1108/​jbim-­​05-­​2019-­​0257.
+Corbo, L., S. Kraus, B. Vlačić, M. Dabić, A. Caputo, and M. M. Pellegrini. 
+2023. “Coopetition and Innovation: A Review and Research Agenda.” 
+Technovation 122: 102624. https://​doi.​org/​10.​1016/j.​techn​ovati​on.​2022.​
+102624.
+Crick, J. M., W. Friske, and T. A. Morgan. 2024. “The Relationship 
+Between Coopetition Strategies and Company Performance Under 
+Different Levels of Competitive Intensity, Market Dynamism, and 
+Technological Turbulence.” Industrial Marketing Management 118: 
+56–77. https://​doi.​org/​10.​1016/j.​indma​rman.​2024.​02.​005.
+Czakon, W., and K. Czernek-­Marszałek. 2021. “Competitor Perceptions 
+in Tourism Coopetition.” Journal of Travel Research 60, no. 2: 312–335. 
+https://​doi.​org/​10.​1177/​00472​87519​896011.
+de Meiros, J. F., T. B. Garlet, J. L. D. Ribeiro, and M. N. Cortimiglia. 
+2022. “Success Factors for Environmentally Sustainable Product 
+Innovation: An Updated Review.” Journal of Cleaner Production 345: 
+131039. https://​doi.​org/​10.​1016/j.​jclep​ro.​2022.​131039.
+Della Corte, V., and M. Aria. 2016. “Coopetition and Sustainable 
+Competitive Advantage. The Case of Tourist Destinations.” Tourism 
+Management 54: 524–540. https://​doi.​org/​10.​1016/j.​tourm​an.​2015.​
+12.​009.
+DeSarbo, W. S., C. Anthony Di Benedetto, M. Song, and I. Sinha. 2005. 
+“Revisiting the Miles and Snow Strategic Framework: Uncovering 
+Interrelationships Between Strategic Types, Capabilities, Environmental 
+Uncertainty, and Firm Performance.” Strategic Management Journal 26, 
+no. 1: 47–74. https://​doi.​org/​10.​1002/​smj.​431.
+Ehls, D., S. Polier, and C. Herstatt. 2020. “Reviewing the Field 
+of 
+External 
+Knowledge 
+Search 
+for 
+Innovation: 
+Theoretical 
+Underpinnings and Future (Re-­)Search Directions.” Journal of 
+Product Innovation Management 37, no. 5: 405–430. https://​doi.​org/​
+10.​1111/​jpim.​12549​.
+Farazi, M. S., P. Chiambaretto, A. S. Fernandez, and S. Gopalakrishnan. 
+2024. “Unbundling the Impact of Current and Future Competition on 
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4910
+Business Strategy and the Environment, 2025
+Cooperation in Coopetition Projects for Innovation.” Research Policy 53, 
+no. 6: 105017. https://​doi.​org/​10.​1016/j.​respol.​2024.​105017.
+Gao, H., J. Yang, H. Yin, and Z. Ma. 2017. “The Impact of Partner 
+Similarity on Alliance Management Capability, Stability and 
+Performance.” International Journal of Physical Distribution and 
+Logistics Management 47, no. 9: 906–926. https://​doi.​org/​10.​1108/​IJPDL​
+M-­​09-­​2016-­​02632017.
+Geringer, J. M. 1991. “Strategic Determinants of Partner Selection 
+Criteria in International Joint Ventures.” Journal of International 
+Business Studies 22: 41–62. https://​doi.​org/​10.​1057/​palgr​ave.​jibs.​
+8490291.
+Gnyawali, D. R., and T. Ryan Charleton. 2018. “Nuances in the Interplay 
+of Competition and Cooperation: Towards a Theory of Coopetition.” 
+Journal of Management 44, no. 7: 2511–2534. https://​doi.​org/​10.​1177/​
+01492​06318​788945.
+Hansen, J. M., R. E. McDonald, and H. Hatfield. 2023. “Exploring 
+Market Orientation Versus Finance Orientation Effects on Perceived 
+CSR Motivations and Outcomes Using Resource-­Advantage (RA) 
+Theory.” Journal of Business Research 164: 113977. https://​doi.​org/​10.​
+1016/j.​jbusr​es.​2023.​113977.
+Hunt, S. D., and R. M. Morgan. 1996. “The Resource-­Advantage Theory 
+of Competition: Dynamics, Path Dependencies, and Evolutionary 
+Dimensions.” Journal of Marketing 60, no. 4: 107–114. https://​doi.​org/​
+10.​1177/​00222​42996​06000410.
+Huo, L., Y. Shao, Y. Jin, and W. Kong. 2024. “Alliance Coopetition 
+and Breakthrough Innovation: The Contributory Roles of Resources 
+Integration and Knowledge Ambiguity.” Technology Analysis & 
+Strategic Management 36, no. 5: 871–885. https://​doi.​org/​10.​1080/​09537​
+325.​2022.​2064271.
+Hussain, J., Y. Pan, G. Ali, and Y. Xiaofang. 2020. “Pricing Behavior 
+of Monopoly Market With the Implementation of Green Technology 
+Decision Under Emission-­Reduction Subsidy Policy.” Science of the Total 
+Environment 709: 136110. https://​doi.​org/​10.​1016/j.​scito​tenv.​2019.​136110.
+Jansen, J. J., F. A. Van Den Bosch, and H. W. Volberda. 2006. 
+“Exploratory Innovation, Exploitative Innovation, and Performance: 
+Effects of Organizational Antecedents and Environmental Moderators.” 
+Management Science 52, no. 11: 1661–1674. https://​doi.​org/​10.​1287/​
+mnsc.​1060.​0576.
+Kale, P., H. Singh, and H. Perlmutter. 2000. “Learning and Protection of 
+Proprietary Assets in Strategic Alliances: Building Relational Capital.” 
+Strategic Management Journal 21, no. 3: 217–237. https://​doi.​org/​10.​
+1002/​(sici)​1097-­​0266(200003)​21:​3<​217::​aid-­​smj95​>​3.0.​co;​2-­​y.
+Katila, R., and E. L. Chen. 2008. “Effects of Search Timing on Innovation: 
+The Value of Not Being in Sync With Rivals.” Administrative Science 
+Quarterly 53, no. 4: 593–625. https://​doi.​org/​10.​2189/​asqu.​53.4.​593.
+Kim, J., and A. Parkhe. 2009. “Competing and Cooperating Similarity 
+in Global Strategic Alliances: An Exploratory Examination.” British 
+Journal of Management 20, no. 3: 363–376. https://​doi.​org/​10.​1111/j.​
+1467-­​8551.​2008.​00580.​x.
+Klewitz, J., and E. G. Hansen. 2014. “Sustainability-­Oriented Innovation 
+of SMEs: A Systematic Review.” Journal of Cleaner Production 65: 57–
+75. https://​doi.​org/​10.​1016/j.​jclep​ro.​2013.​07.​017.
+Le Roy, F., F. Robert, and R. Hamouti. 2022. “Vertical vs Horizontal 
+Coopetition and the Market Performance of Product Innovation: An 
+Empirical Study of the Video Game Industry.” Technovation 112: 
+102411. https://​doi.​org/​10.​1016/j.​techn​ovati​on.​2021.​102411.
+Lee, K. Y., H. J. Jung, and Y. Kwon. 2024. “Boundary-­Spanning 
+Technology Search, Product Component Reuse, and new Product 
+Innovation: Evidence From the Smartphone Industry.” Research Policy 
+53, no. 4: 104959. https://​doi.​org/​10.​1016/j.​respol.​2024.​104959.
+Li, J., Y. Li, Y. Yu, and L. Yuan. 2019. “Search Broadly or Search 
+Narrowly? Role of Knowledge Search Strategy in Innovation 
+Performance.” Journal of Knowledge Management 23, no. 5: 809–835. 
+https://​doi.​org/​10.​1108/​JKM-­​06-­​2018-­​0386.
+Li, X., Z. Peng, and K. Li. 2024. “Impact of Boundary-­Spanning Search 
+on Firm Innovation Performance: A Strategic Knowledge Integration 
+Perspective.” Journal of Knowledge Management 28: 3075–3103. https://​
+doi.​org/​10.​1108/​JKM-­​07-­​2023-­​0575.
+Liao, Z. 2018. “Institutional Pressure, Knowledge Acquisition and 
+a Firm's Environmental Innovation.” Business Strategy and the 
+Environment 27, no. 7: 849–857. https://​doi.​org/​10.​1002/​bse.​2036.
+Luo, X., and L. Deng. 2009. “Do Birds of a Feather Flock Higher? The 
+Effects of Partner Similarity on Innovation in Strategic Alliances in 
+Knowledge-­Intensive Industries.” Journal of Management Studies 46, 
+no. 6: 1005–1030. https://​doi.​org/​10.​1111/j.​1467-­​6486.​2009.​00842.​x.
+Luo, Y. 2007. “A Coopetition Perspective of Global Competition.” 
+Journal of World Business 42, no. 2: 129–144. https://​doi.​org/​10.​1016/j.​
+jwb.​2006.​08.​007.
+Mariani, M. M., and M. Belitski. 2023. “The Effect of Coopetition 
+Intensity on First Mover Advantage and Imitation in Innovation Related 
+Coopetition: Empirical Evidence From UK Firms.” European Management 
+Journal 41, no. 5: 779–791. https://​doi.​org/​10.​1016/j.​emj.​2022.​05.​001.
+Massari, G. F., and I. Giannoccaro. 2021. “Investigating the Effect 
+of Horizontal Coopetition on Supply Chain Resilience in Complex 
+and Turbulent Environments.” International Journal of Production 
+Economics 237: 108150. https://​doi.​org/​10.​1016/j.​ijpe.​2021.​108150.
+Mirzabeiki, V., Q. He, and D. Sarpong. 2023. “Sustainability-­Driven 
+Co-­Opetition in Supply Chains as Strategic Capabilities: Drivers, 
+Facilitators, and Barriers.” International Journal of Production Research 
+61, no. 14: 4826–4852. https://​doi.​org/​10.​1080/​00207​543.​2021.​1988749.
+Moshood, T. D., G. Nawanir, F. Mahmud, et al. 2022. “Green Product 
+Innovation: A Means Towards Achieving Global Sustainable Product 
+Within Biodegradable Plastic Industry.” Journal of Cleaner Production 
+363: 132506. https://​doi.​org/​10.​1016/j.​jclep​ro.​2022.​132506.
+Mousavi, S., B. Bossink, and M. van Vliet. 2019. “Microfoundations 
+of Companies' Dynamic Capabilities for Environmentally Sustainable 
+Innovation: Case Study Insights From High-­Tech Innovation in 
+Science-­Based Companies.” Business Strategy and the Environment 28, 
+no. 2: 366–387. https://​doi.​org/​10.​1002/​bse.​2255.
+Munten, P., J. Vanhamme, F. Maon, V. Swaen, and A. Lindgreen. 
+2021. “Addressing Tensions in Coopetition for Sustainable Innovation: 
+Insights From the Automotive Industry.” Journal of Business Research 
+136: 10–20. https://​doi.​org/​10.​1016/j.​jbusr​es.​2021.​07.​020.
+Mwesiumo, D., M. Harun, and H. Hogset. 2023. “Unravelling the Black 
+Box Between Coopetition and Firms' Sustainability Performance.” 
+Industrial Marketing Management 114: 110–124. https://​doi.​org/​10.​
+1016/j.​indma​rman.​2023.​08.​008.
+Nemeh, A., and S. Yami. 2019. “Orchestrating Resources for FMA in 
+Coopetitive NPD.” R&D Management 49, no. 1: 64–85. https://​doi.​org/​
+10.​1111/​radm.​12335​.
+Oh, Y., and N. Yoo. 2022. “Effective Cooperation Modes Based on 
+Cultural and Market Similarities in Interfirm Relationships.” Journal of 
+International Management 28, no. 1: 100891. https://​doi.​org/​10.​1016/j.​
+intman.​2021.​100891.
+Ortiz, B., M. J. Donate, and F. Guadamillas. 2018. “Inter-­Organizational 
+Social Capital as an Antecedent of a firm's Knowledge Identification 
+Capability 
+and 
+External 
+Knowledge 
+Acquisition.” 
+Journal of 
+Knowledge Management 22, no. 6: 1332–1357. https://​doi.​org/​10.​1108/​
+JKM-­​04-­​2017-­​0131.
+Park, B. J. R., M. K. Srivastava, and D. R. Gnyawali. 2014. “Walking 
+the Tight Rope of Coopetition: Impact of Competition and Cooperation 
+Intensities and Balance on Firm Innovation Performance.” Industrial 
+Marketing Management 43, no. 2: 210–221. https://​doi.​org/​10.​1016/j.​
+indma​rman.​2013.​11.​003.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4911
+Park, S., H. Piezunka, and L. Dahlander. 2024. “Coevolutionary Lock-­In 
+in External Search.” Academy of Management Journal 67, no. 1: 262–
+288. https://​doi.​org/​10.​5465/​amj.​2022.​0710.
+Peng, Y. S., and S. S. Lin. 2008. “Local Responsiveness Pressure, 
+Subsidiary Resources, Green Management Adoption and subsidiary's 
+Performance: Evidence From Taiwanese Manufactures.” Journal of 
+Business Ethics 79: 199–212. https://​doi.​org/​10.​1007/​s1055​1-­​007-­​9382-­​8.
+Planko, J., M. M. Chappin, J. Cramer, and M. P. Hekkert. 2019. “Coping 
+With Co-­Opetition—Facing Dilemmas in Cooperation for Sustainable 
+Development: The Case of the Dutch Smart Grid Industry.” Business 
+Strategy and the Environment 28, no. 5: 665–674. https://​doi.​org/​10.​
+1002/​bse.​2271.
+Podsakoff, P. M., S. B. MacKenzie, and N. P. Podsakoff. 2012. “Sources 
+of Method Bias in Social Science Research and Recommendations on 
+How to Control It.” Annual Review of Psychology 63, no. 1: 539–569. 
+https://​doi.​org/​10.​1146/​annur​ev-­​psych​-­​12071​0-­​100452.
+Rai, R. K. 2016. “A Co-­Opetition-­Based Approach to Value Creation in 
+Interfirm Alliances: Construction of a Measure and Examination of Its 
+Psychometric Properties.” Journal of Management 42, no. 6: 1663–1699. 
+https://​doi.​org/​10.​1177/​01492​06313​515525.
+Rai, R., and M. Surana. 2022. “Neither Complements nor Substitutes: 
+Examining the Case for Coalignment of Contract-­Based and Relation-­
+Based Alliance Governance Mechanisms in Coopetition Contexts.” 
+Long Range Planning 55, no. 6: 102199. https://​doi.​org/​10.​1016/j.​lrp.​
+2022.​102199.
+Raza-­Ullah, T., and A. Kostis. 2020. “Do Trust and Distrust in 
+Coopetition Matter to Performance?” European Management Journal 
+38, no. 3: 367–376. https://​doi.​org/​10.​1016/j.​emj.​2019.​10.​004.
+Ritala, P., and P. Hurmelinna-­Laukkanen. 2009. “What's in It for Me? 
+Creating and Appropriating Value in Innovation-­Related Coopetition.” 
+Technovation 29, no. 12: 819–828. https://​doi.​org/​10.​1016/j.​techn​ovati​
+on.​2009.​07.​002.
+Roper, S., J. H. Love, and K. Bonner. 2017. “Firms' Knowledge Search 
+and Local Knowledge Externalities in Innovation Performance.” 
+Research Policy 46, no. 1: 43–56. https://​doi.​org/​10.​1016/j.​respol.​2016.​
+10.​004.
+Rosa, F. S., R. J. Lunkes, M. Codesso, A. C. A. Mendes, and G. D. 
+Costa. 2024. “Effects of Green Innovation Ecosystem Coopetition, 
+Environmental Management Practices and Digital Innovation on 
+Carbon Footprint Reduction.” International Journal of Contemporary 
+Hospitality Management 37, no. 3: 722–739. https://​doi.​org/​10.​1108/​
+IJCHM​-­​01-­​2024-­​0021.
+Rouyre, A., A. S. Fernandez, and I. Estrada. 2024. “Co-­Evolution of 
+Governance Mechanisms and Coopetition in Public-­Private Projects.” 
+Journal of Operations Management 70, no. 1: 50–79. https://​doi.​org/​10.​
+1002/​joom.​1281.
+Runge, S., C. Schwens, and M. Schulz. 2022. “The Invention Performance 
+Implications of Coopetition: How Technological, Geographical, and 
+Product Market Over-­Laps Shape Learning and Competitive Tension 
+in R&D Alliances.” Strategic Management Journal 43, no. 2: 266–294. 
+https://​doi.​org/​10.​1002/​smj.​3334.
+Rusch, M., J. P. Schöggl, and R. J. Baumgartner. 2023. “Application of 
+Digital Technologies for Sustainable Product Management in a Circular 
+Economy: A Review.” Business Strategy and the Environment 32, no. 3: 
+1159–1174. https://​doi.​org/​10.​31235/​osf.​io/​twgks​.
+Severo, E. A., J. C. F. de Guimarães, and E. C. H. Dorion. 2017. “Cleaner 
+Production and Environmental Management as Sustainable Product 
+Innovation Antecedents: A Survey in Brazilian Industries.” Journal of 
+Cleaner Production 142: 87–97. https://​doi.​org/​10.​1016/j.​jclep​ro.​2016.​
+06.​090.
+Shi, X., R. D. Evans, and W. Shan. 2024. “A Meta-­Analysis Integrating 
+External Knowledge Search Research: Antecedents, Consequences, and 
+Boundary Conditions.” IEEE Transactions on Engineering Management 
+71: 12868–12885. https://​doi.​org/​10.​1109/​TEM.​2023.​3242732.
+Vaez-­Alaei, M., I. Deniaud, F. Marmier, D. Gourc, and R. Cowan. 
+2022. “A Partner Selection Framework for Strategic Alliances Based 
+on Project Complexity and partner's Past Experience.” Enterprise 
+Information Systems 16, no. 6: 1889038. https://​doi.​org/​10.​1080/​17517​
+575.​2021.​1889038.
+Varadarajan, R. 2023. “Resource Advantage Theory, Resource Based 
+Theory, and Theory of Multimarket Competition: Does Multimarket 
+Rivalry Restrain Firms From Leveraging Resource Advantages?” 
+Journal of Business Research 160: 113713. https://​doi.​org/​10.​1016/j.​jbusr​
+es.​2023.​113713.
+Vu, V., and B. Fath. 2024. “Friends and Foes: Embracing Coopetition 
+for Sustainability in the New Zealand Alternative Protein Industry.” 
+Business Strategy and the Environment 33, no. 6: 5232–5246. https://​doi.​
+org/​10.​1002/​bse.​3758.
+Wang, C. H., and W. J. Juo. 2021. “An Environmental Policy of Green 
+Intellectual Capital: Green Innovation Strategy for Performance 
+Sustainability.” Business Strategy and the Environment 30, no. 7: 3241–
+3254. https://​doi.​org/​10.​1002/​bse.​2800.
+Wang, J., Y. Xue, and J. Yang. 2020. “Boundary-­Spanning Search 
+and Firms' Green Innovation: The Moderating Role of Resource 
+Orchestration Capability.” Business Strategy and the Environment 29, 
+no. 2: 361–374. https://​doi.​org/​10.​1002/​bse.​2369.
+Wang, J., Y. Xue, and J. Yang. 2023. “Can Proactive Boundary-­
+Spanning Search Enhance Green Innovation? The Mediating Role of 
+Organizational Resilience.” Business Strategy and the Environment 32, 
+no. 4: 1981–1995. https://​doi.​org/​10.​1002/​bse.​3231.
+Xiao, J., and Y. Bao. 2022. “Partners' Knowledge Utilization and 
+Exploratory Innovation: The Moderating Effect of Competitive and 
+Collaborative Relationships.” International Journal of Operations & 
+Production Management 42, no. 9: 1356–1383. https://​doi.​org/​10.​1108/​
+ijopm​-­​08-­​2021-­​0517.
+Xiao, S. S., T. Roh, and B. I. Park. 2023. “Double-­Edged Sword of 
+Open Innovation for Business Failure in the Post-­Pandemic Era: 
+The Moderating Roles of Industrial Embeddedness and Absorptive 
+Capacity.” Industrial Marketing Management 115: 378–394. https://​doi.​
+org/​10.​1016/j.​indma​rman.​2023.​10.​007.
+Xie, Q., Y. Gao, N. Xia, S. Zhang, and G. Tao. 2023. “Coopetition and 
+Organizational Performance Outcomes: A Meta-­Analysis of the Main 
+and Moderator Effects.” Journal of Business Research 154: 113363. 
+https://​doi.​org/​10.​1016/j.​jbusr​es.​2022.​113363.
+Xin, X., X. Miao, and R. Cui. 2023. “Enhancing Sustainable Development: 
+Innovation 
+Ecosystem 
+Coopetition, 
+Environmental 
+Resource 
+Orchestration, and Disruptive Green Innovation.” Business Strategy and 
+the Environment 32, no. 4: 1388–1402. https://​doi.​org/​10.​1002/​bse.​3194.
+Yang, M., J. Wang, and X. Zhang. 2021. “Boundary-­Spanning Search 
+and Sustainable Competitive Advantage: The Mediating Roles of 
+Exploratory and Exploitative Innovations.” Journal of Business Research 
+127: 290–299. https://​doi.​org/​10.​1016/j.​jbusr​es.​2021.​01.​032.
+Zhang, H., C. Shu, X. Jiang, and A. J. Malter. 2010. “Managing 
+Knowledge for Innovation: The Role of Cooperation, Competition, and 
+Alliance Nationality.” Journal of International Marketing 18, no. 4: 74–
+94. https://​doi.​org/​10.​1509/​jimk.​18.4.​74.
+Zhao, X., X. Zhang, N. Li, S. Shao, and Y. Geng. 2017. “Decoupling 
+Economic Growth From Carbon Dioxide Emissions in China: A 
+Sectoral Factor Decomposition Analysis.” Journal of Cleaner Production 
+142: 3500–3516. https://​doi.​org/​10.​1016/j.​jclep​ro.​2016.​10.​117.
+Zhu, P., X. Miao, S. Jin, and R. Moehler. 2023. “Transactive Memory 
+System, Boundary-­Spanning Search and Business Model Innovation: 
+The Moderating Role of Environmental Dynamism.” Technovation 128: 
+102852. https://​doi.​org/​10.​1016/j.​techn​ovati​on.​2023.​102852.
+ 10990836, 2025, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/bse.4230 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

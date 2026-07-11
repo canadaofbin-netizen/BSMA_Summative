@@ -1,0 +1,218 @@
+ans that the con-
+vergent validity was good. Last, we compared the square 
+roots of AVE scores with the correlations among the con-
+structs to assess discriminant validity. The results in Table 2 
+Table 1.  Loadings, Cronbach’s α, CR, and AVE.
+Variables
+Loading
+Cronbach’s 
+α
+CR
+AVE
+Shared leadership
+0.72-0.86
+.92
+0.85
+0.60
+Team reflexivity
+0.71-0.82
+.73
+0.83
+0.55
+Team boundary spanning
+0.79-0.87
+.78
+0.76
+0.52
+New venture performance 0.75-0.86
+.88
+0.90
+0.68
+Note. CR = composite reliability; AVE = average variance extracted.
+Table 2.  Means, Standard Deviations, and Correlations Among 
+the Variables.
+Variables
+M
+SD
+1
+2
+3
+4
+1. Shared leadership
+3.70 0.52 (0.77)
+ 
+2. Team reflexivity
+3.90 0.43 0.23** (0.74)
+ 
+3. Team boundary 
+spanning
+3.58 0.45 0.24**
+0.32** (0.72)
+ 
+4. New venture 
+performance
+3.89 0.53 0.32**
+0.31** 0.39** (0.83)
+Note. All the correlations are at the individual level (N = 376). Values in 
+parentheses on the diagonal are the square roots of average variances 
+extracted.
+*p < .05. **p < .01.
+412	
+Journal of Leadership & Organizational Studies 27(4)
+demonstrated the correlations of each construct with the 
+other constructs were all smaller than its AVE score, thereby 
+confirming discriminant validity.
+Data Aggregation
+Given that our model was built at team level, we assessed 
+the viability of individual-level data aggregation. First, we 
+used the interrater reliability coefficient to evaluate within-
+group homogeneity (James et al., 1993). Rwg values (Shared 
+leadership = 0.98; Team reflexivity = 0.97; Team bound-
+ary spanning = 0.96; New venture performance = 0.97) 
+were greater than the criterion of 0.70. Second, we adopted 
+the intraclass correlation coefficient ICC(1) and reliability 
+of the mean ICC(2) to evaluate between-group heterogene-
+ity (Bliese, 2000). The scores of ICC(1) ranged from 0.20 to 
+0.28, surpassing the benchmark of 0.10. The scores of 
+ICC(2) ranged from 0.55 to 0.66, going beyond the criterion 
+of 0.50. Therefore, the aggregation of key variables was 
+justified.
+Hypotheses Testing
+To test Hypotheses 1 to 4, we employed hierarchical multiple 
+regression analysis. Hypotheses 1 to 3 identified a set of 
+effects related to mediation. We first followed Baron and 
+Kenny’s (1986) four steps to test a mediating effect: (a) shared 
+leadership is required significantly related to team reflexivity, 
+(b) shared leadership is required significantly related to new 
+venture performance, (c) team reflexivity is required signifi-
+cantly related to new venture performance, and (d) when the 
+reflexivity is present, the coefficient of shared leadership on 
+new venture performance decreases. The results in Table 3 
+showed that (a) shared leadership was positively related to 
+team reflexivity (β = .28, p < .01, Model 1), thereby support-
+ing Hypothesis 1; (b) shared leadership was positively related 
+to new venture performance (β = .32, p < .01, Model 5); (c) 
+team reflexivity was positively related to new venture perfor-
+mance (β = 0.36, p < .01, Model 6), which provided support 
+for Hypothesis 2; and (d) the coefficient of shared leadership 
+on new venture performance became weaker (β = .32, 
+p < .01, model 5 to β = .24, p < .05, model 7) when team 
+reflexivity was present. Hence, we provided initial support to 
+Hypothesis 3.
+Furthermore, we approached the bootstrapping technique 
+developed by Preacher and Hayes (2004) to examine the 
+indirect effect. The merit of the bootstrapping technique lies 
+in that it does not make postulation about the shape of the 
+distribution of variables. We found that the 95% confidence 
+interval for the indirect effect of shared leadership on new 
+venture performance through team reflexivity did not include 
+zero [0.02, 0.24]. Based on above evidences, Hypothesis 3 
+was supported.
+Hypothesis 4 supposed that team boundary spanning 
+moderates the relationship between shared leadership and 
+team reflexivity. Table 3 showed that the interactive effect of 
+shared leadership and team boundary spanning on team 
+reflexivity is significantly positive (β = .27, p < .01, Model 
+3). Moreover, we applied Aiken and West’s (1991) procedure 
+to plot such interactive influence. As illustrated in Figure 2, 
+shared leadership was not related to team reflexivity when 
+team boundary spanning was low (simple slope = 0.07, n.s.), 
+Table 3.  Results of Hierarchical Regression Analyses.
+Team reflexivity
+New venture performance
+ 
+Model 1
+Model 2
+Model 3
+Model 4
+Model 5
+Model 6
+Model 7
+Control variables
+  Team size
+0.02
+0.06
+0.10
+−0.12
+−0.09
+−0.12
+−0.10
+  Team tenure
+−0.11
+−0.01
+0.03
+−0.15
+−0.17
+−0.12
+−0.14
+  Industrial type
+0.02
+−0.06
+−0.10
+0.06
+0.09
+0.06
+0.08
+Independent variable
+  Shared leadership
+0.28**
+0.19*
+0.16
+0.32**
+0.24*
+Mediator
+  Team reflexivity
+0.36**
+0.29**
+Moderator
+  Team boundary spanning
+0.33**
+0.36**
+ 
+Interactive effect
+  Shared leadership × Team boundary spanning
+0.27**
+ 
+R2
+.13
+.22
+.29
+.03
+.16
+.20
+.31
+ΔR2
+.09
+.07
+.13
+.17
+.15
+F
+2.83*
+3.71**
+4.61**
+0.95
+3.42*
+4.22**
+4.74**
+Note. n = 94 entrepreneurial teams.
+*p < .05. **p < .01
+Chen et al.	
+413
+whereas significantly related to team reflexivity when team 
+boundary spanning was high (simple slope = 0.40, p < .01). 
+Accordingly, Hypothesis 4 was supported.
+Hypothesis 5 proposed the moderated mediation hypoth-
+esis. We followed the procedures outlined by Edwards and 
+Lambert (2007) to test the conditional indirect effects. Table 
+4 demonstrated the indirect effect was nonsignificant (β = 
+−.02, n.s.) when team boundary spanning was low, then 
+became significant (β = .20, p < .05) when team boundary 
+spanning was high. This result provided evidence for our 
+argument in Hypothesis 5 that shared leadership interacts 
+with team boundary spanning to impact team reflexivity, 
+which in turn, influences new venture performance.
+Discussion
+Given that shared leadership has come forth as the promis-
+ing leadership framework in the entrepreneurship literature 
+(Hensel & Visser, 2018; Zhou, 2016; Zhou & Rosin

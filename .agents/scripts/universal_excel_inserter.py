@@ -4,6 +4,12 @@ import os
 import sys
 from difflib import SequenceMatcher
 
+# Import the automated backup script
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+from backup_manager import backup_databases
+
 def fuzzy_match(anchor1, anchor2, threshold=0.8):
     if not anchor1 or not anchor2:
         return False
@@ -101,6 +107,9 @@ def route_and_insert_data(excel_path, payload):
         print("Routing to: Raw_Metrics sheet (Pure Zero-Order Data)")
         
     print("Insertion completed successfully (Simulated).")
+    
+    # TRIGGER AUTOMATED BACKUP (Zero-Agent Dependency)
+    backup_databases()
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Excel Inserter with Cartesian Pair Routing")

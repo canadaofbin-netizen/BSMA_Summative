@@ -1,0 +1,1526 @@
+Front-line managers as boundary spanners: effects of span and
+time on nurse supervision satisfaction
+RAQUEL M. MEYER R N , P h D 1, LINDA O’BRIEN-PALLAS R N , P h D , F C A H S 2, DIANE DORAN R N , P h D , F C A H S 3,
+DAVID STREINER P h D 4, MARY FERGUSON-PARE´ R N , P h D , C H E 5 and CHRISTINE DUFFIELD R N , P h D 6
+1Nursing Early Career Research Award Recipient, Ontario Ministry of Health and Long-Term Care and Assistant
+Professor (CLTA), Lawrence S. Bloomberg Faculty of Nursing, 2Professor, Lawrence S. Bloomberg Faculty of
+Nursing and CHSRF/CIHR Chair in Nursing Health Human Resources, 3Professor, Lawrence S. Bloomberg Faculty
+of Nursing & Scientiﬁc Director, Nursing Health Services Research Unit, University of Toronto, Toronto, 4Professor,
+Department of Psychiatry, University of Toronto, Toronto and Professor, Department of Psychiatry and Behavioural
+Neurosciences, McMaster University, Hamilton, 5Former Vice President, Professional Affairs and Chief Nurse
+Executive, University Health Network and Associate Professor, Lawrence S. Bloomberg Faculty of Nursing,
+University of Toronto, Toronto, Canada and 6Associate Dean (Research) and Director, Centre for Health Services
+Management and Deputy Director, WHO Collaborating Centre for Nursing, Midwifery and Health Development,
+Faculty of Nursing, Midwifery and Health, University of Technology, Sydney, Australia
+Correspondence
+Raquel M. Meyer
+130–155 College Street
+Lawrence Bloomberg Faculty
+of Nursing
+University of Toronto
+Toronto
+Ontario, Canada
+M5T 1P8
+E-mail: raquel.meyer@utoronto.ca
+MEYER R.M., O’BRIEN-PALLAS L., DORAN D., STREINER D., FERGUSON-PARE´ M. & DUFFIELD C.
+(2011) Journal of Nursing Management 19, 611–622
+Front-line managers as boundary spanners: effects of span and time on nurse
+supervision satisfaction
+Aim To examine the inﬂuence of nurse manager span (number of direct report
+staff), time in staff contact, transformational leadership practices and operational
+hours on nurse supervision satisfaction.
+Background Increasing role complexity has intensiﬁed the boundary spanning
+functions of managers. Because work demands and scope vary by management
+position, time in staff contact rather than span may better explain managers
+capacity to support staff.
+Methods A descriptive, correlational design was used to collect cross-sectional
+survey and prospective work log and administrative data from a convenience sample
+of 558 nurses in 51 clinical areas and 31 front-line nurse managers from four acute
+care hospitals in 2007–2008. Data were analysed using hierarchical linear
+modelling.
+Results Span, but not time in staff contact, interacted with leadership and opera-
+tional hours to explain supervision satisfaction.
+Conclusions With compressed operational hours, supervision satisfaction was lower
+with highly transformational leadership in combination with wider spans. With
+extended operational hours, supervision satisfaction was higher with highly trans-
+formational leadership, and this effect was more pronounced under wider spans.
+Implications for Nursing Management Operational hours, which inﬂuence the
+managers daily span (average number of direct report staff working per weekday),
+should be factored into the design of front-line management positions.
+Keywords: health services research, managers, nursing leadership, satisfaction, span of
+control, time studies
+Accepted for publication: 21 February 2011
+Journal of Nursing Management, 2011, 19, 611–622
+DOI: 10.1111/j.1365-2834.2011.01260.x
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd
+611
+Introduction
+Nursing management roles and structures have been
+frequently redesigned or eliminated in response to cost-
+reductions, decentralization, delegation of activities to
+advanced practice nursing roles and a new public
+management paradigm (Dufﬁeld 1991, Dufﬁeld &
+Franks 2001, Canadian Nursing Advisory Committee
+2002, Mahon & Young 2006). In many developed
+countries, the scope of the traditional unit-based head
+nurse role has expanded to include operations, ﬁnances
+and the supervision of multidisciplinary staff across
+multiple areas in programme management structures,
+with increased role complexity reported (McGillis Hall
+& Donner 1997, Mahon & Young 2006, Shirey et al.
+2008). Although integral to the retention of a satisﬁed
+and committed nursing staff (Hayes et al. 2006, Las-
+chinger et al. 2009), the capacity of front-line managers
+to lead, implement and evaluate system change among
+staff is inﬂuenced by the scope of their role. Role
+expansion as a result of reorganization is compounded
+by an ageing managerial workforce and by recruitment
+challenges (Laschinger et al. 2008, Shirey et al. 2008).
+These trends highlight the need for evidence to effec-
+tively redesign nursing management roles.
+Past research on managerial effectiveness has empha-
+sized managers personal attributes without necessarily
+considering the organizational context (Page et al. 2003).
+Span (i.e. the number of employees reporting directly to
+the manager) is an important structural variable that may
+inﬂuence staff and consumer outcomes. Wider spans
+have been negatively associated with new nurse retention
+(McCutcheon
+2004),
+nursing
+work
+environments
+(McGillis Hall et al. 2006), worker engagement (Cath-
+cart et al. 2004) and patient satisfaction (McCutcheon
+et al. 2009) in healthcare, as well as teamwork (Gittell
+2001) and performance (Bohte & Meier 2001) in the
+airline and education sectors. Positive associations
+between wider spans and hospital nurse turnover
+(McCutcheon 2004) and staff accidents and unsafe
+behaviours
+in
+manufacturing
+settings
+(Hechanova-
+Alampay & Beehr 2001) have been documented.
+However, when managerial leadership style and span
+are examined in combination, span has been observed
+to moderate the relationship between leadership and
+outcomes. McCutcheon et al. (2009) found that span
+moderated the relationship between managerial lead-
+ership and nurse job satisfaction and patient satisfac-
+tion; even highly transformational leaders could not
+overcome spans that were too wide to positively inﬂu-
+ence these outcomes. Similarly, the beneﬁcial inﬂuence
+of emotionally intelligent leadership by nurse managers
+on staff nurse empowerment was lessened under wider
+spans (Lucas et al. 2008). In contrast, strong leader–
+member exchange enhanced staff organizational com-
+mitment under wider spans in the banking industry
+(Schriesheim et al. 2000). The purpose of the present
+study was to examine the relationships among span,
+leadership and other covariates and nurse satisfaction
+with managers supervision.
+Theory
+The framework was based on Open System Theory and
+the boundary spanning functions of managers. A large-
+scale healthcare organization is a social structure that
+was conceptualized as an open system comprised of
+supportive, maintenance, adaptive, production and
+management
+subsystems
+(Meyer
+&
+OBrien-Pallas
+2010). The management subsystem resolves conﬂicts
+between hierarchical levels, coordinates substructures
+and balances external demands with internal resources
+and needs (Katz & Kahn 1978). Boundary spanning,
+which refers to movement and coordination across
+internal
+and
+external
+system
+boundaries,
+involves
+negotiating the inﬂow and outﬂow of energy between
+subsystems and with the external environment across
+semi-permeable boundaries (Gittell 2003). Boundary
+spanning is assigned to organizational roles (e.g. man-
+agers)
+and
+may
+include
+acquiring,
+ﬁltering
+and
+importing information from outside entities for distri-
+bution to internal users (Tushman & Scanlan 1981);
+regulating the ﬂow of inputs and negotiating for needed
+resources (Ancona & Caldwell 1992); and engaging in
+relationship
+management
+to
+buffer
+and
+inﬂuence
+external and internal unit relations (Ancona & Caldwell
+1992, Gittell 2003). Front-line managers are boundary
+spanners who typically coordinate and integrate inputs
+(e.g. information, materials and human resources),
+throughput
+processes
+and
+outputs
+across
+internal
+boundaries.
+Supervision generates boundary spanning work for
+managers across subsystem, functional, spatial and
+hierarchical boundaries. Nurses do not provide nursing
+care in isolation; nursing work is reliant on the ﬂow of
+inputs (e.g. patients and equipment), on other subsys-
+tems (e.g. admissions department and laboratories) and
+on other healthcare providers to accomplish interde-
+pendent goals. Managers coordinate across functional
+boundaries (e.g. professions and roles) and travel
+physically across spatial subsystem boundaries (e.g.
+departments and clinical areas) to engage in face-to-face
+communication, to integrate work processes and to
+directly supervise staff (Gittell 2003). Managers also
+R. M. Meyer et al.
+612
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+work across vertical boundaries in the organizational
+hierarchy to supervise performance (Ouchi & Dowling
+1974), to ensure accountability (Jaques 1990), to create
+channels of appeal (Weber 1978) and to enable staff
+access to resources and managerial support (Blau 1968,
+Kanter 1977). Effective boundary spanners foster high
+quality communication and relationships with and be-
+tween people through physical movement, interpersonal
+skills
+and
+conversations
+(Gittell
+2003).
+Boundary
+spanning is therefore inﬂuenced by the number of
+employees reporting to the manager (i.e. span). Time in
+staff contact, which enables the manager to engage,
+supervise and coach staff (Ouchi & Dowling 1974,
+Gittell 2003, Kramer et al. 2007), also quantiﬁes
+boundary spanning activity.
+By understanding the vocabulary, semantics, shared
+beliefs and context, boundary spanners can effectively
+meet the contrasting information needs and demands of
+external areas; prevent the distortion and bias of com-
+munication across boundaries; and link internal and
+external areas (Tushman & Scanlan 1981). Managerial
+leadership, communication and support have been
+associated with nurse well-being, work relations and
+satisfaction (e.g. Greco et al. 2006, Hall 2007, Cum-
+mings et al. 2010, Hayes et al. 2010). Boundary span-
+ners with work expertise better understand internal
+processes, demands and roles and are more often con-
+sulted by internal system users (Tushman & Scanlan
+1981). Managerial experience has been associated with
+more ﬂuid work styles, less overtime (Dunn & Schilder
+1993) and more effective coping (Shirey et al. 2010) by
+managers.
+Rationale, research objectives and study
+framework
+Comparisons of span within and across organizations
+can misrepresent managerial capacity to support staff
+because managers may not spend the same time in staff
+contact because work demands and scope vary by
+management position (Ouchi & Dowling 1974). The
+purpose of the present study was to examine the inﬂu-
+ence of (1) span, as a measure of formal reporting
+relationships and (2) time in staff contact, as a measure
+of the closeness of contact between the manager and
+staff, on nurse satisfaction with managers supervision.
+Building on previous research (Ouchi & Dowling 1974,
+Schriesheim et al. 2000, Gittell 2001, Doran et al.
+2004), the interactions among span, time in staff con-
+tact and leadership were examined. Operational hours
+were investigated because of variation in work demands
+(Morash et al. 2005) and time allocation. Thus the
+main effects of span, time in staff contact, leadership,
+operational hours and other manager covariates on
+nurse supervision satisfaction were examined. The
+interaction effects of span and time in staff contact with
+leadership and operational hours were tested. The ex-
+tent to which models with either span or time in staff
+contact explained variation in nurse supervision satis-
+faction was determined.
+The main and interaction effects examined are de-
+picted in Figure 1. The ﬁrst-order predictors reﬂected
+boundary spanner functions (i.e. span and time in staff
+contact) and characteristics (i.e. leadership) as well as
+operational
+hours.
+Manager
+covariates
+included
+boundary spanner characteristics (i.e. education and
+experience), span characteristics (i.e. administrative and
+clinical support roles) and control variables (i.e. man-
+agers position tenure and worked hours). Nurse age,
+day shift employment, education and registration were
+nurse control variables because of associations with job
+or supervision satisfaction (Blegen & Mueller 1987,
+Shields & Ward 2001, Ward 2002).
+Methods
+Design and data collection procedures
+A descriptive, correlational design was used to collect
+prospective survey, work log and human resource data
+(Table 1) between June 2007 and June 2008. The work
+log method was piloted. Cross-sectional survey data
+were collected for leadership practices, managerial job
+characteristics
+and
+nurse
+supervision
+satisfaction.
+Counts of direct reports, time in staff contact, and
+worked hours were collected longitudinally. Managers
+were surveyed about demographics (i.e. age, occupa-
+tion, education, experience and tenure) and job char-
+acteristics (i.e. number of areas, support roles and
+Nurse supervision 
+satisfaction
+Transformational
+leadership
+Time in staff
+contact
+Span
+Operational
+hours
+Figure 1
+Framework of first-order predictors and outcome.
+Span, time and supervision satisfaction
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+613
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+budget). Subsequently, managers self-reported time in
+staff contact and worked hours in work logs. Surveys of
+nurse supervision satisfaction included demographics
+(e.g. age, registration, education, employment status,
+tenure and day shift employment). Human resource
+departments provided span data. Ethical approval was
+received from the university and participating hospitals.
+For managers, written consent was obtained. For
+nurses, a waiver of written consent was obtained and
+consent was assumed on receipt of the completed
+survey.
+Sample
+Acute care hospitals in a large urban city in Ontario,
+Canada were selected through purposive sampling. Out
+of six hospitals invited to participate, four agreed.
+Three were academic teaching hospitals and one was a
+large academic-afﬁliated community hospital. A con-
+venience sample of managers assigned patient care
+units, clinics and/or services was recruited. The inclu-
+sion criteria was employment in a current front-line
+management position for at least 3 months with at least
+one direct patient care area. From across all sites, 35 out
+of 105 (33.3%) managers agreed to participate and of
+these, 31 (88.6%) completed the study. Most managers
+(96.8%) did not engage in direct patient care. Of a
+potential 1786 nurses, a convenience sample of 558
+nurses (31.2%) was recruited through meetings in 51
+clinical areas. The mean nurse response rate per man-
+ager was 33.6% (range: 10.8–57.7%). The inclusion
+criterion for nurses was employment in the current
+position for at least 3 months. The dataset was hierar-
+chical with nurses grouped under managers. These two
+levels of analysis are hereafter identiﬁed as level-1 for
+nurses (at the individual level) and level-2 for managers
+(at the group level). The ﬁnal sample numbered 31
+managers (level-2) and an average of 18 nurses (level-1)
+per manager. According to Scherbaum and Ferreters
+(2009) estimates for hierarchical level models examin-
+ing ﬁxed effects, the sample size was adequate to
+achieve a power of 0.80. To reduce common method
+effects produced by the same participant rating the
+predictor (i.e. leadership) and outcome (i.e. supervision
+satisfaction) variables, leadership inventories for each
+manager (mean = 3.8, range: 2–7) were completed by a
+separate sub-sample (n = 117) of nurses and directors
+recruited through meetings or email.
+Instrumentation
+A measure of transformational leadership was selected
+because of its positive associations with staff autonomy
+(Kouzes & Posner 2002) and nurse outcomes (e.g.
+Cummings et al. 2010). Transformational leadership
+emphasizes how visionary, charismatic and relation-
+ship-oriented behaviours generate positive affective
+responses by followers and foster outstanding accom-
+plishments (House & Aditya 1997). Transformational
+leadership was rated by nurses and directors familiar
+with the managers behaviour using the Leadership
+Practices Inventory (Other Version; Posner & Kouzes
+1988). Thirty items are rated on a 10-point scale
+(1 = almost never, 10 = almost always). Previous alpha
+reliabilities range from 0.81 to 0.92 (Posner & Kouzes
+1993) for the ﬁve subscales (six items per subscale)
+which consist of: challenging the process, inspiring
+shared vision, enabling others to act, modelling the way
+and encouraging the heart. In the present study,
+exploratory factor analysis using principal components
+methods indicated a single-factor solution explaining
+59.9% of the variance. A mean leadership score was
+Table 1
+Data collection overview
+Sequential
+time line
+Subject or source
+Managers
+Employees
+Human resource
+department
+Researcher
+1
+Pre-test of work logs
+Observation of managers
+Inter-observer agreement
+2
+Survey of demographics,
+profession, experience, tenure,
+areas assigned
+3
+Time study to work log staff
+contact
+Record of worked hours
+Supervision satisfaction
+(SWMSS)
+Leadership practices
+(LPI-other)
+Demographics
+Counts of direct reports
+Observation of managers
+Inter-observer agreement
+Hours of operation, non-direct
+reports
+LPI, Leadership Practices Inventory; SWMSS, Satisfaction with My Supervisor Scale.
+R. M. Meyer et al.
+614
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+calculated to represent an over-arching construct of
+transformational leadership (Carless 2001). Cronbachs
+alpha coefﬁcient of reliability was 0.98.
+Managers completed a survey of demographics and
+work characteristics. Education was the highest educa-
+tional qualiﬁcation held by the manager (dichotomized
+as graduate degree vs. other). Experience was years
+worked in front-line manager positions. Position tenure
+was years in current position and was a proxy for the
+length of the relationship between the manager and
+staff. Managers self-reported the total number of full-
+time equivalent support roles in their assigned area(s)
+that enacted administrative (e.g. secretary and sched-
+uling coordinator) or clinical (e.g. clinical nurse edu-
+cator and discharge planner) functions.
+Anonymised counts of direct reports by job title ex-
+tracted at three consecutive monthly time points from
+human resource departments were veriﬁed by manag-
+ers. Missing data (0.4%, n = 12) were obtained from
+managers. Span was calculated as the monthly average
+of the number of direct report employees (by head-
+count) assigned to the manager.
+Operational hours for each assigned area were ob-
+tained from managers. A measure of weekly operational
+hours weighted by the number of direct reports per
+assigned area was created at the manager level. Oper-
+ational hours were calculated per manager as the sum of
+the number of direct reports per area multiplied by the
+number of weekly operational hours per area divided by
+the total number of direct reports. The weighted value
+was then categorized as extended or compressed. Ex-
+tended operational hours consisted of mainly inpatient
+units running 24 hours per day, 7 days a week. Com-
+pressed operational hours collapsed all managers as-
+signed areas with purely compressed hours only (e.g.
+clinics) or a mix of compressed and extended areas (e.g.
+clinic and an inpatient unit).
+The work log method and time in staff contact met-
+rics were piloted by shadowing managers (n = 3). For
+inter-observer agreement, the ﬁrst author and managers
+rated the presence or absence of time in staff contact at
+half hourly intervals (n = 16). Cohens kappa coefﬁ-
+cient, a statistical measure of inter-rater agreement, was
+0.86. A time study quantiﬁed the time managers allo-
+cated to staff contact for a 1-month cycle. Managers
+completed work logs on 20 randomly assigned days
+stratiﬁed by weekday (i.e. four Mondays and four
+Tuesdays, etc.) over 10 weeks. On average, managers
+completed 18.7
+work
+log
+days.
+Prospective,
+self-
+reported work logs were completed by managers at half
+hourly intervals using automatic reminders via a pager.
+Inter-observer agreements by the ﬁrst author and each
+manager evaluated the presence or absence of time in
+staff contact at half hourly intervals (mean = 12.7).
+Cohens Kappa averaged 0.82. Time in staff contact was
+the average daily amount of time (in hours) spent by the
+manager interacting with direct and non-direct report
+staff, physicians and students working in the area(s)
+assigned to the manager. Contact included verbal,
+written and email communication and person-to-person
+interaction. Time in staff contact was calculated as the
+average hours in staff contact per weekday.
+Worked hours were the average number of hours
+worked by the manager per weekday. On average,
+managers recorded worked hours for 34 weekdays. The
+count included overtime hours, but excluded on-call
+hours and lunch breaks. Worked hours were calculated
+as the sum of the worked hours per weekday divided by
+the number of valid weekday entries.
+The Satisfaction with My Supervisor Scale (Scarpello
+& Vandenberg 1987) assessed nurses satisfaction with
+the managers technical, administrative and relational
+abilities with respect to supervision. Eighteen items
+were rated on a ﬁve-point Likert scale (1 = very dis-
+satisﬁed, 5 = very satisﬁed). Cronbachs alphas in other
+studies range from 0.88 to 0.96 (Scarpello & Vanden-
+berg 1987, Vandenberg & Scarpello 1992, Jones et al.
+1999). Cronbachs alpha was 0.97 in this sample.
+Staff surveys included demographics for age, day shift
+employment (i.e. regular employment on a day shift
+schedule as opposed to a rotating schedule), education
+(i.e. highest level of nursing education achieved by the
+nurse) and registration [i.e. registered nurse (RN) or
+registered practical nurse (RPN)].
+Data analyses
+Statistical analyses were conducted using Statistical
+Package for Social Scientists (SPSS Version 16 for Win-
+dows, Chicago, IL, USA). Descriptive statistics were
+performed for all variables and outliers were corrected.
+Variables in the two-level hierarchical linear models
+were grand-mean centred (Raudenbush & Bryk 2002).
+First, a one-way analysis of variance (ANOVA) assessed
+within and between group variance in the outcome to
+determine the intra-class correlation coefﬁcient; second,
+a random coefﬁcient regression model identiﬁed signif-
+icant level-1 nurse predictors; and third, intercepts-as-
+outcome regression models determined whether the
+outcome varied in relation to level-2 manager predictors
+for main and interaction effects among manager-level
+predictors. Covariates with t ratios <1 were excluded
+(Raudenbush & Bryk 2002). Testing of the three-way
+interaction involved a test of the main effects of the
+Span, time and supervision satisfaction
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+615
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+predictors on the outcomes, followed by a test of the
+products of each pair of predictors on the outcome (i.e.
+two-way interactions) and then the three-way interac-
+tion (Aiken & West 1991). Span and leadership, as
+continuous variables, were centred on the mean prior to
+forming cross-product terms to minimize collinearity,
+and operational hours, as a categorical variable, was
+dummy coded (Aiken & West 1991). Because two
+models were tested to evaluate span and time in staff
+contact, Bonferronis correction was applied.
+Results
+Descriptive results
+Compared with study nurses, managers were older,
+more experienced in nursing and more likely to hold
+a university degree (Table 2). Compared with other
+Ontario managers, study managers were only slightly
+younger (46 vs. 50 years) and more likely to hold a
+graduate degree (39 vs. 8%; Canadian Institute for
+Health Information 2008). Study staff nurses were
+slightly younger (42 vs. 45 years) and more likely to
+hold a degree (35 vs. 27%) when compared with other
+Ontario nurses (Canadian Institute for Health Infor-
+mation 2008).
+Descriptive statistics are shown in Table 3. The
+average span of 86.6 was slightly higher than other
+Ontario means of 77 (McCutcheon et al. 2009), 77.5
+(Lucas et al. 2008) and 70 (Laschinger et al. 2008).
+Spans
+ranged
+from
+29.0
+to
+174.3
+direct
+report
+employees, with one-third of managers responsible for
+90 or more staff. Daily time in staff contact averaged
+3.2 hours (range: 1.4–7.2 hours) which was slightly
+higher than the 2 hours daily by Swedish healthcare
+managers (Arman et al. 2009). On average, nurse
+managers are engaged in leadership practices usually or
+fairly often. On average, staff nurses rated their satis-
+faction with supervision above the midpoint of the scale
+range [mean = 3.82, standard deviation (SD) = 0.8]
+which was similar to other direct healthcare providers
+(Ward 2002), but somewhat higher than staff in infor-
+mation, government and private sectors (Keller &
+Dansereau 1995, Jones et al. 1999, Vandenberg &
+Nelson 1999).
+Test of the study framework: main and interaction
+effects
+Based on the variance components from the ANOVA, the
+intra-class correlation coefﬁcient indicated that 18% of
+thevarianceinnursesupervisionsatisfactionwasbetween
+managers. In the random coefﬁcient regression model for
+level-1 nurse predictors,onlynurseregistrationexplained
+signiﬁcant variation in the outcome [t(554.87) = )2.48,
+P = 0.013; Table 4] and was retained. Nurse age, day
+shift employment and education were excluded. Al-
+though RNs were less satisﬁed with their managers
+supervision than were RPNs, grand-mean centring con-
+trolledforthiseffect(i.e.theoutcomewasadjustedforthe
+level-1 variable; Hoffman & Gavin 1998).
+In the intercepts-as-outcome models for main effects
+of level-2 manager ﬁrst-order predictors, only leader-
+ship had a positive main effect on nurse supervision sat-
+isfaction [t(33.14) = 3.20, P = 0.003; Table 5]. Span,
+time in staff contact, operational hours, administrative
+and clinical support roles and manager experience,
+education, position tenure and worked hours did not
+exert main effects on the outcome. Overall, higher
+leadership scores were associated with higher supervi-
+sion satisfaction scores.
+In the intercepts-as-outcome models for interaction
+effects among level-2 manager ﬁrst-order predictors, the
+three-way interaction with leadership and operational
+Table 2
+Demographics of managers and
+nurses
+Managers (n = 31)
+Nurses (n = 558)
+%
+Mean
+Range
+%
+Mean
+Range
+RN
+100
+88
+Age
+46
+29–63
+42
+22–67
+Years experience in current position/unit
+3
+0.3–9
+8
+0.25–33
+Years experience in hospital
+17
+0.5–35
+11
+0.25–37
+Years experience in nursing
+24
+6–39
+16
+0.33–46
+Years experience in management
+7
+0.25–19
+–
+–
+RPN certificate/diploma
+–
+9
+RN hospital school
+–
+2
+RN diploma
+16
+54
+Undergraduate degree
+45
+33
+Graduate degree
+39
+2
+RPN, registered practical nurse; RN, registered nurse.
+R. M. Meyer et al.
+616
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+hours was statistically signiﬁcant for span [t(27.28) =
+2.39, P = 0.024; Table 6], but not for time in staff
+contact. The model with span explained 60.6% of the
+variation in nurse supervision satisfaction between
+managers.
+The two-dimensional view of the three-way interac-
+tion for compressed vs. extended operational hours is
+presented in Figure 2 using values one standard devia-
+tion from the mean for span and leadership. When
+managers were assigned compressed operational hours,
+nurse supervision satisfaction varied by span and lead-
+ership [t(27.28) = 2.39, P = 0.024; Table 6]. As de-
+picted in Figure 2a, under narrow spans (at 1 SD below
+mean, span = 45.7), nurse supervision satisfaction was
+higher (4.29) with more transformational leadership (at
+1 SD above mean, leadership = 8.6). Under wide spans
+(at 1 SD above mean, span = 134.5), nurse supervision
+satisfaction was lower (3.10) with more transforma-
+tional
+leadership
+(at
+1
+SD
+above
+mean,
+leader-
+ship = 8.6). In other words, in spite of high leadership
+scores,
+when
+managers
+were
+assigned compressed
+operational hours in combination with wide spans,
+nurse supervision satisfaction scores were lower.
+As illustrated in Figure 2b, when managers were as-
+signed extended operational hours, nurses were more
+satisﬁed (3.91 vs. 3.67) under more transformational
+leadership (at 1 SD above mean, leadership = 8.6) in
+combination with a wider span (at 1 SD above mean,
+span = 115.5).
+The
+relationship
+between
+extended
+operational hours, leadership, span and supervision sat-
+isfaction tended to be stronger for managers with more
+transformational leadership [t(29.68) = 3.00, P = 0.005;
+Table 6]. In other words, when managers were assigned
+extended operational hours, transformational leadership
+enhanced supervision satisfaction and this effect was
+more pronounced under wider spans.
+Discussion
+The present study results partially support the boundary
+spanner
+functions
+and
+characteristics theorized to
+Table 3
+Descriptive statistics of study
+variables
+First-order predictors
+%
+Mean
+SD
+Manager (Level-2)
+Span (headcount)
+86.6
+36.2
+Time in staff contact (hours per weekday)
+3.2
+1.4
+Transformational leadership (score range: 1–10)
+7.6
+1.0
+Operational hours
+Compressed
+38.7
+Extended
+61.3
+Covariates
+Manager (Level-2)
+Education (reference: graduate degree)
+38.7
+Experience (years)
+6.9
+5.5
+Position tenure (years)
+3.0
+2.4
+Administrative support roles* (full-time equivalents)
+0.9
+0.9
+Clinical support roles (full-time equivalents)
+3.4
+1.8
+Worked hours* (per weekday)
+8.9
+0.9
+Nurse (Level-1)
+Age
+42.4
+10.5
+Day shift employment (reference: not day shift)
+73.1
+Education level (reference: college diploma)
+53.9
+Registration (reference: Registered Nurse)
+87.8
+Outcome
+Nurse (Level-1)
+Nurse supervision satisfaction (score range: 1–5)
+3.8
+0.8
+*Outlier(s) identified by box plots and by z-scores >3 standard deviations from the mean (Norman &
+Streiner 2000) were reduced to the value of the nearest score plus one unit (Tabachnick & Fidell 1996).
+Table 4
+Results of fixed-coefficient regression model for main effects of
+level-1 nurse control variables for supervision satisfaction
+Parameter
+Estimate
+SE
+t
+Estimates of fixed effects
+Intercept
+3.82
+0.07
+53.15**
+Nurse age
+0.0003
+0.003
+0.09
+Nurse day shift
+0.04
+0.08
+0.51
+Nurse education
+0.03
+0.07
+0.47
+Nurse registration
+)0.28
+0.11
+)2.48*
+Estimates of covariance parameters
+Residual
+0.55
+0.03
+16.20**
+Intercept (subject variance)
+0.13
+0.04
+2.99**
+*P < 0.05; **P < 0.001; Wald Z-test (equivalent to t-test). SE,
+standard error.
+Span, time and supervision satisfaction
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+617
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+inﬂuence managerial capacity (Katz & Kahn 1978,
+Tushman & Scanlan 1981, Ancona & Caldwell 1992,
+Gittell 2003). That is, span and leadership were asso-
+ciated with nurse supervision satisfaction. The results
+indicate that time is another type of boundary spanned
+by managers. The capacity of managers to inﬂuence
+nurse supervision satisfaction varied relative to opera-
+tional hours.
+Table 5
+Results of intercepts-as-outcomes regression models for main effects of level-2 manager first-order variables for supervision satisfaction
+Parameter
+Model for span
+Model for time in staff contact
+Estimate
+SE
+t
+Estimate
+SE
+t
+Estimates of fixed effects
+Intercept
+3.80
+0.08
+47.50**
+3.80
+0.08
+46.91**
+Span
+)0.0008
+0.002
+)0.46
+NA
+NA
+NA
+Time in staff contact
+NA
+NA
+NA
+0.004
+0.05
+0.08
+Transformational leadership
+0.22
+0.07
+3.20**
+0.22
+0.07
+3.14**
+Operational hours
+0.04
+0.13
+0.30
+0.03
+0.13
+0.22
+Nurse registration
+)0.24
+0.11
+)2.22*
+)0.25
+0.11
+)2.28*
+Estimates of covariance parameters
+Residual
+0.55
+0.03
+16.23**
+0.55
+0.03
+16.23**
+Intercept (subject variance)
+0.09
+0.03
+2.82**
+0.09
+0.03
+2.83**
+*P < 0.05; **P < 0.01; Wald Z-test (equivalent to t-test). SE, standard error; NA, not applicable.
+Table 6
+Results of intercepts-as-outcomes regression models for three-way interaction effects between span, transformational leadership and opera-
+tional hours for supervision satisfaction
+Parameter
+Model for compressed operational
+hours
+Model for extended operational
+hours
+Estimate
+SE
+t
+Estimate
+SE
+t
+Estimates of fixed effects
+Intercept
+3.96
+0.09
+42.97**
+3.80
+0.07
+56.49**
+Span
+)0.004
+0.002
+)1.91
+0.002
+0.003
+0.86
+Transformational leadership
+)0.03
+0.13
+)0.24
+0.25
+0.08
+3.00**
+Operational hours
+)0.16
+0.11
+)1.43
+0.16
+0.11
+1.43
+Span · transformational leadership
+)0.009
+0.003
+)2.79**
+0.002
+0.003
+0.53
+Span · operational hours
+0.006
+0.003
+1.85
+)0.006
+0.003
+)1.85
+Transformational leadership · operational hours
+0.28
+0.15
+1.84
+)0.28
+0.15
+)1.84
+Span · transformational leadership · operational hours
+0.01
+0.005
+2.39*
+)0.01
+0.005
+)2.39*
+Nurse registration
+)0.24
+0.11
+)2.22*
+)0.24
+0.11
+)2.22*
+Estimates of covariance parameters
+Residual
+0.55
+0.03
+16.20**
+0.55
+0.03
+16.20**
+Intercept (subject variance)
+0.05
+0.02
+2.24*
+0.05
+0.02
+2.24*
+*P < 0.05; **P < 0.01; Wald Z-test (equivalent to t-test); P = 0.024 (below Bonferonnis correction value of 0.025 for two comparisons). SE,
+standard error.
+Compressed operational hours
+(a)
+(b)
+Extended operational hours
+4.29
+4.00
+3.10
+3.51
+1.00
+2.00
+3.00
+4.00
+5.00
+Low (1 SD below = 6.6)
+High (1 SD above = 8.6)
+Transformational leadership
+Supervision satisfaction
+Wide span (1 SD above = 134.5)
+Narrow span (1 SD below = 45.7)
+3.35
+3.91
+3.30
+3.67
+1.00
+2.00
+3.00
+4.00
+5.00
+Low (1 SD below = 6.7)
+High (1 SD above = 8.6)
+Transformational leadership
+Supervision satisfaction
+Wide span (1 SD above = 115.5)
+Narrow span (1 SD below = 53.2)
+Figure 2
+Plots of nurse supervision satisfaction on span and transformational leadership by operational hours.
+R. M. Meyer et al.
+618
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+As managerial work ﬂow observations revealed,
+managers coordinated and integrated work processes,
+resources, information and relationships within and
+among subsystem boundaries across time. For example,
+given an average 42-hours workweek, with compressed
+operational hours, a manager of a 50-hours weekday
+clinic covered 84% of the operational hours and the
+number of staff was high during the managers workday.
+That is, on any given weekday, the manager potentially
+interfaced with 100% of clinic staff (Figure 3a). Thus
+the managers daily span was nearly equivalent to the
+total span. In contrast, with extended operational hours,
+managers worked hours did not cover most of the staff
+hours. For example, given an average 42-hours work-
+week, a manager assigned extended operational hours
+typically covered only 25% of the operational hours, yet
+was responsible for work processes and staff around-
+the-clock
+(Figure 3b).
+Extended
+operational
+hours
+lower the number of direct report staff working during
+the managers workday. That is, on any given weekday,
+the manager only interfaced with approximately 7% (1/
+14) of unit staff (assuming 12-hours shifts). Thus the
+managers daily span was much lower than the total
+span. The study ﬁndings highlight that time, in the form
+of operational hours, is another boundary that manag-
+ers must manage to ensure organizational functioning.
+Because operational hours inﬂuence not only the hours
+covered by the manager, but also the daily span of the
+manager, operational hours are an important factor to
+consider for front-line management positions. This
+ﬁnding extends the boundary spanning literature with
+regard to temporal boundaries.
+The key ﬁnding for nurse supervision satisfaction was
+that the relationship between span and leadership var-
+ied by operational hours. When managers had highly
+transformational leadership styles and were assigned
+compressed operational hours in combination with
+wide spans, nurse supervision satisfaction was lower.
+This interaction makes sense because with compressed
+operational hours, the managers daily span is high. One
+interpretation is that with compressed operational
+hours, large numbers of staff may overwhelm the
+capacity of even highly transformational managers to
+positively inﬂuence supervision satisfaction. No com-
+parative studies examining these relationships were
+located.
+Alternatively, this interaction may indicate that some
+nurses were more satisﬁed with supervision when
+managers with compressed operational hours had less
+transformational leadership styles in combination with
+wide spans. Under wide spans, managers could have
+engaged in other types of behaviours (e.g. more task-
+focused leadership) to resolve work process and rela-
+tional issues that impeded nurses workﬂow, hence
+enhancing nurse supervision satisfaction. In the present
+study, managers assigned compressed operational hours
+often oversaw areas characterized by high volume
+throughput (e.g. clinic visits and procedures). Shorter
+and frequent work cycles intensify coordination de-
+mands between work roles and groups. Nurses may
+have been more satisﬁed with supervision when man-
+agers focused more on tasks or managed by exception,
+which could have, in turn, enhanced nurses workﬂow
+and productivity. The leadership instrument used in the
+present study was developed based on project leaders. A
+possible conjecture is that other leadership styles may
+be effective when managing high volume operations.
+Although person-focused leadership, including trans-
+formational leadership, has been frequently associated
+with higher staff satisfaction, equivocal or positive re-
+sults have also been observed in relation to task-focused
+leadership (Cummings et al. 2010). In the present study,
+task-focused behaviours may have been conducive to
+meeting nurses needs for supervision when managers
+with compressed operational hours managed wide
+spans in areas with high volume throughput.
+In contrast, with extended operational hours, nurses
+were more satisﬁed with supervision when managers
+were highly transformational, and this effect was even
+more
+pronounced
+under
+wider
+spans.
+Although
+Tue
+Wed
+Thu
+Fri
+Sat
+Mon
+Sun
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Days of the week
+Days of the week
+Operational hours (168 hours inpatient unit, 12 hour shifts)
+Manager’s worked hours (42-hours workweek)
+Operational hours (50 hours weekday clinic)
+Manager’s worked hours (42 hours workweek)
+Compressed operational hours
+Coverage ~ 84% of weekly hours
+Daily span ~ 100% staff per weekday
+(a)
+(b)
+Extended operational hours
+Coverage ~ 25% of weekly hours
+Daily span ~ 7% (1/14) staff per weekday
+Figure 3
+Manager hours relative to weekly operational hours.
+Span, time and supervision satisfaction
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+619
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+counterintuitive, this interaction illustrates the impor-
+tance of operational hours. With extended operational
+hours, narrow spans resulted in very low daily spans,
+whereas wide spans produced more moderate daily
+spans. In the present study, extended operational hours
+combined with wide spans may have enabled highly
+transformational managers to interface with more staff
+during weekdays (i.e. more moderate daily spans) to
+resolve issues. This is consistent with Blau (1968) who
+theorized that access to managerial support for resolu-
+tion of complex work problems is a central underlying
+mechanism of an effective reporting structure between
+managers and skilled professionals. The present study
+result is similar to Schriesheim et al.s (2000) observa-
+tion that stronger supervisory leadership was associated
+with higher staff organizational commitment under
+wider spans.
+However, the results are dissimilar to two studies
+which reported the negative moderating effect of wide
+spans on nurse job satisfaction (McCutcheon et al.
+2009) and empowerment (Lucas et al. 2008) in spite of
+strong person-focused leadership. A possible explana-
+tion for the contrary ﬁnding is that the outcomes of
+nurse job satisfaction and empowerment are broader
+concepts that reﬂect multi-faceted aspects of nurses
+work experiences. For example, workload, work-life
+balance and opportunities for professional development
+may not necessarily be amenable to intervention by the
+manager, but may be more sensitive to other factors
+(e.g. availability of organizational resources). In com-
+parison to job satisfaction and empowerment, nurse
+supervision satisfaction is a narrower concept focused
+on the direct-report relationship.
+The present study results suggest that trade-offs may
+exist in the staff outcomes associated with wide vs.
+narrow spans. That is, outcomes such as supervisor or
+organizational commitment and organizational citizen-
+ship behaviours could be theorized to improve under
+wide spans in combination with extended operational
+hours. Replication of the study design is warranted.
+Future studies should consider the temporal boundaries
+(i.e. operational hours) assigned to managers as well as
+outcomes sensitive to managerial coverage and to daily
+spans.
+Although managers require time to interact, to build
+relationships and to coach staff (Ouchi & Dowling
+1974, Gittell 2003, Kramer et al. 2007), time in staff
+contact did not predict nurse satisfaction with man-
+agers supervision. However, time in staff contact may
+interact with span and this was not tested; a four-way
+interaction that includes span, or a sample with equiv-
+alent operational hours, may clarify these relationships.
+Alternatively, Arman et al. (2009) noted that managers
+may spend time with the same, instead of varied,
+employees. Future studies of time in staff contact may
+beneﬁt from more detailed measurement of social rela-
+tionships (e.g. social network analysis).
+Limitations
+The cross-sectional study design limits claims between
+cause and effect. Although managers were less tenured,
+less experienced and more likely to hold graduate de-
+grees than their counterparts in previous Canadian
+studies (Laschinger et al. 2008, Lucas et al. 2008,
+McCutcheon et al. 2009), these covariates did not
+explain variation in nurse supervision satisfaction. The
+potential response bias of self-report measures from a
+convenience sample must be considered. Common
+method bias was reduced by collecting data using dif-
+ferent raters, sources and media.
+Although
+statistically
+signiﬁcant,
+the
+three-way
+interaction ought to be interpreted cautiously and
+warrants further investigation. The present ﬁnding
+may have occurred by chance; however, Bonferronis
+correction was applied and the power to detect dif-
+ferences is lessened with higher order terms in inter-
+actions (Aiken & West 1991). The analysis accounted
+for clustering effects of staff under managers. Unit-
+level variation was not considered because one-third of
+managers had only one unit, and too few hospitals
+participated to consider the inﬂuence of hospital-level
+variables.
+Implications for nursing management
+In the present study, transformational leadership posi-
+tively inﬂuenced nurse supervision satisfaction. Given
+that transformational leadership practices can be learned
+(Kouzes & Posner 2002), managers and organizations
+are encouraged to continue to invest in professional
+development opportunities to enhance leadership skills.
+This strategy maximizes existing managerial resources
+without increasing the number of managers. However,
+neither leadership, nor span, can be considered in isola-
+tion. Operational hours also need to be factored into
+front-line management job descriptions. In the present
+study, when managers were highly transformational
+leaders, moderate daily spans for nurse supervision sat-
+isfaction were enabled by narrow spans with compressed
+operational hours and by wide spans with extended
+operational hours.
+Co-manager models, which have been recommended
+to improve manager outcomes and staff retention
+R. M. Meyer et al.
+620
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+(Carroll et al. 2004, Shirey et al. 2008, 2010), could be
+considered when compressed operational hours are
+combined with very wide spans. This strategy creates
+slack in the system by importing additional managerial
+resources. The trade-offs of co-manager models are
+likely to include dual reporting relationships, new
+coordination
+demands
+between
+co-managers
+(e.g.
+communication and consistency) and added managerial
+salary costs. However, additional cost savings related to
+supervision satisfaction and other process improve-
+ments may arise.
+Alternatively, to optimize managerial coverage and
+daily span, managers who bridge shifts during their
+workday or who also work evening, night and weekend
+shifts are likely to cover more operational hours and
+interface with more staff. These strategies maximize
+existing managerial resources. However, co-manager
+models would likely better support shift rotations by
+managers.
+Conclusion
+As
+healthcare
+organizations
+contend
+with
+stafﬁng
+shortages, front-line managers are critical to the reten-
+tion and supervision of human resources. The span and
+operational hours assigned to managers affect their
+capacity to inﬂuence nurse supervision satisfaction.
+Although outcomes may improve under narrower (or
+wider) spans, the interactive effects of span, leadership,
+operational hours and other covariates merit consider-
+ation. Additional research is needed to explicate the
+conditions under which managers inﬂuence organiza-
+tional, staff and healthcare consumer outcomes.
+Acknowledgements
+This work was supported by doctoral fellowships from the
+Canadian Institutes of Health Research (No. 70487) and
+the Nursing Health Services Research Unit (University of
+Toronto).
+References
+Aiken L.S. & West S.G. (1991) Multiple Regression: Testing and
+Interpreting Interactions. Sage Publications, Newbury Park, CA.
+Ancona D.G. & Caldwell D.F. (1992) Bridging the boundary:
+external activity and performance in organizational teams.
+Administrative Science Quarterly 37, 634–665.
+Arman R., Dellve L., Wikstro¨m E. & To¨rnstro¨m L. (2009) What
+health care managers do: applying Mintzbergs structured
+observation method. Journal of Nursing Management 17,
+718–729.
+Blau P.M. (1968) The hierarchy of authority in organizations.
+American Journal of Sociology 73, 453–467.
+Blegen M.A. & Mueller C.W. (1987) Nurses job satisfaction:
+a longitudinal analysis. Research in Nursing and Health
+10, 227–237.
+Bohte J. & Meier K.J. (2001) Structure and the performance of
+public organizations: task difficulty and span of control. Public
+Organization Review 1, 341–354.
+Canadian Institute for Health Information (2008) Regulated
+nursing workforce by position and province/territory of regis-
+tration, 2007. [WWW document]. URL Available at: http://
+secure.cihi.ca/cihiweb/dispPage.jsp?cw_page=statistics_nursing_
+2007_e#k.
+Canadian Nursing Advisory Committee (2002) Our Health, Our
+Future: Creating Quality Workplaces for Canadian Nurses.
+Advisory Committee on Health Human Resources Ottawa,
+Ontario, Canada.
+Carless S.A. (2001) Assessing the discriminant validity of the
+Leadership Practices Inventory. Journal of Occupational and
+Organizational Psychology 74, 233–239.
+Carroll C.A., Lacey S.R. & Cox K.S. (2004) Comparing varia-
+tions in labor costs for two vs. one full–time nurse manager.
+Nursing Economics 22, 254–257.
+Cathcart D., Jeska S., Karnas J., Miller S.E., Pechacek J. &
+Rheault L. (2004) Span of control matters. Journal of Nursing
+Administration 34, 395–399.
+Cummings G.G., MacGregor T., Davey M. et al. (2010) Lead-
+ership styles and outcome patterns for the nursing workforce
+and work environment: a systematic review. International
+Journal of Nursing Studies 47, 363–385.
+Doran D., McCutcheon A.S., Evans M.G. et al. (2004) Impact of
+the Managers Span of Control on Leadership and Perfor-
+mance.
+Canadian
+Health
+Services
+Research
+Foundation,
+Ottawa, ON.
+Duffield C. (1991) First-line nurse managers: issues in the litera-
+ture. Journal of Advanced Nursing 16, 1247–1253.
+Duffield C. & Franks H. (2001) The role and preparation of first-
+line nurse managers in Australia: where are we going and how
+do we get there? Journal of Nursing Management 9, 87–91.
+Dunn K. & Schilder E. (1993) Novice and expert head nurses: a
+comparative study of work activities and behaviours. Canadian
+Journal of Nursing Administration 6, 10–15.
+Gittell J.H. (2001) Supervisory span, relational coordination and
+flight departure performance: a reassessment of postbureau-
+cracy theory. Organization Science 12, 468–483.
+Gittell J.H. (2003) A theory of relational coordination. In Positive
+Organizational Scholarship: Foundations of a New Discipline
+(K.S. Cameron, J.E. Dutton & R.E. Quinn eds), pp. 279–435.
+Berrett-Koehler Publishing, San Francisco, CA.
+Greco P., Laschinger H.K.S & Wong C. (2006) Leader empow-
+ering behaviours, staff nurse empowerment and work engage-
+ment/burnout. Canadian Journal of Nursing Leadership 19,
+41–56.
+Hall D.S. (2007) The relationship between supervisor support and
+Registered Nurse outcomes in nursing care units. Nursing
+Administration Quarterly 31, 68–80.
+Hayes L.J., OBrien-Pallas L., Dufﬁeld C. et al. (2006) Nurse
+turnover: a literature review. International Journal of Nursing
+Studies 43, 237–263.
+Hayes B., Bonner A. & Pryor J. (2010) Factors contributing to
+nurse job satisfaction in the acute hospital setting: a review
+of recent literature. Journal of Nursing Management 18,
+804–814.
+Span, time and supervision satisfaction
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+621
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hechanova-Alampay R. & Beehr T.A. (2001) Empowerment,
+span of control, and safety performance in work teams after
+workforce reduction. Journal of Occupational Health Psy-
+chology 6, 275–282.
+Hoffman D.A. & Gavin M.B. (1998) Centering decisions in
+hierarchical linear models: implications for research in organi-
+zations. Journal of Management 24, 623–641.
+House R.J. & Aditya R.N. (1997) The social scientific study of
+leadership: quo vadis? Journal of Management 23, 409–473.
+Jaques E. (1990) In praise of hierarchy. Harvard Business Review
+68, 127–133.
+Jones F.F., Scarpello V. & Bergmann T. (1999) Pay procedures –
+what makes them fair? Journal of Occupational and Organi-
+zational Psychology 72, 129–145.
+Kanter R.M. (1977) Men and Women of the Corporation. Basic
+Books, New York, NY.
+Katz D. & Kahn R.L. (1978) The Social Psychology of Organi-
+zations. John Wiley & Sons, New York, NY.
+Keller T. & Dansereau F. (1995) Leadership and empowerment: a
+social exchange perspective. Human Relations 48, 127–146.
+Kouzes J.M. & Posner B.Z. (2002) The Leadership Challenge,
+3rd edn. Jossey-Bass, San Francisco, CA.
+Kramer M., Maguire P., Schmalenberg C. et al. (2007) Nurse
+manager support: what is it? Structures and practices that
+promote it. Nursing Administration Quarterly 31, 325–340.
+Laschinger H.K.S., Wong C., Ritchie J. et al. (2008) A profile of
+the structure and impact of nursing management in Canadian
+hospitals. Healthcare Quarterly 11, 85–94.
+Laschinger H.K.S., Finegan J. & Wilk P. (2009) Context matters:
+the impact of unit leadership and empowerment on nurses
+organizational commitment. Journal of Nursing Administra-
+tion 39, 228–235.
+Lucas V., Laschinger H.K.S. & Wong C. (2008) The impact of
+emotional intelligent leadership on staff nurse empowerment:
+the moderating effect of span of control. Journal of Nursing
+Management 16, 964–973.
+Mahon A. & Young R. (2006) Health care managers as a critical
+component of the health care workforce. In Human Resources
+for Health in Europe (C. Dubois, M. McKee & E. Nolte eds),
+pp. 116–139. Open University Press, Berkshire.
+McCutcheon A.S. (2004) Relationships between leadership style,
+span of control and outcomes. Unpublished doctoral thesis,
+Graduate
+Department
+of
+Nursing
+Science,
+University
+of
+Toronto, Toronto, ON.
+McCutcheon A.S., Doran D., Evans M., McGillis Hall L. &
+Pringle D. (2009) Effects of leadership and span of control on
+nurses job satisfaction and patient satisfaction. Canadian
+Journal of Nursing Leadership 22, 48–67.
+McGillis Hall L. & Donner G.J. (1997) The changing role of
+hospital nurse managers: a literature review. Canadian Journal
+of Nursing Administration 10, 14–39.
+McGillis Hall L., Doran D., OBrien-Pallas L. et al. (2006)
+Quality Worklife Indicators for Nursing Practice Environments
+in Ontario: Determining the Feasibility of Collecting Indicator
+Data. University of Toronto, Toronto, ON.
+Meyer R.M. & OBrien-Pallas L.L. (2010) Nursing Services
+Delivery Theory: an open system approach. Journal of Ad-
+vanced Nursing 66, 2828–2838.
+Morash R., Brintnell J. & Rodger G.L. (2005) A span of control
+tool for clinical managers. Canadian Journal of Nursing
+Leadership 18, 83–93.
+Norman G.R. & Streiner D.L. (2000) Biostatistics: The Bare
+Essentials, 2nd edn. B.C. Decker Inc., Hamilton, Ontario,
+Canada.
+Ouchi W.G. & Dowling J.B. (1974) Defining the span of control.
+Administrative Science Quarterly 19, 357–365.
+Page C., Wilson M., Meyer D. & Inkson K. (2003) ‘‘Its the
+situation Im in’’: the importance of managerial context
+to effectiveness. Journal of Management Development 22,
+841–862.
+Posner B.Z. & Kouzes J.M. (1988) Development and validation
+of the Leadership Practices Inventory. Educational and Psy-
+chological Measurement 48, 483–496.
+Posner B.Z. & Kouzes J.M. (1993) Psychometric properties of the
+Leadership Practices Inventory – updated. Educational and
+Psychological Measurement 53, 191–199.
+Raudenbush S.W. & Bryk A.S. (2002) Hierarchical Linear
+Models: Applications and Data Analysis Methods. Sage Publi-
+cations, Thousand Oaks, CA.
+Scarpello V. & Vandenberg R.J. (1987) The satisfaction with my
+supervisor scale: its utility for research and practical applica-
+tions. Journal of Management 13, 447–466.
+Scherbaum C.A. & Ferreter J.M. (2009) Estimating statistical
+power and required sample sizes for organizational research
+using multilevel modeling. Organizational Research Methods
+12, 347–367.
+Schriesheim C.A., Castro S.L. & Yammarino F.J. (2000) Inves-
+tigating contingencies: an examination of the impact of span of
+supervision and upward controllingness on leader-member ex-
+change using traditional and multivariate within- and between-
+entities analysis. Journal of Applied Psychology 85, 659–677.
+Shields M.A. & Ward M. (2001) Improving nurse retention in the
+National Health Service in England: the impact of job satis-
+faction on intentions to quit. Journal of Health Economics 20,
+677–701.
+Shirey M.R., Ebright P.R. & McDaniel A.M. (2008) Sleepless in
+America: nurse managers cope with stress and complexity.
+Journal of Nursing Administration 38, 125–131.
+Shirey M.R., McDaniel A.M., Ebright P.R., Fisher M.L. &
+Doebbeling B.N. (2010) Understanding nurse manager stress
+and work complexity: factors that make a difference. Journal of
+Nursing Administration 40, 82–91.
+Tabachnick B.G. & Fidell L.S. (1996) Using Multivariate Statistics,
+3rd edn. Harper Collins College Publishers, New York, NY.
+Tushman M.L. & Scanlan T.J. (1981) Boundary spanning indi-
+viduals: their role in information transfer and their antecedents.
+Academy of Management Journal 24, 289–305.
+Vandenberg R.J. & Nelson J.B. (1999) Disaggregating the mo-
+tives underlying turnover intentions: when do intentions predict
+behavior? Human Relations 52, 1313–1336.
+Vandenberg R.J. & Scarpello V. (1992) Multitrait-multimethod
+validation of the satisfaction with my supervisor scale. Educa-
+tional and Psychological Measurement 52, 203–212.
+Ward L.W. (2002) A Survey and Description of Direct Care Pro-
+viders Satisfaction with their Supervisors: A Look at Race,
+Education, Gender, and Age Characteristics of Direct Care Pro-
+viders. Unpublished doctoral thesis. Sargent College of Health
+and Rehabilitation Sciences, Boston University, Boston, MA.
+Weber
+M.
+(1978)
+Economy
+and
+Society:
+An
+Outline
+of
+Interpretive Sociology (E. Fischoff, H. Gerth, A.M. Henderson
+et al. Trans. Vol. 2). University of California Press, Berkely,
+CA.
+R. M. Meyer et al.
+622
+ª 2011 The Authors. Journal compilation ª 2011 Blackwell Publishing Ltd, Journal of Nursing Management, 19, 611–622
+ 13652834, 2011, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2834.2011.01260.x by Kyubin Yun - University College London UCL Library Services , Wiley Online Library on [30/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

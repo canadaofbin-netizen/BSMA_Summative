@@ -1,63 +1,55 @@
 <details>
-<summary><h2>Excel Data Entry Formatting Rules</h2></summary>
+<summary><h2>Excel Data Entry Formatting Rules (Cartesian Pair Architecture)</h2></summary>
 
-When executing Step 2 of the workflow (Writing to the `BSMA_Master_Coding_Sheet.xlsx`), you must strictly adhere to the following formatting and sequencing rules for the first 4 columns and row spacing.
-
-> [!IMPORTANT]  
-> **1. Blank Row Separation Rule**  
-> When appending a new paper to the Excel sheet, you MUST leave exactly **one completely blank row** between the last data row of the previous paper and the first data row of the new paper. For example, if Paper A ends on row 6, Paper B must begin on row 8. 
+When the Python Backend (`universal_excel_inserter.py`) writes to the Excel sheet, it strictly adheres to the 23-column Cartesian Mapping Schema. The LLM does NOT format the Excel sheet directly; it merely provides the raw JSON parameters.
 
 > [!IMPORTANT]  
-> **2. Identifier Patterns (Cols 1-4)**  
-> - **Col 1 (Coder Initials):** Always hardcode `KY` for every extracted row.
-> - **Col 2 (Article ID):** Must follow a strict chronological sequence based on the Excel sheet history (e.g., `BSMA0001` -> `BSMA0002` -> `BSMA0003`). Completely ignore the numbering in the PDF filename.
-> - **Col 3 (Sample ID):** Must append the sample number to the Article ID. Format: `[Article ID].[Sample Number]`. Example: `BSMA0002.1`.
-> - **Col 4 (Effect Size ID):** Must append a chronological extraction number to the Sample ID. Format: `[Sample ID].[Effect Number]`. Example: `BSMA0002.1.1`, `BSMA0002.1.2`, `BSMA0002.1.3`.
-> - **Col 5 (Inclusion-Exclusion Judgment):** For papers being actively extracted, hardcode as `1 = Include`. For papers that fail Triage (non-empirical, non-individual-level), set to `0 = Exclude` and log the exclusion reason in Col 6.
-> - **Col 12 (Publication Type), Col 17 (Study Design), Col 21 (International Context) & Col 26 (Occupation Type):** Categorical variables MUST NOT be left blank. You must write out the full text label alongside the index number (e.g., `1 = Journal article`, `1 = No (domestic only)`). For **Col 26**, write a descriptive text of the occupation (e.g., `employees from IT companies` or `public sector managers`). Do not leave it blank.
-> - **Measure Descriptors (Min Score, Max Score, Report Type, Specific Measure):** These columns MUST NOT be left blank.
->   - **Report Type Strict Classification:** `1 = Self`, `2 = Supervisor` (leaders, formal supervisors), `3 = Others` (coworkers, peers, external stakeholders). Do NOT use `3` as a catch-all.
->   - **Specific Measure Used:** You MUST copy and paste the relevant description sentence EXACTLY as it appears in the paper (e.g., "Four items were used from Williams and Anderson's (1991) original scale..."). Do not merely summarize or list citations.
->   - If demographic information is truly unavailable or inapplicable, hardcode them as `999`.
+> **1. The 4-Sheet Physical Isolation Rule**  
+> Data pairs are not dumped into a single master sheet. They are physically routed based on methodology flags:
+> - **Raw_Metrics:** Pure zero-order data.
+> - **Transformed_Metrics:** Any data pair where `is_transformed = true` (e.g., Log/Z-score applied).
+> - **Imputed_Metrics:** Any data pair where `is_imputed = true` (e.g., FIML used).
+> - **Salami_Review_Queue:** Any data pair where `is_salami_suspect = true`.
 
-## Demographic Extraction Rules
-
-> [!TIP]
-> ### Aesthetic Rules
-> 1. **Empty Row Between Papers:** To maintain human readability in the Master Excel Sheet, you MUST ensure there is exactly one empty row separating the data rows of different Article IDs.
-> 2. **Missing Demographics (The 999 Exception):** Do NOT guess values. If a demographic variable (Age, Gender, Tenure) does not explicitly list its scale properties (Items, Min, Max), you MUST output `999` for those fields. Do NOT waste time searching or guessing.
->
-> **Simplified Measure Descriptors (999)**
-> For any demographic or objective variable (e.g., Age, Gender, Education, Tenure, Firm Size, Firm Age), you MUST hardcode the following three Measure Descriptors as `999`:
-> - Number of Items
-> - Minimum Possible Score
-> - Maximum Possible Score
-> This saves time as these objective variables do not possess true psychometric scale properties.
+> [!IMPORTANT]  
+> **2. The 23-Column Schema (Cartesian Pair)**  
+> Each row represents a mathematically generated Pair ($BS \times NB$) and consists of exactly 23 columns:
+> 
+> **[Meta Flags (4 Columns)]**
+> - Col 1: `is_longitudinal`
+> - Col 2: `is_transformed`
+> - Col 3: `is_imputed`
+> - Col 4: `is_salami_suspect`
+> 
+> **[Boundary Spanning (BS) Attributes (9 Columns)]**
+> - Col 5: Items
+> - Col 6: Min
+> - Col 7: Max
+> - Col 8: Report Type
+> - Col 9: Specific Measure (Verbatim Quote)
+> - Col 10: Anchor Name
+> - Col 11: Mean
+> - Col 12: SD
+> - Col 13: Reliability (Alpha/Omega)
+> 
+> **[Non-Boundary (NB) Attributes (9 Columns)]**
+> - Col 14: Items
+> - Col 15: Min
+> - Col 16: Max
+> - Col 17: Report Type
+> - Col 18: Specific Measure (Verbatim Quote)
+> - Col 19: Anchor Name
+> - Col 20: Mean
+> - Col 21: SD
+> - Col 22: Reliability (Alpha/Omega)
+> 
+> **[Effect Size (1 Column)]**
+> - Col 23: Correlation (r)
 
 > [!WARNING]
-> **Strict Tenure Rules (No Conversions)**
-> - **No Unit Conversion:** Never attempt to convert tenure values from months to years (e.g., dividing by 12). Extract and enter the exact numerical value reported in the paper.
-> - **Log the Unit:** You MUST explicitly note the unit of measurement in **Col 16 (Notes)** (e.g., "Organizational tenure reported in months" or "Organizational tenure reported in years").
-> - **Org vs. Team Tenure:** Organizational tenure and team/role tenure are distinct concepts. Ensure you are extracting *Organizational Tenure* for `Col 25 (Org Tenure)`. If the paper only reports Team Tenure, do not forcefully map it into `Col 25`. Leave Col 25 blank or mark it as `999` and treat Team Tenure as a separate correlate if necessary.
-
-## Study Design Rules
-
-> [!TIP]
-> **Longitudinal / Time-Lagged Criteria**
-> When determining `Col 17 (Study Design)` as longitudinal/time-lagged, the only thing that matters is whether there is a time gap between the measurement of boundary spanning and the measurement of the other focal variable (antecedent or outcome) it is paired with. It does **NOT** matter if boundary spanning itself was measured repeatedly over time. Focus exclusively on the measurement time gap between the two paired variables.
-
-## Exclusion Notes Rules (Col 16)
-
-> [!IMPORTANT]
-> **Verbatim Quote Injection Protocol (Zero Hallucination)**
-> Whenever a paper is judged as `0 = Exclude` in Col 5, you MUST record a character-for-character verbatim quote from the PDF text in **Col 16 (Notes)** proving the exclusion rationale. Do not rely solely on subjective AI summaries.
->
-> **Standard Format:** `[Reason summary]. Verbatim Evidence: "<exact quote from PDF>" (<section name>)`
->
-> **Examples by Exclusion Code:**
-> - **Code 3 (Macro/Firm):** `Macro/Firm-level study. Verbatim Evidence: "We tested our hypotheses using a panel dataset of 450 inter-firm strategic alliances and patent citations..." (Methodology)`
-> - **Code 3 (Team Aggregation):** `Team-level aggregation. Verbatim Evidence: "Individual responses were aggregated using rwg and ICC(1) to represent the 82 NPD teams (N = 82 teams)." (Analysis)`
-> - **Code 4 (Qualitative/Conceptual):** `Qualitative study. Verbatim Evidence: "The study employs a collaborative analytical autoethnography where, through memo-writings and reflective notes..." (Abstract)`
-> - **Code 2 (Non-employee Sample):** `Non-employee sample. Verbatim Evidence: "A total of 312 undergraduate business students participated in our simulation." (Sample)`
+> **Strict Pruning Rules (Zero Guesswork & Cost Saving)**
+> 1. **Demographics Dropped:** Age, Gender, Tenure, Education, and Firm Size are completely DROPPED from the extraction pipeline. Do NOT extract them. Do NOT use the old `999` placeholder rule for demographics. Simply ignore them to save LLM tokens.
+> 2. **Formative/Objective Exception:** If an objective variable happens to remain, its reliability type MUST be set to `Not_Applicable` and its value to `999`. Do not hallucinate Alpha scores.
+> 3. **Missing Numeric Values:** If any valid variable is missing a statistic (e.g., SD is omitted), the LLM must strictly output the integer `999`.
 
 </details>

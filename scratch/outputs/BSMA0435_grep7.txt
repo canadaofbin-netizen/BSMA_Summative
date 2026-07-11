@@ -1,0 +1,54 @@
+﻿
+  
+  According to the manual, the coding process involves:
+> 1. **Article Descriptors**: Recording basic inclusion/exclusion judgments and publication details.
+  2. **Study/Sample Descriptors**: Extracting demographic details (age, gender, tenure, occupation) and study design 
+characteristics (cross-sectional vs. longitudinal).
+  3. **Measure Descriptors**: Noting specific details of the boundary spanning measures used (number of items, min/max 
+scores, report types like self-rated vs. other-rated).
+  4. **Effect Sizes**: Recording the mean, standard deviation, reliability estimates (Cronbach's alpha), and the 
+uncorrected Pearson product-moment correlation ($r$) between boundary spanning and other variables.
+> 5. **Zero Hallucination via Verbatim Quotation**: All exclusion decisions in Col 16 (Notes) must be backed by 
+unmodified, verbatim text quotes (`Verbatim Evidence: "..."`) extracted directly from primary study PDFs.
+  
+  </details>
+  - **3 = Others:** Someone else filled out the survey (e.g., a subordinate rating the leader's boundary-spanning 
+behavior, or a subordinate rating their *own* self-efficacy).
+  
+> ### Step 3: The Focal-Entity Filter (Strict Variable Exclusion)
+  - **Rule:** We are interested in the boundary spanning of the focal employee and variables that pertain to that same 
+focal employee. It does not matter *who* measured the variable (self, supervisor, or peer); what matters is *whether 
+the variable is about the focal employee*.
+> - **Action:** You MUST **exclude entirely** any variables from the correlation matrix that are fundamentally about 
+another person (e.g., coworker age, subordinate demographics, or coworker-level outcomes). For example, if the focal 
+employee is a Leader, skip correlations involving the Subordinate's performance or voice behavior. Code ONLY the 
+correlations between the focal employee's boundary spanning and variables that describe that same focal employee.
+  
+  </details>
+  
+  **Step 0: Pre-Triage â€” Read Casebook**
+> - **Objective:** Before making any inclusion/exclusion decision, the agent MUST read 
+`.agents/skills/batch_processor/triage_casebook.md` in full. Apply established precedents to the current paper. Note: 
+Inclusion/Exclusion and Bibliometrics (Title, Author, N) are now handled manually prior to the extraction pipeline. 
+The AI focuses purely on empirical variable pairs.
+  
+  **Step 1: 4-Node Parallel Extraction (Delayed Classification)**
+  </details>
+  <details>
+> <summary><h2>Exclusion Rule: Non-Individual Anchors</h2></summary>
+  
+> According to the master Inclusion-Exclusion criteria, the boundary spanning behavior must be measured at the 
+**Individual-level**. ONLY Individual-level passes. Any study where the boundary-spanning entity is NOT an individual 
+person (e.g., a team, unit, department, organization, or firm) MUST be excluded.
+  
+  > [!CAUTION]
+  > **NOTE:** The focal boundary spanner CAN be a Leader/Manager. Whoever performs the boundary spanning IS the focal 
+employee regardless of job title. (See Casebook Precedent #001.)
+  > 
+> > **Action:** If the boundary spanning construct is measured at a non-individual level (Team, Unit, Department, 
+Organization, Firm, etc.), the paper MUST be excluded. You must **ABORT extraction immediately**. Set 
+`inclusion_status` to 0 and `exclusion_reason` in the JSON, then inject into Excel via `universal_excel_inserter.py`.
+  
+  </details>
+
+

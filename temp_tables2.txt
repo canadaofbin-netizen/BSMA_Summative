@@ -1,0 +1,385 @@
+
+--- Page 110 ---
+Page 96
+4,5 The Procedure
+To eliminate selection bias the companies were
+asked to randomly select thirty individuals involved in
+the analysis, design, programming, and management of
+internal information system projects. Only one company
+was unwilling to provide a random sample and in one
+case thirty ISDP represented the entire development
+staff.
+Once individuals were selected by a company for
+inclusion in the study they were sent a letter from
+either the vice president of information systems or the
+director of personnel requesting their involvement. It
+was explained they would be participating in an
+attitude survey conducted by New York University
+regarding how they felt about their jobs and companies.
+The letter also informed the subjects that the survey
+was completely confidential and would require
+approximately 45 minutes to complete.
+To gather the data from each company one hour
+sessions were scheduled for on site administration of
+the survey. Approximately ten participants were
+scheduled for each hour session. Due to illnesses,
+vacations, and schedule conflicts approximately twenty
+five subjects per company completed the survey.
+
+--- Page 111 ---
+Page 97
+Before beginning the survey each individual was
+given a cover letter signed by the researcher which
+explained the study, emphasized that their individual
+responses were completely confidential, and requested
+they include their name on the front page to allow the
+collection of followup data. A copy of the cover
+letter may be found in Appendix C. Once all the
+subjects had arrived at a session the researcher
+introduced himself, reiterated the information
+contained in the cover letter and answered questions
+from the subjects.
+The survey was completed in the presence of the
+researcher. Four questionnaires from the on site
+administrations were discarded by the researcher: one
+for excessive missing data, one at the request of the
+participant, and two because the subjects had been
+incorrectly identified as ISDP.
+One company would not permit the researcher to
+conduct an on-site administration of the questionnaire.
+Rather, company staff distributed and collected the
+questionnaires at training sessions. These
+participants received the same cover letter as the
+other subjects but were requested to place the
+questionnaire in a sealed envelope addressed to New
+York University. The sealed envelope was returned to
+the individual in charge of the session who then
+forwarded the survey to NYU. A copy of this letter can
+
+--- Page 112 ---
+Page 98
+be found in Appendix D. Of the 24 sealed envelopes
+received from this company six contained blank
+questionnaires or questionnaires with excessive missing
+data and were discarded from the study. The remaining
+eighteen questionnaires were carefully scrutinized by
+the researcher to ascertain the validity of the data.
+The questionnaires revealed no abnormal patterns of
+responses when visually compared to the other
+responses.
+Summary
+This chapter describes the process of building the
+questionnaire, selecting subjects for inclusion in the
+study, and the administration of the questionnaire.
+The careful manner by which the questionnaire was built
+and administered should help assure reliability of
+measurement and the validity of the items. The diverse
+industries and random selection of individuals should
+assure the generalizabi1ity of the findings and guard
+against selection bias. The following chapter
+describes the findings of the data collection process.
+
+--- Page 113 ---
+Page 99
+CHAPTER FIVE
+5.0 Results and Discussion
+This chapter outlines the procedures used to test
+the model and hypotheses presented in Chapter Three.
+The results of the data analysis are presented and
+discussed. Path analysis [Kenny,1979 ;Billings and
+Worten,1978] was used to test the model proposed in
+figure 3.0 while multiple regression and correlational
+analysis [Cohen and Cohen,1975 ] were used to test the
+hypotheses regarding ISDP task and individual
+differences. The data were first tested, however, for
+reliability. Descriptive statistics for each variable
+and correlation coefficients were also generated.
+5.1 Reliability and Descriptive Statistics
+The reliability for each variable was determined
+by calculating Cronbach's Alpha. The reliabilities are
+reported in table 5.0. All of the reliabilities are
+above the .70 level suggested as acceptable [Nunnally,
+1967].
+
+--- Page 114 ---
+Page 100
+Descriptive statistics for each variable were
+calculated. The means, standard deviations, minimum
+and maximum values, and skew for each variable are
+presented in table 5.1. Finally, the zero-order
+correlations were calculated among the study variables.
+The correlations are presented in table 5.2.
+
+--- Page 115 ---
+Page 101
+RELIABILITIES
+Boundary Spanning Alpha = .60
+Role Conflict Alpha = .79
+Role Ambiguity Alpha = .85
+Job Satisfaction Alpha = .91
+Commitment Alpha = .
+Intention to Quit Alpha = ,89
+Table 5.0
+
+--- Page 116 ---
+Page 102
+a (A . w n u 0 * * \ V c H m T * i CO * C c M m * c v CM m r ■ \ cm *
+1 h+ o « o # o • M3 •a * o •
+X O r*- CM ©
+«c cm r- v> CM NO H
+2a
+H»
+•aJ
+O
+M
+O
+s s
+H»
+O
+*
+o
+»
+O
+*
+O
+■
+o* o
+•
+X X o © NO vO \A
+X < vr> H eg H rl
+&4 £ CM eg
+£
+£ O O © vn CO o
+M ■ * ■ • * ■
+z O CM Q CD H CM
+M H cm CM
+£
+S3
+o
+HI
+g S
+2 £ o o O o O O
+O M • « * • ■ •
+w z o o 00 cm o CM
+2 M H CM
+£
+1H eg
+cm o
+z |
+CM
+• •
+*-*t H
+*
+CT
+•
+v CM
+•
+< On v> O 00
+s H o <m T-J H
+£
+tuj +*
+CT c *H
+o P
+c >* •rl cr
+5 +* +»
+rt <J *H <J o
+mA
+4*
+*H p
+Gb C
+c
+m
+d +»
+G iH n c
+W >i Q> c .O *H o
+HI a Q a »rl
+m A ■H O < a +f
+< -o CO G
+HI c B Q)
+«
+< > X
+7
+O © O
+B H
+« O
+r
+c o
+-
+c
+t ,
+*
+oo
+~3
+■
+H G
+e
+I
+1-5
+elbaT
+
+--- Page 117 ---
+Page 103
+PEARSON CORRELATIONS
+BS COMM RC RA JS IQ
+BS 1.0
+COMM .164* 1.0
+RC .275* -.272* 1.0
+RA -.075* -.499* .359* 1.0
+JS .047 .618* -.391* -.509* 1.0
+IQ -.161* -.692* .24* .359* -436* 1.0
+•significant at the .05 level
+Legend BS = Boundary Spanning
+COMM = Commitment
+RC = Role Conflict
+RA = Role Ambiguity
+JS = Job Satisfaction
+IQ = Intention to Quit
+Table 5.2
+
+--- Page 118 ---
+Page 104
+5.2 Assumptions of Path Analysis
+Path analysis is a regression based data analytic
+technique that permits the testing of causal models
+using cross-sectional data. Path analysis assumes the
+data conform to five specific characteristics. These
+five assumptions are outlined in Billings and Wroten
+[1978] and are presented below.
+1) The relationships between the variables are
+linear.
+2) The relationships among the variables (i.e.
+the regression equation) are additive.
+3) The measures have interval scale properties.
+4) The model is recursive, no variable feeds back
+onto itself.
+5) The model is fully defined, that is, no
+variable has been omitted that could account for the
+observed relationship between two variables.
+The data were tested and found to conform to the
+above five characteristics. The procedures used to
+test each assumption follows.
+To test assumption one scatterplots were generated
+between each pair of variables. The scatterplots were
+visually examined and no non-linear relationships were
+detected.
+
+--- Page 119 ---
+Page 105
+As the review of the literature revealed no
+evidence of multiplicative or quadratic relationships
+assumption two was assumed to have been met.
+As described in chapter 4, this study employed
+carefully constructed measures which used a reasonable
+number of values and contained multiple items. Such
+measures yield data with acceptable interval scale
+properties [Billings and Wroten, 1978]. Assumption 3
+was therefore met.
+Recursiveness requires the model causality to be
+in one direction only. The review of the literature in
+chapter two revealed no evidence of feedback loops
+which would violate the assumption of recursiveness.
+Based on this literature the model built for testing is
+recursive.
+Demonstrating that assumption five has been
+satisfied is difficult. There are a host of variables
+that could potentially effect any model. Based on the
+review of the literature however, the important
+variables have been included. Additionally statistical
+evidence was generated to determine if important third
+variables were ignored which would make the observed
+relationships in the model spurious. Testing for third
+variables was done once the path analysis was concluded
+by residualizing the variables and then computing the
+correlations among the residuals. The results of the
+
+--- Page 120 ---
+Page 106
+residual analysis are presented in section 5.4 and
+provide evidence that no important third varaibles were
+omitted.
+5.3 Testing the Proposed Model and Building a Trimmed
+Model
+To test the relationships hypothsized by the model
+path coefficients were calculated and tested for
+statistical significance at the .05 (two-tailed) level.
+The coefficients are presented in table 5.2.1.
+Of the fourteen hypothesized paths seven were not
+significant at the .05 level. Employing theory
+trimming [Heise, 1969], these paths were deleted from
+the model resulting in a new trimmed model. The
+trimmed model is presented in figure 5.0.
+The path coefficients for the trimmed model were
+computed and are presented in table 5.2.2.
+The trimmed model beta coefficients were all
+tested for significance at the .05 level. All of the
+betas were significant at the .05 level, therefore
+further theory trimming was not performed. The final
+trimmed path model with the respective beta weights for
+each path is presented in figure 5.1.
+
+--- Page 121 ---
+Page 107
+MODEL PATH COEFFICIENTS
+PATH PATH COEFFICIENT
+BS to RA r BS, RA
+BS to RC r BS, RC
+BS to JS beta JS, BS. RA, RC
+BS to COMM beta COMM, BS. RA, RC, JS
+BS to IQ beta IQ, BS. RA, RC, JS, COMM
+RA to JS beta JS, RA. BS
+HA to COMM beta COMM, RA. BS, JS
+RA to IQ beta IQ, RA. BS, JS, COMM
+RC to JS beta JS, RC. BS
+RC to COMM beta COMM, RC. BS, JS
+RC to IQ beta IQ, RC. BS, JS, COMM
+JS to COMM beta COMM, JS. BS, RA, RC
+JS to IQ beta IQ, JS. BS, RA, RC, COMM
+COMM to IQ beta IQ, COMM. BS, RA, RC, JS
+Legendi r refers to the correlation between two variables.
+beta refers to the beta weight that results from
+the regression of the specified variables.
+For example, beta JS, BS. RA, RC is the beta
+weight resulting from regressing BS on JS
+(dependent variable) partialing RA and RC.
+Table 5.2.1
+
+--- Page 122 ---
+Page 108
+P ‘H
+<u <y
+ON
+o
+r\
+■p
+o
+tnacifingiS
+toN
+
+--- Page 123 ---
+Page 109
+TRIMMED MODEL PATH COEFFICIENTS
+PATH PATH COEFFICIENTS
+BS to RC r BS, RC
+BS to COMM beta COMM, BS. RC, JS
+RC to JS r RC, JS
+RA to JS r RA, JS
+RA to COMM beta COMM, RA. JS
+JS to COMM beta COMM, JS. BS, RC
+COMM to IQ r IQ, COMM
+Table 5.2.2
+
+--- Page 124 ---
+Paqe 110
+0
+■H
++* -H
+C 3
+<u at
+•p
+u
+CT>
+CM
++>
+tcilfnoC
+*
+gninnapS

@@ -1,0 +1,1398 @@
+How Does Performance Feedback Affect Boundary
+Spanning in Multinational Corporations? Insights
+from Technology Scouts
+Thomas Klueter and Felipe Monteiro
+IESE Business School; INSEAD, Fontainebleau
+ABSTRACT As much as prior research has shed light on the boundary-spanning processes of
+global organizations and their (positive) impact on an MNC’s performance, whether, when
+and how past performance ultimately shapes an MNC’s boundary-spanning activities remains
+an open question in management research. To tackle these questions, we examine the
+behaviour of technology scouts in global organizations who span organizational and national
+boundaries to tap into novel knowledge and span internal boundaries to present this
+knowledge to constituents inside the MNC. Drawing on the behavioural theory of the ﬁrm,
+we propose that the intensity of organizational boundary spanning, the likelihood of spanning
+national boundaries and the way technology scouts span internal boundaries to engage with
+members inside the organization are sensitive to how the MNC has performed relative to its
+aspirations. We support our theoretical expositions with insights gained from interviewing
+senior industry professionals with direct experience in technology scouting in MNCs.
+Keywords: global boundary-spanning process, managing knowledge boundaries, multina-
+tional corporations, performance feedback, technology scouts
+INTRODUCTION
+The ability to tap into knowledge and technologies from outside an MNC’s boundary
+has become a critical organizational activity to compete in environments characterized
+by rapid technological change (Doz et al., 2001; Gupta and Govindarajan, 2000). The
+focus of this paper is on the process by which managers in multinational corporations
+(MNCs) span organizational and national boundaries to tap into external knowledge
+and span internal boundaries to mobilize such knowledge within the organization (Mon-
+teiro, 2015; Monteiro and Birkinshaw, 2017). While this process holds substantial
+opportunities, it also poses immense challenges. MNCs have to overcome initial
+Address for reprints: Thomas Klueter, IESE Business School, Avinguda de Pearson, 21, Barcelona 08034,
+Spain (TMKlueter@iese.edu).
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+Journal of Management Studies 54:4 June 2017
+doi: 10.1111/joms.12252
+
+resistance based on ‘not invented here’ attitudes and prevent their ‘corporate immune
+system’ from rejecting the knowledge they are trying to bring into the organization (Bir-
+kinshaw and Ridderstråle, 1999; Carlile, 2002; Katz and Allen, 1982; Meyer et al.,
+2011). Moreover, knowledge in rapidly changing environments is characterized by high
+novelty, which makes managing knowledge across boundaries extremely challenging
+(Carlile, 2004; Carlile and Rebentisch, 2003; Schotter et al., 2017).
+In responding to these challenges, MNCs in a variety of industries have begun to
+establish dedicated boundary-spanning units, often referred to as technology scouting
+units, with the mandate to tap into novel external knowledge from other ﬁrms around
+the globe and to present such external opportunities to other parts of the MNC (Birkin-
+shaw and Hood, 2000; Gassmann and Gaso, 2004; Monteiro, 2015). We argue that
+technology scouts, i.e., the typical title of those working in technology scouting units, are
+representative of generic boundary spanners in MNCs that are found at a myriad of
+boundaries between organizational functions, business units, or subsidiaries and the
+MNC’s headquarters (Carlile, 2002, 2004; Katz and Tushman, 1981; Mudambi and
+Swift, 2009; Schotter and Beamish, 2011). However, technology scouts are unique in
+that they are not involved in other day-to-day operations – that is, spanning organiza-
+tional and national boundaries to seek out external knowledge and spanning internal
+boundaries to make knowledge available within the organization ‘is the only thing they
+do’ (Monteiro and Birkinshaw, 2017).[1] Hence, theorizing about the behaviour of tech-
+nology scouts can provide unique insights into our broad understanding of boundary
+spanners in global organizations.
+It has long been argued that tapping into knowledge from outside the organization
+(i.e., spanning organizational boundaries) and from foreign locations (i.e., spanning
+national boundaries) is associated with signiﬁcant beneﬁts in the form of innovation and
+ﬁnancial performance. Spanning organizational boundaries, for example, allows the
+addition of distinct new knowledge to an MNC’s knowledge pool and, by adding such
+global knowledge, an MNC is able to innovate more effectively than its domestic rivals
+(e.g., Asakawa et al., 2014; Doz et al., 2001; Tushman and Katz, 1980; Tushman and
+Scanlan, 1981). Prior research has also emphasized the general beneﬁts of spanning
+boundaries inside MNCs, leading to superior product development (Carlile, 2002,
+2004), knowledge management between scientists and managers (Mudambi and Swift,
+2009; Tushman, 1977), and initiatives between subsidiaries and their headquarters
+(Schotter and Beamish, 2011). In a similar vein, prior work has shown that beneﬁts
+brought by technology scouts stem from both their ability to access new knowledge and
+their mediating role between the MNC’s external environment and relevant actors (e.g.,
+business managers or R&D units) inside the organization (Monteiro, 2015; Monteiro
+and Birkinshaw, 2017). Yet, as much as recent research has started to shed light on the
+boundary-spanning processes performed by technology scouts and their (positive) impact
+on the MNC’s performance, whether and how the prior performance of an MNC
+affects boundary spanning activities of technology scouts remains an open question in
+international management research.
+To tackle these questions, we draw upon the behavioural theory of the ﬁrm (BTF)
+and propose that the boundary-spanning behaviours of technology scouts are sensitive
+to how the MNC has performed relative to its aspirations – that is, the expected levels of
+484
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+performance the organization seeks to achieve (Cyert and March, 1963). In particular,
+we suggest that whether a given MNC faces ‘harsh times’ i.e., when the MNC has per-
+formed below its aspirations, or ‘slack times’ i.e., when the MNC has performed above
+its aspirations (Greve, 2003b; Levinthal and March, 1981, p. 308) profoundly shapes
+technology scouts’ boundary spanning behaviours.
+Central to our theoretical arguments are three key boundary-spanning activities that
+technology scouts perform and how they are shaped by harsh and slack times: (1) span-
+ning organizational boundaries to engage with the external environment and generate
+new opportunities (Dollinger, 1984; Santos and Eisenhardt, 2005), (2) spanning national
+boundaries to reach for ‘best in the world’ knowledge in foreign locations (Almeida
+et al., 2002; Cantwell, 1989), and (3) spanning internal boundaries to connect and
+engage with relevant business and R&D units to mobilize external knowledge within the
+MNC (Birkinshaw et al., 2017; Carlile, 2002; Meyer et al., 2011; Monteiro and Birkin-
+shaw, 2017).[2] In particular, we examine how comparisons between aspiration vs. real-
+ized performance inﬂuence technology scouts’ boundary-spanning intensity (i.e., the
+overall effort technology scouts expend crossing organizational boundaries), and when
+and how technology scouts’ span national boundaries. Further, we analyse how harsh
+and slack times differently shape the way in which technology scouts span internal boun-
+daries within the MNC to present external solutions to their internal constituents (e.g.,
+business units) and how they go about managing knowledge across internal boundaries
+in general. We complement our theoretical expositions with examples and insights
+gained from interviewing senior industry professionals with direct experience in technol-
+ogy scouting in MNCs.
+Our paper provides several novel insights into how performance feedback may shape
+boundary spanning in global organizations. First, we offer a behavioural explanation of
+technology scouts’ venturing beyond ﬁrms’ boundaries to tap into external knowledge.
+While previous studies have focused on the knowledge creation potential of boundary
+spanners (e.g., Carlile, 2002; Doz and Wilson, 2012; Doz et al., 2001; Monteiro and
+Birkinshaw, 2017), we propose that performance above or below aspirations is an
+important trigger for boundary spanning in the ﬁrst place. We suggest that, in both
+harsh and slack times, technology scouts intensify their efforts in spanning organizational
+boundaries, but for very different reasons, whereas being close to the aspiration point is
+likely to lead to inertial behaviour.
+Second, we reveal that considering whether a focal MNC is in harsh or slack times
+provides important behavioural cues as to when technology scouts cross national boun-
+daries to tap into external knowledge and when they combine local activities (in their
+home countries) with national boundary spanning. We suggest that, in harsh times, to
+improve performance, technology scouts make costly efforts to span national boundaries
+but in a directed way and at the expense of other boundary-spanning activities. Con-
+versely, in slack times, boundary-spanning activities will be less directed and more open,
+which allows technology scouts to combine the spanning of national boundaries with
+their ongoing activities in their home locations.
+We identify a similar pattern when examining how technology scouts span internal
+boundaries. In harsh times, boundary spanners take into account compensatory trade-
+offs between external opportunities and internal R&D activities and hence are more
+485
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+likely to present solutions to their internal constituents as substitutes for internal R&D
+activities. Conversely, in slack times, resources are readily available, allowing technology
+scouts to make linkages between internal R&D and external opportunities and to pres-
+ent the complementary nature of external solutions for the organization. Prior studies
+have emphasized that ambidextrous behaviour – e.g., combining local and foreign
+knowledge or internal and external knowledge – may lead to higher performance and
+that the availability of resources is a key moderator for the ambidexterity/performance
+relationship (Phene et al., 2006; Raisch et al., 2009, p. 395; Rothaermel and Alexandre,
+2009). However, our study suggests that performance feedback can be an important
+antecedent to ambidextrous behaviour in boundary spanning in the ﬁrst place.
+Finally, our study presents a more granular picture about the way technology scouts
+ultimately manage knowledge across internal boundaries under different conditions.
+While in harsh times, technology scouts are more likely to emphasize the simple ‘trans-
+fer’ or ‘channelling’ of external knowledge towards internal constituents (such as R&D
+or business units), we propose that in slack times, the emphasis will be more on the
+‘translation’ and ‘transformation’ of external knowledge to establish common interests
+with internal constituents. Prior studies have described those different types of
+boundary-spanning processes in MNCs and characterized the translation and transfor-
+mation as value-adding activities by boundary spanners that lead to superior outcomes
+in product development, knowledge management, and knowledge sourcing (Carlile,
+2002, 2004; Monteiro and Birkinshaw, 2017; Mudambi and Swift, 2009). Our study
+contributes to this stream of research by revealing another contingency – that of being
+in harsh or slack times – that is likely to affect the way technology scouts manage knowl-
+edge across internal boundaries of MNCs.
+THEORY
+Spanning Organizational, National and Internal Boundaries in MNCs
+The idea that organizational members span boundaries to gain access to external knowl-
+edge is not new. In fact, the stream of literature on how social systems access and process
+information from the environment goes back to the open-system perspective in organi-
+zation theory (March and Simon, 1958; Thompson, 1967). To sustain themselves,
+organizations have to obtain information from their task environment, but this effort is
+expensive and time-consuming. Over the past three decades, the boundary-spanning lit-
+erature in MNCs has diverged into different streams examining distinct levels of analy-
+ses. Some studies focused on individuals in R&D departments and how they gather,
+understand, and transfer external information so that an internal team or unit can use it
+(Tushman, 1977; Tushman and Katz, 1980), while others examined boundary spanning
+in teams, focusing on the different ways teams interact with other parts of the organiza-
+tion and with the outside world (Ancona and Caldwell, 1992).
+Building on these perspectives, we focus on (1) how managers in multinational corpo-
+rations cross organizational and national boundaries to tap into external knowledge,
+and (2) how they span internal boundaries to present the external opportunities they
+have identiﬁed to their internal constituents and, ultimately, bring external knowledge
+486
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+into the organization (Monteiro and Birkinshaw, 2017). At the heart of this process lies
+the notion of different types of boundaries (Aldrich and Herker, 1977). Organizational
+boundaries represent the demarcation between an organization and its environment
+(Santos and Eisenhardt, 2005), and spanning such boundaries allows access to knowl-
+edge that differs from what an organization already knows (Rosenkopf and Nerkar,
+2001). While such novel knowledge holds substantial opportunities for organizations,
+crossing organizational boundaries is far from trivial as it requires overcoming ‘not
+invented here’ attitudes from within the organization (Katz and Allen, 1982). National
+boundaries are important, as seeking external knowledge from foreign locations (in
+countries outside the MNC’s home country, e.g., a Brazilian MNC seeking knowledge
+from a company in Japan) allows access to ‘best in the world knowledge’ that often can-
+not be found in the MNC’s home location (Doz et al., 2001; Gittelman, 2007). At the
+same time, spanning national boundaries is costly since knowledge tends to be localized,
+embedded in practice, and invested in by its originators (Almeida et al., 2002; Carlile,
+2002; Meyer et al., 2011).
+A ﬁnal set of boundaries lies within the organization. Once identiﬁed, external (and
+potentially foreign) knowledge needs to be integrated and used by organizational mem-
+bers (e.g., by a R&D unit in product development or a business unit in sales), which
+requires ‘selling’ the knowledge to internal business or R&D units (Monteiro and Birkin-
+shaw, 2017). This can be challenging as parts of the MNC may resist novel external
+knowledge because it does not ﬁt their prevailing knowledge pool or may reject such
+knowledge owing to fears of cannibalizing existing competencies or revenue streams
+(Birkinshaw and Ridderstråle, 1999; Mudambi and Swift, 2014).
+The opportunities and challenges stemming from boundary spanning are particularly
+relevant in knowledge-intensive environments, where technological opportunities
+emerge rapidly; existing competencies quickly become obsolete; and intense rivalry and
+competition among industry participants prevail (D’Aveni et al., 2010). In such environ-
+ments, for example, telecommunications and pharmaceuticals, spanning organizational
+and national boundaries to obtain novel knowledge is considered pivotal to an organiza-
+tion’s competitive advantage (Banker et al., 2013; Bierly et al., 2009; Chesbrough et al.,
+2006). At the same time, managing knowledge across boundaries in those environments
+is extremely challenging as the underlying knowledge is characterized by novelty (e.g.,
+rapid technological advancements or changing customer requirements), strong differen-
+ces between the MNC and the potential source of knowledge (e.g., due to specialization
+or size effects) and dependencies (i.e., the MNC relies to some extent on external actors
+to ultimately make productive use of the external knowledge) (Carlile, 2004; Carlile and
+Rebentisch, 2003). Solving all these challenges is of utmost importance for today’s
+MNCs (Schotter et al., 2017).
+Technology Scouts in Global Organizations
+A possible solution is specialization by assigning speciﬁc individuals or teams as bound-
+ary spanners who ‘gather and understand external information and subsequently trans-
+late this information into terms that are meaningful and useful to local colleagues’ inside
+the organization (Tushman and Katz, 1980, p. 1073). In recent decades, some MNCs
+487
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+have begun to more systematically organize their boundary-spanning activities by creat-
+ing foreign subsidiaries, or dedicated units, often referred to as scouting units, with a
+speciﬁc boundary-spanning mandate (Birkinshaw, 1996; Birkinshaw and Hood, 2000;
+Gassmann and Gaso, 2004). Such boundary spanners, henceforth technology scouts,
+are now found in many industries, including telecommunications (e.g., British Telecom),
+pharmaceuticals (e.g., Merck and Co., Bayer), and electronics (e.g., Siemens).
+It is important to note that technology scouts span organizational and national boun-
+daries to tap into external knowledge as well as internal boundaries to present such
+opportunities to other parts of the MNC (e.g., Doz et al., 2001; Patel and Vega, 1999;
+Von Zedtwitz and Gassmann, 2002). They are also more than just brokers, i.e., actors
+in organizations positioned between structurally separated and unconnected entities
+(Burt, 1992). Burt sees brokers operating with a ‘tertius gaudens’ orientation, in which a
+broker can create value through superior access to information and greater opportuni-
+ties to exercise control. Conversely, we concur with Monteiro and Birkinshaw (2017)
+and consider technology scouts to have a ‘tertius iungens’ orientation, ‘a strategic,
+behavioral orientation toward connecting people in one’s social network by either intro-
+ducing disconnected individuals or facilitating new coordination between connected
+individuals’ (Obstfeld, 2005, p. 102). Hence, they are boundary spanners as they go well
+beyond their structural position and connect, introduce and coordinate previously
+unconnected parties for mutual beneﬁts (Fleming and Waguespack, 2007).[3]
+We believe technology scouts are an important representation of generic boundary
+spanners in MNCs that are known to be situated at the intersection of different types of
+boundaries, including R&D teams and their external environment (Katz and Allen,
+1982), scientists and business managers (Mudambi and Swift, 2009), engineering and
+manufacturing (Carlile, 2002, 2004), or subsidiaries and the headquarters (Schotter and
+Beamish, 2011). Indeed, Monteiro and Birkinshaw (2017) have characterized technol-
+ogy scouts as an ‘extreme example’ of boundary spanners mediating between the orga-
+nization and its external environment as well as spanning boundaries within the
+organization. This is because, unlike other boundary spanners in the organization, tech-
+nology scouts do not have other day-to-day operating roles they need to execute and
+boundary spanning is what they do for the organization.[4] By analogy, technology
+scouts could be to boundary spanning what Saxenian’s (2007) ‘Global Argonauts’ repre-
+sent to international entrepreneurship – a very ‘pure’ and visible form of an important
+but often difﬁcult to observe phenomenon. Theorizing about the behaviour of technol-
+ogy scouts therefore broadens our understanding of boundary spanning in global
+organizations.
+Boundary Spanning and Performance
+Studies have shown that MNCs that span boundaries to access external knowledge inno-
+vate more effectively than their domestic rivals and in general have advantages over
+industry peers (e.g., Asakawa et al., 2014; Dollinger, 1984; Doz et al., 2001; Monteiro,
+2015). This is because adding novel pockets of knowledge to an organization is directly
+associated with a ﬁrm’s innovative and ﬁnancial performance (e.g., Hagedoorn and
+488
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Schakenraad, 1994; Kale et al., 2002; Laursen and Salter, 2006; Leiponen and Helfat,
+2009).
+In a similar vein, research focusing on the role of boundary spanners has shown that
+spanning external boundaries is related to innovation and performance beneﬁts (Tush-
+man and Katz, 1980; Tushman, 1977). Studying more systematically the boundary-
+spanning processes undertaken by technology scouts has also revealed distinct beneﬁts of
+spanning internal boundaries to connect external knowledge to R&D or business units
+to make external knowledge available inside the MNC (Monteiro and Birkinshaw,
+2017). This follows the idea that boundary spanners can better manage tensions
+between separated entities or groups, hence leading to superior outcomes and improved
+performance (Carlile, 2002, 2004; Mudambi and Swift, 2009; Schotter and Beamish,
+2011; Tippman et al., 2017).
+Yet, while research has made notable progress in linking boundary spanning to inno-
+vative and ﬁnancial performance outcomes, we know much less about the recursive rela-
+tionship, that is, whether and how the prior performance of an organization ultimately
+shapes the boundary-spanning behaviours of technology scouts.
+A Performance Feedback Perspective on Boundary Spanning
+by Technology Scouts
+A well-established stream of literature built on the behavioural theory of the ﬁrm (BTF)
+examines how performance feedback affects an organization’s strategic decision-making
+(Cyert and March, 1963; March and Simon, 1958). We extend this literature by suggest-
+ing that performance feedback may signiﬁcantly affect boundary-spanning activities by
+technology scouts.
+The BTF characterizes ﬁrms as goal-directed systems that use simple operating proce-
+dures and heuristics to adapt their behaviour. Organizational goals are important, as
+they are considered relevant by resource-allocating managers and lead to the formation
+of aspirations, i.e., expected levels of performance that organizations aspire to
+achieve.[5] Managers compare their ﬁrm’s aspirations with actual performance out-
+comes, leading to favourable (performance outcomes above aspirations) or unfavourable
+(performance outcomes below aspirations) comparisons (Cyert and March, 1963; Levin-
+thal and March, 1981).[6]
+In the majority of performance feedback studies, the crux of the argument is that by
+comparing aspirations with actual performance, managers ﬁnd themselves in situations
+of either harsh times (performance outcomes below the aspiration point) or slack times
+(performance outcomes above the aspiration point) (Levinthal and March, 1981, p. 308)
+and being in either harsh or slack times shapes the decision-making of resource-
+allocating managers (Greve, 2003b). Supporting this idea, prior research has shown that
+the aspiration point functions as a ‘master switch’ that inﬂuences a variety of strategic
+behaviours and choices related to innovation, including organizational risk taking (Bro-
+miley, 1991), R&D spending (Chen and Miller, 2007), capital investments, new product
+development (Greve, 2003a), acquisitions (Iyer and Miller, 2008), and organizational
+change (Greve, 1998). Interestingly, however, studies have given much less attention to
+examining how performance-aspiration comparisons are likely to affect the activities of
+489
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+boundary spanners such as technology scouts. In other words, most studies have focused
+on the performance outcomes of spanning boundaries and performance as a result of
+boundary spanners’ actions (e.g., Asakawa et al., 2014; Doz et al., 2001; Monteiro,
+2015). However, we believe that studying the inverse relationship – how performance
+may act as an input to technology scouts’ behaviour – can generate new insights into
+how the boundary-spanning process unfolds in global organizations.
+We focus on how performance feedback shapes three critical activities by technology
+scouts in MNCs.[7] First, managers may face important decisions on how much empha-
+sis they should place on crossing organizational boundaries in the ﬁrst place, and organi-
+zational boundary-spanning intensity characterizes the overall efforts by technology
+scouts to seek out external knowledge (Dollinger, 1984). Second, technology scouts can
+engage with local actors or span national boundaries to tap into ‘best in the world’
+knowledge in foreign locations (Doz et al., 2001; Gittelman, 2007). Finally, we examine
+how technology scouts manage knowledge across internal boundaries and engage with
+internal business or R&D units to mobilize external knowledge for the organization
+(Meyer et al., 2011; Monteiro and Birkinshaw, 2017).
+For each activity, we provide examples and illustrations which we derived by inter-
+viewing senior industry professionals from different industries (such as telecommunica-
+tions, medical devices and pharmaceuticals) and with direct experiences in global
+boundary spanning and technology scouting. Speciﬁcally, between 2011–15, we con-
+ducted 15 in-depth interviews with managers in European and North American MNCs
+(including Bayer, Johnson & Johnson, Merck & Co, and Novo Nordisk) on the MNCs’
+sites, at technology conferences such as the Wharton Mack Institute’s Technology Con-
+ference or via phone. The majority of the interviewees had titles directly associated with
+technology scouting or were the managers of a technology scouting (or business develop-
+ment) unit. Some interviewees were senior managers of internal R&D and business
+units, which represented the ‘customers’ of technology scouts’ boundary-spanning
+efforts. Finally, we also interviewed top management executives responsible for the over-
+all externally oriented activities in their respective multinational organizations to obtain
+a more strategic picture of the roles technology scouts play in global organizations.[8]
+Spanning Organizational Boundaries in Harsh and Slack Times
+An important element of boundary spanning by technology scouts is its intensity, that is,
+the overall effort exerted by boundary spanners to cross boundaries (Dollinger, 1984).
+Here we focus on the intensity with which technology scouts cross organizational boun-
+daries that potentially hold substantial opportunities due to the access to new knowl-
+edge, but that is not trivial, as ‘not invented here’ attitudes may result in the
+entrenchment of organizations (Katz and Allen, 1982; Rosenkopf and Nerkar, 2001;
+Teece, 1996). Hence, when spanning organizational boundaries, technology scouts’ ﬁrst
+challenge may arise from persistent negative attitudes toward ideas external to their
+organizations, which may prevent MNCs from becoming more open and from seeking
+out external ideas in the ﬁrst place. An executive responsible for worldwide scouting and
+licensing at a large pharmaceutical ﬁrm described the challenge as follows: ‘It is clearly
+important to identify high value external opportunities that will allow us to grow. [. . .] But the question
+490
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+we face is how much should we emphasize our externally oriented activities. . .? A major problem we
+have is that these activities are not yet on a level playing ﬁeld with our other, more, traditional ways of
+doing research and development. . . This is an ongoing problem that has to be worked through . . . We
+are not sufﬁciently open to external ideas’.
+Drawing on the BTF, we suggest that the intensity (i.e., the overall effort made) with
+which technology scouts span organizational boundaries is sensitive to whether the
+MNC is facing harsh or slack times.
+In harsh times. Models of performance feedback predict that an organization is more
+likely to take action when it fails to reach its aspirations (e.g., Greve, 2003b; Levinthal
+and March, 1981). In harsh times, managers face short-term pressures to improve their
+performance because they are held accountable for prior decision making (Cyert and
+March, 1963). Unable to conceal below-aspiration performance from internal and
+external stakeholders, managers are pressed to ﬁnd a solution. However, such solutions
+may not be readily available within an organization. We argue that spanning organiza-
+tional boundaries may allow MNCs to access ‘ready-to-use’ solutions that, in some cases,
+would require substantial time to develop internally (Hagedoorn, 1993). This time
+investment is particularly relevant in knowledge-intensive environments, where solutions
+to solve below-aspiration performance tend to be needed immediately. Hence, in harsh
+times, technology scouts are likely to intensify the spanning of organizational boundaries
+to connect to solutions that remedy the organization’s problems. This approach is con-
+sistent with ﬁndings of research in international business showing that knowledge ﬂows
+in MNCs can be explained by demand-driven, problem-motivated processes (Monteiro
+et al., 2008).
+A senior manager responsible for technology scouting at Merck provided an illustra-
+tion of this phenomenon. He recalled that in 2004, the withdrawal of a pain-killer drug
+led to substantial legal provisions, which had dramatically decreased ﬁnancial perform-
+ance (an absolute decrease of $700 million in net income, about a 12 per cent decline
+compared to 2003).[9] The manager emphasized how being in harsh times exacerbated
+the need to span organizational boundaries: ‘The company was at a real tipping point. . . To
+compensate for the decline, we had to get better at leveraging the external environment. . . To me, the alter-
+natives were stark. Either we were successful or Merck would have to downsize. The changes that we
+needed were to prop up 30–40 per cent more of the entire pipeline with technologies [sourced from] outside
+Merck. (Example 1)
+In the following years, technology scouts at Merck crossed organizational boundaries
+more aggressively. One technology scout remembered that ‘Merck during that year [2004]
+faced a situation that was not business as usual. . . There was an overall understanding that we needed a
+quick ﬁx’. He recalled that, at the time, the technology scouting organization expanded
+substantially to ‘connect to and acquire external research. . . We were told to participate in conferences
+and get out [of Merck’s R&D facilities] to identify promising projects for short-term revenue gener-
+ation. . .’ (Example 2)
+As that example also illustrates, harsh times require the clear articulation and codiﬁ-
+cation of an underlying problem (Zollo and Winter, 2002). In Merck’s case, codiﬁcation
+was important to establishing new routines and standard operation procedures in the
+ﬁrm’s boundary-spanning activities. Hence, when performance is below aspirations,
+externally oriented activities are more likely to be formalized, for example, by
+491
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+establishing a dedicated technology scouting unit. Indeed, prior work has suggested that
+boundary-spanning roles become formalized when managers realize and codify crucial
+environmental contingencies (Aldrich and Herker, 1977), as is more likely to happen in
+harsh times. Overall, we posit that the wider the gap between an MNC’s performance
+and its aspirations, the more likely it is that MNC will incept a technology scouting unit
+with the mandate of spanning organizational boundaries and the more likely technology
+scouts intensify spanning organizational boundaries.[10] We propose:
+Proposition 1a: The further an MNC’s performance is below its aspirations, the more
+intense technology scouts’ efforts will be to span organizational boundaries.
+Proposition 1b: The further an MNC’s performance is below its aspirations, the more
+likely the MNC will formalize or establish a dedicated boundary-spanning unit.
+In slack times. At ﬁrst glance, performing above aspirations might seem to have no direct
+effect on whether technology scouts span organizational boundaries because they do not
+face immediate performance pressures and may be content with the status quo. How-
+ever, most MNCs operate in knowledge-intensive industries, i.e., environments in which
+competitive advantages based on old resource positions are continuously challenged and
+advantages, even of leading high-performing ﬁrms, are considered temporary (D’Aveni
+et al., 2010; Winter, 2003).
+To maintain their position in such knowledge-intensive environments, managers need
+to continuously generate innovative moves, even if they have persistently out-performed
+their aspirations (Kirzner, 1973). Given that, in such environments, innovations tend to
+emerge beyond ﬁrm boundaries (Chesbrough et al., 2006), an important way to keep
+ahead is to systematically seek new knowledge through technology scouts. Spanning
+organizational boundaries through technology scouts, hence, can become a moving tar-
+get, as all ﬁrms continue to make innovation-related investments to avoid falling behind
+in the future – an outcome that has been described as the ‘Red Queen’ effect (Banker
+et al., 2013). We expect that such behaviour will more likely transpire in slack times for
+the following reasons.
+First, technology scouts in slack times do not have immediate problems to solve and
+are under less scrutiny by external stakeholders to ﬁnd urgent solutions. This may allow
+them to focus on ‘next problems’, allowing technology scouts to adopt a more opportun-
+istic or proactive behaviour (Cyert and March, 1963; Monteiro and Birkinshaw, 2017).
+This explanation is consistent with the idea that managers are more likely to promote
+entrepreneurial opportunities in their organizations if they are satisﬁed with their cur-
+rent performance situation (De Clercq et al., 2011; Simsek et al., 2007). Hence, in slack
+times, technology scouts are most likely more able to span organizational boundaries to
+tap into external knowledge.
+As an example, a senior executive manager responsible for external business develop-
+ment for Johnson & Johnson emphasized the need to opportunistically span organiza-
+tional boundaries in slack times: ‘No matter what we do within our in-house R&D, the rest of the
+world is always doing more’. He also cited the need ‘to keep connecting with those start-ups even if
+we are doing very well. . . In 2011, the medical device unit had clearly outperformed the market over a
+492
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+longer time span. . . Still, even when we were doing well . . . there was an increasing appreciation that
+99.9 per cent of the science is beyond our labs. . . During this time, we were asked to examine what was
+available [externally] in an exhaustive way. There was a general fear to not miss anything really impor-
+tant’ (Example 3a).
+Second, such proactive or opportunistic boundary spanning by technology scouts
+may be catalysed by the presence of slack, that is, excess liquid resources or operational
+resources beyond those required in the short term (Singh, 1986). In general, ‘success
+tends to breed slack’ (Cyert and March, 1963, p. 189), suggesting that slack tends to be
+present when an organization performs above aspirations (Pitelis, 2007). Excess resour-
+ces are fungible (Levinthal and Wu, 2010) and thus can easily be channelled toward
+boundary spanners.[11] A technology scout responsible for sourcing external technolo-
+gies for a global pharmaceutical leader in the diabetes market highlighted how the pres-
+ence of slack helped to intensify spanning organizational boundaries. ‘We are very happy
+with the recent diabetes products we put on the market and we remain very, very successful. . . We are
+now in a mode where things are less tight and we engage in larger efforts to learn what is out there. . . I
+love that this unit [diabetes] never rests, which makes my work so exciting. Ultimately, it allows me to
+generate much more opportunities’ (Example 3b).
+Finally, outsiders may perceive organizations in slack times as being more successful,
+which makes them more attractive to potential partners to begin with (Ahuja, 2000).
+Being exposed to a large variety of opportunities may guide ﬁrms to more systematically
+organize technology scouts and formalize their activities (e.g., in the form of a dedicated
+unit). For example, an executive manager of Johnson & Johnson’s corporate develop-
+ment program noted: ‘We realized that we needed a more systematic way to deal with external
+opportunities but also opportunities approaching us and we began to substantially increase budgets for
+such initiatives’ (Example 4).
+Since MNCs in slack times will be motivated to maintain their competitive advantage
+and provide boundary spanners with adequate resources to seek out external knowledge,
+global boundary-spanning activities can intensify when performance exceeds aspirations.
+In a similar vein, Pitelis (2007) argued that in environments where inter-ﬁrm competi-
+tion is high, slack resources may be used to stay ahead of rivals. We thus propose:
+Proposition 1c: The further an MNC’s performance is above its aspirations, the more
+intense technology scouts’ efforts will be to span organizational boundaries.
+Proposition 1d: The further an MNC’s performance is above its aspirations, the more
+likely the MNC will formalize or establish a dedicated boundary-spanning unit.
+Close to the aspiration point. Taken together, the above propositions reveal two interesting
+facets of how performance feedback affects the intensity with which technology scouts
+are likely to span organizational boundaries. First, the further MNCs are above or
+below aspiration levels, the more intense the technology scouts’ organizational
+boundary-spanning efforts, but for very different reasons and with qualitatively different
+triggers (to solve a problem in harsh times, to ﬁnd new opportunities in slack times). Sec-
+ond, in MNCs that are close to their aspiration levels, technology scouts are more likely
+remain inert and less likely to intensify their organizational boundary-spanning efforts.
+493
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+In such MNCs, technology scouts have neither the pressure (as those in harsh times) nor
+the slack resources (as those in slack times) to intensify those activities. More formally,
+we propose:
+Proposition 1e: When an MNC performs close to its aspiration point, technology
+scouts less likely intensify efforts to span organizational boundaries.
+Proposition 1f: An MNC performing close to its aspiration level is less likely to for-
+malize or establish a dedicated boundary-spanning unit.
+Spanning National Boundaries in Harsh and Slack Times
+While, in the previous section, we focused on the intensity of the efforts made by bound-
+ary spanners in crossing organizational boundaries, here we focus on another type of
+boundary spanning: how harsh and slack times are likely to affect whether and how
+technology scouts span national boundaries to connect and engage with foreign ﬁrms.
+An important challenge for boundary spanners lies in the preference of organizations
+for local knowledge (Belderbos et al., 2013; Nobel and Birkinshaw, 1998).[12] Tapping
+into such knowledge can be easier and more cost-effective because being close to the
+knowledge source facilitates understanding and integrating the knowledge, particularly
+when such knowledge is tacit and embedded in a local context (Galunic and Rodan,
+1998; Tallman and Chacar, 2011). Conversely, spanning national boundaries (i.e., tap-
+ping into knowledge from ﬁrms in different countries) entails substantial costs as it
+requires crossing into unfamiliar local contexts (Castellani et al., 2013; Kranenburg
+et al., 2014). A technology scout in a US-based pharmaceutical ﬁrm explained the chal-
+lenges of spanning national boundaries as follows: ‘I think it is fair to say we still have a very
+American-centric view of the world and that makes it harder for me. . . Sometimes I am not sure if there
+is a real interest and commitment towards these regions [Australia, Asia]. . . One reason is that 70 per
+cent of biotech industry is in the US and that’s the way it is. . . Things are not as concentrated in Asia
+and Australia and this requires more “digging” from my side. . . Often, the approaches in my regions are
+the ones that have not been explored by us anyway’.
+The quote reveals that, while challenging, spanning national boundaries may hold
+substantial value as it allows organizations to access novel elements of knowledge and
+‘best in the world’ knowledge, which may not be available in the MNC’s home country
+(Doz et al., 2001; Gittelman, 2007). We next examine how being in harsh or slack times
+affect if and how technology scouts span national boundaries.[13]
+In harsh times. Understanding that, in harsh times, MNCs are motivated by existing
+(and short-term) problems suggests that the starting point for boundary spanning by
+technology scouts will typically be in the MNC’s home country, where it is embedded
+and into which it can tap quickly with little extra cost (Belderbos et al., 2013; Cyert and
+March, 1963). A pharmaceutical technology scout highlighted that, in harsh times, he is
+unlikely to cross national boundaries: ‘solutions sought [in harsh times] often tend to be not far
+from the locations where we were active before. This is easier for me as I can collect the information rap-
+idly and just deliver what they want (Example 5).
+494
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+However, as performance falls further below aspirations, boundary spanners may be
+pressured to consider knowledge that is only available in foreign locations (Gittelman,
+2007; Hannigan et al., 2015), which requires spanning national boundaries. It is well-
+established that, in harsh situations, decision makers may seek solutions from which they
+expect to disproportionally beneﬁt, leading them to make riskier choices (Das and Teng,
+2001). Hence, when performance falls further below aspirations, we expect technology
+scouts to span national boundaries to tap into novel and ‘best in the world’ foreign
+knowledge, which is risky but that can also have a substantial upside. As an example, fol-
+lowing near-bankruptcy in the late 1970s, the Big 3 automakers reached out explicitly to
+Germany, far from their home location as Germany was considered one of the global
+hotbeds in the automotive industry at the time (Hannigan et al., 2015).
+Two caveats apply to the idea that technology scouts are more likely to span national
+boundaries if the performance-aspiration gap has become too wide. First, in harsh times,
+resources to support technology scouts are likely scarcer. During those periods, manag-
+ers expend considerable effort attending to pressures from internal and external stake-
+holders, which constrains resources (Abrahamson and Park, 1994). At the same time,
+substantial efforts by technology scouts are needed to span national boundaries and, in
+most cases, boundary spanners need to be present (e.g., having face-to-face contact) to
+comprehend opportunities emerging in foreign locations (Storper and Venables, 2004).
+Knowledge in foreign countries is also characterized by particularly strong differences
+between the MNC and the potential foreign source of knowledge (due to strong speciali-
+zation and localization) and dependence (i.e., the foreign knowledge source is embedded
+in a local context and the MNC needs to rely extensively on the knowledge source to
+transfer and use that knowledge within the MNC), exacerbating the costs of managing
+knowledge across national boundaries for technology scouts (Carlile and Rebentisch,
+2003; Inkpen and Beamish, 1997). It is hence likely that technology scouts need to make
+compensatory trade-offs in their boundary- spanning efforts and balance staying inside
+national boundaries or spanning national boundaries. The result is that, in harsh times,
+spanning national boundaries may come at the expense of other activities by technology
+scouts, which is the reason we expect national boundary spanning to be punctuated
+and, in many cases, occur only as a one-off activity.
+Second, even if technology scouts span national boundaries, such activities are likely
+to remain directed and constrained by the organization’s existing problems. This limita-
+tion suggests that, in harsh times, boundary spanners most likely seek out predeﬁned
+‘needs’ and have a clear understanding of where to look for relevant knowledge to rem-
+edy the performance-aspiration gap (Monteiro, 2015). As a result, the scope of spanning
+national boundaries will be limited since the range of possible locations and solutions is
+predeﬁned. A technology scout from a German MNC emphasized the directed nature
+of distant boundary-spanning activities in harsh times: ‘The only good thing in those circum-
+stances [harsh times] is that I get very clear instructions from my business heads where to look [in
+China]. . . They [the business unit contacts] will quickly tell me what they want and not want (Exam-
+ple 6).
+Overall, we expect that performance falling far below aspirations can lead to punctu-
+ated national boundary spanning by technology scouts. We propose:
+495
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Proposition 2a: The further MNCs perform below aspirations, the more likely it is
+that technology scouts will span national boundaries in a punctuated way.
+Proposition 2b: In harsh times, technology scouts have a predeﬁned and narrow man-
+date to span national boundaries.
+In slack times. Positive performance feedback induces repeated behaviour (Cyert and
+March, 1963), which would suggests that, in slack times, boundary spanners are likely to
+remain conﬁned within their national borders. However, similar to our argument about
+organizational boundary spanning in slack times, there is reason to believe that slack
+times may also allow technology scouts to span national boundaries and tap into
+knowledge in foreign countries.
+We identiﬁed that managers in slack times do not have immediate problems to solve
+and can focus on ‘next problems’, which encourages experimentation (Nohria and
+Gulati, 1996; Sidhu et al., 2004). Hence, technology scouts in slack times are free from
+the constraints of solving urgent operational problems and can experiment with span-
+ning national boundaries by going to countries in which the MNC has no operating
+activities (Doz et al., 2001). In a similar vein, researchers have suggested that decision
+makers with longer planning horizons (i.e., absent urgent problems) may engage in risk-
+seeking behaviour, indicating that technology scouts in slack times may span more ‘risky’
+(i.e., national) boundaries (Das and Teng, 2001).
+Spanning national boundaries is also facilitated by the presence of excess resources in
+slack times. These resources are particularly important given the costs of being physi-
+cally present in a foreign country and the underlying properties of knowledge (novelty,
+difference and dependence), which make the management of knowledge at such boun-
+daries extremely challenging (Carlile, 2004; Carlile and Rebentisch, 2003). It stands to
+reason that, with the availability of excess resources to support such costly activities in
+slack times, technology scouts are more likely to experiment and span national
+boundaries.
+Supporting these ideas, a global R&D manager (similar to a technology scout) at a
+German MNC explained that, during slack times, spanning national boundaries was
+easier: ‘My business unit has really outperformed the last years, so we have greater freedom to explore
+different geographies. . . As an example, they allowed me to pursue quite a few exploratory programs with
+university professors all over the world, including China, as they are convinced that there are many yet to
+be discovered targets and, in general, therapeutic improvements. . . [I]n the last few years, the unit was
+particularly willing to tap into the “unknown” with me (Example 7).
+In contrast to harsh times, however, we do not expect national boundary spanning to
+be punctuated and to come at the expense of technology scouts’ activities within their
+home locations. Instead, in slack times, boundary spanners can more likely combine
+their activities within and across national boundaries to tap into external knowledge.
+Moreover, the lack of an underlying problem suggests that, in slack times, technology
+scouts are much more open to spanning boundaries all around the globe. This view
+expands on the ambidexterity perspective, which highlights that organizations enjoy
+performance beneﬁts when combining local and foreign knowledge and that slack
+resources are an important moderator for the ambidexterity-performance relationship
+496
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+(Raisch et al., 2009). Our arguments reveal that the reverse relationship may also hold;
+slack times more likely foster ambidextrous behaviour (by boundary spanners) in the ﬁrst
+place. We propose:
+Proposition 2d: The further MNCs perform above aspirations, the more likely it is
+that technology scouts will span national boundaries.
+Proposition 2e: In slack times, technology scouts have broad and open mandates to
+span national boundaries.
+Spanning Internal Boundaries in Harsh and Slack Times
+So far, we have focused on the externally oriented activities of boundary spanners. How-
+ever, connecting to external organizations, possibly in foreign locations, is just one part
+of the boundary-spanning process undertaken by technology scouts. The other equally
+important part is how they manage internal boundaries by presenting the opportunities
+they have externally identiﬁed to internal R&D units, business units or the top manage-
+ment and how this process is shaped by whether the MNC is in harsh or slack times.
+Boundary spanners must not only seek out external knowledge but also sell and inte-
+grate it into the organization (Monteiro, 2015). This persuasive effort can be challenging
+since internal R&D competes with boundary spanners for organizational resources. and
+often MNCs resist the external solutions that boundary spanners present (Birkinshaw
+and Ridderstråle, 1999; Raisch et al., 2009). Hence, a major task for technology scouts
+lies in spanning internal boundaries and convincing organizational members and groups
+(such as a business or R&D unit) to apply and integrate external knowledge (Birkinshaw
+et al., 2017; Meyer et al., 2011; Monteiro and Birkinshaw, 2017; Mudambi, 2011). One
+senior executive responsible for the technology scouting activities in an MNC explained
+this challenge: ‘One of the challenges we face is that our scouts can travel around the world and spend
+endless time digging into new external opportunities, but if franchises [the business units] are then not
+aligned with this approach, it may be an inefﬁcient process overall. . . In some cases, they [the business
+units] still give preferences to internal projects over the external opportunities we present. . . This can be
+frustrating because you can get people inside our R&D organization who are very dogmatic’.
+Research has emphasized that, in general, external knowledge can be a substitute for
+or complement to internal R&D activities (Pisano, 1990; Veugelers, 1997). Hence,
+when spanning internal boundaries to internal constituents, technology scouts may
+either emphasize external knowledge as a substitute for or complement to internal R&D
+efforts. However, in exploring this tension, previous research has not yet probed
+whether MNCs are in harsh or slack times. Next, we discuss how harsh and slack times
+ultimately shape how technology scouts manage knowledge across internal boundaries.
+In harsh times. Global boundary spanning to tap into new knowledge is generally a
+costly process requiring signiﬁcant ﬁnancial, technological, organizational, and manage-
+rial resources (Castellani et al., 2013; Levinthal and March, 1981). For boundary span-
+ners, this process will entail identifying possible technological solutions around the
+globe, translating and disseminating the search results within the MNC, and ultimately
+internalizing the externally sourced technologies (Monteiro, 2015).
+497
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Given the previously outlined resource constraints in harsh times and that R&D
+budgets tend to remain stable (e.g., as a ﬁxed percentage of revenue), managers would
+need to make compensatory trade-offs in allocating resources between R&D and the
+activities by technology scouts. We therefore expect that, in harsh times, technology
+scouts emphasize external knowledge as a possible alternative and substitute for internal
+R&D when they span internal boundaries to present identiﬁed knowledge to R&D units,
+business units or managers.
+In harsh times, organizations are also characterized by conﬂict because they have
+failed to achieve the performance to which they aspired, leading to tension among the
+MNC’s coalitions vying for scarce resources (Cyert and March, 1963). While, in princi-
+ple, organizations try to avoid conﬂict (Pitelis, 2007), once it is present, boundary span-
+ners may deliberately depart from existing internal ways of solving problems and seek
+alternative solutions. In such cases, technology scouts may intentionally utilize this state
+of tension and present external solutions as substitute for internal initiatives. A director
+of licensing and acquisitions and technology scout at a pharmaceutical MNC high-
+lighted how, during harsh times, her boundary-spanning efforts emphasized how exter-
+nal solutions can be substitutes for internal R&D activities. ‘Based on [. . .] performance
+outcomes, we cut programs on a daily basis and they are very sensitive to changes in their KPIs (key per-
+formance indicators). It is also true that some units, as a result of underperformance, had substantial lay-
+offs, so they are in dire need of external opportunities, which meant more work for me. In many cases, we
+measured the FTE [full time employee] rate and compared it against our internal one. As you can imag-
+ine, this is not a great conversation [with the internal R&D units] as it usually ends up calculating sci-
+entists’ costs from our internal R&D operations versus potential external partners (Example 8)’.
+Overall, we suggest that, in MNCs performing below aspirations, technology scouts
+spanning internal boundaries will present external solutions as a substitute for internal
+R&D. More formally, we propose:
+Proposition 3a: In harsh times, when spanning internal boundaries, technology scouts
+are more likely to present external knowledge as a substitute for internal R&D
+activities.
+The above arguments indicate that harsh times may also inﬂuence the way in which
+technology scouts engage with other units inside their organizations. Research has dis-
+tinguished various ways by which boundary spanners mediate between the external
+environment and the internal organization, which range from mere communciation,
+channeling, and transfer of knowledge to translating and transforming external knowl-
+edge for internal constituents (Carlile, 2002, 2004; Monteiro and Birkinshaw, 2017).
+Transferring or channeling knowledge is grounded in information processing and com-
+munication of facts. Conversely, translating and transforming knowledge requires tech-
+nology scouts to substantially engage with their internal consitutents and create
+common interests to have external knowledge mobilized internally (Carlile, 2004; Mon-
+teiro and Birkinshaw, 2017).
+We identiﬁed that, in harsh times, technology scouts are more likely to present exter-
+nal solutions as substitutes for internal initiatives, so one would expect that boundary
+spanners would focus on transferring ‘ready-to-use’ external knowledge into the
+498
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+organization but without engaging in more value-added (but costly and time-consum-
+ing) boundary-spanning processes such as translating or transforming. As the technology
+scout revealed in Example 8, in harsh times, she focused on transferring external infor-
+mation and communicating facts to the organization’s internal R&D constitutents.
+Indeed, such behaviour ﬁts the transferring and channeling type of boundary spanning
+(Carlile, 2004; Monteiro and Birkinshaw, 2017). We suggest that, when taking into
+account prior performance, harsh times (i.e., performnace below aspirations) will lead
+technology scouts to span internal boundaries predominantly through the channeling
+and transferring of external knowledge towards their internal constituents. More for-
+mally, we propose:
+Proposition 3b: In harsh times, when spanning internal boundaries, technology scouts
+are more likely to emphasize the transfer and channelling of external knowledge
+into the MNC.
+In slack times. In contrast to harsh times, in slack times, technology scouts are less likely to
+be driven by substitution pressures. In slack times, MNCs enjoy excess managerial and
+ﬁnancial resources that they have accumulated but have not yet consumed or incorpo-
+rated into organizational processes (Cyert and March, 1963). If managers follow stand-
+ard operating procedures in allocating resources to R&D (e.g., as a percentage of
+revenue), performance above aspirations may allow ﬁrms to allocate some resources to
+global boundary-spanning initiatives while still maintaining their level of investment in
+internal R&D. Hence, technology scouts in slack times are under less pressure to make
+trade-offs between internal R&D and external knowledge and have more time to sell
+external innovative ideas within the organization (Mudambi and Swift, 2009). More-
+over, in slack times, boundary spanners will ﬁnd it easier to draw on the attention of
+managers who have no immediate problem to solve. Having more managerial attention
+available increases the probability that boundary spanners can champion external activ-
+ities as a complement to internal R&D within the organization, and look at global exter-
+nal technologies in a more complementary way (Crossan and Apaydin, 2010; Dutton
+et al., 2001).
+In addition, in slack times, there is likely less conﬂict between coalitions within the
+MNC (Cyert and March, 1963). Given that organizations tend to eschew conﬂict,
+boundary spanners will avoid presenting external opportunities as a substitute for inter-
+nal R&D initiatives to their internal constituents. Instead, it becomes more likely that
+the technology scouts make a conscious effort to underscore the complementarity nature
+between what they have found and internal R&D initiatives. This reduces tensions
+which could emerge from novel external knowledge being brought into the organization
+(Mudambi and Swift, 2009). A manager responsible for external R&D units (compara-
+ble to technology scouts) at a German MNC revealed this behaviour during slack times.
+‘I still prefer the mode when things are going well as we have greater freedom to learn what is out there.
+The good thing is that they are interested in how what I ﬁnd ultimately will help their [internal] R&D
+initiatives and help the [business] unit grow. . . I showcase to them [the R&D unit managers] how
+what I ﬁnd actually helps them achieve their goals (Example 9)’.
+499
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+The example demonstrates that, in slack times, technology scouts may emphasize the
+potential complementary beneﬁts of their activities for the internal R&D units. This
+once again reﬂects the ambidexterity perspective, which suggests that organizations
+enjoy performance beneﬁts when combining both internal and external R&D (Rothaer-
+mel and Alexandre, 2009). Our arguments posit that the reverse relationship may also
+hold; slack times are more likely to foster ambidextrous behaviour by allowing technol-
+ogy scouts to explore complementarities of internal R&D and external opportunities.
+We propose:
+Proposition 3c: In slack times, when spanning internal boundaries, technology scouts
+are more likely to present external knowledge as a complement to internal R&D
+activities.
+The availability of slack also increases the likelihood that technology scouts can empha-
+size more value-added boundary-spanning activities, such as the translation and trans-
+formation of external knowledge to more effectively integrate it into the organization
+(Monteiro and Birkinshaw, 2017). The translation of knowledge requires some manipu-
+lation by scouts so that it can be better understood inside the MNC (Carlile, 2004;
+Tushman and Scanlan, 1981). In particular, transforming knowledge requires technol-
+ogy scouts to recognize novel dependencies between external knowledge and internal
+R&D activities and deﬁne common interests with the internal units (Carlile, 2002; Mon-
+teiro and Birkinshaw, 2017). Both translation and transformation by technology scouts
+are costly, and hence we expect such behaviour to more likely transpire in slack times. A
+technology scout at Merck discussed his interactions with one of the successful business
+units and revealed that working with that unit required substantial listening and trans-
+forming knowledge for the internal R&D organization: ‘. . . one of the most critical things
+with them is making sure that there is concurrence between what I am looking for and what they [the
+business unit] need. That’s where it starts. Interestingly, the successful franchises are the ones more open
+to such conversations. In such cases, I try to discuss the usefulness of the external technologies with the
+unit and try hard to reconcile what I found with the franchise’s areas of interests and needs (Example
+10)’.
+Hence, slack times profoundly shape the way technology scouts interact with their
+internal counterparts and how they manage knowledge across boundaries. While
+prior studies have shown that boundary spanners who effectively combine boundary
+spanning and managing constituents and tensions within organizations lead to superior
+outcomes (Carlile, 2004; Mudambi and Swift, 2009), we suggest that performance
+above aspirations may allow technology scouts to engage in these value-added activities
+(such as mitigating tensions between internal and external activities) in the ﬁrst place.
+We propose:
+Proposition 3d: In slack times, when spanning internal boundaries, technology scouts
+are more likely to emphasize the translation and transformation of external knowl-
+edge for the MNC.
+500
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+CONCLUSION
+Scholars have emphasized that spanning organizational and national boundaries to
+access external knowledge has increased considerably in recent decades (Bierly et al.,
+2009; Monteiro and Birkinshaw, 2017; Rothaermel and Alexandre, 2009). An impor-
+tant role in accessing external knowledge has been ascribed to boundary spanners, who
+mediate between the MNC’s external environment and relevant actors (e.g., R&D units)
+inside the organization (Tushman and Katz, 1980). Many MNCs have formed dedi-
+cated units (e.g., technology scouts), not only to systematically span organizational and
+national boundaries to tap into external knowledge but also to span internal boundaries
+to make external knowledge available within the organization (Gassmann and Gaso,
+2004; Monteiro, 2015) and researchers have also highlighted that such boundary-
+spanning processes are associated with a number of important performance beneﬁts
+(Doz et al., 2001; Tushman and Katz, 1980). Surprisingly, however, much less scholarly
+attention has focused on the reverse relationship – that is, how a ﬁrm’s prior perform-
+ance affects boundary-spanning activities and, in particular, the activities of technology
+scouts.
+To address this question, we have situated technology scouts in either harsh times
+(ﬁrm performance below aspirations) or slack times (performance above aspirations) and
+have presented several propositions related to how boundary-spanning activities are
+likely to unfold under those circumstances. In particular, we have focused on an emer-
+gent stream of research examining what boundary spanners in MNCs, particularly tech-
+nology scouts, actually do (e.g., Gassmann and Gaso, 2004; Monteiro, 2015; Monteiro
+and Birkinshaw, 2017). Table I summarizes our predictions of how harsh and slack
+times ultimately affect whether, when and how technology scouts span organizational,
+national and internal boundaries.
+Our theoretical model makes several contributions to the literature. First, our frame-
+work provides a behavioural explanation for the triggering mechanisms for different
+types of boundary-spanning processes in an MNC and suggests that both harsh and
+slack times may give rise to the inception of a boundary-spanning unit in the ﬁrst place.
+The study highlights that while the link between boundary spanning and performance
+has been established by prior literature, how performance ultimately shapes boundary-
+spanning activities in global organizations is an equally important area of inquiry.
+We propose that, in both harsh and slack times, technology scouts increase the inten-
+sity of crossing organizational boundaries, but for very different reasons. While in harsh
+times, they are motivated by a problem to seek external knowledge, in slack times, they
+may opportunistically consider ‘next problems’. This distinction has implications for a
+third category of MNCs: those located around the aspiration point with neither the pres-
+sure nor the short-term slack resources to cross organizational boundaries. Figure 1 pro-
+vides a graphical representation of how the intensity of organizational boundary
+spanning by technology scouts may be shaped by performance aspiration comparisons.
+Second, we suggest that harsh and slack times impose important conditions on how
+technology scouts balance their boundary-spanning activities, in particular, when they
+span national boundaries to tap into foreign knowledge. We expect that in harsh times,
+problem-oriented motives may encourage spanning national boundaries, but limited
+501
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+resources in harsh times lead to trade-offs for technology scouts to span national boun-
+daries and maintain their activities inside their home location. As a result, spanning
+national boundaries in harsh times will be more likely one-off and more directed. Con-
+versely, in slack times, technology scouts have a more open mandate to engage in
+national boundary spanning without having to make compensatory trade-offs. This per-
+spective adds fresh insights to the ambidexterity debate by considering performance as
+an important input (not output) of spanning boundaries in an ambidextrous way (Raisch
+et al., 2009).
+Table I. Summary of propositions of how harsh and slack times shape technology scouts’ boundary-
+spanning behaviour
+Boundary Spanned
+Activity
+Harsh times
+Slack times
+Organiza-tional
+Technology scouts span
+organizational
+boundaries to tap
+into external sources of
+knowledge.
+Technology scouts inten-
+sify boundary spanning
+the more performance
+falls below MNC’s aspira-
+tion. (P1a) (Example 1)
+Increase in likelihood of
+boundary-spanning unit
+being formalized and
+incepted (P1b)
+(Example 2)
+Technology scouts inten-
+sify boundary spanning
+intensity the more per-
+formance rises above
+MNC’s aspiration.
+(P1c) (Example 3a, b)
+Increase in likelihood of
+boundary-spanning unit
+being formalized and
+incepted (P1d) (Exam-
+ple 4)
+Close to Aspiration Point: Lower boundary-spanning
+intensity by technology scouts (P1e, P1f)
+National
+Technology scouts span
+national boundaries
+to reach ‘best in the
+world’ knowledge in
+foreign locations.
+Technology scouts engage
+in punctuated national
+boundary spanning
+(P2a) (Example 5,6)
+Technology scouts have
+a predeﬁned and nar-
+row scope to span
+national boundaries.
+(P2b) (Example 6)
+Technology scouts more
+likely span national
+boundaries (in addition
+to activities at home).
+(P2c) (Example 7)
+Technology scouts have
+broad and open man-
+dates to span national
+boundaries (P2d)
+(Example 7)
+Internal
+Technology scouts span
+internal boundaries
+to R&D and business
+units to present and
+mobilize external
+opportunities within the
+organization.
+Technology scouts more
+likely present external
+knowledge as a substi-
+tute for internal R&D
+activities. (P3a) (Exam-
+ple 8) Technology
+scouts emphasize the
+transfer and channeling
+of knowledge into the
+MNCs. (P3b) (Example
+8)
+Technology scouts more
+likely present external
+knowledge as a comple-
+ment for internal R&D
+activities. (P3c) (Exam-
+ple 9) Technology
+scouts emphasize the
+translation and trans-
+forming of knowledge
+for use within the
+MNCs. (P3d) (Example
+10)
+502
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Third, we have revealed important behavioural clues as to how technology scouts
+span internal boundaries to connect and engage with their internal constituents in harsh
+and slack times. We identiﬁed that, when spanning internal boundaries in harsh times,
+technology scouts are more likely to present external solutions as substitutes to internal
+R&D, while in slack times, technology scouts are more likely to showcase external solu-
+tions as complements to internal R&D. In a related vein, we identiﬁed that, due to their
+limited resources, technology scouts in harsh times are likely to emphasize the channel-
+ling and transferring of external knowledge into the organization, while we expect them
+in slack times to focus on the translation and transformation of external knowledge for
+their internal constituents (Monteiro and Birkinshaw, 2017). This extends prior work
+that suggested that value-adding, boundary-spanning activities such as transformation
+allow for establishing common interests and managing tensions across boundaries,
+which can ultimately improve an organization’s competitive advantage, in particular
+when knowledge at the boundaries is characterized by high novelty (Carlile, 2004;
+Mudambi and Swift, 2009; Tippman et al., 2017). We reveal that such value-adding
+behaviour by technology scouts may, in fact, be affected by performance feedback and
+is more likely to emerge in slack times.
+Finally, the study expands prior work related to the behavioural theory of the ﬁrm.
+While researchers have long considered harsh and slack times as important contingen-
+cies for broad activities such as R&D spending (Chen and Miller, 2007; Greve, 2003a),
+our paper focuses on a particular type of organizational activity (boundary spanning)
+and provides an in-depth look at the behaviour of speciﬁc actors (technology scouts)
+when spanning organizational, national and internal boundaries. This focus allows us to
+move away from the organizational level typically used in behavioural studies and get
+closer to how harsh and slack times affect the actual behaviour of individuals within
+MNCs. Hence, the paper connects the behavioural theory of the ﬁrm to the growing
+Figure 1. Global boundary spanning by technology scouts induced by harsh and slack times. [Colour
+ﬁgure can be viewed at wileyonlinelibrary.com]
+503
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+literature on boundary spanners in MNCs (such as technology scouts or corporate exec-
+utives) and the activities they perform (e.g., Birkinshaw et al., 2017; Monteiro and Bir-
+kinshaw, 2017).
+Our theoretical model, applying performance feedback as an input to boundary-
+spanning activities, could be extended in several ways. First, throughout the paper, we
+have made the assumption that technology scouts deal with knowledge with some ele-
+ments of novelty, i.e., knowledge that represents ‘something new and different’ for the
+organization or ‘departs signiﬁcantly from existing product architecture’ (Carlile and
+Rebentisch, 2003, p. 1184). However, recent research (Monteiro, 2015) has shown that
+sometimes an MNC goes around the globe only to end up paying attention to technolo-
+gies that are very close to its existing knowledge base. In this paper, we have not differ-
+entiated opportunities with respect to their extent of novelty and how this might affect
+boundary-spanning behaviour by technology scouts in harsh and slack times. Rather,
+our focus is on how different environmental conditions (i.e., being in harsh or slack
+times) determine different boundary-spanning behaviours. Our ﬁndings open new
+research avenues, for instance, by combining the propositions we developed here with
+Carlile’s (2004) framework for managing of knowledge across boundaries in the context
+of product innovations, which distinguishes three key boundaries with increasing com-
+plexity (syntactic, semantic and pragmatic) and three key processes by boundary span-
+ners (transfer, translation and transformation). More deeply examining the type of
+external opportunities, possibly at different levels of novelty, and further connecting this
+literature with that on the behavior and processes performed by technology scouts
+(Monteiro and Birkinshaw, 2017) may be a promising path for further research.
+Second, we have separately discussed three distinct activities of technology scouts
+related to organizational, national, and internal boundaries. However, technology
+scouts often engage in these activities simultaneously, and opportunities and challenges
+from the process stem from technology scouts embeddedness in both an external (e.g.,
+their activities with ﬁrms outside the organization) and internal contexts (e.g., the activ-
+ities by which they engage with actors inside the organization) (Meyer et al., 2011; Mon-
+teiro and Birkinshaw, 2017). While our paper makes several suggestions as to how harsh
+and slack times affect technology scouts’ attempts to balance boundary-spanning activ-
+ities (e.g., compensatory trade-offs stemming from spanning national boundaries in
+harsh times), future research could more systematically examine how technology scouts
+concomitantly engage in all the outlined activities in harsh and slack times. To that end,
+it may become necessary to once more consider that boundary spanning is not necessar-
+ily a differentiated and deﬁned function but may require several actors in different
+boundary-spanning roles (Friedman and Podolny, 1992). For instance, some technology
+scouts may focus on the generation of external opportunities, while others focus on
+mobilizing such opportunities within the organization. Examining these processes in
+more detail may also allow a more systematic investigation of how, for example, the
+intensity of internal boundary spanning unfolds or how technology scouts engage with
+external constituents (potential knowledge sources) in harsh and slack times, which we
+did not uncover in the paper. We believe the way in which a division of labour in
+boundary spanning is effectively set up in global organizations and how the setup is
+shaped by harsh and slack times are questions for future research.
+504
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Finally, we have emphasized global boundary spanning as a way to tap into external
+and foreign knowledge. However, gaining access to such knowledge often requires reci-
+procity, i.e., revealing knowledge to potential external partners (Monteiro et al., 2008;
+Monteiro and Birkinshaw, 2017). While we have characterized technology scouts in gen-
+eral as knowledge-seeking, one could easily imagine them also transmitting knowledge
+to their external constituents (e.g., to help them prepare for submitting knowledge to the
+MNC, or sharing information in general). We would conjecture that, over time, technol-
+ogy scouts trying to access external knowledge without revealing their MNC’s knowl-
+edge would compromise trust between parties, and therefore, the MNC’s boundary-
+spanning efforts will become increasingly difﬁcult (Monteiro et al., in press). It would be
+interesting to expand our study’s activities by technology scouts to include how they
+interact with their external environment (e.g., emphasizing secrecy vs. being open when
+engaging with external partners) and how this behaviour may be shaped by harsh and
+slack times.
+Overall, we believe that global boundary spanning has become an increasingly
+important activity for MNCs in many industries. Our study illustrates the behaviour of
+boundary spanners engaged in this process in the form of technology scouts. We reveal
+that harsh and slack times may be important triggers for whether, when and how tech-
+nology scouts ultimately span boundaries. We hope this paper will inspire more research
+relating to the micro-level behaviour of decision makers and technology scouts in MNCs
+and how their activities may be triggered by macro-organizational factors such as harsh
+and slack times. We believe that behavioural arguments, in particular, theories of per-
+formance feedback, may offer fertile ground for future research to make such
+connections.
+ACKNOWLEDGMENTS
+We thank Matthew Bidwell, Julian Birkinshaw, Olivier Chatain, Rahul Kapoor, Riita Katila, Dan Levinthal,
+Evan Rawley, Lori Rosenkopf and Christopher Zott, the reviewers, the Special Issue editors and participants
+at the paper development workshop at Ivey Business School for their comments and suggestions on earlier
+versions of this manuscript. Funding for this project was provided by the Mack Institute for Innovation
+Management at the Wharton School.
+NOTES
+[1] We make the important assumption that technology scouts deal with knowledge with some elements of
+novelty, i.e., knowledge that represents ‘something new and different’ for the organization or ‘departs
+signiﬁcantly from existing product architecture’ (Carlile and Rebentisch, 2003, p. 1184). Carlile’s
+(2004) framework for managing knowledge across boundaries when innovation is desired suggests that
+novelty leads to increasing complexity of knowledge boundaries (e.g., due to the specialization of actors
+in technological areas or their mutual dependence on each other to ultimately make use of the knowl-
+edge). Such highly complex knowledge boundaries are exactly the type of boundaries we expect tech-
+nology scouts to span. In our conclusion, we suggest future areas of research that could explicitly
+differentiate degrees of novelty of external opportunities and boundary spanning by technology scouts.
+[2] For the purpose of clarity, our paper separately examines these three distinct activities by technology
+scouts. However, we acknowledge that technology scouts engage in all of these activities concomitantly,
+and that opportunities and challenges from the process stem from technology scouts being simultane-
+ously embedded in external, foreign and corporate contexts (Meyer et al., 2011; Monteiro and Birkin-
+shaw, 2017). We address this in the discussion section.
+505
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+[3] Fleming and Waguespack (2007) noted that ‘although the measures of boundary spanning and broker-
+age correlate empirically, the concepts remain theoretically distinct’.
+[4] We acknowledge that this is an extreme representation of boundary spanners. Indeed, researchers have
+explained that boundary spanning is not necessarily a differentiated function and boundary-spanning
+roles may be performed by different actors (Friedman and Podolny, 1992). In a similar vein, technology
+scouts may perform differentiated tasks, including the generation of opportunities and mobilizing such
+opportunities within the organization. We expand on these ideas in the discussion section.
+[5] For the purpose of our paper, managers can be on the level of the top management team or at the busi-
+ness unit level. Importantly, these managers directly assign mandates to boundary-spanning units such
+as technology scouts.
+[6] Our arguments are based on ﬁnancial performance dimensions (e.g., return on assets or net income),
+which follows Cyert’s and March’s original idea to consider metrics that directly affect decision-makers.
+However, Cyert and March also considered non-ﬁnancial performance dimensions, including produc-
+tion and inventory, and market share goals. It is also likely that managers take into consideration inno-
+vative performance – that is, its innovative output and how it compares to industry peers. While we
+believe our theoretical framework applies to non-ﬁnancial performance measures, we leave such an
+exploration for future research.
+[7] We acknowledge that there are other non-behavioural explanations which are likely to affect an MNC’s
+global boundary-spanning activities (e.g., prior experience) While we are cognizant of the importance
+of those alternative explanations, our goal is to reveal the unique importance of performance feedback
+to global boundary-spanning activities and technology scouts speciﬁcally.
+[8] Each interview lasted on average 45 minutes. In prior work, we also documented a detailed description
+of the technology-scouting process and some of its fundamental tensions in a multinational organization
+(Klueter and Monteiro, 2014).
+[9] BTF research has long indicated that absolute performance and adverse events (e.g., project with-
+drawals, railway accidents, or space-launch accidents) may substantially alter an organization’s behav-
+iour (Madsen and Desai, 2010). We expect very high and very low absolute performance to be
+incorporated into the aspirations of organizational decision makers so that our theoretical framework
+also largely applies in such events.
+[10] We are excluding extreme cases of poor performance. Firms performing very poorly (i.e., verging on
+bankruptcy) behave differently, as managers shift their attention to survival, which leads these ﬁrms to
+search less (Chen and Miller, 2007).
+[11] While, from this perspective, slack times enable ﬁrms to engage in and intensify global boundary-
+spanning activities, we cannot make claims that such behaviour ultimately leads to innovation. Research
+has emphasized that the direct relationship of slack to innovation outcomes remains subject to debate
+(Nohria and Gulati, 1996; Pitelis, 2007).
+[12] The aforementioned studies revealed that the overwhelming proportion of R&D activity is within the
+MNC’s home countries (up to 90 per cent). We hence formulate our propositions based on crossing
+national boundaries, i.e., tapping into knowledge beyond the ﬁrm’s home country. However, we
+acknowledge that MNCs have subsidiaries located around the globe and we believe our theorizing
+could be extended and applied to spanning national boundaries to locations in which the MNCs are less
+active.
+[13] Once we understand that MNCs make choices to deliberately span national boundaries to tap into for-
+eign knowledge, similar arguments can apply when considering different forms of knowledge proximity
+(e.g., geographical or technological). We expand on such alternatives and the necessity of incorporating
+alternative boundaries into our arguments in the discussion section. For the purposes of this paper, how-
+ever, we limit ourselves to spanning national boundaries.
+REFERENCES
+Abrahamson, E. and Park, C. (1994). ‘Concealment of negative organizational outcomes: An agency
+theory perspective’. Academy of Management Journal, 37, 1302–34.
+Ahuja, G. (2000). ‘The duality of collaboration: Inducements and opportunities in the formation of inter-
+ﬁrm linkages’. Strategic Management Journal, 21, 317–43.
+Aldrich, H. and Herker, D. (1977). ‘Boundary spanning roles and organization structure’. Academy of
+Management Review, 2, 217–30.
+506
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Almeida, P., Song, J. and Grant, R. M. (2002). ‘Are ﬁrms superior to alliances and markets? An empiri-
+cal test of cross-border knowledge building’. Organization Science, 13, 147–61.
+Ancona, D. and Caldwell, D. (1992). ‘Bridging the boundary: External activity and performance in
+organizational teams’. Administrative Science Quarterly, 37, 634–65.
+Asakawa, K., Song, J. and Kim, S. J. (2014). ‘Open innovation in multinational corporations’. In Ches-
+brough, H., Vanhaverbeke, W. and West, J. (Eds), New Frontiers in Open Innovation. Oxford: Oxford
+University Press, 157–68.
+Banker, R., Cao, Z., Menon, N. M. and Mudambi, R. (2013). ‘The Red Queen in action: The longitu-
+dinal effects of capital investments in the mobile telecommunications sector’. Industrial and Corporate
+Change, 22, 1195–228.
+Belderbos, R., Leten, B. and Suzuki, S. (2013). ‘How global is R&D? Firm-level determinants of home-
+country bias in R&D’. Journal of International Business Studies, 44, 765–86.
+Bierly, P. E., Damanpour, F. and Santoro, M. D. (2009). ‘The application of external knowledge:
+Organizational conditions for exploration and exploitation’. Journal of Management Studies, 46, 481–
+509.
+Birkinshaw, J. (1996). ‘How multinational subsidiary mandates are gained and lost’. Journal of International
+Business Studies, 27, 467–95.
+Birkinshaw, J., Ambos, T. and Bouquet, C. (2017). ‘Boundary spanning activities of corporate HQ exec-
+utives: Insights from a longitudinal study’. Journal of Management Studies, 54, 422–54.
+Birkinshaw, J. and Hood, N. (2000). ‘Characteristics of foreign subsidiaries in industry clusters’. Journal of
+International Business Studies, 31, 141–54.
+Birkinshaw, J. and Ridderstråle, J. (1999). ‘Fighting the corporate immune system: A process study of
+subsidiary initiatives in multinational corporations’. International Business Review, 8, 149–80.
+Bromiley, P. (1991). ‘Testing a causal model of corporate risk taking and performance’. Academy of Man-
+agement Journal, 34, 37–59.
+Burt, R. S. (1992). Structural Holes: The Social Structure of Competition. Cambridge, MA: Harvard University
+Press.
+Cantwell, J. (1989). Technological Innovation and Multinational Corporations. Oxford: Basil Blackwell.
+Carlile, P. R. (2002). ‘A pragmatic view of knowledge and boundaries: Boundary objects in new product
+development’. Organization Science, 13, 442–55.
+Carlile, P. R. (2004). ‘Transferring, translating, and transforming: An integrative framework for manag-
+ing knowledge across boundaries’. Organization Science, 15, 555–68.
+Carlile, P. R. and Rebentisch, E. S. (2003). ‘Into the black box: The knowledge transformation cycle’.
+Management Science, 49, 1180–95.
+Castellani, D., Jimenez, A. and Zanfei, A. (2013). ‘How remote are R&D labs? Distance factors and
+international innovative activities’. Journal of International Business Studies, 44, 649–75.
+Chen, W. and Miller, K. (2007). ‘Situational and institutional determinants of ﬁrms R&D search inten-
+sity’. Strategic Management Journal, 28, 369–81.
+Chesbrough, H., Vanhaverbeke, W. and West, J. (2006). Open Innovation: Researching a New Paradigm. New
+York: Oxford University Press.
+Crossan, M. M. and Apaydin, M. (2010). ‘A multi-dimensional framework of organizational innovation:
+A systematic review of the literature’. Journal of Management Studies, 47, 1154–91.
+Cyert, R. and March, J. (1963). A Behavioral Theory of the Firm. Englewood Cliffs, NJ: Prentice Hall Inc.
+D’Aveni, R. A., Dagnino, G. B. and Smith, K. G. (2010). ‘The age of temporary advantage’. Strategic
+Management Journal, 31, 1371–85.
+Das, T. and Teng, B. S. (2001). ‘Strategic risk behaviour and its temporalities: Between risk propensity
+and decision context’. Journal of Management Studies, 38, 515–34.
+De Clercq, D., Casta~ner, X. and Belausteguigoitia, I. (2011). ‘Entrepreneurial initiative selling within
+organizations: Towards a more comprehensive motivational framework’. Journal of Management Stud-
+ies, 48, 1269–90.
+Dollinger, M. J. (1984). ‘Environmental boundary spanning and information processing effects on organi-
+zational performance’. Academy of Management Journal, 27, 351–68.
+Doz, Y., Santos, J. and Williamson, P. (2001). From Global to Metanational: How Companies Win in the Knowl-
+edge Economy. Cambridge, MA: Harvard Business School Press.
+Doz, Y. L. and Wilson, K. (2012). Managing Global Innovation: Frameworks for Integrating Capabilities Around the
+World. Cambridge, MA: Harvard Business Press.
+Dutton, J. E., Ashford, S., O’Neill, R. M. and Lawrence, K. A. (2001). ‘Moves that matter: Issue selling
+and organizational change’. Academy of Management Journal, 44, 716–36.
+507
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Fleming, L. and Waguespack, D. M. (2007). ‘Brokerage, boundary spanning, and leadership in open
+innovation communities’. Organization Science, 18, 165–80.
+Friedman, R. A. and Podolny, J. (1992). ‘Differentiation of boundary spanning roles: Labor negotiations
+and implications for role conﬂict’. Administrative Science Quarterly, 37, 28–47.
+Galunic, D. C. and Rodan, S. A. (1998). ‘Resource recombinations in the ﬁrm: Knowledge structures
+and the potential for Schumpeterian innovation’. Strategic Management Journal, 19, 1193–201.
+Gassmann, O. and Gaso, B. (2004). ‘Insourcing creativity with listening posts in decentralized ﬁrms’. Cre-
+ativity and Innovation Management, 13, 3–14.
+Gittelman, M. (2007). ‘Does geography matter for science-based ﬁrms? Epistemic communities and the
+geography of research and patenting in biotechnology’. Organization Science, 18, 724–41.
+Greve, H. (1998). ‘Performance, aspirations, and risky organizational change’. Administrative Science Quar-
+terly, 43, 58–86.
+Greve, H. (2003a). ‘A behavioral theory of R&D expenditures and innovations: Evidence from shipbuild-
+ing’. Academy of Management Journal, 46, 685–702.
+Greve, H. (2003b). Organizational Learning from Performance Feedback: A Behavioral Perspective on Innovation and
+Change. Cambridge: Cambridge University Press.
+Gupta, A. K. and Govindarajan, V. (2000). ‘Knowledge ﬂows within multinational corporations’. Strategic
+Management Journal, 21, 473–96.
+Hagedoorn, J. (1993). ‘Understanding the rationale of strategic technology partnering: Interorganiza-
+tional modes of cooperation and sectoral differences’. Strategic Management Journal, 14, 371–85.
+Hagedoorn, J. and Schakenraad, J. (1994). ‘The effect of strategic technology alliances on company per-
+formance’. Strategic Management Journal, 15, 291–309.
+Hannigan, T. J., Cano-Kollmann, M. and Mudambi, R. (2015). ‘Thriving innovation amidst manufac-
+turing decline: The Detroit auto cluster and the resilience of local knowledge production’. Industrial
+and Corporate Change, 24, 613–34.
+Inkpen, A. C. and Beamish, P. W. (1997). ‘Knowledge, bargaining power, and the instability of interna-
+tional joint ventures’. Academy of Management Review, 22, 177–202.
+Iyer, D. and Miller, K. (2008). ‘Performance feedback, slack, and the timing of acquisitions’. Academy of
+Management Journal, 51, 808–22.
+Kale, P., Dyer, J. H. and Singh, H. (2002). ‘Alliance capability, stock market response, and long-term
+alliance success: The role of the alliance function’. Strategic Management Journal, 23, 747–67.
+Katz, R. and Allen, T. J. (1982). ‘Investigating the not invented here (NIH) syndrome: A look at the per-
+formance, tenure, and communication patterns of 50 R&D project groups’. R & D Management, 12,
+7–19.
+Katz, R. and Tushman, M. L. (1981). ‘An investigation into the managerial role and career paths of
+gate keepers and project supervisors in a major R & D facility’. R & D Management, 11, 103–10.
+Kirzner, I. M. (1973). Competition and Entrepreneurship. Chicago, IL: University of Chicago Press.
+Klueter, T. and Monteiro, F. (2014). ‘Building the Virtual Lab: Global Licensing at Merck’. Insead: Case
+Number 07/2014-5692
+Kranenburg, H., Hagedoorn, J. and Lorenz-Orlean, S. (2014). ‘Distance costs and the degree of inter-
+partner involvement in international relational-based technology alliances’. Global Strategy Journal, 4,
+280–91.
+Laursen, K. and Salter, A. (2006). ‘Open for innovation: The role of openness in explaining innovation
+performance among UK manufacturing ﬁrms’. Strategic Management Journal, 27, 131–50.
+Leiponen, A. and Helfat, C. (2009). ‘Innovation objectives, knowledge sources, and the beneﬁts of
+breadth’. Strategic Management Journal, 31, 224–36.
+Levinthal, D. and March, J. (1981). ‘A model of adaptive organizational search’. Journal of Economic Behav-
+ior and Organization, 2, 307–33.
+Levinthal, D. and Wu, B. (2010). ‘Opportunity costs and non-scale free capabilities: Proﬁt maximization,
+corporate scope, and proﬁt margins’. Strategic Management Journal, 31, 780–801.
+Madsen, P. M. and Desai, V. (2010). ‘Failing to learn? The effects of failure and success on organiza-
+tional learning in the global orbital launch vehicle industry’. Academy of Management Journal, 53, 451–
+76.
+March, J. and Simon, H. (1958). Organizations. New York: Wiley.
+Meyer, K. E., Mudambi, R. and Narula, R. (2011). ‘Multinational enterprises and local contexts: The
+opportunities and challenges of multiple embeddedness’. Journal of Management Studies, 48, 235–52.
+Monteiro, F., Mol, M. and Birkinshaw, J. (in press). ‘Ready to be open? Explaining the ﬁrm level bar-
+riers to beneﬁting from openness to external knowledge’. Long Range Planning, in press.
+508
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Monteiro, L., Arvidsson, N. and Birkinshaw, J. (2008). ‘Knowledge ﬂows within multinational corpora-
+tions: Explaining subsidiary isolation and its performance implications’. Organization Science, 19, 90–
+107.
+Monteiro, L. F. (2015). ‘Selective attention and the initiation of the global knowledge-sourcing process in
+multinational corporations’. Journal of International Business Studies, 46, 505–27.
+Monteiro, L. F. and Birkinshaw, J. (2017). ‘The external knowledge sourcing process in multinational
+corporations’. Strategic Management Journal, 38, 342–62.
+Mudambi, R. (2011). ‘Hierarchy, coordination, and innovation in the multinational enterprise’. Global
+Strategy Journal, 1, 317–23.
+Mudambi, R. and Swift, T. (2009). ‘Professional guilds, tension and knowledge management’. Research
+Policy, 38, 736–45.
+Mudambi, R. and Swift, T. (2014). ‘Knowing when to leap: Transitioning between exploitative and
+explorative R&D’. Strategic Management Journal, 35, 126–45.
+Nobel, R. and Birkinshaw, J. (1998). ‘Innovation in multinational corporations: Control and communica-
+tion patterns in international R & D operations’. Strategic Management Journal, 19, 479–96.
+Nohria, N. and Gulati, R. (1996). ‘Is slack good or bad for innovation?’. Academy of Management Journal,
+39, 1245–64.
+Obstfeld, D. (2005). ‘Social networks, the Tertius lungens and orientation involvement in innovation’.
+Administrative Science Quarterly, 50, 100–30.
+Patel, P. and Vega, M. (1999). ‘Patterns of internationalization of corporate technology: Location vs.
+home country advantages’. Research Policy, 28, 145–55.
+Phene, A., Fladmoe-Lindquist, K. and Marsh, L. (2006). ‘Breakthrough innovations in the U.S. biotech-
+nology industry: The effects of technological space and geographic origin’. Strategic Management Jour-
+nal, 27, 369–88.
+Pisano, G. P. (1990). ‘The R&D boundaries of the ﬁrm: An empirical analysis’. Administrative Science Quar-
+terly, 35, 153–76.
+Pitelis, C. (2007). ‘A behavioral resource-based view of the ﬁrm: The synergy of Cyert and March (1963)
+and Penrose (1959)’. Organization Science, 18, 478–90.
+Raisch, S., Birkinshaw, J., Probst, G. and Tushman, M. L. (2009). ‘Organizational ambidexterity: Bal-
+ancing exploitation and exploration for sustained performance’. Organization Science, 20, 685–95.
+Rosenkopf, L. and Nerkar, A. (2001). ‘Beyond local search: Boundary-spanning, exploration, and impact
+in the optical disk industry’. Strategic Management Journal, 22, 287–306.
+Rothaermel, F. T. and Alexandre, M. T. (2009). ‘Ambidexterity in technology sourcing: The moderating
+role of absorptive capacity’. Organization Science, 20, 759–80.
+Santos, F. M. and Eisenhardt, K. M. (2005). ‘Organizational boundaries and theories of organization’.
+Organization Science, 16, 491–508.
+Saxenian, A. (2007). The New Argonauts: Regional Advantage in a Global Economy. Cambridge, MA: Harvard
+University Press.
+Schotter, A. and Beamish, P. W. (2011). ‘Performance effects of MNC headquarters–subsidiary conﬂict
+and the role of boundary spanners: The case of headquarter initiative rejection’. Journal of Interna-
+tional Management, 17, 243–59.
+Schotter, A., Mudambi, R., Doz, Y. and Gaur, A. (2017). ‘Boundary spanning in global organizations’.
+Journal of Management Studies, 54, 403–21.
+Sidhu, J. S., Volberda, H. W. and Commandeur, H. R. (2004). ‘Exploring exploration orientation and
+its determinants: Some empirical evidence’. Journal of Management Studies, 41, 913–32.
+Simsek, Z., Veiga, J. F. and Lubatkin, M. H. (2007). ‘The impact of managerial environmental percep-
+tions on corporate entrepreneurship: Towards understanding discretionary slack’s pivotal role’. Jour-
+nal of Management Studies, 44, 1398–424.
+Singh, J. (1986). ‘Performance, slack, and risk taking in organizational decision making’. Academy of Man-
+agement Journal, 29, 562–85.
+Storper, M. and Venables, A. J. (2004). ‘Buzz: face-to-face contact and the urban economy’. Journal of
+Economic Geography, 4, 351–70.
+Tallman, S. and Chacar, A. S. (2011). ‘Knowledge accumulation and dissemination in MNEs: a
+practice-based framework’. Journal of Management Studies, 48, 278–304.
+Teece, D. J. (1996). ‘Firm organization, industrial structure, and technological innovation’. Journal of Eco-
+nomic Behavior and Organization, 31, 193–224.
+Thompson, J. D. (1967). Organizations in Action: Social Science Bases of Administrative Theory. New York:
+McGraw-Hill.
+509
+Performance Feedback and Boundary Spanning in MNCs
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
+
+Tippman, E., Scott, P. and Parker, A. (2017). ‘Boundary capabilities in MNCs: Knowledge transforma-
+tion for creative solution development’. Journal of Management Studies, 54, 455–82.
+Tushman, M. and Katz, R. (1980). ‘External communication and project performance: An investigation
+into the role of gatekeepers’. Management Science, 26, 1071–85.
+Tushman, M. L. (1977). ‘Special boundary roles in the innovation process’. Administrative Science Quarterly,
+22, 587–605.
+Tushman, M. L. and Scanlan, T. J. (1981). ‘Boundary spanning individuals: Their role in information
+transfer and their antecedents’. Academy of Management Journal, 24, 289–305.
+Veugelers, R. (1997). ‘Internal R & D expenditures and external technology sourcing’. Research Policy, 26,
+303–15.
+Von Zedtwitz, M. and Gassmann, O. (2002). ‘Market versus technology drive in R&D internationaliza-
+tion: Four different patterns of managing research and development’. Research Policy, 31, 569–88.
+Winter, S. G. (2003). ‘Understanding dynamic capabilities’. Strategic Management Journal, 24, 991–5.
+Zollo, M. and Winter, S. G. (2002). ‘Deliberate learning and the evolution of dynamic capabilities’. Orga-
+nization Science, 13, 339–51.
+510
+T. Klueter and L. F. Monteiro
+V
+C 2016 John Wiley & Sons Ltd and Society for the Advancement of Management Studies
