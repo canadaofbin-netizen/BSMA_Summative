@@ -1,0 +1,1592 @@
+Technological Forecasting & Social Change 192 (2023) 122581
+Available online 19 April 2023
+0040-1625/© 2023 Elsevier Inc. All rights reserved.Appropriating IT outsourcing for IT alignment: An adaptive structuration 
+theory perspective 
+Tao Wanga, Chun-Ping Dengb, Thompson S.H. Teoc,* 
+aSchool of Business, University of International Business and Economics, 10 Huixin Dongjie, Chaoyang District, Beijing 100029, China 
+bSchool of Business, Beijing Technology and Business University, 33 Fucheng Street, Beijing 100048, China 
+cSchool of Business, National University of Singapore, Mochtar Riady Building, BIZ 1 #8-75, 15 Kent Ridge Drive, 119245, Singapore   
+ARTICLE INFO  
+Keywords: 
+IT alignment 
+Adaptive structuration theory (AST) 
+Outsourcing appropriation 
+Shared IT affordance for knowledge acquisition 
+Boundary spanning 
+Boundary buffering ABSTRACT  
+Previous studies on IT alignment have attempted to address if, and how, the presence of IT outsourcing can help 
+attain IT alignment. In this study, we advance the literature by investigating how organizations appropriate IT 
+outsourcing for achieving IT alignment. Specifically, drawing on the adaptive structuration theory (AST), we 
+construct a model examining factors associated with outsourcing appropriation, including consensus of appro -
+priation (COA) and faithfulness of appropriation (FOA), and how the latter are associated with IT alignment. To 
+test our proposed model, we use a questionnaire survey of 170 IT executives working in Chinese firms. Our 
+results indicate that both shared IT affordance for knowledge acquisition and boundary spanning positively affect 
+COA and FOA. Boundary buffering positively affects the FOA, but not the COA. Further, our results also show the 
+positive effects on IT alignment from COA and FOA, and the significant moderating effects of adoption of cloud 
+computing and the non-significant moderating effects of degree of outsourcing in the relationships. Interestingly, 
+the moderating effects of three cloud computing adoption modes (SaaS, PaaS, and IaaS) on the impact of 
+outsourcing appropriation on IT alignment vary significantly. These findings enrich our understanding towards 
+how to appropriate IT outsourcing for IT alignment and contribute to the literature on IT alignment in IT 
+outsourcing.   
+1.Introduction 
+Nowadays, firms capitalize on information technologies (IT) to 
+enhance business value and survive in the volatile global marketplace 
+(Bernat and Karabag, 2019 ; Queiroz, 2017 ). The enabling roles of in-
+formation technology, however, are heavily dependent on IT alignment, 
+i.e., the degree of alignment between organizational IT strategies and 
+business structures (e.g., business mission, objectives, and processes) 
+(Henderson et al., 1996 ). Prior research has confirmed the strategic 
+value of IT alignment in optimizing IT spending, gaining IT agility, and 
+achieving competitive advantage (Bernat and Karabag, 2019 ; Reich and 
+Benbasat, 2000 ; Trang et al., 2021 ). However, since alignment tends to 
+consume substantial time, human, financial, material, and other assets, 
+the achievement of IT alignment is difficult in reality (Saldanha et al., 
+2020 ). To mitigate these restrictions, some firms adopt IT outsourcing 
+solutions that enable firms to gain IT capabilities and resources without 
+increasing new IT spending in deploying hardware and software. 
+Despite this appealing solution, prior research has revealed some mixed findings regarding both a positive and negative relationship be-
+tween IT outsourcing and IT alignment (see Appendix A). Some research 
+has found that outsourcing, by providing leading edge technology for 
+supporting business strategies or by offering talents and new IT solutions 
+to improve IT capabilities, contributes to IT alignment (Park et al., 2017 ; 
+Wallenburg et al., 2019 ). However, others have found that outsourcing 
+risks related to improper appropriation of suppliers and service contents 
+may impede IT alignment. For example, ineffective outsourcing activ-
+ities deriving from improper outsourcing appropriation strategies may 
+introduce unexpected risks, such as opportunistic behavior, added costs, 
+and even business failure (Das and Grover, 2018 ; Lioliou et al., 2019 ). As 
+the process of alignment between IT strategies and business structures is 
+dynamic (Sha et al., 2020 ), unsuitable appropriation may also result in 
+outsourcing inertia or lock-in with unsuitable vendor, which will 
+adversely affect IT alignment (Hirschheim and Sabherwal, 2001 ; Mol 
+and Kotabe, 2011 ). 
+To reconcile these mixed findings, some scholars seek to determine 
+the criteria for suitable outsourcing appropriation (Kunttu, 2017 ; Liou 
+*Corresponding author. 
+E-mail addresses: 202100330094@uibe.edu.cn (T. Wang), dengcp@th.btbu.edu.cn (C.-P. Deng), bizteosh@nus.edu.sg (T.S.H. Teo).  
+Contents lists available at ScienceDirect 
+Technological Forecasting & Social Change 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2�omsq{~o!
+https://doi.org/10.1016/j.techfore.2023.122581 
+Received 16 November 2022; Received in revised form 4 April 2023; Accepted 8 April 2023   
+Technological Forecasting & Social Change 192 (2023) 122581
+2et al., 2011; Perçin, 2019). For example, Perçin (2019) found that 
+outsourcing appropriation was a multi-criteria decision involving cost, 
+delivery, objective, and value. These studies mostly focused on 
+outsourcing appropriation and have not adequately connected 
+outsourcing appropriation to IT alignment. Their findings thus shed few 
+insights on how the effect of outsourcing appropriation on IT alignment 
+may occur. Recently, several attempts have been made to address this 
+problem (Deng et al., 2021). They found that the attitudinal consensus 
+and structural faithfulness towards outsourcing appropriation played an 
+important role in achieving outsourcing objectives (such as IT agility), 
+which is an IT-related issue. Unfortunately, there have been few insights 
+in these studies towards the antecedents of outsourcing appropriation 
+and their impacts on IT alignment. 
+We construct our research based on the adaptive structuration theory 
+(AST) perspective. In particular, AST provides two important concepts: 
+consensus of appropriation (COA) and faithfulness of appropriation 
+(FOA), as a unique perspective for understanding the appropriation of IT 
+outsourcing (DeSanctis and Poole, 1994; Ko et al., 2021). COA refers to 
+the extent of agreement between IT department and business depart -
+ment regarding the appropriation of IT outsourcing (Deng et al., 2021; 
+Kang et al., 2012). FOA is defined as the extent of which the outsourcing 
+services are appropriated in a way faithful to the structural features (e. 
+g., IT capabilities, technical functions, or service agreement) and spirit 
+(e.g., value and objectives) contained in these services (Deng et al., 
+2021; Guan et al., 2020). 
+The two key concepts have important implications for our under -
+standing of how organizations appropriate IT outsourcing for IT align -
+ment. First, given that an important criterion for measuring IT alignment 
+maturity is the partnership between the IT and business departments 
+(Kearns and Sabherwal, 2006; Tallon et al., 2016; Valorinta, 2011), the 
+attitudinal consensus between the two parties towards outsourcing 
+appropriation may be a key factor that affects the partnership quality, 
+which contributes to a better understanding of how organizations 
+appropriate IT outsourcing for IT alignment from the internal relation -
+ship perspective. Second, faithful or unfaithful appropriation indicates 
+whether an organization appropriately follows the IT outsourcing sup-
+plier's original design intentions (Nguyen et al., 2021), which contrib -
+utes from the external relationship perspective. Therefore, the COA and 
+FOA perspectives in AST are adaptive for deepening our understanding 
+of how organizations appropriate IT outsourcing for IT alignment. 
+Taken together, it is essential to explore the antecedents of COA and 
+FOA, and their impacts on IT alignment. In addition, according to AST, 
+the outcomes of structure appropriation may vary depending on the 
+organizational environment (DeSanctis and Poole, 1994; Nguyen et al., 
+2021). Hence, we also attempt to reveal the moderating factors on the 
+impact of outsourcing appropriation on IT alignment. Specifically, we 
+attempt to answer the following questions: 
+RQ-1. What factors could promote COA and FOA towards IT 
+outsourcing? 
+RQ-2. Does COA and FOA improve IT alignment? What are the 
+boundary conditions of these relationships? 
+Our study makes the following three contributions to the IT 
+outsourcing and AST literature. First, although prior research attempts 
+to connect IT outsourcing to IT alignment, they draw a series of con-
+tradictory arguments regarding whether IT outsourcing promotes or 
+hinders IT alignment (Lioliou et al., 2019; Silvius et al., 2013). We seek 
+to address the “IT outsourcing-alignment” paradox from the outsourcing 
+appropriation perspective, and based on AST, divide it into two di-
+mensions, i.e., COA and FOA. Second, although the COA and FOA are 
+likely to be important for IT alignment, it is unclear how organizations 
+form the attitudinal consensus and structural faithfulness towards 
+outsourcing appropriation. Based on AST, we investigate the anteced -
+ents of COA and FOA towards outsourcing appropriation from the 
+technology and team characteristics perspectives. In doing so, this study not only adds to our knowledge on the antecedents of suitable 
+outsourcing appropriation for IT alignment, but also provides valuable 
+suggestions about how organizations achieve the suitable outsourcing 
+appropriation. Third, there has been little focus in previous studies 
+regarding the moderating factors on the impact of outsourcing appro -
+priation on IT alignment. To further deepen our understanding of the 
+impact of outsourcing appropriation on IT alignment, this study also 
+reveals the boundary conditions of these relationships by considering 
+two organizational environment factors: degree of outsourcing and 
+cloud computing adoption, as moderators. 
+2.Theory and hypothesis development 
+2.1. Adaptive structuration theory (AST) 
+AST focuses on studying differences in organizational outcomes that 
+may occur when an advanced technology is used (Kang et al., 2012; 
+Romanow et al., 2018). Based on AST, these differences are more likely 
+to result from the appropriation of social structures embedded in an 
+advanced technology (Kang et al., 2012). AST posits the core concept of 
+appropriation, which is defined as the selection and adaption of social 
+structures contained in an advanced technology (Deng et al., 2021; Ko 
+et al., 2021). It emphasizes that appropriation includes two unique 
+features, i.e., consensus of appropriation (COA) and faithfulness of 
+appropriation (FOA). To be specific, on the one hand, IT users are likely 
+to have different opinions regarding which and how features and func-
+tions should be used (Kang et al., 2012). For example, IT departments 
+may mostly focus on some function modules that can integrate with 
+existing modules, while other business departments may pay more 
+attention to some function modules that can align with organizational 
+business structures. On the other hand, IT users can use these functions 
+in a manner faithful or unfaithful to the original intents of designers 
+(Romanow et al., 2018). Together, AST provides a highly relevant lens 
+for studying how organizations appropriate an advanced technology. 
+Prior research on AST mostly focuses on the IT or IS appropriation, e. 
+g., information and communication technologies (ICT), accounting in-
+formation system (AIS), and group decision support system (GDSS) (Ko 
+et al., 2021; Nguyen et al., 2021). However, little is devoted to analyzing 
+appropriation of outsourcing from the AST perspective. As posited by 
+Deng et al. (2021), IT outsourcing, as a service mode triggered by 
+advanced technologies, also has the issue of structure appropriation. The 
+structure appropriation towards IT outsourcing involves supplier types 
+(e.g., focused IT service suppliers or IT solution suppliers), contract 
+types (e.g., contract terms, payment schedule agreements, or service- 
+level agreements), delivery types (e.g., on-time delivery or quality de-
+livery), service contents (e.g., system development, operation, or 
+maintenance), and other aspects (Deng et al., 2021; Perçin, 2019). 
+Despite adopting AST to explain how users select and use outsourcing in 
+these studies (Deng et al., 2021), it remains unclear on how users ach-
+ieve COA and FOA towards IT outsourcing and their impacts on IT 
+alignment. 
+Different from individual level appropriation towards individual- 
+based technology (Nguyen et al., 2021; Schmitz et al., 2016), we focus 
+on team level appropriation towards outsourcing services triggered by 
+advanced technologies (Kang et al., 2012). As proposed by Kang et al. 
+(2012), IT services adopted by organizations today are more “team- 
+based”, rather than “individual-based”, because the maximum effect of 
+IT services can be attained if team members use IT services together. 
+Accordingly, we adopt the AST for team-based to examine the ante-
+cedents of outsourcing appropriation and its impacts on IT alignment. 
+Based on AST for team-based, appropriation is mainly affected by 
+two factors, i.e., technology and team characteristics (DeSanctis and 
+Poole, 1994). With respect to the technology factor, we adopt a tech-
+nology affordance view to understand the role of IT in outsourcing 
+appropriation. Prior research has suggested that technology affordance 
+is a promising lens for predicting technology use or appropriation T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+3(Abhari et al., 2017; Chatterjee et al., 2020; Leonardi, 2013). Technol -
+ogy affordance is defined as the action possibilities and potential that 
+features of a technology offer to its users to attain objectives (Abhari 
+et al., 2017; Lin and Kishore, 2021). Markus and Silver (2008) also 
+argued that affordance could be considered as a driver or enabler of 
+appropriation moves. Given that this study focuses on the team-based 
+appropriation, we adopt the shared affordance perspective (Leonardi, 
+2013), i.e., the affordance that is shared by team members. Furthermore, 
+drawing on the emerging literature on technology affordance, we focus 
+on shared IT affordance for knowledge acquisition i.e., the knowledge 
+acquisition potential afforded by IT feature use for its users. This is 
+highly relevant for outsourcing appropriation because the knowledge or 
+information owned by teams is the most important determinant for how 
+teams appropriate IT outsourcing (Deng et al., 2021; Kearns and Sab-
+herwal, 2006). As such, we seek to investigate the role of shared IT 
+affordance for knowledge acquisition in outsourcing appropriation. 
+With respect to the team characteristic factors, we focus on boundary 
+behavior characteristics of IT department. A line of research adopts a 
+boundary view of outsourcing appropriation, and suggests that 
+outsourcing appropriation is a boundary decision where the boundaries 
+of the function and relevant IT activities of IT departments have changed 
+significantly because of the participation of the outsourcing supplier (Du 
+and Pan, 2013). Therefore, we also seek to examine the linkage between 
+boundary behaviors and outsourcing appropriation. Existing research 
+suggests two types of boundary behaviors: boundary spanning and 
+boundary buffering (Zhang et al., 2022). Boundary spanning is 
+conceptualized as activities a team implements to gain resources and 
+support from its external environment (Klueter and Monteiro, 2017). 
+Prior research has widely acknowledged the key roles of team boundary 
+spanning activities, such as forging relationship, knowledge sharing, and 
+lobbying others for support, in obtaining a team access to needed in-
+formation for decision making (Du and Pan, 2013; Faraj and Yan, 2009). 
+In comparison with boundary spanning, boundary buffering is a disen -
+gagement strategy, and refers to behaviors a team undertakes to shield 
+itself against uncertainties and disturbances from the external environ -
+ment (Wu et al., 2020). 
+Furthermore, the appropriation process, in essence, reflects a social 
+interaction among social structures, technologies, and users triggered by 
+advanced technologies (Kang et al., 2012). Specifically, based on AST, 
+the adoption of advanced technologies can be considered as the input of 
+a social structure, which coupled with other organizational structures (e. 
+g., business structures), stimulates the social interaction among social 
+structures, technologies, and users, and consequently forms a new social 
+structure that influences organizational outcomes. The process of 
+forming a new social structure via social interaction is termed as 
+structuration (Kang et al., 2012). As proposed by Deng et al. (2021), IT 
+alignment can be regarded as the result of mutual coordination of 
+organizational IT with business structures. However, prior research has 
+largely overlooked IT alignment as an outcome of structuration. 
+Accordingly, we suggest that IT alignment may be the outcome of 
+structuration, and be affected by COA and FOA. 
+Finally, AST also posits that organizational environment factors play 
+key roles in the structuration process (DeSanctis and Poole, 1994; 
+Nguyen et al., 2021). We expect that the effect of outsourcing appro -
+priation on IT alignment may vary in the two contexts of traditional IT 
+outsourcing and cloud computing. With respect to traditional IT 
+outsourcing, we focus on investigating whether the linkage between 
+outsourcing appropriation and IT alignment is moderated by the degree 
+of outsourcing. With respect to cloud computing, in essence, cloud 
+computing is also a service mode triggered by advanced IT where con-
+figurable computing resources or services, e.g., software, hardware, 
+infrastructure, servers, and platform, are stored in a shared pool and are 
+transmitted on demand to clients through network (Gao and Sunyaev, 
+2019; Mell and Grance, 2010). In contrast with IT outsourcing, cloud 
+computing possesses certain unique features, e.g., pay per use, scal-
+ability, elasticity, resource sharing, configurability, and ubiquity, which contribute to forming low-cost and agile IT solutions (Arvanitis et al., 
+2017; Mitra et al., 2018). The services provided by cloud computing can 
+be conceptualized as a three-dimensional model, i.e., software as a 
+service (SaaS), platform as a service (PaaS), and infrastructure as a 
+service (IaaS) (Lal and Bharadwaj, 2016). However, earlier research on 
+cloud computing is mostly conducted in a holistic view (Liu et al., 2018). 
+Scant research on this topic, especially for empirical research, have 
+examined the impacts of the three-dimensional model respectively, nor 
+related the three dimensions to IT alignment. As the effectiveness of the 
+mechanism by which outsourcing appropriation impact IT alignment 
+may vary with the contextual variables, research on the impacts of the 
+adoption of cloud computing (including SaaS, PaaS, and IaaS) on the 
+linkage between outsourcing appropriation and IT alignment is neces -
+sary to clarify this issue. 
+2.2. Theoretical model and hypotheses 
+Drawing on the adaptive structuration theory and relevant literature, 
+we construct a research model to understand the antecedents of COA 
+and FOA, their impacts on IT alignment, and boundary conditions of the 
+impact of outsourcing appropriation on IT alignment (see Fig. 1). Spe-
+cifically, we examine the antecedents of outsourcing appropriation from 
+the shared IT affordance for knowledge acquisition, boundary spanning, 
+and boundary buffering perspectives. Furthermore, we also investigate 
+the effects of COA and FOA on promoting IT alignment. Finally, we 
+explore the moderating effects of the degree of outsourcing and cloud 
+computing adoption (including SaaS, PaaS, and IaaS) on the impact of 
+outsourcing appropriation on IT alignment. 
+2.2.1. Shared IT affordance for knowledge acquisition and outsourcing 
+appropriation 
+Shared IT affordance for knowledge acquisition refers to the 
+knowledge acquisition potential afforded by IT feature use for its users 
+(Abhari et al., 2017; Leonardi, 2013; Nambisan and Baron, 2010). Prior 
+research has confirmed that the knowledge acquisition capability 
+afforded by some IT features, e.g., visibility, reviewability, association, 
+and other aspects, makes it convenient for teams to interact with others 
+(Sun et al., 2019). According to AST, outsourcing appropriation means a 
+social interaction between IT departments, business departments, and 
+suppliers regarding how organizations appropriate outsourcing struc-
+tures (Deng et al., 2021; Kang et al., 2012; Kearns and Sabherwal, 2006). 
+Some IT tools (e.g., wikis, blogs, or other social networking applica -
+tions), served as social interaction platforms, can support different forms 
+of knowledge acquisition activities among IT users, such as discussion, 
+knowledge sharing, and social networking, for decision-making pro-
+cesses towards how organizations appropriate IT outsourcing (Lin and 
+Kishore, 2021; Wagner et al., 2014). 
+From the internal interaction perspective, these knowledge acquisi -
+tion activities enabled by IT tools help to achieve the joint participation 
+of IT departments and business units in IT and business planning (Kearns 
+and Sabherwal, 2006; Wagner et al., 2014). That is, IT departments can 
+strengthen the understanding of how to better support business strate -
+gies through IT, and business departments can deepen the recognition of 
+the intentions of outsourcing strategies made by IT departments. 
+Consequently, both parties are more likely to attain an agreement on 
+how a firm appropriates outsourcing services to achieve business ob-
+jectives. From the external interaction perspective, these IT tools also 
+provide more communication opportunities for the two sides of IT de-
+partments and suppliers (Abhari et al., 2017; Autio et al., 2018), thereby 
+allowing suppliers to clearly understand firms' IT construction demands 
+and reasonably design outsourcing structures for firms' demands. It also 
+enables IT departments to obtain more information on structural fea-
+tures and spirit from outsourcing services, which can help a firm more 
+faithfully select suppliers and service contents. Accordingly, we posit 
+that: T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+4H1a.Shared IT affordance for knowledge acquisition is positively 
+associated with COA. 
+H1b.Shared IT affordance for knowledge acquisition is positively 
+associated with FOA. 
+2.2.2. Boundary spanning and outsourcing appropriation 
+Extant research has adopted the boundary spanning and boundary 
+buffering perspectives to explore how the team boundary management 
+impacts decision-making processes related to IT outsourcing (Valorinta, 
+2011 ). A stream of research has widely acknowledged the benefits of 
+cross-boundary interactions (Klueter and Monteiro, 2017 ), and suggests 
+that some boundary spanning activities, such as forging relationship, 
+knowledge sharing, and lobbying others to obtain support, help teams to 
+gain needed information for outsourcing decision (Hawkins and Reza-
+zade, 2012 ; Zhang et al., 2022 ). 
+Employees of IT departments engaged in boundary spanning activ-
+ities are able to acquire the information related to organizational busi-
+ness objectives (Zhang et al., 2022 ), and based on this information, to 
+design an adaptive IT appropriation planning that can be recognized by 
+business departments. In addition, some cross-interaction behavior of IT 
+departments, e.g., building relationships with business unit or 
+persuading business unit to support the team's work (Klueter and 
+Monteiro, 2017 ), can strengthen the mutual understanding of each 
+other's needs, and effectively mitigate conflicts arising from the differ -
+ences of understanding each other's needs, thus contributing to the COA. 
+Further, boundary spanning activities cover not only the interaction 
+between departments within organization, but also the linkage between 
+firms and suppliers (Deng et al., 2022 ). Faraj and Yan (2009) proposed 
+that organization department rarely work independently of external 
+support and rarely possessed all of information they require within the 
+organization. As such, firms which employ IT outsourcing businesses 
+tend to adopt some boundary spanning strategies, e.g., setting “task 
+coordinators ” (Faraj and Yan, 2009 ; Zhang et al., 2022 ). Their work 
+mainly contacts with outsourcing suppliers where they can gain useful 
+information regarding how to use IT outsourcing effectively, which 
+contributes to firms' appropriating IT outsourcing in a faithful way to the 
+original intent of suppliers. Additionally, in the interaction between 
+firms and suppliers, suppliers can understand the outsourcing objectives 
+of firms more comprehensively and develop reasonable outsourcing 
+modes for clients (Teo and Bhattacherjee, 2014 ), which makes it 
+possible for the client to choose outsourcing services in ways that are 
+intended by suppliers, thereby contributing to the FOA. 
+H2a.Boundary spanning is positively associated with COA. 
+H2b.Boundary spanning is positively associated with FOA. 2.2.3. Boundary buffering and outsourcing appropriation 
+Compared with boundary spanning, which is characterized as an 
+engagement strategy dependent of external support, boundary buffering 
+is a disengagement strategy free from external disturbance and overload 
+needs (Faraj and Yan, 2009 ; Zhang et al., 2022 ), which may hinder the 
+COA. As for business units, their strategic focus lies in whether and how 
+business objectives can be achieved, rather than how to achieve objec -
+tives through IT outsourcing, mainly because of the complexity and 
+specialization of technological details (Deng et al., 2021 ). In other 
+words, business units may not always be able to participate in 
+outsourcing appropriation in a positive and proactive manner. If 
+boundary buffering is imposed, business departments are even disen -
+gaged from outsourcing appropriation. Their options of outsourcing 
+from business departments are not fully considered and accepted, 
+rendering it difficult to achieve a high level of COA. 
+In addition, boundary buffering may promote the FOA. In the 
+outsourcing appropriation process, IT departments are frequently 
+affected by disturbances from the external environment, such as 
+outsourcing relationship conflicts or information overload (Schmidt and 
+Uydess, 2012 ; Zhang et al., 2022 ), which may bring challenges to the 
+FOA. In particular, an IT department may face lobbying by suppliers and 
+other departments within the client's organization (Lioliou et al., 2019 ; 
+Teo, 2012 ). The employees of IT departments often face different or even 
+contradictory outsourcing objectives from senior leaders, business de-
+partments, or other departments, which may easily lead to role conflict 
+(Wu et al., 2020 ). Through buffering, IT departments can protect 
+themselves from uncertainty and turbulence to increase the possibility 
+of rational action. Boundary buffering helps to effectively transfer and 
+manage different or even contradictory demands on IT departments via 
+formal rules or informal norms (Faraj and Yan, 2009 ; Wu et al., 2020 ); 
+this is also helpful for IT departments to buffer pressures from the 
+external environment, thereby allowing them to devote more energy to 
+the rational consideration of the service features and service spirit 
+contained in these services from suppliers. Protected by boundary 
+buffering, they can formulate rules to set priorities of the needed service 
+features and service spirit from suppliers via communication and dis-
+cussion within the department. In sum, boundary buffering is help for 
+the FOA. Thus, we hypothesize that: 
+H3a.Boundary buffering is negatively associated with COA. 
+H3b.Boundary buffering is positively associated with FOA. 
+2.2.4. Outsourcing appropriation and IT alignment 
+Prior research has suggested that IT alignment can be seen as a newly 
+generated social structure, i.e., the result of the mutual coordination 
+Fig. 1.Research model.  T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+5between organizational IT and business structures (Deng et al., 2021). 
+And based on AST, this new social structure, i.e., IT alignment, may be 
+the outcome of structuration, and be influenced by outsourcing appro -
+priation (including COA and FOA) (DeSanctis and Poole, 1994). 
+In terms of COA, it means that both the IT and business departments 
+participate in outsourcing appropriation, and reach a consensus 
+regarding how organization appropriate IT outsourcing (Deng et al., 
+2021; Kang et al., 2012). These processes promote the knowledge inte-
+gration of IT and business managers, and help them create a “cross 
+function interface”, e.g., brainstorm, conversation, and session discus -
+sion (Valorinta, 2011). This offers opportunities for both parties to 
+conduct “collective learning”, which further contributes to providing 
+adaptive IT outsourcing solutions for business strategies. Further, the 
+attitudinal consensus towards IT outsourcing appropriation reflects the 
+partnership between the IT and business departments (Kearns and 
+Sabherwal, 2006; Valorinta, 2011), which enables them to deepen the 
+understanding of each other's values, objectives, and missions. As such, 
+both parties are likely to coordinate their work for work completeness 
+and consistency when there are conflicts in their work, thereby 
+contributing to IT alignment. 
+In terms of FOA, it reflects the degree to which a client's appropriate 
+IT outsourcing in a way alignment with the general objectives and 
+procedures intended to be provided and affordable by the supplier (Deng 
+et al., 2021; Kang et al., 2012). A high degree of FOA helps clients to 
+build the partnership with suppliers because suppliers believe that they 
+are trustworthy by clients (Teo, 2012). Therefore, it is more likely for 
+suppliers to design suitable IT outsourcing solutions to support clients' 
+business objectives. In addition, prior research has proposed that using 
+outsourcing structures in a similar way enables suppliers to better 
+display their core competencies and advantage resources (Deng et al., 
+2021), which contributes to achieving IT alignment with the help of IT 
+outsourcing suppliers. Accordingly, we hypothesize: 
+H4a. COA is positively associated with IT alignment. 
+H4b. FOA is positively associated with IT alignment. 
+2.2.5. Moderating effect of the degree of outsourcing 
+The degree of outsourcing is defined as the degree to which the work 
+associated with IT activities is outsourced (Hanafizadeh and Ahad, 
+2018). When the degree of outsourcing is high, it is clear that the firm 
+relies more on external IT resources and capabilities to achieve IT 
+alignment. Unreasonable outsourcing appropriation is more likely to 
+lead to the occurrence of negative outsourcing events, such as suppliers' 
+speculative behaviors (Lioliou et al., 2019). Conversely, when the de-
+gree of outsourcing is low, internal resources and capabilities make a 
+chief contribution to the construction and maintenance of IT infra-
+structure, and the impact of outsourcing appropriation on achieving IT 
+alignment is minor. As such, we suggest that the degree of outsourcing 
+may moderate the impact of outsourcing appropriation on IT alignment. 
+Specifically, in the high degree of outsourcing adoption context, 
+although firms can gain more external IT resources and capabilities, they 
+may need to take more outsourcing risks simultaneously (Lioliou et al., 
+2019), e.g., the failure of large outsourcing investment and the in-
+compatibility between external services and internal business system. In 
+such case, COA is more crucial for IT alignment. This is because, COA, as 
+the results of a joint agreement between the IT and business departments 
+towards outsourcing appropriation, reflects a prudent outsourcing in-
+vestment adapted for the technology and business needs of firms (Kang 
+et al., 2012), which contributes to successfully developing and 
+strengthening outsourcing investment capabilities to support IT align -
+ment under the high degree of outsourcing context. Additionally, the 
+high degree of outsourcing may lead to unintentional clusters of frag-
+mented technology silos that constrain the organization from effectively 
+executing routine business activities let alone launching IT alignment 
+(Lu and Ramamurthy, 2011). Prior research has demonstrated that as 
+COA comprehensively considers the technology value and business value, it could promote perceived usefulness and perceived ease of use 
+for a technology or a service (Kang et al., 2012). Therefore, COA pro-
+motes the identification of the value of a technology or a service and 
+avoids making misjudgments on the appropriation of outsourcing ser-
+vices that leads to fragmented silos, which contributes to breaking the 
+fragmented technology silos in the high degree of outsourcing and at-
+tains a higher degree of IT alignment. 
+Furthermore, outsourcing services are designed with the general 
+intention of supporting their clients, such that they can have energies 
+and resources to focus on core competence, rather than on some tech-
+nical details, e.g., system specifications, implementation, and deploy -
+ment (Guan et al., 2020; Kroes and Ghosh, 2010). When the degree of 
+outsourcing is high, firms that faithfully adopt these services with such 
+design intention would find that these services dramatically reduce 
+technology development time and translate time into the focus on a 
+higher degree of IT alignment. In addition, the high degree of 
+outsourcing means that outsourcing suppliers may design more adaptive 
+service structures (e.g., technical resources, technical capabilities, or 
+service rules) for their clients and embed their own technical and 
+resource advantages into these structures, because outsourcing suppliers 
+also involve more interests (Deng et al., 2022; Koo et al., 2019; Teo, 
+2012; Teo and Bhattacherjee, 2014). Under such circumstances, if firms 
+faithfully appropriate these structures, they would promote IT align -
+ment efficiently and effectively with the support of suppliers' advantage 
+resources and capabilities. Accordingly, we hypothesize: 
+H5a. COA makes a greater contribution to IT alignment when degree 
+of outsourcing is high compared with when it is low. 
+H5b. FOA makes a greater contribution to IT alignment when degree 
+of outsourcing is high compared with when it is low. 
+2.2.6. Moderating effect of the adoption of cloud computing 
+Cloud computing, as an IT service mode, provides technology ser-
+vices such as software, platform, and infrastructure for users through the 
+network (Arvanitis et al., 2017; Gao and Sunyaev, 2019). Given that 
+different types of cloud computing provide some unique characteristics 
+for enterprises, this study attempts to explore the moderating effect of 
+the adoption of cloud computing on the relationship between 
+outsourcing appropriation and IT alignment from the SaaS, PaaS, and 
+IaaS perspectives. 
+SaaS is a service mode that provides software services for firms 
+through the network in on-demand payments, configurability, and ser-
+vice rental manner (Safari et al., 2015). Although COA enables firms to 
+form an adaptive IT outsourcing solutions for business strategies, the IT 
+solutions jointly determined by the IT and business departments may not 
+necessarily conform to the core competence of suppliers (Benlian, 
+2009), and may lead to suppliers' speculative behaviors in the process of 
+solution implementation that are not conducive to IT alignment. When 
+firms adopt the SaaS mode, the IT solutions produced by COA can be 
+designed and met with the support of ubiquitous access and faster 
+implementation times, transparent and predictable subscription pricing, 
+and configurable application packages (Benlian, 2009; Liu et al., 2018), 
+thereby contributing to avoiding some speculative behaviors (e.g., 
+transferring businesses to a third party or excessive pricing) and 
+attaining a higher degree of IT alignment. 
+PaaS is a service mode that provides a software development and 
+deployment platform, including application design, application devel -
+opment, application testing, and application hosting, for users (Cohen 
+et al., 2013). COA can strengthen the interaction between the IT and 
+business departments and form an IT outsourcing solution that reflects 
+business demands needed to be supported by IT. However, the imple -
+mentation of the IT solution depends on external suppliers and may 
+experience some acknowledged risks, e.g., reliability, data privacy se-
+curity, and process dependence (Benlian, 2009). PaaS provides firms 
+with the support of the application code base and the tools in a shared 
+manner, and allows them to develop, test, and deploy applications and T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+6services in their own ways (Walraven et al., 2014). Under such cir-
+cumstances, the IT solutions jointly determined by the IT and business 
+departments enable firms to effectively avoid these unpredicted risks 
+and be met in an expected way, contributing to a higher degree of IT 
+alignment. In addition, PaaS is also characterized by the dynamic 
+extension of the development environment (Walraven et al., 2014). The 
+IT outsourcing solutions formed by COA often cover diversified tech-
+nical demands and may exceed the upper limits of enterprise IT resource 
+occupancy. Under such circumstances, the role of COA in achieving IT 
+alignment is relatively limited. After the adoption of PaaS, the positive 
+impact of COA on IT alignment may be further strengthened, because 
+PaaS suppliers can monitor the occupancy of service resources, auto-
+matically conduct extension based on certain rules, and quickly create 
+the development environment required for tests, demonstration, and up- 
+limit extension in the case of exceeding limit. 
+IaaS is a service mode in which cloud suppliers provide IT in-
+frastructures, e.g., servers, storage, and computing capabilities, to users 
+via the Internet (Liu et al., 2018; Walraven et al., 2014). The IT solutions 
+formed by the COA depend heavily on the support of the IT infrastruc -
+ture. With the rapid change of business demands, the IT solutions jointly 
+agreed by the IT and business units need the support of a flexible IT 
+infrastructure. In practice, IaaS suppliers provide some IT in-
+frastructures for firms in a service rental manner (Liu et al., 2018). The 
+service rental model enables firms to acquire hardware resources on 
+demand and achieve a higher degree of resource flexibility (Armbrust 
+et al., 2010), such that firms can reduce the possibility of over-purchase 
+(i.e., waste of resources) and under-purchase (i.e., loss of potential 
+revenues) (Alali and Yeh, 2012). In addition, before the adoption of IaaS, 
+due to the relatively stereotyped or standardized service resources, ca-
+pabilities, and rules, an IT department for IT alignment may need to 
+frequently interact and coordinate with business units regarding IT 
+outsourcing appropriation, and adjust outsourcing tactics to respond to 
+the changeable business demands (Liu et al., 2018). Therefore, the IT 
+alignment driven by COA is based on the higher adjustment or coordi -
+nation costs between the IT and business units. After the adoption of 
+IaaS, cloud suppliers deploy these services on their own servers and 
+implement central management through the Internet (Mitra et al., 2018; 
+Nieuwenhuis et al., 2018). When IaaS is adopted, firms are able to 
+quickly obtain hardware resources on-demand through the network and 
+automatically configure resources on suppliers' servers to meet the dy-
+namic needs of outsourcing (Mitra et al., 2018). These technical char-
+acteristics reduce the adjustment costs in achieving IT alignment 
+through COA. Therefore, IaaS may impose a significant impact on the 
+relationship between COA and IT alignment by increasing the resource 
+flexibility and reducing the costs. Therefore, we posit that: 
+H6a. COA makes a greater contribution to IT alignment when SaaS 
+model is adopted compared with when it is not adopted. 
+H7a. COA makes a greater contribution to IT alignment when PaaS 
+model is adopted compared with when it is not adopted. 
+H8a. COA makes a greater contribution to IT alignment when IaaS 
+model is adopted compared with when it is not adopted. 
+Furthermore, based on the above analysis of the characteristics of 
+SaaS, PaaS, and IaaS respectively, we also expect that the faithfulness of 
+the appropriated cloud services to these technical features would ach-
+ieve IT alignment more conveniently and at lower cost. SaaS is designed 
+with the general characteristics of on-demand payments, config -
+urability, and service rental (Safari et al., 2015), such that firms can 
+conveniently and economically achieve IT alignment. PaaS is designed 
+with the general characteristics of reconfigurability and dynamic 
+extension (Cohen et al., 2013; Walraven et al., 2014), such that firms can 
+attain IT alignment free of path dependence and space up-limit. IaaS is 
+designed with the general characteristics of service rental and flexibility 
+(Liu et al., 2018; Walraven et al., 2014), such that firms can dynamically 
+achieve IT alignment in a flexible and low-cost manner. To realize these characteristic advantages, cloud suppliers often need to impose certain 
+structures and procedures that their clients can adopt. Hence, firms that 
+faithfully adopt such structures and procedures would greatly enhance 
+the alignment between the appropriated services and business proced -
+ures in a flexible, low-cost, convenient, and fast implementation 
+manner, thereby contributing to a higher degree of IT alignment. 
+Accordingly, we hypothesize: 
+H6b. FOA makes a greater contribution to IT alignment when SaaS 
+model is adopted compared with when it is not adopted. 
+H7b. FOA makes a greater contribution to IT alignment when PaaS 
+model is adopted compared with when it is not adopted. 
+H8b. FOA makes a greater contribution to IT alignment when IaaS 
+model is adopted compared with when it is not adopted. 
+3.Research method 
+3.1. Data collection 
+This study adopted a questionnaire-based survey to collect data for 
+testing our proposed research model. We chose the questionnaire 
+method for the following reasons. First, the scales of constructs adopted 
+by our model have been developed by prior research, and their psy-
+chometric properties have also been well confirmed. Second, a ques-
+tionnaire survey enabled us to obtain enough samples from large 
+quantities of respondents, which contributed to a more robust and 
+generalizable conclusion. Third, considering the nature of question -
+naire, e.g., anonymous and voluntary, social desirability bias can be 
+effectively mitigated. 
+To ensure its validity and reliability, our questionnaire was devel -
+oped using a four-step process. First, the questionnaire items were 
+adapted from existing literature in which psychometric properties have 
+been established. Second, we conducted backward translation to ensure 
+the agreement regarding the meaning of the items between the Chinese 
+version and the English version of the questionnaire. We also invited 
+four experts on IT outsourcing to conduct the pre-test for content val-
+idity. Further, we also organized semi-structured interviews with one 
+professor and three doctoral students as interviewers and five IT man-
+agers as interviewees, aiming to help us check the words, grammar, and 
+clarity in these items. Third, given that our discussion on COA and FOA 
+focused on IT outsourcing appropriation situation, rather than tradi-
+tional IT or IS appropriation situation in extant studies, there may exist 
+the issues of content overload and ambiguity in our scales. For this 
+reason, we adopted item-sorting, and consequently found no significant 
+misclassification. Fourth, we implemented a pilot test with 32 IT man-
+agers or above who have ever been in charge of or participated in IT 
+outsourcing business, and removed some low item-to-total correlation 
+items. By evaluation and revision, the validity and reliability of our 
+questionnaire have been effectively improved. Finally, we further 
+examined the validity and reliability of our scales using some analytical 
+tools. The specific testing results are shown in Data analysis and results 
+section. 
+Our targeted respondents are mostly from IT departments in some 
+manufacturing and service firms. Based on the principle of theoretical 
+sampling, IT department managers or other unit executives that took 
+charge of or participated in outsourcing businesses were more suitable 
+as our targeted respondents, because they were the key participants and 
+boundary spanners for IT alignment through outsourcing appropriation. 
+For this reason, we set a screening item at the beginning of our ques-
+tionnaire, i.e., “If your position belongs to the IT department team 
+leader, IT department manager, IT department management, or other 
+unit executives that take charge of or participated in outsourcing busi-
+nesses, please continue to answer the following questions, otherwise the 
+questionnaire ends”. 
+The questionnaire was mainly sent through two channels. First, we T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+7set an online survey supported by a top survey provider in China. The 
+service afforded by this provider included online survey, management 
+consulting, customization solutions, big data analytics and listening, and 
+other aspects. At present, their services have covered over 10,000 firms, 
+institutions, universities, governments, and other subjects. Especially, 
+they have owned a China's leading database of user profiles by cooper -
+ating with some large-scale Internet enterprises, e.g., Google, Baidu, 
+Alipay, and Tencent, and thus largely cover Chinese netizens. Based on 
+the alignment principle of our research context with user panel in the 
+database of this provider, we determined our targeted informants, and 
+sent survey invitations to them. Given that we conducted eight rounds of 
+follow-up reminders, there may exist the issue of non-response bias. 
+Therefore, we adopted t-tests to compare the work years, industries, firm 
+sizes, and numbers of employee of the first quarter and last quarter re-
+spondents. Consequently, we found no non-response bias between the 
+two quarter respondents at the 0.05 level in all the four t-tests. 
+Second, following the snowball sampling method, we sent our survey 
+invitations to respondents via team work and personal relationships in 
+the IS field. For instance, we requested well known outsourcing and 
+cloud service providers (e.g., Alibaba) to help us distribute question -
+naires. Given that our data was collected from the two different chan-
+nels, we executed an independent-samples t-test. Our results indicated 
+no significant difference on key sample features. Hence, we combined 
+the two sample groups as a single sample. 
+To assess whether our respondents answered these items carefully 
+and accurately, we set some rules and criteria. First, respondents were 
+required to take charge of or participate in outsourcing or cloud 
+computing businesses in their work. In the data processing process, we 
+dropped unqualified samples with no IT outsourcing or cloud computing 
+business experience. Second, we included some screening items in our 
+questionnaire to confirm whether our questionnaire was responded by 
+respondents carefully. For example, respondents selected no adoption of 
+cloud computing in the first option, while they also selected amounts of 
+cloud computing budget in the second option. Obviously, this is a con-
+tradictory answer. These samples that filled in the questionnaire in a 
+logical contradiction way were excluded. 
+Through the above processes, we finally obtained 170 valid re-
+sponses. In these valid responses, respondents that were from the 
+manufacturing sector accounted for 42.35 %, and others that were from 
+the services sector accounted for 57.65 %. Respondents that had more 
+than three years of working experience accounted for 75.88 %. Their 
+positions were mostly team leader of IT department or above (approx -
+imately accounting for 98.24 %). These sample characteristics ensured 
+that our selected respondents were familiar with or in charge of their 
+outsourcing or cloud computing businesses. Therefore, our samples were 
+representative for our research question. The detailed demographics of 
+the firms were depicted in Table 1. 
+3.2. Measures 
+All measurement items, including shared IT affordance for knowl -
+edge acquisition, boundary spanning, boundary buffering, COA, FOA, 
+and IT alignment, have been developed by existing literature in which 
+psychometric properties were well confirmed. We further adapted 
+certain items aiming to promote the alignment of these items and our 
+research focus. In addition, we adopted a 7-point response format to 
+measure all items. 
+The shared IT affordance for knowledge acquisition scale was 
+derived from Abhari et al. (2017) and Leonardi (2013) . It consisted of six 
+items covering the knowledge acquisition potential afforded by IT tools 
+used by IT innovation collaborators in two aspects, i.e., knowledge 
+searching and knowledge integration. An example for knowledge 
+searching was “When our innovation collaborators (such as business 
+departments, vendors, and customers) and our IT department seek IT 
+innovation activities, the IT used enables us to: easily access data be-
+tween ours and innovation collaborators' systems. ” An example for knowledge integration was “When our innovation collaborators (such as 
+business departments, vendors, and customers) and our IT department 
+seek IT innovation activities, the IT used enables us to: easily aggregate 
+relevant information. ” The coefficient alpha of this scale was 0.866. 
+The boundary spanning and boundary buffering scales were 
+measured using four items adopted by Faraj and Yan (2009) , and were 
+mainly concerned with the boundary spanning and boundary buffering 
+behavior of IT departments with the IT department as the boundary. An 
+example for boundary spanning was “To what extent does the IT 
+department encourage its staff to solicit information and resources from 
+elsewhere in and/or beyond the department ”. An example for boundary 
+buffering was “To what extent are outside pressures deflected or 
+absorbed so that the IT department can work free of interference ”. The 
+coefficient alpha of the two scales was 0.760 and 0.732 respectively. 
+The COA scale, which consisted of five items measuring the agree -
+ment level between IT department and business unit towards appro -
+priation of IT outsourcing, was derived from Deng et al. (2021) . The FOA 
+scale, which involved six items measuring the structural faithfulness in 
+two aspects: structural features (e.g., IT resources and capabilities, 
+technical functions, or service rules) and spirit (e.g., service philosophy, 
+value, and objectives), was derived from Deng et al. (2021) . An example 
+for COA was “Between our company's IT department and business unit: 
+there is mutual understanding in our company on how we should adopt 
+IT outsourcing strategy ”. An example for FOA was “As for the supplier 
+and the IT outsourcing services we choose from them: our IT outsourcing 
+strategy objectives are matched with the vendor's beliefs or strategic 
+objectives ”. The coefficient alpha of the two scales was 0.881 and 0.891 
+respectively. 
+The IT alignment scale, which consisted four items measuring the 
+degree to which the alignment of IT strategies with business strategies, Table 1 
+Demographics of the firms (number of samples 170).  
+Industry Working experience (years) 
+Manufacturing 42.35 % D1 7.06 % 
+Service 57.65 % 1–3 17.06 %   
+3–5 33.53 %   
+5–10 29.41 %   
+F10 12.94 %   
+Firm size Number of IT staff 
+D100 19.41 % D3 4.71 % 
+100–500 37.65 % 3–5 11.18 % 
+501–1000 20.00 % 6–10 18.82 % 
+F1000 22.94 % 11–20 21.18 %   
+21–50 20.59 %   
+F50 23.53 %   
+The proportion of work associated with 
+system development that is outsourced The proportion of work associated with 
+system and infrastructure maintenance 
+and support that is outsourced 
+D20 % 18.24 % D20 % 21.76 % 
+20 %–40 % 39.41 % 20 %–40 % 35.88 % 
+41 %–60 % 26.47 % 41 %–60 % 27.06 % 
+61 %–80 % 11.76 % 61 %–80 % 11.76 % 
+F80 % 4.11 % F80 % 3.53 %   
+Whether adopt IT 
+outsourcing The proportion of cloud computing spending to IT 
+budget 
+Yes 100.00 % D10 % 12.94 % 
+No 0.00 % 10 %–20 % 37.06 %   
+21 %–30 % 30.00 %   
+31 %–50 % 12.94 %   
+F50 % 7.06 %  T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+8was derived from Preston and Karahanna (2009) . An example for IT 
+alignment was “Overall, the IS in our organization meets the needs of the 
+business strategy ”. The coefficient alpha of this scale was 0.872. 
+Regarding the measurement of the degree of outsourcing, we used 
+the question “How much of the work related to the system development 
+(system specifications, implementation, and deployment) is out-
+sourced? ” with options of “less than 20% ” as “1”, “20 %–40 %” as “2”, 
+“41 %–60 %” as “3”, “61 %–80 %” as “4”, and “more than 80% ” as “5”. 
+Regarding the measurement of the adoption of cloud computing, we 
+used the question “Does your company use cloud computing services in 
+the following areas (multiple options)? ” with options of “software ” as 
+“1”, “platform ” as “2”, “infrastructure ” as “3”, and “none of the above ” 
+as “4”. 
+Furthermore, by reviewing literature on IT outsourcing and IT 
+alignment, we considered types of industry, numbers of employee, 
+numbers of IT staff, position, working years as control variables, because 
+these factors have been shown to potentially affect IT alignment (Colt-
+man et al., 2015 ). 
+4.Results analysis 
+4.1. Validity and reliability 
+To assess the reliability and validity of our questionnaires, this study 
+used Lisrel 8.8 as a statistical analysis tool to conduct confirmatory 
+factor analysis. The expected six-factor model including the shared IT 
+affordance for knowledge acquisition, boundary spanning, boundary 
+buffering, COA, FOA, and IT alignment displayed an acceptable fit 
+(RMSEA 0.067, χ2 638.27, df 362, χ2/df 1.76, CFI 0.97, 
+NNFI 0.97, IFI 0.97). The χ2/df value was D2. The CFI, NNFI, and 
+IFI values were F0.90 respectively, while the RMSEA value was 0.067, 
+lower than the threshold value of 0.08. Therefore, construct validity of 
+our model was basically acceptable. 
+We conducted construct reliability tests in two ways. First, we used 
+the indicator of Cronbach's alpha (α) to assess internal consistency 
+reliability. Second, we also employed the indicator of composite reli-
+ability (CR) to evaluate internal consistency reliability. The results of the two indicators for each construct are listed in Table 2. Results showed 
+that all values of α and CR were F0.73, indicating adequate reliability. 
+To verify construct convergent validity, we regarded the value of 
+item factor loading as a judgement criterion. The results of factor 
+loading values are also shown in Table 2. Most loading values were 
+above 0.70, and only few items had relatively lower values ranging from 
+0.59 to 0.68 (but over the cutoff point of 0.50). Therefore, convergent 
+validity of all constructs was acceptable. 
+Further, we conducted discriminant validity tests as follows. First, 
+we calculated the values of average variance extracted (AVE) for all 
+constructs to evaluate discriminant validity. The results of descriptive 
+statistics for each construct, including mean, standard deviation, cor-
+relations, and AVE, are presented in Table 3. Results showed that the 
+square roots of AVE for all constructs were higher than the correlations 
+with other constructs, showing acceptable discriminant validity. Sec-
+ond, we examined discriminant validity by using correlation indicators. 
+As shown in Table 3, all correlations between the construct and others 
+were lower than 0.7, thus indicating good discriminant validity. Third, 
+we employed chi-square difference tests to evaluate discriminant val-
+idity. Specifically, we compared one CFA model freeing correlations 
+between the two constructs to another CFA model fixing a perfect cor-
+relation. According to six constructs adopted by our model, we con-
+ducted 15 round comparisons between the two constructs. Through 
+computing, we adopted the Bonferroni correction p-value of 0.033333 
+because we conducted 15 rounds of repeated test (Kroes and Ghosh, 
+2010 ). Results showed that each round chi-square difference compari -
+son was significant, therefore showing acceptable discriminant validity. 
+4.2. Common method bias 
+Our study experienced a threat of common method bias, because we 
+adopted self-reported data collected by subjective instruments. For this 
+reason, to check for common method bias, we subsequently employed 
+four techniques that have been widely used in prior research. First, as 
+suggested by Podsakoff et al. (2003) , we adopted some ex-ante proce -
+dural remedy measures, e.g., disrupting the item order, ensuring ano-
+nymity, and setting screening question. Second, we conducted Harman's 
+single factor test, aiming to assess whether common method bias existed 
+or not. The results indicated that the variance explained by the first 
+factor accounted for 38.3 % of total variances, which was far D50 %. As 
+such, the single factor that may explain the majority of total variances 
+does not exist. Third, we use the indicators of variance inflation factor 
+(VIF) to check for the collinearity issue. The VIF values were all lower 
+than the threshold value of 3.0, thereby showing that collinearity was 
+not a serious problem. Fourth, we constructed a single-factor analysis 
+model, including shared IT affordance for knowledge acquisition, 
+boundary spanning, boundary buffering, COA, FOA, and IT alignment, 
+and conducted a confirmatory factor analysis. The constructed single- 
+factor model displayed an unsatisfactory fit (RMSEA 0.141, CFI 
+0.86, NNFI 0.85, IFI 0.86). Conversely, the expected six factor 
+model attained a significant improvement consistent with our data. In 
+sum, the threat of common method bias in this study was not a serious 
+problem. 
+4.3. Hypotheses testing 
+Hypotheses testing was conducted using hierarchical regression 
+analysis. The regression results of the antecedents of outsourcing 
+appropriation are shown in Table 4. As shown in Table 4, M1-2 indicated 
+that shared IT affordance for knowledge acquisition (β 0.266, p D
+0.01) and boundary spanning (β 0.202, p D0.05) were positively 
+associated with COA. Thus, H1a and H2a were supported. However, the 
+impact of boundary buffering on the COA was not significant. Thus, H3a 
+was not supported. In M2-2 of Table 4, shared IT affordance for 
+knowledge acquisition (β 0.289, p D0.01), boundary spanning (β 
+0.161, p D0.05), and boundary buffering (β 0.252, p D0.01) were Table 2 
+Results of reliability and convergent validity.  
+Constructs Items Loadings α CR 
+Shared IT affordance for knowledge 
+acquisition (SA) SA01  0.67  0.866  0.869 
+SA02  0.65 
+SA03  0.76 
+SA04  0.80 
+SA05  0.70 
+SA06  0.76 
+Boundary spanning (BS) BS01  0.68  0.760  0.767 
+BS02  0.77 
+BS03  0.62 
+BS04  0.61 
+Boundary buffering (BB) BB01  0.60  0.732  0.739 
+BB02  0.73 
+BB03  0.59 
+BB04  0.65 
+Consensus of appropriation (COA) COA01  0.76  0.881  0.882 
+COA02  0.78 
+COA03  0.73 
+COA04  0.82 
+COA05  0.78 
+Faithfulness of appropriation (FOA) FOA01  0.74  0.891  0.892 
+FOA02  0.78 
+FOA03  0.72 
+FOA04  0.78 
+FOA05  0.76 
+FOA06  0.78 
+IT alignment (ALI) ALI01  0.81  0.872  0.873 
+ALI02  0.80 
+ALI03  0.82 
+ALI04  0.75  T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+9positively associated with FOA. Thus, H1b, H2b, and H3b were 
+supported. 
+Table 5 showed the regression results of the effects of outsourcing 
+appropriation and moderating effects of the degree of outsourcing and 
+SaaS, PaaS, and IaaS. M3-2 indicated a positive impact on IT alignment 
+from COA (β 0.242, p D0.01) and FOA (β 0.541, p D0.01) 
+respectively. As such, H4a and H4b were supported. 
+With respect to the moderating effects of the degree of outsourcing 
+and SaaS, PaaS, and IaaS, we examined the significance of interaction 
+term between independent variables and moderators to judge whether 
+the moderating effects is significant or not. Following the advice given 
+by Cohen et al. (2013) , we also plotted the moderating effects in Figs. 2 
+to 5, and analyzed them using simple slope analysis. 
+H5 hypothesized that outsourcing appropriation make a greater 
+contribution to IT alignment when degree of outsourcing is high. M4-2 
+indicated a non-significant impact on IT alignment from the interac -
+tion term between COA and degree of outsourcing (β  0.034, p F
+0.10) and the interaction term between FOA and degree of outsourcing 
+(β  0.022, p F0.10) respectively. Thus, H5a and H5b were not 
+supported. 
+H6, H7, and H8 hypothesized that outsourcing appropriation make a 
+greater contribution to IT alignment when SaaS, PaaS, and IaaS model 
+are adopted compared with when they are not adopted. Specifically, M4- Table 3 
+Descriptive statistics, correlations and AVE.  
+Variables 1 2 3 4 5 6 7 8 9 10 
+1.SA  0.725          
+2.BS  0.506**  0.673         
+3.BB  0.555**  0.589**  0.645        
+4.COA  0.448**  0.429**  0.395**  0.775       
+5.FOA  0.516**  0.466**  0.497**  0.612**  0.760      
+6.ALI  0.467**  0.437**  0.393**  0.574**  0.688**  0.795     
+7.DE  0.096  0.004  0.004  0.140  0.113  0.126 NA    
+8.SaaS  0.171*  0.096  0.170*  0.078  0.003   0.023 0.017 NA   
+9.PaaS  0.216**  0.154*  0.177*  0.199**  0.153*  0.185* 0.163* 0.027 NA  
+10.IaaS  0.226**  0.257**  0.186*  0.188*  0.226**  0.281**  0.024  0.004 0.060 NA 
+Mean  5.178  5.057  5.019  5.202  5.203  5.269 2.418 0.530 0.690 0.540 
+SD  0.959  0.935  0.939  0.996  0.962  1.000 0.988 0.501 0.465 0.500 
+Note: ** p D0.01; * p D0.05; DE means degree of outsourcing; bold numbers mean the square roots of the AVE. 
+Table 4 
+The regression results of the antecedents of outsourcing appropriation.   
+COA FOA 
+M1-1 M1-2 M2-1 M2-2 
+Control variables     
+Position  0.021 
+(0.056)  0.013 
+(0.049) 0.018 
+(0.053) 0.029 
+(0.043) 
+Industry 0.207 
+(0.154) 0.181 
+(0.135) 0.347* 
+(0.147) 0.317** 
+(0.119) 
+Numbers of 
+employee  0.108 
+(0.075)  0.039 
+(0.067)  0.044 
+(0.072) 0.026 
+(0.059) 
+Numbers of IT 
+staff 0.136* 
+(0.061) 0.065 
+(0.055) 0.134* 
+(0.058) 0.058 
+(0.048) 
+Working years 0.145]
+(0.075) 0.133* 
+(0.066) 0.111 
+(0.071) 0.108]
+(0.059) 
+Antecedents     
+SA  0.266** 
+(0.086)  0.289** 
+(0.076) 
+BS  0.202* 
+(0.092)  0.161* 
+(0.081) 
+BB  0.149 
+(0.095)  0.252** 
+(0.084) 
+Adjusted R2 3.6 % 26.2 % 5.9 % 38.4 % 
+ΔR2  23.3 %**  32.6 %** 
+F statistics 2.245 8.503 3.138 14.171 
+Note: ** p D0.01; * p D0.05; ]p D0.10; S.D. values were included in 
+parentheses. Table 5 
+The effects of outsourcing appropriation and moderating effects of the degree of 
+outsourcing and SaaS, PaaS, and IaaS.   
+IT alignment 
+M3-1 M3-2 M4-1 M4-2 
+Control variables     
+Position  0.006 
+(0.055)  0.011 
+(0.040) 0.004 
+(0.041) 0.017 
+(0.042) 
+Industry 0.392* 
+(0.154) 0.154 
+(0.114) 0.151 
+(0.113) 0.124 
+(0.116) 
+Numbers of 
+employee  0.046 
+(0.075) 0.004 
+(0.055) 0.029 
+(0.056)  0.005 
+(0.057) 
+Numbers of IT 
+staff 0.120* 
+(0.061) 0.015 
+(0.045)  0.015 
+(0.048) 0.008 
+(0.049) 
+Working years 0.110 
+(0.075) 0.015 
+(0.055) 0.008 
+(0.056) 0.020 
+(0.057) 
+Independent 
+variables     
+COA  0.242** 
+(0.070) 0.232** 
+(0.071) 0.966** 
+(0.340) 
+FOA  0.541** 
+(0.074) 0.512** 
+(0.074)  0.124 
+(0.340) 
+Moderating 
+variables     
+DE   0.031 
+(0.057) 0.120 
+(0.108) 
+SaaS    0.085 
+(0.110) 0.157 
+(0.201) 
+PaaS   0.121 
+(0.125) 0.036 
+(0.206) 
+IaaS   0.253* 
+(0.117) 0.101 
+(0.206) 
+Interactions     
+DE ×COA     0.034 
+(0.106) 
+SaaS ×COA     0.323]
+(0.167) 
+PaaS ×COA     0.512* 
+(0.209) 
+IaaS ×COA     0.212 
+(0.162) 
+DE ×FOA     0.022 
+(0.100) 
+SaaS ×FOA    0.172 
+(0.175) 
+PaaS ×FOA    0.568** 
+(0.211) 
+IaaS ×FOA    0.290]
+(0.168) 
+Adjusted R2 5.0 % 49.6 % 50.4 % 51.7 % 
+ΔR2  43.9 %** 45.8 %** 3.5 % 
+F statistics 2.762 24.733 16.584 10.509 
+Note: ** p D0.01; * p D0.05; ]p D0.10. T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+102 showed a significant and negative impact on IT alignment from the 
+interaction term between COA and SaaS (β  0.323, p D0.10) and the 
+interaction term between COA and PaaS (β  0.512, p D0.05) 
+respectively. As depicted in Figs. 2 and 3, the positive effect of COA on IT 
+alignment is weaker when SaaS (and PaaS) is adopted than that it is not 
+adopted. These results were opposite to H6a and H7a. Further, the co-
+efficient of the interaction term between COA and IaaS was not signif -
+icant. Thus, H8a was not supported. 
+As for the FOA, M4-2 showed a non-significant impact on IT align -
+ment from the interaction term between FOA and SaaS (β 0.172, p F
+0.10). Thus, H6b was not supported. In addition, M4-2 also showed a 
+positive impact on IT alignment from the interaction term between FOA 
+and PaaS (β 0.568, p D0.01) and the interaction term between FOA 
+and IaaS (β 0.290, p D0.10) respectively. As depicted in Figs. 4 and 5, 
+the positive impact of FOA on IT alignment is stronger when PaaS (and 
+IaaS) is adopted than that it is not adopted. Thus, H7b and H8b were 
+supported. 
+5.Discussion 
+5.1. Theoretical contributions 
+IT outsourcing, as an important external source of firms' IT resources 
+and capabilities, has long been regarded as a promising way to attain IT 
+alignment. However, firms sometimes hesitate to seek IT outsourcing solutions to attain IT alignment because of outsourcing risks arising from 
+improper outsourcing appropriation (Deng et al., 2021 ; Lioliou et al., 
+2019 ). Therefore, researchers turn to the topic on the criteria for suitable 
+outsourcing appropriation. This study empirically extends extant the-
+ories on IT outsourcing and AST by investigating the antecedents of 
+outsourcing appropriation (referring to COA and FOA in this study), 
+their impacts on IT alignment, and boundary conditions of the impacts 
+of outsourcing appropriation on IT alignment. 
+Our study contributes to the IT outsourcing and AST literature in the 
+following several ways. First, different from prior literature that 
+attached great importance to the outcomes of outsourcing appropriation 
+(Deng et al., 2021 ), based on AST, our study revealed the antecedents of 
+outsourcing appropriation from the technology and team characteristic 
+perspectives. From the technology perspective, our results suggest that 
+shared IT affordance for knowledge acquisition promotes both COA and 
+FOA. Corresponding with previous literature that focused on the posi-
+tive roles of IT tools in decision-making processes (Sun et al., 2019 ), we 
+find that the knowledge acquisition potential afforded by the IT con-
+tributes to achieving the attitudinal consensus and structural faithful -
+ness towards outsourcing appropriation decisions. From the team 
+characteristic perspective, our results also suggest that boundary span-
+ning has a positive effect on both COA and FOA. Furthermore, boundary 
+buffering has a positive effect on FOA, but no significant effect on COA. 
+One possible explanation for the non-significant result is that boundary 
+buffering may impose both positive and negative impacts on COA. On 
+the one hand, boundary buffering may indeed cause conflicts and 
+Fig. 2.COA-SaaS-IT alignment.  
+Fig. 3.COA-PaaS-IT alignment.  
+Fig. 4.FOA-PaaS-IT alignment.  
+Fig. 5.FOA-IaaS-IT alignment.  T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+11discourage involvement from other departments within the organiza -
+tion, thus damaging the COA (Wu et al., 2020). However, on the other 
+hand, boundary buffering, especially to buffering behavior relating to 
+external suppliers, may protect IT departments against disturbances 
+from suppliers' lobbying, thereby improving the behavioral rationality 
+and efficiency of IT departments for the achievement of COA (Faraj and 
+Yan, 2009; Zhang et al., 2022). Overall, this finding reveals that 
+boundary behaviors, including boundary spanning and buffering, 
+differentially change the COA and FOA. 
+Second, compared with the contradictory arguments on the linkage 
+between IT outsourcing and alignment in prior literature (Silvius et al., 
+2013), this study provided in-depth insights for addressing the “IT 
+outsourcing-alignment” paradox from the COA and FOA perspectives. 
+Our empirical results indicate that COA and FOA contribute to pro-
+moting IT alignment respectively. These findings show the importance 
+of the attitudinal consensus and structural faithfulness towards IT 
+outsourcing appropriation on achieving IT alignment, thus mitigating 
+the concern for outsourcing risks arising from improper outsourcing 
+appropriation in existing literature. In addition, although extant studies 
+have highlighted the key roles of COA and FOA in achieving outsourcing 
+objectives (e.g., IT agility) (Deng et al., 2021), few has related the atti-
+tudinal consensus and structural faithfulness towards IT outsourcing to 
+IT alignment. This study empirically reveals that the IT alignment can be 
+equally viewed as a key outcome of COA and FOA. 
+Third, this study further reveals the boundary conditions of the ef-
+fects of outsourcing appropriation on IT alignment. Scant research has 
+attempted to investigate the impacts of COA and FOA on IT alignment, 
+nor has focused on the boundary conditions of these relationships. This 
+study seeks to fill these gaps by investigating the moderating roles of 
+degree of outsourcing and cloud computing adoption. Our results find 
+that the moderating effects of the degree of outsourcing on the effect of 
+outsourcing appropriation on IT alignment are not significant. This 
+finding further supports the previous point that the effects of 
+outsourcing appropriation on IT alignment are quite significant and 
+close. In other words, regardless of the high or low degree of 
+outsourcing, based on the consideration of risk aversion, firm executives 
+in both cases attach great importance to the attitudinal consensus and 
+structural faithfulness towards IT outsourcing to avoid the outsourcing 
+risks arising from unreasonable outsourcing appropriation, and further 
+attain IT alignment by leveraging the key roles of COA and FOA. 
+Further, differing from prior research on the adoption of cloud 
+computing from a holistic view (Liu et al., 2018), our study also 
+empirically investigates the moderating effects of the different di-
+mensions of cloud computing adoption on the effects of outsourcing 
+appropriation on IT alignment. Our results indicate that when SaaS or 
+PaaS is adopted, the impact of the COA on IT alignment is lower than 
+that when they are not adopted. One possible explanation for this is that 
+SaaS and PaaS models are more standardized (Fardinpour et al., 2020; 
+Singh et al., 2016), and it is therefore harder for them to achieve on- 
+demand personalization. Thus, although COA is reached, the failure of 
+SaaS or PaaS in the configuration based on the individual needs of cli-
+ents might lead to the relatively limited improvement of IT alignment. 
+However, if SaaS or PaaS is not adopted and more traditional 
+outsourcing or IS development by ownself are considered instead, it 
+might be easier for the outsourcing supplier or internal IT department to 
+meet individual needs, and it may be easier for the COA to achieve IT 
+alignment. Comparably, we also find a non-significant impact on IT 
+alignment from the interaction term between the COA and IaaS. In sum, 
+these results suggest that when cloud computing is adopted at a higher 
+application level rather than at an infrastructure level, the positive role 
+of the COA in alignment may be weakened. Our results also suggest that 
+when PaaS or IaaS is adopted, the positive impact of the FOA on IT 
+alignment is higher than that when they are not adopted, but the 
+moderating role of SaaS is not significant. The non-significance associ -
+ated with SaaS suggests that the role of the FOA in IT alignment does not 
+vary significantly with the adoption of SaaS. On the one hand, the adoption of SaaS may indeed strengthen the positive effect of the FOA on 
+IT alignment owing to its quick and low-cost configurability and 
+extendable technical advantages (Khayer et al., 2020). On the other 
+hand, due to its relative standardization and difficulties in adapting to 
+personalized business needs (Fardinpour et al., 2020), the adoption of 
+SaaS may also weaken the positive role of the FOA on IT alignment. It 
+may therefore be the combination of positive and negative effects that 
+leads to the non-significance of the moderating effects of SaaS. In sum, 
+the overall results indicate that when cloud computing is adopted at the 
+high infrastructure or platform levels rather than at the application 
+level, the FOA is more conducive to achieving IT alignment. Therefore, 
+our study provides in-depth insights regarding how different dimensions 
+of cloud computing adoption impose a significant impact on this 
+relationship. 
+5.2. Managerial implications 
+Our study offers some valuable practical guidance for department 
+managers of outsourcing users at various levels, e.g., IT department 
+managers and business unit managers, and outsourcing suppliers. First, 
+our results enable organizations to deepen the understanding of what 
+factors promote the attitudinal consensus and structural faithfulness 
+towards IT outsourcing appropriation. Specifically, our results highlight 
+the importance of the knowledge acquisition potential afforded by IT 
+tools on the consensus and faithful appropriation towards IT 
+outsourcing. Therefore, firm executives should attach great importance 
+to the roles of IT support in outsourcing appropriation decisions, and 
+especially, regard some IT functional modules aiming to improve orga-
+nizations' knowledge acquisition capabilities as a key criterion of IT 
+investments. Our results also show that the boundary behaviors for 
+teams play crucial roles in outsourcing appropriation. On one hand, the 
+IT department should conduct some boundary spanning behaviors 
+together with other departments and suppliers, such as forging rela-
+tionship, knowledge sharing, and lobbying others to obtain support, to 
+strengthen the mutual understanding of how outsourcing services are 
+appropriated. On the other hand, the IT department should be sensitive 
+to the risks with boundary work to protect itself against disturbances 
+from suppliers' lobbying in the outsourcing appropriation process. 
+Second, our results emphasize the crucial role of outsourcing 
+appropriation, and the key point for achieving IT alignment via IT 
+outsourcing is to promote COA and FOA towards IT outsourcing. In 
+terms of COA, it means the joint participation of both IT departments 
+and business units towards IT outsourcing appropriation, and the two 
+parties reach a consensus on this issue. In other words, COA requires the 
+mutual cooperation between IT managers and business executives to-
+wards outsourcing planning and business planning, which is important 
+to improve the business impacts of IT. For example, regular meetings 
+with the IT managers and business managers would strengthen an in- 
+depth understanding regarding the linkage between outsourcing objec -
+tives and business goals needed to be supported by IT, and more easily 
+reach an agreement regarding how firms achieve IT alignment through 
+IT outsourcing. In terms of FOA, our empirical results indicated that the 
+structural faithfulness towards IT outsourcing plays a key role in IT 
+alignment. Therefore, to attain IT alignment by using the core technical 
+competencies and advantage resources of suppliers, firms are supposed 
+to appropriate IT outsourcing in a style alignment with the general ob-
+jectives and procedures intended to be provided by the supplier. 
+Third, our results also reveal that the moderating effects of SaaS, 
+PaaS, and IaaS on the linkage between outsourcing appropriation and 
+alignment vary significantly. Therefore, to achieve IT alignment, the 
+levels of the COA and FOA should vary depending on the adoption of 
+different cloud computing models. Specifically, our results suggest that 
+when PaaS or IaaS are adopted, the FOA may have a more important 
+impact on attaining IT alignment compared with when they are not 
+adopted. Therefore, when PaaS or IaaS are adopted, it is more critical for 
+outsourcing users to understand the technical characteristics and service T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+12philosophy of the cloud services to ensure a higher level of FOA to a 
+great extent. In contrast, results also indicate that when SaaS or PaaS are 
+adopted, the role of the COA in IT alignment seems to be weakened as 
+compared to when they are not adopted. Thus, when cloud computing is 
+adopted at the application level in terms of SaaS or PaaS, the COA should 
+not be heavily relied upon to promote IT alignment. 
+5.3. Limitations and future research 
+Our study has the following limitations that might constrain its 
+generalizability, and provides several topics for future research. First, 
+given that IT alignment is a time-consuming and dynamic process, 
+therefore using a cross-sectional data as our samples to investigate the 
+formation of IT alignment may limit the generalizability of our results. 
+Therefore, future research might adopt a case study or longitudinal 
+design that can reflect the time effect, aiming to reveal the dynamic 
+process of IT alignment through outsourcing appropriation. Second, the 
+alternative antecedents of outsourcing appropriation advocated by AST 
+have not been fully considered in this study, e.g., task characteristics. 
+Meanwhile, we merely focus on the shared IT affordance for knowledge 
+acquisition from the technical perspective. Therefore, future researchers 
+can extend our findings by focusing on other types of antecedents of 
+outsourcing appropriation, e.g., task characteristics or other technology 
+factors (such as sophistication and comprehensiveness). Third, our study 
+employs a unilateral view from outsourcing users to collect data aiming 
+to solve how organizations appropriate IT outsourcing for IT alignment. 
+However, outsourcing suppliers, acted as the direct provider of services, 
+can be seen as another key participant in outsourcing appropriation. 
+Therefore, future research can adopt a bilateral perspective from 
+outsourcing users or suppliers to extend our findings. Fourth, future 
+research could conduct a larger sample survey to further validate our 
+findings. In addition, future research in other contexts, e.g., other 
+countries, could also supplement the findings here. 
+6.Conclusions 
+Outsourcing appropriation, covering the two important aspects of 
+COA and FOA, provides a promising lens to answer how to appropriate 
+IT outsourcing for IT alignment. Our study investigates the antecedents 
+of outsourcing appropriation, their impacts on IT alignment, and 
+boundary conditions of the impacts of outsourcing appropriation on IT 
+alignment. Our results demonstrate the importance of shared IT 
+affordance for knowledge acquisition, boundary spanning, and boundary buffering on outsourcing appropriation apart from the non- 
+significance results of the relationship between boundary buffering 
+and COA. In addition, our findings indicate that COA and FOA 
+contribute to promoting IT alignment respectively, and further advance 
+the literature on the antecedents of suitable outsourcing appropriation. 
+Further, to reveal the boundary conditions of the impacts of outsourcing 
+appropriation on IT alignment, we also consider two environmental 
+factors (degree of outsourcing and cloud computing adoption) as mod-
+erators. Our results indicate that the adoption of cloud computing sets 
+the boundary conditions of the linkage between outsourcing appropri -
+ation and IT alignment, whereas the degree of outsourcing does not. Our 
+results demonstrate that the moderating effects of different dimensions 
+of cloud computing adoption (including SaaS, PaaS, and IaaS) on the 
+linkage between outsourcing appropriation and IT alignment vary 
+significantly. Notably, the relatively importance of COA and FOA on IT 
+alignment may vary based on different cloud computing adoption mode. 
+CRediT authorship contribution statement 
+Tao Wang: Conceptualization, Writing – original draft, Formal 
+analysis, Methodology, Writing – review & editing. Chun-Ping Deng: 
+Resources, Conceptualization, Methodology, Investigation, Writing – 
+review & editing, Funding acquisition. Thompson S.H. Teo: Writing – 
+review & editing, Conceptualization, Resources, Formal analysis, 
+Methodology. 
+Declaration of competing interest 
+None. 
+Data availability 
+Data will be made available on request. 
+Acknowledgement 
+This work was supported by the National Natural Science Foundation 
+of China [grant numbers 71972006, 72172009] and the Project of 
+Construction of Innovative Teams and Teacher Career Development for 
+Universities and Colleges Under Beijing Municipality [grant numbers 
+BPHR20220105]. We would also like to thank Qi Song for her efforts in 
+data collection.  
+Appendix A  
+Table A1 
+Key studies on IT outsourcing and IT alignment.  
+Authors Method Key findings 
+Ghosh and Scott 
+(2009) Construction of conceptual model. The knowledge gaps between outsourcing users and providers may hinder IT alignment. 
+Valorinta (2011) Using data obtained from the IT managers and other 
+executives of 500 enterprises IT outsourcing can improve IT alignment by decreasing IT governance costs. That is, IT 
+outsourcing enables IT function, especially for IT department, to devote more energy to 
+alignment between IT planning and business objectives needed to be supported by IT. 
+Schmidt and Uydess 
+(2012) Literature review and construction of conceptual model. IT outsourcing probably impede IT alignment, in particular, when there exist relationship 
+conflicts between outsourcing providers and users. 
+Silvius et al. (2013) A qualitative study with four IT outsourcing cases. IT outsourcing may impose positive and negative effects on IT business alignment through 
+literature review and case analysis. 
+Arvanitis et al. (2017) Using a survey data collected from 556 European firms. Cloud computing as an emerging outsourcing mode, characterized by pay per use, 
+scalability, and configurability, may enable the higher IT alignment than traditional IT 
+outsourcing. 
+Park et al. (2017) A survey-based empirical approach and using data from 213 
+enterprises that engaged in IT outsourcing businesses. The integration of internal IT governance (e.g., IT infrastructure or talent) and external IT 
+governance (e.g., cloud computing or IT outsourcing) leads to the best IT alignment. 
+Lioliou et al. (2019) Case study within the financial services sector. The opportunistic behavior of outsourcing providers may impose a negative impact on IT 
+alignment. 
+(continued on next page) T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+13Table A1 (continued ) 
+Authors Method Key findings 
+Wallenburg et al. 
+(2019) A survey-based empirical approach and using data from the 
+logistics service industry. In outsourcing, the interaction between outsourcing suppliers and clients plays a crucial 
+role in promoting IT alignment. 
+Guan et al. (2020) Using data from surveys of 240 crowdsources in China. The relational governance between outsourcing users and providers is a key element of 
+determining the degree of alignment of IT services with business needed to be supported by 
+IT. 
+Saldanha et al. (2020) An empirical approach and data obtained from above 120 
+firms in India. Some capabilities related to outsourcing management, such as IT planning, delivery and 
+change, may affect IT alignment. 
+Deng et al. (2021) Using a survey-based data from the manufacturing and 
+service in China. IT alignment as a mediating mechanism by which IT outsourcing appropriation impact 
+agility, and thereby may be positively affected by appropriation of IT outsourcing. 
+Kalubanga and 
+Namagembe (2022) Using data collected from department executives in 103 
+manufacturing enterprises. Whether IT outsourcing promotes or hinders IT alignment is heavily dependent on the 
+relationship quality (e.g., trust and commitment) between outsourcing users and providers.  
+References 
+Abhari, K., Davidson, E.J., Xiao, B., 2017. Co-innovation platform affordances: 
+developing a conceptual model and measurement instrument. Ind. Manag. Data Syst. 
+117 (5), 873–895. 
+Alali, F.A., Yeh, C.-L., 2012. Cloud computing: overview and risk analysis. J. Inf. Syst. 26 
+(2), 13–33. 
+Armbrust, M., Fox, A., Griffith, R., Joseph, A.D., Katz, R., Konwinski, A., 2010. A view of 
+cloud computing. Commun. ACM 53 (4), 50–58. 
+Arvanitis, S., Kyriakou, N., Loukis, E.N., 2017. Why do firms adopt cloud computing? A 
+comparative analysis based on south and north Europe firm data. Telematics & 
+Informatics 34 (7), 1322–1332. 
+Autio, E., Nambisan, S., Thomas, L.D.W., Wright, M., 2018. Digital affordances, spatial 
+affordances, and the genesis of entrepreneurial ecosystems. Strateg. Entrep. J. 12 (1), 
+72–95. 
+Benlian, A., 2009. A transaction cost theoretical analysis of software-as-a-service (SaaS)- 
+based sourcing in SMBs and enterprises. In: Proceedings of European Conference on 
+Information Systems, pp. 1–13. 
+Bernat, S., Karabag, S.F., 2019. Strategic alignment of technology: organising for 
+technology upgrading in emerging economy firms. Technol. Forecast. Soc. Chang. 
+145, 295–306. 
+Chatterjee, S., Moody, G., Lowry, P.B., Chakraborty, S., Hardin, A., 2020. Information 
+technology and organizational innovation: harmonious information technology 
+affordance and courage-based actualization. J. Strateg. Inf. Syst. https://doi.org/ 
+10.1016/j.jsis.2020.101596 published online.  
+Cohen, J., Cohen, P., West, S.G., Aiken, L.S., 2013. Applied multiple regression. In: 
+Correlation analysis for the behavioral sciences. Lawrence, New Jersey.  
+Coltman, T., Tallon, P., Sharma, R., Queiroz, M., 2015. Strategic IT alignment: twenty- 
+five years on. J. Inf. Technol. 30 (2), 91–100. 
+Das, A., Grover, D., 2018. Biased decisions on IT outsourcing: how vendor selection adds 
+value. J. Bus. Strat. 39 (5), 31–40. 
+Deng, C., Yan, T., Mao, J., Yin, S., 2022. Thinking alike or not: performance implications 
+of transactional psychological contract congruence in buyer-supplier new product 
+development projects. J. Oper. Manag. 68 (1), 4–32. 
+Deng, C.-P., Wang, T., Teo, T.S.H., Song, Q., 2021. Organizational agility through 
+outsourcing: roles of IT alignment, cloud computing and knowledge transfer. Int. J. 
+Inf. Manag. https://doi.org/10.1016/j.ijinfomgt.2021.102385, published online. 
+DeSanctis, G., Poole, M.S., 1994. Capturing the complexity in advanced technology use: 
+adaptive structuration theory. Organ. Sci. 5 (2), 121–147. 
+Du, W.(Derek), Pan, S.L., 2013. Boundary spanning by design: toward aligning 
+boundary-spanning capacity and strategy in IT outsourcing. IEEE Transactions on 
+Engineering Management 60 (1), 59–76. 
+Faraj, S., Yan, A., 2009. Boundary work in knowledge teams. J. Appl. Psychol. 94 (3), 
+604–617. 
+Fardinpour, M., Milani, A.S., Norouzi, M., 2020. Towards techniques, challenges and 
+efforts of software as a service layer based on business applications in cloud 
+environments. Kybernetes 49 (12), 2993–3018. 
+Gao, F., Sunyaev, A., 2019. Context matters: a review of the determinant factors in the 
+decision to adopt cloud computing in healthcare. Int. J. Inf. Manag. 48, 120–138. 
+Ghosh, B., Scott, J.E., 2009. Relational alignment in offshore is outsourcing. MIS Q. Exec. 
+8 (1), 19–29. 
+Guan, S., Guo, W., Liu, S., Zhu, Q., 2020. The relational governance antecedents and 
+loyalty consequence of service quality in crowdsourcing: the moderating role of 
+crowdsourcing experience. Telematics Inform. https://doi.org/10.1016/j. 
+tele.2020.101453, published online. 
+Hanafizadeh, P., Ahad, Z.R., 2018. An empirical analysis on outsourcing decision: the 
+case of e-banking services. J. Enterp. Inf. Manag. 31 (1), 146–172. 
+Hawkins, M.A., Rezazade, M.H.M., 2012. Knowledge boundary spanning process: 
+synthesizing four spanning mechanisms. Manag. Decis. 50 (10), 1800–1815. 
+Henderson, J.C., Venkatraman, N., Oldach, S., 1996. Aligning Business and IT Strategies, 
+Competing in the information Age. Oxford University Press, New York.  
+Hirschheim, R., Sabherwal, R., 2001. Detours in the path toward strategic information 
+systems alignment. Calif. Manag. Rev. 44 (1), 87–108. 
+Kalubanga, M., Namagembe, S., 2022. Trust, commitment, logistics outsourcing 
+relationship quality, relationship satisfaction, strategy alignment and logistics performance: a case of selected manufacturing firms in Uganda. Int. J. Logist. 
+Manag. 33 (1), 102–140. 
+Kang, S., Lim, K.H., Kim, M.S., Yang, H., 2012. A multilevel analysis of the effect of group 
+appropriation on collaborative technologies use and performance. Inf. Syst. Res. 23 
+(1), 214–230, 281–282, 284.  
+Kearns, G.S., Sabherwal, R., 2006. Strategic alignment between business and information 
+technology: a knowledge-based view of behaviors, outcome, and consequences. 
+J. Manag. Inf. Syst. 23 (3), 129–162. 
+Khayer, A., Jahan, N., Hossain, M.N., Hossain, M.Y., 2020. The adoption of cloud 
+computing in small and medium enterprises: a developing country perspective. VINE 
+J. Inf. Knowl. Manag. Syst. 51 (1), 64–91. 
+Klueter, T., Monteiro, F., 2017. How does performance feedback affect boundary 
+spanning in multinational corporations? Insights from technology scouts. J. Manag. 
+Stud. 54 (4), 483–510. 
+Ko, E.-J., Kim, A.-H., Kim, S.-S., 2021. Toward the understanding of the appropriation of 
+ICT-based smart-work and its impact on performance in organizations. Technol. 
+Forecast. Soc. Chang. https://doi.org/10.1016/j.techfore.2021.120994, published 
+online. 
+Koo, Y., Park, Y., Ham, J., Lee, J.-N., 2019. Congruent patterns of outsourcing 
+capabilities: a bilateral perspective. J. Strateg. Inf. Syst. https://doi.org/10.1016/j. 
+jsis.2019.101580, published online. 
+Kroes, J.R., Ghosh, S., 2010. Outsourcing congruence with competitive priorities: impact 
+on supply chain and firm performance. J. Oper. Manag. 28 (2), 124–143. 
+Kunttu, I., 2017. A managerial decision tool for R&D outsourcing and partner selection in 
+high-technology industries. Technol. Innov. Manag. Rev. 7 (3), 25–32. 
+Lal, P., Bharadwaj, S.S., 2016. Understanding the impact of cloud-based services 
+adoption on organizational flexibility. J. Enterp. Inf. Manag. 29 (4), 566–588. 
+Leonardi, P.M., 2013. When does technology use enable network change in 
+Organizations? A comparative study of feature use and shared affordances. MIS Q. 
+37 (3), 749–775. 
+Lin, X., Kishore, R., 2021. Social media-enabled healthcare: a conceptual model of social 
+media affordances, online social support, and health behaviors and outcomes. 
+Technol. Forecast. Soc. Chang. https://doi.org/10.1016/j.techfore.2021.120574, 
+published online. 
+Lioliou, E., Willcocks, L., Liu, X., 2019. Researching IT multi-sourcing and opportunistic 
+behavior in conditions of uncertainty: a case approach. J. Bus. Res. 103, 387–396. 
+Liou, J.J.H., Wang, H.S., Hsu, C.C., Yin, S.L., 2011. A hybrid model for selection of an 
+outsourcing provider. Appl. Math. Model. 35 (10), 5121–5133. 
+Liu, S., Chan, F.T.S., Yang, J., Niu, B., 2018. Understanding the effect of cloud computing 
+on organizational agility: an empirical examination. Int. J. Inf. Manag. 43, 98–111. 
+Lu, Y., Ramamurthy, K., 2011. Understanding the link between information technology 
+capability and organizational agility: an empirical examination. MIS Q. 35 (7), 
+931–954. 
+Markus, M.L., Silver, M.S., 2008. A foundation for the study of IT effects: a new look at 
+DeSanctis and Poole’s concepts of structural features and spirit. J. Assoc. Inf. Syst. 9 
+(10), 609–632. 
+Mell, P., Grance, T., 2010. The NIST definition of cloud computing. Association for 
+Computing Machinery. Commun. ACM 53 (6), 50. 
+Mitra, A., O'Regan, N., Sarpong, D., 2018. Cloud resource adaptation: a resource based 
+perspective on value creation for corporate growth. Technol. Forecast. Soc. Chang. 
+130, 28–38. 
+Mol, M.J., Kotabe, M., 2011. Overcoming inertia: drivers of the outsourcing process. 
+Long Range Plan. 44 (3), 160–178. 
+Nambisan, S., Baron, R.A., 2010. Different roles, different strokes: organizing virtual 
+customer environments to promote two types of customer contributions. Organ. Sci. 
+21 (2), 554–572, 587,589.  
+Nguyen, T., Chen, J.V., Nguyen, T.P.H., 2021. Appropriation of accounting information 
+system use under the new IFRS: impacts on accounting process performance. Inf. 
+Manag. https://doi.org/10.1016/j.im.2021.103534 published online.  
+Nieuwenhuis, L.J.M., Ehrenhard, M.L., Prause, L., 2018. The shift to cloud computing: 
+the impact of disruptive technology on the enterprise software business ecosystem. 
+Technol. Forecast. Soc. Chang. 129, 308–313. 
+Park, J., Jae-Nam, L., One-Ki, D.L., Koo, Y., 2017. Alignment between internal and 
+external IT governance and its effects on distinctive firm performance: an extended 
+resource-based view. IEEE Trans. Eng. Manag. 64 (3), 351–364. T. Wang et al.                                                                                                                                                                                                                                   
+Technological Forecasting & Social Change 192 (2023) 122581
+14Perçin, S., 2019. An integrated fuzzy SWARA and fuzzy AD approach for outsourcing 
+provider selection: IMS. J. Manuf. Technol. Manag. 31 (2), 531–552. 
+Podsakoff, P.M., MacKenzie, S.B., Lee, Jeong-Yeon, Podsakoff, N.P., 2003. Common 
+method biases in behavioral research: a critical review of the literature and 
+recommended remedies. J. Appl. Psychol. 88 (5), 879–903. 
+Preston, D.S., Karahanna, E., 2009. Antecedents of IS strategic alignment: a nomological 
+network. Inf. Syst. Res. 20 (2), 159–179. 
+Queiroz, M., 2017. Mixed results in strategic IT alignment research: a synthesis and 
+empirical study. Eur. J. Inf. Syst. 26 (1), 21–36. 
+Reich, B.H., Benbasat, I., 2000. Factors that influence the social dimension of alignment 
+between business and information technology objectives. MIS Q. 24 (1), 81–113. 
+Romanow, D., Rai, A., Keil, M., 2018. Cpoe-enabled coordination: appropriation for deep 
+structure use and impacts on patient outcomes. MIS Q. 42 (1), 189–212. 
+Safari, F., Safari, N., Hasanzadeh, A., 2015. The adoption of software-as-a-service (SaaS): 
+ranking the determinants. J. Enterp. Inf. Manag. 28 (3), 400–422. 
+Saldanha, T., Lee, D., Mithas, S., 2020. Aligning information technology and business: 
+the differential effects of alignment during investment planning, delivery, and 
+change. Inf. Syst. Res. 31 (4), 1260–1281. 
+Schmidt, W., Uydess, I., 2012. Smart outsourcing: strategic alignment, risk management, 
+and new relationships. Biopharm Int. 25 (3), 35–39. 
+Schmitz, K.W., Teng, J.T.C., Webb, K.J., 2016. Capturing the complexity of malleable IT 
+use: adaptive structuration theory for individuals. MIS Q. 40 (3), 663–686. 
+Sha, X., Chen, J., Teoh, S.Y., 2020. The dynamics of IT-business strategic alignment: 
+evidence from healthcare information systems implementation. Inf. Technol. People 
+33 (5), 1465–1488. 
+Silvius, A.J.G., Turkiewicz, J., Keratsinov, A., Spoor, H., 2013. The relationship between 
+IT outsourcing and business and IT alignment: an explorative study. Comput. Sci. Inf. 
+Syst. 10 (3), 973–998. 
+Singh, A., Sharma, S., Kumar, S.R., Yadav, S.A., 2016. Overview of PaaS and SaaS and its 
+application in cloud computing. International Conference on Innovation and 
+Challenges in Cyber Security (ICICCS) 172–176. 
+Sun, Y., Zhou, X., Jeyaraj, A., Shang, R.-A., Hu, F., 2019. The impact of enterprise social 
+media platforms on knowledge sharing. J. Enterp. Inf. Manag. 32 (2), 233–250. 
+Tallon, P.P., Queiroz, M., Coltman, T.R., Sharma, R., 2016. Business process and 
+information technology alignment: construct conceptualization, empirical 
+illustration, and directions for future research. J. Assoc. Inf. Syst. 17 (9), 563–589. 
+Teo, T.S.H., 2012. Knowledge management in client-vendor partnerships. Int. J. Inf. 
+Manag. 32 (5), 451–458. 
+Teo, T.S.H., Bhattacherjee, A., 2014. Knowledge transfer and utilization in IT 
+outsourcing partnerships: a preliminary model of antecedents and outcomes. Inf. 
+Manag. 51 (2), 177–186. 
+Trang, S., Mandrella, M., Marrone, M., Kolbe, L.M., 2021. Co-creating business value 
+through IT-business operational alignment in inter-organisational relationships: 
+empirical evidence from regional networks. Eur. J. Inf. Syst. https://doi.org/ 
+10.1080/0960085x.2020.1869914 published online.  Valorinta, M., 2011. IT alignment and the boundaries of the IT function. J. Inf. Technol. 
+26 (1), 46–59. 
+Wagner, D., Vollmar, G., Wagner, H.-T., 2014. The impact of information technology on 
+knowledge creation: an affordance approach to social media. J. Enterp. Inf. Manag. 
+27 (1), 31–44. 
+Wallenburg, C.M., Johne, D., Cichosz, M., Goldsby, T.J., Knemeyer, A.M., 2019. 
+Alignment mechanisms for supplier-initiated innovation: results from the logistics 
+service industry. J. Purch. Supply Manag. https://doi.org/10.1016/j. 
+pursup.2019.100575 published online.  
+Walraven, S., Truyen, E., Joosen, W., 2014. Comparing PaaS offerings in light of SaaS 
+development. Computing 96 (8), 669–724. 
+Wu, X.(Jason), Huang, W.(Wayne), Jiang, J., Klein, G., Liu, S., 2020. Boundary buffering: 
+limiting interference and information leakage in design teams. International Journal 
+of Operations & Production Management 40 (3), 293–313. 
+Zhang, J., Wu, X., Guo, J., Jiang, R., 2022. The interactive effects of individual boundary 
+spanning and boundary buffering when using enterprise social media. Int. J. Inf. 
+Manag. https://doi.org/10.1016/j.ijinfomgt.2022.102490 published online.  
+Tao Wang is a doctoral student in the School of Business at University of International 
+Business and Economics. His current research covers IS outsourcing and knowledge 
+management. His research has been published in International Journal of Information 
+Management. 
+Chun-Ping Deng is a professor in the School of Business at Beijing Technology and 
+Business University. He holds a Ph.D. from Renmin University of China. His research has 
+been published in Journal of Operations Management, Information & Management, 
+Journal of Global Information Management, International Journal of Information Man-
+agement, and several top Chinese Journals. His current research covers IS outsourcing and 
+cloud computing, knowledge management, and collaborative innovation in supply chains. 
+Thompson S.H. Teo is a professor in the Department of Analytics and Operations at the 
+School of Business, National University of Singapore. His research interests include tech-
+nology adoption, green IT, knowledge management, e-government, and sustainability. He 
+has served as a Senior Associate Editor for the European Journal of Information Systems, 
+Regional Editor (Asia and Pacific) for the International Journal of Information Manage -
+ment, and Editorial Review Board member for IEEE Transactions on Engineering Man-
+agement. Thompson is currently serving as an Associate Editor for the Communications of 
+the AIS, Information & Management, and Omega, as well as an Editorial Board Member for 
+MIS Quarterly Executive. He has coedited four books on IT and e-commerce, and is also a 
+four-time winner of the SIM Paper Awards Competition. He won the Best Associate Editor 
+Award 2017 from the Communications of the Association for Information Systems. T. Wang et al.                                                                                                                                                                                                                                   
