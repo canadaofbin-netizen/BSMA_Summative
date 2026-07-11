@@ -1,0 +1,1069 @@
+RESEARCH ARTICLE
+The curvilinear relationship between team member boundary-
+spanning differentiation and creativity
+Jin Yao1| Jie Feng2| Xinmei Liu1
+1School of Management, Xi'an Jiaotong
+University, Xi'an, China
+2School of Management and Labor Relations,
+Rutgers University, Piscataway, New Jersey,USA
+Correspondence
+Jin Yao, School of Management, Xi'an Jiaotong
+University, Xi'an, China.Email:
+yaojin931231@stu.xjtu.edu.cn
+Funding information
+National Natural Science Foundation of China,
+Grant/Award Number: 71572140Summary
+Team creativity, as one of the most important sources of organizational competitive-
+ness and continuous innovation, requires rich and non-redundant information from
+both internal and external sources. Although an emerging line of research has shed
+light on the role of team boundary-spanning activity in promoting creativity, it has
+solely focused on the mean level of team boundary-spanning activity and rarelyaddressed the fact that not all team members engage in boundary-spanning behav-
+iors to the same extent. In this study, we broaden the existing knowledge by examin-
+ing when and how the pattern of team boundary spanning, particularly the
+differentiation in team member boundary-spanning activities, promotes team creativ-
+ity. Based on the categorization-elaboration model, we propose a curvilinear relation-ship between team member boundary-spanning differentiation and creativity that is
+mediated through information sharing. Further, we add an important layer of under-
+standing to the nature of this curvilinear relationship by identifying team goal
+interdependence as an important moderator. Using multisource data collected from
+two time points in 70 teams, we have received general support for our hypotheses.
+As such, we enrich the conversation about the importance of team boundary span-
+ning by answering “Whether team boundary-spanning differentiation fosters creativ-
+ity, and when andhow?”
+KEYWORDS
+team creativity, team goal interdependence, team information sharing, team member
+boundary-spanning differentiation (TMBSD)
+1|INTRODUCTION
+Team creativity, as one of the most important sources of organiza-
+tional competitiveness and continuous innovation, has led to the rapid
+growth of interest among the practitioners and academic communities
+(Hoever et al., 2012 ; Nouri et al., 2014 ). Although there is consider-
+able evidence that a variety of antecedents can contribute to teamcreativity (e.g., team structure, composition, climate, and leadership
+style; Anderson et al.,
+2014 ), there is also a consensus that the promo-
+tion of team creativity usually requires rich and non-redundant infor-mational inputs from members (Gong et al.,
+2013 ). Given the growing
+recognition that team boundary-spanning activity is crucial inconnecting teams with various internal and external sources and esta-
+blishing important channels to acquire new knowledge and informa-
+tion, an emerging line of research has focused on the role of teamboundary-spanning activity in supplementing the existing knowledge
+repository and generating novel ideas (e.g., Somech & Khalaili,
+2014 ).
+Although research over the past two decades has indicated that
+team boundary-spanning activity is inextricably linked to team func-tioning (Ancona & Caldwell,
+1998 ; Choi, 2002 ), we still have signifi-
+cant gaps in fully understanding the team boundary-spanning
+phenomenon. For example, our knowledge remains incompleteregarding howteams differ in the pattern of boundary-spanning activi-
+ties (e.g., do all members engage in boundary-spanning activities toReceived: 15 May 2019 Revised: 9 February 2022 Accepted: 22 February 2022
+DOI: 10.1002/job.2618
+J Organ Behav. 2022;43:1063 –1077. wileyonlinelibrary.com/journal/job © 2022 John Wiley & Sons, Ltd. 1063
+the same extent?) and whether this differentiation matters to teams'
+efforts in promoting creativity. In other words, although the existingliterature has provided some appealing explanations regarding the
+crucial influences of team boundary spanning (e.g., Marrone
+et al.,
+2007 ; Somech & Khalaili, 2014 ), most of these claims are based
+on investigations of the mean level of boundary-spanning activities in
+teams and its impact on teams' task performance (Marrone, 2010 ).
+Team members' differential involvement in boundary-spanning
+activities, however, is indeed common as it is usually determined by
+team structure and role specification. For example, in many teams,
+while some members take on internally directed tasks, other membersare assigned with a networking role, taking responsibility for exter-nally directed activities (Ancona,
+1990 ). Also, individual differences in
+traits and characteristics that are relevant to boundary-spanning
+engagement (e.g., boundary-spanning self-efficacy; Marroneet al.,
+2007 ) may also affect individuals' willingness and commitment
+to engage in boundary-spanning activities. The exclusive focus on the
+aggregated, mean level either overly simplifies team boundary-spanning activities in the real workplace or erroneously assumes that
+all team members homogeneously engage in boundary-spanning activ-
+ities to the same extent. Either way, it fails to capture the nuanced,subtle, and ongoing team processes, activities, and dynamics in teams
+of different configurations of boundary-spanning activity, such as
+how members of various levels of boundary-spanning engagementinternalize information from outside, attend to competing internal andexternal demand and influence, and manage conflicting expectations,
+views, and ideas within teams (e.g., Friedman & Podolny,
+1992 ;
+Marrone, 2010 ).
+Moreover, although the bulk of past research has explored how
+team diversity affects team creativity (e.g., Shin & Zhou, 2007 ), we still
+know so little about the influences of diversity in members' boundary-spanning activities on team creativity. Past research has also noted
+that the impact of boundary activities on teams may not always be lin-
+ear and positive (Choi,
+2002 ), which also demonstrates the necessity
+of tapping into the configurations of boundary-spanning activity tobetter understand the team dynamics and functioning. Given that
+individual contributions may emerge at the team level in a non-
+isomorphic fashion (Kozlowski & Klein,
+2000 ), teams with different
+configurations or patterns of boundary-spanning activities may incur
+unique team processes and internal dynamics, which consequently
+result in diverse outcomes (Klein & Kozlowski, 2000 ).
+To advance our understanding about team boundary-spanning
+phenomenon and unpack its complex influences on team creativity,
+we focus on team member boundary-spanning differentiation(TMBSD) to exploratory probe the pattern/configuration of team
+boundary spanning. Our reading suggests that the categorization-
+elaboration model (CEM), proposed by Van Knippenberg et al. (
+2004 ),
+is a promising theoretical frame to answer our research questionsregarding whether ,how, and when TMBSD influences team creativity.
+On the one hand, the information/decision-making perspective pro-
+poses that team diversity can promote team functioning due to theinclusion of diverse knowledge and perspectives; the social categori-
+zation perspective, on the other hand, infers that diversity can impedeteam functioning due to an “usversus them ”mentality (Van
+Knippenberg et al.,
+2011 ). We believe that CEM provides a vantage
+point to elaborate the complex influences of team diversity in a com-
+prehensive way, discussing both beneficial and adverse influences of
+team diversity by reconciling the seemingly competing arguments ofthese two perspectives.
+Guided by CEM, we propose that the influence of TMBSD on
+team creativity can be non-linear if the magnitude of TMBSD signifi-cantly triggers the social categorization process, which limits the infor-
+mation elaboration process, through which TMBSD often promotes
+team creativity. As shown in Figure
+1, we provide illustrative examples
+to visualize typical patterns/configurations of team boundary-spanning activities across teams of different levels of TMBSD. We
+argue that when moving from low to moderate level of TMBSD (see
+Figure
+1aandb), TMBSD can be functional and promote team creativ-
+ity, because the social categorization process is less likely to be acti-
+vated and information can flow more smoothly within the team.
+However, when TMBSD further increases and reaches an overly highlevel (see Figure
+1c, maximum TMBSD shows a clear split in roles and
+substantial separation diversity within the team), the adverse impact
+of social categorization processes becomes salient in teams and canseverely limit internal information exchange and hamper team
+creativity.
+We then develop a theoretical model to further explain how
+(i.e., information seeking) and when (i.e., high team goal
+interdependence) TMBSD will promote or inhibit team creativity.
+Specifically, we argue that information sharing, as a critical creativity-
+relevant team mechanism, serves as an essential conduit of transfer-ring external information into teams, which makes it a critical process
+to realize the benefits of boundary spanning. Our investigation of the
+mediating role of information sharing heeds the call for research oninformation processing that takes place among members who possess
+divergent informational resource (e.g., Gilson et al.,
+2013 ). Moreover,
+according to CEM, the influence of team diversity on teams dependson the characteristics of the team's task and intragroup relations(Cooper et al.,
+2014 ). Interdependent team goals can increase commu-
+nication and cooperation within a team through efficiently alleviating
+conflicts among team members caused by social categorization, andfacilitating the integration and collective utilization of individual
+resources for pursuing the collective goal (Weldon & Weingart,
+1993 ).
+Thus, we propose that the influence of TMBSD on team informationsharing can be further moderated by team goal interdependence,
+which has been shown to be a critical task characteristic variable in
+understanding the influence of team boundary activities (Somech &Khalaili,
+2014 ). Figure 2shows the overall theoretical model.
+Our research makes contributions to the team boundary spanning
+and creativity literatures in three ways. First, in contrast to the previ-ous, sole emphasis on the mean/aggregated level of team members'behaviors and characteristics (e.g., Widmann & Mulder,
+2018 ), this
+study extends the existing research by focusing on the pattern of
+teams' boundary spanning, with an important yet overlooked compo-nent of which being the differentiation within teams' boundary-
+spanning activities (i.e., TMBSD). Second, leveraging a CEM-based1064 YAO ET AL.
+framework, we identify a complex, non-linear linkage between
+TMBSD and team creativity. In this way, we are able to unveil the
+range of TMBSD that activates more (less) information elaborationprocess and less (more) social categorization process, both of which
+are proposed in CEM but affect team creativity in different ways. Our
+investigation of the underlying mechanism through information
+FIGURE 1 Illustrative exemplars of
+different levels of team memberboundary-spanning differentiation(TMBSD) and information sharing inteams at the same mean level ofboundary-spanning activity. Note : All
+three teams in the exemplars have thesame mean level (moderate) ofboundary spanning. X-axis represents
+team members' participation in
+boundary-spanning activities. Membersof various colors refer to their differentlevel of engagement in boundary-spanning activities.
+and
+denote relatively week and
+strong information exchange processes,respectively, as we hypothesized
+FIGURE 2 Hypothesized
+model. TMBSD, team memberboundary-spanning differentiationYAO ET AL. 1065
+sharing also provides an opportunity to gauge whether TMBSD influ-
+ences team creativity as proposed by CEM. Finally, our considerationof team goal interdependence allows a comprehensive understanding
+ofwhen TMBSD fosters/hampers team process and creativity. Our
+focus towards exploring the moderating role of team goalinterdependence implies that not all teams passively react to the
+dynamics triggered by TMBSD, but rather appreciates that some can
+actively make efforts to ameliorate the potential disruptive impact ofTMBSD and reap the benefits of TMBSD. Taken together, we respond
+to Marrone et al.'s (
+2007 ) call to address how teams can best design,
+utilize, and manage boundary-spanning activities to contribute toteam outcomes.
+2|THEORY AND HYPOTHESES
+DEVELOPMENT
+2.1 |Team member boundary-spanning
+differentiation
+Team member boundary-spanning behaviors are defined as behaviors
+aimed to establish connections with external parties in order to help
+teams to achieve their objectives (Ancona & Caldwell, 1992 ; Marrone
+et al., 2007 ). Team boundary-spanning activities include various exter-
+nally directed activities —some present an information-gathering func-
+tion (e.g., boundary spanners try to search and transfer knowledge
+and information from the external environment), whereas others have
+an external representation and coordination function (e.g., boundaryspanners build up connections with external stakeholders to adjust
+team objectives, request resources, update team progress, and coordi-
+nate task activities). Based on the social network perspective, bound-ary spanners carry out the responsibility of filling structural holes
+(Burt,
+1992 ) so as to acquire task-related information and establish a
+stable relationship with the external environment. Thus, all dimensionsof boundary-spanning activities can serve as critical means for teamsto seek and maintain valuable sources of the problem- or project-
+specific information (e.g., feedback on projects, evaluation and new
+ideas of tasks, and technical and market information).
+Boundary spanners usually embrace a significant, stable, and iden-
+tifiable job role and identity (Marrone et al.,
+2007 ). For example, the
+marketers are mainly responsible for externally directed activities,whereas the engineers are mainly responsible for internally directed
+activities; this difference leads a marketer to embrace a typical
+boundary-spanner identity and leaves an engineer with a non-bound-ary-spanner identity. Research on identity construction supports our
+argument and clearly states that a role identity can develop and
+become internalized over time as a result of an individual retrospec-tively interpreting the continued role activities (Farmer et al.,
+2003 ).
+Once established, it is hard to change such identities in a short time.
+According to the social identity argument (Stets & Burke, 2000 ), a sta-
+ble identity may indeed enable individuals to identify with similarmembers as the in-group, viewing the dissimilar others as the out-
+group. Research on subgroups in work teams also has proposed thatindividuals tend to associate themselves with those they believe to
+share the same identity (Carton & Cummings,
+2012 ).
+Individual members vary in their engagement in boundary-
+spanning activities, partly because of the differences in job duties and
+partly because of their inclinations to engage in and commit to suchbehaviors (Marrone et al.,
+2007 ). Individuals' involvement in boundary
+spanning can vary along a continuous, lateral continuum and TMBSD
+reflects the overall pattern of such difference among team members.Different levels of TMBSD may result in different extents of split in
+teams. Again, as illustrated in Figure
+1, the minimum level of split
+occurs in teams where all members engage in similar levels of bound-ary spanning (either at a very high or very low level), whereas themaximum level of split exists in teams when some members highly
+involve in boundary-spanning activities while others maintain a very
+low level involvement. Examples of moderate levels of split includeteams where either all members uniformly differ from each other in
+their engagement in boundary-spanning activities or most members
+engage in similar levels of boundary spanning yet a few other mem-bers differ (Harrison & Klein,
+2007 ).
+In what follows, we invoke a CEM-based framework and begin by
+theorizing how TMBSD influences team creativity in a curvilinearfashion that is mediated by team information sharing. This study then
+investigates team goal interdependence as a critical contingency fac-
+tor that moderates the influence of TMBSD on information sharing.
+2.2 |TMBSD, information sharing, and team
+creativity
+The division of roles regarding boundary-spanning activities creates
+both opportunities and challenges for teams. From the information/decision-making perspective, intrateam role diversity may increase
+members' exposure to diverse information and perspectives, which
+can strengthen the cooperative information elaboration within teams.More importantly, intrateam role differentiation not only reduces thepossibility of information redundancy caused by collective participa-
+tion, but also creates necessary gaps of knowledge and triggers epi-
+stemic motivation that further incentivizes members to engage ininformation exchange (Cheung et al.,
+2016 ). However, the self-
+categorization theory, as an important extension of social identity the-
+ory (Stets & Burke, 2000 ; Stryker & Statham, 1985 ; Turner
+et al., 1987 ), holds that the differences in roles, including the work
+roles that are central to the formation of individuals' overall identity
+or self-definition (Welbourne & Paterson, 2016 ), provide the basis for
+individual members to categorize self and the dissimilar others. Thus,
+this line of research often predicts that the heterogeneity in group
+roles is likely to cause harm (e.g., relational conflicts) to group func-tioning (Jehn et al.,
+1999 ).
+To unveil the complex influences of the intrateam diversity
+regarding boundary-spanning roles (or TMBSD) on team creativity,
+we adopt the CEM to comprehensively elaborate the beneficialand harmful effects of TMBSD. As a promising framework to rec-
+oncile the seemingly competing arguments of the information1066 YAO ET AL.
+sharing perspective and the social categorization perspective, CEM
+offers a more balanced view that although diversity in role/identitycan promote inclusion of diverse knowledge and perspectives, it
+may also impede team dynamics due to an “usversus them ”men-
+tality under certain circumstance (Van Knippenberg et al.,
+2004 ).
+Guided by CEM, we expect that the existence of TMBSD can be
+beneficial for teams at a low or moderate level, such as when most
+members engage in similar levels of boundary spanning yet a fewother members differ. Within this range, the greater the role differ-
+entiation is, the stronger the members will perceive that others
+may possess important information to supplement their knowledgeas well as the knowledge repository of the team. Members' recog-nition of the information gaps within the team is likely to motivate
+them to make more efforts to seek and share information and
+exchange novel ideas and creative viewpoints. Differentiation ofboundary-spanning activities within the low to moderate range also
+enables the matching of members to their best-fitting roles/
+responsibilities (Li et al.,
+2015 ) and enhances the convenience of
+locating different task-specific information (e.g., members can
+directly ask boundary spanners for market information regarding
+market trends and technical evolution). In this way, the ease ofparsing, routing, and sourcing task-related information based on
+member roles and responsibilities facilitates frequent and effective
+exchange of information within teams (Bunderson &Boumgarden,
+2010 ). Moreover, according to the cross-
+categorization perspective (Chen et al., 2017 ), teams with cross-
+categorization members can reduce inter-subgroup communication
+bias and increase interpersonal liking, which helps teams to makeuse of every member's knowledge and give careful consideration
+to their diverse perspectives, thus promoting the collective infor-
+mation sharing in teams. In this regard, teams with moderate levelsof TMBSD seem to be constructive in enhancing information shar-
+ing (see Figure
+1b).
+As the level of TMBSD continues to increase, however, we
+expect the social categorization process to play a greater role in teamfunctioning by gradually splitting the team. At overly high levels of
+TMBSD (e.g., nearly half of team members act as boundary spanners
+while the rest of the team is involved in little boundary-spanningactivities), teams may even form two polarized identities —boundary
+spanners and non-boundary spanners. According to the social catego-
+rization perspective and CEM, when teams are dominated by mem-bers with these two identities, identity conflicts are inevitable
+because different identities can activate in-group favoritism and out-
+group denigration associate with each identity (Turner et al.,
+1987 ).
+Thus, the resulting biases and stereotypes against others can severely
+restrict cooperative communication, damage cohesion, and hinder col-
+laborative efforts on information sharing. In addition, the boundaryspanners and non-boundary spanners may even develop different jar-gon and meanings for the same words (Ancona & Caldwell,
+1989 ),
+which can lead to difficulties in interpretation, communication, and
+information exchange.
+Once TMBSD increased to a certain point, the perceived large
+gap in identity would be insurmountable in the eyes of both theboundary spanners and the non-boundary spanners, likely triggering
+hostility and harmful conflicts and frictions between members ofdifferent identities (Carton & Cummings,
+2013 ). Such identity con-
+flicts further increase cognitive load, which interferes with the
+exchange and processing of information (Jehn & Bezrukova, 2010 )
+and distracts team members from developing new ideas or
+adopting new methods. This argument is also consistent with the
+previous study that the existence of multiple, especially opposingidentities can be detrimental to interpersonal dynamics and team
+outcomes (Carton & Cummings,
+2012 ). Once the perceptions
+regarding the salience of social categorization are consolidated,intrateam identity conflict gets further aggravated (Randel,
+2002 ),
+and members of different identities tend to keep the valuable
+information private (Hutzschenreuter & Horstkotte, 2013 ). Thus, as
+TMBSD reaches an overly high level, we anticipate its adverseconsequences to outweigh its benefits in promoting team
+creativity.
+Our reasoning above suggests that information sharing serves
+as a critical mechanism in explaining the impact of TMBSD on cre-
+ativity. Consistent with the boundary spanning and creativity litera-
+tures (Gong et al.,
+2013 ; Hahm, 2017 ), we believe that team
+information sharing not only helps members connect previously
+isolated ideas and knowledge, recombine existing ideas, and gener-
+ate newness (Amabile, 1988 ; Gong et al., 2013 ), but also ignites
+creative sparks through facilitating the discussion of divergentviewpoints, prototype shortcomings, and innovative procedures
+(Van Knippenberg et al.,
+2011 ). In sum, compared to teams with a
+high level of TMBSD, teams with low or moderate levels ofTMBSD are likely to reap the benefit of information sharing with
+little risk of engaging in the potential disruptive social categoriza-
+tion process, and therefore may ultimately promote team creativity.However, when TMBSD reaches an overly high level, the disrup-
+tive social categorization process is likely activated and information
+sharing will be accordingly impeded; consequently, team creativitydecreases. We therefore hypothesize as follows:
+Hypothesis 1. There is a curvilinear relationship
+between TMBSD and team creativity.
+Hypothesis 2. Team information sharing will mediate
+the curvilinear relationship between TMBSD and teamcreativity.
+2.3 |The moderating role of team goal
+interdependence
+Team goal interdependence —the degree to which group members
+believe that they are assigned with group goals or provided with
+group feedback (Van der Vegt et al., 2003 )—lies at the core of inter-
+personal relationships in groups (Halevy et al., 2011 ) and is highly rele-
+vant to team boundary activities and the implications (Somech &
+Khalaili, 2014 ). Guided by CEM, we posit that team goalYAO ET AL. 1067
+interdependence can act as a moderator in the curvilinear relationship
+between TMBSD and information sharing.
+In teams with low to moderate levels of TMBSD, shared team
+goal directs members' attention and effort to cooperation and
+coordination for achieving collective performance rather than indi-vidual performance (Van der Vegt et al.,
+2001 ). With the recogni-
+tion that others may possess diverse information and alternative
+channels for information, such teams will be more motivated tointeract and communicate to facilitate the completion of their
+shared goals (Chen et al.,
+2011 ). Therefore, at moderate levels of
+TMBSD, goal interdependence can facilitate the information flowand exchange within teams, particularly between boundary span-ners and non-boundary spanners, thus promoting information shar-
+ing within teams. In contrast, in teams with low to moderate levels
+of TMBSD but low goal interdependence, members are fully awareof their differences in roles they assume and the individual goals
+they desire to achieve, and thus may view coordination within
+teams, including that among boundary spanners and non-boundaryspanners, as unnecessary in promoting individual success (Chen
+et al.,
+2008 ), which leads to lower information exchange among
+members.
+In teams with overly high TMBSD, as we discussed earlier, the
+likelihood of identity and interpersonal conflict continues to
+increase, which prohibits the process of information seeking andexchange within teams. However, we expect that high goalinterdependence may buffer these disruptive influences of TMBSD,
+given the evidence that goal interdependence can reduce interper-
+sonal frictions and transform team members' self-perceptions from“usversus them ”to the more inclusive “we”(Somech &
+Khalaili,
+2014 ) and encourage the formation of high-quality social
+exchange relationships to integrate the knowledge ofinterdependent members in meeting task demands (Barrick
+et al.,
+2007 ). With goal interdependence, members are more likely
+to rationalize the differences in role arrangement as well as TMBSD,which in turn mitigates the risk of the disruptive social categoriza-tion mechanism, advocates collective orchestration of resources for
+pursuing superordinate goals (Weldon & Weingart,
+1993 ), and fur-
+ther fosters the cooperation and interaction among boundary span-ners and non-boundary spanners. In contrast, in teams with high
+TMBSD but lower goal interdependence, cooperation is perceived
+to be less critical, and thus further widens the gulf between mem-bers with different roles and identities.
+Taken together, we expect that when team goal interdependence
+is high rather than low, the positive relationship between TMBSD andinformation sharing at low to moderate levels of TMBSD will be
+enhanced and the negative relationship between TMBSD and infor-
+mation sharing at high levels of TMBSD will be weakened. These pre-dictions lead to the following hypothesis:
+Hypothesis 3. Team goal interdependence moderates
+the curvilinear relationship between TMBSD and infor-mation sharing.3|METHOD
+3.1 |Sample and procedure
+Our data were collected from 70 R&D teams in 18 companies from
+Northern China. These firms are from industries of telecommunica-
+tions, materials and equipment manufacturing, software develop-
+ment and system integration, biotechnology and pharmaceuticals,and so forth. The surveyed teams are particularly suited for this
+study, because all teams require some levels of boundary-spanning
+activities with external teams or organizations and it is common formembers to vary in their engagement of boundary-spanning activi-ties. Job positions of surveyed members include software engineers,
+new product developers, market researchers/analysts, and/or busi-
+ness marketers, and so forth. Also, all these teams deal withknowledge-intensive tasks that require the development of new
+products and/or services.
+We collected our data from two different sources (team mem-
+bers and their corresponding team leaders) at two time points
+across 4 months to minimize potential common method bias. At
+Time 1, team members reported individual characteristics,boundary-spanning behaviors, and team goal interdependence. Four
+months later (i.e., at Time 2), team members rated team informa-
+tion sharing and team leaders evaluated teams' creativity. The sur-vey process was anonymous to guarantee the privacy ofparticipants.
+A total of 398 members in 82 teams participated in our survey.
+Previous research has shown that calculating diversity indices withincomplete attribute data can distort the true diversity –outcome rela-
+tionships (Allen et al.,
+2007 ). Therefore, teams with very low response
+rates were excluded from our data analysis. Following Dawson ( 2003 )
+and Richter et al.'s ( 2006 ) guidance, the cut-off point was a selection
+rate ([ N/C0n]/Nn) of 0.32 ( n=the number of responses per team and
+N=team size). Teams with selection scores of 0.32 or below can be
+included in our final sample. After excluding the teams did not meetthis cut-off point, the resulting sample consisted of 315 team mem-
+bers from 70 teams. The response rate was 85.4% among teams and
+79.1% among members. We also tested the similarity between theresponded and non-responded individuals and teams to check for any
+possible non-response bias. The results of ttests show that the
+responded and non-responded individuals did not significantly differin age and educational level, and the responded and non-responded
+teams did not significantly differ in team tenure and team size. There-
+fore, the non-response bias was not a serious concern in this study.
+The average team size in this study was 4.5. Among all the team
+leaders, male leaders account for 75.7% of them, the average age of
+them was 36.94 ( SD=5.60), 96.7% of them had obtained a bachelor's
+degree or higher, and the mean team tenure was 10.54 years(SD=7.82). Among team members, males accounted for 57.8%, the
+average age was 30.55 ( SD=5.90), 90.5% had obtained a bachelor's
+degree or above, and the mean team tenure was 4.86 years(SD=5.30).1068 YAO ET AL.
+3.2 |Measures
+All variables were rated on a 7-point Likert-type scale ranging from
+1(strongly disagree )t o7( strongly agree ). The research team translated
+all the scales from English into Chinese. And then, standard back-translation procedures were followed to make sure of the equivalent
+reflection (Brislin,
+1980 ). We discussed and resolved any inconsis-
+tencies to ensure the clarity of the survey instruments. (Please seeAppendix
+Afor the full-scale items of the core variables.)
+3.3 |Team member boundary-spanning
+differentiation
+Following existing research, the 6-item scale adapted from Marrone
+et al.'s ( 2007 ) study was used to measure individual boundary-
+spanning behavior. A sample item is “I reach out to individuals outside
+of our team that can provide project-related expertise or ideas. ”
+(Cronbach's alpha =.81) Following guidelines for assessing separation
+diversity (Harrison & Klein, 2007 ), we calculated TMBSD using the
+within-group standard deviation of individual boundary spanning.
+3.4 |Information sharing
+We used the 4-item scale in Bunderson and Sutcliffe's ( 2002 ) study to
+measure information sharing. A sample item is “Information used to
+make key decisions was freely shared among the members of theteam. ”(Cronbach's alpha =.89).
+3.5 |Team goal interdependence
+A 6-item scale was adopted to assess team goal interdependence
+(Van der Vegt et al., 2001 ). A sample item is “We are informed about
+the goals we should attain as a group. ”(Cronbach's alpha =.90).
+3.6 |Team creativity
+We followed previous research (Gong et al., 2013 ) and invited team
+leaders to rate the team creativity of their own team with a 4-item
+scale developed by Shin and Zhou ( 2007 ). A sample item is “How well
+does your team produce new ideas? ”(Cronbach's alpha =.85).
+3.7 |Control variables
+We controlled team size, team tenure, and several diversity factors
+(i.e., team tenure diversity, gender diversity, education diversity, and
+functional diversity), as these variables were shown to influence socialcategorization processes and team creativity (Harrison et al.,
+2002 ).
+We calculated the coefficient of variation of team members' teamtenure (standard deviation divided by the mean) to represent team
+tenure diversity (Koopmann et al., 2014 ). We used Blau's ( 1977 ) index
+to measure education diversity, gender diversity, and functional
+diversity. In addition, we calculated the within-group mean of
+individual-level boundary spanning and controlled it in our analysis,because previous research has justified it as an important indicator of
+team innovation (e.g., Widmann & Mulder,
+2018 ).
+4|RESULTS
+We calculated three statistical indices to justify data aggregation to
+team levels. First, we computed the within-team inter-rater agree-
+ment ( Rwg). For information sharing, the average Rwgwas .88, and for
+team goal interdependence, the average Rwgwas .95, both of which
+support aggregation of the data (Bliese, 2000 ). Second, intra-class cor-
+relation (ICC 1) was .25 for information sharing and .28 for team goal
+interdependence. Third, the reliability of the mean (ICC 2) was .61 for
+information sharing and .63 for team goal interdependence. All these
+indices indicate that the aggregation is justified. We also conducted
+confirmatory factor analysis (CFA) to examine the distinctiveness ofall the variables, including team boundary spanning, information
+sharing, team goal interdependence, and team creativity. The
+results presented that the four-factor model showed a better overallfit ( χ
+2
+/df=1.16, CFI =.97, TLI =.97, RMSEA =.05) than other
+models with fewer factors.
+4.1 |Hypothesis testing
+Table 1presents the descriptive statistics, correlations, and scale reli-
+abilities for all the variables.
+All the results of hierarchical regression analyses to test
+Hypotheses 1–3are shown in Table 2. We included all the control
+variables and team member boundary-spanning mean in all models.
+Hypothesis 1proposes a curvilinear relation between TMBSD
+and team creativity. In Model 2 of Table 2, after entering TMBSD and
+its quadratic term, the coefficient of the linear term of TMBSD wasnot significant ( β=.01,n.s.), whereas the quadratic term was signifi-
+cantly and negatively associated with team creativity ( β=/C0.45,
+p< .01), which indicates that TMBSD is curvilinearly related to team
+creativity. Following the guidelines of Aiken and West's study (
+1991 ),
+we depicted a graphical representation of the above relationship in
+Figure 3. At lower levels of TMBSD, the relationship between TMBSD
+and creativity showed a positive trend, whereas at higher levels of
+TMBSD, the relationship between TMBSD and creativity becomes
+negative, supporting Hypothesis 1.
+To justify Hypothesis 2, Model 6 of Table 2included both
+TMBSD and its quadratic term. The results suggested that the qua-
+dratic TMBSD showed a significant and negative influence on team
+information sharing ( β=/C0.50, p< .01). We depicted this curvilinear
+relationship in Figure 4, which showed that information sharing
+increased when TMBSD moved from the low level to the moderateYAO ET AL. 1069
+level, whereas, once TMBSD moved away from a certain level, team
+information sharing peaked and started to decline. Besides, team
+information sharing had a positive effect on team creativity ( β=.56,
+p< .01; see Model 3), and the coefficient of information sharing
+remained significant ( β=.44, p< .01; see Model 4) even after we
+included TMBSD and its quadratic term into the model. Takentogether, these results suggest that TMBSD is curvilinearly related to
+information sharing, and team information sharing mediates the
+effects of TMBSD on team creativity, thus supporting Hypothesis 2.
+We then adopted the bootstrapping analysis and used 5000 boot-
+strap samples to further test Hypothesis 2. Using the recommended
+mediation approach by Hayes and Preacher ( 2010 ), we examined theTABLE 1 Means, standard deviations, and intercorrelations of variables
+Variable MS D 1 2 34567 89 1 0 1 1
+1. Team tenure 4.85 3.79
+2. Team size 4.50 1.35 /C00.02
+3. Gender diversity 0.34 0.18 0.08 0.25 *
+4. Tenure diversity 0.66 0.30 0.06 /C00.12 /C00.16
+5. Education diversity 0.27 0.24 /C00.09 0.12 /C00.05 0.04
+6. Functional diversity 0.31 0.22 0.10 0.09 0.23 0.20 0.187. Team member
+boundary-spanning
+behavior mean5.37 0.40 /C00.05 /C00.07 /C00.11 /C00.05 /C00.05 0.23 (0.73)
+8. Team member
+boundary-spanningdifferentiation(TMBSD)0.64 0.34 /C00.07 0.17 0.05 0.09 0.09 /C00.04 /C00.55
+**
+9. Team information
+sharing5.49 0.64 /C00.24* 0.07 0.05 /C00.16 0.14 /C00.15 0.20 /C00.13 (0.91)
+10.Team goal
+interdependence5.36 0.50 0.08 0.06 0.10 /C00.05 /C00.04 /C00.01 0.45 **/C00.18 0.12 (0.83)
+11.Team creativity 5.60 0.77 /C00.08 0.11 0.02 /C00.06 0.12 /C00.14 /C00.04 0.00 0.52 ** 0.05 (0.83)
+Note :n=70; the figures on the diagonal in parentheses are the alpha coefficients.
+*p< .05. ** p< .01.
+TABLE 2 Results of hierarchical regression analysis
+Team creativity Information sharing
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7
+Team tenure /C00.05 /C00.04 0.06 0.04 /C00.20 /C00.18 /C00.23*
+Team size 0.11 0.04 0.08 0.05 0.07 /C00.03 /C00.11
+Gender diversity /C00.05 0.02 /C00.05 /C00.02 0.01 0.08 0.15
+Tenure diversity /C00.02 0.08 0.04 0.08 /C00.12 /C00.01 /C00.02
+Education diversity 0.13 0.09 0.04 0.04 0.16 0.13 0.11Functional diversity /C00.17 /C00.10 /C00.06 /C00.05 /C00.20 /C00.11 /C00.05
+Team member boundary-spanning behavior mean /C00.01 /C00.09 /C00.14 /C00.17 0.24
+* 0.17 0.09
+TMBSD /C00.01 /C00.03 0.07 0.05
+TMBSD squared /C00.45** /C00.23 /C00.50** /C00.36**
+Team information sharing 0.56 ** 0.44**
+Team goal interdependence 0.25
+TMBSD /C2team goal interdependence 0.37**
+TMBSD squared /C2team goal interdependence /C00.16
+R20.05 0.23 0.31 0.35 0.17 0.37 0.45
+Change in R20.17** 0.25** 0.12** 0.20** 0.08*
+Note :n=70; standardized regression coefficients are reported.
+*p< .05. ** p< .01.1070 YAO ET AL.
+indirect effect of TMBSD on creativity via information sharing at
+lower and higher degrees of TMBSD (i.e., /C01 SD,+1 SD). The results
+show that at both the lower (.52, bias corrected bootstrap CI =95%
+[.08, 1.19]) and higher levels of TMBSD ( /C0.38, bias corrected boot-
+strap CI =95% [/C0.79,/C0.05]), the indirect effect was significant, indi-
+cating that an increase of TMBSD in teams with low levels of TMBSD
+could lead to higher creativity through an increase in information
+sharing; on the contrary, an increase of TMBSD in teams with highlevels of TMBSD would result in lower creativity through a decrease
+in information sharing. These results again support Hypothesis
+2.We included team goal interdependence into the regression
+model to test Hypothesis 3. In Table 2, the results of Model 7 show
+that TMBSD interacted with team goal interdependence to signifi-
+cantly influence team information sharing ( β=.37,p< .01), when the
+TMBSD squared term was also inserted in the model. The significanceof this interaction indicates that the slope of the relationship between
+TMBSD and information sharing was a function of team goal
+interdependence. However, the interaction between team goalinterdependence and the TMBSD squared term was not significant
+(β=/C0.16,n.s.), suggesting the curvilinear relationship was constant atFIGURE 3 The relationship between
+team member boundary-spanningdifferentiation (TMBSD) and teamcreativity. High TMBSD, high teammember boundary-spanningdifferentiation; low TMBSD, low teammember boundary-spanning differentiation
+FIGURE 4 The relationship between
+team member boundary-spanningdifferentiation (TMBSD) and teaminformation sharing. High TMBSD, high teammember boundary-spanning differentiation;low TMBSD, low team member boundary-spanning differentiationYAO ET AL. 1071
+different degrees of team goal interdependence. Overall, the shapes
+of the TMBSD —team creativity relationship differ significantly
+between relatively lower and higher levels of team goal
+interdependence. Therefore, Hypothesis 3is supported. Furthermore,
+we graphed Figure 5(Aiken & West, 1991 ) to illustrate the curves
+between TMBSD and team information sharing at high and low levels
+of team goal interdependence (i.e., +1 SD//C0l SD). Figure 5showed
+that when TMBSD is within the low to moderate range, high ratherthan low team goal interdependence will strengthen the positive rela-
+tionship between TMBSD and team information sharing; when
+TMBSD gets higher than the moderate level, high rather than lowteam goal interdependence will weaken the negative relationshipbetween TMBSD and team information sharing.
+4.2 |Supplementary analyses
+We ran supplementary analyses to alleviate concerns of alternative
+mechanisms and provide further support to our theoretical rationales.
+To investigate whether members may indeed form different identi-
+ties1according to their participation in boundary-spanning activities
+as we proposed, we conducted a supplementary analysis testing team
+member reported boundary-spanning behaviors (Time 1), their per-
+ceptions of boundary spanner identity at 4 months later (Time 2), andthe relationship between their behavior and identity. We followedFarmer et al.'s (
+2003 ) approach to measure the extent to which the
+role of boundary spanners had been incorporated into self-identity.
+The items were modified to reflect the centrality of role identity as aboundary spanner, a sample item is “I have clear concept of myself as
+a boundary spanner ”(ɑ=.90). We observed substantial variance in
+individual self-reported boundary spanner identity ( M=3.96,
+SD=1.36) across teams, indicating that TMBSD has indeed occurred
+in our sample. Our data show that team member boundary-spanning
+behavior was significantly and positively related to an individual'sboundary spanner identity ( β=.27, p< .01), suggesting that the
+boundary-spanner identity could have formed after their participationinto boundary-spanning activities.
+Given that the conflict between different identity-based sub-
+groups (boundary spanners vs. non-boundary spanners) is another keypremise underlying our theoretical rationale, we measured team con-
+flict in Time 2 with a 6-item scale in Bendersky and Hays's (
+2012 )
+study. Regression results show that TMBSD was positively related toteam conflict ( β=.25, p< .01), supporting our arguments that high
+TMBSD can indeed create conflicts within teams. These supplemen-
+tary analyses strengthened the theoretical arguments underlying ourhypotheses.
+5|DISCUSSION
+Although considerable efforts have been made to better understand
+the team boundary spanning and its impact on teams, past work hasbeen preoccupied with answering the question: “Whether more
+boundary-spanning activities lead to better team outcomes? ”The pat-
+tern of team member boundary-spanning activities, particularly thedifferentiation across members has been overlooked, and its influence
+on an important team outcome, team creativity, remains largely
+unknown. We believe that the time is ripe to further decipher teamboundary spanning, particularly its intrateam differentiation (TMBSD),and its impact on team creativity, partly by answering advanced ques-
+tions such as, “Whether too little or too much of TMBSD fosters crea-
+tivity ”and “When and how TMBSD fosters creativity? ”Answering
+these questions allow for a more accurate understanding of teams'
+internal dynamics regarding boundary spanning, especially those
+teams where member differ substantially in their role assignments andengagement in boundary-spanning activities.
+To explicate the process linking TMBSD to team creativity, we
+use CEM as an overarching theoretical framework to argue that
+FIGURE 5 The moderating effect of
+team goal interdependence on the teammember boundary-spanning differentiation(TMBSD) —information sharing relationship.
+High TMBSD, high team member boundary-spanning differentiation; low TMBSD, lowteam member boundary-spanningdifferentiation1072 YAO ET AL.
+although TMBSD may provide benefits for teams, levels of TMBSD
+can indeed lead to subgroup creation and identity conflicts thatrestrict communication and undermine information sharing within
+teams. Consistent with our theorization, we found that the TMBSD —
+team creativity relationship followed a curvilinear shaped relation andwas mediated by information sharing. Moreover, we verified that the
+curvilinear relation between TMBSD and information sharing was
+moderated by team goal interdependence, such that the shapes of theTMBSD —team creativity relationship differ significantly between rela-
+tively lower and higher levels of team goal interdependence. Specifi-
+cally, our results suggest that moving from low to moderate levels ofTMBSD, the positive effect of TMBSD on team creativity wasenhanced in teams with higher rather than lower goal
+interdependence; and the negative impact of TMBSD on team crea-
+tivity at high levels of TMBSD was weakened in teams with higherrather than lower goal interdependence.
+Although our hypothesized model has received general support
+using the data we collected at two time points from multiple sources,the findings we observed in Figure
+5suggest areas that remain
+unexplained by our hypotheses. For example, at overly low levels of
+TMBSD, we found that teams with higher goal interdependence dem-onstrated an even lower level of information sharing than teams with
+lower goal interdependence. We suspect shared team goal may miti-
+gate the process of information sharing among members in teams oflow TMBSD for two reasons. First, if these members shared the beliefthat they were assigned with the same group goals and/or received
+identical group feedback (i.e., high goal interdependence), they would
+likely to see each other to be on the “same page ”and would consider
+additional information seeking within the team as unnecessary as it
+brings little additional benefit and may even result in information
+overlap and redundancy. Thus, they are less likely to seek informationfrom others whom they assume to be alike, and more likely to side-
+step confrontation and avoid the risk of “rocking the boat ”by con-
+sciously limiting the introduction of new facts or the sharing ofdiverse views. Second, in teams with overly low TMBSD, shared goalsmay also lead members, especially those who perceive themselves to
+be highly alike in roles and responsibilities to favor a default plan or
+certain solutions before group discussion, which imposes additionalrisks of groupthink
+2(Devine, 1999 ). They may view harmony and con-
+formity in group results as an effective strategy to achieve their
+shared goal, which may suppress information sharing and promotecompromised, mediocre solutions to teams (Aldag & Fuller,
+1993 ; Ellis
+et al., 2003 ).
+5.1 |Theoretical contributions
+This study is one of the first studies to offer a theoretical conceptuali-
+zation and operationalization of the relationship between TMBSD and
+team creativity. Our investigation of the mediating mechanism and
+the boundary condition adds another important layer of understand-ing to the complex effects of team boundary spanning. Our research
+makes three contributions to the literature. First, we extendboundary-spanning theory by making a pioneering investigation on
+the effect of differentiation of boundary spanning within the team,TMBSD, on team creativity. It is in contrast to the previous, sole
+emphasis on the mean/aggregated level of team members' behaviors
+and characteristics (e.g., Widmann & Mulder,
+2018 ). Prior study
+offered compelling evidence of how mean-level boundary-spanning
+influences team internal process and outcomes; however, it fails to
+specify how teams carry out these activities and the resulting impactsof the non-isomorphic individual behavioral contributions to team
+boundary spanning (Marrone,
+2010 ). Our theoretical attention to vari-
+ability in individual activities could complement the previous evidence,thus allowing for a more nuanced view of teams' boundary-spanningactivity and its resulting outcomes. In this way, this study extends the
+research on understanding the antecedents of team creativity from
+focusing on the impacts of aggregated, mean level of team behaviorto investigating the different configurations and patterns of team
+behavior.
+Second, leveraging a CEM framework, we theoretically explain
+how TMBSD will have a non-linear influence on team creativity. In
+doing so, we are able to unveil the range of TMBSD that activates
+more (less) information elaboration process and less (more) social cat-egorization process, both of which substantially affect team creativity
+but in the opposite ways. Our results suggest that moderate TMBSD
+can be most beneficial to team creativity due to the low potentialityof the activation of the social categorization process and the benefitsof information sharing. However, when TMBSD goes beyond a certain
+level, the gradually activated social categorization process will impede
+information sharing among members and ultimately inhibit team crea-tivity. Through revealing how teams with high TMBSD would split
+into identities of boundary spanners and non-boundary spanners
+(as suggested in supplementary analysis), we also provide supportiveevidence to Sui et al.'s (
+2016 ) findings that maximum separation is
+likely to activate the formation of two extreme and opposing sub-
+groups, which generates intragroup conflicts and undermines teamcoordination and communication. In addition, our investigation of theunderlying mechanism through information sharing not only provides
+another opportunity to gauge whether TMBSD influences team crea-
+tivity in the way as proposed by CEM but also supports the existingresearch findings of the positive associations of information diversity
+and sharing with team creativity (e.g., Amabile,
+1988 ; Hahm, 2017 ).
+Finally, our efforts to examine team goal interdependence as a
+moderator offer important insights into the contingency factors of the
+effect of TMBSD on internal team functioning, and thus answering
+the important question of “when ”TMBSD functions as expected. Our
+focus on the moderating role of team goal interdependence also
+reflects the view that not all teams passively react to the dynamics
+triggered by TMBSD, but rather appreciates that some can activelymake efforts to ameliorate the potential disruptive impact of TMBSDand better reap the benefits of TMBSD. Together, combined with the
+investigation of the curvilinear nature of the TMBSD —team creativity
+relationship and the identification of the information sharing as amediator linking, this study was able to expand our understanding of
+whether ,when , and howTMBSD affects team creativity.YAO ET AL. 1073
+5.2 |Managerial implications
+Our study also offers some important implications for practitioners.
+First, the curvilinear effect of TMBSD on creativity promotion indi-
+cates that, despite the challenges, it is important for teams toacknowledge the importance of assigning boundary-spanning roles to
+some members and strive to seek the “optimal ”level of TMBSD that
+is considered to be most beneficial to team creativity. Accordingly,team leaders or managers should pay attention to monitor (via inter-
+views or surveys) members' levels of interest and actual engagement
+in boundary-spanning activities as well as their perceived differentia-tion in roles regarding boundary-spanning activities, and frequentlyseek for feedback from all members to recraft and rearrange the
+boundary-spanning roles. If TMBSD reaches a too high level, which
+leads to undesirable attitudes and morale in teams, leaders shouldconduct timely adjustments to avoid the formation of unnecessary
+subgroups, reduce potential conflicts, and promote team communica-
+tion. Meanwhile, team leaders should also be aware if TMBSD maysystematically overlap with team structure or demographic diversity
+(e.g., gender and tenure), which may further consolidate TMBSD and
+create challenges to adjust it. Also, if TMBSD reaches a too low levelor all members assume identical roles, leaders should be mindful of
+the risks of groupthink that may further impede information sharing,
+especially in groups where members share a common group goal.
+Second, our result informs team leaders and managers that they
+should continue to encourage information sharing within teams espe-
+cially when facing extreme levels of TMBSD. Team leaders can encour-
+age informal and formal events (e.g., hold regular sharing meetingstwice a week) to promote team members' information-sharing behav-
+ior as well as the open, constructive discussion of conflicts; leaders
+may also reward information sharing to incentivize knowledge integra-tion and ultimately the generation of novel ideas (Men et al.,
+2017 ).
+Third, given our result that the combination of low TMBSD and
+high goal interdependence may indeed harm information sharing pro-cesses, we recommend team leaders to hold a balanced view whenpromoting team goal interdependence. An implication of our results is
+that higher team goal interdependence generally benefits teams with
+moderate and high levels of TMBSD and thus, in these teams, man-agers may consider devoting efforts to reinforce common goals,
+designing a shared reward distribution system, and cultivating cooper-
+ative norms and cultures to encourage team members to perform theirtasks interdependently. However, in teams with low TMBSD, team
+leaders may consider setting both collective goals and individual goals
+to avoid the potential risks of information withholding and groupthink.
+5.3 |Limitations and future research directions
+Several limitations of our research provide possible directions for
+future study. First, although we collect our data from two different
+sources at two different times, future studies could design betterstudies or take advantage of experiment settings to further facilitate
+causal inference. Second, future study can build upon the results ofour study to further explore the possible, non-linear impact of TMBSD
+on other team outcomes, such as team effectiveness and team perfor-mance. Third, this study only examines the mediating role of informa-
+tion sharing through which TMBSD facilitates or impedes team
+creativity; however, research is needed to examine directly the othermechanisms that have been mentioned in this study (e.g., groupthink).
+This way, alternative mechanisms guided by other theoretical frame-
+works beyond CEM could also be explored. Fourth, alternative con-textual factors may also influence the focal relationship of interest,
+such as task uncertainty, team leadership style, and team composition,
+all of which deserve in-depth investigation.
+As one of the first endeavors to understand the role of TMBSD
+on team creativity, this paper starts with an operationalization of the
+within-group standard deviation of individual boundary spanning to
+test TMBSD; however, we encourage future studies to develop morenuanced measures and better designs to replicate the findings of our
+study. Thus, alternative ways
+3of measuring patterns of boundary-
+spanning activities could provide additional information to help usfully capture the typology and conceptualization of TMBSD
+(e.g., Harrison & Klein,
+2007 ; Sui et al., 2016 ) and further clarify the
+configurations of boundary spanners and/or non-boundary spannersacross teams. For example, a team member may switch the role
+between boundary spanners and non-boundary spanners on different
+tasks and at different time points, and such experience of dual rolesmay also help reduce the stereotypes and biases against any sub-groups, creating opportunities for interpersonal exchanges and infor-
+mation sharing among different members. Also, we acknowledge that
+measuring whether and how much team members perceive differ-ences in other members' boundary-spanning activities or the forma-
+tion of subgroups based on boundary spanner roles (e.g., Jehn &
+Bezrukova,
+2010 ) helps reflect the core meanings of TMBSD. In our
+study, we did not include a repeated measure to capture possible
+changes in members' boundary-spanning activities; however, the
+dynamics in TMBSD is a promising research topic and may offer usmore insights on how teams can best manage the boundary-spanningactivities.
+Finally, we conducted our research with a sample from China, and
+thus, the collectivistic culture may weaken the impacts of TMBSD onteam creativity as well as the moderating role of group goal
+interdependence, because individuals may strive to actively make con-
+tributions to their teams as they strongly believe that the needs andgoals of the group as a whole always outweigh the needs and desires
+of themselves. However, given that our data still support our hypoth-
+eses, we expect the proposed relationships to be more salient in othercultures of relatively higher individualism and lower collectivism.
+Therefore, it would be worthwhile to replicate the investigation of this
+study in different cultural contexts.
+6|CONCLUSION
+Based on the CEM, we proposed and empirically tested whether ,how,
+andwhen TMBSD will influence team creativity. The data supported1074 YAO ET AL.
+our hypotheses that there is a curvilinear relationship between
+TMBSD and team creativity that is transmitted by team informationsharing. Also, we showed that team goal interdependence moderated
+the curvilinear TMBSD —team information sharing relationship. Taken
+together, we hope our study provides useful advancement in teamboundary-spanning and creativity literatures.
+ACKNOWLEDGMENT
+This research was supported by the National Natural Science Founda-
+tion of China (71572140).
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available on
+request from the corresponding author. The data are not publicly
+available due to privacy or ethical restrictions.
+ENDNOTES
+1We thank an anonymous reviewer for this point.
+2We thank an anonymous reviewer for this insightful point.
+3We are grateful for this insightful comment from an anonymous
+reviewer.
+REFERENCES
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and inter-
+preting interactions . Sage.
+Aldag, R. J., & Fuller, S. R. (1993). Beyond fiasco: A reappraisal of the
+groupthink phenomenon and a new model of group decision pro-cesses. Psychological Bulletin ,113, 533–552.
+https://doi.org/10.1037/
+0033-2909.113.3.533
+Allen, N. J., Stanley, D. J., Williams, H. M., & Ross, S. J. (2007). Assessing
+the impact of nonresponse on work group diversity effects. Organiza-
+tional Research Methods ,10, 262 –286. https://doi.org/10.1177/
+1094428106/294731
+Amabile, T. M. (1988). A model of creativity and innovation in organiza-
+tions. In B. M. Staw & L. L. Cummings (Eds.), Research in organizational
+behavior (Vol. 10) (pp. 123 –167). JAI Press.
+Ancona, D. G. (1990). Outward bound: Strategic for team survival in an
+organization. Academy of Management Journal ,33, 334–365. https://
+doi.org/10.5465/256328
+Ancona, D. G., & Caldwell, D. (1989). Beyond boundary spanning: Manag-
+ing external dependence in product development teams. The Journal of
+High Technology Management Research ,1, 119–135. https://doi.org/
+10.1016/1047-8310(90)90001-K
+Ancona, D. G., & Caldwell, D. F. (1992). Bridging the boundary: External
+activity and performance in organizational teams. Administrative Sci-
+ence Quarterly ,37, 634–665. https://doi.org/10.2307/2393475
+Ancona, D. G., & Caldwell, D. F. (1998). Rethinking team composition from
+the outside in. In D. H. Grunfield (Ed.), Research on managing groups
+and teams: Composition (pp. 21 –37). JAI.
+Anderson, N., Poto čnik, K., & Zhou, J. (2014). Innovation and creativity in
+organizations: A state-of-the-science review, prospective commentary,and guiding framework. Journal of Management ,40(5), 1297 –1333.
+https://doi.org/10.1177/0149206314527128
+Barrick, M. R., Bradley, B. H., Kristof-Brown, A. L., & Colbert, A. E. (2007).
+The moderating role of top management team interdependence: Impli-cations for real teams and working groups. Academy of Management
+Journal ,50, 544–557.
+https://doi.org/10.5465/amj.2007.25525781
+Bendersky, C., & Hays, N. A. (2012). Status conflict in groups. Organization
+Science ,21, 323–340. https://doi.org/10.1287/orsc.1110.0734Blau, P. M. (1977). Inequality and heterogeneity . Free Press.
+Bliese, P. D. (2000). Within-group agreement, non-independence, and reli-
+ability: Implications for data aggregation and analysis. In K. J. Klein &
+S. W. Kozlowski (Eds.), Multilevel theory, research, and methods in orga-
+nizations (pp. 349 –381). Jossey-Bass.
+Brislin, R. (1980). Translation and content analysis of oral and written
+materials. In H. C. Triandis & J. W. Berry (Eds.), Handbook of cross-
+culture psychology: Methodology (Vol. 2) (pp. 389 –444). Allyn &
+Bacon.
+Bunderson, J. S., & Boumgarden, P. (2010). Structure and learning in self-
+managed teams: Why “bureaucratic ”teams can be better learners.
+Organization Science ,21, 609 –624. https://doi.org/10.1287/orsc.
+1090.0483
+Bunderson, J. S., & Sutcliffe, K. M. (2002). Comparing alternative concep-
+tualizations of functional diversity in management teams: Process andperformance effects. Academy of Management Journal ,45(5),
+875–893.
+https://doi.org/10.2307/3069319
+Burt, R. (1992). Structural holes: The social structure of competition . Harvard
+University Press. https://doi.org/10.4159/9780674029095
+Carton, A. M., & Cummings, J. N. (2012). A theory of subgroups in work
+teams. Academy of Management Review ,37, 441–470. https://doi.org/
+10.5465/amr.2010.0322
+Carton, A. M., & Cummings, J. N. (2013). The impact of subgroup type and
+subgroup configurational properties on work team performance. Jour-
+nal of Applied Psychology ,98, 732 –758. https://doi.org/10.1037/
+a0033593
+Chen, N. Y., Tjosvold, D., Huang, X., & Xu, D. (2011). Newcomer socializa-
+tion in China: Effects of team values and goal interdependence. The
+International Journal of Human Resource Management ,22, 3317 –3337.
+https://doi.org/10.1080/09585192.2011.561244
+Chen, N. Y. F., Lu, J. F., Tjosvold, D., & Lin, C. (2008). Effects of team goal
+interdependence on newcomer socialization: An experiment in China.
+Journal of Applied Social Psychology ,38, 198–214. https://doi.org/10.
+1111/j.1559-1816.2008.00302.x
+Chen, S., Wang, D., Zhou, Y., Chen, Z., & Wu, D. (2017). When too little or
+too much hurts: Evidence for a curvilinear relationship between teamfaultlines and performance. Asia Pacific Journal of Management ,34,
+931–950.
+https://doi.org/10.1007/s10490-017-9510-7
+Cheung, S. Y., Gong, Y., Wang, M., Zhou, L. (. B.)., & Shi, J. (2016). When
+and how does functional diversity influence team innovation? Themediating role of knowledge sharing and the moderation role ofaffect-based trust in a team. Human Relations ,69(7), 1507 –1531.
+https://doi.org/10.1177/0018726715615684
+Choi, J. N. (2002). External activities and team effectiveness: Review and
+theoretical development. Small Group Research ,33, 181–208. https://
+doi.org/10.1177/104649640203300202
+Cooper, D., Patel, P. C., & Thatcher, S. M. B. (2014). It depends: Environ-
+mental context and the effects of faultlines on top management teamperformance. Organization Science ,25, 633–652.
+https://doi.org/10.
+1287/orsc.2013.0855
+Dawson, J. F. (2003). Do we have enough? The accuracy of incomplete
+data from small groups. Academy of Management Proceedings ,2003 ,
+A1–A6.https://doi.org/10.5465/ambpp.2003.1379231
+Devine, D. J. (1999). Effects of cognitive ability, task knowledge, informa-
+tion sharing, and conflict on group decision-making effectiveness.Small Group Research ,30(5), 608 –634.
+https://doi.org/10.1177/
+104649649903000506
+Ellis, A. P. J., Hollenbeck, J. R., Ilgen, D. R., Porter, C. O. L. H., West, B. J., &
+Moon, H. (2003). Team learning: Collectively connecting the dots.Journal of Applied Psychology ,88, 821–835.
+https://doi.org/10.1037/
+0021-9010.88.5.821
+Farmer, S. M., Tierney, P., & Kung-Mcintyre, K. (2003). Employee crea-
+tivity in Taiwan: An application of role identity theory. Academy of
+Management Journal ,46, 618 –630. https://doi.org/10.5465/
+30040653YAO ET AL. 1075
+Friedman, R. A., & Podolny, J. (1992). Differentiation of boundary span-
+ning roles: Labor negotiations and implications for role conflict.Administrative Science Quarterly ,37(1), 28 –47.
+https://doi.org/10.
+2307/2393532
+Gilson, L. L., Lim, H. S., Luciano, M. M., & Choi, J. N. (2013). Unpacking the
+cross-level effects of tenure diversity, explicit knowledge, and knowl-edge sharing on individual creativity. Journal of Occupational and Orga-
+nizational Psychology ,86, 203 –222.
+https://doi.org/10.1111/joop.
+12011
+Gong, Y., Kim, T. Y., Lee, D. R., & Zhu, J. (2013). A multilevel model of team
+goal orientation, information exchange, and creativity. Academy of
+Management Journal ,56, 827–851. https://doi.org/10.5465/amj.2011.
+0177
+Hahm, S. (2017). Information sharing and creativity in a virtual team: Roles
+of authentic leadership, sharing team climate and psychologicalempowerment. KSII Transactions on Internet and Information Systems ,
+11, 4105 –4119.
+https://doi.org/10.3837/tiis.2017.08.020
+Halevy, N., Chou, E. Y., & Galinsky, A. D. (2011). A functional model of
+hierarchy: Why, how, and when vertical differentiation enhances
+group performance. Organizational Psychology Review ,1,3 2–52.
+https://doi.org/10.1177/2041386610380991
+Harrison, D. A., & Klein, K. J. (2007). What's the difference? Diversity con-
+structs as separation, variety, or disparity in organizations. Academy of
+Management Review ,32, 1199 –1228. https://doi.org/10.2307/
+20159363
+Harrison, D. A., Price, K. H., Gavin, J. H., & Florey, A. T. (2002). Time,
+teams, and task performance: Changing effects of surface- and deep-
+level diversity on group functioning. Academy of Management Journal ,
+45, 1029 –1045. https://doi.org/10.2307/3069328
+Hayes, A. F., & Preacher, K. J. (2010). Quantifying and testing indirect
+effects in simple mediation models when the constituent paths arenonlinear. Multivariate Behavioral Research ,45, 627–660.
+https://doi.
+org/10.1080/00273171.2010.498290
+Hoever, I. J., van Knippenberg, D., van Ginkel, W. P., & Barkema, H. G.
+(2012). Fostering team creativity: Perspective taking as key tounlocking diversity's potential. Journal of Applied Psychology ,97(5),
+982–996.
+https://doi.org/10.1037/a0029159
+Hutzschenreuter, T., & Horstkotte, J. (2013). Performance effects of top
+management team demographic faultlines in the process of productdiversification. Strategic Management Journal ,34, 704–726.
+https://
+doi.org/10.1002/smj.2035
+Jehn, K. A., & Bezrukova, K. (2010). The faultline activation process
+and the effects of activated faultlines on coalition formation, con-
+flict, and group outcomes. Organizational Behavior and Human Deci-
+sion Processes ,112,2 4–42. https://doi.org/10.1016/j.obhdp.2009.
+11.008
+Jehn, K. A., Northcraft, G. B., & Neale, M. A. (1999). Why differences make
+a difference: A field study of diversity, conflict and performance inworkgroups. Administrative Science Quarterly ,44(4), 741 –763.
+https://
+doi.org/10.2307/2667054
+Klein, K. J., & Kozlowski, S. W. (2000). Multilevel theory, research, and
+methods in organizations: Foundations, extensions, and new directions .
+Jossey-Bass.
+Koopmann, J. M., Lanaj, K., & Zhou, L. (2014). Team tenure and member
+performance: The roles of psychological safety climate and climatestrength. Academy of Management Annual Meeting Proceedings ,2014 ,
+16677 –16677.
+https://doi.org/10.5465/AMBPP.2014.74
+Kozlowski, S. W. J., & Klein, K. J. (2000). A multilevel approach to theory
+and research in organizations: Contextual, temporal, and emergentprocesses. In K. J. Klein & S. W. J. Kozlowski (Eds.), Multilevel theory,
+research, and methods in organizations: Foundations, extensions, and new
+directions (pp. 3–90). Jossey-Bass.
+Li, Y., Fu, F., Sun, J. M., & Yang, B. (2015). Leader-member exchange differ-
+entiation and team creativity: An investigation of nonlinearity.Human Relations ,69, 1121 –1138.
+https://doi.org/10.1177/
+0018726715597481
+Marrone, J. A. (2010). Team boundary spanning: A multilevel review of
+past research and proposals for the future. Journal
+of Management , 36, 911 –940. https://doi.org/10.1177/
+0149206309353945
+Marrone, J. A., Tesluk, P. E., & Carson, T. J. B. (2007). A multilevel investi-
+gation of antecedents and consequences of team member boundary-
+spanning behavior. Academy of Management Journal ,50, 1423 –1439.
+https://doi.org/10.2307/20159482
+Men, C., Fong, P. S., Luo, J., Zhong, J., & Huo, W. (2017). When and how
+knowledge sharing benefits team creativity: The importance of cogni-tive team diversity. Journal of Management & Organization ,1-18 ,
+807–824.
+https://doi.org/10.1017/jmo.2017.47
+Nouri, R., Erez, M., Lee, C., Liang, J., Bannister, B. D., & Chiu, W. (2014).
+Social context: Key to understanding culture's effects on creativity.Journal of Organizational Behavior ,36, 899–918.
+https://doi.org/10.
+1002/job.1923
+Randel, A. E. (2002). Identity salience: A moderator of the relationship
+between group gender composition and work group conflict. Journal
+of Organizational Behavior ,23, 749 –766. https://doi.org/10.1002/
+job.163
+Richter, A. W., West, M. A., Dick, R. V., & Dawson, J. F. (2006). Boundary
+spanners' identification, intergroup contact, and effective intergroup
+relations. Academy of Management Journal ,49(6), 1252 –1269. https://
+doi.org/10.5465/amj.2006.23478720
+Shin, S. J., & Zhou, J. (2007). When is educational specialization hetero-
+geneity related to creativity in research and development teams?
+Transformational leadership as a moderator. Journal of Applied Psy-
+chology ,92, 1709 –1721. https://doi.org/10.1037/0021-9010.92.6.
+1709
+Somech, A., & Khalaili, A. (2014). Team boundary activity: Its mediating
+role in the relationship between structural conditions and team inno-
+vation. Group & Organization Management ,39, 274–299. https://doi.
+org/10.1177/1059601114525437
+Stets, J. E., & Burke, P. J. (2000). Identity theory and social identity theory.
+Social Psychology Quarterly ,63, 224–237. https://doi.org/10.2307/
+2695870
+Stryker, S., & Statham, A. (1985). Symbolic interaction and role theory. In
+G. Lindzey & E. Aronson (Eds.), Handbook of social psychology . Random
+House.
+Sui, Y., Wang, H., Kirkman, B. L., & Li, N. (2016). Understanding the curvi-
+linear relationships between LMX differentiation and team coordina-
+tion and performance. Personnel Psychology ,69, 559–597. https://doi.
+org/10.1111/peps.12115
+Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S.
+(1987). Rediscovering the social group: A self-categorization theory .
+Blackwell.
+Van der Vegt, G. S., Emans, B. J. M., & Vliert, E. (2001). Patterns of
+interdependence in work teams: A two-level investigation ofthe relations with job and team satisfaction. Personnel
+Psychology ,54,5 1–69.
+https://doi.org/10.1111/j.1744-6570.2001.
+tb00085.x
+Van Der Vegt, G. S., Van De Vliert, E., & Oosterhof, A. (2003). Informa-
+tional dissimilarity and organizational citizenship behavior: The roleof intrateam interdependence and team identification. Academy of
+Management Journal ,46(6), 715 –727.
+https://doi.org/10.5465/
+30040663
+Van Knippenberg, D., Dawson, J. F., West, M. A., & Homan, A. C. (2011).
+Diversity faultlines, shared objectives, and top management team per-formance. Human Relations ,64, 307–336.
+https://doi.org/10.1177/
+0018726710378384
+Van Knippenberg, D., De Dreu, C. K., & Homan, A. C. (2004). Work group
+diversity and group performance: An integrative model and research1076 YAO ET AL.
+agenda. Journal of Applied Psychology ,89, 1008. https://doi.org/10.
+1037/0021-9010.89.6.1008
+Welbourne, T. M., & Paterson, T. A. (2016). Advancing a richer view of
+identity at work: The role-based identity scale. Personnel Psychology ,
+70, 315–356. https://doi.org/10.1111/peps.12150
+Weldon, E., & Weingart, L. R. (1993). Group goals and group performance.
+British Journal of Social Psychology ,32, 307–334. https://doi.org/10.
+1111/j.2044-8309.1993.tb01003.x
+Widmann, A., & Mulder, R. H. (2018). Team learning behaviours and inno-
+vative work behaviour in work teams. European Journal of Innovation
+Management ,21, 501 –520. https://doi.org/10.1108/ejim-12-2017-
+0194
+AUTHOR BIOGRAPHIES
+Jin Yao is a doctoral student at the School of Management, Xi'an
+Jiaotong University, China. His research focuses on team bound-ary spanning, team faultlines, team leadership, and creativity in
+multilevel contexts.
+Jie Feng is an assistant professor of human resource management
+at the School of Management and Labor Relations, Rutgers Uni-versity. Her primary research interests include employee mobility
+and turnover, strategic compensation, and the interfaces between
+Human Resources (HR) and Entrepreneurship. Her research hasappeared in the Academy of Management Journal, Journal of
+Applied Psychology, and the Asian Pacific Journal of
+Management.
+Xinmei Liu is a professor of management at in the School of Man-
+agement, Xi'an Jiaotong University, China. Her research interests
+include team leadership, team faultlines, creativity, and service
+innovation.
+How to cite this article: Yao, J., Feng, J., & Liu, X. (2022). The
+curvilinear relationship between team memberboundary-spanning differentiation and creativity. Journal of
+Organizational Behavior ,43(6), 1063 –1077.
+https://doi.org/10.
+1002/job.2618APPENDIX A: KEY MEASURES
+Team member boundary-spanning behavior (Marrone et al., 2007 )
+1. I persuade outsiders to support team decisions.
+2. I prevent the outsiders from “overloading ”the team with too many
+requests.
+3. I reach out to individuals outside of our team that can provide
+project-related expertise or ideas.
+4. I proactively seek the advice and support of our supervisor.
+5. I scan the environment inside or outside the organization for tech-
+nical ideas/expertise.
+6. I scan the environment inside or outside the organization for mar-
+keting ideas/expertise.
+Information sharing (Bunderson & Sutcliffe, 2002 )
+1. Information used to make key decisions is freely shared among the
+members of the team.
+2. Team members work hard to keep one another up to date on their
+activities.
+3. Team members are kept “in the loop ”about key issues affecting
+the business unit.
+Team goal interdependence (Van der Vegt et al., 2001 )
+1. We receive feedback about our team performance.
+2. We are collectively held accountable for our team performance.3. We receive regular feedback about our team functioning.
+4. We are informed about the goals we should attain as a group.
+5. We regularly receive information about what is expected from our
+team.
+6. We have several clear targets we have to attain as a group.
+Team creativity (Shin & Zhou,
+2007 )
+1. How well does your team produce new ideas?
+2. How useful are those ideas?3. How creative do you consider your team to be?
+4. How significant are those ideas to your organization?YAO ET AL. 1077

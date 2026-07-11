@@ -1,0 +1,81 @@
+toff value, therefore construct
+reliability is established. The pre-speciﬁed CFA model pro-
+vides an acceptable ﬁt (2 (160) = 701.274, CFI = 0.907, IFI = 0.907,
+GFI = 0.827, RMSEA = 0.099 for the automotive industry; (2
+(160) = 356.522, CFI = 0.908, IFI = 0.909, GFI = 0.805, RMSEA = 0.093).
+All factor loadings were statistically signiﬁcant at the 5% level and
+exceed the arbitrary 0.5 standard. We tested for discriminant valid-
+ity by comparing an unconstrained model with a model with the
+correlation between each pair of constructs constrained to equal
+one (Bagozzi et al., 1991; Zaheer et al., 1998). We found that in all
+cases the cross-construct correlations were signiﬁcantly different
+from 1.0, which suggests the presence of discriminant validity. In
+general, these results provide support for construct validity for the
+measures employed in the study. The results for construct validity
+and reliability are reported in Table 1.
+5.2. Structural model evaluation
+After reliability and construct validity were established for the
+measurement models, structural path parameters were estimated.
+We began by examining the reciprocal relations between trust
+in the buying ﬁrm and trust in the purchasing agent. After the
+direction of the relationship between the two levels of trust was
+established, we proceeded to test the hypothesized relationships
+between the boundary spanning capabilities and trust. The corre-
+lation matrix among the focal constructs for the two samples is
+reported in Table 2. The result for structural path parameter esti-
+mates across the two samples is provided in Table 3.
+Table 2
+Correlation matrix of variables analyzed.
+BTRUST
+FTRUST
+BCOM
+BKNOW
+BCOMPS
+BTRUST
+1
+.575**
+.602**
+.719**
+.677**
+FTRUST
+.494**
+1
+.509**
+.457**
+.590**
+BCOM
+.519**
+.513**
+1
+.700**
+.643**
+BKNOW
+.681**
+.424**
+.574**
+1
+.656**
+BCOMPS
+.665**
+.520**
+.748**
+.568**
+1
+Automotive industry
+Mean
+3.087
+2.700
+2.199
+2.761
+2.503
+Std.
+0.979
+0.846
+0.858
+0.906
+0.917
+Food industry
+Mean
+4.147
+3.950
+3.339
