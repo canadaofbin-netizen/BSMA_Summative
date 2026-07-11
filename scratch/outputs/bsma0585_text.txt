@@ -1,0 +1,1351 @@
+Public Management Review
+ISSN: 1471-9037 (Print) 1471-9045 (Online) Journal homepage: www.tandfonline.com/journals/rpxm20
+Team innovation through collaboration: how
+visionary leadership spurs innovation via team
+cohesion
+Joris van der Voet & Bram Steijn
+To cite this article: Joris van der Voet & Bram Steijn (2021) Team innovation through
+collaboration: how visionary leadership spurs innovation via team cohesion, Public
+Management Review, 23:9, 1275-1294, DOI: 10.1080/14719037.2020.1743344
+To link to this article:  https://doi.org/10.1080/14719037.2020.1743344
+© 2020 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 02 Apr 2020.
+Submit your article to this journal 
+Article views: 34756
+View related articles 
+View Crossmark data
+Citing articles: 72 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpxm20
+Team innovation through collaboration: how visionary
+leadership spurs innovation via team cohesion
+Joris van der Voet
+a and Bram Steijn
+b
+aInstitute of Public Administration, Leiden University, Leiden, Netherlands; bDepartment of Public
+Administration and Sociology, Erasmus University Rotterdam, Rotterdam, Netherlands
+ABSTRACT
+Post-bureaucratic, collaborative organizational arrangements possess great potential
+for innovation, but alignment of the dissimilar goals, values and interests of partici-
+pants is required. We propose and empirically test how visionary leadership can
+increase innovation in multidisciplinary teams, by fostering internal team cohesion
+and external team boundary management. We rely on longitudinal, multi-source data
+concerning social welfare professionals and their team leaders across 95 teams. Our
+results show that visionary leadership is positively related to improved team cohesion
+and team boundary management over time. The positive relationship between vision-
+ary leadership and team innovation is mediated by team cohesion, but not team
+boundary management.
+KEYWORDS Visionary leadership; collaborative governance; collaborative innovation; innovation; teamwork
+While its reputation as a vertically hierarchical and horizontally compartmentalized
+bureaucracy persists in the public eye, the public sector is increasingly characterized by
+hybrid organizational forms that blur the traditional distinction between the public
+and private sector, span organizational boundaries and bridge disciplinary divides
+(Ansell and Gash 2008; Hartley, Sørensen, and Torﬁng 2013; Kivleniece and Quelin
+2012). A prominent example within professionalized policy areas, such as health care,
+social welfare and education, is the introduction of multidisciplinary teams that consist
+of members from multiple organizational entities, and operate in collaboration with
+external societal actors (Christensen and Lægreid 2007). Collaborative governance
+arrangements – manifested as public–private partnerships, governance networks,
+strategic alliances, or multidisciplinary inter-organizational teams – are increasingly
+utilized to generate public value in a context of wicked societal problems, thinly
+stretched resources and limited capacities of individual public organizations (Bryson,
+Crosby, and Bloomberg 2014; Bryson, Crosby, and Stone 2015; Moore and Hartley
+2008). Such collaborations provide opportunities to collectively utilize organizational
+capacities such as expertise, connections, knowledge and ﬁnancial resources, poten-
+tially resulting in increased public value (Caldwell, Roehrich, and George 2017). In
+particular, a key promise of collaborative governance is its potential to create public
+CONTACT Joris van der Voet
+j.van.der.voet@fgga.leidenuniv.nl
+PUBLIC MANAGEMENT REVIEW
+2021, VOL. 23, NO. 9, 1275–1294
+https://doi.org/10.1080/14719037.2020.1743344
+© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives
+License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and repro-
+duction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+value through innovation (Crosby, ‘t Hart, and Torﬁng, 2017; Torﬁng and Triantaﬁllou
+2016; Torﬁng 2019).
+Despite their potential for innovation, collaborative governance arrangements are
+notoriously diﬃcult to organize due to dissimilar goals, values and interests of parti-
+cipants (Kivleniece and Quelin 2012). A key challenge is the creation and coordination
+of alignment between participants (Ansell and Gash 2008). In order to unleash the
+potential beneﬁts of collaborative governance for innovation, research highlights the
+creation of shared meaning through the communication of a vision as a critical
+leadership behaviour (Crosby and Bryson 2005, 2010; Crosby, ‘t Hart and Torﬁng,
+2017). In the general management sciences, too, vision communication is recognized
+as ‘the sine qua non of outstanding leadership’ (Venus, Stam, and van Knippenberg.
+2019, 2668), and as crucial to foster innovation through the creation of shared under-
+standing (Eisenbeiss, Van Knippenberg, and Boerner 2008; Morgeson, DeRue, and
+Karam 2010).
+The intended contribution of this study is to bridge research on leadership in
+collaborative governance and visionary leadership by examining vision communica-
+tion as a driver of innovation of multidisciplinary teams. Based on multi-source,
+longitudinal quantitative data, we provide a strong empirical test of how vision com-
+munication contributes to team innovation in multidisciplinary teams through the
+fostering of collaboration within and beyond team boundaries. Speciﬁcally, we expect
+that visionary leadership strengthens internal team cohesion and enables team mem-
+bers to more eﬀectively span the boundaries of the team and collaborate with external
+stakeholders. Both team cohesion and team boundary management are expected to be
+conducive for team innovation. We formulate the following research question: To what
+extent is the relationship between visionary leadership and innovation in multidisciplin-
+ary teams mediated by team cohesion and team boundary management?
+We examine our research question in a setting of social welfare teams that are an
+example of collaborative governance, as team members from various public and non-
+proﬁt stakeholders work together as a team and with external stakeholders to create
+public value. Empirically, we provide a quantitative analysis of 95 newly formed social
+welfare teams in The Netherlands. Through the use of online questionnaires in two
+consecutive years, we rely on longitudinal, multi-source data from team members and
+their leaders. By controlling for prior levels of team cohesion, team boundary manage-
+ment and team innovation in a structural equation model, we more accurately estimate
+the diﬀerence that can be made through the use of visionary leadership behaviour.
+The analysis indicates that visionary leadership is positively related to increased
+team cohesion and team boundary management over time. This study thus provides
+evidence of how vision communication contributes to collaborative governance
+arrangements by stimulating shared understanding within and across organizational
+boundaries. Moreover, the analysis shows how team cohesion – but not team boundary
+management – mediates the positive relationship between visionary leadership and
+team innovation. The article thereby provides evidence for claims regarding the
+acclaimed but empirically undocumented role of visionary leadership in a context of
+collaborative governance.
+In the next section, we elaborate on the main concepts and theoretical expectations.
+We then provide information regarding the research design, sample and our measure-
+ment instruments, before presenting our analysis and results. We conclude by
+1276
+J. VAN DER VOET AND B. STEIJN
+discussing our ﬁndings in light of the literature on collaborative governance and public
+innovation.
+Theory
+Within a broader development towards collaborative government and post-
+bureaucratic organizational arrangements, the introduction of multidisciplinary
+teams can be seen as an organizational response to increasing complexity and dyna-
+mism of the work environment that public organizations face. In contrast to traditional
+work groups, teams emphasize a high complementarity of skills and high interdepen-
+dence between workers in the accomplishment of tasks. For the purposes of this study,
+we deﬁne a team as ‘a collection of individuals who are interdependent in their tasks,
+who share responsibility for outcomes, who see themselves and who are seen by others
+as an intact social entity embedded in one or more larger social systems [for example,
+business unit or the corporation], and who manage their relationships across organi-
+zational boundaries’ (Cohen and Bailey 1997, 241).
+Its decentralized nature makes teamwork an organizational arrangement that is
+particularly conducive to innovation. ‘[I]t is widely regarded that the real value of
+teamwork and collaboration lies in the ability to draw from diverse perspectives and
+expertise to solve complex problems’ (Thayer, Petruzzelli, and McClurg 2018, 363).
+This is especially true for multidisciplinary teams, as by deﬁnition multiple values and
+types of expertise are brought together in these teams. Operating in close conjunction
+with external actors, such teams possess great potential to address societal challenges in
+an innovative manner. According to West and Farr (1990), team innovation refers to
+the introduction and application in a team of ideas, processes, products, or procedures
+that are new to the team and are designed to be useful (see also Somech and Drach-
+Zahavy 2013). In contrast to the private sector, innovation in the public sector is not
+a means to gain competitive advantage but aims to improve governance and public
+service delivery in order to create public value for society at large (Torﬁng and
+Triantaﬁllou 2016; Moore and Hartley 2008). In a context of collaborative governance,
+team innovation thus concerns the introduction and application of novel practices that
+result in public value, and may be facilitated through collaboration within and beyond
+the boundaries of the team. With respect to the often made distinction between
+incremental and radical innovation (Bekkers, Edelenbos, and Steijn 2011, 14) innova-
+tion initiated on the team level will usually be more incremental involving minor
+changes in existing services and processes.
+Both public management research and the general management research highlight
+the importance of visionary leadership as a driver of innovation. Van Knippenberg and
+Stam (2014) deﬁne visionary leadership as a (verbal) future image of a collective with
+the intention to persuade others to contribute to the realization of that future. Visions
+are abstract higher-level goals that reﬂect uncertain and open-ended outcomes. They
+provide followers with a sense of identity and purpose (Venus, Stam, and van
+Knippenberg 2019, 2668). According to Stam et al. (2014, 1172), vision communica-
+tion holds ‘the dubious honor of being both one of the most crucial and mysterious
+aspects of leadership’. Its importance is often highlighted, but processes of vision
+pursuit and its outcomes are not yet fully understood (Venus, Stam, and van
+Knippenberg 2019), in part because research on outcomes of visionary leadership
+has emphasized the individual rather than group level of analysis. Van Knippenberg
+PUBLIC MANAGEMENT REVIEW
+1277
+and Stam (2014, 256) are critical about the state of the art of literature on visionary
+leadership – partly because visionary leadership is often studied independent of the
+content of the vision itself – but nevertheless state that the concept ‘potentially has
+tremendously importance as a motivator for change and innovation and may indeed
+more than anything else lie at the core of eﬀective leadership’. However, visionary
+leadership can have a dark side too as noted by Ateş et al. (2018), who showed that
+team commitment to the overall organizational strategy can be hampered when the
+visionary leadership on the team level is not strategically aligned with the organization.
+Public management research also emphasizes visionary leadership behaviour, as
+recent studies have delimited transformational leadership to its visionary dimension:
+leader behaviours aimed at the articulation, communication and sustainment of
+a vision to encourage employees to transcend their own self-interest and achieve
+organizational goals (Jensen, Andersen, Bro, et al. 2019; Jensen, Andersen, and
+Jacobsen 2019).
+Morgeson, DeRue, and Karam (2010) propose that providing a vision is one of the
+main leadership functions in a team setting, and several studies have empirically linked
+visionary leadership behaviour to innovation and creativity (Stam et al. 2014; van
+Knippenberg and Sitkin 2013). For instance, Mumford et al. (2002, 716) argue that
+vision-based leadership behaviour is one of the three leadership characteristics that
+stimulate team innovation: ‘a work focused vision, or mission, may be promulgated
+that may enhance people’s creative eﬀorts.’ Hülsheger et al. (2009, 1139) state that ‘[m]
+anagement representatives and team leaders should consequently strive to provide
+their teams with clearly stated, visionary, and motivating higher order goals (. . .)’.
+Crosby, ‘t Hart, and Torﬁng (2017) highlight visionary leadership’s potential to facil-
+itate and energize the collaboration process, create motivational narratives, challenge
+conventional wisdoms and provide new and bold ideas. We thus formulate the
+following hypothesis:
+Hypothesis 1: Visionary leadership is positively related to team innovation.
+Visionary leadership not only directly contributes to team innovation but we propose
+that its most important contribution occurs through the facilitation of team processes,
+deﬁned as ‘members’ interactions directed toward task accomplishment’ (Mathieu
+et al. 2008, 412). Especially in a setting of multidisciplinary teams that operate in
+concert with external actors, a myriad of internal and external interdependencies
+require collaboration within and beyond the boundaries of the team (Hartley,
+Sørensen, and Torﬁng 2013). These interdependencies may be characterized by diver-
+gent values and conﬂicting interests, which visionary leadership may help to overcome
+(Crosby and Bryson 2005; Crosby, ‘t Hart, and Torﬁng 2017). Crosby and Bryson
+(2005) argue that a compelling vision is critical for successful collaboration, as this can
+weave an understanding of a public problem that is shared by everyone in a collective.
+By improving the team’s internal and external collaboration, visionary leadership has
+the potential to unleash multidisciplinary teams’ innovative potential.
+Team research has identiﬁed a range of team process variables as antecedents of
+team innovation (Mathieu et al. 2008; Eisenbeiss, Van Knippenberg, and Boerner 2008;
+Hülsheger, Anderson, and Salgado 2009; Morgeson, DeRue, and Karam 2010). We
+focus on team cohesion and boundary management as concepts that inform, respec-
+tively, the internal and external collaboration that multidisciplinary teams require. In
+1278
+J. VAN DER VOET AND B. STEIJN
+the following, we outline our theoretical expectations by elaborating on the relation-
+ships between team cohesion, team boundary management and team innovation. For
+each concept, we explain why and how visionary leadership aﬀects these two team
+processes, which leads to the argument that team cohesion and team boundary
+management mediate the relationship between visionary leadership and team
+innovation.
+Team cohesion is conceptualized as a multidimensional construct involving inter-
+personal attraction, task commitment, and group pride as its main dimensions (Beal
+et al. 2003). Research shows that group pride is less important with respect to outcome
+variables such as performance (Salas et al. 2015). Task commitment is the extent of
+‘motivation towards achieving the organization’s goals and objectives’ (Carless and De
+Paola 2000, 73) and is according to Carless and De Paola more important for work
+outcomes than interpersonal attraction. Cohesion is a crucial condition for team
+innovation, as a cohesive team is a psychologically safe environment for team members
+to experiment, take risks, cooperate and exchange ideas (West and Farr 1990). Team
+cohesion is therefore expected to be positively related to team innovation.
+We propose that visionary leadership behaviour can strengthen team cohesion. By
+utilizing a vision as a shared frame of reference, leaders build personal and social
+identiﬁcation between followers and goals of the collective. In such a way, leadership
+contributes to the ‘collective conﬁdence’ necessary to deal with diﬃcult challenges
+(Bass et al. 2003, 209), and the ‘collective creativity’ to address such challenges in novel
+ways (Crosby, ‘t Hart, and Torﬁng 2017). Envisioning a future direction for the team
+and attaching meaning to the mission can make teams more cohesive and is considered
+a core team leadership function, especially in relatively newly formed teams
+(Morgeson, DeRue, and Karam 2010). By attaching shared meaning to team goals,
+visionary leaders can contribute to team cohesion among a group of diverse team
+members, which enables them to utilize complementary resources and collectively
+address the challenge at hand. We expect such a climate of internal collaboration to be
+conducive for team innovation, and propose the following hypothesis:
+Hypothesis 2: The positive relationship between visionary leadership and team innova-
+tion is mediated by team cohesion.
+In a context where the solution of societal problems increasingly relies on cooperation
+between (public and private) partners, teams are increasingly characterized by a high
+degree of interdependency with external stakeholders (Caldwell, Roehrich, and George
+2017; Hartley, Sørensen, and Torﬁng 2013). This requires that teams actively manage
+external dependencies through boundary spanning: the team’s actions in establishing
+linkages and managing interactions with parties in the external environment (Marrone
+2010, 914). We refer to such collaborative behaviour here as boundary management.
+Boundary management consists of two separate aspects. First, managing team bound-
+aries requires establishing clear boundaries concerning the membership, resources and
+responsibilities for the team (Morgeson, DeRue, and Karam 2010). Second, team
+boundary management requires establishing and maintaining information exchange
+across the boundary of the team, in order to mobilize resources, collaboration and
+commitment to the team’s mission among external actors.
+There is evidence that external collaboration can increase innovation. Generic
+management research indicates that external information searching is positively
+PUBLIC MANAGEMENT REVIEW
+1279
+related to innovation on the organizational level (Laursen and Salter 2006). Van der
+Vegt and Bunderson (2005, 534) argue that ‘Interaction with dissimilar others pro-
+motes learning and innovation by exposing individuals to new paradigms and per-
+spectives and by enabling (and often requiring) the cross-fertilization of ideas.’ Public
+administration researchers echo such ﬁndings by stating that external collaboration
+can strengthen the capacity for innovation at all stages of the innovation cycle
+(Sørensen and Torﬁng 2011). The deﬁnition and understanding of problems, the
+generation of potential solutions, the selection of a solution and the implementation
+of this solution are all argued to beneﬁt from the combined insights and resources of
+multiple actors (Hartley, Sørensen, and Torﬁng 2013). In accordance with this,
+Hülsheger, Anderson, and Salgado (2009) demonstrate in their meta-analysis of team-
+level drivers of innovation that communication with external actors drives innovation
+since the interaction with actors beyond the team’s boundaries opens new perspectives
+and sparks the development of new ideas.
+Caldwell, Roehrich, and George (2017) conclude that managers must strive for goal
+alignment between partners in order to utilize the advantages of collaboration. Ancona
+(1990) describes how leader behaviour aimed at a ‘widening of team members’
+perspectives’ (1990, 347) increases team interaction with the external environment.
+The communication of an inclusive compelling visions may be a means towards such
+goal alignment and widening of perspectives. We expect visionary leadership to
+facilitate external collaboration by providing a vision that can be utilized to create
+a common understanding of a public problem. The formulation and communication
+of a compelling vision can make the importance of boundary management clear to the
+team members, as the realization of this vision will depend on collaboration with
+external actors. As shared frame of reference, a vision may thus encourage and enable
+team members to more eﬀectively connect with external stakeholders. In turn, bound-
+ary management activities may provide the team with more diverse feedback and
+resources which will stimulate team innovation. We propose the following hypothesis:
+Hypothesis 3: The positive relationship between visionary leadership and team innova-
+tion is mediated by team boundary management.
+Methodology
+In this methodology section, we describe the setting and design of our study, outline
+our methods and procedures of data collection and describe the measures for the
+central concepts.
+Social welfare teams in the Netherlands
+In a context of increased ﬁnancial stress, many countries have introduced reforms that
+aim to decentralize responsibilities for social welfare provision from the national to the
+local level. The main argument put forward to support this decentralization process is
+that ‘local authorities are supposed to be more eﬀective than central authorities in
+adapting policy measures to local needs, priorities and partnerships’ (Nowak et al.
+2015, 705). In the Dutch context, this reform coincides with the establishment of
+multidisciplinary neighbourhood teams as an organizational arrangement through
+which social welfare services are provided. The formation of these multidisciplinary
+1280
+J. VAN DER VOET AND B. STEIJN
+teams can be interpreted as a governance innovation in itself (Andersson and Liﬀ
+2012). We consider these multidisciplinary teams a collaborative governance arrange-
+ment at the meso-level, given its dependence on collaboration of professionals from
+diﬀerent backgrounds within the team, as well as collaboration beyond the boundaries
+of the team with a range of public, private and societal actors.
+The multidisciplinary neighbourhood teams are comprised of professionals that work
+for a range of professional care organizations and are jointly responsible for providing
+social welfare services within a determined geographical district (the neighbourhood). By
+uniting a diverse range of professionals within the teams, the neighbourhood team
+aspires to better bundle expertise and reduce transaction costs. Across the boundaries
+of the team, the professionals are required to collaborate and exchange information with
+a range of public, private and societal actors, including municipal health services,
+housing corporations, general practitioners, schools, charity and religious organizations,
+as well as neighbourhood organizations and the informal network of clients. Innovative
+welfare provision is an explicit aim of the neighbourhood teams, as their internal
+multidisciplinary nature and external collaborations with partners in the neighbourhood
+are expected to result in more responsive, tailored and integrated welfare provision. This
+novel collaborative governance arrangement has been deemed a major transformation in
+the Dutch social welfare system.
+In the Dutch situation, neighbourhood teams operate within a geographical district
+of a municipality and consist of professionals with diverse disciplinary backgrounds
+such as (personal) safety, pedagogy and education, employment, addiction, youth care
+and ﬁnancial support. The organization of these teams allows welfare professionals to
+be in close proximity to their clients, to better utilize multidisciplinary insights and to
+reduce bureaucracy (Van Zijl et al. 2019). Organizational arrangements and team
+structure diﬀer between municipalities, but the teams are relatively homogenous in
+the sense that they all consist of professionals providing care in a local setting. Our
+sampling strategy was to maximize the amount of teams while attempting to reduce
+variation in contextual diﬀerences. We therefore sampled the largest city regions, in
+which relatively many teams operate under identical policy circumstances. We con-
+ducted our study in the three largest Dutch cities (Amsterdam, Rotterdam, and The
+Hague) and also a conglomerate of teams working in the vicinity of The Hague
+(Holland Rijnland).
+Methods and procedures for data collection
+Our research design investigates the population of teams in the selected areas through
+a quantitative survey consisting of two waves. All team members and team leaders were
+invited to participate in the survey. Our analysis strategy is to investigate the relation-
+ships between our key variables at T1, while controlling for values of the endogenous
+variables of the model (mediating and dependent variables) at T0. Lagging the endo-
+genous variables on their prior levels is done because it is likely that levels of team
+cohesion, team boundary management and team innovation depend heavily on past
+levels. Omitting past levels for these variables might therefore result in inaccurate
+estimation of the relationships between these variables, as well as their relationships
+with visionary leadership.
+The ﬁrst wave of our research (T0) was held between May 2016 and February 2017,
+with the second wave (T1) one year later between May 2017 and February 2018. This
+PUBLIC MANAGEMENT REVIEW
+1281
+amounts to 140 teams with 2222 employees at T0 and 139 teams with 2294 respondents
+at T1. Response at T0 was 1067 respondents (response rate 48,0%) and 1106 respon-
+dents at T1 (response rate 48,2%). For our analysis, we can only use teams with
+responses on the key variables for both T0 and T1. Our ﬁnal sample therefore consists
+of 772 respondents at T0 and 803 respondents at T1 across the same 95 teams. The
+number of responses per team ranges between 3 and 20 at T0 (mean = 8.1 and standard
+deviation = 3.2) and between 2 and 22 at T1 (mean = 8.5 and standard deviation = 4.4).
+The individual responses are aggregated to the team level, for which intraclass correla-
+tion coeﬃcients are calculated in the analysis section. Kline (2005) suggests that
+statistical precision will be adequate when the ratio of sample size to observed variables
+exceeds 5 to 1. In this study, the ratio between number of teams and observed variables
+is 8.6 to 1.
+Measures
+Each variable was measured on a ﬁve-point scale ranging from ‘1: fully disagree’ to ‘5:
+fully agree’. Visionary leadership, team cohesion and team boundary management were
+measured using team member perceptions, and team innovation measure was measured
+among team leaders. This latter measure was based on the four-item measure for team
+innovation by De Dreu (2006). This measurement instrument concerns a validated
+general measure of the degree in which a team introduces innovative services, methods
+or procedures. The measurement does not make a distinction between incremental and
+radical innovation. A ﬁve-item measure for visionary leadership by Jensen, Andersen,
+Bro, et al. (2019) was used in the team member survey. The measure for team cohesion
+consists of ﬁve items (based on Carless and De Paola 2000). Team boundary manage-
+ment, ﬁnally, is measured with a scale by Ancona and Caldwell (1992), based on the
+Dutch translation by Groeneveld and Kuipers (2014), and consists of ﬁve items. In this
+scale, items were contextualized to our study’s setting by referring to examples of external
+partners as ‘external partners such as police, medical practitioners, housing corporations
+or welfare’. The full measurement scales are given in the Appendix. In order to control
+for diﬀerent organizational arrangements between the teams in our sample, we model
+control variables for team size, the average tenure of team members, the gender of the
+team leader, and a dummy variable for team leaders who supervise more than one team.
+Analysis and results
+As an analysis strategy for testing this study’s hypotheses, we rely on structural
+equation modelling (SEM) using AMOS 25. First, Bollen and Scott Long (1992)
+recommend to examine the model ﬁt of the individual components of the model.
+Second, a measurement model is estimated to enable a conﬁrmatory assessment of
+construct validity (Anderson and Gerbing (1988)). Third, multiple structural models
+are speciﬁed in order to estimate the relationships between constructs. To determine
+model ﬁt, Kline (2005) recommends use of the Chi-Square test, the Comparative Fit
+Index (CFI), the Root Mean Square Error of Approximation (RMSEA), and the
+Standardized Root Mean Residual (SRMR). In addition, Hooper, Coughlan, and
+Mullen (2008) also advocate the use of one parsimony ﬁt index such as the
+Parsimonious Normed Fit Index (PNFI). Together, these ﬁt indexes ‘have been
+found to be the most insensitive to sample size, model misspeciﬁcation and parameter
+1282
+J. VAN DER VOET AND B. STEIJN
+estimates’ (Hooper, Coughlan, and Mullen 2008, 56). Additionally, we also report the
+minimum value for the Squared Multiple Correlations (SMC) of individual items, as
+these indicate how well the individual observed indicators explain a latent construct.
+Table 1 reports the selected ﬁt indices of the measurement scales for the central
+concepts: a single factor model for visionary leadership (T1), a two factor model for
+team innovation (T0 and T1), a two factor model for team cohesion (T0 and T1), and
+a two factor model for team boundary management (T0 and T1). The ﬁt indices
+indicate that, overall, the constructs have reasonable ﬁt to the data. For each construct,
+however, respeciﬁcation can be warranted in order to improve one or more indicators
+of model ﬁt. For the models of visionary leadership and team cohesion, the values for
+CFI and RMSEA urge respeciﬁcation of the model. For team boundary management,
+RMSEA is slightly above the desired threshold of .08. For team innovation, the overall
+model ﬁt indices are satisfactory, but one item has an SMC value that is well below .20,
+which indicates high levels of measurement error. As the improvement of model ﬁt
+through the correlation of error terms is a practice that is not undisputed (Gerbing and
+Anderson 1984), this study takes the approach of removing individual items based on
+ﬁt and modiﬁcation indices. This results in the removal of four items from the analysis,
+which are given in Appendix. With the exception of RMSEA values for visionary
+leadership and team cohesion that slightly exceeds the most stringent thresholds, the ﬁt
+indices for the modiﬁed constructs in Table 1 indicate satisfactory model ﬁt for all
+constructs.
+Overall model ﬁt is examined by estimating model ﬁt indices of an overall model
+and comparing these ﬁt indices to alternative models. For the measurement model, we
+conduct a Conﬁrmatory Factor Analysis (CFA) that consists of seven constructs:
+visionary leadership (T1), team innovation (T1), team innovation (T0), team cohesion
+(T1), team cohesion (T0), team boundary management (T1) and team boundary
+management (T0). The results in Table 2 indicate that the seven-factor model meets
+thresholds of satisfactory model ﬁt. We compare this measurement model to a single-
+factor model (all items in one factor), a two-factor model (all items for T1 in one factor
+and all items for T0 in one factor) and a four-factor model (separate factors for
+visionary leadership (T1), team innovation (T1 and T0), team cohesion (T1 and T0)
+Table 1. Model ﬁt of individual components of the model.
+Constructs
+Chi
+Square
+DF
+Chi square/
+DF
+CFI
+RMSEA SRMR PNFI
+Minimum value
+SMC
+Estimation of constructs
+Visionary leadership
+39.908
+5
+7.982
+.928
+.273
+.048
+.460
+.650
+Team innovation
+14.185
+19
+.747
+1.000
+.000
+.064
+.558
+.062
+Team cohesion
+134.021
+34
+3.942
+.878
+.177
+.061
+.639
+.557
+Team boundary
+management
+62.970
+34
+1.852
+.954
+.095
+.072
+.684
+.565
+Modiﬁed estimation of constructs
+Visionary leadership
+6.306
+2
+3.153
+.988
+.151
+.028
+.327
+.622
+Team innovation
+3.221
+8
+.403
+1.000
+.000
+.028
+.508
+.368
+Team cohesion
+35.970
+19
+1.893
+.966
+.097
+.043
+.632
+.437
+Team boundary
+management
+21.897
+19
+1.152
+.993
+.040
+.051
+.647
+.594
+DF: Degrees of Freedom; CFI: Comparative Fit Index; RMSEA: Root Mean Square Error of Approximation;
+SRMR: Standardized Root Mean Residual; PNFI: Parsimonious Normed Fit Index; SMC: Squared Multiple
+Correlations.
+PUBLIC MANAGEMENT REVIEW
+1283
+and team boundary management (T1 and T0)). Since none of the alternative models
+provide an adequate ﬁt to the data, we conclude that the seven-factor measurement
+model is thus a signiﬁcantly better ﬁt.
+As a structural model, a mediation model is estimated. The mediation model
+accounts for the direct and indirect relationships between visionary leadership (T1)
+and team innovation (T1) via team cohesion (T1) and team boundary management
+(T1), and includes the lagged variables team innovation (T0), team cohesion (T0) and
+team boundary management (T0) as antecedents of all endogenous variables in the
+model. The results in Table 2 indicate that this mediation model has adequate model
+ﬁt, and is a marginally better ﬁt than the baseline model that consists of team
+innovation (T1) as a dependent variable and all other constructs as independent
+variables. As a third structural model, a mediation model that includes all control
+variables is estimated. The ﬁt indices of this structural model are indicative of accep-
+table model ﬁt. The mediation model including control variables is used for testing this
+study’s hypotheses.
+Average Variance Extracted (AVE) and Composite Reliability (CR) are calculated and
+reported in Table 3. As recommended by Fornell and Larcker (1981), the AVE of all
+constructs exceed the threshold of .50, as well as the squared multiple correlations
+between constructs (correlations are given in Table 4). This indicates that convergent
+and discriminant validity can be established for all constructs. CR exceeds the threshold
+of .70 for all constructs and thus demonstrates good internal consistency. In addition,
+Table 3 reports intraclass correlation coeﬃcients ICC1 and ICC2 in order to examine to
+what extent individual measures can meaningfully be aggregated to the team level. ICC1
+refers to the variance accounted for by group membership, while ICC2 expresses the
+reliability of group means (Bliese 1998). We conclude from these coeﬃcients that the
+variance for team boundary management (T1 and T0) is to a lesser extent explained
+Table 2. Model ﬁt of measurement model and structural models.
+Model
+Chi Square
+DF
+Chi square/DF
+CFI
+RMSEA SRMR PNFI
+Measurement models
+1 factor model
+1468.860
+299
+4.913
+.294
+.204
+.192
+.238
+2 factor model
+1128.369
+298
+3.786
+.499
+.172
+.181
+.395
+4 factor model
+821.313
+393
+2.803
+.681
+.138
+.155
+.528
+7 factor model
+378.878
+278
+1.363
+.939
+.062
+.074
+.692
+Structural models
+Baseline model
+473.359
+332
+1.426
+.916
+.067
+.095
+.677
+Mediation model
+468.389
+337
+1.390
+.922
+.064
+.096
+.689
+Mediation model including control variables
+587.452
+414
+1.419
+.903
+.067
+.086
+.621
+DF: Degrees of Freedom; CFI: Comparative Fit Index; RMSEA: Root Mean Square Error of Approximation; SRMR :
+Standardized Root Mean Residual; PNFI: Parsimonious Normed Fit Index.
+Table 3. Average Variance Extracted (AVE), Composite Reliability (CR) and intraclass correlations (ICC) of
+constructs in the seven-factor measurement model.
+Construct
+Average Variance Extracted
+Composite reliability
+ICC1
+ICC2
+Team innovation T1
+.66
+.85
+-
+-
+Team innovation T0
+.54
+.78
+-
+-
+Visionary leadership T1
+.77
+.93
+.15
+.61
+Team cohesion T1
+.72
+.91
+.20
+.68
+Team cohesion T0
+.66
+.89
+.17
+.62
+Team boundary management T1
+.63
+.87
+.08
+.43
+Team boundary management T0
+.72
+.91
+.11
+.51
+1284
+J. VAN DER VOET AND B. STEIJN
+Table 4. Descriptive statistics and correlations (n = 95).
+M
+S.D.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1 Visionary leadership T1
+3.49
+.49
+-
+2 Team innovation T1
+3.22
+.72
+.23*
+-
+3 Team innovation T0
+3.41
+.62
+.15
+.51***
+-
+4 Team cohesion T1
+3.97
+.38
+.30**
+.32**
+−.05
+-
+5 Team cohesion T0
+3.98
+.37
+.08
+.04
+−.03
+.47***
+-
+6 Team boundary management T1
+3.69
+.30
+.35***
+.25*
+.10
+.42***
+.15
+-
+7 Team boundary management t0
+3.67
+.34
+.19
+.02
+−.04
+.22
+.67***
+.36**
+-
+8 Leader: gender
+.82
+.39
+−.13
+−.05
+.08
+.06
+.11
+.14
+.00
+-
+9 Leader: multiple teams
+.80
+.78
+−.12
+.10
+.06
+−.08
+.14
+−.19
+.02
+.08
+-
+10 Team: size
+17.51
+9.20
+.10
+.25*
+.18
+−.22
+−.39**
+−.16
+−.28*
+−.46***
+−.17
+-
+11 Team: tenure
+24.04
+6.51
+−.29**
+.10
+.02
+.01
+−.10
+.16
+−.21
+−.02
+.10
+.06
+*p = < .05.
+** = p < .01.
+*** = p ≤.001.
+PUBLIC MANAGEMENT REVIEW
+1285
+through team membership, and that the group means of these constructs are less reliable.
+Aggregation of the variables is nonetheless deemed acceptable since such variation is
+likely due to a substantial range in team sizes (Bliese and Halverson 1998).
+We now turn our attention to testing the study’s hypotheses based on the structural
+mediation model including control variable. Correlations, means (M) and standard
+deviations (S.D.) for all variables are shown in Table 4. The bivariate correlations
+indicate that visionary leadership behaviour of the team leader at T1 is positively
+related to team innovation, team cohesion and team boundary management at T1.
+Teams with higher tenure on average perceive the team leader as less visionary. Levels
+of team innovation, team cohesion and team boundary management at T1 are posi-
+tively related to one another. The correlation matrix suggests that the strongest
+predictors of team innovation, team cohesion and team boundary management at
+T1 are the team’s respective values on these indicators at T0.
+We rely on the structural mediation model including control variables to test the
+study’s hypotheses in a multivariate path analysis. As an analysis strategy, we model team
+innovation, team cohesion and team boundary management at T0 as control variables so
+that the eﬀect sizes and statistical signiﬁcance of visionary leadership, team cohesion and
+team boundary management at T1 can be more accurately estimated. The results of the
+structural mediation model including control variables are shown in Table 5.
+Table 5 reports unstandardized regression coeﬃcients (b), standard errors (S.E.), stan-
+dardized regression coeﬃcients (Β) and p-values (p). While the bivariate correlations
+reported in Table 4 showed a statistically signiﬁcant positive relationship between vision-
+ary leadership and team innovation (r = .23), the multivariate analysis indicates that there
+is no support for a direct positive relationship between visionary leadership and team
+innovation. While controlling for team innovation, team cohesion and team boundary
+management at T0, as well as for team cohesion and team boundary management at T1,
+the eﬀect size of the relationship between visionary leadership and team innovation is
+close to 0. Based on this analysis, hypothesis 1 is thus rejected. The strongest predictor of
+team innovation (T1) is prior levels of team innovation at T0. All else equal, leaders of
+larger teams perceive more innovation than leaders of smaller teams. Finally, the analysis
+provides support for the claim that team cohesion can contribute to team innovation, as
+Table 5. Results from structural mediation model including control variables (n = 95).
+Team cohesion (T1)
+Team Boundary
+management (T1)
+Team Innovation (T1)
+b
+S.E.
+Β
+p
+b
+S.E.
+Β
+p
+b
+S.E.
+Β
+p
+Control variables
+Leader: gender
+.01
+.10
+.01 .919
+.13
+.08
+.16
+.122
+.02
+.21
+.01 .936
+Leader: multiple teams
+−.10
+.07
+−.14 .135
+−.13
+.06
+−.21
+.028
+.32
+.15
+.19 .033
+Team: size
+−.00
+.00
+−.10 .397
+−.01
+.00
+−.14
+.221
+.03
+.01
+.29 .007
+Team: tenure
+.01
+.01
+.15 .123
+.02
+.01
+.38
+.000
+.01
+.01
+.05 .630
+Lag variables
+Team cohesion (T0)
+.76
+.22
+.58 .000
+−.20
+.17
+−.17
+.227
+−.37
+.47
+−.12 .432
+Team boundary management (T0) −.27
+.18
+−.22 .133
+.48
+.16
+.44
+.003
+.22
+.42
+.08 .608
+Team innovation (T0)
+−.04
+.07
+−.06 .596
+.04
+.06
+.08
+.457
+.66
+.16
+.45 .000
+Explanatory variables
+Visionary leadership (T1)
+.25
+.08
+.35 .000
+.25
+.07
+.40
+.000
+.02
+.19
+.01 .934
+Team cohesion (T1)
+-
+-
+-
+-
+-
+-
+-
+-
+.96
+.27
+.41 .000
+Team boundary management (T1)
+-
+-
+-
+-
+-
+-
+-
+-
+.29
+.33
+.11 .374
+Adjusted r2
+.36
+.43
+.48
+1286
+J. VAN DER VOET AND B. STEIJN
+the relationship between team cohesion (T1) and team innovation (T1) is positive and
+statistically signiﬁcant. The coeﬃcient of team boundary management (T1) is also
+positive, but the relationship lacks statistical signiﬁcance.
+Furthermore, the results in Table 5 indicate that visionary leadership behaviour by
+the team leader can increase team cohesion and team boundary management over
+time. While controlling for prior levels of team cohesion (T0) and team boundary
+management (T0), visionary leadership is positively related to team cohesion and team
+boundary management at T1. Positive changes in team cohesion and team boundary
+management between T0 and T1 can thus in part be explained by visionary leadership
+behaviour (b = .25 for both relationships). In order to test the mediating relationship
+expressed in hypothesis 2, a bootstrapping procedure with 2000 iterations was exe-
+cuted in order to estimate the eﬀect size and statistical signiﬁcance of the indirect
+relationship. The results indicate a statistically signiﬁcant relationship with b = .31 and
+p = .022. This result supports hypothesis 2 and indicates that the positive relationship
+between visionary leadership and team innovation is mediated by team cohesion. As
+the coeﬃcient between team boundary management (T1) and team innovation (T1) is
+not statistically signiﬁcant, we reject the hypothesis that team boundary management
+mediates the relationship between visionary leadership and team innovation.1
+Discussion and conclusion
+Collaborative governance arrangements are increasingly introduced to tackle wicked soci-
+etal problems. The introduction of multidisciplinary teams is an example of such arrange-
+ments at the meso level, as team members from various public and non-proﬁt stakeholders
+collaborate both internally as well as with external stakeholders to create public value by
+providing social welfare services to the community. We have argued that innovation in
+these teams relies on the internal team cohesion within the team, as well as the external
+boundary management of relevant stakeholders beyond the boundaries of the team. Our
+articleprovidesan analysis of how visionary leadership can spur team cohesion and external
+collaboration of multidisciplinary welfare teams, and how these team processes are related
+to team innovation.
+Our ﬁndings contribute to the literature in several ways. First, we provide an
+analysis of how visionary leadership is related to improved internal and external
+collaboration of multidisciplinary teams. As such, we provide empirical evidence for
+claims regarding the acclaimed but empirically undocumented role of visionary leader-
+ship in collaborative governance (Crosby and Bryson 2005, 2010; Crosby, ‘t Hart, and
+Torﬁng, 2017). Goal alignment has been identiﬁed as a crucial condition for the
+outcomes of collaborative arrangements (Caldwell, Roehrich, and George 2017;
+Ansell and Gash 2008). In our investigation of multidisciplinary teams, the analysis
+informs collaboration by investigating team cohesion and team boundary manage-
+ment. Controlling for levels of team cohesion and team boundary management
+one year earlier, we show that visionary leadership is positively related to both
+variables. Thus, visionary leadership helps to create a collective identity as team
+members are attracted to each other and are committed to the tasks of the team. As
+noted by Ancona (1990), the shared vision also helps them to widen their perspective
+and to seek interaction with the external environment. This provides compelling
+quantitative evidence based on longitudinal data for the acclaimed importance of
+visionary leadership.
+PUBLIC MANAGEMENT REVIEW
+1287
+Our study accounts for team cohesion and team boundary management, but the
+teamwork literature oﬀers a broader range of team process variables that are indicative
+of internal and external collaboration, and that might determine innovation. A team
+level perspective invites research into a range of team process variables such as
+information elaboration, team reﬂexivity and self-management (e.g. Eisenbeiss, Van
+Knippenberg, and Boerner 2008; Hülsheger, Anderson, and Salgado 2009; Morgeson,
+DeRue, and Karam 2010). Despite some notable recent studies (Vashdi 2013;
+Groeneveld and Kuipers 2014; Van der Hoek, Groeneveld, and Kuipers 2018; Van
+Zijl et al. 2019), an explicit emphasis on teamwork is relatively absent in the public
+management literature. Future work on collaborative governance on the meso-level
+can utilize such teamwork concepts in order to provide a broader understanding of
+internal and external collaboration in multidisciplinary teams.
+Second, our study provides empirical evidence of the relationship between visionary
+leadership and team innovation, and in particular of the mechanisms through which
+visionary leadership is related to team innovation. General management research on
+visionary leadership has mostly emphasized the individual level of analysis (Stam et al.
+2014, 1173). Van Knippenberg and Stam (2014) observed in their critical description of
+the visionary leadership literature that mediating mechanisms between visionary
+leadership and outcomes are seldom studied. In our study, we identify team cohesion
+is such a mediating mechanism on the group level. Our result that the relationship
+between visionary leadership and team innovation should be understood as an indirect
+relationship is also reﬂective of arguments in the collaborative governance literature
+that a vision may facilitate goal alignment between a diverse range of actors, through
+which innovation is able to ﬂourish. Our study indicates that the relationship between
+visionary leadership and team innovation occurs through team-level processes. The
+vision of the team leader unites the team members by creating shared understanding
+which in turn helps the team to innovate their service provision and processes.
+Our result that team cohesion mediates the relationship between visionary leadership
+and team innovation informs an apparent paradox about the role of leadership in public
+sector innovation: ‘heroic’, leader-centric perspectives such as visionary leadership are
+critiqued in favour of more distributive and integrative leadership perspectives, while the
+potential beneﬁts of inclusive, shared visions for collaboration are also emphasized in the
+literature (Crosby, ‘t Hart and Torﬁng 2017). Our view, supported by the results of our
+study, is that while visionary leadership may concern the behaviour of a singular, formal
+supervisor of a collective, its inﬂuence on innovation is dependent on vision pursuit by the
+collective of followers. Visions are not concrete implementable innovations, but merely
+provide followers with a shared frame of reference through which they jointly pursue
+innovation. Visionary leadership, then, does not resemble the lone ‘hero-innovator’ that
+creates innovation single-handedly (Meijer 2014), but rather represents an inﬂuencing
+process that may be initiated by the leader but is ultimately dependent on the vision
+internalization and vision pursuit of followers (Stam et al. 2014; Venus, Stam, and Van
+Knippenberg. 2019). Similar to recent research that shows how the potential impacts of
+transformational leadership may be constrained by the value congruence between leader
+and individual followers (Jensen, Andersen, and Jacobsen 2019), our study is in accordance
+with an emerging line of research that underlines not only the potential but also the limits of
+leadership behaviour in a public sector context.
+In our study, we do not ﬁnd empirical evidence of a positive relationship between
+team boundary management and team innovation. Both generic management
+1288
+J. VAN DER VOET AND B. STEIJN
+(Laursen and Salter 2006) as well as public management research (Hartley, Sørensen,
+and Torﬁng 2013) have oﬀered compelling arguments for the potentials of external
+collaboration for innovation. In recent issues of Public Management Review, in parti-
+cular, authors have presented external collaboration as a promising mode for devel-
+oping public sector innovations (Torﬁng 2019), but have also highlighted blind spots
+and limitations of collaborative innovation research (Wegrich 2019). We follow
+Wegrich (2019, 18) in arguing that future research should move on from studying
+whether external collaboration increases innovation, to studies that illuminate what
+situational circumstances strengthen or impede the relationship between collaboration
+and innovation. Although not its primary focus, our study oﬀers some starting points
+on theorization regarding the boundary conditions of external collaboration.
+A ﬁrstvariable of interest concernsorganizationalheterogeneity, whichis very presentin
+the multidisciplinary teams that we studied. The main argument for collaborative innova-
+tion is that a greater diversity of experiences, skills and knowledge increases the potential for
+innovations to be generated and implemented (Torﬁng 2019). The social welfare teams that
+we studied in this research are because of their heterogeneity characterized by such
+a richness of information, possibly reducing the potential contribution of involving external
+actors in bringing about innovation. This suggests that the added value of external
+collaboration is contingent on the diversity of resources that are already present internally.
+A second variable of interest is the degree of professionalization. Social welfare workers are
+highly professionalized. Diﬀerences in professional backgrounds between team members
+and external actors may result in clash between norms and values (Liao et al. 2015), which
+prevents the information exchange and mutual learning which is required for innovation
+(Mitchell and Boyle 2015). A third variable is team or organizational maturity. Our study
+took place in a setting with newly-formed teams facing mounting workloads. In such teams,
+a scarcity of time and attention may prevent collaboration with external actors from
+developing into joint innovative solutions. For instance, the study by Andersson and Liﬀ
+(2012) suggests that multi-professional collaboration can be impeded when professionals
+have not yet established internal team routines for collaboration.
+This article has relied on longitudinal, quantitative data to investigate team innovation.
+Through our research design (e.g. multisource data, aggregation from the individual level to
+team level), we have attempted to overcome concerns for common-source bias (George and
+Pandey 2017; Favero and Bullock 2014), although issues of endogeneity remain (Jensen,
+Andersen, and Jacobsen 2019). A limitation to the generalizability of our ﬁndings across
+speciﬁc policy domains in the public sector is that teams in a particular policy domain were
+studied. Nevertheless, although social welfare teams are not reﬂective of the wide range of
+teams that exist in the public sector, these teams share many contextual features that are
+commonly attributed to the public sector, such as high degrees of goal ambiguity and task
+complexity, high levels of red tape, and strict professional norms and prosocial motivation
+(O’Toole and Meier. 2014). Finally, our measure of team innovation is a general measure
+and does not inform diﬀerent types of innovation. In this respect, it must be noted that our
+measurement of team innovation does not make a clear distinction between incremental
+and radical innovation. Future research can consider utilizing the typologies such as
+exploitative and explorative innovation or incremental and radical innovation to inform
+the type of innovation that is spurred through visionary leadership (e.g. Gieske et al. 2019).
+Our results guide policy makers and public managers in making collaborative
+governance arrangements at the meso-level work in practice. Multidisciplinary teams
+that operate in concert with a broad range of external actors possess the potential to
+PUBLIC MANAGEMENT REVIEW
+1289
+create public value through the development and implementation of innovations.
+However, merely organizing a diverse range of professionals into a team is not
+suﬃcient to reap its innovative potential. Our study indicates that team innovation
+of multidisciplinary teams is contingent on their internal cohesion, and shows in turn
+that visionary leadership is a means to strengthen team cohesion.
+Whereas policy makers in The Netherlands have begun to introduce structural reforms
+as the intended solutions for limited collaboration, our analysis shows that that vision
+communication may be an alternative – and potentially less disruptive – manner of
+fostering collaboration across institutional, organizational and disciplinary divides. The
+development of visionary leadership capacity on the team leader level should therefore be
+ﬁrmly on the agenda of policy makers and public managers. Such eﬀorts can focus on vision
+content by uncovering what characteristics of visions prove especially eﬀective as a shared
+frame of reference across disciplinary and organizational boundaries, as well as the inter-
+personal skills that facilitate the process of eﬀective vision development and communica-
+tion. In collaboration with public management researchers, practitioners must seek to
+strengthen innovation in multidisciplinary teams by developing the vision content and
+vision process of team leaders. However, in doing so they should be aware of the potential
+dark side of visionary leadership. As noted by Ateş et al. (2018), strengthening visionary
+leadership at the team level should coincide with alignment between visions at the team
+level and the strategic goals of the organization at large.
+Note
+1. As a robustness check for the test of hypotheses 2 and 3, a separate structural model was
+estimated in which team cohesion was omitted and team boundary management functions as
+the sole mediating variable. Similar to the results reported in Table 5, the relationship between
+team boundary management (T1) and team innovation (T1) is not statistically signiﬁcant. This
+strengthens the evidence that team boundary management does not mediate the relationship
+between visionary leadership and team innovation.
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+Notes on contributors
+Joris van der Voet is assistant professor of Public Management at the Institute of Public Administration.
+Leiden University. His research activities are directed at management and leadership behaviour of
+decision-makers during organizational change in the public sector.
+Bram Steijn is professor of Human Resource Management in the public sector at the Department of
+Public Administration, Erasmus University Rotterdam. His research interests are strategic HRM in
+public organizations and employee motivation.
+ORCID
+Joris van der Voet
+http://orcid.org/0000-0002-3945-5972
+Bram Steijn
+http://orcid.org/0000-0001-7437-7503
+1290
+J. VAN DER VOET AND B. STEIJN
+References
+Ancona, D. G. 1990. “Outward Bound: Strategies for Team Survival in an Organization.” Academy of
+Management Journal 33: 334–365. doi:10.5465/256328.
+Ancona, D. G., and D. F. Caldwell. 1992. “Bridging the Boundary: External Activity and
+Performance in Organizational Teams.” Administrative Science Quarterly 37 (4): 634–665.
+doi:10.2307/2393475.
+Anderson, J. C., and D. W. Gerbing. 1988. “Structural Equation Modeling in Practice: A Review and
+Recommended Two-step Approach.” Psychological Bulletin 103 (3): 411–423. doi:10.1037/0033-
+2909.103.3.411.
+Andersson, T., and R. Liﬀ. 2012. “Multiprofessional Cooperation and Accountability Pressures:
+Consequences of a Post-new Public Management Concept in a New Public Management
+Context.” Public Management Review 14 (6): 835–855. doi:10.1080/14719037.2011.650053.
+Ansell, C., and A. Gash. 2008. “Collaborative Governance in Theory and Practice.” Journal of Public
+Administration Research and Theory 18 (4): 543–571. doi:10.1093/jopart/mum032.
+Ateş, N. Y., M. Tarakci, J. P. Porck, D. van Knippenberg, and P. J. Groenen. 2018. “The Dark Side of
+Visionary Leadership in Strategy Implementation: Strategic Alignment, Strategic Consensus, and
+Commitment.” Journal of Management. doi:10.1177%2F0149206318811567.
+Bass, B. M., B. J. Avolio, D. I. Jung, and Y. Berson. 2003. “Predicting Unit Performance by Assessing
+Transformational and Transactional Leadership.” Journal of Applied Psychology 88 (2): 207–218.
+doi:10.1037/0021-9010.88.2.207.
+Beal, D., J. Robin Cohen, M. J. Burke, and C. L. McLendon. 2003. “Cohesion and Performance in
+Groups: A Meta-analytic Clariﬁcation of Construct Relations.” Journal of Applied Psychology 88 (6):
+989–1004. doi:10.1037/0021-9010.88.6.989.
+Bekkers, V., J. Edelenbos, and B. Steijn. 2011. Innovation in the Public Sector. Linking Capacity and
+Leadership. New York: Palgrave Macmillan.
+Bliese, P. D. 1998. “Group Size, ICC Values, and Group-level Correlations: A Simulation.”
+Organizational Research Methods 1: 355–373. doi:10.1177/109442819814001.
+Bliese, P. D., and R. R. Halverson. 1998. “Group Size and Measures of Group-level Properties: An
+Examination of Eta-squared and ICC Values.” Journal of Management 24 (2): 157–172.
+doi:10.1177/014920639802400202.
+Bollen, K. A., and L. J. Scott. 1992. “Tests for Structural Equation Models: Introduction.” Sociological
+Methods & Research 21 (2): 123–131. doi:10.1177/0049124192021002001.
+Bryson, J. M., B. C. Crosby, and L. Bloomberg. 2014. “Public Value Governance: Moving beyond
+Traditional Public Administration and the New Public Management.” Public Administration
+Review 74 (4): 445–456. doi:10.1111/puar.12238.
+Bryson, J. M., B. C. Crosby, and M. M. Stone. 2015. “Designing and Implementing Cross-sector
+Collaborations: Needed and Challenging.” Public Administration Review 75 (5): 647–663.
+doi:10.1111/puar.12432.
+Caldwell, N. D., J. K. Roehrich, and G. George. 2017. “Social Value Creation and Relational
+Coordination in Public-private Collaborations.” Journal of Management Studies 54 (6): 906–928.
+doi:10.1111/joms.2017.54.issue-6.
+Carless, S. A., and C. De Paola. 2000. “The Measurement of Cohesion in Work Teams.” Small Group
+Research 31 (1): 71–88. doi:10.1177/104649640003100104.
+Christensen, T., and P. Lægreid. 2007. “The Whole-of-government Approach to Public Sector
+Reform.” Public Administration Review 67 (6): 1059–1066. doi:10.1111/puar.2007.67.issue-6.
+Cohen, S. G., and D. E. Bailey. 1997. “What Makes Teams Work: Group Eﬀectiveness Research from
+the Shop Floor to the Executive Suite.” Journal of Management 23 (3): 239–290. doi:10.1177/
+014920639702300303.
+Crosby, B. C., and J. M. Bryson. 2005. “A Leadership Framework for Cross-sector Collaboration.”
+Public Management Review 7 (2): 177–201. doi:10.1080/14719030500090519.
+Crosby, B. C., and J. M. Bryson. 2010. “Integrative Leadership and the Creation and Maintenance of
+Cross-sector
+Collaborations.”
+The
+Leadership
+Quarterly
+21
+(2):
+211–230.
+doi:10.1016/j.
+leaqua.2010.01.003.
+Crosby, B. C., P. ‘t Hart, and J. Torﬁng 2017. “Public value creation through collaborative innovation.”
+Public Management Review 19 (5): 655–669. doi:10.1080/14719037.2016.1192165
+PUBLIC MANAGEMENT REVIEW
+1291
+De Dreu, C. K. W. 2006. “When Too Little or Too Much Hurts: Evidence for a Curvilinear
+Relationship between Task Conﬂict and Innovation in Teams.” Journal of Management 32 (1):
+83–107. doi:10.1177/0149206305277795.
+Eisenbeiss, S. A., D. Van Knippenberg, and S. Boerner. 2008. “Transformational Leadership and Team
+Innovation: Integrating Team Climate Principles.” Journal of Applied Psychology 93 (6): 1438.
+doi:10.1037/a0012716.
+Favero, N., and J. B. Bullock. 2014. “How (Not) to Solve the Problem: An Evaluation of Scholarly
+Responses to Common Source Bias.” Journal of Public Administration Research and Theory 25 (1):
+285–308. doi:10.1093/jopart/muu020.
+Fornell, C., and D. F. Larcker. 1981. “Evaluating Structural Equation Models with Unobservable
+Variables and Measurement Error.” Journal of Marketing Research 18 (1):39–50. doi:10.1177/
+002224378101800104.
+George, B., and S. K. Pandey. 2017. “We Know the Yin—But Where Is the Yang? Toward a Balanced
+Approach on Common Source Bias in Public Administration Scholarship.” Review of Public
+Personnel Administration 37 (2): 245–270. doi:10.1177/0734371X17698189.
+Gerbing, D. W., and J. C. Anderson. 1984. “On the Meaning of Within-Factor Correlated
+Measurement Errors.” Journal of Consumer Research 11 (1): 572–580. doi:10.1086/208993.
+Gieske, H., B. George, I. van Meerkerk, and A. van Buuren. 2019. “Innovating and Optimizing in
+Public Organizations: Does More Become Less?.” Public Management Review 22 (4): 475–497.
+Groeneveld, S., and B. S. Kuipers. 2014. “Teamwork in the Public Cage: Antecedents of
+Self-management of Teams in Public Organizations.” Academy of Management Proceedings 2014
+(1). doi:10.5465/AMBPP.2014.12064
+Hartley, J., E. Sørensen, and J. Torﬁng. 2013. “Collaborative Innovation: A Viable Alternative to
+Market Competition and Organizational Entrepreneurship.” Public Administration Review 73 (6):
+821–830. doi:10.1111/puar.2013.73.issue-6.
+Hooper, D., J. Coughlan, and M. Mullen. 2008. “Structural Equation Modelling: Guidelines for
+Determining Model Fit.” Electronic Journal of Business Research Methods 6 ((1)): 53–60.
+Hülsheger, U. R., N. Anderson, and J. F. Salgado. 2009. “Team-level Predictors of Innovation at Work:
+A Comprehensive Meta-analysis Spanning Three Decades of Research.” Journal of Applied
+Psychology 94 (5): 1128. doi:10.1037/a0015978.
+Jensen, U. T., L. B. Andersen, and C. B. Jacobsen. 2019. “Only When We Agree! How Value
+Congruence Moderates the Impact of Goal-Oriented Leadership on Public Service Motivation.”
+Public Administration Review 79 (1): 12–24. doi:10.1111/puar.13008.
+Jensen, U. T., L. B. Andersen, L. L. Bro, A. Bøllingtoft, E. Tine L.M., A.-L. Holten, and W. Allan. 2019.
+“Conceptualizing and Measuring Transformational and Transactional Leadership.” Administration
+& Society 51 (1): 3–33. doi:10.1177/0095399716667157.
+Kivleniece, I., and B. Quelin. 2012. “Creating and Capturing Value in Public-private Ties: A Private
+Actor’s Perspective.” Academy of Management Review 37: 272–299. doi:10.5465/amr.2011.0004.
+Kline, R. B. 2005. Principles and Practice of Structural Equation Modeling. 2nd ed. New York: Guilford
+Press.
+Laursen, K., and A. Salter. 2006. “Open for Innovation: The Role of Openness in Explaining
+Innovation Performance among UK Manufacturing Firms.” Strategic Management Journal 27
+(2): 131–150. doi:10.1002/()1097-0266.
+Liao, J., A. T. O’Brien, N. L. Jimmieson, and S. L. D. Restubog. 2015. “Predicting Transactive Memory
+System in Multidisciplinary Teams: The Interplay between Team and Professional Identities.”
+Journal of Business Research 68 (5): 965–977. doi:10.1016/j.jbusres.2014.09.024.
+Marrone, J. A. 2010. “Team Boundary Spanning: A Multilevel Review of past Research and Proposals
+for the Future.” Journal of Management 36 (4): 911–940. doi:10.1177/0149206309353945.
+Mathieu, J. M., T. Maynard, T. Rapp, and L. Gilson. 2008. “Team Eﬀectiveness 1997-2007: A Review of
+Recent Advancements and A Glimpse into the Future.” Journal of Management 34 (3): 410–476.
+doi:10.1177/0149206308316061.
+Meijer, A. J. 2014. “From Hero-Innovators to Distributed Heroism: An In-Depth Analysis of the Role
+of Individuals in Public Sector Innovation.” Public Management Review 16 (2): 199–216.
+doi:10.1080/14719037.2013.806575.
+Mitchell, R., and B. Boyle. 2015. “Professional Diversity, Identity Salience and Team Innovation: The
+Moderating Role of Openmindedness Norms.” Journal of Organizational Behavior 36 (6): 873–894.
+doi:10.1002/job.v36.6.
+1292
+J. VAN DER VOET AND B. STEIJN
+Moore, M., and J. Hartley. 2008. “Innovations in Governance.” Public Management Review 10 (1):
+3–20. doi:10.1080/14719030701763161.
+Morgeson, F. P., S. S. DeRue, and E. P. Karam. 2010. “Leadership in Teams: A Functional Approach to
+Understanding Leadership Structures and Processes.” Journal of Management 36 (1): 5–39.
+doi:10.1177/0149206309347376.
+Mumford, M. D., G. M. Scott, B. Gaddis, and J. M. Strange. 2002. “Leading Creative People:
+Orchestrating Expertise and Relationships.” Leadership Quarterly 13 (6): 705–750. doi:10.1016/
+S1048-9843(02)00158-3.
+Nowak, S. J., C. C. M. Molema, C. Baan, S. J. Oosting, P. H. Lenneke Vaandrager, and S. R. De Bruin. 2015.
+“Decentralisation of Long-term Care in the Netherlands: The Case of Day Care at Green Care Farms for
+People with Dementia.” Ageing & Society 35 (4): 704–724. doi:10.1017/S0144686X13000937.
+O’Toole, L. J., and K. J. Meier. 2014. “Public Management, Context, and Performance: In Quest of
+a More General Theory.” Journal of Public Administration Research and Theory 25 (1): 237–256.
+doi:10.1093/jopart/muu011.
+Salas, E., R. Grossman, A. Hughes, and C. W. Coultas. 2015. “Measuring Team Cohesion: Observations
+from the Science.” Human Factors 57 (3): 365–374. doi:10.1177/0018720815578267.
+Somech, A., and A. Drach-Zahavy. 2013. “Translating Team Creativity to Innovation Implementation:
+The Role of Team Composition and Climate for Innovation.” Journal of Management 39 (3):
+684–708. doi:10.1177/0149206310394187.
+Sørensen, E., and J. Torﬁng. 2011. “Enhancing Collaborative Innovation in the Public Sector.”
+Administration & Society 43 (8): 842–868. doi:10.1177/0095399711418768.
+Stam, D., R. G. Lord, D. V. Knippenberg, and B. Wisse. 2014. “An Image of Who We Might Become:
+Vision Communication, Possible Selves, and Vision Pursuit.” Organization Science 25 (4):
+1172–1194. doi:10.1287/orsc.2013.0891.
+Thayer, A. L., A. Petruzzelli, and C. E. McClurg. 2018. “Addressing the Paradox of the Team
+Innovation Process: A Review and Practical Considerations.” American Psychologist 73 (4): 363–
+375. doi:10.1037/amp0000310.
+Torﬁng, J. 2019. “Collaborative Innovation in the Public Sector: The Argument.” Public Management
+Review 21 (1): 1–11. doi:10.1080/14719037.2018.1430248.
+Torﬁng, J., and P. Triantaﬁllou, eds.. 2016. Enhancing Public Innovation by Transforming Public
+Governance. Cambridge: Cambridge University Press.
+Van der Hoek, M., S. Groeneveld, and B. S. Kuipers. 2018. “Goal Setting in Teams: Goal Clarity and
+Team Performance in the Public Sector.” Review of Public Personnel Administration 38 (4):
+472–493. doi:10.1177/0734371X16682815.
+Van der Vegt, G. S., and J. S. Bunderson. 2005. “Learning and Performance in Multidisciplinary
+Teams: The Importance of Collective Team Identiﬁcation.” Academy of Management Journal 48
+(3): 532–547. doi:10.5465/amj.2005.17407918.
+Van Knippenberg, D., and D. Stam. 2014. “Visionary Leadership.” In The Oxford Handbook of
+Leadership and Organizations, edited by D. D. Vay, 241–259, Oxford: Oxford University Press.
+Van Knippenberg, D., and S. B. Sitkin. 2013. “A Critical Assessment of Charismatic—transformational
+Leadership Research: Back to the Drawing Board?” The Academy of Management Annals 7 (1):
+1–60. doi:10.5465/19416520.2013.759433.
+Van Zijl, A. L., B. Vermeeren, F. Ferry Koster, and B. Steijn. 2019. “Towards Sustainable Local Welfare
+Systems: The Eﬀects of Functional Heterogeneity and Team Autonomy on Team Processes in Dutch
+Neighbourhood Teams.” Health &social Care in the Community 27 (1): 82–92. doi:10.1111/hsc.12604.
+Vashdi, D. R. 2013. “Teams in Public Administration: A Field Study of Team Feedback and
+Eﬀectiveness in the Israeli Public Healthcare System.” International Public Management Journal
+16 (2): 275–306. doi:10.1080/10967494.2013.817255.
+Venus, M., D. Stam, and D. van Knippenberg. 2019. “Visions of Change as Visions of Continuity.”
+Academy of Management Journal 62 (3): 667–690. doi:10.5465/amj.2015.1196.
+PUBLIC MANAGEMENT REVIEW
+1293
+Wegrich, K. 2019. “The Blind Spots of Collaborative Innovation.” Public Management Review 21 (1):
+12–20. doi:10.1080/14719037.2018.1433311.
+West, M. A., and J. L. Farr. 1990. “Innovation at Work.” In Innovation and Creativity at Work:
+Psychological and Organizational Strategies, edited by M. A. West and J. L. Farr, 3–13. Chichester:
+Wiley.
+Appendix. Measurement scales
+Visionary leadership (Jensen, Andersen, Bro, et al. 2019)
+My team leader . . .
+(1) Concretizes a clear vision for the team’s future.*
+(2) Makes a continuous eﬀort to generate enthusiasm for the team’s vision.
+(3) Has a clear sense of where our team should be in ﬁve years.
+(4) Strives to get the team to work together in the direction of the vision.
+(5) Strive to clarify for the team members how they can contribute to achieve the team’s goals.
+Team cohesion (Carless and De Paola 2000)
+(1) In my neighbourhood team, we are united in trying to reach our goals for team performance.
+(2) In my neighbourhood team, we take our responsibilities for setbacks or poor team performance.
+(3) In my neighbourhood team, we help each other to perform the tasks.
+(4) In my neighbourhood team, we get along well together.
+(5) In my neighbourhood team, we trust each other.*
+Team boundary management (Ancona and Caldwell 1992)
+(1) My team members make contact with relevant stakeholders in the neighbourhood (like the police,
+general practitioners, housing corporations and welfare authorities).
+(2) My team members inform relevant stakeholders in the neighbourhood (like the police, general
+practitioners, housing corporations and welfare authorities) about the working methods of our team.
+(3) My team members proactively ask relevant stakeholders in the neighbourhood (like the police,
+general practitioners, housing corporations and welfare authorities) for advice and support.
+(4) My team members convince relevant stakeholders in the neighbourhood (like the police, general
+practitioners, housing corporations and welfare authorities) that the team’s activities are
+important.
+(5) My team members keep relevant stakeholders in the neighbourhood (for example, the police, the
+general practitioner, housing corporations and welfare authorities) informed of our team’s
+activities.*
+Team innovation (De Dreu 2006)
+(1) Team members often implement new ideas to improve the quality of our products and services.
+(2) This team gives little consideration to new and alternative methods and procedures for doing
+their work. (reverse coded)*
+(3) Team members often produce new services, methods, or procedures.
+(4) This is an innovative team.
+* indicates item was removed from the analysis based on the Conﬁrmatory Factor Analysis.
+1294
+J. VAN DER VOET AND B. STEIJN
