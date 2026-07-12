@@ -38,6 +38,7 @@ When the user asks you to "run the pipeline" or "파이프라인 돌려", you mu
   - **Beware of Title Keywords:** Words like *"Interorganizational"*, *"Selling Organizations"*, or *"Modelling"* in titles DO NOT automatically mean Macro or Conceptual.
   - **Mandatory Sample Verification:** You must explicitly open and check the abstract/methodology to verify whether the study collected quantitative survey data from individual organizational employees (e.g., $N=225$ sales representatives, frontline staff, bank managers).
   - **Protect Pristine Empirical Studies:** If a study reports individual employee boundary spanning behavior and statistical effect sizes ($r$), it MUST BE SAVED AND INCLUDED (`1 = Include`), overriding any surface keyword heuristics.
+- **Verbatim Quote Injection for ALL Judgments (Maximum Evidence):** Whenever a paper is judged (Include or Exclude), you MUST extract verbatim evidence. Do not stop at the first quote. Read the entire PDF and collect the maximum evidence possible from multiple sections (e.g., Abstract, Participants, Measures) to robustly prove the sample type or exclusion reason. Use brackets to indicate the section: `[Reason summary]. Verbatim Evidence: "[Section 1] <exact quote 1>" [Section 2] "<exact quote 2>"`. For Includes, quote the sample description proving they are organizational employees.
 
 ## 6. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this pipeline, you must remember:
