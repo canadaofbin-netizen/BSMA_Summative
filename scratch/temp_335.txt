@@ -1,0 +1,1058 @@
+The effects of relationship
+bonds on bank employees ’
+psychological responses and
+boundary-spanning behaviors
+An empirical examination of the JD –R model
+Myoung-Soung Lee
+Department of Food Franchise Business,
+Kyungnam University, Changwon, South Korea, and
+Sang-Lin Han
+School of Business, Hanyang University, Seoul, South Korea
+Abstract
+Purpose –The purpose of this paper is to examine the effects of relationship bonds on the psychological
+response and behavior of bank employees based on the job demands –resources theory. Specifically, it
+examines the effects of relationship bonds in terms of person –job (P –J) fit, emotional exhaustion, job
+satisfaction and boundary-spanning behaviors, all of which comprise the behavioral dimensions of bankemployees. In addition, the study examines how the resiliency of bank employees influences their emotional
+exhaustion and determines whether a moderating effect related to emotional exhaustion exists.
+Design/methodology/approach –To achieve this aim, data were collected from 365 customer-facing
+banking employees in South Korea. Reliability, validity and the hypotheses were verified through structural
+equation modeling; any moderating effects were identified using the bootstrap method and the process model.
+Findings –Study results showed that financial, structural, internal social and external social bonds –the
+bonds pertaining to relationship elements –have positive effects on P –J fit. P –J fit influenced emotional
+exhaustion negatively and job satisfaction positively. Furthermore, emotional exhaustion negativelyinfluenced job satisfaction. Job satisfaction had positive effects on service delivery, external representation
+and internal influence, the elements comprising boundary-spanning behavior. Finally, resiliency was shown
+to lower emotional exhaustion but revealed no moderating effect.Originality/value –First, this study examined relationship bonds, which reference relationship marketing
+when introducing organizational resources that influence the psychological and behavioral responses of bank
+employees. Second, this study introduced resiliency as a personal resource and clarified the way it applies toan individual ’s psychological response. Third, existing literature has been limited to conducting fragmented
+research of the psychological factors that intervene in predisposing factors and job outcomes. This study
+makes a unique contribution by establishing a psychological response process.
+Keywords P–J fit, Job satisfaction, Emotional exhaustion, JD –R model, Boundary-spanning behaviour,
+Relationship bonds
+Paper type Research paper
+1. Introduction
+Over the last decade, one major interest in the research field of the banking and financial
+industry has been an examination of employee perceptions and attitudes. Bank employees
+serve as boundary spanners, in that they connect the organization and its customers
+(Sengupta et al., 2015), and their responses to customers determine the quality of the service
+that is perceived by customers (Yoo and Jung, 2019). Thus, all bank organizations should
+understand the perceptions and attitudes of employees from the level of accomplishing
+management goals and provide support to ensure that employees can play this role
+effectively (Kaur, 2015). For this reason, an investigation into employees ’perceptions from
+the perspective of the general bank environment is necessary (Yoo and Jung, 2019).International Journal of Bank
+Marketing
+Vol. 38 No. 3, 2020
+pp. 578-599
+© Emerald Publishing Limited
+0265-2323
+DOI 10.1108/IJBM-12-2018-0358Received 31 December 2018
+Revised 23 July 201920 September 2019Accepted 29 September 2019The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com /0265-2323.htm
+578IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Examinations conducted by previous studies on bank employees have important research
+gaps. First, until now, studies have presumed that individual and organizational resources
+were distal determinants that influence job behaviors and outcomes (Sengupta et al., 2015) and
+have identified that the variables aligned with bank employees ’psychological and emotional
+states intervene between resource factors and job outcomes (Karatepe and Aga, 2016; Yoo and
+Jung, 2019). However, previous studies on bank employees fragmentarily identified a
+psychological mechanism formed between the resource factors and the job outcomes; thus,
+they provide only limited understanding.
+Second, previous studies have examined organizational resources relevant to bank
+employees with a focus on the single domain factors for performance improvement, such as
+training and service technology (Sengupta et al. , 2015), coaching (Pousa et al. , 2017) and
+organizational support (Karatepe and Aga, 2016). Studies on individual resources have
+focused on investigating the characteristics related to bank employees ’tasks, such as service
+orientation (Yoo and Jung, 2019), customer orientation (Sengupta et al., 2015; Yoo, 2016) and
+sales orientation (Pousa et al., 2018). However, since the factors serving as resources for bank
+employees are vast and diverse (Bakker et al. , 2004), it is important to diagnose the
+mechanisms related to individual- and organization-level resources present in domains other
+than that of the work process; meanwhile, the corresponding related knowledge is scarce
+(Karatepe et al., 2019).
+This study was conducted to supplement the gap left by previous research in the bank
+industry. Specifically, it explored the role of “relationship bonds, ”a strategy through which
+relationships are formed by perceiving bank employees as internal customers in terms of
+organizational resources. Relationship bonds constitute a determinant that improves
+relationship performance and is revealed by an employees ’job attitude and level of behavior
+(Lee et al. , 2019). In addition, resiliency was examined as a personal resource for bank
+employees. Resiliency is a universal personal psychological trait that can strengthen the
+ability of an employee to control him or herself in stressful situations (Luthans et al., 2006;
+Krush et al., 2013), but no study related to resiliency has been conducted on bank employees.
+Next, the relationship between relationship bonds and boundary-spanning behaviors,
+which is a major role for bank employees (in particular, the psychological response process
+comprising person –job (P –J) fit, emotional exhaustion and job satisfaction), was examined
+and the effects of resiliency on the psychological response process were explored. To this
+end, the hypotheses and research model used in this study were developed and evaluated
+based on the job demands –resources ( JD –R) model and previous studies. The JD –R model
+explains how diverse factors that apply to individuals emerge as organizational outcomes
+through job strain or psychological processes related to motivation. The model, which
+illustrates a theory that was developed through the integration of previous studies and
+theories to explain personal behaviors on the job, can be applied to an extensive array of
+jobs and working environments (Bakker and Demerouti, 2007) and a number of studies
+support the JD –R model ’s process (Lazauskaite-Zabielske et al., 2018; Hu et al., 2016; Schmitz
+and Ganesan, 2014).
+This study ’s contributions to existing bank marketing are as follows: first, it examined
+relationship bonds reflecting the concept of relationship marketing when introducing
+organizational resources that influence the psychological and behavioral responses of bank
+employees. Previous studies on relationship marketing emphasize the importance of the
+relationship between an organization and its members but lack empirical evidence in an
+academic context. This study contributed to an expansion of literature by suggesting
+empirical evidence showing that relationship bonds elicit positive behavior through the
+psychological response of bank employees.
+Second, this study introduced resiliency as a pe rsonal resource and identified the way it
+applies to the employee psychological response. Resiliency, the personal ability to recover from579Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026stress (Masten and Reed, 2002), is an importan t characteristic for bank employees, who
+frequently experience stressful situations when interacting with customers. This study expanded
+the knowledge related to the personal resour ces of bank employees by examining resiliency.
+Third, existing literature has only focused on conducting fragmented research focused
+on determining which psychological factors intervene in the predisposing factors and job
+outcomes; this study is unique, as it established the psychological response process. Thus,
+this study provided an expanded understanding of the psychological mechanism that is
+formed between resource factors and job outcomes.
+2. Theoretical background
+2.1 The JD –R model
+The JD –R model has been designed to describe how burnout and engagement are generated
+in employees. The key to the JD –R model is the assumption that specific elements that can
+be classified into job demands and resources exist (Bakker and Demerouti, 2007; Demerouti
+et al. , 2001; Zablah, Chonko, Bettencourt, Allen and Haas, 2012).
+Job demands are related to physical, social, mental and organizational aspects, and
+require continuous efforts for job perfor mance. Furthermore, when satisfactory
+compensations are not provided, employees ’emotional state is negatively influenced or
+stressful elements are created. Conversely, job resources reduce the efforts needed for job
+demands and lower the physical and psychological costs. In addition, the resources support
+employees ’ability to achieve their job objectives and can enable them to grow in their role,
+learn and generate other positive developments (Demerouti et al., 2001). In this study, which
+expanded the JD –R model, resources related to the job and the personal resources related to
+individual characteristics were shown to exist and effects of resources on emotions were
+demonstrated (Bakker and Demerouti, 2008).
+Bakker and Demerouti (2007) stated that two types of psychological processes occur
+within the JD –R model. The first is related to strain. Job demands prompt strain in job
+situations and lead to negative organizational performance. The second is the motivationalprocess. Job resources lead to motivation and help employees accomplish positive outcomes.
+In addition to these two psychological processes, job demands and resources generate a
+buffer effect toward the motivational and strain processes, respectively. Thus, the effects of
+job demands and resources are reduced in each process. Identifying the elements that
+constitute the resources in a work environment can be useful in managing the psychological
+and emotional states of bank employees. Therefore, it is important to examine the resources
+related to a job and the personal resources.
+2.2 Relationship bonds
+Relationship marketing is related to all marketing activities that successfully establish,
+develop and maintain relational exchange (Morgan and Hunt, 1994). The term “relationship
+marketing ”was first mentioned by Berry (1983, p. 25) in the service literature and was
+defined as that which induces, maintains and improves customer relationships in multi-
+service organizations (Hunt et al., 2006). The initial purpose of relationship marketing was to
+maintain the commitment relationship between customers and organizations (Hsieh et al. ,
+2005) and has been drawing attention in marketing theory and practice as an effective
+strategy for organizations to use in forming, maintaining and enhancing its customer
+relationships (Ward and Dagger, 2007; Huang, 2008). Although the early form of
+relationship marketing focused on the context of the relationship between organizations and
+customers (Hsieh et al., 2005), relationship marketing has been expanded to strengthen the
+relationship between organizations and employees owing to their significant role in the
+relationship between organizations and their customers (Wang, 2014). A previous study580IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026mentioned that economic, physical and psychological attachments develop due to the
+interactions through relational exchanges. Similarly, the relationship bonds resulting due to
+diverse relationships are mainly divided into financial, structural and social bonds (Liang
+and Chen, 2009; Wang, 2014).
+Financial bond is the basis of the relationship bonds used by organizations to form
+relationships with customers, which strengthens relationships with customers by offering
+economic benefits. This refers to the formation of relationships resulting from the provision
+of economic benefits, such as discounts and incentives (Hsieh et al. , 2005; Lin et al. , 2003).
+The financial bond, which aims to guarantee customer loyalty based on economic benefits,
+is the most basic strategy for forming relationships compared to other types ofrelationshipbonds (Berry, 1995; Berry and Parasuraman, 1991). Financial bonds are related
+to the economically dependent aspects of various relationships. From the perspective of a
+bank employee, financial bonds are related to the efforts of the bank organization to satisfy
+the financial aspect through economic incentives, such as wages (Wang, 2014). In other
+words, the financial bonds of employees are actualized based on their wage level. When
+other organizations provide higher wages and economic support, maintaining the financial
+bonds with their organization becomes difficult. Providing economic benefits leads
+employees to immerse themselves in the organization (Melancon et al. , 2011). Since the
+employees who are satisfied with their economic compensation feel guilty when they leave
+the organization, their intention to maintain the relationship becomes stronger (Wang, 2014).
+Structural bonds create a customization value for customers (Chiu et al. , 2007). The
+customization value appears in two main cases. First, it appears when the relationship withcustomers has been strengthened by the company ’s valuable services, which are difficult to
+obtain from other sources, and in resolving the problems of customers. When customers
+receive valuable services, it allows them to become more productive and effective by
+offering a comprehensive set of services. It also references the provision of innovative
+products or services tailored to the demands of customers (Hsieh et al. , 2005). Second,
+structural bonds are formed when authority has been granted in the joint decision making
+that is performed by customers alongside partners. The authority to make decisions in the
+exchange relationships with a partner facilitates the opportunity to generate the
+customization value for customers, and they feel greater satisfaction in their relationships
+owing to the strengthening of structural bonds (Bolton et al. , 2003). When looking at
+structural bonds from the perspective of bank employees, the bank makes an effort to
+implement policy, procedures and programs to design work tailored to individuals and offer
+additional values customized to employee needs. That is, decision making related to
+establishing working hours and adjusting schedules can enhance the customization value
+felt by employees in their role (Wang, 2014).
+Social bonds are connected to positive interpersonal relationships and play a significant
+role in relationship development (Kuenzel and Krolikowska, 2008). In general, social bonds
+refer to the degree of mutual sharing of personal closeness and information in interpersonal
+relationships (Liang and Wang, 2005; Wang, 2014). Bank employees –the boundary
+spanners between the bank organization and its customers –experience interpersonal
+interactions both inside and outside organizations. If organizations assist and allow
+employees to form suitable social relationships, they can make affective and normative
+commitments in their relationship with their organizations (Wang, 2014). In that sense, the
+organizations ’efforts to establish social relationships of employees lead to social bond
+formation. Internal social bonds refer to the efforts of bank organizations to establish and
+maintain relationships between bank employees through communication. Smooth
+communication and the relational exchange process among employees form intimacy and
+result in reliability (Rodríguez and Wilson, 2002); this, in turn, benefits employees in terms of
+both their psychological and emotional states (Wang, 2014).581Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Similar to internal social bonds, external social bonds signify that an organization assists
+in sharing informational and relational value through the employees ’customer interactions,
+through which they maintain their personal intimacy (Biong and Ulvnes, 2011). Personal
+contact should occur when employees physically approach a customer to skillfully deliver
+sale and other relevant services to him or her. In that sense, intimate interaction with
+customers is necessary. Employees and customers understand each other through the
+shared information(Nahapiet and Ghoshal, 1998). Through this process, employees
+can obtain a clearer and more practical confirmation of customer issues. Thus, employees
+can suggest solutions that meet the stated needs of customers and have a positive impact in
+terms of the psychological and emotional dimensions of their role by achieving the
+objectives of their role.
+2.3 The relationship between relationship bonds and P –J fit
+P–J fit pertains to whether the special requirements of individuals and a job coincide. In
+general, such a fit can be identified by determining whether the knowledge, skills and
+abilities of an employee coincide with the requirements of a given job (Kristof-Brown, 2000).
+P–J fit is mainly divided into two types. The first type is the abilities –demand fit, which
+pertains to whether the conditions required to perform a job coincide with the employees ’
+abilities or skills. If they possess the ability to perform the job, employees can perform the
+duties entailed in the role and achieve a high level of performance. The second type is theneeds –supplies fit. This type of fit is achieved when, for example, a job satisfies the wage
+needs of an individual (Yoo, 2013). In the initial research related to P –J fit, two studies –one
+focused on abilities –demand fit and the other on needs –supplies fit –were conducted.
+However, the two types of fit have since been combined into one general concept, which is
+now in use (Cable and Derue, 2002; Scroggins, 2007). The employee seeks to fulfill individual
+needs and then endeavors to perform jobs with a high level of compatibility with his or her
+individual characteristics. Meanwhile, the organization endeavors to seek employees who
+possess the skills and abilities necessary to perform a given job.
+Financial bonds refer to the efforts of bank organizations to stimulate the economic
+satisfaction of employees through economic incentives, such as wages (Wang, 2014). One
+external motive that applies to employees is related to the financial dimension (Melancon
+et al., 2011), which exerts influence on behavior by eliciting the employee ’s emotions (Read,
+2005). Obtaining economic benefits from an organization constitutes a significant motivator
+for employees ( Joseph and Dai, 2010) and is related to their economic reliance on bankorganizations. Thus, bank employees react sensitively when they feel they are receiving
+unfair wages compared to the amount of work that is done (Newman and Sheikh, 2012). On
+the contrary, when the economic stability of employees has been satisfied due to ample
+financial compensation from an organization, the needs –supplies fit is satisfied because the
+need of the individual has also been met.
+Structural bonds refer to efforts, such as adjusting working hours, to process the tasks of
+bank employees in the most convenient and efficient manner and adjust schedules to align
+with their needs. This concept encompasses the job policies, procedures and designs tailored
+to the respective employees (Wang, 2014). Such flexibility in the working system can assist
+employees in immersing themselves in their jobs (Martin and MacDonnell, 2012). Flexibly
+adjusting schedules guide employees to perceive the flexibility as effort on the part of their
+organizations to help them balance work and life. Since employees demand a balancebetween work and life from their organizations, they perceive flexible work schedules as the
+organization ’s effort to take care of its members (Giannikis and Mihail, 2008). Therefore,
+when structural bonds, such as a flexible work schedule, have been satisfied, the P –J fit of
+employees is enhanced since the needs –supplies fit has been satisfied.582IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Internal social bonds refer to the support of an organization, which enables streamlined
+personal intimacy and communication among employees through their interpersonal
+interactions (Liang and Wang, 2005; Wang, 2014). In interpersonal relationships, social bonds
+assist employees in forming an affective commitment (Wang, 2014). Individuals ’wish to
+satisfy their social sense of belonging and relational needs is satisfied when they form social
+bonds within an organization. Moreover, the relational support in a bank organization
+promotes a flow of information and enhances the possibility of resolving any problems arising
+from work (Felício et al., 2014). As such, the abilities or skills of employees improve when they
+perform tasks. This satisfies both the abilities –demands and the needs –supplies fit.
+Finally, external social bonds refer to the support of the bank organization, which enables
+the sharing of relational and informational values with customers based on employee –customer
+interaction (Biong and Ulvnes, 2011). The relationship formation between employees and
+customers plays an integral role in the develop ment of business relationships and is closely
+related to positive interpersonal relationships. Bank employees must prioritize the formation of
+relationships to achieve positive job performance. The relationship that has been established
+through interactions between customers and employees is characterized by mutual trust and
+equality (Bolino et al., 2002) and the two sides can achieve mutual understanding by sharing
+information (Nahapiet and Ghoshal, 1998). Empl oyees can accomplish their job objectives by
+recommending financial products that can reso lve customer issues. The relationships with
+customers are essential in performing employee tasks, which satisfies the abilities –demand fit.
+As such, the following hypotheses are established:
+H1a. Financial bonds will increase the P –J fit of bank employees.
+H1b. Structural bonds will increase the P –J fit of bank employees.
+H1c. Internal social bonds will increase the P –J fit of bank employees.
+H1d. External social bonds will increase the P –J fit of bank employees.
+2.4 The relationships between P –J fit, emotional exhaustion and job satisfaction
+Burnout refers to the emotional response to chronic stress; customer-facing employees who
+regularly deal with customers experience such burnout (Lewin and Sager, 2009). A previous
+study on burnout mentions three types: di minished personal accomplishment,
+depersonalization and emotional exhaustion (Maslach and Jackson, 1981). Diminished
+personal accomplishment signifies a simultaneous reduction in work accomplishment and
+work efficiency. Depersonalization occurs when employees perceive that an important factor
+in their job is uncontrollable and random, and is a dysfunctional response to job-related
+stress. Finally, emotional exhaustion is a response toward job-related stress that appears
+when employees feel emotionally burnt out (Brotheridge and Grandey, 2002; Lewin and
+Sager, 2009). Emotional exhaustion is the key element comprising burnout (Boles et al., 1997)
+and can be applied to extensive and diverse job situations since it is an indicator used to
+evaluate accumulated stress (Gaines and Jermier, 1983).
+P–J fit is related to improving job satisfaction, self-efficacy and an individual ’s positive
+attitude toward his or her job and organization (Lauver and Kristof-Brown, 2001; Saks and
+Ashforth, 2002), and it can have positive effects on the emotional state. When the
+abilities –demand fit dimensions needed by employees to perform tasks are satisfied, the
+difficulties and pressure involved in job performance are diminished. On the contrary, when
+they are not satisfied, the burden experienced by employees related to their job is increased.
+Meanwhile, when an employee ’s individual needs, which are met by his or her job, for the
+needs –supplies fit dimension are not satisfied, he or she will experience difficulties and
+stress. On the contrary, when his or her individual needs and those related to job583Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026performance are both met, the burden of job performance is reduced (Yoo, 2013). Therefore,
+when individual needs are fulfilled in the job dimension, the emotional exhaustion
+employees experience related to their job will diminish and their job satisfaction will
+increase. Thus, the following hypotheses are established:
+H2. P–J fit will reduce the emotional exhaustion of bank employees.
+H3. P–J fit will increase the job satisfaction of bank employees.
+Many studies have demonstrated that emotionall y exhausted employees are dissatisfied with
+their tasks and have negative attitudes ( Karatepe and Tekinkus, 2006; Karatepe et al., 2009;
+Karatepe, 2013). Emotional exhaustion causes a significant physical and psychological burden
+for bank employees (Cordes and Dougherty, 1993) an d they lose interest in their job. That is, the
+employees who experience emotio nal exhaustion are unable to maintain a positive and proactive
+attitude in their job ( Judge and Bono, 2001). In a ddition, since a huge amount of energy is needed
+to resolve the psychological fatigue that stems f rom their emotional exhaustion, their attitude
+t o w a r dt h e i rj o bb e c o m e sn e g a t i v e( H a lbesleben and Buckley, 2004; Perrewé et al., 2004). Based
+on the aforementioned findings, the following hypothesis is proposed:
+H4. Emotional exhaustion will reduce the job satisfaction of bank employees.
+2.5 The effects and the moderating effect of the resiliency regarding emotional exhaustion
+Resiliency refers to the psychological resource through which an individual can overcome
+and recover from diverse stressful situations (Luthar et al., 2000; Tugade and Fredrickson,
+2004). Previous studies explain resiliency as the psychological characteristic of actively
+adjusting and recovering from grave difficulties and hardships in life (Masten and Reed,
+2002). Individuals with high resiliency have been found to derive positive outcomes despite
+the degradation of their health functions and a stressful situation or environment that
+discourages ordinary development (Baumgardner and Crothers, 2009).
+In particular, resiliency is important for bank employees who experience conflict situations.
+High resiliency helps employees r educe job-related stress (Leach et al., 2005) and maintains their
+personal motivation during job performance (Krush et al., 2013). Such resiliency alleviates the
+negative effects from stress that employees have already experienced in job-related situations.
+Meanwhile, employees with high resiliency ca n not only focus on their work by forming and
+maintaining cognitive and sentimental reso urces but also control their stress (Krush et al., 2013).
+In addition, resiliency –the personal resource for re ducing the effects of stress –can control
+emotions (Fredrickson and Joiner, 2002). When co nsidering the fact that the resource dimension
+reduces the psychological costs required in a given job according to the JD –R model, resiliency
+directly lowers emotional exha ustion by reducing employees ’psychological costs (Demerouti
+et al., 2001). In summary, resiliency itself is a person al resource, reduces emotional exhaustion
+and lowers the effects of stress by helping employee make a calm and swift recovery from
+stressful situations. Thus, the following hypotheses are established:
+H5. The resiliency of bank employees will reduce emotional exhaustion.
+H6. As the resiliency of bank employees increases, the effect of P –J fit reducing
+emotional exhaustion will be strengthened.
+H7. As the resiliency of bank employees increases, the effect of emotional exhaustion
+reducing job satisfaction will be weakened.
+2.6 Job satisfaction and boundary-spanning behaviors
+Boundary spanners not only interact with those outside of the organization, such as
+customers, but also influence the employees (Adams, 1976). Boundary-spanning behavior584IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026can be defined as the customer-facing employee behavior performed by employees in the
+role of boundary spanner (Bettencourt et al. , 2001; Chebat and Kollias, 2000). Previous
+studies have mentioned that customer-facing employees play three key boundary spanner
+roles (Bettencourt et al. , 2001; Van Dyne et al. , 1994).
+The first role is to satisfy customers with a high quality of service; the perception and
+satisfaction of service quality are related to customer-facing employees ’behaviors, such as
+courtesy, personal attentiveness, respo nsiveness and follow-through on promises
+(Parasuraman et al. , 1988). The second role relates to employees ’representation of the
+company to outsiders, supporting corporate products and services, and improving the
+image and legitimacy of the company (Adams, 1976; Booms and Bitner, 1981; Bowen and
+Schneider, 1985). The third role is related to sharing information and distributing
+opportunities regarding improvements to meet the varied requests of customers, and ensure
+product and service delivery (Schneider and Bowen, 1985). Regarding such boundary-
+spanning behaviors, previous studies have identified that attitude factors related to one ’s
+job exerted an influence (Bettencourt et al. , 2005).
+Job satisfaction refers to employees ’attitude toward their job and organization (Rad and
+Yarmohammadian, 2006). Employees ’job attitude improves their self-esteem and loyalty
+toward the organization and is directly related to corporate performance measures, such as
+an increase in productivity (Brashear et al. , 2004). Job satisfaction is the attitude that
+influences one ’s motives and serves as the stimulant that leads to performance. Employees
+who are satisfied with their job exhibit higher performance than those who are not. Thus,
+employees can perform better when they are satisfied with their jobs since they apply more
+effort to achieve their goals (Atmojo, 2012; Schmitz and Ganesan, 2014). Employees should
+offer high-quality services to customers to improve their performance and also express
+positive sentiments related to their organization. Bank employees with high job satisfaction
+provide quality services to customers and improve their performance by expressing positive
+sentiments about their bank organization. In addition, the employees with high job
+satisfaction prioritize their organization, which leads to altruistic behaviors (Netemeyer
+et al. , 1997; Organ and Lingl, 1995). As such, the following hypotheses can be established:
+H8a. The job satisfaction of bank employees will increase service delivery.
+H8b. The job satisfaction of bank employees will increase external representation.
+H8c. The job satisfaction of bank employees will increase internal influence.
+Based on the research hypotheses, we developed the hypothetical research model as shown
+in Figure 1.
+3. Research methodology
+3.1 Data collection and survey sample characteristics
+This study conducted questionnaire surveys targeting retail bank employees in South
+Korea in the Summer 2018. To administer the surveys, a panel from a professional online
+survey institute with the largest platform in South Korea was used. The corresponding
+survey institute panel is not limited to a certain organization or area and only those who
+have volunteered can serve on a panel. In addition, the survey institute induces voluntary
+participation from those who joined the panel by providing points online that can
+be converted into cash after filling out the questionnaire survey. Prior to conducting the
+survey, survey targets were chosen using three steps. First, after several jobs were
+suggested, participants were asked to select the one that applied to them. In this stage,
+the participants who did not engage with customers were removed. Next, after suggesting
+diverse industries related to employees who interact with customers, they chose the
+industry to which they belonged; participants who chose an industry other than banking585Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026were removed. Finally, participants were asked to choose which bank they belonged to and
+were given the option to select either a wholesale or a retail bank. The removed participants
+no longer took part in the survey and there is no sample selection bias issue. The survey
+responses of 365 retail bank employees comprised the final sample size.
+The following are the demographic characteristics of the samples used in this study. In
+terms of gender, 204 were men (55.9 percent) and 161 were women (44.1 percent). A total
+of 127 participants were in their 30s (34.8 percent); 111 participants were in their 40s
+(30.4 percent); 83 participants were in their 20s (22.7 percent); and 44 participants were in
+their 50s or older (12.1 percent). In terms of academic background, 249 participants
+graduated from university (68.2 percent); 90 graduated from high school (24.7 percent);
+14 were either attending or had graduated from graduate school (3.8 percent); and
+12 participants were attending university (3.3 percent). In addition, 104 participants had
+less than 3 years of experience (28.5 percent); 88 had between 3 and 6 years of experience
+(24.1 percent); 73 participants had more than 12 years of experience (20 percent);
+52 participants had between 6 and 9 years of experience (14.2 percent); and 48 participants
+had between 9 and 12 years of experience (13.2 percent). In terms of rank in the workplace,
+185 participants were employees (50.7 percent); 77 participants were section chiefs
+(21.1 percent); 74 participants were deputy section chiefs (20.3 percent); and 29 participants
+were the head of a department or of a higher rank (7.9 percent). Table I reports the
+demographic characteristics of the samples used in this study.
+3.2 Measurement of variables
+The scale used in this study was adapted from those used in previous studies to meet the
+research criteria and objectives. The items selected were measured using a five-point Likert
+scale and scale items are shown in the Appendix.
+To measure the relationship bonds of bank employees, participants ’personal perceptions
+of financial, structural and internal social bonds were evaluated based on Wang ’s (2014)
+study. Regarding financial bonds, three types of measurement items were used to determine
+whether satisfactory economic compensation was provided to employees. For structural
+bonds, three types of measurement items were used to determine whether financial
+companies allow employees to determine their working hours and schedules. For internal
+social bonds, four types of measurements items were used to determine whether employees
+Psychological Responses
+Relationship Bonds
+Financial
+Bonds
+Structural
+Bonds
+P–J FitEmotional
+Exhaustion
+Salesperson
+ResiliencyJob
+SatisfactionService
+Delivery
+External
+Representation
+Internal
+InfluenceInternal
+Social
+Bonds
+External
+Social
+BondsBehaviors (BSB)
+Figure 1.
+Research model586IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026received support from their financial company to facilitate good relationships and smooth
+communication with other members. For external social bonds, three items based on a
+studyby Biong and Ulvnes (2011) were used to determine whether employees received
+support in developing personal intimacy with customers and sharing information.
+To evaluate P –J fit, the extent to which individuals ’jobs coincided with their needs was
+measured using four items from Saks and Ashforth ’s (2002) study. To evaluate resiliency,
+the speed of overcoming stressful situations and making recoveries was measured using the
+four items from the study by Krush et al. (2013). To evaluate emotional exhaustion, the
+degree of emotional exhaustion from one ’s job was measured using the four items from
+Wang ’s (2014) study. To evaluate job satisfaction, the degree of satisfaction toward one ’s job
+and company was measured using three items from the study by Jaramillo et al. (2009).
+To assess the boundary-spanning behavior of bank employees, a total of 13 items were
+used from the study by Bettencourt et al. (2005). To evaluate service delivery behavior,
+which refers to the manner in which an employee provides the desired level of service
+delivery to customers, five items were used. To evaluate external representation, the way
+the corporate image, product and services are promoted to those outside of the company
+was measured using four items. Finally, to assess internal influence behavior, the degree to
+which an employee independently initiated communication with co-workers to enhance
+service delivery, co-workers and the company was estimated using four items.
+4. Analysis results
+4.1 Measurement model
+Prior to conducting hypothesis testing, this study aimed to identify the reliability and validity
+of the constructs employed. To determine reliability, the internal consistency method was used
+and both convergent and discriminant validity were determined to confirm validity. To achieve
+this aim, confirmatory factor analysis was conducted (Hair et al., 1998). For convergent validity,
+the composite reliability and average variance extracted were examined. The standard of
+reliability is normally 0.7 and higher and convergent validity can be assumed to be acceptable
+only when the composite reliability is 0.7 or higher and the average variance extracted is 0.5 or
+higher (Nunnally, 1978; Fornell and Larcker, 1981). Meanwhile, the discriminant validity can beVariable Characteristic Frequency Percentage
+Gender Men 204 55.9
+Women 161 44.1
+Age 20s 83 22.7
+30s 127 34.8
+40s 111 30.4
+50s or older 44 12.1
+Academic background Graduated from high school 90 24.7
+Attending university 12 3.3Graduated from university 249 68.2Attending or graduated from graduate school 14 3.8
+Work experience Less than 3 years 104 28.5
+More than 3 years and less than 6 years 88 24.1More than 6 years and less than 9 years 52 14.2More than 9 years and less than 12 years 48 13.2More than 12 years 73 20.0
+Work position Employees 185 50.7
+Deputy section chiefs 74 20.3
+Section chiefs 77 21.1
+Head of department or higher rank 29 7.9
+Table I.
+Demographic
+characteristics of
+respondents587Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026evaluated by verifying whether the squared correlations between the constructs are smaller
+than the average variance extracted or the square root of the average variance extracted is
+higher than the correlations between the constructs (Fornell and Larcker, 1981).
+In total, 41 items were used to measure 11 types of constructs in this study. However,
+since Item 4 of internal social bonds, Item 4 of resiliency, Items 1 and 2 of service delivery,
+and Item 3 of internal influence negatively affected both the reliability and the validity, they
+were deleted.
+Based on the confirmatory factor analysis, since the model fits were χ2¼291.22 (df ¼194,
+p¼0.000); GFI ¼0.898; CFI ¼0.970; TLI ¼0.964; RMR ¼0.031; and RMSEA ¼0.047, the
+measurement items can be generally accommodate d. Moreover, the indicators that determine
+reliability and convergent validity were confirmed to exceed the standard level (Table II). After
+examining the discriminant validity, it was revealed that the correlation between the respective
+constructs was smaller than the square root of the average variance extracted (Table III).
+Construct Items Standardized estimate CR AVE Cronbach ’sα
+Financial bonds FB1 0.941 0.954 0.874 0.956
+FB2 0.970FB3 0.902
+Structural bonds SB1 0.660 0.840 0.641 0.859
+SB2 0.897SB3 0.906
+Internal social bonds ISB1 0.848 0.911 0.775 0.851
+ISB2 0.895ISB3 0.705
+External social bonds ESB1 0.793 0.897 0.744 0.841
+ESB2 0.836ESB3 0.780
+Person –job fit PJF1 0.768 0.880 0.648 0.859
+PJF2 0.812PJF3 0.774PJF4 0.758
+Resiliency RES1 0.812 0.893 0.736 0.876
+RES2 0.882RES3 0.825
+Emotional exhaustion EE1 0.679 0.866 0.618 0.809
+EE2 0.700EE3 0.691
+EE4 0.811
+Job satisfaction JS1 0.856 0.908 0.768 0.900
+JS2 0.876JS3 0.868
+Service delivery SD3 0.781 0.910 0.771 0.835
+SD4 0.861SD5 0.739
+External representation ER1 0.755 0.902 0.698 0.866
+ER2 0.829ER3 0.833ER4 0.743
+Internal influence II1 0.837 0.899 0.748 0.853
+II2 0.838
+II4 0.760
+Notes: CR, composite reliability; AVE, average variance extracted. χ
+2¼907.97, df ¼539, p¼0.00,
+GFI¼0.879, CFI ¼0.957, NFI ¼0.901, TLI ¼0.949, RMSEA ¼0.043, RMR ¼0.037. All factor loadings are
+significant ( po0.01)Table II.
+Reliability and
+convergent validityresults588IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 20264.2 Common method bias (CMB)
+CMB is a systematic error that occurs when measuring constructs and is the bias that
+appears when measuring two or more variables using the same method (Billings and
+Wroten, 1978; Podsakoff et al. , 2003). Covariance occurs due to a similar procedure when
+measuring two or more variables using the same method. When a correlation between the
+measurement methods exists, it is difficult to be certain of the correlation between the
+measurement variables, even if validity exists (Podsakoff and Organ, 1986).
+This study aimed to identify how bank employees ’relationship bonds apply to their
+psychological responses and behaviors. To this end, the perception, inclination and attitude
+of bank employees were measured based on the self-reported data collected through
+the online surveys; the source of their responses was not distinguished; furthermore, the
+environment or the time of measurement was uniform. Thus, it was necessary to test
+for CMB. To resolve this matter, this study diagnosed CMB by conducting Harman ’s
+single-factor test. Harman ’s single-factor test can recognize CMB by identifying the number
+of factors needed to explain variance after analyzing all indicators as an unrotated factor
+solution in exploratory factory analysis. If variance from CMB exists, only one factor is
+explored from the factor analysis or most of the variance from the first factor is explained
+(Podsakoff et al. , 2003). This study conducted an unrotated exploratory factor analysis
+based on the indicator used to measure constructs. A total of nine factors had eigenvalues
+higher than 1 and the variance of the respective factors was confirmed at 32.66, 10.33, 6.40,
+5.54, 4.63, 4.06, 3.51, 3.34 and 2.79 percent. After conducting Harman ’s single-factor test, the
+factors were not extracted as one and the factor with the greatest variance did not exceed
+the majority of the variance.
+4.3 Hypotheses testing
+After determining the fits of the model suggested in this study, it can be confirmed that the
+models ’levels are acceptable and can be accommodated ( χ²¼1,287.47 (df ¼573,p¼0.000);
+GFI¼0.819; CFI ¼0.916; IFI ¼0.917; TLI ¼0.908; RFI ¼0.845; NFI ¼0.859; RMR ¼0.071;
+and RMSEA ¼0.059). The final result of the model testing is shown in Table IV. The
+elements comprising the relationship bonds of bank employees –financial bonds ( β¼0.48,
+po0.01), structural bonds ( β¼0.11, po0.05), internal social bonds ( β¼0.18, po0.01) and
+external social bonds ( β¼0.29, po0.01) –had positive effects on P –J fit. Thus, H1a –H1d
+were supported. Next, P –J fit had negative effects on emotional exhaustion ( β¼−0.11,FB SB ISB ESB PJF RES EE JS SD ER II
+FB 0.935
+SB 0.320** 0.801
+ISB 0.185** 0.288** 0.88
+ESB 0.266** 0.526** 0.560** 0.863
+PJF 0.567** 0.445** 0.418** 0.549** 0.805
+RES 0.335** 0.280** 0.412** 0.384** 0.441** 0.858
+EE−0.175** −0.238** 0.018 −0.007 −0.209** −0.242** 0.786
+JS 0.666** 0.373** 0.374** 0.421** 0.755** 0.548** −0.291** 0.876
+SD 0.129* 0.217** 0.407** 0.532** 0.326** 0.180** 0.125* 0.290** 0.878
+ER 0.375** 0.440** 0.530** 0.630** 0.598** 0.496** −0.085 0.662** 0.560** 0.835
+II 0.335** 0.310** 0.487** 0.540** 0.510** 0.462** 0.004 0.582** 0.475** 0.709** 0.865
+Notes: FB, financial bonds; SB, structural bonds; ISB, internal social bonds; ESB, external social bonds; PJF,
+person –job fit; RES, resiliency; EE, emotional exhaustion; JS, job satisfaction; SD, service delivery; ER,
+external representation; II, internal influence. The number in the diagonal is the square root of the AVE.
+*po0.05; ** po0.01Table III.
+Measurements of
+correlations and
+discriminant validity589Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026po0.05) and positive effects on job satisfaction ( β¼0.80, po0.01). Further, emotional
+exhaustion had a negative impact on job satisfaction ( β¼−0.10, po0.01). Therefore,
+H2 –H4were supported. In addition, resiliency was found to diminish emotional exhaustion
+(β¼−0.20, po0.01). H5was also supported. Finally, job satisfaction had positive effects on
+the elements comprising boundary-spanning behavior, that is, service delivery behavior
+(β¼0.37, po0.01), external representation ( β¼0.72, po0.01) and internal influence
+behavior ( β¼0.64, po0.01). Thus, H8a –H8c were supported.
+4.4 Moderating effects of resiliency
+It is necessary to determine whether the resiliency of bank employees has a moderating
+effect regarding emotional exhaustion. H6evaluated whether the effect of reduced
+emotional exhaustion through P –J fit would be strengthened as the resiliency of bank
+employees increased. H7tested whether the effects of reduced job satisfaction as a function
+of emotional exhaustion would be weakened as the resiliency of bank employees increased.
+To identify the hypothesis related to the moderating effect, this study verified the
+interaction effect using the bootstrap method and utilizing the process model. The process
+model can simultaneously process a moderating effect, a mediating effect and a moderated
+mediation effect, which has a combined and controlled moderating effect, and a mediatingeffect based on regression analysis in a single analysis framework; statistical significance is
+verified through the bootstrap method (Hayes, 2013; Preacher and Hayes, 2008). Analysis
+was conducted using model number 58, which was selected from among the process models
+suggested by Hayes (2013). Job satisfaction was inserted into Y and P –J fit was inserted into
+X. Moreover, after inserting emotional exhaustion into M and placing resiliency into W, the
+analysis was conducted. The moderating effect of resiliency between P –J fit and emotional
+exhaustion that was suggested in H6was determined by investigating the presence of a
+significant effect from the interaction between P –J fit and resiliency on emotional
+exhaustion. Based on the analysis, the interaction effect of P –J fit and resiliency on
+emotional exhaustion was not statistically significant ( β¼0.07, CI ¼[−0.02, 0.17], pW0.05).
+Thus, H6was not supported. In addition, the moderating effect of resiliency between
+emotional exhaustion and job satisfaction, which was suggested in H7, was determined by
+examining whether the interaction effect between emotional exhaustion and resiliency had a
+significant effect on job satisfaction. The analysis showed that the interaction effect between
+emotional exhaustion and resiliency was not significant for job satisfaction ( β¼0.02,
+CI¼[−0.09, 0.12], pW0.05). Thus, H7was also not supported (Table V).Path Standard coefficient t-Value Result
+Financial bonds →Person –job fit 0.48 9.572** H1a: supported
+Structural bonds →Person –job fit 0.11 1.987* H1b: supported
+Internal social bonds →Person –job fit 0.18 3.160** H1c: supported
+External social bonds →Person –job fit 0.29 4.378** H1d: supported
+Person –job fit→Emotional exhaustion −0.11 −1.653* H2: supported
+Person –job fit→Job satisfaction 0.80 13.585** H3: supported
+Emotional exhaustion →Job satisfaction −0.10 −2.451** H4: supported
+Resiliency →Emotional exhaustion −0.20 −2.980** H5: supported
+Job satisfaction →Service delivery 0.37 6.140** H8a: supported
+Job satisfaction →External representation 0.72 11.733** H8b: supported
+Job satisfaction →Internal influence 0.64 10.721** H8c: supported
+Notes: χ2¼1,287.47(df ¼573); p¼0.00; GFI ¼0.819; CFI ¼0.916; NFI ¼0.859; TLI ¼0.908; RMSEA ¼0.059;
+RMR¼0.071. * po0.05; ** po0.01Table IV.
+Hypotheses
+test results590IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 20265. Discussion
+5.1 General discussion
+The financial bonds satisfy the economic needs of bank employees and structural bonds
+become a job resource for the organization, as they are perceived as the organization ’s effort
+to take care of its employees from a policy perspective, which is demonstrated, for example,
+by flexible working hours (Giannikis and Mihail, 2008; Wang, 2014). Internal social bonds
+streamline job performance by generating an information exchange process to assist bank
+employees resolve customer problems (Hu et al. , 2016), and external social bonds enable
+bank employees to accomplish their job goals. Also, social bonds satisfy relationship needsby facilitating interaction between individuals (Liang and Wang, 2005). Thus, the internal
+and external social bonds of bank employees become job resources and play important
+functional roles. The analysis showed that relationship bonds improve the P –J fit.
+Conversely, as the psychological resource related to the satisfaction of the conditions
+necessary for job performance ability and job performance itself, P –J fit intervened in the job
+resource factor and job outcome. The psychological response process was then initiated. P –J
+fit lowered emotional exhaustion and improved job satisfaction; emotional exhaustion was
+found to inhibit the job satisfaction of employees. In addition, job satisfaction was found to
+enhance the boundary-spanning behavior of bank employees. Bank employees ’job
+satisfaction improves their behaviors related to external representation, which boosts their
+service delivery behavior, the corporate image, products and services provided for people
+outside of the company and internal influence behavior, which leads to communication with
+colleagues that can enhance service delivery. That is, when employees are satisfied with
+their job and have a positive attitude, their efforts to make significant accomplishments in
+their job increase (Netemeyer et al., 1997; Atmojo, 2012; Schmitz and Ganesan, 2014) and lead
+to their prioritization of the organization and altruistic behavior (Netemeyer et al. , 1997;
+Organ and Lingl, 1995).
+Meanwhile, since bank employees ’resiliency was found to be a direct factor in lowering
+emotional exhaustion, it can be considered a personal resource. There were no moderating
+effects related to the reduction of emotional exhaustion owing to P –J fit or any weakening of
+negative effects from emotional exhaustion. There can be several reasons for the lack of a
+moderating effect of resiliency. First, a moderating effect between P –Jf i ta n de m o t i o n a l
+exhaustion was not found because resiliency entails overcoming and adjusting to highly
+stressful events (Luthans et al., 2006). Since P –J fit is not the predisposing factor that induces
+stress and increases emotional exhaustion, resiliency does not moderate it; it also does not
+moderate emotional exhaustion. Therefore, for resiliency, it is appropriate to identify the
+moderating effect from the job demand factor on employees ’emotional state. Moreover, the
+inability to reduce the negative effect of emotional exhaustion on job satisfaction is contingent
+on an individual ’s personal tendency to make a swift recovery to the point at which resiliencyBootstrapping 95% confidence intervals
+Path Coeff. Lower Upper
+(MV¼resiliency)
+Person –job fit→Emotional exhaustion −0.1029* −0.1996 −0.0063
+Resiliency →Emotional exhaustion −0.1014* −0.1927 −0.0102
+PJF×RES→EE (H6) 0.0726 −0.0245 0.1697
+Emotional exhaustion →Job satisfaction −0.1376* −0.2321 −0.0431
+Person –job fit→Job satisfaction 0.6276** 0.5350 0.7202
+Resiliency →Job satisfaction 0.2700** 0.1822 0.3578
+EE×RES→JS (H7) 0.0162 −0.0855 0.1179
+Notes: 5,000 bootstrapped samples. * po0.05; ** po0.01Table V.
+Results related to the
+moderating effects591Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026is not stressed; however, it is anticipated that an individual ’s attitude toward his or her
+already-established job due to emotional exhaustion cannot be changed.
+5.2 Managerial implications
+Bank organizations can manage the emotions of employees and induce positive behavior
+through their relationship bonds. As such, bank organizations must form financial bonds by
+establishing a compensation system that employees perceive as adequate. Structural bonds
+constitute another factor, which governs employees ’emotional state. Bank organizations can
+immerse employees in their jobs through a flexible working system (Martin and MacDonnell,
+2012) and employees can carry out behaviors related to their job through the balance they
+strike between work and life. Such an effort by banking organizations not only positively
+contributes to employee performance by leading to an increase in productivity, but also
+diminishes the expenses incurred due to their inability to manage their emotional state
+(Zablah, Franke, Brown and Bartholomew, 2012). Meanwhile, bank organizations must make
+efforts to strengthen the internal social bonds within their organization. Bank organizations
+should promote the exchange of information between employees, organize communitieswithin the organization to resolve problems related to sales and customers, and establish a
+horizontal organizational culture. These efforts will satisfy employees ’social sense of
+belonging. This study also found that external social bonds play a role as a job resource. Bank
+organizations endeavoring to assist employees in forming good relationships with customers
+are ultimately able to manage the emotional state of employees. Bank organizations should be
+unstinting in their support of developing an employee manual to manage customer
+relationships. Bank organizations should also devise countermeasures against blacklisted
+consumers who make demanding requests of employees. The employees who respond to the
+demanding requests and blacklisted consumers become mentally and physically exhausted; in
+addition, the corporate image may also be negatively affected. Therefore, bank organizations
+must create a manual for responding to such customers and occasionally discontinue their
+relationship with them.
+Bank organizations can enhance P –J fit by improving the relationship bonds of employees
+and providing various support systems for regular job education and employee growth.
+Regarding P –J fit, bank organizations should not merely satisfy the needs of employees or
+improve their job performance ability through wages, but should also endeavor to satisfy both
+the abilities –demand and the needs –supplies fit. Bank organizations can also accomplish P –J
+fit based on their efforts by using diverse recruiting methods to find the members who possess
+suitable skills or abilities required for adequate job performance.
+Finally, among the personal inclinations of bank employees, resiliency lowers emotional
+exhaustion. Since resiliency is not a fixed individual inclination, bank organizations should
+endeavor to improve resiliency by developing job training programs that are designed to
+enhance resiliency. Such efforts will increase the boundary-spanning behavior of employees.
+5.3 Limitations and future research
+First, this study suggested that relationship bonds are the organizational resources related
+to a job. In addition, it mentioned resiliency as a personal resource of bank employees.
+Regarding the elements related to bank employees ’role, other than those suggested by
+this study, a variety of other elements could be at play, such as person –organization fit
+(Yoo et al., 2014). Moreover, the elements related to job requirements were not considered in
+this study. Since bank employees interact with customers, studies must be conducted after
+considering the elements of the requirements that reflect such a characteristic. Therefore,
+future studies should suggest various elements from the job requirements and resources,
+which reflect the job characteristics of bank employees.592IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Second, results showed that the resiliency of bank employees did not have a moderating
+effect. As mentioned previously, owing to the characteristics of resiliency, which are
+overcoming stressful events and adapting, a moderating effect is expected to appear between
+the job requirements and emotional exhaustion, which causes stress for bank employees.
+Thus, it is necessary to identify the moderating effect of resiliency between job requirements
+and emotional exhaustion by suggesting various job requirements for bank employees.
+Third, this study found that the emotional exhaustion of bank employees eventually had a
+negative influence on boundary-spanning behavior. Although boundary-spanning behavior is
+expected to have a positive effect on the performance aspect of the bank organization, it is
+necessary to identify the way it applies to the actual performance of the bank organization. In
+that sense, future studies must demonstrate how the boundary-spanning behavior influences
+the actual performance of the bank organization; thus, the importance of discussing the
+emotional state of bank employees should be emphasized.
+Finally, this study targeted bank employees working in Korea; it was conducted to
+analyze the perception of ordinary bank employees, but its results are difficult to generalize
+since it only targeted bank employees from a certain specific country. For example, Korea is
+characterized as being influenced by collectivistic culture and thus a study conducted within
+this cultural background could have different results than those resulting from countries
+with an individualistic culture. Therefore, it is necessary to approach the generalization of
+the results of this study with caution. Further research will be needed to examine any effects
+that may be attributed to cultural differences by conducting additional studies that target
+bank employees in the other countries.
+References
+Adams, J.S. (1976), “The structure and dynamics of behavior in organizational boundary roles ”,i n
+Dunette, M.D. (Ed.), Handbook of Industrial and Organizational Psychology , Rand McNally,
+Chicago, IL, pp. 1175-1199.
+Atmojo, M. (2012), “The influence of transformational leadership on job satisfaction, organizational
+commitment, and employee performance ”,International Research Journal of Business Studies ,
+Vol. 5 No. 2, pp. 113-128.
+Bakker, A.B. and Demerouti, E. (2007), “The job demands-resources model: state of the art ”,Journal of
+Managerial Psychology , Vol. 22 No. 3, pp. 309-328.
+Bakker, A.B. and Demerouti, E. (2008), “Towards a model of work engagement ”,Career Development
+International , Vol. 13 No. 3, pp. 209-223.
+Bakker, A.B., Demerouti, E. and Verbeke, W. (2004), “Using the job demands-resources model to predict
+burnout and performance ”,Human Resource Management , Vol. 43 No. 1, pp. 83-104.
+Baumgardner, S.R. and Crothers, M.K. (2009), Positive Psychology , Prentice Hall/Pearson Education, London.
+Berry, L.L. (1983), “Relationship marketing ”,i nB e r r y ,L . L . ,S h o s t a c k ,G . L .a n dU p a h ,G . D .( E d s ) , Emerging
+Perspectives on Services Marketing , American Marketing Association, Chicago, IL, pp. 25-28.
+Berry, L.L. (1995), “Relationship marketing of services-growing interest, emerging perspectives ”,
+Journal of the Academy of Marketing Science , Vol. 23 No. 4, pp. 236-245.
+Berry, L.L. and Parasuraman, A. (1991), Marketing Service: Competing Through Quality , Free Press,
+New York, NY.
+Bettencourt, L.A., Brown, S.W. and MacKenzie, S.B. (2005), “Customer-oriented boundary-spanning
+behaviors: test of a social exchange model of antecedents ”,Journal of Retailing , Vol. 81 No. 2,
+pp. 141-157.
+Bettencourt, L.A., Gwinner, K.P. and Meuter, M.L. (2001), “A comparison of attitude, personality, and
+knowledge predictors of service-oriented organizational citizenship behaviors ”,Journal of
+Applied Psychology , Vol. 86 No. 1, pp. 29-41.593Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Billings, R.S. and Wroten, S.P. (1978), “Use of path analysis in industrial/organizational psychology:
+criticisms and suggestions ”,Journal of Applied Psychology , Vol. 63 No. 6, pp. 677-688.
+Biong, H. and Ulvnes, A.M. (2011), “If the supplier ’s human capital walks away, where would the
+customer go? ”,Journal of Business-to-Business Marketing , Vol. 18 No. 3, pp. 223-252.
+Boles, J.S., Johnston, M.W. and Hair, J.F. Jr (1997), “Role stress, work-family conflict and emotional
+exhaustion: inter-relationships and effects on some work-related consequences ”,Journal of
+Personal Selling & Sales Management , Vol. 17 No. 1, pp. 17-28.
+Bolino, M.C., Turnley, W.H. and Bloodgood, J.M. (2002), “Citizenship behavior and the creation of social
+capital in organizations ”,Academy of Management Review , Vol. 27 No. 4, pp. 505-522.
+Bolton, R.N., Smith, A.K. and Wagner, J. (2003), “Striking the right balance: designing service to enhance
+business-to-business relationships ”,Journal of Service Research , Vol. 5 No. 4, pp. 271-291.
+Booms, B.H. and Bitner, M.J. (1981), “Marketing strategies and organization structures for service
+firms ”, in Donnelly, J. and Georgee, W. (Eds), Marketing of Services , American Marketing
+Association, Chicago, IL, pp. 47-52.
+Bowen, D.E. and Schneider, B. (1985), “Boundary-spanning role employee and the service encounter:
+some guidelines for management and research ”, in Czepiel, J., Solomon, M. and Surprenant, C.
+(Eds), The Service Encounter: Managing Employee/Customer Interaction in Service Business ,
+Heath and Company, Lexington, MA, pp. 127-147.
+Brashear, T.G., Brooks, C.M. and Boles, J.S. (2004), “Distributive and procedural justice in a sales force
+context: scale development and validation ”,Journal of Business Research , Vol. 57 No. 1, pp. 86-93.
+Brotheridge, C.M. and Grandey, A.A. (2002), “Emotional labor and burnout: comparing two
+perspectives of ‘people work ’”,Journal of Vocational Behavior , Vol. 60 No. 1, pp. 17-39.
+Cable, D.M. and Derue, D.S. (2002), “The convergent and discriminant validity of subjective fit
+perceptions ”,Journal of Applied Psychology , Vol. 87 No. 5, pp. 875-883.
+Chebat, J.C. and Kollias, P. (2000), “The impact of empowerment on customer contact employees ’roles
+in service organizations ”,Journal of Service Research , Vol. 3 No. 1, pp. 66-81.
+Chiu, H.C., Lee, M., Hsieh, Y.C. and Chen, L.Y. (2007), “Building customer relationships: a comparison
+across multiple service encounters ”,Advances in Consumer Research –North American
+Conference Proceedings , Vol. 34, pp. 720-725.
+Cordes, C.L. and Dougherty, T.W. (1993), “A review and an integration of research on job burnout ”,
+Academy of Management Review , Vol. 18 No. 4, pp. 621-656.
+Demerouti, E., Bakker, A.B., Nachreiner, F. and Schaufeli, W.B. (2001), “The job demands-resources
+model of burnout ”,Journal of Applied Psychology , Vol. 86 No. 3, pp. 499-512.
+Felício, J.A., Couto, E. and Caiado, J. (2014), “Human capital, social capital and organizational
+performance ”,Management Decision , Vol. 52 No. 2, pp. 350-364.
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable
+variables and measurement error ”,Journal of Marketing Research , Vol. 18 No. 1, pp. 39-50.
+Fredrickson, B.L. and Joiner, T. (2002), “Positive emotions trigger upward spirals toward emotional
+well-being ”,Psychological Science , Vol. 13 No. 2, pp. 172-175.
+Gaines, J. and Jermier, J.M. (1983), “Emotional exhaustion in a high stress organization ”,Academy of
+Management Journal , Vol. 26 No. 4, pp. 567-586.
+Giannikis, S.K. and Mihail, D.M. (2008), “Predicting organizational commitment: a field study of
+full-time and part-time retail employees ”,The Business Review, Cambridge , Vol. 10 No. 2, pp. 69-78.
+Hair, J.F., Anderson, R.E., Tatham, R.L. and Black, W.C. (1998), Multivariate Data Analysis with
+Reading , 5th ed., Prentice Hall, Upper Saddle River, NJ.
+Halbesleben, J.R. and Buckley, M.R. (2004), “Burnout in organizational life ”,Journal of Management ,
+Vol. 30 No. 6, pp. 859-879.
+Hayes, A.F. (2013), Introduction to Mediation, Moderation, and Conditional Process Analysis: A
+Regression-Based Approach , Guilford Press, New York, NY.594IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Hsieh, Y.C., Chiu, H.C. and Chiang, M.Y. (2005), “Maintaining a committed online customer: a study
+across search-experience-credence products ”,Journal of Retailing , Vol. 81 No. 1, pp. 75-82.
+Hu, Q., Schaufeli, W.B. and Taris, T.W. (2016), “Extending the job demands-resources model with
+guanxi exchange ”,Journal of Managerial Psychology , Vol. 31 No. 1, pp. 127-140.
+Huang, M.H. (2008), “The influence of selling behaviors on customer relationships in financial services ”,
+International Journal of Service Industry Management , Vol. 19 No. 4, pp. 458-473.
+Hunt, S.D., Arnett, D.B. and Madhavaram, S. (2006), “The explanatory foundations of relationship
+marketing theory ”,Journal of Business & Industrial Marketing , Vol. 21 No. 2, pp. 72-87.
+Jaramillo, F., Grisaffe, D.B., Chonko, L.B. and Roberts, J.A. (2009), “Examining the impact of servant
+leadership on salesperson ’s turnover intention ”,Journal of Personal Selling & Sales
+Management , Vol. 29 No. 4, pp. 351-365.
+Joseph, K. and Dai, C. (2010), “Human resources motivation in a workplace: a case study of a utility
+company in Abidjan, Cote D ’Ivoire ”,Interdisciplinary Journal of Contemporary Research in
+Business , Vol. 1 No. 12, pp. 151-159.
+Judge, T.A. and Bono, J.E. (2001), “Relationship of core self-evaluations traits –self-esteem, generalized
+self-efficacy, locus of control, and emotional stability –with job satisfaction and job
+performance: a meta-analysis ”,Journal of Applied Psychology , Vol. 86 No. 1, pp. 80-92.
+Karatepe, O.M. (2013), “The effects of work overload and work-family conflict on job embeddedness
+and job performance: the mediation of emotional exhaustion ”,International Journal of
+Contemporary Hospitality Management , Vol. 25 No. 4, pp. 614-634.
+Karatepe, O.M. and Aga, M. (2016), “The effects of organization mission fulfillment and perceived
+organizational support on job performance: the mediating role of work engagement ”,
+International Journal of Bank Marketing , Vol. 34 No. 3, pp. 368-387.
+Karatepe, O.M. and Tekinkus, M. (2006), “The effects of work-family conflict, emotional exhaustion,
+and intrinsic motivation on job outcomes of front-line employees ”,International Journal of Bank
+Marketing , Vol. 24 No. 3, pp. 173-193.
+Karatepe, O.M., Ozturk, A. and Kim, T.T. (2019), “The effects of nonwork and personal resources on
+frontline bank employees ’work engagement and critical job outcomes ”,International Journal of
+Bank Marketing , Vol. 37 No. 3, pp. 858-879.
+Karatepe, O.M., Yorganci, I. and Haktanir, M. (2009), “Outcomes of customer verbal aggression among
+hotel employees ”,International Journal of Contemporary Hospitality Management , Vol. 21 No. 6,
+pp. 713-733.
+Kaur, G. (2015), “Perception of bank employees ’towards working environment of selected Indian
+universal banks ”,International Journal of Bank Marketing , Vol. 33 No. 1, pp. 58-77.
+Kristof-Brown, A.L. (2000), “Perceived applicant fit: distinguishing between recruiters ’perceptions of
+person-job and person-organization fit ”,Personnel Psychology , Vol. 53 No. 3, pp. 643-671.
+Krush, M.T., Agnihotri, R.A.J., Trainor, K.J. and Krishnakumar, S. (2013), “The salesperson ’s ability to
+bounce back: examining the moderating role of resiliency on forms of intra-role job conflict and jobattitudes, behaviors and performance ”,Marketing Management Journal , Vol. 23 No. 1, pp. 42-56.
+Kuenzel, S. and Krolikowska, E. (2008), “The effect of bonds on loyalty towards auditors: the mediating
+role of commitment ”,The Service Industries Journal , Vol. 28 No. 5, pp. 685-700.
+Lauver, K.J. and Kristof-Brown, A. (2001), “Distinguishing between employees ’perceptions of
+person-job and person-organization fit ”,Journal of Vocational Behavior , Vol. 59 No. 3, pp. 454-470.
+Lazauskaite-Zabielske, J., Urbanaviciute, I. and Rekasiute Balsiene, R. (2018), “From psychosocial
+working environment to good performance: the role of work engagement ”,Baltic Journal of
+Management , Vol. 13 No. 2, pp. 236-249.
+Leach, M.P., Liu, A.H. and Johnston, W.J. (2005), “The role of self-regulation training in developing the
+motivation management capabilities of salespeople ”,Journal of Personal Selling & Sales
+Management , Vol. 25 No. 3, pp. 269-281.595Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Lee, M.S., Han, S.L., Hong, S. and Hyun, H. (2019), “Relationship bonds and service provider ’s emotional
+labor: moderating effects of collectivism ”,Frontiers in Psychology , Vol. 10, pp. 1-12.
+Lewin, J.E. and Sager, J.K. (2009), “An investigation of the influence of coping resources in salespersons ’
+emotional exhaustion ”,Industrial Marketing Management , Vol. 38 No. 7, pp. 798-805.
+Liang, C.J. and Chen, H.J. (2009), “How to lengthen, deepen and broaden customer-firm relationships with
+online financial services? ”,Journal of Financial Services Marketing , Vol. 14 No. 3, pp. 218-231.
+Liang, C.J. and Wang, W.H. (2005), “Integrative research into the financial services industry in Taiwan:
+relationship bonding tactics, relationship quality and behavioural loyalty ”,Journal of Financial
+Services Marketing , Vol. 10 No. 1, pp. 65-83.
+Lin, N.P., Weng, J.C. and Hsieh, Y.C. (2003), “Relational bonds and customer ’s trust and commitment –a
+study on the moderating effects of web site usage ”,Service Industries Journal , Vol. 23 No. 3,
+pp. 103-124.
+Luthans, F., Vogelgesang, G.R. and Lester, P.B. (2006), “Developing the psychological capital of
+resiliency ”,Human Resource Development Review , Vol. 5 No. 1, pp. 25-44.
+Luthar, S.S., Cicchetti, D. and Becker, B. (2000), “The construct of resilience: a critical evaluation and
+guidelines for future work ”,Child Development , Vol. 71 No. 3, pp. 543-562.
+Martin, B.H. and MacDonnell, R. (2012), “Is telework effective for organizations? A meta-analysis of
+empirical research on perceptions of telework and organizational outcomes ”,Management
+Research Review , Vol. 35 No. 7, pp. 602-616.
+Maslach, C. and Jackson, S.E. (1981), “The measurement of experienced burnout ”,Journal of
+Organizational Behavior , Vol. 2 No. 2, pp. 99-113.
+Masten, A.S. and Reed, M.J. (2002), “Resilience in development ”, in Snyder, C.R. and López, S.J. (Eds),
+Handbook of Positive Psychology , Oxford University Press, New York, NY, pp. 74-88.
+Melancon, J.P., Noble, S.M. and Noble, C.H. (2011), “Managing rewards to enhance relational worth ”,
+Journal of the Academy of Marketing Science , Vol. 39 No. 3, pp. 341-362.
+Morgan, R.M. and Hunt, S.D. (1994), “The commitment-trust theory of relationship marketing ”,Journal
+of Marketing , Vol. 58 No. 3, pp. 20-38.
+Nahapiet, J. and Ghoshal, S. (1998), “Social capital, intellectual capital, and the organizational
+advantage ”,Academy of Management Review , Vol. 23 No. 2, pp. 242-266.
+Netemeyer, R.G., Boles, J.S., McKee, D.O. and McMurrian, R. (1997), “An investigation into the
+antecedents of organizational citizenship behaviors in a personal selling context ”,Journal of
+Marketing , Vol. 61 No. 3, pp. 85-98.
+Newman, A. and Sheikh, A.Z. (2012), “Organizational rewards and employee commitment: a Chinese
+study ”,Journal of Managerial Psychology , Vol. 27 No. 1, pp. 71-89.
+Nunnally, J.C. (1978), Psychometric Theory , McGraw-Hill, New York, NY.
+Organ, D.W. and Lingl, A. (1995), “Personality, satisfaction, and organizational citizenship behavior ”,
+The Journal of Social Psychology , Vol. 135 No. 3, pp. 339-350.
+Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1988), “SERVQUAL: a multiple-item scale
+for measuring consumer perceptions of service quality ”,Journal of Retailing ,V o l .6 4N o .1 ,
+pp. 12-40.
+Perrewé, P.L., Zellars, K.L., Ferris, G.R., Rossi, A.M., Kacmar, C.J. and Ralston, D.A. (2004),
+“Neutralizing job stressors: political skill as an antidote to the dysfunctional consequences of
+role conflict ”,Academy of Management Journal , Vol. 47 No. 1, pp. 141-152.
+Podsakoff, P.M. and Organ, D.W. (1986), “Self-reports in organizational research: problems and
+prospects ”,Journal of Management , Vol. 12 No. 4, pp. 531-544.
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), “Common method biases in
+behavioral research: a critical review of the literature and recommended remedies ”,Journal of
+Applied Psychology , Vol. 88 No. 5, pp. 879-903.596IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Pousa, C., Hardie, T. and Zhang, X. (2018), “Promoting frontline employee customer orientation in China:
+ar e p l i c a t i o na n dac o m p a r i s o n ”,International Journal of Bank Marketing , Vol. 36 No. 5, pp. 849-867.
+Pousa, C., Mathieu, A. and Trépanier, C. (2017), “Managing frontline employee performance through
+coaching: does selling experience matter? ”,International Journal of Bank Marketing , Vol. 35
+No. 2, pp. 220-240.
+Preacher, K.J. and Hayes, A.F. (2008), “Asymptotic and resampling strategies for assessing and
+comparing indirect effects in multiple mediator models ”,Behavior Research Methods , Vol. 40
+No. 3, pp. 879-891.
+Rad, A.M.M. and Yarmohammadian, M.H. (2006), “A study of relationship between managers ’leadership
+style and employees ’job satisfaction ”,Leadership in Health Services , Vol. 19 No. 2, pp. 11-28.
+Read, D. (2005), “Monetary incentives, what are they good for? ”,Journal of Economic Methodology ,
+Vol. 12 No. 2, pp. 265-276.
+Rodríguez, C.M. and Wilson, D.T. (2002), “Relationship bonding and trust as a foundation for
+commitment in US-Mexican strategic alliances: a structural equation modeling approach ”,
+Journal of International Marketing , Vol. 10 No. 4, pp. 53-76.
+Saks, A.M. and Ashforth, B.E. (2002), “Is job search related to employment quality? It all depends on
+the fit ”,Journal of Applied Psychology , Vol. 87 No. 4, pp. 646-654.
+Schmitz, C. and Ganesan, S. (2014), “Managing customer and organizational complexity in sales
+organizations ”,Journal of Marketing , Vol. 78 No. 6, pp. 59-77.
+Schneider, B. and Bowen, D.E. (1985), “Employee and customer perceptions of service in banks:
+replication and extension ”,Journal of Applied Psychology , Vol. 70 No. 3, pp. 423-433.
+Scroggins, W.A. (2007), “An examination of the additive versus convergent effects of employee
+perceptions of fit ”,Journal of Applied Social Psychology , Vol. 37 No. 7, pp. 1649-1665.
+Sengupta, A.S., Yavas, U. and Babakus, E. (2015), “Interactive effects of personal and organizational
+resources on frontline bank employees ’job outcomes: the mediating role of person-job fit ”,
+International Journal of Bank Marketing , Vol. 33 No. 7, pp. 884-903.
+Tugade, M.M. and Fredrickson, B.L. (2004), “Resilient individuals use positive emotions to bounce back
+from negative emotional experiences ”,Journal of Personality and Social Psychology , Vol. 86 No. 2,
+pp. 320-333.
+Van Dyne, L., Graham, J.W. and Dienesch, R.M. (1994), “Organizational citizenship behavior: construct
+redefinition, measurement, and validation ”,Academy of Management Journal , Vol. 37 No. 4,
+pp. 765-802.
+Wang, E.S.-T. (2014), “The effects of relationship bonds on emotional exhaustion and turnover
+intentions in frontline employees ”,Journal of Services Marketing , Vol. 28 No. 4, pp. 319-330.
+Ward, T. and Dagger, T.S. (2007), “The complexity of relationship marketing for service customers ”,
+Journal of Services Marketing , Vol. 21 No. 4, pp. 281-290.
+Yoo, J. (2013), “The influence of social undermining on the service employee ’s customer-oriented
+boundary-spanning behavior ”,Journal of Services Marketing , Vol. 27 No. 7, pp. 539-550.
+Yoo, J. (2016), “Perceived customer participation and work engagement: the path through emotional
+labor ”,International Journal of Bank Marketing , Vol. 34 No. 7, pp. 1009-1024.
+Yoo, J. and Jung, Y. (2019), “Interactive effects of organizational goal orientations on bank-employee ’s
+behavior ”,International Journal of Bank Marketing , Vol. 37 No. 2, pp. 402-425.
+Yoo, J., Arnold, T.J. and Frankwick, G.L. (2014), “Promoting boundary-spanning behavior among
+service personnel ”,European Journal of Marketing , Vol. 48 Nos 9/10, pp. 1626-1647.
+Zablah, A.R., Franke, G.R., Brown, T.J. and Bartholomew, D.E. (2012), “How and when does customer
+orientation influence frontline employee job outcomes? A meta-analytic evaluation ”,Journal of
+Marketing , Vol. 76 No. 3, pp. 21-40.
+Zablah, A.R., Chonko, L.B., Bettencourt, L.A., Allen, G. and Haas, A. (2012), “A job demands-resources
+( JD-R) perspective on new product selling: a framework for future research ”,Journal of Personal
+Selling & Sales Management , Vol. 32 No. 1, pp. 73-87.597Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026Appendix: Measurement scale items
+Financial bonds scales
+My company provides a satisfactory total income.
+My company provides a satisfactory monthly salary.
+My company provides my anticipated wage.
+Structural bonds scales
+My company allows me to determine the amount of extra work.
+My company allows me to freely adjust my working hours.
+My company allows me to flexibly manage my work schedules.
+Internal social bonds scales
+My company supports me so I communicate well with co-workers.
+My company supports me so I maintain good relationships with co-workers.
+My company supports me so I communicate well with my boss.
+My company supports me so I maintain a good relationship with my boss.
+External social bonds scales
+My company supports my customers to ensure they develop close social relationships.
+My company supports my customers so they can become close friends.
+My company supports my customers to allow them to obtain useful information through
+their relationships.
+Person –job fit scales
+To what extent do your knowledge, skills and abilities match the requirements of the job?
+To what extent does the job fulfill your needs?
+To what extent is the job a good match for you?
+To what extent does the job enable you to do the kind of work you want to do?
+Emotional exhaustion scales
+I feel burned out from my work.
+I feel fatigued when I get up in the morning and must face another day on the job.
+I feel frustrated with my job.
+I feel tired at work.
+Resiliency scales
+I tend to bounce back quickly after hard times.
+It does not take me long to recover from a stressful event.598IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026It is not hard for me to snap back when something bad happens.
+I usually come through difficult times with little trouble.
+Job satisfaction scales
+All in all, how satisfied are you with your present line of work?
+All things considered (i.e. paid promotions, supervisors, co-workers, etc.), how satisfied are you
+with your present line of work?
+I feel a great sense of personal satisfaction from my line of work.
+Service delivery scales
+I follow customer sale and service guidelines with extreme care.
+I follow up on customer requests and problems in a timely manner.
+Regardless of the circumstances, I am exceptionally courteous and respectful to customers.
+I follow through on promises to customers in a conscientious manner.
+I take the time to understand customer needs (on an individual basis).
+External representation scales
+I tell outsiders that this is a great place to work.
+I generate favorable goodwill for my company.
+I say good things about my company to others.
+I encourage others to use my company ’s products and services.
+Internal influence scales
+I make constructive suggestions for sale and service improvement.
+I contribute many ideas for customer promotions and communications.
+I share creative solutions to customer problems with other employees.
+I encourage co-workers to contribute ideas and suggestions for sale and service improvement.
+Corresponding author
+Sang-Lin Han can be contacted at: slhan@hanyang.ac.kr
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com599Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May 2026

@@ -1,7 +1,7 @@
 import openpyxl
 
 master_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_Master_Coding_Sheet.xlsx"
-test_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\Test_Coding_Sheet.xlsx"
+test_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_V2.xlsx"
 
 wb_master = openpyxl.load_workbook(master_path, data_only=True)
 ws_master = wb_master.active
@@ -22,23 +22,29 @@ total = 0
 fp = 0
 fn = 0
 mismatches = []
-
-# Only check the ones we ran
-test_articles = ["BSMA0100", "BSMA0101", "BSMA0102", "BSMA0103", "BSMA0104"]
+missing_in_master = []
 
 for row in range(4, ws_test.max_row + 1):
     art_id = str(ws_test.cell(row, 2).value).strip()
-    if art_id in test_articles:
-        total += 1
+    if art_id and art_id.startswith("BSMA") and art_id != "None":
         test_status = str(ws_test.cell(row, 5).value).strip()
         
-        truth = master_dict.get(art_id, {"status": "None", "reason": "None"})
+        # Skip papers that AI hasn't processed (no status)
+        if test_status == "None" or not test_status:
+            continue
+            
+        truth = master_dict.get(art_id)
+        if not truth:
+            missing_in_master.append(art_id)
+            continue
+            
+        total += 1
         true_status = truth["status"]
-        
-        is_correct = True
         
         test_status_val = "1" if "1" in test_status else ("0" if "0" in test_status else test_status)
         true_status_val = "1" if "1" in true_status else ("0" if "0" in true_status else true_status)
+        
+        is_correct = True
         
         if test_status_val == true_status_val:
             correct += 1
@@ -53,15 +59,19 @@ for row in range(4, ws_test.max_row + 1):
             mismatches.append(f"{art_id}: AI='{test_status}' (Truth='{true_status}')")
 
 print("\n" + "="*40)
-print("BACKTESTING GRADE REPORT")
+print("FINAL BACKTESTING GRADE REPORT (FULL 701)")
 print("="*40)
-print(f"Total Papers Tested : {total}")
+print(f"Total Papers Evaluated : {total}")
 if total > 0:
-    print(f"Accuracy            : {(correct/total)*100:.1f}% ({correct}/{total})")
-print(f"False Positives (FP): {fp}")
-print(f"False Negatives (FN): {fn}")
+    print(f"Accuracy               : {(correct/total)*100:.2f}% ({correct}/{total})")
+print(f"False Positives (FP)   : {fp}")
+print(f"False Negatives (FN)   : {fn}")
 if mismatches:
     print("\n[Mismatches Detected]")
     for m in mismatches:
         print(f" - {m}")
+if missing_in_master:
+    print("\n[Papers Missing in Truth Set]")
+    print(missing_in_master)
 print("="*40)
+

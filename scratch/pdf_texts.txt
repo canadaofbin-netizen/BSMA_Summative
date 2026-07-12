@@ -1,0 +1,385 @@
+
+
+================ g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers\[335] Lee and Han (2019) - The effects of relationship bonds on bank employees’ psychological responses.pdf ================
+ 1978; Fornell and Larcker, 1981). Meanwhile, the discriminant validity can be
+Variable
+Characteristic
+Frequency
+Percentage
+Gender
+Men
+204
+55.9
+Women
+161
+44.1
+Age
+20s
+83
+22.7
+30s
+127
+34.8
+40s
+111
+30.4
+50s or older
+44
+12.1
+Academic background
+Graduated from high school
+90
+24.7
+Attending university
+12
+3.3
+Graduated from university
+249
+68.2
+Attending or graduated from graduate school
+14
+3.8
+Work experience
+Less than 3 years
+104
+28.5
+More than 3 years and less than 6 years
+88
+24.1
+More than 6 years and less than 9 years
+52
+14.2
+More than 9 years and less than 12 years
+48
+13.2
+More than 12 years
+73
+20.0
+Work position
+Employees
+185
+50.7
+Deputy section chiefs
+74
+20.3
+Section chiefs
+77
+21.1
+Head of department or higher rank
+29
+7.9
+Table I.
+Demographic
+characteristics of
+respondents
+587
+Effects of
+relationship
+bonds
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May
+evaluated by verifying whether the squared correlations between the constructs are smaller
+than the average variance extracted or the square root of the average variance extracted is
+higher than the correlations between the constructs (Fornell and Larcker, 1981).
+In total, 41 items were used to measure 11 types of constructs in this study. However,
+since Item 4 of internal social bonds, Item 4 of resiliency, Items 1 and 2 of service delivery,
+and Item 3 of internal influence negatively affected both the reliability and the validity, they
+were deleted.
+Based on the confirmatory factor analysis, since the model fits were χ2 ¼ 291.22 (df ¼ 194,
+p ¼ 0.000); GFI¼ 0.898; CFI¼ 0.970; TLI ¼ 0.964; RMR¼ 0.031; and RMSEA¼ 0.047, the
+measurement items can be generally accommodated. Moreover, the indicators that determine
+reliability and convergent validity were confirmed to exceed the standard level (Table II). After
+examining the discriminant validity, it was revealed that the correlation between the respective
+constructs was smaller than the square root of the average variance extracted (Table III).
+Construct
+Items
+Standardized estimate
+CR
+AVE
+Cronbach’s α
+Financial bonds
+FB1
+0.941
+0.954
+0.874
+0.956
+FB2
+0.970
+FB3
+0.902
+Structural bonds
+SB1
+0.660
+0.840
+0.641
+0.859
+SB2
+0.897
+SB3
+0.906
+Internal social bonds
+ISB1
+0.848
+0.911
+0.775
+0.851
+ISB2
+0.895
+ISB3
+0.705
+External social bonds
+ESB1
+0.793
+0.897
+0.744
+0.841
+ESB2
+0.836
+ESB3
+0.780
+Person–job fit
+PJF1
+0.768
+0.880
+0.648
+0.859
+PJF2
+0.812
+PJF3
+0.774
+PJF4
+0.758
+Resiliency
+RES1
+0.812
+0.893
+0.736
+0.876
+RES2
+0.882
+RES3
+0.825
+Emotional exhaustion
+EE1
+0.679
+0.866
+0.618
+0.809
+EE2
+0.700
+EE3
+0.691
+EE4
+0.811
+Job satisfaction
+JS1
+0.856
+0.908
+0.768
+0.900
+JS2
+0.876
+JS3
+0.868
+Service delivery
+SD3
+0.781
+0.910
+0.771
+0.835
+SD4
+0.861
+SD5
+0.739
+External representation
+ER1
+0.755
+0.902
+0.698
+0.866
+ER2
+0.829
+ER3
+0.833
+ER4
+0.743
+Internal influence
+II1
+0.837
+0.899
+0.748
+0.853
+II2
+0.838
+II4
+0.760
+Notes: CR, composite reliability; AVE, average variance extracted. χ2 ¼ 907.97, df ¼ 539, p ¼ 0.00,
+GFI ¼ 0.879, CFI ¼ 0.957, NFI ¼ 0.901, TLI ¼ 0.949, RMSEA ¼ 0.043, RMR ¼ 0.037. All factor loadings are
+significant (po0.01)
+Table II.
+Reliability and
+convergent validity
+results
+588
+IJBM
+38,3
+Downloaded from http://www.emerald.com/ijbm/article-pdf/38/3/578/750642/ijbm-12-2018-0358.pdf by University College London user on 30 May
+4.2 Common method bias (CMB)
+CMB is a systematic error that occurs when measuring constructs and is the bias that
+appears when measuring two or more variables using the same method (Billings and
+Wroten, 1978; Podsakoff et al., 2003). Covariance occurs due to a similar procedure when
+measuring two or more variables using the same method. When a correlation between the
+measurement methods exists, it is difficult to be certain of the correlation between the
+measurement variables, even if validity exists (Podsakoff and Organ, 1986).
+This study aimed to identify how bank employees’ relationship bonds apply to their
+psychological responses and behaviors. To this end, the 
+
+================ g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers\[696] Zimmer and Henry (2017) - The role of social capital in selecting interpersonal information sources.pdf ================
+). Addition-
+ally, PLS-PM has less stringent sample size requirements
+than a technique such as LISREL, and does not assume
+multivariate normality (Qureshi & Compeau, 2009). The
+following
+analyses
+were
+performed
+using
+SmartPLS
+(version 2.0) (Ringle, Wende, & Will, 2005).
+Measurement Model
+Before the hypotheses were formally tested, the reliabil-
+ity and validity of the model were assessed. Reliability was
+evaluated via the average variance extracted (AVE) and the
+composite reliability (CR). TheAVE measures item variance
+relative to measurement error, and should be in excess of
+0.50 in order to justify using the construct (Barclay,
+Thompson, & Higgins, 1995; Fornell & Larcker, 1981). The
+CR is interpreted much like Cronbach’s α and a value in
+excess of 0.70 is considered acceptable for research (Fornell
+& Larcker, 1981). As can be seen in Table 3, all study
+constructs display adequate CRs and AVEs.
+Evaluating convergent and discriminant validity was per-
+formed in three ways. First, the correlations among the con-
+structs were compared to the square root of the AVE. If the
+square root of the AVE is greater than the correlations,
+discriminant validity is demonstrated (Chin, 1998). The
+TABLE 2.
+Participant demographics.
+Gender
+Career Orientation
+n
+%
+n
+%
+Male
+123
+60.3
+Managerial
+99
+48.5
+Female
+79
+39.1
+Technical
+80
+39.2
+Age
+Size of the Organization
+n
+%
+n
+%
+20–24
+38
+19.3
+under 100
+46
+23.7
+25–29
+80
+40.6
+100–499
+60
+30.9
+30–39
+57
+28.9
+500–999
+22
+11.3
+40–49
+19
+9.7
+1,000–4,999
+34
+17.5
+50 +
+3
+1.5
+5,000 +
+32
+16.5
+Tenure with the Organization
+n
+%
+under 1 year
+13
+6.5
+1 year
+37
+18.4
+2 years
+36
+17.9
+3 years
+20
+10
+4 years
+21
+10.5
+5 years
+21
+10.5
+6–10 years
+36
+17.7
+over 10 years
+17
+8.5
+6
+JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY—•• 2015
+DOI: 10.1002/asi
+10
+JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY—January 2017
+DOI: 10.1002/asi
+ 23301643, 2017, 1, Downloaded from https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23577 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+square root of the AVE is shown on the diagonal in Table 3,
+and these values exceed all the off diagonal values. The
+second method to assess validity is to examine the pattern of
+factor loadings. Each item should load more highly on its
+own factor than the other factors (Chin, 1998). Based on an
+exploratory factor analysis (EFA) with a varimax rotation,
+all items load on their own constructs with no evidence of
+any cross loading (Tabachnick & Fidell, 2001). The results
+of the EFA are shown in Table 4 of Appendix A. The ﬁnal
+way to assess validity is to look at the item loadings on their
+respective factors. Each item should signiﬁcantly load on its
+respective factor. Every item for every construct save one
+loaded signiﬁcantly on its factor. The largest p value for
+the items that signiﬁcantly loaded on their factor was 0.006.
+The item loads are shown in Table 5 of Appendix A. One
+of the information type items did not signiﬁcantly load on
+the information type factor and its p value was 0.15.
+All subsequent analyses were conducted twice. Once
+with the nonsigniﬁcant information type item included and
+once with it dropped. None of the statistical analyses were
+impacted by including or dropping the item. Based on that,
+it was decided to leave the information type scale with three
+items instead of dropping it to two items. All items included
+on the survey can be seen in Appendix B. Satisﬁed as to the
+reliability and validity of the study constructs; the next
+section provides the results of the hypothesis testing.
+Structural Model
+PLS-PM estimates path coefﬁcients and then a bootstrap-
+ping procedure is used to calculate the t-statistics, standard
+errors, and p-values for the hypothesis tests (Chin, 1998).
+The p

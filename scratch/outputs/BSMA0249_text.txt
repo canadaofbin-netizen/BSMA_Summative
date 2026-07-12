@@ -1,0 +1,1399 @@
+Contents lists available at ScienceDirect 
+Industrial Marketing Management 
+journal homepage: www.elsevier.com/locate/indmarman 
+Social media and customer relationship management technologies: 
+Influencing buyer-seller information exchanges 
+Omar S. Itania,⁎, Michael T. Krushb, Raj Agnihotric, Kevin J. Trainord 
+a Department of Marketing, Adnan Kassar School of Business, Lebanese American University, Beirut, Lebanon 
+b College of Business Administration, Marketing Department, Kansas State University, 4021 Business Building, Manhattan, KS 66506, USA 
+c Ivy College of Business, Iowa State University, 2167 Union Drive, Ames, IA 50011, USA 
+d Marketing, The W.A. Franke College of Business, Northern Arizona University, USA  
+ARTICLE INFO  
+Keywords: 
+Social media CRM 
+Information communication 
+Information sharing Buyer-seller ABSTRACT  
+Due to the increasing array of sales technology, salespeople must understand how each application assists them. 
+This study examines how business-to-business salespeople use different forms of sales technology to meet their boundary-spanning roles. Our research draws from social exchange theory and task-technology fit theory to test a model that examines how salespeople use CRM and social media technologies differentially to support com
+-
+petitive information collection, product information communication, and buyer information sharing. Dyadic data from industrial buyers and sellers is used to analyze the technology-behavior relationships. Our study's results reveal social media use and CRM technology both positively influence buyer-seller information ex
+-
+changes; however, each technology takes a distinct route to enable the information exchange between the buyer and the seller. The results also suggest that managers need to champion the use of both technology applications to their salesforce.   
+1. Introduction 
+Effective information exchange between buyers and sellers is crucial 
+for salesperson success. Buyers serve as a major source of market in -
+telligence for sellers. Further, the means of communication between 
+buyers and sellers via information technology continues to rapidly 
+progress. Technologies such as social media and customer relationship 
+management (CRM) facilitate two-way information exchanges between 
+buyers and sellers and provide an additional lever for value co-creation. 
+Information technologies, such as these, support the collection and 
+assimilation of information from internal and external environments 
+(Lacoste, 2016; Ward & Zhou, 2006) and help build durable relation -
+ships with customers (Trainor, Andzulis, Rapp, & Agnihotri, 2014). In 
+general, increasing information communication channels and in -
+formation sources enables boundary-spanning employees to collect 
+more information leading to improved individual and organization 
+performance (Moncrief, Marshall, & Rudd, 2015; Teigland & Wasko, 
+2003). 
+The extant literature shares a reasonable consensus that social 
+media and customer relationship management technologies are valu -
+able enablers of the buyer-seller interface (Agnihotri, Dingus, Hu, & 
+Krush, 2016; Guesalaga, 2016). Social media usage increases marketing opportunities for salespeople (Andzulis, Panagopoulos, & Rapp, 2012;  
+Guesalaga, 2016) through market-sensing (Trainor, 2012). It can also 
+be a powerful tool to collect market intelligence (e.g., Pérez-González, 
+Trigueros-Preciado, & Popa, 2017; Scuotto, Del Giudice, & Carayannis, 
+2017). In a similar vein, sales organizations use customer relationship 
+management technology to attain sustainable competitive advantage 
+(Phan & Vogel, 2010; Zahay & Griffin, 2004) by improving marketing 
+strategies, facilitating communication with buyers, and providing better services and support (Wang, Hu, & Hu, 2013). Buyer-seller 
+partnership success depends to a great extent on communication be
+-
+haviors such as information sharing and participation (Mangus, Bock, 
+Jones, & Folse, 2020; Monczka, Petersen, Handfield, & Ragatz, 1998). 
+Information sharing is a key relational behavior in industrial re -
+lationships (Itani, Goad, & Jaramillo, 2019; Mangus et al., 2020;  
+Newell, Ellegaard, & Esbjerg, 2019) as it can reduce information 
+asymmetry and uncertainty between organizations (Dyer & Chu, 2003;  
+Pei & Yan, 2019). Information acquisition from buyers helps sellers gain 
+information and leverage the buyer's information advantage (Li, Zheng, 
+Sethi, & Guan, 2018). Today's marketplace increasingly expects the 
+professional salesperson to function as a knowledge broker (Verbeke, 
+Dietz, & Verwaal, 2011) who ensures information sharing occurs within 
+the business relationship. Information sharing within business 
+https://doi.org/10.1016/j.indmarman.2020.07.015 
+Received 2 October 2019; Received in revised form 2 June 2020; Accepted 24 July 2020    ⁎Corresponding author. 
+E-mail addresses: omar.itani@lau.edu (O.S. Itani), mikekrush@ksu.edu (M.T. Krush), raj2@iastate.edu (R. Agnihotri), kevin.trainor@nau.edu (K.J. Trainor). Industrial Marketing Management 90 (2020) 264–275
+Available online 06 August 2020
+0019-8501/ © 2020 Elsevier Inc. All rights reserved.
+Trelationships can be difficult, however, because most buyers are not 
+willing to share their information for nothing (Li et al., 2018). 
+Researchers have examined the rising utilization of sales technolo -
+gies such as customer relationship management systems and social 
+media and their transformative effects on sales processes (
+Ancillai, 
+Terho, Cardinali, & Pascucci, 2019; Guesalaga, 2016; Limbu, 
+Jayachandran, & Babin, 2014; Trainor et al., 2014). Despite this in -
+creased attention to the effects of these technologies, few studies have 
+explored how these tools can engage buyers to co-create value through 
+two-way information exchange (
+Agnihotri, Trainor, Itani, & Rodriguez, 
+2017). 
+To address this gap in the literature, this study examines the impact 
+of customer relationship management and social media technologies used by sellers on buyer information sharing in a business-to-business 
+selling context. Specifically, we assert that the social media and cus
+-
+tomer relationship management technologies uniquely aid salespeople in carrying out two major job tasks, that of competitive intelligence 
+collection and product information communication. 
+We present a conceptual model grounded in social exchange theory 
+and task-technology fit theory
+. The model outlines our hypothesized 
+pathway from the salesperson's use of social media technology and 
+customer relationship management technology to the buyer's intent to 
+share information. Next, we forward our hypotheses and analyze our 
+model using buyer-seller dyadic data. Also, we offer a post-hoc analysis 
+where we examine the extent to which the technologies have a differ -
+ential effect based upon the degree of salesperson's experience. The 
+paper ends with a presentation of our findings and a discussion of our 
+contributions and the academic and managerial implications of our 
+findings. 
+2. Theoretical lens and conceptual model 
+2.1. Social exchange theory 
+Social exchange theory (
+Blau, 1964; Cook, Cheshire, Rice, & Nakagawa, 2013; Cropanzano & Mitchell, 2005; Emerson, 1976) and 
+task-technology fit theory (Goodhue & Thompson, 1995; Rapp, 
+Agnihotri, & Forbes, 2008) serve as the theoretical underpinnings for 
+our examination of how sales technology enables behaviors that benefit 
+buyers and ultimately lead to reciprocating behaviors that benefit 
+sellers. We argue that individuals are motivated to interact by an ex -
+pectation to benefit economically or socially from the interaction (per social exchange theory) (
+Blau, 1964) and that they can extract benefits 
+of technology only if they use technology and align its use with the task 
+in hand (per task-technology fit theory) (Goodhue & Thompson, 1995). 
+Integrating these theoretical notions, our model is built upon the logic 
+that a seller's relationship efforts, involving the use of different sales 
+technologies (i.e., social media and customer relationship management) 
+for specific tasks (i.e., market-sensing and customer-linking), will en -
+courage the buyer to share his or her market intelligence due to the 
+norm of reciprocity. 
+Social exchange theory has been invoked to examine relational 
+behaviors in intra-organizational contexts (e.g., Nowlin, Walker, & 
+Anaza, 2018
+) as well as exchanges involving buyers and sellers from 
+different organizations (e.g., Griffith, Harvey, & Lusch, 2006; Pulles, 
+Schiele, Veldman, & Hüttinger, 2016). In both contexts, social exchange theory supports the notion that social relationships between parties are 
+established and maintained because the parties offer reciprocal benefits 
+to one another over time. The premise that relational behaviors such as 
+communication and information sharing are influenced by norms of 
+reciprocity serves as an underlying driver for this study. The determi
+-
+nation of behaviors is often based on the difference between the cost of an interaction and the reward from the interaction (
+Cook et al., 2013). 
+In other words, the more often an action is rewarded, the more likely a participant in the exchange will act again. Furthermore, when exchange 
+participants benefit from an interaction, they develop a sense of ob
+-
+ligation and are likely to reciprocate with “appropriate attitudinal and 
+behavioral responses” (
+Griffith et al., 2006, p. 86). Such reciprocation 
+captures a dyadic effect and is best explicated as quid pro quo com -
+munication (
+Posey, Lowry, Roberts, & Ellis, 2010) or “you tell me and 
+Fig. 1. Hypothesized model.  O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+265I'll tell you” (Jourard, 1971, pp. 25–26). Moreover, this reciprocation 
+leads to additional rounds of exchanges and provides the foundation for 
+the nurturing of an ongoing social exchange relationship (Cropanzano 
+& Mitchell, 2005). 
+We suggest that when the salesperson provides competitive in -
+telligence and product information to the buyer, it creates an oppor -
+tunity for reciprocity, through an intent to share information. For in -
+stance, information is a commodity that individuals share based on the 
+model of reciprocal exchange (
+Constant, Kiesler, & Sproull, 1994). This 
+line of logic is also supported by the literature that suggests individuals share information with the expectations of reciprocation (Foa & Foa, 
+1980; Lussier & Hall, 2018). For instance, a salesperson sharing in
+-
+formation regarding product information or competitive information may engender a sense of reciprocity by the buyer. 
+As shown in our conceptual model (
+Fig. 1) we identify two different 
+paths that each lead to buyer information sharing. The sales technology 
+literature (Hunter & Perreault Jr, 2006; Rapp et al., 2008; Salo, 2017) 
+endorses a consistent premise: the relationship from sales technology 
+tools to sales effectiveness occurs through different pathways. Hunter 
+and Perreault (2007, p. 30) posit that each specific technology has 
+“differential effects on various aspects of performance … thus, how a 
+sales representative uses technology and on which behavioral tasks 
+(work processes) matters.” 
+2.2. Sales technology and buyer-seller information exchange 
+Salespeople, as technology users, respond to benefits and dis -
+advantages from using certain technology. They understand when a 
+given technology can assist or hinder their performance on different 
+tasks (
+Goodhue, 1995). As such, they “will choose those tools and 
+methods that enable them to complete the task with the greatest net 
+benefit” (Dishaw & Strong, 1999, p. 11). To positively impact desirable 
+outcomes, the functionality of the technology must be compatible with 
+the task requirements (Goodhue, 1998). Therefore, a high degree of fit 
+between technology and task is defined as “the degree to which a 
+technology assists an individual in performing his or her portfolio of 
+tasks” (Goodhue & Thompson, 1995, p. 216). Our conceptual model 
+aligns with this logic and demonstrates how the use of two distinct 
+technology tools, customer relationship management, and social media, 
+facilitate the exchange of buyer-seller information through two im -
+portant salesperson tasks: market-sensing and customer-linking (
+Day, 
+1994). 
+Customer-linking describes the ability to develop and sustain re -
+lationships with the customer (
+Rapp, Trainor, & Agnihotri, 2010). 
+Market-sensing describes the ability to use market intelligence to enable 
+a market focus, including an awareness of its marketplace (Day, 1994) 
+and the competitive environment. The literature reaffirms the im -
+portance of these behavioral tasks. From a customer-linking standpoint, the salesperson is the main customer interface and represents, “the most 
+critical vehicle for building and maintaining strong customer relation
+-
+ships.” (
+Palmatier, 2008, p. 83) and “salespeople have long played a key 
+role in managing relationships and information flow between selling 
+firms and their customers” (Hunter & Perreault, 2006, p. 99). According 
+to Sangtani and Murshed (2017), “salespeople play a vital role as firms 
+seek to develop market-sensing and customer-linking capabilities.” (p. 726). Therefore, our model conceives product information commu
+-
+nication as a means of customer linking and integrates seller competi -
+tive information collection as one means of market sensing. We posit 
+that customer-linking and the market-sensing tasks possess distinct 
+characteristics. Thus, to carry out the tasks most effectively, the sales -
+person chooses to use either social media or customer relationship 
+management technology (e.g., Avlonitis & Panagopoulos, 2005
+;  
+Goodhue & Thompson, 1995; Zigurs & Buckland, 1998). 
+Customer relationship management technology helps salespeople 
+convert increasing volumes of data into a practical form that can be communicated to and shared with buyers in an efficient and organized way (Hunter & Perreault Jr, 2006). This technology facilitates a sales
+-
+person's evaluation of “alternative proposals” and “prepare graphics to 
+help communicate a recommendation” (
+Hunter & Perreault, 2007, p. 
+21). Customer relationship management technology will help sales -
+people gather and analyze data regarding the product use patterns of 
+customers in the past. Customer relationship management databases 
+are also used to accumulate information regarding service requests and 
+other challenges related to the customers' product use. The information 
+gleaned from customer relationship management technology helps 
+salespeople configure current product offerings or service warranties, 
+solutions per customer needs. Customer relationship management 
+technology, therefore, is valuable for ensuring salespeople are well- 
+versed as well as for executing product information communication 
+behaviors. Social media technology, on the other hand, is best aligned 
+with market-sensing tasks that help salespeople learn more about 
+competitors as well as customer reactions to their own and competing 
+products within their social network. Therefore, our model highlights 
+the two distinct paths that social media and customer relationship 
+management technology will directly influence and, ultimately, posi -
+tively affect the likelihood of buyer information sharing. 
+3. Hypothesis development 
+3.1. Social media effects 
+Social media technology offers ample opportunity for salespeople to 
+access knowledge and learn about competitors and customers (
+Andzulis 
+et al., 2012; Rodriguez, Peterson, & Krishnan, 2012). Social media is 
+recognized as a tool that can be used to collect market information 
+(Dey, Haque, Khurdiya, & Shroff, 2011; Pérez-González et al., 2017). 
+Salespeople may use a range of social media platforms such as, Lin -
+kedIn, Facebook, and Twitter to collect information about competitors. 
+These platforms hold valuable tools (e.g., social monitoring and lis -
+tening) for businesses to explore and capture knowledge about com -
+petitors (
+Scuotto et al., 2017). As such, social media is viewed by 
+businesses as a mechanism to collect competitive and market in -
+telligence (
+He et al., 2015; He, Zha, & Li, 2013). Competitive in -
+telligence collection describes the salesperson's behaviors of “gathering information concerning competitors and the competitive environment” 
+(
+Rapp, Agnihotri, & Baker, 2015, p. 360). A salesperson using social 
+media can follow the updates of competitors' social media pages, cus -
+tomers communicating their perspectives about competitors' products, 
+and other user-generated content concerning the competitive environ -
+ment. 
+Further, competitive intelligence collection adds to organizational 
+knowledge, especially, when this collection occurs at lower levels of the organization. This type of information helps discover opportunities as 
+well as risks and guides managerial decisions. Competitive intelligence 
+collected by the salesperson is unique because of its usability and 
+practicality, thereby allowing timely responsive reactions (
+Agnihotri & 
+Rapp, 2011; Rapp, Agnihotri, & Baker, 2011). For example, Scuotto 
+et al. (2017), found the use of social media to acquire competitive in -
+telligence can enhance the firm's innovative performance. As such, we argue that the greater the usage of social media, the greater the degree 
+of seller competitive information collection. 
+H1a. : Seller social media utilization will have a positive effect on seller 
+competitive information collection. 
+We also argue that social media has a positive impact on buyer 
+information sharing intention. Social media is recognized as an im
+-
+portant buyer-seller communication channel (
+Siamagka, 
+Christodoulides, Michaelidou, & Valvi, 2015; Wang, Pauleen, & Zhang, 
+2016) and is considered a powerful two-way communication and in -
+teraction tool for marketing, sales, and customer service (
+Huang, 
+Baptista, & Galliers, 2013; Shang, Wu, & Li, 2017). By using social 
+media, salespeople provide buyers with an easier and faster O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+266communication channel. This allows social media to facilitate the 
+buyer-seller information sharing process. For instance, Tajudeen, 
+Jaafar, and Ainin (2018) studied the effect of social media usage among 
+organizations. Their study shows that the use of social media improves 
+information accessibility as well as customer relationships by helping 
+users easily share information. 
+Information exchanges through social media can enable positive 
+relationship experiences and an ongoing sense of relationship trust and 
+satisfaction (Agnihotri et al., 2016; Ahearne, Jelinek, & Jones, 2007). 
+Social exchange theory suggests that these positive experiences will lead buyers and sellers to engage in more frequent communications. 
+Increased frequency of interactions between business entities reduces 
+perceptions of risk, enhances the trust in the relationship, and thereby 
+engenders greater cooperation (Palmatier, Dant, Grewal, & Evans, 
+2006). Furthermore, the relationship marketing literature provides 
+evidence that sellers will be inclined to invest more (time, effort, and 
+resources) in their relationships with their buyers, leading to expecta
+-
+tions of “reciprocation that can help strengthen and maintain a re -
+lationship” (
+Palmatier et al., 2006, p. 140). Hence, we argue that social 
+media use facilitates a greater intention by the buyer to share in -
+formation within the relationship. 
+H1b. : Seller social media utilization will have a positive effect on buyer 
+information sharing intention. 
+Our next hypothesis proposes that seller competitive information 
+collection positively affects buyer information sharing intention. We 
+suggest that the salesperson's collection of competitive information 
+serves as a valuable resource for the buyer. Menon and Varadarajan 
+(1992) note the value of information associated with the marketplace. 
+Competitive information collection provides a source of information 
+and knowledge because competitors affect the buyer's needs and pre -
+ferences and the way a market functions (
+Kohli & Jaworski, 1990). 
+Further market information and intelligence “represents real, action -
+able information” (
+Rapp et al., 2015, p. 358). Market information is an 
+important knowledge source for organizations as it supports marketing 
+planning capabilities (Morgan, Zou, Vorhies, & Katsikeas, 2003). 
+Moreover, a salesperson's effort to collect competitive information 
+demonstrates an investment in the relationship that will likely be no -
+ticed by buyers. Armed with competitive intelligence, the salesperson can demonstrate a greater understanding of the competitive market by 
+asking questions of increasing depth. The buyer will likely recognize 
+this depth of understanding as an investment made by the seller. As 
+stated earlier, such relationship investments have been shown to lead to 
+enhance relationships and lead to feelings of reciprocity (
+Palmatier 
+et al., 2006). By receiving knowledge resources from a seller, the buyer 
+will likely feel inclined to reciprocate and consider sharing some of 
+their market and competitor information. 
+Finally, the competitive information collection efforts that include 
+asking buyers about competitive information may increase the level of 
+buyer information sharing intentions. The collection provides a basis of 
+expertise, which has been shown to positively affect the trust in the 
+relationship (Crosby, Evans, & Cowles, 1990; Doney & Cannon, 1997). 
+H2. : Seller competitive information collection efforts will have a positive 
+effect on buyer information sharing intentions. 
+3.2. CRM technology enabled information activities 
+Customer relationship management technologies are defined as a 
+“group of information systems that enable organizations to contact 
+customers and collect, store and analyze customer data to provide a 
+comprehensive view of their customers” (Khodakarami & Chan, 2014, 
+p. 27). These information systems are integrated across organizations to 
+support collaboration (Kim & Lee, 2010) and facilitate the electronic 
+transmission of information within organizations and between organi -
+zations leading to improved performance outcomes (
+Ward & Zhou, 2006). With time, buyer-seller relationships develop and allow sellers to 
+gather and move buyer information throughout the organization 
+(Zahay & Griffin, 2004). The customer relationship management system 
+is “designed to help the sales organization meet its objectives in 
+managing customer relationships” (Hunter & Perreault, 2007, p. 17). 
+Customer relationship management systems help organizations collect 
+and constantly generate customer knowledge and intelligence (Garrido- 
+Moreno, Lockett, & García-Morales, 2014; Khodakarami & Chan, 2014). 
+These systems facilitate the knowledge creation processes 
+(Khodakarami & Chan, 2014), knowledge management (Garrido- 
+Moreno et al., 2014), and customer-based performance, which support 
+business growth (Zahay & Griffin, 2004). For instance, due to their data 
+collection abilities, customer relationship management systems enable 
+firms to better align products and services with customer requirements 
+and aid in creating of customer-centered product information (Mithas, 
+Krishnan, & Fornell, 2005). 
+Organizations invest substantially in customer relationship man -
+agement technology to facilitate the sharing of information with cus -
+tomers (
+Soltani & Navimipour, 2016) and create a customer-seller 
+learning relationship (Zahay & Griffin, 2004). The ability of a sales -
+person to communicate information with buyers is enriched with the use of sales technology (
+Agnihotri, Rapp, & Trainor, 2009). The tech -
+nology enables the salesperson to understand their firm's product portfolio and serves as a resource of product knowledge. Research 
+shows that technologies, such as customer relationship management, 
+enable a richness of information and ease of access to the information 
+(e.g., Chuang & Lin, 2013
+; Li & Mao, 2012; Wang et al., 2013) and can 
+create a clear, more precise level of communication valued by the buyer 
+(Agnihotri et al., 2009). Customer relationship management technology 
+allows better knowledge sharing and partnering, which in turn in -
+creases organizational responsiveness leading to increased customer 
+satisfaction (
+Dobrzykowski, Callaway, & Vonderembse, 2015). Cus -
+tomer relationship management technology, therefore, provides an in -
+formational resource that the salesperson can easily access and dis -
+seminate to the customer base. We suggest that as customer 
+relationship management technology use increases, product informa -
+tion communication will also increase. Therefore, 
+H3a. : Seller customer relationship management technology utilization will 
+have a positive effect on seller product information communication. 
+Next, we suggest that the greater use of customer relationship 
+management sales technology leads to buyer intention to share market 
+information. The sales technology literature notes “A central purpose of 
+information technology is to help users connect available data into 
+information that can be used effectively” (
+Hunter & Perreault, 2006, p. 
+99). Similarly, customer relationship management technologies are found to positively enhance knowledge management by collecting 
+buyer information, disseminating the knowledge across the different 
+departments, and applying the knowledge to provide solutions (Hunter 
+& Perreault Jr, 2007; Phan & Vogel, 2010). 
+A seller's use of customer relationship management technology is in 
+effect an investment in the buyer-seller relationship. As the seller in
+-
+vests more time, he/she is developing expertise, a greater knowledge base, and investing in the relationship. The literature suggests that re
+-
+lationship investments that involve time, effort, and resources, such as in the case of customer relationship management utilization, create 
+opportunities for creating a sense of trust within the relationship 
+(
+Palmatier et al., 2006) and ultimately open opportunities for sharing. 
+Hence, we propose the following hypothesis. 
+H3b. : Seller customer relationship management technology utilization will 
+have a positive effect on buyer information sharing intentions. 
+Next, we suggest that as seller product information is increasingly 
+communicated, the buyer's intention to share information also in -
+creases. The information that the salesperson shares with a buyer is a 
+fundamental unit of exchange. This exchange may include information O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+267about the products and services, usage methods, previous user reviews, 
+and recommendations (Khodakarami & Chan, 2014). As noted in the 
+literature, quality information is critical for planning activities and 
+preparation processes (Hunter & Perreault Jr, 2006). Information 
+communication reveals customer-contact employee knowledge which, 
+according to Froehle (2006), is a key characteristic that contributes to 
+customer satisfaction. Further, effective information demonstrates an 
+investment made by the salesperson toward understanding the cus -
+tomer and creating meaningful value (
+Hunter & Perreault Jr, 2006;  
+Itani, Jaramillo, & Paesbrugghe, 2020). As such, the communication of 
+product information can provide valued resources to assist the buyer's 
+in meeting business responsibilities and facilitate the buyer's will -
+ingness to reciprocate. 
+The salesperson's communication of information can also reduce the 
+level of risk perceived by the buyer (
+Johnston & Lewin, 1996), and, 
+thereby, create a greater willingness by the buyer to share information. 
+Research suggests that reciprocity engenders a strong effect on in -
+dividuals' communication behaviors (
+Allen, Long, O'Mara, & Judd, 
+2008). According to Teigland and Wasko (2003), reciprocity is a co -
+operation mechanism that facilitates informal information sharing in cross-boundary exchanges. According to Hughes, Le Bon, and Rapp 
+(2013)
+, a salesperson can “creates an environment conducive to the 
+reciprocal nature of the social exchange, encouraging the buyer to re -
+spond in kind with something of benefit” such as “the sharing of in -
+formation that might be unknown to and useful to the salesperson” (p. 
+95). Accordingly, we hypothesize: 
+H4. : Seller product information communication efforts will have a positive 
+effect on buyer information sharing intentions. 
+4. Methodology 
+4.1. Sample 
+Buyer-seller dyadic and time-lag data were collected from industrial 
+salespeople and buyers. The use of dyadic data reduces the opportunity 
+for common method bias (e.g., Doty & Glick, 1998
+; Podsakoff, 
+MacKenzie, Lee, & Podsakoff, 2003; Rindfleisch, Malter, Ganesan, & 
+Moorman, 2008). Sales organizations located in India and operating in 
+an industrial-market setting were randomly chosen and sent an in -
+vitation to participate in our study. The setting provides an opportunity 
+for greater theoretical and managerial understanding. The literature 
+notes the value of studies using samples outside of traditional western- 
+based settings (e.g., Bagozzi, 2006
+; Podsakoff, MacKenzie, Paine, & 
+Bachrach, 2000; Purani & Sahadev, 2008) as examinations are rela -
+tively sparse, especially within a sales context. 
+Upon identification, sales organizations were approached for pos -
+sible participation and were told about the academic purposes of the 
+study. Upon the organization's consent to participate, salespeople were 
+randomly chosen within each organization. Salespeople surveyed re -
+presented various industries (e.g., automotive, financial, information technology, etc.). See Appendix 1 for a breakdown by industry. 
+The sales organization was asked to provide a list of buyers served 
+by each of the salespeople. The buyers surveyed were randomly chosen. 
+Within each group of buyers submitted, the randomly chosen buyer was 
+approached for completing the questionnaire. The buyers were con
+-
+tacted, and the academic purpose of the study was discussed. The buyer was informed that the data collected was not to evaluate the perfor
+-
+mance of the salesperson. In the case that the buyer refused to parti -
+cipate or was not able to be contacted, another buyer was randomly 
+chosen. The process was repeated until data from a buyer matched that 
+of a salesperson. The questionnaires of salespeople and buyers were 
+assigned identifying codes to allow matching between the ques -
+tionnaires. In some cases, the responding salesperson was dropped from 
+the final sample when none of the counterpart buyers could be con -
+tacted. On average the time between a salesperson filling out their survey (Time 1 or T1) and a buyer completing his or her survey (Time 2 
+or T2) was one fiscal quarter. Fifty-seven responding salespeople could 
+not be part of the final sample because of missing buyers' data. The final 
+data set consisted of 162 salesperson-buyer dyads. 
+For our study, salespeople served as the respondents to the fol -
+lowing constructs: social media utilization, customer relationship 
+management technology utilization, and competitive information col -
+lection. The salesperson also served as the respondent for the following control variables: adaptability, polychronicity, and other demographics 
+and work-related factors. Buyers served as the respondents to the fol
+-
+lowing constructs within our study: seller product information sharing, 
+and buyer information sharing intentions. The buyer also served as the 
+respondents for the following control variables: buyer perceived in -
+ducements, and buyer satisfaction with the seller. 
+4.2. Measures 
+Before collecting the data for this study, seller and buyer ques -
+tionnaires were pretested on two different samples of salespeople and 
+buyers, respectively. The pretest helped us confirm the clarity and ap -
+plicability of the statements and questions used. Moreover, three sales scholars from India and the US examined the questionnaire. Very minor 
+refinement to some of the questions was recommended. 
+The measures utilized in this study were adapted from prior studies. 
+We utilized 7-point Likert scales for all the variables in our model. The 
+measures utilized were generally utilized and validated in prior studies. 
+The scale used by Sundaram, Schwarz, Jones, and Chin (2007) was 
+adapted to measure seller customer relationship management tech
+-
+nology utilization. This multi-item scale captures the extent to which 
+salespeople use customer relationship management technology. It in -
+cludes items such as, “
+My use of CRM technology on the job has been 
+integrated and incorporated at the highest potential.” The seller social media utilization scale was adapted from Agnihotri et al. (2016). It 
+describes the extent to which salespeople use social media and includes items such as, “My use of social media is pretty much integrated as part of 
+my normal work routine.” 
+A four-item scale developed by Ahearne et al. (2007) was used to 
+measure product information communication. We adapted the scale of  
+Le Bon and Merunka (2006) to measure seller competitive information 
+collection. The dependent variable, buyer information sharing inten
+-
+tion, was measured by a three-item scale based on the information 
+sharing scale developed by Cannon and Homburg (2001) in a buyer- 
+supplier context. The items were modified to fit in the current context 
+and specifically tapped both ease and willingness to share market in -
+formation. 
+In terms of the control variables, buyer satisfaction with the sales -
+person (e.g., Gabler, Agnihotri, & Itani, 2017
+) was included to control 
+for its effect on buyer information sharing intentions because satisfied 
+buyers are likely to hold positive intentions toward the salesperson 
+(e.g., word-of-mouth, repurchase, information sharing intentions). We 
+controlled for several seller variables (adaptability, polychronicity, 
+education level) and two firm-level variables (number of employees, 
+industry type). Adaptability was measured using a scale adapted from 
+(Spiro & Weitz, 1990). Buyer perceived inducements were measured 
+based on a scale adapted from Ahearne et al. (2007). Polychronicity 
+was measured using a scale of three-item adapted from Conte, Rizzuto, 
+and Steiner (1999). The number of employees is used as a proxy of the 
+firm size. The list of the measurement scales is provided in Appendix 1. 
+4.3. Measurement model 
+Partial least square path modeling technique was used to test the 
+conceptual model using SmartPLS 3.0 software. Partial least square 
+path modeling allows us to analyze complex models with small sample 
+sizes as it is the case in our study (Chin, 1998; Hair, Sarstedt, Ringle, & 
+Mena, 2012). The psychometric properties of the constructs used were O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+268examined. We calculated coefficient alpha (α), composite reliabilities 
+(CR), and average variance explained (AVE) of the measures used as a 
+means of assessing the reliability and validity of the measures deployed. 
+All factor loadings were significant at p  <  .01, supporting the 
+convergent validity of the measures. Moreover, none of the items have 
+higher loading than perspective construct loading onto other constructs 
+(Gefen & Straub, 2005). All multi-item scales have a Cronbach alpha 
+greater than or equal to 0.7 level, and CR greater than or equal to 0.75 
+level, demonstrating evidence of the reliability of the measures used. 
+AVE exceeded the 0.5 cutoff level for all variables. The inter-correla -
+tions of each construct with other constructs in the model were com -
+pared to the construct square root of the AVE. None of the inter-factor 
+correlations was greater than the construct square root of the average 
+variance extracted, demonstrating evidence of discriminant validity. 
+Moreover, a second test was conducted to check for discriminant va -
+lidity. The “heterotrait–monotrait ratio” test (HTMT) (
+Henseler, Ringle, 
+& Sarstedt, 2015). The test shows that the HTMT between different 
+pairs of the latent factors was lower than the cutoff level of (0.85) 
+providing additional evidence of discriminant validity (Henseler et al., 
+2015; Voorhees, Brady, Calantone, & Ramirez, 2016). Table 1 shows 
+correlations, reliability indices, and AVE. 
+5. Results 
+An overall structural model using the full sample was analyzed by 
+examining the standardized coefficients of the relationships hypothe -
+sized and their relevant significance levels utilizing the bootstrapping 
+technique. The models that were analyzed also included an interaction 
+that represents the product-term between seller customer relationship 
+management technology utilization and seller social media utilization 
+referred to as SocialCRM following the study of (
+Trainor et al., 2014). 
+Within the market-sensing activities, our results show a positive 
+effect of seller social media utilization on the seller's competitive in -
+formation collection (
+β = 0.17, p  <  .05) in support of H1a. 
+Nevertheless, seller social media utilization effect on buyer information 
+sharing intentions is not significant (β = 0.02, p  >  .1). Seller com -
+petitive information collection effort is hypothesized to increase buyer 
+information sharing intentions. Results didn't support a significant as -
+sociation between seller competitive information collection and buyer 
+information sharing intentions (
+β = 0.08, p  >  .05). No support of H2 
+is found. 
+Salespeople are also responsible for customer-linking activities. We 
+find that seller customer relationship management technology utilization is positively related to product information communication (β = 0.26, p  <  .01) and buyer information sharing intentions 
+(β = 0.27, p  <  .01) in support of H3a and H3b. The results demon
+-
+strate the customer-linking capabilities of customer relationship man -
+agement. Furthermore, the seller's product information communication 
+effort is positively related to buyer information sharing intentions 
+(
+β = 0.42, p  <  .01) in support of H4. 
+5.1. Post-hoc analysis 
+SocialCRM: While not initially proposed, our data collection and 
+study also offer a few interesting additional analyses. Based on prior 
+studies, we conducted additional analyses related to the interaction 
+between seller social media utilization and seller customer relationship 
+management technology utilization or SocialCRM. The literature sug -
+gests that integrating the power of social networking, applications, and 
+online communities with customer relationship management systems 
+hold marketing, communication, and interactive opportunities 
+(
+Wongsansukcharoen, Trimetsoontorn, & Fongsuwan, 2015). According 
+to Greenberg (2009), “Social CRM takes that traditional CRM set of 
+functions and capabilities applicable to sales, marketing, and customer 
+support and extends it by integrating the social tools for communication 
+with the customers - and to allow you to capture even richer knowledge 
+of that particular customer or that deal opportunity.” (pp. 6–7). In our 
+post hoc analysis, we analyzed the effects of an interaction term, So -
+cialCRM, (i.e. seller social media utilization and customer relationship management technology utilization) on our three endogenous vari
+-
+ables. Results demonstrate that the interaction term, SocialCRM, posi -
+tively affects seller competitive information collection (β = 0.22, 
+p  <  .01) in the overall model. The results of the overall model are 
+summarized in Table 2
+. 
+Multi-group analysis: We also test whether the effects of seller social 
+media utilization and the effects of customer relationship management 
+technology differ according to seller experience level. We suggest that 
+less experienced sellers will initially possess a limited, but potentially 
+expanding, knowledge base related to buyers and their organizations. 
+To compensate for their inexperience, these sellers may utilize tech -
+nology to a greater extent than their more experienced counterparts (
+Ko 
+& Dennis, 2004). For instance, a newly hired seller may be motivated to build her business network through LinkedIn or Facebook. Conversely, 
+a more experienced seller may have had more time to grow their 
+business network. Thus, the seller from high experience group may feel 
+less dependent upon social media to build and expand their social Table 1 
+Correlations, descriptive statistics, reliability and average variance extracted.              
+1 2 3 4 5 6 7 8 9 10  
+1. Seller social media utilization 0.85 0.27 0.49 0.09 0.17 0.12 0.17 0.15 0.46 0.13 
+2. Seller CRM technology utilization  −0.24⁎⁎ 0.85 0.47 0.33 0.42 0.20 0.10 0.23 0.24 0.07 
+3. Seller competitive information collection 0.44⁎⁎ −0.42⁎⁎ 0.92 0.14 0.26 0.13 0.15 0.46 0.73 0.12 
+4. Seller product information communication a collection communication a −0.02 0.28⁎⁎ −0.08 0.81 0.78 0.28 0.32 0.14 0.21 0.17 
+5. Buyer information sharing intentions a −0.09 0.31⁎⁎ −0.12 0.55⁎⁎ 0.79 0.58 0.09 0.31 0.23 0.09 
+6. Buyer Perceived Inducements a 0.04 0.04 0.10 −0.08 −0.19⁎ 0.71 0.22 0.08 0.25 0.06 
+7. Buyer satisfaction with seller a −0.13 −0.08 −0.07 0.02 0.47⁎⁎ 0.18⁎ b 0.05 0.09 0.10 
+8. Seller polychronicity 0.14 −0.19⁎ 0.39⁎⁎ 0.16⁎ 0.20⁎⁎ 0.03 0.13 0.92 0.32 0.15 
+9. Seller adaptability 0.28⁎⁎ −0.20⁎ 0.60⁎⁎ −0.08 −0.11 0.16⁎ 0.04 0.22⁎⁎ 0.78 0.09 
+10. Firm size - Number of employees 0.13 −0.07 10 −0.13 −0.12 0.02 −0.11 −0.17⁎ 0.07 b 
+11. Seller education level 0.05 −0.20⁎ 0.19⁎ −0.04 0.01 0.06 0.16⁎ 0.17⁎ 0.15 0.09 
+Mean 5.75 4.73 5.69 4.55 4.01 2.34 6.10 4.31 5.89 113 
+Standard deviation 1.19 1.11 1.69 1.16 1.08 0.97 1.32 2.14 0.95 347 
+Cronbach's alpha α 0.82 0.90 0.92 0.83 0.70 0.70 b 0.92 0.71 b 
+Composite reliability 0.89 0.93 0.95 0.88 0.83 0.75 b 0.95 0.82 b 
+Average variance extracted 0.73 0.72 0.86 0.65 0.62 0.51 b 0.86 0.61 b 
+* p  <  .05; ** p  <  .01. Correlations are added below the diagonal. The numbers added along the diagonal are the square root average variance extracted. The 
+numbers above the diagonal represent the HTMT values. a buyer data, b single item. 
+The number of employees is used as a proxy of seller firm size. CRM: Customer relationship management.  O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+269connections while “salespeople with more experienced learned how to 
+be effective without the use of modern sales technologies” (Hunter & 
+Perreault, 2006, p. 98). Similarly, less experienced sellers may be more 
+motivated to exploit the rich data available in a customer relationship 
+management repository. More experienced sellers, on the other hand, 
+have a wealth of personal experiences and product knowledge from 
+which to draw. As such, the experienced sellers may feel less dependent 
+on customer relationship management technology to gain contextual knowledge about their firm and their customers. Further, the high ex
+-
+perienced seller may have more self-efficacy in their abilities and choose not to rely on technology. 
+To conduct the post-hoc analysis we relied on the mean-splitting 
+approaches used by prior studies (e.g., Ju & Gao, 2017
+; Laroche, Yang, 
+Kim, & Richard, 2007; Menon & Dubé, 2007). In this approach, sales -
+people were categorized into low experience (mean years = 3.49) 
+versus high experience (mean years = 9.39). This categorization 
+method was supported using the K-means clustering approach. Before 
+running the multi-group analysis (MGA), the measurement invariance 
+for composite models (MICOM) approach proposed by Henseler, Ringle, 
+and Sarstedt (2016) was conducted to establish measurement in -
+variance. MICOM approach follows a three-step procedure. The first 
+step is configural invariance; the second step is compositional in -
+variance; and, the third step is the equality of composite mean values and variances Henseler et al. (2016)
+. The results demonstrate full 
+measurement invariance with configural invariance, compositional in -
+variance, and equality of mean values and variances between the high 
+and low seller experience group. Based on the MICOM results, the MGA 
+was conducted using the bootstrapping method (
+Hair Jr, Sarstedt, 
+Ringle, & Gudergan, 2017). The Partial Least Squares Multi-Group Analysis (PLS-MGA), as well as Parametric Test, approaches within the 
+SmartPLS provide evidence of the significant differences in some of the 
+path coefficients between the High and Low seller experience groups 
+(Henseler, Ringle, & Sinkovics, 2009; Sarstedt, Henseler, & Ringle, 
+2011). 
+The results from the MGA demonstrate that the positive link be
+-
+tween seller social media utilization and seller competitive information collection is greater for less experienced salespeople (
+β = 0.22, 
+p  <  .01) compared to more experienced salespeople (β = −0.06, 
+p  >  .05). The coefficient difference between the two groups 
+(∆β = 0.28, p  <  .05) is significant. The results demonstrate a stronger 
+positive effect of seller social media utilization on buyer information sharing intentions for less experienced salespeople (β = 0.15, p  <  .05) 
+versus more experienced salespeople (β = −0.14, p  >  .05). The 
+coefficient difference between the two groups (∆β = 0.29, p  <  .05) is 
+significant. 
+The findings also show a positive effect of customer relationship 
+management technology on product information communication for 
+less experienced salespeople (β = 0.41, p  <  .01) compared to a 
+nonsignificant effect for high experienced salespeople (β = 0.13, 
+p  >  .05). This finding suggests that less experienced salespeople are 
+more likely to assist themselves with customer relationship manage -
+ment technology when sharing information with buyers. The coefficient difference between the two groups (∆
+β = 0.28, p  <  .05) is significant. 
+The effect of seller customer relationship management technology uti -
+lization on buyer information sharing intentions is positive and sig -
+nificant for low and high experienced groups. No significant differences were found between the two groups. 
+6. Discussion 
+In today's buyer-seller relationships, the buyer is increasingly per
+-
+ceived as a value co-creator (
+Vargo & Lusch, 2008). Information tech -
+nology and digitization have allowed industrial buyers to conduct ex -
+tensive research, collect market information, and better understand 
+competitive offerings. As such, buyers serve an important role in the 
+development of market knowledge (
+Menguc, Auh, & Uslu, 2013) and 
+the provision of market intelligence (Hughes et al., 2013; Rapp et al., 
+2015). Buyers can provide knowledge about products and services 
+within their industry and information regarding competitive offerings 
+and their distinct benefits (e.g., Khodakarami & Chan, 2014). Hence, 
+buyers have evolved into an increasingly valued source of information 
+by salespeople and the selling organization. Salespeople can integrate 
+buyer-developed information into their firm's knowledge base, thereby 
+aiding the selling organization in developing more valued market of -
+ferings and creating a competitive barrier. 
+However, the salesperson faces a challenge. She must ensure her 
+activities create an opportunity for the buyer to share information. Our 
+study focuses on this vital salesperson role. We attempt to understand 
+how the salesperson's use of technology may enable the willingness of 
+the buyer to share information with the seller. 
+Using task-technology fit theory and social exchange theory, we 
+suggest that the salesperson must ensure alignment between the Table 2 
+Results – overall model.      
+Predictors Dependent variables 
+Competitive information 
+collection Product information communication Buyer information sharing 
+intentions  
+Seller social media utilization 0.17⁎ (0.07) [H1a: Supported] 0.12 (0.07) 0.02 (0.05) 
+[H1b: Not supported] 
+Seller CRM technology utilization −0.25⁎⁎ (0.05) 0.26⁎⁎ (0.08) [H3a: Supported] 0.27⁎⁎ (0.06) 
+[H3b: Supported] 
+Seller competitive information collection   0.08 (0.07) 
+[H2: Not supported] 
+Seller product information communication   0.42⁎⁎ (0.05) 
+[H4: Supported] 
+SocialCRM (Social media utilization × CRM technology 
+utilization) 0.22⁎⁎ (0.05) −0.09 (0.07) 0.06 (0.06)  
+Controls 
+Buyer Perceived Inducements −0.01 (0.05) −0.20⁎⁎ (0.07) −0.25⁎⁎ (0.07) 
+Buyer satisfaction with seller −0.10⁎ (0.04) 0.18 (0.10) 0.49⁎⁎ (0.05) 
+Seller polychronicity 0.26⁎⁎ (0.05) 0.17⁎ (0.07) 0.06 (0.05) 
+Seller adaptability 0.44⁎⁎ (0.06) −0.11 (0.08) −0.04 (0.05) 
+Firm size (number of employees) 0.05 (0.02) −0.08 (0.05) 0.04 (0.04) 
+Seller educational level 0.03 (0.05) −0.03 (0.07) −0.01 (0.04) 
+Industry −0.12⁎ (0.06) 0.10 (0.08) 0.06 (0.05) 
+*p  <  .05; ** p  <  .01. Standardized coefficient is reported with standard deviation in parentheses. Industry (1 = service; 0 = product).  O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+270technology tools used and the sales behavior required (Goodhue & 
+Thompson, 1995; Hunter & Perreault Jr, 2007). Accordingly, our model 
+focuses on understanding how a salesperson's investment of time and resources in sales technologies may yield returns, such as the buyer 
+sharing information with the salesperson. More specifically, we posit 
+that a seller's relationship efforts, including the use of time and re
+-
+sources in sales technologies, will encourage the buyer to share his or 
+her market intelligence due to the norm of reciprocity. 
+Our results contribute to the literature by demonstrating that social 
+media and customer relationship management technology are tools that 
+aid the salesperson in fulfilling two distinct roles, that of market sensing 
+activities and customer-linking activities. Specifically, our findings 
+show that a seller's social media utilization enhances the competitive 
+information collection abilities of the seller. Conversely, the seller's use 
+of customer relationship management enabled information activities to 
+help with the seller's ability to communicate product information. As 
+such, we demonstrate that salespeople may be increasingly expected to 
+understand and harness distinctive forms of sales technology to meet 
+their ever-expanding boundary-spanning role. 
+Second, we contribute to the literature by demonstrating a specific 
+pathway that originates from the salesperson's use of technology 
+through a customer-linking mechanism that influences the buyer's 
+willingness to share market information. Our results show that seller 
+customer relationship management technology utilization positively 
+affects the level of seller's product information communication and that 
+seller's product information communication facilitates buyer informa -
+tion sharing intentions. While, in the past, the investment in customer relationship management technology has been questioned (
+Rapp et al., 
+2010), our findings demonstrate the value created by customer re -
+lationship management utilization. Our results highlight that sales -
+person customer relationship management use can facilitate important 
+tasks related to customer linking. 
+In a similar vein, our results also demonstrated a direct path from 
+the use of customer relationship management technology to buyer in -
+formation sharing intention. This finding reinforces the value of the 
+salesperson's use of customer relationship management. We suggest 
+such use demonstrates a relationship investment that is valued by the 
+buyer (
+Palmatier et al., 2006). As such, this investment in the re -
+lationship plausibly garners additional resources from the buyer, 
+namely information sharing. Further, this finding contributes to the 
+literature, as many scholars have noted the relative hesitation of 
+salespeople to fully adopt customer relationship management tech -
+nology (e.g., King & Burgess, 2008
+; Rapp et al., 2010). We suggest our 
+research demonstrates the value for salespeople in understanding and 
+using customer relationship management technology. 
+Third, we demonstrate how the use of sales technology is related to 
+an important salesperson objective, that of the buyer sharing informa -
+tion. Previously, research has examined the role of social media and customer relationship management on more salesperson performance- 
+based results, such as relational performance (
+Ogilvie, Agnihotri, Rapp, 
+& Trainor, 2018; Rodriguez, Ajjan, & Peterson, 2016; Trainor et al., 
+2014), selling performance (Itani, Agnihotri, & Dingus, 2017; Schultz, 
+Schwepker, & Good, 2012), and brand sales performance (Rapp, Beitelspacher, Grewal, & Hughes, 2013). Our research makes a unique 
+contribution by examining an important but relatively under-re
+-
+searched performance outcome, that of the buyer's intention to share 
+information. As such, we examine a distinct form of customer engage -
+ment and value creation (
+Brodie, Hollebeek, Jurić, & Ilić, 2011). 
+Fourth, we also contribute to the literature by demonstrating one 
+potential limitation involved with the salesperson's usage of social 
+media. We align with prior literature that has suggested the value of 
+salesperson's usage of social media lies in enabling important sales- 
+based activities, such as knowledge-gathering, identifying buying 
+needs, and determining sales opportunities (Ancillai et al., 2019;  Andzulis et al., 2012). Our findings add another valued activity in 
+which social media use can assist the salesperson, that of competitive 
+information collection. Interestingly, we find the seller's use of social 
+media does not directly facilitate the buyer's information sharing in -
+tention. Nor do our results show that seller competitive information 
+collection efforts possess a positive effect on buyer information sharing 
+intention. We suggest that the findings show that while social media 
+enables a valuable market-sensing responsibility, (i.e. competitive data 
+collection,) the seller's investment of time and resources into social 
+media may not be a highly valued relationship investment by the buyer 
+(
+Palmatier et al., 2006). Similarly, the expertise generated by the sell -
+er's competitive data collection may not be a valued form of expertise by the buyer (
+Palmatier et al., 2006). Perhaps a buyer may perceive that 
+competitive data information collection serves as a more beneficial 
+outcome for the seller as compared to the benefit accruing to the buyer. 
+In summary, our results provide a more nuanced view regarding the 
+salesperson's use of social media. 
+7. Managerial implications 
+Our findings also provide several implications for managerial 
+practice. The salesperson's boundary spanning role encompasses many 
+activities and responsibilities. The expectations for salesperson perfor -
+mance continue to increase and the role continues to be redefined. 
+For B2B firms that promote a value-based selling approach to serve 
+their customers, our study serves as an advisory on seller social media and customer relationship management utilization and provides direc
+-
+tion on both forms of sales technology. 
+First, our findings suggest that a more nuanced view may be needed 
+concerning the salesperson's use of sales technology and the activity in 
+which she is attempting to fulfill. Sales organizations are required to 
+support boundary spanning and information sourcing from internal as 
+well as external sources (
+Krush, Agnihotri, Trainor, & Nowlin, 2013;  
+Teigland & Wasko, 2003). Our findings demonstrate that distinct forms 
+of sales technology enable the salesperson to carry out distinct activities 
+within their boundary-spanning role. Because social media use is better 
+equipped for competitive intelligence collection and customer re -
+lationship management technology is better suited for enabling product information communication, the salesperson will increasingly need to 
+be versed in both technologies. 
+This finding is managerially relevant because an important sales 
+manager role is to enable salesforce productivity. By championing the 
+value of both customer relationship management technology and social 
+media, the manager encourages an approach to enable more productive 
+customer interactions. The salesperson will possess technological 
+competencies that enable him/her to understand competitive offerings 
+and better understand how the solution may align with the customer's 
+needs. 
+Second, managers often champion the need for salespeople to en
+-
+hance buyer-seller engagement. Our findings make a strong case for 
+dual-use and integration of social media and customer relationship 
+management that delivers a seamless experience to both, the seller and 
+the buyer, as they build meaningful and productive information op -
+portunities and the potential to co-create and share value. Hence, 
+managers can enable these competencies in their salesforce through 
+either selection or training. When selecting salespeople, sales managers 
+may want to ensure candidates possess experience in customer re -
+lationship management and social media technologies. This might be 
+done by asking for a portfolio of previous work, examining past social 
+media, or providing a skills assessment focusing upon customer re -
+lationship management technology. 
+For salespeople, in their first role, managers may choose to use an 
+onboarding process that provides training in customer relationship management and social media. Further, the onboarding process could: O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+271a) instill the value of using both forms of sales technology and, b) de -
+monstrate the unique value that each technology brings as applied to 
+specific activities within the sales role. Social media enabled informa -
+tion activities to enhance the information collection abilities of the seller concerning competitive information and the salesperson's use of 
+customer relationship management enabled information activities 
+provides a pathway from product information communication to the 
+information sharing intentions of the buyer. 
+Third, our post-hoc multi-group analysis provides additional insight 
+to managers. Our results demonstrate that lesser experienced sales
+-
+people rely more heavily on these sales technologies to understand their competition and develop product communication. Perhaps, this sug
+-
+gests that lesser experienced salespeople need and utilize social media and customer relationship management technologies earlier in their 
+career, as their personal network may not be as developed as a more 
+tenured salesperson. Therefore, the sales technologies serve as an early- 
+career substitute for a formal, developed professional network. Sales 
+managers should consider deploying salespeople with lesser experience 
+with more experienced salespeople in team-selling situations. This 
+combination may provide an interesting combination of resources and 
+knowledge. 
+8. Limitations and future research 
+We recognize several limitations of this study, many of which offer 
+research opportunities for scholars. First, the study sample was cross- 
+sectional and represented a very broad and diverse set of industries. 
+Given that durable business relationships develop over time, a long
+-
+itudinal study can better inform our understanding of how relational investments develop into reciprocal norms that can aid salespeople. 
+Further, it is possible that the relationships tested in this study may be 
+less applicable to certain industries that may not see demand among 
+customers for social media use. Future studies examining the applic
+-
+ability of these findings to different industries and settings is necessary 
+and encouraged. 
+Similarly, future studies may focus on singular industries or collect 
+samples that allow cross-industry comparisons. Considering the nascent 
+nature of social media research in the business-to-business realm, re -
+searchers have several enticing opportunities to better understand the relationship between sales technology use and information sharing and 
+exchange. 
+Second, our measurement of social media and customer relationship 
+management technology utilization relies on self-reported measures of 
+seller technology usage. While this approach is commonly found in 
+sales technology research, an opportunity exists to empirically test the 
+effect of these technological tools using objective usage data from these 
+systems, rather than rely on a salesperson's recollection of how they use 
+these tools. The use of social media and customer relationship man -
+agement technology can be plausibly measured and quantified. Such an approach would also allow researchers to tease out how the frequency 
+of use and how the type of technology usage influences the constructs in 
+our model. This would provide researchers with a more nuanced un
+-
+derstanding of how these sales technologies facilitate or hinder sales 
+processes, and activities. 
+Third, we only evaluated two distinct sales technologies. Future 
+studies could involve several distinct sales technologies, other than 
+social media and customer relationship management. Insight into other 
+applications and their use would advance substantially the sales lit -
+erature by comparing various sales technology applications and un -
+derstanding their role within the sales process. 
+Fourth, our research was situationally set in India. Future research 
+could focus on other countries, multiple countries, or make compar -
+isons across distinct countries or regions (e.g. North America and South 
+America). By doing so, sales researchers could better understand the 
+contextual effects on the relationships within our study.1 
+Fifth, our post-hoc examination of seller experience as a moderating 
+variable highlights the idea that other factors may heighten or at -
+tenuate the relationships in our model. It is plausible that seller ex -
+perience is highlighting that less experienced salespeople are simply 
+more comfortable with social media or customer relationship man -
+agement technologies and they have higher self-efficacy related to these tools. Related to that, organizational training and on-boarding have been shown to play a role in how well sales technologies achieve de
+-
+sired outcomes. Researchers are encouraged to examine other organi -
+zational and individual factors (e.g., Macintosh & Krush, 2014
+) that 
+could enhance or diminish the effects of sales technology on salesperson information exchange behaviors and the resulting buyer responses.   
+Appendix A 
+A.1. Sample breakdown by industry   
+Industries %  
+Automobile 13.5 
+Basic Materials 4.9 
+Beauty and Cosmetics 1.8 
+Engineering and Construction 2.4 
+Financial 21.6 
+Fast moving consumer goods 8.0 
+Healthcare 10.5 
+Hospitality 1.2 
+Information Technology 2.4 
+Marketing 3.7 
+Pharmaceutical 21 
+Others 9.0  
+1We thank an anonymous reviewer for this insight. O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+272A.2. Measures   
+Construct and measures Loadings  
+Seller customer relationship management technology utilization  
+I am using CRM technology to its fullest potential for supporting my own work 0.68 
+I am using capabilities of CRM technology in the best fashion to help me on the job  
+I doubt that there are any better ways for me to use CRM technology to support my work 0.84 
+My use of CRM technology on the job has been integrated and incorporated at the highest potential 0.93 
+My use of CRM technology has been incorporated into my regular work schedule 0.94 
+My use of CRM technology is pretty much integrated as part of my normal work routine 0.80 
+My use of CRM technology is a normal part of my work   
+Seller social media utilization 
+I am using all capabilities of social media in the best fashion to help me on the job 0.89 
+My use of social media is pretty much integrated as part of my normal work routine 0.90 
+I am using social media to its fullest potential for supporting my own work 0.76  
+Seller competitive information collection 
+When I am in the field, I try to gather and transmit reliable information 0.90 
+I always assign myself objectives to obtain information about competitors 0.95 
+I ask customers about the competition's products and strategies 0.92  
+Seller product information communicationa 
+This salesperson frequently uses reprints to support his/her claims 0.81 
+This salesperson acknowledges the strengths and weaknesses of his/her product offerings 0.87 
+This salesperson uses company brochures to emphasize points 0.82 
+This salesperson makes objective comparisons between product offerings 0.65  
+Buyer information sharing intentionsa 
+When talking to this salesperson I am willing to provide the market relevant information 0.75 
+When talking to this salesperson I am willing to answer the queries related to the market updates 0.83 
+When talking to this salesperson I feel comfortable in sharing market information 0.78  
+Buyer perceived inducementsa 
+This salesperson consistently remembers birthdays and anniversaries 0.70 
+This salesperson will sometimes do-little things like give out holiday presents 0.81 
+This salesperson remembers my spouse's and children's names and asks about them 0.61  
+Seller polychronicity 
+I like to juggle several activities at the same time 0.90 
+I believe people do their best when they have many tasks to complete 0.95 
+I believe it is the best for people to be given several tasks and assignments to perform 0.92 
+Seller adaptability  
+Each customer requires a unique approach 0.80 
+When I feel that my sales approach is not working, I can easily change to another approach 0.81 
+I vary my sales style from situation to situation 0.73 
+Buyer satisfaction with sellera,b  
+Overall, I am extremely satisfied with this salesperson.  
+All factor loadings are significant at p  <  .01. A 7-point Likert agreement scale “Strongly disagree = 1, strongly agree = 7” was 
+used. a buyer data, b single item. Items in italic were dropped for loadings.  
+References 
+Agnihotri, R., Dingus, R., Hu, M. Y., & Krush, M. T. (2016). Social media: Influencing 
+customer satisfaction in B2B sales. Industrial Marketing Management, 53, 172–180. 
+https://doi.org/10.1016/j.indmarman.2015.09.003. 
+Agnihotri, R., & Rapp, A. (2011). Perspectives on competitive intelligence within busi -
+ness: A tactical tool for sales-people to gain a competitive advantage. Marketing 
+Review, 11
+(4), 363–380. 
+Agnihotri, R., Rapp, A., & Trainor, K. (2009). Understanding the role of information 
+communication in the buyer-seller exchange process: Antecedents and outcomes. 
+Journal of Business & Industrial Marketing, 24(7), 474–486. 
+Agnihotri, R., Trainor, K. J., Itani, O. S., & Rodriguez, M. (2017). Examining the role of 
+sales-based CRM technology and social media use on post-sale service behaviors in 
+India. Journal of Business Research, 81, 144–154. 
+Ahearne, M., Jelinek, R., & Jones, E. (2007). Examining the effect of salesperson service 
+behavior in a competitive context. Journal of the Academy of Marketing Science, 35(4), 
+603–616. 
+Allen, J. L., Long, K. M., O’Mara, J., & Judd, B. B. (2008). Students’ predispositions and 
+orientations toward communication and perceptions of instructor reciprocity and 
+learning. Communication Education, 57(1), 20–40. https://doi.org/10.1080/ 
+03634520701670908. 
+Ancillai, C., Terho, H., Cardinali, S., & Pascucci, F. (2019). Advancing social media driven 
+sales research: Establishing conceptual foundations for B-to-B social selling. Industrial 
+Marketing Management.. https://doi.org/10.1016/j.indmarman.2019.01.002. 
+Andzulis, J. M., Panagopoulos, N. G., & Rapp, A. (2012). A review of social media and 
+implications for the sales process. Journal of Personal Selling & Sales Management, 
+32(3), 305–316. 
+Avlonitis, G. J., & Panagopoulos, N. G. (2005). Antecedents and consequences of CRM technology acceptance in the sales force. Industrial Marketing Management, 34(4), 
+355–368. 
+Bagozzi, R. P. (2006). The role of social and self-conscious emotions in the regulation of 
+business-to-business relationships in salesperson-customer interactions. Journal of 
+Business & Industrial Marketing, 21(7), 453–457. https://doi.org/10.1108/ 
+08858620610708948. 
+Blau, P. M. (1964). Exchange and power in social life. NY: Wiley. 
+Brodie, R. J., Hollebeek, L. D., Jurić, B., & Ilić, A. (2011). Customer engagement: 
+Conceptual domain, fundamental propositions, and implications for research. Journal 
+of Service Research, 14(3), 252–271. 
+Cannon, J. P., & Homburg, C. (2001). Buyer-supplier relationships and customer firm 
+costs. Journal of Marketing, 65(1), 29–43. 
+Chin, W. W. (1998). The partial least squares approach to structural equation modeling. 
+Modern Methods for Business Research, 295(2), 295–336. 
+Chuang, S.-H., & Lin, H.-N. (2013). The roles of infrastructure capability and customer 
+orientation in enhancing customer-information quality in CRM systems: Empirical 
+evidence from Taiwan. International Journal of Information Management, 33(2), 
+271–281. https://doi.org/10.1016/j.ijinfomgt.2012.12.003. 
+Constant, D., Kiesler, S., & Sproull, L. (1994). What’s mine is ours, or is it? A study of 
+attitudes about information sharing. Information Systems Research, 5(4), 400–421. 
+Conte, J. M., Rizzuto, T. E., & Steiner, D. D. (1999). A construct-oriented analysis of 
+individual-level polychronicity. Journal of Managerial Psychology, 14(3/4), 269–288. 
+Cook, K. S., Cheshire, C., Rice, E. R., & Nakagawa, S. (2013). Social exchange theory. 
+Handbook of social psychology (pp. 61–88). Dordrecht: Springer. 
+Cropanzano, R., & Mitchell, M. S. (2005). Social exchange theory: An interdisciplinary 
+review. Journal of Management, 31(6), 874–900. https://doi.org/10.1177/ 
+0149206305279602. 
+Crosby, L. A., Evans, K. R., & Cowles, D. (1990). Relationship quality in services selling: 
+An interpersonal influence perspective. Journal of Marketing, 54(3), 68–81. https:// O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+273doi.org/10.2307/1251817. 
+Day, G. S. (1994). The capabilities of market-driven organizations. Journal of Marketing, 
+58(4), 37–52. https://doi.org/10.2307/1251915. 
+Dey, L., Haque, S. M., Khurdiya, A., & Shroff, G. (2011). Acquiring competitive in -
+telligence from social media. Proceedings of the 2011 joint workshop on multilingual 
+OCR and analytics for Noisy unstructured text data
+. Vol. 3. Proceedings of the 2011 joint 
+workshop on multilingual OCR and analytics for Noisy unstructured text data (pp. 1–3:9). 
+. https://doi.org/10.1145/2034617.2034621. 
+Dishaw, M. T., & Strong, D. M. (1999). Extending the technology acceptance model with 
+task–technology fit constructs. Information & Management, 36(1), 9–21. https://doi. 
+org/10.1016/S0378-7206(98)00101-3. 
+Dobrzykowski, D. D., Callaway, S. K., & Vonderembse, M. A. (2015). Examining pathways 
+from innovation orientation to patient satisfaction: A relational view of healthcare 
+delivery. Decision Sciences, 46(5), 863–899. https://doi.org/10.1111/deci.12161. 
+Doney, P. M., & Cannon, J. P. (1997). An examination of the nature of trust in buyer-seller 
+relationships. Journal of Marketing, 61(2), 35–51. https://doi.org/10.2307/1251829. 
+Doty, D. H., & Glick, W. H. (1998). Common methods bias: Does common methods var -
+iance really bias results? Organizational Research Methods, 1
+(4), 374–406. 
+Dyer, J. H., & Chu, W. (2003). The role of trustworthiness in reducing transaction costs 
+and improving performance: Empirical evidence from the United States, Japan, and Korea. Organization Science, 14(1), 57–68. 
+Emerson, R. M. (1976). Social exchange theory. Annual Review of Sociology, 2(1), 
+335–362. 
+Foa, E. B., & Foa, U. G. (1980). Resource theory: As exchange. In K. Gergen, M. S. 
+Greenberg, & R. Willis (Eds.). Social exchange: Advances in theory and research (pp. 77– 
+94). New York: Plenum Press. 
+Froehle, C. M. (2006). Service personnel, technology, and their interaction in influencing 
+customer satisfaction. Decision Sciences, 37(1), 5–38. 
+Gabler, C. B., Agnihotri, R., & Itani, O. S. (2017). Can salesperson guilt lead to more 
+satisfied customers? Findings from India. Journal of Business & Industrial Marketing, 
+32(7), 951–961. 
+Garrido-Moreno, A., Lockett, N., & García-Morales, V. (2014). Paving the way for CRM 
+success: The mediating role of knowledge management and organizational commit
+-
+ment. Information & Management, 51
+(8), 1031–1042. https://doi.org/10.1016/j.im. 
+2014.06.006. 
+Gefen, D., & Straub, D. (2005). A practical guide to factorial validity using PLS-graph: 
+Tutorial and annotated example. Communications of the Association for Information 
+Systems, 16(1), 91–109. 
+Goodhue, D. L. (1995). Understanding user evaluations of information systems. 
+Management Science, 41(12), 1827–1844. https://doi.org/10.1287/mnsc.41.12.1827. 
+Goodhue, D. L. (1998). Development and measurement validity of a task-technology fit 
+instrument for user evaluations of information system. Decision Sciences, 29(1), 
+105–138. 
+Goodhue, D. L., & Thompson, R. L. (1995). Task-technology fit and individual perfor -
+mance. MIS Quarterly, 19
+(2), 213–236. https://doi.org/10.2307/249689. 
+Greenberg, P. (2009). Social CRM comes of age. White paper sponsored by Oracle. available 
+at http://hosteddocs.ittoolbox.com/social-crm-comes-of-age_paul-greenberg.pdf. 
+Griffith, D. A., Harvey, M. G., & Lusch, R. F. (2006). Social exchange in supply chain 
+relationships: The resulting benefits of procedural and distributive justice. Journal of 
+Operations Management, 24(2), 85–98. 
+Guesalaga, R. (2016). The use of social media in sales: Individual and organizational 
+antecedents, and the role of customer engagement in social media. Industrial 
+Marketing Management, 54, 71–79. https://doi.org/10.1016/j.indmarman.2015.12. 
+002. 
+Hair, J. F., Jr., Sarstedt, M., Ringle, C. M., & Gudergan, S. P. (2017). Advanced issues in 
+partial least squares structural equation modeling. CA: Sage Publications. 
+Hair, J. F., Sarstedt, M., Ringle, C. M., & Mena, J. A. (2012). An assessment of the use of 
+partial least squares structural equation modeling in marketing research. Journal of 
+the Academy of Marketing Science, 40(3), 414–433. https://doi.org/10.1007/s11747- 
+011-0261-6. 
+He, W., Shen, J., Tian, X., Li, Y., Akula, V., Yan, G., & Tao, R. (2015). Gaining competitive 
+intelligence from social media data: Evidence from two largest retail chains in the 
+world. Industrial Management & Data Systems, 115(9), 1622–1636. https://doi.org/10. 
+1108/IMDS-03-2015-0098. 
+He, W., Zha, S., & Li, L. (2013). Social media competitive analysis and text mining: A case 
+study in the pizza industry. International Journal of Information Management, 33(3), 
+464–472. https://doi.org/10.1016/j.ijinfomgt.2013.01.001. 
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing dis -
+criminant validity in variance-based structural equation modeling. Journal of the 
+Academy of Marketing Science, 43
+(1), 115–135. 
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2016). Testing measurement invariance of 
+composites using partial least squares. International Marketing Review, 33(3), 
+405–431. https://doi.org/10.1108/IMR-09-2014-0304. 
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares path 
+modeling in international marketing. In R. Sinkovics, & P. Ghauri (Eds.). New 
+Challenges to International Marketing (Advances in International Marketing, 20) (pp. 
+277–319). Bingley: Emerald Group Publishing Limited. https://doi.org/10.1108/ 
+S1474-7979(2009)0000020014. 
+Huang, J., Baptista, J., & Galliers, R. D. (2013). Reconceptualizing rhetorical practices in 
+organizations: The impact of social media on internal communications. Information & 
+Management, 50(2), 112–124. https://doi.org/10.1016/j.im.2012.11.003. 
+Hughes, D. E., Le Bon, J., & Rapp, A. (2013). Gaining and leveraging customer-based 
+competitive intelligence: The pivotal role of social capital and salesperson adaptive selling skills. Journal of the Academy of Marketing Science, 41(1), 91–110. 
+Hunter, G. K., & Perreault, W. D., Jr. (2006). Sales technology orientation, information 
+effectiveness, and sales performance. Journal of Personal Selling & Sales Management, 26(2), 95–113. 
+Hunter, G. K., & Perreault, W. D., Jr. (2007). Making sales technology effective. Journal of 
+Marketing, 71(1), 16–34. 
+Itani, O. S., Agnihotri, R., & Dingus, R. (2017). Social media use in B2b sales and its 
+impact on competitive intelligence collection and adaptive selling: Examining the 
+role of learning orientation as an enabler. Industrial Marketing Management, 66, 
+64–79. 
+Itani, O. S., Goad, E. A., & Jaramillo, F. (2019). Building customer relationships while 
+achieving sales performance results: Is listening the holy grail of sales? Journal of 
+Business Research, 102, 120–130. 
+Itani, O. S., Jaramillo, F., & Paesbrugghe, B. (2020). Between a rock and a hard place: 
+Seizing the opportunity of demanding customers by means of frontline service be
+-
+haviors. Journal of Retailing and Consumer Services, 53
+, Article 101978. 
+Johnston, W. J., & Lewin, J. E. (1996). Organizational buying behavior: Toward an in -
+tegrative framework. Journal of Business Research, 35
+(1), 1–15. 
+Jourard, S. M. (1971). Self-disclosure: An experimental analysis of the transparent self. 
+Oxford: John Wiley. 
+Ju, M., & Gao, G. Y. (2017). Relational governance and control mechanisms of export 
+ventures: An examination across relationship length. Journal of International 
+Marketing, 25(2), 72–87. 
+Khodakarami, F., & Chan, Y. E. (2014). Exploring the role of customer relationship 
+management (CRM) systems in customer knowledge creation. Information & 
+Management, 51(1), 27–42. https://doi.org/10.1016/j.im.2013.09.001. 
+Kim, D., & Lee, R. P. (2010). Systems collaboration and strategic collaboration: Their 
+impacts on supply chain responsiveness and market performance. Decision Sciences, 
+41(4), 955–981. https://doi.org/10.1111/j.1540-5915.2010.00289.x. 
+King, S. F., & Burgess, T. F. (2008). Understanding success and failure in customer re -
+lationship management. Industrial Marketing Management, 37
+(4), 421–431. 
+Ko, D.-G., & Dennis, A. R. (2004). Sales force automation and sales performance: Do 
+experience and expertise matter? Journal of Personal Selling & Sales Management, 
+24(4), 311–322. https://doi.org/10.1080/08853134.2004.10749040. 
+Kohli, A. K., & Jaworski, B. J. (1990). Market orientation: The construct, research pro -
+positions, and managerial implications. The Journal of Marketing, 54
+(2), 1–18. 
+Krush, M. T., Agnihotri, R., Trainor, K. J., & Nowlin, E. L. (2013). Enhancing organiza -
+tional sensemaking: An examination of the interactive effects of sales capabilities and 
+marketing dashboards. Industrial Marketing Management, 42
+(5), 824–835. https://doi. 
+org/10.1016/j.indmarman.2013.02.017. 
+Lacoste, S. (2016). Perspectives on social media ant its use by key account managers. 
+Industrial Marketing Management, 54, 33–43. https://doi.org/10.1016/j.indmarman. 
+2015.12.010. 
+Laroche, M., Yang, Z., Kim, C., & Richard, M.-O. (2007). How culture matters in children’s 
+purchase influence: A multi-level investigation. Journal of the Academy of Marketing 
+Science, 35(1), 113–126. 
+Le Bon, J., & Merunka, D. (2006). The impact of individual and managerial factors on 
+salespeople’s contribution to marketing intelligence activities. International Journal of 
+Research in Marketing, 23(4), 395–408. 
+Li, L., & Mao, J.-Y. (2012). The effect of CRM use on internal sales management control: 
+An alternative mechanism to realize CRM benefits. Information & Management, 49(6), 
+269–277. https://doi.org/10.1016/j.im.2012.09.005. 
+Li, G., Zheng, H., Sethi, S. P., & Guan, X. (2018). Inducing downstream information 
+sharing via manufacturer information acquisition and retailer subsidy. Decision 
+Sciences. https://doi.org/10.1111/deci.12340. 
+Limbu, Y. B., Jayachandran, C., & Babin, B. J. (2014). Does information and commu -
+nication technology improve job satisfaction? The moderating role of sales tech -
+nology orientation. Industrial Marketing Management, 43
+(7), 1236–1245. https://doi. 
+org/10.1016/j.indmarman.2014.06.013. 
+Lussier, B., & Hall, Z. R. (2018). Cooperation in B2B relationships: Factors that influence 
+customers’ perceptions of salesperson cooperation. Industrial Marketing Management, 
+69, 209–220. 
+Macintosh, G., & Krush, M. (2014). Examining the link between salesperson networking 
+behaviors, job satisfaction, and organizational commitment: Does gender matter? 
+Journal of Business Research, 67(12), 2628–2635. 
+Mangus, S. M., Bock, D. E., Jones, E., & Folse, J. A. G. (2020). Examining the effects of 
+mutual information sharing and relationship empathy: A social penetration theory 
+perspective. Journal of Business Research, 109, 375–384. https://doi.org/10.1016/j. 
+jbusres.2019.12.019. 
+Menguc, B., Auh, S., & Uslu, A. (2013). Customer knowledge creation capability and 
+performance in sales teams. Journal of the Academy of Marketing Science, 41(1), 19–39. 
+https://doi.org/10.1007/s11747-012-0303-8. 
+Menon, K., & Dubé, L. (2007). The effect of emotional provider support on angry versus 
+anxious consumers. International Journal of Research in Marketing, 24(3), 268–275. 
+Menon, A., & Varadarajan, P. R. (1992). A model of marketing knowledge use within 
+firms. Journal of Marketing, 56(4), 53–71. 
+Mithas, S., Krishnan, M. S., & Fornell, C. (2005). Why do customer relationship man -
+agement applications affect customer satisfaction? Journal of Marketing, 69
+(4), 
+201–209. 
+Moncrief, W. C., Marshall, G. W., & Rudd, J. M. (2015). Social media and related tech -
+nology: Drivers of change in managing the contemporary sales force. Business 
+Horizons, 58
+(1), 45–55. 
+Monczka, R. M., Petersen, K. J., Handfield, R. B., & Ragatz, G. L. (1998). Success factors in 
+strategic supplier alliances: The buying company perspective. Decision Sciences, 29(3), 
+553–577. 
+Morgan, N. A., Zou, S., Vorhies, D. W., & Katsikeas, C. S. (2003). Experiential and in -
+formational knowledge, architectural marketing capabilities, and the adaptive per -
+formance of export ventures: A cross-vational study. Decision Sciences, 34
+(2), 
+287–321. https://doi.org/10.1111/1540-5915.02375. O.S. Itani, et al.   Industrial Marketing Management 90 (2020) 264–275
+274Newell, W. J., Ellegaard, C., & Esbjerg, L. (2019). The effects of goodwill and competence 
+trust on strategic information sharing in buyer–supplier relationships. Journal of 
+Business & Industrial Marketing, 34(2), 389–400. 
+Nowlin, E. L., Walker, D., & Anaza, N. A. (2018). How does salesperson connectedness 
+impact performance? It depends upon the level of internal volatility. Industrial 
+Marketing Management, 68, 106–113. https://doi.org/10.1016/j.indmarman.2017. 
+10.007. 
+Ogilvie, J., Agnihotri, R., Rapp, A., & Trainor, K. (2018). Social media technology use and 
+salesperson performance: A two study examination of the role of salesperson beha -
+viors, characteristics, and training. Industrial Marketing Management, 75
+, 55–65. 
+https://doi.org/10.1016/j.indmarman.2018.03.007. 
+Palmatier, R. W. (2008). Relationship Marketing. Cambridge, MA: Marketing Science 
+Institute. 
+Palmatier, R. W., Dant, R. P., Grewal, D., & Evans, K. R. (2006). Factors influencing the 
+effectiveness of relationship marketing: A meta-analysis. Journal of Marketing, 70(4), 
+136–153. 
+Pei, Z., & Yan, R. (2019). Cooperative behavior and information sharing in the e-com -
+merce age. Industrial Marketing Management, 76
+, 12–22. 
+Pérez-González, D., Trigueros-Preciado, S., & Popa, S. (2017). Social media technologies’ 
+use for the competitive information and knowledge sharing, and its effects on in -
+dustrial SMEs’ innovation. Information Systems Management, 34
+(3), 291–301. https:// 
+doi.org/10.1080/10580530.2017.1330007. 
+Phan, D. D., & Vogel, D. R. (2010). A model of customer relationship management and 
+business intelligence systems for catalogue and online retailers. Information & 
+Management, 47(2), 69–77. https://doi.org/10.1016/j.im.2009.09.001. 
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method 
+biases in behavioral research: A critical review of the literature and recommended 
+remedies. Journal of Applied Psychology, 88(5), 879–903. 
+Podsakoff, P. M., MacKenzie, S. B., Paine, J. B., & Bachrach, D. G. (2000). Organizational 
+citizenship behaviors: A critical review of the theoretical and empirical literature and 
+suggestions for future research. Journal of Management, 26(3), 513–563. 
+Posey, C., Lowry, P. B., Roberts, T. L., & Ellis, T. S. (2010). Proposing the online com -
+munity self-disclosure model: The case of working professionals in France and the UK 
+who use online communities. European Journal of Information Systems, 19
+(2), 
+181–195. 
+Pulles, N. J., Schiele, H., Veldman, J., & Hüttinger, L. (2016). The impact of customer 
+attractiveness and supplier satisfaction on becoming a preferred customer. Industrial 
+Marketing Management, 54, 129–140. 
+Purani, K., & Sahadev, S. (2008). The moderating role of industrial experience in the job 
+satisfaction, intention to leave relationship: An empirical study among salesmen in India. Journal of Business & Industrial Marketing, 23(7), 475–485. 
+Rapp, A., Agnihotri, R., & Baker, T. L. (2011). Conceptualizing salesperson competitive 
+intelligence: An individual-level perspective. Journal of Personal Selling & Sales 
+Management, 31(2), 141–155. 
+Rapp, A., Agnihotri, R., & Baker, T. L. (2015). Competitive intelligence collection and use 
+by sales and service representatives: How managers’ recognition and autonomy 
+moderate individual performance. Journal of the Academy of Marketing Science, 43(3), 
+357–374. 
+Rapp, A., Agnihotri, R., & Forbes, L. P. (2008). The sales force technology–performance 
+chain: The role of adaptive selling and effort. Journal of Personal Selling & Sales 
+Management, 28(4), 335–350. 
+Rapp, A., Beitelspacher, L., Grewal, D., & Hughes, D. (2013). Understanding social media 
+effects across seller, retailer, and consumer interactions. Journal of the Academy of 
+Marketing Science, 41(5), 547–566. https://doi.org/10.1007/s11747-013-0326-9. 
+Rapp, A., Trainor, K. J., & Agnihotri, R. (2010). Performance implications of customer- 
+linking capabilities: Examining the complementary role of customer orientation and 
+CRM technology. Journal of Business Research, 63(11), 1229–1236. https://doi.org/ 
+10.1016/j.jbusres.2009.11.002. 
+Rindfleisch, A., Malter, A. J., Ganesan, S., & Moorman, C. (2008). Cross-sectional versus 
+longitudinal survey research: Concepts, findings, and guidelines. Journal of Marketing 
+Research, 45(3), 261–279. 
+Rodriguez, M., Ajjan, H., & Peterson, R. M. (2016). Social Media in Large Sales Forces: An 
+empirical study of the impact of sales process capability and relationship perfor
+-
+mance. Journal of Marketing Theory and Practice, 24
+(3), 365–379. https://doi.org/10. 
+1080/10696679.2016.1170538. 
+Rodriguez, M., Peterson, R. M., & Krishnan, V. (2012). Social media’s influence on 
+business-to-business sales performance. Journal of Personal Selling & Sales Management, 32(3), 365–378. 
+Salo, J. (2017). Social media research in the industrial marketing field: Review of lit -
+erature and future research directions. Industrial Marketing Management, 66
+, 115–129. 
+https://doi.org/10.1016/j.indmarman.2017.07.013. 
+Sangtani, V., & Murshed, F. (2017). Product knowledge and salesperson performance: 
+Rethinking the role of optimism. Marketing Intelligence & Planning. 35(6), 724–739. 
+https://doi.org/10.1108/MIP-11-2016-0199. 
+Sarstedt, M., Henseler, J., & Ringle, C. M. (2011). Multi-group analysis in partial least 
+squares (PLS) path Modeling: Alternative methods and empirical results. Advances in 
+International Marketing, 22, 195–218. 
+Schultz, R. J., Schwepker, C. H., & Good, D. J. (2012). An exploratory study of social 
+media in business-to-business selling: Salesperson characteristics, activities and per -
+formance. Marketing Management Journal, 22
+(2), 76–89. 
+Scuotto, V., Del Giudice, M., & Carayannis, E. G. (2017). The effect of social networking 
+sites and absorptive capacity on SMES’ innovation performance. The Journal of 
+Technology Transfer, 42(2), 409–424. 
+Shang, S. S. C., Wu, Y.-L., & Li, E. Y. (2017). Field effects of social media platforms on 
+information-sharing continuance: Do reach and richness matter? Information & 
+Management, 54(2), 241–255. https://doi.org/10.1016/j.im.2016.06.008. 
+Siamagka, N.-T., Christodoulides, G., Michaelidou, N., & Valvi, A. (2015). Determinants 
+of social media adoption by B2B organizations. Industrial Marketing Management, 51, 
+89–99. https://doi.org/10.1016/j.indmarman.2015.05.005. 
+Soltani, Z., & Navimipour, N. J. (2016). Customer relationship management mechanisms: 
+A systematic review of the state of the art literature and recommendations for future 
+research. Computers in Human Behavior, 61, 667–688. https://doi.org/10.1016/j.chb. 
+2016.03.008. 
+Spiro, R. L., & Weitz, B. A. (1990). Adaptive selling: Conceptualization, measurement, and 
+nomological validity. Journal of Marketing Research, 27(1), 61–69. 
+Sundaram, S., Schwarz, A., Jones, E., & Chin, W. W. (2007). Technology use on the front 
+line: How information technology enhances individual performance. Journal of the 
+Academy of Marketing Science, 35(1), 101–112. 
+Tajudeen, F. P., Jaafar, N. I., & Ainin, S. (2018). Understanding the impact of social media 
+usage among organizations. Information & Management, 55(3), 308–321. 
+Teigland, R., & Wasko, M. M. (2003). Integrating knowledge through information trading: 
+Examining the relationship between boundary spanning communication and in -
+dividual performance. Decision Sciences, 34
+(2), 261–286. https://doi.org/10.1111/ 
+1540-5915.02341. 
+Trainor, K. J. (2012). Relating social media technologies to performance: A capabilities- 
+based perspective. Journal of Personal Selling & Sales Management, 32(3), 317–331. 
+Trainor, K. J., Andzulis, J. M., Rapp, A., & Agnihotri, R. (2014). Social media technology 
+usage and customer relationship performance: A capabilities-based examination of 
+social CRM. Journal of Business Research, 67(6), 1201–1208. 
+Vargo, S. L., & Lusch, R. F. (2008). Service-dominant logic: Continuing the evolution. 
+Journal of the Academy of Marketing Science, 36(1), 1–10. 
+Verbeke, W., Dietz, B., & Verwaal, E. (2011). Drivers of sales performance: A con -
+temporary meta-analysis. Have salespeople become knowledge brokers? Journal of 
+the Academy of Marketing Science, 39
+(3), 407–428. 
+Voorhees, C. M., Brady, M. K., Calantone, R., & Ramirez, E. (2016). Discriminant validity 
+testing in marketing: An analysis, causes for concern, and proposed remedies. Journal 
+of the Academy of Marketing Science, 44(1), 119–134. 
+Wang, E. T. G., Hu, H., & Hu, P. J.-H. (2013). Examining the role of information tech -
+nology in cultivating firms’ dynamic marketing capabilities. Information & 
+Management, 50
+(6), 336–343. https://doi.org/10.1016/j.im.2013.04.007. 
+Wang, W. Y. C., Pauleen, D. J., & Zhang, T. (2016). How social media applications affect 
+B2B communication and improve business performance in SMEs. Industrial Marketing 
+Management, 54, 4–14. https://doi.org/10.1016/j.indmarman.2015.12.004. 
+Ward, P., & Zhou, H. (2006). Impact of information technology integration and lean/just- 
+in-time practices on lead-time performance. Decision Sciences, 37(2), 177–203. 
+Wongsansukcharoen, J., Trimetsoontorn, J., & Fongsuwan, W. (2015). Social CRM, RMO 
+and business strategies affecting banking performance effectiveness in B2B context. Journal of Business & Industrial Marketing, 30(6), 742–760. 
+Zahay, D., & Griffin, A. (2004). Customer learning processes, strategy selection, and 
+performance in business-to-business service firms. Decision Sciences, 35, 169–203. 
+https://doi.org/10.1111/j.00117315.2004.02338.x. 
+Zigurs, I., & Buckland, B. K. (1998). A theory of task/technology fit and group support 
+systems effectiveness. MIS Quarterly; Minneapolis, 22(3), 313–334.  O.S. Itani, et al.   
+Industrial Marketing Management 90 (2020) 264–275
+275

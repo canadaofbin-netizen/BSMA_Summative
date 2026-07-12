@@ -1,150 +1,65 @@
-ational for less than 6 years. Then, we 
-explained the purpose of our research to the CEOs of the tar-
-geted new ventures, and most of the CEOs agreed to partici-
-pate. Accordingly, we gathered a list of 163 entrepreneurial 
-teams. After that, we distributed printed questionnaires sealed 
-in an envelope to each entrepreneurial team. To maintain con-
-fidentiality, we identified each envelope with a unique num-
-ber which was unknown to the informants. Finally, a total of 
-417 questionnaires from 102 teams were received, among 
-which 376 questionnaires from 94 teams are valid.
-In our sample, team size ranged from 2 to 3 members 
-(44.7%), 4 to 5 members (34.0%), 6 to 9 members (12.8%), 
-and 10 members and above (8.5%). Team tenure ranged 
-from 1 to 6 months (20.2%), 7 to 12 months (24.5%), 13 to 
-36 months (33.0%), and 36 months and above (22.3%). 
-Team members were primarily men (71.3%). The age of the 
-team members ranged between 21 and 30 years (34.8%), 31 
-and 40 years (36.4%), 41 and 50 years (17.6%), and 50 
-years and above (11.2%). Of the 376 respondents, 72.9% 
-held a college degree or higher.
-Measurement
-The scales of these research variables were all adopted from 
-existing studies, with options ranging from 1 (strongly dis-
-agree) to 5 (strongly agree).
-Shared leadership was measured by an eight-item scale 
-adapted from Mihalache et al. (2014). These items capture the 
-extent to which entrepreneurial team members are involved in 
-the team decision-making process. An example of the eight 
-items is “We have voice in deciding how resource is config-
-ured with regard to the priorities of the team.”
-Team reflexivity was assessed by a four-item scale that 
-was used in Lyubovnikova et al. (2017). These items evalu-
-ate the perceptions of entrepreneurial team members regard-
-ing the level of collective reflexivity in their team. An 
-example of the four items is “We frequently review the 
-methods adopted to perform the task in the team.”
-Team boundary spanning was rated by a nine-item scale 
-selected from Yan et  al. (2020). These items reflect the 
-degree to which the teams search diverse sources of exter-
-nal information. These items include three dimensions: 
-ambassador activities (e.g., “We acquire resources for the 
-team”); task coordinator activities (e.g., “We coordinate 
-activities with external groups”); and scout activities (e.g., 
-“We scan the environment for marketing ideas/expertise”).
-New venture performance was evaluated by five items 
-adopted from Cai et  al. (2017). These items assess both 
-financial performance and growth performance of their 
-ventures compared with those of their primary rivals. A 
-sample item is “Our venture outperforms our primary rivals 
-in market share growth.”
-Control variables that may confound the hypothesized 
-relationships were chosen in this study. Team size and team 
-tenure were controlled because they may exert influences 
-on entrepreneurial team heterogeneity and functioning 
-(Gonzalez-Cruz et al., 2020; Santos & Cardon, 2019). Also, 
-industrial type was controlled because it is suggested to 
-affect the resource requirement or strategy implementation 
-of entrepreneurial teams (Zhou et al., 2015).
-Results
-Measurement Evaluation
-Before data aggregation, we used confirmatory factor analy-
-sis to examine the reliability and validity of our core con-
-structs. Table 1 displayed that the values of Cronbach’s alpha 
-ranged from 0.73 to 0.92, which were larger than conven-
-tional threshold of 0.70. Besides, the scores of composite 
-reliability ranged from 0.76 to 0.90, which exceeded the 
-benchmark of 0.70. Hence, good reliability for the measure-
-ment items of all the constructs is supported. As for conver-
-gent validity, Table 1 showed that the factor loading scores in 
-the measurement model were greater than 0.70, which have 
-exceeded the cutoff point of 0.60. Moreover, the average 
-variance extracted (AVE) score of each construct was also 
-larger than the acceptable level of 0.50. It means that the con-
-vergent validity was good. Last, we compared the square 
-roots of AVE scores with the correlations among the con-
-structs to assess discriminant validity. The results in Table 2 
-Table 1.  Loadings, Cronbach’s α, CR, and AVE.
-Variables
-Loading
-Cronbach’s 
-α
-CR
-AVE
-Shared leadership
-0.72-0.86
-.92
-0.85
-0.60
-Team reflexivity
-0.71-0.82
-.73
-0.83
-0.55
-Team boundary spanning
-0.79-0.87
-.78
-0.76
-0.52
-New venture performance 0.75-0.86
-.88
-0.90
-0.68
-Note. CR = composite reliability; AVE = average variance extracted.
-Table 2.  Means, Standard Deviations, and Correlations Among 
-the Variables.
-Variables
-M
-SD
-1
-2
-3
-4
-1. Shared leadership
-3.70 0.52 (0.77)
- 
-2. Team reflexivity
-3.90 0.43 0.23** (0.74)
- 
-3. Team boundary 
-spanning
-3.58 0.45 0.24**
-0.32** (0.72)
- 
-4. New venture 
-performance
-3.89 0.53 0.32**
-0.31** 0.39** (0.83)
-Note. All the correlations are at the individual level (N = 376). Values in 
-parentheses on the diagonal are the square roots of average variances 
-extracted.
-*p < .05. **p < .01.
-412	
-Journal of Leadership & Organizational Studies 27(4)
-demonstrated the correlations of each construct with the 
-other constructs were all smaller than its AVE score, thereby 
-confirming discriminant validity.
-Data Aggregation
-Given that our model was built at team level, we assessed 
-the viability of individual-level data aggregation. First, we 
-used the interrater reliability coefficient to evaluate within-
-group homogeneity (James et al., 1993). Rwg values (Shared 
-leadership = 0.98; Team reflexivity = 0.97; Team bound-
-ary spanning = 0.96; New venture performance = 0.97) 
-were greater than the criterion of 0.70. Second, we adopted 
-the intraclass correlation coefficient ICC(1) and reliability 
-of the mean ICC(2) to evaluate between-group heterogene-
-ity (Bliese, 2000). The scores of ICC(1) ranged from 0.20 to 
-0.28, surpassing the benchmark of 0.10. The scores of 
-ICC(2) ranged from 0.55 to 0.66, going beyond the criterion 
-of 0.50. Therefore, the aggregat
+3.2. Measures and variables
+Unless otherwise stated, we measured all constructs using a five- 
+point Likert scale ranging from 1 (strongly disagree) to 5 (strongly 
+agree).
+We assessed the digital platform integration capability by adapting a 
+four-item scale (α = 0.84) adapted from Cenamor et al. (2019). Sample 
+item: “Our digital platform easily accesses data from our partners’ IT sys­
+tems.” We assessed the digital platform reconfiguration capability by 
+adapting a four-item scale (α = 0.85) developed by Cenamor et al. 
+(2019). Sample item: “Our digital platform can be easily extended to 
+accommodate new IT applications or functions.”
+We assessed organizational knowledge depth by using a four-item 
+scale (α = 0.86) developed by Yang et al. (2017). Sample item: “The 
+knowledge of our firm in this industry is thorough.” We assessed organi­
+zational knowledge breadth by using a four-item scale (α = 0.84) 
+adapted from Yang et al. (2017). Sample item: “We effectively acquire 
+market information from a diversified customer portfolio.”
+We assessed organizational agility by adapting a four-item scale (α =
+0.87) developed by Meli´an-Alzola, Domínguez-Falc´on, and Martín- 
+Santana (2020). Sample item: “Our organization has the capacity to 
+respond quickly to changes.”
+We measured sustainable positioning (buyer-rated) by adapting nine 
+items (α = 0.93) from Kapitan et al. (2019). Sample item: “Our supplier is 
+actively trying to produce less waste.”
+We assessed leader boundary-spanning behavior by adapting six 
+items (α = 0.96) from Ancona and Caldwell (1992). Sample item: “I 
+reach out to individuals outside of our organization who can offer expertise or 
+ideas.”
+3.3. Control variables
+We controlled for firm size, firm age, and industry because these 
+factors can influence organizational knowledge and organizational 
+agility, thus potentially confounding our results (Elsayed, 2006). Indeed, 
+larger firms may have more resources to invest in digital platform 
+integration and reconfiguration, leading to varying levels of knowledge 
+and agility. Likewise, older firms may have more established routines 
+and knowledge management systems, affecting their ability to adapt to 
+digital transformation. Further, different industry sectors may exhibit 
+varying levels of adoption of digital platforms. Together, we understand 
+that firm age, size, and industry sector can confound the results.
+4. Results
+4.1. Correlations and descriptive statistics
+The descriptive statistics and correlations among the variables are 
+presented in Table 1. All the correlations between the main variables of 
+the study were found to be in the expected direction.
+4.2. Measurement model
+To assess the measurement model—consisting of the digital platform 
+integration capability, the digital platform reconfiguration capability, 
+knowledge depth, knowledge breadth, organizational agility, sustain­
+able positioning, and leader boundary-spanning behavior, we performed 
+a confirmatory factor analysis in Mplus (8.8). All the items we found to 
+be loaded significantly (p < 0.01). The fit indices, χ2 (539) = 1484.45, 
+χ2/df = 2.75, TLI = 0.90, CFI = 0.90, SRMR = 0.07, and RMSEA = 0.07, 
+were found to show a good fit of the measurement model with the data.
+We also calculated the maximum shared variance (MSV), average 
+shared variance (ASV), and average variance extracted (AVE) for all 
+variables (Table 2). The AVE values were found to exceed 0.50, indi­
+cating that more than half of the variance in each construct was 
+explained by its indicators. The square roots of the AVE were found to be 
+greater than the inter-construct correlations, confirming discriminant 
+validity. Furthermore, both the ASV and MSV were found to be lower 
+than the AVE for all main variables, suggesting satisfactory levels of 
+convergent and discriminant validity for the scales used in our study.
+4.3. Hypotheses testing
+We tested our model with and without controls and found no sig­
+nificant differences betw

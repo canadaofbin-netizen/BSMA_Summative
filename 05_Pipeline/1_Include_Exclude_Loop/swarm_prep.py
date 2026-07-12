@@ -52,7 +52,7 @@ def prep_swarm(batch_size=20):
         prompt = f"Review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs/{art_id}.json`."
 
         subagents.append({
-            "TypeName": "bsma_reviewer_v2",
+            "TypeName": "bsma_reviewer_v5",
             "Role": f"Reviewer for {art_id}",
             "Prompt": prompt
         })

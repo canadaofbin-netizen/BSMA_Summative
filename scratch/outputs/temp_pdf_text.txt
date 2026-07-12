@@ -1,0 +1,646 @@
+Article
+Dissatisfied
+Creators:GeneratingCreative IdeasAmid Negative
+Emotion in
+Health Care
+Yuna S. H. Lee1,
+Ingrid M. Nembhard2, and
+Paul D. Cleary3
+Abstract
+Improving performance often requires creative ideas in extreme work set-tings like health care. Frontline workers are promising sources of creative
+ideas. The authors assert that their job dissatisfaction is positively associ-
+ated with creativity in health care settings because negative emotion spurscreativity when tied to engaging work and that characteristics such as
+shorter tenure, greater role centrality, and high boundary spanning can
+strengthen this relationship. The authors find supporting evidence in dataon ideas generated over 18 months by health professionals in 12 clinics.
+1Columbia University Mailman School of Public Health, New Y ork, NY, USA
+2The Wharton School, University of Pennsylvania, Philadelphia, PA, USA
+3Yale School of Public Health, New Haven, CT , USA
+Corresponding Author:
+Yuna S. H. Lee, Columbia University Mailman School of Public Health, 722 West 168th St.,
+New Y ork, NY 10032, USA.
+Email: ysl2118@cumc.columbia.eduWork and Occupations
+2020, Vol. 47(2) 200–227
+!The Author(s) 2019
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/0730888419847702
+journals.sagepub.com/home/wox
+Results suggest that health care organizations should not overlook
+dissatisfied workers as valuable sources of creative improvement ideas.
+Keywords
+creativity, health care, emotions, dissatisfaction, engagement
+Creative ideas are needed to improve health care delivery, that is, the
+work processes used by healthcare organizations and professionals to
+prevent, diagnose, and treat illness and preserve patient health (Institute
+of Medicine, 2002). Despite efforts to improve over several decades,
+industry statistics indicate poor performance on many clinical quality
+and experiential metrics, and high cost for patients, raising questions
+about the value of care received by patients in the United States
+(Porter, 2010). Compounding this situation, the U.S. healthcare indus-
+try also faces new population and policy demands (Dzau, McClellan,
+McGinnis, et al., 2017). A growing and older patient population with
+more complex and chronic care needs is rendering current processes
+inadequate (Coleman, Austin, Brach, & Wagner, 2009). Creativeideas, that is, ideas that are novel and useful, are necessary in environ-
+ments characterized by change and complexity (Amabile, 1988). Hence,
+there is increasing interest in creativity, the generation of creative ideas,
+in health care.
+A key issue for health care, like other industries, is who can best
+generate creative ideas (Shalley, Zhou, & Oldham, 2004). Health care
+professionals, for example, physicians and nurses, may be promising
+sources of creative ideas given their familiarity with current practices,
+motivation to provide the best possible care for patients, and frequent
+generation of work-arounds to problems (Axtell, Holman, Unsworth,
+Wall, & Waterson, 2000). However, health care professionals also facesigniﬁcant structural barriers to creativity, for example, limited time for
+reﬂection and experimentation due to high workloads, organizational
+cultures that stiﬂe ideas that depart from current practice, an industry
+emphasis on evidence-based medicine and risk minimization, and a
+professional hierarchy that privileges creativity by higher status indi-
+viduals and discourages the initiative of lower status individuals
+(Edmondson, 1999). These challenges can make creativity profession-
+ally and interpersonally risky in health care and depart from theLee et al. 201experience of workers in artistic communities (e.g., musicians) where
+individuals are socialized toward persistent creativity and normalizing
+failure (Mueller, Melwani, & Goncalo, 2012; Skaggs, 2019). Personal
+factors are barriers to creativity too. Health care professionals reportamong the highest levels of burnout and job dissatisfaction of anyprofessional group (Dyrbye & Shanafelt, 2016). More than half of U.S. physicians, nurses, and administrators report burnout from anddissatisfaction with their jobs (Shanafelt et al., 2015). Job
+dissatisfaction refers to a low level of contentment with one’s job
+(Farrell, 1983). It is an emotional state that can precipitate emotionaldecoupling of a person’s sense of self from their work role (Farrell,1983) and can result in a withdrawal of commitment and effort, orexit from the workplace (Bockerman & Ilmakunnas, 2008). In asetting like health care with these challenges, it would be logical to
+assume limited creativity, especially by those who are dissatisﬁed.
+We, however, assert that job dissatisfaction, although generally an
+undesirable, negative emotional state, is positively associated with
+creativity in health care. Prior research typically shows that positiveemotions are associated with creativity (Amabile, Barsade, Mueller, &Staw, 2005; Isen, Daubman, & Nowicki, 1987). Conversely, meta-analyses of the limited work on negative emotions and creativity suggesta negative relationship (Baas, De Dreu, & Nijstad, 2008). A few studies
+however intimate that negative emotions can be positive for creativity if
+they foster persistence in problem-solving and cognitive manipulation(De Dreu, Baas, & Nijstad, 2008; Martin, 2001). Those few studies havefocused on negative emotions unrelated to work experience (e.g., angerand disgust), leaving open the question of how negative emotions relat-ed to work affects creativity at work. Researchers have noted that,
+“especially when it comes to negatively toned mood states, more
+research is badly needed” (De Dreu et al., 2012, p. 223).
+In this article, we focus on job dissatisfaction because of its preva-
+lence in health care and other industries and the severity of its potentialconsequences for workers and organizations (e.g., decoupling of senseof self and turnover costs). We posit that job dissatisfaction, though anegative emotion, can be positively associated with creativity when it istied to activating and engaging work. Health care delivery is an epitome
+of engaging work, involving an aggregate of unique and extreme work
+challenges. In the next section, we identify unique and extreme workchallenges in health care. We then present the argument for jobdissatisfaction being a catalyst for creativity in such extreme workcontexts due to the persistence generated by these circumstances. We202 Work and Occupations 47(2)argue that this relationship may be especially strong for individuals with
+particular job attributes as attributes shape the experience of work andexposure to information that might inform creativity. As such, we alsoexamine person–job characteristics likely to strengthen this negativeemotion–positive cognition relationship. We test our hypothesesabout job dissatisfaction and moderating person–job characteristicsusing data on improvement ideas generated by individuals working in12 clinics over an 18-month period.
+The Engaging, Unique, and Extreme Work
+of Health Care Delivery
+Health care delivery is an extreme work context characterized by the
+unique work condition of risk of patient death as a work outcome.Health care is also extreme in having a high level of multiple workconditions relative to the norm including high ambiguity due to variablepatient response to treatment and high emotions due to patient suffer-ing (Driskell, Salas, & Driskell, 2018). Despite meeting the deﬁnition ofan extreme work context on each criterion (Gilmartin & D’Aunno,2007), it aspires to high reliability, that is, to operate nearly error-freeamid complexity, interdependence, and time pressure (Vogus &Sutcliffe, 2007). High-reliability work demands performing at peaklevels at all times, so lives are not lost. In health care, these stakes arecompounded by high levels of ambiguity. Complexity and idiosyncra-sies of patients, the uncertain pathways that their diseases may follow,and dynamism in clinical knowledge introduce ambiguity that compli-
+cates diagnosis and treatment (Nembhard et al., 2006).
+These challenges demand distinct modes of working. Workers at the
+frontlines coproduce care (service) experiences with patients, reﬂectingthe reality that workers possess clinical expertise and patients possessself-expertise that must be integrated for high-quality care (Vogus &McClelland, 2016). Integration requires ambidexterity by workers whomust balance high levels of customization to ensure patient-centeredcare with standardized yet evolving, evidence-based practice to preventharm (Bohmer, 2005). This work often takes place in the midst of highemotion as patients and workers contend with suffering, uncertainty,and vulnerability related to care. The intensity and emotionality ofcoproduction necessitates high attention, focus, and commitment(Vogus & McClelland, 2016). This responsibility is frequently sharedby many individuals who form a patient’s care team. Each brings spe-cialized knowledge, which creates the demand for effective teamwork toLee et al. 203integrate their knowledge. Difﬁculty meeting this challenge is cited as a
+key reason for the prevalence of poor-quality, high-cost care (Instituteof Medicine, 2012).
+In addition, health care delivery is distinct and extreme in that it
+holds great meaning for many of its workers, as the goal of this workis to improve health and save lives (West, Dyrbye, Erwin, & Shanafelt,2016). Many view their work as a calling, a description that has its rootsin the philosophical origins of health care as a healing profession(Dyrbye & Shanafelt, 2016). While professionals in other industriesoften feel called to serve their customers, health care workers arguablyface the highest standard to realize their calling: Have I fully worked tosave lives, improve health, and do no harm? Together, these features ofhealth care constitute extreme work conditions and create uniquechallenges for workers in terms of emotions and creativity.
+Dissatisfaction and Creativity in Extreme Work
+Conditions: Background and Hypotheses
+Scholars have produced a body of research on the effects of positive and
+negative emotions on creativity (Baas et al., 2008). Positive emotionssuch as joy are theorized to prompt individuals to broaden-and-build bydiscarding routines and pursuing novel actions (Fredrickson, 2001).This theory is supported by Isen et al.’s (1987) laboratory studies,which showed that positive mood states are associated with more cre-ative word associations. Outside of the laboratory, with employees fromcompanies where individuals do creative thinking to produce novelconsumer products, Amabile et al. (2005) found that self-rated positivemood was associated with more creative thoughts. These representativestudies have been afﬁrmed by a meta-analysis that shows a robust,positive link between positive emotions and creativity, particularly foremotions that are activating, associated with approach motivation(moving toward desired outcomes), and promotion-focused such ashappiness (Baas et al., 2008).
+In contrast, studies of negative emotions indicate heterogeneous
+effects with respect to creativity (Baas et al., 2008). The dual pathwayto creativity model (DPCM; De Dreu et al., 2008) explains these effectsas well as the observation that positive and negative moods can gener-ate creativity by (a) distinguishing between activating and deactivatingtypes; (b) specifying that activating moods—both positive (e.g., happy)and negative (e.g., anger)—are more likely to spark creativity thandeactivating moods (e.g., feeling relaxed); and (c) noting that situational204 Work and Occupations 47(2)variables like moods may inﬂuence creativity through different path-
+ways—via cognitive ﬂexibility (ﬂexible processing of information), cog-
+nitive persistence (persistent probing, and systematically combining
+elements and possibilities), or both. Positive emotions activate creativitythrough cognitive ﬂexibility, whereas negative emotions activate crea-tivity through cognitive persistence (De Dreu, Baas, & Nijstad, 2011).
+Satisfaction and dissatisfaction have been neglected in creativity
+studies, although they are widely studied constructs in organizationalbehavior (Baas et al., 2008). DPCM theorists hold that these emotionsdiffer from the transient mood states that are their focus (anger orsadness), and so this research stream has purposely excluded them.
+A study of employee engagement however found that satisfaction,
+like other positive emotions, is weakly positively associated with crea-tivity (Eldor & Harpaz, 2016). The one study that examined the dissat-isfaction–creativity relationship found that dissatisfaction wasassociated with creativity when organizational support for creativity,
+coworker support and feedback, and commitment to remain with the
+organization were high (Zhou & George, 2001). The researchers did notconsider a main effect of dissatisfaction because “it is naive to assertthat job dissatisfaction will always lead to creativity in the workplace ...”
+since job dissatisfaction is known to “lead to turnover which negates thepossibility of dissatisﬁed organizational members trying to improve
+conditions in the organization through creative performance” (Zhou
+& George, 2001, p. 682). Consequently, they suggest identifying con-ditions under which job dissatisfaction fosters creativity.
+We assert that a positive job dissatisfaction–creativity relationship
+exists in healthcare delivery due to the unique and extreme work ofcoproducing highly reliable care, which is difﬁcult but also activatingand engaging. Caring for patients motivates many health care workersto dedicate great effort to care, even those that report dissatisfaction
+(McNeese-Smith, 1999). In other words, the core work of health care
+activates workers. The DPCM and related research suggests that feelingactivated is critical for creativity; deactivation limits creativity (De Dreuet al., 2008). When there is dissatisfaction, there is unsettling discomfort(Deci, Connell, & Ryan, 1989). We propose that when unsettling discom-fort occurs in an activating context, it catalyzes dedicating time and effort
+to in-depth problem assessment, generating creative ideas, and enabling
+the cognitive persistence needed for breakthroughs (De Dreu et al., 2008).Research suggests that when individuals are activated and feel negativeemotion (like dissatisfaction), they become more analytical and processinformation in a more bottom-up way (Derryberry & Reed, 1998).Lee et al. 205Prior work further indicates that creativity is fostered in organizational
+contexts that direct attention toward the need for creativity to addressproblems (i.e., are activating) and maintain individuals’ interest in gen-
+erating new ideas (Shalley et al., 2004). Research on creativity in precar-
+ious work circumstances shows that passion for the job can be activatingand foster persistence rather than exiting the ﬁeld in search of greaterstability (Umney & Kretsos, 2015). In other less extreme, less activating
+work settings, dissatisfaction is likely to prompt individuals to exit or
+passively remain with the organization (Hirschman, 1972) rather thandedicate effort required for creativity and surmounting the barriers toit. Therefore, we proposed the following hypothesis:
+Hypothesis 1: Job dissatisfaction is positively associated with idea crea-
+tivity in extreme work environments such as health care delivery.
+Person–Job Characteristics That Moderate the
+Dissatisfaction-Creativity Relationship
+Research suggests that creativity depends not only on task engagement,
+which is a function of organizational context and, as we argue, is pro-vided in part by dissatisfaction in activating extreme work settings, butalso on the individual and his or her circumstances (Eldor & Harpaz,
+2016). In work environments less extreme than health care, contextual
+variables (e.g., supervisor support), task domain-relevant skills (materi-als drawn on during operation such as mathematical reasoning anddrawing), and personality variables (e.g., openness to experience)
+have been identiﬁed as moderators of main effect relationships to
+creativity—strengthening or attenuating the effects of independentvariables on individual creativity (Conti, Coon, & Amabile, 1996;Perry-Smith & Shalley, 2003). Person–job characteristics of individuals
+such as role have received little attention as potential moderators,
+despite these characteristics being widely used to describe individualsand deﬁne their work across industries (George, 2007). Person–jobcharacteristics are the attributes that characterize a person’s circum-
+stances in relation to her or his job. We expect these characteristics to
+be particularly relevant in the extreme work environments because theyshape the experience of work, as well as individuals’ exposure to diverse
+information that might inform their creativity. The diversity is likely to
+be consequential due to the complexity of extreme work.206 Work and Occupations 47(2)We propose three person–job characteristics—organizational tenure,
+role centrality, and boundary-spanning—not only inﬂuence creativity
+but also moderate the creativity of the dissatisﬁed individuals in
+extreme work settings like health care. Creativity is often described asa product of cognitively combining new and nonredundant informationtogether, termed cognitive ﬂexibility (De Dreu et al., 2008). Each of the
+three person–job characteristics likely provides knowledge that enables
+cognitive ﬂexibility in a distinct way. We propose that this ﬂexibility
+affects the creativity that arises from dissatisfaction: the greater cogni-tive ﬂexibility (from knowledge) alongside cognitive persistence(motivation due to dissatisfaction), the greater creativity.
+Organizational Tenure
+Time afﬁliated with an organization determines a worker’s perspectiveon the organization and his or her job (Shalley et al., 2004). Shortertenure is associated with a novelty-seeking perspective; newcomers
+search for knowledge due to lack of familiarity with the organization
+and how their job operates within it (Ford, 1996). New recruits oftendisplay a desire to learn, ask questions, and explore ways to have orga-nizational impact (Ng & Feldman, 2010). They are able to do so due tothe privilege of newcomer status (March, 1991; Weick & Roberts,
+1993), and as they integrate responses with their prior knowledge,
+they may generate creative possibilities. Their learning orientationenhances exposure to new and diverse information inputs and facilitatestheir cognitive ﬂexibility (Simonton, 1999). In other words, the searchfor knowledge channels and directs the energy of dissatisfaction to
+translate possibilities into creative ideas (Kunda, 1990).
+Dissatisfaction may be particularly important in health care becauseit helps cut through the competing demands on energy and attention(Ford, 1996). For longer tenured individuals, dissatisfaction is likely togenerate ideas that may have high levels of usefulness, based on accu-
+mulated knowledge of the organization and expertise, but lower levels
+of novelty due to familiarity with the organization (Baron, Davis-Blake,& Bielby, 1986). In contrast, the discomfort of dissatisfaction coupledwith the cognitive ﬂexibility that comes with the fresh, exploratory view
+of those with shorter tenure is associated with higher creativity.
+Hypothesis 2: Dissatisfaction is associated with greater idea creativity for
+those with shorter organizational tenure than those with longer tenure inextreme work environments like health care delivery.Lee et al. 207Role Centrality
+An individual’s job role determines his or her centrality in work teams,
+whether he or she is a central or supporting member (Hackman, 1987). Inhealth care, the closer the role is to direct patient care, the more centralthe role is in the care team (Freidson, 1970). Physicians and nurses areconsidered central roles, whereas allied professionals (e.g., medical assis-tants) are considered supporting roles. We propose that those in centralroles generate more creative ideas related to core work processes (e.g.,improving patient experiences and outcomes) than those in supportingroles because of their depth of knowledge , cultivated by their more exten-
+sive training and involvement in more aspects of patient care (Linzeret al., 2000). In extreme work settings such as health care, this depth ofknowledge confers increased accountability for (patient) outcomes, whichcan intensify the sense of responsibility to the patient. Those in centralroles, as a hallmark of their work, weave together ﬁne-grained, hetero-geneous information such as patients’ preferences, symptoms, and clinicalevidence to diagnose problems and generate solutions, that is, care plans(Linzer et al., 2000). This process of receiving and combining new anddiverse information is a hallmark of creative individuals. Thus, we expectcreativity to be more impactful for those with role centrality. When theyare dissatisﬁed, we expect that their creativity is enhanced because theirdrive to develop creative improvement ideas is augmented by the depth ofknowledge that helps make their novel ideas also useful and implement-able. In contrast, less central individuals lack the depth of knowledge tooffer sufﬁciently novel or useful ideas. Therefore, we expect that
+Hypothesis 3: Dissatisfaction is associated with greater idea creativity for
+those with more central roles than those with less central/supporting rolesin extreme work environments like health care delivery.
+Boundary Spanning
+Boundary spanners, those who through their interactions link their
+internal networks with external sources of information (Aldrich &Herker, 1977), tend to have social networks with a larger number ofties to individuals outside of their immediate team. In contrast, thosewho are internally oriented have a larger number of ties within theirimmediate team (Perry-Smith & Shalley, 2003). In health care, whereteam-based care models are growing, an internal team orientation fre-quently dominates patterns of interactions as each care team takes208 Work and Occupations 47(2)responsibility for a patient panel and focuses attention on developing
+shared mental models, in which core members have a shared under-standing of the task (Bodenheimer, Wagner, & Grumbach, 2002).Recently, however, boundary spanning has been encouraged to fostercoordinated care with all those relevant to patients’ health, includingother care providers and service organizations (Sikka, Morath, &Leape, 2015). Boundary spanners, similar to those in central roles, nec-essarily accumulate skills and experience in combining diverse informa-tion. Often boundary spanners have the additional need and challengeof combining insights across boundaries, a skill that develops cognitive
+ﬂexibility and lends itself to creativity. Dissatisfaction may be especially
+activating for them because their external activity exposes them to dif-ferent ways of working, which demonstrates the potential beneﬁts ofcreativity. While dissatisfaction is likely to foster creativity for the inter-nally oriented too, presuming commitment to performance, their inter-nal focus may limit their ability to capitalize on motivation provided bydissatisfaction relative to boundary spanners. Thus:
+Hypothesis 4: Dissatisfaction in extreme work environments like
+healthcare delivery is associated with greater idea creativity by workerswho span boundaries more (e.g., interact with others outside their team)than those who span boundaries less.
+Together, our hypotheses lead to an emotions-based model of creativity
+in extreme work environments like health care, presented in Figure 1.
+Methods
+Study Design and Setting
+We tested our hypotheses by performing a prospective panel analysis of
+220 improvement ideas generated over 18 months by 72 clinical staffCognitive flexibility via Role
+Centrality
+depth of knowledge      Boundary  
+Spanning 
+breadth of knowled ge
+Job     
+DissatisfactionH4 (+) 
+Idea
+CreativityH2 (+) H3 (-) 
+H1 (+) Organizational 
+Tenure 
+search for knowledge   
+Figure 1. Conceptual framework.Lee et al. 209serving on 12 quality improvement teams in 12 federally qualiﬁed com-
+munity health centers (one team per center). Roles included primary
+care providers (PCPs; i.e., physician or advanced practitioner), nurses,
+medical assistants, and behavioral health providers. The centers arepart of a single organization in one state in the United States. Theyprovide comprehensive primary care services to more than 130,000patients a year and have a special commitment to serving the uninsured,
+underinsured, and special populations (e.g., patients with chronic
+mental health issues). A key quality improvement strategy was toform improvement teams charged with developing quality-improvinginnovations for each center. Each team included at least one memberfrom each clinical role, with two per role in larger centers. Teams had
+six members on average and met monthly. During our study period, the
+organization tasked the teams with developing and implementing inno-vations focused on improving care coordination particularly forpatients needing chronic disease management or posthospital care
+because its self-study identiﬁed care coordination as an issue for
+many of these patients.
+Data Sources
+We used three sources of data on team members and their ideas for this
+study: improvement team meeting transcripts, a staff work experience
+survey, and sociometric sensors. Data on center characteristics wereobtained from the organization’s business intelligence department.
+Quality improvement team meeting transcripts. Quality improvement team
+discussions were documented in 216 meeting transcripts (18 monthly
+meetings for 12 centers), which we used to identify improvement ideasand their proposers (“the creators”). Transcripts in all centers containedthe following standardized information: center name, date, time andlocation, attendance, agenda topic, deliverable, outcome measure,
+staff responsible, notes/discussion, and action items (action, owner,
+and due date). The ﬁrst author analyzed the transcripts using contentanalysis techniques (Miles & Huberman, 1994) to identify ideas forimproving care coordination and the individual(s) who proposed eachidea. Ideas were deﬁned as “a different alternative for a possible course
+of action to approach the task at hand” pp. 444 (Binnewies, Ohly, &
+Sonnentag, 2007). A second researcher independently coded ideas in arandomly selected 30% of transcripts as a check on the process. Therewas 83% agreement between coders on idea identiﬁcation, which falls210 Work and Occupations 47(2)within the intercoder reliability range of 70% to 94% considered
+“acceptable” to “exceptional” (Campbell, Quincy, Osserman, &
+Pedersen, 2013). Coders discussed disagreements, which led to reﬁne-
+ment of the identiﬁcation rubric. All ideas were coded again to ensureconsistency. In total, we identiﬁed 220 improvement ideas in the tran-
+scripts. All 72 team members offered ideas.
+Staff work experience surveys. We collected information on team member
+characteristics, for example, role, organizational tenure, and job dissat-
+isfaction, using a survey. We recruited participants using e-mails from
+center leadership and lunchtime meetings with members of the researchteam, where consent forms were signed. At the start of the 18-month
+study period, we administered the survey via e-mail or paper to all
+72 team members in the 12 centers, with 100% participation.Participants were full-time employees. The majority were female
+(79%). The largest group of respondents were nurses (31%), with
+PCPs (27%), medical assistants (23%), and behavioral health providers(19%) comprising the other groups, and 61% of staff were employed bythe organization for more than 2 years.
+Sociometric sensors. In the week or two following survey completion, we
+collected social network data using wearable sensors, which have beenused for studies of workplace interactions in hospitals (Isella, Romano,
+& Barrat, 2011) and nonhealth settings (Waber, 2013). The sensors,
+made by Humanyze, formerly Sociometric Solutions, Boston, MAwere the size of a deck of cards and worn around the neck. They con-
+tained sensors that recorded each time an individual spoke with another
+individual wearing a sensor (not speech content), which allowed us toobtain individuals’ network of interactions inside and outside their
+assigned care team in a nonobtrusive fashion (Olguin Olguin, Gloor,
+& Pentland, 2009). The validity and reliability of the data collected bysuch sensors have been established in other studies (Chafﬁn et al., 2015).
+We used interaction data collected from primary care teams at each
+center (which included the 72 members of the improvement teams inthis study) during 1 week of work (Monday–Saturday). We used one
+week that the centers indicated was a representative week to capture
+multiple days of interaction in “a normal week.” This allowed us tocapture average interactions versus rely on a potentially outlier day(s).
+Past research found that network characteristics are relatively stable,
+adding to the reliability of this multiday, slice-of-time approach (OlguinOlguin et al., 2009). In three centers, the sensor-wearing periodLee et al. 211coincided with improvement team meetings (3 of 216 meetings; 3 of
+about 576 hours in the sensor period). As our interest was individuals’ties broadly, overlap with improvement team meetings was not signif-icant for this work.
+Measures
+Idea creativity. Ideas identiﬁed in meeting transcripts were rated for cre-
+ativity by an expert panel using the Consensual Assessment Technique,a reliable and valid technique used in organizational studies (Amabile,
+1982). In this method, experts familiar with the domain independently
+rate an idea or object for degree of novelty and usefulness, and theseratings are multiplied to generate a single creativity score. The ﬁrstauthor recruited ﬁve healthcare executives to serve as experts raters.All worked full-time in healthcare administration roles (including qual-ity improvement functions) in the United States. The majority werefemale (60%). All had at least 10 years of professional experience inhealthcare delivery settings and graduate degrees in healthcare admin-
+istration. The experts were not aware of the others participating in the
+assessment. Each expert was e-mailed a survey that contained shortvignette descriptions of the ideas from transcripts (maximum three sen-tences) and was asked to rate each idea ( N¼220) for level of novelty
+(1¼least novel to 5¼most novel ) and level of usefulness (1 ¼least useful
+to 5¼most useful ). Order of ideas was randomized for each rater to
+prevent order effects.
+In accordance with the Consensual Assessment Technique, novelty
+and usefulness scores for each idea were multiplied together to generatean overall score ranging from 5 to 25. These overall scores were dividedby 5 to generate a ﬁnal creativity score out of 5 (1 ¼least creative to
+5¼most creative ). We averaged across the ﬁve experts’ scores to gen-
+erate one average creativity score for each idea. To assess the interex-pert reliability of scores, an intraclass correlation (ICC) was calculated.The ICC
+1,kof .79 indicated a moderately high degree of consistency
+between experts that is considered acceptable for assessments of crea-
+tivity (Amabile, 1982).
+Job dissatisfaction. Job dissatisfaction for each idea generator/individual
+was measured using a reverse-scored measure of job satisfaction,
+assessed by responses to the staff survey question: “Overall I am satis-
+ﬁed as an employee of [organization name].” The response categoriesranged from 1 ¼Strongly disagree to 4¼Strongly agree . Similar,212 Work and Occupations 47(2)Singleton measures of job satisfaction have been used in
+previous studies testing the link between job satisfaction and other out-come variables (Allen & Van der Velden, 2001). We converted the sat-isfaction measure into our job dissatisfaction measure, similar to Zhou
+and George (2001), by subtracting the job satisfaction value from 5,
+creating a measure ranging from 1 ¼low dissatisfaction to 4¼high
+dissatisfaction . Because past research suggested that a curvilinear
+relationship might exist between emotions and creativity (James,Brodersen, & Jacob, 2004) we also calculated the quadratic of this mea-sure to assess this possibility.
+Role centrality. The health care literature identiﬁes two roles as most
+central in the primary care team—nurses and PCPs, which includes
+physicians and advanced practitioners—and all other roles as
+supporting these (Hall, 2005). We obtained each individual’s role fromresponse to the staff survey item: “Please select the job title which bestdescribes your position.” This item had four response categories: PCP,nurse, behavioral health provider, and medical assistant. We created abinary variable for role centrality equal to 1 for PCPs and nurses and
+equal to 0 for medical assistants and behavioral health providers.
+Organizational tenure. We obtained the organizational tenure of each
+individual using responses to the staff survey question: “How long
+have you been employed by [organization name]?” Response categories
+ranged from 1 ¼Less than 6 months to 6¼10 or more years .
+Boundary spanning. Boundary spanning of each individual was measured
+using the external to internal index (E-I Index), an established social
+network measure (Krackhardt & Stern, 1988), which was calculatedusing data from the sociometric sensors. This index is a measure of aperson’s relative density of ties inside a social group to ties outside ofthe group. Assuming two groups based on some attribute, with one
+deﬁned as internal and the other as external, the E-I Index is
+EI¼EL/C0IL=ELþIL
+where EL equals the number of external ties and IL equals the number
+of internal ties. EL was deﬁned as the number of persons outside thefocal person’s assigned care team with which the focal person interacted
+based on the sensors, and IL was deﬁned as the number of persons
+outside the focal person’s assigned team with which the focal personLee et al. 213interacted. An EI value of þ1.0 means all ties were outside the team
+(high boundary spanning), 0 means that ties were divided equally, and
+–1.0 means that all ties were within the team (low boundary spanning).
+Covariates. We included gender, another individual characteristic, as a
+covariate because research suggests that females generate more creative
+ideas (George, 2007). We also included the following center character-istics to capture differences in patient proﬁle and workload: percentage
+of patients uninsured and number of patient visits per full-time employ-
+ee during 6-month interval, because such operational factors may shapethe context for creativity. We included a center-level indicator of orga-
+nizational and coworker support—the cultural factor psychological
+safety, which refers to the shared belief that the setting is safe for inter-personal risk taking (Edmondson, 1999), a belief previously found
+to inﬂuence employee creativity (Kessel, Kratzer, & Schultz, 2012).
+We measured psychological safety using center means of staff surveyresponses to three validated items, such as “Members of this team are
+able to bring up problems and tough issues” (Edmondson, 1999).
+Inclusion of this factor is also important given Zhou & George’s(2001) ﬁnding that organizational and coworkers’ support inﬂuences
+creativity of dissatisﬁed workers. Finally, a time dummy variable was
+included to account for the month (out of 18 months) during whicheach idea was generated.
+Statistical Analyses
+We ﬁrst calculated bivariate correlations to assess the unadjusted asso-ciations among all variables and multicollinearity. We then performed
+a series of multilevel regression models at the level of the idea ( N¼220
+ideas) to estimate the associations between job dissatisfaction, person–job characteristics, covariates, and idea creativity. We used the SAS
+GLIMMIX procedure to account for the multilevel structure of the
+data (ideas nested in individuals, located in centers), multiple creativeideas per individual, and a continuous outcome variable. We estimated
+standard errors accounting for clustering at the individual and center-
+level and calculated variance inﬂation factors as an additional check formulticollinearity.
+In the ﬁrst model, we assessed the association between job dissatis-
+faction and idea creativity, adjusting for covariates to examine whether
+there is a main effect on average. In the second model, we tested our
+remaining hypotheses by adding our proposed moderators and their214 Work and Occupations 47(2)interactions with job dissatisfaction to our ﬁrst model. To reduce
+multicollinearity between interaction terms and their components,we standardized our variables before entering them in the models.We examined the standardized coefﬁcients produced by the modelsand their pvalues to evaluate the signiﬁcance of effects and thus sup-
+port for our hypotheses. When an interaction term was signiﬁcant, we
+calculated the effect of job dissatisfaction on idea creativity for individ-uals who were high versus low on the relevant moderator (i.e., centralvs. supporting role or one standard deviation above vs. below meanotherwise) and then plotted the simple slopes for each group in ﬁguresto illustrate the effects.
+Results
+Table 1 presents descriptive statistics and bivariate correlations for allstudy variables. The table shows that the average creativity of the 220improvement ideas offered by individuals was 2.47 out of 5 ( SD¼1.64)
+and job dissatisfaction for the average individual was 3.46 out of 4(SD¼0.64). Person–job characteristics were well-distributed, although
+the mean level of boundary spanning was higher than might be expected(M¼0.64) though consistent with recent national efforts to encourage
+such. Correlations between person–job characteristics were signiﬁcant
+(pvalues <.05); however, variance inﬂation factors were all less than 6
+(under the threshold of 10), indicating that multicollinearity was not amajor concern.
+Table 2 presents the results of the multilevel analyses used to test our
+hypotheses. Model 1 shows that the emotional experience of job dissat-
+isfaction was positively associated with idea creativity ( p<.0001), sup-
+porting Hypothesis 1. A 1-standard deviation increase in jobdissatisfaction was associated with a 0.32-standard deviation increasein idea creativity on average. Model 2 shows that the interactions of ourfocal person–job characteristics—role centrality, organizational tenure,and boundary spanning—with job dissatisfaction were signiﬁcant withrespect to idea creativity as hypothesized ( pvalues <.05). The Akaike
+information criterion goodness-of-ﬁt statistic decreased in magnitudewith the inclusion of the interaction terms in the model, suggesting abetter ﬁt was associated with this model (vs. the main-effects models).The nature of the interactions is depicted in Figure 2.
+Figure 2(a) indicates dissatisfaction had a positive, signiﬁcant asso-
+ciation with creativity for individuals with shorter organizational tenure(b¼.39,p¼.01) and a positive but insigniﬁcant association for thoseLee et al. 215Table 1. Descriptive Statistics and Correlations of Key Variables in Analyses (N ¼220 Ideas Generated by 72 Staff).
+Mor % SD 1234 5 6 7 8
+1. Idea creativity (1–5) 2.51 1.65
+2. Job dissatisfaction (1–4) 3.46 0.64 0.39**3. Organizational tenure (1–6) 3.07 1.49 –0.50** –0.19*4. Role centrality (1 ¼central; %) 0.62 0.45 –0.52** –0.24* 0.37**
+5. Boundary spanning (0–1) 0.64 0.31 0.08* –0.20* –0.04 0.14**6. Gender (1 ¼male; %) 0.20 0.40 0.06 –0.27** –0.05 0.12 –0.17
+7. Patients uninsured (%) 0.07 0.05 –0.08 0.01 0.09 –0.05 0.05 –0.098. Number of patient
+visits per staff417.36 81.55 0.05 –0.13* 0.05 –0.10 0.05 –0.30 0.17
+9. Psychological safety (1–4) 2.83 0.75 0.56** 0.27* 0.32* –0.18 0.21 –0.32 0.06 –0.22*
+*p<.05. ** p<.001.
+216with longer organizational tenure ( b¼.11p¼.61). Figure 2(b) shows
+dissatisfaction was positively associated with creativity for individualswith central roles ( b¼.46,p¼.001), whereas it had a positive yet not
+signiﬁcant effect on creativity for those in supporting roles ( b¼.21,
+p¼.35). Figure 2(c) shows dissatisfaction had a positive relationship
+with creativity for individuals high on boundary spanning ( b¼.37,
+p¼.01) and a positive and marginally signiﬁcant effect on creativity
+for those low on boundary spanning ( b¼.32,p¼.09). These results
+suggest that there is a positive association between job dissatisfactionand creativity for individuals with a shorter organizational tenure, morecentral roles in the care team (here, PCPs and nurses), and high bound-ary spanning consistent with Hypotheses 2, 3, and 4. For those withsupporting roles, longer tenure, and low boundary spanning, level ofdissatisfaction had limited effect on their creativity, which tended to belower than their counterparts’ on average. Additional analyses with theTable 2. Results Analyses Predicting Idea Creativity ( N¼220 Ideas).
+Dependent variable:
+idea creativity
+Model 1 Model 2
+Independent variables b(SE) b(SE)
+Job dissatisfaction .32 (0.04)** .46 (0.13)**Organizational tenure –.03 (0.02)**
+Organizational T enure /C2Dissatisfaction –.07 (0.01)**
+Role centrality .23 (0.40)
+Role Centrality /C2Dissatisfaction .27 (0.10)**
+Boundary spanning .01 (0.19)
+Boundary Spanning /C2Dissatisfaction .05 (0.02)**
+Covariate—individual-level
+Gender (1 ¼male) –.27 (0.16) –.13 (0.15)
+Covariates—center-level
+Percentage of patients uninsured –.59 (0.79) –.28 (0.81)Number of patient visits per staff .07 (0.01) .06 (0.01)Psychological safety .81 (0.07)** .86 (0.06)**Time (month idea raised) Yes YesCenter Yes Yes
+AIC (smaller is better) 420.33 390.22
+Note. bis standardized regression coefficient; SE is standard error. AIC ¼Akaike informa-
+tion criterion.
+**p<.001.Lee et al. 217squared terms for dissatisfaction and person–job characteristics did not
+yield signiﬁcant results, limiting the ability to identify optimal levels of
+these variables for creativity.
+Psychological safety was the only statistically signiﬁcant covariate
+across all models ( pvalues <.001). Consistent with prior research
+(Kessel et al., 2012), a greater sense of psychological safety was associ-
+ated with greater idea creativity.
+Discussion
+These ﬁndings highlight that dissatisfaction, though a negative emotion
+associated with withdrawal and exit in many settings, need not lead to
+such negative events for workers and organizations. Dissatisfaction can
+be associated with positive processes that beneﬁt individuals, clients,
+and ultimately organizations—under certain conditions. Our results
+indicate that dissatisfaction is positively associated with creativity
+under the extreme work conditions of health care delivery. We
+hypothesized this association based on theory that dissatisfaction
+provides cognitive persistence (a pathway to creativity) in contexts
+like health care, where extreme conditions are activating. While an12345
+High LowIdea Crea/g415vity
+Dissa/g415sfac/g415onLow Tenure High Tenure
+12345
+Low HighIdea Crea/g415vity
+Dissa/g415sfac/g415onCentral Role Suppor/g415ng Role
+12345
+Low HighIdea Crea/g415vity
+Dissa/g415sfac/g415onLow Boundary Spanning High Boundary Spanning(a) (b)
+(c)
+Figure 2. Impact of moderating variables on the job dissatisfaction and idea cre-
+ativity relationship: (a) organizational tenure as moderator, (b) role centrality asmoderator, and (c) boundary spanning as moderator.218 Work and Occupations 47(2)organization would certainly not want to foster dissatisfaction, our
+ﬁndings suggest that dissatisﬁed creators exist, that is, individualswho generate positive ideas for improvement amid negative emotion.Thus, there exists a paradoxical relationship of negative emotion linkedto positive cognitive process in extreme work settings.
+In addition, our ﬁndings indicate person–job characteristics moderate
+the dissatisfaction–creativity relationship in the extreme work setting ofhealth care. Consistent with Hypotheses 2, 3, and 4, tenure, role centrality,and boundary spanning each altered the relationship. Shorter tenure, rolecentrality, and boundary spanning—which increase knowledge search,
+knowledge depth, and knowledge breadth, respectively—strengthened the
+effect of dissatisfaction on creativity. Individuals with greater dissatisfactionand each or more of these characteristics generated ideas with greater cre-ativity. Each characteristic arguably enhances cognitive ﬂexibility—ﬁndingand processing divergent information—a key ingredient for creativity.
+Altogether, our ﬁndings support our assertions that the dissatisfaction–
+creativity relationship is contingent on two aspects of work: the nature ofwork, speciﬁcally, the extremity of work, and person–job characteristics.As such, our results suggest two additional categories of moderators affectthis relationship, and potentially the relationship between other negativeemotions and other positive cognitive processes related to work moregenerally. In addition, as the nature of work may drive cognitive persis-tence and person–job characteristics inﬂuences cognitive ﬂexibility, ourresults suggest that both cognitive pathways to creativity are operable inhealth care and potentially other extreme work environments.
+Conclusion
+Our results identifying dissatisﬁed creators and person–job character-istics that further accentuate their creativity extends past research onnegative emotion and creativity and offers avenues for future research.First, our ﬁnding that extreme work is a context that yields dissatisﬁed
+creators extends prior work identifying contextual support as a moder-
+ator and suggests value in future research continuing to identify con-texts where these individuals exist, whose ideas might be leveraged toimprove work. Prior work by Zhou and George (2001) identiﬁed cow-orker and organizational support as moderators of the relationshipbetween dissatisfaction and creativity, highlighting the importance ofsocial context. Our study shows that beyond a psychologically safe,supportive context, extreme work contexts are another condition thatsupports dissatisﬁed creators and thus highlights the importance of theLee et al. 219industry and nature of work as well. Future work should assess whether
+other settings prompt similar dynamics.
+Future research should also consider other, noncontextual modera-
+tors of emotion–creativity relationships. Past work found direct effectsof person–job characteristics similar to the constructs studied in this
+work (e.g., being close to the customer, boundary spanning orientation)
+on creativity and innovation (Kanter, 1988). We found these character-istics to be signiﬁcant moderators as well. This ﬁnding indicates therecan be greater precision in identifying individuals who are more likely
+to activate when dissatisﬁed rather than exit or remain passively with
+the organization. Past work found continuance commitment, coworker,and organizational support variables to moderate the emotion–creativ-ity relationship (Zhou & George, 2001). Continuing to identify variableclasses that moderate dissatisfaction and other emotions can add pre-
+cision to our understanding of the antecedents of creativity. While these
+variables may not all be malleable, they help clarify how creativity is theresult of context and individual.
+As dissatisfaction is a nontransient emotional state (compared with
+transient moods), future research could reveal if other nontransient emo-tional states also are associated with creativity through the mechanismssuggested by the DPCM. We theorize that dissatisfaction prompts cog-
+nitive persistence to activate creativity, extending the DPCM beyond
+transient mood states to nontransient emotional states (De Dreu et al.,2008). Other nontransient emotional states that could be of interest toresearchers and practitioners include engagement, thriving, affective
+organizational commitment, and affective well-being (Fisher, 2010).
+Our ﬁndings suggest that more research is needed to understand if non-transient emotional states generally follow the pathways to creativityshown by the more temporally bound transient mood states.
+In this study, we built on the DPCM to theorize that dissatisfaction
+inﬂuences creativity via cognitive persistence. It may be that dissatis-faction evokes both persistence and ﬂexibility. Another possible mech-
+anism for this relationship is ambivalence, which is the simultaneous
+experience of positive and negative emotion (Fong, 2006). Individualsexperiencing emotional ambivalence are better at recognizing unusualrelationships between concepts, which may have relevance to generatingcreative ideas for improvement (Methot, Melwani, & Rothman, 2017).
+Extreme and unique work settings such as health care combined with an
+individual’s emotional ambivalence may also increase the likelihood ofidea creativity. Future research should empirically test mechanisms bywhich dissatisfaction relates to creativity simultaneously to provide220 Work and Occupations 47(2)insight into the relative contribution of mechanisms and a more com-
+prehensive model of emotion-linked creativity.
+Future research should also seek to address methodological limita-
+tions of this study. Our study design does not allow causal inference.Longitudinal examination of dissatisfaction and creativity is needed to
+uncover if dissatisfaction predicts creativity, occurs simultaneously with
+it, or results from creativity. It is possible that the association that wefound operates in a different direction: Those who generate creative ideasmay become dissatisﬁed with the status quo. In addition, we were unableto include creativity-focused constructs such as creative traits or thinkingstyles, which are common individual-level factors tested in creativity
+research. Third, we used data from a small sample of community
+health centers. The ﬁndings may not generalize to other types of healthcare organizations nor to all primary care clinics because of differencesbetween the focal clinics and other primary care clinics. Further, oursample of quality improvement team participants were not a random
+sample as they may have been a particularly dissatisﬁed group
+motivated to participate in the team to improve current services orpractice. Finally, all creative ideas in this study were voiced inmeetings. We do not capture creative ideas that were generated but notvoiced or voiced elsewhere, a limitation although voicing is necessary forimprovement and these meetings were a key forum.
+Our results suggest that managers should leverage worker job dissat-
+isfaction in health care delivery as an opportunity to generate creativeideas. It may appear that few design solutions exist to foster creativity
+from dissatisﬁed creators, as the person–job characteristics we highlight
+may not seem modiﬁable. However, organizations can launch initiativesthat account for these characteristics. For example, organizations cantarget elicitation efforts to workers who have creative potential.Soliciting their participation may require engaging these individuals
+directly and providing opportunities for them to contribute that allow
+their feedback to be carefully considered (e.g., innovation tournaments,improvement team participation, or online work-in-progress sessions;Schwartz, 2018). The high dissatisfaction of improvement team mem-bers in this study suggests that the dissatisﬁed can be willing tobe engaged. Another solution is to select dissatisﬁed creators as partic-
+ipants in “care co-design initiatives” with leaders, patients and
+families, and workers (Institute of Medicine, 2012). To further bolstertheir creativity, dissatisﬁed creators could be encouraged to collaborateon idea generation. For example, problems requiring complex patient-related knowledge may beneﬁt from ideas of dissatisﬁed creators inLee et al. 221central roles, and these ideas may be enriched by the fresh perspective of
+newer tenured dissatisﬁed creators. Experimenting with opportunities
+for cross learning and peer mentoring between dissatisﬁed creators, and
+other workers, could yield greater creativity. Research on creative free-
+lancers shows that pairing newcomers with experienced workers in
+teams provides resources such as technical feedback that are important
+to ensuring the success of creative ideas in the speciﬁc organizational
+environment (Schwartz, 2018).
+This study shows merits of taking a closer look at dissatisﬁed creators
+and positive outcomes like creativity that may arise from negative emo-
+tions like job dissatisfaction. Attending to the dissatisﬁed may not only
+improve workers’ well-being but also beneﬁt customers (patients) and
+organizations. Dissatisﬁed creators, particularly those with certain
+person–job characteristics, can be valuable resources for creative
+improvement ideas in health care and potentially other extreme
+work settings.
+Acknowledgments
+The authors thank the study participants, research partners, and leadership of
+the system of community health centers for their willingness to be involved in
+the research. The authors thank seminar and conference participants at Yale,
+Columbia, Academy of Management, Organization Theory in Health CareAssociation, and AcademyHealth for feedback. Last, the authors thankSpecial Issue Editor Timothy Vogus and two anonymous reviewers for theirthoughtful and constructive comments that signiﬁcantly improved the quality ofthis article.
+Declaration of Conflicting Interests
+The authors declared no potential conﬂicts of interest with respect to the
+research, authorship, and/or publication of this article.
+Funding
+The authors disclosed receipt of the following ﬁnancial support for the research,authorship, and/or publication of this article: This project was supported by the
+Agency for Healthcare Research and Quality (AHRQ) – U18 HS016978-
+Consumer Assessment of Healthcare Providers and Systems (CAHPS) IV.
+ORCID iD
+Yuna S. H. Lee https://orcid.org/0000-0002-9940-2178222 Work and Occupations 47(2)References
+Aldrich, H., & Herker, D. (1977). Boundary spanning roles and organization
+structure. Academy of Management Review ,2(2), 217–230.
+Allen, J., & Van der Velden, R. (2001). Educational mismatches versus skill
+mismatches: Effects of wages, job satisfaction, and on the job search. Oxford
+Economic Papers ,53(3), 434–452.
+Amabile, T. (1982). Social-psychology of creativity – A consensual assessment
+technique. Journal of Personality and Social Psychology ,43(5), 997–1013.
+Amabile, T. (1988). A model of creativity and innovation in organizations.
+Research in Organizational Behavior ,10, 123–167.
+Amabile, T., Barsade, S. G., Mueller, J. S., & Staw, B. M. (2005). Affect and
+creativity at work. Administrative Science Quarterly ,50, 367–403.
+Axtell, C. M., Holman, D. J., Unsworth, K. L., Wall, T. D., & Waterson, P. E.
+(2000). Shopﬂoor innovation: Facilitating the suggestion and implementa-tion of ideas. Journal of Occupational and Organizational Psychology ,
+73, 265–285.
+Baas, M., De Dreu, C., & Nijstad, B. (2008). A meta-analysis of 25 years of
+mood-creativity research: Hedonic tone, activation, or regulatory focus?Psychological Bulletin ,134(6), 779–806.
+Baron, J. N., Davis-Blake, A., & Bielby, W. T. (1986). The structure of oppor-
+tunity: How promotion ladders vary within and among organizations.
+Administrative Science Quarterly ,31, 248–273.
+Binnewies, C., Ohly, S., & Sonnentag, S. (2007). Taking personal initiative and
+communicating about ideas: What is important for the creative process and
+for idea creativity? European Journal of Work and Organizational
+Psychology ,16(4), 432–455.
+Bockerman, P., & Ilmakunnas, P. (2008). Interaction of working conditions, job
+satisfaction, and sickness absences: Evidence from a representative sample of
+employees. Social Science and Medicine ,67(4), 520–528.
+Bodenheimer, T., Wagner, E. H., & Grumbach, K. (2002). Improving primary
+care for patients with chronic illness: The chronic care model, part 2. JAMA ,
+288(15), 1909–1914.
+Bohmer, R. M. J. (2005). Medicine’s service challenge: Blending custom and
+standard care. Health Care Management Review ,30(4), 322–330.
+Campbell, J., Quincy, C., Osserman, J., & Pedersen, O. (2013). Coding
+in-depth semistructured interviews: Problems of unitization and
+intercoder reliability and agreement. Sociological Methods & Research ,
+42(3), 294–320.
+Chafﬁn, D. R., Heidl, J. R., Hollenbeck, M., Howe, A., Yu, C., & Voorhees, R.
+(2015). The promise and perils of wearable sensors in organizational
+research. Organizational Research Methods ,20(1), 3–31.
+Coleman, K., Austin, B. T., Brach, C., & Wagner, E. H. (2009). Evidence on the
+chronic care model in the new millennium. Health Affairs (Millwood) ,28(1),
+75–85. doi:10.1377/hlthaff.28.1.75Lee et al. 223Conti, R., Coon, H., & Amabile, T. (1996). Evidence to support the compo-
+nential model of creativity: Secondary analyses of three studies. Creativity
+Research Journal ,9(4), 385–389.
+De Dreu, C., Baas, M., & Nijstad, B. (2008). Hedonic tone and activation level
+in the mood-creativity link: Toward a dual pathway to creativity model.Journal of Personality and Social Psychology ,94(5), 739–756.
+De Dreu, C., Baas, M., & Nijstad, B. (2011). Group creativity and innovation:
+A motivated information processing perspective. Psychology of Aesthetics,
+Creativity, and the Arts ,5(1), 81–89.
+De Dreu, C.K.W., Baas, M., & Nijstad, B.A. (2012). The Emotive Roots of
+Creativity: Basic and Applied Issues on Affect and Motivation. In Mumford,M. (Ed.), Handbook of Organizational Creativity (pp. 217–240). London:
+Academic Press.
+Deci, E., Connell, J., & Ryan, R. (1989). Self-determination in a work organi-
+zation. Journal of Applied Psychology ,74(4), 580–590.
+Derryberry, D., & Reed, M. (1998). Anxiety and attentional focusing: Trait,
+state and hemispheric inﬂuences. Personality and Individual Differences ,25
+(4), 745–761.
+Driskell, J., Salas, E., & Driskell, T. (2018). Foundations of teamwork and
+collaboration. American Psychologist ,73(4), 334–348.
+Dyrbye, L., & Shanafelt, T. (2016). A narrative review on burnout experienced
+by medical students and residents. Medical Education ,50, 132–149.
+Dzau, V. J., McClellan, M., Burke, S., Coye, M. J., Daschle, T. A., Diaz, A., ...
+Zerhouni, E., (2017). Vital Directions for Health and Health Care: Priorities
+from a National Academy of Medicine Initiative. NAM Perspectives .
+Discussion Paper, National Academy of Medicine, Washington, DC.
+Edmondson, A. (1999). Psychological safety and learning behavior in work
+teams. Administrative Science Quarterly ,44(2), 350–383.
+Eldor, L., & Harpaz, I. (2016). A process model of employee engagement: The
+learning climate and its relationship with extra-role performance behaviors.Journal of Organizational Behavior ,37, 213–235.
+Farrell, D. (1983). Exit, voice, loyalty, and neglect as responses to job dissatis-
+faction: A multidimensional scaling study. Academy of Management Journal ,
+26(4), 596–607.
+Fisher, C. (2010). Happiness at work. International Journal of Management
+Reviews ,12(4), 384–412.
+Fong, C. T. (2006). The effects of emotional ambivalence on creativity. The
+Academy of Management Journal ,49(5), 1016–1030.
+Ford, C. (1996). A theory of individual creative action in multiple social
+domains. Academy of Management Review ,1, 1112–1142.
+Fredrickson, B. L. (2001). The role of positive emotions in positive psychology.
+The broaden-and-build theory of positive emotions. The American
+Psychologist ,56(3), 218–226.224 Work and Occupations 47(2)Freidson, E. (1970). Professional dominance: The social structure of medical care .
+New York, NY: Atherton.
+George, J. M. (2007). Chapter 9: Creativity in organizations. The Academy of
+Management Annals ,1, 439–477.
+Gilmartin, M., & D’Aunno, T. (2007). Leadership research in healthcare: A
+review and roadmap. The Academy of Management Annals ,1(1), 387–438.
+Hackman, J. R. (1987). The design of work teams. In J. Lorsch. (Ed.),
+Handbook of organizational behavior (pp. 315–342). Englewood Cliffs, NJ:
+Prentice-Hall.
+Hall, P. (2005). Interprofessional teamwork: Professional cultures as barriers.
+Journal of Interprofessional Care ,19, 188–196.
+Hirschman, A. (1972). Exit, voice, and loyalty: Responses to decline in ﬁrms,
+organizations, and states . Cambridge, MA: Harvard University Press.
+Institute of Medicine. (2002). The health care delivery system. In N. A. Press
+(Ed.), The future of the public’s health in the 21st century (Vol. 5) (pp. 212–
+267). Washington, DC: The National Academies Press 2003.
+Institute of Medicine. (2012). Best care at lower cost: The path to continuously
+learning health care in America . Washington, DC: National Academies Press.
+Isella, L., Romano, M., & Barrat, A. (2011). Close encounters in a pediatric
+ward: Measuring face-to-face proximity and mixing patterns with wearablesensors. PLoS One ,6(2): e17144.
+Isen, A., Daubman, K., & Nowicki, G. (1987). Positive affect facilitates creative
+problem solving. Journal of Personality and Social Psychology ,
+52, 1122–1131.
+James, K., Brodersen, M., & Jacob, E. (2004). Workplace affect and workplace
+creativity: A review and preliminary model. Human Performance ,
+17(2), 169–194.
+Kanter, R. M. (1988). When a thousand ﬂowers bloom: Structural, collective, and
+social conditions for innovation in organization: Division of research, graduateschool of business administration . Cambridge, MA: Harvard University.
+Kessel, M., Kratzer, J., & Schultz, C. (2012). Psychological safety, knowledge
+sharing, and creative performance in healthcare teams. Creativity and
+Innovation Management ,21(2), 147–157.
+Krackhardt, K., & Stern, R. (1988). Informal networks and organizational crises:
+An experimental simulation. Social Psychology Quarterly ,51(2), 123–140.
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin ,
+108, 480–498.
+Linzer, M., Konrad, T., Douglas, J., McMurray, J., Pathman, D., Williams,
+E., ...Rhodes, E. (2000). Managed care, time pressure, and physician job
+satisfaction: Results from the physician worklife study. Journal of General
+Internal Medicine ,15, 441–450.
+March, J. (1991). Exploration and exploitation in organizational learning.
+Organization Science ,2, 71–87.Lee et al. 225Martin, L. (2001). Mood as input: A conﬁgural view of mood effects. In L.
+Martin & G. Clore (Eds.), Theories of mood and cognition: A user’s guidebook
+(pp. 135–157). Mahwah, NJ: Erlbaum.
+McNeese-Smith, D. (1999). A content analysis of staff nurse descriptions of job
+satisfaction and dissatisfaction. Journal of Advanced Nursing ,
+29(6), 1332–1341.
+Methot, J. R., Melwani, S., & Rothman, N. B. (2017). The space between us: A
+social-functional emotions view of ambivalent and indifferent workplacerelationships. Journal of Management ,43(6), 1789–1819.
+Miles, M. B., & Huberman, A. M. (1994). Qualitative data analysis . London,
+England: Sage Publications.
+Mueller, J. S., Melwani, S., & Goncalo, J. C. (2012). The bias against crea-
+tivity: Why people desire but reject creative ideas. Psychological Science ,
+23, 13–17.
+Nembhard, I. M., & Edmondson, A. C. (2006). Making it safe: The effects of
+leader inclusiveness and professional status on psychological safety andimprovement efforts in health care teams. Journal of Organizational
+Behavior ,27(7), 941–966.
+Ng, T. W. H., & Feldman, D. C. (2010). Organizational tenure and job perfor-
+mance. Journal of Management ,36(5), 1220–1250.
+Olguin Olguin, D., Gloor, P., & Pentland, A. P. (2009, March). Capturing
+individual and group behavior with wearable sensors . Paper presented at the
+AAAI Spring Symposium on Human Behavior Modeling, Stanford, CA.
+Perry-Smith, J. E., & Shalley, C. E. (2003). The social side of creativity: A static
+and dynamic social network perspective. Academy of Management Review ,
+28(1), 89–106.
+Porter, M. (2010). What is value in health care? New England Journal of
+Medicine ,363, 2477–2481.
+Schwartz, D. (2018). Embedded in the crowd: Creative freelancers, crowd-
+sourced work, and occupational community. Work and Occupations ,
+45(3), 247–282.
+Shalley, C. E., Zhou, J., & Oldham, G. R. (2004). The effects of personal and
+contextual characteristics on creativity: Where should we go from here?Journal of Management ,30(6), 933–958.
+Shanafelt, T., Hasan, O., Dyrbye, L., Sinsky, C., Satele, D., Sloan, J., & West,
+C. (2015). Changes in burnout and satisfaction with work-life balance in
+physicians and the general US working population between 2011 and2014. Mayo Clinic Proceedings ,90(12), 1600–1613.
+Sikka, R., Morath, J. M., & Leape, L. (2015). The quadruple aim: Care, health,
+cost and meaning in work. BMJ Quality & Safety ,24(10), 608–610.
+Skaggs, R. (2019). Socializing rejection and failure in artistic occupational com-
+munities. Work and Occupations ,46(2), 149–175.
+Simonton, D. (1999). Creativity as Blind Variation and Selective Retention: Is
+the Creative Process Darwinian? Psychological Inquiry ,10(4), 309–328.226 Work and Occupations 47(2)Umney, C., & Kretsos, L. (2015). “That’s the experience”: Passion, work pre-
+carity, and life transitions among London jazz musicians. Work and
+Occupations ,42(3), 313–334.
+Vogus, T. J., & McClelland, L. E. (2016). When the customer is the patient:
+Lessons from healthcare research on patient satisfaction and service quality
+ratings. Human Resource Management Review ,26(1), 37–49.
+Vogus, T. J., & Sutcliffe, K. (2007). The safety organizing scale: Development
+and validation of a behavioral measure of safety culture in hospital nursingunits. Med Care ,45(1), 46–54.
+Waber, B. (2013). People analytics: How sensing technology will transform busi-
+ness and what it tells us about the new world of work . London: FT
+Press Analytics.
+Weick, K. E. R., & Roberts, K. H. (1993). Collective mind in organizations:
+Heedful interrelating on ﬂight decks. Administrative Science Quarterly ,
+38, 357–381.
+West, C., Dyrbye, L., Erwin, P., & Shanafelt, T. (2016). Interventions to prevent
+and reduce physician burnout: A systematic review and meta-analysis. The
+Lancet ,388, 2272–2281.
+Zhou, J., & George, J. (2001). When job dissatisfaction leads to creativity:
+Encouraging the expression of voice. Academy of Management Journal ,
+44(4), 682–696.
+Author Biographies
+Yuna S. H. Lee , PhD, MPH, is an assistant professor of health policy
+and management at the Columbia University Mailman School of PublicHealth. Her research focuses on how health care organizations canfoster creativity and innovation from clinicians, staff, and patients topromote better patient and employee experiences and improved
+performance.
+Ingrid M. Nembhard , PhD, MS, is the Fishman Family President’s dis-
+tinguished associate professor of Health Care Management at TheWharton School, University of Pennsylvania. Her research focuses on
+how characteristics of health care organizations, leaders, and staff affect
+their ability to engage in organizational learning, implement newpractices, and improve health care.
+Paul D. Cleary , PhD, is the Anna MRt Lauder professor of public
+health at the Yale School of Public Health. His research focuses onthe quality of medical care, how clinician and organizational character-istics are related to care quality, and the implementation and impact ofquality improvement efforts.Lee et al. 227
