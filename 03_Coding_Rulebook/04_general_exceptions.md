@@ -18,4 +18,8 @@ When coding academic papers, authors may make typos or contradict themselves bet
 > - **Documentation:** Write exactly what the text says in the Notes column (e.g., `Text claims 7-point scale but ranges 1 to 5.`).
 > - **Flagging:** Append a `[FLAGGED]` tag to the Notes column and the Shadow Report, and request a human ruling. Do not make assumptions.
 
+> [!TIP]
+> **Rule 04D: R-squared Extraction (Simple Regressions)**
+> While extracting from correlation matrices is the priority, if a paper lacks a formal correlation matrix but reports the $R^2$ value for a *simple* linear regression (one predictor, zero control variables), you MUST extract the zero-order correlation using the formula $r = \sqrt{R^2}$. Do not erroneously exclude the paper for lacking a matrix if this data is present.
+
 </details>
