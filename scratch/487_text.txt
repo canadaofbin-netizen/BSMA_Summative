@@ -1,0 +1,737 @@
+The impact of product
+management on SME
+performance
+Evidence from Canadian ﬁrms
+David C. Roach
+School of Business Administration, Dalhousie University,
+Faculty of Management, Halifax, Canada
+Abstract
+Purpose – The purpose of this paper is to examine the impact of product management as a set of
+organizational capabilities. It aims to investigate product management as a set of boundary spanning
+capabilities, by empirically relating these to ﬁrm performance.
+Design/methodology/approach – A measurement instrument is developed and validated based on
+the extant product management literature. Using a heterogeneous sample of 63 Atlantic Canadian
+SMEs in the manufacturing and professional/technical services sectors, data are collected to test thesurvey instrument and establish preliminary construct validity.
+Findings – Both ﬁrm performance and product management measures demonstrate internal
+consistency. Several product management sub-constructs demonstrated reliability and in some cases
+validity, substantiating the product management literature. These included product pricing, sales
+support and forecasting.
+Research limitations/implications – This research builds upon the literature and indicates that a
+relationship exists between product management capability and ﬁrm performance. This leads to the
+conclusion that product management, as a set of boundary spanning ﬁrm capabilities, warrants future
+research with a larger more homogeneous population. Limitations include geographic bias, treatingthe population as homogeneous and lack of relationship to established ﬁrm orientations.
+Practical/implications – This research may have practical signiﬁcance and managerial
+implications, based on the relationship between product management capabilities and ﬁrm
+performance. This could lead to an increased understanding of how to allocate scarce resources inorder to improve performance.
+Originality/value – The paper introduces the concept of boundary spanning, product management
+capabilities and their relationship to ﬁrm performance, by providing preliminarily validation of a
+measurement scale for product management capabilities of small to medium-sized enterprises.
+Keywords Product management, Small to medium-sized enterprises, Company performance,
+Firm orientation, Boundary spanning, Marketing, Canada
+Paper type Research paper
+1. Introduction
+Product management as an organizational concept has been around for over a century
+in various forms (Katsanis and Pitta, 1995). This boundary spanning capability has along history of management practice stemming back to the late nineteenth century,
+with the organizational structure eventually formalized by Proctor and Gamble in theThe current issue and full text archive of this journal is available at
+www.emeraldinsight.com/1462-6004.htm
+The author wishes to thank the Atlantic Canada Opportunities Agency’s (ACOA), Atlantic
+Policy Research Initiative (APRI) for their generous support of this research.The impact
+of product
+management
+695
+Journal of Small Business and
+Enterprise Development
+Vol. 18 No. 4, 2011
+pp. 695-714
+qEmerald Group Publishing Limited
+1462-6004
+DOI 10.1108/14626001111179758
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026early 1930s (Katsanis and Pitta, 1995; Sands, 1979; Dominguez, 1971). This system,
+which treated the product as the focal point of the management structure, became the
+standard in most large consumer product organizations and many industrial
+companies in the 1960s (Sands, 1979; Buell, 1975).
+The classic product management model involved the integration of all the functions
+required for the successful creation, production and marketing of a product line. Thestrength of this management system was its ability to continuously match internal
+resources with external requirements, in order to optimize the market performance of
+individual products or product lines. In the late 1960s, largely driven by the
+popularization of the study of management (Drucker, 1954), ﬁrms became more
+sophisticated in their approach to the enterprise, eventually relegating product
+management to a number of subordinate, specialized functions within the organization.
+These came to include such positions as brand manager, category manager (Katsanis
+and Pitta, 1999) and technical product manager.
+Given the broad nature of the product management concept and its lack of ﬁt within
+the conventional divisions of management research, few academics have devoted muchattention to this ﬁeld in the modern era of business research. Recent literature can be
+predominantly classiﬁed into three distinct areas; practitioner focused (Gorchels, 2005;
+Connolly, 2002; Berek, 1998), job function centered (Katsanis and Pitta, 1999; Dawes
+and Patterson, 1988; McDaniel and Gray, 1980; Venkatesh and Wilemon, 1976;
+Gorchels, 2003) or based on the agent-ﬁrm relationship (Cosse ´and Swan, 1983;
+Gemmill, 1972; Giese and Wiesenberger, 1982; Murphy and Gorchels, 1996; Cummings
+et al., 1989; Lysonski et al. , 1995; Strieter et al., 1999). Although each area has beneﬁted
+from various formal empirical studies (Dawes and Patterson, 1988; Cummings et al.,
+1989; Lysonski, 1985; Lysonski and Woodside, 1989; Tyagi and Sawhney, 2010;
+Katsanis, 2006), none have examined product management as a set of organizational
+capabilities or their relationship to ﬁrm performance.
+There is however general agreement within the literature on the scope of activities
+that comprise the aggregate product management responsibilities within the ﬁrm andwhich areas require organizational focus in order to optimize performance. Thus, the
+premise of this research is that these activities impact ﬁrm performance. This study
+adds to the literature by taking an unconventional approach, whereby it examines
+product management as a set of boundary spanning organizational capabilities. This
+product (or service) management capability involves the coordination not only across
+the traditional boundaries of the ﬁrm, but at the interface between the ﬁrm and the
+market (Lysonski, 1985). It goes beyond recent research (Tyagi and Sawhney, 2010),
+which investigates the organizational determinants of product management, but stops
+short of investigating product management as a ﬁrm capability.
+This paper ﬁrst reviews the extant literature on product management, providing
+content validity. Next, a synthesized measurement instrument consisting of 32questions is proposed, covering the breadth of the product management capabilities of
+the ﬁrm. Research methods are then discussed and empirical results analyzed, based
+on a pilot study of Atlantic Canadian SMEs in the manufacturing and technical service
+sectors.
+For the purposes of this paper, the term “product” will be used to describe both
+products and services.JSBED
+18,4
+696
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 20262. Conceptual background – product management
+Product management (not to be confused with product development, project
+management or product marketing) had its formal beginnings in the 1930s whenProcter and Gamble (P&G) ﬁrst implemented the role within its divisions as a separate
+business function (Sands, 1979; Lysonski, 1985; Eckles and Novotny, 1984; Wood and
+Tandon, 1994). This new function was delegated to an individual who was entirelyresponsible for the development, production and marketing of a particular product line,
+integrating all of the functions required for its successful creation and marketing. This
+“conception through to purchase” system was adapted widely until the 1970s whenmultifunctional teams began to take over responsibility for the entire product life cycle,
+replacing individual product managers (Katsanis et al., 1996). While in large
+organizations this improved the ﬁrm’s market orientation, it had the unintended effectof dispersing product responsibility throughout the organization.
+Several issues arise within the literature, which need to be explored in order to fully
+understand the role of product management within the business enterprise. Accordingto Cummings (1984) the product management literature can be divided into two areas;
+namely the background and characteristics of product managers themselves (Cosse ´
+and Swan, 1983; Gemmill, 1972) and the organizational characteristics of the position.
+This research will focus mostly on the latter.
+Boundary spanning is the subject of a substantial portion of the literature on the
+role of product managers and is considered a critical element linking information to theorganization (Katsanis and Pitta, 1995; McDaniel and Gray, 1980; Lysonski, 1985;
+Lysonski and Woodside, 1989; Wood and Tandon, 1994; Lysonski et al., 1988).
+Lysonski (1985, p. 26) deﬁnes boundary spanning as “the interface between the ﬁrmand its market environment, as well as between departments in the ﬁrm”. Productmanagers thus perform two functions, one as a ﬁlter (drawing inferences from
+information and presenting a homogeneous interpretation) and the other as a facilitator
+(presenting meaningful information for decision making) (Wood and Tandon, 1994).Paradoxically, it seems that product managers spend most of their time and resources
+on internal boundary spanning activities, even though external activities are deemed to
+be more critical to the ﬁrm’s long-term performance (Gorchels, 2005; Tyagi andSawhney, 2010).
+One of the classic boundary spanning activities is the nurturing of shared
+cross-functional understanding of customer needs. It requires a culture that breaks
+down the barriers between such functional areas as sales, marketing, engineering and
+R&D to solve customer problems. This can be particularly important for SMEs, sincethe ability to deliver superior products and services is the foundation of many small
+ﬁrm niche strategies (Pelham, 1997). When looking at the growth of SMEs relative to
+organizational capabilities, Chaston and Mangles (1997) established a relationshipbetween ﬁrm growth and internal capabilities. Although several of these capabilities
+were not directly related to product management (such as investing in productivity
+assets), several were. What emerged was the critical importance of adopting a balancedapproach, believing that emphasis on a single dimension of capability presents a
+signiﬁcant risk to the ﬁrm, leading to a weakening of future growth (Chaston and
+Mangles, 1997).
+Smallbone et al. (1995) on the other hand concentrated on strategies and
+management actions that affect growth. Related to the product management, theyThe impact
+of product
+management
+697
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026identiﬁed six variables that reﬂect the ﬁrm’s product and market development. These
+include:
+(1) identifying and responding to new market opportunities;
+(2) increasing the breadth of customer base;
+(3) broadening or developing a different range of products;
+(4) product innovation;
+(5) improving competitiveness (for example cost reduction, sales efforts, etc.); and
+(6) competitive stance (for example cost-leadership versus differentiation).
+These most consistently distinguished high growth ﬁrms from other ﬁrms in their
+study (Smallbone et al. , 1995).
+Although the product manager as an entity has lost much of its luster (Wood and
+Tandon, 1994), companies must still rely on a system to coordinate the many activitiesin developing and marketing their products or services. Product management thusshould be viewed as a holistic, interdependent, boundary-spanning system (Katsanis
+and Pitta, 1995), which must still be executed either formally or informally by ﬁrms,
+large or small. This leads to looking at product management as a set of boundaryspanning organizational capabilities, which must be performed by the ﬁrm in order tosucceed in the marketplace. Product management can thus be thought of as ahorizontal plane cutting through the traditional vertical specialties of the organization,bringing comprehensive management to product speciﬁc issues (Luck, 1969). Thisorganizational level approach differs from the agency level approach of most of the
+product management literature.
+Despite the importance of product management within the ﬁrm, there is no
+published scale to measure the strength of this relationship. Thus, for the purpose of
+this research, a 32-item survey instrument is proposed, based on the extant productmanagement literature.
+3. Measurement instrument development
+In support of this study, the extant product management literature was synthesized,resulting in a measurement instrument consisting of 32 questions covering the breadthof the product management capabilities of the ﬁrm. The following outlines each set ofquestions and their relationship to product management capability.
+At the core of product management is the product (or product line) strategy (Sands,
+1979; Dawes and Patterson, 1988). The degree to which ﬁrms take a strategic planningorientation (Cosse ´and Swan, 1983; Lysonski et al. , 1995) should have an impact on ﬁrm
+performance. Product strategy determines which product categories the ﬁrm should becompeting within and which categories it should relinquish. From an organizationalperspective, product strategy has several boundary spanning implications. Theseinclude the cross functional responsibility for deciding which products to add andwhich to phase out (Eckles and Novotny, 1984) and the time horizon over which this
+takes place (for instance, short-term versus long-term) (Berek, 1998; Murphy and
+Gorchels, 1996; Katsanis, 2006; Wood and Tandon, 1994; Katsanis et al., 1996).
+Companies with the capability of aligning their product strategy with the best
+alternative for managers (Bristow and Frankwick, 1994), should exhibit higher ﬁrmJSBED
+18,4
+698
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026performance. Thus, as a measure of how the ﬁrm manages its Product Strategy , the
+following two questions ( PM1 ,PM28 ) were used:
+PM1. We have strong systems for deciding which products and/or service
+opportunities to pursue or which to phase-out.
+PM28. We prefer to take a long-term approach to our product and/or serviceofferings rather than focusing merely on short-term proﬁts.
+One of the most challenging product management areas for most ﬁrms is pricing.Pricing touches all aspects of the ﬁrm’s business model and is one of its mostsigniﬁcant boundary spanning activities within organizations (McDaniel and Gray,1980). Pricing decisions can be affected by the ﬁrm’s strategic pricing philosophy (forinstance cost-based versus value-based pricing) or whether the ﬁrm is involved inconsumer or industrial sectors (Dawes and Patterson, 1988; Eckles and Novotny, 1984;
+Cummings et al. , 1984; Hise and Kelly, 1978). The ability to effectively set pricing
+involves strong internal and external communication for such issues as setting the
+base price, trade discounts, quantity discounts, price changes and pricing acrosschannels (Gorchels, 2003; Eckles and Novotny, 1984; Cummings et al. , 1984; Lehmann
+and Winer, 2005). Good pricing policy should also be driven by good pricing analysis.Thus, as a measure of how the ﬁrm manages its Product Pricing, the following twoquestions ( PM2 ,PM3 ) were used:
+PM2. Our product and/or service pricing (for instance, base price, discountschedules, etc.) are clearly communicated to all stakeholders.
+PM3. Our product and/or service pricing (for instance, base price, discountschedules, etc.) is determined via careful analysis and feedback from the
+marketplace.
+Another signiﬁcant product management activity is support for sales management.
+Classic product managers’ work with sales management to set strategies and achieveplans (Katsanis and Pitta, 1999), while in SMEs these sales related activities tend to
+have a greater inﬂuence in marketing activities (Walsh, 2009). These can include
+contact with sales representatives, distributors, suppliers, and buyers (Sands, 1979;Coviello and Brodie, 2001) and should lead to the establishment of sales objectives(Eckles and Novotny, 1984), sales force quotas, sales force incentives, and allocation ofsales resources. When looking speciﬁcally at the boundary spanning tasks of the ﬁrm,the product management activities tend to be generally related to sales support andmotivation (Katsanis and Pitta, 1999; Gorchels, 2005) and can include such activities as
+product training, creating presentations/demos, technical/ﬁeld support and special
+sales force requests (Gorchels, 2003; Murphy and Gorchels, 1996; Katsanis et al. , 1996;
+Cummings et al., 1984; Cummings et al., 1984; Petrini and Grub, 1973). Good sales
+management also has an after sale emphasis (Gray et al. 1998), which includes
+scrutinizing the effectiveness of marketing programs and/or performing win/lossanalysis (Cosse ´and Swan, 1983). Thus, as a measure of how the ﬁrm manages its
+Product Sales Support, the following three questions ( PM4 ,PM5 ,PM6 ) were used:
+PM4. Our sales force or sales partners are consistently kept informed about ourproduct and/or service strategy.The impact
+of product
+management
+699
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026PM5. Our sales force or sales partners consistently receive up to date product
+and/or service support (for example , training, technical support,
+demonstrations and presentations).
+PM6. Sales data is consistently analyzed and measured against marketingprograms and forecasts.
+Another well-documented role of product management within the organization isbusiness analysis. This involves preparing the business case for new products orservice, assessing the ﬁnancial risk for new products, and evaluating the desirability ofnew products in the marketplace (Murphy and Gorchels, 1996; Cummings et al., 1984).
+Thus, how the ﬁrm manages its product related Business Assessment is measuredusing the following question ( PM9 ):
+PM9. Our product and/or service plans are supported by strong business caseanalysis.
+Closely related to the business case is product management’s involvement inbudgeting (Lysonski et al. , 1995; Cummings et al. , 1984; Hise and Kelly, 1978;
+Clewett and Stasch, 1975). This can range from assisting with the administration ofmarketing budgets, reviewing budget mix, launch budgets (Ledwith and O’Dwyer,2008) and/or monitoring expenditures. In looking speciﬁcally at the productmanagement activities associated with budgets, it is important to separate generalmarketing budgets from speciﬁc product or service related activities. For instance,
+is budgeting related generally to brand building or allocated at the product level?
+Also, tangentially related to budgeting is the product’s overall proﬁtability (Buell,1975; Gorchels, 2003; Luck, 1969; Hise and Kelly, 1978). Thus, as a measure of howthe ﬁrm manages it’s Product Budgeting, the following two questions ( PM10 ,
+PM11 ) are proposed:
+PM10. Our marketing budget is allocated by product and/or service categoryrather than generally at the ﬁrm level.
+PM11 We consistently monitor the proﬁtability of each of our products and/orservices.
+Much of the product management literature highlights the monitoring of the product or
+service offering in an effort to understand the product-market dynamics. This can
+involve the monitoring of marketing programs to determine if they conform with andsupport the product plan. Other activities include measuring such activities asadvertising effectiveness or monitoring commercial performance. The ultimateobjective is to provide feedback to the product/service process within the ﬁrm forcorrective action (Clewett and Stasch, 1975; Quelch et al., 1992). Also, reviewing
+available product-related data such as product recalls, technical service data andcustomer satisfaction is critical to this process (Murphy and Gorchels, 1996; Gray et al.,
+1998). Thus, how a ﬁrm conducts its Internal Monitoring activities is determined using
+the following three questions ( PM30 ,PM13 ,PM12 ):
+PM30. We consistently monitor the effectiveness of our promotional activities byproduct and/or service category.JSBED
+18,4
+700
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026PM13. Our ﬁrm consistently reviews customer comments, recalls and technical
+service data as input for future decisions about our products and/orservices.
+PM12 We consistently monitor our customer service by product and/or servicecategory.
+Monitoring the external environment including the regulatory or legal environment isanother key product management activity (Katsanis and Pitta, 1999). It involveskeeping abreast of potential conﬂicts between product strategies/programs andregional, national, or international laws/regulations. Issues such as the legitimacy ofadvertising claims, product labeling, or product recalls would be typical problems thatrequire attention from the ﬁrm. The product management capability of theorganization takes the role of resolving these issues, making recommendations and
+implementing action (Murphy and Gorchels, 1996; Katsanis, 2006; Cummings et al.,
+1984; Quelch et al,. 1992). The following ( PM26 ) is proposed to measure the External
+Monitoring activities of the ﬁrm’s environment:
+PM26. We consistently monitor our external environment (for example social,political, economic, regulatory) in order to avoid surprises with respect to
+our products or services.
+One of the key external boundary spanning activities of the product managementfunction is the integration of customer research into the product design and
+development process. This includes matching the needs of the market with the ﬁrm’s
+technological opportunities and capabilities. This is the ﬁrm’s boundary spanningcapability of integrating customer learning into the product development process andtypically involves primary research such as customer visits (Gorchels, 2003; Luck,1969; Quelch et al. , 1992; Calantone et al. , 2002). As such, the following statement
+(PM14 ) is proposed to measure the Customer Integration aspect of product
+management:
+PM14. Our ﬁrm consistently seeks customer input into the design of ourproducts and/or services.
+From a slightly different perspective, market research and competitive intelligence aremostly driven by secondary research. This external boundary spanning function ishow ﬁrms search the industry for new ideas, trends, or phenomena (Katsanis, 1999). Itinvolves keeping abreast of competitors, (Lysonski, 1985), and monitoring productdiffusion (Calantone et al. , 2002) in an effort to anticipate changes in evolving market
+dynamics. It also involves the ﬁrm’s capability to integrate competitive intelligenceinto new and existing products in the marketplace (Katsanis, 2006; Lysonski et al.,
+1988; Quelch et al., 1992). As such, the following three questions ( PM15 ,PM16 ,PM17 )
+are used to measure Competitive Intelligence:
+PM15. Competitive research and analysis drives our product and/or serviceplanning.
+PM16. We consistently scan our industry for new ideas, trends or phenomena toimprove our product and/or service offerings.The impact
+of product
+management
+701
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026PM17. We systematically benchmark our product and/or service offerings
+against industry leaders.
+Goal and objective setting is paramount to the success of the product managementcapability of the ﬁrm. This involves tradeoffs between internal resource allocation andthe functional priorities of the organization. For instance, setting priorities to establishproduct-marketing objectives must be balanced with other functions such as costaccounting or research and development (Katsanis, 2006; Clewett and Stasch, 1975;Quelch et al., 1992). Thus, having the systems to establish product, project, and
+personnel objectives should positively affect ﬁrm performance. As such, the followingquestion ( PM18 ) is proposed to measure Priority Setting:
+PM18. We have well-established systems for setting priorities for our product orservice offerings.
+Forecasting has traditionally had a strong association with product management(Sands, 1979; Dominguez, 1971; Dawes and Patterson, 1988; McDaniel and Gray,1980; Hise and Kelly, 1978). Forecasting involves a signiﬁcant amount of boundaryspanning activity inside and outside of the ﬁrm. It encompasses developing volumeand revenue forecasts based on overall industry sales and market share by segmentor product line (Cosse ´and Swan, 1983; Murphy and Gorchels, 1996; Katsanis, 2006;
+Quelch et al. , 1992). The Forecasting function is thus measured as follows ( PM19 ,
+PM20 ):
+PM19. We have well-established systems for forecasting and monitoring productand/or service unit sales.
+PM20. We have well-established systems to monitor our market share byproduct and/or service category.
+Communication and Coordination has a long history and is the subject of a signiﬁcantamount of the product management literature (Sands, 1979; Dominguez, 1971; Berek,1998; Dawes and Patterson, 1988; McDaniel and Gray, 1980). Communication has abroad scope and is difﬁcult to fully specify. However, it can be broadly broken downinto internal and external communications (Lysonski, 1985; Wood and Tandon, 1994).Examples of internal product management communication involve such things asconducting team meetings, fostering communication amongst diverse team members,
+and initiating and maintaining appropriate linkages between the product and project
+teams and/or functional departments. Examples of external product managementcommunication can include contact with sales reps, distributors, suppliers, and buyers.These boundary-spanning processes require obtaining information and disseminatinginformation, with the ﬁrm’s product management capability providing a “ﬁltering andfacilitation” role (Wood and Tandon, 1994; p. 24). Fundamentally, communicationinvolves transmitting information about the product/services from the externalenvironment into the ﬁrm and vice versa (Katsanis, 2006; Lysonski et al. , 1988; Bristow
+and Frankwick, 1994; Clewett and Stasch, 1975). The Communication and Coordinationfunction is measured as follows ( PM7 ,PM8 ,PM32 ):
+PM7. We foster communication about our products and/or services within our
+ﬁrm in order to generate product improvement ideas.JSBED
+18,4
+702
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026PM8. We foster communication about our products and/or services outside of
+our ﬁrm in order to generate product improvement ideas.
+PM32. External information is consistently communicated to internal staff for
+decision making about our products and/or services.
+Product development and R&D have a well-documented link with productmanagement (Dawes and Patterson, 1988). The issues revolve around active
+participation within the ﬁrm to ensure that research and development plans are aligned
+with product strategy. The ﬁrm’s product management capability needs to foster
+relationships within the organization throughout all of the stages of the development
+process (Luck, 1969). Tasks such as writing product requirements, determining
+product/service modiﬁcations, participating in the product conceptualization process,
+or assisting with product speciﬁcations are common themes (Murphy and Gorchels,
+1996; Eckles and Novotny, 1984; Cummings et al., 1984). Early involvement and
+integration of both marketing and R&D in the product development process shouldresult in improved ﬁrm performance (Gorchels, 2003; Bristow and Frankwick, 1994;
+Calantone et al. , 2002). As such, the following three statements ( PM21 ,PM22 ,PM23 )
+are used to measure the boundary spanning roles of Marketing & Technical
+Integration:
+PM21. We have well-established systems for involving business, marketing and
+technical personnel in our product and/or service efforts.
+PM22. Marketing and technical personnel communicate effectively and work
+harmoniously when it comes to product and/or service issues.
+PM23. Marketing and technical personnel participate equally in developing new
+product and/or service concepts.
+Test marketing and pretest marketing (for example, simulated test market) are
+effective ways for ﬁrms to weed out questionable products prior to their market
+introduction/launch (Ledwith and O’Dwyer, 2008; Calantone et al., 2002). This product
+management function is boundary spanning in nature, since it involves aspects ofconcept testing, product design, use/usability testing, as well as the more traditionalaspects of test marketing (for example, brand name and price testing) (Murphy and
+Gorchels, 1996; Cummings et al., 1984; Quelch et al. , 1992). More formal research
+studies also tend to prove or disprove internal notions about the product or service(Murphy and Gorchels, 1996). As such, the following three statements ( PM24 ,PM31 ,
+PM27 ) are used to measure the Market Testing component of the product management
+function:
+PM24. We consistently use pre-test marketing (for example simulated market
+tests) to establish the viability of new products and/or services.
+PM31. Our products and services are mainly driven by market requests.
+PM27. We frequently conduct formal research studies to prove or disprove our
+pre-conceived notions about our products and/or services.
+Inﬂuence over the promotion and advertising decision-making process (Sands, 1979;Buell, 1975; Berek, 1998) is another classic function of product management. This canThe impact
+of product
+management
+703
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026include many aspects of the promotional mix, including trade (and consumer)
+promotion, trade shows/exhibits, advertising copy, media selection, creating material
+for external audiences (for instance, blog/newsletter), and advertising. Consumer and
+industrial ﬁrms differ in how this responsibility is divided, with the former more
+highly involved in promotion and advertising than the latter (Gemmill, 1972; Murphy
+and Gorchels, 1996; Eckles and Novotny, 1984; Cummings et al. , 1984; Quelch et al.,
+1992). The following question is thus used to measure the Cross-Functional Promotion
+and advertising approach of product management:
+PM25. We take a team approach to the design and development of our
+promotional materials.
+Last, value creation is another output of the product management capability of the
+ﬁrm. In the industrial product management model, technical depth and superiority
+tend to be more prevalent than in consumer product management systems (Murphy
+and Gorchels, 1996; Eckles and Novotny, 1984; Cummings et al. , 1984; Calantone et al.,
+2002). As such, the following question is designed to measure whether the ﬁrm’sproduct management functions are Technically Driven:
+PM29. Our products and/or services are mainly driven by technical superiority.
+It should be noted that no reverse questions were used in the development of the
+product management questionnaire. Given the exploratory nature of this research andthe breadth of coverage of the product management capabilities of the ﬁrm, this was
+considered a reasonable assumption. Future work may use both positive and negative
+statements as a means of limiting halo bias.
+Last, for the purposes of this research, performance will be measured using
+subjective, global performance mea sures as outlined in Appendix 1. These
+performance measures have been used extensively in SME research, driven largelyby the reluctance of owner/managers to provide objective ﬁnancial performance
+information (Wolff and Pett, 2006).
+3.1 SME orientation and product management
+Small- and medium-sized enterprises (SMEs) provide a unique challenge in the arena of
+product management. Despite the importance placed upon the marketing conceptwithin SMEs, our understanding of the precise marketing activities and competencies
+that relate to ﬁrm performance remain under-developed (Walsh, 2009). Although the
+Procter and Gamble model of product management has made its way into some SMEs
+(Katsanis et al. , 1996), this formal model may not be very well suited for smaller
+organizations (Dawes and Patterson, 1988). Small- and medium-sized ﬁrms are oftendriven by daily emergencies and concerns, while frequently lacking adequate
+competitive analysis and new product development infrastructure (Woodcock et al.,
+2000).
+One of the key criticisms of many small- and medium-sized businesses is that they
+fail to translate solid research and development ﬁndings into successful innovations
+(O’Regan et al. , 2006). Research has shown that many small- and medium-sized
+businesses have strong technology related product management practices, such asproduct development, testing and analysis. However, the majority of SMEs lack the
+ability to properly perform many of the marketing related product managementJSBED
+18,4
+704
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026functions (for example, market research and market testing). These factors help
+differentiate successful and unsuccessful products (Huang et al., 2002) and, along with
+customer intelligence, are positively related to improved innovation and proﬁtability
+within small- and medium-sized enterprises (Verhees and Meulenberg, 2004). Toovercome these innovation deﬁciencies, successful small- and medium-sized ﬁrms
+must devote a sufﬁcient amount of energy to developing new products for current
+customers, broadening their markets/customer base and properly managing theircurrent product portfolios (Smallbone et al. , 1995).
+Research on innovation has also shown that improvements in SME’s innovation
+practices can be achieved by beginning to structure organizations to allow forimproved cross-functional and cross-disciplinary communication (Vermeulen, 2005).SMEs that are able to implement and nurture effective new product development
+practices appear to have a richer resource base and better formal or informal product
+management strategies (Karlsson and Olsson, 1998). Huang et al. (2002) research also
+provides some insight, since they conclude that certain product management practices
+such as market research, analysis, product creation and commercialization are the most
+crucial activities for product success. However, these activities are also believed to bethe group of business activities that required the most improvement and attention
+(Karlsson and Olsson, 1998).
+This evidence lends credibility and supports the importance of proper and effective
+product management capabilities within small- and medium-sized enterprises.
+4. Methodology
+The focus of this research is on small- and medium-sized enterprises (SMEs) engaged
+in manufacturing and professional/technical services. The geographic criteria used forthis study was the Atlantic Provinces of Canada (Nova Scotia, New Brunswick, Prince
+Edward Island, and Newfoundland & Labrador).
+Small- to medium-sized enterprises were deﬁned as:
+.having less than 250 employees
+.less than CDN$ 50M in revenue; and
+.are stand alone enterprises (that is, not subsidiaries of larger entities).
+Sole proprietorships and micro-businesses were deselected by restricting this study to
+those businesses with greater than ﬁve employees. The study used key informants
+who were senior managers of SMEs (for example, General Managers through to CEOs).
+The SME population was identiﬁed through the use of two prominent databases:
+(1) Industry Canada’s Canadian Company Capabilities (CCC) database; and
+(2) the Canadian Business Directory (CBD).
+The former is a self-reported, on-line database where Canadian companies freely share
+their corporate information, including senior company contact information, ﬁrm size,
+limited performance data, and key market information. The latter (CBD) is acommercially available database.
+Records were also restricted to those businesses whose named contacts or ofﬁcers
+were listed and telephone numbers were included. In total, 629 records in the CCCdatabase and 628 in the CBD database were used. A number of methods wereThe impact
+of product
+management
+705
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026employed to detect common business records between the two datasets. Near matches
+were examined on an individual basis, such as subtle differences in spelling between
+the two systems. In total, 138 business records were positively matched between the
+two data sources, giving us a complete working data set of N¼1,119 distinct
+businesses.
+The method of data collection was a self-reported on-line survey answered by senior
+company key informants between June and September 2008. Participants were asked
+to provide their opinion on a number of generic statements related to product
+management and ﬁrm performance. Firm performance was measured using a 9-item
+instrument (see Appendix 1). Questions were randomized using a seven-point Likert
+scale from “disagree completely” to “agree completely” based on how their ﬁrm has
+performed in the past, not how it hoped to perform in the future. Last, participants wereasked brieﬂy about their experience in their industry and their company, and what best
+described their management position within their organization.
+This method resulted in 63 good responses ðN¼63Þ:This translated into a
+response rate of 5.63 percent of the total population ( N¼1,119). Of these responses 50
+(79.4 percent) were primarily producers of goods, while 13 (20.6 percent) were primarily
+suppliers of services. Of the respondents 44 (69.8 percent) were Chief Ofﬁcers,
+Presidents or Vice Presidents of their companies. When senior managers were included
+this increased to 59 (93.7 percent) of respondents. Of these respondents 35 (55.61percent) had greater than 15 years experience in their industry, while 28 (44.4 percent)
+had greater than 20 years experience.
+5. Analysis and results
+Given the small sample size collected ( N¼1,119, N¼63) and for the purpose of
+exploratory research, linear regression was used to establish the relationships between
+product management (PM) measures and ﬁrm performance (PERF).
+Results are as follows:
+First, looking at the dependant variables for ﬁrm performance (nine items), we see
+that the Cronbach’s Alpha of 0.84 indicates a good correlation between the measures ofﬁrm performance, well above the 0.70 “rule of thumb” standard (Hair et al. , 2006;
+Nunnally and Bernstein, 1994). This establishes that the performance measure is
+reliable and can be used as a dependable aggregate measure of ﬁrm performance.
+Thus, this nine-item performance measurement is used as the aggregate dependant
+variable for linear regression analysis.
+The 32-item product management measures produce a Cronbach’s Alpha of 0.949.
+This indicates that the proposed product management measures are internallyconsistent even given the large amount of variables considered. It is likely that this
+broad-based measurement encompasses several sub-constructs. However, without alarger sample size, principal component analysis (PCA) could not be performed. This
+suggests that the PM construct measurement merits further testing with a larger
+sample.
+Next, signiﬁcant sub-constructs of product management are reviewed. For the
+purposes of this analysis, only measures considered signiﬁcant at a p,0.10 level and
+with a Cronbach’s Alpha greater than 0.60 (Nunnally and Bernstein, 1994) will be
+discussed (see Table I). Relaxing the constraint to p,0.10 is considered a reasonable
+assumption. Although this may increase the chance of a type I error, the objective is toJSBED
+18,4
+706
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026avoid a type II error for exploratory research (McBurney and White, 2003; Simon,
+2005).
+The two-item Product Pricing construct ( PM1 ,PM28 ) shows both an acceptable
+Cronbach’s Alpha (0.690), with an R2of 0.046 and signiﬁcance of p,0.10 when
+regressed against the aggregate performance measure. This supports the product
+management literature, which suggests that ﬁrms with a product management focus
+consider pricing to be a key product management capability.
+Sales Support ( PM4 ,PM5 ,PM6 ) also shows a good Cronbach’s Alpha (0.701) and
+signiﬁcance of p,0.10, when regressed against performance. It also shows a strong
+R2of 0.139, indicating that this three-item measure has a strong relationship with ﬁrm
+performance in this sample. Of particular interest is one individual Sales Supportmeasure ( PM5 ), which shows a very strong R2of 0.185 with a signiﬁcant correlation
+(p,0.001). However, given the small sample size and the pilot nature of this
+investigation, the aggregate measure of Product Sales Support is considered a morereliable measure. This indicates that support to the sales function appears to bestrongly related to SME ﬁrm performance.
+Internal Product Monitoring ( PM12 ,PM13 ,PM30 ) shows an acceptable Cronbach’s
+Alpha (0.649), but this set of measures does not show a correlation with performance.Interestingly, External Product Monitoring ( PM26 ), shows a direct relationship with
+ﬁrm performance, with an R
+2of 0.034 and a very strong correlation with performance
+(p,0.001). If Product Monitoring is measured using both internal and external
+Construct description ItemsNo.
+of
+itemsCronbach’s
+Alpha R2Sig.
+Firm performance PERFORM1-6, A-B Export 9 0.840 n/a n/a
+Product management orientation(all) PM1-32 32 0.949 n.s. n.s.
+Product strategy PM1 ,PM28 2 n.s n.s. n.s.
+Product pricing PM2 ,PM3 2 0.690 0.046
+*
+Product sales support PM4 ,PM5 ,PM6 3 0.701 0.139**
+Sales support PM5 1 n/a 0.185***
+Product budgeting PM10 ,PM11 2 n.s n.s. n.s.
+Internal product monitoring PM12 ,PM13 ,PM30 3 0.649 n.s. n.s.
+External product monitoring PM26 1 n/a 0.034***
+MonitoringPM12 ,PM13 ,PM26,
+PM30 3 0.734 n.s. n.s.
+Competitive intelligence PM15 ,PM16 ,PM17 3 0.715 n.s. n.s.
+Forecasting PM19 ,PM20 2 0.684 0.045*
+Communication and coordination PM7 ,PM8 ,PM32 3 0.709 n.s. n.s.
+Marketing & technicalintegration PM21 ,PM22 ,PM23 3 0.616 n.s. n.s.
+Market testing PM24 ,PM27 ,PM31 3 n.s n.s. n.s.
+Technical superiority PM29 1 n/a 0.113
+***
+Non-signiﬁcant PMOaPM_NON_SIG 23 0.927 n.s. n.s.
+Notes:aRemaining PM measures with a non-signiﬁcant relationships with ﬁrm performance (using
+the criteria p,0.10);*p,0.10;**p,0.05;***p,0.01Table I.
+Reliability statisticsThe impact
+of product
+management
+707
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026measures, the Cronbach’s Alpha improves to 0.734, indicating an improvement in the
+consistency of the measurement, though it fails to improve in signiﬁcance when
+regressed against performance in this sample. Thus, Product Monitoring as a construct
+seems to gain consistency by including both internal and external dimensionsindicating that it merits further investigation in future research. This may shed some
+light on some of the unexplained interaction between internal and external marketing
+activities of the ﬁrm (Walsh, 2009).
+Forecasting ( PM19 ,PM20 ) is well established in the product management literature
+as a speciﬁc capability. In our sample, it displays a reasonable Cronbach’s Alpha(0.684) with an R
+2of 0.045 and signiﬁcance of p,0.10, when regressed against
+performance. This two-item measure indicates that strong forecasting capability mayhave a role in the prediction of ﬁrm performance.
+One ﬁnal single measure of Product Management, namely Technical Superiority
+displays signiﬁcance in this sample with an R2of 0.113, which indicates a strong
+relationship with performance ( p,0.001). This suggests that the high performing
+ﬁrms in this sample seemed to differentiate themselves via technical superiority. Thismeasure could be an artifact of this particular sample, since it is weighted towardsindustrial ﬁrms within a speciﬁc geographic area. This should be investigated in more
+detail in the future research.
+Several other constructs showed internal consistency with Cronbach’s Alpha .
+0.60, including Competitive Intelligence, Communication and Coordination andMarketing & Technical Integration. This indicates that even with this small
+under-determined dataset, these constructs showed consistency and merit furtherinvestigation in a larger study.
+6. Discussion
+This preliminary study and analysis has highlighted several issues for consideration.
+These can be summarized into three general areas, namely:
+(1) speciﬁc product management measures or constructs;
+(2) selection of the target population; and(3) relationship to other ﬁrm orientations.
+First, speciﬁc measurement questions and sub-constructs were found to be important
+and signiﬁcant at the exploratory level. These include Product Pricing, Sales Support,Forecasting and Technical Superiority. These constructs are all well established in the
+product management literature and this study indicates that these measures show both
+internal consistency and correlation with ﬁrm performance. This is academicallyimportant since it indicates that a relationship exists between the product managementliterature and ﬁrm performance. However, this relationship is provisional, given the
+nature of this exploratory research, which included relaxing traditional statistical
+constraints to p,0.10, considered reasonable for investigative research (McBurney
+and White, 2003). Yet, this does encourage the use of these measures in a larger, more
+broadly based study.
+Also of note, are several other sub-constructs which showed internal consistency,
+but not a correlation with ﬁrm performance. These included Monitoring (both internaland external), Competitive Intelligence, Communication & Coordination and Marketing
+& Technical Integration. These constructs are also well established in the productJSBED
+18,4
+708
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026management literature and their internal consistency suggests that these constructs
+deserve further investigation in future studies.
+A few individual product management measures showed strong signiﬁcance
+(p,0.001) on their own and included Sales Support ( PM5 ) and Technical Superiority
+(PM29 ). Although PM5 showed both strength and signiﬁcance, it appears to be related
+to a higher-level construct of Product Sales Support ( PM4-5-6 ), which is supported by
+the extant literature. On the other hand, PM29 shows both strength and signiﬁcance,
+which could be a reﬂection of the chosen population (or sample) in this pilot dataset.A larger study where controls for industry can be employed may shed more light onthis relationship.
+Second, selection of the target population is important for future studies. This pilot
+study was conducted using a convenience sample (SMEs in Atlantic Canada) inconjunction with a policy research study for a Canadian Federal Agency (the AtlanticCanada Opportunities Agency – ACOA). This introduced geographic and selectionbias (for instance, combining manufacturing & service ﬁrms), along with a small
+sample size ( N¼63 out of N¼1,119). For future studies, a larger and more
+homogeneous population is recommended. For instance, using a broader population of
+Canadian SMEs, where larger population sizes are available, should reduce oreliminate these biases. This should also allow for the use of controls, such as industry
+sectors.
+Last, future studies could beneﬁt from measuring product management in
+conjunction with other well established ﬁrm orientations. For instance, the market
+orientation (MO) construct (Kohli et al. , 1993; Jaworski and Kohli, 1993; Deshpande ´
+et al., 1993; Narver and Slater, 1990) has a long and rich body of academic research,which may add credibility and understanding to the proposed measures of productmanagement. In a similar vein, ﬁrm-level innovativeness (Calantone et al., 2002;
+Gatignon and Xuereb, 1997; Paladino, 2007) could add to the understanding of product
+management, since it spans the ﬁrm’s traditional boundaries between marketing and
+innovation orientations.
+7. Limitations and future research
+This study is exploratory in nature and its primary aim is to assist with hypothesis
+generation rather than providing hypothesis testing. The author is careful in drawingconclusions based on this limited study; thus, the analysis provided is consideredpreliminary in nature. It offers good initial evidence of construct validity of the
+proposed product management concept, while providing insight into the boundary
+spanning capabilities of the ﬁrm and their relationship to performance. It does this byexamining a small, under-determined set of Atlantic SMEs in both the manufacturingand professional/technical services sectors.
+There are several limitations to this study, which will need to be resolved in future
+research. These include the geographic nature of the population, the small sample size,the treatment of two distinct industry types as homogeneous, the broad nature of theproduct management construct and the lack of relationship to other well researched
+ﬁrm orientations. All of these issues should be addressed in future research. Although
+this study does not distinguish between ﬁrms involved in manufacturing andprofessional/technical services, the literature does make this distinction (Eckles andThe impact
+of product
+management
+709
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026Novotny, 1984; Cummings et al., 1984; Walsh, 2009; Coviello and Brodie, 2001). This
+might well have an effect on how ﬁrms conﬁgure their resources and capabilities.
+The broad nature of the product management construct can also be resolved
+through its relationship with other ﬁrm orientations such as market, entrepreneurial
+and/or innovation orientations. From the literature review it is clear that product
+management is a broad construct, which encompasses several factors, one or more of
+which are likely measuring alternate constructs of ﬁrm orientation. This issue shouldbe clariﬁed in future research using a larger population and more sophisticated
+methods of analysis, including factor analysis and/or structural equation modeling.
+This could allow for the examination of correlations between individual measurements
+and possible latent factors.
+Regardless, it is clear from this preliminary analysis that the proposed measures of
+product management provide some insight into ﬁrm performance. Further researchwill be needed using a larger sample of SMEs to establish which measures of product
+management provide predictability of ﬁrm performance.
+8. Conclusions
+Product management is a wide-ranging construct whose activities span the internal
+functional areas of the ﬁrm and its external environment. According to Olson et al.
+(2005), researchers should concentrate more on understanding the antecedents of
+marketing practices in order to predict performance and inter-functional coordination.
+How work is coordinated within the ﬁrm, should receive more attention in the area of
+strategy implementation research. Although organizations large and small perform
+many of these boundary-spanning activities, those that excel at their integration
+should perform better and more easily adapt to their competitive environments. Whileﬁrms still rely on either formal or informal product management practices, researchers
+have not tested this in any empirical way.
+This pilot study has many purposes. First, it offers preliminary validation of
+product management measures related to ﬁrm performance with a small sample ofregional SMEs. This is academically important since the literature has thus far not
+linked the construct of product management to ﬁrm performance. Second, the study’sfocus on SMEs adds to the product management literature, which is either focused on
+large enterprises or does not distinguish between small, medium, or large
+organizations. Third, it establishes the reliability of self-reported objective measures
+of performance with a small sample of SMEs. This is important as it establishes these
+objective performance measures as valid for future research in this area. Fourth, thestudy seeks to establish the degree to which boundary spanning product management
+practices are currently employed by SMEs. Last, this research may have practical
+signiﬁcance and managerial implications if product management practices can berelated to ﬁrm performance. This could potentially lead to an increased understanding
+of how to allocate resources in order to improve ﬁrm performance. It may also have
+policy implications related to programs that support commercialization and innovation
+within SMEs.
+In conclusion, this small sample of 63 Atlantic Canadian SMEs provides support for
+much of the literature on product management. The researcher developed productmanagement measures did highlight some correlation with constructs from the
+literature and ﬁrm performance. These included Product Pricing, Sales Support,JSBED
+18,4
+710
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026Forecasting and Technical Superiority. It also highlighted several constructs that merit
+further investigation, including Monitoring, Competitive Intelligence, Communication& Coordination and Marketing & Technical Integration. This is encouraging andhighlights the need for a larger, more broadly based study.
+Most signiﬁcantly, this research introduces the concept of boundary spanning,
+product management capabilities and their relationship to ﬁrm performance.
+References
+Berek, R.L. (1998), “Product management a work in progress”, Pharmaceutical Executive , Vol. 18
+No. 3, p. 60.
+Bristow, D. and Frankwick, G. (1994), “Product managers’ inﬂuence tactics in marketing strategy
+development and implementation”, Journal of Strategic Marketing , Vol. 2 No. 3, p. 211.
+Buell, V. (1975), “The changing role of the product manager in consumer goods companies”, The
+Journal of Marketing , Vol. 39 No. 3, p. 3.
+Calantone, R.J., Cavusgil, S. and Zhaob, Y. (2002), “Learning orientation, ﬁrm innovation
+capability, and ﬁrm performance”, Industrial Marketing Management , Vol. 31 No. 6, p. 515.
+Chaston, I. and Mangles, T. (1997), “Core capabilities as predictors of growth potential in small
+manufacturing ﬁrms”, Journal of Small Business Management, Vol. 35 No. 1, p. 47.
+Clewett, R. and Stasch, S. (1975), “Shifting role of the product manager”, Harvard Business
+Review , Vol. 53 No. 1, p. 65.
+Connolly, K.E. (2002), “Growth by design: product management keeps ﬁnancial giant nimble”,
+Design Management Journal , Vol. 13 No. 2, p. 24.
+Cosse ´, T. and Swan, J. (1983), “Strategic marketing planning by product managers – room for
+improvement?”, The Journal of Marketing , Vol. 47 No. 3, p. 92.
+Coviello, N. and Brodie, R. (2001), “Contemporary marketing practices of consumer and
+business-to-business ﬁrms: how different are they”, The Journal of Business Industrial
+Marketing , Vol. 16 No. 5, p. 382.
+Cummings, T.W., Jackson, D.W. and Ostrom, L.L. (1989), “Examining product managers’ job
+satisfaction and performance using selected organizational behavior variables”, Journal of
+the Academy of Marketing Science , Vol. 17 No. 2, p. 147.
+Cummings, T.W., Jackson, D.W. and Ostrom, L.L. (1984), “Differences between industrial and
+consumer product managers”, Industrial Marketing Management , Vol. 13 No. 3, p. 171.
+Dawes, P.L. and Patterson, P.G. (1988), “The performance of industrial and consumer product
+managers”, Industrial Marketing Management, Vol. 17 No. 1, p. 73.
+Deshpande ´, R., Farley, J. and Webster, F. (1993), “Corporate culture, customer orientation, and
+innovativeness in Japanese ﬁrms: a quadrad analysis”, Journal of Marketing , Vol. 57 No. 1,
+p. 23.
+Dominguez, G. (1971), Product Management, American Management Association, New York,
+NY.
+Drucker, P.F. (1954), The Practice of Management , Harper & Row, New York, NY.
+Eckles, R. and Novotny, T.J. (1984), “Industrial product managers: authority and responsibility”,
+Industrial Marketing Management , Vol. 12 No. 2, p. 71.
+Gatignon, H. and Xuereb, J. (1997), “Strategic orientation of the ﬁrm and new product
+performance”, Journal of Marketing Research , Vol. 34 No. 1, p. 77.
+Gemmill, R.G. (1972), “The product manager as an inﬂuence agent”, Journal of Marketing , Vol. 36
+No. 1, p. 26.The impact
+of product
+management
+711
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026Giese, T.D. and Wiesenberger, T.M. (1982), “Product manager in perspective”, Journal of
+Business Research , Vol. 10 No. 3, p. 267.
+Gorchels, L. (2003), “Transitioning from engineering to product management”, Engineering
+Management Journal , Vol. 15 No. 4, p. 40.
+Gorchels, L. (2005), The Product Manager’s Handbook, McGraw-Hill, New York, NY.
+Gray, B., Matear, S., Boshoff, C. and Matheson, M. (1998), “Developing a better measure of market
+orientation”, European Journal of Marketing , Vol. 32 No. 9, p. 884.
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E. and Tatham, R.L. (2006), Mulitvariate Data
+Analysis , Pearson Prentice Hall, Upper Saddle River, NJ.
+Hise, R.T. and Kelly, P.J. (1978), “Product management on trial”, Journal of Marketing , Vol. 42
+No. 4, p. 28.
+Huang, X., Soutar, G.N. and Brown, A. (2002), “New product development processes in small and
+medium-sized enterprises: some Australian evidence”, Journal of Small Business
+Management, Vol. 40 No. 1, p. 27.
+Jaworski, B. and Kohli, A. (1993), “Market orientation: antecedents and consequences”, The
+Journal of Marketing , Vol. 57 No. 3, p. 53.
+Karlsson, C. and Olsson, O. (1998), “Product innovation in small and large enterprises”, Small
+Business Economics , Vol. 10 No. 1, p. 31.
+Katsanis, L. (1999), “Some effects of changes in brand management systems: issues and
+implications”, International Marketing Review , Vol. 16 No. 6, p. 518.
+Katsanis, L. (2006), “An assessment of professional training for product managers in the
+pharmaceutical industry”, The Journal of Product & Brand Management, Vol. 15 No. 5,
+p. 324.
+Katsanis, L. and Pitta, D.A. (1995), “Punctuated equilibrium and the evolution of the product
+manager”, The Journal of Product & Brand Management, Vol. 4 No. 3, p. 49.
+Katsanis, L. and Pitta, D.A. (1999), “The performance appraisal process of pharmaceutical
+product managers in Canada: an empirical study”, Journal of Product & Brand
+Management, Vol. 8 No. 6, p. 463.
+Katsanis, L.P., Laurin, J. and Pitta, D.A. (1996), “How should product managers’ job performance
+be evaluated in emerging product management systems?”, Journal of Product & Brand
+Management, Vol. 5 No. 6, p. 5.
+Kohli, A., Jaworski, B. and Kumar, A. (1993), “MARKOR: a measure of market orientation”,
+Journal of Marketing Research , Vol. 30 No. 4, p. 467.
+Ledwith, A. and O’Dwyer, M. (2008), “Product launch, product advantage and market orientation
+in SMEs”, Journal of Small Business and Enterprise Development , Vol. 15 No. 1, p. 96.
+Lehmann, D. and Winer, R. (2005), Product Management, McGraw-Hill/Irwin, Boston, MA.
+Luck, D.J. (1969), “Interfaces of a product manager”, Journal of Marketing , Vol. 33 No. 4, p. 32.
+Lysonski, S. (1985), “A boundary theory investigation of the product manager’s role”, The
+Journal of Marketing , Vol. 49 No. 1, p. 26.
+Lysonski, S. and Woodside, A. (1989), “Boundary role spanning behavior, conﬂicts and
+performance of industrial product managers”, Journal of Product Innovation Management,
+Vol. 6 No. 3, p. 169.
+Lysonski, S., Levas, M. and Lavenka, N. (1995), “Environmental uncertainty and organizational
+structure: a product management perspective”, The Journal of Product & Brand
+Management, Vol. 4 No. 3, p. 7.JSBED
+18,4
+712
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026Lysonski, S., Singer, A. and Wilemon, D. (1988), “Coping with environmental uncertainty and
+boundary spanning in the product manager’s role”, The Journal of Services Marketing ,
+Vol. 2 No. 4, p. 15.
+McBurney, D.H. and White, T.L. (2003), Research Methods , Wadsworth Publishing, Belmont, CA.
+McDaniel, C. and Gray, D.A. (1980), “The product manager”, California Management Review ,
+Vol. 23 No. 1, p. 87.
+Murphy, W. and Gorchels, L. (1996), “How to improve product management effectiveness”,
+Industrial Marketing Management , Vol. 25 No. 1, p. 47.
+Narver, J. and Slater, S. (1990), “The effect of a market orientation on business proﬁtability”, The
+Journal of Marketing , Vol. 54 No. 4, p. 20.
+Nunnally, J. and Bernstein, I. (1994), Psychometric Theory , McGraw Hill, New York, NY.
+Olson, E., Slater, S. and Hult, G. (2005), “The performance implications of ﬁt among business
+strategy, marketing organization structure, and strategic behavior”, The Journal of
+Marketing , Vol. 69 No. 3, p. 49.
+O’Regan, N., Ghobadian, A. and Sims, M. (2006), “Fast tracking innovation in manufacturing
+SMEs”, Technovation , Vol. 26 No. 2, p. 251.
+Paladino, A. (2007), “Investigating the drivers of innovation and new product success:
+a comparison of strategic orientations”, The Journal of Product Innovation Management,
+Vol. 24 No. 6, p. 534.
+Pelham, A. (1997), “Mediating inﬂuences on the relationship between market orientation and
+proﬁtability in small industrial ﬁrms”, Journal of Marketing Theory and Practice , Vol. 5
+No. 3, p. 55.
+Petrini, B.F. and Grub, P.G. (1973), “Product management in high technology defence industrial
+marketing”, California Management Review , Vol. 15, p. 138.
+Quelch, J., Farris, A. and Oliver, J. (1992), “The product management audit: design and survey
+ﬁndings”, The Journal of Product & Brand Management, Vol. 1 No. 4, p. 21.
+Sands, S. (1979), “Is the product manager obsolete?”, Business Quarterly , Vol. 44 No. 3, p. 30.
+Simon, S. (2005), “Stats: what is an alpha level?”, available at: www.childrens-mercy.org/stats/
+deﬁnitions/alpha.htm (accessed 8 August, 2010).
+Smallbone, D., Leig, R. and North, D. (1995), “The characteristics and strategies of high growth
+SMEs”, International Journal of Entrepreneurial Behaviour Research , Vol. 1 No. 3, p. 44.
+Strieter, J., Gupta, A.K., Raj, S. and Wilemon, D. (1999), “Product management and the marketing
+of ﬁnancial services”, International Journal of Bank Marketing, Vol. 342, p. 354.
+Tyagi, R.K. and Sawhney, S.S. (2010), “High-performance product management: the impact of
+structure, process, competencies, and role deﬁnition”, The Journal of Product Innovation
+Management, Vol. 27 No. 1, p. 83.
+Venkatesh, A. and Wilemon, D.L. (1976), “Interpersonal inﬂuence in product management”,
+Journal of Marketing , Vol. 40 No. 4, p. 33.
+Verhees, F. and Meulenberg, M. (2004), “Market orientation, innovativeness, product innovation,
+and performance in small ﬁrms”, Journal of Small Business Management , Vol. 42 No. 2,
+p. 134.
+Vermeulen, M. (2005), “Uncovering barriers to complex incremental product innovation in small
+and medium-sized ﬁnancial services ﬁrms”, Journal of Small Business Management,
+Vol. 43 No. 4, p. 432.
+Walsh, M.F. (2009), “The role of the marketing function in small and medium sized enterprises”,
+Journal of Small Business and Enterprise Development , Vol. 16 No. 4, p. 569.The impact
+of product
+management
+713
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026Wolff, J.A. and Pett, T.L. (2006), “Small-ﬁrm performance: modeling the role of product and
+process improvements”, Journal of Small Business Management, Vol. 44 No. 2, p. 268.
+Wood, V. and Tandon, S. (1994), “Key components in product management success (and failure)”,
+The Journal of Product & Brand Management , Vol. 3 No. 1, p. 19.
+Woodcock, D., Mosey, S. and Wood, T. (2000), “New product development in British SMEs”,
+European Journal of Innovation Management , Vol. 3 No. 4, p. 212.
+Appendix 1 – Performance measurement
+About the author
+David C. Roach is an Assistant Professor in the School of Business Administration at DalhousieUniversity in Halifax, Nova Scotia, Cana da. He teaches Master’s level courses in
+entrepreneurship, innovation and the commercialization of biomedical technologies. ProfessorRoach has been instrumental in many early stage companies ranging from aerospace tobiotechnology and brings a hands-on approach to the innovation process. He currently sits on the
+Board of Directors and acts in an advisory capacity for several small- and medium-sized
+enterprizes in Canada. His research interests include product management practices of SMEs.David C. Roach can be contacted at: David.Roach@dal.caPERFORM1 Our sales growth was __________ when compared to our competitors
+PERFORM2 Our proﬁt growth was __________ when compared to our competitors
+PERFORM3 Our employment growth was __________ when compared to our
+competitors
+PERFORM4 The overall performance of the business met expectations last year
+PERFORM5 The overall performance of the business last year exceeded that of our
+major competitors
+PERFORM6 Top management was very satisﬁed with the overall performance of the
+business last year
+PERFORMA Over the past 3 years, our sales growth on average:
+PERFORMB Generally, our ﬁrm’s ability to raise capital is:
+Export Exports represent (percentage of revenue; 0, 25, 50, 75, 100) Table AI.JSBED
+18,4
+714
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+Downloaded from http://www.emerald.com/jsbed/article-pdf/18/4/695/1719232/14626001111179758.pdf by University College London user on 30 May 2026

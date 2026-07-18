@@ -45,7 +45,8 @@ def prep_swarm(batch_size=40):
     
     subagents = []
     for art_id, pdf_path in pending:
-        prompt = f"Review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs_v2/{art_id}.json`."
+        out_path = os.path.abspath(f"scratch/outputs_v2/{art_id}.json").replace("\\", "/")
+        prompt = f"Review `{art_id}`. The PDF is at `{pdf_path}`. Output to `{out_path}`."
 
         subagents.append({
             "TypeName": "bsma_reviewer_v3",

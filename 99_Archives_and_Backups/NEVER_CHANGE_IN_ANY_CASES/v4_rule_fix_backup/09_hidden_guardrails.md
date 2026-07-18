@@ -24,11 +24,3 @@ These rules must be applied during the Include/Exclude screening phase.
 ## 5. Survey Referent / Key Informant Guardrail
 **Rule:** Exclude papers where the survey items use a collective referent like "We", "Our team", or "My organization" rather than "I", even if the sample consists of individuals.
 **Rationale:** Respondents are acting as Key Informants to evaluate a macro-level construct, violating the individual-level boundary spanning requirement. **Action: EXCLUDE (Code 3).**
-
-## 6. Leader BSB Override (AGENTS.md Rule 16)
-**Rule:** If a study measures a leader or manager's boundary spanning behavior as rated by their subordinates, **INCLUDE** the paper.
-**Rationale:** Leader BSB IS BSB. The construct (boundary spanning) is valid regardless of who rates it. Code 1 applies only when BSB itself is absent (e.g., Work-Family management, Adaptive Selling). Cross-entity rating does not invalidate the construct. This rule takes absolute precedence over any "Cross-Entity Trap" exclusion logic.
-
-## 7. Intra-Organizational BSB Override (AGENTS.md Rule 17)
-**Rule:** If a study measures boundary spanning across internal organizational boundaries (e.g., cross-functional teamwork, IT↔Business knowledge sharing), **INCLUDE** the paper.
-**Rationale:** Intra-organizational BSB IS BSB. The construct is valid regardless of boundary direction (internal vs. external). Code 1 applies only when BSB itself is absent. Do not exclude a paper simply because the focal employee interacts with other internal departments rather than external organizations.

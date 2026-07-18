@@ -1,0 +1,105 @@
+[
+  {
+    "vulnerability_id": "VULN-3-1",
+    "severity": "Medium",
+    "description": "Hardcoded Project & Filename References (Rules 3, 4, 6, 25) - violates universal framework philosophy.",
+    "affected_files": [
+      "AGENTS.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-3-2",
+    "severity": "Low",
+    "description": "Hardcoded Fallback Values (Rule 1) - forces domain-specific conventions (e.g. 999).",
+    "affected_files": [
+      "AGENTS.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-3-3",
+    "severity": "Medium",
+    "description": "Specific Domain Terminology / Data Structures (Rule 25) - hardcoded 4-sheet isolation rules dictating specific data architecture.",
+    "affected_files": [
+      "AGENTS.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-3-4",
+    "severity": "Low",
+    "description": "Hardcoded Directory Structures (Rule 26) - hardcodes the directory path for 03_Coding_Rulebook.",
+    "affected_files": [
+      "AGENTS.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-5-1",
+    "severity": "Medium",
+    "description": "Subagent Version Mismatch - SKILL.md instructs v2, whereas swarm_prep.py hardcodes bsma_reviewer_v5.",
+    "affected_files": [
+      "SKILL.md",
+      "swarm_prep.py"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-5-2",
+    "severity": "High",
+    "description": "Target Excel File Mismatch - SKILL.md references BSMA_Master_Coding_Sheet.xlsx, while scripts hardcode BSMA_AI_Run_V2.xlsx.",
+    "affected_files": [
+      "SKILL.md",
+      "swarm_prep.py",
+      "swarm_inject.py"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-5-3",
+    "severity": "High",
+    "description": "4-Sheet Physical Isolation Rule Violation - swarm_inject.py generically injects into wb.active without targeting specified sheets.",
+    "affected_files": [
+      "SKILL.md",
+      "swarm_inject.py",
+      "AGENTS.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-5-4",
+    "severity": "Low",
+    "description": "Batch Size Discrepancy - SKILL.md specifies batches of 40, whereas swarm_prep.py internal default is 20.",
+    "affected_files": [
+      "SKILL.md",
+      "swarm_prep.py"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-6-1",
+    "severity": "Critical",
+    "description": "Dynamic Prompt Tuning Breaks Replicability - Orchestrator dynamically tunes subagent prompts, destroying fixed a priori coding protocol required for meta-analysis.",
+    "affected_files": [
+      "AGENTS.md",
+      ".agents/skills/13team/SKILL.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-6-2",
+    "severity": "Critical",
+    "description": "Self-Evolution & DNA Updates - allowing the Troika to debate and formulate new rules mid-extraction leads to an inconsistent dataset.",
+    "affected_files": [
+      ".agents/skills/13team/SKILL.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-6-3",
+    "severity": "Medium",
+    "description": "Agent 6 (Domain Specialist Wildcard) - dynamically adopts domain knowledge, introducing external, non-pre-registered theoretical assumptions.",
+    "affected_files": [
+      ".agents/skills/13team/SKILL.md"
+    ]
+  },
+  {
+    "vulnerability_id": "VULN-6-4",
+    "severity": "High",
+    "description": "Debate-Driven Consensus - subagents debate to reach consensus, risking rationalization of data not explicitly stated and violating zero-guesswork policy.",
+    "affected_files": [
+      ".agents/skills/13team/SKILL.md"
+    ]
+  }
+]

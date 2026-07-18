@@ -1,0 +1,60 @@
+Variable Control Core-attention team launch Periphery-attention team launch
+Core size 7.00 6.61 6.36
+Attending experience (years) 16.06 14.52 17.18
+Senior resident experience (weeks) 1.63a3.39b2.31a
+Average intern experience (weeks) 2.24a3.29b3.00b
+Core experience working together (weeks) 1.17 1.19 1.23
+Patient load (admitted patients) 12.65a17.04b15.04c
+Average case severity 3.91 3.96 4.29
+Notes. a,b,cFor each variable, distinct letters indicate a significant difference across condition, p D0.05. Lack of a letter indicates there is not a 
+significant difference across conditions.
+Table 2. Descriptive Statistics and Correlations
+Statistic Mean SDCorrelations
+1 2 3 4 5 6 7 8 9 10 11
+1Average ALOS (days) 1.33 0.41
+2Morning discharges (%) 0.37 0.15 0.06
+3Average individual learning 6.26 0.36�0.27 0.19
+4Internal coordination 6.25 0.72 0.03 0.00 0.21
+5External coordination 0.00 0.93 0.17 0.36 0.02�0.02
+6Core size (# members) 6.75 1.07 0.07�0.11�0.04�0.03 0.14
+7Attending experience (years) 15.95 11.30 0.04 0.11 0.11 0.04 0.09 0.18
+8Senior resident experience (weeks) 2.24 1.89 0.01 0.10�0.03 0.12 0.24 0.08 0.04
+9Average intern experience (weeks) 2.69 1.22 0.04 0.18 0.11�0.03 0.12�0.42�0.02 0.03
+10Core experience together (average dyadic weeks) 1.19 0.17 0.12 0.12�0.03 0.21 0.06 0.04 0.03 0.16 0.08
+11Patient load (admitted patients) 14.34 5.83�0.39 0.23 0.08 0.11 0.16�0.01 0.03 0.20 0.03 0.01
+12Average case severity (average APR DRG) 4.02 0.77 0.31�0.15�0.20�0.01 0.22 0.13 0.05 0.09 0.13�0.06�0.14
+Notes. Values in bold are significant at p D0.05. N 91. SD, standard deviation.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 977 positively associated with external coordination (B 
+0.106, p 0.038).
+Individual Learning
+To test Hypothesis 1, we evaluated the relationship 
+between internal coordination and individual learning 
+(see Table 4, Model 3). Because we measured learning at 
+the individual level, we tested our prediction using a 
+hierarchical linear model to account for the nesting of 
+observations into individuals and teams. In support of 
+Hypothesis 1, internal coordination was significantly 
+and positively associated with individual learning (B 
+0.17, p 0.004). External coordination was also posi-
+tively associated with individual learning, but the effect size falls just below the standard threshold for statistical 
+significance (B 0.080, p 0.072). Further, the relation -
+ship between internal coordination and learning was 
+qualified by an interaction between internal and exter -
+nal coordination (B 0.10, p 0.046).7Probing this inter -
+action (see Figure 3), we observed that learning was 
+greatest when the core team exhibited high levels of 
+internal and external coordination. Plotting the marginal 
+effects of external coordination on learning (see Figure 4) 
+further demonstrated that, in contrast to the clear main 
+effect that internal coordination had on learning, external 
+coordination had a positive effect on learning only at 
+higher levels of internal coordination. In addition, in the 
+full model with controls included, individual learning is Table 3. Results from Multiple Membership Models Predicting Internal and External Coordination
+Internal coordination External coordination
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+Intercept 6.243*** 
+(0.075)5.272*** 
+(0.825)6.814*** 
+(0.900)0.000 
+(0.096)�2.841** 
+(1.036)�1.412 

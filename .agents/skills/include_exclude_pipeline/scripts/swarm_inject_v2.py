@@ -25,10 +25,16 @@ def inject_swarm_results():
             art_id = filename.replace(".json", "")
             filepath = os.path.join(OUTPUTS_DIR, filename)
             
-            with open(filepath, 'r', encoding='utf-8') as f:
+            try:
+                with open(filepath, 'r', encoding='utf-8-sig') as f:
+                    content = f.read()
+                data = json.loads(content)
+            except Exception:
                 try:
-                    data = json.load(f)
-                except:
+                    with open(filepath, 'r', encoding='utf-16') as f:
+                        content = f.read()
+                    data = json.loads(content)
+                except Exception:
                     continue
             
             if art_id in id_to_row:
