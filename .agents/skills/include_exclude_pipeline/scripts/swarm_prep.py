@@ -4,7 +4,7 @@ import glob
 import openpyxl
 import argparse
 
-EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation1.xlsx"
+EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation3.xlsx"
 PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
 PAYLOAD_OUT = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\subagents_payload.json"
 
@@ -110,6 +110,18 @@ def prep_swarm(batch_size=40):
         "Paper: 'How AI use contributes to employee competitive advantage'\n"
         "Sample: Employees using ChatGPT to 'solicit information from external channels'\n"
         "-> Code 1: Human-computer interaction, not interpersonal BSB\n\n"
+        "=== OUTPUT FORMAT (MANDATORY FIELD ORDER) ===\n\n"
+        "You MUST output your JSON in EXACTLY this order:\n"
+        "{\n"
+        '  "BSMA_ID": "...",           // 1st - Always preserved\n'
+        '  "Verdict": 0 or 1,          // 2nd - Always preserved\n'
+        '  "Exclusion_Code": ...,      // 3rd - Always preserved\n'
+        '  "Reasoning": "...",          // 4th - Summary of judgment\n'
+        '  "Verbatim_Evidence": "..."   // 5th - LAST. Extract MAXIMUM evidence (Rule 30)\n'
+        "}\n\n"
+        "IMPORTANT: Write Verbatim_Evidence LAST. Extract MAXIMUM evidence "
+        "from ALL sections of the PDF (Abstract, Method, Results, Discussion). "
+        "Do NOT truncate or summarize quotes. Use full, complete sentences.\n\n"
         "=== END OF PREAMBLE ==="
     )
 
