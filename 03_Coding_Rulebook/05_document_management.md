@@ -24,3 +24,7 @@
 - **Automatic Cleanup:** After each pipeline batch completes (e.g., after `swarm_inject.py` finishes injecting data), the Orchestrator MUST delete all consumed temporary files from `scratch/` before proceeding to the next batch.
 - **Git Exclusion:** The `scratch/` directory is listed in `.gitignore` and MUST NOT be committed to the Git repository.
 - **Permitted Root Files:** Only the following file types are permitted in the project root: `.xlsx` (data sheets), `.md` (documentation), `.csv` (batch queue), `.gitignore`, and `desktop.ini`. Everything else MUST go into `scratch/` or the appropriate project subdirectory.
+
+## Section H: Excel Template Integrity
+
+**Validation Sheet Structure Guardrail (Screening vs. Extraction):** `BSMA_Master_Coding_Sheet.xlsx` is the ultimate master template and contains the "Full Text Data Extraction" structure (50 columns, including Study/Sample Descriptors and Measure Descriptors). However, AI Validation files (e.g., `BSMA_AI_Run_Validation[1-3].xlsx`) are designated strictly as **Include/Exclude screening templates**. When syncing or generating Validation sheets from the Master, the AI MUST strip all data extraction columns (Columns Q through AX) and retain only Columns A through P (ID, Judgments, Reasons, Abstract, Title, Notes) to maintain a clean screening format.
