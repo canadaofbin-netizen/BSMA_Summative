@@ -1,0 +1,736 @@
+The International Journal of Human Resource
+Management
+ISSN: 0958-5192 (Print) 1466-4399 (Online) Journal homepage: www.tandfonline.com/journals/rijh20
+Linking employee boundary spanning behavior
+to task performance: the inﬂuence of informal
+leader emergence and group power distance
+Songbo Liu, Kaifeng Jiang, Jianxun Chen, Jingzhou Pan & Xiaoshuang Lin
+To cite this article: Songbo Liu, Kaifeng Jiang, Jianxun Chen, Jingzhou Pan & Xiaoshuang Lin
+(2018) Linking employee boundary spanning behavior to task performance: the inﬂuence of
+informal leader emergence and group power distance, The International Journal of Human
+Resource Management, 29:12, 1879-1899, DOI: 10.1080/09585192.2016.1216872
+To link to this article:  https://doi.org/10.1080/09585192.2016.1216872
+Published online: 24 Sep 2016.
+Submit your article to this journal 
+Article views: 2264
+View related articles 
+View Crossmark data
+Citing articles: 27 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rijh20The InTerna TIonal Journal of human resource m anagemenT , 2018
+Vol. 29, no. 12, 1879–1899
+https://doi.org/10.1080/09585192.2016.1216872
+Linking employee boundary spanning behavior to task 
+performance: the influence of informal leader emergence 
+and group power distance
+Songbo Liua, Kaifeng Jiangb, Jianxun Chenc, Jingzhou Pand and Xiaoshuang Line
+aschool of labor and human r esources, r enmin university of china, Beijing, china; bmendoza c ollege 
+of Business, university of notre Dame, notre Dame, In, usa; cInstitute of International e conomy, 
+university of International Business and e conomics, Beijing, china; dcollege of m anagement and 
+economics, Tianjin university, Tianjin, china; eresearch s chool of m anagement, c ollege of Business & 
+economics, a ustralian national university, c anberra, a ustralia
+ABSTRACT
+Driven by fierce global competition, flatter organizational 
+structures and the growing complexity of tasks, boundary spanning behavior (BSB) in externally dependent work teams has increasingly been emphasized in both theory and practice. The current study aims to answer the questions of 
+whether, when and how  an individual’s BSB impacts his or 
+her task performance within a team. Based on a sample of 
+272 employees from 57 new product development teams in 
+China, we found that informal leader emergence mediated 
+the relationship between an individual’s BSB and his or her performance within a team. Moreover, group-level power distance positively moderated the association between BSB and informal leader emergence. An overall mediated moderation model of the effect of the interaction between BSB and group power distance (PD) on task performance via informal leadership emergence was also confirmed. In particular, the relationship between BSB and task performance 
+via informal leadership emergence was stronger for teams 
+with less PD than for those with more PD. The implications of the research are discussed.
+Introduction
+Given the complex cross-functional tasks, changing economic conditions, flatter 
+work structures (Mohrman, Cohen, & Mohrman, 1995) and network-based organizational designs (Choi, 2002) in contemporary organizations, teams have 
+commonly been used to create and transfer valuable information across and 
+within organizations (Ancona & Caldwell, 1992b). To achieve such objectives, 
+© 2016 Informa uK limited, trading as Taylor & f rancis groupKEYWORDS
+Boundary spanning 
+behavior; informal leader emergence; group power distance; task performance
+CONTACT Jingzhou Pan  pjzh@tju.edu.cn
+1880  S. LIu eT AL.
+team members are expected to coordinate their efforts across physical boundaries 
+and directly interface with important stakeholders from both inside and outside an 
+organization’s boundaries (Marrone, 2010). Researchers have devoted substantial 
+efforts to understanding team boundary spanning and have generally found 
+that work teams can interact with outsiders to advance team effectiveness and 
+satisfaction through team boundary spanning (e.g. Ancona & Caldwell, 1990, 
+1992a, 1992b , 1998; Choi, 2002; Marrone, 2010). Despite the importance of this 
+stream of research, significant issues remain in the literature. Marrone (2010) 
+noted the paucity of research examining ‘contingencies to the boundary spanning 
+– performance relationship’ (p. 933) and encouraged researchers to dedicate more 
+attention to the mechanisms and conditions of the contribution of boundary spanning to performance. Marrone (2010) noted that ‘team boundary spanning 
+actions originate from the behaviors and actions of its individual members’ 
+(p. 913) and thus encouraged more research attention to individual boundary spanning behavior (BSB).
+To address this research need, the current study proposes and examines a 
+cross-level-mediated moderation model of the influence of individual BSB on individual performance. More specifically, this study theorizes informal leader 
+emergence as a mediating mechanism linking individual boundary spanning and 
+task performance and posits group power distance (PD) as a team context moder -
+ating the relationship between individual boundary spanning and informal leader 
+emergence (see the theoretical model in Figure 1). By examining the proposed 
+relationships, the current research contributes to the literature on boundary span -
+ning in at least three ways.
+First, this study joins a small but growing body of research examining the 
+impact of individual boundary spanning on individual task performance (Joshi, Pandey, & Han, 2009; Marrone, Tesluk, & Carson, 2007). Examining BSB at the individual level is theoretically important and practically meaningful because boundary spanning is a process that is first specified at the lower level and then 
+transitions from the micro level to the macro level (Alexander, Giesen, Munch, 
+& Smelser, 1987; Knorr-Cetina & Cicourel, 1981); hence, a team member’s BSB is 
+the foundation of team boundary spanning. Without the knowledge of individual 
+BSB, it is difficult to understand the nature of this construct at higher levels of analysis (e.g. the team, unit and organization levels).Employee boundary 
+spanning behaviorInformal leadership 
+emergenceTask PerformanceGroup power 
+distance
+Group level
+Individual level
+Figure 1. Theoretical model.The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1881
+Second, we integrate a social network perspective to study informal leader 
+emergence rated by peers as a mechanism mediating the relationship between 
+individual boundary spanning and task performance. We thus extend our under -
+standing of how  and why  BSB is related to task performance. The literature on 
+boundary spanning has suggested that boundary spanning roles have adverse con -
+sequences, such as increased role overload, stress, conflict and ambiguity (Aldrich 
+& Herker, 1976; Katz & Kahn, 1978). However, Marrone (2010) noted that bound -
+ary spanners may also gain positive outcomes (e.g. enhanced influence and repu -
+tation) because of their connections to key external parties, and they encouraged 
+future research to explore whether team member BSB can ‘positively affect one’s 
+reputation and leadership as perceived by teammates’ (Marrone, 2010, p. 935). By 
+examining the mediating role of informal leader emergence, defined as the process 
+through which a team member obtains influence over subordinates, peers and even superiors without formal authority (Yukl, 1989), we directly test Marrone’s 
+(2010) social network perspective to attempt to reconcile the above-mentioned 
+uncertainty concerning the influence of BSB.
+Third, we further explore the conditions  under which engaging in individual 
+BSB is more likely to lead to informal leader emergence and task performance 
+by examining PD as a team-level moderator. PD, which refers to the acquiescent 
+acceptance of hierarchical power inequality (Hofstede, 1980), is an important team 
+contextual factor for understanding the impact of BSB and the mediating role of 
+informal leader emergence. This concept is important because boundary spanners 
+tend to hold greater power within their teams, and whether or to what extent they 
+are perceived as informal leaders by other team members is largely dependent on 
+their teams’ shared understanding of power distance. Thus, by examining PD as a 
+theory-driven moderator, we not only contribute to understanding contingencies 
+to the boundary spanning–performance relationship in general, but also provide 
+insight into how the mediating process through informal leader emergence varies 
+across different levels of the moderator.
+Moreover, this study makes another unique contribution to the boundary span -
+ning literature by extending the topic to a non-Western setting. Few, if any, studies 
+have investigated the impact of cultural factors on BSB. While the theories and 
+constructs of boundary spanning and informal leadership emergence have devel -
+oped in Western countries, it remains uncertain whether they apply to Eastern 
+cultural settings. Therefore, examining the proposed mediated moderation model 
+in a Chinese sample can extend our understanding of BSB from Western culture 
+to a different cultural context. In the following, we first define individual bound-
+ary spanning in a team context and then propose the hypothesized relationships 
+displayed in Figure 1.1882  S. LIu eT AL.
+Theory and hypotheses
+Prior research on boundary spanning has focused primarily on team bound-
+ary spanning and its contributions to performance, while less attention has been 
+devoted to positive outcomes of individual boundary spanning on behalf of teams. 
+In the current study, we define individual BSB as a team member’s behavior aimed 
+at establishing a connection or interaction with external actors to assist the team in meeting overall project objectives (Ancona & Caldwell, 1990, 1992a, 1992b , 
+1998; Marrone, 2004). Ancona and Caldwell (1992a) developed a comprehensive scale of boundary spanning activities and found three main activities of bound-ary spanning, including ambassador activities, task-coordinator activities and 
+scout activities. As Choi (2002) elaborated, BSB encompasses individuals’ task- or 
+team-oriented activities directed toward establishing relationships with external 
+parties such as other teams or departments or customer or supplier organizations, 
+thus facilitating task coordination to meet team goals. In Marrone’s (2010) compre -
+hensive review of boundary spanning, she noted the multilevel nature of BSB and 
+emphasized the importance of individual BSB, which establishes the foundation for teams to ‘gain problem- or project-specific expertise as well as to understand 
+the general environment they operate within, such as trends, opportunities, and 
+threats’ (p. 918).
+The relationship between BSB and task performance
+Task performance can be defined as ‘the effectiveness with which job incumbents 
+perform activities that contribute to the organization’s technical core’ (Borman & 
+Motowidlo, 1997, p. 99). As previously noted, mixed arguments about the effects of 
+individual BSB on performance have arisen. Boundary spanners may suffer from role overload because the boundary spanning role itself requires an individual to 
+perform externally directed behavior skillfully and comprehensively, to handle 
+many internal and external activities simultaneously and to balance the relation-
+ship between external and internal processes (Katz & Kahn, 1978; Marrone, 2010; 
+Marrone et al., 2007).
+However, seeking connections with external factors is critical for many differ -
+ent teams, especially for new product development (NPD) teams (Sethi, 2000), because NPD teams are sensitive to external issues and require team members to acquire key sources of information to satisfy changing customer requirements (Takeuchi & Nonaka, 1986). In this sense, BSBs can assist NPD team members 
+in coordinating and completing their tasks, contribute to product innovation and 
+facilitate team processes and effectiveness.
+Two key factors may lead to a positive relationship between BSB and task per -
+formance. First, based on social network theory, a social network with outsiders 
+can provide valuable sources of task advice and strategic information to boundary 
+spanners (Burt, 1992, 2004; Marrone, 2010; Sparrowe, Liden, & Wayne, 2001). The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1883
+Given the importance of task-related information and knowledge gained from 
+the social network, many scholars have highlighted the effect of social network on 
+performance (Reagans & Zuckerman, 2001; Sparrowe et al., 2001; Taggar, 2002; 
+Taylor & Greve, 2006; Zhou, Shin, Brass, Choi, & Zhang, 2009). In summary, 
+critical resources obtained from external sources through a boundary spanner’s 
+communication across boundaries can increase the likelihood of improvements in individual performance.
+Second, many NPD teams, typically cross-functional teams in the process of 
+developing new products and identifying market trends (Souder, Sherman, & 
+Davies-Cooper, 1998), consist of R&D and marketing personnel who are chosen to 
+develop a specific prototype (Ancona & Caldwell, 1992a). In these cases, boundary 
+spanning activities enable individuals to gain access to information, knowledge and other resources from external parties and to deliver products and services to 
+customers (Ancona & Caldwell, 1992a). Additionally, team members from these 
+NPD teams often have the characteristics of ‘multilearning’ and the ‘organizational 
+transfer of learning’ (Takeuchi & Nonaka, 1986). In this sense, team members in 
+project teams should remain in close contact with outside sources of information 
+and, in turn, transfer their knowledge to others outside the group to ensure the 
+appropriate level of motivation to address BSBs or external activities.
+Although prior research linking BSB to task performance is sparse, several 
+studies have examined the relationship between similar constructs (Caldwell & O’Reilly, 1982; Perry-Smith, 2006; Perry-Smith & Shalley, 2003; Tortoriello & 
+Krackhardt, 2010; Teigland & Wasko, 2003). For example, using data from the 
+largest European information technology (IT) service and management consult-ing company, Teigland and Wasko (2003) examined the relationship between different knowledge-sourcing activities (internal activities and external activi-ties) and individual performance. The researchers found a positive relationship 
+between boundary spanning communication and general performance. In line 
+with prior research, we expect a positive relationship between individual BSB and task performance.
+Hypothesis 1: An individual’s BSB is positively related to his or her task performance.
+The mediating role of informal leader emergence
+Although several paths including BSB and task performance may be of interest, the current paper focuses on the mediating mechanism of informal leader emer -
+gence in the relationship between the two core constructs. According to Yukl 
+(1989), leadership is defined as ‘influence processes involving determination of the 
+group’s or organization’s objectives, motivating task behavior in pursuit of these 
+objectives, and influencing group maintenance and culture’ (p. 5). Informal leader 
+emergence can occur when a member is establishing a goal or direction for the team or coordinating strategic task behavior (Zhang, Waldman, & Wang, 2012).1884  S. LIu eT AL.
+From a social network perspective, boundary spanners on a team are typically 
+in the position of filling ‘structural holes’ (Burt, 1992) for which they cultivate a 
+social network with critical external parties to acquire a variety of task-related 
+information or knowledge. Manev and Stevenson (2001) found that boundary spanning communication correlates with influence in a network with 108 organ-izational members, regardless of hierarchical level. Ancona and Caldwell (1992a) 
+found that boundary spanners can help ensure that their team activities are under -
+stood by other teams in the company and that such individuals are generally the representatives of their teams. Individual BSB calls for individuals’ establishment 
+of networks with outsiders (e.g. external teams and organizations). In this sense, 
+boundary spanners are influential on teams because of their ability to create link-ages to key external parties and to engage in inter-team transactions (Manev & Stevenson, 2001). Therefore, by gaining status and influence from key structural 
+positions outside of the team (Marrone, 2004), an individual may be more likely to become an informal leader than other team members who do not possess this unique ability.
+Expertise and knowledge, as two sources of power (Yukl, 1989), provide a strong 
+base for increased influence. First, expertise is a major source of personal power in teams. Individuals who are engaged in boundary spanning activities typically 
+possess special expertise that helps them connect with outsiders (Yukl, 1989). 
+The expertise of boundary spanners often includes task-relevant knowledge and other specialized knowledge, such as persuasive communication skills, technical knowledge and analytical abilities. Boundary spanners often use this expertise 
+to perform important tasks, make good decisions and provide information and 
+advice (Yukl, 1989). By using their expertise, boundary spanners can enhance 
+their influence and leverage their ability to acquire internal leadership roles within 
+their teams (Aldrich & Herker, 1976; Marrone, 2004).
+The control of information is a second important source of power (Yukl, 1989), 
+and boundary positions provide access to important information about tasks 
+from external parties. Boundary spanners who gain access to information in their 
+networks can influence other team members’ decisions or behaviors, despite the existence of a formal leader. Indeed, boundary spanners in NPD teams are able 
+to assume more responsibilities in collecting, storing, analyzing and reporting 
+information about product design (Yukl, 1989).
+Given the above considerations based on theories of social networks and 
+sources of power, managing external activities is a challenging and highly visible 
+role (Marrone, 2004). Thus, compared with team members who perform easier 
+and less noticeable tasks, boundary spanners are more likely to be regarded as 
+internal team leaders by their peers.
+Regarding the relationship between informal leader emergence and task per -
+formance, recent research on teams in the telecommunications industry in China 
+has found that peers’ perceptions of informal leader emergence are an important 
+determinant of individual job performance (Zhang et al., 2012). Zhang et al. (2012) The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1885
+provided two key reasons for this positive relationship. First, informal leaders may 
+receive additional support from team members as a result of reciprocity accord-
+ing to social exchange theory (Blau, 1964). Second, an informal leader’s greater 
+motivation can enhance his or her performance.
+In the above discussion, we hypothesized a positive relationship between BSB 
+and task performance (Hypothesis 1). We further reasoned that BSB will lead 
+to informal leader emergence and that, in turn, informal leader emergence will 
+result in higher task performance, as confirmed by Zhang et al. ’s (2012) study. 
+Combining the reasoning above, we hypothesize as follows:
+Hypothesis 2: Informal leader emergence mediates the relationship between BSB and 
+task performance.
+The moderating role of PD
+In addition to the main and mediated effects mentioned above, we argue that PD 
+may moderate the effect of individual BSB on informal leader emergence. While 
+power distance has commonly been used as an individual or societal-level con-
+struct, Y ang, Mossholder, and Peng (2012) examined the agreement among group 
+members regarding appropriate power distance and discussed power distance in 
+an aggregate sense to differentiate teams. We regard PD as a factor that is more cru -
+cial in shaping the relationship between BSB and informal leader emergence than 
+individual or societal power distance. This is because an informal leader should 
+be recognized by team members and their shared value for leader emergence is 
+more critical and direct than for the individual or societal value of power distance.
+Because certain norms, expectations and beliefs can become internalized, 
+shared and enacted by team members, a distinct team-level culture exists 
+(Drach-Zahavy, 2004; Earley & Mosakowski, 2000); however, prior research has 
+devoted insufficient attention to team-level cultural values (Anderson & West, 
+1998). Earley and Gibson (1998) noted that power distance must be studied at the 
+team level, and other research has supported examining cultural value constructs 
+at the team level (e.g. Dierdorff, Bell, & Belohlav, 2011; Drach-Zahavy, 2004; Man 
+& Lam, 2003). Y ang et al. (2012) defined PD as group members’ shared belief 
+that ‘authorities should be shown deference and can rightfully dictate to those in 
+subordinate positions’ (p. 682). Generally, as more members value power distance 
+orientation, the PD of a team increases.
+In teams predominated by low power distance, team members value equality 
+and egalitarian relations and are more likely to engage in discussions of policies and informal exchanges (Y ang et al., 2012). In teams with low power distance, 
+people tend to rely more on informal channels to meet people, obtain information 
+and exercise influence (Alves et al., 2006). Members of these teams find it easier to interact with boundary spanners and to be influenced by them directly. In 
+addition, in teams with low power distance, rank-and-file members might hold a 1886  S. LIu eT AL.
+shared leadership structure schema. According to the claiming and granting pro -
+cess of leadership described by DeRue and Ashford (2010), members may believe 
+that more than one leader can emerge in a team. As important as boundary span-
+ners are to a team, these individuals are likely to be perceived as emergent leaders.
+In contrast, high PD might be an obstacle for boundary spanners to be per -
+ceived as informal leaders by their peers. As Y ang et al. (2012) noted, in teams 
+characterized by high PD, subordinates may address supervisors by last name 
+instead of first name, strictly comply with procedures and policies, and avoid informalities. This type of team climate might dramatically influence members’ 
+social cognitions and behaviors. Formal leaders are referred to as a critical source 
+of support (Drach-Zahavy, 2004) and are regarded as more powerful and compe-tent than boundary spanners, thus weakening the extent that boundary spanners 
+can be perceived as informal leaders.
+On the basis of the foregoing reasoning, we predict the following:
+Hypothesis 3: Group power distance moderates the effect of boundary spanning 
+behavior on informal leader emergence such that teams with lower group power dis-tance show a stronger positive relationship between boundary spanning behavior and 
+informal leader emergence.
+The integrated mediated moderation model
+Following the same logic for Hypotheses 1–3, cumulatively, we propose the inter -
+active effects of BSB and PD on task performance. We anticipate that boundary 
+spanners in teams with lower power distance are more likely to be perceived 
+as informal leaders, which in turn leads to better performance. Therefore, PD 
+suggests a strong relationship between individual BSB and task performance. Considering these results together, we propose an overall mediated moderation model of the interaction effect of BSB and PD on task performance via the emer -
+gence of informal leadership.
+Hypothesis 4: Informal leadership emergence mediates the interaction effect of bound-
+ary spanning behavior and group power distance on task performance, such that the relationship between boundary spanning behavior and task performance via informal 
+leadership emergence will be stronger for teams with lower group power distance than 
+for those with higher group power distance.
+Method
+Sample and data collection
+To test our hypotheses, we collected multilevel data from three large IT companies 
+located in Beijing, China. Before the investigation, we solicited feedback from 11 
+employees from a different organization from the participating companies in the 
+primary study to reduce the ambiguities of the questionnaire. Minor modifications The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1887
+were made according to the suggestions. Primary study participants were mem-
+bers of NPD teams in the R&D centers of the three companies. We distributed 
+questionnaires to NPD team members, with the help of the human resources 
+(HR) departments of these organizations. In order to avoid common method 
+errors and to clarify the causality, the data of the four core variables were collected 
+from various sources at three different times: individual BSB was evaluated by a 
+self-reported measure (time 1), informal leader emergence was measured by peers 
+(time 2, two months after time 1), task performance was assessed by the formal 
+team leader (time 3, one month after time 2) and PD was aggregated by the reports 
+of team members (time 1). For informal leader emergence, every member of the team rated the other members, excluding themselves. To minimize the influence 
+of team size and to make it easier to collect social network data, we purposely 
+chose small size teams for our sample with 4–6 members. Also, it was beneficial to maintain a satisfactory response rate along with the 3 waves. The investigation was not anonymous, so we emphasized that the purpose of the survey was solely 
+for academic research, and related information was highly confidential. All the 
+questionnaires were returned to researchers directly, instead of to HR profession -
+als, and were read only by researchers.
+Data were collected from 341 employees in 74 NPD teams. After dropping ques -
+tionnaires with incomplete information and in matching the 3-wave approach, 
+the final sample consisted of a total of 272 completed surveys representing 57 
+teams, and their 57 formal team leaders, with a 79.8% effective response rate. The 
+average size of NPD teams in our study was 4.77 individuals (formal leaders were not included), ranging from 4 to 6 individuals. Males accounted for 56.6% of the sample and females represented 43.4%. Of the participants, 46.0% had a college 
+degree, and 39.0% had a bachelor’s degree. The average age of the participants was 
+28.64, and average work time on the team was 20.83 months.
+Measures
+All core variables in our research were measured by established instruments.
+Boundary spanning behavior
+We measured individual BSBs with five items following Marrone et al. ’s (2007) 
+approach. Items were scored on a seven-point Likert scale ranging from 1 = ‘totally 
+disagree’ to 7 = ‘totally agree’ (e.g. ‘I reach out to individuals outside of our team 
+that can provide project-related expertise or ideas’). Cronbach’s alpha for the scale 
+in this study was .881.
+Informal leader emergence
+We measured informal leader emergence following a social network approach and used the 1-item measure following Zhang et al. ’s (2012) method. Every team 
+member, with the exception of the formal leader, rated each of his/her peers on a 1888  S. LIu eT AL.
+scale ranging from 1 = ‘not at all’ to 5 = ‘to a very great extent’ with only one item 
+which is: ‘To what degree does your team rely on this individual for leadership?’ 
+A score of informal leader emergence was calculated for each respective member 
+by averaging the ratings given by other team members in the team, which is the 
+centrality of this focal member. Peer ratings were appropriate because team mem -
+bers were familiar with each other and an informal leader should be recognized by peers. Based on the records provided by the HR managers, we calculated the 
+within-team response rates, all of which were more than 70%, a threshold con-
+firmed by social network scholars (Zohar & Tenne-Gazit, 2008).
+Power distance
+Three items written by Lee, Pillutla, and Law (2000) were used to measure indi-vidual power distance orientation in this study. Items were on a six-point Likert 
+scale ranging from 1 = ‘totally disagree’ to 6 = ‘totally agree’ (e.g. ‘In order to have 
+efficient work relationships, it is often necessary to bypass hierarchical lines’). 
+Following Lee et al. ’s approach, all scores of the three items were reverse coded for 
+ease of the analysis. Cronbach’s alpha for the scale in this study was .894. Based on 
+Y ang et al. ’ (2012) approach, the PD score was the mean of participant responses on individual power distance orientation. We averaged the group member scores 
+to capture a value of PD.
+Task performance
+Task performance was assessed through leader ratings of the target individual. 
+Four items were used from Williams and Anderson’s (1991) original scale. Items 
+were on a seven-point Likert scale ranging from 1 = ‘not at all’ , to 5 = ‘to a very 
+great extent’ (e.g. ‘he or she adequately completes assigned duties’ and ‘he or she 
+fulfills responsibilities specified in job description’). Cronbach’s alpha for the scale 
+in this study was .919.
+Control variables
+We controlled for age (in years), gender (0  =  male; 1  =  female), education 
+(1 = below high school; 2 = high school; 3 = some college; 4 = college; 5 = graduate; 
+6 = doctorate), and tenure on the team (in months) at the individual level because 
+these demographic variables may influence the core variables in our study, according 
+to previous studies (e.g. Chao, Cheung, & Wu, 2011; Williams & Anderson, 1991; 
+Y ang et al., 2012; Zhang & Begley, 2011; Zhang et al., 2012). Following Y ang 
+et al. ’s (2012) approach, to identify the potential effects of individual power distance 
+orientation, we also controlled for this variable.
+Because our hypotheses involved variables operationalized at both the team 
+level (PD) and individual levels (individual BSB, informal leader emergence and task performance), we test our hypotheses by applying hierarchical linear mode-ling (HLM) (Raudenbush, Bryk, Cheong, & Congdon, 2004), which is a suitable analytic approach when cross-level data are involved because it maintains the The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1889
+independence of the predictors (Hofmann, 1997). To test the mediated modera-
+tion hypotheses, we followed Edwards and Lambert’s (2007) approach.
+Results
+Preliminary analyses
+Power distance and leader emergence were assessed based on the mean ratings of 
+team members. To validate the data structure, we tested whether the data empiri -
+cally justified the aggregation of PD. The results revealed significant between-group 
+variance for PD (mean Rwg = .75, ICC(1) = .19, ICC(2) = .53), thus supporting the 
+aggregation in our study. We also examined the extent of between-group varia-
+bility in informal leader emergence. The results were satisfactory (ICC(1) = .22, 
+ICC(2) = .57), thus supporting the use of HLM analyses. We then employed null 
+models to identify any systematic between-group variance in the dependent var -
+iable. The significant chi squares for task performance, χ2(56) = 217.54, p < .001, 
+indicated that the prerequisite for cross-level analysis was met. Approximately 
+37.5% of the variance in task performance was between-group variance.
+We conducted a confirmatory factor analysis to determine whether the meas-
+urement model fit well with the data. Considering that informal leadership emer -
+gence was measured using the social network approach with only one item, we 
+did not include this variable in the full model. The CFA results for the other 
+three variables provided sufficient support for the model, χ2(df) = 113.457(51), 
+RMSEA = .067, CFI = .942 and NFI = .967, better than the two-factor model (BSB 
+and task performance + power distance, χ2(df) = 570.563(53), RMSEA = .190, 
+CFI  =  .727, NFI  =  .709) and the single-factor model (χ2(df)  =  1101.256(54), 
+RMSEA = 0268, CFI = .448, NFI = .439). The measurement model thus fit the 
+data better than the two-factor (Δχ2 = 457.106, Δdf  = 2, ps < .01) and single-factor 
+(Δχ2 = 987.799, Δdf = 3, ps < .01) models.
+Mediating effect of informal leader emergence
+Table 1 presents the means, standard deviations and correlations for all of the key 
+variables. The hypotheses were tested using hierarchical regression analysis. The 
+results in Table 2  indicate that when we controlled for age, gender, education, tenure 
+on the team and individual power distance, individuals’ BSB had a positive effect 
+on informal leader emergence (γ = .21, p < .05, Model 3). Hence, an individual 
+exhibiting more BSBs is more likely to become an informal leader within a team. BSB was also positively related to task performance (γ  =  .23, p  <  .01, Model 
+7). Therefore, Hypothesis 1 was supported. When informal leader emergence was entered into the model, the coefficient for BSB decreased from .23 (p < .01, 
+Model 7) to .17 (p < .01, Model 8). These results demonstrate that informal leader 
+emergence partially mediated the effect of BSB on task performance. To further 1890  S. LIu eT AL.
+examine the indirect effect, we conducted the mediation test using Hayes (2013)’s 
+PROCESS. This program can produce asymmetric confidence intervals for the 
+indirect effect (Hayes, 2009), thus it is more precise ways of conducting mediation 
+analyses than traditional methods (e.g. Baron & Kenny, 1986). After including 
+control variables, we found that the indirect effect of BSB on employee task 
+performance via informal leader emergence was marginally significant (indirect 
+effect = .02, SE = .01, 95% CI = –.00 to .05, 90% CI = .00 to .05). Taken together, hypothesis 2 was partially supported.
+Moderating effects of PD
+The participants’ age, gender, education, tenure on the team and individual power 
+distance orientation were entered into Model 2. In Model 3, we entered BSB to examine its main effects. As shown in Table 2, the interaction of BSB and 
+PD had a significant effect on informal leadership emergence (γ = .17, p < .05, 
+Model 4). Hence, PD can moderate the link between BSB and informal leadership 
+emergence; this result initially supports Hypothesis 3. To examine the significant 
+interactions more closely, additional regression analyses were conducted using 
+rescaled values for PD, as outlined by Aiken and West (1991). The zero values for 
+the scale were set at one standard deviation above and below the mean for PD. The moderating effect is graphically plotted in Figure 2. The figure shows that the slope is steeper when PD is low. The results of a simple slope analysis indicated 
+that the positive relationship between BSB and informal leadership emergence was 
+significant in both conditions but was stronger when PD was low (simple slope 
+low = .92, p < .05; simple slope high = .68, p < .05). These results provide further 
+support for Hypothesis 3.Table 1. Descriptive statistics and intercorrelations among measuresa.
+an = 272 at individual level; n = 57 at team level.
+bThe team level variable was assigned to each individual in that team.
+*p < .05; **p < .01.Mean SD 1 2 3 4 5 6 7
+1. age 28.64 5.40
+2. gender  .43  .50 −.04
+3. education 3.28  .84 −.21**  .11
+4.Tenure in team 2 .83 18.77  .44** −.08 −.16**
+5. Boundary spanning behavior 5.03  .84 −.07 −.09 −.02 .03
+6. group power distanceb3.78  .68  .18** −.04  .01 .21** −.02
+7. Informal leader emergence 3.05  .68  .04  .05  .00 .04  .23**  .11
+8. Task performance 5.61  .77  .06  .01  .26** .07  .30** −.17** .14*The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1891Table 2. hlm results.a
+an = 272 at individual level; n = 57 at team level.
+*p < .05; **p < .01.L Informal leader emergence Task performance
+Predictors Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8 Model 9 Model 10
+Intercept 3.04** 3.04** 3.04** 3.04** 5.62** 5.62** 5.62** 5.62** 5.62** 5.62**
+Level 1
+control Variable
+ age .01 .01 .01 .02 .03* .02* .02* .02
+ g ender .09 .09 .11 −.04 −.03 −.06 −.01 −.04
+ education .11 .11 .10 .20** .21** .18** .18** .16**
+ Tenure in team .00 .00 .00 .00 .00 .00 .00 .00
+ Individual power 
+distance.03 .01 .01 .10* .08* .08* .10* .09*
+Independent Variable Boundary span-
+ning behavior.21** .19** .23** .17** .21** .16**
+mediator
+ Informal leader 
+emergence.25** .23**
+Level 2moderator
+ group power 
+distance
+b.12 .20 .19
+Level 1 × Level 2 Boundary 
+spanning behavior × group power distance.17* .23** .19*
+ σ
+2.36 .35 .32 .32 .38 .34 .31 .25 .29 .28
+ τ00.11 .10 .10 .11 .23 .24 .24 .29 .23 .24
+ Deviance (df) 544.41(56) 565.59(56) 551.18(56) 550.57(55) 582.89(56) 587.13(56) 568.43(56) 559.17(56) 561.19(55) 554.74(55)1892  S. LIu eT AL.
+Test of mediated moderation
+Hypothesis 4 proposed that informal leadership emergence mediates the effect 
+of the interaction between BSB and PD on employee task performance. Model 
+9 of Table 2 shows that PD moderated the relationship between BSB and task 
+performance (γ = .23, p < .01), indicating that the lower PD is, the stronger the 
+linkage between BSB and task performance will be.
+The interaction term became less significant after we included informal lead-
+ership emergence (γ = .19, p < .05, Model 10). We further applied Edwards and 
+Lambert’s (2007) approach to test the mediated moderation by considering simul -
+taneously the moderating role of PD in the BSB–informal leadership emergence 
+relationship (the first stage), the informal leadership emergence–task performance 
+relationship (the second stage), and the direct relationship between BSB and infor -
+mal leadership emergence. The results in Table 3 show that the indirect effect of BSB on task performance via informal leadership emergence was significant only 
+when PD was low (γ = .04, p < .05); the effect was not significant when PD was 
+high (γ = –.00, n.s.). Additionally, the indirect effects for the two conditions were 
+significantly different from one another (diff = .04, p ≤ .05). Hence, Hypothesis 4 was supported.
+Figure 2. m oderating effect between BsB and PD on informal leader emergence.
+note: BsB = Boundary spanning behavior; PD = group power distance.
+Table 3. m oderated indirect effect.
+note: n = 272 at individual level; n = 57 at team level.
+**p < .01.hLM results
+Stage effect
+first Second Direct Indirect Total
+hypothesis P MXP YMP YXP MX * P YMP YX + P MX * 
+P YM
+moderator variable
+ h igh group power distance (+1 sD) –.01 .08 .10 –.00 .10
+ low group power distance (–1 sD) .35** .10 .38** .04* .41**
+ Differences between low and high .36** .02 .27 .04* .31*The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1893
+Discussion
+We tested a model to explain how individual BSB positively affects employees’ 
+task performance from a power and influence perspective. The results provided support for our postulation that informal leader emergence evaluated by peers 
+mediates the link between individual BSB and task performance. Furthermore, PD 
+moderated the positive relationship between BSB and informal leader emergence. 
+In addition, we established an overall mediated moderation model of the interac -
+tion effect of employee BSB and PD on employees’ task performance via informal 
+leadership emergence. These findings extend our understanding of the BSB–task performance relationship from a cross-level perspective and have important the-
+oretical and managerial implications.
+Theoretical implications
+Integrating the literature on boundary spanning, emergent leadership and power 
+distance, the current study improves our understanding of whether, when  and 
+how individual BSB affects an individual’s performance within the NPD team 
+context. Specifically, our study is among the first to empirically link boundary 
+spanning with informal leadership and to examine the boundary condition of PD 
+in these relationships. The findings extend previous research in four important theoretical ways. First, the positive relationship between individual BSB and task 
+performance is a new finding at the individual level of analysis within a NPD 
+team setting, constituting the ‘whether’ part of our contribution. To date, sur -
+prisingly little empirical attention has been devoted to examining the boundary spanning–performance relationship at the individual level. Our study suggests 
+that an important benefit of BSB is that members have increased opportunities 
+and a need to create and cultivate a social network with external actors to gather information and knowledge, solve problems, make decisions, complete tasks and 
+achieve high-performance levels. The evidence of the direct relationship between 
+BSB and task performance in NPD teams is an important finding. In contrast to 
+some research (e.g. Marrone et al., 2007) that emphasizes role stressors or overload 
+related to boundary spanning, our findings suggest that for teams whose members 
+are likely to build a communication network with outsiders (e.g. NPD teams, cross-functional project teams and consulting teams), engagement in boundary 
+spanning activities is a critical source of knowledge and information that facilitates 
+task performance.
+Second, for the ‘how’ part of our contribution, we found that informal leader 
+emergence was an important intervening variable in the BSB–task performance 
+relationship at the individual level. Prior research (Manev & Stevenson, 2001) sug -
+gested that performing BSBs would contribute to individuals’ enhanced leadership 
+presence, leadership claims and higher status and influence within teams. Our 
+research empirically confirms the mediating role of informal leadership perceived 1894  S. LIu eT AL.
+by peers. In fact, although BSB takes time and effort, which indeed increases a 
+member’s role stressors, the resources gained from BSBs (e.g. unique knowledge 
+and information from the external environment through the boundary spanner’s 
+network) promote the boundary spanner’s position with the team (as control of those resources gives the boundary spanner power and influence), and this improved positioning significantly mitigates the negative effects of individual 
+role stress (Marrone, 2010).
+Third, the current study provides empirical evidence that individual BSB is an 
+important predictor of leadership emergence, which, to the best of our knowl-
+edge, has never been tested. As Yukl (1989) concluded, the precise determinants 
+and nature of leadership emergence in groups remain somewhat elusive. In this 
+sense, the current study contributes to the informal leadership emergence litera-ture. In addition, by examining a Chinese sample, the current study enriches our 
+understanding of the emerging important topic of informal leadership in Chinese 
+organizations (Ahlstrom, Chen, & Y eh, 2010; Kwon, 2012; Li, Chun, Ashkanasy, & Ahlstrom, 2012). Furthermore, by introducing PD, this study responds to 
+Y ammarino, Dionne, Chun, and Dansereau’s (2005) call for the examination of 
+informal leadership emergence as a multilevel phenomenon. However, we found a conditional indirect relationship between BSB and task performance through informal leader emergence, and this result indicates that informal leader emer -
+gence is not the only mediator through which boundary spanners can contribute to task performance. Considering our results, we believe that a more appropriate conclusion is that informal leader emergence is only one important mechanism 
+through which boundary spanning may affect task performance. Other mediating 
+mechanisms should be explored in the future.
+Fourth, the current study takes a step toward integrating the contingency 
+approach of boundary spanning and power distance and reveals that PD serves as a critical contingency for the effects of BSB – constituting the ‘when’ part of our contribution. This finding is especially significant for Chinese teams because Chinese society is well known for its high power distance (Hofstede, 1991). BSB 
+originated and developed in Western countries, and it remains unclear whether 
+individual boundary spanning can also play an important role in Eastern cultures. 
+The current study found that high PD weakened the boundary spanner’s position 
+as an informal leader, which in turn impaired his or her task performance. This 
+finding implies that boundary spanning might not be ideal for Chinese team 
+members. However, as Farh, Hackett, and Liang (2007) noted, Chinese cultural 
+values are currently very diverse at micro levels (e.g. individual and team). It is risky to generalize among Chinese people or teams in modern society, as high power distance is traditionally described, especially for NPD team members who 
+tend to embrace diverse cultural values. In this sense, the power distance value 
+of many Chinese teams and their members is lower than expected. Therefore, the findings of the current study provide additional insights into the complex modern society in China.The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1895
+Managerial implications
+This study has important practical implications. First, our findings suggest that 
+individual BSB can contribute to task fulfillment, such as product design and prod -
+uct innovation within NPD teams. In NPD teams, spanning traditional organiza -
+tional or team boundaries is preferred to meet the requirement of endorsement 
+by internal and external stakeholders (e.g. advisors and clients). Moreover, team 
+members in NPD teams are expected not only to assume boundary spanning 
+responsibilities (Marrone et al., 2007) to share, transfer and develop information or knowledge with external parties, but also to define the market and perform their work effectively in the marketplace (Ancona & Caldwell, 1992a, 1992b). 
+Because of the great benefits provided by boundary spanners, formal team leaders 
+should encourage BSBs by supporting and rewarding individuals who assume the boundary spanning role. Recent research has revealed that more team mem-
+bers engaging in BSB will maximize their boundary spanning function and cul-
+tivate a boundary spanning culture or team boundary spanning (Marrone, 2010). 
+Therefore, it is important for teams or organizations, especially those that are 
+externally dependent, to create a shared view of BSB and recognize its advantage 
+in handling externally oriented tasks.
+Second, by showing that the BSB predicts individuals’ informal leader emer -
+gence as evaluated by peers within NPD teams, our results suggest the following 
+implication for practitioners. Group members of externally dependent teams (e.g. 
+NPD teams, cross-functional project teams and consulting teams) should engage 
+in boundary spanning activities such as representing the team to other external 
+parties and obtaining task-oriented knowledge or information outside the team 
+in order to improve their reputations and gain higher status and influence within their team, regardless of the power and influence derived from an individual’s 
+formal position. In addition, to encourage the positive effects of BSB, team leaders 
+should attempt to create a climate of low power distance within the team through 
+empowerment, free discussion, informal exchanges and social activities. This process is extremely important for Chinese teams, which have been regarded as 
+exhibiting high power distance. If BSBs are needed, international companies that 
+establish branches in China should not adjust the team climate to the traditional high power distance in the Chinese context. Instead, they should acknowledge that low PD is not only necessary but also possible in China, considering that 
+diverse cultural values at the team level are now common.
+Strengths, limitations and directions for future research
+An advantage of our study is its rigid research design, which strengthened the 
+validity of our findings with strong empirical evidence. We collected data from 
+multiple sources, including self-reported BSB, peers’ ratings of informal leader 
+emergence, leaders’ ratings of task performance and an aggregated measure of PD. 1896  S. LIu eT AL.
+The quality of social network data for informal leader emergence was sufficient as 
+a result of our preparations. In addition, data for the independent variable, medi-
+ating variable and dependent variable were collected in three longitudinal waves.
+Although our measurement of individual leader emergence was consistent with 
+that used in prior studies (e.g. Zhang et al., 2012), our measure could have captured 
+a factor other than leadership influence because it neither specified the meaning 
+of leadership nor identified specific behaviors of leadership. Future studies should 
+develop a more accurate measurement of informal leader emergence to minimize 
+the influence of differences in team members’ perceptions and attributions.
+In this study, we examine the mechanisms of individual BSB and task perfor -
+mance, including the mediating role of informal leader emergence and the mod-
+erating role of PD. However, the model was limited by a complicated relationship, 
+and additional variables could have been included. For instance, identification and 
+relationship with team members may have ‘shaped (biased) their perceptions of 
+their fellow teammate’s behaviors, leadership, and contributions’ (Marrone, 2004). 
+Moreover, some other contextual team elements could have been investigated, such as task uncertainty (Faraj & Y an, 2009) and team leadership style (Ancona 
+& Caldwell, 1990). Future studies should thus explore different team contexts as 
+important moderating variables in predicting the relationship between boundary 
+spanning and informal leadership emergence or task performance.
+Acknowledgements
+The authors thank the Journal Editor Professor Patrick McKay and the anonymous reviewers 
+for their helpful feedback on this paper.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This research is supported by the National Natural Science Foundation of China (71402117) and the Science and Technology Development Strategy Research Program of Tianjin (S15113140).
+References
+Ahlstrom, D., Chen, S., & Y eh, K. S. (2010). Managing in ethnic Chinese communities: Culture, 
+institutions, and context. Asia Pacific Journal of Management, 28, 661–665.
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions . 
+Newbury Park, CA: Sage.
+Aldrich, H., & Herker, D. (1976). Boundary spanning roles and organizational structure. 
+Academy of Management Journal, 2, 217–230.The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1897
+Alexander, J. C., Giesen, B., Munch, R., & Smelser, N. J. (Eds.). (1987). The micro-macro link. 
+Berkeley, CA: University of California Press.
+Alves, J. C., Lovelace, K. J., Manz, C. C., Matsypura, D., Toyasaki, F., & Ke, K. (2006). A cross-
+cultural perspective of self-leadership. Journal of Managerial Psychology, 21, 338–359.
+Ancona, D. G., & Caldwell, D. F. (1990). Beyond boundary spanning: Managing external 
+dependence in product development teams. The Journal of High Technology Management 
+Research , 1, 119–135.
+Ancona, D. G., & Caldwell, D. F. (1992a). Bridging the boundary: External activity and 
+performance in organizational teams. Administrative Science Quarterly, 37, 634–665.
+Ancona, D. G., & Caldwell, D. F. (1992b). Demography and design: Predictors of new product 
+team performance. Organization Science, 3, 321–341.
+Ancona D. G., & Caldwell, D. F. (1998). Rethinking team composition from the outside in. 
+In D. H. Grunfield (Eds.), Research on managing groups and teams: Composition (Vol. 1, pp. 21–37). Starnford, CT: Jai.
+Anderson, N. R., & West, M. A. (1998). Measuring climate for work group innovation: 
+Development and validation of the team climate inventory. Journal of Organizational Behavior , 19, 235–258.
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social 
+psychological research: Conceptual, strategic, and statistical considerations. Journal of 
+Personality and Social Psychology, 51, 1173–1182.
+Blau, P . M. (1964). Exchange and power in social life. New Y ork, NY: Wiley.
+Borman, W . C., & Motowidlo, S. J. ( 1997 ). Task performance and contextual performance: The 
+meaning for personnel selection research. Human Performance , 10, 99–109.
+Burt, R. S. (1992). Structural holes: The social structure of competition. Cambridge, MA: Harvard 
+University Press.
+Burt, R. S. (2004). Structural holes and good ideas. American Journal of Sociology,  110, 349–399.
+Caldwell, D. F., & O’Reilly, C. A. (1982). Boundary spanning and individual performance: The 
+impact of self-monitoring. Journal of Applied Psychology, 67, 124–127.
+Chao, J. M. C., Cheung, F., & Wu, A. M. S. (2011). Psychological contract breach and 
+counterproductive workplace behaviors: Testing moderating effect of attribution style and power distance. The International Journal of Human Resource Management, 22, 763–777.
+Choi, J. M. (2002). External activities and team effectiveness: Review and theoretical 
+development. Small Group Research , 33, 181–208.
+DeRue, D. S., & Ashford, S. J. (2010). Who will lead and who will follow? A social process 
+of leadership identity construction in organizations Academy of Management Review, 24, 
+627–647.
+Dierdorff, E. C., Bell, S. T., & Belohlav, J. A. (2011). The power of ‘we’: Effects of psychological 
+collectivism on team performance over time. Journal of Applied Psychology, 96, 247–262.
+Drach-Zahavy, A. (2004). Exploring team support: The role of team’s design, values, and leader’s 
+support. Group Dynamics: Theory, Research, and Practice, 8, 235–252.
+Earley, P . C., & Gibson, C. B. (1998). Taking stock in our progress on individualism-collectivism: 
+100 years of solidarity and community. Journal of Management, 24, 265–304.
+Earley, P . C., & Mosakowski, E. (2000). Creating hybrid team cultures: An empirical test of 
+transnational team functioning. Academy of Management Journal, 43, 26–49.
+Edwards, J. R., & Lambert, L. S. (2007). Methods for integrating moderation and mediation: 
+A general analytical framework using moderated path analysis. Psychological Methods , 12, 
+1–22.
+Faraj, S., & Y an, A. (2009). Boundary work in knowledge teams. Journal of Applied Psychology, 
+94, 604–617.1898  S. LIu eT AL.
+Farh, J., Hackett, R. D., & Liang, J. (2007). Individual-level cultural values as moderators of 
+perceived organizational support-employee outcome relationships in China: Comparing the 
+effects of power distance and traditionality. Academy of Management Journal, 50, 715–729.
+Hayes, A. F. (2009). Beyond Baron and Kenny: Statistical mediation analysis in the new 
+millennium. Communication Monographs , 76, 408–420.
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process analysis: 
+A regression-based approach. Journal of Educational Measurement, 51, 335–337.
+Hofmann, D. A. (1997). An overview of the logic and rationale of hierarchical linear models. 
+Journal of Management, 23, 723–744.
+Hofstede, G. (1980). Culture’s consequences: International differences in work-related values. 
+Beverly Hills, CA: Sage.
+Hofstede, G. (1991). Cultures and organizations: Software of the mind. London: McGraw-Hill.
+Joshi, A., Pandey, N., & Han, G. (2009). Bracketing team boundary spanning: An examination 
+of task-based, team-level, and contextual antecedents. Journal of Organizational Behavior, 
+30, 731–759.
+Katz, D., & Kahn, R. L. (1978). The social psychology of organizations. New Y ork, NY: Wiley.
+Knorr-Cetina, K., & Cicourel, A. V . (Eds.). (1981). Advances in social theory and methodology: 
+Towards an integration of micro- and macrosociologies. London: Routledge and Kegan Paul.
+Kwon, J. (2012). Does China have more than one culture? Exploring regional differences of 
+work values in China. Asia Pacific Journal of Management, 29, 79–102.
+Lee, C., Pillutla, M., & Law, K. S. (2000). Power-distance gender and organizational justice. 
+Journal of Management, 26, 685–704.
+Li, Y ., Chun, H., Ashkanasy, N. M., & Ahlstrom, D. (2012). A multi-level study of emergent 
+group leadership: Effects of emotional stability and group conflict. Asia Pacific Journal of 
+Management, 29, 351–366.
+Man, D. C., & Lam, S. S. K. (2003). The effects of job complexity and autonomy on cohesiveness 
+in collectivistic and individualistic work groups: A cross-cultural analysis. Journal of Organizational Behavior , 24, 979–1001.
+Manev, I. M., & Stevenson, W . B. (2001). Balancing ties boundary spanning and influence in 
+the organization’s extended network of communication. Journal of Business Communication , 
+38, 183–205.
+Marrone, J. A. (2004). Cutting across team boundaries: Antecedents and implications of 
+individual boundary-spanning behavior within consulting teams. Chemistry, 32, 115–116.
+Marrone, J. A. (2010). Team boundary spanning: A multilevel review of past research and 
+proposals for the future. Journal of Management, 36, 911–940.
+Marrone, J. A., Tesluk, P . E., & Carson, J. B. (2007). A multi-level investigation of antecedents 
+and consequences of team member boundary spanning behavior. Academy of Management 
+Journal , 50, 1423–1439.
+Mohrman, S. A., Cohen, S. G., & Mohrman, A. M. (1995). Designing team-based organizations: 
+New forms for knowledge work . San Francisco, CA: Jossey-Bass.
+Perry-Smith, J. E. (2006). Social yet creative: The role of social relationships in facilitating 
+individual creativity. Academy of Management Journal, 49, 85–101.
+Perry-Smith, J. E., & Shalley, C. E. (2003). The social side of creativity: A static and dynamic 
+social network perspective. Academy of Management Review, 28, 89–106.
+Raudenbush, S. W ., Bryk, A. S., Cheong, Y . F., & Congdon Jr, R. T. (2004). HLM6: Hierarchical 
+linear and nonlinear modeling . Chicago, IL: Scientific Software International.
+Reagans, R., & Zuckerman, E. W . (2001). Networks, diversity, and productivity: The social 
+capital of corporate R&D teams. Organization Science, 12, 502–517.
+Sethi, R. (2000). New product quality and product development teams. Journal of Marketing , 
+64, 1–14.The InTernATIonAL  JournAL  of huMAn reSour Ce M AnA geMenT  1899
+Souder, W . E., Sherman, J. D., & Davies-Cooper, D. (1998). Environmental uncertainty 
+organizational integration, and new product development effectiveness: A test of contingency 
+theory. Journal of Product Innovation Management, 15, 520–533.
+Sparrowe, R. T., Liden, R. C., & Wayne, S. J. (2001). Social networks and the performance of 
+individuals and groups. Academy of Management Journal, 44, 316–325.
+Taggar, S. (2002). Individual creativity and group ability to utilize individual creative resources: 
+A multilevel model. Academy of Management Journal, 45, 315–330.
+Takeuchi, H., & Nonaka, I. (1986). The new product development game. Harvard Business 
+Review , 64, 137–146.
+Taylor, A., & Greve, H. R. (2006). Superman or the fantastic four? Knowledge combination and 
+experience in innovative teams. Academy of Management Journal, 49, 723–740.
+Teigland, R., & Wasko, M. M. L. (2003). Integrating knowledge through information trading: 
+Examining the relationship between boundary spanning communication and individual 
+performance. Decision Sciences, 34, 261–286.
+Tortoriello, M., & Krackhardt, D. (2010). Activating cross-boundary knowledge: The role 
+of Simmelian ties in the generation of innovations. Academy of Management Journal, 53, 
+167–181.
+Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organization commitment as 
+predictors for organizational citizenship and in-role behaviors. Journal of Management, 
+17, 601–617.
+Y ammarion, F. J., Dionne, S. D., Chun, J. U., & Dansereau, F. (2005). Leadership and levels of 
+analysis: A state-of-the-science review. The Leadership Quarterly, 16, 879–919.
+Y ang, J., Mossholder, K. W ., & Peng, T. K. (2012). Procedural justice climate and power distance: 
+An examination of cross-level interaction effects. Journal of Applied Psychology , 92, 681–692.
+Yukl, G. A. (1989). Leadership in organizations (2nd ed.). Englewood Cliffs, NJ: Prentice Hall.
+Zhang, Y ., & Begley, T. (2011). Power distance and its moderating impact on empowerment 
+and team participation. The International Journal of Human Resource Management, 32, 
+3601–3617.
+Zhang, Z., Waldman, D. A., & Wang, Z. (2012). A multilevel investigation of leader-member 
+exchange, informal leader emergence, and individual and team performance. Personnel 
+Psychology , 65, 49–78.
+Zhou, J., Shin, S. J., Brass, D. J., Choi, J., & Zhang, Z. (2009). Social networks, personal values, 
+and creativity: Evidence for curvilinear and interaction effects. Journal of Applied Psychology, 
+94, 1544–1522.
+Zohar, D., & Tenne-Gazit, O. (2008). Transformational leadership and group interaction as 
+climate antecedents: A social network analysis. Journal of Applied Psychology, 93, 744–757.

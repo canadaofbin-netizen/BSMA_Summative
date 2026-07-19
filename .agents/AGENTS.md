@@ -93,3 +93,7 @@ You are the Orchestrator for the BSMA Meta-Analysis project. You must AUTOMATICA
     - **Inter-AI Agreement Rate:** The percentage of matching judgments between two AI-generated validation runs (e.g., V3 vs V2). This is NOT "accuracy" because neither output is confirmed ground truth.
     - **Accuracy:** Reserved ONLY for comparisons against Human-Verified data. Do NOT use this term for AI vs AI comparisons.
     - **Prohibited Terms:** Do not use "Golden Master" to describe AI-generated files. Do not use "human baseline" or "human-verified" to describe any output that was produced by AI, even if a human researcher initiated the run.
+
+## Section F: Academic Papers Directory Guardrail
+
+34. **01_Academic_Papers Directory Protection:** The `01_Academic_Papers` directory is strictly reserved for PDF files that follow the exact naming convention `[ID] Author (Year) - Title.pdf` (e.g., `[2] Aaronson et al. (2020) - The Long-Run Effects of the 1930s.pdf`). All agents are STRICTLY FORBIDDEN from creating, moving, or writing scratch files, text logs, Python scripts, JSON outputs, or any other non-conforming files into this directory. Any temporary files or analysis outputs must be saved to the `scratch/` directory or appropriate log folders. If a non-compliant file is discovered in `01_Academic_Papers`, it should be flagged as unnecessary and removed.

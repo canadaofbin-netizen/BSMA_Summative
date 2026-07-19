@@ -1,0 +1,810 @@
+Mind the gap: The role of leadership in multiteam system
+collective cognition
+Toshio Murasea, Dorothy R. Cartera,⁎,L e s l i eA .D e C h u r c ha,M i c h e l l eA .M a r k sb
+aGeorgia Institute of Technology, Atlanta, GA, USA
+bGeorge Mason University, Fairfax, VA, USA
+article info abstract
+Article history:
+Received 19 July 2013Received in revised form 24 May 2014Accepted 18 June 2014Available online 22 July 2014
+Handling Editor: Shelly DionneThe increasing prevalence of team-based organizations places a premium on leadership that will
+“mind the gap ”and enable smooth synchronization of activities across multiple distinct teams.
+Prior work shows that leaders can be trained to directly facilitate between-team coordination
+processes. Yet, relatively little is known about the intervening psychological mechanisms that
+enable between-team coordination. Here, we advance multiteam-interaction mental models —
+cognitive structures containing knowledge of appropriate between-team activities —as one
+mechanism that facilitates coordination among multiple teams. We use leader and team cognitiondata gathered in DeChurch and Marks' (2006) MTS study to test these ideas. Results reveal leaders'multiteam-interaction mental model accuracy “transfers ”to teams through strategic communica-
+tion, and leader strategic communication enables between-team coordination by promoting
+accuracy in followers' mental models. This study highlights the importance of leadership for
+developing collective cognition that allows teams to “scale up ”from small stand-alone teams to
+larger and more complex systems.
+© 2014 Elsevier Inc. All rights reserved.Keywords:
+Multiteam systems
+Leader strategic communication
+Multiteam-interaction mental models
+Introduction
+Scholars have long emphasized leadership as a particularly potent force for organizing and coordinating collectives. However, the
+challenges associated with leading multiple teams, groups, or organizations, have not been adequately addressed by traditional leader-
+ship research ( Hogg, van Kippenberg, & Rast, 2012 ). Typically, leadership is studied in contexts where leaders and followers all share a
+common group membership. Yet, in real world contexts, leaders are often responsible for in ﬂuencing the coordinated activities of mul-
+tiple groups or teams ( Pittinsky & Simon, 2007 ). For example, as work is increasingly structured into teams, specialized teams are often
+called upon to work interdependently with other specialized teams to tackle complex problems requiring disparate skills and expertise
+(e.g., DeChurch & Zaccaro, 2010; Lanaj, Hollenbeck, Ilgen, Barnes, & Harmon, 2013 ). Hybrid organizational forms in which two or more
+teams work interdependently toward one or more shared goals are termed multiteam systems (i.e., MTSs; Mathieu, Marks, & Zaccaro,
+2001), and a small, but growing set of ﬁndings demonstrate that between-team processes are critical drivers of their success ( Davison,
+Hollenbeck, Barnes, Sleesman, & Ilge n, 2012; DeChurch & Marks, 2006; Marks, DeChurch, Mathieu, Panzer, & Alonso, 2005 ).
+Unfortunately, effective collaboration among multiple teams is not a given. Groups or teams that should be working together may
+instead compete for scarce resources ( Pfeffer & Salancik, 1977 ) or emphasize individual or team objectives above superordinate goals
+(Marks et al., 2005 ). In organizations, these breakdowns can lead to great losses in revenue; at a more macro scale, these breakdowns
+can be catastrophic —for example, when the FBI and CIA failed to coordinate knowledge sharing prior to September 11, 2001 ( Caruso,The Leadership Quarterly 25 (2014) 972 –986
+⁎Corresponding author.
+E-mail addresses: toshio.murase@gmail.com (T. Murase), dorothyrpc@gmail.com (D.R. Carter), lesliedechurch@gmail.com (L.A. DeChurch), mmarks@gmu.edu
+(M.A. Marks).
+http://dx.doi.org/10.1016/j.leaqua.2014.06.003
+1048-9843/© 2014 Elsevier Inc. All rights reserved.
+Contents lists available at ScienceDirect
+The Leadership Quarterly
+journal homepage: www.elsevier.com/locate/leaquaRogers, & Bazerman, 2013 ). As such, recent theoretical work suggests optimizing the performance of multiple groups or teams
+requires leadership that effectively connects disparate groups, diverting self-interest and inter-group competition, and transforming
+tendencies toward insularity into intergroup collaboration and coordination ( Hogg et al., 2012 ). Moreover, enabling integration across
+component teams in MTSs is the essential function of MTS leadership ( DeChurch & Marks, 2006; Zaccaro & DeChurch, 2012 ).
+Initial empirical work suggests that MTS leaders can be trained to engage in certain functional leadership behaviors that directly
+facilitate between-team coordination ( DeChurch & Marks, 2006 ). However, the psychological mechanisms through which leadership
+shapes between-team coordination processes are not yet clear, leaving a gap in our understanding of and ability to develop effective
+leadership for multiple teams. The current paper begins to address this gap by identifying one mechanism that MTS leaders can cap-
+italize upon in order to optimize between-team coordination —collective cognition . Over two decades of research on stand-alone teams
+reveals the extent to which teams build effective collective cognition predicts their coordinated performance ( Cannon-Bowers, Salas,
+& Converse, 1993; Marks, Zaccaro, & Mathieu, 2000; Mathieu, Heffner, Goodwin, Cannon ‐Bowers, & Salas, 2005; Mathieu, Heffner,
+Goodwin, Salas, & Cannon-Bowers, 2000; Mohammed, Ferzandi, & Hamilton, 2010 ). We argue that, as is the case with single
+teams, the cognitive underpinnings of MTSs play a central role in enabling distinct teams to coordinate.
+Much prior research on collective cognition in teams has focused on members' mental models —the manner in which knowledge
+important to team functioning is organized and represented mentally, and distributed among members (e.g., Cannon-Bowers et al.,
+1993; Klimoski & Mohammed, 1994 ). Teams can have many different mental models, covering topics such as the team task, environ-
+ment, team members, and members' interactions ( Mohammed et al., 2010 ). Of particular relevance to team coordination are team-
+interaction mental models, which encompass information about the structure of interaction patterns, roles and responsibilities, and
+role interdependence among members ( Cannon-Bowers et al., 1993 ). These knowledge structures enable members to form accurate
+conceptualizations of their task and team members, and, in turn, enable direct coordination ( Marks, Sabella, Burke, & Zaccaro, 2002 ).
+In the multiteam context, between-team coordination processes are vital ( Davison et al., 2012; Marks et al., 2005 ). Thus, in MTSs,
+multiteam-interaction mental models are needed consisting of accurate knowledge of appropriate between-team activities. We
+advance the multiteam-interaction mental model construct as one mechanism by which leaders facilitate coordination among
+multiple teams. Such coordination is essential for the “scale up ”from single teams to larger and more complex systems of teams.
+Theory development and hypotheses
+Formally de ﬁned, MTSs are “two or more teams that interface directly and interdependently in response to environmental
+contingencies toward the accomplishment of collective goals ”(Mathieu et al., 2001, p. 290 ). As such, MTSs are often comprised of
+multiple component teams that each possess unique specialized skills and expertise and are linked together through interdependent
+processes. These fundamental attributes of MTSs make these structures especially well suited for adaptively tackling problems in
+today's complex and turbulent organizational environments ( Davison et al., 2012; Mathieu et al., 2001 ).
+In a single team, collective processes serve to combine the efforts of individual team members. In an MTS, processes must harmo-
+nize both the efforts of individuals within each team as well as the efforts that span team boundaries ( Marks et al., 2005 ). Because of
+the interdependencies connecting component teams in an MTS, rhythms of activities within each team are entrained to those at
+the MTS level ( Ancona & Caldwell, 1992; Ancona & Chong, 1996; Standifer & Bluedorn, 2006 ). A component team whose actions
+are out of sync with other teams may not only fail to achieve its own objectives, but may also jeopardize the entire system by failingto deliver information or inputs needed by other teams. Thus, depending on the degree of interdependence required by the task, MTS
+performance depends on the successful coordination of efforts across teams ( Marks et al., 2005 ).
+However, achieving between-team coordination is innately problematic. Because of the often-observed characteristics of MTSs —
+diverse expertise, geographic dispersion, and different organizational memberships —social divides are likely at the boundaries
+between component teams. Social identity theory suggests that different memberships are suf ﬁcient to create ingroup –outgroup
+attitude structures ( Turner, 1984 ) whereby people favor ingroup members over those in the outgroup ( Ta
+ jfel & Turner, 1979 ).
+Negative attitudes toward outgroup members can be exacerbated when outgroup members have different backgrounds or values,are from different geographic locations, or when opportunities for socialization are limited ( Lau & Murnighan, 1998; Li &
+Hambrick, 2005 ). Moreover, typical MTS structures can create a situation in which members most strongly identify and communicate
+with other members of their own component team, thereby limiting opportunities for successful coordination across teams. To
+facilitate MTS success involves enabling seamless coordination across distinct teams by identifying and capitalizing upon mechanisms
+that encourage teams to overcome naturally occurring divides.
+Multiteam-interaction mental models
+Numerous empirical studies have established the robust impact of team mental models on team processes and performance
+(Edwards, Day, Arthur, & Bell, 2006; Marks et al., 2000; Mathieu et al., 2000; Randall, Resick, & DeChurch, 2011; Smith-Jentsch,
+Cannon-Bowers, Tannenbaum, & Salas, 2008; Smith-Jentsch, Mathieu, & Kraiger, 2005 ). In particular, the team-interaction mental
+model construct is useful for understanding how teams coordinate their actions in complex dynamically changing environments.
+Here, we extend this construct to the MTS environment as a mechanism for integration across teams.
+Team-interaction mental models provide an organized knowledge base for team members to draw upon to predict one another's
+behaviors and anticipate their needs ( Cannon-Bowers et al., 1993 ). Team-interaction mental models allow members to stay in sync
+without the need for extensive direct mutual adjustment. For example, members of a military team enacting a mission in a warzone may not have time to engage in costly explicit communication with one another. Because time and resources are limited,
+these teams need to rely on an accurate implicit understanding of the environment, and the needs and actions of other members.973 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986Accurate interaction mental models permit teams to focus their efforts on coordinating actions and adapting behavior to changing
+environments, thereby enabling team coordination and performance ( Cannon-Bowers et al., 1993; Mathieu et al., 2005 ). As such, a
+series of studies on team cognition demonstrates that coordination processes mediate the team cognition –performance relationship
+(Marks et al., 2000, 2002; Mathieu et al., 2000; Randall et al., 2011 ).
+Prior research suggests that collective cognition serves a similar functionality in larger and more complex collectives as it does in
+single teams ( Iaquinto & Fredrickson, 1997; Schneider, Ehrhart, Mayer, Saltz, & Niles-Jolly, 2005 ). The positive effect of collective
+cognition on group outcomes is essentially homologous across the team, department, and organization levels (e.g., DeChurch &
+Mesmer-Magnus, 2010; Iaquinto & Fredrickson, 1997; Schneider et al., 2005 ). However, as the level of analysis moves from single
+teams to MTSs, the number of components in the social system increases, and the patterns of interactions among members become
+much more complex. In MTSs, the signi ﬁcant knowledge content that should enable between-team coordination centers on how
+component teams should work together. In other words, although each team in an MTS is distinct in terms of expertise and proximalgoals and may naturally see the system through their own unique lens, in order to achieve superordinate MTS goals, members need an
+awareness of the appropriate sequencing of actions among the teams.
+An accurate understanding of appropriate interaction patterns may be especially necessary to MTS success as compared to teams
+working in isolation. Component teams in an MTS are often embedded in different contexts and face disparate pressures, constraints,
+and opportunities. These separations between teams create friction points where teams can dislocate from the larger system. Due to
+between-team differences with regard to geographic location, organizational membership, or temporal norms for behavior, a compo-
+nent team may not otherwise be able to accurately predict the behaviors of other component teams. Especially when teams operate in
+complex and dynamically changing environments, an accurate understanding of between-team action sequencing can assist teams
+in overcoming coordination challenges by enabling implicit, as opposed to explicit between-team action processes. Thus, we argue
+that accurate multiteam-interaction mental models will enable MTS performance by enhancing teams' ability to coordinate their
+interactions. Accordingly, we posit:
+Hypothesis 1. Component team multiteam-interaction mental model accuracy positively predicts between-team coordination (H1a),
+which subsequently positively predicts MTS performance (H1b); between-team coordination fully mediates the effect of component team
+multiteam-interaction mental model accuracy on MTS performance (H1c).
+The role of leaders in shaping multiteam cognition
+Leadership scholars have long recognized that a key role of leadership is to shape followers' understanding of their task and pro-
+vide strategies for achieving desired objectives (e.g., Fiedler, 1967; House, 1971; Murase, Resick, Jiménez, Sanz, & DeChurch, 2011 ).
+Substantial evidence supports the relevance of collective cognition for group outcomes, and theoretical work argues that a major
+responsibility of team leaders is to facilitate an accurate cognition understanding of the team operating environment ( Zaccaro,
+Rittman, & Marks, 2001 ), Yet, very little empirical research has investigated the impact of leadership on collective cognition ( van
+Ginkel & van Knippenberg, 2012 ).
+Like team cognition, multiteam cognition can emerge in MTSs both bottom-up and top-down. For example, MTS members can
+construct their own multiteam-interaction mental models through bottom-up processes by communicating and interacting with
+one another over time ( Pearsall, Ellis, & Bell, 2010 ). In addition, mental models can develop top-down, as leaders actively intervene
+and alter members' existing mental models through their actions and communications with team members ( Marks et al., 2000 ).
+MTS leaders are particularly potent in building an understanding of the system as a whole, because they occupy legitimate positions
+of inﬂ uence ( French & Raven, 1959 ) and can stay abreast of the resources, needs, and constraints facing each of the teams. Whereas
+component team members are often well aware of how members ﬁt together within their own team, MTS leaders are in a better
+position to see how different teams ﬁt together throughout the system. Moreover, MTS leaders serve a boundary-spanning role in
+systems with multiple groups or teams ( Ernst & Chrobot-Mason, 2011; Mathieu et al., 2001 ), ideally positioning them to mold and
+shape component teams' understanding of how they should interact.
+In fact, development of MTS cognition may bene ﬁt substantially from top-down intervention. Because MTSs are composed of
+specialized teams that are interdependent both within and between teams, there is a high degree of information processing complex-
+ity inherent in MTS work ( Davison et al., 2012 ). Formal mechanisms, such as leadership, are often needed to manage between-team
+processes and reduce the burden on component teams. In MTSs, leaders or leader teams are best suited to handle those “aspects of
+coordination that are beyond the scope of the component teams ”(Davison et al., 2012, pp. 7; Thompson, 1967 ). Recent work suggests
+that coordination may come about differently in MTSs than it does in teams. Whereas team coordination bene ﬁts from having
+multiple members all engaged in the coordinative processes simultaneously, research on MTSs suggests that differentiation is
+beneﬁcial ( Davison et al., 2012; Lanaj et al., 2013 ). Differentiated structures —where some members (e.g., leaders) are more involved
+than other members in actions such as developing MTS plans —be
+ neﬁt MTS alignment and ef ﬁcient operation ( Davison et al., 2012;
+Kazanjian, Drazin, & Glynn, 2000; Lanaj et al., 2013 ). Similarly, although members of small stand-alone teams might be able to develop
+collective cognition through repeated interactions with one another, developing a system-wide understanding of the needed interac-tions among teams may be an aspect of MTS coordination best handled by formalized leadership.
+Developing collective cognition top-down is an active process involving direct communication and close interaction ( Kozlowski &
+Doherty, 1989; Zaccaro & DeChurch, 2012 ). In general, communication is a key mechanism of in ﬂuence for leaders ( Seyranian, 2014 ).
+To shape follower cognitions, in particular, effective leaders engage in various strategic communications such as debrie ﬁng, planning,
+and sensegiving ( Levesque, Wilson, & Wholey, 2001; Waller, Gupta, & Giambatista, 2004 ). For example, Schneider et al. (2005) found974 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986that leader communication emphasizing the importance of customer service promotes followers' understanding of service impor-
+tance. Marks et al. (2000) showed that leaders' debrie ﬁng communication predicts team mental model accuracy. Furthermore,
+Randall et al. (2011) found a positive relationship between leader sense-giving communication and mental model similarity and
+accuracy. Moreover, through strategic communications, leaders encourage members to narrow their focus toward a limited set of
+environmental features and information, perceive their actions and plans as meaningful, and adapt their cognitive schemas to theirperformance environment ( Kozlowski & Doherty, 1989; Salancik & Pfeffer, 1978 ).
+The MTS environment can be ambiguous with regard to MTS and team objectives, responsibilities and expectations, and the appro-
+priate timing of between-team coordination. To reduce members' uncertainty, leaders must highlight speci ﬁcf e a t u r e so ft h eM T Sp e r -
+formance environment and frame mission plans and actions in a manner that helps members organize information. The crucialfunction of leaders of multiple teams is not only to direct followers but also to alter the state of followers' existent or developing mental
+models in a way that supports between-team coordination. In summary, MTS leaders can intervene in the development of multiteam-
+interaction mental models through their strategic communications about appropriate sequencing of interactions among teams.
+Lastly, empirical evidence in small groups suggests that the top-down process of shaping collective cognition in a way that bene ﬁts
+the group performance begins with the leader's own cognitions. For example, past research demonstrates that groups tasked with
+making decisions that integrate members' distinct knowledge sets perform substantially better when the members understand
+that the task requires information exchange, discussion, and integration (i.e., information elaboration; van Ginkel & van
+Knippenberg, 2008, 2009; van Knippenberg, De Dreu, & Homan, 2004 ).van Ginkel and van Knippenberg (2012) showed that the
+degree to which a leader in a decision-making group holds a representation of the group task that emphasizes information elaboration
+inﬂuences the group's engagement in elaboration of decision-relevant information. Speci ﬁcally, these researchers found that leaders'
+understanding of the task requirements in ﬂuences group decision-making performance through sequential meditational processes of
+a) leader behaviors (e.g., advocating for information elaboration); b) followers' cognitions about the task requirements; and c) the
+degree to which the group engages in information elaboration ( van Ginkel & van Knippenberg, 2012 ). In other words leaders'
+cognitions have the potential to shape subsequent leader communications and follower cognitions.
+We expect a similar sequential process to exist in the multiteam environment with leader mental models impacting leaders'
+strategic communications, and in turn, component team mental models. However, given the complexity of these systems, in MTSor inter-group collaboration contexts, leadership is often handled by multiple leaders who must coordinate their activities ( Carter
+& DeChurch, 2014; Hogg et al., 2012; Zaccaro & DeChurch, 2012 ). Prior research suggests that groups with multiple leaders function
+most effectively when the leader team holds an accurate mental model ( McIntyre & Foti, 2013 ). Thus, we argue that accuracy of
+the mental models held by MTS leader teams enable these leaders to communicate system-wide strategic plans to their followersthat explicate how component teams should interact with one another. In turn, these strategic communications help build a cognitive
+platform that enables MTS members to make sense of their task environment, coordinate across teams, and effectively accomplish
+superordinate objectives. These relationships are summarized in Fig. 1 .S t a t e df o r m a l l y ,w eh y p o t h e s i z e :
+Hypothesis 2. Leader team multiteam-interaction mental model accuracy positively predicts leader team strategic communication
+(H2a); which subsequently positively predicts component team multiteam-interaction mental model accuracy (H2b). Leader team strategic
+communication fully mediates the effect of leader team multiteam-interaction mental model accuracy on component team multiteam-
+interaction mental model accuracy (H2c).
+Hypothesis 3. Component team multiteam-interaction mental model accuracy fully mediates the effect of leader team strategic
+communication on between-team coordination.
+Methods
+The data used in the current study was part of a larger data collection effort investigating the role of leadership in MTS perfor-
+mance, a portion of which is published ( DeChurch & Marks, 2006 ).DeChurch and Marks (2006) paper identi ﬁed the direct effects
+Leader Team 
+“Multiteam-
+Interaction 
+Mental Model” 
+Accuracy Leader Team 
+Strategic 
+Communication Component Team 
+“Multiteam-Interaction 
+Mental Model” Accuracy 
+(Post Leader Intervention) Between-team 
+Coordination MTS 
+Performance Component Team 
+“Multiteam-Interaction 
+Mental Model” Accuracy 
+(Pre Leader Intervention) 
+Fig. 1. Proposed effects of leader team multiteam-interaction mental model accuracy and leader team strategic communication on component team multiteam-
+interaction mental model accuracy, between-team coordination, and MTS performance.975 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986of two leader training manipulations on functional leadership behavior, between-team coordination, and MTS performance. Whereas
+DeChurch and Marks (2006) showed that MTS functional leadership focused toward between-team processes and coordination was
+relevant to MTS performance, the current paper extends this work by identifying a cognitive mechanism through which MTS leader-ship operates— multiteam-interaction mental models. The purpose of the current study is to identify and elaborate the cognitive
+mechanisms through which leaders shape MTS coordination and performance. Thus, although the leadership manipulations were
+not part of the substantive focus of the current study, we controlled for their effects in our analyses.
+Participants
+Undergraduate psychology and business students ( N= 384) from a large Southeastern United States university participated in the
+current study. Participants ranged in age from 18 to 28 ( M= 21.65, SD = 2.09); the overall sample was predominantly female (71%).
+A total of 64, identically-structured MTSs participated in a laboratory simulation designed to model an MTS situation requiring high
+levels of interdependence and between-team coordination. Fig. 2 presents a visual depiction of the MTS structure. Each MTS was com-
+prised of one 2-person leadership team and two 2-person component teams (i.e., the air-based ﬂight team and the ground-based
+ﬂight team, respectively). The leader team was responsible for planning and coordinating the mission of the two ﬂight teams. The
+two component teams were each responsible for ﬂying their own F-22 aircraft, and locating and disengaging a speci ﬁc type of
+enemy in a simulated battle ﬁeld (i.e., air targets or ground targets, respectively).
+Procedure
+MTS simulation
+MTSs engaged in a modi ﬁed version of the Air Combat Effectiveness Simulation (ACES: Mathieu, Cobb, Marks, Zaccaro, & Marsh,
+2004 ). All aspects of the task environment were scripted such that all MTSs encountered identical events and all enemies encountered
+responded in a predictable manner. All six MTS members participated in the simulation in the same room and were able to see one
+another easily. MTS members could freely communicate with one another via microphone-equipped headsets, and both within-
+and between-team communication occurred simultaneously. However, each participant engaged in the simulation on his or her
+own computer monitor and viewed only the simulation activity displayed on his or her screen.
+In each experimental session, MTSs were assigned the goal of eliminating all enemy threats in each of four areas of a simulated
+battle ﬁeld. Within each of the four areas, there were two types of enemy threats —air targets and ground targets. Neutralizing the
+enemy threats of a given area required elimination of all air and ground targets within that area.
+This mission environment encouraged interdependence both within and between the ﬂight teams. First, within each team, one
+member was assigned to the “pilot ”role and one member assigned to the “weapons specialist ”role. The “pilot ”operated the joystick,
+which ﬂew the plane and ﬁred weapons; the “weapons specialist ”manipulated keyboard functions to navigate, select weapons, and
+Member 1:
+“Pilot ”
+Component Team 1:
+“Air-Based Flight Team ”
+Goal: Eliminate  “Air Targets ”Member 2:
+“Weapons
+Specialist ”Member 1:
+“Pilot ”
+Component Team 1:
+“Ground-based Flight Team ”
+Goal: Eliminate “ Ground Targets ”Member 2:
+“Weapons
+Specialist ”Leader 1 Leader Team
+Goal: Plan and Coordinate
+Mission 
+Leader 2 
+Multiteam System (MTS) 
+Goal: Neutralize All Enemies in 
+Battlefield Areas
+Fig. 2. MTS structure.976 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986lock onto targets. Second, the structure of the MTS task encouraged interdependence between the two ﬂight teams. The air and
+ground targets were co-located within the mission environment and programmed to attack both teams. Whereas the air-based ﬂight
+team was equipped only with missiles capable of locking onto and disabling air-based targets, the ground-based ﬂight team was
+equipped only with missiles capable of locking onto and disabling ground-based targets. Thus, no single team could, in isolation,
+successfully eliminate all required targets or protect themselves from all attacks.
+The experiment also created interdependence between the leader team and the two ﬂight teams. Each leader was responsible for
+directing the efforts of one of the two ﬂight teams. One leader viewed the ground-based ﬂight team pilot's screen on his or her monitor
+w h i l et h eo t h e rl e a d e rv i e w e dt h ea i r - b a s e d ﬂight team pilot's screen on his or her monitor. Leaders could monitor information and
+communicate verbally with component teams but could not assist physically in performing the MTSs task. Although both leaders wereaware of how to monitor either team's actions from each of their display screens and were tasked with ensuring overall MTS overall,
+most MTSs operated by having each leader guide their respective ﬂight team.
+Over the course of each experimental session, MTSs engaged in four battle mission tasks, all of which were parallel in structure. The
+ﬁrst three missions served as training missions, and the fourth as the experimental mission. During the ﬁrst two of the training
+missions, the component teams practiced engaging in the task and working together without the leader team. The leader team
+received leadership training in a separate location during these ﬁrst two missions. During the third training mission, the leader
+team was introduced into the MTS.
+Study design
+The present study utilized a two (leader strategy training vs. control) by two (leader coordination training vs. control) between-
+subjects design in which MTS leaders were primed to highlight two between-team processes (i.e., strategizing and/or coordinating) in
+the experimental conditions. The ﬁrst manipulation was MTS leader strategy training. In both the experimental and control conditions
+of this manipulation, MTS leaders were trained to understand the information provided in a mission brie ﬁng, develop a mission plan,
+and communicate the plan to component teams during pre-mission planning sessions. In the experimental condition, leaders received
+additional training teaching them to develop mission plans specifying how the two component teams should coordinate their actions
+as they engaged in each part of the mission. In other words, leaders in this condition were trained to develop and communicate pre-
+mission plans that speci ﬁed appropriate synchronized actions among multiple teams.
+The second manipulation was MTS leader coordination training. In both the experimental and control conditions of this manipu-
+lation, MTS leaders were trained to monitor the location and progress of teams as they engaged in the simulation and communicate
+this information throughout the mission. In the experimental condition, leaders received additional training such that leaders were
+able to monitor the location and progress of their own team as it related to the other team and to communicate this information to
+the other team throughout the mission.
+As noted above, DeChurch and Marks (2006) showed that both manipulations had direct effects on functional leadership
+behaviors. Because these manipulations were not part of the substantive focus of the current study, we controlled for their effects
+in our analyses.
+Experimental procedure
+Experimenters tested each MTS in a separate 5-h session that progressed through three general phases: introduction (1 h),
+training (3 h), and task engagement (1 h).Introduction. In the introduction phase, participants completed a measure of intelligence and a survey of demographic information
+(i.e., age, gender, race, nationality). Based on this information, experimenters assigned participants to teams such that a) leader
+intelligence scores were the same or higher than ﬂight team members; and b) ﬂight team member demographic composition was
+stratiﬁed across experimental conditions.
+Training phase. In the training phase, experimenters ﬁrst trained teams in separate rooms on the team members' role-speci ﬁcd u t i e s
+before bringing the teams together to practice working together as a unit. In real-world MTSs, teams of experts are often required to
+work interdependently with other similarly specialized teams of experts from other ﬁelds. Although such teams may be highly
+informed with regard to their own expertise and that of their own team members, they may not be aware of optimal patterns ofinteraction with other teams. The role-speci ﬁc training given to participants was designed to create sample MTSs that mirrored
+this characteristic of real-world MTSs. Participants developed knowledge and skills relevant to their individual role in their team(e.g., ﬂight team pilot), but the role-speci ﬁc training did not provide extensive explanation for how component teams in the system
+should work together. After training, participants completed a four-item competency check measure designed to assess the extent towhich each member had acquired his or her role and role-speci ﬁc task responsibilities. Participants' mean competency check scores
+were
+high, ( M=3 . 5 5o u to f4 , SD= .52), suggesting that participants understood their role requirements. However, after the partic-
+ipants completed the competency check measure, experimenters continued to work with each participant until he or she understood
+the answers to any question answered incorrectly.
+After the competency checks, the four members of the two ﬂight teams received additional instruction on the MTS task and how to
+use the simulation. Then, the MTS ﬂew two practice missions without the leader teams' assistance. Simultaneously, the leader team
+viewed a shortened version of the ﬂight team training and a combination of leader training modules based on their randomly assigned
+treatment conditions. After the second training mission, component teams completed initial multiteam-interaction mental model
+measures (explained below in the measures section). Average initial mental model scores ranged from 1 to 4 ( M= 2.34 out of 4,977 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986SD= .70) with higher values indicating higher accuracy. Thus, although there was variability in the scores, component teams had, at
+this time, gained suf ﬁcient experience with the simulation to develop an initial understanding of how component teams might
+synchronize their actions.
+Next, the leader team was introduced to the component teams and all three teams engaged in a ﬁnal practice mission with
+experimenters providing additional coaching on basic task duties. The ﬁrst 20 min of the third training mission constituted pre-
+mission planning or the transition phase (Marks, Mathieu, & Zaccaro, 2001 ). During the transition phase, leaders planned the MTS mis-
+sion for 10 min while the component teams took a short break and then conveyed these plans to the component teams during the
+remaining 10 min. The remaining 40 min of the third training mission constituted the action phase (Marks et al., 2001 ) in which
+the MTS engaged in the simulation.
+Task engagement phase. In parallel with the third training mission, the task engagement phase (the fourth mission) began with a
+20-min transition phase. During the transition phase, leaders planned the MTS task strategy for the ﬁrst 10 min and then conveyed
+these plans to component teams during the second 10 min. Leader strategic communication was assessed during this second
+10-min portion of the transition period. Component teams completed their ﬁnal measure of multiteam-interaction mental model
+accuracy directly after the transition period. After component teams completed the mental model measure, the MTS engaged inthe action phase of the performance mission. Subject Matter Experts (SMEs) completed behavioral ratings of between-team coordi-
+nation during the action phase of the performance mission, and MTS performance was assessed at the end of the action phase.
+MeasuresMental models
+At a general level, mental models represent organized knowledge. Klimoski and Mohammed (1994) underscored the importance
+ofﬁrst determining the knowledge content of mental models, and then formulating the meaningful structure of knowledge. As
+discussed in the introduction, team members can hold many different types of mental models simultaneously. For example, mental
+models can contain information about the team members themselves, the team task, the external environment, and the way that
+members should interact with one another to reach their goals ( Cannon-Bowers et al., 1993 ). In teams, the vital content for effective
+team coordination is the knowledge about needed actions and interactions among team members (i.e., team interaction mentalmodels; Marks et al., 2000 ). In MTSs, the vital content for between-team coordination is knowledge about needed actions of and inter-
+actions among component teams (i.e., MTS interaction mental models). In other words, regardless of their role in the system, MTS
+members need to possess accurate knowledge of the way the components of the system should synchronize.
+There are numerous techniques in the team cognition literature to capture different types of team mental models ( Mohammed
+et al., 2010 ). In the current study, we employed an approach that has been used previously to capture the interaction mental models
+of single teams ( Ellis, 2006; Marks et al., 2000 ). Speci ﬁcally, we used a rank-order approach falling into one of the traditional mental
+model measurement categories called concept mapping (Marks et al., 1997; Mohammed et al., 2010 ). Concept mapping techniques
+capture a hierarchical structure of concepts that are linked together. This approach is consistent with ﬁndings from cognitive psychol-
+ogy suggesting that people organize information by conceptualizing concepts and knowledge in a hierarchical structure ( Novak,
+1990 ).
+Teams scholars have argued that the meaningful structure of knowledge about team interactions is hierarchical, and team inter-
+action mental models can be detected by capturing the way that people organize team actions hierarchically ( Ellis, 2006; Marks
+et al., 2000 ). Previous studies on team-interaction mental models using the concept mapping technique asked participants to organize
+pre-identi ﬁed team action concepts in a hierarchical structure representing their knowledge of team interactions. For example, Ellis
+(2006) provided participants with two separate task scenarios and asked participants to rank-order eight possible team actions within
+each scenario. Marks et al. (2000) asked members to select eight concepts from a large collection of various concepts and place them
+in a hierarchical sequence of importance. Team-interaction mental models assessed in this manner have been shown to predict team
+coordination and performance ( Ellis, 2006; Marks et al., 2000 ).
+To capture members' mutliteam- interaction mental models, we used a version of the concept-mapping procedure modi ﬁed for the
+MTS context. The battle ﬁel
+d simulation was designed such that certain sequences of team actions would be maximally effective for
+MTS performance. To capture the degree to which participants understood these effective sequences, experimenters administereda measure assessing the hierarchical structure of MTS members' knowledge about the sequencing of when one team's actions should
+be taken based on when another team was carrying out a given action. First, participants were asked to consider a list of nine possible
+team actions that could commence between the two teams during a hypothetical interdependent situation. Then, participants rank-
+ordered the team actions to re ﬂect the order in which they should occur for the MTS to achieve its superordinate goal.
+Prior work has judged the accuracy of team interaction mental models assessed with the concept-mapping rank-order technique
+by comparing participant knowledge structures to those of subject matter experts (SMEs; e.g., Ellis, 2006 ). Similarly, in this study, the
+accuracy of multiteam-interaction mental models was indexed using a SME-developed scoring system. The group of SMEs consisted ofa team of two faculty members and four graduate research assistants who had designed the battle ﬁeld simulation. Developing the
+mental model measure and corresponding scoring system was a two-step process. First, the game developers independently gener-ated a list of scenarios the MTS might encounter as well as a list of appropriate sequences of effective MTS actions corresponding to
+each scenario. The simulation was designed such that certain sequences of team actions were more effective than others. Then,
+SMEs met as a group to identify and discuss points of overlap and discrepancies between their views of the correct sequencing of
+actions in different scenarios. For example, all experts ranked item 9 (eagle targets and destroys the SU-27) lower than item 7978 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986(work targets and destroys the ﬁrst tank). This pattern indicated that all three SMEs agreed that the air combat team needed to
+destroy the plane before the ground combat team should destroy the tank. Therefore, one criterion for multiteam-interaction mental
+model accuracy was whether or not item 9 received a lower ranking than item 7. Hypothetical scenarios were only included in the
+ﬁnal measure if all six SMEs agreed on all aspects of the corresponding ordering of team-to-team sequencing. In total, four hypothet-
+ical scenarios with nine corresponding team actions were developed based on SME evaluations of the game. SMEs then developed a
+set of decision rules to classify multiteam-interaction mental model accuracy on a scale of 0 = “completely inaccurate ”to 4
+“completely accurate. ”
+We operationalized component team multiteam-interaction mental model accuracy as the mean of the four component team
+members' scores. Component team mental model scores ranged from 1.25 to 4.00 ( M=2 . 8 3 , SD= .70) with higher values indicating
+higher levels of accuracy. We operationalized leader team mental model accuracy as the mean of the two leaders' scores. Leader team
+mental model accuracy ranged from 2.00 to 4.00 ( M=3 . 6 3 , SD= .53).
+Leader team strategic communication
+SMEs rated leader team strategic communication during the transition phase of the MTS performance mission using a behaviorally
+anchored rating scale (BARS) created for this study. Response anchors ranged from 1 = “The leader team does not specify a coherent
+plan. Either the plan is totally vague or the leader team does not make its plan clear. There is no mention of a) the order in which teamsshould ﬂy or b) the order in which targets should be destroyed. ”to 5 = “The leader team very clearly articulates a plan to MTS mem-
+bers that speci ﬁes a) the order in which teams should ﬂy throughout the mission, b) the order in which targets should be destroyed.
+The plan is very speci ﬁc and is made clear to all MTS members. ”Two SMEs rated the content of leaders' communications during the
+performance mission transition phase; inter-rater reliability was assessed by correlating the two ratings ( r=. 7 8 , pb.05). SME ratings
+were averaged, and the composite was used in subsequent analyses. Leader team strategic communication scores ranged from 1.00 to
+5.00 ( M= 2.89, SD= 1.21).
+All raters of leader team strategic communication were research assistants who were blind to the study hypotheses. SME rater
+training was a three-part process designed to develop a common frame of reference ( Schleicher & Day, 1998 ). First, the raters were
+provided with initial instructions for using the rating scale and for understanding the types of behaviors the scale anchors represent.Then, using the BARS, the SMEs rated leader team behaviors in a series of videos of pilot data independently. Next, the raters
+reconvened to discuss their initial independent ratings of the pilot data, identifying instances of disagreement. Then, the SMEs
+re-watched all pilot study videos as a group to discuss the reasoning behind their initial ratings and come to a consensus on the inter-
+pretations of each observed behavior.
+Between-team coordination
+SMEs rated between-team coordination during the action phase of the performance mission using a BARS developed for the
+current study. The rating scale provided a judgment of the component teams' skill at smoothly synchronizing joint actions; anchors
+ranged from 1 = “no or hardly any skill ”to 5 = “complete skill. ”Two SMEs rated the content of the MTS performance mission action
+phase, and inter-rater reliability was assessed by correlating the two ratings ( r=. 6 9 ; pb.01). SME ratings were averaged and the
+composite was used in subsequent analyses. Between-team coordination scores ranged from 1.00 to 5.00 ( M= 2.94, SD=1.06).
+Between-team coordination was rated by a different group of research assistants than the group of who rated leader team strategic
+communication. However, as with leader strategic communication, all raters of between-team coordination were blind to all study
+hypotheses. Between-team coordination raters engaged in an identical rater training process to develop a common frame of reference
+as the group of leader strategic communication raters. Speci ﬁcally, SMEs were provided with initial instructions regarding the use of
+the BARS, they rated pilot data videos independently, and then reconvened to discuss and come to consensus on the ratings of all
+observed behaviors.
+M
+TS performance
+Broadly, MTS performance is the extent to which superordinate goals are achieved. Thus, MTS performance metrics need to iden-
+tify the collective goal and quantify the degree of goal attainment. The MTSs in this study were assigned the ultimate goal of disabling
+four enemy bases on the simulated battle ﬁeld during the ﬁnal mission, requiring the coordinated actions of both component teams.
+Therefore, MTS performance was operationalized as the number of bases successfully destroyed. In other words, MTS performancewas a game-derived score based on the systems' assigned goal of neutralizing each of the four bases. Sample MTS performance on
+this index ranged from 0 = “no bases destroyed ”to 4 = “all four bases destroyed ”(M= 1.84, SD= .98). Because all MTSs encoun-
+tered identical events and all enemies encountered responded in a predictable manner, MTS performance was a standardized andcomparable performance index across all 64 MTSs.
+Furthermore, the MTS performance metric was developed to capture the goal attainment of the MTS, as opposed to just summing
+an index of component team performance (e.g., number of targets destroyed). Whereas component team performance was calculated
+based on the number of speci ﬁc enemy targets that the team destroyed, MTS performance was calculated based on the number of the
+four enemy areas that were completely neutralized (i.e., both air and ground enemies were destroyed). Therefore, it was possible fortwo MTSs to have identical aggregate component team performance scores but different MTS performance scores. For example, if the
+air team destroyed all air targets only in Battle ﬁeld Areas 1 and 2, and the ground team destroyed all ground targets only in Battle ﬁeld
+Areas 3 and 4, the two component teams would have each destroyed half of their targets and the MTS would have an aggregate team
+performance score of 50%. However, none of the four areas would be completely neutralized (the MTS goal); thus, the MTSs would
+have a performance score of 0%. On the other hand, if both teams neutralized their targets only in Battle ﬁeld Areas 1 and 2, the979 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986MTS would have an aggregate team performance score of 50% andthe overall MTS performance score would be 50% (i.e., two out of
+four areas completely neutralized).
+Analyses
+Path analysis was used to test model data ﬁt, using the R package “lavaan” (Rosseel, 2012 ). Due to the sensitivity of the chi-square
+statistic to differences in large-sample data ( Bentler & Bonett, 1980 ), we employed a set of ﬁt indices to assist in determining the
+model ﬁt and misspeci ﬁcation ( Bentler, 2007; Hu & Bentler, 1998, 1999 ), comparative ﬁt indices (CFI: Bentler, 1990 ), standardized
+root mean square residual (SRMR), and root mean square error of approximation (RMSEA). These indices were selected based
+on their sensitivity to model misspeci ﬁcation and insensitivity to sample size ( Hu & Bentler, 1998 ). Whereas, SRMR is sensitive to
+simple misspeci ﬁcation, CFI and RMSEA have been found to be suitable for detecting complex model misspeci ﬁcation. CFI is not
+sensitive to distribution and sample size ( Tanguma, 2001 ), and RMSEA is not sensitive to distribution but is sensitive to small sample
+size ( nb250). Cutoff points were set at .95 for CFI, .08 for SRMR and .06 for RMSEA based on the recommendations of Hu and Bentler
+(1999) .
+Mediation analysis
+We employed the mediation approach recommended by James, Mulaik, and Brett (2006) . Mediation is con ﬁrmed if the following
+conditions are met: (a) the model has an acceptable ﬁt; (b) the relationship between the predictor and mediator is signi ﬁcant; (c) the
+relationship between the mediator and outcome is signi ﬁcant. Additionally, following the recommendation by MacKinnon, Lockwood,
+Hoffman, West, and Sheets (2002) andMacKinnon, Lockwood, and Williams (2004) we employed a bootstrapping procedure
+(Rosseel, 2012 ) to examine indirect effects. Because indirect effects can be non-normal in their distributions, McKinnon et al. recom-
+mend that researchers use a nonparametric procedure that does not assume normal distribution shapes. This bootstrapping procedure
+produces a sampling distribution to compute point estimates and con ﬁdence intervals (CIs) for indirect effects. In particular, we used
+bias-corrected CIs to examine the statistical signi ﬁcance of indirect effects because these bias-corrected CIs have been shown to
+outperform other types of CIs ( MacKinnon et al., 2004 ). If the bias-corrected CIs do not include zero, indirect effects are considered
+statistically signi ﬁcant. In the current study, we conducted 5000 iterations for all bootstrapping analyses.
+Control variables
+We controlled for the effects of the two manipulations in all analyses by dummy-coding each manipulation ( Cohen, Cohen, West,
+& Aiken, 2003 ) and specifying paths from each manipulation to each focal variable in the path analysis model (i.e., leader team MTS
+interaction mental model, leader team strategic communication, component team MTS interaction mental model, between-team
+coordination, and MTS performance). By controlling for the manipulations, we were able to rule out alternative explanations forobserved relationships among focal variables that were due to the manipulations.
+Additionally, as noted in the experimental procedure, the two component teams worked together during two training missions
+without the leader team. Initial component team mental models were assessed at the end of the second mission, before interacting
+with the leader team. Thus, in addition to the leadership training manipulations, we controlled for the effect of component team men-
+tal models measured before the leader team intervention on component team mental models measured after the leader teams were
+introduced to the system. This allowed investigation of the degree to which MTS leaders impacted the subsequent development ofco
+mponent team mental models.
+Results
+Table 1 presents a summary of means, standard deviations, and bivariate correlations for all study variables.
+Model ﬁt
+Before testing speci ﬁc hypotheses, we ﬁrst assessed the ﬁt of the overall hypothesized path model (Model 1; see Fig. 3 ). Obtained
+ﬁt indices for Model 1 were highly acceptable, χ2(10, n=6 4 )=8 . 4 2 , ns; CFI = 1.00, SRMR = .04, RMSEA = .00. However, according
+toMacCallum and Austin (2000) , in any sample there may be multiple models that ﬁt the data equally well. Therefore, we tested the
+Table 1
+Means, standard deviation, and correlations.
+MS D 12 3 45
+1 LT Multiteam-Interaction Mental Model Accuracy 3.63 .532 LT Strategic Communication 2.89 1.21 .53 ⁎⁎
+3 CT Multiteam-Interaction Mental Model Accuracy (Time 1) 2.34 .59 .15 −.03
+4 CT Multiteam-Interaction Mental Model Accuracy (Time 2) 2.83 .70 .27 ⁎ .25⁎ .48
+5 Between-team Coordination 2.94 1.06 .32⁎.35⁎⁎.26⁎.20⁎⁎
+6 MTS Performance 1.84 .98 .24
+†.06 −.00 .16 .45⁎⁎
+Note. LT = Leadership Team; CT = Component Team; nvaries from 57 to 64.
+†pb.10, ⁎pb.0 5 , ⁎⁎pb.01.980 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986ﬁt of three alternative models, which hypothesized partial, rather than full, mediation relationships. The ﬁrst alternative model, Model
+2, proposed a partial mediation effect of leader team strategic communication on component team mental model accuracy by adding a
+direct path from leader team mental model accuracy to component team mental model accuracy. Model 3 allowed partial mediation
+of between-team coordination on MTS performance by adding a direct path from component team mental model accuracy to MTS
+performance. Assessing the ﬁt of these two alternative models allowed us to determine whether the two hypothesized mediation
+paths were partial or full. The third alternative model (Model 4) was created based on prior research, which showed a directeffect of leader communication on MTS coordination ( Davison et al., 2012; DeChurch & Marks, 2006 ). This model allowed a partial
+mediation effect of component team mental model accuracy on between-team coordination by adding a direct path from leaderteam strategic communication to between-team coordination.
+Theﬁt of all the alternative models was assessed and compared against the hypothesized model (see Table 2). None of
+the alternative models showed ﬁt statistics that were signi ﬁcantly improved as compared to the original hypothesized model
+(Model 2: Δχ
+2(df=1)=. 0 5 , ns;M o d e l3 :Δ χ2(df=1)=. 0 5 , ns;M o d e l4 : Δχ2(df=1)=. 1 4 , ns). Because Model 1 was more parsimo-
+nious than these alternative models, we used Model 1 to test the hypotheses. The standardized path coef ﬁcients of this model along
+with their effect sizes are summarized in Fig. 3 .
+Effects of control variables
+Focusing ﬁrst on the control variables, leader strategy training signi ﬁcantly positively predicted leader team mental model accu-
+racy ( β= .49, pb.01), leader team strategic communication ( β=. 4 8 , pb.01), and between-team coordination ( β=. 3 2 , pb.01).
+However, leader strategy training did not predict component team mental model accuracy ( β=. 0 9 , ns)o rM T Sp e r f o r m a n c e
+(β=−.19, ns). Leader coordination training did not signi ﬁcantly predict any of the focal variables (leader team mental model
+accuracy: β= .10, ns; leader team strategic communication: β=−.04,ns; component team mental model accuracy: β=−.01,
+ns; between-team coordination: β=. 1 8 ,p=ns ; MTS performance: β= .13, ns). The third control variable, component team mental
+model accuracy measured before the leader team intervention, was a signi ﬁcant positive predictor of mental model accuracy
+measured after the leader team intervention ( β= .45, pb.01).
+Tests of hypotheses
+Hypothesis 1 a predicted that component team mental model accuracy would positively predict between-team coordination. In
+support of this hypothesis, results indicated that the path coef ﬁcient for this relationship was statistically signi ﬁcant and positive
+(β= .29, pb.05,ΔR2= .05). Hypotheses 1b and H1c predicted that between-team coordination would positively predict MTS per-
+formance (H1b) and that between-team coordination fully mediates the relationship between component team mental modelLeader Team
+“Multiteam-
+Interaction 
+Mental Model ”
+Accuracy Leader Team
+Strategic
+Communication Component Team
+“Multiteam-Interaction 
+Mental Model ”Accuracy 
+(Post Leader Intervention) Between-team
+Coordination MTS 
+PerformanceComponent Team
+“Multiteam-Interaction 
+Mental Model ”Accuracy 
+(Pre Leader Intervention) 
+β=.25* β=.50** β=.29* β=.45** 
+β=.28* R2=.41 
+ΔR2 = .05R2=.38 
+ΔR2 = .07R2=.29 
+ΔR2 = .05 R2=.25 
+ΔR2 = .20 
+Fig. 3. Path analysis results. Note. *pb.05, ** pb.01,χ2
+(64, df= 10) =8 . 4 2 , ns, CFI = 1.00, RMSEA = .00, RSMR = .04. Standardized path coef ﬁcients are listed. Analyses
+control for: leader strategy training and coordination training with each of the focal variables (leader team mental model accuracy, leader team strategic communication,
+component team mental model accuracy, between-team coordination, and MTS performance).
+Table 2Chi-square and ﬁt indexes for path-analyses.
+Model number χ
+2df Δχ2Δdf SRMR CFI RMSEA
+Model 1 (hypothesized) 8.42 10 .05 1.00 .00Model 2 8.37 9 .05 1 .04 1.00 .00Model 3 8.37 9 .05 1 .04 1.00 .00
+Model 4 8.28 9 .14 1 .04 1.00 .00
+Note. Model 1 is the hypothesized model; Model 2 tested the direct path from leader mental model accuracy to component team mental model accuracy; Model 3 tested
+the direct path from component team mental model accuracy to MTS performance; Model 4 tested the direct path from leader strategic communication to be tween-
+team coordination.981 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986accuracy and MTS performance (H1c). Following the approach by James et al. (2006) ,w eﬁrst examined the three preconditions for
+testing mediation with path analysis. Results demonstrated that each of these conditions was met: the model ﬁt the data well, the
+previous analysis supported the H1a path from component team mental model accuracy to between-team coordination, and the
+path from between-team coordination to MTS performance ( β=. 5 0 , pb.01,ΔR2= .20) was signi ﬁcant. Additionally, bootstrapping
+analyses indicated that the bias-corrected 95% CI around the indirect effect of component team mental model accuracy on MTS
+performance via between-team coordination did not include zero (unstandardized Bindirect = .20, bias-corrected 95% CI [.03, .43];
+seeTable 3 ). Thus, these results supported both H1b and H1c.
+Hypothesis 2 a predicted that leader team mental model accuracy would positively predict leader team strategic communication.
+In support of this hypothesis, the coef ﬁcient for leader team mental model accuracy was statistically signi ﬁcant and positive after
+controlling for leader strategy and coordination training ( β= .25, pb.05,ΔR2= .05). In Hypotheses 2b and 2c, we argued that leader
+strategic communication would be positively related to component team mental model accuracy (H2b) and that leader team strategiccommunication would fully mediate the effect of leader team mental model accuracy on component team mental model accuracy
+(H2c). In support of H2b, results indicated that the path coef ﬁcient from leader team strategic communication to component
+team mental model accuracy was statistically signi ﬁcant and positive after controlling for leader strategy and coordination training
+(β=. 2 8 , pb.05,ΔR
+2= .07). Further in support of H2c, our results satis ﬁed the conditions outlined by James et al.'s (2006) approach.
+The model ﬁt the data well, the previous analysis supported the H2a path from leader team mental model accuracy to leader team
+strategic communication, and the path from strategic communication to component team mental model accuracy was signi ﬁcant
+(β= .28, pb.05,ΔR2= .07). In addition, bootstrapping analyses indicated that the bias-corrected 95% CI around the indirect effect
+of leader team mental model accuracy on component team mental model accuracy via leader team strategic communication did
+not include zero (unstandardized Bindirect = .10, bias-corrected 95% CI [.01, .28]). Thus, both H2b and 2c were supported.
+Hypothesis 3 predicted that component team mental model accuracy would fully mediate the effect of leader team strategic
+communication on between-team coordination. The model supporting Hypotheses 1 aa n d 2b met the conditions outlined by James
+et al.'s (2006) approach. In addition, bootstrapping analyses indicated that the bias-corrected 95% CI around the indirect effect of
+leader team mental model accuracy on component team mental model accuracy via leader team strategy communication did not
+include zero (unstandardized Bindirect = .08, bias-corrected 95% CI [.01, .22]). Thus, these results support Hypothesis 3 .
+Finally, as noted above, whereas the leader coordination training manipulation did not signi ﬁcantly impact the development of
+leader multiteam-interaction mental models, strategy training was a signi ﬁcant predictor of this type of cognition among leaders.
+In other words, training designed to teach leaders to shift their pre-mission planning strategy from planning their own teams' actions
+to planning the actions that linkcomponent teams infused variance into leaders' mental model accuracy. These results augment
+previous ﬁndings, which showed a direct effect of leader strategy training on functional leader behavior and between-team coordina-
+tion, by demonstrating that accurate multiteam-interaction mental models are a key psychological mechanism through which
+strategy training improves leader behavior and collective performance. We elaborate the implications of these ﬁndings in the
+discussion.
+Discussion
+Prior research has ﬁrmly established the importance of collective cognition for coordination and performance in single teams
+(DeChurch & Mesmer-Magnus, 2010; Marks et al., 2000; Mathieu et al., 2000 ). The current study extends this work by considering
+the interaction mental model construct in a more complex social unit, the MTS. Our results reveal that the development of accurate
+multiteam-interaction mental models throughout the system is one mechanism leaders can harness to shape MTS coordination and
+performance.
+Table 3
+Bootstrap analyses of the indirect effects.
+Indirect effects PEaSE Bias corrected
+conﬁdence intervalb
+Lower Upper
+LT Mental Model Accuracy →
+LT Strategic Communication →
+CT Mental Model Accuracy.10 .07 .01 .28
+LT Strategic Communication →
+CT Mental Model Accuracy →
+Between-team Coordination.08 .05 .01 .22
+CT Mental Model Accuracy →
+Between-team Coordination →
+MTS Performance.20 .10 .03 .43
+n=6 5 .aUnstandardized point estimate; 5000 bootstrap re-samples.b95% level of con ﬁdence for con ﬁdence interval.
+Note. LT = Leadership Team; CT = Component Team. In each analysis, leadership strategy and coordination training, and component team mental model before
+leadership team intervention were controlled for.982 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986Theoretical contributions
+Our study contributes to theory on leadership and multiteam effectiveness in three key ways. First, although team research has
+established collective cognition as an important mechanism for enhancing coordination and performance in teams, there is scant
+research investigating the effect of cognition at the MTS level. Thus, a primary contribution of this work is that it identi ﬁes the impor-
+tance of MTS cognition, but more speci ﬁcally, reveals a bene ﬁcial type of mental model in MTSs. Whereas research on single teams
+shows members' understanding of the task and team is critical, our ﬁndings clarify that component teams in MTSs need accurate
+models of how distinct teams should synchronize their interactions.
+Consistent with past literature on team cognition ( Marks et al., 2000, 2002; Mathieu et al., 2000 ), we found that the bene ﬁts of
+multiteam-interaction mental models are similar to those of team-interaction mental models. The degree to which component
+teams understand the appropriate sequencing of team-to-team interactions positively impacts their between-team coordination.
+Furthermore, our ﬁndings demonstrate that the effect of component teams' mental models is transmitted to MTS performance
+through between-team coordination. Central to theories of team cognition is the idea that mental model accuracy allows membersto anticipate the needs and behaviors of other members ( Cannon-Bowers et al., 1993 ). As evidenced by the signi ﬁcant full mediation
+effect of between-team coordination, we suggest that the processes related to MTS cognition function similarly to those occurring atthe team-level. MTS component teams may rely on their beliefs about between-team action sequencing in order to anticipate one
+another's actions and thereby coordinate seamlessly across teams.
+Our second key contribution is to clarify the role of leadership in building MTS cognition. In alignment with prior work establishing
+leaders' cognitions as an antecedent of followers' cognitions (e.g., McIntyre & Foti, 2013; van Ginkel & van Knippenberg, 2012 )o u r
+results showed that mental model accuracy within MTS leader teams impact subsequent mental model accuracy in componentteams. Additionally, the path-analytic model showing that leader strategic communication fully mediates the positive relationship
+between leader team mental models and component team mental models highlights leaders' communications about strategic
+plans as a key leadership behavior for shaping component teams' cognition.
+Interestingly, the signi ﬁcant effect of leader strategic communication on later component team mental models after accounting for
+initial component team mental models suggests that leaders are capable of intervening in the ongoing developmental process of MTS
+cognition to aid coordination. The teams in the current study were formed, and functioned prior to their introduction to the leadership
+teams. In fact, component teams completed two missions without a leadership team, and thus had already developed initial mentalmodels. In many real world leadership scenarios, leaders must intervene in the context of groups that have a history of working
+together and therefore an understanding of their needed interactions. These ﬁndings suggest multiteam leaders, by expressing
+strategic multiteam plans, can reshape collective cognition in a way that is functional for inter-team coordination.
+Further, this study links MTS research with research on intergroup leadership (e.g., Hogg et al., 2012; Pittinsky, 2009 )b ya d v a n c i n g
+the multiteam-interaction mental model construct as another mechanism to enhance intergroup collaboration. Findings from inter-group leadership research have highlighted collective identity and affect-based constructs as fundamental to effective leadership
+across multiple groups ( Pittinsky, 2010; Pittinsky & Simon, 2007 ). Building a common frame of reference —for example, by developing
+followers' multiteam-interaction mental models —is another such mechanism that can help remedy communication and interaction
+breakdowns among disparate groups ( Li & Hambrick, 2005; Marks et al., 2000 ).
+However, future research is needed to further investigate the role of MTS leaders in shaping member cognition. For example,
+research is needed to identify the degree to which component team members' cognitions can be shaped by leaders of other component
+teams. Inter-group leadership theory suggests messages are most likely to be accepted by followers when they are expressed by a mem-
+ber of the follower's own subgroup ( Hogg et al., 2012). A leader of one component team may need to expend extra effort to gain in ﬂu-
+ence over members of another component team. Ironically, however, leaders who interact too frequently and closely with members of
+other groups can lose credibility within their own groups if they begin to be perceived as an outgroup leader ( Hogg et al., 2012 ). Thus,
+the two-step top-down approach to developing MTS cognition might be warranted in which: (a) MTS leaders collectively make sense of
+the MTS environment and agree on appropriate coordination timing and action sequencing for component teams; and (b) leader teams
+diffuse their knowledge throughout the system, especially focus ing on developing the cognition within their own component teams.
+This approach may be appropriate for the MTS context because it allows MTS leaders to maintain their ingroup leadership statuswhile developing strategic consensus in the leadership team. Future research should seek to establish the ef ﬁcacy of this approach.
+Lastly, our analyses extend DeChurch and Marks (2006) ﬁndings by establishing collective cognition as an intervening mechanism
+through which functional leadership affects MTS performance. Importantly, the present work answers calls for research that not
+only identi ﬁes
+effective training content, but also elaborates why particular types of training are effective (i.e., the mediators of
+training –performance relationships; Kozlowski & Bell, 2006 ). Research that disentangles these elements of training can facilitate
+theory-building and inform leader training and development. In our sample MTSs, leaders were exposed to two unique training
+manipulations —one teaching them to seek out information related to MTS-level interactions and goals and to integrate this informa-
+tion into their strategic plans (i.e., strategy training), and one designed to affect their direct intervention in coordination during MTSaction phases (i.e., coordination training). Whereas, the manipulation designed to affect leaders' direct intervention in between-team
+coordination during the action phase did not signi ﬁcantly impact leader mental model accuracy, the manipulation designed to affect
+the type of information leaders pay attention to during planning phases did have a signi ﬁcant impact on subsequent leader (and
+follower) mental models. This ﬁnding aligns with theoretical depictions of team leadership: leader information search is thought to
+provide “the grist for meaning making and sensegiving to team members, allowing the development of more comprehensive and
+effective team mental models ”(Zaccaro et al., 2001, p. 461 ). Our results underscore the importance of leader information search
+and strategic planning by identifying the implications of these leadership processes for accurate MTS cognition.983 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986Moreover, our study provides an actionable suggestion for leaders of multiple teams. Our ﬁndings suggest that to develop a com-
+mon frame of reference throughout the system, MTS leaders should strive to develop their own system-wide understanding during
+planning periods by seeking out information related not only to the functioning of their own team but also to the interactive nature
+of the system as a whole. Then, leaders can help build an effective system-wide cognitive architecture by relaying this information to
+followers through strategic plans.
+Limitations and future research directions
+As with most research, the current study has several limitations that open up avenues for future research. The ﬁrst is the relatively
+small size of our sample MTSs. It is possible that in larger MTSs, cognitive structures may function slightly differently. However, the
+sample MTS were carefully constructed to mirror the de ﬁning features of MTSs ( Mathieu et al., 2001 ). The two component teams
+had different, and somewhat competing proximal goals (i.e., allocating effort to helping the other team may threaten the team'ssurvival and ability to destroy its own targets), but teams shared a distal MTS goal. Establishing the effect of cognition in a relatively
+small MTS is necessary to ground future work on larger and more complex MTSs, so that possible fractal as well as non-fractal qualities
+can be recognized.
+Further, we argue that the importance of MTS cognition and the top-down process of leaders shaping it may even increase in larger
+systems. First, in large MTSs, members may ﬁnd it even more dif ﬁcult to understand the knowledge possessed and functions enacted
+by all other members. This may decrease the likelihood that teams understand how they should interact with other teams —and when
+they should rely on other teams to engage in certain behaviors. Second, to establish collective cognition through a bottom-upemergent process requires communication and interaction among many of the members in the collective ( Pearsall et al., 2010 ). As
+collectives increase in size, the number of possible communication relationships that could be formed among them increases expo-nentially (the law of N-squared: Krackhardt, 1994 ). Thus, the role of leadership in the top-down development of MTS cognition likely
+becomes more necessary in more complex systems. Future research could seek to verify this proposition.
+The second study limitation is that the sample was comprised of undergraduate students participating in a short-lived, simulated
+MTS task. Although, the present sample provided the bene ﬁt of allowing comparison across 64 identical systems of interdependent
+teams, additional research is needed to verify these relationships in existing “real-world ”systems. Further, in longer-term MTSs,
+where members may have more opportunities to interact with one another within and across teams, MTS cognition may emergeout of types of social conduits other than leader behavior. Thus, members may not need to rely as much on their leaders to understand
+what other teams value or prioritize. Although this is a concern for the generalizability of the present results, we argue that even when
+component teams have more opportunity to interact in less structured ways, the ef ﬁciency and stability that can be gained when
+leaders drive system cognition are still bene ﬁcial.
+Further, all sample teams and MTSs were assembled at the same time. In many real-world situations, however, new component
+teams join or leave previously established MTSs as task demands shift ( Tannenbaum, Mathieu, Salas, & Cohen, 2012 ). As teams
+enter or leave these dynamically changing systems, both new and existing teams need to adapt their understanding of how compo-
+nent teams should interact. Findings from the current study are appropriately generalized to MTSs where component teams join the
+system at the same entry point, and provide a comparison point for future studies of more dynamic MTSs. Nonetheless, we underscore
+the need for future work that sheds light on the adaptive processes involved in shifting MTS cognition as teams cycle in and out of the
+MTS.
+Aﬁnal study limitation is the use of the same sample of MTSs as DeChurch and Marks (2006) . Although each study contributes
+uniquely to the basic understanding of MTS leadership, and explains distinct mechanisms through which leaders enable MTS success,
+they are based on different data obtained from the same sample of MTSs. And so, these studies should not be construed as providing
+independent evidence (in general) of the utility of leadership in enabling the success of MTSs. We especially note this study attribute
+for any future meta-analyses of leadership. Future research is needed that explores the role of leadership in multiteam and intergroup
+collaboration in a variety of MTSs with different compositional and linkage attributes ( Zaccaro, Marks, & DeChurch, 2012 ).
+Finally, because MTSs often require coordination among multiple leaders ( Davison et al., 2012; DeChurch & Marks, 2006 ), we
+suggest future research that investigates how leaders in ﬂuence one another toward developing accurate MTS cognition. In MTSs,
+developing perceptions of how teams should interact with one another can be political and complex. MTS leaders, who are oftenrepresentatives of each component team ( Zaccaro & DeChurch, 2012 ), may need to engage in negotiation and compromising processes
+as they develop collective cognition. However, as suggested by our ﬁndings, the consequences for MTS functioning of developing
+accurate MTS mental models can be substantial. Thus, understanding the processes through which multiple MTS leaders negotiatetheir collective understanding is an essential direction for the study of MTS cognition.
+Conclusion
+As organizations have restructured work around teams, there is an increasing need for those teams to integrate their efforts to
+achieve superordinate goals; patient-centered health care, inter-agency disaster response, international joint ventures, to name a
+few, require close integration between specialized teams. Leaders are crucial in preventing MTS failures that would arise as teams
+fall into the chasm of misunderstanding. This study contributes an important piece of the puzzle of how leaders facilitate between-
+team coordination and thereby enable multiteam success. Our results highlight a critical mechanism through which leader teams
+can effectively command systems —mu
+ ltiteam-interaction mental models. Our results demonstrate that leaders need to “mind the984 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986gap”between teams by strategically communicating an accurate understanding of how each component teams' actions are related to
+those of the other teams in the system.
+Acknowledgments
+This research was funded in part by the Air Force Of ﬁce for Sponsored Research Contract F49620-98-1-0278. The views expressed
+in this article are those of the authors and do not re ﬂect the of ﬁcial policy or position of the U.S. Air Force, Department of Defense, or
+U.S. government. This research was supported in part by the Army Research Institute for the Social and Behavioral Sciences under con-
+tract W5J9CQ12C0017. The views, opinions, and/or ﬁndings contained in this report are those of the authors, and should not be con-
+strued as an of ﬁcial Department of the Army position, policy, or decision, unless so designated by other documents. This material is
+based upon work supported by the National Science Foundation under Grant No. SES-1219469. Any opinions, ﬁndings, and conclu-
+sions or recommendations expressed in this material are those of the author(s) and do not necessarily re ﬂect the views of the National
+Science Foundation.
+References
+Ancona, D.G., & Caldwell, D. F. (1992). Bridging the boundary: External activity and performance in organizational teams. Administrative Science Quarterly ,37,6 3 4 –665.
+Ancona, D.G., & Chong, C. L. (1996). Entrainment: Pace, cycle, and rhythm in organizational behavior. Research in Organizational Behavior ,18,2 5 1 –284.
+Bentler, P.M. (1990). Comparative ﬁt indexes in structural models. Psychological Bulletin ,107,2 3 8 –246.
+Bentler, P.M. (2007). On tests and indices for evaluating structural models. Personality and Individual Differences ,42,8 2 5 –829.
+Bentler, P.M., & Bonett, D.G. (1980). Signiﬁcance tests and goodness of ﬁt in the analysis of covariance structures. Psychological Bulletin ,88,5 8 8 –606.
+Cannon-Bowers, J. A., Salas, E., & Converse, S. (1993). Shared mental models in expert team decision-making. In J. N. Castellan (Ed.), Individual and group decision-making
+(pp. 221 –246). Hillsdale, NJ: Lawrence Erlbaum.
+Carter, D. R., & DeChurch, L. A. (2014). Leadership in multiteam systems: A network perspective. In D. V. Day (Ed.), Oxford handbook of leadership (pp. 482 –501). Oxford
+University Press.
+Caruso, H. M., Rogers, T., & Bazerman, M. H. (2013). Boundaries need not be barriers. In T. L. Pittinsky (Ed.), Crossing the divide: Intergroup leadership in a world of
+difference (pp. 142 –154). Harvard Business Press.
+C o h e n ,J . ,C o h e n ,P . ,W e s t ,S .G . ,&A i k e n ,L .S .( 2 0 0 3 ) . Applied multiple regression/correlation analysis for the behavioral sciences (3rd ed.). Mahwah, NJ: Lawrence
+Erlbaum.
+Davison, R. B., Hollenbeck, J. R., Barnes, C. M., Sleesman, D. J., & Ilgen, D. R. (2012). Coordinated action in multiteam systems. Journal of Applied Psychology ,97,8 0 8 –824.
+DeChurch, L. A., & Marks, M.A. (2006). Leadership in multiteam systems. Journal of Applied Psychology ,91,3 1 1 –326.
+DeChurch, L. A., & Mesmer-Magnus, J. R. (2010). The cognitive underpinnings of effective teamwork: A meta-analysis. Journal of Applied Psychology ,95,3 2–53.
+DeChurch, L. A., & Zaccaro, S. J. (2010). Perspectives: Teams won ’t solve this problem. Human Factors: The Journal of the Human Factors and Ergonomics Society ,52,
+32
+9–334.
+Edwards, B.D., Day, E. A., Arthur, W., & Bell, S. T. (2006). Relationships among team ability composition, team mental models, and team performance. Journal of Applied
+Psychology ,91,7 2 7 –736.
+Ellis, A. P. (2006). System breakdown: The role of mental models and transactive memory in the relationship between acute stress and team performance. Academy of
+Management Journal ,49,5 7 6 –589.
+Ernst, C., & Chrobot-Mason, D. (2011). Flat world, hard boundaries-how to lead across them. MIT Sloan Management Review ,52,8 1–88.
+Fiedler, F. E. (1967). A theory of leadership effectiveness. New York: McGraw-Hill.
+French, J. R. P., & Raven, B. (1959). The bases of social power. In D. Cartwright (Ed.), Studies in social power (pp. 150 –167). Oxford, Ann Arbor: University of Michigan.
+Hogg, M.A., van Kippenberg, D., & Rast, D. E. (2012). Intergroup leadership in organizations: Leading across group and organizational boundaries. Academy of
+Management Review ,37,2 3 2 –255.
+House, R. J. (1971). A path goal theory of leadership effectiveness. Administrative Science Quarterly ,16,3 2 1 –338.
+Hu, L., & Bentler, P.M. (1998). Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspeci ﬁcation. Psychological Methods ,3,4 2 4 –453.
+Hu, L., & Bentler, P.M. (1999). Cutoff criteria for ﬁt indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling: A
+Multidisciplinary Journal ,6,1–55.
+Iaquinto, A. L., & Fredrickson, J. W. (1997). Top management team agreement about the strategic decision process: A test of some of its determinants and consequences.
+Strategic Management Journal ,18,6 3–75.
+James, L. R., Mulaik, S. A., & Brett, J. M. (2006). A tale of two methods. Organizational Research Methods ,9,2 3 3 –244.
+Kazanjian, R. K., Drazin, R., & Glynn, M.A. (2000). Creativity and technological learning: The roles of organization architecture and crisis in large-scale projects. Journal of
+Engineering and Technology Management ,17,2 7 3 –298.
+Kl
+imoski, R., & Mohammed, S. (1994). Team mental model: Construct of metaphor? Journal of Management ,20,4 0 3 –437.
+K o z l o w s k i ,S .W .J . ,&B e l l ,B .J .( 2 0 0 6 ) . Disentangling achievement orientation and goal setting: Effects on self-regulatory processes. Journal of Applied Psychology ,91,9 0 0 –916.
+Kozlowski, S. W. J., & Doherty, M. L. (1989). Integration of climate and leadership: Examination of a neglected issue. Journal of Applied Psychology ,74,5 4 6 –553.
+Krackhardt, D. (1994). Constraints on the interactive organization as an ideal type. In C. Heckscher, & A. Donnellan (Eds.), The post-bureaucratic organization: New
+perspectives on organizational change (pp. 211 –222). Beverly Hills, CA: Sage.
+Lanaj, K., Hollenbeck, J. R., Ilgen, D. R., Barnes, C. M., & Harmon, S. J. (2013). The double-edged sword of decentralized planning in multi-team systems. Academy of
+Management Journal ,56,1–61.
+Lau, D. C., & Murnighan, J. K. (1998). Demographic diversity and faultlines: The compositional dynamics of organizational groups. Academy of Management Review ,23,
+325–340.
+Levesque, L. L., Wilson, J. M., & Wholey, D. R. (2001). Cognitive divergence and shared mental models in software development project teams. Journal of Organizational
+Behavior ,22,1 3 5 –144.
+Li, J., & Hambrick, D. C. (2005). Factional groups: A new vantage on demographic faultlines, con ﬂict, and disintegration in work teams. Academy of Management Journal ,
+48,7 9 4 –813.
+MacCallum, R. C., & Austin, J. T. (2000). Applications of structural equation modeling in psychological research. Annual Review of Psychology ,51,2 0 1 –226.
+MacKinnon, D. P., Lockwood, C. M., Hoffman, J. M., West, S. G., & Sheets, V. (2002). A comparison of methods to test mediation and other intervening variable effects.
+Psychological Methods ,7,8 3 .
+MacKinnon, D. P., Lockwood, C. M., & Williams, J. (2004). Conﬁdence limits for the indirect effect: Distribution of the product and resampling methods. Multivariate
+Behavioral Research ,39,9 9–128.
+Marks, M.A., Burke, C. S., Parker, C. W., Higgins, J. M., Zaccaro, S. J., & Perez, R. S. (1997, April). Improving team effectiveness through team interaction training. Paper
+presented at the meeting of the Society for Industrial/Organizational Psychology, St. Louis, MO .
+Marks, M.A., DeChurch, L. A., Mathieu, J. E., Panzer, F. J., & Alonso, A. (2005). Teamwork in multiteam systems. Journal of Applied Psychology ,90,9 6 4–971.
+Marks, M.A., Mathieu, J. E., & Zaccaro, S. J. (2001). A temporally based framework and taxonomy of team processes. Academy of Management Review ,26,3 5 6 –376.
+Marks, M.A., Sabella, M. J., Burke, C. S., & Zaccaro, S. J. (2002). The impact of cross-training on team effectiveness. Journal of Applied Psychology ,87,3–13.985 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986Marks, M.A., Zaccaro, S. J., & Mathieu, J. E. (2000). Performance implications of leader brie ﬁngs and team-interaction training for team adaptation to novel environments.
+Journal of Applied Psychology ,85,9 7 1 –986.
+Mathieu, J. E., Cobb, M.A., Marks, M.A., Zaccaro, S. J., & Marsh, S. (2004). Multiteam ACES: A research platform for studying multiteam systems. In S. G. Schi ﬂett (Ed.),
+Burlington, VT: Ashgate Publishing Company.
+Mathieu, J. E., Heffner, T. S., Goodwin, G. F., Cannon ‐Bowers, J. A., & Salas, E. (2005). Scaling the quality of teammates' mental models: Equi ﬁnality and normative
+comparisons. Journal of Organizational Behavior ,26,3 7 –56.
+Mathieu, J. E., Heffner, T. S., Goodwin, G. F., Salas, E., & Cannon-Bowers, J. A. (2000). The in ﬂuence of shared mental models on team process and performance. Journal of
+Applied Psychology ,85,2 7 3 –283.
+Mathieu, J. E., Marks, M.A., & Zaccaro, S. J. (2001). Multiteam systems. In N. Anderson, D. S. Ones, H. K. Sinangil, & C. Viswesvaran (Eds.), Handbook of industrial, work, and
+organizational psychology ,Vol. 2 , London: Sage Publications.
+McIntyre, H. H., & Foti, R. J. (2013). The impact of shared leadership on teamwork mental models and performance in self-directed teams. Group Processes and Intergroup
+Relations ,16,4 6 –57.
+Mohammed, S., Ferzandi, L., & Hamilton, K. (2010). Metaphor no more: A 15-year review of the team mental model construct. Journal of Management ,36,8 7 6 –910.
+Murase, T., Resick, C. J., Jiménez, M., Sanz, E., & DeChurch, L. A. (2011). Leadership and emergent collective cognition. In E. Salas, S. M. Fiore, & M. P. Letsky (Eds.), Theories
+of team cognition: Cross-disciplinary perspectives . New York, NY: Routledge.
+Novak, J.D. (1990). Concept maps and Venn diagrams: Two metacognitive tools to facilitate meaningful learning. Instructional Science ,19,2 9 –52.
+Pearsall, M. J., Ellis, A. P. J., & Bell, B.S. (2010). Building the infrastructure: The effects of role identi ﬁcation behaviors on team cognition development and performance.
+Journal of Applied Psychology ,95,1 9 2 –200.
+Pfeffer, J., & Salancik, G. R. (1977). Organization design: The case for a coalitional model of organizations. Organizational Dynamics ,6,1 5–29.
+Crossing the divide: Intergroup leadership in a world of difference. Pittinsky, T. L. (Ed.). (2009). Harvard Business Press.
+Pittinsky, T. L. (2010). A two-dimensional model of intergroup leadership: The case of national diversity. American Psychologist ,65, 194.
+Pi
+ttinsky, T. L., & Simon, S. (2007). Intergroup leadership. The Leadership Quarterly ,18,5 8 6 –605.
+Randall, K. R., Resick, C. J., & DeChurch, L. A. (2011). Building team adaptive capacity: The roles of sensegiving and team composition. Journal of Applied Psychology ,96,
+525–540.
+Rosseel, Y. (2012). Lavaan: An R package for structural equation modeling. Journal of Statistical Software ,48,1–36.
+Salancik, G. R., & Pfeffer, J. (1978). A social information processing approach to job attitudes and task design. Administrative Science Quarterly ,23,2 2 4 –253.
+Schleicher, Deidra J., & Day, David V. (1998). A cognitive evaluation of frame-of-reference rater training: Content and process issues. Organizational Behavior and Human
+Decision Processes ,73(1), 76 –101.
+Schneider, B., Ehrhart, M. G., Mayer, D.M., Saltz, J. L., & Niles-Jolly, K. (2005). Understanding organization-customer links in service settings. Academy of Management
+Journal ,48,1 0 1 7 –1032.
+Seyranian, V. (2014). Social Identity Framing communication strategies for mobilizing social change. The Leadership Quarterly ,25,4 6 8 –486.
+Smith-Jentsch, K. A., Cannon-Bowers, J. A., Tannenbaum, S. I., & Salas, E. (2008). Guided team self-correction impacts on team mental models, processes, and
+effectiveness. Small Group Research ,39,3 0 3 –327.
+Smith-Jentsch, K. A., Mathieu, J. E., & Kraiger, K. (2005). Investigating linear and interactive effects of shared mental models on safety and ef ﬁciency in a ﬁeld setting.
+Journal of Applied Psychology ,90(523), 535.
+Standifer, R., & Bluedorn, A. (2006). Alliance management teams and entrainment: Sharing temporal mental models. Human Relations ,59,9 0 3 –927.
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup con ﬂict. In W. G. A. S. Worchel (Ed.), The social psychology of intergroup relations (pp. 33 –47).
+Monterey, CA: Brooks/Cole.
+Tanguma, J. (2001). Effects of sample size on the distribution of selected ﬁt indices: A graphical approach. Educational & Psychological Measurement ,61,7 5 9 –776.
+Tannenbaum, S. I., Mathieu, J. E., Salas, E., & Cohen, D. (2012). Teams are changing: Are research and practice evolving fast enough? Industrial and Organizational
+Psychology ,5,2–24.
+Thompson, J.D. (1967). Organizations in action. New York: McGraw-Hill.
+Turner, J. C. (1984). Social identi ﬁcation and psychological group formation. In H. Tajfel (Ed.), The social dimension: European developments in social psychology ,Vol. 2 .
+(pp. 518 –538). Cambridge, England: Cambridge University Press.
+van Ginkel, W. P., & van Knippenberg, D. (2008). Group information elaboration and group decision making: The role of shared task representations. Organizational
+Behavior and Human Decision Processes ,105,8 2–97.
+van Ginkel, W. P., & van Knippenberg, D. (2009). Knowledge about the distribution of information and group decision making: When and why does it work?
+Organizational Behavior and Human Decision Processes ,108,2 1 8 –229.
+van Ginkel, W. P., & van Knippenberg, D. (2012). Group leadership and shared task representations in decision making groups. The Leadership Quarterly ,23,9 4–106.
+van Knippenberg, D., De Dreu, C. K. W., & Homan, A.C. (2004). Work group diversity and group performance: An integrative model and research agenda. Journal of
+Applied Psychology ,89,1 0 0 8 –1022.
+Waller, M. J., Gupta, N., & Giambatista, R. C. (2004). Effects of adaptive behaviors and shared mental models on control crew performance. Management Science ,50,
+1534 –1544.
+Zaccaro, S. J., & DeChurch, L. A. (2012). Leadership forms and functions in multiteam systems. In S. J. Zaccaro, M.A. Marks, & L. A. DeChurch (Eds.), Multiteam systems: An
+organizational form for dynamic and complex environments . New York: Routledge.
+Zaccaro, S. J., Marks, M.A., & DeChurch, L. A. (2012). Multiteam systems: An introduction. In S. J. Zaccaro, M.A. Marks, & L. A. DeChurch (Eds.), Multiteam systems: An or-
+ganizational form for dynamic and complex environments . New York: Routledge.
+Zaccaro, S. J., Rittman, A. L., & Marks, M.A. (2001). Team leadership. The Leadership Quarterly ,12,4 5 1 –483.986 T. Murase et al. / The Leadership Quarterly 25 (2014) 972 –986

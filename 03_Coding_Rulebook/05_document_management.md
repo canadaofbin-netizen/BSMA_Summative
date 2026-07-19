@@ -13,3 +13,7 @@
 > 3. If a completely new rule module is added (e.g., `06_new_rule.md`), you must also backup the `read.md` index file, because the index will need to be updated to link to the new module.
 
 </details>
+
+## Section F: Academic Papers Directory Guardrail
+
+**01_Academic_Papers Directory Protection:** The `01_Academic_Papers` directory is strictly reserved for PDF files that follow the exact naming convention `[ID] Author (Year) - Title.pdf` (e.g., `[2] Aaronson et al. (2020) - The Long-Run Effects of the 1930s.pdf`). All agents are STRICTLY FORBIDDEN from creating, moving, or writing scratch files, text logs, Python scripts, JSON outputs, or any other non-conforming files into this directory. Any temporary files or analysis outputs must be saved to the `scratch/` directory or appropriate log folders. If a non-compliant file is discovered in `01_Academic_Papers`, it should be flagged as unnecessary and removed.
