@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0211",
-  "Final_Judgment": 0,
-  "Reason_Code": 1,
-  "Rationale": "The Validation1 AI incorrectly included the paper by treating the partial, rectangular cross-correlation tables (Tables III and IV, which only correlate specific roles with social benefits) as sufficient. However, per Rule 20 and Rule 25, the paper must be excluded because it lacks a formal square zero-order correlation matrix for the primary variables of interest (such as Job Satisfaction). The study relies on Structural Equation Modeling (path coefficients in Figures 1 and 2) to link overall role frequency and social benefits to job satisfaction, which violates the strict prohibition against extracting path coefficients. Therefore, the Human Ground Truth (0 = Exclude) is correct."
-}

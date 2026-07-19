@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0612",
-  "Final_Judgment": 1,
-  "Reason_Code": null,
-  "Rationale": "The study measures intra-organizational boundary spanning behavior (IT employees collaborating with other departments). According to Rule 17 (Intra-Organizational BSB Inclusion), BSB across internal organizational boundaries (e.g., cross-departmental knowledge sharing between IT and business units) is explicitly valid and MUST BE INCLUDED. The AI Validation1 likely incorrectly excluded it by treating internal cross-departmental interaction as invalid, but Rule 17 overrides this. The paper provides a formal correlation matrix with effect sizes (Table 7) for individual-level IT employees (N=161). The construct is purposive (e.g., discussing system functions) rather than mere communication. Therefore, the Human GT (Include) is correct."
-}

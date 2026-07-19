@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0387",
-  "Final_Judgment": 0,
-  "Reason_Code": 1,
-  "Rationale": "Although Human GT coded this as Include (1), strict application of Rule 13 dictates that BSB 'must be an interpersonal behavior performed by an individual employee.' The study measures the use of Generative AI tools (e.g., ChatGPT) to solicit information and resources (human-computer interaction). Because this does not involve human-to-human interpersonal boundary spanning, it lacks true BSB construct validity. Therefore, AI Validation1 correctly excluded it under Code 1 (No effect size of interest)."
-}

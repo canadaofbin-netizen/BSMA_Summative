@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0573",
-  "Final_Judgment": 1,
-  "Reason_Code": "None",
-  "Rationale": "The Human GT (1 = Include) is correct. The study analyzes individual-level data from 245 R&D scientists (Rules 13 & 14). It measures boundary-spanning ties across different research labs within the same organization, qualifying as Intra-Organizational BSB (Rule 17). The network data is based on the purposive action of seeking colleagues 'for information or knowledge on work-related topics', satisfying Construct Validity (Rule 18). A zero-order correlation matrix (Table 1) is provided containing the bridging metrics and individual patent generation (Rule 20). The Validation1 AI erroneously excluded this valid paper."
-}

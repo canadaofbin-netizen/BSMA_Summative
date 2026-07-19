@@ -17,3 +17,10 @@
 ## Section F: Academic Papers Directory Guardrail
 
 **01_Academic_Papers Directory Protection:** The `01_Academic_Papers` directory is strictly reserved for PDF files that follow the exact naming convention `[ID] Author (Year) - Title.pdf` (e.g., `[2] Aaronson et al. (2020) - The Long-Run Effects of the 1930s.pdf`). All agents are STRICTLY FORBIDDEN from creating, moving, or writing scratch files, text logs, Python scripts, JSON outputs, or any other non-conforming files into this directory. Any temporary files or analysis outputs must be saved to the `scratch/` directory or appropriate log folders. If a non-compliant file is discovered in `01_Academic_Papers`, it should be flagged as unnecessary and removed.
+
+## Section G: Temp File Containment
+
+**Scratch Directory Containment Rule (Zero Root Pollution):** ALL agents, subagents, and pipeline scripts are **STRICTLY FORBIDDEN** from creating temporary files (`.txt`, `.json`, `.py`, `.csv`, or any other scratch/debug artifacts) in the project root directory or inside any numbered project directory (`01_Academic_Papers/`, `02_*/`, `03_*/`, `04_*/`). ALL temporary outputs — including but not limited to PDF text extractions, batch payloads, chunk JSONs, OCR outputs, debug scripts, and experiment logs — MUST be written exclusively to the `scratch/` directory.
+- **Automatic Cleanup:** After each pipeline batch completes (e.g., after `swarm_inject.py` finishes injecting data), the Orchestrator MUST delete all consumed temporary files from `scratch/` before proceeding to the next batch.
+- **Git Exclusion:** The `scratch/` directory is listed in `.gitignore` and MUST NOT be committed to the Git repository.
+- **Permitted Root Files:** Only the following file types are permitted in the project root: `.xlsx` (data sheets), `.md` (documentation), `.csv` (batch queue), `.gitignore`, and `desktop.ini`. Everything else MUST go into `scratch/` or the appropriate project subdirectory.

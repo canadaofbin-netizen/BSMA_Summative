@@ -14,6 +14,12 @@ __pycache__/
 *.bak
 ~$*.xlsx
 
+# Pipeline scratch directory (Rule 35: all temp files go here)
+scratch/
+
+# Past agent brain artifacts
+brain/
+
 # Local Agent Configurations (Optional)
 # If you don't want to sync the .agents directory, uncomment the line below.
 # .agents/

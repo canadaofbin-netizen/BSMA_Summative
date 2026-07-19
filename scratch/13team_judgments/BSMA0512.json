@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0512",
-  "Final_Judgment": 0,
-  "Reason_Code": "3",
-  "Rationale": "The Human Ground Truth is correct. The study violates individual-level statistical independence (Code 3). As stated in the methodology, '98 managers received invitations for two projects', meaning the N=158 observations contain repeated measurements from the same individuals across different projects. Furthermore, the public managers act as key informants rating project-level collaboration and performance between their agency and contractors across 58 projects. This constitutes a project-level/relationship-level analysis."
-}

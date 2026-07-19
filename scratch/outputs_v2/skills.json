@@ -1,8 +1,0 @@
-{
-  "entries": [
-    { "path": "skills/data_extractor/batch_processor" },
-    { "path": "skills/data_extractor/extract_measures" },
-    { "path": "skills/data_extractor/validator" },
-    { "path": "skills/data_extractor/hitl_retry" }
-  ]
-}

@@ -1,6 +1,0 @@
-{
-  "ID": "BSMA0700",
-  "Final_Judgment": 1,
-  "Reason_Code": "NA",
-  "Rationale": "While the main variables of the study measure Burt's structural constraint (explicitly INVALID under Rule 18), the study also includes a control variable 'No. of Contact Outside Organization' (Variable 8). The network generator asked participants to list contacts providing economic resources, task information, career advice, etc., making this a purposive network. This variable is a direct measure of out-degree centrality mapping contacts beyond the organizational workflow, which is explicitly declared VALID in the Rule 18 note ('Network degree centrality mapping contacts beyond the workflow IS valid per Rule 17'). Table 4 reports zero-order correlations between this degree centrality measure and job performance outcomes at the individual level (N=318 managers). Therefore, AI Validation1 is correct to Include. The Human GT likely excluded the paper by focusing only on the invalid structural constraint main variables and overlooking the valid degree centrality control variable."
-}
