@@ -70,26 +70,11 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 - Otherwise, merge the 4 valid JSON responses into a single cohesive payload and return it to the Orchestrator for Validation.
 
 ## 3. Strict Domain Guardrails
-
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 1: Zero-Order Correlation Preference & Latent Handling:** When extracting correlations, you are strictly forbidden from extracting standardized betas ($\beta$), path coefficients, partial correlations, or correlations with regression residuals from regression tables. You must prioritize extracting raw observed correlations from "Means, Standard Deviations, and Correlations" square matrices. **Latent Exception:** If the article ONLY provides correlations based on latent variables (e.g., CFA/SEM), you MUST STILL EXTRACT the reported value, BUT you must clearly write "Based on latent variables" in the Notes section for that effect size. Do NOT reject the paper just because correlations are latent.
-
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 2: Matrix-Specific N Guardrail:** When extracting the Sample Size ($N$), DO NOT blindly trust the $N$ stated in the Abstract or Methodology text. You MUST prioritize the "Listwise N" (effective sample size) explicitly printed at the bottom of the Correlation Matrix (e.g., in table notes). If they differ, the table's $N$ takes absolute precedence.
-
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 3: Pure Number Enforcement:** When extracting correlation values ($r$) or descriptive statistics, you MUST strictly strip all significance asterisks (e.g., `*`, `**`) and alphabetical letters from numerical values (e.g., convert `0.45**` to `0.45`). Return pure floating-point numbers only.
-
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 4: Multi-Node Extraction Pipeline:** You must utilize a 4-Node Pipeline (Pre-flight Triage, Footnote Scanner, CoT Table Parser, Text Analyzer Fingerprinting) to aggressively cross-verify extracted measurements.
-
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 5: Physical Excel Isolation (4-Sheet Rule):** Data must be inserted into one of 4 isolated sheets (Raw_Metrics, Transformed_Metrics, Imputed_Metrics, Salami_Review_Queue) depending on its `is_transformed`, `is_imputed`, and dataset fingerprint flags to maintain 100% purity of the zero-order `Raw_Metrics`.
-
-- **SEM-only Data Warning (Extraction Rule 1 supplement):** If a paper relies entirely on SEM path coefficients and does NOT provide a zero-order correlation matrix (even latent), it must be excluded for lacking extractable effect sizes. Do NOT confuse partial rectangular cross-correlation tables with full square correlation matrices.
+- **Zero-Order Correlation Lock:** When extracting correlations, you are strictly forbidden from extracting standardized betas ($\beta$), path coefficients, partial correlations, or ANY latent correlations (including squared latent correlations) from regression or SEM tables. If the table is exclusively labeled as "latent construct intercorrelations" AND lacks Means/SDs, you MUST reject it and return `[LATENT_CORRELATION_VIOLATION]`. **GUARDRAIL:** Do NOT reject a paper simply because it uses SEM or the word "Construct". If there is a standard "Means, Standard Deviations, and Correlations" table, this is the raw zero-order matrix we need. You MUST ONLY extract from this table (where the diagonal is 1.00, alpha, or square root of AVE).
+- **Matrix-Specific N Guardrail:** When extracting the Sample Size ($N$), DO NOT blindly trust the $N$ stated in the Abstract or Methodology text. You MUST prioritize the "Listwise N" (effective sample size) explicitly printed at the bottom of the Correlation Matrix (e.g., in table notes). If they differ, the table's $N$ takes absolute precedence.
+- **Pure Number Enforcement:** When extracting correlation values ($r$) or descriptive statistics, you MUST strictly strip all significance asterisks (e.g., `*`, `**`) and alphabetical letters from numerical values (e.g., convert `0.45**` to `0.45`). Return pure floating-point numbers only.
 
 ## 4. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Zero Guesswork Policy):** This is why we strictly enforce `999` and `"Not Reported"` in the JSON schemas above. Do not deviate.
-- **Rule 9 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
-- **Rule 13 (Verbatim Quote Injection):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation. *(Formerly Global Rule 30)*
+- **Rule 30 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
