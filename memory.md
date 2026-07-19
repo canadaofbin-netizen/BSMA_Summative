@@ -126,3 +126,91 @@ The 13-Agent Swarm OS was deployed to adjudicate 13 remaining discrepancies betw
 - BSMA0501: Swarm Final Judgment -> 1. Per AGENTS.md Rule 16 (Leader BSB & Cross-Entity Inclusion OVERRIDE PRIORITY), Boundary Spanning Leadership (BSL) measured via subordinate ratings is now officially INCLUDED. This explicitly overrides previous 'Cross-Entity Trap' or Code 1 logic that the human GT originally used to exclude the paper. The paper provides valid zero-order correlations for BSL, meaning the AI Validation1 correctly included the study.
 - BSMA0512: Swarm Final Judgment -> 0. The Human Ground Truth is correct. The study violates individual-level statistical independence (Code 3). As stated in the methodology, '98 managers received invitations for two projects', meaning the N=158 observations contain repeated measurements from the same individuals across different projects. Furthermore, the public managers act as key informants rating project-level collaboration and performance between their agency and contractors across 58 projects. This constitutes a project-level/relationship-level analysis.
 - BSMA0612: Swarm Final Judgment -> 1. The study measures intra-organizational boundary spanning behavior (IT employees collaborating with other departments). According to Rule 17 (Intra-Organizational BSB Inclusion), BSB across internal organizational boundaries (e.g., cross-departmental knowledge sharing between IT and business units) is explicitly valid and MUST BE INCLUDED. The AI Validation1 likely incorrectly excluded it by treating internal cross-departmental interaction as invalid, but Rule 17 overrides this. The paper provides a formal correlation matrix with effect sizes (Table 7) for individual-level IT employees (N=161). The construct is purposive (e.g., discussing system functions) rather than mere communication. Therefore, the Human GT (Include) is correct.
+
+---
+
+## 13team Adjudication Records (77 Papers)
+
+Migrated from `02_0_Judgments/Validation_13team_Corrected.xlsx` on 2026-07-19.
+Original file archived to `99_Archives_and_Backups/Validation_13team_Corrected.xlsx`.
+
+| BSMA_ID | Source | V1 | V2 | Final Verdict | Code | Action | Justification |
+|---------|--------|----|----|---------------|------|--------|---------------|
+| BSMA0052 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Leader BSB (Rule 16). N=92 leaders. External scouting/persuading items. |
+| BSMA0057 | FP_Audit | Include | Exclude | Exclude | Code 3 | CONFIRM Exclude (V2 correct) | Buyer-supplier relationship unit of analysis. 279 relationships from 126 informants. Violates statistical independence. |
+| BSMA0070 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Mere communication frequency (Rule 18 violation). |
+| BSMA0095 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Valid individual-level intra-organizational BSB with zero-order correlation matrix. |
+| BSMA0115 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Mere communication frequency/time allocation (Rule 18 violation). |
+| BSMA0116 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Valid BSB with zero-order correlation matrix and effect sizes. |
+| BSMA0117 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Service behaviour/customer orientation, not structural BSB. |
+| BSMA0121 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual-level BSB among nurses with correlation matrix. |
+| BSMA0123 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Interteam coordination behavior of individual team members. |
+| BSMA0124 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB (Ambassador, Task Coordinator, Scout, Guard). N=409. |
+| BSMA0126 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | No valid BSB measure despite boundary-spanning context. |
+| BSMA0135 | FP_Audit | Include | Exclude | Exclude | Code 5 | CONFIRM Exclude (V2 correct) | [Code 1, 2, 3] Non-employee entrepreneur, firm-level, time/contacts only. |
+| BSMA0186 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual-level intra-org BSB. N=397 middle managers. |
+| BSMA0194 | FP_Audit | Include | Exclude | Exclude | Code 3 | CONFIRM Exclude (V2 correct) | Dyadic buyer-seller unit of analysis with PLS-SEM. |
+| BSMA0203 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Valid BSB construct with correlation matrix. |
+| BSMA0234 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Valid individual BSB with correlation matrix. |
+| BSMA0246 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual employees (N=209 IS personnel). |
+| BSMA0249 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual-level BSB (competitive info collection) among salespeople. |
+| BSMA0251 | FP_Audit | Include | Exclude | Exclude | Code 3 | CONFIRM Exclude (V2 correct) | Macro-level key informant proxy (org-referent items). |
+| BSMA0260 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=18 rural school psychologists. |
+| BSMA0262 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB among frontline tourism employees. |
+| BSMA0267 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual IS development personnel (N=229). |
+| BSMA0268 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Boundary role activity scale (gathering, filtering, transmitting). |
+| BSMA0277 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | COBSB construct (Bettencourt et al., 2005). |
+| BSMA0298 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | CEO individual BSB (N=firms=N=CEOs). |
+| BSMA0304 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Leader BSB (Rule 16). Marrone et al. scale. |
+| BSMA0306 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Leader BSB (Rule 16). R&D project leaders. N=87. |
+| BSMA0317 | FN_Audit | Exclude | Include | Exclude | Code 3 | REVERT to Exclude | Team-level analysis (N=39 teams). |
+| BSMA0336 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual-level frontline employee BSBs with correlation matrix. |
+| BSMA0339 | FP_Audit | Include | Exclude | Exclude | Code 5 | CONFIRM Exclude (V2 correct) | Sociometric sensors (Rule 18 violation) + nested data. |
+| BSMA0349 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB in NPD teams. N=271 rated by leaders. |
+| BSMA0358 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Individual BSB (Marrone 2007). N=292. Self-rated. |
+| BSMA0384 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Mere communication frequency (Rule 18 violation). |
+| BSMA0385 | FN_Audit | Exclude | Include | Exclude | Code 5 | REVERT to Exclude | Study 1: Team-level (N=23). Study 2: Qualitative. [Code 3 & 1] |
+| BSMA0387 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Failed construct validity for BSB. |
+| BSMA0414 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual employee BSB. N=327. |
+| BSMA0419 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB among purchasing agents with correlations. |
+| BSMA0446 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Leader BSB (Rule 16). Nurse managers rated by staff. |
+| BSMA0447 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Effort allocation/sales tactics, not BSB. |
+| BSMA0454 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB (Rule 17). N=275. |
+| BSMA0457 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Buyer agent BSB (strategic communication). |
+| BSMA0465 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | N=348 marketing managers. |
+| BSMA0473 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Mere inter-org contact frequency (Rule 18 violation). |
+| BSMA0475 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Valid individual BSB with correlations. |
+| BSMA0476 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB among inpatriates (N=269). |
+| BSMA0477 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Purposive BSB (representation + info search). |
+| BSMA0495 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB (external communication). Rule 17. |
+| BSMA0501 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Leader BSL (Palus 2014). N=297 nurses rating managers. |
+| BSMA0506 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=69 product managers. |
+| BSMA0508 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Frontline employee COBSB rated by supervisors. N=245. |
+| BSMA0509 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Leader BSB Trap: diversity management, not structural BSB. |
+| BSMA0511 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual-level BSB among public managers. |
+| BSMA0512 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=158 public managers. |
+| BSMA0516 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Knowledge acquisition ties (out-degree centrality). |
+| BSMA0519 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=187. |
+| BSMA0524 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | Communication frequency only (Rule 18 violation). |
+| BSMA0537 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | BSB beliefs (time in BSB activities). |
+| BSMA0571 | FP_Audit | Include | Exclude | Exclude | Code 1 | CONFIRM Exclude (V2 correct) | SOCO scale = sales tactics, not BSB (Rule 19). |
+| BSMA0573 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB (Rule 17). N=245 R&D scientists. |
+| BSMA0580 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Leader BSB rated by subordinates (Rule 16). |
+| BSMA0605 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Frontline BSB (Bettencourt 2005). N=557. |
+| BSMA0611 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB with correlation matrix. |
+| BSMA0612 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB among IT professionals (Rule 17). |
+| BSMA0624 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Frontline employee BSB (idea gathering). N=237. |
+| BSMA0627 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | BSB (scout/ambassador, Ancona & Caldwell). N=77 managers. |
+| BSMA0635 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB (Ancona & Caldwell 15-item). Subordinate self-report. |
+| BSMA0654 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | COBSB among Korean bank/insurance employees. N=346. |
+| BSMA0663 | FN_Audit | Exclude | Include | Include | - | CONFIRM Include (V2 correct) | Leader BSB self-rated (Marrone 2007). N=228 UAE managers. |
+| BSMA0673 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Intra-org BSB via ESM (Rule 17). |
+| BSMA0677 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB (information collection). |
+| BSMA0680 | FP_Audit | Include | Exclude | Exclude | Code 3 | CONFIRM Exclude (V2 correct) | Team-level inter-team cooperation. Team referent items. |
+| BSMA0682 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB among employees. |
+| BSMA0683 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB with two-wave survey data. |
+| BSMA0684 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=406. 1:1 employee-supervisor pair. |
+| BSMA0685 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Expatriate BSB (functional, linguistic, cultural). 1:1 pairs. |
+| BSMA0688 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB (representation). Multi-firm sample. |
+| BSMA0691 | FP_Audit | Include | Exclude | Include | - | RESTORE to Include | Individual BSB. N=519. 38 companies. |
+
