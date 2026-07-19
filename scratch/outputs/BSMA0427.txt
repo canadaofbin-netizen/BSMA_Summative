@@ -1,0 +1,1067 @@
+European Planning Studies
+ISSN: 0965-4313 (Print) 1469-5944 (Online) Journal homepage: www.tandfonline.com/journals/ceps20
+Metabolic thinking in planning and designing
+urban landscapes: practitioners’ perspectives on
+agency
+Sareh Moosavi, Daniela Perrotti & André Stephan
+To cite this article: Sareh Moosavi, Daniela Perrotti & André Stephan (2025) Metabolic thinking
+in planning and designing urban landscapes: practitioners’ perspectives on agency, European
+Planning Studies, 33:9, 1443-1466, DOI: 10.1080/09654313.2025.2501565
+To link to this article:  https://doi.org/10.1080/09654313.2025.2501565
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 12 May 2025.
+Submit your article to this journal 
+Article views: 1678
+View related articles 
+View Crossmark data
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ceps20
+Metabolic thinking in planning and designing urban 
+landscapes: practitioners’ perspectives on agency
+Sareh Moosavi 
+a,b,c, Daniela Perrotti 
+cand André Stephan 
+b
+aBelgian National Fund for Scientific Research (F.R.S. – FNRS), Brussels, Belgium; bFaculty of Architecture, 
+Building and Planning, The University of Melbourne, Parkville, Australia; cLouvain Research Institute for 
+Landscape, Architecture, Built Environment (LAB), Université Catholique de Louvain, Brussels, Belgium
+ABSTRACT  
+Urban metabolism approaches are increasingly becoming relevant in 
+providing pathways to sustainable development. The ways through 
+which urban green infrastructures are planned and designed can 
+influence resource flows in cities. Yet, little is known about the 
+agency and contributions of landscape architects and spatial 
+planners as curators of urban greenery, in facilitating circular 
+resource flows, and accelerating the transition to a circular economy. 
+This paper offers an empirical inquiry into the understanding and use 
+of metabolic approaches in spatial planning and design practices. 
+Through a multi-method approach and the use of boundary 
+spanning as an analytical lens, we identify different modes of agency 
+of spatial practitioners in enhancing resource efficiency across the life 
+stages of urban landscape projects. Results show that while the 
+‘urban metabolism’ concept is not widely used by practitioners, its 
+relevance to planning and designing green infrastructure for 
+sustainable resource flows is well understood. Additionally, we 
+highlight existing barriers including policy constraints in engaging 
+with metabolic approaches and offer recommendations to facilitate a 
+resource-sensitive turn in planning and designing urban landscapes. 
+This study highlights important contributions of design practice to an 
+expanding discourse of urban metabolism, including policy reforms 
+for enabling circular resource flows in cities.ARTICLE HISTORY
+Received 18 October 2024 
+Revised 25 March 2025 
+Accepted 23 April 2025  
+KEYWORDS  
+Urban metabolism; urban 
+landscapes; resource flows; 
+boundary spanning
+1. Introduction
+With the current rates of land, resource and biodiversity depletion, how we design and 
+build our cities needs to change if we want to avoid breaching the earth’s planetary 
+boundaries. Cities are responsible for 56–78% of all anthropogenic energy use 
+(Grubler et al. 2012 ) and associated greenhouse gas emissions (UN-HABITAT 2022 ). 
+Cities are also driving material extraction with more than 50% of all material stocks 
+used in the built environment (Krausmann et al. 2017 ). Understanding urban resource 
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/ 
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly 
+cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the 
+author(s) or with their consent. CONTACT  Sareh Moosavi 
+ Sareh.moosavi@unimelb.edu.au
+ Faculty of Architecture, Building and Planning, Mel-
+bourne School of Design, The University of Melbourne, Parkville, VIC 3010, Australia
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/09654313.2025.2501565 .EUROPEAN PLANNING STUDIES 
+2025, VOL. 33, NO. 9, 1443–1466 
+https://doi.org/10.1080/09654313.2025.2501565
+
+and energy flows is key to realizing what it will take to promote a transition from 
+resource-intensive built environments towards alternatives that manage resources 
+more carefully (United Nations Environment Programme 2018 ). The progressive 
+acknowledgement of urban environmental problems and their impacts on climate 
+change has turned the spotlight on the study of the ‘Urban Metabolism’ as an operational 
+base for sustainable urban development (Pistoni and Bonin 2017 ).
+Urban Metabolism (UM) is an interdisciplinary concept that ‘analogizes urban systems to 
+living organisms and adopts the metabolic thinking of living organisms to urban operations 
+because they consume resources from the environment and excrete waste’ (Cui 2018 , 704). The 
+study of UM is used to understand how cities extract, manage and utilize resources and emit 
+pollution and waste (Lanau, Mao, and Liu 2021 ), by characterizing the social-technical- 
+ecological processes around material flows (Kennedy, Cuddihy, and Engel-Yan 2007 ). This 
+is a widely used definition built upon the Industrial Ecology conceptualization of the term. 
+In this paper we use the term ‘metabolic thinking’, not as a metaphor, but rather a modus oper-
+andi for simply thinking in resource flows and their metabolic independencies (socio- 
+ecological processes of circulation and transformation (Ibanez 2021 )), as a way forward in 
+applying resource sensitive design and spatial planning strategies across urban scales (Perrotti 
+and Iuorio 2019 ; Perrotti, Moosavi, and Otero Peña 2023 ). We argue that the integration 
+of metabolic thinking in urban landscape design and planning has not been fully mobilized 
+in practices, and the agency of spatial practitioners in this integration is understudied.
+The aim of this paper is to unpack and map the perceived modes of agency and con-
+tributions of urban landscape designers and planners in employing metabolic thinking, 
+and to understand the barriers and facilitators of resource-sensitive design – to sustain -
+ably design with resources using landscape-led spatial configurations as levers.
+To address the aim of this research, we used an empirical inquiry into the perspectives 
+of spatial practitioners focusing on the following key question: 
+How do practitioners employ metabolic thinking in design and planning processes for urban 
+landscapes?
+The key question is addressed through an empirical inquiry into the agency of design 
+practitioners in making resource-related decisions throughout the life stages of the pro-
+duction of built environments. The novelty of the approach lies in using mixed methods 
+and triangulation of findings, across a survey, focus group workshop and in-depth inter -
+views (outlined in Figure 1). This approach allowed us to gain an overview of how spatial 
+practitioners conceptualize and understand the urban metabolism concept, but also an 
+in-depth investigation of the ways through which they engage with its underpinning 
+principles in design, and the challenges they face. We first provide a review of the existing 
+literature on the integration of green infrastructure (GI) in UM studies, and the ways 
+through which the agency of spatial practitioners are understood in these studies.
+2. Background
+2.1. Operationalizing the concept of urban metabolism in planning and design
+The multiplicity of disciplinary perspectives on the UM concept has created a conceptual 
+plurality around the term, making it difficult to imply a universal approach to UM 
+(Bahers et al. 2022 ).1444 
+ S. MOOSAVI ET AL.
+Beyond the concept, UM research provides a variety of approaches, analytical tools 
+and methods to assess the resource intensity of urban systems (Perrotti 2020 ). One of 
+the most commonly employed UM models is material flow analysis (MFA), which 
+allows the classification and quantification of material flows within the boundary of a 
+defined system (Brunner and Rechberger 2016 ). Other common UM models include 
+life cycle assessment (LCA), ecological network analysis, emergy analysis and ecological 
+footprint (EF) among others (Zhang, Yang, and Yu 2015 ).
+While the importance of understanding UM is increasingly recognized for reflecting 
+urban complexities, its projective dimensions and practical applications in planning and 
+designing urban environments (Ibanez 2021 ), particularly urban GI remain few (Perrotti 
+2020 ). Given the multiplicity of disciplinary perspectives on UM, Broto, Allen, and Rapo -
+port (2012 ) highlight the need for interdisciplinary dialogues to develop both theoretical 
+and practical approaches to UM, and derive ideas that can be made operative in planning 
+and design processes. Despite a number of studies that aim to operationalize UM 
+approaches in urban planning and design (Kennedy, Pincetl, and Bunje 2011 ), the 
+uptake of metabolic accounting methods and models by urban landscape designers 
+has been slow (Pasini 2022 ).
+This could be due to multiple reservations specific to the limitations of UM accounting 
+models including: (1) the failure of common accounting models such as material flow 
+analysis, ecological footprint and life cycle assessment in capturing the spatial qualities 
+of landscapes and territories (Bahers et al. 2022 ; Galan and Perrotti 2019 ; Otero Peña, 
+Perrotti, and Mohareb 2022 ); (2) their limitation in accounting for various positive 
+benefits such as impact offsetting that ecosystems can bring to urban flows (Birkeland 
+2012 ; Cárdenas-Mamani and Perrotti 2022 ) and (3) the complexities around capturing 
+temporal and dynamic qualities of GI and assessing their long-term performance 
+(Larrey-Lassalle et al. 2022 ). Furthermore, as detailed in (Perrotti 2019 ), limited specialist 
+knowledge, silo-thinking and the lack of a common language among relevant disciplines 
+can limit the effectiveness of science–practice knowledge transfer in applying UM assess -
+ment in urban design and planning.
+These challenges and the multiplicity of perspectives highlight the concept of UM as a 
+boundary concept, intersecting different knowledge areas and crossing disciplinary 
+Figure 1. Research design.EUROPEAN PLANNING STUDIES 
+ 1445
+boundaries. ‘Boundary work’ theory has been useful in addressing the complexity 
+inherent in natural resource management through inter- and transdisciplinary com -
+munication, translation and mediation (Mollinga 2010 ; Nassauer 2023 ). It offers strat -
+egies to support the decision-making of actors by reconfiguring the boundaries 
+between different forms of knowledge, academic and non-academic expertise, and inter -
+ests and values (Opdam et al. 2015 ). In crossing disciplinary boundaries and science- 
+policy-action integration, the critical role of ‘boundary spanners’ has been highlighted 
+by a number of scholars (Schröter et al. 2023 ; van den Brink et al. 2019 ). We adopt 
+boundary spanning as a lens to investigate the agency and contributions that spatial prac -
+titioners can bring to operationalizing the UM concept in urban landscape planning and 
+design.
+2.2. The relevance of metabolic thinking in planning and designing urban 
+landscapes
+The underlying territorial landscape and the urban fabric highly influence urban meta -
+bolic flows (Thomson and Newman 2018 ), highlighting the need for spatially explicit 
+approaches to UM (Bahers et al. 2022 ; Kennedy, Pincetl, and Bunje 2011 ; Perrotti and 
+Stremke 2020 ). Studies have shed light on the provided ecosystem services by GI and 
+the impacts on the outcomes of material and energy flow accounting in urban areas (Cár -
+denas-Mamani and Perrotti 2022 ). Complementarily, two decades ago, Mathew Gandy 
+shed light on the importance of analysing the metabolism of urban spaces and landscapes 
+to illustrate the transformation and redefinition of natural ecosystems into the urban 
+fabric and built environments (Gandy 2003 ). Following this line of thought, other scho -
+lars have emphasized how UM assessments can improve the projective potentials and 
+environmental and spatial qualities of new designed metabolic landscapes such as was-
+tescapes, energyscapes and waterscapes (Amenta and Van Timmeren 2018 ; De 
+Meulder, Marin, and Shannon 2022 ; Oudes and Stremke 2018 ).
+The employment of environmental impact assessment tools and accounting models 
+such as MFA and LCA beyond buildings to assess the direct and indirect environmental 
+on-site and off-site impacts of GI projects is an emerging area of scholarship (Babí 
+Almenar et al. 2023 ; Romanovska, Osmond, and Oldfield 2023 ; Stephan et al. 2022 ). 
+These and other studies highlighting the need for urban landscape designers to more sys-
+tematically engage with environmental performance of sites across their life cycles 
+(Moosavi, Stephan, and O’Dea 2022 ).
+2.3. The agency of spatial practitioners in urban metabolism
+Recent research points to the need for deeper understanding of human and non-human 
+agency as an essential step to fully capture the dynamics of resource circulations under -
+pinning GI and the built environment at large (Perrotti 2022 ). Within the scope of this 
+research, we distinguish ‘agency’ from ‘role’ in that, through agency, transformative 
+change may occur in a socio-ecological system, beyond normative actions, toward 
+actions that transform practices. This framing resonates with O’Brien’s definition 
+stating that ‘activating conscious human agency that is critically reflective of individual 
+and shared assumptions, beliefs and paradigms is a powerful way to shift norms and insti -
+tutions in ways that support [transformation]’ (O’Brien 2018 , 159).1446 
+ S. MOOSAVI ET AL.
+In relation to UM studies, the concepts of ‘agency’ (of both humans and nature) and 
+‘UM’ have been mobilized in urban political ecology since its inception (Zimmer 2010 ) as 
+a way of framing the relations societies establish with nature and the circulations of 
+resources as political and socio-ecological processes (Gandy 2018 ). In parallel, more- 
+than-human approaches and the application of Actor-Network-Theory (Latour 2007 ) 
+and of agentic readings of urban assemblages in urban studies (Brenner, Madden, and 
+Wachsmuth 2011 ; Färber 2019 ) have raised fundamental questions of agency for UM 
+research: who/what has the capacity to affect resource access and distribution in an 
+urban assemblage, under what conditions (where/when), and through which modus oper -
+andi (how/to what extent) (Bertoldi and Perrotti 2025 ).
+Despite an emerging body of literature on the potential of landscape theory and prac -
+tice to prompt new ways of knowing and investigating UM (Marin and De Meulder 2018 ; 
+Perrotti 2019 , 2022 ; Pistoni and Bonin 2017 ), the agency of spatial practitioners as key 
+decision makers in shaping metabolic processes is understudied, and this study builds 
+on an emerging body of works that aim to address this gap through taking an empirical 
+multi-method investigation, detailed below.
+3. Method
+To address the aim of this research, a multi-method approach was used. First, we used 
+an international survey to gather how urban landscape designers/planners understand 
+the UM concept, and perceive the relevance of metabolic thinking in design practice, 
+globally. It also aimed at identifying the key barriers and limitations to engage with 
+resource efficiency through metabolic thinking. This quantitative approach was com -
+plemented with qualitative data collected via a focus group workshop with invited 
+spatial practitioners, mainly practicing in Belgium. The workshop further investigated 
+the agency and contributions of designers/planners in mobilizing metabolic thinking 
+across the life stages of projects and the challenges designers face. Additionally, for 
+an in-depth understanding of the barriers and facilitators to resource-sensitive 
+design approaches, we conducted 22 interviews with design practitioners in 
+Belgium. Figure 1depicts the research design approach, including the analysis 
+methods elaborated in section 3.4.
+3.1. Survey
+An online survey was designed and distributed globally (between 18th of May and 30th of 
+November 2022), using the Qualtrics survey software. Questions included quantitative 5- 
+point Likert scale, preference, multiple-choice and rating questions along with qualitative 
+open-ended questions (see Supplementary Materials for the list of questions). In addition 
+to questions capturing the disciplinary background of professionals, location and size of 
+practices, the questionnaire was designed around three major themes related to UM: (1) 
+familiarity, (2) relevance and (3) key challenges or barriers. The survey was distributed 
+via different platforms, including social media, personal emails to the authors’ networks 
+of professionals, and snowballing. The International Federation of Landscape Architects 
+in Asia, Europe and Africa also distributed the survey to members via their newsletter. In 
+total 101 individuals responded to the survey (N = 101).EUROPEAN PLANNING STUDIES 
+ 1447
+3.2. Focus group workshop
+A half-day workshop was held in Brussels, Belgium on 30th of June 2022, with invited 
+practitioners mainly based in Belgium. To identify potential participants, first the list 
+of registered landscape architects from the official website of The Belgian Association 
+of Landscape Architects (ABAJAP-BVTL) was consulted. It is important to note that in 
+Belgium the ‘landscape architecture’ profession is not yet considered an accredited 
+titled profession, and many licensed architects and urban planners and designers that 
+work at the urban landscape scale are registered under the national landscape architec -
+ture association because of the type of projects they work on. This can be related to 
+limited education programmes across Belgium offering a master’s degree in landscape 
+architecture (i.e. only one master’s programme) (IFLA Europe 2022 ).
+We limited our selection to practices with a public profile presence and those involved 
+in urban landscape projects. In total, 21 practitioners responded to the email invitation 
+(out of 78 contacted). Eventually, 9 practitioners were available to participate in the half- 
+day workshop. The participants had different disciplinary backgrounds (e.g. urban 
+design, spatial planning, landscape architecture, sustainability), resulting in a relatively 
+heterogeneous sample.
+3.3. Interviews
+Semi-structured interviews with 22 design practitioners were conducted between 27th of 
+February and 10th of October 2023. Participants were identified and shortlisted through 
+a similar approach detailed in 3.1.2, with a total of 52 practices invited for the interview. 
+In total 22 responded to the invitation. Interviews were conducted either in person, or 
+online via Zoom and took 50–60 min. Consent was sought in line with human ethics pro-
+tocols. Given the purpose of the interviews was to explore an in-depth understanding of 
+the barriers and facilitators in engaging with metabolic thinking, the findings are not 
+intended to be statistically representative of Belgian design practices. However, the cap-
+tured viewpoints through the interviews and workshop do provide insights to the ways 
+the professionals engage with resources and the challenges that they currently face.
+3.4. Analytical framework
+As depicted in Figure 1, we used a mixed-method approach for the analysis of data. The 
+survey data were analysed and presented quantitatively. The recordings of the workshop 
+and interviews were transcribed and qualitative analysis with thematic coding was under -
+taken by the lead author in NVivo, and cross-checked with the author team. Initial 
+coding was based on key questions around (a) impact points across projects’ life 
+stages, (b) dominant metabolic flows relevant to the practitioners and (c) barriers and 
+facilitators of resource sensitive approaches. We used the built environment process 
+map developed by Hürlimann et al. (2021 ) to map the impact points and barriers/facil -
+itators across different life stages including: (1) Change Initiation; (2) Strategic Planning; 
+(3) Project Consideration; (4) Design; (5) Costing and Approvals; (6) Construction; (7) 
+Use/Management; and (8) Renewal/Recovery/Decommissioning. We then categorized 
+the responses across four boundary spanning roles of identified in van den Brink, van 
+den Brink, and Bruns (2022 ), including: (1) the subject-based designer, (2) the visionary 
+narrator, (3) the process-based designer and (4) the design-led entrepreneur. This 1448 
+ S. MOOSAVI ET AL.
+framework proved relevant to understand the impact, agency and contributions of spatial 
+practitioners in engaging with theoretical and practical underpinnings of the concept of 
+UM.
+4. Results
+The survey captured 101 responses in total. The first part of the survey aimed at capturing 
+background information about the practitioners’ expertise and their practice. Among the 
+respondents, the majority were landscape architects (64%) and urban designers (32%), 
+followed by architects (18%) and urban planners (16%). The majority (47%) of survey 
+respondents described their practice as being small (less than 10 members), followed 
+by medium (31%), and large practices (22%). In terms of geographical distribution, we 
+collected responses from 37 countries, from all continents, with a higher response rate 
+from countries such as Australia, Belgium and Netherlands, reflecting where the net-
+works of the authors were mainly established.
+As mentioned above, the survey was complemented by a workshop and 22 interviews. 
+Table 1captures the expertise and sectors of the focus group workshop participants, with 
+4 out of 9 as landscape architects. It also includes the codes used in the analysis and 
+reporting. Table 2shows the breakdown of interviewees in terms of their region, 
+sector and firm size. We aimed for a balance between practitioners working in Wallonia, 
+Flanders and Brussels regions relevant to the population of registered designers in each 
+region. Most interviewees worked in small private practices, and all but two had a land -
+scape architecture education background.
+4.1. The familiarity and relevancy of the UM concept to design practice
+The results of the survey showed that there is a general agreement on the relevance of UM 
+in designing urban open spaces with 78% of respondents indicating extreme (19%) to 
+very high (59%) relevance, with a mean of 2.1, median of 2 and a Standard Deviation 
+of 0.8 on a 5-point Likert scale (1 = extremely relevant, 5 = not relevant at all), indicating 
+a relative agreement. However, the overall level of familiarity of UM and its key principles 
+and approaches among the surveyed practitioners is low, with half of the respondents 
+(50%) selecting slightly familiar (31%) or not familiar at all (19%), with a mean of 
+3.56, median of 3 and a Standard Deviation of 1.05 on a 5-point Likert scale (1 = extre -
+mely familiar, 5 = not familiar at all), indicating a significant spread of responses. Among 
+the other half, only 19% of respondents indicated they were familiar with the UM concept 
+and its main approaches (see Figure 2 and 3). This was also reflected in responses to a 
+Table 1.  Expertise of workshop participants and their codes.
+Codes Expertise Sector type
+P1 Urban Planning & Sustainable Development Private
+P2 Architecture and Urban Design Private
+P3 Landscape Architecture Private
+P4 Landscape Architecture Private
+P5 Architecture, Urban Design, Spatial Planning Private
+P6 Landscape Architecture Public
+P7 Landscape Architecture Public
+P8 Urbanist/Architecture Private
+P9 Urbanist/Architecture PrivateEUROPEAN PLANNING STUDIES 
+ 1449
+multiple-choice question on the definition of UM, where 18% indicated they are not fam-
+iliar with the UM concept. One survey respondent indicated that: 
+Urban metabolism is a concept that I’m not familiar with; prior to filling this form I had not 
+heard of this term but from its definition and due to my experience working on various projects 
+that have required some level of energy management and sustainability, I have a good under -
+standing of what it requires and what the potential benefits are.
+In parallel to the results of the survey, the discussions in the workshop revealed that an 
+understanding of the existing flows in landscapes is highly relevant to design decision- 
+making that incorporate ‘systems thinking’, albeit not being framed as UM: 
+we are one of the few professions that is able to translate ‘systemic thinking’ to space, making 
+‘concrete’ the sometimes ‘vague’ discourses of urban metabolism, circular economy, etc. (P5)
+The survey results also revealed that UM approaches are understood to be more relevant 
+for decisions at the ‘regional scale’ (41% of respondents), with an even spread across all 
+the other scales (metropolitan, district/neighborhood, site). The influence of ‘scale’ also 
+emerged in discussions during the workshop, as an important factor determining the 
+impact that designers have on resource-related decisions (see section 4.2).
+Interview results also confirmed the low level of familiarity with the concept of UM in 
+how the respondents reacted to the question ‘how do you define metabolic thinking?’ Most 
+respondents could not immediately think of a definition. 
+I don’t really know what you mean. So I don’t know what it is. I think that’s maybe a bit off 
+from what we do (I22)
+In these cases, the researchers provided a widely accepted definition, as an approach to 
+understand how cities extract, manage and utilize resources and emit pollution and 
+waste. However, when a definition of UM was provided by the interviewer, the majority 
+of respondents expressed that they engage with these approaches and to them, it is about 
+thinking in systems that are interconnected and enabling natural processes to occur, which 
+landscape architects often do. 
+For me, metabolic thinking is really incorporated in what good landscape architecture does, 
+and it is taking into account, let’s say, the construction of the lands from source to sink, so 
+metabolic thinking is incorporated in any good systemically designed landscape. But I’m not 
+sure if the term would resonate with many practitioners. (I18)
+The language that practitioners used in the interviews to conceptualize ‘metabolism’ 
+revealed an array of terms and concepts, some related to the theoretical underpinnings 
+of the UM concept (‘what’), while others focused on action-oriented framings (‘how’). Table 2.  Breakdown of the interviewees’ profiles.
+CharacteristicsRegion Sector type Office size
+Wallonia (French) Flanders (Dutch) Brussels (both) Public Private
+S M LCodes 
+I = Interviewee I6; 10; 11; 13I2; 3; 5; 9; 12; 16; 
+17; 18; 19I1; 4; 7; 8; 14; 15; 
+20; 21; 22I12; 20; 
+22All 
+others
+Number of 
+Respondents4 9 8 3 18 11 5 6
+Total interviews 221450 
+ S. MOOSAVI ET AL.
+Through thematic coding of all responses to this question (included in Supplementary 
+Materials) we synthesized these terms as presented in Table 3. The action-oriented 
+framing was further categorized into those that inform the analysis of sites (e.g. under -
+standing the history of sites), and those that are projective and inform design interven -
+tions (e.g. reuse of site materials). This expanded conceptualization of UM highlights the 
+synergies among interdisciplinary knowledge areas that designers can lever to embed 
+metabolic thinking in design workflows, and contributes to establishing a practice- 
+specific conceptualisation of UM.
+4.2. Levels of engagement with metabolic thinking across life stages of projects 
+– identifying impact points
+To understand the agency of designers in integrating metabolic thinking in design pro-
+cesses, we asked the participants of the workshop to map the key impact points where 
+designers can integrate metabolic thinking in influencing resource-related decisions 
+across the built environment process map (by Hürlimann et al. (2021 )) (see Figure S 
+Figure 3. Level of perceived relevance of UM approaches by spatial practitioners.
+Figure 2. Survey results showing the percentage of familiarity with UM approaches.EUROPEAN PLANNING STUDIES 
+ 1451
+in Supplementary Materials). To facilitate this, the participants were divided in smaller 
+groups of 3.
+Most participants agreed that the analysis, infrastructure planning, design and con-
+struction phases were critical for them, as designers, to embed metabolic thinking in 
+the process. However, there were some disparities regarding whether designers have 
+greater impact at the early stages of the project compared to later stages where projects 
+will be realized and built. Three important aspects related to the shifting impact of 
+designers across the process were discussed: the ‘scale’ of projects, how the ‘brief or 
+tenders’ were defined, and the ‘policies and regulations’ affecting the design and 
+construction.
+Those participants who often worked at the large scale argued that they had greater 
+impact at the early stages of design, with ‘setting the tone’ (P2) and ambitions for 
+more sustainable outcomes. This was not the case with practitioners who worked on 
+smaller scale projects, often for private clients. They suggested UM approaches tend to 
+have greater impact in the construction phase, through material and plant choices and 
+specifications, and negotiating with contractors. Participants argued that contractors 
+with a business-as-usual mindset often follow rigid protocols which leads to discrepan -
+cies between design documents and the built outcome, and to change that is challenging: 
+It is often the normative framework that hinders changes even if you have intensions to include 
+metabolic thinking, it is so rigid that sometimes it is really difficult to change the system (P6)Table 3.  Key concepts related to urban metabolism and terms mentioned by the interviewees.
+Key identified themes UM related terms mentioned
+Theoretical 
+underpinningSystems thinking Thinking in systems, Systemic design (I8; I19) 
+Landscapes as interconnected systems (I14) 
+Systematically designed landscapes (I18) 
+Design with living systems (I2) 
+Cascading ecosystem services (I8)
+Circular economy Circular thinking (I9) 
+Source to sink (I18) 
+A full cycle (I21)
+Landscape Urbanism Regenerative development, Re-use of post-industrial  
+sites (I3) 
+Blue and green landscapes as backbones of urbanism (I5) 
+Landscape as transect (I4) 
+Deep understanding of ecological design (I12)
+Action-oriented 
+framingSites as multilayered 
+palimpsestsWorking with the history of sites (I4) 
+Understanding existing flows (I20) 
+Preserving nature/natural processes 
+(I7)Analytical
+Resource use/cycles Optimize flow of nutrients (I11) 
+Reuse of space, 
+Reuse of site materials, waste as 
+materials 
+Living (biobased) materials/soils ( 
+I1; I10) 
+Avoiding over designing (I20)Projective
+Resource production Energy landscapes, 
+Food production (I9; I16)Projective
+Lived experiences Inclusive places (I10) 
+Places of experiences (I2) 
+Material world and lived 
+experiences(I2)Analytical/ 
+Projective1452 
+ S. MOOSAVI ET AL.
+It was discussed that designers’ engagement with UM approaches should ideally have an 
+impact from the early stages all the way to the construction phase, consistently influen -
+cing the process and outcome. This view is reinforced by this statement: 
+It is always a big effort depending on the process and who you are involved with – but it’s 
+important that everyone plays the same card, and that’s sustainability, and maintaining 
+the efforts throughout the whole process down to the contractors involvement (P3)
+A number of interviewees mentioned the challenge of having impact at the early stages of 
+change initiation, because landscape architects and urban designers are often brought 
+into projects very late, when decisions with greater resource impacts are already made.
+From the discussions in the workshop and interviews we observed that the level of 
+impact across the life stages of projects is also partly determined by the characteristics 
+of design firms. We used the four boundary spanning roles as a matrix to map the typol -
+ogies of practices. This allowed us to link the responses around impact points to the 
+boundary spanning framework. For example, those practitioners that take the role of 
+the subject-based designer and focus on small scale projects for private clients, con-
+sidered their influence as being greater at the design to construction stages, compared 
+to those practices that consider themselves as process-based designers and work on 
+larger scale projects, who believed they have equal impact across all life stages. Figure 
+5 presents the level of impact across project life stages across the four boundary spanning 
+typologies (see section 5.1).
+4.3. Dominant metabolic stocks and flows perceived by practitioners
+The term stock – referring to material stocks accumulating in society including buildings, 
+infrastructures, machinery and other long-lived products (Streeck et al. 2020 ) – was not 
+explicitly mentioned by any of the participants, but they referred to soil, plants (biomass) 
+and in-use materials, which are defined as stocks in resource accounting UM approaches.
+In contrast, a flow is a variable measured over time, tracing the required process for 
+production, processing, use and management of waste. In addition to standard flows con-
+sidered in metabolic analysis (e.g. energy, greenhouse gas emissions, waste), the designers 
+perceived other flows including water (stormwater runoff), mobility and people. When 
+asked about the flows they dominantly engage with, some practitioners talked about ‘ser-
+vices or functions’, such as climatic conditions, biodiversity and ecosystem services more 
+broadly.
+One theme that frequently surfaced in the focus group and interviews was the role of 
+designers in engaging with nonnumeric flows related to socio-cultural dimensions. An 
+in-depth understanding of the community’s socio-cultural practices was discussed in 
+relation to two different dimensions: (a) how the community uses a particular site and 
+its natural resources, and what sort of social behaviours they practice and (b) dominant 
+placed-based behavioural patterns of consumption, particularly in terms of energy use, 
+waste management or mobility.
+Some examples were shared, including cultural practices among religious commu -
+nities and the preference for gas top cooking, and how it influences infrastructure and 
+utility provisions, or energy transitions (P5). Another example was given on urban 
+design interventions to address how communities deal with extreme heat in low- 
+income communities (P3). For example, if the majority of the community live in small EUROPEAN PLANNING STUDIES 
+ 1453
+apartments with no garden or terraces and find coping mechanisms such as drinking 
+more water or staying in shades of trees in public spaces, the urgency of the solutions 
+should be directed at improving public facilities such as parks with large tree canopies. 
+It was highlighted that understanding behaviours and practices linked to resource use, 
+enables designers to define the urgency and suitability of interventions and programmes, 
+which can then influence how resources are managed and circulated.
+In parallel, the analysis of interviews revealed the increasingly important role that 
+designers can play in resource-related decisions beyond physical interventions to sites, 
+with a strong focus on changing social norms in everyday practices. One interviewee dis-
+cussed a project that focused on nature-based decarbonization and catalysing sustainable 
+farming and changes in dietary behaviours to leverage net zero land management at the 
+regional scale (I8). Other examples of engaging with ‘practices’ were shared focusing on 
+smaller scale projects, including the role that designers can play in changing the assump -
+tion of considering private landscapes ‘as a luxury’ (I9), and shifting the mindset of 
+clients that systematically ask for swimming pools in their backyard (I19; 22), which dis-
+misses opportunities for enhanced biodiversity and reducing ecological impact (I17).
+Table A in the Appendix captures a list of flows, stocks and practices that were dis-
+cussed by workshop participants and interviewees.
+4.4. Perceived key barriers and facilitators to embedding metabolic thinking in 
+design practice
+We identified the top key barriers in engaging with UM approaches from the perspective 
+of practitioners through a ranking question in the survey (see Figure 4). The ‘lack of 
+understanding of basic metabolic processes or dynamics’ was selected the most in the 
+top 5 barriers (33% across all rankings) and was ranked 1st by the majority. Other top 
+selected barriers were ‘lack of data’ (26%) and ‘limited competencies for engaging with 
+quantitative data’ (25%). Top-down governance systems for resource management 
+(24%) and dominating engineering approaches were also selected as important barriers 
+(24%).
+During the workshop, an exercise was designed to facilitate discussions, with the cir-
+culation of design documents of an existing landscape project (a built community park 
+near), asking the groups to reflect on barriers, data needs, tools and skillsets required to 
+re-design the park considering multiple metabolic flows. Through the interviews we 
+further examined the barriers in more depth by asking the practitioner to expand on 
+the top three barriers they face in thinking through resource flows in projects. Five 
+main categories of barriers were identified across all data: (1) knowledge barriers (infor -
+mational-technical-technological), (2) governance barriers, (3) financial barriers, (4) 
+socio-cultural barriers and (5) physical-environmental barriers. Sub-categories of bar-
+riers were also identified across all responses (workshop and interviews). Table 4pro-
+vides a summary of key barriers and facilitators that emerged in this study under each 
+theme.
+While knowledge-relevant barriers were seen as a critical barrier in the survey and 
+among the workshop participants, the discussions in the interviews mostly centred 
+around lack of finance and restricted timelines in projects. This was perceived as an 
+impediment for deep engagement with data collection, understanding metabolic flows 
+in relation to the site, and beyond site boundaries.1454 
+ S. MOOSAVI ET AL.
+Some argued that it is a question of redefining project fees, and reforming what activi -
+ties are paid in commissions. The system where design fees are a percentage of total con-
+struction fees was particularly criticized, as it encourages some designers to use costly 
+materials such as concrete with high associated emissions, just to increase their fees 
+(I14). Some suggestions were offered such as assigning values to process-oriented 
+designs and research activities to incentivize more ecological design approaches under -
+pinned by metabolic thinking.
+In working with large scale projects, the lack of methods for measuring and assessing 
+design decisions from a monetary perspective was mentioned. One interviewee high -
+lighted the difficulty of translating multiple layers of data on flows into a ‘tool’ that is 
+simple and accessible to the community of design practice (I15). Others mentioned 
+the disconnection of UM accounting tools from design modelling tools and the lack of 
+training opportunities for designers. More room and financial means for experimental 
+approaches were seen as enablers to address these challenges. 
+It would be nice if there was general funding for this kind of experimentation that doesn’t put 
+reliability on the designer (P7)
+It was also argued that understanding the site with a metabolic lens requires delving into 
+quantitative and qualitative data on different flows, which requires time to collect data 
+that are often not readily available. Participants argued that this ‘time’ is not included 
+in project briefs, or commission fees. 
+Balancing the pace of academia and practice, practice is fast, to align this timing is a challenge 
+(P5)
+Values underpinning projects tenders and briefs as well as clients’ sustainability ambi -
+tions were identified as critical barriers by most interviewees. Particularly, in working 
+with private clients, it was highlighted that shifting people’s mindsets is difficult. 
+Figure 4. Existing key barriers in engaging with UM approaches in practice (by numbers of survey 
+participants’ ranking them in each of the top five ranks).EUROPEAN PLANNING STUDIES 
+ 1455
+Creating a cultural shift where people realize that a certain style of gardens and public space 
+that is very material based is not the right thing to do and that a more natural approach is 
+where you just do nothing in some parts and you leave more space for natural processes (I17)
+There were diverging opinions around whether it is the responsibility of the designer to 
+invest themselves in going beyond the brief and usual responsibilities, and make extra 
+effort to undertake research;‘acting as an environmental activist’ rather than as a con-
+forming consultant. One designer questioned the role of the designer as mere 
+consultants: 
+[…] but it comes down to you, as designers, how much your work limits itself to developing a 
+plan, or should it be about taking care of the environment and curating it with care (P2)
+In contrast, some designers argued that eventually design is a ‘commercial activity’, with 
+one participant stating: Table 4.  Perceived dominant barriers and mentioned facilitators in engaging with metabolic thinking 
+in practice based on interviews and workshop data.
+Themes of barriers Perceived barriers or challenges Mentioned facilitators
+Physical-environmental  
+ Links between space and resource 
+flows 
+Thresholds between ecosystem 
+services and utility services 
+Ecosystem services conflicting with 
+mobility services 
+Competition for space (cars vs GI) 
+Tensions btw durability and 
+sustainabilityBalancing environmental values of spaces with 
+socio-economic benefits 
+Mobilizing temporary and mixed-use zoning 
+through strategic planning
+Knowledge 
+(Informational- 
+technical)  
+Lack of data or dispersed databases 
+Lack of training 
+Lack of knowledge and confidence in 
+recycled materials 
+Tabula-rasa approaches to landscapes 
+Balance between practice and caring 
+for the environment 
+Disconnection of UM tools with 
+modelling toolsCentralizing information 
+Ease of access to information 
+Integrating tools with design modelling platforms 
+Room and time for experimentation 
+Training for spatial practitioners
+Socio-cultural  
+Working with communities/clients 
+with rigid mindsets 
+Mindsets of contractors 
+Disparate values/ priorities 
+(Unsustainable) lifestylesCommunicating the benefits 
+e.g. use of value boards 
+Engagement with the community through site 
+visits and visual communication 
+Participatory approaches
+Governance  
+Business-as-usual approaches 
+Rigid protocols and automatism 
+Safety regulations 
+Normative frameworks-pre-defined 
+templates 
+Lack of sustainability criteria and 
+standards in tenders 
+Short-termism – rapid political cyclesStandards for minimum use of recycled materials 
+Inclusion of performance criteria and indicators in 
+tenders or briefs 
+Sustainability ambitions embedded in project 
+briefs
+Finance  
+Financial restrictions in construction 
+budget 
+High construction fees for sustainable 
+materials 
+No commission fees for research and 
+testing 
+Prioritizing budget for buildings not 
+landscapesIncentives for using local recycled materials 
+Introducing ecological tax 
+Funds for experimentation 
+Redefining commission fees1456 
+ S. MOOSAVI ET AL.
+You wouldn’t do it just because you care. You need to earn money; at some point you need to 
+balance means for in-depth study and the practice running. It is a very delicate balance to 
+find! (P6)
+This resonates with the concept of crossing boundaries or boundary spanning beyond 
+what is expected from design consultants. We now discuss the findings against the 
+boundary spanning typologies.
+5. Discussion
+5.1. Mapping the agency of designers in urban metabolism approaches
+From the multilayered analysis of data across the survey and workshop, we conclude that 
+the agency of designers and spatial planners in engaging with metabolic approaches in 
+urban landscape projects takes different forms depending on several factors, including 
+the type of commission, scale of projects and the profiles of practices involved. This is 
+line with the findings of Pistoni and Bonin (2017 ) focused on practices in Rotterdam 
+and Amsterdam, where scale of projects determined the engagement with metabolic 
+approaches.
+One key theme that emerged was the tension between perceiving design practice as a 
+commercial activity, or as a research-through-design activity to catalyse change. This has 
+been a concurrent focus of a number of scholarly debates around the relationships 
+between design and research, or between intuitive and scientific inquiry (Cortesão and 
+Lenzholzer 2022 ; Kwak, Deal, and Mosey 2021 ; Moosavi 2022 ).
+While there is general awareness among the community of practice in urban land -
+scape design and planning about the need for understanding systems of resource 
+stocks and flows in leveraging resource-sensitive designs, metabolic accounting 
+methods, tools and models are not yet mainstreamed in design and planning practices. 
+Nevertheless, the synthesis of our findings show that designers do engage with metabolic 
+thinking in different ways, particularly through multiscalar systems thinking; even 
+though these approaches are not explicitly framed as urban metabolism approaches 
+among the community of practice. These ‘different ways’ of engaging with metabolic 
+thinking are mapped against the quadrant matrix of the boundary spanning roles of 
+designers presented in Figure 5and discussed below.
+It is important to note that spatial practitioners often do not neatly fit within one of 
+these four profiles, and depending on the type and scale of commissions, they may 
+change roles across these categories. 
+1.Subject-based designers often work on plot scale projects and can have an impact 
+through understanding the existing stock-flow relationships, and selecting and trans -
+lating those data into designs with low environmental impacts (for example by advo -
+cating the use of recycled local materials). They may have to overcome challenges such 
+as working around existing utility infrastructure and rigid regulations (McLean and 
+Roggema 2019 ), competition for more space for urban nature-based solutions 
+(Moosavi, Browne, and Bush 2021 ), and managing conflicts with contractors with 
+often rigid mindsets to ensure there are no discrepancies between what they design 
+and what is executed (Moosavi et al. 2023 ). To increase their agency, they need to EUROPEAN PLANNING STUDIES 
+ 1457
+expand their understanding of existing flows and their dynamics over time (referred 
+to as fluxes here) beyond the physical boundaries of the site. They also need to have 
+great negotiation skills to convince the clients, communities and contractors for sus-
+tainability agendas.
+2.Visionary narrators can have an impact at setting the ground and visions for project 
+initiation and strategic directions in early stages of projects. They can build an under -
+standing of on-going patterns of resource consumption and elimination of waste 
+through speculative narratives. Having strong communication and storytelling 
+skills, their agency lies in impactful visualization of metabolic (visible and invisible) 
+flows, and projecting and speculating possible scenarios to create awareness. They 
+can link existing socio-cultural practices with current and future patterns of metabolic 
+resource flows, and to ground them in the spatiality of places. Through directly 
+working with communities with diverse socio-cultural values, the challenges they 
+face often relate to the lack of awareness, demand, or interest from clients. This is 
+also considered a key barrier by Amenta and Van Timmeren (2018 ). These may be 
+related to disparities of values and priorities, or the lack of appetite for sustainable 
+outcomes. While their contributions appear to remain speculative and emancipatory, 
+Figure 5. Mapping the perceived agency of designers in engaging with metabolic thinking against a 
+quadrant matrix of boundary spanning roles (adapted from van den Brink, van den Brink, and Bruns 
+(2022 )), showing the different impact points across life stages of projects (thicker arcs = greater 
+impact, thinner arcs = lower impact) Project life stages: Ch = Change Initiation; SP = Strategic Plan -
+ning; PC = Project Consideration; D = Design; C&A = Costing and Approvals; C = Construction; U/M  
+= Use/Management; R/R/D: Renewal/Recovery/Decommissioning.1458 
+ S. MOOSAVI ET AL.
+they have a far-reaching influence by creating an appetite for solutions that contribute 
+to a more circular metabolism.
+3.Process-based designers often act as coordinators connecting different stakeholders 
+across the life stages of projects. Often employing an experimental approach, these 
+designers constantly move between deep research or scientific enquiry, and generative 
+design thinking. To this end, the metabolic approach can be embedded across the life 
+stages of projects, from change initiation and strategic planning (e.g. change of land 
+use and accounting for associated emissions), to testing design alternatives (e.g. com -
+paring low carbon configurations and choice of materials), all the way to use and 
+maintenance (e.g. frequency of lawn mowing), recovery and end-of-life stages (e.g. 
+decisions regarding how dead or felled trees should be managed). Key challenges 
+include limited timeframes and the lack of allocated project budget for in-depth 
+research and data collection on stock-flow-practices, and dealing with different 
+actors with different disciplinary cultures including languages (Perrotti 2019 ).
+4.Design-led entrepreneurs can have more impact on early stages of project initiation, 
+planning and policy development stages. These designers often act as advocates for 
+reforms in top-down governance systems, shaking up rigid frameworks and question -
+ing business-as-usual approaches and regulations that often hinder resource-sensitive 
+designs. The key leverage points include questioning tenders and project briefs for 
+higher sustainability ambitions, negotiating the inclusion of performance metrics 
+and assessment criteria and influencing policy using bottom-up approaches and facil-
+itating design-led co-creation approaches, all important capabilities in boundary 
+spanning (Nassauer 2023 ; van Dijk et al. 2023 ). Their agency increases through 
+acquiring greater socio-political awareness of organizational and institutional 
+arrangements, as well as entrepreneurial leadership skills while carrying design think -
+ing capacities to push for creativity and innovation.
+5.2. The contribution of design practice to urban metabolism studies
+Despite a range of barriers identified in this study for employing metabolic thinking, our 
+results also reveal important contributions of design to the broader discourse of UM. One 
+key contribution is creating stronger links between often top-down resource accounting 
+models, with on-the-ground spatial and social qualities, including everyday practices and 
+lived experiences of places. Urban landscape designers possess a multilayered expertise in 
+reading the site as palimpsests – a living organism and a continuum socio-ecological 
+system within a meta-system of flows (Bobbink and de Wit 2020 ) – all critical to facilitat -
+ing bottom-up metabolic approaches. With their training in both ecological and human 
+sciences, and working closely with urban ecologists (Grose 2014 ) they engage with tem-
+porality, dynamic changes and fluxing ecologies in designing with living systems 
+(Moosavi 2018 ), while accounting for the social and cultural particularities. Their 
+‘design’ skills enables them to describe and discover the needs and desires of people 
+and places in a systemic way, and leverage design as ‘a practice of cultural imagination’ 
+(Hill 2022 , 71). Carrying these skillsets can facilitate the integration of metabolic think -
+ing, and even the adoption of UM approaches in projective and generative design pro-
+cesses and strategic design approaches when engaging with resources.EUROPEAN PLANNING STUDIES 
+ 1459
+Additionally, the results show that ‘stocks and flows’ are perceived differently by 
+designers, taking an expanded conceptualization. The term ‘stock’ is not explicitly 
+used by designers, and ‘flows’ often take an expanded definition (e.g. fluxes of socio-eco -
+logical dynamics over time) (see Appendix, Table 5). The emphasis on socio-cultural 
+‘practices’ highlights the importance of understanding the relationships between prac -
+tices, functions and services in UM studies. This resonates with emerging UM studies 
+emphasizing a nexus approach that considers ‘stocks-flows-services’ or ‘stocks-flows- 
+practices’ (Haberl et al. 2021 ). Urban landscape designers are uniquely positioned to 
+bring an ‘ecosystem services’ lens to the understanding of the metabolism of cities, 
+which then can contribute to a deeper understanding of flows dynamics and metabolic 
+interdependencies in urban systems (Cárdenas-Mamani and Perrotti 2022 ; Perrotti 
+and Stremke 2020 ). The examples of designers’ efforts in shifting the clients’ mindsets 
+and everyday practices around resource use, exemplify the ways through which metabolic 
+thinking in design can be impactful by looking beyond capitalist consumption, and con-
+sidering metabolic interdependencies of design decisions.
+Finally, the emphasis of the workshop participants on considering local climatic con-
+ditions and regulatory services provided by natural resources, highlights the importance 
+of contextualizing and grounding metabolic approaches and understanding the existing 
+environmental, temporal and climatic conditions that can greatly impact the stocks- 
+flows-services relationships (Cárdenas-Mamani and Perrotti 2022 ).
+While Landscape Architect Alan Berger in his book ‘Systemic Design can change the 
+world (2009)’ already highlighted landscape architects’ role in improving material 
+flows in cities, questions around ‘agency’ remain unexplored. This points to the need 
+to understand how an enhanced agency in decisions related to resource stocks and 
+flows can help cities’ transition to a circular economy, and this research contributes to 
+this important gap through empirical evidence.
+5.3. Limitations of the study and research outlook
+While the findings of the survey covered a wide geographical context, a potential bias 
+exists due to greater response rates in certain countries where the authors have estab -
+lished networks. This limitation is typical in research using online surveys (Nayak and 
+Narayan 2019 ). With regards to the focus group, the research can benefit from 
+running multiple workshops in other countries with a larger number of participants to 
+compare the findings with other contexts and address a potential contextual bias in 
+this study. While the discourse of resource management and circularity is increasingly 
+considered in the Belgian policy landscape, the notion of UM remains theoretical 
+among design practitioners. Therefore, the ideas shared may not be representative of 
+the broader landscape architecture community. Triangulation with the worldwide 
+survey aimed at capturing these nuances.
+Future research should include a deliberate protocol for shortlisting participants with 
+a balance of different profiles. The quadrant matrix of designers’ four different boundary 
+spanning roles can be used to develop this protocol. The matrix can be further developed 
+to include levers that can help designers increase their agency for resource-sensitive 
+designs and offer pathways for playing multiple roles simultaneously in tackling 
+complex socio-ecological challenges.1460 
+ S. MOOSAVI ET AL.
+6. Conclusions
+This study unpacks different modes of perceived agency of urban landscape designers 
+and planners in embedding metabolic thinking in design/planning processes. It addresses 
+an important gap which is the lack of studies that empirically investigate the understand -
+ing, perception and engagement of spatial practitioners with the concept of UM, through 
+using a multi-method approach, and ‘boundary spanning’ as an analytical lens. Through 
+this empirical inquiry, we conducted a worldwide survey with 101 spatial practitioners 
+involved in urban landscape planning and design, a focus group workshop with 9 
+spatial practitioners mainly practicing in Belgium and 22 interviews with urban land -
+scape designers across Belgium. The triangulation of data across the three methods 
+allowed for an in-depth understanding of the ways designers use and understand the 
+concept of UM, define metabolic flows, engage with data/tools to influence resource 
+flows at different stages of design processes, and the perceived existing barriers.
+We conclude that spatial practitioners often do not use UM to frame their understand -
+ing of resource flows and their metabolic interdependencies, and they rarely engage with 
+quantification accounting models such as MFA or LCA, but they often incorporate meta -
+bolic thinking through a multi-scalar and iterative systems approach when working with 
+living systems. Hence metabolic thinking can be conceptualized as incorporating systems 
+thinking, and reading sites as multilayered palimpsests – socio-ecological systems in a 
+constant state of becoming – thus integrating social, territorial and temporal dimensions 
+in understanding resource flows beyond the sites of intervention.
+The findings reveal key contributions of urban landscape architects to UM studies. 
+This includes offering an expanded understanding of the stocks-flows-practices nexus 
+(Haberl et al. 2021 ). Having a wide range of expertise across environmental science, 
+humanities and spatial systems, urban landscape designers can play a critical role in con-
+necting metabolic stocks and flows to socio-cultural practices, while considering the 
+spatial–temporal dimensions often overlooked in UM studies. This expands UM 
+approaches beyond standardized input-output analytical methods, towards a greater 
+engagement with socio-cultural practices that define and drive resource flows. These 
+findings further advance the associated projective and generative potential of metabolic 
+thinking in design by offering alternative visions for the transformation of urban 
+environments.
+Embedding metabolic thinking in design processes comes with multiple challenges. 
+Existing knowledge and information barriers, projects’ budgetary and time restrictions, 
+limited data and tools adapted to landscape design, clients’ values and mindsets, and rigid 
+project briefs and inflexible policies that enable resource circularity were key barriers 
+identified by designers who participated in this study.
+This study provides important implications for planning and policy, by emphasizing 
+the role of landscape-led and nature-based approaches in enhancing the metabolism of 
+cities. Greater socio-political engagement of designers to inform (and reform) policies 
+and regulations at early stages of projects can advance their agency in transforming 
+practices towards resource-sensitive and climate responsive designs. For example, the 
+Circular Economy Action Plan (European Commission 2020 ) promotes initiatives to 
+reduce soil sealing, rehabilitate abandoned or contaminated brownfields and increase EUROPEAN PLANNING STUDIES 
+ 1461
+the safe, sustainable and circular use of excavated soils, which require design knowledge 
+and technical inputs from landscape architects at early stages of projects.
+To transform the ways our cities are designed and built in relation to natural systems, 
+there is a need for alternative design strategies and methods. To this end, urban landscape 
+designers can provide important contributions by bringing natural processes to the fore, 
+but they need to cross multiple boundaries and voice their agency in improving the 
+metabolism of cities. This means acquiring new boundary spanning skills and improving 
+their coordination, negotiation and communication skills to lever transdisciplinary 
+approaches in linking science-policy-practice. They also need to think beyond the con-
+structed physical, social and disciplinary boundaries, and continue developing and rein-
+venting the roles they can play in orchestrating sustainable resource management. This 
+may entail reforms in education systems in built environment disciplines, to include 
+boundary spanning competencies, a key topic for future research.
+Acknowledgement
+The authors would like to thank all who participated in the surveys, interviews and workshops and 
+generously shared their insights.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This research was partly funded by the Belgian National Funds for Scientific Research (FNRS, 
+Grant FC43179). SM received funds from the ‘Urban Metabolism Lab’ at Louvain Research Insti -
+tute for Landscape, Architecture, Built Environment (LAB), at the Université Catholique de 
+Louvain.
+ORCID
+Sareh Moosavi 
+ http://orcid.org/0000-0002-4819-2772
+Daniela Perrotti 
+ http://orcid.org/0000-0002-3164-1041
+André Stephan 
+ http://orcid.org/0000-0001-9538-3830
+References
+Amenta, L., and A. Van Timmeren. 2018 . “Beyond Wastescapes: Towards Circular Landscapes. 
+Addressing the Spatial Dimension of Circularity Through the Regeneration of Wastescapes.” 
+Sustainability 10 (12): 4740. doi:10.3390/su10124740 .
+Babí Almenar, J., C. Petucco, G. Sonnemann, D. Geneletti, T. Elliot, and B. Rugani. 2023 . 
+“Modelling the net Environmental and Economic Impacts of Urban Nature-Based Solutions 
+by Combining Ecosystem Services, System Dynamics and Life Cycle Thinking: An 
+Application to Urban Forests.” Ecosystem Services 60: 101506. doi:10.1016/j.ecoser.2022.101506 .
+Bahers, J., A. Athanassiadis, D. Perrotti, and S. Kampelmann. 2022 . “The Place of Space in Urban 
+Metabolism Research: Towards a Spatial Turn? A Review and Future Agenda.” Landscape and 
+Urban Planning 221: 104376. doi:10.1016/j.landurbplan.2022.104376 .1462 
+ S. MOOSAVI ET AL.
+Bertoldi, N., and D. Perrotti. 2025 . “Linking Systems to Agencies in Urban Metabolism Studies: A 
+Conceptual Framework and Computational Analysis of Research Literature.” Ecological 
+Economics 227: 108397. doi:10.1016/j.ecolecon.2024.108397 .
+Birkeland, J. 2012 . “Design Blindness in Sustainable Development: From Closed to Open Systems 
+Design Thinking.” Journal of Urban Design 17 (2): 163–187. doi:10.1080/13574809.2012.666209 .
+Bobbink, I., and S. de Wit. 2020 . “Landscape Architectural Perspectives as an Agent for Generous 
+Design.” Research in Urbanism Series 6: 129–150. doi:10.7480/rius.6.97 .
+Brenner, N., D. Madden, and D. Wachsmuth. 2011 . “Assemblage Urbanism and the Challenges of 
+Critical Urban Theory.” City 15 (2): 225–240. doi:10.1080/13604813.2011.568717
+Broto, V., A. Allen, and E. Rapoport. 2012 . “Interdisciplinary Perspectives on Urban Metabolism.” 
+Journal of Industrial Ecology 16 (6): 851–861. doi:10.1111/j.1530-9290.2012.00556.x .
+Brunner, P., and H. Rechberger. 2016 . Handbook of Material Flow Analysis: For Environmental, 
+Resource, and Waste Engineers. Boca Raton: CRC Press.
+Cárdenas-Mamani, Ú, and D. Perrotti. 2022 . “Understanding the Contribution of Ecosystem 
+Services to Urban Metabolism Assessments: An Integrated Framework.” Ecological Indicators 
+136: 108593. doi:10.1016/j.ecolind.2022.108593 .
+Cortesão, J., and S. Lenzholzer. 2022 . “Research Through Design in Urban and Landscape Design 
+Practice.” Journal of Urban Design 27 (6): 1–17. doi:10.1080/13574809.2022.2062313 .
+Cui, X. 2018 . “How Can Cities Support Sustainability: A Bibliometric Analysis of Urban 
+Metabolism.” Ecological Indicators 93: 704–717. doi:10.1016/j.ecolind.2018.05.056 .
+De Meulder, B., J. Marin, and K. Shannon. 2022 . “Evolving Relations of Landscape, Infrastructure 
+and Urbanization Toward Circularity: Flanders and Vietnam.” In Regenerative Territories: 
+Dimensions of Circularity for Healthy Metabolisms, edited by L. Amenta, M. Russo, and A. 
+Van Timmeren, 107–121. Cham: Springer International Publishing Cham.
+European Commission. 2020 . Circular Economy Action Plan - For a Cleaner and More Competitive 
+Europe. Brussels: European Union.
+Färber, A. 2019 . “How Does ANT Help us to Rethink the City and its Promises?” In The Routledge 
+Companion to Actor-Network Theory, edited by A. Blok, I. Farías, and C. Roberts, 264–272. New 
+York: Routledge.
+Galan, J., and D. Perrotti. 2019 . “Incorporating Metabolic Thinking Into Regional Planning: The 
+Case of the Sierra Calderona Strategic Plan.” Urban Planning 4 (1): 152–171. doi:10.17645/up. 
+v4i1.1549 .
+Gandy, M. 2003 . Concrete and Clay: Reworking Nature in New York City. Cambridge: MIT Press.
+Gandy, M. 2018 . “Cities in Deep Time: Bio-Diversity, Metabolic Rift, and the Urban Question.” 
+City 22 (1): 96–105. doi:10.1080/13604813.2018.1434289 .
+Grose, M. 2014 . “Gaps and Futures in Working Between Ecology and Design for Constructed 
+Ecologies.” Landscape and Urban Planning 132: 69–78. doi:10.1016/j.landurbplan.2014.08.011 .
+Grubler, A., X. Bai, T. Buettner, S. Dhakal, D. Fisk, T. Ichinose, … N. Schulz. 2012 . Urban Energy 
+Systems. Global Energy Assessment: Toward a Sustainable Future. Cambridge: Cambridge 
+University Press.
+Haberl, H., M. Schmid, W. Haas, D. Wiedenhofer, H. Rau, and V. Winiwarter. 2021 . “Stocks, 
+Flows, Services and Practices: Nexus Approaches to Sustainable Social Metabolism.” 
+Ecological Economics 182: 106949. doi:10.1016/j.ecolecon.2021.106949 .
+Hill, D. 2022 . Designing Missions: Mission-Oriented Innovation in Sweden - A Practice Guide by 
+Vinnova. Sweden: Vinnova.
+Hürlimann, A., G. Warren-Myers, J. Nielsen, S. Moosavi, J. Bush, and A. March. 2021 . “Towards 
+the Transformation of Cities: A Built Environment Process map to Identify the Role of key 
+Sectors and Actors in Producing the Built Environment Across Life Stages.” Cities 121: 
+103454. doi:10.1016/j.cities.2021.103454 .
+Ibanez, D. 2021 . Metabolic Urbanism: Epistemologies, Lineages, and Prospects. Cambridge: Harvard 
+University.
+IFLA Europe. 2022 . List of Landscape Architecture Education Programmes/Courses. In.
+Kennedy, C., J. Cuddihy, and J. Engel-Yan. 2007 . “The Changing Metabolism of Cities.” Journal of 
+Industrial Ecology 11 (2): 43–59. doi:10.1162/jie.2007.1107 .EUROPEAN PLANNING STUDIES 
+ 1463
+Kennedy, C., S. Pincetl, and P. Bunje. 2011 . “The Study of Urban Metabolism and its Applications 
+to Urban Planning and Design.” Environmental Pollution 159 (8–9): 1965–1973. doi:10.1016/j. 
+envpol.2010.10.022 .
+Krausmann, F., D. Wiedenhofer, C. Lauk, W. Haas, H. Tanikawa, T. Fishman, … H. Haberl. 2017 . 
+“Global Socioeconomic Material Stocks Rise 23-Fold Over the 20th Century and Require Half of 
+Annual Resource use.” Proceedings of the National Academy of Sciences 114 (8): 1880–1885. 
+doi:10.1073/pnas.1613773114 .
+Kwak, Y., B. Deal, and G. Mosey. 2021 . “Landscape Design Toward Urban Resilience: Bridging 
+Science and Physical Design Coupling Sociohydrological Modeling and Design Process.” 
+Sustainability 13 (9): 4666. doi:10.3390/su13094666 .
+Lanau, M., R. Mao, and G. Liu. 2021 . “Cities as Organisms: Urban Metabolism of the Four Main 
+Danish Cities.” Cities 118: 103336. doi:10.1016/j.cities.2021.103336 .
+Larrey-Lassalle, P., S. Armand Decker, D. Perfido, S. Naneci, and B. Rugani. 2022 . “Life Cycle 
+Assessment Applied to Nature-Based Solutions: Learnings, Methodological Challenges, and 
+Perspectives from a Critical Analysis of the Literature.” Land 11 (5): 649. doi:10.3390/ 
+land11050649 .
+Latour, B. 2007 . Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford; New 
+York: Oxford University Press.
+Marin, J., and B. De Meulder. 2018 . “Interpreting Circularity. Circular City Representations 
+Concealing Transition Drivers.” Sustainability 10 (5): 1310.
+McLean, L., and R. Roggema. 2019 . “Planning for a Prosumer Future: The Case of Central Park, 
+Sydney.” Urban Planning 4 (1): 172–186. doi:10.17645/up.v4i1.1746 .
+Mollinga, P. 2010 . “Boundary Work and the Complexity of Natural Resources Management.” Crop 
+Science 50 (S1): S-1-S-9. doi:10.2135/cropsci2009.10.0570 .
+Moosavi, S. 2018 . “Time, Trial and Thresholds: Unfolding the Iterative Nature of Design in a 
+Dryland River Rehabilitation.” Journal of Landscape Architecture 13 (1): 22–35. doi:10.1080/ 
+18626033.2018.1476025 .
+Moosavi, S. 2022 . “Design Experimentation for Nature-Based Solutions: Towards a Definition and 
+Taxonomy.” Environmental Science & Policy 138: 149–161. doi:10.1016/j.envsci.2022.10.004 .
+Moosavi, S., G. Browne, and J. Bush. 2021 . “Perceptions of Nature-Based Solutions for Urban 
+Water Challenges: Insights from Australian Researchers and Practitioners.” Urban Forestry & 
+Urban Greening 57: 126937. doi:10.1016/j.ufug.2020.126937 .
+Moosavi, S., A. Hurlimann, J. Nielsen, J. Bush, G. Warren-Myers, and A. March. 2023 . 
+“Transforming the Agency and Influence of Landscape Architects in Climate Change 
+Actions: An Empirical Analysis of Barriers and Facilitators.” Landscape and Urban Planning 
+234: 104735. doi:10.1016/j.landurbplan.2023.104735 .
+Moosavi, S., A. Stephan, and M. O’Dea. 2022 . “Landscape Architects Need to Address Life Cycle 
+Greenhouse Gas Emissions in Designs – A Case Study near Sydney, Australia.” Paper presented 
+at the How can Design Enhance the Quality of Life: 55th International Conference of the 
+Architectural Science Association, Perth, Australia.
+Nassauer, J. 2023 . “Transdisciplinarity and Boundary Work for Landscape Architecture Scholars.” 
+Landscape Journal 42 (1): 1. doi:10.3368/lj.42.1.1 .
+Nayak, M., and K. Narayan. 2019 . “Strengths and Weaknesses of Online Surveys.” Technology 6 
+(7): 31–38. doi:10.9790/0837-2405053138 .
+O’Brien, K. 2018 . “Is the 1.5 °C Target Possible? Exploring the Three Spheres of Transformation.” 
+Current Opinion in Environmental Sustainability 31: 153–160. doi:10.1016/j.cosust.2018.04.010 .
+Opdam, P., J. Westerink, C. Vos, and B. de Vries. 2015 . “The Role and Evolution of Boundary 
+Concepts in Transdisciplinary Landscape Planning.” Planning Theory & Practice 16 (1): 63– 
+78. doi:10.1080/14649357.2014.997786 .
+Otero Peña, D., D. Perrotti, and E. Mohareb. 2022 . “Advancing Urban Metabolism Studies 
+Through GIS Data: Resource Flows, Open Space Networks, and Vulnerable Communities in 
+Mexico City.” Journal of Industrial Ecology 26 (4): 1333–1349. doi:10.1111/jiec.13261 .1464 
+ S. MOOSAVI ET AL.
+Oudes, D., and S. Stremke. 2018 . “Spatial Transition Analysis: Spatially Explicit and Evidence- 
+Based Targets for Sustainable Energy Transition at the Local and Regional Scale.” Landscape 
+and Urban Planning 169: 1–11. doi:10.1016/j.landurbplan.2017.07.018 .
+Pasini, R. 2022 . “A Dialectics of Ecology and Design in the Reform of Contemporary Landscapes.” 
+Sustainability 14 (10): 6217. doi:10.3390/su14106217 .
+Perrotti, D. 2019 . “Evaluating Urban Metabolism Assessment Methods and Knowledge Transfer 
+Between Scientists and Practitioners: A Combined Framework for Supporting Practice- 
+Relevant Research.” Environment and Planning B: Urban Analytics and City Science 46 (8): 
+1458–1479. doi:10.1177/2399808319832611 .
+Perrotti, D. 2020 . “Urban Metabolism: Old Challenges, new Frontiers, and the Research Agenda 
+Ahead.” In Urban Ecology, edited by P. Verma, P. Singh, R. Singh, and A. S. Raghubanshi, 
+17–32. Elsevier.
+Perrotti, D. 2022 . “Toward an Agentic Understanding of the Urban Metabolism: A Landscape 
+Theory Perspective.” Urban Geography 43 (1): 1–11. doi:10.1080/02723638.2020.1848760 .
+Perrotti, D., and O. Iuorio. 2019 . “Green Infrastructure in the Space of Flows: An Urban 
+Metabolism Approach to Bridge Environmental Performance and User’s Wellbeing.” In 
+Planning Cities with Nature: Theories, Strategies and Methods, edited by F. Lemes de Oliveira 
+and I. Mell, 265–277. Cham: Springer International Publishing.
+Perrotti, D., S. Moosavi, and D. Otero Peña. 2023 . “Urban Metabolism Research Can Leverage 
+Resource-Sensitive Planning and Design of Open Spaces and Green Infrastructure.” In 
+Europan C17: Villes Vivantes, edited by H. Peskine and L. Vitalis, 27–36. France: Rebublique 
+Francaise.
+Perrotti, D., and S. Stremke. 2020 . “Can Urban Metabolism Models Advance Green Infrastructure 
+Planning? Insights from Ecosystem Services Research.” Environment and Planning B: Urban 
+Analytics and City Science 47 (4): 678–694. doi:10.1177/2399808318797 .
+Pistoni, R., and S. Bonin. 2017 . “Urban Metabolism Planning and Designing Approaches Between 
+Quantitative Analysis and Urban Landscape.” City, Territory and Architecture 4 (1): 20. doi:10. 
+1186/s40410-017-0076-y .
+Romanovska, L., P. Osmond, and P. Oldfield. 2023 . “Life-cycle-thinking in the Assessment of 
+Urban Green Infrastructure: Systematic Scoping Review.” Environmental Research Letters 18 
+(6): 063001. doi:10.1088/1748-9326/accfae .
+Schröter, B., C. Sattler, J. Metzger, J. Rhodes, M. Fortin, C. Hohlenwerger, … Ö Bodin. 2023 . 
+“Exploring the Role of Boundary Work in a Social-Ecological Synthesis Initiative.” Journal of 
+Environmental Studies and Sciences 13: 330–343. doi:10.1007/s13412-022-00811-8 .
+Stephan, A., R. Crawford, V. Bunster, G. Warren-Myers, and S. Moosavi. 2022 . “Towards a 
+Multiscale Framework for Modeling and Improving the Life Cycle Environmental 
+Performance of Built Stocks.” Journal of Industrial Ecology 26 (4): 1195–1217. doi:10.1111/ 
+jiec.13254 .
+Streeck, J., D. Wiedenhofer, F. Krausmann, and H. Haberl. 2020 . “Stock-flow Relations in the 
+Socio-Economic Metabolism of the United Kingdom 1800–2017.” Resources, Conservation 
+and Recycling 161: 104960. doi:10.1016/j.resconrec.2020.104960 .
+Thomson, G., and P. Newman. 2018 . “Urban Fabrics and Urban Metabolism–from Sustainable to 
+Regenerative Cities.” Resources, Conservation and Recycling 132: 218–229. doi:10.1016/j. 
+resconrec.2017.01.010 .
+UN-HABITAT. 2022 . World Cities Report 2022: Envisaging the Future of Cities. Nairobi: United 
+Nations Human Settlements Programme.
+United Nations Environment Programme. 2018 . The Weight of Cities: Resource Requirements Of 
+Future Urbanization-Summary for Policymakers (928073699X). Retrieved from https:// 
+wedocs.unep.org/20.500.11822/31624
+van den Brink, M., J. Edelenbos, A. van den Brink, S. Verweij, R. van Etteger, and T. Busscher. 
+2019 . “To Draw or to Cross the Line? The Landscape Architect as Boundary Spanner in 
+Dutch River Management.” Landscape and Urban Planning 186: 13–23. doi:10.1016/j. 
+landurbplan.2019.02.018 .EUROPEAN PLANNING STUDIES 
+ 1465
+van den Brink, M., A. van den Brink, and D. Bruns. 2022 . “Boundary Thinking in Landscape 
+Architecture and Boundary-Spanning Roles of Landscape Architects.” Landscape Research 
+47 (8): 1087–1099. doi:10.1080/01426397.2022.2091121 .
+van Dijk, T., A. Kempenaar, M. van den Brink, and N. Laeni. 2023 . “Boundary Spanning in 
+Design-led Strategic Spatial Planning: Lessons from Post-Sandy Rebuilding Efforts.” 
+International Planning Studies 28 (3-4): 367–383. doi:10.1080/13563475.2023.2251703 .
+Zhang, Y., Z. Yang, and X. Yu. 2015 . “Urban Metabolism: A Review of Current Knowledge and 
+Directions for Future Study.” Environmental Science & Technology 49 (19): 11247–11263. 
+doi:10.1021/acs.est.5b03060 .
+Zimmer, A. 2010 . “Urban Political Ecology: Theoretical Concepts, Challenges, and Suggested 
+Future Directions.” Erdkunde 64 (4): 343–364. doi:10.2307/25822107 .1466 
+ S. MOOSAVI ET AL.

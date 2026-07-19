@@ -1,0 +1,1192 @@
+rAcademy of Management Journal
+2016, Vol. 59, No. 5, 1823 –1844.
+http://dx.doi.org/10.5465/amj.2014.0385
+MANAGING COORDINATION IN MULTITEAM SYSTEMS:
+INTEGRATING MICRO AND MACRO PERSPECTIVES
+THOMAS A. DE VRIES
+University of Groningen
+JOHN R. HOLLENBECK
+Michigan State University
+ROBERT B. DAVISON
+University of Kansas
+FRANK WALTER
+Justus Liebig University Giessen
+GERBEN S. VAN DER VEGT
+University of Groningen
+Multiteam systems (i.e., teams of teams) are frequently used to deal with complex and
+demanding challenges that require several teams ’joint efforts. However, achieving ef-
+fective horizontal coordination across component teams in these systems remains dif-ficult. Using insights from organizational behavior research, we argue that horizontal
+coordination between component teams can benefit if a multiteam system is composed
+of generalist members who are acquainted with the multiple functions present in theoverall system (i.e., high intrapersonal functional diversity [IFD]). At the same time,
+however, such IFD may have detrimental side effects because generalists ’broad focus
+may distract them from high-impact, specialized activities (i.e., aspirational behavior).Building on insights from organization theory, we propose that coordination acrossa multiteam system ’s hierarchical layers (i.e., vertical coordinated action between
+a team tasked with system-wide integration and task-specialized component teams) is
+critical for reaping IFD ’s benefits while avoiding its costs. These notions are supported
+in a sample of 236 14-person multiteam systems engaged in a realistic decision-making
+simulation. Our findings illustrate how combining insights from organizational behav-
+ior and organization theory can advance academic knowledge on multiteam systemsand offer practical solutions for managing such systems.
+Many critical tasks in business and society are
+beyond the capacity of single individuals or even
+single teams (DeChurch & Zaccaro, 2010). For ex-
+ample, large-scale transportation networks, militaryoperations (Goodwin, Essens, & Smith, 2012), emer-
+gency responses (DeChurch & Mathieu, 2009), and
+new product developments (Hoegl, Weinkauf, &
+Gemuenden, 2004) typically require coordinatedactions of two or more teams, each of which havedistinct areas of expertise (Mathieu, Marks, &Zaccaro, 2001). These “multiteam systems ”bring
+together “a complex variety of skills, knowledge, and
+functions ”in adaptive structures that are especially
+suited to managing highly complex environments
+(Zaccaro, Marks, & DeChurch, 2012: 12). They com-
+prise a greater number of members and are struc-turally more complex than standalone teams (withdistinct component teams as an additional layer),but they are smaller, more agile, and less bureau-cratic than traditional multi-unit organizations (e.g.,We gratefully acknowledge the generous support pro-
+vided by the faculty, staff, and students of the United States
+Air Force (USAF) Squadron Officer College, Maxwell Air
+Force Base, Montgomery, Alabama. In particular, we thankGen. Donald Cook, USAF, Retired; Col. Michael Tanous,
+USAF; Lt. Col. Stephen Harmon, USAF; Maj. Caroline
+Knutson-Vacarro, USAF, Retired; Maj. Kenneth Hanson,USAF, Retired; and Drs. Filomeno Arenas and MatthewStafford. Special thanks go to Dr. Hank Dasinger for his
+vision and leadership managing the multiteam system that
+was required to accomplish this research.
+1823
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted with out the copyright holder ’s express
+written permission. Users may print, download, or email articles for individual use only.corporate divisions) (Davison, Hollenbeck, Barnes,
+Sleesman, & Ilgen, 2012).
+In order to function effectively, multiteam systems
+need to combine the efforts of the component teamsresponsible for operational task execution (Ford &Schmidt, 2000; Mathieu et al., 2001; Zaccaro et al.,2012). Such horizontal coordination represents the
+extent to which component teams from the samehierarchical level align and synchronize their ac-
+tivities with each other (Lanaj, Hollenbeck, Ilgen,
+Barnes, & Harmon, 2013; Marks, DeChurch, Mathieu,Panzer, & Alonso, 2005). Effective horizontal co-ordination enables multiteam systems to synthe-size component teams ’distinct contributions and
+utilize these teams ’complete range of specialized
+resources (DeChurch & Mathieu, 2009; Marrone,2010; Smith, Carroll, & Ashford, 1995). Regrettably,
+however, horizontal coordination is often difficult
+to achieve due to multiteam systems ’sheer size
+(Browning, 1998; Davison et al., 2012) and due tomisunderstandings that can arise from differencesin component teams ’languages, routines, and
+thought-worlds (Zaccaro et al., 2012). Indeed, it ap-pears notoriously difficult to effectively managemultiteam systems, and many of the documented
+performance breakdowns within such systems have
+been attributed to ineffective horizontal coordina-tion (DeChurch & Zaccaro, 2010). Prime examplesinclude the delayed emergency response followingHurricane Katrina in 2005 (DeChurch & Mathieu,2009) and the loss of the Mars climate orbiter in 1999(Postrel, 2002).
+Two distinct research perspectives have generated
+insights into how to promote horizontal coordination.
+The dominant line of reasoning, in this respect, de-rives from a micro-level organizational behavior (OB)tradition. It focuses on providing teams with the ca-pacity for realizing hori zontal coordination in a
+bottom-up manner (Crichton & Flin, 2004; Ford &Schmidt, 2000). An impor tant strategy that has
+emerged from this line of inquiry is to compose or
+develop teams with broad functional generalists, in-
+stead of narrow specialists (Joshi, Pandey, & Han,2009; Park, Lim, & Birnbaum-More, 2009). Studies instandalone, cross-functional teams, for example, haveshown that intrapersonal functional diversity (IFD),
+defined as team members ’average breadth of func-
+tional experience (Bunderson & Sutcliffe, 2002), im-proves members ’collective understanding of
+each other ’s specialized contexts and constraints
+(Cannella, Park, & Lee, 2008; Park et al., 2009). Simi-larly, research on cross-tr aining suggests that rota-
+tion through functionally distinct positions broadensmembers ’knowledge of shared tasks, equipment, and
+functions (Cannon-Bowers, Salas, Blickensderfer, &
+Bowers, 1998; Marks, Sabella, Burke, & Zaccaro,2002). Building on this logic, high IFD seems likely tofacilitate horizontal coordination between compo-nent teams and promote multiteam system perfor-mance (Ford & Schmidt, 2000).
+There is an important caveat to this conclusion,
+however, in that empirical research relating IFD to
+multiteamsystemperformanceislacking.Inaddition,
+research in related areas has not consistently estab-lished IFD ’s benefits for larger organizational units
+with multiple (sub)groups (Leenders & Wierenga,2002;Maltz & Kohli,2000). Infact, increasingIFD mayhave the unintended side effect of limiting the depthof members ’functional experiences and diminishing
+their task focus (Hatvany & Pucik, 1981; Raskas &
+Hambrick, 1992). Steps taken to develop broad func-
+tional experience may hinder members ’specializa-
+tion (Cannella et al., 2008; Tesluk & Jacobs, 1998), inparticular, because time, talent, and training budgetsare all limited resources. This may pose importantproblems for multiteam systems, as members lackingdeep, comprehensive experience in a specific workarea have a tendency to avoid, rather than proactively
+solve, difficult problems associated with the re-
+spective area (Jans & Frazer-Jans, 2004; Postrel, 2002).Thus, IFD ’s potential benefits for horizontal coordina-
+tion may come at the cost of decreased aspirationalbehavior (i.e., a m ultiteam system ’s engagement in
+complex, specialized activities that push performanceboundaries [Lanaj et al., 2013]).
+A second, independent research perspective may
+reconcile these countervailing effects of IFD. Groun-
+ded in macro-level organization theory (OT) (e.g.,Galbraith, 1994; Lawrence & Lorsch, 1967), this per-spective focuses on formal, top-down integrationmechanisms that can promote multiteam systemperformance (Browning, 1998; Davison et al., 2012).Research in this tradition has found, in particular,that a central group of formal boundary spanners
+with system-wide integrative leadership responsibil-
+ities (Sherman & Keller, 2011) can support compo-nent teams through vertical coordinated action
+(i.e., “coordination that takes place between report-to
+and direct reporting actors across organizationallevels whose breadth of scope and authority differ ”
+[Davison et al., 2012: 809]). Such vertical coordinatedaction enables the integration team to transfer com-
+prehensive information on system-wide task de-
+mands toward component teams (Davison etal., 2012;Galbraith, 1994) and, as such, may strengthen IFD ’s
+positive consequences for horizontal coordination1824 October Academy of Management Journaland neutralize IFD ’s negative implications for aspi-
+rational behavior (see Figure 1).
+We examined these notions in a sample of 236
+multiteam systems comprising 3,304 individuals
+engaged in a series of realistic computer simulations
+while attending a leadership development programwith tangible career consequences. This setting en-abled us to overcome the “onerous research obsta-
+cles”(Gulati, 1998: 306) that have limited past
+empirical research in this area (e.g., compiling a suf-ficiently large sample of comparable multiteam sys-tems [DeChurch & Zaccaro, 2010]).
+Taken together, this research aims to advance our
+understanding of the ante cedents associated with
+critical processes (horizontal coordination and as-pirational behavior) and performance outcomesin multiteam systems. We illustrate how combin-ing insights from micro-level OB and macro-levelOT literatures enables important theoretical ad-vances in multiteam system research (DeChurch &
+Zaccaro, 2010; Zaccaro et al., 2012) and, more
+generally, in research on collaborative task accom-plishment (Marrone, 20 10; Smith et al., 1995).
+Moreover, this study is imp ortant for management
+practice because it points to proximal antecedentvariables (IFD and vertical coordinated action) thatorganizations can manipulate through readilyavailable interventions, thereby enabling managers
+to shape horizontal coordination, aspirational be-
+havior, and overall performance as critical, yetdifficult-to-influence, aspects of multiteam systemfunctioning.THEORY AND HYPOTHESES
+IFD as a Multiteam System Property
+Consistent with previous team-level research (e.g.,
+Bunderson & Sutcliffe, 2002), we conceptualize IFD as
+a configural unit property (Kozlowski & Klein, 2000),representing the degree to which a multiteam system iscomposed of broad generalists with experiences that aredispersed across the system ’s multiple functional do-
+mains, as opposed to narrow specialists with experi-ences focused in a single domain. Unlike interpersonal
+functional diversity, which reflects differences across
+members with regard to the functional domains in
+which they have obtained most of their work experi-ence, intrapersonal functional diversity considers dif-
+ferentiation within individuals. As such, IFD captures
+the full spectrum of members ’work experiences (Burke
+& Steensma, 1998; Joshi et al., 2009). IFD is highest whenevery multiteam system member has experience in allfunctional domains relevant to the system, and it is
+lowest when every member ’s task-related experience is
+focused in a single domain. A multiteam system ’sI F D
+can be increased, for example, through inter-functionalrotations, team member exchanges (Leenders &Wierenga, 2002), and cross-training within differentfunctional domains (Marks et al., 2002).
+IFD and Multiteam System Performance
+Promoting horizontal coordination: IFD ’sp o t e n t i a l
+benefits. Research originating from a micro-OB
+tradition has put forward theoretical and empiricalFIGURE 1
+Conceptual Model
+Horizontal
+Coordination
+Vertical
+Coordinated
+ActionIntrapersonal
+Functional
+DiversityMultiteam System
+Performance
+Aspirational
+Behavior2016 1825 de Vries, Hollenbeck, Davison, Walter, and van der Vegtarguments to support IFD ’s value for multiteam
+systems. Scholars have noted that broad functional
+backgrounds enable members to sense “the web of
+relationships ”(Raskas & Hambrick, 1992: 10) that
+connects their activities within the overall systemand to better understa nd other system parts ’func-
+tioning (Ford & Schmidt, 2000; Joshi et al., 2009;Kusunoki & Numagami, 1 9 9 8 ) .H e n c e ,I F Dm a y
+promote mutual knowledge regarding roles, tasks,
+and responsibilities w ithin a multiteam system
+(Cannon-Bowers et al., 1998; Ellis & Pearsall, 2011;Marks et al., 2002). This mutual knowledge re-duces component teams ’need to discuss and
+clarify task-related issues with each other, therebyenabling them to implicitly and seamlessly co-ordinate efforts when wor king on joint tasks (Entin
+& Serfaty, 1999; Kotha, Ge orge, & Srikanth, 2013).
+Without IFD, component teams need to repeatedly
+engage in cumbersome interactions because theydo not sufficiently understand each other ’s special-
+ized task competences, resources, and constraints(Cramton, 2001; Kotha et al., 2013; Srikanth &Puranam, 2011). In other words, higher IFD mayprovide multiteam systems with crucial, “tacit”
+mechanisms of horizontal coordination, thereby po-
+tentially enabling component teams to realize such
+coordination in an efficient, bottom-up manner(Srikanth & Puranam, 2011: 855; see also Puranam,Raveendran, & Knudsen, 2012).
+Horizontal coordination, in turn, may promote
+multiteam system performance by preventing re-dundancies and inconsistencies between differentcomponent teams ’activities (Hoegl et al., 2004; Lanaj
+et al., 2013). In addition, component teams may re-
+ceive crucial support from each other through hori-zontal coordination, which enables them to betterexecute key tasks for the system as a whole (Joshiet al., 2009; Marrone, 2010). As such, horizontal co-ordination is generally regarded as fundamental forefficiently and effectively realizing collective out-comes (DeChurch & Mathieu, 2009; Mathieu et al.,
+2001). Research on rail-control multiteam systems,
+for example, has shown such coordination to allowcomponent teams from various carriers, networkoperators, and contractors to combine their expertiseand, thus, to effectively solve joint operationalproblems (Goodwin et al., 2012).
+However, IFD ’s value for horizontal coordination
+and multiteam system performance is not as clear-
+cut as the above arguments might suggest. Despite
+its well-documented importance within standaloneteams (e.g., Bunderson & Sutcliffe, 2002; Parket al., 2009; Rulke & Galaskiewicz, 2000), IFD ’sconsequences for more complex multiteam sys-
+tems have not been studied. Moreover, empirical
+research in larger organizational units has paintedan inconsistent picture. Parry and Song (1993), forexample, found that mu ltifunctional members
+strengthened integration between organizationalunits, whereas Leenders and Wierenga (2002) foundthat moving personnel across different functionaldepartments did not aid such integration (see also
+Maltz & Kohli, 2000). Hence, it is unclear whether the
+positive relation between IFD and horizontal co-ordination (and, ultimately, performance) observedin standalone teams will translate toward multiteamsystems.
+Diminishing aspirational behavior: IFD ’s po-
+tential downsides. Besides IFD ’s potential benefits
+for horizontal coordination, it is important to note
+that IFD might, at the same time, come with the un-
+desirable side effect of constraining a multiteamsystem ’s aspirational behavior. As noted above, such
+behavior reflects a system ’s engagement in complex,
+specialist activities that are instrumental to the re-alization of its key strategic goals (Lanaj et al., 2013).A primary reason for these adverse effects of IFD isthat frequent functional rotations leave members
+with little time to develop specialist insights within
+any particular work domain (Buyl, Boone, Hendriks,& Matthyssens, 2011). Consequently, members maylack the knowledge and experience required for ef-fectively performing complex, aspirational taskswithin specific domains. Members may, then, betempted to forgo complex domain-specific activitiesin the multiteam system (Postrel, 2002: 360) and
+adopt “tactical modes of professional behavior ”by
+concentrating on simpler, less ambitious courses ofaction (Jans & Frazer-Jans, 2004: 258).
+Neglecting these adverse side effects may have
+far-reaching ramifications, because aspirational be-havior is fundamental for multiteam system perfor-mance (Lanaj et al., 2013). To return to the example ofa rail-control multiteam system, it is a strategic goal
+of such systems to recover as quickly and robustly as
+possible from network disturbances. Accomplishingthis goal requires that a multiteam system goes be-yond the mere treatment of surface-level symptomsto identify and correct the root causes underlyinga disturbance (Jans & Frazer-Jans, 2004; Postrel,2002). Limited aspirational behavior may suffice toameliorate a disturbance ’s direct consequences, but
+it is unlikely to effectively address long-term rami-
+fications for the rail network as a whole. In fact, lowaspirational behavior may even hurt system per-formance in the long run, because this approach1826 October Academy of Management Journaltypically “doubles the [subsequent] repair effort and
+associated costs ”(Goodwin et al., 2012: 60). In line
+with this argument, previous team-level researchhas found that members can realize more advancedcontributions for their team when deliberatelyworking toward more difficult and aspirational goals(Knight, Durham, & Locke, 2001). Initial empiricalwork at the multiteam system level has mirroredthese findings, suggesting a positive relationship
+between aspirational behavior and multiteam sys-
+tem performance (Lanaj et al., 2013).
+Triggering Alternative Pathways: The Role of
+Vertical Coordinated Action
+Interestingly, a different research paradigm —
+originating from an OT tradition —may clarify IFD ’s
+countervailing effects in multiteam systems. The OB
+perspective discussed above examines how compo-sitional characteristics (such as IFD) shape horizon-tal coordination and aspirational behavior in anemergent, bottom-up manner. In contrast, the OTperspective focuses on formal, top-down mecha-nisms (e.g., Brown, 1999; Galbraith, 1994; Lawrence& Lorsch, 1967). This latter perspective has identi-
+fied integration teams, in particular, as crucial for
+multiteam systems (Browning, 1998; Davison et al.,2012). Integration teams are a formal part of a multi-team system ’s structure; they are responsible for
+ensuring effective coordination between specializedcomponent teams and realization of the overall sys-tem’s strategic goals (Davison et al., 2012; DeChurch
+& Marks, 2006). For these purposes, integration
+teams typically hold a central position in the flow of
+work, with members dedicated to spanning bound-aries between component teams (DeChurch & Marks,2006; Goodwin et al., 2012). This unique role allowsintegration teams to develop “big-picture in-
+formation ”on real-time coordination and strategic
+demands in the wider system (Davison et al.,2012: 812).
+It is important to note, however, that integration
+teams typically cannot singlehandedly realizea multiteam system ’s operational tasks because they
+lack the time, manpower, and specialized expertiseto substitute for component teams ’efforts (Brown,
+1999; Galbraith, 1994). Rather, integration teams ’
+core responsibility is to utilize their unique, broadperspective to guide and support component teams ’
+operational task accomplishment (Galbraith, 1994).
+To effectively meet this responsibility, it is cru-cial that integration teams frequently connect withdifferent component teams to align task-relatedmatters —an internal multiteam system process we
+label vertical coordinated action (Davison et al.,
+2012). This process enables integration teams totransmit and clarify their big-picture information oncoordination demands and strategic requirementstoward component teams. Component teams canthen act upon such information by engaging in hor-izontal coordination and aspirational behavior.Clearly, however, these potential benefits associated
+with vertical coordinated action hinge on whether
+component teams can put the integration team ’s in-
+sights to effective use —and we propose that IFD
+plays a key role in this regard.
+As such, we argue that OB and OT perspectives
+complement each other to enable a better and morecomprehensive picture of multiteam system func-tioning. OB research provides a useful starting
+point for understanding how component teams ’
+capacities —as derived from IFD —may shape multi-
+team system processes, but it does not speak to therole of the organizational structure in which suchbottom-up processes take place (House, Rousseau, &Thomas-Hunt, 1995). Macro-level OT research, onthe other hand, has considered the role of top-downorganizational context factors by focusing on formal
+integration teams, but has generally ignored crucial
+bottom-up factors that can implicitly organize jointefforts (Browning, 1998; Davison et al., 2012; Houseet al., 1995; for a recent exception, see Srikanth &Puranam, 2011). Consequently, we follow recenttheoretical developments (e.g., Kotha et al., 2013;Srikanth & Puranam, 2011; see also Gioia & Pitre,1990) by adopting a multi-paradigm approach that
+integrates insights from the OB and OT literatures to
+study multiteam systems. As depicted in Figure 1,we suggest that IFD and vertical coordinated actionare intertwined in a complex manner, with verticalcoordinated action determining whether IFD ’s ad-
+vantages (increased horizontal coordination) or dis-advantages (decreased aspirational behavior) willprevail.
+The role of vertical coordinated action in the re-
+lationship between IFD and horizontal coordination.
+If IFD is to effectively stimulate horizontal co-ordination within a multiteam system, it is crucialthat members have a thorough overview of system-wide activities and coordination demands (Espinosa,Slaughter, Kraut, & Herbsleb, 2007; Klein & Pierce,2001). Equipped with this overview, members can
+draw from their IFD and implicitly coordinate their
+own component team ’s activities with other teams
+(DeChurch & Marks, 2006). Unfortunately, however,multiteam systems ’large-scale and dynamic nature2016 1827 de Vries, Hollenbeck, Davison, Walter, and van der Vegtoften prevents component team members from being
+informed about all activities and coordination re-
+quirements in the system as a whole (Browning, 1998;Davison et al., 2012). Integration teams are likely toplay a critical role in addressing this issue, becausetheir central location in the flow of work uniquelypositions them to gain real-time, comprehensiveinformation on the overall system (Brown, 1999;DeChurch & Marks, 2006; Galbraith, 1994) and to
+transfer such information t o component teams through
+vertical coordinated action.
+Thus, we anticipate that vertical coordinated ac-
+tion will strengthen the positive relationship be-tween IFD and horizontal coordination. Multiteamsystems with high IFD have the mutual knowledgenecessary to enact implicit horizontal coordination(Cramton, 2001), and they receive crucial infor-
+mation from the integration team in order to employ
+this knowledge when vertical coordinated action ishigh (DeChurch & Marks, 2006). Multiteam systemsthat are low in IFD, on the other hand, may be unableto enact effective horizontal coordination even whenthe integration team exhibits strong vertical co-ordinated action. In such circumstances, the systemis likely to experience difficulties in sensing re-
+lationships between different teams ’activities and
+implicitly structuring and aligning component teams ’
+contributions (Ford & Schmidt, 2000; Kusunoki &Numagami, 1998; Srikanth & Puranam, 2011). Hence,despite the integration team ’s efforts, horizontal co-
+ordination is likely to remain limited by misunder-standings and cumbersome interaction processesbetween component teams.
+In contrast, IFD is less likely to positively relate
+with horizontal coordination in multiteam systemswith lower vertical coordinated action. In this situ-ation, the integration team fails to support compo-nent teams ’horizontal coordination (Mathieu et al.,
+2001). With low IFD it is clear, then, that horizontalcoordination is unlikely to occur. After all, compo-nent teams lack the mutual knowledge required to
+implicitly account for each other ’s demands (Ford &
+Schmidt, 2000; Joshi et al., 2009), and the integrationteam provides little information to facilitate suchefforts (Davison et al., 2012; DeChurch & Marks,2006). Thus, the difficulties of aligning actionsacross component teams may overburden members ’
+limited capacities (Faraj & Yan, 2009; Marrone,2010). Even multiteam systems with functionally
+broad members (high IFD), however, are unlikely to
+effectively use their mutual knowledge for horizon-tal coordination when vertical coordinated actionis lacking. Under these circumstances, componentteams have to uncover coordination requirements
+through explicit and cumbersome interactions be-
+fore they can align their efforts (Browning, 1998;Davison et al., 2012). Hence, without adequate in-tegration team support, much of IFD ’s potential is
+likely to be spent on preparatory actions rather thanhorizontal coordination itself.
+Taken together, we predict that vertical co-
+ordinated action will allo w multiteam systems to
+more effectively utilize their IFD for horizontal
+coordination, thereby strengthening IFD ’sp e r f o r -
+mance benefits. With little vertical coordinatedaction, in contrast, these performance benefitsshould remain limited, as th e positive relationship
+between IFD and horizontal coordination is lesslikely to materialize.
+Hypothesis 1. Vertical coordinated action mod-
+erates the indirect relationship between IFD andmultiteam system performance, as mediated byhorizontal coordination. This positive indirect
+relationship is accentuated when vertical co-
+ordinated action is higher and attenuated whenvertical coordinated action is lower.
+The role of vertical coordinated action in the
+relationship between IFD and aspirational
+behavior. Besides the coordination advantages de-
+scribed above, integration teams ’central role within
+multiteam systems should enable them to obtainan overarching perspective on progress against thesystem ’s strategic goals (DeChurch & Marks, 2006;
+Galbraith, 1994; Klein & Pierce, 2001) and totransfer strategically important information out to
+component teams through vertical coordinated
+action. In multiteam systems with high IFD, verti-cal coordinated action may therefore compensatefor component teams ’pragmatic orientation to-
+ward immediate and obvious tasks and away fromhigh-impact, yet difficult, activities (Jans & Frazer-Jans, 2004). Under such co nditions, the integration
+team can emphasize core strategic directions for
+the system as a whole and direct component teams ’
+efforts toward challenging, specialized activitiesthat advance such goals (Brown, 1999; Mathieuet al., 2001). Even multiteam systems with high IFDare likely, then, to retain a focus on aspirationalactivities during task execution, thereby dimin-ishing the negative relationship between IFD andaspirational behavior.
+In contrast, IFD ’s negative consequences for as-
+pirational behavior shou ld surface particularly
+strongly when vertical coordinated action is lesspronounced. In such situa tions, the integration1828 October Academy of Management Journalteam fails to guide the system toward high-impact
+and strategically important goals (Browning, 1998;
+Klein & Pierce, 2001). M ultiteam systems com-
+prising functionally narrow specialists (low IFD)may be able to exhibit aspirational behavior tosome degree even in this context, because mem-bers have thorough domain-specific knowledgethat allows them to identify and execute complextasks related to their specialized work domain
+(Postrel, 2002). In multiteam systems with high IFD,
+however, generalists ’broad and relatively superficial
+perspective on specialized tasks may focus them onimmediate, less challenging, and low-impact activi-ties, and a lack of vertical coordinated action is likely toexacerbate this orientatio n. The integration team does
+little to redirect functionally broad members ’focus
+toward strategic, high-impact goals in this context,
+thereby sustaining the overall system ’s narrow func-
+tional outlook.
+Taken together, we predict that strong vertical
+coordinated action can compensate for IFD ’s nega-
+tive performance effects by diminishing the inverseassociation between IFD and aspirational behavior.With low vertical coordinated action, however, in-creasing IFD is likely to go along with substantial
+decrements in aspirational behavior and, thus,
+to deteriorate a multiteam system ’s performance
+outcomes.
+Hypothesis 2. Vertical coordinated action mod-
+erates the indirect relationship between IFDand multiteam system performance, as medi-ated by aspirational behavior. This negative in-direct relationship is accentuated when verticalcoordinated action i s lower and attenuated
+when vertical coordinated action is higher.
+METHODS
+Research Design and Sample
+We tested our hypotheses using a sample com-
+prised of 3,304 United States Air Force officers at-tending a five-week leadership development course.Participants represented a broad range of job cate-gories and had between five and nine years of pro-fessional work experience. As part of the course,participants were assigned to 236 fourteen-personmultiteam systems that worked together on a series
+of realistic computer-based decision-making simu-
+lations (i.e., the Leadership Development Simula-tion [LDS]). These simulations formed the basis forthe present study. During the simulations, partici-pants dealt with tasks that were highly similar totheir regular jobs. Their performance was part of
+their overall course evaluations and influenced fu-
+ture advancement and promotion opportunities. Assuch, this study combined elements of both labora-tory (e.g., high control and standardization across allmultiteam systems) and field (e.g., a realistic samplewith tangible consequences tied to participants ’task
+performance) research.
+Each multiteam system participated in three in-
+dependent LDS sessions (with equivalent pro-
+cedures and identical membership) during thecourse of the leadership development program. Datafor the present investigation is mainly based on thethird and final simulation session. Air Force trainersassigned participants to a specific multiteam systemto ensure competitive fairness and equivalent com-position (e.g., in terms of age, gender, occupational
+category, etc.). In addition, task difficulty and com-
+plexity was held constant by using the exact sameconfiguration of the simulation across all 236 multi-team systems within each of the LDS sections. Allparticipants received comprehensive training priorto their first LDS session, which included readingmaterial, an illustrated presentation, and threepractice rounds. Moreover, the multiteam systems
+received a limited intelligence briefing, and could
+use 10 minutes before the start of a simulation ses-sion for initial planning and goal setting. The multi-t e a ms y s t e m st h e np a r t i c i p a t e di nc o m p u t e r - b a s e dsimulations lasting roughly 120 minutes per session.
+This study was part of a larger research program
+designed to comprehensively advance scientificknowledge on multiteam systems. We were unable
+to control or manipulate IFD in this context (e.g.,
+through random assignment to different IFD condi-tions), because (a) simulation results had tangibleimplications for participants ’career advancement
+and (b) we expected potential disadvantages associ-ated with IFD (e.g., reduced aspirational behavior).Hence, we used a priori screening criteria to selectcomparable multiteam systems from the overall re-
+search program that had similar opportunities to
+develop and apply IFD (for similar approaches, seeHolloway & Parmigiani, 2014; Reuer & Devarakonda,2015; Schulze, Lubatkin, & Dino, 2003). Specifically,we included all multiteam systems that hadremained (a) intact across all three LDS sessions(i.e., no membership additions or losses), and (b)stable after developing different levels of IFD across
+the first and second LDS sessions (i.e., no changes in
+members ’functional roles between the second and
+third sessions). These criteria built on the notion that(a) IFD and performance in the third and final session2016 1829 de Vries, Hollenbeck, Davison, Walter, and van der Vegtare only comparable between multiteam systems
+with constant membership, and (b) IFD ’s implica-
+tions could fully surface in the final session only inmultiteam systems that had finished developing IFDafter the second session. With regard to the latterpoint, we expected multiteam systems to experienceperformance decrements during the process of de-veloping IFD, as its members rotated toward newfunctional domains and needed to adjust to an un-
+familiar task. These performance decrements should
+be temporary, however, as they reflect short-termadjustment problems rather than general IFD charac-teristics (i.e., members ’broad, yet superficial, expe-
+riences). By focusing on multiteam systems that hadfinished developing IFD after the second LDS session,we could prevent such temporal problems from con-founding IFD ’s effects during the third session.
+As is common in large-scale research efforts
+(e.g., Huxham & Vangen, 2000), the overall researchprogram was designed to produce several studies ondifferent aspects of multiteam system functioning.Consequently, some of the multiteam systems in thepresent sample (39 to 47%) had also been used inprior studies (Davison et al., 2012; Firth, Hollenbeck,Miles, Ilgen, & Barnes, 2014; Lanaj et al., 2013).
+1
+Importantly, however, the data from the third LDSsession used here have not been previously exam-ined, and no other study in this program has exam-ined IFD. The present study is thus unique bothempirically and conceptually. In addition, we notethat our results are robust when controlling for keyvariables included in previous studies.
+Multiteam System Simulation
+Task. The LDS was a computer-based simulation
+during which all 14 participants within a multiteamsystem were colocated and free to communicate witheach other.
+2The simulation created a complex and
+dynamic task environment that required multiteamsystem members to work interdependently and un-
+der time pressure to deploy a large number of assets
+(i.e., remotely piloted aircraft [RPAs] and intelligenceassets) to achieve the common goal of maximizing thesystem ’s overall point score. Points could be gained
+by successfully engaging a variety of targets hidden ina 256-cell task environment, and points were lostwhen RPAs or their home base were attacked.Targets ’point value varied by size and class, with
+large “opportunities ”carrying the highest and small
+“threats ”carrying the lowest value. Threats (but not
+opportunities) had the ability to attack RPAs and thehome base. To increase environmental uncertaintyand problem-solving workload, target types wereinitially disguised for half of the targets in the thirdsession. Participants therefore had to collaborativelyengage in a process of exploration, experiential
+learning, and reasoning to discover these targets ’at-
+tributes. Initial target placements, as well as targettypes and movements, were identical for all multi-team systems.
+Multiteam system composition and roles. Mul-
+titeam systems contained three types of teams: twocomponent teams (point and support) and an in-tegration team. The point team ’s primary role was to
+engage targets, whereas the support team ’s role was
+to provide intelligence on targets ’location and
+identity. Each of the two component teams com-prised four staff members with specific operationalresponsibilities, as well as two boundary spanners(denoted director and assistant director). The pointteam ’s individual staff members each controlled one
+category of identical RPAs with unique capabilities
+(i.e., “Strike ”for engaging opportunities, “Escort ”
+for neutralizing threats, “Info”for providing in-
+formation on targets ’identity, and “Refuel ”for
+refueling other RPAs for long-distance missions).Moreover, each of the four support team staff mem-bers controlled one unique category of intelligenceassets with distinct “sweet spots ”(i.e., a limited zone
+in the simulation environment in which the re-
+spective asset provided reliable information on tar-
+get identity). Intelligence assets ’sweet spots were
+unknown at the start of the simulation, and partici-pants thus had to uncover these zones through col-lective exploration and shared learning.
+Multiteam systems also included an integration
+team, which comprised the four boundary spannersfrom the component teams and two additional
+members (denoted mission commander and vice
+commander). This integration team was tasked witha boundary-spanning role to facilitate componentteams ’cooperation and task accomplishment.
+Scholars have noted that enactment of this role canvary along a continuum from “liaison ”to“in-
+tegrative leadership. ”Liaison roles employ non-
+hierarchical means (e.g., information collection and
+dissemination), whereas integrative leadership roles
+rely on formal decision authority (Galbraith, 1994;Sherman & Keller, 2011; Sinha & Van de Ven, 2005).In the present case, one half of the integration team
+1A detailed description of the overlap between studies ’
+samples is available from the second author upon request.
+2See Davison et al. (2012) for a detailed description of
+LDS.1830 October Academy of Management Journal(the vice commander and assistant directors) enac-
+ted liaison roles without formal authority, whereas
+the other half (the mission commander and the twodirectors) had integrative leadership roles. All ofthese members were required to work closely to-gether as a team to effectively meet their joint re-sponsibilities. Liaison members, in particular, hada supportive function within the integration team;their core task was to assist decision making by col-
+lecting, integrating, and disseminating information
+on component teams ’actions. Integrative leaders
+critically required such information to make pur-poseful leadership decisions, whereas liaisonsneeded integrative leaders ’inputs and feedback to
+guide their information collection activities and en-able them to effectively prepare and communicatesuch information.
+A distinctive feature of the multiteam systems
+studied here is that a system ’s individual teams had
+to collaborate to jointly ensure the system ’s overall
+success. Integration teams, for example, lacked thecapacity for deploying all assets in a timely and ef-fective manner; as such, they required componentteams ’contributions for operational task accom-
+plishment. Component teams, in turn, were ill po-
+sitioned to uncover broad, overarching information
+about coordination demands and strategic task re-quirements in the system as a whole; consequently,they depended on the integration team for such in-sights. Finally, there was considerable interdepen-dency between component teams. Point teams had torely on support team intelligence to effectively de-ploy their RPAs, and support teams required point
+team input to identify intelligence assets ’sweet
+spots and efficaciously enact intelligence-gatheringactivities.
+Simulation setup. Participants were presented
+with a blank grid representing the task environmentat the start of a simulation. Hidden throughout thegrid were threat and opportunity targets that variedalong the aforementioned attributes. As previously
+discussed, threats that attacked RPAs and the home
+base resulted in point losses, and points could beearned when neutralizing threats. Opportunitiessimilarly earned points for the multiteam systemwhen engaged successfully, but they posed no threatof attack. To illustrate the simulation ’s complexity,
+we note that different RPAs were needed to engagedifferent types of targets, and that successful neu-
+tralization of some targets required simultaneous
+attacks through multiple RPAs. In addition, sometargets remained in the same location during theentire simulation, whereas others moved around thesimulation grid. Any location in the task environ-
+ment could be void of targets or could contain one or
+two targets.
+A complete LDS session consisted of 10 decision-
+making rounds. In each round, component teammembers first recommended specific asset de-ployments to their director. Directors then re-viewed these recommendations, made alterations ifdeemed appropriate, and passed the revised set of
+recommendations on to the mission commander for
+his or her review, alteration, and final approval. Amultiteam system ’s RPAs and intelligence assets
+were then deployed and interacted with the simu-lation environment accord ing to this final set of
+decisions. Collectively, the deployment processrequired 144 decisions in each round within a lim-ited amount of time. Component team members
+received feedback on their assets ’interactions with
+the task environment and had a limited amount oftime afterward to analyze this feedback and plandeployments for subsequent rounds. Successfullyengaged targets were removed from the task envi-ronment, whereas destroyed RPAs were replacedat the start of the next round. All in all, effectiveperformance required a multiteam system to col-
+lectively manage a large number of RPAs and in-
+telligence assets under pressure of time in order tosuccessfully pursue different types of opportunitiesand neutralize diverse threats.
+Information management. Each multiteam sys-
+tem used an information exchange system called theCommon Operating Picture (COP) —a digital map of
+the task environment that provided a means of
+sharing information regarding encountered targets ’
+type and location. Component teams could employthe COP to record information on self-identifiedtargets for future reference and to organize collectivetask achievement. The support team, for example,could employ the COP to provide the point team withintelligence about potential targets, whereas thepoint team could utilize the COP to give feedback on
+the accuracy of such intelligence. Based on this in-
+formation, component teams could then developsubsequent deployments. Importantly, use of theCOP was not obligatory; the point team was free torely exclusively on knowledge gathered by its ownassets, and the support team could rely solely on theformal feedback provided in the LDS. In addition,given its retrospective nature, the COP did not con-
+vey any information concerning component teams ’
+planned asset deployments.
+The integration team ’s liaison members (i.e., the
+vice-commander and assistant directors) facilitated2016 1831 de Vries, Hollenbeck, Davison, Walter, and van der Vegtthe component teams ’use of the COP by updating it
+when new targets had been uncovered or known
+targets had been destroyed. Liaison members didnot have direct access to the information needed toupdate the COP, however; they were dependent oninput from the component teams. Moreover, theintegration teams ’liaison members did not have the
+authority to prescribe the information componentteams would gather for display on the COP or to en-
+force the use of such information for subsequent
+deployments.
+Measures
+Consistent with previous research using the LDS,
+all constructs in this study were conceptualized asconfigural unit properties (Kozlowski & Klein, 2000)
+at the multiteam system level of analysis.
+Intrapersonal functional diversity. We oper-
+ationalized IFD as the proportion of members ina multiteam system that had acquired experiencesacross different functional domains during the firsttwo LDS sessions (see Park et al., 2009, for a similarapproach). Specifically, during the first LDS sessionindividual participants worked in one of the four
+distinctfunctions described above and, consequently,
+gained hands-on experience in the respective domain(i.e., operations [point team], intelligence [supportteam], and liaison or integrative leadership [in-tegration team]). For the second LDS session, someparticipants remained within their original function,whereas others switched to a different domain. No-tably, due to the screening criteria described above,
+participants in our sample did not change domains
+between the second and third sessions. Further,members remained within the same multiteamsystem across LDS sessions, such that functionalrotations only took place within (not between) therespective systems. We note that the decision toswitch members ’functional domains was within
+a multiteam system ’s own discretion. Consistent
+with prior team-level research (e.g., Bunderson &
+Sutcliffe, 2002; Buyl et al., 2011; Cannella et al.,2008), we capitalized on these naturally occurringrole transfers to capture IFD.
+Whether participants rotated between different
+domains had important implications for their func-tional knowledge. The LDS was designed to enableparticipants to grasp a domain ’s basic tasks, de-
+mands, and constraints within a single session. At
+the same time, the simulation ’s dynamism and dif-
+ficulty made it virtually impossible to develop so-phisticated, specialized knowledge in a functionaldomain after a single episode. Different LDS sessions
+had different target distributions, therefore exposing
+participants to unique challenges that forced them torethink and refine their existing knowledge. Hence,participants that remained in the same function fortwo consecutive sessions could reflect on their ac-tions from the first session, get feedback, and try outdifferent solutions in the second session. Theseparticipants were able, therefore, to develop deeper,
+more specialized knowledge compared to partici-
+pants who switched to a different function after thefirst session.
+These advantages notwithstanding, remaining in
+a single domain also limited participants ’breadth of
+functional knowledge. Different LDS domains poseddistinct challenges and, thus, it was not possible formembers to simply apply what they had learned in
+one function toward other domains. Experience in
+the support team (such as finding assets ’sweet
+spots), for example, provided little help with thepoint team ’s specific challenges (such as destroying
+hostile targets while keeping the home base pro-tected). Hence, only participants that switched be-tween functional domains during consecutive LDSsessions had the opportunity to develop broad, gen-
+eralist functional knowledge, although these partic-
+ipants could not deepen their knowledge within anysingle domain.
+Overall, 63% of our study participants remained
+in their initial functional domain after the first LDSsession, and 37% switched to a different domain.Importantly, the number of participants switchingfunctional roles within a multiteam system differed
+considerably across the systems in our sample,
+ranging from 0 to 14 (all) members ( M55.18; SD5
+4.59). After the second simulation session, therefore,the degree to which multiteam systems comprisedspecialist members with narrow experiences(i.e., experiences in only one functional domain)versus generalist members with broader experiences(i.e., experiences in two functional domains) varied
+widely. In addition, the present measure of IFD was
+normally distributed ( skewness 5.34, n.s.) and un-
+related to past multiteam system performance ( r5
+.12, n.s.), past horizontal coordination ( r5–.08, n.s.),
+past aspirational behavior ( r5–.07, n.s.), and past
+vertical coordinated action ( r5–.01, n.s.). Hence, we
+can rule out some important confounds with regardto our key independent variable.
+Horizontal coordination. Consistent with Lanaj
+et al. (2013), we measured horizontal coordination asthe number of point team missions based upon in-telligence discovered by the support team in the1832 October Academy of Management Journalpreceding rounds and captured on the COP.3A large
+number of such missions indicates effective hori-
+zontal coordination, such that (a) the support teamhas accurately anticipated the point teams ’infor-
+mation requirements, has aligned its asset de-ployments accordingly, and has shared the resultingintelligence on the COP, and (b) the point team hasunderstood the respective information ’s relevance
+and has acted upon it in a timely manner. Impor-
+tantly, horizontal coordination does not simply de-
+note component teams ’general use of the COP, since
+the support team could also share intelligence on theCOP that was not useful for the point team (and wastherefore not used for point team missions), and thepoint team could also display (and later engage) self-identified targets on the COP.
+Besides horizontal coordination between overall
+component teams (as captured in the present measure
+[Lanaj et al., 2013]), scholars have also discussed dy-adic coordination between individual componentteam members (Davison et al., 2012). We focused onhorizontal coordination across the multiteam systemas a whole because such coordination representssynergistic efforts that can facilitate overall systemperformance (e.g., DeChurch & Marks, 2006; Lanaj
+et al., 2013; Marrone, 2010). The consequences of in-
+dividual members ’dyadic coordination are less clear;
+these activities may align with or counteract the ac-tions of other multiteam system parts and, therefore,may have ambiguous performance effects (Davisonet al., 2012; Klein & Pierce, 2001).
+Aspirational behavior. Although aspirational
+behavior may be diverse, multifaceted, and difficult
+to measure in the field, the present laboratory context
+provided a controlled setting that enabled clear-cut,behavioral measurement of this construct. In par-ticular, targets in the LDS varied considerably invalue (i.e., points to be gained by engaging a target),and it was imperative that multiteam systems pur-sued high-value targets to achieve high overall per-formance. At the same time, these high-value targets
+were particularly difficult to engage because they
+were (a) located in the remote half of the task envi-ronment and (b) well protected and mobile. Conse-quently, successful engagement of these targetsrequired simultaneous deployment of multiple spe-cialized RPAs (e.g., strike, refuel, and escort), andmembers had to deliberately forgo less challenging
+targets to pursue these opportunities. Multiteam
+system members were informed during pre-simulation briefings on both the importance anddifficulty of pursuing high-value targets.
+We therefore captured aspirational behavior as the
+number of operations missions sent to the remotehalf of the task environment in pursuit of high-valuetargets.
+4This measure represents a prime form of
+aspirational behavior in the present context, reflect-
+ing a highly complex, specialized type of activity thatpushes a multiteam system ’s performance bound-
+aries (Lanaj et al., 2013). A system exhibited highaspirational behavior, in particular, when its mem-bers frequently pursued remote, valuable targetswith complex “packages ”of multiple RPAs. In con-
+trast, when a system was low in aspirational behav-
+ior, most of its missions involved single RPAs
+directed at low-value targets that did not requirerefueling (because they were close to the base), escort(because they were unprotected), or tracking (be-cause they were stationary).
+Vertical coordinated action. Integration team
+members with leadership roles (i.e., the missioncommander and directors) had formal authority to
+modify and accept component teams ’asset de-
+ployment decisions. Following Davison et al. (2012),we operationalized vertical coordinated action as thenumber of lower-level decisions modified in thisprocess. We reverse-coded this measure, such thathigher values (less modification) represent greatervertical coordinated action.
+5
+3Lanaj et al. (2013) reverse coded this measure to cap-
+ture component teams ’failure to engage in horizontal co-
+ordination. Inthepresentmanuscript,horizontalcoordination
+is not reverse coded; higher sc ores thus denote greater hori-
+zontal coordination.4Aspirational behavior is conceptually different from
+risk taking. Although high-impact specialized tasks may
+pose risks in some circumstances, this is not a definingfeature of such aspirational behavior (i.e., there may be
+high-impact tasks that involve little risk [Lanaj et al.,
+2013]). Correspondingly, in the present sample, aspira-tional behavior and risk taking (i.e., the number of unes-corted deployments to unknown areas where assets ’
+safety was unclear) were moderately positively correlated
+(r5.38,p,.01).
+5Multiteam systems controlled 16 RPAs and 32 in-
+telligence assets; consequently, the integration team could
+modify twice as many support team decisions as pointteam decisions. To prevent distortion, we therefore stan-
+dardized modifications within component teams before
+calculating an average multiteam system score. We notethat a validation study by Davison et al. (2012) found thisvertical coordinated action measure to positively relate
+with participants ’perceptions of vertical coordination
+(r5.43,p,.05; corrected for attenuation).2016 1833 de Vries, Hollenbeck, Davison, Walter, and van der VegtWith high vertical coordinated action, asset de-
+ployment decisions were aligned and coherent
+across hierarchical layers in the multiteam systemand, thus, there was no reason to modify compo-nent team decisions (Davison et al., 2012). Im-portantly, given the large number of deploymentalternatives in the simulation, it is implausiblethat integration and component teams would co-incidentally agree on a coherent set of decisions.
+In addition, considerin g that participants were
+observed for promotion, it is unlikely that in-tegration team leaders would passively and un-critically accept component team decisions.
+6
+Hence, few higher-level modifications reflect highvertical coordinated ac tion. In case of low vertical
+coordinated action, on the other hand, asset de-ployment decisions were misaligned and in-
+compatible across hierarchical layers, causing the
+integration team to veto or change a large numberof component team decisions. Hence, manyhigher-level modifications reflect a relative lack ofvertical coordinated action.
+We note that the present measure of vertical co-
+ordinated action (drawn from Davison et al., 2012)differs from the vertical coordination dimension
+within Lanaj et al. ’s (2013) broader coordination
+failures construct. Whereas Lanaj et al. (2013) mea-sured only instances in which a lack of vertical co-ordination affected multiteam system performance,our measure captures vertical coordinated actionwithout regard for its performance consequences. Assuch, the current measure is appropriate for thepresent purposes.
+Multiteam system performance. We operation-
+alized a multiteam system ’s performance as the sum
+of points gained from successfully engaging targetsminus points lost through hostile attacks during thethird LDS session. This measure represents a sys-tem’s collective, overall performance (Davison et al.,
+2012; Lanaj et al., 2013).
+Control variables. To rule out possible biases
+from differences in training effectiveness and task
+mastery, we controlled for multiteam system per-formance during the LDS session immediately pre-ceding the one reported here (i.e., session 2) whenexamining performance consequences of horizontalcoordination and aspirational behavior.Data Analysis
+We used hierarchical linear regressions at the
+multiteam system level to test the interactive re-lationships of IFD and vertical coordinated action
+with the mediators (horizontal coordination and as-
+pirational behavior), as well as the relationshipsbetween these mediators and multiteam systemperformance. Further, to examine the full moderated-mediation hypotheses, we used a bootstrap approachto estimate indirect relationships between IFD andmultiteam system performance (mediated by hori-zontal coordination and aspirational behavior) at
+higher and lower levels of vertical coordinated action
+(61 SD). We interpreted bias-corrected 95% confi-
+dence intervals to assess the conditional indirect
+relationships ’statistical significance (Edwards &
+Lambert, 2007). We standardized all predictor vari-ables prior to the analyses.
+RESULTS
+Descriptive Statistics
+Table 1 depicts means, standard deviations, and
+bivariate correlations for all variables. As expected,
+the direct associations of IFD with horizontal co-
+ordination ( r5.09, n.s.) and aspirational behavior
+(r5–.03, n.s.) were non-significant, underlining the
+potential relevance of considering moderating fac-tors for these relationships. In addition, previousperformance was significantly related with multi-team system performance in the focal, third LDSsession ( r5.31,p,.01) and, therefore, was an im-
+portant covariate (Becker, 2005).
+Hypotheses Testing
+Hypothesis 1 predicted that the indirect, positive
+association between IFD and multiteam system per-formance, through horizontal coordination, wouldbe stronger when vertical coordinated action was
+higher rather than lower. To test this hypothesis, we
+first regressed horizontal coordination on IFD, ver-tical coordinated action, and the multiplicative termof IFD 3vertical coordinated action. As shown in
+Table 2, we found a significant interactive relation-ship ( B51.84, SE5.86,p,.05). The association
+between IFD and horizontal coordination was posi-tive when vertical coordinated action was higher
+(simple slope at 11S D52.80, SE51.15, p,.05),
+whereas this relation did not reach significancewhen vertical coordinated action was lower (simpleslope at –1S D5–0.87, SE51.26, n.s.). We then
+6During observations of the multiteam systems and
+debriefing sessions, we did not encounter any behaviors
+that would suggest a lack of engagement or commitment.1834 October Academy of Management Journalexamined the performance implications of horizontal
+coordination. Even when controlling for past perfor-
+mance, IFD, and aspirational behavior, we founda significant positive rela tionship between horizontal
+coordination and multiteam system performance ( B5
+7.50, SE52.87, p,.01; see Table 3).
+In the final step of examining Hypothesis 1, we
+inspected the conditional indirect relationship be-tween IFD and multiteam system performance, as
+mediated by horizontal coordination, at different
+values of vertical coordinated action. This indirectrelationship was positive at higher levels of verticalcoordinated action (indirect relationship at 11S D5
+20.99; 95% bootstrap CI 53.90 to 55.22). The in-
+direct relationship was non-significant, however,when vertical coordinated action was lower (indirectrelationship at –1S D5–6.55; 95% bootstrap CI 5
+–34.49 to 9.91). Thus, Hypothesis 1 was supported.
+Hypothesis 2 predicted that the indirect, negative
+relationship between IFD and multiteam system per-formance, through reduced aspirational behavior,would be more pronounced when vertical coordinatedaction was lower rather than higher. We found a sig-nificant interactive relatio nship between IFD, vertical
+coordinated action, and aspirational behavior ( B5
+2.57, SE51.00, p,.05; see Table 2). The association
+between IFD and aspiration al behavior was negative
+when vertical coordinated action was lower (simpleslope at –1S D5–3.32, SE51.46, p,.05) but non-
+significant when vertical coordinated action washigher (simple slope at 11S D51.81, SE51.33, n.s.).
+As shown in Table 3, aspirational behavior was, in turn,positively related to multiteam system performance,
+even after controlling for past performance, IFD, and
+horizontal coordination ( B55.90, SE52.86, p,.05).
+Tests of the overall conditional indirect association
+showed a negative indirect relationship between IFDand multiteam system performance, through aspira-
+tional behavior, under conditions of lower vertical
+coordinated action (indirect relationship at –1S D5
+–19.59; 95% bootstrap CI 5–59.20 to –1.25). This
+indirect relationship did not reach significance,however, when vertical coordinated action washigher (indirect relationship at 11S D510.68; 95%
+bootstrap CI
+5–3.24 to 37.98). Thus, Hypothesis 2
+was supported.
+Figure 2 illustrates the results for the conditional
+indirect relationships proposed in Hypotheses 1 and2.
+7As shown in Figure 2a, higher vertical coordinated
+action accentuated IFD ’spositive performance im-
+plications (through horizontal coordination) andattenuated its negative consequences (through as-
+pirational behavior). In contrast, Figure 2b shows
+that lower vertical coordinated action accentuated
+IFD’snegative performance implications (through
+aspirational behavior) while attenuating its positive
+consequences (through horizontal coordination).
+We employed binomial effect size displays to as-
+sess our results ’practical significance (Rosenthal &
+Rubin, 1982). Specifically, we examined the impli-cations of the “best-case scenario ”advanced in this
+research (i.e., high IFD combined with high vertical
+coordinated action) for multiteam systems ’perfor-
+mance. In our sample of 236 multiteam systems,TABLE 1
+Means, Standard Deviations, and Correlations
+r
+Variables MS D 12 3 4 5
+1. Past performance 161.93 43.12
+2. IFD 0.37 0.33 0.093. Vertical coordinated action 0.17 2.36 –0.07 0.05
+4. Horizontal coordination 51.50 13.20 0.07 0.09 0.20**
+5. Aspirational behavior 85.05 15.04 –0.08 –0.03 0.07 0.02
+6. Future performance 139.25 46.80 0.31** –0.04 0.04 0.18* 0.11
+Note: n 5236 multiteam systems.
+*p,.05
+**p,.01
+7The interactive relationship between IFD, vertical co-
+ordinated action, and horizontal coordination remainedalmost identical when controlling for prior horizontal co-
+ordination ( B51.58, SE5.82,p5.05). Similarly, the
+interactive relationship between IFD, vertical coordinatedaction, and aspirational behavior remained almost identi-cal when controlling for prior aspirational behavior ( B5
+1.96, SE5.95,p,.05). Finally, all findings for aspirational
+behavior remained robust when controlling for risk taking.2016 1835 de Vries, Hollenbeck, Davison, Walter, and van der Vegt6.4% (i.e., 15 systems) had both IFD and vertical
+coordinated action scores at one standard deviationor more above the mean. These multiteam systemswere clearly overrepresented among the top-performing systems, with 16% of the top-25 per-formers exhibiting a best-case scenario. In fact,
+multiteam systems with high IFD andhigh vertical
+coordinated action were 2.5 times more likely to bein the top 25 compared to systems with lower IFD orvertical coordinated action. Moreover, multiteamsystems exhibiting a “best-case scenario ”were un-
+derrepresented among the worst-performing sys-tems in our sample, representing only 4% of thebottom-25 performers. Thus, multiteam systems
+with high IFD and high vertical coordinated action
+were 1.6 times lesslikely than others to experience
+mission failure. These findings indicate that our re-sults are not only statistically significant but alsohave tangible relevance from a practical perspective.DISCUSSION
+Multiteam systems are increasingly being used to
+accomplish a wide array of complex tasks, rangingfrom large-scale research and development projectsto military operations and disaster relief (Goodwinet al., 2012; Hoegl et al., 2004). Although such sys-tems have the potential to flexibly and effectivelycope with challenges beyond the means of other or-ganizational forms, research has demonstrated that
+they do not live up to their promise in many cases
+(DeChurch & Mathieu, 2009; Donahue & Tuohy,2006). The present study takes important steps toaddress this issue. It is among the first to investigateIFD as a key predictor of multiteam system perfor-mance. In doing so, it extends previous research onthe role of IFD in standalone teams and larger orga-nizations where results have been contradictory, and
+it presents a unified model that reconciles these past
+discrepancies within a multiteam system context.
+These results can advance the way scholars think
+about the role of IFD and, more generally, about multi-team system management. Specifically, our findingsindicate that neither the positive relationships betweenIFD and performance reported in research on standaloneteams (e.g., Bunderson & Sutcliffe, 2002; Park et al.,
+2009) nor the negative performance implications of IFD
+reported in research on larger organizations (e.g., Buylet al., 2011; Postrel, 2002) generalize toward multiteamsystems in a straightforward manner. Rather, IFD ap-pears to be a double-edged sword in this context. On theone hand, we found evidence for a potentially beneficialrole, in that IFD can promote multiteam systems ’hori-
+zontal coordination. On the other hand, our findings also
+point toward potential downsides, with IFD restraining
+systems ’aspirational behavior. Thus, the performance
+implications of IFD in multiteam systems are morecomplex than previous research would suggest. It
+TABLE 3
+Horizontal Coordination, Aspirational Behavior, and
+Multiteam System Performance
+Multiteam system performance
+Step 1 Step 2
+Past performance 14.81 (2.92)** 14.85 (2.88)**
+IFD 23.08 (2.92) 23.61 (2.87)
+Horizontal coordination 7.50 (2.87)**
+Aspirational behavior 5.90 (2.86)*R-square (adjusted) 0.093** 0.128**R-square change 0.035**
+Note: n 5236 multiteam systems. Unstandardized regression
+coefficients are shown; standard errors are noted within
+parentheses.
+*p,.05
+**p,.01TABLE 2
+IFD, Horizontal Coordination, and Aspirational Behavior
+Horizontal coordination Aspirational behavior
+Step 1 Step 2 Step 1 Step 2
+IFD 1.13 (.85) 0.96 (.84) –0.52 (.98) –0.76 (.98)
+Vertical coordinated action (VC) 2.54 (.85)** 2.65 (.84)** 1.03 (.98) 1.19 (.97)IFD3VC 1.84 (.86)* 2.57 (1.00)*
+R-square (adjusted) 0.038** 0.052** 0.000 0.021*
+R-square change 0.014* 0.021*
+Note: n 5236 multiteam systems. Unstandardized regression coefficients are shown; standard errors are noted within parentheses.
+*p,.05
+**p,.011836 October Academy of Management Journalappears that members with broad functional expe-
+rience offer great potential for such systems but, atthe same time, pose unique managerial challenges.
+Our results further suggest that both the positive
+and the negative performance consequences of IFDare contingent on a common boundary condition.Namely, vertical coordinated action plays a crucial
+moderating role, enabling a multiteam system to reap
+IFD’s benefits while mitigating associated drawbacks.
+Although multiteam systems are prototypically lesshierarchical than traditional organizations (Davisonet al., 2012; Mathieu et al., 2001), these results showthat vertical coordinated action by a central teamtasked with integrative leadership responsibilities isa key success factor even in this organizational form.
+These findings contribute to research on multiteam
+systems and collaborative team structures by advancingboth micro-level OB and macro-level OT perspectiveson such arrangements ’effectiveness and, most impor-
+tantly, by illustrating how these distinct perspectivescan be fruitfully integrated . Research following an OB
+approach, on the one hand, has emphasized IFD ’sr o l e
+for effective coordinatio n and task accomplishment
+(Ford & Schmidt, 2000; Joshi et al., 2009). Typically,
+however, this literature has examined IFD withinstandalone teams (Bunderson & Sutcliffe, 2002; Parket al., 2009; Rulke & Galaskiewicz, 2000), and hasconsequentially neglected the larger organizational
+context in which teams ’bottom-up potentials for co-
+ordination may unfold. Even to the extent that thesestudies have examined strategies for promoting IFD(e.g., personnel transfer, cross-functional job rotation)alongside contextual, top-down integration mecha-nisms (e.g., reward schemes, colocation [Leenders &
+Wierenga, 2002; Maltz & Kohli, 2000]), this research
+has considered such mechanisms as an alternative(rather than a supplement) to IFD. The present man-uscript addresses this issue by illustrating the fact thatIFD’s effects may critically depend on formal in-
+tegration teams ’efforts, thus advancing OB-based
+theories of multiteam system functioning by embed-ding component teams ’emergent potentials for hori-
+zontal coordination within their larger context.
+Multiteam system research originating from
+an OT tradition, on the other hand, has discussedintegration teams ’importance for enabling hori-
+zontal coordination in di fferentiated team struc-
+tures (Browning, 1998; Davison et al., 2012).Empirical studies on this issue have concluded,however, that integration teams ’effectiveness of-
+ten remains “questionable, ”emphasizing the need to
+more closely examine determ inants of such effective-
+ness (Lawrence & Lorsch, 1967: 13; see also Dewsnap& Jobber, 2009). Addressing this ambiguity, ourFIGURE 2a
+Conditional Indirect Effect of IFD at Higher Levels of Vertical Coordinated Action (+1.0 SD).
+Horizontal
+Coordination
+Intrapersonal
+Functional
+DiversityMultiteam system
+Performance
+Aspirational
+Behavior+ .21*
++ .13*+ .16**
++ .12 n.s.
+Notes : Standardized regression coefficients are shown; significant indirect paths are indicated with thick arrows.
+*p,.05
+**p,.012016 1837 de Vries, Hollenbeck, Davison, Walter, and van der Vegtfindings illustrate that an integration team ’s mere
+presence (i.e., a purely structural solution) may notbe sufficient; an integration team ’s benefits for hori-
+zontal coordination, aspirational behavior, andmultiteam system performance hinge on the degreeto which this team actively aligns its activities withcomponentteams (i.e., vertical coordinatedaction). In
+addition, our study shows that in order to fully un-
+derstand vertical coordinated action ’sr o l e ,o n en e e d s
+to consider this top-down integration mechanism inconjunction with a multiteam system ’s bottom-up po-
+tentials for coordinated tas k achievement (as derived
+from IFD). To effectively resolve multiteam systems ’
+performance challenges, int egration teams need to ac-
+tively support component teams in utilizing their ca-
+pacities for horizontal coordination, while preventing
+the negative side effects such capacities may entail(e.g., reduced aspirational behavior).
+Finally, these findings advance new insights on the
+functioning of multiteam systems. Multiteam systemscholars have typically considered top-down guidanceand bottom-up emergence of horizontal coordinationas alternative, mutually exclusive strategies toward
+realizing collective effor ts. Lanaj et al. (2013), for ex-
+ample, suggested that it is more effective to rely on in-tegration teams, rather than component teams, formanaging critical coordination processes. This may,however, have oversimplified the complex reality
+within dynamic multiteam settings (Lewis, 2000),
+where integrative leaders and lower-level membersneed to combine top-down support and bottom-up ef-forts in order to effectively coordinate work. By in-tegrating OB and OT insights, the present researchshows how central integration teams and decentralized
+component teams can mutually support coordination
+in a complementary way, thereby promoting multiteamsystem success. As such, this study advances a newapproach for multiteam system theory that capitalizeson component teams ’distinct capacities as well as
+formal integrative leaders ’efforts.
+Limitations
+The present research has several strengths, including
+a large sample of multiteam systems observed in a rig-orously controlled setting with a high degree of psy-chological realism (Ber kowitz & Donnerstein, 1982).
+Nevertheless, som e limitations should be taken into
+consideration when interpreting our findings. As notedabove, ethical and practical issues precluded us from
+manipulating IFD and randomly assigning multiteam
+systems to distinct conditions. Given that our model isin line with previous theoretical work that has identi-fied IFD as a potential antecedent of multiteam systems ’FIGURE 2b
+Conditional Indirect Effect of IFD at Lower Levels of Vertical Coordinated Action ( 21.0 SD).
+Horizontal
+Coordination
+Intrapersonal
+Functional
+DiversityMultiteam System
+Performance
+Aspirational
+Behavior+ .16**-.07 ns.
+-.22* + .13*
+Notes : Standardized regression coefficients are shown; significant indirect paths are indicated with thick arrows.
+*p,.05
+**p,.011838 October Academy of Management Journalcoordination and performance (e.g., Ford & Schmidt,
+2000), we have some confidence in the predicted causal
+directions. Nonetheless, we recognize a need for moreevidence based on experimental designs with randomassignment before causal inference is justified. More-over, we did not capture multiteam systems ’rationale
+for developing IFD. Hence, al though IFD was unrelated
+to prior multiteam system pr ocesses and performance,
+we cannot ascertain participants ’motivation for rotat-
+ing to a different functional domain. Importantly,
+however, the natural emergence of IFD in the presentmultiteam systems appears consistent with IFD ’sd e -
+velopment in many “traditional ”organizations, where
+members can typically exert a certain degree of influ-ence over their own functional development (e.g., bytaking on a different job [Higgins, 2001; Vardi, 1980]).
+Further, some real-life multiteam systems may
+contain more members and teams compared to the
+systems studied here (Goodwin et al., 2012). At thesame time, multiteam systems represent an in-termediateorganizational form, located betweenlargeorganizations or collaboration networks and stand-alone teams. Thus, multiteam systems comprising asfew as two or three teams are not uncommon, as re-flected in the definition of this type of organization
+(i.e., “two or more teams that interface directly and
+interdependently in response to environmental con-tingencies toward the accomplishment of collectivegoals ”; Mathieu et al., 2001: 290). In addition, the
+number and size of the multiteam systems studiedhere compares favorably with prior experimental re-search (for a review, see Davison & Hollenbeck, 2012).
+With regard to our IFD measure, one might argue
+that the fact that participants could only change func-
+tional domains between the first and second simulationsessions limited their opportunity to develop broadfunctional experiences. In r eal-life organizations, in-
+dividuals may vary more widely in this regard (e.g., deVries, Walter, van der Vegt, & Essens, 2014). This con-cern is somewhat mitigated , however, by the fact that
+IFD reflects a collective property at the multiteam sys-
+tem level. As a result, there was sufficient variation
+in IFD between the multiteam systems in our sampleto meaningfully test the proposed relationships. Re-latedly, there may be real-life instances in which low(high) IFD does not translate into deep (broad) func-tional knowledge to the same degree as in the presentstudy (e.g., repetitive, routine tasks). As multiteam sys-tems typically deal with complex and uncertain issues
+(Mathieu et al., 2001), however, we believe such situ-
+ations will be relatively uncommon in this context.
+Further, although our computerized decision-
+making simulation enabled hypotheses testing ina relatively controlled setting, it came at the cost of
+reduced generalizability. We tried to mitigate this
+concern by using actual employees (i.e., Air Forceofficers) for whom multiteam system performanceaffected career advancement. In addition, the simu-lation was a realistic exercise that closely resembledparticipants ’regular work. Moreover, although this
+study did not follow multiteam systems over a periodof years, it was not a short-term laboratory investi-
+gation ofstrangers thatcooperated for justa few hours.
+Multiteam systems worked together for five consec-utive weeks on different tasks (including the LDS).Nevertheless, generalization of our findings to longer-term, non-military contexts is an open question thatcan only be addressed through constructive replica-tion in diverse field settings.
+Other potential concerns may relate to our use of LDS
+computer log files to derive key measures. This mea-
+surement approach fit the present manuscript ’sf o c u s
+on IFD ’s behavioral outcomes and helped us to over-
+come key weakness associated with more subjective,survey-based or observation al instruments (e.g., recall
+and response bias, social desirability [Schwarz, 1999]).On the other hand, this approach prevented us fromcapturing fine-grained (e.g., cognitive or affective)
+mechanisms and micro-processes through which IFD
+may translate into horizontal coordination and aspira-tional behavior (see de Vries et al., 2014; Lanaj et al.,2013). Similarly, we were unable to depict the specificmeans through which integration teams enacted verti-cal coordinated action (e.g., through face-to-face com-munication, formal documents, or visual cues).Additional research employing alternative (e.g.,
+survey- or observation-based) instruments may be
+useful to explore such detailed micro-mediationprocesses and, thus, to further understand the re-lationships illustrated in the present study.
+Finally, this study ’s relatively small effect sizes
+may lead to concerns about our results ’practical
+significance —although we believe the binomial ef-
+fect size displays presented above alleviate such
+reservations to some extent. In addition, Prentice
+and Miller (1992: 160 –161) have argued that even
+small effect sizes (in statistical terms) may be “im-
+pressive ”when they show that “a minimal manip-
+ulation of the independent variable still accountsfor some variance in the dependent variable. ”In the
+present case, we note that a relatively small devel-opment of IFD within a limited range of functional
+domains over a limited time frame was sufficient to
+shape key processes relevant for multiteam systemperformance. Thus, o ur findings reveal IFD ’s
+distinct potential (in combination with vertical2016 1839 de Vries, Hollenbeck, Davison, Walter, and van der Vegtcoordinated action) to influence multiteam systems ’
+functioning.
+Future Research
+Beyond addressing limitations, future research
+could extend our conceptual model in several im-portant ways. For example, such research couldbroaden the current manuscript ’s focus on IFD ’sb e -
+havioral consequences by incorporating antecedent
+conditions that lead to the development of IFD.Scholars could examine, for example, whether IFD ismore effective when members voluntarily choose toswitch functional domains to broaden their func-tional knowledge, rather than being forced to rotatebecause they performed poorly in their originalfunction (see Tesluk & Jacobs, 1998).
+Subsequent research could also explore task and
+contextual characteristics as alternative contingencyfactors for the relationship between IFD and multi-team system performance. IFD ’s positive conse-
+quences (through horizontal coordination), forexample, may intensify with higher interteam taskinterdependence, because multiteam systems maythen place stronger demands on members ’capacities
+for aligning activities across component teams (Joshi
+et al., 2009). Highly uncertain and complex envi-ronments, on the other hand, may place a premiumon functionally narrow members with deep knowl-edge for substantive, high-impact tasks, rather thanfunctionally broad members with more superficialperspectives. Hence, IFD ’s negative performance
+implications (through reduced aspirational behav-
+ior) may be particularly salient in such environ-
+ments. Additional research could build on thesenotions to further complete our understanding ofIFD’s role in multiteam settings.
+In addition, it may be interesting to extend our
+conceptual model by investigating antecedents ofvertical coordinated actio n. Clearly, integration teams
+in the present study differed markedly in the extent to
+which they engaged in this type of behavior. Some of
+these teams, for example, proactively communicatedtheir system-wide insights toward component teams(an example of high vertic al coordinated action),
+whereas others withdrew themselves from componentteams and enforced their own, independent perspec-tives on task completion wit hin the multiteam system
+(an example of low vertical coordinated action; see also
+Davison et al., 2012). Such differences may, for exam-
+ple, stem from variabi lity in integration teams ’task and
+goal orientations (Lawrence & Lorsch, 1967) or in-tegration team members ’dominance and assertiveness(Haleblian & Finkelstein, 1993). Empirically examin-
+ing these ideas may advance our understanding of the
+micro-foundations of vertical coordinated action asa key aspect of multiteam system effectiveness.
+Practical Implications
+The challenge of effectivel y coordinating multiple
+specialized teams involved in joint tasks has long
+troubled management practice (Mathieu et al., 2001;
+Smith et al., 1995). Despite repeated efforts to improvesuch coordination, for example, Donahue and Tuohy(2006) concluded that the emergency response opera-tions following hurricane Andrew in 1992, the Okla-homa City bombing in 1995, the 9/11 terrorist attacks in2001, and Hurricane Katrina in 2005 all suffered fromduplicate and conflicting efforts among involved
+teams and organizations . Similar problems have
+been documented within the logistics and healthcare fields, with scholars noting “there seems to be
+a general lack of managerial ability to integrate andcoordinate the intricate network of business re-lationships ”(Kanda & Deshmukh, 2008: 317) and
+“despite their efforts to col laborate, professionals
+are lost in translation across healthcare boundaries ”
+(Kerosuo, 2010: 372).
+The present study addresses this problem and
+has important implicatio ns for the management of
+multiteam systems (as well as traditional organizations
+designed according to multiteam system principles;Millikin, Hom, & Manz, 2010). Based on our results,for example, it appears possible to improve hori-zontal coordination and multiteam system perfor-
+mance by selecting members with broad functional
+experiences or by promoting such experiencesthrough training opportunities and appropriate as-signments. Importantly, several off-the-shelf solu-tions are available for enhancing IFD, including jobrotation and personnel transfer schemes (Griffin &Hauser, 1996; Leenders & Wierenga, 2002), careerdevelopment trajectories (Raskas & Hambrick, 1992),
+and cross-training strategies (Cannon-Bowers et al.,
+1998; Marks et al., 2002). By increasing IFD, multi-team system leaders may enable component teams tobridge language, thought-world, and goal differencesthat may otherwise prove detrimental.
+By itself, selecting or training functionally broad
+members is unlikely to guarantee high multiteamsystem performance. Our results suggest that with-
+out effective integration team support (through ver-
+tical coordinated action), horizontal coordinationmay be too complex and burdensome even for multi-team systems with high IFD. In fact, IFD may even1840 October Academy of Management Journaldiminish multiteam syst em performance in such
+situations by lowering a system ’s aspirational be-
+havior. Again, multiteam system leaders may rely onwell-developed interventions to promote verticalcoordinated action, thus realizing IFD ’s potentials
+and circumventing its downsides. “Frame-of-refer-
+ence”training, for example, may provide component
+and integration teams with a standardized languagethat enables efficient coordination across a multi-
+team system ’s hierarchical layers (Firth et al., 2014:
+814). Similarly, “strategizing ”or“coordinating ”in-
+terventions (i.e., training integrative leaders in pro-viding component teams with feedback on theireffectiveness in the multiteam system) may improveintegration teams ’capacity for vertical coordinated
+action (DeChurch & Marks, 2006: 312). By combininghigh IFD with effective vertical coordination, multi-
+team systems may be able to live up to their full po-
+tential and succeed in meeting the challenges of theenvironments in which they operate.
+Finally, limits associated with time and training
+budgets imply trade-offs associated with developingIFD, and the present study informs organizationalleaders ’decision making in this regard. If a multi-
+team system is vertically well-coordinated, in par-
+ticular, substantial performance advantages may be
+realized by developing members ’IFD. In contrast, if
+a system is lacking effective vertical coordination,increasing IFD may entail considerable performancerisks. Management could, then, prioritize the de-velopment of vertical coordinated action, beforedevoting resources to strengthening IFD.
+REFERENCES
+Becker, T. E. 2005. Potential problems in the statistical
+control of variables in organizational research: A
+qualitative analysis with recommendations. Organi-
+zational Research Methods , 8: 274 –289.
+Berkowitz, L., & Donnerstein, E. 1982. External validity is
+more than skin deep: Some answers to criticisms oflaboratory experiments. The American Psychologist ,
+37: 245 –257.
+Brown, C. V. 1999. Horizontal mechanisms under differing
+IS organization contexts. Management Information
+Systems Quarterly , 23: 421 –454.
+Browning, T. R. 1998. Integrative mechanisms for multi-
+team integration: Findings from five case studies.Systems Engineering ,1 :9 5 –112.
+Bunderson, J. S., & Sutcliffe, K. M. 2002. Comparing al-
+ternative conceptualizations of functional diversity inmanagement teams: Process and performance effects.Academy of Management Journal , 45: 875 –893.Burke, L. A., & Steensma, H. K. 1998. Towards a model for
+relating executive career experiences and firm per-
+formance. Journal of Managerial Issues , 10: 86 –102.
+Buyl, T., Boone, C., Hendriks, W., & Matthyssens, P. 2011.
+Top management team functional diversity and firmperformance: The moderating role of CEO charac-
+teristics. Journal of Management Studies , 48:
+151–177.
+Cannella, A. A., Park, J. H., & Lee, H. U. 2008. Top man-
+agement team functional background diversity andfirm performance: Examining the roles of team member
+colocation and environmental uncertainty. Academy
+of Management Journal , 51: 768 –784.
+Cannon-Bowers, J. A., Salas, E., Blickensderfer, E., &
+Bowers, C. A. 1998. The impact of cross-training andworkload on team functioning: A replication and ex-
+tension of initial findings. Human Factors , 40:
+92–101.
+Cramton, C. D. 2001. The mutual knowledge problem and
+its consequences for dispersed collaboration. Orga-
+nization Science , 12: 346 –371.
+Crichton, M., & Flin, R. 2004. Identifying and training non-
+technical skills of nuclear emergency response teams.
+Annals of Nuclear Energy , 31: 1317 –1330.
+Davison, R. B., & Hollenbeck, J. R. 2012. Boundary span-
+ning in the domain of multi-team systems. In S. J.
+Zaccaro, M. A. Marks, & L. A. DeChurch (Eds.), Multi-
+team systems: An organization form for dynamic
+and complex environments : 323–362. New York, NY:
+Routledge.
+Davison, R. B., Hollenbeck, J. R., Barnes, C. M., Sleesman,
+D. J., & Ilgen, D. R. 2012. Coordinated action in multi-
+team systems. The Journal of Applied Psychology ,
+97: 808 –824.
+DeChurch, L. A., & Marks, M. A. 2006. Leadership in
+multiteam systems. The Journal of Applied Psy-
+chology , 91: 311 –329.
+DeChurch, L. A., & Mathieu, J. E. 2009. Thinking in terms of
+multiteam systems. In E. Salas, G. F. Goodwin, & C. S.
+Burke (Eds.), Team effectiveness in complex orga-
+nizations: Cross-disciplinary perspectives and ap-proaches : 267 –292. New York: Routledge.
+DeChurch, L. A., & Zaccaro, S. J. 2010. Perspective: Teams
+won’t solve this problem. Human Factors , 52:
+329–334.
+de Vries, T. A., Walter, F., van der Vegt, G. S., & Essens,
+P. J. M. D. 2014. Antecedents of individuals ’interteam
+coordination: Broad functional experiences asa mixed blessing. Academy of Management Journal ,
+57: 1334 –1359.
+Dewsnap, B., & Jobber, D. 2009. An exploratory study of
+sales-marketing integrative devices. European Jour-
+nal of Marketing , 43: 985 –1007.2016 1841 de Vries, Hollenbeck, Davison, Walter, and van der VegtDonahue, A. K., & Tuohy, R. V. 2006. Lessons we don ’t
+learn: A study of the lessons of disasters, why we re-peat them, and how we can learn them. Homeland
+Security Affairs ,2 :1 –28.
+Edwards, J. R., & Lambert, L. S. 2007. Methods for in-
+tegrating moderation and mediation: A general ana-lytical framework using moderated path analysis.Psychological Methods , 12: 1 –22.
+Ellis, A. P. J., & Pearsall, M. J. 2011. Reducing the negative
+effects of stress in teams through cross-training: A jobdemands-resources model. Group Dynamics , 15:
+16–31.
+Entin, E. E., & Serfaty, D. 1999. Adaptive team co-
+ordination. Human Factors , 41: 312 –325.
+Espinosa, J., Slaughter, S., Kraut, R., & Herbsleb, J. 2007.
+Team knowledge and coordination in geographicallydistributed software development. Journal of Man-
+agement Information Systems , 24: 135 –169.
+Faraj, S., & Yan, A. 2009. Boundary work in knowledge teams.
+The Journal of Applied Psychology , 94: 604 –617.
+Firth, B., Hollenbeck, J. R., Miles, J., Ilgen, D. R., & Barnes,
+C. M. 2014. Same page, different books: Extendingrepresentational gaps theory to enhance performancein multiteam systems. Academy of Management
+Journal , 58: 813 –835.
+Ford, J. K., & Schmidt, A. M. 2000. Emergency response
+training: Strategies for enhancing real-world perfor-mance. Journal of Hazardous Materials , 75: 195 –215.
+Galbraith, J. R. 1994. Competing with flexible lateral or-
+ganizations . New York, NY: Addison-Wesley.
+Gioia, D. A., & Pitre, E. 1990. Multiparadigm perspectives
+on theory building. Academy of Management Re-
+view , 15: 584 –602.
+Goodwin, G. F., Essens, P. J. M. D., & Smith, D. 2012.
+Multi-team systems in the public sector. In S. J.Zaccaro, M. A. Marks, & L. A. DeChurch (Eds.), Multi-
+team systems: An organization form for dynamic andcomplex environments :5 3 –78. New York, NY:
+Routledge.
+Griffin, A., & Hauser, J. R. 1996. Integrating R&D and mar-
+keting: A review and analysis of the literature. Journal
+of Product Innovation Management , 13: 191 –215.
+Gulati, R. 1998. Alliances and networks. Strategic Man-
+agement Journal , 19: 293 –317.
+Haleblian, J., & Finkelstein, S. 1993. Top management
+size, CEO dominance, and firm performance: Themoderating roles of environmental turbulence anddiscretion. Academy of Management Journal ,3 6 :
+844–863.
+Hatvany, N., & Pucik, V. 1981. An integrated management
+system: Lessons from the Japanese experience.Academy of Management Review , 6: 469 –480.Higgins, M. C. 2001. Changing careers: The effects of social
+context. Journal of Organizational Behavior , 22:
+595
+–618.
+Hoegl, M., Weinkauf, K., & Gemuenden, H. G. 2004.
+Interteam coordination, project commitment, andteamwork in multiteam R&D projects: A longitudinal
+study. Organization Science , 15: 38 –55.
+H o l l o w a y ,S . ,&P a r m i g i a n i ,A .2 014. Friends and profits don ’t
+mix: The performance implications of repeated partner-
+ships. Academy of Management Journal , 59: 460 –478.
+House, R., Rousseau, D. M., & Thomas-Hunt, M. 1995. The
+meso paradigm: A framework for the integration of
+micro and macro organizational behavior. Research
+in Organizational Behavior , 17: 71 –114.
+Huxham, C., & Vangen, S. 2000. Leadership in the shaping
+and implementation of collaboration agendas: How
+things happen in a (not quite) joined-up world.Academy of Management Journal , 43: 1159 –1175.
+Jans, N., & Frazer-Jans, J. 2004. Career development, job
+rotation, and professional performance. Armed
+Forces and Society , 30: 255 –277.
+Joshi, A., Pandey, N., & Han, G. H. 2009. Bracketing team
+boundary spanning: An examination of task-based,team-level, and contextual antecedents. Journal of
+Organizational Behavior , 30: 731 –759.
+Kanda, A. K., & Deshmukh, S. G. 2008. Supply chain co-
+ordination: Perspectives, empirical studies and re-search directions. International Jour nal of Production
+Economics ,1 1 5 :3 1 6 –335.
+Kerosuo, H. 2010. Lost in translation: A patient-centred
+experience of unintegrated care. International Jour-
+nal of Public Sector Management , 23: 372 –380.
+Klein, G., & Pierce, L. 2001. Adaptive teams . Fairborn, OH:
+Klein Associates.
+K n i g h t ,D . ,D u r h a m ,C .C . ,&L o c k e ,E .A .2 0 0 1 .T h er e l a t i o n -
+ship of team goals, incentives, and efficacy to strategicrisk, tactical implementation, and performance. Acad-
+emy of Management Journal , 44: 326 –338.
+Kotha, R., George, G., & Srikanth, K. 2013. Bridging the mutual
+knowledge gap: Coordination and the commercialization
+of university science. Academy of Management Jour-
+nal, 56: 498 –524.
+Kozlowski, S. W. J., & Klein, K. J. 2000. A multilevel ap-
+proach to theory and research in organizations: Con-
+textual, temporal, and emergent processes. In K. J.Klein & S. W. J. Kozlowski (Eds.), Multilevel theory,
+research, and methods in organizations: Founda-
+tions, extensions, and new directions :3–90. San
+Francisco, CA: Jossey Bass.
+Kusunoki, K., & Numagami, T. 1998. Interfunctional
+transfers of engineers in Japan: Empirical findings and
+implications for cross-functional integration. IEEE1842 October Academy of Management JournalTransactions on Engineering Management ,4 5 :
+250–262.
+Lanaj, K., Hollenbeck, J. R., Ilgen, D. R., Barnes, C. M., &
+Harmon, S. J. 2013. The double-edged sword ofdecentralized planning in multi-team systems.Academy of Management Journal , 56: 735 –757.
+Lawrence, P. R., & Lorsch, J. W. 1967. Differentiation and
+integration in complex organizations. Administrative
+Science Quarterly , 12: 1 –47.
+Leenders, M. A. A. M., & Wierenga, B. 2002. The effec-
+tiveness of different mechanisms for integrating mar-keting and R&D. Journal of Product Innovation
+Management , 19: 305 –317.
+Lewis, M. W. 2000. Exploring paradox: Towards a more
+comprehensive guide. Academy of Management
+Review , 25: 760 –776.
+Maltz, E., & Kohli, A. K. 2000. Reducing marketing ’s con-
+flict with other functions: The differential effects of
+integrating mechanisms. Journal of the Academy of
+Marketing Science , 28: 479 –492.
+Marks, M. A., DeChurch, L. A., Mathieu, J. E., Panzer, F. J.,
+& Alonso, A. 2005. Teamwork in multiteam systems.
+The Journal of Applied Psychology , 90: 964 –971.
+Marks, M. A., Sabella, M. J., Burke, C. S., & Zaccaro, S. J.
+2002. The impact of cross-training on team effective-ness. The Journal of Applied Psychology , 87: 3 –13.
+Marrone, J. A. 2010. Team boundary spanning: A multi-
+level review of past research and proposals for thefuture. Journal of Management , 36: 911 –940.
+Mathieu, J. E., Marks, M. A., & Zaccaro, S. J. 2001. Multi-
+team systems. In N. Anderson, D. S. Ones, H. K.Sinangil, & C. Viswesvaran (Eds.), Handbook of in-
+dustrial, work and organizational psychology :
+289–313. London, U.K.: Sage.
+Millikin, J. P., Hom, P. W., & Manz, C. C. 2010. Self-
+management competencies in self-managing teams:Their impact on multi-team system productivity. The
+Leadership Quarterly , 21: 687 –702.
+Park, M. H., Lim, J. W., & Birnbaum-More, P. H. 2009. The effect
+of multiknowledge individuals on performance in cross-functional new product development teams. Journal of
+Product Innovation Management , 26: 86 –96.
+Parry, M. E., & Song, X. M. 1993. Determinants of R&D –
+marketing integration in high-tech Japanese firms.JournalofProductInnovationManagement , 10:4 –22.
+Postrel, S. 2002. Islands of shared knowledge: Specializa-
+tion and mutual understanding in problem-solving
+teams. Organization Science , 13: 303 –320.
+Prentice, D. A., & Miller, D. T. 1992. When small effects are
+impressive. Psychological Bulletin , 112: 160 –164.
+Puranam, P., Raveendran, M., & Knudsen, T. 2012. Orga-
+nization design: The epistemic interdependenceperspective. Academy of Management Review , 37:
+419–440.
+Raskas, D. F., & Hambrick, D. C. 1992. Multifunctional
+managerial development: A framework for evaluating
+the options. Organizational Dynamics , 21: 5 –17.
+Reuer, J., & Devarakonda, S. 2015. Mechanisms of hybrid
+governance: Administrative committees in non-
+equity alliances. Academy of Management Journal ,
+59: 510 –533.
+Rosenthal, R., & Rubin, D. B. 1982. A simple, general pur-
+pose display of magnitude of experimental effect.
+Journal of Educational Psychology , 74: 166 –169.
+Rulke, D. L., & Galaskiewicz, J. 2000. Distribution of
+knowledge, group network structure, and group per-
+formance. Management Science , 46: 612 –625.
+Schulze, W. S., Lubatkin, M. H., & Dino, R. N. 2003. Ex-
+ploring the agency consequences of ownership dis-
+persion among the directors of private family firms.
+Academy of Management Journal , 46: 179 –194.
+Schwarz, N. 1999. Self-reports. The American Psycholo-
+gist, 54: 93 –105.
+Sherman, J. D., & Keller, R. T. 2011. Suboptimal assessment
+of interunit task interdependence: Modes of integra-
+tion and information processing for coordination
+performance. Organization Science , 22: 245 –261.
+Sinha, K. K., & Van de Ven, A. H. 2005. Designing work
+within and between organizations. Organization
+Science , 16: 389 –408.
+Smith, K. G., Carroll, S. J., & Ashford, S. J. 1995. Intra-
+and interorganizational cooperation: Toward a re-
+search agenda. Academy of Management Journal ,
+38: 7 –23.
+Srikanth, K., & Puranam, P. 2011. Integrating distributed
+work: Comparing task design, communication, and
+tacit coordination mechanisms. Strategic Manage-
+ment Journal , 875: 849 –875.
+T e s l u k ,P .E . ,&J a c o b s ,R .R .1 9 9 8 .T o w a r da ni n t e g r a t e dm o d e l
+of work experience. Personnel Psychology ,5 1 :3 2 1 –355.
+Vardi, Y. 1980. Organizational career mobility: An integrative
+model. Academy of Management Review ,5 :3 4 1 –355.
+Zaccaro, S. J., Marks, M. A., & DeChurch, L. A. 2012. Multi-
+team systems: An introduction. In S. J. Zaccaro, M. A.
+Marks, & L. A. DeChurch (Eds.), Multi-team systems:
+An organization form for dynamic and complex
+environments :3–32. New York, NY: Routledge.
+Thomas A. de Vries (thom.de.vries@rug.nl) is an assistant
+professor at the Faculty of Economics and Business at the
+University of Groningen. He received his PhD in business
+administration from the University of Groningen. He conducts2016 1843 de Vries, Hollenbeck, Davison, Walter, and van der Vegtresearch on boundary spanning, i nterteam processes, resil-
+ience, and multiteam systems.
+John R. Hollenbeck (jrh@bus.msu.edu) holds the positions
+of University Distinguished Professor at Michigan State
+University and Eli Broad Professor of Management at theEli Broad Graduate School of Business Administration.
+Dr. Hollenbeck received his PhD in Management from New
+York University in 1984.
+Robert B. Davison ( rbd@ku.edu) is an assistant professor of
+organizational behavior at the U niversity of Kansas School of
+Business. He earned his PhD in organizational behavior andhuman resource management at Michigan State University,
+and conducts research in the are as of compact organizations,
+integrative leadership and organizational entitativity.Frank Walter (frank.walter@wirtschaft.uni-giessen.de) is
+professor of organization and human resource manage-
+ment at the University of Giessen. He received his PhDfrom the University of St. Gallen. His research interestsinclude team processes, leadership, emotions in the
+workplace, and new forms of team-based collaboration.
+Gerben S. van der Vegt (g.s.van.der.vegt@rug.nl) is a full
+professor of organizational behavior at the Faculty ofEconomics and Business at the University of Groningen,where he received his PhD in social and organizational
+psychology. His research interests include effective team
+design, and power, status, and leadership in organizations.
+1844 October Academy of Management JournalCopyright
+of
+Academy
+of
+Management
+Journal
+is
+the
+property
+of
+Academy
+of
+Management
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

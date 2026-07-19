@@ -1,0 +1,1166 @@
+J Appl Soc Psychol. 2020;50:709–719.	
+﻿
+  |  709
+wileyonlinelibrary.com/journal/jasp
+1 | INTRODUCTION
+Psychological empowerment is a key predictor of outcomes like orga-
+nizational performance and employee well-being (Maynard, Gilson, & 
+Mathieu, 2012; Seibert, Wang, & Courtright, 2011; Spreitzer, 2008), 
+work-unit performance (Seibert, Silver, & Randolph, 2004), innova-
+tion (Spreitzer,  1995), job satisfaction (Liden, Wayne, & Sparrow, 
+2000), and organizational commitment (Avolio, Zhu, Koh, & 
+Bhatia, 2004), as it capitalizes the full potential available in every 
+employee. Whether or not employees feel psychologically empow-
+ered largely depends on their access to information, support, means, 
+and opportunities to learn and grow, which are considered crucial for 
+employee performance (Kanter, 1977; Spreitzer, 1996). In order to 
+enhance employee psychological empowerment, empowerment re-
+search and practice have predominantly focused on the hierarchical 
+flow of those resources from manager to employee (Maynard et al., 
+2012; Seibert et al., 2011; Spreitzer, 2008). However, due to con-
+sistent advances in information and communication technology, 
+employees increasingly collaborate with relevant others outside 
+their own group (Mills & Ungson,  2003). These interpersonal col-
+laborations potentially affect the level of employee psychological 
+empowerment by providing access to resources essential for opti-
+mal performance. This suggests that psychological empowerment, 
+in addition to coming from manager directly to employee, may also 
+come via collaboration with others within and across the boundaries 
+of their own group (cf. Richter, West, Van Dick, & Dawson, 2006).
+Developing these collaborations, however, does not come natu-
+rally to all people. Research on social identity and self-categorization 
+processes within organizations demonstrate that employees tend 
+to classify themselves and others into different social categories 
+ 
+Received: 30 November 2019  |  Revised: 30 April 2020  |  Accepted: 1 August 2020
+DOI: 10.1111/jasp.12707  
+O R I G I N A L  A R T I C L E
+The empowering potential of intergroup leadership: How 
+intergroup leadership predicts psychological empowerment 
+through intergroup relational identification and resources
+Joost van der Stoep1 |   Ed Sleebos1
+ |   Daan van Knippenberg2 |   Gerhard van de Bunt3
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in 
+any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2020 The Authors. Journal of Applied Social Psychology published by Wiley Periodicals LLC
+1Department of Organization Sciences, VU 
+University Amsterdam, Amsterdam, The 
+Netherlands
+2LeBow College of Business, Drexel 
+University, Philadelphia, PA, USA
+3Department of Sociology, VU University 
+Amsterdam, Amsterdam, The Netherlands
+Correspondence
+Ed Sleebos, Department of Organization 
+Sciences, VU University Amsterdam, De 
+Boelelaan 1081, 1081 HV Amsterdam, The 
+Netherlands.
+Email: e.p.sleebos@vu.nl
+Funding information
+This work was supported by the A+O fonds 
+Rijk [grant number 20114005]
+Abstract
+As work increasingly transcends organizational boundaries, employee psychological 
+empowerment benefits from resources provided by others outside of the employee's 
+own team, department, or organization. These intergroup collaborations, however, 
+may be inhibited by social identity and social categorization processes, so that the 
+empowerment potential of these relations remains largely untapped. In this study 
+(N = 213), we demonstrate that intergroup leadership is linked to employee psycho-
+logical empowerment via intergroup relational identification and access to resources. 
+In this way, this study demonstrates the empowering potential of intergroup leader-
+ship and intergroup relational identification for employees who collaborate across 
+group barriers. We finish this paper by discussing the main implications for both em-
+powerment and intergroup leadership theory, suggesting fruitful avenues for future 
+research and highlighting the practical value for those who are motivated to increase 
+psychological empowerment among boundary-spanning employees.
+
+710  |    
+van der STOEP et al.
+(Ashforth & Mael,  1989); whenever employees experience social 
+identity and social categorization processes, whether implicitly or 
+explicitly, they potentially hinder effective interpersonal collab-
+oration with others outside their own group (e.g., Hains, Hogg, & 
+Duck,  1997). A long research tradition in line with social identity 
+theory has repeatedly demonstrated that social categorization pro-
+cesses lead to behavior based on ingroup favoritism (Ashforth & 
+Mael, 1989). In the context of the organization, this means that em-
+ployees tend to favor their own group over other groups, prefer ac-
+tivities that are in line with the goals of their own group, and choose 
+to collaborate with fellow group members over non-members. This 
+potentially harms interpersonal collaboration; thereby dismissing 
+valuable opportunities to obtain the resources controlled by those 
+others (i.e., employees who belong to other groups, such as other 
+teams, units, or departments) to potentially enhance levels of psy-
+chological empowerment.
+In order to address this issue, scholars have repeatedly high-
+lighted the merits of a superordinate identity—a sense of identity 
+that includes one's own group (e.g., department) and other groups 
+into an overarching identity (e.g., organizational identity; Albert & 
+Whetten, 1985)—to overcome these social identity and social cat-
+egorization processes and to stimulate collaboration with others 
+outside one's own group. However, due to the robustness of these 
+social identity and social categorization processes many employees 
+tend to ignore such a superordinate identity and prefer to identify 
+with their own group and favor interaction with fellow group mem-
+bers. In recognition of this issue, other researchers have argued for 
+“dual identification,” identification with both the own group and the 
+superordinate group (e.g., Richter et al., 2006). Whereas the advan-
+tage of such dual identification is that it does not motivate group 
+members to reject the overarching identification because it is seen 
+to deny the distinctiveness of the own group within that overarching 
+identity, the real risk is that it invites what is called ingroup projec-
+tion (Mummendey & Wenzel, 1999): projecting the own subgroup 
+identity unto the overarching identity and as a result discriminating 
+against other subgroups as less representative of the overarching 
+identity than the own group.
+In recognition of these problems associated with identification 
+with the superordinate group (i.e., including with dual identification), 
+Hogg, van Knippenberg, and Rast (2012) introduced an alternative 
+to this focus on superordinate identification: intergroup relational 
+identification. Intergroup relational identification reflects self-defi-
+nition in terms of one's group membership that also incorporates 
+the group's relationships with other (collaborating) groups as part of 
+the group's identity (Hogg et al., 2012, p. 233). Intergroup relational 
+identification thus is a form of identification with the own (sub)group 
+(e.g., the team) rather than the superordinate group (e.g., the organi-
+zation), but differs from group identification as it is typically under-
+stood in that it incorporates the relationship with one or more other 
+groups as part of the self-definition (i.e., just as individual relational 
+identity is different from personal identity; Brewer & Gardner, 1996; 
+Hogg et al., 2012). By embracing collaboration with others outside 
+one's own group as a part of the “own” identity, intergroup relational 
+identification both acknowledges the robustness yet sidesteps the 
+main difficulties of social identity and social categorization pro-
+cesses that hinder effective intergroup collaboration.
+Intergroup relational identification, according to Hogg and col-
+leagues (2012), is heavily dependent on leadership. Group lead-
+ers play an essential role in the formation of intergroup relational 
+identification by employees. Hogg et al. introduced the concept 
+of intergroup leadership as a set of behaviors aimed at stimulating 
+employees to embrace intergroup relational identification. Phrased 
+differently, by engaging in intergroup leadership, managers stimu-
+late employees to develop intergroup relational identification, which 
+encourages collaboration with others outside their own group. Such 
+collaboration would give access to resources (e.g., different sources 
+of information, additional support) not available in their own group. 
+Because these resources are central to the development of psy-
+chological empowerment, the main goal of this study is to test the 
+intergroup leadership–psychological empowerment relationship 
+to develop our understanding of the role of intergroup leadership 
+in building empowerment for employees operating across group 
+boundaries.
+In the present study, we demonstrate that intergroup leadership 
+and employee psychological empowerment are related through in-
+tergroup relational identification and access to resources such as 
+information, means, support, and opportunities to learn and grow. 
+This study advances our understanding of employee psychologi-
+cal empowerment within contemporary organizations by showing 
+that managers are able to enhance psychological empowerment by 
+influencing the social identity of their employees. In doing so, our 
+study also contributes to intergroup leadership theory by linking the 
+concepts of intergroup leadership and intergroup relational identi-
+fication to psychological empowerment that drives a wide range of 
+organizational and individual outcomes.
+2 | THEORY AND HYPOTHESIS
+Employee psychological empowerment—defined as “an employee's 
+intrinsic task motivation reflecting a sense of control in relation 
+to one's work and an active orientation to one's work role, that is 
+manifested in four cognitions namely meaning, self-determination, 
+competence, and impact” (Spreitzer,  1995, p. 1443; Thomas & 
+Velthouse, 1990)—is an essential predictor of a wide variety of posi-
+tive organizational and individual outcomes (Maynard et al., 2012; 
+Seibert et  al.,  2011; Spreitzer,  2008). Because of these merits, 
+scholars and practitioners have been motivated to identify key an-
+tecedents that advance the level of employee psychological empow-
+erment. In this endeavor, the focus has been mainly on managerial 
+actions and the hierarchical transfer of resources from manager to 
+employee. This has been captured by the concept of empowering 
+leadership (Arnold, Arad, Rhoades, & Drasgow,  2000), albeit with 
+slightly varying labels such as leadership empowerment behavior 
+(Ahearne, Matthieu, & Rapp, 2005), empowering leader behavior 
+(Konczak, Stelly, & Trusty, 2000), and external team leader behavior 
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  711
+van der STOEP et al.
+(Kirkman & Rosen, 1999). Empowering leadership focused mainly on 
+the transfer of resources from manager to employee to increase psy-
+chological empowerment of the employee, whereas this is a natural 
+and logical focus from the perspective of the task at hand within 
+that group context, employees increasingly operate across group 
+boundaries, while group leaders do not have the discretion to pro-
+vide access to resources outside their own group.
+Within contemporary more decentralized organizations, em-
+ployees increasingly transcend traditional group and organiza-
+tional boundaries and collaborate with whoever is relevant for their 
+task at hand (Forrester,  2000; Gittell & Douglass, 2012; Grant & 
+Parker, 2009). By doing so employees potentially tap into a huge stock 
+of resources with empowerment potential, which are controlled by 
+people other than their direct manager (Ancona & Caldwell, 1992; 
+Cross & Cummings, 2004; Hargadon, 2002). This suggests that em-
+ployees are able to enhance their psychological empowerment by 
+starting effective collaborations with potential colleagues outside 
+their own group. Whether or not this happens is very much an issue 
+of social identity.
+2.1 | Social identity and collaboration across 
+group boundaries
+Social identity partly provides an answer to the self-definition ques-
+tion of “who am I?” (Ashforth & Mael, 1989). According to social iden-
+tity theory, people categorize themselves and others into groups to 
+better understand the world (Tajfel & Turner, 1986). Social identity 
+is that part of self-definition that derives from this self-categoriza-
+tion as a group member. In order to identify with a group someone 
+needs to feel psychologically connected with the group, and hence, 
+experience the successes and failures of the group as his or her own 
+(Ashforth & Mael,  1989; van Knippenberg & Sleebos,  2006). This 
+makes the social identity as experienced by employees a key predic-
+tor of the potential successes or failures of intergroup collaborations 
+(Brewer & Brown, 1998; van Knippenberg & Hogg, 2003).
+In the context of organizations, social identity and social cate-
+gorization processes influence the effectiveness of interpersonal 
+collaboration with others outside their own group. The most funda-
+mental idea in this respect is that identification with the own group 
+can bias group members to favor own group over other groups, and 
+thus, to be less willing to trust, communicate with, and collaborate 
+with members of other groups (e.g., Brewer & Brown, 1998). Earlier 
+work, therefore, suggested that a shift (e.g., invited by leadership's 
+emphasis on the superordinate group) from group identification 
+to identification with the superordinate group would improve in-
+tergroup relations (for a review, see Gaertner, Dovidio, & Samuel, 
+2000). More recent work recognized that people are often unwill-
+ing to shift their identification from the own group to the superor-
+dinate group, however. The own group tends to invite the stronger 
+identification than the superordinate group (van Knippenberg & van 
+Schie, 2000; Riketta & van Dick, 2005) and external (e.g., leader) at-
+tempts to put the emphasis on the superordinate group are often 
+rejected as a threat to the own distinctive group identity (Hewstone 
+& Brown, 1986; Hornsey & Hogg, 2000). This has resulted in the 
+“dual identity” perspective, suggesting that intergroup relations ben-
+efit when group members are invited to identify with both the own 
+group and the superordinate group (Gaertner et al., 1999; Hewstone 
+& Brown, 1986; Hornsey & Hogg, 2000; Richter et al., 2006). As this 
+perspective was developed, it became increasingly clear, however, 
+that dual identity can be problematic in that it can reflect “ingroup 
+projection”: perceiving (and identifying) with the superordinate group 
+as a reflection of the own subgroup, which invites bias against other 
+subgroups that are different from the own subgroup (Mummendey 
+& Wenzel, 1999; Wenzel, Mummendey, Weber, & Waldzus, 2003). 
+Thus, when self-definition revolves around membership in their own 
+team or department more than around organizational membership 
+(and it typically does; Riketta & van Dick, 2005; van Knippenberg & 
+van Schie, 2000), both an emphasis on superordinate identity alone 
+and an emphasis on dual identity may hinder effective collabora-
+tions as intergroup biases lead to a preference to interact with oth-
+ers within their own group and to pursue goals that favor their own 
+group over other groups.
+This tendency toward intergroup biases is a potential breeding 
+ground for intergroup conflict and may thus harm collaboration with 
+others outside of their own group (Hogg & Terry, 2000). From the 
+perspective of access to resources outside the own group as im-
+portant to psychological empowerment, this is problematic. As peo-
+ple outside one's own group tend to operate in different flows of 
+resources, employees may overlook or be denied opportunities to 
+get access to unique—that is, to them—information, knowledge, and 
+skills (Reagans & McEvily, 2003) crucial for the development of psy-
+chological empowerment.
+To stimulate effective collaborations by employees, leadership 
+may play an essential role because group leaders (e.g., team man-
+agers) have a unique position within a group. They are usually part 
+of the group, but due to their role, they are also in the position to 
+interact and collaborate formally and as a result also informally with 
+representatives of other groups (Richter et al., 2006). As managers 
+represent and embody the group (Giessner, van Knippenberg, van 
+Ginkel, & Sleebos, 2013), they are the logical actors within a group to 
+shape group members' understanding of the group's identity. More 
+precisely, they are the ones who should underline the importance of 
+effective collaborations beyond the boundaries of one's own group, 
+and stimulate employees to adopt a social identity that values both 
+in-group and out-group collaboration.
+As noted in the previous, social identity research has highlighted 
+the importance of promoting a superordinate, overarching identity 
+by management (van Knippenberg, van Knippenberg, De Cremer, & 
+Hogg, 2004). Although superordinate identity, when embraced, may 
+lead to enhanced collaboration with others who fall under the um-
+brella of this superordinate social identity, co-workers may often re-
+sist embracing superordinate identity. Superordinate identity may 
+also have unintended negative effects as people interpret the super-
+ordinate identity in the image of their own group. The first negative 
+effect has been documented in research on nested identities (e.g., 
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+712  |    
+van der STOEP et al.
+team within organization). It documented how people often resist a 
+superordinate identity because it is experienced as a threat to one's 
+own group identity (e.g., Hornsey & Hogg, 2000). The second nega-
+tive effect, which has been documented in research on in-group pro-
+jection (Mummendey & Wenzel, 1999), is that it outlines how people 
+may often perceive the superordinate identity as largely a reflection of 
+their own group and respond negatively to other groups as less fitting 
+with superordinate identity. This line of research shows that there is 
+a growing awareness that focusing on superordinate identity is a sub-
+optimal approach to managing collaboration across group boundaries 
+(Hogg et al., 2012).
+2.2 | The empowering potential of 
+intergroup leadership
+In order to address the problem of operating successfully across 
+group boundaries, and in recognition that this often cannot be 
+achieved through an emphasis on superordinate (including dual) 
+identity, Hogg and colleagues (2012) proposed the concept of inter-
+group leadership. Intergroup leadership takes shape by communicat-
+ing the importance of intergroup collaboration and its value for one's 
+own group, on the one hand, and by acting in ways that are in line 
+with the communicated intergroup relational identity, on the other 
+hand. Hogg and colleagues (2012) outlined how intergroup leader-
+ship stimulates the formation of intergroup relational identification, 
+in which group identity is understood as being shaped and defined 
+by the group's collaboration with out-group partners. In intergroup 
+relational identity, the groups are not subsumed within an overarch-
+ing superordinate identity; rather, in intergroup relational identity 
+the relationship with other groups is part of group identity. As a re-
+sult, employees tend to focus more on the merits of intergroup col-
+laboration and less on the differences and competition between the 
+groups.
+In this way, intergroup leadership acknowledges the robustness 
+of the social identity and social categorization processes while si-
+multaneously sidestepping the main hiccups for intergroup col-
+laboration (Rast, Hogg, & van Knippenberg, 2018). This makes the 
+cultivation of intergroup relational identification through intergroup 
+leadership more effective than the cultivation of superordinate iden-
+tification when it comes to stimulating effective collaboration with 
+others outside one's own group.
+By embracing an intergroup relational identity, employees de-
+fine themselves in terms of one's own group membership including 
+the group's relationships with others as part of one's own identity. 
+This leads to a more positive attitude toward those others outside 
+one's own group (Hogg et  al.,  2012; Rast et  al.,  2018). Because 
+intergroup relational identification does not challenges one's own 
+group's identity—indeed, it is an understanding of group identity—
+and does not invite ingroup projection, this is more effective than 
+a focus on superordinate identity in the stimulation of effective 
+intergroup collaboration. So, intergroup leadership stimulates the 
+formation of intergroup relational identification, which is more 
+effective than a focus on stimulating superordinate identification 
+when it comes to improving collaboration with others outside the 
+group.
+We propose that stimulating intergroup relational identification 
+is important to psychological empowerment, because intergroup 
+relational identification stimulates group members to effectively 
+reach beyond the own group boundaries to acquire resources that 
+are important to a sense of empowerment. Because psychological 
+empowerment depends on access to resources such as information, 
+means, support, and opportunities to learn and grow (Kanter, 1977; 
+Spreitzer, 1996), collaboration beyond the boundaries of one's own 
+group provides access to resources located outside of one's own group 
+(Burt, 2000; Oh, Labianca, & Chung, 2006). Exactly these resources 
+enhance the level of psychological empowerment. For example, access 
+to information controlled by others outside one's own group helps an 
+employee to make better-informed judgments (e.g., Ashford, Blatt, & 
+Vande Walle, 2003; Cross, Borgatti, & Parker, 2001), to make better 
+sense of the environment, and to better understand the purpose of 
+his or her own job (Bowen & Lawler, 1992; Conger & Kanungo, 1988). 
+Furthermore, having alternative collaboration partners limits the de-
+pendency of the employee on others as he or she has different ways to 
+gain access to essential resources. Moreover, having multiple options 
+provides the employee with a sense of self-determination (Astley & 
+Sachdeva, 1984). Support and opportunities to learn and grow also 
+enhance feelings of self-efficacy that help employees to have im-
+pact at work (Ashford et  al.,  2003; Bowen & Lawler,  1992; Gist & 
+Mitchell, 1992).
+In sum, intergroup leadership takes shape by communicat-
+ing the importance of intergroup collaboration and its value for 
+one's own group, on the one hand, and by acting in ways that are 
+in line with the communicated intergroup relational identity, on 
+the other hand. Intergroup leadership stimulates the formation 
+of intergroup relational identification, in which group identity is 
+understood as being shaped and defined by the group's collabo-
+ration with out-group partners. By embracing an intergroup rela-
+tional identity, employees define themselves in terms of one's own 
+group membership including the group's relationships with others 
+as part of one's own identity. This leads to a more positive attitude 
+toward those others outside one's own group (Hogg et al., 2012; 
+Rast et  al., 2018). This benefits the access to resources outside 
+one's own group and affects an employee's psychological empow-
+erment (see Figure  1 for our research model). This leads to the 
+following hypotheses:
+Hypothesis 1. Intergroup leadership is positively re-
+lated to psychological empowerment.
+Hypothesis 2. The relationship between intergroup 
+leadership and psychological empowerment is serially 
+mediated by intergroup relational identification and 
+resources.
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  713
+van der STOEP et al.
+3 | METHOD
+3.1 | Procedure and participants
+This study was part of a survey initiated by the Dutch Ministry of the 
+Interior and Kingdom Relations. Respondents were drawn from a na-
+tional panel of employees designed to be representative of employees 
+of the National Government of the Netherlands. Respondents varied 
+from police officers to elementary school teachers and from execu-
+tive workers of the Ministry of Waterways and Public Works to mag-
+istrates. Of the 279 respondents who initially participated in this study, 
+213 respondents filled out the questionnaire completely (83%). Among 
+these respondents 28% were female, their average age was 53.98 years 
+(SD = 7.88 years), and most of them received higher education: 4% had a 
+Ph.D., 30% had a university degree, 41% had finished higher vocational 
+education, 21% had finished middle vocational education or pre-univer-
+sity education, and 4% had primary or secondary education.
+3.2 | Measures
+3.2.1 | Psychological empowerment
+We measured psychological empowerment using the 12-item in-
+strument by Spreitzer (1995) assessing the four main aspects of em-
+powerment: Meaning (e.g., “The work I do is very important to me”); 
+competence (e.g., “I am confident about my ability to do my job”); 
+self-determination (e.g., “I have significantly autonomy in determining 
+how I do my job”); and impact (e.g., “My impact on what happens in 
+my department is high”). These items proved to be internally reliable 
+(Cronbach's α = .84).
+3.2.2 | Intergroup leadership
+We adapted Rast and colleagues' (2018) “leader rhetoric scale” to 
+measure intergroup leadership. The nine items focused on commu-
+nicating the importance of intergroup collaboration and its value for 
+one's own group (i.e., stimulation of an intergroup relational iden-
+tity) and on acting in ways that are in line with the communicated 
+intergroup relational identity (e.g., “My manager emphasizes that the 
+collaboration with other departments shapes our identity”; “My man-
+ager makes clear that collaboration with other departments is crucial 
+for ‘who we are’ as a department”). These items proved to be inter-
+nally reliable (Cronbach's α = .94) (see Appendix for the full scale).
+3.2.3 | Intergroup relational identification
+To measure intergroup relational identification, we again adapted 
+items from Rast and colleagues (2018). The five items focused on 
+the provision of self-definition in terms of the in-group's relation-
+ship with one or more relevant outgroups (e.g., “The relationship 
+with other departments forms our identity”; “Who we are as our de-
+partments is defined by our relationship with other departments”). 
+These items proved to be internally reliable (Cronbach's α = .90) (see 
+Appendix for the full scale).
+3.2.4 | Resources
+We measured the extent to which employees had access to resources 
+needed for optimal performance at work from all other individuals (i.e., 
+others within and outside their organization, friends, acquaintances, 
+etc.) with four items. Based on research of Kanter (1977) and Seibert 
+et al. (2011), we asked respondents specifically about information, in-
+strumental means, social support, and opportunities to learn and grow, 
+that is, “How much of the information you need to optimally carry out 
+your work do you receive from people in your social network?”; “How 
+much of the instrumental means you need to optimally carry out your 
+work do you receive from people in your social network?”; “How much 
+of the social support you need to optimally carry out your work do you 
+receive from people in your social network?”; and “How much of the op-
+portunities to learn and grow you need to optimally carry out your work 
+do you receive from people in your social network?” The four items 
+proved to be internally reliability (Cronbach's α = .75).
+FI G U R E 1 Research model [Color figure can be viewed at wileyonlinelibrary.com]
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+714  |    
+van der STOEP et al.
+3.2.5 | Factor analyses
+We conducted confirmatory factor analyses (CFA) using EQS 6.4 
+for Windows (Bentler & Wu,  2018) on the items of our model 
+variables (i.e., intergroup leadership, intergroup relational identi-
+fication, resources, and psychological empowerment) taking into 
+account the multi-dimensional nature of psychological empower-
+ment (consisting of the four dimensions: meaning, competence, 
+self-determination, and impact). The results of this CFA supported 
+the distinctiveness of our constructs. Using ML Robust to correct 
+for substantial multivariate kurtosis (Mardia's coefficient = 102.73, 
+normalized estimate  =  17.15), the CFA yielded good fit indexes 
+(χ2  =  503.79, df  =  384, p  <  .001, χ2/df  =  1.31, NNFI  =  .95, CFI 
+z = .96, IFI = .96; RMSEA = .038). All alternative models, includ-
+ing a one-factor model (i.e., Harmans's single factor test, which 
+explained <.27% of the variance; Harman, 1967) did not provide a 
+better fit to the data.
+3.2.6 | Common method bias analysis
+As recommended by Podsakoff, MacKenzie, Lee, and Podsakoff 
+(2003, p. 896), and in addition to Harman's single factor test 
+(Harman, 1967), we used a latent variable approach to control for 
+the effects of a single unmeasured latent factor. One of the main 
+advantages of this technique is that it does not require that we 
+identify and measure the specific factor responsible for the method 
+effects; this technique models the effect of the method factor on 
+the measures rather than on the latent constructs they represent 
+and does not require the effects of the method factor on each 
+measure to be equal. More specifically, using structural equation 
+modeling (EQS 6.4; Bentler & Wu, 2018), we added a first-order fac-
+tor with all items of the measures as indicators to our measurement 
+model. When subjecting this model to confirmatory factor analy-
+sis, all factor loadings of the items on their designated constructs 
+remained significant. Furthermore, close inspection of the factor 
+loadings of the “common” method factor showed that 27 (out of 30) 
+of these factor loadings were not significantly related to the com-
+mon method factor, providing no substantial evidence for common 
+method bias. Moreover, to test formally whether common method 
+bias interfered with our measurement model (see Podsakoff, 
+MacKenzie, Lee, & Podsakoff, 2003), we constrained all factor load-
+ings of the common method factor to be equal (i.e., avoiding the 
+problem of the common method factor not affecting item scores 
+equally). Results showed that although the model fit was good 
+(χ2 = 499.80, df = 383, p < .001, χ2/df = 1.30, NNFI = .95, CFI = .96, 
+IFI = .96; RMSEA = .038), adding this common method factor did 
+not significantly improve the measurement model (Δχ2  =  3.99, 
+p = ns.). We conclude from these results that the relations observed 
+between the hypothesized constructs cannot be ascribed to com-
+mon method bias, concluding that common method bias is not an 
+issue in our data.
+3.3 | Control variables
+3.3.1 | Demographic variables
+To control for the influence of demographic variables, we included 
+gender (coded as male = 0/female = 1) because women tend to be 
+more prone to relational identification than men, and men tend to 
+be more prone to collective identification than women (Fritz & van 
+Knippenberg, 2017), age (in years), and level of education (coded or-
+dinally from the lowest to the highest level of received education, 
+that is, 1 = elementary school to 8 = Ph.D.) as both older and higher 
+educated employees have more intergroup contact and probably 
+more access to resources outside the own group.
+Because we build our analysis on intergroup leadership theory 
+(Hogg et al., 2012), which positions the concept of intergroup rela-
+tional identification in the concept space including team and organi-
+zational identification, we included these as control variables. This 
+gives us the opportunity to show that the relationships that are core 
+to our analysis really concern intergroup relational identification and 
+do not reflect correlations with team or organizational identification.
+3.3.2 | Team identification
+To control for the extent to which employees identified with their 
+team, we measured their team identification with an adaptation of 
+the 6-item Mael and Ashforth (1992) scale with the team as refer-
+ent (e.g., “When someone criticizes my team, it feels like a personal 
+insult”; “This team's successes are my successes”) (van Knippenberg 
+& van Schie, 2000). Cronbach's α was .75 for satisfactory reliability.
+3.3.3 | Organizational identification
+To control for the extent to which employees identified with their or-
+ganization, we measured their organizational identification with Mael 
+and Ashforth's (1992) 6-item scale (e.g., “When someone criticizes my 
+organization, it feels like a personal insult”; “This organization's suc-
+cesses are my successes”); Cronbach's α was .86 for good reliability.
+4 | RESULTS
+4.1 | Descriptive statistics and correlation analyses
+The descriptive statistics and Pearson's correlations for the study 
+variables are displayed in Table  1. Gender and education corre-
+lated significantly and positive with two of our model variables, 
+showing that females experience more intergroup leadership than 
+males (r = .16, p < .05), and the higher the level of employee educa-
+tion the greater their access to resources needed for performance 
+at work (r = .15, p < .05), Older employees identified less with the 
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  715
+van der STOEP et al.
+organization (r = −.14, p < .05.), and the higher the level of employee 
+education, the more they identified with the organization (r = .14, 
+p < .05.) and with their team (r = .17, p < .05). Furthermore, the re-
+sults of the correlation analysis shows that all our model variables 
+correlated significantly and positive with each other, providing initial 
+support for our serial mediation model.
+4.2 | Hypothesis tests
+To test our first hypothesis (i.e., Intergroup leadership is positively 
+related to psychological empowerment), we used regression analysis 
+to examine the relation between intergroup leadership and psy-
+chological empowerment. Results of this analysis confirmed our 
+first hypothesis and demonstrated that intergroup leadership is 
+positively related to psychological empowerment, b = .16, SE = .03, 
+df = 211, p < .01 [.0905, .2219] (gender, age, education, team iden-
+tification, and organizational identification did not significantly in-
+fluence the relationship of intergroup leadership and psychological 
+empowerment).
+In addition, we performed multiple regression analyses using a 
+regression tool for mediation analysis (i.e., PROCESS Model 6; 
+Hayes, 2012). PROCESS Model 6 “assumes a causal chain linking the 
+variables, with a specified direction of causal flow” (Hayes, 2012, p. 
+14), making it possible to test the relations specified in Hypothesis 2 
+(i.e., intergroup leadership positively affects psychological empower-
+ment through intergroup relational identification and resources). 
+Controlled for the three demographic variables, and team identifica-
+tion and organizational identification, the results of this analysis 
+showed that intergroup leadership is positively related to intergroup 
+relational identification (see Table 2: Model 1); that intergroup rela-
+tional identification is positively related to resources (Table 2: Model 
+TA B LE 1 Means, standard deviations, and pearson correlations for study variables
+M
+SD
+1
+2
+3
+4
+5
+6
+7
+8
+1. Gender
+.28
+.45
+2. Age
+53.98
+7.88
+−.28**
+3. Education
+6.29
+1.52
+.07
+−.02
+4. Team identification
+3.87
+.63
+.06
+−.07
+.17*
+5. Organizational identification
+3.46
+.79
+−.02
+−.14*
+.14*
+.56**
+6. Psychological empowerment
+3.71
+.49
+.09
+−.02
+.01
+.28**
+.22**
+7. Resources
+2.69
+.94
+.05
+−.02
+.15*
+.08
+.07
+.27**
+8. Intergroup relational identification
+3.49
+.89
+−.01
+.01
+.03
+.38**
+.25**
+.19**
+.28**
+9. Intergroup leadership
+3.36
+.96
+.16*
+.01
+.06
+.20**
+.15*
+.31**
+.17*
+.35**
+Note: N = 213 (two-tailed significance, listwise deletion).
+*p < .05; **p < .01. 
+Predictor
+Model 1
+Model 2
+Model 3
+Intergroup relational 
+identification
+Resources
+Psychological 
+empowerment
+b
+SE
+b
+SE
+b
+SE
+Constant
+.80
+.58
+1.31*
+.66
+2.37**
+.33
+Gender
+−.13
+.13
+.07
+.15
+.04
+.07
+Age
+.00
+.01
+.00
+.01
+.00
+.00
+Education
+−.02
+.04
+.08*
+.04
+−.02
+.02
+Team identification
+.45**
+.11
+−.10
+.13
+.15*
+.06
+Organizational 
+identification
+.04
+.08
+.01
+.10
+.06
+.05
+Intergroup leadership
+.27**
+.06
+.08
+.07
+.12**
+.03
+Intergroup relational 
+identification
+.29**
+.08
+−.03
+.04
+Resources
+.12**
+.03
+R2/df
+.23/206
+.11/205
+.20/204
+Note: N = 213 (two-tailed significance, listwise deletion).
+*p < .05; **p < .01. 
+TA B LE 2 Multiple regression results
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+716  |    
+van der STOEP et al.
+2); that resources are positively related to psychological empower-
+ment (Table 2: Model 3). In addition, regression coefficients demon-
+strated a positive direct relationship of intergroup leadership and 
+psychological empowerment (b = .12, SE = .03, [.0374, .1776]) and a 
+positive significant indirect relationship (95% BCa Cis, 1,000 boot-
+strap samples) of intergroup leadership and psychological empower-
+ment through intergroup relational identification and resources 
+(b = .0093, Boot SE = .0041, [.0033, .0208]), giving evidence of sig-
+nificant partial serial mediation and confirming our hypothesized 
+model. Thus, based on these results, we confirm that intergroup 
+leadership is positively related to employees' intergroup relational 
+identification, which is positively related to resources, which is posi-
+tively related to psychological empowerment.,12
+5 | DISCUSSION AND CONCLUSION
+Because employee psychological empowerment depends more and 
+more on the ability to establish collaborations across the boundaries 
+of one's own group, the primary aim of this study was to test the 
+relation between intergroup leadership and employee psychological 
+empowerment. In support of our theoretical analysis, we found sup-
+port for our proposed serial mediation model, in which intergroup 
+relational identification and access to resources sequentially medi-
+ated the relationship of intergroup leadership with psychological 
+empowerment. By showing that psychological empowerment can be 
+enhanced by cultivating intergroup relational identification through 
+intergroup leadership, this study shows the empowering potential of 
+intergroup leadership and intergroup relational identity for employ-
+ees who collaborate with others across group boundaries.
+5.1 | Theoretical and practical implications
+This study advances both empowerment theory and intergroup 
+leadership theory. First, this paper advances empowerment theory 
+as it demonstrates that managers have alternative ways to em-
+power their employees besides the more traditional top down lead-
+ership empowerment behavior (e.g., Ahearne et al., 2005; Arnold 
+et al., 2000; Kirkman & Rosen, 1999; Konczak et al., 2000). There 
+is a clear case that psychological empowerment benefits from 
+collaborations with others across the boundary of one's own group. 
+By targeting the social identity of employees that helps or hinders 
+these cross-boundary collaborations, managers are provided with 
+new and alternative ways to empower employees. This study adds 
+to the growing body of empowerment research by demonstrating 
+that the empowerment process within contemporary organizations 
+is much more complex than thought before (Maynard, Luciano, 
+D'Innocenzo, Mathieu, & Dean, 2014) by including intergroup lead-
+ership, and intergroup relational identification and resources as 
+mediating explanation.
+Our study has implications for intergroup leadership theory 
+as well. A core argument in intergroup leadership theory is that 
+intergroup relational identity is more effective in building inter-
+group relations than is superordinate identity (Hogg et al., 2012; 
+Rast et al., 2018). In that respect, it is important that our findings 
+hold when controlling for organizational identification as the most 
+proximal superordinate identification because it provides further 
+support for one of the core tenets of intergroup leadership theory. 
+Since psychological empowerment is linked with a wide variety of 
+positive outcomes like work-unit performance (Seibert et al., 2004), 
+innovation (Spreitzer,  1995), job satisfaction (Liden et al.,  2000), 
+and organizational commitment (Avolio et al., 2004), the current 
+evidence is also important in developing the case that intergroup 
+leadership is advantageous to employees' effective functioning in 
+organizations. By doing so, the present study expands the focus 
+of intergroup leadership theory from intergroup relations per se 
+to individuals' functioning in a context where work benefits from 
+boundary spanning.
+Interestingly and importantly, intergroup leadership theory pro-
+poses that intergroup leadership is more effective in building inter-
+group relational identification when the leader not only advocates 
+such an understanding of group identity, but also engages in bound-
+ary spanning to in a sense embody the intergroup relational identity. 
+The logic here is that by engaging in boundary spanning—reaching 
+outside the boundaries of the own group to the other group or 
+groups implied in the leader's conception of the group's identity—the 
+leader functions as a role model (i.e., “walks the talk”; cf. van Ginkel 
+& van Knippenberg, 2012). This gives greater persuasive power to 
+the leader's advocacy of intergroup relational identity, rendering it 
+more effective in stimulating intergroup relational identification. 
+In intergroup leadership theory, leader boundary spanning is thus 
+seen as a moderator of the effectiveness of leader advocacy of inter-
+group relational identity. A straightforward extension of the current 
+analysis would, therefore, be to study leader boundary spanning as 
+enhancing the influence of leader rhetoric. In the current context in 
+which intergroup leadership is seen as important in stimulating team 
+members to span the boundaries of the own group to gain resources 
+from other groups, it may be especially important to the leader-
+ship effectiveness that the leader is such a boundary spanning role 
+model. Obviously, this is for future research to determine, but this is 
+a direction that fits well both with the current focus on psychological 
+empowerment through gaining resources external to the own group 
+and its basis in intergroup leadership theory.
+ 1To test the robustness of our hypothesized model and to examine whether resources 
+also act as a moderating factor, we investigated two alternatives. First, we tested a 
+model in which relational identification, resources, and their interaction term (relational 
+identification × resources) predicted psychological empowerment. The interaction was 
+nonsignificant, b = 0.03, SE = 0.04, t = 0.73, p = ns. Second, we tested a moderated 
+mediation model with intergroup leadership (X), relational identification (mediator) × 
+resources (moderator) as predictors of psychological empowerment (Y). Also, this model 
+was nonsignificant, b = 0.03, SE = 0.04, t = 0.72, p = ns. In sum, our post hoc analyses 
+suggests that resources does mediate the relationship between intergroup relational 
+identification and psychological empowerment, but does not act as a moderating factor.
+ 2We checked whether our results were not driven by the control variables and ran our 
+analyses also without the controls. Results of these analyses showed that the controls 
+did not significantly change the results of our model tests. However, for theoretical and 
+comparative reasons––which makes our study results rightfully parallel with results of 
+other studies in this area of research––we do report them in our results section.
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  717
+van der STOEP et al.
+In addition to these theoretical implications, this research has 
+practical implications as well, as it provides a new angle to enhance 
+employee empowerment within organizations. This study shows 
+that it is useful to look beyond leader empowerment behavior and 
+to focus on the social identity processes that help or hinder the ef-
+fectiveness of collaborations with others outside one's own group. 
+Obviously, this is not to argue against the value of empowering lead-
+ership but rather to argue for a more extended leader “portfolio” of 
+ways to build psychological empowerment. Just like other leader-
+ship behaviors, intergroup leadership should be open to leadership 
+training and development efforts. The present findings can be seen 
+as first evidence in favor of considering intergroup leadership as a 
+helpful leadership competence in leadership development.
+5.2 | Limitations and future research
+One of the biggest possible flaws of the use of cross-sectional 
+self-rated data is the potential presence of common method bias, 
+threatening the validity of the conclusions about the relationships 
+between measures. To be sure that our findings were not affected 
+by common method bias, we controlled for the effects of a single 
+unmeasured latent method factor (Podsakoff et al., 2003). Results 
+of these controlling analyses demonstrated that bias inflicted by a 
+common method factor is very unlikely in our data, confirming the 
+reliability of our examined model and its usefulness for expanding 
+theory on intergroup leadership and intergroup relational identifica-
+tion, on the one hand, and resources and psychological empower-
+ment, on the other.
+Moreover, it is important to note that the cross-sectional nature 
+of this study excludes causal inference. Even when the causality im-
+plied in our model and our model is consistent with theory (Hogg 
+et al., 2012) and related experimental evidence (Rast et al., 2018), 
+future research would benefit from the use of field-experimental de-
+signs. Ideally, such an experimental design should focus on a training 
+intervention and by doing so could also speak to the “trainability” of 
+intergroup leadership, and therefore, bolster the confidence in our 
+implications for practice.
+Furthermore, our study looked at intergroup relational identity 
+from the perspective of the individual employee. Effective collab-
+oration, however, is a two-way street, and access to resources log-
+ically depends on the social identity of these collaborators. Future 
+research might want to take a more integral approach and include 
+the social identity of the collaborative partners. We expect that 
+when both interaction partners form an intergroup relational iden-
+tity the effectiveness of the collaboration and the exchange of re-
+sources is higher.
+Finally, the items used to measure resources are formulated at a 
+relatively high level of abstraction, which enabled employees to give 
+an overall indication of how much of the resources needed to opti-
+mally carry out their work they received from their social network. 
+Ideally, we would not have such a high-level measure but a measure 
+that would more concretely assess the social network and resources 
+gained through network ties. Because we focused on four different 
+resources, pragmatic concerns stood in the way of social network 
+measures for the current study. Social network measures are taxing 
+for respondents, in no small part because they are repetitive, and 
+measuring a different social network for each of the resources we 
+studied (e.g., the network of information flows) is not a realistically 
+feasible request to respondents. Future research focusing on one 
+specific resource (e.g., information) could, however, complement the 
+current findings by sacrificing breadth for depth and get more con-
+crete and specific social network data for one resource.
+5.3 | Conclusion
+The topic of employee psychological empowerment remains highly 
+popular among scholars and practitioners in the field of management 
+and organization sciences (Maynard et al., 2012; Seibert et al., 2011). 
+This study, based on analysis of 213 responses to a survey initiated 
+by the Dutch Ministry of the Interior and Kingdom Relations, ad-
+vances our understanding of the intricacies of employee empower-
+ment within contemporary organizations, by showing that managers 
+have additional, alternative, and indirect ways to empower employ-
+ees who regularly operate across the barriers of one's own group 
+on top of the more traditional leader empowerment behaviors. We 
+hope this study encourages scholars and practitioners to further 
+explore both the concepts of intergroup leadership and intergroup 
+relational identification, as well as the changing nature of the em-
+powerment process. In this way, we strongly believe that it is pos-
+sible to advance our understanding of employee empowerment and 
+subsequently help contemporary organizations foster employee em-
+powerment and increase performance.
+ORCID
+Ed Sleebos 
+ https://orcid.org/0000-0003-3563-0443 
+REFERENCES
+Ahearne, M., Matthieu, J., & Rapp, A. (2005). To empower or not to em-
+power your sales force? An empirical examination of the influence 
+of leadership empowerment behavior on customer satisfaction and 
+performance. Journal of Applied Psychology, 90, 945–955. https://doi.
+org/10.1037/0021-9010.90.5.945
+Albert, S., & Whetten, D. A. (1985). Organizational identity. In L. L. 
+Cummings & B. M. Staw (Eds.), Research in organizational behavior 
+(Vol. 7, pp. 263–295). Greenwich, CT: JAI Press.
+Ancona, D. G., & Caldwell, D. F. (1992). Bridging the boundary: External 
+activity and performance in organizational teams. Administrative 
+Science Quarterly, 37, 634–665.
+Arnold, J. A., Arad, S., Rhoades, J. A., & Drasgow, F. (2000). The empow-
+ering leadership questionnaire: The construction and validation of 
+a new scale for measuring leader behavior. Journal of Organizational 
+Behavior, 21, 249–269.
+Ashford, S. J., Blatt, R., & Vande Walle, D. (2003). Reflections on the 
+looking Glass: A review of research on feedback-seeking behavior in 
+organizations. Journal of Management, 29, 773–799.
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organiza-
+tion. Academy of Management Review, 14, 20–39.
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+718  |    
+van der STOEP et al.
+Astley, W. G., & Sachdeva, P. S. (1984). Structural sources of intraorga-
+nizational power: A theoretical analysis. Academy of Management 
+Review, 9, 104–113.
+Avolio, B. J., Zhu, W., Koh, W., & Bhatia, P. (2004). Transformational lead-
+ership and organizational commitment: Mediating role of psychologi-
+cal empowerment and moderating role of structural distance. Journal 
+of Organizational Behavior, 25, 951–968.
+Bentler, P. M., & Wu, E. (2018). EQS for Windows, 6.4. Encino, CA: 
+Multivariate Software.
+Bowen, D. E., & Lawler, E. E. (1992). The empowerment of service work-
+ers: What, why, how, and when. Sloan Management Review, 33, 31–39.
+Brewer, M., & Brown, R. (1998). Intergroup relations. In D. Gilbert, S. 
+Fiske, & G. Lindzey (Eds.), The handbook of social psychology (Vol. 1, 
+4th ed., pp. 554–594). New York, NY: McGraw-Hill.
+Brewer, M. B., & Gardner, W. (1996). Who is this "We"? Levels of collec-
+tive identity and self representations. Journal of Personality and Social 
+Psychology, 71(1), 83.
+Burt, R. S. (2000). The network structure of social capital. Research in 
+Organizational Behavior, 22, 345–423.
+Conger, J. A., & Kanungo, R. N. (1988). The empowerment process: Integrating 
+theory and practice. Academy of Management Review, 13, 471–482.
+Cross, R., Borgatti, S. P., & Parker, A. (2001). Beyond answers: Dimensions 
+of the advice network. Social Networks, 23, 215–235.
+Cross, R., & Cummings, J. N. (2004). Tie and network correlates of in-
+dividual performance in knowledge intensive work. Academy of 
+Management Journal, 47, 928–937.
+Forrester, R. (2000). Empowerment: Rejuvenating a potent idea. Academy 
+of Management Executive, 14, 67–80.
+Fritz, C., & van Knippenberg, D. (2017). Gender and leadership aspira-
+tion: Interpersonal and collective elements of cooperative climate 
+differentially influence women and men. Journal of Applied Social 
+Psychology, 47(11), 591–604. https://doi.org/10.1111/jasp.12462
+Gaertner, S. L., Dovidio, J. F., Rust, M. C., Nier, J. A., Banker, B. S., Ward, 
+C. M., … Houlette, M. (1999). Reducing intergroup bias: Elements of 
+intergroup cooperation. Journal of Personality and Social Psychology, 
+76(3), 388–402.
+Gaertner, S. L., Dovidio, J. F., & Samuel, G. (2000). Reducing intergroup 
+bias: The common ingroup identity model. Psychology Press, https://
+doi.org/10.4324/97813​15804576
+Giessner, S. R., van Knippenberg, D., van Ginkel, W., & Sleebos, E. P. 
+(2013). Team-oriented leadership. The interactive effects of leader 
+group prototypicality, accountability, and team identification. Journal 
+of Applied Psychology, 98, 658–667.
+Gist, M. E., & Mitchell, T. R. (1992). Self-efficacy: A theoretical analysis 
+of its determinants and malleability. Academy of Management Review, 
+17, 183–211.
+Gittell, J. H., & Douglass, A. (2012). Relational bureaucracy: Structuring re-
+ciprocal relationships into roles. Academy of Management Review, 37, 
+709–733.
+Grant, A. M., & Parker, S. K. (2009). Redesigning work design theo-
+ries: The rise of relational and proactive perspectives. Academy of 
+Management Annals, 7, 317–375.
+Hains, S. C., Hogg, M. A., & Duck, J. M. (1997). Self-categorization and 
+leadership: Effects of group prototypicality and leader stereotypical-
+ity. Personality and Social Psychology Bulletin, 23, 1087–1099.
+Hargadon, A. B. (2002). Brokering knowledge: Linking learning and inno-
+vation. Research in Organizational Behavior, 24, 41–85.
+Harman, H. H. (1967). Modern factor analysis. Chicago, IL: University of 
+Chicago Press.
+Hayes, A. F. (2012). PROCESS: A versatile computational tool for observed vari-
+able mediation, moderation, and conditional modelling. Unpublished manu-
+script. Retrieved from http://www.afhay​es.com/publi​c/proce​ss2012.pdf
+Hewstone, M., & Brown, R. (1986). Contact is not enough: An intergroup 
+perspective on the ‘contact hypothesis’. In Hewstone, M. E. & Brown, 
+R. E. (Eds.), Contact and conflict in intergroup encounters. Oxford, UK: 
+Basil Blackwell.
+Hogg, M. A., & Terry, D. J. (2000). Social identity and self-categoriza-
+tion processes in organizational contexts. Academy of Management 
+Review, 25, 121–140.
+Hogg, M. A., van Knippenberg, D., & Rast, D. E. (2012). Intergroup lead-
+ership in organizations: Leading across group and organizational 
+boundaries. Academy of Management Review, 37, 232–255.
+Hornsey, M. J., & Hogg, M. A. (2000). Assimilation and diversity: An inte-
+grative model of subgroup relations. Personality and Social Psychology 
+Review, 4, 143–156.
+Kanter, R. M. (1977). Men and women of the corporation. New York, NY: 
+Basic Books.
+Kirkman, B. L., & Rosen, B. (1999). Beyond self-management: Antecedents 
+and consequences of team empowerment. Academy of Management 
+Journal, 42, 58–74.
+Konczak, L. J., Stelly, D. J., & Trusty, M. L. (2000). Defining and measuring 
+empowering leader behaviors: Development of an upward feedback 
+instrument. Educational and Psychological Measurement, 60, 301–313.
+Liden, R. C., Wayne, S. J., & Sparrow, R. T. (2000). An examination of 
+the mediating role of psychological empowerment on the relations 
+between the job, interpersonal relations, and work outcomes. Journal 
+of Applied Psychology, 85, 407–416.
+Mael, F., & Ashforth, B. E. (1992). Alumni and their alma mater: A par-
+tial test of the reformulated model of organizational identification. 
+Journal of Organizational Behavior, 13(2), 103–123.
+Maynard, M. T., Gilson, L. L., & Mathieu, J. E. (2012). Empowerment – 
+fad or fab? A multilevel review of the past two decades of research. 
+Journal of Management, 28, 1231–1281.
+Maynard, M. T., Luciano, M. M., D'Innocenzo, L., Mathieu, J. E., & Dean, 
+M. D. (2014). Modelling time-lagged reciprocal psychological em-
+powerment-performance relationships. Journal of Applied Psychology, 
+99, 1244–1253.
+Mills, P. K., & Ungson, G. R. (2003). Reassessing the limits of structural 
+empowerment: Organizational constitution and trust as controls. 
+Academy of Management Review, 28, 143–153.
+Mummendey, A., & Wenzel, M. (1999). Social discrimination and toler-
+ance in intergroup relations: Reactions to intergroup difference. 
+Personality and Social Psychology Review, 3, 158–174.
+Oh, H., Labianca, G., & Chung, M. H. (2006). A multilevel model of group 
+social capital. Academy of Management Review, 31, 569–582.
+Podsakoff, P. M., MacKenzie, S. B., Lee, Y., & Podsakoff, N. P. (2003). 
+Common method bias in behavioral research: A critical review of the 
+literature and recommended remedies. Journal of Applied Psychology, 
+85, 879–903.
+Rast, D. E., III, Hogg, M. A., & van Knippenberg, D. (2018). Intergroup 
+leadership across distinct subgroups and identities. Personality and 
+Social Psychology Bulletin, 44, 1090–1103.
+Reagans, R., & McEvily, B. (2003). Network structure and knowledge 
+transfer: The effects of cohesion and range. Administrative Science 
+Quarterly, 48, 240–267.
+Richter, A. W., West, M. A., Van Dick, R., & Dawson, J. F. (2006). Boundary 
+spanners' identification, intergroup contact, and effective intergroup 
+relations. Academy of Management Journal, 49(6), 1252–1269.
+Riketta, M., & van Dick, R. (2005). Foci of attachment in organizations: 
+A meta-analytic comparison of the strength and correlates of work-
+group versus organizational identification and commitment. Journal 
+of Vocational Behavior, 67(3), 490–510. https://doi.org/10.1016/j.
+jvb.2004.06.001
+Seibert, S. E., Silver, S. R., & Randolph, W. A. (2004). Taking empowerment 
+to the next level: A multi-level model of empowerment, performance, 
+and satisfaction. Academy of Management Journal, 47, 332–349.
+Seibert, S. E., Wang, G., & Courtright, S. H. (2011). Antecedents and con-
+sequences of psychological and team empowerment in organizations: 
+A meta-analytic review. Journal of Applied Psychology, 96, 981–1003.
+Spreitzer, G. M. (1995). Psychological empowerment in the workplace: 
+Dimensions, measurement, and validation. Academy of Management 
+Journal, 38, 1442–1465.
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  719
+van der STOEP et al.
+Spreitzer, G. M. (1996). Social structural characteristics of psychological 
+empowerment. Academy of Management Journal, 39, 483–504.
+Spreitzer, G. M. (2008). Taking stock: A review of more than twenty years 
+of research on empowerment at work. In C. Cooper & J. Birling (Eds.), 
+Handbook of organizational behavior (pp. 54–73). Thousand Oaks, CA: 
+Sage.
+Tajfel, H., & Turner, J. C. (1986). The social identity theory of intergroup 
+behavior. In S. Weichel & W. G. Austin (Eds.), Psychology of intergroup 
+relations (pp. 7–24). Chicago, IL: Nelson-Hall.
+Thomas, K. W., & Velthouse, B. A. (1990). Cognitive elements of em-
+powerment: An “interpretative” model of intrinsic task motivation. 
+Academy of Management Review, 15, 666–681.
+van Ginkel, W. P., & van Knippenberg, D. (2012). Group leadership 
+and shared task representations in decision-making groups. The 
+Leadership Quarterly, 23(1), 94–106. https://doi.org/10.1016/j.
+leaqua.2011.11.008
+van Knippenberg, D., & Hogg, M. A. (2003). A social identity 
+model of leadership effectiveness in organizations. Research in 
+Organizational Behavior, 25, 243–295. https://doi.org/10.1016/S0191​
+-3085(03)25006​-1
+van Knippenberg, D., & Sleebos, E. (2006). Organizational identification 
+versus organizational commitment: Self-definition, social exchange, 
+and job attitudes. Journal of Organizational Behavior, 27, 571–584.
+van Knippenberg, D., van Knippenberg, B., De Cremer, D., & Hogg, M. A. 
+(2004). Leadership, self, and identity: A review and research agenda. 
+The Leadership Quarterly, 15, 825–856.
+van Knippenberg, D., & van Schie, E. (2000). Foci and correlates of or-
+ganizational identification. Journal of Occupational and Organizational 
+Psychology, 73, 137–147.
+Wenzel, M., Mummendey, A., Weber, U., & Waldzus, S. (2003). The in-
+group as pars pro toto: Projection from the ingroup onto the inclusive 
+category as a precursor to social discrimination. Personality and Social 
+Psychology Bulletin, 29(4), 461–473. https://doi.org/10.1177/01461​
+67202​250913
+How to cite this article: van der Stoep J, Sleebos E, van 
+Knippenberg D, van de Bunt G. The empowering potential of 
+intergroup leadership: How intergroup leadership predicts 
+psychological empowerment through intergroup relational 
+identification and resources. J Appl Soc Psychol. 2020;50: 
+709–719. https://doi.org/10.1111/jasp.12707
+APPENDIX 
+Intergroup leadership
+1.	 My manager makes clear that collaboration with other depart-
+ments is crucial for “who we are” as a department.
+2.	 My manager explains that the collaboration with other depart-
+ments shapes our identity.
+3.	 My manager argues that it is important to emphasize each other's 
+unique qualities while collaborating with other departments.
+4.	 My manager is a role model when it comes to collaboration with 
+other departments.
+5.	 My manager stimulates the active exchange of knowledge and re-
+sources within the department.
+6.	 My manager discusses the interplay between internal and exter-
+nal collaborations with the department.
+7.	 My manager stimulates forming and maintaining valuable 
+collaborations.
+8.	 My manager brings in his or her own network for the benefit of 
+team.
+9.	 My manager emphasizes the similarities between our own depart-
+ment and other departments within the Dutch Government.
+Intergroup relational identification
+1.	 The relationship between our department and other depart-
+ments within the Dutch government shapes our identity.
+2.	 The collaboration between our department and other depart-
+ments within the Dutch government is part of “who we are” as a 
+department.
+3.	 “Who we are” as a department, is determined by the relationship 
+with other departments within the Dutch government.
+4.	 The relationship between our department and other departments 
+determines who “we” are and who “they” are.
+5.	 The relationship between our department and other departments 
+within the Dutch government is important for the kind of govern-
+ment we are.
+ 15591816, 2020, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jasp.12707 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

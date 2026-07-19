@@ -1,0 +1,546 @@
+Table 1 reported the means, standard deviations, and 
+correlations of all of the variables. For example, the 
+correlation between idea generation and implementa -
+tion was not significant; leader performance-prove goal 
+orientation was positively related to leader ambassador -
+ial activities.
+We tested H1, H2a, and H2b using the hierarchical 
+linear regression method recommended by Aiken and 
+West (1991 ). First, we entered the control variables in 
+the regression model; second, we entered the indepen -
+dent variable and moderators to explore the main effect; 
+third, we put the interaction terms of idea generation 
+and leader performance-prove goal orientation, idea 
+generation and ambassadorial activities, and idea gen-
+eration and task coordination in the regression model to 
+examine the moderating effects of leader performance- 
+prove goal orientation, ambassadorial activities, and task coordination. To reduce the possibility of multicolli -
+nearity, we centralized all of the predictors in the regres -
+sion models (Aiken & West, 1991 ).
+From Table 2, we can see that the interaction of idea 
+generation and leader performance prove goal orienta -
+tion was positively related to idea implementation, ╬▓ = 
+0.37, p = .004. Therefore, H1 was supported. To deline -
+ate the accentuating effects exerted by leader perfor -
+mance-prove goal orientation in the relationship 
+between idea generation and implementation, we 
+plotted a simple slope figure (Aiken & West, 1991 ). In 
+Figure 2, we can see that when the leader is high in 
+performance-prove goal orientation (M + SD), idea gen-
+eration was significantly related to idea implementation, 
+b = 0.57 (╬▓ = 0.45), p = .002; however, when the leader 
+was low in performance-prove goal orientation (M ΓÇô 
+SD), this relationship was not significant, b = ΓêÆ0.06 (╬▓ 
+= ΓêÆ0.05), p = .137. 
+H2a proposed that leader ambassadorial activities 
+positively moderates the relationship between idea 
+generation and implementation. From Table 2, we 
+can see that the estimated coefficient of the effect of 
+idea implementation on the interaction between lea-
+der ambassadorial activities and idea generation was 
+Table 1. Means, SD, and correlations.
+Variable M SD 1 2 3 4 5 6 7 8
+1 Team tenure 1.76 0.82
+2 Team size 7.42 3.24 0.00
+3 Leader sex 0.69 0.15 ΓêÆ0.03 0.00
+4 Leader tenure 6.79 4.56 0.15 0.01 0.00
+5 Idea generation 5.01 0.68 ΓêÆ0.09* 0.03 0.07 ΓêÆ0.03
+6 Idea implementation 4.78 0.53 0.05 0.08 ΓêÆ0.06 0.12* 0.07
+7 Leader performance-prove goal orientation 5.23 0.79 0.01 ΓêÆ0.02 0.13* ΓêÆ0.01 0.01 0.37***
+8 Leader ambassadorial activity 4.98 0.74 0.02 ΓêÆ0.03 0.11* ΓêÆ0.03 0.27** 0.42*** 0.34***
+9 Leader task coordination activity 5.12 0.67 ΓêÆ0.03 ΓêÆ0.03 0.09* ΓêÆ0.05 0.29** 0.19* 0.21* 0.15*
+N = 83; *p < .05; **p < .01; ***p < .001
+Table 2. Results of hierarchical linear regression.
+Independent variablesDependent variable:idea implementation
+Model 1 Model 2 Model 3
+Step 1:controls
+Team tenure 0.02(0.22) 0.01(0.13) 0.02(0.03)
+Team size ΓêÆ0.00(0.16) ΓêÆ0.01(0.21) ΓêÆ0.01(0.10)
+Leader sex 0.05(0.31) ΓêÆ0.03(0.19) ΓêÆ0.03(0.13)
+Leader tenure 0.04(0.29) 0.04(0.44) 0.04(0.24)
+Step 2:Main effects
+Idea generation 0.09(0.32) 0.08(0.22)
+leader performance-prove goal orientation 0.25**(0.08) 0.23**(0.11)
+Leader ambassadorial activity 0.41***(0.05) 0.40***(0.06)
+Leader task coordination activity 0.11∩╝ï(0.09) 0.10∩╝ï(0.05)
+Step 3:interactions
+Idea generation ├ùleader performance-prove orientation 0.37**(0.09)
+Idea generation ├ù leader ambassadorial activities 0.42**(0.11)
+Idea generation ├ùleader task coordination activities 0.16+(0.07)
+adjust R20.17 0.31 0.49
+╬öR20.12** 0.18**
+F 2.77** 3.49**
+Standardized coefficients are reported, and standard errors are in parentheses. N = 83; + p < .1; *p < .05; ** p < .01; ***p < .001CREATIVITY RESEARCH JOURNAL
+ 417
+╬▓ = 0.42, p = .005; therefore, H2a was supported. 
+We also plotted a simple slope figure to delineate 
+the moderating effect of leader ambassadorial activ -
+ities. In Figure 3, we can see that when leaders 
+initiated a high level of ambassadorial activities 
+(M + SD), idea generation was positively related to 
+idea generation, b = 0.61 (╬▓ = 0.51), p = .002; 
+however, when ambassadorial activities were low 
+(M ΓÇô SD), this relationship was not significant, 
+b =- 0.03 (╬▓ = ΓêÆ0.02), p = .160. H2b, which pro-
+posed that leader task coordination positively mod -
+erates the relationship between idea generation and 
+implementation, was marginally supported by our 
+result, ╬▓ = 0.16, p = .061. We plotted a simple 
+slope figure to demonstrate the moderating role of 
+leader task coordination. In Figure 4, we can see 
+that when leader task coordination level was high 
+(M + SD), b = 0.27 (╬▓ = 0.21), p = .014; when leader task coordination level was low (M ΓÇô SD), b = 0.05 
+(╬▓ = 0.04), p = .122.
+Following the interaction taxonomies proposed by 
+Gardner, Harris, Li, Kirkman, and Mathieu (2017 ), the 
+directions of the independent variable and moderators 
+were the same in the regression results regarding the 
+moderating effects of leader goal orientation and leader 
+ambassadorial and task coordination activities. 
+Therefore, these interaction effects can be categorized 
+as ΓÇ£strengtheningΓÇ¥ and more specifically, ΓÇ£accentuating.ΓÇ¥ 
+H3a and H3b proposed that leader ambassadorial 
+activities and task coordination mediate the moderat -
+ing effect of leader performance-prove goal orientation 
+on the relationship between idea generation and imple -
+mentation. We examined the mediated moderation 
+models of H3a and H3b using the method recom -
+mended by Edwards and Lambert (2007 ) and adopted 
+Figure 2. Simple slope of the moderating role of leader performance-prove goal orientation in the relationship between idea 
+generation and idea implementation.
+Figure 3. Simple slope of the moderating role of leader ambassadorial activities in the relationship between idea generation and idea 
+implementation.418
+ X. QU AND X. LIU
+by Grant and Berry (2011 ). To obtain the mediated 
+moderation effects of leader ambassadorial activities 
+and task coordination activities on the moderating 
+effect of leader performance, we needed to calculate 
+the products of (1) the path from leader performance- 
+prove goal orientation to leader ambassadorial activ -
+ities and task coordination and (2) the interactions of 
+leader boundary-spanning activities (ambassadorial 
+activities and task coordination) and idea generation 
+on idea implementation. We constructed the bias- 
+corrected confidence intervals to examine H3a and 
+H3b and used a bootstrap size of 5,000. If the 95% bias- 
+corrected confidence interval excluded 0, the indirect 
+effects of leader ambassadorial activities and task coor -
+dination on the moderating effect of leader perfor -
+mance-prove goal orientation in the relationship 
+between idea generation and implementation can be 
+confirmed. As the 95% bias-corrected interval excluded 
+0 [0.017, 0.209], H3a was supported. However, 
+although the interaction of leader task coordination 
+and idea generation on idea implementation was posi-
+tive and significant (H2b), H3b was not supported, 
+because the 95% bias-corrected interval included 0 
+[ΓêÆ0.012, 0.013].
+Discussion
+Overview of the findings
+Using data from 83 NPD teams, we obtain several cri-
+tical results. Our empirical results support H1, H2a, 
+H2b, and H3a. However, H3b is not supported. That 
+is, we find the interactions of idea generation and leader 
+performance-prove goal orientation, idea generation 
+and leader ambassadorial activities, and idea generation and task coordination significantly influence idea imple -
+mentation. Furthermore, leader performance-prove goal 
+orientation has a moderating effect on the relationship 
+between idea generation and implementation through 
+the mediating role of leader ambassadorial activities 
+rather than task coordination activities.
+First, as we theorized and in line with previous 
+research, creative idea generation does not necessarily 
+lead to the implementation of these ideas (Baer, 2012 ; 
+Perry-Smith & Mannucci, 2017 ). This may be partly 
+because the idea implementation scale we used was 
+clearly distinguished from idea generation, rather than 
+an innovation scale including both idea generation and 
+implementation; thus, our findings support the differ -
+entiation of different innovation phases (Somech & 
+Drach-Zahavy, 2011 ; West, 2002 ). Second, our results 
+demonstrate that the moderating effect of leader perfor -
+mance-prove goal orientation on the relationship 
+between idea generation and implementation cannot 
+be mediated by leadersΓÇÖ task coordination activities. 
+This result indicates that although performance-prove 
+goal orientation may induce externally oriented beha -
+viors, for team leaders any externally oriented behaviors 
+motivated by performance-prove goal orientation may 
+be dominated by vertical communication, rather than 
+horizontal communication with other work teams. 
+Therefore, the relationship between goal orientations 
+and subsequent goal pursuit/striving behaviors may dif-
+fer depending on the subject, e.g., the team leader vs. 
+team members (Ancona & Caldwell, 1992 ).
+As we theorized, we find that leader performance- 
+prove goal orientation and leader ambassadorial and 
+task coordination activities positively moderate the rela-
+tionship between idea generation and implementation. 
+Performance-prove goal orientation provides the critical 
+motivation for leaders to demonstrate their competence 
+Figure 4. Simple slope of the moderating role of leader task coordination in the relationship between idea generation and idea 
+implementation.CREATIVITY RESEARCH JOURNAL
+ 419
+and dismiss the bias of top management against creative 
+ideas. Ambassadorial and task coordination activities 
+help to secure the resources needed to convert creative 
+ideas into tangible innovative outcomes. This positive 
+effect of leadersΓÇÖ networking behaviors is also consistent 
+with the effect of individualsΓÇÖ networking in ensuring 
+that their creative ideas are implemented (Baer, 2012 ).
+Theoretical implications
+Our study contributes to the literature in three ways. 
+First, the dispositional tendency of leaders to enact and 
+promote creative ideas, demonstrate competence, and 
+outperform other NPD teams is vital when teams intend 
+to implement their creative ideas. However, as far as we 
+know, no previous study has empirically examined the 
+role of leader performance-prove goal orientation in the 
+transition from creative ideas to tangible innovative out-
+comes. Our study enriches the literature on the factors 
+that facilitate the implementation of creative ideas at the 
+team level through the lens of goal orientation theory. 
+Furthermore, our findings offer evidence that it is theo -
+retically and empirically meaningful to differentiate the 
+idea generation phase from the implementation phase 
+(Baer, 2012 ; Perry-Smith & Mannucci, 2017 ; West, 
+2002 ).
+Second, this study is one of the first to use an 
+external perspective to examine the moderating role 
+of leader boundary-spanning strategy in the relation -
+ship between idea generation and implementation. 
+Although modern teamΓÇÖs work is interdependent with 
+other organizational units (Ancona & Caldwell, 1992 ), 
+the literature has pervasively adopted an internal per-
+spective when exploring factors facilitating the transi -
+tion from idea generation to idea implementation. 
+Additionally, in organizational context boundary span -
+ners are often group leaders (Hogg, van Knippenberg, 
+& Rast, 2012 ), and Ancona and Caldwell (1992 ) pro-
+posed boundary-spanning theory primarily based on 
+team leadersΓÇÖ externally oriented strategies; nonethe -
+less, there is a lack of research on the effects of leadersΓÇÖ 
+boundary-spanning behaviors. Therefore, we enrich 
+the literature on the boundary conditions of the rela-
+tionship between idea generation and idea implemen -
+tation by taking an external perspective and identifying 
+the critical moderating roles of leader ambassadorial 
+and task coordination activities.
+Third, scholars have argued that performance-prove 
+goal orientation is related to externally oriented motiva -
+tion, because someone who prefers this goal focuses on 
+external evaluation (Gong et al., 2013 ). However, to the 
+best of our knowledge, few studies have explored the 
+effect of performance-prove goal orientation on boundary-spanning behaviors. We fill this theoretical 
+gap by exploring whether the comprehensive boundary- 
+spanning strategy of team leaders mediates the moder -
+ating role of leader performance-prove goal orientation. 
+This investigation demonstrates the relationship 
+between leader performance-prove goal orientation 
+and specific leader boundary-spanning behaviors such 
+as ambassadorial activities, and thus improves our 
+understanding of the antecedents of boundary- 
+spanning activities and the outcome of performance- 
+prove goal orientation. Furthermore, our findings dee-
+pen our understanding of the complex underlying 
+mechanisms of the moderating role of leader perfor -
+mance-prove goal orientation in the relationship 
+between creative idea generation and implementation, 
+and provide information for future research on the 
+relationships between different goal orientations and 
+boundary-spanning behaviors.
+Managerial implications
+Our empirical results provide several managerial impli -
+cations regarding creativity and innovation manage -
+ment for NPD teams. First, the teamΓÇÖs generation of 
+creative ideas does not in itself lead to their implementa -
+tion. Therefore, team leaders should take steps to 
+enhance the conversion of creative ideas into innova -
+tions. Our results demonstrate that when team leaders 
+are characterized by high performance-prove goal orien -
+tation, the opportunities for successfully implementing 
+these creative ideas increase. Therefore, we suggest that 
+leaders be performance-prove motivated when creative 
+ideas have been generated and search for organizational 
+resources to implement them. Although individuals are 
+generally driven by one dominant goal orientation, state 
+goal orientation theory suggests that individuals may be 
+ΓÇ£temporarily induced to prefer a specific achievement 
+goalΓÇ¥ (Dragoni, 2005 , p. 1084). That is, when creative 
+ideas have been generated, leadership can recognize this 
+as a key moment to shift from other types of goal 
+orientation (e.g., learning goal orientation) to perfor -
+mance-prove goal orientation. Leaders who lack this 
+kind of ambidexterity can be trained through formal 
+organizational training programs. Moreover, when 
+NPD teams produce abundant creative ideas yet often 
+fail to successfully implement them, management 
+should assign leaders/supervisors with a high level of 
+performance-prove goal orientation to increase the like-
+lihood of creative idea implementation.
+Second, team leaders can also initiate more compre -
+hensive boundary-spanning activities to facilitate the 
+implementation of teamsΓÇÖ creative ideas. As leaders are 
+the representatives of their teams, ambassadorial 420
+ X. QU AND X. LIU
+activities constitute their main behaviors in high perfor -
+mance teams (Ancona & Caldwell, 1992 ), including 
+persuading top management to support their projects, 
+presenting the novelty and value of their creative ideas, 
+and acquiring valuable resources for the implementation 
+of their teamsΓÇÖ creative ideas. A high frequency of 
+ambassadorial activities indicates team leadersΓÇÖ high net-
+working ability, which can substantially enhance the 
+implementation of creative ideas. Our findings also 
+demonstrate that vertical coordination and negotiation 
+activities with other work teams/units should be encour -
+aged when converting creative ideas into tangible 
+outcomes.
+Limitations and future directions
+Although our research was carefully designed, some 
+limitations remain and need to be resolved by future 
+research. First, we used cross-sectional data to test our 
+theoretical model, which only provide correlations 
+rather than causal relationships between the variables. 
+In the future, longitudinal data should be collected to 
+further explore causality between variables, especially 
+the relationship between idea generation and implemen -
+tation. Second, according to the innovation phase model 
+based on the social network perspective (Perry-Smith & 
+Mannucci, 2017 ), individual innovation consists of four 
+phases: idea generation, idea enactment, idea champion, 
+and idea implementation. Although individual-level 
+innovation processes may differ from team-level inno -
+vation, this network-based innovation model provides 
+critical insights for future directions in team innovation 
+research. For example, in addition to exploring the 
+boundary conditions between idea generation and 
+implementation, we could explore the moderators 
+between idea generation and idea enactment, as each 
+phase has unique requirements.
+Third, we used at least three key informants within 
+each team to measure idea implementation; however, 
+our results will be more robust if we collect data from 
+all team members. Furthermore, the measurement 
+invariance regarding core variables should be verified 
+in the future by collecting data from countries with 
+different cultural backgrounds (Vandenberg & Lance, 
+2000 ).
+Conclusion
+Based on the literature on creativity and innovation 
+(Baer, 2012 ; Perry-Smith & Mannucci, 2017 ; van 
+Knippenberg, 2017 ; West, 2002 ) and goal orientation 
+theory (Dragoni, 2005 ; Gong et al., 2013 ; Vandewalle, 
+1997 ), we proposed a theoretical model of the boundary conditions between idea generation and implementation 
+at the team level and the mediating mechanisms that 
+explain this moderating effect. Our results demonstrated 
+that leader performance-prove goal orientation facili -
+tates the realization of creative ideas as tangible out-
+comes. Furthermore, the moderating role of leader 
+performance-prove goal orientation is mediated by lea-
+dersΓÇÖ ambassadorial activities. Therefore, for teams to 
+increase the chances of their ideas being implemented, 
+team leaders should adopt performance-prove goal 
+orientation. If they are characterized by other types of 
+goal orientation, they should be trained to switch 
+between different goal orientations to meet the demands 
+of different innovation stages.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This work was supported by the National Natural Science 
+Foundation of China [72002117]; China Postdoctoral Science 
+Foundation [2019M653865XB].
+ORCID
+Xiaoqian Qu 
+ http://orcid.org/0000-0001-6420-3999
+References
+Aiken, L. S., & West, S. G. (1991 ). Multiple regression: Testing 
+and interpreting interactions . Newbury Park, CA: SAGE.
+Alexander, L., & van Knippenberg, D. (2014 ). Teams in pur-
+suit of radical innovation: A goal orientation perspective. 
+Academy of Management Review , 39(4), 423ΓÇô438. 
+doi:10.5465/amr.2012.0044
+Ancona, D. G. (1990 ). Outward bound: Strategies for team 
+survival in an organization. The Academy of Management 
+Journal , 33(2), 334ΓÇô365.
+Ancona, D. G., & Caldwell, D. F. (1992 ). Bridging the bound -
+ary: External activity and performance in organizational 
+teams. Administrative Science Quarterly , 37(4), 634ΓÇô -
+665.10.2307/2393475
+Anderson, N., Poto─ìnik, K., & Zhou, J. (2014 ). Innovation and 
+creativity in organizations: A state-of-the-science review, 
+prospective commentary, and guiding framework. 
+Academy of Management , 40(5), 1297ΓÇô1333.
+Axtell, C. M., Holman, D. J., Unsworth, K. L., Wall, T. D., 
+Waterson, P. E., & Harrington, E. (2000 ). Shop floor inno -
+vation: Facilitating the suggestion and implementation of 
+ideas. Journal of Occupational and Organizational 
+Psychology , 73(3), 265ΓÇô285. doi:10.1348/096317900167029
+Baer, M. (2012 ). Putting creativity to work: The implementa -
+tion of creative ideas in organizations. Academy of 
+Management Journal , 55(5), 1102ΓÇô1119. doi:10.5465/ 
+amj.2009.0470CREATIVITY RESEARCH JOURNAL
+ 421
+Berg, J. M. (2016 ). Balancing on the creative high wire: 
+Forecasting the success of novel ideas in organizations. 
+Administrative Science Quarterly , 61(3), 1ΓÇô36. doi:10.1177/ 
+0001839216642211
+Bliese, P. D. (2000 ). Within-group agreement, non- 
+independence, and reliability: Implications for data aggre -
+gation and analysis. In K. J. Klein & S. W. Kozlowski (Eds.), 
+Multilevel theory, research, and methods in organizations 
+(pp. 349ΓÇô381). San Francisco, CA: Jossey-Bass.
+Bresman, H. (2010 ). External learning activities and team 
+performance: A multimethod field study. Organization 
+Science , 21(1), 81ΓÇô96. doi:10.1287/orsc.1080.0413
+Button, S. B., & Mathieu, J. E. (1996 ). Goal orientation in 
+organizational research: A conceptual and empirical 
+foundation. Organizational Behavior and Human Decision 
+Processes , 67(1), 26ΓÇô48. doi:10.1006/obhd.1996.0063
+Chadwick, I. C., & Raver, J. L. (2015 ). Motivating organiza -
+tions to learn: Goal orientation and its influence on orga -
+nizational learning. Journal of Management , 41(3), 957ΓÇô986. 
+doi:10.1177/0149206312443558
+Chen, G., & Kanfer, R. (2006 ). Toward a systems theory of 
+motivated behavior in work teams. Research in 
+Organizational Behavior , 27, 223ΓÇô267. doi:10.1016/S0191- 
+3085(06)27006-0
+Chen, G., Mathieu, J. E., & Bliese, P. D. (2004 ). A framework 
+for conducting multi-level construct validation. Research in 
+Multi-Level Issues , 3, 273ΓÇô303.
+De Dreu, C., &;West, M. A. . (2001 ). Minority dissent and 
+team innovation: theimportance of participation in decision 
+making. Journal of AppliedPsychology, 86(6), 1191ΓÇô1202. 
+doi:0021-9010.86.6.1191/0021-9010.86.6.1191 
+De Dreu, C. K. W., & West, M. A. (2001 ). Minority dissent and 
+team innovation: The importance of participation in deci-
+sion making. Journal of Applied Psychology , 86(6), 
+1191ΓÇô1201. doi:10.1037/0021-9010.86.6.1191
+Dietz, B., Van Knippenberg, D., Hirst, G., & Restubog, S. L. D. 
+(2015 ). Outperforming whom? A multilevel study of 
+performance-prove goal orientation, performance, and the 
+moderating role of shared team identification. Journal of 
+Applied Psychology , 100(6), 1811ΓÇô1824. doi:10.1037/a0038888
+Dragoni, L. (2005 ). Understanding the emergence of state goal 
+orientation in organizational work groups: The role of 
+leadership and multilevel climate perceptions. Journal of 
+Applied Psychology , 90(6), 1084ΓÇô1095. doi:10.1037/0021- 
+9010.90.6.1084
+Dragoni, L., & Kuenzi, M. (2012 ). Better understanding work 
+unit goal orientation: Its emergence and impact under dif-
+ferent types of work unit structure. Journal of Applied 
+Psychology , 97(5), 1032ΓÇô1048. doi:10.1037/a0028405
+Edwards, J. R., & Lambert, L. S. (2007 ). Methods for integrat -
+ing moderation and mediation: A general analytical frame -
+work using moderated path analysis. Psychological Methods , 
+12(1), 1ΓÇô22. doi:10.1037/1082-989X.12.1.1
+Faraj, S., & Yan, A. (2009 ). Boundary work in knowledge 
+teams. Journal of Applied Psychology , 94(3), 604ΓÇô617. 
+doi:10.1037/a0014367
+Gardner, R. G., Harris, T. B., Li, N., Kirkman, B. L., & 
+Mathieu, J. E. (2017 ). Understanding ΓÇ£it dependsΓÇ¥ in orga -
+nizational research: A theory-based taxonomy, review, and 
+future research agenda concerning interactive and quadra -
+tic relationships. Organizational Research Methods , 20(4), 
+610ΓÇô638. doi:10.1177/1094428117708856Gong, Y., Kim, T. Y., Lee, D. R., & Zhu, J. (2013 ). A multilevel 
+model of team goal orientation, information exchange, and 
+creativity. Academy of Management Journal , 56(3), 
+827ΓÇô851. doi:10.5465/amj.2011.0177
+Grant, A. M., & Berry, J. W. (2011 ). The necessity of others is 
+the mother of invention: Intrinsic and prosocial motiva -
+tions, perspective taking, and creativity. Academy of 
+Management Journal , 54(1), 73ΓÇô96. doi:10.5465/ 
+amj.2011.59215085
+Hogg, M. A., van Knippenberg, D., & Rast, D. E. (2012 ). 
+Intergroup leadership in organizations: Leading across 
+group and organizational boundaries. Academy of 
+Management Review , 37(2), 232ΓÇô255. doi:10.5465/ 
+amr.2010.0221
+James, R. L., Demaree, R. G., & Wolf, G. (1993 ). rwg: An 
+assessment of within-group interrater agreement. Journal 
+of Applied Psychology , 78(2), 306ΓÇô309. doi:10.1037/0021- 
+9010.78.2.306
+Landis, R. S., Beal, D. J., & Tesluk, P. E. (2000 ). A comparison 
+of proves to forming composite measures in structural 
+equation models. Organizational Research Methods , 3(2), 
+186ΓÇô207. doi:10.1177/109442810032003
+Lee, S. M., & Farh, C. I. C. (2019 ). Dynamic leadership emer -
+gence: Differential impact of membersΓÇÖ and peersΓÇÖ contribu -
+tions in the idea generation and idea enactment phases of 
+innovation project teams. Journal of Applied Psychology , 
+104(3), 411ΓÇô432. doi:10.1037/apl0000384
+Lu, S., Bartol, K. M., Venkataramani, V., Zheng, X., & Liu, X. 
+(2019 ). Pitching novel ideas to the boss: The interactive 
+effects of employeesΓÇÖ idea enactment and influence tactics 
+on creativity assessment and implementation. Academy of 
+Management Journal , 62(2), 579ΓÇô606. doi:10.5465/ 
+amj.2016.0942
+Marrone, J. A. (2010 ). Team boundary spanning: A multilevel 
+review of past research and proposals for the future. Journal 
+of Management , 36(4), 911ΓÇô940. doi:10.1177/ 
+0149206309353945
+Mueller, J., Melwani, S., Loewenstein, J., & Deal, J. J. (2018 ). 
+Reframing the decision-makersΓÇÖ dilemma: Towards a social 
+context model of creative idea recognition. Academy of 
+Management Journal , 61(1), 94ΓÇô110. doi:10.5465/ 
+amj.2013.0887
+Mueller, J. S., Wakslak, C. J., & Krishnan, V. (2014 ). 
+Construing creativity: The how and why of recognizing 
+creative ideas. Journal of Experimental Social Psychology , 
+51(1), 81ΓÇô87. doi:10.1016/j.jesp.2013.11.007
+Mumford, M. D., Scott, G. M., Gaddis, B., & Strange, J. M. 
+(2002 ). Leading creative people: Orchestrating expertise 
+and relationships. The Leadership Quarterly , 13(6), 
+705ΓÇô750. doi:10.1016/S1048-9843(02)00158-3
+Perry-Smith, J. E., & Mannucci, P. V. (2017 ). From creativity 
+to innovation: The social network drivers of the four phases 
+of the idea journey. Academy of Management Review , 42(1), 
+53ΓÇô79. doi:10.5465/amr.2014.0462
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & 
+Podsakoff, N. P. (2003 ). Common method biases in beha -
+vioral research: A critical review of the literature and 
+recommended remedies. Journal of Applied Psychology , 88 
+(5), 879ΓÇô903. doi:10.1037/0021-9010.88.5.879
+Shin, S. J., & Zhou, J. (2007 ). When is educational specializa -
+tion heterogeneity related to creativity in research and 
+development teams? Transformational leadership as a 422
+ X. QU AND X. LIU
+moderator. Journal of Applied Psychology , 92(6), 
+1709ΓÇô1721. doi:10.1037/0021-9010.92.6.1709
+Somech, A., & Drach-Zahavy, A. (2011 ). Translating team 
+creativity to innovation implementation: The role of team 
+composition and climate for innovation. Journal of 
+Management , 39(3), 684ΓÇô708. doi:10.1177/ 
+0149206310394187
+Somech, A., & Khalaili, A. (2014 ). Team boundary activity: Its 
+mediating role in the relationship between structural con-
+ditions and team innovation. Group and Organization 
+Management , 39(3), 274ΓÇô299. doi:10.1177/ 
+1059601114525437
+van Knippenberg, D. (2017 ). Team innovation. Annual Review 
+of Organizational Psychology and Organizational Behavior , 
+4(1), 211ΓÇô233. doi:10.1146/annurev-orgpsych-032516- 
+113240
+Vandenberg, R. J., & Lance, C. E. (2000 ). A review and 
+synthesis of the measurement invariance literature: 
+Suggestions, practices, and recommendations for organizational research. Organizational Research 
+Methods , 5(1), 139ΓÇô158. doi:10.1177/ 
+1094428102005002001
+Vandewalle, D. (1997 ). Development and validation of a work 
+domain goal orientation instrument. Educational and 
+Psychological Measurement , 57(6), 995ΓÇô1015. doi:10.1177/ 
+0013164497057006009
+Vandewalle, D., & Cummings, L. L. (1997 ). A test of the 
+influence of goal orientation on the feedback-seeking 
+process. Journal of Applied Psychology , 82(3), 390ΓÇô400. 
+doi:10.1037/0021-9010.82.3.390
+West, M. A. (2002 ). Sparkling fountains or stagnant ponds: An 
+integrative model of creativity and innovation implementa -
+tion within groups. Applied Psychology: An International 
+Review , 51(3), 355ΓÇô387. doi:10.1111/1464-0597.00951
+Zhou, J., Wang, X. M., Song, L. J., & Wu, J. (2017 ). Is it new? 
+Personal and contextual influences on perceptions of 
+novelty and creativity. Journal of Applied Psychology , 102 
+(2), 180ΓÇô202. doi:10.1037/apl0000166CREATIVITY RESEARCH JOURNAL
+ 423

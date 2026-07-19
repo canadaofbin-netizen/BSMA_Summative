@@ -15,7 +15,7 @@ def inject_swarm_results():
     os.makedirs(FAILED_DIR, exist_ok=True)
 
     wb = openpyxl.load_workbook(EXCEL_PATH)
-    ws = wb['Raw_Metrics']
+    ws = wb['Sheet1']
     
     id_to_row = {}
     for row in range(3, ws.max_row + 1):

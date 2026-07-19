@@ -1,0 +1,1631 @@
+Supply Chain Forum: An International Journal
+ISSN: 1625-8312 (Print) 1624-6039 (Online) Journal homepage: www.tandfonline.com/journals/tscf20
+The inﬂuences of boundary spanning capabilities
+and long–term orientation on opportunism in
+inter–ﬁrm relationships
+Thoa Xuan Thi Pham, Kodo Yokozawa & Nguyen Ngoc Anh
+To cite this article: Thoa Xuan Thi Pham, Kodo Yokozawa & Nguyen Ngoc Anh (2024) The
+inﬂuences of boundary spanning capabilities and long–term orientation on opportunism in
+inter–ﬁrm relationships, Supply Chain Forum: An International Journal, 25:2, 213-228, DOI:
+10.1080/16258312.2023.2286694
+To link to this article:  https://doi.org/10.1080/16258312.2023.2286694
+Published online: 20 Dec 2023.
+Submit your article to this journal 
+Article views: 202
+View related articles 
+View Crossmark data
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tscf20
+The influences of boundary spanning capabilities and long–term orientation 
+on opportunism in inter–firm relationships
+Thoa Xuan Thi Pham
+a, Kodo Yokozawa
+b and Nguyen Ngoc Anh
+c
+aFaculty of Business, FPT University, Hanoi, Vietnam; bDepartment of Business Administration, Yokohama National University, Yokohama, 
+Japan; cDepartment of Economics and Management, VNU International School, Vietnam National University Hanoi, Hanoi, Vietnam
+ABSTRACT
+Opportunism is a common issue in inter – firm relationships, which increases transaction costs, 
+impairs firm performance and supply chain efficiency, and deteriorates relationship quality. 
+Previous studies have intensively investigated factors influencing opportunism but overfocusing 
+on the organisational level. Recently, supply chain researchers have called for identifying factors 
+influencing opportunism at the individual level to gain a more comprehensive understanding of 
+opportunism. Based on transaction cost theory, resource dependence theory, and boundary 
+spanning theory, this study seeks to advance the emerging research stream on opportunism at 
+the individual level by investigating how buyer agents’ boundary spanning capabilities and firms’ 
+long – term relationship orientation can help manage supplier agents’ opportunism. Using 
+a cross – sectional data set of 406 buyer agents from manufacturing companies collected from 
+February to April 2021 in Japan, we tested a set of hypotheses through regression and conditional 
+process analyses. Our findings suggest that buyer agents’ strategic communication and firms’ 
+long – term relationship orientation are critical factors that reduce supplier agents’ opportunism.KEYWORDS 
+Inter–firm relationship; 
+opportunism; boundary 
+spanning capability; long– 
+term orientation; Japan
+Introduction
+In today’s global competition and uncertainty, busi -
+ness companies face numerous issues, including 
+opportunistic behaviour or opportunism in inter – 
+firm relationships (Han et al. 2022 ; Wang, Huo, and 
+Tian 2021 ). Opportunism is defined as ‘self – interest 
+seeking with guile’ (e.g. lying, cheating, distorting 
+facts) by human actors in business relationships 
+(Williamson 1985 , 47). Opportunism increases transac -
+tion costs (Dahlstrom and Nygaard 1999 ), impairs firm 
+performance and relationship quality (Williamson  
+1985 ), and hinders supply chain efficiency (Daultani 
+et al. 2015 ). Thus, the reduction of opportunism in 
+inter – firm relationships has drawn considerable atten -
+tion from researchers and practitioners.
+Previous studies on inter – firm relationships 
+have primarily examined factors influencing organi -
+sational – level opportunism, where opportunism is 
+attributed to and managed by companies 
+(Bhattacharya, Singh, and Nand 2015 ; Han et al.  
+2022 ; Handley and Benton 2012 ; Huo et al. 2018 ; 
+Parkhe 1993 ; Wang et al. 2016 ; Yang et al. 2021 ). 
+However, an emerging trend focuses on individual 
+opportunism, highlighting the role of buyer agents 
+as boundary spanners of buyer firms in managing 
+suppliers’ opportunistic behaviours during business 
+transactions (Gelderman, Semeijn, and Verhappen  2020 ; Hawkins, Lewin, and Amos 2012 ; Hawkins, 
+Pohlen, and Prybutok 2013 ; Srinivasan and 
+Srivastava 2012 ; Tangpong, Hung, and Ro 2010 ).
+To effectively manage business relationships with 
+suppliers and mitigate their opportunistic behaviours, 
+buyer agents must possess strong boundary spanning 
+capabilities (BSCs), which include purchasing knowl -
+edge, communication skills, and compromise ability 
+(Zhang, Viswanathan, and Henke 2011 ). These BSCs 
+are particularly important during the pre – contract 
+stage, where buyer agents utilise them to analyse rele-
+vant information and negotiate contract terms with 
+suppliers. This information includes product details 
+(design, quality, alternatives), delivery specifications 
+(just – in–time, schedule), cost factors (raw materials, 
+production, taxes, exchange rates), and supplier cap-
+abilities (alternative options, reputation) (Akrout and 
+Diallo 2017 ). In this stage, buyers are vulnerable to 
+suppliers’ opportunistic behaviours, such as inflating 
+costs. BSCs help buyer agents mitigate these risks 
+(Zhang, Viswanathan, and Henke 2011 ).
+Furthermore, BSCs continue to be crucial in the 
+post – contract stage for buyer agents to control sup-
+pliers’ opportunistic behaviours. For instance, when 
+there are sudden increases in raw material prices, sig-
+nificant changes in exchange rates, or disruptions in 
+product delivery due to adverse weather conditions, 
+CONTACT Nguyen Ngoc Anh 
+ anhngocnguyen@vnu.edu.vn 
+ Department of Economics and Management, VNU International School, Vietnam 
+National University Hanoi, Hanoi, VietnamSUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL 
+2024, VOL. 25, NO. 2, 213–228 
+https://doi.org/10.1080/16258312.2023.2286694
+© 2023 Kedge Business School 
+suppliers often attempt to renegotiate terms in their 
+favour. In such situations, buyer agents’ purchasing 
+knowledge and skills are vital in understanding the 
+situation and developing negotiation strategies to 
+adjust contracts with suppliers, thereby avoiding dis-
+advantages for the buyer company (Dowell, Morrison, 
+and Heffernan 2015 ; Pan and Choi 2016 ). However, 
+individual opportunism in inter – firm relationships 
+has been overlooked in previous literature (Pham, 
+Yokozawa, and Anh 2022 ; Tangpong, Hung, and Ro  
+2010 ). Individual opportunism is critical to consider 
+because individual agents – i.e. buyer and supplier 
+agents – are primarily responsible for conducting and 
+managing business transactions; they have many 
+opportunities to perform opportunistically (Hawkins, 
+Lewin, and Amos 2012 ). In many cases, opportunistic 
+behaviours in business exchanges that damage firm 
+performance and cooperation between firms are inten -
+tionally performed by individual agents rather than 
+companies (Lyons, Krachenberg, and Henke 1990 ). 
+Thus, this study is a part of the emerging trend focus -
+ing on individual opportunism.
+Additionally, only a limited number of studies have 
+empirically operationalised and tested the role of 
+boundary spanning capabilities (BSCs) in managing 
+opportunism. transaction cost theory (TCT) and 
+resource dependence theory (RDT) highlight the sig-
+nificance of knowledge limitations regarding products, 
+markets, competitors, and communication skills as 
+major factors hindering individual agents’ effective 
+control over their counterparts’ opportunistic beha -
+viours (Williamson 1985 ). Moreover, knowledge is con-
+sidered a crucial resource that enables a party to exert 
+influence and shape the behaviours of other parties 
+within supply chains (Pfeffer and Salancik, 1978 ). 
+However, there have been few empirical studies that 
+have operationalised and tested the propositions put 
+forth by TCT and RDT.
+On the other hand, existing research on boundary 
+spanning theory (BST) has already operationalised rele-
+vant knowledge and skills for buyer agents involved in 
+business exchanges through the concept of BSCs. 
+These BSCs encompass professional purchasing knowl -
+edge, compromise ability, and strategic communica -
+tion, which have been shown to play a significant role 
+in facilitating business exchanges and sustaining 
+inter – firm relationships (Vesalainen, Rajala, and 
+Wincent 2020 ; Zhang, Viswanathan, and Henke 2011 ; 
+Zhang, Wu, and Henke 2015 ). Hence, this study aims to 
+investigate the role of buyer agents’ BSCs in managing 
+supplier agent opportunism.
+Moreover, there is a lack of studies that have elabo -
+rated on the integrated framework of individual oppor -
+tunism developed by previous research, which 
+emphasised the effects of organisational factors as 
+contextual moderating conditions that can enhance 
+or reduce the role of individual factors in controlling individual opportunism (Gelderman, Semeijn, and 
+Verhappen 2020 ; Hawkins, Pohlen, and Prybutok  
+2013 ). Therefore, this study aims to address this gap 
+by considering the role of long – term orientation (LTO) 
+between buyer and supplier firms as an organisational 
+contingency factor that could potentially enhance the 
+impact of buyer agents’ BSCs on supplier agents’ 
+opportunism. Numerous studies have confirmed the 
+role of LTO in inter – firm relationships, such as redu -
+cing transaction costs (Williamson 1985 ), facilitating 
+information exchanges (Dyer and Chu 2011 ; Lee et al.  
+2018 ), fostering trust (Chung, Sternquist, and Chen  
+2006 ), promoting collaboration (Yunus and 
+Kurniawan 2015 ), and creating a cooperative environ -
+ment (Gundlach, Achrol, and Mentzer 1995 ; Lui and 
+Ngo 2012 ) among business partners. Thus, to enrich 
+relevant theories and to provide practical implications, 
+we address the following research question: To what 
+extent do buyer agents’ BSCs and LTO between buyer 
+and supplier firms impact supplier agent opportunism 
+and how?
+To address the research question, this study col-
+lected data from a survey by 406 purchasing agents 
+in Japanese manufacturing companies. Conditional 
+process analysis is applied, which is ‘an analytical 
+strategy that integrates mediation and moderation 
+analysis intending to examine and test hypotheses 
+about how mechanisms vary as a function of con-
+text or individual differences’ (Hayes and Rockwood  
+2020 , 1). In this study, we test the main effects of 
+buyer agents’ boundary spanning capabilities on 
+supplier agents’ opportunism and test the moderat -
+ing effects of how the main effects vary in the 
+context of long – term orientation between buyer 
+and supplier companies.
+This study makes four potential contributions. 
+First, we extend TCT, RDT, and the literature on 
+factors influencing opportunism in inter – firm rela-
+tionships by empirically examining opportunism at 
+the individual level. Second, our study enriches BST 
+by empirically verifying the influence of buyer 
+agents’ BSCs in controlling opportunistic behaviours 
+from supplier agents. Third, we also contribute to 
+the emerging research trend on individual opportu -
+nism by considering LTO between buyer and sup-
+plier firms as an organisational factor that may 
+enhance the effectiveness of buyer agents’ BSCs in 
+controlling supplier agents’ opportunism. Fourth, 
+we also enrich our understanding of how LTO is 
+important in Japanese culture by testing the pro-
+posed relationships in Japanese manufacturing 
+companies.
+The remainder of this paper is structured as follows. 
+In the next section, we provide a literature review 
+about factors influencing individual opportunism in 
+inter – firm relationships and the role of buyer agents’ 
+BSCs in managing inter – firm relationships. Next, we 214
+ T. X. T. PHAM ET AL.
+explain how we developed the hypotheses, explaining 
+how buyer agents can effectively use their BSCs and 
+firms’ LTO to mitigate supplier agent opportunism. 
+Next, we address the methodology and results. 
+Following are the conclusions where we present theo -
+retical contributions and implications for practitioners. 
+The final section is about limitations and future 
+research.
+Literature review
+Factors influencing individual opportunism in 
+inter – firm relationships
+Both individual and organisational factors have an 
+impact on individual opportunism. In terms of indi -
+vidual factors, the cooperativeness and honesty of 
+individual agents have been found to influence 
+their engagement in opportunistic behaviours 
+(Hawkins, Lewin, and Amos 2012 ; Hawkins, Pohlen, 
+and Prybutok 2013 ; Tangpong, Hung, and Ro 2010 ). 
+Moreover, individual agents’ perceptions of their 
+counterparts, including perceiving them as under -
+mining their honour or demonstrating opportunistic 
+behaviours, can positively influence their decision to 
+engage in opportunistic behaviours in response 
+(Gelderman, Semeijn, and Verhappen 2020 ).
+On the other hand, organisational factors also play 
+a significant role. Relational norms between buyer and 
+supplier companies have been found to have 
+a negative influence on the occurrence of opportunis -
+tic behaviours among their agents (Tangpong, Hung, 
+and Ro 2010 ). Additionally, the power dynamics 
+between buyer and supplier companies can impact 
+individual agents’ opportunism, with agents from 
+more powerful companies more likely to engage in 
+opportunistic behaviours towards agents from less 
+powerful companies (Hawkins, Pohlen, and Prybutok  
+2013 ). Furthermore, the organisational environment 
+created by companies can also affect individual agents’ 
+opportunism. For instance, a workplace that promotes 
+cooperative ethical values can reduce the likelihood of 
+agents behaving opportunistically (Hawkins, Pohlen, 
+and Prybutok 2013 ). Conversely, the conduct of man -
+agers and leaders, such as engaging in opportunistic 
+leadership or displaying wilful ignorance, can increase 
+agents’ opportunism (Hawkins, Lewin, and Amos 2012 ; 
+Hawkins, Pohlen, and Prybutok 2013 ).
+Furthermore, the interaction effects between indivi -
+dual and organisational factors play a crucial role in 
+managing individual agents’ opportunism. Relational 
+norms between buyer and supplier firms alone cannot 
+effectively reduce individual agents’ opportunism 
+unless those agents exhibit cooperativeness 
+(Tangpong, Hung, and Ro 2010 ). Similarly, the pre-
+sence of honesty and integrity among individual agents may not be sufficient to decrease their like-
+lihood of engaging in opportunistic behaviours if 
+their managers and leaders display high levels of 
+opportunistic behaviours or if the company does not 
+prioritise ethical conduct (Hawkins, Lewin, and Amos  
+2012 ; Hawkins, Pohlen, and Prybutok 2013 ). The inter -
+action between individual and organisational factors 
+highlights the complexity of managing opportunism 
+and emphasises the importance of considering both 
+sets of factors simultaneously.
+Role of buyer agents’ BSCs in managing inter – 
+firm relationships
+The importance of individual agents’ knowledge and 
+skills in facilitating inter – firm relationships and per-
+formance has also been recognised in BST (Doney and 
+Cannon 1997 ). According to BST, individual agents 
+who represent their firms in business exchanges with 
+partner firms are referred to as boundary spanners. In 
+the context of business exchanges with supplier firms, 
+buyer agents serve as typical examples of boundary 
+spanners and play crucial roles in fostering relation -
+ships with individuals from supplier firms, as well as 
+improving the overall performance of the supply chain 
+(Adams 1976 ; Aldrich and Herker 1977 ; Doney and 
+Cannon 1997 ). These buyer agents utilise their knowl -
+edge and skills to bridge the gap between their own 
+organisation and the supplier firms, ensuring effective 
+communication, collaboration, and relationship 
+management.
+There are three BSCs that buyer agents need to 
+effectively carry out business transactions with suppli -
+ers: (1) strategic communication capability: The effec -
+tiveness of buyer agents in presenting their firm’s 
+strategic intention and goals to suppliers (Ireland and 
+Webb 2007 ; Perrone, Zaheer, and McEvily 2003 ); (2) 
+professional knowledge: The knowledge possessed 
+by buyer agents that enables them to competently 
+carry out their job responsibilities (Doney and 
+Cannon 1997 ); and (3) ability to reach compromise 
+with suppliers: The effectiveness of buyer agents in 
+mediating and overcoming differences that arise 
+between their firms and the suppliers they interact 
+with (Friedman and Podolny 1992 ).
+Previous literature has examined the effectiveness 
+of buyer agents’ BSCs in building trust between them 
+and supplier agents and between buyer firms and 
+supplier firms (Doney and Cannon 1997 ; MacDuffie 
+and Helper 2006 ; Zhang, Viswanathan, and Henke  
+2011 ; Zhang, Zheng, and Li 2019 ). Buyer agents with 
+a high level of strategic communication skills and 
+knowledge can increase suppliers’ willingness to invest 
+in their firms (Zhang, Wu, and Henke 2015 ) and sup-
+plier embeddedness (Cai et al. 2021 ). Professional SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 215
+knowledge helps buyer agents understand and inte -
+grate the knowledge shared by suppliers to reinforce 
+cooperation values (Teigland and Wasko 2003 ). BSCs 
+are critical for buyer agents to identify and attract the 
+best suppliers, implement coordination processes, 
+enhance internal and external interactions, and 
+develop tight bonds (Tchokogué and Merminod  
+2021 ). The summary of the research on the impacts 
+of BSCs in managing inter – firm relationships is pre-
+sented in Table 1.
+In sum, the literature review highlights three 
+main points. First, individual opportunism is influ -
+enced by both individual and organisational fac-
+tors, in which organisational factors are conditional 
+factors that strengthen or weaken the role of indi -
+vidual factors in reducing individual opportunism. 
+Second, there is a lack of empirical studies exam -
+ining the role of buyer agents’ BSCs in managing 
+supplier agents’ opportunism. Third, BST investi -
+gates buyer agents’ knowledge and skills in 
+inter – firm relationships and operationalises their 
+knowledge and skills using three types of BSCs: 
+professional purchasing knowledge, compromise 
+ability, and strategic communication. While these 
+capabilities are crucial in managing supplier rela -
+tionships, there is limited understanding of how 
+they can effectively control supplier agents’ oppor -
+tunism. Therefore, it is necessary to empirically 
+investigate the impact of buyer agents’ BSCs on 
+supplier agents’ opportunism to elaborate on the 
+fundamental propositions of TCT and RDT and to 
+enrich knowledge of the roles of buyer agents’ 
+BSCs in BST.
+Hypotheses development
+Impact of buyer agents’ professional purchasing 
+knowledge on supplier agents’ opportunism
+Buyer agents can leverage their professional knowl -
+edge to effectively manage their working relationships 
+with supplier agents. Firstly, a strong knowledge foun -
+dation allows buyer agents to negotiate favourable 
+contracts with suppliers as they are well – informed 
+about crucial terms and conditions (Bals et al. 2019 ). 
+Additionally, buyer agents with comprehensive pro-
+duct knowledge can accurately assess product value 
+and production costs, making it difficult for supplier 
+agents to engage in opportunistic behaviours (Revilla 
+and Knoppen 2015 ).
+Secondly, a high level of knowledge equips 
+buyer agents with the ability to negotiate effec -
+tively in unexpected situations. Buyer agents’ 
+knowledge is crucial in obtaining a clear under -
+standing of the circumstances, enabling them to 
+avoid any disadvantages for their companies 
+(Revilla and Knoppen 2015 ).Thirdly, a strong knowledge base empowers buyer 
+agents to establish cooperative ties with suppliers. In 
+inter – firm relationships, exchanges of knowledge and 
+skills are often integral components. Therefore, sup-
+plier agents are more likely to cooperate and collabo -
+rate with knowledgeable buyer agents, as they 
+recognise the opportunity to learn and benefit from 
+their expertise (Barbat 2011 ).
+Overall, buyer agents’ professional knowledge plays 
+a vital role in contract negotiations, managing unfore -
+seen circumstances, and fostering cooperative rela-
+tionships with suppliers, thereby reducing the 
+likelihood of opportunistic behaviours.
+Hypothesis 1. Buyer agents’ professional purchasing 
+knowledge reduces supplier agents’ opportunism.
+Impact of buyer agents’ compromise ability on 
+supplier agents’ opportunism
+Compromise ability is a crucial attribute for buyer 
+agents in effectively managing supplier agents’ 
+opportunistic behaviours. As intermediaries 
+between buyer and supplier firms, buyer agents 
+play a pivotal role in establishing and maintaining 
+cooperative relationships (Vesalainen, Rajala, and 
+Wincent 2020 ). Compromise ability enables buyer 
+agents to reduce conflicts and address interest mis-
+matches that may arise between themselves and 
+supplier agents, as well as between the buyer and 
+supplier firms (Zhang, Viswanathan, and Henke  
+2011 ). By mitigating conflicts and interest discre -
+pancies, business exchanges can operate smoothly, 
+leading to increased satisfaction among supplier 
+agents and others within supplier firms, thereby 
+reducing the likelihood of opportunistic behaviours 
+(Zhang, Viswanathan, and Henke 2011 ).
+Moreover, buyer agents with strong compromise 
+ability can foster an environment where supplier 
+agents feel understood and valued. This sense of 
+understanding and care enhances trust and respect 
+between buyer agents and supplier agents, creating 
+a conducive atmosphere for cooperation and redu -
+cing the occurrence of opportunistic behaviours (Cai 
+and Yang 2008 ). When supplier agents perceive that 
+their interests and concerns are acknowledged and 
+taken into account by buyer agents, they are more 
+motivated to engage in collaborative and trust -
+worthy behaviours.
+In summary, compromise ability is a critical attribute 
+for buyer agents in managing supplier agents’ oppor -
+tunistic behaviours. It helps in conflict resolution, 
+addressing interest mismatches, fostering satisfaction, 216
+ T. X. T. PHAM ET AL.
+Table 1. Summary of research on the impact of BSCs in managing inter – firm relationships.
+AuthorsResearch 
+type Methodology and sampleInter – firm relationship 
+performanceEffects of BSCs on 
+inter – firm relationship performance
+Au and 
+Fukuda 
+(2002 )Empirical - Questionnaire survey administered to 232 
+expatriates in Japan and English – speaking 
+countries 
+- Regression analysis- Expatriates’ role 
+ambiguity 
+- Expatriates’ role benefits 
+- Expatriates’ use of 
+community resources 
+- Expatriates’ power 
+- Boundary spanners’ job 
+satisfactionBSCs help expatriates gain more role benefits, 
+utilise community resources, and reduce 
+feelings of ambiguity. In addition, BSCs 
+help boundary spanners gain more power 
+and job satisfaction in their own 
+companies.
+Teigland 
+and 
+Wasko 
+(2003 )Empirical - Questionnaire survey administered to 83 
+information technology services and 
+consulting companies in Europe 
+- Structural equation modelling- Creativity 
+- Integrating knowledgeBoundary spanning communication positively 
+influences creativity and boundary 
+spanners’ performance in integrating 
+knowledge across organisational 
+boundaries.
+Zhang 
+et al. 
+(2011 )Empirical - Questionnaire survey administered to 345 
+buyers in the US automotive industry and 
+143 buyers in the European food industry 
+- Structural equation modelling analysis- Suppliers’ trust in agents 
+- Suppliers’ trust in firmsBuyer agents’ BSCs, in the form of strategic 
+communication with supplier firms, help 
+increase trust between buyer and supplier 
+firms, while buyer agents’ professional 
+purchasing knowledge and compromise 
+ability help reinforce supplier firms’ trust in 
+buyer agents.
+Zhang 
+et al. 
+(2015 )Empirical - Questionnaire survey administered to 198 
+buyers in the US and 181 buyers in Europe 
+- Structural equation modelling analysis- Communication 
+- Trustworthiness 
+- Willingness to investBSCs, in terms of professional knowledge and 
+strategic communication, help enhance 
+communication quality between spanners’ 
+firms and supplier firms, which in turn 
+increases spanners’ firms’ trustworthiness 
+and supplier firms’ willingness to invest.
+Huang 
+et al. 
+(2016 )Empirical - Questionnaire survey administered to 225 
+manufacturer – distributor dyads in China 
+- Structural equation modelling analysis- Relationship quality 
+- Relationship trust 
+- Relationship satisfaction 
+- Relationship commitmentBoundary spanning roles have significant 
+influences on inter – organisational 
+relationships. The effectiveness of 
+boundary spanners in processing 
+information and external representation 
+helps boost communication and 
+cooperation and reduce conflict between 
+organisations. This improves relationship 
+quality, trust, satisfaction, and commitment 
+in inter – organisational relationships.
+Cai et al. 
+(2017 )Empirical - Questionnaire survey administered to 277 
+phone manufacturers in China 
+- Path analysis- Inter – firm collaboration 
+- Inter – firm conflictBoundary spanners’ interactions and 
+capabilities positively impact the 
+development of interpersonal ties among 
+boundary spanners, which helps 
+strengthen inter – firm collaboration and 
+reduce inter – firm conflict.
+Schotter 
+et al. 
+(2017 )Conceptual 
+modelMeta – analysis literature review and 
+conceptual model development- Operational diversity: 
+global activities, global 
+value chain, inter – form 
+ecosystem 
+- Organisational 
+capabilities: system 
+effectiveness, process 
+improvement, cost 
+efficienciesA sense of honour and identity, strategic 
+decision – making, and the abilities, skills, 
+and experiences of individual boundary 
+spanners are critical to boosting the 
+operational diversity and capabilities of 
+organisations in the global supply chain.
+Dekker 
+et al. 
+(2019 )Empirical - Questionnaire survey administered to 200 
+firms in French 
+- Process regression analysis- Collaboration scope 
+- Firm performanceBSCs help significantly improve firm 
+performance in business exchanges in 
+terms of on – time delivery, offer quality, 
+innovation, and profit margins. Further, 
+boundary spanners’ effectiveness when 
+performing their jobs in business 
+exchanges helps enhance the positive 
+impact of narrow – scope collaborations in 
+firm performance.
+Son et al. 
+(2019 )Empirical - Questionnaire survey administered to 344 
+purchasing agents in Korean 
+manufacturing firms 
+- Hierarchical regression analysisRelationship performance Boundary spanners need to be able to act as 
+mediators between their focal firms and 
+partner firms. The capacity to influence 
+one’s counterparts in information, decision, 
+profit, and risk sharing is critical to 
+facilitating collaborative supply chain 
+relationships.
+Zhang 
+et al. 
+(2019 )Empirical - Questionnaire survey administered to 287 
+manufacturing firms in China 
+- Two – stage least squares regressionTrust restoration Individual boundary spanners have important 
+roles in repairing relationships in business 
+exchanges after conflicts and opportunism.
+Collien 
+(2021 )Conceptual Meta – analysis - Power 
+- Knowledge sharing 
+- Cross – cultural 
+collaborationSpanning capabilities such as communication, 
+knowledge, and compromise ability are 
+critical for individual spanners to gain 
+power and to effectively use that power to 
+drive knowledge sharing and cross – 
+cultural collaboration.
+(Continued )SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 217
+and building trust, thereby reducing the likelihood of 
+opportunistic behaviours in inter – firm relationships.
+Hypothesis 2: Buyer agents’ compromise ability 
+reduces supplier agents’ opportunism.
+Impact of buyer agents’ strategic communication 
+on supplier agents’ opportunism
+Strategic communication plays a crucial role for buyer 
+agents in effectively managing supplier agents’ oppor -
+tunistic behaviours. Buyer agents with strong strategic 
+communication capabilities are able to effectively 
+communicate buyer firms’ purchasing strategies and 
+plans to supplier firms, facilitating a better understand -
+ing of buyer firms by supplier agents and others within 
+supplier firms (Makaoui and Aloui 2015 ; Zhang, Wu, 
+and Henke 2015 ). For instance, buyer agents engage in 
+communication with supplier agents regarding buyer 
+firms’ plans to expand or streamline product lines, or 
+their desire to introduce changes to product designs. 
+Such information is valuable for suppliers to plan their 
+manufacturing schedules, production processes, and 
+technology investments in order to establish long – 
+term cooperation with the buyers (Zhang, 
+Viswanathan, and Henke 2011 ). These collaborative 
+planning efforts foster closer working relationships 
+between suppliers and buyers, reducing the likelihood 
+of opportunistic behaviours (Zhang, Viswanathan, and 
+Henke 2011 ).
+Furthermore, effective communication helps to 
+build trust between supplier and buyer agents, creat -
+ing a positive environment where supplier agents 
+appreciate the relationship and are less inclined to 
+engage in opportunistic behaviours (Zhang, Zheng, 
+and Li 2019 ). By maintaining open and transparent 
+lines of communication, buyer agents can establish 
+a sense of trust and mutual understanding with supplier agents, leading to a stronger commitment to 
+the relationship and a reduced intention to act 
+opportunistically.
+In summary, strategic communication is critical for 
+buyer agents in effectively managing supplier agents’ 
+opportunistic behaviours. By effectively conveying 
+purchasing strategies and plans, fostering collabora -
+tive planning efforts, and building trust, buyer agents 
+can establish cooperative relationships and mitigate 
+the likelihood of opportunistic behaviours in inter – 
+firm exchanges.
+Hypothesis 3: Buyer agents’ strategic communica -
+tion capability reduces supplier agents’ opportunism.
+Moderating role of LTO
+Indeed, the opportunism of individual agents is not 
+solely influenced by individual factors, but also by 
+moderating effects from the strength of inter – firm 
+relationships (Gelderman, Semeijn, and Verhappen  
+2020 ; Hawkins, Lewin, and Amos 2012 ; Hawkins, 
+Pohlen, and Prybutok 2013 ; Tangpong, Hung, and Ro  
+2010 ). In this study, we consider LTO between buyer 
+and supplier firms as a crucial contextual factor that 
+enhances the effectiveness of buyer agents’ Balanced 
+Scorecards (BSCs) in managing supplier agents’ 
+opportunism.
+In a business relationship, LTO refers to the desire 
+and value that an economic actor places on establish -
+ing a long – term bond with a specific exchange part -
+ner (Ryu, Park, and Min 2007 ). When LTO is high, buyer 
+and supplier firms consider each other as essential 
+partners and engage in more frequent and strategic 
+collaborations. This may involve spending more time 
+discussing manufacturing plans, product development 
+strategies, and innovative ideas (Lee et al. 2018 ). As 
+a result, buyer agents operating in such conditions are Table 1. (Continued).
+AuthorsResearch 
+type Methodology and sampleInter – firm relationship 
+performanceEffects of BSCs on 
+inter – firm relationship performance
+Vesalainen 
+et al. 
+(2020 )Empirical - Mixed – methods design: Questionnaire 
+survey administered to 349 individual 
+purchasers in Finnish manufacturing 
+companies and follow – up interviews with 
+20 purchasers. 
+- Cluster analysis for the survey data and 
+cross – case analysis for the interview dataPurchaser agents’ 
+persuasive orientations 
+(relational, authoritarian, 
+and competitive)Purchaser agents, as boundary spanners in 
+business exchanges, need to have a high 
+level of spanning capabilities to gain 
+relational, authoritarian, and competitive 
+advantages when working with suppliers.
+Cai et al. 
+(2021 )Empirical - Questionnaire survey administered to 225 
+purchasing managers in China 
+- Path analysis- Counterparts’ trust in 
+spanners 
+- Personal closeness with 
+their counterparts 
+- Counterparts’ firms’ trust 
+in boundary spanners’ 
+firmsIndividual spanners with a high level of BSCs 
+have close personal ties with their 
+counterparts. This helps deepen trust 
+between themselves and their 
+counterparts, as well as between their own 
+and their counterparts’ firms.218
+ T. X. T. PHAM ET AL.
+in a favourable business climate to work closely with 
+supplier agents and effectively communicate and com -
+promise with both parties.
+The presence of a strong LTO facilitates the devel -
+opment of a cooperative and collaborative environ -
+ment, promoting open communication, mutual 
+understanding, and trust between buyer and supplier 
+agents. Buyer agents with high LTO are more likely to 
+engage in long – term relationship building and 
+engage in behaviours that reduce opportunistic ten-
+dencies among supplier agents. The strength of the 
+buyer – supplier relationship, influenced by LTO, 
+amplifies the impact of buyer agents’ BSCs in mana -
+ging and mitigating supplier agents’ opportunism.
+Hypothesis 4a: LTO between buyer and supplier 
+firms enhances the role of buyer agents’ professional 
+knowledge in reducing supplier agents’ opportunism.
+Hypothesis 4b: LTO between buyer and supplier 
+firms enhances the role of buyer agents’ compromise 
+ability in reducing supplier agents’ opportunism.
+Hypothesis 4c: LTO between buyer and supplier 
+firms enhances the role of buyer agents’ strategic com -
+munication capability in reducing supplier agents’ 
+opportunism.
+The hypotheses are illustrated in Figure 1.
+Research methodology
+Sampling and data collection
+This study collected data by surveying Japanese man -
+ufacturing companies, where LTO is a crucial competi -
+tive advantage (Dyer and Chu 2003 , 2011 ; Sako and 
+Helper 1998 ). By developing long – term relationships 
+with business partners, companies can enhance supply 
+chain integration and collaboration (Dyer and Chu  
+2011 ), improve communication and information shar -
+ing (Chung, Sternquist, and Chen 2006 ), improve the manufacturing process (Clark and Fujimoto 1991 ), and 
+increase human and capital assets (Aoki and Wilhelm  
+2017 ). Hence, in the context of Japanese manufactur -
+ing companies, examining how LTO between firms can 
+help (as a contextual factor) individual buyer agents 
+effectively use their BSCs to control supplier agent 
+opportunism is necessary.
+The target participants in the survey were purchas -
+ing staff in the sales and planning sections of manu -
+facturing companies in Japan responsible for business 
+activities with suppliers. As purchasing staff generally 
+represent buyer firms in business transactions with 
+suppliers’ sales staff, they are important in managing 
+suppliers’ opportunism (Zhang, Viswanathan, and 
+Henke 2011 ). Further, a purchasing staff member 
+usually works with more than one sale staff member 
+from one supplier firm. Thus, we asked purchasing staff 
+to consider the supplier company with the highest 
+transaction value they were dealing with and the per-
+son from the supplier company they contacted most 
+frequently.
+To recruit participants, we cooperated with GMO 
+Research (https://gmo–research.com/ ), a professional 
+research company. They offer a platform accessed by 
+over 40 million individuals. When participating in 
+research, individuals are awarded incentive points, 
+redeemable for gift cards, cash, or merchandise.
+Data collection proceeded in two stages. The 
+first entailed a pre – screening survey to recruit 
+participants who matched our criteria. Qualified 
+participants needed to work in Japanese manufac -
+turing companies’ sales and planning sections. 
+They had to work or have worked as buyer agents 
+in inter – firm business transactions. In the second 
+stage, GMO Research opened its survey platform 
+for selected participants. The company required 
+participants to log in to the survey platform 
+using their member ID verification code; thus, 
+each participant could complete the survey only 
+once (Schoenherr, Ellram, and Tate 2015 ). Further, 
+the question items were presented in random 
+order, and we provided reverse questions to 
+H3
+Strategic c ommunicationCompromiseabilityProfessi onalpurchasing knowledge
+Supplier 
+agents’
+opportuni smBuyer and supplier firms’ 
+long-term orie ntation
+Buyer agents’  boundary 
+spannin g capability
+H2H1
+Figure 1. Conceptual model.SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 219
+prevent unengaged responses and ensure objec -
+tivity (ibid.).
+Data were collected from February to April 2021. 
+There were 413 samples, and after screening to 
+remove outliers, we obtained a dataset of 406 usable 
+samples, which reached the rule of thumb for the 
+sample size for a moderation model (Nunnally 1978 ). 
+The sample profile is provided in the Appendix .
+Scale measurement
+We adapted instruments from the literature to mea -
+sure constructs in the conceptual model. 
+Opportunism scales included 10 items adapted 
+from Carson et al. (2006 ), Gundlach et al. (1995 ), 
+and Heide et al. (2007 ), measuring the extent to 
+which a buyer agent perceives that a supplier 
+agent displays opportunistic behaviours. The sample 
+items were ‘This agent violated contractual terms 
+for their own benefit’, ‘This agent violated informal 
+agreements for their own benefit’, and ‘This agent 
+altered facts to drive a better deal’.
+Buyer agents’ BSC measures were adapted from 
+Zhang et al. (2011 ). Professional purchasing knowl -
+edge was measured with four items indicating the 
+extent to which a buyer agent has knowledge about 
+products, suppliers’ capability, competitors, and the 
+market. Compromise ability was measured with three 
+items indicating buyer agents’ ability to reach equita -
+ble solutions for both sides, considering suppliers’ 
+interests. The three items of strategic communication 
+capability measured a buyer agent’s effectiveness in 
+conveying their firm’s purchasing plans and strategies 
+to the supplier firm and explaining the buyer firm’s 
+suggestions regarding the programme/contract or 
+agreements to the supplier firm. Sample items were ‘I 
+have knowledge about the supplier firm’s capabilities 
+(e.g. quality, timely delivery, safety standards)’, ‘I gen -
+erally strive to reach solutions that are equitable to 
+both the supplier firm and my firm when differences 
+arise’, and ‘I am effective at explaining my firm’s pur-
+chasing strategy to the supplier firm’.
+Six items adapted from Chen et al. (2011 ) were 
+used to measure LTO. These items measured the 
+extent to which a buyer firm has the intention and 
+willingness to maintain and develop a long – term 
+relationship with a supplier firm. Sample items were 
+‘We focus on long – term goals in this relationship’ 
+and ‘Maintaining a long – term relationship with 
+this supplier is important to us’.
+The items were translated from English to 
+Japanese and then back – translated to determine 
+the accuracy of the translation (Huo et al. 2018 ). 
+Respondents were required to evaluate the extent 
+to which they agreed with the statements on a five – point Likert scale ranging from 1 (strongly 
+disagree) to 5 (strongly agree).
+Results
+Reliability and validity
+Reliability
+We used SPSS and AMOS software to analyse the 
+data. We used the following procedure suggested 
+by Narasimhan and Jayaram (1998 ). First, confirma -
+tory and exploratory factor analyses were used to 
+test the reliability of measurement (Gorsuch 1983 ). 
+We generated standard factor loadings for each 
+measurement item showing the percentage of 
+the variable explained by the item, and if an 
+item had a standard factor loading less than 0.5, 
+it was removed. Then, we calculated the Kaiser – 
+Meyer–Olkin (KMO) value to measure the sampling 
+adequacy for each variable. Composite reliability 
+(CR) and Cronbach’s α were used to measure the 
+internal consistency of scale items. The KMO value 
+for compromise ability was above 0.6, while the 
+KMO value for all other scales was above 0.8. The 
+CR for all constructs was above 0.7. As the rule of 
+thumb for KMO and CR values is 0.6 and 0.7, 
+respectively, the sampling was adequate, or the 
+proportion of variance may have been caused by 
+high underlying factors (Nunnally 1978 ). The 
+Cronbach’s α of all scales was greater than 0.7, 
+demonstrating the internal consistency and relia -
+bility of the items and constructs (Hair et al. 1995 ). 
+In addition, correlations for all pairs of variables 
+were calculated. Table 2 presents the correlation 
+matrix, CR, Cronbach’s α, and KMO values.
+Validity
+A model fit index was used to test the validity of the 
+model, that is, the fits between the observed data 
+and a particular probability distribution (Schumacker 
+and Lomax 2010 ). First, the chi – square test with χ2 
+and χ2/df indicators was conducted to compare the 
+observed data and expected results. The results 
+showed that χ2/df = 2.342, which was less than 5, 
+indicating a good benchmark. Next, the overall fit 
+indices for model evaluation were calculated, includ -
+ing the Comparative Fit Index (CFI), Normed Fit Index 
+(NFI), Incremental Fit Index (IFI), Tucker – Lewis Index 
+(TLI), and Relative Fit Index (RFI). The results showed 
+that CFI = 0.913, NFI = 0.858, IFI = 0.913, TLI = 0.905, 
+and RFI = 0.845. Values above 0.8 indicate a good 
+model fit (Hu and Bentler 1999 ); all indicators in 
+this study ranged from 0 to 1. Finally, the Root 
+Mean Square Error of Approximation (RMSEA) and 
+Standardised Root Mean Square Residual (SRMR) 
+were used to assess how far from perfect our 
+model was. The indicators should range from 0 to 220
+ T. X. T. PHAM ET AL.
+1; higher values reflect poorer fits. Our data showed 
+that RMSEA = 0.058 and SRMR = 0.0697, both less 
+than 0.07; thus, our model had an acceptable fit 
+level (Cho et al. 2020 ).
+Hypotheses testing
+After analysing reliability and validity, linear regression 
+and conditional process analyses were used to test the 
+direct and moderating effects, respectively (Hayes  
+2017 ). The analytical results are presented in Table 3 
+and Figure 2 below.
+Regarding main effects, Hypothesis 1 suggested 
+that buyer agents’ professional knowledge reduces 
+supplier agents’ opportunism, but our results showed 
+a positive relationship (β = 1.968; p < 0.001). This effect can occur in some situations. For example, buyer 
+agents are knowledgeable about raw materials and 
+product values. Therefore, if products are not made 
+from the best raw materials, but suppliers still want 
+to sell at a high price, they would lie about the materi -
+als to get their desired price.
+Similarly, Hypothesis 2, which suggested that buyer 
+agents’ compromise ability reduces supplier agents’ 
+opportunism (β = 7.933; p < 0.001), was not supported. 
+One possible explanation for this unexpected outcome 
+is that in business exchange negotiations, it is assumed 
+that suppliers always act out of self – interest, whereby 
+they want to sell their product and benefit as much as 
+they can (Williamson 1985 ). Thus, if buyer agents act as 
+middlemen and try to reach a compromise regarding 
+suppliers’ requirements, they may inadvertently create Table 2. Correlations, reliability, and validity.
+Constructs 1. 2. 3. 4. 5.
+1. Opportunism 1
+2. Strategic communication ability −0.203*** 1
+3. Long-term orientation −0.287*** 0.727*** 1
+4. Professional knowledge −0.152** 0.948*** 0.672*** 1
+5. Compromise ability −0.165** 0.963*** 0.742*** 0.911*** 1
+Cronbach’s α 0.938 0.838 0.885 0.854 0.719
+CR 0.938 0.838 0.888 0.861 0.714
+KMO 0.946 0.680 0.895 0.858 0.680
+N = 406; **p < 0.010; ***p < 0.001; CR = composite reliability; KMO = Kaiser – Meyer–Olkin value.
+Table 3. Results of linear regression and conditional process analysis.
+Hypothesis Direct effects Coefficient β Evaluation
+H1 Professional knowledge -> Opportunism 1.968*** Not supported
+H2 Ability to reach compromise -> Opportunism 7.933*** Not supported
+H3 Strategic communication -> Opportunism −7.548*** Supported
+Hypothesis Moderating effects of LTO Coefficient β Evaluation
+H4a Professional knowledge -> Opportunism −0.078* Partially supported
+H4b Compromise ability -> Opportunism −0.084** Partially supported
+H4c Strategic communication -> Opportunism −0.153* Supported
+*p < 0.05, **p < 0.01, ***p < 0.001.
+Strategic c ommunicationCompromise abilityProfessi onal knowledge
+Supplier 
+agents’ 
+opportuni smBuyer and sup plier firms’ 
+long-term orie ntation
+Buyer agents’  boundary 
+spannin g capability
+β= -0.153*
+β= 7.933***
+Figure 2. Data analysis results.SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 221
+more favourable conditions that the suppliers can then 
+exploit.
+Hypothesis 3 implies that buyer agents’ strategic 
+communication reduces supplier agents’ opportunism. 
+Our findings strongly support Hypothesis 3 (β =  
+−7.548; p < 0.001). The results align with previous stu-
+dies emphasising the importance of strategic commu -
+nication in managing healthy inter – firm relationships 
+(Zhang, Viswanathan, and Henke 2011 ; Zhang, Wu, and 
+Henke 2015 ; Zhang, Zheng, and Li 2019 ). A buyer 
+agent’s strategic communication capability provides 
+a supplier agent with information about the buyer 
+firm’s future purchasing plans and strategies. This 
+enables the supplier agent and others from their firm 
+to understand the buyer firm and determine the neces -
+sary preparation for cooperation (Ireland and Webb  
+2007 ). In other words, buyer agents with good strate -
+gic communication capabilities will be able to effec -
+tively communicate with suppliers and foster close 
+cooperation with supplier agents and between their 
+firms and supplier firms, helping reduce supplier 
+agents’ opportunistic behaviours.
+Regarding interaction effects, Hypothesis 4a, which 
+proposed that LTO between a buyer firm and 
+a supplier firm enhances the role of buyer agents’ 
+professional knowledge in reducing supplier agents’ 
+opportunism, was partially supported as LTO changed 
+the effect of professional knowledge on opportunism 
+from positive to negative (β = −0.078; p < 0.05). 
+Similarly, our findings partially supported Hypothesis 
+4b because the data analysis implied that LTO between 
+a buyer firm and a supplier firm changed the role of 
+buyer agents’ compromise ability from increasing to 
+reducing supplier agents’ opportunism (β = −0.084; p  
+< 0.01). However, Hypothesis 4c was supported (β =  
+−0.153; p < 0.05), which means the role of buyer 
+agents’ strategic communication capability in reducing supplier agents’ opportunism will be stronger if the 
+buyer and supplier firms have a long – term relation -
+ship orientation.
+The moderation effects aligned with the literature 
+(Lee et al. 2018 ; Ryu, Park, and Min 2007 ). LTO is not 
+only necessary for business relationship management 
+between buyer and supplier companies but also for 
+the relationships between their buyer agents and sup-
+plier agents (Hakansson 1982 ) because LTO between 
+the two companies will create a working atmosphere 
+for their agents that then helps shape the relationship 
+between them (Hawkins, Lewin, and Amos 2012 ). 
+When a buyer company expresses the intention for 
+long – term cooperation, a supplier agent understands 
+that the relationship with the buyer agent will be 
+ongoing, which helps the supplier agent feel secure; 
+as such, the supplier agent will be less likely to act 
+opportunistically (Hawkins, Pohlen, and Prybutok  
+2013 ).
+In addition, Figure 3 uses graphs to show the inter -
+action effects between LTO and professional knowl -
+edge, compromise ability, and strategic 
+communication capability. In Figure 3a,b,c the depen -
+dent variable opportunism is placed on the vertical 
+axis, with the independent variables – professional 
+knowledge, compromise ability, and strategic commu -
+nication capability – on the horizontal axis. In each 
+figure, two graph lines are displayed; the solid line 
+represents the low LTO case, and the dashed line 
+represents the high LTO case.
+In Figure 3a, the solid line is above the dashed line, 
+which means that for the same level of professional 
+knowledge, the high LTO case will result in lower 
+opportunism than the high LTO case (Aiken, West, 
+and Reno 1991 ). Figure 3b shows that the solid line 
+lies above the dashed line; thus, with the same levels of 
+compromise ability, the high LTO case will lead to 
+(a) (b) (c) 11.522.533.544.55
+Low level of
+knowledgeHigh level of
+knowledgeOpportunism
+11.522.533.544.55
+Low compromise
+abilityHigh compromise
+abilityOpportunism
+11.522.533.544.55
+Low strategic
+communicationHigh strategic
+communicationOpportunism
+Figure 3. Moderating effects of LTO in the relationship between: (3a) opportunism and level of knowledge. (3b) opportunism and 
+compromise ability. (3c) opportunism and strategic communication.222
+ T. X. T. PHAM ET AL.
+lower opportunism than the low LTO case (Aiken, 
+West, and Reno 1991 ).
+In Figure 3c, the solid line (low LTO) is also above 
+the dashed line (high LTO), which means that with the 
+same levels of strategic communication, if there is 
+a high LTO, the level of opportunism will be lower 
+than the low LTO (Aiken, West, and Reno 1991 ). 
+Moreover, the graphs on Figure 3c show that the 
+relationship between buyer agents’ strategic commu -
+nication and opportunism is negative in the high LTO 
+but positive in the low LTO. The result, even more 
+emphasises the role of LTO in motivating strategic 
+communication’s effectiveness in controlling 
+opportunism.
+Prior studies have shown that when communicating 
+with business partners, companies need to consider 
+carefully why (not) sharing information and knowledge 
+and what information and knowledge to share with 
+whom because that will affect companies’ competitive 
+advantage, interdependence, and bargaining power in 
+the business relationships (Kembro and Näslund 2014 ; 
+Kembro, Selviaridis, and Näslund 2014 ). What informa -
+tion and knowledge to share with business partners 
+depends on certain contextual factors (Carr and 
+Kaynak 2007 ). Our study shows that LTO is one of the 
+important contextual factors.
+In strategic communication, buyer agents will 
+exchange with supplier agents important information 
+such as future purchasing strategies, innovation and 
+new technologies application strategies, and inten -
+tions to implement new supply chain policies (Zhang, 
+Viswanathan, and Henke 2011 ). If the buyers and sup-
+pliers have LTO for their business relationships, such 
+strategic communication will be effective and bring 
+many benefits, for example, enhancing competitive 
+advantages for both parties, reducing transaction 
+costs, and both parties can achieve their goals in the 
+sales and purchasing transactions (Du et al. 2012 ; 
+Zhang, Viswanathan, and Henke 2011 ). Therefore, sup-
+plier agents tend to cooperate with buyer agents 
+instead of behaving opportunistically.
+However, providing important confidential infor -
+mation can cause certain risks to buyers if the 
+buyers and suppliers do not have LTO 
+(Yigitbasioglu 2010 ). When there is no intention to 
+build a long – term relationship, supplier agents can 
+take advantage of provided information from buyer 
+agents to act opportunistically, such as forcing 
+prices, exaggerating their product values and sup-
+ply capacities to meet buyers’ expectations, or they 
+can make excessive requirements for contract terms, 
+or even ask to change the contract for their own 
+advantages (Chung, Sternquist, and Chen 2006 ).
+In sum, the main results in this study imply that 
+buyer agents’ strategic communication generally 
+negatively impacts supplier agents’ opportunism; 
+however, buyer agents’ strategic communication needs to be combined with the LTO between buyer 
+and supplier firms to create an effective mechanism for 
+controlling opportunism.
+Conclusions
+This study aimed to investigate the impact of buyer 
+agents’ BSCs and LTO between buyer and supplier 
+firms on supplier agent opportunism, as the mechan -
+isms through which these fact. To achieve this, a survey 
+was conducted among 406 purchasing staff in the 
+sales and planning sections of manufacturing compa -
+nies in Japan. Regression and conditional process ana-
+lyses were employed to evaluate the main effects of 
+BSCs on opportunism and the interaction effects 
+between BSCs and LTO in managing opportunism. 
+The results reveal that among the three types of 
+BSCs, strategic communication plays a crucial role in 
+helping buyer agents reduce the risk of opportunistic 
+behaviours from supplier agents. Moreover, LTO 
+between the buyer and supplier companies signifi -
+cantly enhanced the effectiveness of BSCs in reducing 
+supplier agents’ opportunistic behaviours. Based on 
+these findings, this study makes the following 
+contributions.
+Theoretical contributions
+First, by examining individual – level opportunism, this 
+study extends TCT, RDT, BST, and the literature on 
+opportunism in inter – firm relationships. The current 
+research trend has emphasised the individual level of 
+analysis, but there is still lack of sufficient studies on 
+individual opportunism (Gelderman, Semeijn, and 
+Verhappen 2020 ; Hawkins, Lewin, and Amos 2012 ; 
+Hawkins, Pohlen, and Prybutok 2013 ; Tangpong, 
+Hung, and Ro 2010 ). This study answers the call for 
+further research on individual opportunism by investi -
+gating the factors influencing individual supplier 
+agents’ opportunism. Our findings confirm the need 
+for research on individual opportunism and highlight 
+the importance of individual agents in managing 
+opportunistic behaviours in business exchanges 
+between companies.
+Second, this study enriches the literature on factors 
+influencing opportunism by explaining the correlation 
+between BSCs and opportunism. The effects of BSCs in 
+controlling opportunism are fundamental assumptions 
+of TCT and RDT (Williamson 1985 ; Pfeffer and Salancik  
+1978 ), but limited research has provided detailed ela-
+boration on this relationship. Our study complements 
+these theories by operationalising BSCs as buyer 
+agents’ professional purchasing knowledge, compro -
+mise ability, and strategic communication (Zhang, 
+Viswanathan, and Henke 2011 ) and testing their effects 
+on supplier agents’ opportunism.SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 223
+Third, this study extends the understanding of the 
+integrated framework in previous studies regarding 
+the interaction effects between organisational and 
+individual factors in managing individual opportunism 
+in business exchanges (Gelderman, Semeijn, and 
+Verhappen 2020 ; Hawkins, Lewin, and Amos 2012 ; 
+Hawkins, Pohlen, and Prybutok 2013 ). In this study, 
+we propose a mechanism where LTO between buyer 
+firms and supplier firms is an organisational factor that 
+can interact with individual factors such as buyer 
+agents’ BSCs, to effectively mitigate supplier agents’ 
+opportunism. By doing so, this study confirms the 
+direct relationship between LTO and opportunism 
+that was observed in previous studies and contributes 
+to the research field by further explaining the bound -
+ary condition of LTO in controlling opportunism.
+Implications for practitioners
+Our results also suggest three implications for profes -
+sionals working in sales and purchasing sections and 
+who are involved in inter – firm relationship manage -
+ment in manufacturing companies in Japan. First, 
+buyer agents should develop their strategic commu -
+nication skills. These skills enable buyer agents to 
+effectively communicate with supplier agents regard -
+ing buyer firms’ desires and interests in long – term 
+plans. Such communication is critical for reducing sup-
+plier agents’ opportunistic behaviours. Second, while 
+purchasing professional knowledge and ability to com -
+promise are important, they alone cannot help control 
+supplier agents’ opportunistic behaviours without 
+a long – term cooperation orientation between parties. 
+Third, LTO is critical in business exchanges as it helps 
+sustain a healthy cooperative environment where BSCs 
+can effectively control opportunism.
+Limitations and future research
+It is important to consider the findings in the con-
+text of certain limitations. First, the specific types of 
+buyer – supplier relationships in supply chains were 
+not clarified in detail. The dynamics, technology, 
+and product exchanges in distributor – maker and 
+maker – supplier relationships may differ, leading to 
+variations in opportunistic behaviours and the 
+mechanisms to effectively control them. Second, 
+our data only represented the buyer side, without 
+considering potential differences in perceptions 
+about relationship quality among suppliers. Third, 
+our hypotheses were tested using cross – sectional 
+data, limiting our ability to provide detailed expla -
+nation of how, when and why BSCs and LTO can 
+results in opportunistic behaviours. Fourth, we con-
+sidered opportunism as a multidimensional con -
+struct, taking into different manifestations of 
+opportunistic behaviours.Future research can further elaborate on our 
+findings by focusing on specific positions within 
+the buyer – supplier relationship in supply chains, 
+such as distributor – maker, or maker – supplier 
+relationships. Additionally, data collection should 
+be collected from both the buyer and supplier per-
+spectives to mitigate bias and measurement falla -
+cies when assessing dyadic constructs. Moreover, 
+future research can employ experimental methods 
+or develop measurements for each type of oppor -
+tunism to examine the effects of different spanning 
+capabilities on various opportunism. Such research 
+endeavours can offer valuable insights into how 
+BSCs can help reduce opportunism.
+Acknowledgments
+This research has been generously funded by the Japan 
+Society for the Promotion of Science Grant KAKENHI 
+[23K01507]. The authors would like to take this opportunity 
+to convey their sincere thanks to anonymous reviewers for 
+their helpful comments that greatly improved the original 
+submission.
+Disclosure statement
+No potential conflict of interest was reported by the 
+author(s).
+ORCID
+Thoa Xuan Thi Pham 
+ http://orcid.org/0000-0003-0689- 
+4175
+Kodo Yokozawa 
+ http://orcid.org/0000-0001-8755-5671
+Nguyen Ngoc Anh 
+ http://orcid.org/0000-0002-0383-7880
+References
+Adams, S. J. 1976 . “The Structure and Dynamics of Behavior in 
+Organizational Boundary Roles.” In Handbook of Industrial 
+and Organizational Psychology , edited by Dunnette, M. D., 
+1225–1274. Chicago, USA: Rand McNally.
+Aiken, L. S., S. G. West, and R. R. Reno. 1991 . Multiple 
+Regression: Testing and Interpreting Interactions . 
+California, USA: Sage.
+Akrout, H., and M. F. Diallo. 2017 . “Fundamental 
+Transformations of Trust and Its Drivers: A Multi-Stage 
+Approach of Business-To-Business Relationships.” 
+Industrial Marketing Management 66 (October 2017): 
+159–171. https://doi.org/10.1016/j.indmarman.2017.08. 
+003 .
+Aldrich, H., and D. Herker. 1977 . “Boundary Spanning Roles 
+and Organization Structure.” Academy of Management 
+Review 2 (2): 217–230. https://doi.org/10.5465/amr.1977. 
+4409044 .
+Aoki, K., and M. Wilhelm. 2017 . “The Role of Ambidexterity in 
+Managing Buyer-Supplier Relationships: The Toyota Case.” 
+Organization Science 28 (6): 1080–1097. https://doi.org/10. 
+1287/orsc.2017.1156 .224
+ T. X. T. PHAM ET AL.
+Au, K. Y., and J. Fukuda. 2002 . “Boundary Spanning Behaviors 
+of Expatriates.” Journal of World Business 37 (4): 285–296. 
+https://doi.org/10.1016/S1090-9516(02)00095-0 .
+Bals, L., H. Schulze, S. Kelly, and K. Stek. 2019 . “Purchasing and 
+Supply Management (PSM) Competencies: Current and 
+Future Requirements.” Journal of Purchasing & Supply 
+Management 25 (5): 100572. https://doi.org/10.1016/j. 
+pursup.2019.100572 .
+Barbat, V. 2011 . “Exploratory Study of Buyer-Supplier 
+Relationships in a Context of Constrained (or Restricted) 
+Purchases.” Supply Chain Forum: An International Journal 
+12 (2): 46–56. https://doi.org/10.1080/16258312.2011. 
+11517259 .
+Bhattacharya, A., P. J. Singh, and A. A. Nand. 2015 . 
+“Antecedents of Buyer Opportunistic Behavior in 
+Outsourcing Relationships.” International Journal of 
+Production Economics 166 (August 2015): 258–268. 
+https://doi.org/10.1016/j.ijpe.2015.03.011 .
+Cai, S., M. Jun, X. Wang, and Z. Yang. 2021 . “On Boundary 
+Spanners and Interfirm Embeddedness: The Role of 
+Guanxi Institution in China.” Journal of Purchasing & 
+Supply Management 27 (1): 100–671. https://doi.org/10. 
+1016/j.pursup.2021.100671 .
+Cai, S., M. Jun, and Z. Yang. 2017 . “The Effects of Boundary 
+spanners’ Personal Relationships on Interfirm 
+Collaboration and Conflict: A Study of the Role of Guanxi 
+in China.” The Journal of Supply Chain Management 53 (3): 
+19–40. https://doi.org/10.1111/jscm.12132 .
+Cai, S., and Z. Yang. 2008 . “Development of Cooperative 
+Norms in the Buyer ‐Supplier Relationship: The Chinese 
+Experience.” The Journal of Supply Chain Management 
+44 (1): 55–70. https://doi.org/10.1111/j.1745-493X.2008. 
+00045.x .
+Carr, A. S., and H. Kaynak. 2007 . “Communication Methods, 
+Information Sharing, Supplier Development and 
+Performance-An Empirical Study of Their Relationships.” 
+International Journal of Operations & Production 
+Management 27 (3/4): 346–370 doi: 10.1108/ 
+01443570710736958 .
+Carson, S. J., A. Madhok, and T. Wu. 2006 . “Uncertainty, 
+Opportunism, and Governance: The Effects of Volatility 
+and Ambiguity on Formal and Relational Contracting.” 
+Academy of Management Journal 49 (5): 1058–1077 
+doi:10.5465/amj.2006.22798187 .
+Chen, Z., Y. Huang, and B. Sternquist. 2011 . “Guanxi Practice 
+and Chinese Buyer-Supplier Relationships: The Buyer’s 
+Perspective.” Industrial Marketing Management 40 (4): 
+569–580 doi:10.1016/j.indmarman.2010.12.013 .
+Cho, G., H. Hwang, M. Sarstedt, and C. M. Ringle. 2020 . “Cutoff 
+Criteria for Overall Model Fit Indexes in Generalized 
+Structured Component Analysis.” Journal of Marketing 
+Analytics 8 (4): 189–202 doi:10.1057/s41270-020-00089-1 .
+Chung, J. E., B. Sternquist, and Z. Chen. 2006 . “Retailer-Buyer 
+Supplier Relationships: The Japanese Difference.” Journal 
+of Retailing 82 (4): 349–355 doi:10.1016/j.jretai.2006.08. 
+008.
+Clark, K. B., and T. Fujimoto. 1991 . Product Development 
+Performance . Boston, MA: Harvard Business School Press.
+Collien, I. 2021 . “Concepts of Power in Boundary Spanning 
+Research: A Review and Research Agenda.” International 
+Journal of Management Reviews 23 (4): 443–465 doi:10. 
+1111/ijmr.12251 .
+Dahlstrom, R., and A. Nygaard. 1999 . “An Empirical 
+Investigation of Ex Post Transaction Costs in Franchised 
+Distribution Channels.” Journal of Marketing Research 
+36 (2): 160–170 doi:10.1177/002224379903600202 .Daultani, Y., S. Kumar, O. S. Vaidya, and M. K. Tiwari. 2015 . 
+“A Supply Chain Network Equilibrium Model for 
+Operational and Opportunism Risk Mitigation.” 
+International Journal of Production Research 53 (18): 
+5685–5715 doi:10.1080/00207543.2015.1056325 .
+Dekker, H., C. Donada, C. Mothe, and G. Nogatchewsky. 2019 . 
+“Boundary Spanner Relational Behavior and 
+Inter-Organizational Control in Supply Chain 
+Relationships.” Industrial Marketing Management 77 
+(February 2019): 143–154. doi:10.1016/j.indmarman.2018. 
+11.010 .
+Doney, P. M., and J. P. Cannon. 1997 . “An Examination of the 
+Nature of Trust in Buyer-Seller Relationships.” Journal of 
+Marketing 61 (2): 35–51 doi: 10.1177/ 
+002224299706100203 .
+Dowell, D., M. Morrison, and T. Heffernan. 2015 . “The 
+Changing Importance of Affective Trust and Cognitive 
+Trust Across the Relationship Lifecycle: A Study of 
+Business-To-Business Relationships.” Industrial Marketing 
+Management 44:119–130 doi:10.1016/j.indmarman.2014. 
+10.016 .
+Du, T. C., V. S. Lai, W. Cheung, and X. Cui. 2012 . “Willingness to 
+Share Information in a Supply Chain: A Partnership-Data- 
+Process Perspective.” Information & Management 49 (2): 
+89–98 doi:10.1016/j.im.2011.10.003 .
+Dyer, J., and W. Chu. 2003 . “The Role of Trustworthiness in 
+Reducing Transaction Costs and Improving Performance: 
+Empirical Evidence from the United States, Japan, and 
+Korea.” Organization Science 14 (1): 57–68 doi:10.1287/ 
+orsc.14.1.57.12806 .
+Dyer, J., and W. Chu. 2011 . “The Determinants of Trust in 
+Supplier-Automaker Relations in the US, Japan, and Korea: 
+A Retrospective.” Journal of International Business Studies 
+42 (1): 28–34 doi:10.1057/jibs.2010.48 .
+Friedman, R. A., and J. Podolny. 1992 . “Differentiation of 
+Boundary Spanning Roles: Labor Negotiations and 
+Implications for Role Conflicts.” Administrative Science 
+Quarterly 37 (1): 28–47. doi:10.2307/2393532 .
+Gelderman, C. J., J. Semeijn, and M. Verhappen. 2020 . 
+“Buyer Opportunism in Strategic Supplier 
+Relationships: Triggers, Manifestations and 
+Consequences.” Journal of Purchasing & Supply 
+Management 26 (2): 100–581 doi: 10.1016/j.pursup. 
+2019.100581 .
+Gorsuch, R. L. 1983 . Factor Analysis . New Jersey, USA: 
+Lawrence Erlbaum.
+Gundlach, G. T., R. S. Achrol, and J. T. Mentzer. 1995 . “The 
+Structure of Commitment in Exchange.” Journal of 
+Marketing 59 (1): 78–92 doi: 10.1177/ 
+002224299505900107 .
+Hair, J. F., Jr., R. E. Anderson, R. L. Tatham, and W. C. Black. 
+1995 . Multivariate Data Analysis with Readings . 4th ed. New 
+Jersey, USA: Prentice Hall.
+Hakansson, H. 1982 . International Marketing and Purchasing 
+of Industrial Goods: An Interaction Approach . New Jersey, 
+USA: John Wiley and Sons.
+Handley, S. M., and W. C. Benton Jr. 2012 . “The Influence 
+of Exchange Hazards and Power on Opportunism in 
+Outsourcing Relationships.” Journal of Operations 
+Management 30 (1–2): 55–68 doi: 10.1016/j.jom.2011. 
+06.001 .
+Han, Z., R. B. Handfield, B. Huo, and Y. Tian. 2022 . “Effects of 
+Power Use in Buyer-Supplier Relationships: The 
+Moderating Role of Communication.” Industrial Marketing 
+Management 102 (April 2022): 45–57. doi:10.1016/j.indmar 
+man.2022.01.001 .SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 225
+Hawkins, T. G., J. E. Lewin, and C. Amos. 2012 . “The Influence 
+of Leader Opportunism in B2B Exchange.” Journal of 
+Business Research 65 (8): 1112–1118 doi:10.1016/j.jbusres. 
+2011.08.021 .
+Hawkins, T. G., T. L. Pohlen, and V. R. Prybutok. 2013 . “Buyer 
+Opportunism in Business-To-Business Exchange.” 
+Industrial Marketing Management 42 (8): 1266–1278 
+doi:10.1016/j.indmarman.2013.05.022 .
+Hayes, A. F. 2017 . Introduction to Mediation, Moderation, and 
+Conditional Process Analysis, Second Edition: A Regression- 
+Based Approach . New York, USA: Guilford Press.
+Hayes, A. F., and N. J. Rockwood. 2020 . “Conditional Process 
+Analysis: Concepts, Computation, and Advances in the 
+Modeling of the Contingencies of Mechanisms.” The 
+American Behavioral Scientist 64 (1): 19–54 doi:10.1177/ 
+0002764219859633 .
+Heide, J. B., K. H. Wathne, and A. I. Rokkan. 2007 . “Interfirm 
+Monitoring, Social Contracts, and Relationship Outcomes.” 
+Journal of Marketing Research 44 (3): 425–433 doi:10.1509/ 
+jmkr.44.3.425 .
+Huang, Y., Y. Luo, Y. Liu, and Q. Yang. 2016 . “An Investigation 
+of Interpersonal Ties in Interorganizational Exchanges in 
+Emerging Markets: A Boundary-Spanning Perspective.” 
+Journal of Management 42 (6): 1557–1587 doi:10.1177/ 
+0149206313511115 .
+Hu, L. T., and P. M. Bentler. 1999 . “Cutoff Criteria for Fit 
+Indexes in Covariance Structure Analysis: Conventional 
+Criteria versus New Alternatives.” Structural Equation 
+Modeling: A Multidisciplinary Journal 6 (1): 1–55 doi:10. 
+1080/10705519909540118 .
+Huo, B., Y. Ye, X. Zhao, J. Wei, and Z. Hua. 2018 . 
+“Environmental Uncertainty, Specific Assets, and 
+Opportunism in 3PL Relationships: A Transaction Cost 
+Economics Perspective.” International Journal of 
+Production Economics 203 (September 2018): 154–163. 
+doi:10.1016/j.ijpe.2018.01.031 .
+Ireland, R. D., and J. W. Webb. 2007 . “A Multi-Theoretic 
+Perspective on Trust and Power in Strategic Supply 
+Chains.” Journal of Operations Management 25 (March 
+2007): 482–497. doi:10.1016/j.jom.2006.05.004 .
+Kembro, J., and D. Näslund. 2014 . “Information Sharing in 
+Supply Chains, Myth or Reality? A Critical Analysis of 
+Empirical Literature.” International Journal of Physical 
+Distribution & Logistics Management 44 (3): 179–200 
+doi:10.1108/IJPDLM-09-2012-0287 .
+Kembro, J., K. Selviaridis, and D. Näslund. 2014 . “Theoretical 
+Perspectives on Information Sharing in Supply Chains: 
+A Systematic Literature Review and Conceptual 
+Framework.” Supply Chain Management: An International 
+Journal 19 (5/6): 609–625 doi:10.1108/SCM-12-2013-0460 .
+Lee, G., G. C. Shin, D. W. Hwang, P. Kuper, and M. Kang. 2018 . 
+“How manufacturers’ Long-Term Orientation Toward 
+Suppliers Influences Outsourcing Performance.” Industrial 
+Marketing Management 74 (October 2018): 288–297. 
+doi:10.1016/j.indmarman.2018.07.003 .
+Lui, S. S., and H. Y. Ngo. 2012 . “Drivers and Outcomes of 
+Long-Term Orientation in Cooperative Relationships.” 
+British Journal of Management 23 (1): 80–95 doi:10.1111/j. 
+1467-8551.2010.00719.x .
+Lyons, T. F., A. R. Krachenberg, and J. W. Henke. 1990 . “Mixed 
+Motive Marriages: What’s Next for Buyer-Supplier 
+Relations?” Sloan Management Review 31 (3): 29–36.
+MacDuffie, J. P., and S. Helper. 2006 . The Firm as Collaborative 
+Community: Reconstructing Trust in the Knowledge 
+Economy . Oxford, UK: Oxford University Press.
+Makaoui, N., and A. Aloui. 2015 . “The Effect of 
+Communication Channels on buyers’ Cooperative Behavior.” Supply Chain Forum: An International Journal 
+16 (2): 48–59 doi:10.1080/16258312.2015.11673828 .
+Narasimhan, R., and J. Jayaram. 1998 . “Causal Linkages in 
+Supply Chain Management: An Exploratory Study of 
+North American Manufacturing Firms.” Decision Sciences 
+29 (3): 579–605 doi:10.1111/j.1540-5915.1998.tb01355.x .
+Nunnally, J. C. 1978 . Psychometric Theory . 2nd ed. New York, 
+USA: McGraw Hill Book Company.
+Pan, A., and T. M. Choi. 2016 . “An Agent-Based 
+Negotiation Model on Price and Delivery Date in 
+a Fashion Supply Chain.” Annals of Operations 
+Research 242 (2): 529–557 doi: 10.1007/s10479-013- 
+1327-2 .
+Parkhe, A. 1993 . “Strategic Alliance Structuring: A Game 
+Theoretic and Transaction Cost Examination of Interfirm 
+Cooperation.” Academy of Management Journal 36 (4): 
+794–829 doi:10.5465/256759 .
+Perrone, V., A. Zaheer, and B. McEvily. 2003 . “Free to Be 
+Trusted? Organizational Constraints on Trust in Boundary 
+Spanners.” Organization Science 14 (4): 422–439 doi:10. 
+1287/orsc.14.4.422.17487 .
+Pfeffer, J., and G. R. Salacik. 1978 . Intercorporate Relations: The 
+Structural Analysis of Business . Cambridge, UK: Cambridge 
+University Press.
+Pham, T., K. Yokozawa, and N. Anh. 2022 . “Unexplored 
+Antecedents of Agent Opportunism in Buyer-Supplier 
+Relationships: An Interviewed-Based Exploratory Study.” 
+Operations and Supply Chain Management: An 
+International Journal 15 (3): 373–385 doi: 10.31387/ 
+oscm0500353 .
+Revilla, E., and D. Knoppen. 2015 . “Building Knowledge 
+Integration in Buyer-Supplier Relationships: The Critical 
+Role of Strategic Supply Management and Trust.” 
+International Journal of Operations & Production 
+Management 35 (10): 1408–1436 doi:10.1108/IJOPM-01- 
+2014-0030 .
+Ryu, S., J. E. Park, and S. Min. 2007 . “Factors of Determining 
+Long-Term Orientation in Interfirm Relationships.” Journal 
+of Business Research 60 (12): 1225–1233 doi: 10.1016/j. 
+jbusres.2006.09.031 .
+Sako, M., and S. Helper. 1998 . “Determinants of Trust in 
+Supplier Relations: Evidence from the Automotive 
+Industry in Japan and the United States.” Journal of 
+Economic Behavior and Organization 34 (3): 387–417 
+doi: 10.1016/S0167-2681(97)00082-6 .
+Schoenherr, T., L. M. Ellram, and W. L. Tate. 2015 . “A Note 
+on the Use of Survey Research Firms to Enable 
+Empirical Data Collection.” Journal of Business 
+Logistics 36 (3): 288–300 doi: 10.1111/jbl.12092 .
+Schotter, A. P., R. Mudambi, Y. L. Doz, and A. Gaur. 2017 . 
+“Boundary Spanning in Global Organizations.” Journal of 
+Management Studies 54 (4): 403–421 doi: 10.1111/joms. 
+12256 .
+Schumacker, R. E., and R. G. Lomax. 2010 . A Beginner’s Guide 
+to Structural Equation Modeling . 3rd ed. New York, USA: 
+Routledge Academic.
+Son, B. G., B. C. Ha, and T. H. Lee. 2019 . “Small and Medium ‐ 
+Sized enterprises’ Collaborative Buyer-Supplier 
+Relationships: Boundary Spanning Individual 
+Perspectives.” Journal of Small Business Management 
+57 (3): 966–988 doi:10.1111/jsbm.12423 .
+Srinivasan, M., and P. Srivastava. 2012 . “The Role of the 
+Salesperson in Building Trust and Collaboration in 
+Buyer-Seller Relationships.” Supply Chain Forum: An 
+International Journal 13 (2): 22–38 doi:10.1080/16258312. 
+2012.11517290 .226
+ T. X. T. PHAM ET AL.
+Tangpong, C., K. T. Hung, and Y. K. Ro. 2010 . “The Interaction 
+Effect of Relational Norms and Agent Cooperativeness on 
+Opportunism in Buyer-Supplier Relationships.” Journal of 
+Operations Management 28 (5): 398–414 doi:10.1016/j.jom. 
+2009.12.001 .
+Tchokogué, A., and N. Merminod. 2021 . “The Purchasing 
+Department’s Leadership Role in Developing and 
+Maintaining a Preferred Customer Status.” Journal of 
+Purchasing & Supply Management 27 (2): 100–686 doi:10. 
+1016/j.pursup.2021.100686 .
+Teigland, R., and M. M. Wasko. 2003 . “Integrating Knowledge 
+Through Information Trading: Examining the Relationship 
+Between Boundary Spanning Communication and 
+Individual Performance.” Decision Sciences 34 (2): 261– 
+286 doi:10.1111/1540-5915.02341 .
+Vesalainen, J., A. Rajala, and J. Wincent. 2020 . “Purchasers as 
+Boundary Spanners: Mapping Purchasing agents’ 
+Persuasive Orientations.” Industrial Marketing 
+Management 84 (January 2020): 224–236. doi:10.1016/j. 
+indmarman.2019.07.007 .
+Wang, K., B. Huo, and M. Tian. 2021 . “How to Protect Specific 
+Investments from Opportunism: A Moderated Mediation 
+Model of Customer Integration and Transformational 
+Leadership.” International Journal of Production 
+Economics 232 (February 2021): 107–938. doi:10.1016/j. 
+ijpe.2020.107938 .
+Wang, M., Q. Zhang, Y. Wang, and S. Sheng. 2016 . “Governing 
+Local Supplier Opportunism in China: Moderating Role of 
+Institutional Forces.” Journal of Operations Management 46 
+(September 2016): 84–94. doi:10.1016/j.jom.2016.07.001 .
+Williamson, O. E. 1985 . The Economic Institutions of 
+Capitalism . New York, USA: Free Press Collier Macmillan.Yang, L., B. Huo, M. Tian, and Z. Han. 2021 . “The Impact of 
+Digitalization and Inter-Organizational Technological 
+Activities on Supplier Opportunism: The Moderating Role 
+of Relational Ties.” International Journal of Operations & 
+Production Management 41 (7): 1085–1118 doi:10.1108/ 
+IJOPM-09-2020-0664 .
+Yigitbasioglu, O. M. 2010 . “Information Sharing with Key 
+Suppliers: A Transaction Cost Theory Perspective.” 
+International Journal of Physical Distribution & Logistics 
+Management 40 (7): 50–578 doi: 10.1108/ 
+09600031011072000 .
+Yunus, E. N., and T. Kurniawan. 2015 . “Revealing Unsuccessful 
+Collaboration: A Case of Buyer-Supplier Relationship in the 
+Pharmaceutical Industry.” Supply Chain Forum: An 
+International Journal 16 (2): 14–28 doi:10.1080/16258312. 
+2015.11673826 .
+Zhang, C., S. Viswanathan, and J. W. Henke. 2011 . “The 
+Boundary Spanning Capabilities of Purchasing Agents 
+in Buyer-Supplier Trust Development.” Journal of 
+Operations Management 29 (4): 318–328 doi: 10.1016/j. 
+jom.2010.07.001 .
+Zhang, C., F. Wu, and J. W. Henke. 2015 . “Leveraging 
+Boundary Spanning Capabilities to Encourage Supplier 
+Investment: A Comparative Study.” Industrial Marketing 
+Management 49 (August 2015): 84–94. doi: 10.1016/j. 
+indmarman.2015.04.012 .
+Zhang, C., X. V. Zheng, and J. J. Li. 2019 . “Is Collaboration 
+a Better Way to Develop Trust After Opportunism? 
+Distinguishing Firm and Boundary Spanner 
+Opportunism.” Industrial Marketing Management 82 
+(October 2019): 38–51. doi: 10.1016/j.indmarman.2019. 
+02.018 .SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+ 227
+Appendix Sample profiles
+Characteristics Number %
+Manufacturing industry Grocery 46 11.3
+Fibre products 15 3.7
+Pulp, paper 4 1.0
+Chemistry 42 10.3
+Pharmaceuticals 31 7.6
+Petroleum and coal products 9 2.2
+Rubber product 7 1.7
+Glass, earth and stone products 10 2.5
+Steel 5 1.2
+Non-ferrous metal products 15 3.7
+Metal products 17 4.2
+Machine 44 10.8
+Electrical equipment 67 16.6
+Transportation equipment 20 4.9
+Precision mechanical equipment 35 8.6
+Other products 39 9.7
+Total 406 100%
+Size of companies (number of employees) 1–10 19 4.7
+11–100 93 22.9
+101–200 35 8.6
+201–300 31 7.6
+301–400 18 4.4
+401–500 12 3.0
+More than 500 198 48.8
+Total 406 100%
+Percentage of mutual capital between buyer and supplier company No capital 323 79.6
+Less than 20% 26 6.4
+20–40% 34 8.4
+40–60% 13 3.2
+60–80% 3 0.7
+More than 80% 7 1.7
+Total 406 100%
+Respondents’ gender Men 223 55
+Women 183 45
+Total 406 100%
+Respondents’ job level Executives 39 9.7
+Manager 85 20.9
+Section manager 122 30.0
+Unit manager 79 19.5
+General employee 78 19.2
+Other professionals, special jobs, etc. 3 0.7
+Total 406 100%
+Respondents’ age (years) 15–19 0 0.0
+20–29 11 2.7
+30–39 60 14.8
+40–49 111 27.3
+50–59 155 38.2
+60–69 69 17.0
+Above 70 0 0.0
+Total 406 100%
+Respondents’ years of experience as buyers Less than 5 129 31.8
+5–9 68 16.7
+10–14 53 13.1
+15–19 38 9.4
+20–24 42 10.3
+25–29 26 6.4
+30–34 24 5.9
+More than 35 26 6.4
+Total 406 100%228
+ T. X. T. PHAM ET AL.

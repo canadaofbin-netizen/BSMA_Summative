@@ -1,0 +1,1311 @@
+The Information Society
+An International Journal
+ISSN: 0197-2243 (Print) 1087-6537 (Online) Journal homepage: www.tandfonline.com/journals/utis20
+Volunteer associations in the Internet age:
+Ecological approach to understanding collective
+action
+Chih-Hui Lai & James E. Katz
+To cite this article: Chih-Hui Lai & James E. Katz (2016) Volunteer associations in the Internet
+age: Ecological approach to understanding collective action, The Information Society, 32:4,
+241-255, DOI: 10.1080/01972243.2016.1177761
+To link to this article:  https://doi.org/10.1080/01972243.2016.1177761
+Published online: 31 May 2016.
+Submit your article to this journal 
+Article views: 491
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=utis20
+Volunteer associations in the Internet age: Ecological approach to understanding
+collective action
+Chih-Hui Laiaand James E. Katzb
+aWee Kim Wee School of Communication and Information, Nanyang Technological University, Singapore;bCollege of Communication, Boston
+University, Boston, Massachusetts, USA
+ARTICLE HISTORY
+Received 30 July 2013
+Accepted 24 November 2014ABSTRACT
+This study draws on theories of collective action and organizational ecology to investigate a
+particular type of voluntary association: mixed-mode groups. Mixed-mode groups are created andorganized online to meet physically in geographically de ﬁned ways. An online survey was
+conducted with 171 randomly sampled groups on Meetup.com —a website that facilitates the
+creation and coordination of mixed-mode groups. Analysis shows that even when a mixed-mode
+group implements strategies focused on internal group processes, it bene ﬁts from tapping into its
+external networks to obtain resources for group operation. Also, the differential impacts of internaland external strategies indicate that in the case of environment-prone mixed-mode groups,
+implementation of internal strategies alone, with or without solicited external networking resources,
+is helpful for generating positive group outcomes. Together, these results establish that boundaryspanning represents not only a type of strategic action to obtain resources and produce positive
+outcomes but also an inherent and de ﬁning mechanism of contemporary voluntary groups for
+engaging in collective action.KEYWORDS
+Boundary spanning;
+collective action; ecology;
+Internet; Meetup.com;
+voluntary associations
+As the digital era dawned, many analysts and scholars
+initially anticipated that new developments in communi-
+cation, most particularly the Internet, would destroy or
+severely erode traditional forms of voluntary associations
+(Nie 2001 ; Putnam 2000 ; Shah, Kwak, and Holbert 2001 ;
+Turkle 1996 ). What was underestimated was the possi-
+bility of the Internet actually extending the reach of vol-
+untary associations and creating many opportunities fornew ones to come into being (Katz and Rice 2002 ; Well-
+man et al. 2001 ). A 2011 Pew Internet & American Life
+Project report underscores the importance of the Inter-
+net in the life of voluntary associations. It reports that
+59% of the surveyed Americans think the Internet has
+played a role in their groups ’ability to impact society at
+large, and 49% believe that their groups can in ﬂuence
+local communities because of the Internet (Rainie,
+Purcell, and Smith 2011 ).
+By engaging in collective action, voluntary associa-
+tions not only provide bene ﬁts to their members but also
+impact the wider public (Babchuk and Edwards 1965 ;
+Hooghe 2003 ; Putnam 1995; 2000 ; Stolle 2000 ; Tocque-
+ville 1968 ; Wollebæk and Selle 2002 ). It is therefore
+important to understand how their sustainability andeffectiveness for collective action can be enhanced in the
+world of the Internet.
+Some theorists assert the importance of face-to-face
+engagement in collective action (Calhoun 1986 ; Putnam
+2000 ; Sampson 1988 ; Verba, Schlozman, and Brady
+1995 ). Others contend that people are more empowered
+to participate in online collective action of relative anon-
+ymous interaction and ﬂuid membership (Fulk et al.
+1996 ; Lea and Spears 1991 ; Postmes, and Brunsting
+2002 ). More recently, new thinking has emerged that
+instead of holding an either-or (online/of ﬂine) lens, we
+should be concerned with how technology enables vary-
+ing forms of collective action (Bimber, Flanagin, and
+Stohl 2012 ; Flanagin, Stohl, and Bimber 2006 ).
+Although the new conceptualization provides a more
+nuanced approach for studying ﬂuid forms of contempo-
+rary collective action, it also gives rise to the question ofwhere the “collective ”lies, that is, who are involved in
+and affected by the outcomes of collective activity. Orga-
+nizational ecology theories, on the other hand, character-
+ized by multilevel analysis of the interaction of collective
+behaviors and environmental in ﬂuences (Aldrich
+1999 ;
+Monge, Heise, and Margolin 2008 ), can provide insights
+CONTACT Chih-Hui Lai c.h.lai@ntu.edu.sg Wee Kim Wee School of Communication and Information, Nanyang Technological University, 31 Nanyang
+Link, Singapore 637718.
+Published with license by Taylor & Francis. © Chih-Hui Lai and James E. KatzTHE INFORMATION SOCIETY
+2016, VOL. 32, NO. 4, 241 –255
+http://dx.doi.org/10.1080/01972243.2016.1177761
+into the adaptive process of individuals and the collective
+and the resulting effect of such adaptive efforts. They can
+therefore be extended to analyze processes and outcomes
+of voluntary associations in a more meaningful way.
+This study uses a new form of voluntary association,
+mixed-mode groups , to investigate empirically practical
+and theoretical concerns about contemporary collective
+action. Simply de ﬁned, mixed-mode groups are an
+emerging type of voluntary association that are createdand organized online to interact physically in geographi-
+cally de ﬁned ways (Lai 2014a ;2014b ). It looks at groups
+on Meetup.com —a website that facilitates the creation
+and coordination of mixed-mode groups.
+This article is organized as follows. The next section
+reviews theories of collective action and ecological
+approaches and advances hypotheses. Subsequent sec-
+tions discuss the methodology, results, and conclusions.
+Theories of collective action and organizational
+ecology
+General theories of collective action seek to explain the
+motivation of groups to cooperate and to perform collec-
+tive action (Olson 1965 ). In essence, collective action is
+driven by mutual interests and bene ﬁts from coordina-
+tion action (Marwell and Oliver 1993 ) and can be seen as
+a communicative process “insofar as it entails efforts by
+people to cross boundaries by expressing or acting on an
+individual (i.e., private) interest in a way that is observ-able to others (i.e., public) ”(Flanagin, Stohl, and Bimber
+2006 , p. 32). In particular, public goods theory is con-
+cerned with the explanation of collective human action
+to create public goods. Public goods are the outcomes of
+collective actions taken by two or more people that bene-
+ﬁt the general public, some of whom do not contribute
+to the creation of the public good (Samuelson 1954 ).
+Public goods are nonrival —that is, one ’s use of the public
+good does not reduce the amount that others can use.
+Public goods can be tangible (e.g., parks) and intangible
+(e.g., electronic databases).
+Research on collective action generally falls into two
+categories: generative mechanisms of collective action
+(mobilization) and the adoption of innovations (Monge
+and Contractor 2003 ). The former is centered on the
+individual and network mechanisms conducive to collec-
+tive action and the creation of the public good. For
+example, with individuals and organizations embedded
+in dense and central networks, public goods are likely to
+be produced (Laumann, Knoke, and Kim 1985 ; Monge
+et al. 1998 ; Wasko, Teigland, and Faraj 2009 ). The latter
+is concerned with the individual variables predicting the
+adoption and use of innovations within an organizing
+context. For example, individuals are in ﬂuenced by theirperceptions of gains in deciding their contributions to
+the information commons such as intranets (Fulk et al.
+2004 ; Wasko and Faraj 2005 ). They are also in ﬂuenced
+by others in terms of adopting a new communication
+system in organizations (Rice et al. 1990 ; Yuan et al.
+2005 ). A widely known extension of the public goods
+theory to technological contexts is Fulk et al. ’s(1996 )
+conception of connective and communal goods. Connec-
+tive goods refer to the functionality of communicationand information systems (e.g., intranets and online dis-
+cussion boards) that allow direct connections between
+members within the collective, whereas communal goods
+are the collective information stored and shared among
+members.
+Mixed-mode groups
+Mixed-mode groups are created and organized online to
+interact physically in geographically de ﬁned ways (Lai
+2014a; 2014b ). Mixed-mode groups represent contempo-
+rary forms of voluntary associations, but with relatively
+low thresholds for initiating and participating in associ-
+ational activities and the ﬂexibility of organizing and
+interacting in a multimodal way (Bimber, Flanagin, and
+Stohl 2012 ). As such, they ful ﬁ
+ll ongoing pluralistic
+needs and interests in human society. Examples of web-
+sites that enable mixed-mode groups include Facebook,
+Craigslist, Meeetup.com, and Twitter. An argument
+could be made that usage of Facebook and Twitter isdiverse compared to Meetup.com, whose primary focus
+is the creation and organization of groups (based on
+shared interests and locations) that meet in a physical
+space. A group created and organized through Meetup.
+com that engages in hiking activities in the San Francisco
+area is an example. To more precisely examine how
+mixed-mode groups traverse online and physical spaces
+in engaging in collective action, this study focuses on
+groups organized on Meetup.com.
+Following these theories of collective action and pub-
+lic goods, collective action of mixed-mode groups isexhibited through shared information and connections
+built online (Fulk et al. 1996 ), as well as through social
+interactions taking place during face-to-face group meet-
+ings (Putnam 2000 ). Hence, outcomes of this collective
+action create the public good of a relatively open online
+space made available to any current and potential mem-
+bers for operation and organizing of the group. What is
+less known is that outcomes also take the form of impure
+public goods as the facilitation of personal relationshipsand shared collaboration is made available only to mem-
+bers who attend the face-to-face meetings. Impure public
+goods, also called club goods, are similar to public goods
+because the consumption of club goods is nonrival to the242 C.-H. LAI AND J. E. KATZ
+extent that all participating members can have access to
+the bene ﬁts; unlike public goods, club goods have the
+characteristic of exclusion based on active membership
+(Sandler and Tschirhart 1980 ). For example, the activi-
+ties that a sports team engages in are only available to
+the attending members; however, within the team, each
+member is offered equal enjoyment.
+Two conceptual challenges stem from this application.
+First, depending on the space where mixed-mode groups ’
+collective action takes place, the collective goods may
+take either public or impure public forms. Hence current
+theorizing about online connective and communal pub-
+lic goods (Fulk et al. 1996 ) and club goods (Sandler and
+Tschirhart 1980 ) appears inadequate or ambivalent in
+seeking to comprehensively account for the collective
+action of mixed-mode groups. Second, extant theories
+and research of collective action are heavily reliant on
+the production of public goods, which leaves the issuesof how the public goods facilitate group outcomes rela-
+tively unexplored (Monge et al. 1998 ). For instance, as
+part of in-person meetings, mixed-mode groups may
+visit local restaurants, which helps keep the business
+open or even helps community overall. It is possible that
+the public goods of those groups may not only help
+mixed-mode groups achieve member satisfaction but
+also spill over to the geographic community. To address
+these challenges, we argue that ecological theories may
+serve as a more useful framework for understanding con-
+temporary forms of collective action.
+Ecological approaches and collective action
+In the organizational context, the ecological perspectivesfocus on the relationships between organizations and
+environments and examine the process of how commu-
+nities and the populations of organizations that consti-
+tute them struggle to acquire resources in order to
+survive, by means of interacting with other members as
+well as with their environments (Campbell 1965 ;
+Hannan and Freeman 1977 ; McPherson 1983 ). Central
+to the survival of organizations are the seemingly mutu-
+ally exclusive mechanisms: strategic choice and environ-
+mental forces. Simply de ﬁned, voluntarism (choice) and
+determinism are the two categories that describe the pre-
+ponderance of the organization and the environment in
+deciding organization decision making, change, and
+adaptation (Hannan and Freeman 1977 ). A broadly
+accepted view is that these two categories should be seen
+as interacting with each other, which in turn results inorganizational behaviors (Baum and Shipilov 2006 ).
+The advantage of the ecological perspectives lies in
+their ability to explain phenomena using the same theo-
+retical process at different levels (Monge, Heise, andMargolin 2008 ). In contrast with the research on collec-
+tive action and public goods that treats organizations as
+relatively closed systems, ecological theories see individu-
+als and organizations subject to in ﬂuences from the envi-
+ronment (McPherson 1983 ). In the collective action
+realm, ecological theories can thus be used to understand
+how individuals within organizations, as well as organi-
+zations, adapt themselves by coping with internal and
+external dynamics in order to accomplish collectiveaction. These adaptations can take the form of strategic
+actions such as involving external social actors to secure
+necessary resources for group operation and task com-
+pletion (Ancona 1990 ; Ancona and Caldwell 1988 ;
+1992 ). Moreover, examining outcomes of voluntary asso-
+ciations re ﬂects the ecological notion of co-evolution ,
+which concerns the interactions between the organiza-
+tion and its environment, and the subsequent conse-
+quences of these interactions for the environment (Baumand Singh 1994 ).
+Instead of isolating online or of ﬂine environments, an
+ecological view can provide a systematic analysis of how
+mixed-mode groups incorporate both environments in
+producing outcomes of collective action, and how these
+interactions with the environments in turn in ﬂuence the
+groups as well as the environments. To answer these
+inquiries, and to inform the development of hypotheses
+(and in light of the lack of prior research linking strategic
+action and environmental in ﬂuences in the context of
+technology-enabled collective action), we draw on exist-ing research that addresses group boundary spanning.
+An emphasis on group boundary spanning provides a
+conceptual approach that ﬁts the context of this study
+and constitutes an ecological lens for examining groups ’
+interaction with the environment and the subsequent
+outcomes of such interaction.
+Enactment of strategies within and across
+boundaries
+Research on group boundary spanning (Ancona 1990 ;
+Ancona and Caldwell 1988 ) has great bearing on the eco-
+logical perspective because it examines how groups
+engage in communication activity involving external
+social actors in order to secure necessary resources for
+group operation and task completion. From the group
+boundary-spanning viewpoint, individual mixed-modegroups cannot avoid interacting with their environment,
+which consists of the physical community (e.g., local
+businesses and organizations) and other similar and dis-similar mixed-mode groups. Rooted in resource depen-
+dence theory (Pfeffer and Salancik 1978 ), boundary-
+spanning research suggests that groups that can better
+manage their degree of dependence on theirTHE INFORMATION SOCIETY 243
+environments and related boundary-spanning activities
+can perform better than those that focus only on internal
+dynamics (Ancona and Caldwell 1988 ).
+A set of strategies has been identi ﬁed as representing
+the patterns of external activities groups perform, includ-
+ing ambassadorial efforts (persuading others to support
+groups and lobbying for resources), task coordination
+(coordinating and negotiating with outsiders for techni-
+cal or design issues and obtaining feedback), scoutingmissions (general information gathering and mapping
+and scanning the environment), and guard responsibili-
+ties (avoiding releasing information) (Ancona and Cald-
+well1992 ).
+Nonetheless, the aforementioned bene ﬁts of boundary
+spanning activity do not minimize the equally important
+role of internal activity in in ﬂuencing group outcomes.
+Despite contingencies, such as temporal development of
+a group or environmental in ﬂuences, maintaining a bal-
+ance between internal and external activity is critical to
+group outcomes (Ancona and Caldwell 1988 ; Choi
+2002 ). Studies have identi ﬁed the positive in ﬂuence of
+effective internal and external strategies on group out-
+comes (Ancona and Caldwell 1988; 1992 ; Druskat and
+Wheeler 2003 ; Faraj and Yan 2009 ; Guinan, Cooprider,
+and Faraj 1998 ). But it must be noted that boundaries of
+voluntary associations are often blurred and porous
+(Aldrich 1999 ) and associations typically lack suf ﬁcient
+resource bases (e.g., personnel, leadership) and structural
+complexity to engage in externally reciprocated exchangerelations and to obtain external information and support,
+which in turn can in ﬂuence overall effectiveness (Knoke
+and Prensky 1984 ). Therefore, it is both a theoretical and
+practical test to apply the existing research on group
+boundary spanning to examine the accomplishment of
+collective action by mixed-mode groups, a type of volun-
+tary association. In light of the preceding discussion, the
+following set of hypotheses examines the relationship
+between the strategies that mixed-mode groups use andtheir resulting outcomes:
+H1a: The more strategies a mixed-mode group uses
+involving internal group processes, the more likely
+it is that a group will perceive the accomplishment
+of positive group outcomes.
+H1b: The more strategies a mixed-mode group uses
+involving external actors, the more likely it is that
+a group will perceive the accomplishment of posi-
+tive group outcomes.
+Networks and resources
+According to the perspective of group boundary span-
+ning, resource acquisition is the central mechanism that
+drives boundary spanning activity and externalnetworking. In conceptualizing external group interac-
+tions, two approaches have generally been adopted: a
+qualitative or descriptive approach and a network analyt-
+ical approach (Joshi, Pandey, and Han 2009 ). The former
+provides insights into the processes of how groups initi-
+ate strategies to enhance external visibility, secure infor-
+mation, and coordinate with others outside the group
+(e.g., Ancona 1990 ), while the latter largely draws on
+social capital theory to investigate how groups invest inexternal relationships that create values and result in
+resources (e.g., Oh, Chung, and Labianca 2004 ). Social
+capital refers to the resources embedded within and
+available through social relations that are accessed and/
+or mobilized by actors in purposive actions (Coleman
+1988 ; Lin 1999 ; Nahapiet and Ghoshal 1998 ). Another
+similar concept, which is often examined in the interor-
+ganizational context, is social embeddedness. Research
+on social embeddedness is primarily concerned withhow microsocial factors, such as an employee ’s social
+networks, in ﬂuence the performance of a ﬁrm (Grano-
+vetter 1985 ).
+Incorporating the notions of social capital and social
+embeddedness in the ecological framework can help
+shed light on how organizations and groups secure
+resources and maintain existence by tapping into their
+social networks. For example, Westphal, Boivie, and
+Chng ’s (2006) study exempli ﬁes how social embedded-
+ness, in the form of friendship ties maintained among
+corporate leaders, provides advantages for organizationsto manage resource dependence. Comparably, empirical
+studies on work groups show that groups that more fre-
+quently secure resources with different people outside
+those groups tend to attain better outcomes, such as get-
+ting higher performance ratings, producing more inno-
+vations, and having more ef ﬁcient project completion
+(e.g., Hansen 1999 ; Tsai 2001 ). Oh, Chung, and Labian-
+ca’s (2004) ﬁndings indicate that groups can attain maxi-
+mum effectiveness by investing in intragroup closurerelationships and expansive intergroup relational struc-
+tures, through which resources can be accessed. None-
+theless, extant research is mostly developed and tested
+on work groups; less is known about whether these argu-
+ments of network resources can apply to voluntary asso-
+ciations and mixed-mode groups. Hence, a second set of
+hypotheses is proposed to investigate the possibility of
+engaging in external communication to obtain resources
+for mixed-mode groups:
+H2a: The more a mixed-mode group is embedded in
+its external network contacts, the more likely it isthat a group will receive resources necessary for
+group operation.
+H2b: The more a mixed-mode group receives resour-
+ces necessary for group operation, the more likely244 C.-H. LAI AND J. E. KATZ
+it is that a group will perceive the accomplishment
+of positive group outcomes.
+While there has been extensive discussion on the
+advantages of resource networks in facilitating positive
+organizational outcomes, the ecological perspective
+emphasizes the strategic choices enacted on by organiza-
+tions as they explore the networking environment and
+decide whom to connect with (Aldrich and Pfeffer 1976 ;
+Monge, Heise, and Margolin 2008 ). At ﬁrst glance, it
+might seem reasonable that only when enacting external
+strategies will a mixed-mode group feel the need to
+engage in external communication. Research has shown
+that organizations achieving high performance often
+have a wide range of external strategies on hand, for
+example, initiating multiple, simultaneous ties with
+potential outside partners (Ozcan and Eisenhardt 2009 ).
+Yet it is also plausible that even if a group focuses on
+internal strategies, it may acquire resources throughexternal communication. For instance, a group might
+evaluate other groups ’situations when implementing a
+group policy or deciding upon an appropriate activity
+format. Hence, another two hypotheses are proposed to
+examine the relationships among scopes of strategies,
+network embeddedness, and the resources received:
+H3a: Implementing more internal and external strate-
+gies helps a mixed-mode group to become embed-
+ded in its external network contacts.
+H3b: Implementing more internal and external strate-
+gies helps a mixed-mode group to receive resour-ces necessary for group operation.
+The review thus far has revealed a common observa-
+tion that a group is capable of enacting external and
+internal strategies, building on the networking bene ﬁts it
+has accumulated, which in turn helps achieve group out-
+comes. A well-researched line of work has identi ﬁed the
+advantages of both internal and external network links
+in facilitating group outcomes (e.g., Oh, Chung, and
+Labianca 2004 ; Reagans, Zuckerman, and McEvily
+2004 ). Yet there is a limited understanding of whether,
+and how, network communication and resource acquisi-
+tion might enhance the effects of internal and external
+strategies on group outcomes. Ancona ’s(1990 ) study
+indeed points out the accentuated effects of boundary
+spanning on group performance occurring in groups
+that need outside resources, support, or information.
+Compared to purely online groups, the sustainability of
+mixed-mode groups is closely linked to the factors out-
+side the group, such as the existence of other similar
+groups or availability of partnering organizations in thelocal area (Lai 2014a ). It is thus a possible conjecture
+that mixed-mode groups ’receipt of resources from exter-
+nal contacts enhances group efforts invested in external
+strategies, more than in internal strategies, when it comesto producing outcomes. It is therefore hypothesized that
+mixed-mode groups ’use of certain types of strategies
+will exhibit different effects on group outcomes through
+network communication and resource acquisition:
+H4: Compared with internal strategies, implementing
+external strategies is more likely to facilitate a
+mixed-mode group ’s accomplishment of positive
+group outcomes when a group is embedded in its
+external network contacts and acquires resources.
+Methods
+The data were collected from Meetup.com, a websitespeci ﬁcally designed to facilitate the creation of online
+g r o u p sb a s e do ns h a r e di n t e r e s t sa n dp h y s i c a ll o c a -
+tions and to coordinate of ﬂine group meetings. More-
+over, Meetup.com ﬁts the needs of this study because
+of its large user base (over 238,000 local groups,
+25.5 million users). A strati ﬁed random sampling
+strategy was used to generate 2,000 Meetup groups.Online survey respondents were recruited from this
+sample. Considering the importance of age in group
+survival, as observed in a previous analysis by the
+author (Lai 2014a ),
+1t h ee n t i r ep o p u l a t i o no fM e e t u p
+groups (mainly in North America) was sorted into
+three subpopulations based on group age (less than
+1y e a r ,b e t w e e n1a n d2y e a r s ,a n dm o r et h a n2y e a r s ) .
+The 2,000 groups were then randomly pulled from
+these subpopulations in proportion to the age distri-bution: 48.4% (968 groups) aged less than 1 year,
+24.73% (495 groups) aged between 1 and 2 years, and
+26.87% (537 groups) aged more than 2 years.
+2In sit-
+uations where the same organizers managed multiple
+groups, only one group was randomly selected for
+invitation. Moreover, some groups listed in the sam-
+pling frame disbanded by the time the invitation was
+extended. Consequently, 1,237 of the 2,000 sampled
+groups were considered as valid subjects for
+invitation.
+Those 1,237 selected organizers were asked individu-
+ally through the contact function on Meetup.com to par-
+ticipate in the online survey, and 171 responded
+(response rate D13.82%).3Although this response rate
+was disappointing, it was not uncommon to experience
+comparable low rates in online surveys (Dillman 2000 ).
+Data collection lasted approximately 2 months, from
+December 4, 2010, to February 1, 2011. The age distribu-
+tion of the participating groups was slightly different
+from the Meetup population. The groups aged less than1 year were 29.76% of the sample (underrepresented),
+those aged between 1 and 2 years were 30.36% of the
+sample, and those over 2 years were 39.88% of the sam-
+ple (overrepresented). Moreover, among the 171 groups,THE INFORMATION SOCIETY 245
+about one-third (31.8%, nD54) of the groups experi-
+enced a leadership change as the originator of the group
+yielded the running of the group to someone else.
+Instruments and measures
+To test the hypotheses, this study evaluates different sets
+of variables, including group strategies, group impacts,
+network embeddedness, and resource acquisition (see
+Figure 1 ). Because of the study ’s exploratory nature,
+these variables were largely informed by the literature of
+group boundary spanning and network theory (e.g.,
+Ancona and Caldwell 1992 ; Oh, Chung, and Labianca
+2004 ). Yet to increase the relevance of the measures, the
+previously conducted interviews with Meetup group
+organizers were used to modify the scales to make them
+relevant and feasible for the Meetup groups under study
+(Lai2014a; 2014b ). To ensure content validity, the survey
+was also pilot tested with ﬁve Meetup organizers to vali-
+date original scales and clarify question wording.
+Types and scope of strategies used
+To examine the patterns of internal and external activi-
+ties that a group engages in, we looked at the scope of
+strategies they used. They were categorized as internal
+and external strategies. Each respondent was asked toindicate whether and how often he or she used a given
+strategy to run the group, using a 5-point scale (1 D
+never ,2Donce,3Da few times ,4Dmany times , and 5
+Dregularly ). Internal strategies were measured using 10items and external strategies using eight items based on
+the examples provided by the organizers during the pre-
+viously conducted interviews. These 10 internal strate-
+gies were as follows: group policy, requirement of
+member dues, member involvement, diversity of activi-
+ties, creation of subgroups, private events, focused topics,
+use of technology for communication, diversity of loca-
+tions, and regular events. These eight external strategies
+were as follows: copy other Meetup groups, copy othernon-Meetup groups, cross-post events by other Meetup
+groups, cross-post events by other non-Meetup groups,
+joint events with other Meetup groups, joint events with
+other non-Meetup groups, activity as part of local events,
+and interaction with local venues. Each of the 18 items
+was further dichotomized into “0,”where the given strat-
+egy is never used, and “1,”where the strategy is used at
+least once. Index values ranged from 0 to 10 for internal
+strategies and from 0 to 8 for external strategies. Twoseparate indexes were then created by aggregating the
+values of the 10 items for internal strategies ( MD5.967,
+SDD1.986) and eight items for external strategies ( MD
+3.831, SDD2.365).
+Network embeddedness
+Directionality was considered when measuring a group ’s
+embeddedness with its external network contactsthrough communication. To measure incoming ﬂow of
+networking, respondents were asked to indicate how
+often other Meetup groups and other non-Meetup
+groups or organizations have contacted them over the
+Figure 1. The conceptual model.246 C.-H. LAI AND J. E. KATZ
+course of their groups ’development, using a 6-point
+scale (1 Dnever ,2Donce or twice a year ,3Donce or
+twice a month ,4Donce or twice a week ,5Dseveral
+times a week ,6Dnearly every day ). Another set of items
+examined a group ’s outgoing networking with ﬁve differ-
+ent contacts, including other Meetup groups, local ven-
+ues to hold group events, other organizations, personal
+contacts, and members of other Meetup groups. These
+items were also assessed on a 6-point scale with responseoptions ranging from 1 Dnever to 6Dnearly every day .
+The aggregated latent variable of network embeddedness
+(aD.806, MD1.907, SDD0.653) consisted of these six
+items that measured the frequency of a group ’s overall
+communication with its external network contacts.
+4
+Resource acquisition
+Inspired by boundary-spanning literature that examines a
+network ’s internal density, external range, and impacts on
+group performance (e.g., Reagans, Zuckerman, and McEvily
+2004), resource acquisition was investigated in two dimen-
+sions: density and diversity of r esources received. Respond-
+ents were asked to indicate how often they had received help
+of any sort for running the group from six types of network
+contacts using a 6-point scale (1 Dnever ,2Donce or twice
+ay e a r ,3Donce or twice a month ,4Donce or twice a week ,
+5Dseveral times a week ,6Dnearly every day ). The aggre-
+gated latent variable of density of resources received ( aD
+.796, MD1.722, SDD0.624) consisted of six items that
+measured the frequency of a group ’s receipt of resources
+from its network contacts.5Each of the six items was further
+dichotomized into “0,”where the given contact was never
+sought after for support, and “1,”where the contact pro-
+vided support at least once.6The index of diversity of
+resource received was then created by aggregating the values
+o ft h es i xi t e m sa n dt h ei n d e xv a l u er a n g e sf r o m0t o6( MD
+2.919, SDD1.857). To avoid the potential problem of multi-
+collinearity, a two-stage approach was performed to create a
+second-order construct called resource acquisition (Agarwal
+and Karahanna 2000;C h i na n dG o p a l 1995;O s e i - B r y s o n ,
+Dong, and Ngwenyama 2008). The latent variable scores of
+density of resources received were initially estimated, and
+these scores, along with diversity of resources, were then
+entered as indicators for th e second-order construct of
+resource acquisition ( MD2.021, SDD.899). Resource
+acquisition was the variable used in the assessment of the
+complete model.
+Group impacts
+Accomplishment of positive group outcomes was measuredthrough the concept of group impacts, which captures inter-
+nal and external outcomes (Smith 2000)a n dt h u sr e ﬂects
+the co-evolution between groups and the environment
+(Baum and Singh 1994). Informed by Meetup organizers ’responses during the previous ly conducted interviews (Lai
+2014a 2014b ), a group ’s impact was measured using six
+items that assessed aspects of interpersonal relationships,
+community development, and local interaction. These
+dimensions coincided with the internal and external impacts
+of voluntary associations as suggested by Smith ( 2000). Six
+items were assessed on a 5-point scale, with response
+options ranging from 1 Dstrongly disagree to 5Dstrongly
+agree . Some examples of the possible responses include “my
+group has contributed to building and/or maintaining rela-
+tionships among members ”and“my group has maintained
+local area interest in the group topic ”(aD.874, MD4.132,
+SDD0.756).
+Control variables
+Three additional variables were included as controls:
+group age, group size , and meeting frequency . It has been
+argued that a voluntary association ’s impacts are usually
+observable after 1 or 2 years of its establishment (Smith
+2000 ). In the boundary-spanning literature, temporal
+development is suggested to relate to boundary-spanning
+activity, which in turn affects group outcomes (e.g., Saw-
+yer, Guinan, and Cooprider 2010 ). Hence, group age was
+included as a control variable in the model. Note that at
+the sampling stage, group age was considered a salient
+factor pertaining to group outcomes, and thus strati ﬁed
+sampling was implemented to ensure representativeness
+of groups of different ages. It is logical that group size
+and frequency of face-to-face interaction are also key fac-tors to generate impacts of voluntary associations: A
+group with enough members who frequently show up
+for activities would be likely to see signi ﬁcant impacts
+(Smith 1999 ). Interestingly, research thus far has found
+mixed yet signi ﬁcant effects of face-to-face meetings on
+the continued collective action of online groups (e.g.,
+Sessions 2010 ; Shen and Cage 2015 ). Respondents were
+asked to provide their groups ’month and year of estab-
+lishment on Meetup.com. Based on this information, the
+group ages for all 171 groups were calculated to the cut-
+off date of February 1, 2011. Group size was based on therespondents ’self-reported numbers of members at the
+time of the survey. Respondents were also asked to iden-
+tify how often (number of times) their groups met in the
+last month, to assess a group ’s meeting frequency.
+Analysis procedures
+Given the exploratory nature of this study, partial least
+squares (PLS) path modeling was used (see reviews of PLSmodeling by Henseler, Ringl e, and Sinkovics [2009] and
+Sosik, Kahai, and Piovoso [2009]). Data were analyzed using
+S m a r tP L S( R i n g l e ,W e n d e ,a n dW i l l 2005), an easy-to-use
+PLS path modeling software (Temme, Kreis, andTHE INFORMATION SOCIETY 247
+Hildebrandt 2010). According to Chin ( 1998), PLS models
+can be evaluated using a two-step process: (1) the assess-
+ment of the outer/measurement model (i.e., reliability and
+validity of re ﬂective constructs) and (2) the assessment of
+the inner/structural model (i.e., variance explanation of
+dependent variables, effect sizes, and signi ﬁcance of the path
+coefﬁcients). In the following section, the measurement
+model is assessed using these criteria, after which the results
+of assessing the structural model and the signi ﬁcant paths
+are reported.
+Results
+A measurement model is typically assessed based on its reli-ability and validity (Henseler, Ringle, and Sinkovics 2009).
+Except for network embeddedness and group impacts, the
+other six variables were measured with a single indicator or
+an aggregated index and thus were not included in this part
+of the assessment. For the assessment of reliability, outer
+loadings of all indicators f or network embeddedness and
+group impacts were greater tha n .60, and the composite reli-
+ability and Cronbach ’sa l p h af o rt h e s et w ol a t e n tv a r i a b l e s
+were well above .70, indicating the measurements were reli-
+able (Bagozzi and Youjae 1988; Fornell and Larcker 1981;
+Gotz, Liehr-Gobbers, and Krafft 2009;S o s i k ,K a h a i ,a n dP i o -
+voso 2009)( s e e Table 2 ,s h o w nl a t e r ) .T h e r ew a sa l s oe v i -
+dence of suf ﬁcient convergent and discriminant validity.
+First, the average variance extracted (AVE) for net-
+work embeddedness and group impacts exceeded the
+recommended criterion of .50, suggesting suf ﬁcient con-
+vergent validity because these two latent constructs can
+explain at least 50% of their indicators ’variances on
+average (Chin 1998 ; Fornell and Larcker 1981 ; Gotz,
+Liehr-Gobbers, and Krafft 2009 ). Second, the AVE valuesof network embeddedness and group impacts were
+greater than their squared correlations with any other
+constructs, meaning each latent variable shared more
+variance with its own assigned indicators than with
+another latent variable representing a different block of
+indicators (Chin 1998 ; Fornell and Larcker 1981 ; Gefen,
+Straub, and Boudreau 2000 ; Gotz, Liehr-Gobbers, and
+Krafft 2009 ) (see Tables 1 and 2 ). Another criterion of
+discriminant validity is to check whether the loading ofeach indicator is greater than all of its cross-loadings
+(Chin 1998 ; Gefen, Straub, and Boudreau 2000 ). A cross-
+loadings table (see Table 3 ) revealed that each item load-
+ing was higher on its assigned construct than on the
+other constructs, supporting adequate discriminant
+validity. All of the tvalues of outer loadings were greater
+than 2.58 ( p<.01).
+In terms of the overall model ﬁt of the structural compo-
+nent, three criteria were used (Chin 1998;H e n s e l e r ,R i n g l e ,
+and Sinkovics 2009). First, Smart PLS generated the results
+ofR-squared for the three end ogenous variables: group
+impacts ( R
+2D.234), resource acquisition ( R2D.470), and
+network embeddedness ( R2D.428). In other words, 23% of
+t h ev a r i a n c eo fg r o u pi m p a c t s ,4 7 %o ft h ev a r i a n c eo f
+resource acquisition, and 43% of the variance of network
+embeddedness, respectively, were explained by the model.
+These values approximate or exceed the criterion of R2D
+.26 (Cohen 1988) for large effect sizes, which supports the
+argument that the conceptual model offers an adequate
+explanation of the analytical results.
+Second, an Ftest was conducted to assess whether the
+model is a signi ﬁcant overall ﬁt to the data. The results
+showed that the four predictors t ogether (internal strategies,
+external strategies, network embeddedness, and resource
+acquisition) had a substantive effect on the endogenous
+Table 1. Summary of intercorrelations among the study variables.
+Variables 1 2 3 4 5 6 7 8 9 10
+1. Group age —
+2. Group size .548/C3/C3—
+3. Meeting frequency .035 .043 —
+4. Internal strategies .177/C3.308/C3/C3.271/C3/C3—
+5. External strategies .183/C3.344/C3/C3.161/C3.457/C3/C3—
+6. Network embeddedness .144y.400/C3/C3.185/C3.442/C3/C3.630/C3/C3—
+7. Density of resources .076 .365/C3/C3.153/C3.342/C3/C3.529/C3/C3.687/C3/C3—
+8. Diversity of resources .097 .252/C3/C3.108 .364/C3/C3.489/C3/C3.595/C3/C3.861/C3/C3—
+9. Resources (second-order) .090 .320/C3/C3.136y.366/C3/C3.528/C3/C3.665/C3/C3.965/C3/C3/C3.964/C3/C3/C3—
+10. Group impacts .189/C3/C3.178/C3.229/C3/C3.396/C3/C3.318/C3/C3.302/C3/C3.264/C3/C3.266/C3/C3.275/C3/C3—
+Number of items 1a1a1a1b1b661c2d6
+Mean 25.214 219.036 3.275 5.967 3.831 1.907 1.722 2.919 2.021 4.132SD 20.532 289.67 4.138 1.986 2.365 .653 .624 1.857 .899 .756
+Note . Total number of participants studied, ND171.
+aGroup age Done item measuring observed group age, group size Done item measuring observed membership size, meeting frequency Done item measuring
+observed meeting frequency.
+bInternal strategies Dthe sum of 10 items; external strategies Dthe sum of eight items.
+cDiversity of resources Dthe sum of six items measuring occurrence of receiving resources from contacts.
+dResource acquisition is a second-order construct consisting of density and diversity of resources received.
+yp<.10;/C3p<.05;/C3/C3p<.01;/C3/C3/C3p<.001.248 C.-H. LAI AND J. E. KATZ
+variable of group impacts ( F[4,163]D6.756, p<.001). Last,
+a global criterion of goodness-of- ﬁtf o rP L Sp a t hm o d e l i n g ,
+the GoF index, was used. The GoF index is the geometric
+mean of the average communal ity index (outer measure-
+ment model) and the average R2value of the endogenous
+latent variables (Tenenhaus et al. 2005). It ranges from 0 to
+1 ,w h e r eh i g h e rv a l u e sr e p r e s e nt better path-model estima-
+tions (Henseler, Ringle, and Sinkovics 2009). The GoF value
+of the model was 0.614, which exceeds the cutoff value of
+0.36 for large effect sizes of R2(Wetzels, Odekerken-
+Schr€oder, and van Oppen 2009).7In sum, the results indi-
+cate a good prediction perfo rmance of the model overall.8Hypothesis testing
+Hypotheses were tested by examining the signi ﬁcance of
+the path coef ﬁcients through asymptotic tstatistics,
+which were obtained by bootstrapping resampling (500
+samples) (Chin 1998 ).9Figure 2 presents the estimates
+obtained from the PLS analysis. Results showed that the
+paths from the two control variables (group age and
+meeting frequency) signi ﬁcantly predicted group
+impacts. Both internal and external strategies signi ﬁ-
+cantly predicted network communication, which in turnaffected resource acquisition. As such, H2a and H3aTable 2. Reliability and validity of multi-indicator latent variables.
+Construct AVE Composite reliability Cronbach ’s alpha Indicator Mean SD Loading TValue
+Network embeddedness .509 .861 .806 NE1 1.88 .918 0.663 11.230
+NE2 2.12 .883 0.623 11.473NE3 1.70 .877 0.802 23.732NE4 2.09 .973 0.681 10.355NE5 1.82 .924 0.796 23.096
+NE6 1.88 1.115 0.700 14.269
+Density of resources
+a.500 .854 .796
+DR1 2.48 1.035 0.502 5.673DR2 1.44 .714 0.797 17.161DR3 1.76 .996 0.605 6.415DR4 1.55 .834 0.796 17.101DR5 1.96 1.069 0.717 10.690
+DR6 1.63 .914 0.776 14.317
+Resources (second-order) .930 .964 .925
+DeR
+b1.722 .624 0.968 162.951
+DiR 2.919 1.857 0.961 102.807
+Group impacts .609 .903 .874
+GI1 4.15 1.013 0.768 15.845
+GI2 4.55 .790 0.781 14.663
+GI3 4.44 .919 0.763 14.986GI4 4.06 1.059 0.792 14.300GI5 3.92 1.031 0.826 22.064GI6 3.39 1.262 0.752 18.378
+aFactor loadings of the indicators of density of resources were calculated separately in the initial model when the second-order construct of resourc es was not
+present.
+bDeRDdensity of resources, DiR Ddiversity of resources.
+Table 3. Factor loadings and cross loadings of measures.
+Network embeddedness Group impacts Resources Group age Group size Meeting frequency Internal strategies External strategies
+NE1 0.663 0.259 0.405 0.165 0.269 ¡0.020 0.290 0.406
+NE2 0.623 0.301 0.351 0.113 0.263 0.171 0.395 0.336
+NE3 0.802 0.145 0.532 0.120 0.303 0.157 0.252 0.546
+NE4 0.681 0.380 0.436 0.105 0.300 0.179 0.404 0.388
+NE5 0.796 0.263 0.542 0.088 0.292 0.183 0.340 0.572
+NE6 0.700 0.041 0.567 0.027 0.290 0.113 0.238 0.413
+GI1 0.157 0.768 0.248 0.183 0.181 0.152 0.317 0.195
+GI2 0.156 0.781 0.242 0.061 0.139 0.161 0.250 0.215
+GI3 0.208 0.763 0.221 0.000 0.045 0.176 0.260 0.213
+GI4 0.266 0.792 0.232 0.204 0.120 0.199 0.345 0.220
+GI5 0.274 0.826 0.138 0.151 0.165 0.185 0.301 0.282
+GI6 0.337 0.752 0.215 0.293 0.185 0.205 0.394 0.372
+DeR 0.691 0.265 0.968 0.076 0.365 0.153 0.342 0.529
+DiR 0.598 0.270 0.961 0.097 0.252 0.108 0.364 0.489
+Note. Italicized loadings explain that items (NE1-NE6,GI1-GI6, & DeR, DiR) have higher loadings with their respective constructs (network embeddedness , group
+impacts, resources) than with other constructs.THE INFORMATION SOCIETY 249
+were supported. Network embeddedness was useful for
+groups in acquiring resources when implementing either
+internal or external strategies. Yet the external and inter-
+nal strategies differed, as the former had both signi ﬁcant
+direct and total effects on resource acquisition, while thelatter only had signi ﬁcant effects on resource acquisition
+after including network embeddedness ( bD.156, tD
+2.257, p<.05). Thus, H3b was partially supported. Both
+internal and external strategies had signi ﬁcant total
+effects on group impacts, but only internal strategies had
+direct effects on group impacts. External strategies, on
+the other hand, had effects on group impacts after
+including network communication and resource acquisi-
+tion ( bD.173, tD2.292, p<.05). Based on these
+results, it appears that H1a and H4 were supported while
+H1b was partially supported.
+10Nonetheless, the analysis
+did not show a positive effect of resource acquisition on
+group impacts, and thus H2b was not supported.
+Discussion
+In terms of accounting for multimodal collective goods
+and inevitable group interactions with multimodal envi-
+ronments, existing theories of collective action and pub-
+lic goods have limited applicability when it comes tomixed-mode groups. To address this limitation, this
+study employs ecological theories to investigate the pro-
+cess and outcomes of contemporary collective action.
+Groups from the website Meetup.com were studied as anexample of mixed-mode groups. While being embedded
+in the environment consisting of individuals and groups
+within and outside Meetup.com, online and of ﬂine, these
+Meetup groups enacted strategies coping with internal
+and external dynamics. Especially, interacting with theenvironment in the form of external networking helped
+these groups acquire resources necessary for group oper-
+ation and generate impacts that in ﬂuenced members and
+the local community.
+Ecological perspectives provide insights into the
+importance and usefulness of Internet use in facilitating
+group outcomes. We see that the Internet, along with
+face-to-face communication, provides a means for
+mixed-mode groups to initiate and maintain communi-cation with external social actors as part of the group
+strategy for securing resources. It thus makes theoretical
+sense to conclude that the Internet has become incorpo-
+rated in the adapted organizational practices of mixed-
+mode groups and that group impacts are likely accom-
+plished through these efforts.
+Relationships between mixed-mode groups and the
+environment
+This study extends the group boundary spanning litera-
+ture to voluntary associations, in particular to the mixed-
+mode group context. Meetup groups, being embedded in
+their hosting environment of Meetup.com as well as
+other larger resource environments, tend to have
+Figure 2. The resulting model via PLS analysis. The path coef ﬁcients displayed are standardized. Dashed lines refer to the total effects.
+Signi ﬁcance:/C3p<.05,/C3/C3p<.01,/C3/C3/C3p<.001.250 C.-H. LAI AND J. E. KATZ
+amorphous and porous boundaries that facilitate interac-
+tion within and across groups. Groups were observed to
+engage in external communication with individuals and
+organizations outside Meetup.com, which helped them
+to acquire resources necessary for group operation.
+Unlike task groups, work organizations, or formal non-
+proﬁt organizations, which are the dominant targets of
+study under boundary-spanning and organizational eco-
+logical research, mixed-mode groups resemble a type ofassociation that may not be easily de ﬁned as small group
+or organization. In response to Knoke and Prensky ’s
+(1984 ) questioning of the applicability of contemporary
+organization theories to voluntary associations, this
+study provides empirical evidence for the usefulness of
+the ecological lens in explaining and understanding vol-
+untary associations in general and mixed-mode groups
+in particular.
+By considering the broader ecology of voluntary
+groups in general, and in particular mixed-mode groups,
+the multiple ways of accomplishing contemporary collec-
+tive action and interaction with environments can be
+more clearly understood. Ecological dimensions, though
+taking different forms, are found to be integral to this
+process. These are evidenced by the signi ﬁcant direct
+effect on resource acquisition from external strategies
+and the signi ﬁcant total effect on resource acquisition
+from internal strategies executed through network
+embeddedness. Even when a mixed-mode group imple-
+ments strategies related to internal group processes, itbeneﬁts from tapping into its external networks to obtain
+resources for group operation. Also, the differential
+impacts of internal and external strategies indicate that
+in the case of environment-prone mixed-mode groups,
+implementation of internal strategies alone, with or with-
+out external networking resources solicited, is helpful for
+generating positive group outcomes. This ﬁnding is con-
+sistent with research on traditional work groups (e.g.,
+Guinan, Cooprider, and Faraj 1998 ; Mathieu et al. 2008 ).
+Yet these networking resources will be particularly useful
+for mixed-mode groups, whose environments extend to
+both online and of ﬂine domains, which enable them to
+accomplish similar outcomes with an adequate set of
+external strategies con ﬁgured. Together, these results
+establish that boundary spanning represents not only a
+type of strategic action to obtain resources and produce
+positive outcomes but also an inherent and de ﬁning
+mechanism of contemporary voluntary groups for
+engaging in collective action.
+The dynamics of how mixed-mode groups practice
+boundary spanning and interact with the multimodal
+environments merits further research as it bears on ques-
+tions of environmental opportunities and constraints in
+human collective behaviors (Baum and Shipilov 2006 ).Additional research could enrich the utility of ecological
+theories for understanding contemporary collective
+action. Environments may merely represent untapped
+opportunities or even constraints for mixed-mode
+groups, if no adequate strategic actions are con ﬁgured to
+take advantage of them. Within the population of
+Meetup.com —consisting of tens of thousands of
+groups —members are likely to belong to multiple
+groups. Echoing previous research (Ancona and Cald-well 1988 ), the condition of multiple af ﬁliations is con-
+ducive to boundary spanning, which may also explain its
+beneﬁ
+cial effects on the Meetup groups under study. A
+few words are in order concerning the absence of a rela-
+tionship between resource acquisition and group impacts
+as found in this study since this outcome is relevant to
+the trajectory of prospective investigations. Due to tech-
+nical dif ﬁculties, survey respondents were only asked
+about the general resources they received from contacts,without further details collected concerning the speci ﬁc
+content and type of resources involved. Moreover, the
+measurements of network embeddedness and resource
+acquisition did not differentiate among face-to-face and
+electronic means. These measurement shortcomings
+may help explain the nonsigni ﬁcant relationship between
+resource acquisition and group impacts. Another possi-
+bility is that instead of an aggregate set of resources, cer-
+tain resources weigh more heavily than others in leading
+to group impacts.
+Future research should include granular inspections
+of network communication and resource acquisition to
+better understand how mixed-mode groups interact with
+their environments. Network links provisioned with dif-
+ferent resources have been found to in ﬂuence each other
+and together determine the evolution of organizational
+communities (Lee and Monge 2011 ). Speci ﬁcally, studies
+can pay more attention to the degree of multimodal
+communication and the resulting group impacts. It is
+possible that the importance of resource acquisition mayvary depending on the level of multimodality. Through
+more diverse modes of organizing (e.g., Meetup, Face-
+book, of ﬂine), a group is more likely to tap into different
+generators of resources from its environment, and
+achieve desired outcomes accordingly.
+Incorporating both internal and external dimensions
+of strategic variations and group outcomes, this study
+contributes to the existing research on intraorganiza-
+tional and organizational ecology and evolution. Apply-
+ing the concept of internal evolution (Miner 1994 ) and
+co-evolution (Baum and Singh 1994 ), organizers can be
+said to play an important role in deciding which strate-
+gies to act on, choose, and retain as part of a group ’s rou-
+tine practices. Building on these strategic choices,
+organizers further adjust groups ’relationships with otherTHE INFORMATION SOCIETY 251
+Meetup and non-Meetup groups and organizations,
+which in turn results in the co-evolution of groups and
+the external environments by producing impacts. Yet the
+ﬂuid and blurred group boundaries may also render the
+leadership function less rigid (Flanagin, Stohl, and Bim-
+ber2006 ). Future research should examine the conceptu-
+alization of leadership in the collective action of mixed-
+mode groups. It is hypothesized that leadership may
+become more emergent and shared as members can takeon the leadership role whenever they show the ability to
+facilitate the group ’s online internal coordination as well
+as interaction with other online groups. Organizers were
+asked about the strategies they used, but without differ-
+entiating online and of ﬂine domains, a regrettable limita-
+tion of the data-acquisition methodology. For future
+research, a worthwhile topic of inquiry would be the
+degree to which groups ’strategic actions taking place
+online and of ﬂine are similar or different and how that
+variation affects the emergence of leadership and group
+impacts.
+Limitations and conclusion
+There are several limitations of this study. First, the
+small-to-moderate sample size and uncertainties over
+true respondent randomness led to the selection of non-
+parametric PLS for statistical analysis and recognition
+that the ﬁndings may be interpreted with caution. Sec-
+ond, the measurements of the variables used were drawnmostly from the existing literature and previously con-
+ducted interview data. Though this argues for their con-
+struct validity, it was not possible to gain independent
+validation of them in this context. Future efforts should
+focus on applying the scales to a different population of
+mixed-mode groups and integrating established scales.
+Third, due to resource and time constraints, this study
+could only collect data at the group level, so group
+organizers were the ones providing responses to the sur-
+vey questions. Yet in defense of this approach, it was
+observed that, on behalf of the group, the group organiz-ers were capable of answering the questions related to
+group development and the strategies used, and they also
+had the best knowledge of group interaction with exter-
+nal actors. Fourth, a cross-sectional survey limits causal-
+ity claims, as is the case with all research derived with
+this method.
+Despite these limitations, this study makes theoretical
+contributions by comparing collective action and eco-
+logical theories to answer two important questions in thecontemporary society: How is collective action per-
+formed by new forms of human associations, and with
+what effects? This study suggests in the context of a digi-
+tally networked society that there are advantages to usingecological theories relative to collective action theories to
+understand the emerging technologically enabled behav-
+iors at the interstice of organizational processes and
+human communication. A reason why ecological theo-
+ries should be applied is because theories of collective
+action mostly focus on the generation of public goods,
+especially in either online or face-to-face forms, but not
+on how public goods facilitate group outcomes.
+Given the importance of voluntary associations in
+society on various levels, these theories cannot explain
+how public goods actually “do good ”in society. In eco-
+logical theories, a common understanding is that both
+choice and determinism are important in in ﬂuencing
+organizational behaviors. The ﬁndings reported here
+seem to con ﬁrm the utility of the ecological perspectives
+by showing the interaction of strategic choices and envi-
+ronmental constraints involved in the collective action of
+Meetup groups, which in turn in ﬂuenced the group as
+well as the local community. Hence, in this increasingly
+important context, theories of organizational ecology are
+a better framework for understanding collective action
+because they can account for behaviors at both individ-
+ual and organizational levels, and for mutual in ﬂuence
+between the group and the environment.
+Notes
+1.More details about the interviews and the ﬁndings from
+the interviews were reported in Lai ( 2014b ).
+2.Meetup.com provided the information about the age dis-
+tribution in Meetup groups and helped generate thesample.
+3.Nonresponse bias analysis was conducted by comparing
+the earliest and latest third of respondents for each of thevariables. No signi ﬁcant differences were found between
+these two groups of respondents on any of the variables.
+4.In the network embeddedness, six items (NE1 –6) were
+included. The item of communication with personal con-tacts was not included because of its low factor loading
+(.569). Including this item also reduced the AVE of net-
+work embeddedness below the threshold of .50.
+5.Six network contacts were included: group members,
+other Meetup groups, local venues, other groups/organiza-
+tions, personal contacts, and members of other Meetupgroups. One of the six items (DR1) had a factor loadingbelow .60 (.502), but it was still included considering the
+construct validity of this measurement. Moreover, the
+AVE was still above the threshold of .50 when includingthis item.
+6.A descriptive analysis was conducted. The results showed
+that groups answering “1Dnever ”and those answering
+“2Donce or twice a year ”were distinct because the for-
+mer accounted for a certain percentage of the sampled
+groups (ranging from 20% to 60%). It means that groupsthat did not engage in any resource acquisition effort were
+different than those groups that did so at least once or
+twice a year. Accordingly, this enhances the validity of our252 C.-H. LAI AND J. E. KATZ
+decision to transform the items into dichotomized ones
+based on the original options of 1 (never) and 2 –6 (once
+or twice a year to nearly every day).
+7.FD[(R 22¡R12)/(k 2¡k1)]/[(1 –R22)/(N¡k2¡1)]D
+[(0.234 –0.107)/(7 ¡3)]/[(1 ¡0.234]/171 ¡7¡1]D
+6.756, with [(7 ¡3), (171 ¡7¡1)] degrees of freedom. R 22
+is for the superset model that includes the set of main pre-
+dictors, R 12is the baseline model, k 2is the number of pre-
+dictors for the superset model, k 1is the number of
+predictors for the baseline model, and N is the samplesize. See Chin ( 1998 ). GoF Dsqrt(average(AVE) £aver-
+age(R
+2))Dsqrt (0.613 £0.377)D0.614 (Tenenhaus et al.
+2005 ).
+8.Despite the limitations, the proposed model was run with
+AMOS to ensure its validity. The results were comparable
+to those from the analysis with PLS (Smart PLS).
+9.Following Chin ’s(1998 ) recommendation, we performed
+bootstrapping using 500 samples. But to verify the results
+and ensure the stability of the magnitude and signi ﬁcance
+of the estimated path coef ﬁcients, the model was repli-
+cated with bootstrap samples of 2,000 and 5,000. The
+results were consistent across these samples.
+10.To further determine the signi ﬁcance of the indirect
+effects, bootstrapping simple mediation was used with
+5,000 bootstrap resamples (Hayes 2009 ; Preacher and
+Hayes 2008 ). Results showed that the indirect effects of
+both types of strategies on resource acquisition through
+network embeddedness were signi ﬁcant. Thus, the total
+effects of external strategies on resource acquisition wereascribed to both direct and indirect effects; in contrast, the
+total effects of internal strategies on resources were mainly
+attributed to the indirect effects. Nonetheless, the totalindirect effects of both strategies on group impacts werenot signi ﬁcant. A further examination showed that the
+indirect effects of these mediating variables (network
+embeddedness and resources) did not differ from eachother signi ﬁcantly. Therefore, it is suggested that the total
+effects of internal strategies on group impacts were pri-
+marily ascribed to the direct effects; in contrast, the totaleffects of external strategies on group impacts were attrib-
+uted more evenly to direct and indirect effects, even
+though none was signi ﬁcant.
+References
+Agarwal, R., and E. Karahanna. 2000. Time ﬂies when you ’re
+having fun: Cognitive absorption and beliefs about informa-
+tion technology usage. MIS Quarterly 24 (4):665 –94.
+Aldrich, H. E. 1999. Organizations evolving . Thousand Oaks,
+CA: Sage.
+Aldrich, H. E., and J. Pfeffer. 1976. Environments of organiza-
+tions. Annual Review of Sociology 2:79–105.
+Ancona, D. G. 1990. Outward bound: Strategies for team sur-
+vival in an organization. The Academy of Management Jour-
+nal33 (2):334 –65.
+Ancona, D. G., and D. F. Caldwell. 1988. Beyond task and
+maintenance: De ﬁning external functions in groups. Group
+and Organization Management 13 (4):468 –94.
+Ancona, D. G., and D. F. Caldwell. 1992. Bridging the bound-
+ary: External activity and performance in organizational
+teams. Administrative Science Quarterly 37 (4):634 –65.Babchuk, N., and J. N. Edwards. 1965. Voluntary associations
+and the integration hypothesis. Sociological Inquiry 35
+(2):149 –62.
+Bagozzi, R. P., and Y. Youjae. 1988. On the evaluation of struc-
+tural equation models. Academy of Marketing Science 16
+(1):74 –94.
+Baum, J. A. C., and A. V. Shipilov. 2006. Ecological approaches
+to organizations. In Sage handbook for organization studies ,
+ed. S. R. Clegg, C. Hardy, W. Nord, and T. Lawrence, 55 –
+110. London, UK: Sage.
+Baum, J. A. C., and J. V. Singh. 1994. Organization-environ-
+ment coevolution. In Evolutionary dynamics of organiza-
+tions , eds. J. A. C. Baum and J. V. Singh, 379 –402. New
+York, NY: Oxford University Press.
+Bimber, B., A. J. Flanagin, and C. Stohl. 2012. Collective action
+in organizations: Interaction and engagement and engage-ment in an era of technological change . New York, NY:
+Cambridge University Press.
+Calhoun, C. 1986. Computer technology, large-scale social
+integration, and the local community. Urban Affairs Review
+22 (2):329 –49.
+Campbell, D. T. 1965. Variation and selective retention in
+socio-cultural evolution. In Social change in developing
+areas: A reinterpretation of evolutionary theory , eds. H. R.
+Barringer, G. I. Blanksten, and R. W. Mack, 19 –48. Cam-
+bridge, MA: Schenkman.
+Chin, W. W. 1998. The partial least squares approach to struc-
+tural equation modeling. In Modern methods for business
+research , ed. G. A. Marcoulides, 295 –336. London, UK:
+Lawrence Erlbaum Associates.
+Chin, W. W., and A. Gopal. 1995. Adoption intention in GSS:
+Relative importance of beliefs. The DATA BASE for Advan-
+ces in Information Systems 26 (2 –3):42 –64.
+Choi, J. N. 2002. External activities and team effectiveness:
+Review and theoretical development. Small Group Research
+33 (2):181 –208.
+Cohen, J. 1988. Statistical power analysis for the behavioral sci-
+ences . Hillsdale, NJ: Lawrence Erlbaum Associates.
+Coleman, J. S. 1988. Social capital in the creation of human
+capital. American Journal of Sociology 94:95 –120.
+Dillman, D. A. 2000. Mail and Internet surveys: The tailored
+design method (2nd ed.). New York, NY: John Wiley.
+Druskat, V. U., and J. V. Wheeler. 2003. Managing from the
+boundary: The effective leadership of self-managing work
+teams. Academy of Management Journal 46 (4):435 –57.
+Faraj, S., and A. Yan. 2009. Boundary work in knowledge
+teams. Journal of Applied Psychology 94 (3):604 –17.
+Flanagin, A. J., C. Stohl, and B. Bimber. 2006. Modeling the
+structure of collective action. Communication Monographs
+73 (1):29 –54.
+Fornell, C., and D. Larcker. 1981. Evaluating structural equa-
+tion models with unobservable variables and measurementerror. Journal of Marketing Research 18 (1):39 –50.
+Fulk, J., A. J. Flanagin, M. E. Kalman, P. R. Monge, and T.
+Ryan. 1996. Connective and communal public goods ininteractive communication systems. Communication The-
+ory6 (1):60 –87.
+Fulk, J., R. Heino, A. J. Flanagin, P. R. Monge, and F. Bar. 2004.
+A test of the individual action model for organizationalinformation commons. Organization Science 15 (5):569 –85.
+Gefen, D., D. W. Straub, and M.-C. Boudreau. 2000. Structural
+equation modeling and regression: Guidelines for researchTHE INFORMATION SOCIETY 253
+practice. Communications of the Association for Informa-
+tion Systems 4 (7):1 –78.
+Gotz, O., K. Liehr-Gobbers, and M. Krafft. 2009. Evaluation of
+structural equation models using the partial least squares
+(PLS) approach. In Handbook of partial least squares: Con-
+cepts, methods, and applications , ed. V. E. Vinzi, W. W.
+Chin, J. Henseler, and H. Wang, 691 –711. Berlin, Germany:
+Springer.
+Granovetter, M. S. 1985. Economic action and social structure:
+The problem of embeddedness. American Journal of Sociol-
+ogy91 (3):481 –510.
+Guinan, P. J., J. G. Cooprider, and S. Faraj. 1998. Enabling soft-
+ware development team performance during requirementsdeﬁnition: A behavioral versus technical approach. Infor-
+mation Systems Research 9 (2):101 –25.
+Hannan, M. T., and J. H. Freeman. 1977. The population ecol-
+ogy of organizations. American Journal of Sociology 82
+(5):929 –64.
+Hansen, M. T. 1999. The search-transfer problem: The role of
+weak ties in sharing knowledge across organizational subu-nits. Administrative Science Quarterly 44 (1):82 –111.
+Hayes, A. 2009. Beyond Baron and Kenny: Statistical media-
+tion analysis in the millennium. Communication Mono-
+graphs 76 (4):408 –20.
+Henseler, J., C. M. Ringle, and R. R. Sinkovics. 2009. The use of
+partial least squares path modeling in international market-ing.Advances in international marketing 20 (1):277 –320.
+Hooghe, M. 2003. Participation in voluntary associations and
+value indicators: The effect of current and previous partici-pation experiences. Nonpro ﬁt and Voluntary Sector Quar-
+terly 32 (1):47 –69.
+Joshi, A., N. Pandey, and G. Han. 2009. Bracketing team
+boundary spanning: An examination of task-based, team-level, and contextual antecedents. Journal of Organizational
+Behavior 30 (6):731 –59.
+Katz, J. E., and R. E. Rice. 2002. Social consequences of Internet
+use: Access, involvement, and interaction . Cambridge, MA:
+MIT Press.
+Knoke, D., and D. Prensky. 1984. What relevance do organiza-
+tion theories have for voluntary associations? Social Science
+Quarterly 65 (1):3 –20.
+Lai, C.-H. 2014a. Can our groups survive? An investigation of
+the evolution of mixed-mode groups. Journal of Computer-
+Mediated Communication 19 (4):839 –854.
+Lai, C.-H. 2014b. Understanding the evolution of bona ﬁde
+mixed-mode groups: An example of Meetup groups. First
+Monday 19 (1). http:// ﬁ
+rstmonday.org/ojs/index.php/fm/
+article/view/4681/3810
+Laumann, E. O., D. Knoke, and Y. H. Kim. 1985. An organiza-
+tional approach to state policy formation: a comparative
+study of energy and health domains. American Sociological
+Review 50 (1):1 –19.
+Lea, M., and R. Spears. 1991. Computer-mediated communica-
+tion, de-individuation and group decision-making. Interna-
+tional Journal of Man Machine Studies 34 (2):283 –301.
+Lee, S., and P. Monge. 2011. The coevolution of multiplex
+communication networks in organizational communities.
+Journal of Communication 61 (4):758 –779.
+Lin, N. 1999. Building a theory of social capital. Connections 22
+(1):28 –51.
+Marwell, G., and P. Oliver. 1993. The critical mass in collective
+action . Cambridge, UK: Cambridge University Press.Mathieu, J., M. T. Maynard, T. Rapp, and L. Gilson. 2008.
+Team effectiveness. 1997 –2007: A review of recent advance-
+ments and a glimpse into the future. Journal of Manage-
+ment 34 (3):410 –476.
+McPherson, J. M. 1983. An ecology of af ﬁliation. American
+Sociological Review 48 (4):519 –532.
+Miner, A. S. 1994. Seeking adaptive advantage: evolutionary
+theory and managerial action. In Evolutionary dynamics of
+organizations , eds., J. A. C. Baum and J. V. Singh, 76 –89.
+New York, NY: Oxford University Press.
+Monge, P. R., and N. S. Contractor. 2003. Theories of commu-
+nication networks . Oxford, UK: Oxford University Press.
+Monge, P. R., J. Fulk, M. E. Kalman, A. J. Flanagin, C. Parnassa,
+and S. Rumsey. 1998. Production of collective action in alli-
+ance-based interorganizational communication and infor-
+mation systems. Organization Science 9 (3):411 –433.
+Monge, P. R., B. R. Heise, and D. Margolin. 2008. Communica-
+tion network evolution in organizational communities.
+Communication Theory 18 (4):449 –77.
+Nahapiet, J., and S. Ghoshal. 1998. Social capital, intellectual
+capital, and the organizational advantage. The Academy of
+Management Review 23 (2):242 –266.
+Nie, N. H. 2001. Sociability, interpersonal relations, and the
+Internet: Reconciling con ﬂicting ﬁndings. American Behav-
+ioral Scientist 45 (3):419 –35.
+Oh, H., M. H. Chung, and G. Labianca. 2004. Group social
+capital and group effectiveness: The role of informal social-
+izing ties. Academy of Management Journal 47 (6):860 –75.
+Olson, M. 1965. The logic of collective action: Public goods and
+the theory of groups . Cambridge, MA: Harvard University
+Press.
+Osei-Bryson, K. M., L. Dong, and O. Ngwenyama. 2008.
+Exploring managerial factors affecting ERP implementa-tion: An investigation of the Klein-Sorra model using
+regression splines. Information Systems Journal 18 (5):499 –
+527.
+Ozcan, P., and K. Eisenhardt. 2009. Origin of portfolios:
+entrepreneurial ﬁrms and strategic action. Academy of
+Management Journal 52 (2):246 –79.
+Pfeffer, J., and G. R. Salancik. 1978. The external control of
+organizations . New York, NY: Harper & Row.
+Postmes, T., and S. Brunsting. 2002. Collective action in the age
+of the Internet mass communication and online mobiliza-tion. Social Science Computer Review 20 (3):290 –301.
+Preacher, K. J., and A. F. Hayes. 2008. Asymptotic and resam-
+pling strategies for assessing and comparing indirect effectsin multiple mediator models. Behavior Research Methods
+40 (3):879 –91.
+Putnam, R. D. 1995. Bowling alone: America ’s declining social
+capital. Journal of Democracy 6 (1):65 –78.
+Putnam, R. D. 2000. Bowling alone: The collapse and revival of
+American community . New York, NY: Simon & Schuster.
+Rainie, L., K. Purcell, and A. Smith. 2011. The social side of the
+Internet. Pew Internet & American Life Project. http://
+www.pewinternet.org/Reports/2011/The-Social-Side-of-the-Internet.aspx (accessed December 2011).
+Reagans, R., E. Zuckerman, and B. McEvily. 2004. How to
+make the team: Social networks vs. demography as criteria
+for designing effective teams. Administrative Science Quar-
+terly 49 (1):101 –33.
+Rice, R. E., A. E. Grant, J. Schmitz, and J. Torobin. 1990. Indi-
+vidual and network in ﬂuences on the adoption and254 C.-H. LAI AND J. E. KATZ
+perceived outcomes of electronic messaging. Social Net-
+works 12 (1):27 –55.
+Ringle, C., S. Wende, and A. Will. 2005. Smart-PLS Version 2.0
+M3. http://www.smartpls.de.
+Samuelson, P. A. 1954. The pure theory of public expenditure.
+Review of Economics and Statistics 36 (4):387 –389.
+Sampson, R. J. 1988. Local friendship ties and community
+attachment in mass society: A multilevel systemic model.
+American Sociological Review 53 (5):766 –79.
+Sandler, T., and J. T. Tschirhart. 1980. The economic theory of
+clubs: An evaluative survey. Journal of Economic Literature
+18 (4):1481 –521.
+Sawyer, S., P. J. Guinan, and J. Cooprider. 2010. Social interactions
+of information systems development teams: a performance per-
+spective. Information Systems Journal 20 (1):81 –107.
+Sessions, L. F. 2010. How of ﬂine gatherings affect online com-
+munities —when virtual community members “meetup. ”
+Information, Communication & Society 13 (3):375 –95.
+Shah, D. V., N. Kwak, and R. L. Holbert. 2001. “Connecting ”
+and“disconnecting ”with civic life: Patterns of Internet use
+and the production of social capital. Political Communica-
+tion18 (2):141 –62.
+Shen, C., and C. Cage. 2015. Exodus to the real world? Assessing
+the impact of of ﬂine meetups on community participation and
+social capital. New Media & Society 17 (3):394 –414.
+Smith, D. H. 1999. The effective grassroots association, part
+one. Organizational factors that produce internal impacts.
+Nonpro ﬁt Management and Leadership 9 (4):443 –56.
+Smith, D. H. 2000. Grassroots associations . Thousand Oaks,
+CA: Sage.
+Sosik, J. J., S. S. Kahai, and M. J. Piovoso. 2009. Silver bullet or
+voodoo statistics?: A primer for using the partial leastsquares data analytic technique in group and organizationalresearch. Group & Organization Management 34 (1):5 –36.
+Stolle, D. 2000. Clubs and congregations: The bene ﬁts of join-
+ing an association. In Trust in society , ed. K. S. Cook, 202 –
+44. New York, NY: Russell Sage.
+Temme, D., H. Kreis, and L. Hildebrandt. 2010. A comparison of
+current PLS path modeling software: Features, ease-of-use, andperformance. In Handbook of partial least squares: Concepts,
+methods and applications ,e d .V .E .V i n z i ,W .W .C h i n ,J .H e n s -
+eler and H. Wang, 737
+–56. Berlin, Germany: Springer.Tenenhaus, M., V. E. Vinzi, Y. Chatelin, and C. Lauro. 2005.
+PLS path modeling. Computational Statistics & Data Analy-
+sis48 (1):159 –205.
+Tocqueville, A. de. 1968. Democracy in America . London, UK:
+Fontana (Original work published 1835 and 1840).
+Tsai, W. 2001. Knowledge transfer in intraorganizational net-
+works: Effects of network position and absorptive capacity
+on business-unit innovation and performance. Academy of
+Management Journal 44 (5):996 –1004.
+Turkle, S. 1996. Virtuality and its discontents searching for
+community in cyberspace. American Prospect 24:50 –57.
+Verba, S., K. L. Schlozman, and H. E. Brady. 1995. Voice and
+equality: Civic voluntarism in American politics . Cambridge,
+MA: Harvard University Press.
+Wasko, M. M., and S. Faraj. 2005. Why should I share? Exam-
+ining social capital and knowledge contribution in elec-tronic networks of practice. MIS Quarterly 29 (1):35 –57.
+Wasko, M. M., R. Teigland, and S. Faraj. 2009. The provision
+of online public goods: Examining social structure in anelectronic network of practice. Decision Support Systems 47
+(3):254 –65.
+Wellman, B., A. Q. Haase, J. Witte, and K. Hampton. 2001.
+Does the Internet increase, decrease, or supplement socialcapital? Social networks, participation, and community
+commitment. American Behavioralist Scientist 45 (3):436 –
+55.
+Westphal, J. D., S. Boivie, and D. H. M. Chng. 2006. The strate-
+gic impetus for social network ties: reconstituting broken
+CEO friendship ties. Strategic Management Journal 27
+(5):425 –45.
+Wetzels, M., G. Odekerken-Schr €oder, and C. van Oppen. 2009.
+Using PLS path modeling for assessing hierarchical con-struct models : Guidelines and empirical illustration. MIS
+Quarterly 33 (1):177 –95.
+Wollebæk, D., and P. Selle. 2002. Does participation in volun-
+tary associations contribute to social capital? The impact ofintensity, scope, and type. Nonpro ﬁt and Voluntary Sector
+Quarterly 31 (1):32 –61.
+Yuan, Y., J. Fulk, M. Shumate, P. R. Monge, J. A. Bryant, and
+M. Matsaganis. 2005. Individual participation in organiza-
+tional information commons. Human Communication
+Research 31 (2):212 –40.THE INFORMATION SOCIETY 255

@@ -1,0 +1,1129 @@
+Exploring the impacts of leader 
+anger expressions on employee 
+boundary-spanning behavior 
+in construction projects
+Fei Kang and Yifei Shi
+School of Urban Economics and Management,
+Beijing University of Civil Engineering and Architecture, Beijing, China
+Jiyu Li
+School of Economics and Management, East China Normal University,
+Shanghai, China, and
+Han Zhang
+Institutes of Science and Development, Chinese Academy of Sciences, Beijing, China
+Abstract
+Purpose – Despite the increasing importance of boundary-spanning behaviors in construction projects, 
+the research on how leader anger expressions impact employees’ boundary-spanning behaviors remains 
+unclear. This study aims to investigate the impact of leader anger expressions on employees’ boundary-
+spanning behaviors in construction projects while exploring the mediating effect of work hope and the 
+moderating effect of power distance orientation through the lens of social information processing theory.
+Design/methodology/approach – The empirical data were collected from a questionnaire survey of 235 
+employees in construction projects, and the hypotheses were tested using the PROCESS program developed 
+by Hayes.
+Findings – This study demonstrated that leader anger expressions negatively affect employees’ work hope, 
+and work hope mediates the relationship between leader anger expressions and employees’ boundary-
+spanning behaviors. Besides, the stronger the employees’ power distance orientation, the stronger the negative 
+relationship between leader anger expressions and employees’ work hope, and the above mediating effect was 
+also stronger.
+Research limitations/implications – The use of cross-sectional data was unable to entirely infer a causal 
+relationship between leader anger expressions and employees’ boundary-spanning behaviors. Additionally, 
+the reliance on self-reported data inevitably introduced some common method bias.
+Originality/value – Applying social information processing theory, this paper enriches the discourse on 
+factors influencing employees’ boundary-spanning behaviors in construction projects. It also offers valuable 
+insights for leaders in construction projects to manage their teams effectively.
+Keywords Leader anger expressions, Work hope, Boundary-spanning behaviors, Power distance orientation
+Paper type Research paper
+Engineering, 
+Construction and 
+Architectural 
+Management
+7217
+This research was supported by grants from the National Social Science Fund of China (Grant No.
+20BGL050), the Project of Cultivation for young top-notch Talents of Beijing Municipal
+Institutions (Grant No. BPHR202203088) and BUCEA Post Graduate Innovation Project (Grant
+No. 05081024005).
+Conflict of interest: The authors declare that they have no conflict of interest.
+Ethical approval: All procedures performed in studies involving human participants were in
+accordance with the ethical standards of the institutional and/or national research committee and
+with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards.
+Informed consent: Informed consent was obtained from all individual participants included in
+the study.
+The current issue and full text archive of this journal is available on Emerald Insight at: 
+https://www.emerald.com/insight/0969-9988.htm
+Received 2 April 2024 
+Revised 1 July 2024 
+Accepted 5 August 2024
+Engineering, Construction and 
+Architectural Management 
+Vol. 32 No. 11, 2025 
+pp. 7217-7235 
+© Emerald Publishing Limited 
+0969-9988 
+DOI 10.1108/ECAM-04-2024-0407
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Introduction
+As a cornerstone of global economic development, the construction industry typically 
+operates on a project-based model (Liu et al., 2021). Construction projects are temporary 
+organizational endeavors characterized by clear time constraints, high uncertainty, and 
+diverse talent (Bakker and Janowicz-Panjaitan, 2009; de Blois et al., 2016; Liyanagamage 
+et al., 2022). With the integration of advanced technologies, compliance with stringent 
+regulations, and the adoption of sustainable practices, construction projects have become 
+increasingly complex and multifaceted (Regona et al., 2022). These demands must be met 
+within tight deadlines and budget constraints, posing significant challenges. To address 
+these challenges effectively, employees in construction projects must engage in close 
+interdisciplinary collaboration (Mell et al., 2022b). In this context, it is vital for employees of 
+construction projects to engage in boundary-spanning behaviors to dismantle knowledge 
+barriers, enhance inter-member communication, and secure external support to address 
+internal resource deficits and external challenges (Yan et al., 2023). Employees’ boundary-
+spanning behaviors predominantly involve interfacing with external entities to attain 
+organizational goals (Zheng and Ahmed, 2024). Research has indicated that employees’ 
+boundary-spanning behaviors would foster knowledge integration (Mell et al., 2022b), 
+individual performance (Liu et al., 2018), and creative behavior (Liu et al., 2022). Hence, 
+investigating the determinants influencing employees’ boundary-spanning behaviors in 
+construction projects is essential.
+Existing research has examined how individuals’ characteristics, organizational contexts, 
+and leaders’ behaviors influence employees’ boundary-spanning behaviors in construction 
+projects (Karrbom Gustavsson and Gohary, 2012; Cao et al., 2021). Regarding individual 
+characteristics, scholars have posited that individuals’ nationality (Di Marco et al., 2010), 
+personal skills (Du and Pan, 2012), and richness of interpersonal networks (Brion et al., 2012) are 
+likely to affect individuals’ boundary-spanning behaviors in construction projects. On 
+organizational factors, research has suggested that organizational fraternization 
+(Ramalingam and Mahalingam, 2011), organizational culture (Di Marco et al., 2010) and 
+organizational collaboration (Karrbom Gustavsson and Gohary, 2012) would influence 
+members’ boundary-spanning behaviors in construction projects. Given their roles as 
+performance evaluators and resource custodians, leaders are pivotal in shaping employees’ 
+boundary-spanning behaviors (Marrone et al., 2022). It is indicated that shared leadership (Cao 
+et al., 2021), vertical leadership (Bolden and Petrov, 2014), and leaders’ supportive coaching 
+behaviors (Marrone et al., 2022) may also have an impact on employees’ boundary-spanning 
+behaviors in construction projects. However, current research on the impact of leader emotional 
+expressions on employees’ boundary-spanning behaviors is limited.
+Compared to traditional organizations, project managers, as leaders, exhibit increased 
+interaction frequency and enhanced relational proximity with employees (Rafique et al., 2023). In 
+construction projects with defined time constraints, employees lack the opportunity to deeply 
+understand project managers’ traits (Liyanagamage et al., 2022). Their emotional expressions, due 
+to the immediacy, directly influence employees’ perceptions and behaviors (Silard and 
+Dasborough, 2021). The high-stress nature of construction projects makes project managers’ 
+anger expressions common (Jiang et al., 2023). Research in the realm of project management has 
+found that leader anger expressions would reduce project members’ proactive career behavior and 
+leadership effectiveness while increasing their work alienation (Kang et al., 2024; Lindebaum and 
+Fielden, 2011). Yet, the effect of leader anger expressions on employees’ boundary-spanning 
+behaviors remains unclear. Therefore, this study aims to examine the impact of leader anger 
+expressions on employees’ boundary-spanning behaviors in construction projects, while further 
+investigating the mediating mechanisms and boundary conditions of this effect.
+This study utilizes social information processing theory to propose a moderated 
+mediation model to explore the impact of leader anger expressions on employees’ boundary-
+ECAM
+32,11
+7218
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+spanning behaviors. According to social information processing theory, leader anger 
+expressions serve as pivotal social information, shaping employees’ perceptions and 
+behaviors (Wang et al., 2022). Studies indicated that work hope, emerging from interpersonal 
+dynamics, acts as an intermediate variable between leader emotional expressions and 
+employees’ behaviors (Wang et al., 2023). Leader anger expressions may convey messages of 
+incompetence and lack of value to employees, making them feel uncertain and unsupported 
+(Shao and Martin, 2020), thereby reducing their work hope and boundary-spanning 
+behaviors. Therefore, work hope is posited to mediate the influence of leader anger 
+expressions on employees’ boundary-spanning behaviors. Social information processing 
+theory proposes that individual traits can affect their interpretation of social information 
+(Lewicki, 1984). Power distance orientation signifies a key personal characteristic delineating 
+an individual’s level of acceptance of hierarchical disparity (Dorfman and Howell, 1988). 
+Employees with high power distance orientation would likely perceive leader anger 
+expressions as significant disapproval (Sundar and Bhaskar, 2021), impacting their 
+boundary-spanning behaviors through work hope. Whereas those with low power distance 
+orientation show less sensitivity to such cues (Peng et al., 2021), resulting in less impact on 
+their work hope and boundary-spanning behaviors.
+This research aims to achieve three objectives. The first is to examine the impact of leader 
+anger expressions on employees’ boundary-spanning behaviors in construction projects. 
+Through this objective, this study will expand the research on the factors impacting 
+employees’ boundary-spanning behaviors in construction projects. The second objective is to 
+investigate the mediating role of work hope in the relationship between leader anger 
+expressions and boundary-spanning behaviors. By exploring this objective, this study will 
+enrich the mediating mechanisms through which leader anger expressions influence 
+employees’ boundary-spanning behaviors through the lens of social information processing 
+theory. The final objective is to explore the moderating role of power distance orientation in 
+the relationship between leader anger expressions and work hope. In fulfilling this objective, 
+this study will broaden the boundary conditions in which leader anger expressions operate. 
+Meanwhile, the results will also offer practical insights for organizations and leaders in 
+construction projects on optimizing employee management strategies. The hypothetical 
+model is presented in Figure 1.
+Literature review
+Social information processing theory
+According to social information processing theory, individuals are surrounded by numerous 
+cues in their living environment (Lewicki, 1984). Individuals interpret social cues from the
+Figure 1. 
+The 
+hypothesized model
+Engineering, 
+Construction and 
+Architectural 
+Management
+7219
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+information base to generate cognition and behaviors (Salancik and Pfeffer, 1978). 
+Employees rely more on social information, including leaders’ emotions, to frame their 
+evaluations in highly complex and unpredictable situations (Yang et al., 2019). Construction 
+work predominantly involves high-rise and open-air projects (Sundar and Bhaskar, 2021). 
+The pervasive and destructive nature of leader anger expressions in construction projects 
+necessitates research on its effects on employee cognition and behaviors (Liyanagamage 
+et al., 2022). In construction projects, leader anger expressions are more readily discernible 
+and serve as social cues for employees. By internalizing these cues, employees develop 
+perceptions that in turn guide their behaviors (Jiang et al., 2023). Hence, this research applies 
+social information processing theory to explore the influence of leader anger expressions on 
+employees’ cognition and behaviors.
+Leader anger expressions in construction projects
+Anger is the most readily discernible emotion, especially in construction projects where 
+employees have limited time to deeply comprehend a leader’s traits (Naderpajouh et al., 2020). 
+As direct responses to employees’ behaviors and workplace events, leader anger expressions 
+manifest not only through verbal articulations but also include non-verbal behaviors like 
+expressive changes and physical gestures (Forgays et al., 1997). Studies indicated that leader 
+anger expressions are contingent upon the leader’s personality traits and situational 
+assessments (Shao and Guo, 2021). Stringent timelines, complex collaboration requirements, 
+and pervasive safety imperatives of construction projects may precipitate heightened leader 
+anger expressions (Irfan et al., 2023).
+Leader anger expressions constitute a critical research domain. Existing studies on leader 
+anger expressions primarily focus on the realm of general management, while studies in 
+construction projects only recently probed the mechanisms of their impacts on employees’ 
+cognition and behaviors. In the realm of general management, research has investigated the 
+influence of leader anger expressions on employees’ emotions (anger and anxiety, Eberly and 
+Fong, 2013), cognition (perceived leader effectiveness, Yun et al., 2020; perceived leader 
+integrity, Shao and Martin, 2020), and behaviors (organizational citizenship behaviors, 
+Koning and Van Kleef, 2015; innovative behaviors, Lee and Chang, 2014; voice behaviors, 
+Song et al., 2019). In the realm of construction projects, limited research has explored how 
+leader anger expressions influence employees, and the discourse on leader anger expressions 
+within project management remains underexplored. For example, Lindebaum and Fielden 
+(2011) investigated the influence of leader anger expressions on employees’ perceived 
+leadership effectiveness in construction projects. Besides, Kang et al. (2024) explored the 
+influence of leader anger expressions on newcomers’ proactive career behavior and work 
+alienation in construction projects. Considering the above, this study will further explore 
+their impact on employees’ boundary-spanning behaviors and the mechanisms of action.
+Boundary-spanning behaviors in construction projects
+Boundary-spanning behaviors denote employees’ proactive efforts in transcending the 
+demarcations of industry, organization, and knowledge, interfacing with the external 
+environment to acquire resources and address challenges (Marrone et al., 2007). Research 
+revealed that employees’ boundary-spanning behaviors are pivotal within construction 
+projects for two reasons. Firstly, boundary-spanning behaviors will enhance inter-
+disciplinary communication within construction projects characterized by diverse 
+personnel (Wang et al., 2022). Secondly, boundary-spanning behaviors will motivate 
+project members to secure external support to navigate internal resource scarcity and 
+external challenges (Cao et al., 2021). Research has indicated that boundary-spanning 
+behaviors in construction projects significantly enhance inter-project communication
+ECAM
+32,11
+7220
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+(Stjerne et al., 2019), team performance (Bartel-Radic and Munch, 2023), and trust building 
+(Delozier and Burbach, 2021).
+Investigating the determinants influencing boundary-spanning behaviors holds 
+substantial theoretical and practical significance. Existing research in construction 
+projects delves into the influence of project managers’ higher education leadership (Prysor 
+and Henley, 2018) and shared leadership (Cao et al., 2021) on members’ boundary-spanning 
+behaviors. However, research on how leader emotional expressions, particularly anger 
+expressions affect boundary-spanning remains scant. Building upon the above, this research 
+scrutinizes how leader anger expressions influence employees’ boundary-spanning 
+behaviors through the lens of social information processing theory, with work hope 
+serving as a mediator and power distance orientation serving as a moderator.
+Research hypothesis
+Leader anger expressions and employees’ work hope
+Work hope is the belief that individuals can find suitable ways to achieve their work goals, 
+which determines their attitudes and behaviors (Snyder et al., 1991). Given the high-pressure 
+work environments in construction projects, cultivating work hope among employees helps 
+them navigate stress effectively and fosters positive behaviors (Sundar and Bhaskar, 2021). 
+Research has demonstrated that work hope is closely linked to interpersonal interactions 
+(Stephanou and Athanasiadou, 2020). Due to intimate leader-employee contact, studies on the 
+impact of leader attitudes and behaviors on employees’ work hope are constantly expanding. 
+Studies have verified how abusive, despotic, and destructive leadership behaviors affect 
+employees’ work hope (Avey et al., 2022; Calheiros, 2018; Ahmad et al., 2023).
+Social information processing theory posits that leaders’ emotions and behaviors are 
+crucial information sources that employees process to develop their cognitions and behaviors 
+(Salancik and Pfeffer, 1978). Leader anger expressions serve as pivotal social cues for 
+employees, informing their interpretation of leaders’ feedback and shaping subsequent 
+perceptions (Shao and Guo, 2021). This research indicates that leader anger expressions 
+impact work hope in two ways. Firstly, the social messages conveyed by leader anger 
+expressions prompt employees to perceive a deficiency in achieving work goals 
+(Liyanagamage et al., 2022), thereby reducing their work hope. Leader anger expressions 
+in construction projects underscore the gravity and immediacy of issues, as minor errors 
+during operations can precipitate significant negative repercussions (Peralta et al., 2020). 
+Once employees receive and internalize this social message, they may perceive that they are 
+failing to attain their work goals (Stephanou and Athanasiadou, 2020), which may be 
+detrimental to their work hope. Secondly, leader anger expressions also lead employees to 
+perceive diminished worth and attenuate their work hope. Specifically, leader anger 
+expressions convey messages to employees that they are perceived as lacking value to the 
+organization (Avey et al., 2022). Upon assimilating this message, employees will feel 
+undervalued and unconfident (Emmerling et al., 2023), thereby reducing work hope. In 
+summary, the following hypothesis is proposed.
+H1. Leader anger expressions negatively affect employees’ work hope.
+The mediating role of work hope
+Boundary-spanning behaviors refer to activities undertaken by individuals beyond their 
+formal roles or responsibilities (Marrone et al., 2007). This research indicates that low work 
+hope reduces employees’ boundary-spanning behaviors. Firstly, employees with low work 
+hope will curtail boundary-spanning behaviors by reducing the willingness to engage in 
+searching, socializing, and task coordination. Individuals with low work hope often
+Engineering, 
+Construction and 
+Architectural 
+Management
+7221
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+experience confusion and uncertainty regarding their career prospects, exhibiting 
+introverted dispositions (Stjerne et al., 2019). As a result, they may lack the courage to 
+explore unfamiliar territory (Delozier and Burbach, 2021), which leads to few boundary-
+spanning behaviors. Secondly, employees with low work hope may lack the conviction to 
+perform competently and navigate unexpected events, thereby reducing boundary-spanning 
+behaviors. They tend to feel worthless in the organization, resulting in a reduction of 
+behaviors to demonstrate their team values (Stephanou and Athanasiadou, 2020). Boundary-
+spanning behaviors require employees to take proactive steps to validate their self-worth. 
+Thus, based on self-consistency motivation (Bartel-Radic and Munch, 2023), low work hope 
+among employees would lead to a reduction in boundary-spanning behaviors. Combining 
+these two arguments, this study concludes that individuals with low work hope may reduce 
+their boundary-spanning behaviors.
+According to social information processing theory, leader anger expressions transmit 
+information to employees. After interpreting the information, employees perceive 
+themselves as lacking the capability to accomplish the work goal, which decreases their 
+work hope. Low work hope reduces boundary-spanning behaviors. In summary, the 
+following hypothesis is proposed.
+H2. Work hope mediates the relationship between leader anger expressions and 
+employees’ boundary-spanning behaviors.
+The moderating effect of power distance orientation
+Power distance orientation is a personality trait that reflects individuals’ beliefs regarding 
+the appropriateness of questioning authority (Dorfman and Howell, 1988). Individuals with 
+varying power distance orientations perceive leaders’ behaviors differently, resulting in 
+distinct responses (Zhang et al., 2023). Specifically, employees with high power distance 
+orientation are distinguished by their adherence to hierarchical distinctions and readiness to 
+align with leadership directives (Dorfman and Howell, 1988). While employees with low 
+power distance prioritize equitable power distribution and advocate for parity between 
+leaders and employees (Vitolla et al., 2019).
+This study proposes that employees’ power distance orientation would strengthen the 
+negative effect of leader anger expressions on employees’ work hope. According to social 
+information processing theory, power distance orientation, a critical personality trait, 
+would lead to varied interpretations of leader anger expressions among employees, 
+culminating in distinct perceptions and behaviors (Shao and Guo, 2021). Employees with 
+high power distance orientation are highly attuned to hierarchical dynamics and exhibit 
+heightened sensitivity to negative messages from leaders, such as anger expressions 
+(Peng et al., 2021). Such employees might construe leader anger expressions as heightened 
+disapproval or discontent (Sundar and Bhaskar, 2021). This may exacerbate employees’ 
+feelings of skepticism towards their competency in meeting job expectations (Stephanou 
+and Athanasiadou, 2020), consequently diminishing their work hope. Compared to high 
+power distance orientation, employees with low power distance orientation exhibit less 
+sensitivity to authority (Peng et al., 2021). They have less concern for the social cues of 
+leader anger expressions, indicating that leader anger expressions exert little negative 
+influence on their work hope. In summary, the following hypothesis is proposed.
+H3. Employees’ power distance orientation positively moderates the relationship 
+between leader anger expressions and employees’ work hope. The higher the 
+employees’ power distance orientation, the stronger the negative relationship 
+between leader anger expressions and employees’ work hope.
+ECAM
+32,11
+7222
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Based on the primary justification, we suppose that work hope mediates the relationship 
+between leader anger expressions and employees’ boundary-spanning behaviors. 
+Furthermore, employees’ power distance orientation positively moderates the relationship 
+between leader anger expressions and work hope. When employees’ power distance 
+orientation is high, leader anger expressions show stronger negative effects on work hope. 
+Hence, it is plausible to speculate that the research model proposed in this paper could 
+demonstrate a moderated mediating effect. Accordingly, we propose.
+H4. Employees’ power distance orientation positively moderates the indirect effect of 
+leader anger expressions on employees’ boundary-spanning behaviors through 
+work hope. The higher the employees’ power distance orientation, the stronger the 
+indirect effect.
+Methods
+A quantitative approach with the questionnaire survey was adopted in this study. The 
+questionnaire’s items were sourced from extensively validated academic publications. Then, 
+we used convenience sampling to distribute questionnaires via the WeChat platform. After 
+data collection, we utilized Mplus 7.0 to conduct confirmatory factor analysis for examining 
+discriminant validity and SPSS 26.0 for descriptive analysis and regression analysis.
+Measurement
+The scales for this study were chosen based on the existing literature. Participants rated all 
+items for leader anger expressions, work hope, boundary-spanning behaviors, and power 
+distance orientation using a five-point Likert scale, with scores ranging from 1 (strongly 
+disagree) to 5 (strongly agree).
+Leader anger expressions. We applied a 5-item scale developed by Forgays et al. 
+(1997) to measure leader anger expressions. One sample item is “At work, the project 
+manager shows anger toward us”. The Cronbach’s α value was 0.91.
+Work Hope. An 8-item scale developed by Snyder et al. (1991) was utilized to gauge 
+work hope. One sample item is “I am capable of devising numerous strategies to resolve a 
+difficult situation in the workplace”. The Cronbach’s α value was 0.91.
+Boundary-spanning behaviors. Boundary-spanning behaviors were assessed using 
+a six-item scale developed by Marrone et al. (2007). One sample item is “I will endeavor to 
+convince external stakeholders, such as faculty and clients, to support project decisions”. 
+The Cronbach’s α value was 0.86.
+Power distance orientation. A six-item scale designed by Dorfman and Howell (1988) 
+was used to assess power distance orientation. One sample item is “When making decisions, 
+project managers do not need to seek my opinion”. The Cronbach’s α value was 0.73.
+Control variables. Participants’ age, gender, education, organizational tenure, tenure 
+with the leader, and project type were included as control variables. These variables would 
+affect participants’ experiences, psychological perceptions, and coping behaviors (Wang 
+et al., 2018; Mell et al., 2022a; Lee et al., 2020), thereby influencing the assessment of 
+employees’ boundary-spanning behaviors and perceptions of leader anger expressions. 
+Therefore, we incorporated these variables as controls.
+Sampling and data collection
+This study employed convenience sampling, a method that allows researchers to gather 
+data quickly and efficiently. The sample involved employees working on construction 
+projects in China, selected from the author’s extensive alumni network in the 
+construction industry. These participants were chosen due to their accessibility and
+Engineering, 
+Construction and 
+Architectural 
+Management
+7223
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+high response rates (Leider et al., 2024). The electronic link http://www.wjx.cn was used 
+to create the electronic questionnaire, which was then distributed to participants via 
+WeChat, a widely used communication app in China (Yang and Wang, 2021). The 
+questionnaire assured respondents that their private information would not be released 
+to third parties. And the data would be utilized only for research and aggregated for 
+reporting purposes.
+To ensure valid cases, two attention check items were included. The first item required 
+respondents to select “agree”, and the second item required them to select “disagree”. The 
+response options included 1 (strongly disagree), 2 (disagree), 3 (neutral), 4 (agree), and 5 
+(strongly agree). Through this approach, 20 were excluded because they did not select the 
+“agree” or the “disagree” option of the specific items. Meanwhile, based on the principle of 
+valid sample selection, 55 were excluded due to participants providing the same or regular 
+answers. This study ultimately collected 235 valid cases. Based on the classification of 
+construction projects by Liu et al. (2023), Wan et al. (2020), Yao et al. (2023) and Wang and 
+Chen (2023), the project types in this study included civil engineering (47.2%), railway 
+engineering (5.1%), municipal engineering (9.8%), mining engineering (6.4%), highway 
+engineering (6.4%), civil aviation airport engineering (6.4%), telecommunications and 
+radio and television engineering (7.7%), mechanical and electrical engineering (8.9%) and 
+others (2.1%). Among the 235 valid respondents, 57.4% were female and were on average 
+25.22 years old (SD 5 3.47). Their average tenure was 2.20 years (SD 5 2.82) and the 
+average tenure with the leader was 1.55 years (SD 5 1.70). Also, 85.1% had received a 
+bachelor’s degree and 14.9% had received a postgraduate degree or above.
+Analytical approach
+After collecting the data, we performed the analysis with Mplus 7.0 and SPSS 26.0. Firstly, 
+we utilized Mplus 7.0 to conduct a confirmatory factor analysis (CFA) to evaluate the 
+discriminant validity of the measurements. Secondly, SPSS 26.0 was used to carry out 
+descriptive analysis. Thirdly, we examined our hypotheses utilizing the PROCESS 
+procedure of SPSS26.0 outlined by Hayes (2013). Hypothesis 1 and 2 were verified using 
+PROCESS Model 4, and hypothesis 3 was verified using PROCESS Model 1. To mitigate 
+potential multicollinearity concerns, we mean-centered leader anger expressions and 
+employees’ work hope before testing hypothesis 3 (Aiken and West, 1991). Due to the non-
+normal distribution of indirect effects, scholars have recommended using bias-corrected (BC) 
+bootstrap resampling to estimate the confidence intervals for the test of mediating effect 
+(Hayes, 2009). Hypothesis 4 was verified using PROCESS Model 7. Quantification of 
+moderated mediation effects involves a mathematical algorithm known as the “index of 
+moderated mediation” (Hayes, 2015). Figure 2 illustrates the specific flow of research 
+methods.
+Results
+We utilized Mplus 7.0 to perform confirmatory factor analyses (CFA) and assess the 
+discriminant validity of the measurements. As depicted in Table 1, the hypothesized 5-factor 
+model demonstrated a superior fit index compared to the alternative models, substantiating 
+the discriminant validity of the measurements (χ 2 5 403.21, df 5 269, RMSEA 5 0.05, 
+CFI 5 0.95, TLI 5 0.94).
+Table 2 shows a descriptive analysis of all variables and their bivariate correlations. The 
+findings indicated statistically significant bivariate correlations between leader anger 
+expressions and work hope (r 5 0.19, p < 0.01), and work hope and boundary-spanning 
+behaviors (r 5 0.49, p < 0.01), providing initial support for hypotheses 1 and 2.
+ECAM
+32,11
+7224
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Hypotheses tests
+The findings of the hypothesis tests are displayed in Table 3. Upon controlling for 
+employees’ demographic variables and project type, it was observed that leader anger 
+expressions exhibited a negative correlation with work hope (b 5 0.21, p < 0.01; Model 1, 
+Table 3). Therefore, hypothesis 1 was supported.
+In hypothesis 2, we validated that employees’ work hope transmits the influence of leader 
+anger expressions to employees’ boundary-spanning behaviors. We assessed the mediating 
+effect was examined using 5,000 bootstrapped samples and bias-corrected confidence 
+intervals (CI). The statistics of Table 3 revealed that the indirect effects of leaders (via work
+Model
+χ 2
+df
+RMSEA
+CFI
+TLI
+4-factor model
+403.21
+269
+0.05
+0.95
+0.94
+3-factor model
+743.35
+272
+0.09
+0.83
+0.81
+1-factor model
+1671.57
+275
+0.15
+0.48
+0.44
+Note(s): N 5 235.3-Factor model: Work hope and boundary-spanning behavior were collapsed onto one
+factor
+Source(s): Generated by the authors based on primary research data
+Variable
+Mean
+SD
+1
+2
+3 
+4
+5
+6 
+7
+1. Gender a
+0.57
+0.50
+2. Age
+25.22
+3.47
+0.08
+3. Tenure
+2.20
+2.82
+0.09
+0.87 **
+4. Tenure with leader
+1.55
+1.70
+0.09
+0.81 **
+0.90 **
+5. Leader anger expressions
+1.99
+0.74
+0.12 
+0.07
+0.01
+0.10
+6. Work hope
+3.61
+0.70
+0.13 
+0.20 **
+0.18 **
+0.13 *
+0.19 **
+7. Power distance orientation
+2.72
+0.64
+0.17 **
+0.01 
+0.03
+0.03
+0.03 
+0.01
+8. Boundary-spanning behavior
+3.65
+0.62
+0.04 
+0.09
+0.08
+0.08
+0.36 ** 0.49 **
+0.09
+Source(s): Generated by the authors based on primary research data
+Figure 2. 
+Procedure of research 
+method
+Table 1. 
+Results of 
+confirmatory factor 
+analyses
+Table 2. 
+Means, standard 
+deviations, and 
+correlations of the 
+variables
+Engineering, 
+Construction and 
+Architectural 
+Management
+7225
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+hope) on boundary-spanning behaviors were statistically significant. Therefore, hypothesis 
+2 can be supported (effect 5 0.08, boot SE 5 0.03, 95% CI 5 [0.14, 0.03]).
+In hypothesis 3, employees’ power distance orientation moderated the relationship 
+between leader anger expressions and work hope, meaning that employees with high power 
+distance orientation will have lower work hope than employees with low power distance 
+orientation. The effect of leader anger expressions on work hope was significantly influenced 
+by the interaction term with power distance orientation (b 5 0.40, p < 0.01; Model 2, 
+Table 3). We utilized the slope test proposed by Aiken and West (1991) to illustrate the 
+interaction pattern more clearly, as shown in Figure 3. Specifically, the moderating effect was 
+not significant when the power distance orientation was one standard deviation below the 
+mean (b 5 0.64, p > 0.05), while it was significant when the power distance orientation was 
+one standard deviation above the mean (b 5 0.64, p < 0.01). Above indicated that the higher 
+the employees’ power distance orientation, the stronger the negative relationship between 
+leader anger expressions on employees’ work hope. Therefore, hypothesis 3 was supported.
+In hypothesis 4, we proposed that leader anger expressions indirectly affect employees’ 
+boundary-spanning behaviors, via work hope, which was stronger when employees’ power 
+distance orientation was high. The last row of Table 3 illustrated that moderated mediation 
+was statistically significant (effect 5 0.15, boot SE 5 0.05, 95% CI 5 [0.27, 0.06]). 
+Therefore, hypothesis 4 received support.
+Discussion
+This study utilized social information processing theory to explore how leader anger 
+expressions in construction projects reduce employees’ boundary-spanning behaviors. As 
+construction projects encounter increasingly complex environments (Regona et al., 2022), 
+employees’ boundary-spanning behaviors have become essential, significantly enhancing
+Work hope
+Boundary-spanning
+behavior
+Variable
+Model 1
+Model 2
+Model 3
+Model 4
+Gender
+0.24 * 
+0.29 ** 
+0.12
+0.03 
+Age
+0.05 
+0.07 * 
+0.03
+0.01 
+Tenure
+0.01
+0.01
+0.05
+0.05 
+Tenure with leader
+0.02 
+0.06 
+0.07
+0.08
+Leader anger expressions (LAE) 
+0.21 ** 
+0.19 ** 
+0.33 ** 
+0.25 ** 
+Work hope (WH)
+0.38 ** 
+Power distance orientation (PDO) 
+0.06
+LAE 3 PDO
+0.40 ** 
+F
+5.66 
+5.62 
+8.44 
+18.33 
+R 2
+0.33 **
+0.38 **
+0.39 **
+0.57 **
+Effect
+Boot SE
+LL 95% CI
+UL 95% CI
+Bootstrap results for mediated effect
+0.08 
+0.03 
+0.14 
+0.03
+Index of moderated mediation
+0.15 
+0.05
+0.27 
+0.06
+Note(s): N 5 235. Unstandardized regression coefficients are reported. Bootstrap sample size 5 5,000. 
+LL 5 lower limit; CI 5 confidence interval; UL 5 upper limit
+*p < 0.05; **p < 0.01
+Source(s): Generated by the authors based on primary research data
+Table 3. 
+Results of 
+hypothesis tests
+ECAM
+32,11
+7226
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+knowledge integration (Mell et al., 2022b), individual performance (Liu et al., 2018), and 
+creative behavior (Liu et al., 2022). Existing research has examined the impact of individual 
+characteristics (Brion et al., 2012), organizational contexts (Di Marco et al., 2010), and leaders’ 
+behaviors (Cao et al., 2021) on employees’ boundary-spanning behaviors. Leaders, as 
+decision-makers and performance evaluators, are pivotal influencers of these behaviors 
+(Wang et al., 2024). This study enriched previous research on leaders’ influence on 
+employees’ boundary-spanning behaviors and further explored the effects of leader anger 
+expressions on them.
+According to social information processing theory, we confirmed that leader anger 
+expressions negatively affect employees’ work hope. Work hope mediated the relationship 
+between leader anger expressions and employees’ boundary-spanning behaviors. The 
+results aligned with the previous research indicating that leaders’ behaviors would 
+significantly impact employees’ boundary-spanning behaviors. For instance, shared 
+leadership and vertical leadership in megaprojects (Cao et al., 2021; Bolden and Petrov, 
+2014) and leaders’ supportive coaching behaviors (Marrone et al., 2022) in construction 
+projects have been shown to facilitate employees’ boundary-spanning behaviors. Similarly, 
+this study demonstrated that leader anger expressions would also affect employees’ 
+boundary-spanning behaviors, but with a negative effect. The complexity of construction 
+projects makes leader anger expressions quite common (Liyanagamage et al., 2022), while the 
+intuitive nature of such expressions in construction projects means they are easily perceived 
+as social information (Kang et al., 2024), affecting employees’ work hope and boundary-
+spanning behaviors. According to social information processing theory, employees faced 
+with the message of leader anger expressions generate perceptions of low work hope, and 
+they experience uncertainty about the future, which reduces their boundary-spanning 
+behaviors.
+In addition, we have demonstrated that employees’ power distance orientation positively 
+moderates the relationship between leader anger expressions and employees’ work hope. 
+Meanwhile, it also moderates the indirect effect of leader anger expressions on employees’ 
+boundary-spanning behaviors through work hope. The findings also echoed previous research. 
+Suggesting that employees’ power distance orientation would moderate the impact of leader 
+negative emotional expressions and abusive leadership on employees (Chi and Ho, 2014; 
+Peltokorpi and Ramaswami, 2021). Power distance orientation, encompassing individuals’ 
+views on hierarchical disparities, significantly shapes employees’ discernment of social cues
+Low Anger expressions
+High Anger expressions
+Hope
+Source(s): Created by the authors using original results 
+Low PDO
+High PDO
+Figure 3. 
+The moderating role of 
+power distance 
+orientation on the 
+relationship between 
+leader anger 
+expressions and 
+work hope
+Engineering, 
+Construction and 
+Architectural 
+Management
+7227
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+pertaining to leaders’ conduct (Dorfman and Howell, 1988). This study suggested that 
+employees with high power distance orientation are more prone to interpret leader anger 
+expressions as messages that devalue their self-worth (Shao and Guo, 2021), which reduces 
+work hope. Consequently, the higher the employees’ power distance orientation, the stronger the 
+negative effect of leader anger expressions on employees’ work hope.
+Theoretical implications
+Firstly, this study expanded the findings regarding determinants of employees’ boundary-
+spanning behaviors in construction projects. Previous studies have uncovered the influence 
+of individual characteristics (Du and Pan, 2012; Brion et al., 2012) and organizational contexts 
+(Ramalingam and Mahalingam, 2011; Karrbom Gustavsson and Gohary, 2012) on project 
+members’ boundary-spanning behaviors. There are also studies that have explored the 
+impact of leaders’ behaviors (Cao et al., 2021; Bolden and Petrov, 2014; Marrone et al., 2022) on 
+individuals’ boundary-spanning behaviors in construction projects. This study extended the 
+aforementioned findings by highlighting that leader anger expressions would significantly 
+influence employees’ boundary-spanning behaviors. Due to the pressing timelines and 
+recurrent safety issues in temporary projects, leader anger expressions are commonplace and 
+often yield negative behaviors for employees (Peralta et al., 2020). Based on the above, we 
+further demonstrated that leader anger expressions would influence employees’ boundary-
+spanning behaviors, providing valuable theoretical insights for project management.
+Secondly, this study delved into how leader anger expressions impact boundary-
+spanning behaviors through work hope from social information processing theory. Some 
+scholars have used emotions as social information model (Shao, 2019a), self-determination 
+theory (Schwarzm€ 
+uller et al., 2018), conservation of resources theory (Wang et al., 2021), and 
+leader-member exchange theory (Fisk and Friesen, 2012) to explain the effects of leader anger 
+expressions on employees’ behaviors. They respectively elucidated the mediating roles of 
+members’ anger intensity, follower-inferred negative intention, emotional exhaustion, and 
+leader-member exchange quality. According to social information processing theory, we 
+indicated that leader anger expressions signal to employees a deficiency in achieving 
+objectives (Bartel-Radic and Munch, 2023), diminishing their work hope and in turn reducing 
+their boundary-spanning behaviors.
+Thirdly, we delineated the boundary conditions on the effect of leader anger expressions. 
+Scholars have indicated that follower interdependence (Eberly and Fong, 2013), leader 
+gender (Keck, 2019), vertical collectivism (Shao and Martin, 2020), and trust in the leader 
+(Shao, 2019b) would moderate the impact of leader negative emotional expressions on 
+employee cognition and behaviors. Construction projects facilitate close communication 
+between leaders and employees, implying that employees’ power distance orientation can 
+significantly influence their perception of leader anger expressions (Sydow and Windeler, 
+2020; Yan et al., 2020). This study indicated that employees with high power distance 
+orientation are more susceptible to leader anger expressions, thereby amplifying the 
+negative impact of leader anger expressions on employees’ work hope.
+Practical implications
+The study revealed the negative impact of leader anger expressions on employees within 
+construction projects. Organizations and leaders may implement the following measures to 
+mitigate these adverse outcomes.
+Firstly, organizations are advised to ensure leaders recognize the adverse impacts of their 
+anger expressions and leaders should implement measures to mitigate the damage. In the 
+construction industry, where projects are temporary and high-stress (Bakker and Janowicz-
+Panjaitan, 2009), leaders can establish “cooling-off periods” (Dorison et al., 2020), meaning
+ECAM
+32,11
+7228
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+they should step back when problems arise and calmly assess whether the situation warrants 
+anger. After emotional stabilization, leaders should address issues with a solution-focused, 
+assertive, and yet non-confrontational approach. Additionally, organizations should conduct 
+anger management workshops tailored for high-pressure environments which include role-
+playing scenarios common in construction projects to help leaders practice coping strategies 
+(Sadagheyani et al., 2021).
+Secondly, leaders should enhance employees’ meaningfulness at work in order to elevate 
+their work hope, particularly in project contexts involving leader anger expressions. In 
+construction projects, implementing team-based learning and exchange programs is crucial 
+for leaders. These not only help employees acquire a broader skill set, reducing monotony but 
+also maintain high engagement levels (Mlekus and Maier, 2021), thereby enhancing their 
+work hope. Additionally, leaders can introduce new devices such as real-time progress 
+dashboards to provide live updates on project milestones, individual contributions, and 
+overall project status. Such transparency allows employees to see the immediate impact of 
+their work (Gara et al., 2021), fostering a sense of achievement and enhancing work hope.
+Finally, organizations are advised to screen individuals with high power distance 
+orientation during recruitment and provide training for existing employees with such 
+orientation. In the recruitment process, organizations should assess candidates’ ability to 
+cope with leaders’ negative emotional expressions, selecting those who can effectively 
+manage such situations. This can be achieved through psychological assessments and 
+scenario simulations (Adamovic et al., 2022). In training, organizations should provide 
+specialized stress management programs, teaching high power distance employees 
+techniques. These include deep breathing, temporarily stepping away from the situation, 
+and seeking peer support to help them remain rational in the face of leader anger expressions 
+(Toussaint et al., 2021), thereby mitigating negative impacts.
+Research limitation
+There are several limitations that merit consideration in this study. The first is the utilization 
+of a cross-sectional research design. As the data were gathered contemporaneously, it was 
+not possible to fully infer the causal relationship between leader anger expressions and 
+employees’ boundary-spanning behaviors. Future research should prioritize developing 
+longitudinal studies or experimental methods to examine the effects of leader anger 
+expressions on boundary-spanning behaviors. Secondly, the model’s variables were 
+evaluated based on self-reported data from employees, inevitably introducing common 
+method variance and confounding the findings. Future investigations are suggested to 
+employ a multi-source data collection strategy to reduce the common method variance.
+Thirdly, the data collection of leader anger expressions primarily relies on reports from 
+employees, which may reflect their subjective perceptions rather than an accurate 
+representation of the actual leader emotional expressions. Future research could employ a 
+more objective data collection approach, encompassing multiple subordinates’ perceptions of 
+leader anger expressions to obtain a more objective measurement.
+References
+Adamovic, M., Gahan, P., Olsen, J., Gulyas, A., Shallcross, D. and Mendoza, A. (2022), “Exploring the 
+adoption of virtual work: the role of virtual work self-efficacy and virtual work climate”, 
+International Journal of Human Resource Management, Vol. 33 No. 17, pp. 3492-3525, doi: 10.
+1080/09585192.2021.1913623.
+Ahmad, S., Ashraf, H.A., Iqbal, J., Munir, W., Iqbal, Y. and Ali, U. (2023), “Silenced by despotic 
+leadership: investigating the mediating effect of job tensions and moderating influence of pcap 
+on employee silence”, Russian Law Journal, Vol. 11 No. 1, pp. 173-193.
+Engineering, 
+Construction and 
+Architectural 
+Management
+7229
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Aiken, L.S. and West, S.G. (1991), Multiple Regression: Testing and Interpreting Interactions, Sage
+Publications, London, LON.
+Avey, J.B., Agarwal, U. and Gill, J.K. (2022), “How does abusive supervision hurt employees? The role 
+of positive psychological capital”, International Journal of Productivity and Performance
+Management, Vol. 71 No. 2, pp. 429-444, doi: 10.1108/ijppm-12-2019-0559.
+Bakker, R.M. and Janowicz-Panjaitan, M.K. (2009), “Time matters: the impact of ‘temporariness’ on 
+the functioning and performance of organizations”, in Kenis, P.N., Janowicz-Panjaitan, M.K. 
+and Cambre, B. (Eds), Temporary Organizations: Prevalence, Logic and Effectiveness, Edward
+Elgar Publishing, Cheltenham, pp. 121-141.
+Bartel-Radic, A. and Munch, F. (2023), “Cross-cultural boundary spanning activities in a global team: 
+insights from an ethnographic case study”, International Journal of Cross Cultural 
+Management, Vol. 23 No. 2, pp. 339-365, doi: 10.1177/14705958231185432.
+Bolden, R. and Petrov, G. (2014), “Hybrid configurations of leadership in higher education employer 
+engagement”, Journal of Higher Education Policy and Management, Vol. 36 No. 4, pp. 408-417,
+doi: 10.1080/1360080x.2014.916465.
+Brion, S., Chauvet, V., Chollet, B. and Mothe, C. (2012), “Project leaders as boundary spanners: 
+relational antecedents and performance outcomes”, International Journal of Project 
+Management, Vol. 30 No. 6, pp. 708-722, doi: 10.1016/j.ijproman.2012.01.001.
+Calheiros, A. (2018), “The effect of positive psychological capital in preventing destructive leadership 
+behaviours in a Portuguese retail chain”, American Journal of Management, Vol. 18 No. 2, pp. 43-55.
+Cao, T., Locatelli, G., Smith, N. and Zhang, L. (2021), “A shared leadership framework based on 
+boundary spanners in megaprojects”, International Journal of Managing Projects in Business,
+Vol. 14 No. 5, pp. 1065-1092, doi: 10.1108/ijmpb-03-2020-0090.
+Chi, N.W. and Ho, T.R. (2014), “Understanding when leader negative emotional expression enhances 
+follower performance: the moderating roles of follower personality traits and perceived leader 
+power”, Human Relations, Vol. 67 No. 9, pp. 1051-1072, doi: 10.1177/0018726714526626.
+de Blois, M., Lizarralde, G. and De Coninck, P. (2016), “Iterative project processes within temporary 
+multi-organizations in construction: the self-eco-Re-organizing projects”, Project Management 
+Journal, Vol. 47 No. 1, pp. 27-44, doi: 10.1002/pmj.21560.
+Delozier, J.L. and Burbach, M.E. (2021), “Boundary spanning: its role in trust development between 
+stakeholders in integrated water resource management”, Current Research in Environmental 
+Sustainability, Vol. 3 No. 1, 100027, doi: 10.1016/j.crsust.2021.100027.
+Di Marco, M.K., Taylor, J.E. and Alin, P. (2010), “Emergence and role of cultural boundary spanners 
+in global engineering project networks”, Journal of Management in Engineering, Vol. 26 No. 3, 
+pp. 123-132, doi: 10.1061/(asce)me.1943-5479.0000019.
+Dorfman, P.W. and Howell, J.P. (1988), “Dimensions of national culture and effective leadership 
+patterns: hofstede revisited”, Advances in International Comparative Management, Vol. 3 No. 1,
+pp. 127-150.
+Dorison, C.A., Klusowski, J., Han, S. and Lerner, J.S. (2020), “Emotion in organizational judgment and 
+decision making”, Organizational Dynamics, Vol. 49 No. 1, 100702, doi: 10.1016/j.orgdyn.2019.02.004.
+Du, W. and Pan, S.L. (2012), “Boundary spanning by design: toward aligning boundary-spanning 
+capacity and strategy in it outsourcing”, IEEE Transactions on Engineering Management,
+Vol. 60 No. 1, pp. 59-76.
+Eberly, M.B. and Fong, C.T. (2013), “Leading via the heart and mind: the roles of leader and follower 
+emotions, attributions and interdependence”, The Leadership Quarterly, Vol. 24 No. 5, 
+pp. 696-711, doi: 10.1016/j.leaqua.2013.05.003.
+Emmerling, F., Peus, C. and Lobbestael, J. (2023), “The hot and the cold in destructive leadership: 
+modeling the role of arousal in explaining leader antecedents and follower consequences of 
+abusive supervision versus exploitative leadership”, Organizational Psychology Review, Vol. 13 
+No. 3, pp. 237-278, doi: 10.1177/20413866231153098.
+ECAM
+32,11
+7230
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Fisk, G.M. and Friesen, J.P. (2012), “Perceptions of leader emotion regulation and LMX as predictors 
+of followers’ job satisfaction and organizational citizenship behaviors”, The Leadership 
+Quarterly, Vol. 23 No. 1, pp. 1-12, doi: 10.1016/j.leaqua.2011.11.001.
+Forgays, D.G., Forgays, D.K. and Spielberger, C.D. (1997), “Factor structure of the state-trait anger 
+expression inventory”, Journal of Personality Assessment, Vol. 69 No. 3, pp. 497-507, doi: 10. 
+1207/s15327752jpa6903_5.
+Gara, J.A., Zakaria, R.B., Aminudin, E., Adzar, J.A. and Yousif, O.S. (2021), “The development of real-
+time integrated dashboard: an overview for road construction work progress Monitoring”, 
+Journal of Hunan University Natural Sciences, Vol. 48 No. 5, p. 128.
+Hayes, A.F. (2009), “Beyond baron and kenny: statistical mediation analysis in the new millennium”, 
+Communication Monographs, Vol. 76 No. 4, pp. 408-420, doi: 10.1080/03637750903310360.
+Hayes, A.F. (2013), Introduction to Mediation, Moderation, and Conditional Process Analysis:
+A Regression-Based Approach, Guilford Press, New York, NY.
+Hayes, A.F. (2015), “An index and test of linear moderated mediation”, Multivariate Behavioral 
+Research, Vol. 50 No. 1, pp. 1-22, doi: 10.1080/00273171.2014.962683.
+Irfan, M., Khalid, R.A., Kaka Khel, S.S.U.H., Maqsoom, A. and Sherani, I.K. (2023), “Impact of work– 
+life balance with the role of organizational support and job burnout on project performance”, 
+Engineering Construction and Architectural Management, Vol. 30 No. 1, pp. 154-171, doi: 10.
+1108/ecam-04-2021-0316.
+Jiang, S., Ma, G., Wang, D. and Jia, J. (2023), “How inclusive leadership influences voice behavior in 
+construction project teams: a social identity perspective”, Project Management Journal, Vol. 54 
+No. 2, pp. 116-131, doi: 10.1177/87569728221133093.
+Kang, F., Shi, Y., Li, J. and Zhang, H. (2024), “Impacts of leader anger expressions on newcomer 
+proactive career behavior and work alienation in the construction industry”, Engineering 
+Construction and Architectural Management, Vol. ahead-of-print No. ahead-of-print, doi: 10. 
+1108/ecam-05-2023-0456.
+Karrbom Gustavsson, T. and Gohary, H. (2012), “Boundary action in construction projects: new 
+collaborative project practices”, International Journal of Managing Projects in Business, Vol. 5
+No. 3, pp. 364-376, doi: 10.1108/17538371211235272.
+Keck, S. (2019), “Gender, leadership, and the display of empathic anger”, Journal of Occupational and 
+Organizational Psychology, Vol. 92 No. 4, pp. 953-977, doi: 10.1111/joop.12264.
+Koning, L.F. and Van Kleef, G.A. (2015), “How leaders’ emotional displays shape followers’ 
+organizational citizenship behavior”, The Leadership Quarterly, Vol. 26 No. 4, pp. 489-501, 
+doi: 10.1016/j.leaqua.2015.03.001.
+Lee, S. and Chang, J. (2014), “The impact of superior’s anger out on employees’ creative process 
+engagement: mediating effects of negative mood and moderating effects of personal 
+identification with the leader”, Korean Journal of Industrial and Organizational Psychology,
+Vol. 27 No. 2, pp. 339-366, doi: 10.24230/ksiop.27.2.201405.339.
+Lee, H., Park, J.G. and Lee, J. (2020), “Knowledge sharing in ISD projects: role of task interdependence 
+and social capital”, International Journal of Managing Projects in Business, Vol. 14 No. 3,
+pp. 580-599, doi: 10.1108/ijmpb-12-2019-0307.
+Leider, J.P., Rockwood, T.H., Mastrud, H. and Beebe, T.J. (2024), “Engaging public health alumni in 
+the tracking of career trends: results from a large-scale experiment on survey fielding mode”, 
+Public Health Reports, Vol. 139 No. 2, pp. 255-262, doi: 10.1177/00333549231168640.
+Lewicki, P. (1984), “Self-schema and social information processing”, Journal of Personality and Social 
+Psychology, Vol. 47 No. 6, pp. 1177-1190, doi: 10.1037//0022-3514.47.6.1177.
+Lindebaum, D. and Fielden, S. (2011), “‘It’s good to be angry’: enacting anger in construction project 
+management to achieve perceived leader effectiveness”, Human Relations, Vol. 64 No. 3, 
+pp. 437-458, doi: 10.1177/0018726710381149.
+Engineering, 
+Construction and 
+Architectural 
+Management
+7231
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Liu, S., Jiang, K., Chen, J., Pan, J. and Lin, X. (2018), “Linking employee boundary spanning behavior 
+to task performance: the influence of informal leader emergence and group power distance”, 
+International Journal of Human Resource Management, Vol. 29 No. 12, pp. 1879-1899, doi: 10.
+1080/09585192.2016.1216872.
+Liu, B., Wu, G., M€ 
+uller, R., Chen, H. and Li, L. (2021), “Exploring the effects of horizontal leaders’ 
+presence on team members’ job burnout: a moderated mediation model”, Journal of 
+Management in Engineering, Vol. 37 No. 6, 04021073, doi: 10.1061/(asce)me.1943-5479.0000975.
+Liu, X., Yu, Y., Zhao, X. and Zhang, N. (2022), “Top management team boundary-spanning 
+leadership: measurement development and its impact on innovative behavior”, Frontiers in 
+Psychology, Vol. 13, 988771, doi: 10.3389/fpsyg.2022.988771.
+Liu, T., Mao, Y. and Lu, S. (2023), “Fostering participants’ collaborative innovation performance in 
+megaprojects: the effects of perceived partners’ non-mediated power”, Journal of Construction 
+Engineering and Management, Vol. 149 No. 1, 04022141, doi: 10.1061/(asce)co.1943-7862.0002417.
+Liyanagamage, N., Fernando, M. and Gibbons, B. (2022), “The emotional machiavellian: interactions 
+between leaders and employees”, Journal of Business Ethics, Vol. 186 No. 1, pp. 1-17, doi: 10. 
+1007/s10551-022-05233-8.
+Marrone, J.A., Tesluk, P.E. and Carson, J.B. (2007), “A multilevel investigation of antecedents and 
+consequences of team member boundary-spanning behavior”, Academy of Management 
+Journal, Vol. 50 No. 6, pp. 1423-1439, doi: 10.5465/amj.2007.28225967.
+Marrone, J.A., Quigley, N.R., Prussia, G.E. and Dienhart, J. (2022), “Can supportive coaching behaviors 
+facilitate boundary spanning and raise job satisfaction? An indirect-effects model”, Journal of 
+Management, Vol. 48 No. 5, pp. 1131-1159, doi: 10.1177/01492063211003951.
+Mell, J.N., Quintane, E., Hirst, G. and Carnegie, A. (2022a), “Protecting their turf: when and why 
+supervisors undermine employee boundary spanning”, Journal of Applied Psychology, Vol. 107 
+No. 6, pp. 1009-1019, doi: 10.1037/apl0000960.
+Mell, J.N., van Knippenberg, D., van Ginkel, W.P. and Heugens, P.P. (2022b), “From boundary spanning 
+to intergroup knowledge integration: the role of boundary Spanners’ metaknowledge and 
+proactivity”, Journal of Management Studies, Vol. 59 No. 7, pp. 1723-1755, doi: 10.1111/joms.12797.
+Mlekus, L. and Maier, G.W. (2021), “More hype than substance? A meta-analysis on job and task 
+rotation”, Frontiers in Psychology, Vol. 12, 633530, doi: 10.3389/fpsyg.2021.633530.
+Naderpajouh, N., Matinheikki, J., Keeys, L.A., Aldrich, D.P. and Linkov, I. (2020), “Resilience and 
+projects: an interdisciplinary crossroad”, Project Leadership and Society, Vol. 1 No. 1, 100001, 
+doi: 10.1016/j.plas.2020.100001.
+Peltokorpi, V. and Ramaswami, A. (2021), “Abusive supervision and subordinates’ physical and 
+mental health: the effects of job satisfaction and power distance orientation”, International 
+Journal of Human Resource Management, Vol. 32 No. 4, pp. 893-919, doi: 10.1080/09585192. 
+2018.1511617.
+Peng, J., Chen, X., Zou, Y. and Nie, Q. (2021), “Environmentally specific transformational leadership 
+and team pro-environmental behaviors: the roles of pro-environmental goal clarity, pro-
+environmental harmonious passion, and power distance”, Human Relations, Vol. 74 No. 11, 
+pp. 1864-1888, doi: 10.1177/0018726720942306.
+Peralta, C.F., Saldanha, M.F. and Lopes, P.N. (2020), “Emotional expression at work: the effects of 
+strategically expressing anger and positive emotions in the context of ongoing relationships”, 
+Human Relations, Vol. 73 No. 11, pp. 1471-1503, doi: 10.1177/0018726719871995.
+Prysor, D. and Henley, A. (2018), “Boundary spanning in higher education leadership: identifying 
+boundaries and practices in a British university”, Studies in Higher Education, Vol. 43 No. 12, 
+pp. 2210-2225, doi: 10.1080/03075079.2017.1318364.
+Rafique, M., Jaafar, M., Zafar, A. and Ahmed, S. (2023), “Time pressure, emotional exhaustion and 
+project manager abusive supervision in the construction industry: the role of psychological
+ECAM
+32,11
+7232
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+resilience”, International Journal of Organization Theory and Behavior, Vol. 26 Nos 1/2,
+pp. 132-151, doi: 10.1108/ijotb-02-2022-0034.
+Ramalingam, S. and Mahalingam, A. (2011), “Enabling conditions for the emergence and effective 
+performance of technical and cultural boundary spanners in global virtual teams”, Engineering 
+Project Organization Journal, Vol. 1 No. 2, pp. 121-141, doi: 10.1080/21573727.2011.572964.
+Regona, M., Yigitcanlar, T., Xia, B. and Li, R.Y.M. (2022), “Opportunities and adoption challenges of 
+AI in the construction industry: a PRISMA review”, Journal of open innovation: Technology, 
+Market, and Complexity, Vol. 8 No. 1, p. 45, doi: 10.3390/joitmc8010045.
+Sadagheyani, H.E., Tatari, F., Raoufian, H., Salimi, P. and Gazerani, A. (2021), “The effect of 
+multimedia-based education on students’ anger management skill”, Educacion Medica, Vol. 22 
+No. 3, pp. 149-155, doi: 10.1016/j.edumed.2020.09.020.
+Salancik, G.R. and Pfeffer, J. (1978), “A social information processing approach to job attitudes and 
+task design”, Administrative Science Quarterly, Vol. 23 No. 2, pp. 224-253, doi: 10.2307/2392563.
+Schwarzm€ 
+uller, T., Brosi, P. and Welpe, I.M. (2018), “Sparking anger and anxiety: why intense leader 
+anger displays trigger both more deviance and higher work effort in followers”, Journal of 
+Business and Psychology, Vol. 33 No. 6, pp. 761-777, doi: 10.1007/s10869-017-9523-8.
+Shao, B. (2019a), “Moral anger as a dilemma? An investigation on how leader moral anger influences 
+follower trust”, The Leadership Quarterly, Vol. 30 No. 3, pp. 365-382, doi: 10.1016/j.leaqua.2018. 
+10.002.
+Shao, B. (2019b), “Trust in the leader alleviates the negative effect of leader anger expressions on 
+leader effectiveness”, Personnel Review, Vol. 48 No. 5, pp. 1120-1134, doi: 10.1108/pr-09-
+2018-0353.
+Shao, B. and Guo, Y. (2021), “More than just an angry face: a critical review and theoretical 
+expansion of research on leader anger expression”, Human Relations, Vol. 74 No. 10, 
+pp. 1661-1687, doi: 10.1177/0018726720938123.
+Shao, B. and Martin, L. (2020), “I know your intention is good, but I still feel bad’ Cultural divergence 
+and convergence in the effect of leader’s angry feedback”, Personnel Review, Vol. 49 No. 8, 
+pp. 1591-1606, doi: 10.1108/pr-09-2019-0502.
+Silard, A. and Dasborough, M.T. (2021), “Beyond emotion valence and arousal: a new focus on the 
+target of leader emotion expression within leader–member dyads”, Journal of Organizational 
+Behavior, Vol. 42 No. 9, pp. 1186-1201, doi: 10.1002/job.2513.
+Snyder, C.R., Harris, C., Anderson, J.R., Holleran, S.A., Irving, L.M., Sigmon, S.T., Yoshinobu, L., Gibb, 
+J., Langelle, C. and Harney, P. (1991), “The will and the ways: development and validation of an 
+individual-differences measure of hope”, Journal of Personality and Social Psychology, Vol. 60 
+No. 4, pp. 570-585, doi: 10.1037//0022-3514.60.4.570.
+Song, W.C., Zhang, X.Q. and Giura, S. (2019), “Effects of leaders’ positive/negative emotional 
+expression on subordinates’ voice behavior: mediation effect of subordinates’ liking to 
+superiors”, Revista de Cercetare s¸i Intervent¸ie Sociala, Vol. 64 No. 1, pp. 167-180, doi: 10.33788/ 
+rcis.64.14.
+Stephanou, G. and Athanasiadou, K. (2020), “Interpersonal relationships: cognitive appraisals, 
+emotions and hope”, European Journal of Psychology and Educational Research, Vol. 3 No. 1,
+pp. 13-38, doi: 10.12973/ejper.3.1.13.
+Stjerne, I.S., S€oderlund, J. and Minbaeva, D. (2019), “Crossing times: temporal boundary-spanning 
+practices in interorganizational projects”, International Journal of Project Management, Vol. 37 
+No. 2, pp. 347-365, doi: 10.1016/j.ijproman.2018.09.004.
+Sundar, V. and Bhaskar, E. (2021), “Low secondary transmission rates of SARS-CoV-2 infection 
+among contacts of construction laborers at open air environment”, Germs, Vol. 11 No. 1, 
+pp. 128-131, doi: 10.18683/germs.2021.1250.
+Sydow, J. and Windeler, A. (2020), “Temporary organizing and permanent contexts”, Current 
+Sociology, Vol. 68 No. 4, pp. 480-498, doi: 10.1177/0011392120907629.
+Engineering, 
+Construction and 
+Architectural 
+Management
+7233
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Toussaint, L., Nguyen, Q.A., Roettger, C., Dixon, K., Offenb€acher, M., Kohls, N., Hirsch, J. and Sirois, 
+F. (2021), “Effectiveness of progressive muscle relaxation, deep breathing, and guided imagery 
+in promoting psychological and physiological states of relaxation”, Evidence-based 
+Complementary and Alternative Medicine, Vol. 2021 No. 1, pp. 5924040-5924048, doi: 10.1155/ 
+2021/5924040.
+Vitolla, F., Raimo, N., Rubino, M. and Garzoni, A. (2019), “The impact of national culture on 
+integrated reporting quality. A stakeholder theory approach”, Business Strategy and the 
+Environment, Vol. 28 No. 8, pp. 1558-1571, doi: 10.1002/bse.2332.
+Wan, J., Le, Y., Wang, G., Xia, N. and Liu, X. (2020), “Carrot or stick? The impact of paternalistic 
+leadership on the behavioral integration of top management teams in megaprojects”, 
+International Journal of Managing Projects in Business, Vol. 13 No. 5, pp. 937-960, doi: 10.
+1108/ijmpb-12-2019-0302.
+Wang, D. and Chen, X. (2023), “Use of leader–member exchange theory to promote the project 
+governance of construction project contractors”, International Journal of Managing Projects in 
+Business, Vol. 16 No. 2, pp. 209-231, doi: 10.1108/ijmpb-03-2022-0078.
+Wang, L., Restubog, S., Shao, B., Lu, V. and Van Kleef, G.A. (2018), “Does anger expression help or 
+harm leader effectiveness? The role of competence-based versus integrity-based violations and 
+abusive supervision”, Academy of Management Journal, Vol. 61 No. 3, pp. 1050-1072, doi: 10. 
+5465/amj.2015.0460.
+Wang, L., Lin, H. and Jiang, W. (2021), “Effects of project leader workplace anxiety on project team 
+member organizational citizenship behavior: a moderated mediation model”, Project 
+Management Journal, Vol. 52 No. 4, pp. 340-353, doi: 10.1177/87569728211007027.
+Wang, X., Liu, S. and Feng, W. (2022), “How leader humor stimulates subordinate boundary-spanning 
+behavior: a social information processing theory perspective”, Frontiers in Psychology, Vol. 13, 
+956387, doi: 10.3389/fpsyg.2022.956387.
+Wang, F., Liu, W., Ling, C.D., Fan, P. and Chen, Y. (2023), “Combating team hopelessness: how and 
+why leader interpersonal emotion management matters”, Personnel Psychology, Vol. 76 No. 3, 
+pp. 797-827, doi: 10.1111/peps.12508.
+Wang, Z., Ye, Y., Huang, Q., Liu, X. and Fan, Y. (2024), “Fostering employee customer-oriented 
+boundary spanning behaviors: the role of inclusive leadership”, Journal of Travel Research, 
+Vol. 63 No. 5, pp. 1169-1182, doi: 10.1177/00472875231187889.
+Yan, M., Xie, Y.P., Zhao, J., Zhang, Y.J., Bashir, M. and Liu, Y. (2020), “How ingratiation links to 
+counterproductive work behaviors: the roles of emotional exhaustion and power distance 
+orientation”, Frontiers in Psychology, Vol. 2020 No. 11, 2238, doi: 10.3389/fpsyg.2020.02238.
+Yan, L., Chen, Y. and Cao, T. (2023), “Integrated construction consulting project performance 
+improvement in China using network structure and team boundary-spanning behavior: 
+a configurational analysis”, Engineering Construction and Architectural Management,
+Vol. ahead-of-print No. ahead-of-print, doi: 10.1108/ecam-12-2022-1129.
+Yang, G. and Wang, W. (2021), Engaging Social Media in China: Platforms, Publics and Production,
+MSU Press, East Lansing, Michigan.
+Yang, F., Huang, X. and Wu, L. (2019), “Experiencing meaningfulness climate in teams: how spiritual 
+leadership enhances team effectiveness when facing uncertain tasks”, Human Resource 
+Management, Vol. 58 No. 2, pp. 155-168, doi: 10.1002/hrm.21943.
+Yao, Y., Zhang, L. and Sun, H. (2023), “Enhancing project managers’ strategy commitment by leader-
+leader exchange: the role of psychological empowerment and organizational identification”, 
+International Journal of Project Management, Vol. 41 No. 3, 102465, doi: 10.1016/j.ijproman. 
+2023.102465.
+Yun, D., Jung, H. and Ashihara, K. (2020), “Dimensions of leader anger expression unveiled: how 
+anger intensity and gender of leader and observer affect perceptions of leadership 
+effectiveness and status conferral”, Frontiers in Psychology, Vol. 11, 528596, doi: 10.3389/ 
+fpsyg.2020.01237.
+ECAM
+32,11
+7234
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 
+
+Zhang, K., Wang, Y. and Tang, N. (2023), “Power distance orientation and perceived insider status in 
+China: a social identity perspective”, Asia Pacific Business Review, Vol. 29 No. 1, pp. 89-113, doi: 
+10.4324/9781003508328-6.
+Zheng, Z. and Ahmed, R.I. (2024), “Humble leadership and employee creative performance in China: 
+the roles of boundary spanning behavior and traditionality”, Personnel Review, Vol. 53 No. 1, 
+pp. 193-210, doi: 10.1108/pr-10-2021-0775.
+Further reading
+Adamovic, M. (2022), “How does employee cultural background influence the effects of telework on 
+job stress? The roles of power distance, individualism, and beliefs about telework”, 
+International Journal of Information Management, Vol. 62 No. 14, 102437, doi: 10.1016/j.
+ijinfomgt.2021.102437.
+Kong, D.T. and Belkin, L.Y. (2019), “Because I want to share, not because I should: prosocial 
+implications of gratitude expression in repeated zero-sum resource allocation exchanges”, 
+Motivation and Emotion, Vol. 43 No. 5, pp. 824-843, doi: 10.1007/s11031-019-09764-y.
+Lee, S. and Sawang, S. (2016), “Unpacking the impact of attachment to project teams on boundary-
+spanning behaviors”, International Journal of Project Management, Vol. 34 No. 3, pp. 444-451, 
+doi: 10.1016/j.ijproman.2015.12.003.
+Lindebaum, D. and Geddes, D. (2016), “The place and role of (moral) anger in organizational behavior 
+studies”, Journal of Organizational Behavior, Vol. 37 No. 5, pp. 738-757, doi: 10.1002/job.2065.
+Luo, L., Zhang, L., Zheng, X. and Wu, G. (2022), “A hybrid approach for investigating impacts of 
+leadership dynamics on project performance”, Engineering Construction and Architectural 
+Management, Vol. 29 No. 5, pp. 1965-1990, doi: 10.1108/ecam-02-2020-0094.
+Olawumi, T.O. and Chan, D.W. (2018), “Identifying and prioritizing the benefits of integrating BIM 
+and sustainability practices in construction projects: a Delphi survey of international experts”, 
+Sustainable Cities and Society, Vol. 40 No. 14, pp. 16-27, doi: 10.1016/j.scs.2018.03.033.
+Shao, B., Wang, L. and Herman, H.M. (2018), “Motivational or dispositional? The type of inference 
+shapes the effectiveness of leader anger expressions”, The Leadership Quarterly, Vol. 29 No. 6, 
+pp. 709-723, doi: 10.1016/j.leaqua.2018.04.002.
+Tortoriello, M. and Krackhardt, D. (2010), “Activating cross-boundary knowledge: the role of 
+Simmelian ties in the generation of innovations”, Academy of Management Journal, Vol. 53 
+No. 1, pp. 167-181, doi: 10.5465/amj.2010.48037420.
+Corresponding author
+Han Zhang can be contacted at: zhanghan@casisd.cn
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Engineering, 
+Construction and 
+Architectural 
+Management
+7235
+Downloaded from http://www.emerald.com/ecam/article-pdf/32/11/7217/10834248/ecam-04-2024-0407en.pdf by University College London user on 

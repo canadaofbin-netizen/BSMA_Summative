@@ -1,0 +1,202 @@
+[
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0485",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0485. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[485] Gilson (2001) - Bridging the gap between individual innovativeness and group innovation An investigation of the innovation process in work groups.PDF. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0485.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0486",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0486. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[486] Gunawan & Widodo (2023) - How Boundary-Spanning Leadership Affects Employees\u2019 Contextual Performance.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0486.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0487",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0487. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[487] Roach (2011) - The impact of product management on SME performance Evidence from Canadian firms.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0487.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0488",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0488. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[488] Roach (2011) - The impact of product management on SME firm performance.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0488.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0489",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0489. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[489] Judy (1984) - INTERORGANIZATIONAL LINKING MECHANISMS--HEALTH SYSTEMS AGENCIES AS A CASE IN POINT (BOUNDARY SPANNING).pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0489.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0490",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0490. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[490] Rodriguez and Wang (2017) - An Empirical Study of Open Source Virtual Reality Software Projects.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0490.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0491",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0491. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[491] Rodriguez-Escudero et al. (2025) - Examining the role of team boundary buffering as a proactive.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0491.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0496",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0496. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[496] Rosenkopf and Nerkar (2001) - Beyond local search boundary\u2010spanning, exploration, and impact.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0496.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0497",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0497. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[497] Rothbard et al. (2022) - OMG! My Boss Just Friended Me How Evaluations of Colleagues\u2019 Disclosure, Gender.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0497.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0498",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0498. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[498] Keller (2001) - Cross-functional project groups in research and new product developmen.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0498.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0499",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0499. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[499] Keller et al. (1976) - BOUNDARY-SPANNING ACTIVITY AND EMPLOYEE REACTIONS AN EMPIRICAL STUDY.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0499.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0500",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0500. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[500] Keller & Holland (1981) - Job Change - A Naturally Occurring Field Experiment.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0500.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0501",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0501. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[501] Xue & Woo (2025) - A Longitudinal Analysis of Boundary-Spanning Leadership and Absorptive Capacity as.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0501.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0502",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0502. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[502] Russ et al. (1998) - POWER AND INFLUENCE OF THE HUMAN RESOURCES FUNCTION.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0502.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0503",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0503. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[503] Russo and Vurro (2010) - Cross\u2010boundary ambidexterity Balancing exploration and exploitation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0503.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0504",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0504. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[504] Ryan and O\u2019Malley (2016) - The role of the boundary spanner in bringing about innovation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0504.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0505",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0505. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[505] Ang & Slaughter (2004) - Turnover  of Information Technology Professionals.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0505.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0506",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0506. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[506] Lysonski & Woodside (1989) - Boundary Role Spanning Behavior, Conflicts and Performance of Industrial.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0506.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0507",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0507. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[507] Saeed et al. (2005) - Examining the Impact of Interorganizational Systems on Process Efficiency.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0507.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0508",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0508. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[508] Saeed et al. (2025) - Understanding career-meaningfulness and work centrality to serve customers.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0508.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0509",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0509. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[509] Salem et al. (2018) - How field office leaders drive learning and creativity in humanitarian aid.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0509.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0510",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0510. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[510] Santa et al. (2011) - The role of cross-functional teams on the alignment between tehcnology innovation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0510.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0511",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0511. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[511] Satheesh et al. (2024) - Enabling boundary spanners in public\u2013private collaboration.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0511.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0512",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0512. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[512] Satheesh et al. (2023) - The Impact of Boundary Spanning by Public Managers on Collaboration.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0512.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0513",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0513. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[513] Sawyer et al. (2010) - Social interactions of information systems development teams a performance perspective.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0513.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0514",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0514. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[514] Saxe Zerden et al. (2019) - Social workers in integrated health care Improving care throughout the life course.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0514.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0515",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0515. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[515] Malone (1986) - STRATEGIC FLEXIBILITY AND FIRM PERFORMANCE IN A CYCLICAL INDUSTRY.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0515.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0516",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0516. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[516] Schierjott et al. (2018) - Entrepreneurial Attitudes as Drivers of Managers\u2019 Boundary-Spanning Knowledge Ties.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0516.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0517",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0517. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[517] Schildt and Laamanen (2006) - Who buys whom information environments and organizational boundary spanning.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0517.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0518",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0518. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[518] Scholz et al. (2008) - Do Networks Solve Collective Action Problems Credibility, Search, and Collaboration.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0518.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0519",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0519. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[519] Schuster et al. (2019) - Knowledge sharing of inpatriates.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0519.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0520",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0520. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[520] Scott (2012) - Corporate marketing leaders the key attributes.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0520.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0521",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0521. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[521] Scott (1997) - Social identification effects in product and process development teams.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0521.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0522",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0522. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[522] Scuzzarello and Moro\u015fanu (2023) - Integration and intersectionality boundaries and belonging.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0522.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0523",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0523. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[523] Selzer et al. (2021) - Effective coping strategies for stressed frontline employees in service occupations.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0523.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0524",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0524. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[524] S\u00e9ror (1989) - A study of individual boundary-spanning communication patterns in a research.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0524.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0525",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0525. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[525] Sethi et al. (2001) - Cross-Functional Product Development Teams, Creativity, and the Innovativeness.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0525.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0526",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0526. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[526] Setiadi and Widodo (2024) - Unveiling the effect of proactive work behavior on task performance.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0526.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0527",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0527. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[527] Shao et al. (2012) - Mapping Collaboration in Open Source Geospatial Ecosystem.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0527.json."
+  },
+  {
+    "TypeName": "bsma_reviewer_v3",
+    "Role": "Validation3 for BSMA0528",
+    "Prompt": "1. First, read your complete project rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/base_prompt.txt using your view_file tool. You MUST follow these rules exactly.\n2. Now review BSMA0528. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[528] Chen et al. (2024) - How boundary-spanning search brings about innovation performance.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0528.json."
+  }
+]

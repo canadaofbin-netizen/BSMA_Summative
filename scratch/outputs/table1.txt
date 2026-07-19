@@ -1,0 +1,110 @@
+the factors for the category they belong to, and that they have low loadings on other factors 
+for both the distributor and the manufacturer data. Fourth, we conducted confirmatory factor analysis (CFA) to assess factor unidimensionality, and the results confirm the unidimension-ality of each construct (goodness-of-fit index [GFI] = .90, CFI = .96, RMSEA = .06). In addition, the factor loadings of all items are greater than .7, which indicates construct validity (Bagozzi & Yi, 1988). Fifth, the average variance extracted (A VE) values for all constructs exceed .5, illustrating good convergent validity. Sixth, discriminant validity was assessed by three different methods: (a) Following Fornell and Larcker (1981), the squared correlations between each pair of constructs were compared to the A VE value for each construct, and all squared correlations are less than the A VE values, confirming the acceptable discriminant validity; (b) we calculated the 95% confidence interval of the correlations between any two randomly selected constructs, as recommended by Anderson and Gerbing (1988), and did not find 1.0 included in any interval; (c) we assessed discriminant validity using two-factor CFA models for all possible pairs of constructs. For each pair of constructs, discriminant validity was assessed by comparing the fit between the one-factor model and the two-factor CFA model. In the one-factor model, all measures were forced to load on a single factor. In the two-factor model, each measure was allowed to load only on its respective latent factor. The chi-square values of the two-factor models are significantly lower than those of the one-fac-tor models, Δχ
+2(1) > 3.84, providing further evidence of discriminant validity between the 
+principal constructs.
+Analysis
+Results From Structural Equation Model (SEM) Testing
+All dyadic constructs are operationalized by taking mean scores of both parties’ scores in 
+the dyads, following the aggregation approach in Yan, Simsek, and Lubatkin (2008). To vali-date this approach, we checked the interrater agreement index (R
+wg) within the dyad (James, 
+Demaree, & Wolf, 1984). The resulting Rwg indices for all constructs in this study range from 
+.82 to .95 (see Table 1), which demonstrates a high degree of perception convergence between the two exchange parties on interpersonal ties, role behaviors, and relationship quality. The scores of R
+wg for interpersonal ties at the higher and the lower levels are .85 and .82, respec-
+tively, confirming Granovetter’s (1973) view that dyadic interpersonal ties are positive and symmetric. Thus, we determine that the aggregation approach for obtaining the proxies for dyadic constructs in this study is appropriate.
+2 The interaction term is the product of interper -
+sonal ties at both levels; we mean center the indicators of two variables to reduce the multi-collinearity. To test the proposed hypotheses, we use a series of structural equation models (see Table 3).
+H1 proposes the mediation effects of boundary spanners’ mutual information processing 
+and reciprocal external representation behaviors. Using traditional mediation analysis from Baron and Kenny (1986), H1a and H1b are tested by three models: Model 1 tests the direct relationships between interpersonal ties and the relationship quality, Model 2 tests the indi-rect relationships between interpersonal ties and relationship quality mediated through four behaviors (communication, knowledge sharing, conflict resolution, and cooperation), and Model 3 includes both direct and indirect relationships. As indicated in Table 3, Model 1 reveals the positive and significant associations between interpersonal ties and relationship 
+
+1574  Journal of Management / September 2016
+quality when only the direct relationships are included, Model 2 lists the results after four 
+mediators are inserted, and, finally, Model 3 shows that the direct paths from interpersonal ties to relationship quality become nonsignificant after the four mediators are included. The fit indices of Models 2 and 3 are similar; however, the fact that the chi-square difference between the two models is minimal (Δχ
+2 = 1.5, df = 3) suggests that Model 2 is superior due 
+to its parsimoniousness. The results in Model 2 show that the paths from interpersonal ties (at Table 3
+Hypotheses Testing: Structural Equation Model Results (N = 225)
+Estimates
+Model χ2 df CFI GFI RMSEA NFI IFI
+Model 1 303.63 219  .98 .90 .04 .92 .98
+Model 2 865.73 624 .97 .86 .04 .90 .97
+Model 3 864.23 621 .97 .86 .04 .89 .97
+Path Model 1 Model 2 Model 3
+Interpersonal ties at the higher level—Relationship quality 0.36** (0.13) 0.18 (0.18)
+Interpersonal ties at the lower level—Relationship quality 0.34** (0.09) 0.33 (0.43)
+Higher- × lower-level interpersonal ties—Relationship 
+quality0.08* (0.03) 0.04 (0.05)
+Interpersonal ties at the higher level—Communication 0.54** (0.12) 0.51** (0.11)
+Interpersonal ties at the higher level—Knowledge sharing 0.44** (0.12) 0.42** (0.12)
+Interpersonal ties at the higher level—Conflict resolution 0.71** (0.16) 0.66** (0.16)
+Interpersonal ties at the higher level—Cooperation 0.52** (0.15) 0.49** (0.15)
+Interpersonal ties at the lower level—Communication 1.20** (0.26) 1.23** (0.27)
+Interpersonal ties at the lower level—Knowledge sharing 1.01** (0.25) 1.03** (0.26)
+Interpersonal ties at the lower level—Conflict resolution 1.17** (0.29) 1.19** (0.30)
+Interpersonal ties at the lower level—Cooperation 1.47** (0.33) 1.51** (0.34)
+Higher- × lower-level interpersonal ties—Communication 0.04 (0.05) 0.04 (0.05)
+Higher- × lower-level interpersonal ties—Knowledge sharing 0.11† (0.06) 0.10† (0.06)
+Higher- × lower-level interpersonal ties—Conflict resolution 0.24** (0.07) 0.23** (0.07)
+Higher- × lower-level interpersonal ties—Cooperation 0.27** (0.07) 0.26** (0.07)
+Communication—Relationship quality 0.04 (0.08) –0.15 (0.29)
+Knowledge sharing—Relationship quality 0.12† (0.07) 0.14 (0.07)
+Conflict resolution—Relationship quality 0.17** (0.05) 0.13* (0.06)
+Cooperation—Relationship quality 0.13** (0.04) 0.10* (0.05)
+Control variables effects  
+Organization size—Relationship quality 0.04 (0.03) 0.05** (0.02) 0.05** (0.03)
+Sales volume—Relationship quality –0.02 (0.04) –0.02 (0.02) –0.01 (0.03)
+Ownership type—Relationship quality 0.04 (0.03) 0.06*** (0.02) 0.07*** (0.02)
+Relationship duration—Relationship quality 0.01 (0.01) 0.01 (0.01) –0.00 (0.02)
+Note: CFI = comparative fit index; GFI = goodness-of-fit index; IFI = incremental fit index; NFI = normed fit index; 
+RMSEA = root mean square error of approximation. Values in parentheses are standard errors.†p < .1.*p < .05.**p < .01.***p < .001.
+
+Huang et al. / Interpersonal Ties in Interorganizational Exchanges  1575
+both levels) to all boundary-spanning behaviors are positive and significant (p < .01), but the 
+paths from boundary-spanning behaviors to relationship quality vary, with knowledge shar -
+ing (p < .1) and communication (p > .1) demonstrating little to no impact, and with conflict resolution (p < .01) and cooperation (p < .01) exhibiting significant influences on relation-ship quality. Taken together, these results suggest that, in interorganizational exchanges, the mediation effects of boundary spanners are confirmed for external representation behaviors (i.e., conflict resolution and cooperation) but are not quite confirmed for information pro-cessing behaviors (i.e., communication and knowledge sharing). Thus, H1a is not supported and H1b is fully supported.
+H2 compares two different levels of interpersonal ties on their associations with relation-
+ship quality through boundary-spanning behaviors. Following Baron and Kenny (1986), the overall mediated effect is calculated as the product of path estimates (i.e., a × b). Through communication, the overall effects of higher-level and low-level interpersonal ties on rela-tionship quality are calculated as 0.022 and 0.048, respectively. Through knowledge sharing, the overall effects of higher-level and lower-level interpersonal ties on relationship quality are calculated as 0.053 and 0.121, respectively. Through conflict resolution, the overall effects of higher-level and lower-level interpersonal ties on relationship quality are calcu-lated as 0.121 and 0.199, respectively. Through cooperation, the overall effects of higher-level and lower-level interpersonal ties on relationship quality are calculated as 0.068 and 0.191, respectively. Using chi-square difference tests, we compare the overall effects of two different levels of interpersonal ties by constraining the two paths to be equal, and then releasing the constraint. The results show that lower-level interpersonal ties have a stronger association with relationship quality than do higher-level interpersonal ties. This result is realized through communication (p < .05), knowledge sharing (p < .05), and cooperation (p < .01), but not through conflict resolution (p > .1). Therefore, H2a is fully supported while H2b is partially supported.
+For interpersonal ties at both upper and lower levels, H3 posits the interaction effects on 
+boundary-spanning behaviors. The results in Model 2 and in Model 3 show that the interac-tion of two levels of interpersonal ties exerts significant influence on conflict resolution (p < .01) and cooperation (p < .01), but little on knowledge sharing (p < .1) and communication (p > .1). These results suggest that strong ties between top executives enhance only the posi-tive effects of personal ties between salespersons and buyers on their behaviors of external representation, but not on their behaviors of information processing. Therefore, H3a is not supported, while H3b is supported.
+Results Validation From Bootstrap Testing
+We further validate the results using bootstrapping (Efron & Tibshirani, 1993), another 
+method recommended by Bollen and Stine (1990) for the analysis of direct and indirect effects in mediation.
+3 First, we test whether boundary-spanning behaviors are mediators 
+between interpersonal ties and relationship quality. Regarding the mediation role of commu-nication, the bias-corrected bootstrap estimates (95% CI) of a1 (0.05, 0.97) and a2 (0.27, 1.00) exclude zero (see Table 4), indicating that both higher-level ties and lower-level ties are positively associated with communication. The estimates of b1 (–4.18, 0.68) include zero, which means that communication is not related to relationship quality. In addition, the 
+
+1576
+Table 4
+Hypothesis Testing: Bootstrap Results (N = 1,000)
+95% CI
+ Communication Knowledge Sharing Conflict Resolution Cooperation
+EffectBootstrap 
+PercentileBias-Corrected 
+BootstrapBootstrap 
+PercentileBias-Corrected 
+BootstrapBootstrap 
+PercentileBias-Corrected 
+BootstrapBootstrap 
+PercentileBias-Corrected 
+Bootstrap
+Higher-level ties
+ a1 (0.06, 0.98) (0.05, 0.97) (0.03, 0.77) (0.10, 0.94) (0.09, 1.05) (0.09, 1.07) (0.02, 0.91) (0.01, 0.88)
+ b1 (–1.79, 1.06) (–4.18, 0.68) (0.05, 0.63) (0.04, 0.60) (0.01, 0.27) (0.03, 0.28) (0.06, 0.24) (0.06, 0.24)
+ c1’ (–0.42, 1.48) (–0.14, 4.18) (0.03, 0.37) (0.07, 0.41) (0.02, 0.40) (0.01, 0.31) (0.02, 0.30) (0.04, 0.32)
+ a1*b1 (–0.79, 0.62) (–3.31, 0.27) (0.01, 0.26) (0.02, 0.38) (–0.04, 0.14) (0.03, 0.18) (0.01, 0.18) (0.01, 0.18)
+Lower-level ties a2 (0.27, 1.00) (0.27, 1.00) (0.33, 4.24) (0.36, 4.91) (0.12, 0.82) (0.14, 0.82) (0.42, 1.01) (0.42, 1.02)
+ b2 (–1.79, 1.06) (–4.18, 0.68) (0.05, 0.63) (0.04, 0.60) (0.01, 0.27) (0.03, 0.28) (0.06, 0.24) (0.06, 0.24)
+ c2’ (–0.35, 1.55) (–0.22, 2.08) (–0.03, 1.88) (0.01, 2.21) (0.16, 0.50) (0.14, 0.48) (0.12, 0.38) (0.12, 0.39)
+ a2*b2 (–0.96, 0.60) (–2.30, 0.35) (0.04, 1.13) (0.04, 1.10) (0.01, 0.13) (0.01, 0.13) (0.04, 0.18) (0.05, 0.19)
+Higher × lower interaction a3 (–0.14, 0.09) (–0.17, 0.15) (–0.04, 0.66) (–0.03, 0.69) (–0.02, 0.25) (0.01, 0.26) (0.05, 0.36) (0.04, 0.34)
+ b3 (–1.79, 1.06) (–4.18, 0.68) (0.05, 0.63) (0.04, 0.60) (0.01, 0.27) (0.03, 0.28) (0.06, 0.24) (0.06, 0.24)
+ c3’ (0.01, 0.23) (–0.02, 0.22) (–0.01, 0.35) (0.01, 0.38) (–0.03, 0.10) (–0.03, 0.10) (–0.04, 0.08) (–0.04, 0.09)
+ a3*b3 (–0.11, 0.07) (–0.03, 0.54) (–0.01, 0.20) (–0.01, 0.24) (–0.01, 0.04) (0.01, 0.05) (0.01, 0.06) (0.01, 0.06)
+Note: Using the higher-level ties–communication–relationship quality path as an illustration: a1 denotes the effect of higher-level ties on communication; b1 denotes the 
+effect of communication on relationship quality; c1’ denotes the direct effect of higher-level ties on relationship quality; a1*b1 denotes the indirect effect of higher-level ties on relationship quality through communication.
+
+Huang et al. / Interpersonal Ties in Interorganizational Exchanges  1577
+estimates of a1*b1 (–3.31, 0.27) and a2*b2 (–2.30, 0.35) both include zero, showing that the 
+indirect effects of ties at both levels on relationship quality through communication are not significantly different from zero. Therefore, communication is not a mediator between inter -
+personal ties and relationship quality. For knowledge sharing, the bias-corrected bootstrap estimates (95% CI) of a1 (0.10, 0.94) and a2 (0.36, 4.91) exclude zero, indicating that both higher-level ties and lower-level ties are positively associated with knowledge sharing. The estimates of b1 (0.04, 0.60) also exclude zero, which means that knowledge sharing is related to relationship quality. In addition, the estimates of a1*b1 (0.02, 0.38) and a2*b2 (0.04, 1.10) both exclude zero, showing that the indirect effects of ties at both levels on relationship qual-ity through knowledge sharing are significantly different from zero. Therefore, knowledge sharing is a mediator between interpersonal ties and relationship quality. Thus, H1a is par -
+tially supported.
+As to conflict resolution, the bias-corrected bootstrap estimates (95% CI) of a1 (0.09, 
+1.07) and a2 (0.14, 0.82) exclude zero, indicating that both higher-level ties and lower-level ties are positively associated with conflict resolution. The estimates of b1 (0.03, 0.28) also exclude zero, which means that conflict resolution is related to relationship quality. In addi-tion, the estimates of a1*b1 (0.03, 0.18) and a2*b2 (0.01, 0.13) both exclude zero, showing that the indirect effects of ties at both levels on relationship quality through conflict resolu-tion are significantly different from zero. Thus, conflict resolution is a mediator between interpersonal ties and relationship quality. Similar to conflict resolution, the bias-corrected bootstrap estimates (95% CI) of a1 (0.01, 0.88) and a2 (0.42, 1.02) for cooperation exclude zero, indicating that both higher-level ties and lower-level ties are positively associated with cooperation. The estimates of b1 (0.06, 0.24) also exclude zero, which means that coopera-tion is related to relationship quality. In addition, the estimates of a1*b1 (0.01, 0.18) and a2*b2 (0.05, 0.19) both exclude zero, showing that for ties at both levels, the indirect effects on relationship quality through cooperation are different from zero. Cooperation is a media-tor between interpersonal ties and relationship quality. Therefore, H1b is supported.
+Next, we compare the effects of interpersonal ties at the higher and the lower levels. In 

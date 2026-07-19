@@ -1,0 +1,806 @@
+Research Article
+Management Communication Quarterly
+2024, Vol. 38(2) 359 –385
+© The Author(s) 2023
+Article reuse guidelines:sagepub.com/journals-permissions
+DOI: 10.1177/08933189231192078
+journals.sagepub.com/home/mcqBoundary Work and
+Transactive MemorySystems in Teams:Moderating Effects ofthe VisibilityAffordance
+Kay Yoon1, Cameron W. Piercy2, Young Ji Kim3, and
+Yaguang Zhu4
+Abstract
+Individuals in work teams frequently cross boundaries across teams, often by using
+information and communication technologies (ICTs). The current study investi-
+g a t e st h ee f f e c t so fm e m b e r s ’boundary work and the visibility affordance of teams ’
+ICTs on Transactive Memory Systems (T MS) in teams. Survey data from 212 full-
+time employees whose work hours were divided between multiple teams revealsthatboundary spanning enhances the focal team ’s TMS specialization and credibility
+and negatively in ﬂuences TMS coordination. Additionally, boundary reinforcement
+positively affects TMS credibility and coor dination. The visibility affordance has a
+direct positive effect on all three dimensions of TMS and a moderating effect forboundary reinforcement such that higher visibility overrides the positive direct effect
+of boundary reinforcement on TMS. These ﬁndings suggest that different types of
+boundary work contribute to different dimensions of TMS and that teams mightconsider prioritizing the use of ICTs wi th high visibility to e nhance their TMS.
+1Department of Communication, University of Colorado, Colorado Springs, CO, USA
+2Department of Communication Studies, The University of Kansas, Lawrence, KS, USA
+3Department of Communication, University of California Santa Barbara, CA, USA
+4Department of Communication, The University of Oklahoma, Norman, OK, USA
+Corresponding Author:
+Kay Yoon, Department of Communication, University of Colorado, 1420 Austin Bluffs Parkway,Colorado Springs, CO 80918, USA.
+Email: kyoon@uccs.edu
+
+Keywords
+boundary work, transactive memory, visibility affordance, team knowledge
+sharing
+Work teams in contemporary organizations are characterized as ﬂuid with
+often shorter-term life cycles, shifting and overlapping memberships, and
+geographic dispersions between team members ( Mortensen & Haas, 2018 ;
+Seibold et al., 2014 ;Wimmer et al., 2019 ). In this dynamic team environment,
+individuals manage multiple team projects and multiple relationships si-multaneously in and outside their primary team. It is estimated that “65 to 95
+percent of knowledge workers across a wide range of industries and occu-pations in the United States and Europe are members of more than one projectteam at a time ”(O’Leary et al., 2011 , p. 461). Members of work teams
+frequently cross team boundaries by interacting with individuals outside their
+focal team and exchanging resources with them. Furthermore, theseboundary-crossing activities have become more common and easier with theadvancement of Information and Communication Technologies (ICTs) thatenable team members to share information not only within the focal team butalso with a wider network of people within and outside the embedding or-ganization ( Yan et al., 2019 ).
+How workers engage in boundary management activities has signi ﬁcant
+implications for team functioning ( Margolis, 2020 ), particularly for team
+knowledge sharing. When navigating multiple projects and team boundariessimultaneously, individuals are faced with both advantages and challenges. Theymay bene ﬁt from the knowledge and experiences gained from multiple team
+memberships but also must respond to competing task demands and split timeand energy between those demands; this can lead to the lack of shared un-derstanding about team members ’knowledge, skills, and abilities, and to more
+challenges in coordinating knowledge sharing in a focal team ( Gupta & Woolley,
+2018). Furthermore, boundary work ––the ways in which individuals establish
+and maintain their team boundaries and manage relationships across theboundaries ––may signi ﬁcantly in ﬂuence how team members develop a shared
+mental model about each other ’s expertise and coordinate tasks among members.
+The current study investigates how different types of boundary work affect
+the development of a Transactive Memory System (TMS) ––a team ’s cognitive
+division of labor representing who knows what and who does what ( Wegner,
+1987 ). Additionally, in light of the role ICTs play in facilitating boundary
+work, we hypothesize that the visibility affordance ––the extent to which ICTs
+are perceived to make one ’s behaviors, knowledge, and relational connections
+visible to others ( Treem & Leonardi, 2012 )––moderates the relationship
+between boundary work and TMS development.360 Management Communication Quarterly 38(2)
+This study contributes to the current body of research on team knowledge
+sharing in several ways. First, we examine the contemporary networked and
+technology-mediated team environment, in which team boundaries are in-
+creasingly ﬂuid and blurry, as a critical context that warrants further inves-
+tigation of team knowledge sharing processes ( Mortensen & Haas, 2018 ;
+Wageman et al., 2012 ). By focusing on team members ’boundary work as a
+key variable that in ﬂuences team knowledge sharing and simultaneously
+examining the role that ICTs ’visibility affordance plays, this study expands
+our understanding of how knowledge sharing occurs in a team environment inwhich team members freely and actively cross team boundaries using ICTs.
+Another contribution is a theoretical extension of TMS theory in team
+environments with ﬂuid team boundaries. With few exceptions ( Gupta &
+Woolley, 2018 ;Mortensen, 2014 ), there is little empirical research on TMS in
+the networked environment, let alone research focusing on the impact ofboundary work on TMS. The knowledge gained from this empirical inves-tigation about the relationships between boundary work, TMS, and thevisibility affordance offers new insights for conceptual development in ex-tending TMS theory beyond the contained view of work teams ( Olabisi &
+Lewis, 2018 ).
+Theory and Hypotheses
+Transactive Memory Systems in Teams
+Transactive memory refers to the shared division of cognitive labor regarding
+encoding, storing, and retrieving information that develops through inter-actions among individuals in dyads or groups ( Wegner, 1987 ). A core idea of
+transactive memory theory is that in a dyad or a group, people use each otheras external sources of information and develop a system to process moreinformation as a group than as individuals alone. Forming TMS is theorized tobe a foundational part of human development, whereby humans learn toengage with a complex network of social partners (e.g., teachers, friends,
+family, etc.) who possess varied knowledge ( Fischer et al., 2015 ). Although
+early TMS research focused on dyads, TMS was quickly adapted to explainhow work teams ’cognitive processes affected key outcomes including task
+accomplishment and team performance ( Hollingshead et al., 2011 ). In ad-
+dition, TMS is a better predictor of team performance than other teamcognition variables ( DeChurch & Mesmer-Magnus, 2010 ).
+Though workers in contemporary organizational environments routinely
+engage in multiple projects at the same time, TMS research has primarily
+explored interactions within a single team (cf. Gupta & Woolley, 2018 ). Some
+studies have examined TMS development in multidisciplinary or cross-functional teams whose members came from diverse expertise domains orYoon et al. 361
+functional areas (e.g., Kotlarsky et al., 2015 ;Liao et al., 2015 ), but focused on
+how knowledge coordination occurs across individual members with dif-
+ferentiated knowledge within a team rather than examining member
+boundary-crossing activities beyond the team.
+Given our limited understanding of the impact of teams ’embedding en-
+vironment on TMS ( Bachrach et al., 2019 ;Ren & Argote, 2011 ), this gap in the
+literature is important to ﬁll asﬂuid team boundaries have signi ﬁcant impli-
+cations for the focal team ’s TMS development. For instance, workers who
+frequently cross team boundaries may ﬁnd it dif ﬁcult to maintain attention on
+the members and tasks of the focal team. Divided attention may also create
+challenges to developing an effective TMS for the team as it may result in a
+limited understanding of others ’areas of expertise. On the other hand, those
+who have extensive exposure to the external environment beyond the focal teamthrough frequent boundary crossing can also bring in more diverse and newinformation and knowledge; this could help their domain expertise be rec-ognized by others and facilitate transactive retrieval processes in the focal team.
+One common approach to examining TMS in teams is to measure be-
+havioral manifestations of TMS in three dimensions ––specialization, credi-
+bility, and coordination ( Lewis, 2003 ).Specialization focuses on the
+distributed and differentiated nature of knowledge members hold or haveaccess to. Teams with a high degree of specialization delegate expertise acrossmembers creating a differentiated expertise structure that is recognizable tomembers. Credibility emphasizes trust in other team members ’knowledge,
+skills, and abilities ( Moreland & Myaskovsky, 2000 ). When credibility is
+high, individuals are willing to in ﬂuence and be in ﬂuenced by others in the
+TMS ( Piercy & Zhu, 2021 ).Coordination refers to the ability of team
+members to work together ef ﬁciently for “orchestrated knowledge process-
+ing”(Lewis, 2003 , p. 589) .Teams with high coordination work more
+seamlessly and have less confusion about how tasks should be performed.Taken together, teams with a well-developed TMS have a specialized ex-pertise structure in which members trust one another ’s expertise and effec-
+tively manage interdependent tasks and relationships.
+Each dimension of TMS is relevant to the overall system, so studies have
+treated TMS as both a unidimensional second-order construct (e.g., Lewis,
+2004) as well as distinct dimensions with important implications for how
+teamwork is accomplished (e.g., Huang et al., 2013 ;Wang et al., 2018 ). In this
+study, we explore how the two types of boundary work (boundary spanning andreinforcement) might have varying in ﬂuences on the three dimensions of TMS.
+Boundary Work
+Team boundary work refers to “the activities that a team engages in to es-
+tablish and maintain boundaries and manage interactions across those362 Management Communication Quarterly 38(2)
+boundaries ”(Faraj & Yan, 2009 , p. 604). The research on boundary work
+offers unique insights into both the speci ﬁc ways individuals manage
+boundaries and the impact of boundary work on the focal team ’s knowledge
+sharing. Boundary work can affect individuals and teams in both positive andnegative ways.
+The positive impact of boundary work is largely attributed to enhanced
+individual and team learning ( Margolis, 2020 ), which predicts team inno-
+vation and high performance in product development and research teams(Allen, 1984 ;Chung & Jackson, 2013 ;Somech & Khalaili, 2014 ), software
+development teams ( Faraj & Yan, 2009 ), cross-organizational teams ( Harvey
+et al., 2014 ), and automotive design teams ( Wu et al., 2020 ). Particularly, a
+team leader ’s or a gatekeeper ’s boundary work that garners external resources
+for the focal team ( Allen, 1984 ), as well as activities that protect the team from
+external interference, have both been found to positively affect the im-plementation of new ideas, employee creativity, and team innovation(Benoliel & Somech, 2015 ;Qu & Liu, 2021 ). Additionally, the positive
+impact of boundary work is heightened when the nature of the team task ishighly complex and non-routine ( Chung & Jackson, 2013 ;Wu et al., 2020 )
+and when the team task environment poses a high level of uncertainty around
+external demands and resources ( Faraj & Yan, 2009 ).
+Boundary work can also negatively affect individual productivity. Allen
+(1984) found that individuals ﬁnd information-seeking across boundaries
+costly because it involves the risk of being perceived as incompetent anddamaging one ’s reputation. Individuals also experience challenges when they
+belong to multiple project teams. These include dif ﬁculty switching between
+tasks ( Yaghootkar & Gil, 2012 ), handling information overload and main-
+taining attention and focus ( Crawford et al., 2019 ;van de Brake et al., 2018 ),
+and coping with increased stress associated with playing multiple roles acrossthe team boundaries ( Rapp & Mathieu, 2019 ).
+The impacts of boundary work on team outcomes is explained by two
+mechanisms that signify different types of boundary activities. One mecha-nism is resource expansion, often referred to as boundary-loosening or
+outward activities (Harvey et al., 2014 ;Somech & Khalaili, 2014 ). Boundary-
+loosening activities include scouting and coordinating with external stake-
+holders, representing the focal team externally, and seeking information and
+knowledge relevant to the focal team ’s task at hand. These activities es-
+sentially expand the focal team ’s pool of resources by increasing the like-
+lihood of gaining new knowledge and perspectives, which in turn facilitatesinnovation ( Chung & Jackson, 2013 ).
+The other boundary work mechanism is boundary-tightening orinward
+activities (Wu et al., 2020 ), which strengthen or protect team boundaries for
+internal coordination and identity preservation. Although less studied ( Dey &
+Ganesh, 2017 ), boundary-tightening activities have been found to positivelyYoon et al. 363
+affect team performance by protecting focal teams from external in ﬂuence,
+preventing information leakage outside the team ( Wu et al., 2020 ), and
+sharpening team identity ( Faraj & Yan, 2009 ). We next theorize how these two
+types of boundary work may affect TMS development, particularly the threedimensions of TMS ( Lewis, 2003 ).
+The Effects of Boundary Work on TMS
+As discussed earlier, previous research documents robust empirical ﬁndings
+for the relationship between boundary work and team performance and in-
+novation, but empirical investigations on the effects of boundary work on
+TMS development are scarce. A few empirical studies on cross-functionalteams and multi-team environments suggest a link between boundary workand TMS. For instance, knowledge boundaries ––differences in terminologies,
+expressions, interests, and goals ––that exist across members from different
+functional domains in multidisciplinary healthcare teams have been found tonegatively affect their TMS ( Kotlarsky et al., 2015 ). Also, Liao et al. (2015)
+found that a subgroup identity (e.g., professional identity) in addition to the
+focal team identity serves as a resource for knowledge coordination and thus
+positively affects the focal team ’s TMS. Additionally, the multi-team envi-
+ronment has been found to negatively affect the focal team ’s TMS devel-
+opment due to time and attention demands across multiple teams, constantcontext-switching, and blurred and divergent understandings about teammembership across members ( Gupta & Woolley, 2018 ;Mortensen, 2014 ).
+Although these studies offer ins ights on both positive and negative
+consequences of various characteristics of inter-group relations and the
+multi-team environment, they do not speci ﬁcally speak to activities and
+actions that members of a focal team take to manage boundaries and howthose activities affect the focal team ’s TMS development. We argue that
+because boundary work represents ways in which team members interactwith internal and ext ernal stakeholders —a common occurance in modern
+organizations —boundary work deserves fo cused examination when it
+comes to its effects on TMS.
+In our examination of the effects of boundary activities on TMS, we adopt
+Faraj and Yan ’s (2009) typology as an operational framework for the two types
+of boundary activities. Boundary spanning, representing boundary-loosening
+activities, refers to the activities that focal team members engage in to reachout to the external environment to acquire information, resources, and support.Boundary spanning typically involves coordinating and negotiating withexternal stakeholders, searching for or securing human and knowledge re-sources, and representing/championing the focal team to external audiences.In contrast, boundary reinforcement, representing boundary-tightening ac-
+tivities ,is de ﬁned as activities that clarify and mark team boundaries364 Management Communication Quarterly 38(2)
+distinguishing the focal team from other teams or the external environment.
+Boundary reinforcement focuses on increasing members ’awareness of team
+boundaries and strengthening team identity toward the focal team ’s central
+goals and missions.
+The two types of boundary work can affect TMS specialization, credibility,
+and coordination both positively and negatively. For TMS specialization,boundary spanning may enhance and deepen individuals ’specialization in the
+focal team ’s TMS through its role in facilitating the acquisition of up-to-date
+information about a certain knowledge domain, developing new connectionswith other experts outside the focal team, and individual learning ( O’Leary
+et al., 2011 ). In contrast, as boundary reinforcement entails boundary
+maintenance and protection, which limits knowledge ﬂow across team
+boundaries, it is more likely to negatively affect TMS specialization becauseinsulated team members have fewer opportunities to learn from externalsources, broaden their knowledge networks, and stay up-to-date on envi-ronmental changes, which may hamper individual learning and expertisedevelopment necessary for specialized knowledge structure at the team level.
+We argue that both boundary spanning and reinforcement will have a
+positive impact on TMS credibility but via different mechanisms. Boundary
+spanning could enhance TMS credibility by providing opportunities to val-idate one ’s expertise through connections external to the focal team. For
+instance, when a team member shares a new piece of knowledge acquiredfrom their interactions with experts outside the focal team, the new knowledgeis substantiated by the broader knowledge network and becomes moretrustworthy. Also, boundary reinforcement could help build TMS credibilityby affording more focused attention to the team ’s internal dynamics (e.g., trust
+building) and fostering a stronger sense of team identity and belonging, which
+helps team members trust each other ’s knowledge.
+For TMS coordination, while boundary spanning brings in additional
+information and resources from outside, it can also create information and roleoverload ( Crawford et al., 2019 ;Marrone et al., 2007 ) and distract attention
+from primary responsibilities ( Allen, 1984 ); this could challenge the focal
+team’s TMS coordination ( Dibble & Gibson, 2018 ). On the other hand,
+boundary reinforcement could positively affect TMS coordination by re-
+ducing workload, time, and energy exerted on boundary-crossing activities
+and by facilitating the process of encoding knowledge within the focal team(Crawford et al., 2019 ;Lewis et al., 2005 ). Taken together, we propose the
+following hypotheses predicting positive and negative relationships betweenthe two types of boundary work and the three dimensions of TMS:
+H1: (a) Boundary spanning positively affects the focal team ’s TMS
+specialization, while (b) boundary reinforcement negatively affects TMS
+specialization.Yoon et al. 365
+H2:Both (a) boundary spanning and (b) reinforcement positively affect the
+focal team ’s TMS credibility.
+H3:(a) Boundary spanning negatively affects the focal team ’s TMS co-
+ordination, while (b) boundary reinforcement positively affects TMScoordination.
+Effects of the Visibility Affordance
+Organizations have become more structurally ﬂat (Faraj & Yan, 2009 ) and
+network-oriented ( de Vries et al., 2014 ), contributing to the prevalence of
+boundary work. This trend is further expedited by ICTs (e.g., Slack, Microsoft
+Teams) that are easily accessible and widely adopted across organizations inall industries ( Van Zoonen et al., 2023 ). ICTs provide a ubiquitous com-
+munication environment that enables team members to stay connected and up-to-date anytime and anywhere ( Bingham & Conner, 2015 ). ICTs also improve
+awareness of both the knowledge others possess and relationships among co-workers ( Leonardi & Treem, 2020 ).
+We adopt the affordance lens in examining the role of technology in the
+relationship between boundary work and TMS. Affordances refer to users ’
+subjective perceptions about what a certain technology enables them to do.Among various types of affordances identi ﬁed for workplace ICTs (see Treem
+& Leonardi, 2012 ), we focus on the visibility affordance. The visibility af-
+fordance refers to users ’perceptions of communication technology ’s ability
+“to make employees ’behaviors, knowledge, preferences, and communication
+network connections that were once invisible (or very hard to see) visible toothers ”(Treem & Leonardi, 2012 , p. 150). Because the visibility affordance
+makes work behaviors, relational ties, and streams of organizational activities
+visible, it is considered a “root affordance ”(Van Zoonen et al., 2023 , p. 14).
+When team members use technologies which afford high visibility, they likelyknow more about how others in their team are engaging in boundary work. Forexample, LinkedIn makes it possible for individuals to see their team membersseek or share expert information with individuals outside their teams andorganizations (i.e., boundary spanning). Similarly, messages on a team Slackchannel might allow members to demonstrate and share their sense of be-
+longing to the team and may heighten team identity and morale (i.e., boundary
+reinforcement) through tagging or liking each other ’s accomplishments and
+archiving shared experiences.
+Direct Effects of the Visibility Affordance. We argue that the visibility affordance
+has a direct positive impact on each of the three dimensions of TMS. Leonardi
+(2015) andYuan et al. (2013) found that communication visibility of en-
+terprise social media technologies improved the accuracy of individuals ’
+metaknowledge of who knows what and who knows whom. Similarly, Yoon366 Management Communication Quarterly 38(2)
+and Zhu (2022) revealed that the visibility affordance positively affected the
+accuracy of the perceptions of team member expertise and the delegation of
+tasks. Also, Gupta and Woolley (2018) found that communication visibility
+afforded by an online team dashboard that speci ﬁed members ’skills enabled
+team members to keep track of members ’expertise more easily in a multi-
+team environment. These ﬁndings suggest that the visibility of others ’
+communication messages and network structures facilitates the developmentof TMS specialization by allowing individuals to establish accurate under-standings of their coworkers ’differentiated areas of expertise.
+Communication visibility also likely affects TMS credibility positively.
+When people are not able to see which tasks others are performing and when
+and how they perform those tasks in distributed teams, they are more likely toexperience mistrust among members ( Cramton et al., 2007 ). Therefore, the
+transparency of others ’activities made possible by high visibility —including
+message contents they share as well as whom they share messages with —will
+help team members trust and reliably seek and retrieve each other ’s expertise.
+For TMS coordination, when individuals can see information related to the
+status of ongoing projects and activities through social media in their
+workplace, they are more likely to actively communicate with coworkers to
+coordinate their efforts ( Wattal et al., 2009 ). Further, Leonardi (2014) found
+that communication visibility helped avoid task duplication by uncoveringhidden experts, pre-existing knowledge, and established relationships be-tween individuals and work units that would have otherwise been unknown.These ﬁndings suggest that the visibility affordance will likely reduce con-
+fusion and misunderstanding around how team tasks are accomplished andwho performs which role and positively affect TMS coordination.
+H4:The visibility affordance has a direct positive relationship with TMS
+(a) specialization, (b) credibility, and (c) coordination.
+Moderating Effects of the Visibility Affordance. The visibility affordance is also
+likely to moderate the relationships between the types of boundary work andTMS hypothesized in the previous section. By de ﬁnition, the visibility af-
+fordance makes the presentation of all information and activities communal,
+making it easy to locate and view information about team member rela-
+tionships and work ( Treem & Leonardi, 2012 ). This suggests that the visibility
+affordance may make both types of boundary work more readily accessible forothers to see, which may make the impact of boundary activities on TMS morepronounced. For instance, a team member ’s external activities and relational
+connections outside the focal team that could have been invisible to the rest ofthe team in the traditional media environment become highly visible throughadvanced ICTs. Thus, with increased visibility, team members can better
+recognize each other ’s areas of expertise and develop a differentiatedYoon et al. 367
+knowledge structure at the team level (TMS specialization). In a similar vein,
+the increased visibility of boundary-spanning activities may further exacer-
+bate information overload and, in turn, strengthen its negative impact on the
+focal team ’s TMS coordination. Therefore, the following hypotheses are
+advanced:
+H5:The visibility affordance moderates the previously hypothesized re-
+lationships ––boundary spanning-TMS specialization (a), boundary
+reinforcement-TMS specialization (b), boundary spanning-TMS credi-bility (c), boundary reinforcement-TMS credibility (d), boundary
+spanning-coordination (e), and boundary reinforcement-TMS coordination
+(f)—such that the relationships are stronger with higher levels of visibility
+affordance.
+Method
+Survey Data Collection
+Survey data were collected through Qualtrics panel service as part of a larger
+project. Target participants were individuals in the United States who were18 years or older, worked full-time, and worked on a team. Panel providerspre-screened respondents with the following criteria: all respondents ’iden-
+tities were veri ﬁed (via RelevantID and Verity) and the survey included
+automatic security measures including IP veri ﬁcation, geographic limits, and
+automatic removal of completions which were unreasonably fast. In addition,
+our research team carefully screened the data during data collection andremoved 25 cases for implausible team membership estimates (e.g., 500teams), 94 participants for illogical answers to open-ended questions (e.g., toosimple or repetitious answers, writing random letters/numbers), and 40participants who missed either an open-ended or multiple-choice attentioncheck question (e.g., “Please write the word blue backwards ”) for a 66%
+response rate. To focus on the present hypotheses, we also excluded 80
+participants who did not use any technology as part of their teamwork.
+We also asked participants what percent of the work-related time they spent
+on tasks with their primary team ( M= 54.12%, SD= 28.16%). Because the
+allocation of time with a primary team necessarily limits the ability to spanboundaries, we excluded 19 participants who reported working 100% of thetime with their primary team. The ﬁnal sample included 212 participants.
+Results with fewer responses are due to listwise exclusion in testing. In thesurvey, participants were prompted to think about their work with their
+primary team (the team that they spend the most working hours with) when
+responding to each of the relevant measures. Each measure was presented in a368 Management Communication Quarterly 38(2)
+random order to avoid order or demand effects associated with the mea-
+surement process.
+Participants
+Participants were 40.66 years old on average ( SD = 12.97) and included 121
+women (57.1%), 72 men (33.9%), one non-binary participant, and oneagender participant. Half (50%, n=106) worked at companies with 250 or
+fewer employees, and about half (51.9%) made $60,000 or less per year.63.2% ( n= 134) were employed in private for-pro ﬁt companies, and 22.6%
+(n=48) worked for the government. Around a third of participants were in
+management/professional roles ( n= 73, 34.6%); 17.1% were in service in-
+dustries; 9% in sales/of ﬁce; 6.2% in construction, extraction, or maintenance;
+6.6% in production/transportation/material moving; 8.5% in othergovernment-roles; 1.4% in farming/ ﬁshing/forestry; and 15.2% in other.
+82.9% of participants ( n=175) were white, 13.3% ( n= 28) were Black, the
+remainder were Asian ( n= 4), American Indian or Alaskan Native ( n= 6), or
+another race. In terms of ethnicity, only 6.6% were Hispanic or Latinx.
+Participants worked in an average of 3.42 teams ( SD= 4.85). For the
+primary teams participants responded about, almost 85% of participants ( n=
+195) worked on teams with 10 or fewer members, with a mode of 5 members(n= 42, 19.8%). Participants varied in how many hours per week they worked
+with their primary team ( M= 19.07, SD= 13.76).
+We invited participants to respond about their use of various types of
+technology. Brie ﬂy, 93 participants reported using synchronous audio tech-
+nologies (e.g., Discord, Yammer), 43 participants used synchronous video
+(e.g., MS Teams, Zoom), 90 synchronous text (e.g., Slack, GroupMe), 59
+asynchronous text (e.g., Exchange, Gmail), 123 project management tech-nology (e.g., Basecamp, Asana), 87 ﬁle sharing technology (e.g., Dropbox,
+SharePoint), and 159 mentioned other technologies (e.g., DocuSign, Face-book). Participants could enter all technologies which applied. Thus, par-ticipants utilized a wide variety of technology with their primary teams with4.07 different technologies on average ( SD= 2.12).
+Measures
+Types of Boundary Work. We measured two types of boundary work using the
+8-items developed by Faraj and Yan (2009) . We chose to use two dimensions
+ofFaraj and Yan ’s (2009) conceptual framework —boundary spanning and
+boundary reinforcement —to capture the constructs of boundary loosening and
+boundary tightening, respectively. This instrument has four items for eachtype of boundary work. Each question began with the stem “To what extent ”
+and was measured on a ﬁve-point scale ranging from 1 = to a very small extentYoon et al. 369
+to 5 = to a very great extent .Boundary spanning was measured using items
+including “Does the team value team members for making use of their re-
+lationships with others on behalf of the team?, ”and“Does your primary team
+encourage its members to solicit information and resources from elsewhere inand/or beyond the team? ”(α= .72). Boundary reinforcement was measured
+using items including: “Is this team ’s image clear to important outsiders with
+whom team members interact? ”and“Has this team tried to create a clear sense
+of its identity and purpose? ”(α= .78).
+Transactive Memory System. To measure TMS, we used the validated scale
+developed by Lewis (2003) . This scale has demonstrated good validity across
+both individual and team ratings. The scale is composed of three dimensionsthat together capture TMS: specialization, credibility, andcoordination. In our
+study, reliabilities for these TMS sub-scales were initially a bit low: spe-cialization ( α= .69), credibility ( α= .65), and coordination ( α=.66). Ex-
+cluding reverse-coded items in credibility and coordination and one poorly-loading item in specialization (i.e., “The specialized knowledge of several
+different team members is needed to complete our project deliverables ”)
+resulted in higher reliability for each dimension; thus, we used the reduced
+measures. Other scholars have opted for these reduced scales in light of poorloadings for the reverse-coded TMS items (see Huang et al., 2013 ;Wang et al.,
+2018 ). These reduced and more reliable scales did not substantively change
+results.
+The specialization dimension was measured with four items ( α= .78).
+Example prompts include: “I have knowledge about an aspect of the project
+that no other team member has ”and“Each team member has specialized
+knowledge of some aspects of our project. ”The credibility dimension was
+measured with three items, excluding two reverse-coded items ( α= .76).
+Example prompts include: “I trust that other members ’knowledge about a
+given response is credible, ”and“I am con ﬁdent relying on the information
+that other team members bring to the discussion. ”
+Thecoordination dimension
+was measured with three items, excluding two reverse-coded items ( α= .76).
+Example prompts include: “Our team works together in a well-coordinated
+fashion, ”and“We accomplish our tasks smoothly and ef ﬁciently. ”
+Lewis ’s (2003) original conceptualization of TMS treats the concept “as a
+second-order TMS factor, indicated by three ﬁrst-order factors ”(p. 593). Since
+then, some scholars have treated combined TMS scale as unidimensional,while many separate out the components. To validate the factor structure usingthe pruned scales with fewer items described above, we conducted a con-ﬁrmatory factor analysis in the R package lavaan .6 –14 (Rosseel, 2012 ).
+Lewis ’(2003) second-order factor, with three distinct dimensions of TMS, ﬁt
+the data well: χ
+2(32) = 56.70, RMSEA = .073, SRMR = .045, CFI = .963. In
+contrast, a model treating these dimensions as a single-factor ﬁt signi ﬁcantly370 Management Communication Quarterly 38(2)
+worse: Δχ2 (3) = 56.70, p< .001; χ2 (35) = 124.47, RMSEA = .110, SRMR =
+.059, CFI = .906. This model ﬁt comparison adds con ﬁdence to analyzing
+each TMS dimension independently, while acknowledging specialization,
+coordination, and credibility collectively represent a team ’s TMS.
+Visibility Affordance. We used Rice et al. ’s (2017) measure of the visibility
+affordance. This measure uses six items to capture perceived visibility of themedia used by one ’s team ( α= .90). Speci ﬁcally, we provided the following
+stem: “With all of the technology my team uses, it is currently possible for me
+to…”Sample items include, “See who has interactions or links with particular
+employees or their information ”and“Receive noti ﬁcations about other
+people ’s information or updates. ”Table 1 shows the means, standard devi-
+ations, and correlations among key study variables.
+Results
+Modeling Approach
+To test our hypotheses, we created three hierarchical linear regressions with
+the outcome variables of each TMS dimension: specialization, credibility, andcoordination. Because we tested moderation relationships (H5), we mean-centered the predictors tested in this interaction (i.e., boundary work variablesand the visibility affordance; Hayes, 2022 ). We also tested for multi-
+collinearity using criteria and techniques (i.e., VIF and condition index)
+outlined by Tabachnik and Fidell (2019) . The assumptions of collinearity were
+not violated, so the results are reported without caveat or correction.
+In each model, the ﬁrst step introduced control variables of age, education,
+race (binary variable of white vs. non-white), company size, number of teamsparticipants were in, number of hours per week spent with one ’s primary team,
+and number of technologies used by the team. In the second step, we in-troduced the types of boundary work (i.e., boundary spanning and boundaryreinforcement). The third step introduced the visibility affordance. Finally, the
+fourth step included interaction terms for each boundary work type and the
+visibility affordance. Below, we report results for incremental change (i.e.,ΔR
+2) for a given step, but provide results from only the ﬁnal step (including
+interactions) from the model. The full models predicting each dimension ofTMS are shown in Table 2 .
+TMS Specialization Model
+The model predicting specialization was signi ﬁcant, F(13, 189) = 8.49, p<
+.001, R2=. 3 7 , R2
+adjusted = .33. Control variables were not signi ﬁcantly
+associated with specialization ( p=.35). The addition of types of boundaryYoon et al. 371
+Table 1. Means, Standard Deviations, Ranges, and Correlations Among Key Study Variables.
+MS D Range 1234 5 6 7 89 1 0 1 1 1 2 1 3
+1. Age 40.66 12.97 19 –85
+2. Education 4.17 1.47 1 –8 .16*
+3. White (1 = white) .83 .38 0 –1 .18** .13
+4. Company size 4.26 2.28 1 –7 .06 .19** .13
+5. Number of teams 3.42 4.86 1 –40/C0.05 .08 /C0.03/C0.01
+6. Team size 9.73 10.89 1 –100/C0.11/C0.06/C0.00 .20** .12
+7. Weekly hours with
+team19.07 13.76 1 –41/C0.12/C0.12 .20** .13 .02 .21**
+8. Number of
+technologies4.07 2.13 1 –7/C0.09 .16* .02 .18** .06 .08 .01
+9. Boundary spanning 3.17 .82 1 –5 .02 .08 /C0.01 .00 .06 .05 .01 .22***
+10. Boundary
+reinforcement3.51 .84 1 –5 .12 .05 .09 /C0.02 .05 .02 .08 .19** .67***
+11. Specialization 5.87 .85 1 –7 .10 /C0.01/C0.02/C0.02 .13 .07 .02 .07 .40*** .38***
+12. Credibility 5.96 .86 1 –7 .13 .02 .07 .05 .10 .07 .10 .12 .42*** .49*** .64***
+13. Coordination 5.32 1.02 1 –7 .12 /C0.09/C0.05/C0.04 .07 /C0.01 .06 .10 .37*** .44*** .61*** .70***
+14. Visibility 5.32 1.17 1 –7/C0.06 .07 /C0.04 .01 .15* .03 /C0.05/C0.27*** .41*** .30*** .43*** .55*** .46***
+Note. Variables 8 –13 were standardized to scale range of 1 –7 and then mean-centered for analysis.
+*p< .05, ** p< .01, *** p< .001.372 Management Communication Quarterly 38(2)
+work was associated with a 19% increase in variance explained in spe-
+cialization. Boundary spanning had a positive relationship with speciali-
+zation supporting H1a. Boundary reinforcement was unrelated to
+specialization (H1b not supported). T he visibility affordance was also
+positively related to specializat ion supporting H4a and accounted for an
+a d d i t i o n a l7 %o ft h ev a r i a n c e .
+Finally, the interactions signi ﬁcantly explained an additional 7% of the
+variance. The interaction between boundary spanning and visibility was notsigniﬁcantly associated with TMS specialization, while the interaction be-
+tween boundary reinforcement and visibility was negatively associated. We
+decomposed each signi ﬁcant interaction using Dawson ’s (2014) tool which
+models the interaction at +/ /C01 SD above and below the mean. Results show
+that at lower levels of visibility, there was a positive relationship betweenTable 2. Results of Hierarchical Regressions.
+Specialization Credibility Coordination
+βββ
+Control variables
+Age /C0.12* /C0.17** /C0.15**
+Education /C0.04 /C0.07 /C0.10
+White .01 .05 /C0.07
+Company size /C0.02 .03 /C0.01
+Number of teams at work .07 .02 /C0.01
+Members in primary team .08 .06 .01Hours with primary team .00 .08 .08Number of technologies /C0.06 /C0.05 /C0.03
+ΔR
+2.04 .05 .06
+Boundary work variables
+Boundary spanning .28*** .14* /C0.15*
+Boundary reinforcement .15 .28*** .31***
+ΔR2.19*** .24*** .19***
+Visibility affordance
+Visibility .27*** .41*** .31***ΔR
+2.07*** .16*** .11***
+Interactions
+Spanning and visibility .02 .07 /C0.013
+Reinforcement and visibility /C0.28*** /C0.36*** /C0.30***
+ΔR2.07*** .09*** .14***
+Note. Boundary spanning, boundary reinforcement, and visibility are mean centered to facilitate
+testing of interaction effects.
+*p< .05, ** p< .01, *** p< .001.Yoon et al. 373
+boundary reinforcement and TMS specialization. In contrast, at high levels of
+visibility, boundary reinforcement did not affect TMS specialization. This
+result indicates that visibility does not affect the relationship between
+boundary spanning and TMS specialization and that boundary reinforcementhas a positive relationship with TMS specialization only when visibility islow. Thus H5a and H5b were not supported (see Figure 1 ).
+TMS Credibility Model
+The model predicting credibility was signi ﬁcant, F(13, 189) = 18.25, p< .001,
+R2=. 5 6 , R2
+adjusted = .53. The control variables were not signi ﬁcant ( p= .09).
+The addition of types of boundary work was associated with a 24% increase invariance explained. Both boundary spanning and reinforcement had a positiverelationship with TMS credibility, supporting H2a and H2b. The visibilityaffordance was also positively related to TMS credibility and accounted for anadditional 16% of the variance, supporting H4b.
+Finally, the interactions signi ﬁcantly explained 9% of the variance. The
+interaction between boundary reinforcement and visibility was negatively
+associated with TMS credibility, whereas there was no signi ﬁcant interaction
+effect between boundary spanning and visibility on TMS credibility. Resultsof the decomposed relationship show that the relationship between boundaryreinforcement and credibility is negligible when visibility is high, and positivewhen visibility is lower, as shown in Figure 2 . These results do not support
+H5c or H5d.
+Figure 1. Interaction between boundary reinforc ement and visibility on specialization.
+Note. The y-axis range is limited to 4 –7, data are modeled at +/ /C01SD.This Figure is
+based on estimates from the model reported in the results.374 Management Communication Quarterly 38(2)
+TMS Coordination Model
+The model predicting coordination was signi ﬁcant, F(13, 189) = 14.81, p<
+.001, R2= .51, R2
+adjusted = .47. The control variables did not signi ﬁcantly
+predict TMS coordination ( p= .12). The addition of types of boundary work
+was associated with a 19% increase in variance explained. Boundary spanninghad a negative relationship with TMS coordination, supporting H3a; further,boundary reinforcement had a positive relationship with TMS coordination,supporting H3b. The visibility affordance was signi ﬁcantly and positively
+related to TMS coordination, and explained 11% of the variance in TMS
+coordination, supporting H4c (see Figure 3 ).
+Finally, the interactions signi ﬁcantly explained 14% of the variance; the
+interaction between boundary spanning and visibility was nonsigni ﬁcant
+while the interaction between boundary reinforcement and visibility wassigniﬁcant. Results of the decomposed relationship show that when visibility
+is high, the relationship between boundary reinforcement and TMS coordi-nation is negligible. In contrast, at low levels of visibility, the relationshipbetween boundary reinforcement and TMS coordination is positive. Neither
+H5e nor H5f was supported.
+Discussion
+T h i ss t u d ye x p l o r e dh o wt e a mm e m b e r s ’boundary work affects the focal
+team’s TMS development. The two types of boundary work (boundary
+spanning and boundary reinforcement), the visibility affordance of ICTs the
+Figure 2. Interaction between boundary reinforcement and visibility on credibility.
+Note. The y-axis range is limited to 4 –7. Data are modeled at +/ /C01SD.This Figure is
+based on estimates from the model reported in the results.Yoon et al. 375
+team uses, and the interactions between the types of boundary work and the
+visibility affordance account for substantial variance in the team ’sT M S
+specialization, credibility, and coordination. Speci ﬁcally, our results show
+that boundary spanning positively aff ects TMS specialization and credi-
+bility and negatively affects coordination, while boundary reinforcementpositively affects TMS credibility a nd coordination. Additionally, the
+visibility affordance has a direct pos itive effect on all three dimensions of
+TMS and, contrary to our predictions, moderates the relationships between
+boundary reinforcement and all three dimensions of TMS such that the
+direct positive effects of boundary r einforcement are prominent when the
+level of visibility is low. Below we exp lore the theoretical and practical
+implications of these ﬁndings and conclude with limitations and sugges-
+tions for future research.
+Theoretical and Practical Implications
+The current study is a novel empirical investigation examining the impact ofboundary work on TMS. The ﬁndings make important contributions to
+extending TMS theory by explicating how TMS development can be af-fected by the external environment i n which teams are embedded as well as
+the ways in which team members engage with the environment throughboundary management. Theorization about TMS development and ensuingempirical research have primarily focused on internal team communicationand relationships among members in bounded team environments (e.g.,
+Figure 3. Interaction between boundary reinforc ement and visibility on coordination.
+Note. The y-axis range is limited to 4 –7. Data are modeled at +/ /C01SD.This Figure is
+based on estimates from the model reported in the results.376 Management Communication Quarterly 38(2)
+Littlepage et al., 2008 ). This study showcases how TMS development can be
+understood when team members interact internally with one another as well
+as externally with members outside their focal team. Our ﬁndings suggest
+that individuals ’boundary work signi ﬁcantly affects TMS development in
+both bene ﬁcial and detrimental ways and that more attention and empirical
+research are warranted for the extension of TMS theory beyond a focus onintra-team interactions.
+Theﬁndings of the study also offer practical implications for how work
+teams may manage boundary activities to develop their TMS effectively.Ourﬁndings revealed that different types of boundary work contribute to
+different aspects of TMS development. Speci ﬁcally, boundary spanning
+positively affected specialization and credibility, while boundary rein-forcement positively affected credibility and coordination. Simultaneously,boundary spanning may also harm internal coordination for the team ’sT M S .
+These ﬁndings help us refute a simplistic notion of either positive or negative
+effects of boundary work in its entirety and instead develop a more nuancedunderstanding of the implications for both internal and external realities
+teams face.
+It is well documented that boundary spanning bene ﬁts individuals, teams,
+and organizations ( Burt, 2004 ). Still, teams consistently face a tension be-
+tween internal and external forces ( Piercy & Kramer, 2017 ). Our ﬁndings help
+reconcile these competing tensions and provide different pathways to leverageboth internal and external in ﬂuences and possibly balance boundary spanning
+and reinforcement. Teams could bene ﬁt from boundary-spanning activities by
+expanding cognitive resources with additional knowledge brought on fromexternal environments and by supporting individual members ’learning in
+their areas of specialty and the development of differentiated knowledge
+structures within the team. Additionally, boundary-spanning activities canserve as a mechanism to validate one ’s expertise through external engage-
+ment, and boundary spanning might be encouraged to build credibility forteam members ’expertise. It is also important to point out the challenges that
+arise from boundary spanning, an unusual conclusion for a typically cele-brated activity for teams and individuals, as it reduces the team ’s ability to
+coordinate.
+Increased team cohesion via elevated sense of purpose or identity through
+boundary reinforcement also bene ﬁts TMS. Prioritizing boundary-tightening
+activities aids in accomplishing critical tasks that require internal task co-ordination. Further, teams seeking to increase cohesion, trust, and memberreliance (i.e., credibility) bene ﬁt from boundary reinforcement practices,
+which increase members ’awareness of team boundaries and strengthen team
+identity. This is important because teams with more shared mental modelsabout who the team is, what the team does, and how the team is situated in aYoon et al. 377
+broader work environment, are better situated to both coordinate and perform
+more effectively ( Wu et al., 2020 ).
+The moderating effects of the visibility affordance are also promising. Our
+results showed that although the visibility affordance had a direct positiveeffect on all three dimensions of TMS, when it interacted with boundarywork—contrary to our hypothesis —it ameliorated the direct positive effects of
+boundary reinforcement. In other words, the positive effect of boundaryreinforcement on TMS specialization, credibility, and coordination was at-tenuated when the level of visibility affordance was high. This suggests thathigh visibility does not make the effects of boundary work more pronounced
+as predicted, but instead eliminates them by compensating for low boundary-
+reinforcement activities.
+Notably, the moderating effect of the visibility affordance was found only
+for boundary reinforcement, not for boundary spanning. One possible ex-planation for this ﬁnding is that different types of communication visibility
+may have varying in ﬂuence on boundary spanning. The current study treated
+the visibility affordance as a single construct, but visibility can be teased outinto two distinct properties ––message transparency and network translucence
+(Leonardi, 2015 ). Message transparency refers to a technology ’s ability to
+make communication content (who knows what) visible and public, whereasnetwork translucence refers to the extent to which technology affords users toview others ’communication networks (who knows whom). We speculate that
+as boundary-spanning activities hinge on interactions and relationships withexternal audiences and stakeholders, it is possible that network translucence,compared with message transparency, has a more salient in ﬂuence on
+boundary spanning and, in turn, moderates the relationship between boundary
+spanning and the three dimensions of TMS. Therefore, a separation of the two
+types of the visibility affordance may reveal their moderating effects onboundary spanning and is recommended for future studies.
+The predicted negative effect of boundary reinforcement on TMS spe-
+cialization was not supported in our data, and the relationship between the twovariables was, in fact, in the positive direction although not signi ﬁcant ( p=
+.059). Furthermore, similar to the other two dimensions of TMS, the positiveeffect of boundary reinforcement on TMS specialization was evidenced when
+the visibility affordance was low. Contrary to our prediction, boundary re-
+inforcement likely enhances TMS specialization by directing the focal team ’s
+communication inward, particularly in a technology environment with lowvisibility, and thereby helping team members recognize each other ’s unique
+areas of expertise and develop their differentiated knowledge structure. Thismay also suggest that the bene ﬁt of more focused internal team communi-
+cation through boundary reinforcement can override a potential negativeimpact of limited knowledge acquisition and learning that boundary rein-
+forcement may bring about.378 Management Communication Quarterly 38(2)
+Limitations and Future Research
+Ourﬁndings need to be interpreted with a few limitations in mind. First, our
+measurement of TMS was at the individual level, capturing single member ’s
+perception of their team ’s TMS. Fortunately, the TMS measure used in this
+study has been validated between individual and team perceptions, with highcorrelations in individual-to-aggregate estimations ( Lewis, 2003 ). Still, team-
+level data (e.g., aggregation of all team members ’perceptions of TMS) would
+elevate the measurement of TMS as a team construct, capturing the collective
+representation of the cognitive structure.
+Second, while participants were generally demographically diverse (e.g.,
+race and age), our sample did not consider base rate ethnic makeup and under-sampled Hispanic and Latinx workers who make up nearly one in ﬁve U.S.
+workers ( Krogstad et al., 2022 ). Given these dynamics, future research might
+beneﬁt from quota sampling based on ethnicity or further focusing on this
+unique and growing ethnic group.
+As mentioned earlier, future research that investigates the disparate impact
+of the two types of visibility affordance on boundary work and the three
+dimensions of TMS will provide a more nuanced understanding of the role ofvisibility affordance. The two types of visibility affordance may differentiallyaffect the three dimensions of TMS. Both message transparency and networktranslucence may positively affect TMS specialization, as one ’s domain ex-
+pertise can be better recognized and clearly established through communi-cation content as well as network connections. However, the effect of messagetransparency may be more salient for TMS coordination than the effect of
+network translucence, because a team ’se fﬁciency in coordinating task per-
+formance may depend more on communication content than relational ties.
+Finally, consistent with most previous empirical research on boundary
+work, our study focused on the impact of boundary work on focal teams ’
+TMS. Boundary management is an important aspect of how individualsand teams operate and function, which implicates both within-team andbetween-team processes. In response to calls for more research on how team-based constructs that have traditionally been studied in single-team environ-
+ments, like TMS, can be applied to multi-team environments ( Margolis, 2020 ),
+future research could expand the target of examination beyond focal teams andexplore boundary management between multiple teams. For instance, whileboundary spanning may bene ﬁt a primary team to whom one has allegiance, it
+may be detrimental to coordination on secondary or tertiary teams with which amember feels more peripherally af ﬁliated. The fact that a particular boundary
+activity may bene ﬁt one team but harm others in a multi-team environment
+poses signi ﬁcant challenges to resource sharing across teams. While previous
+research has suggested that the balance between boundary spanning and re-
+inforcement could be achieved by assigning different roles to team membersYoon et al. 379
+(Allen, 1984 ), future research ought to explore how boundary work variously
+affects teams based on identi ﬁcation, priority, commitment, or other core or-
+ganizational constructs and how boundary work implicates both intra- and inter-
+team knowledge sharing.
+Declaration of Con ﬂicting Interests
+The author(s) declared no potential con ﬂicts of interest with respect to the research,
+authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following ﬁnancial support for the research,
+authorship, and/or publication of this article: This research is based upon worksupported by a Committee on Research and Creative Works seed grant at University ofColorado Colorado Springs awarded to the ﬁrst author.
+ORCID iDs
+Kay Yoon https://orcid.org/0000-0002-7212-979X
+Cameron Piercy https://orcid.org/0000-0003-1431-3086
+References
+Allen, T. J. (1984). Managing the ﬂow of technology: Technology transfer and the
+dissemination of technological information within the R&D organization . MIT
+University Press.
+Bachrach, D. G., Lewis, K., Kim, Y., Patel, P. C., Campion, M. C., & Thatcher, S.
+(2019). Transactive memory systems in context: A meta-analytic examination ofcontextual factors in transactive memory systems development and team per-formance. Journal of Applied Psychology ,104(3), 464 –493. https://doi.org/10.
+1037/apl0000329
+Benoliel, P., & Somech, A. (2015). The role of leader boundary activities in enhancing
+interdisciplinary team effectiveness. Small Group Research ,46(1), 83 –124.
+https://doi.org/10.1177/1046496414560028
+Bingham, T., & Conner, M. (2015). The new social learning: Connect, collaborate,
+work (2nd ed.). Association for Talent and Development.
+Burt, R. S. (2004). Structural holes and good ideas. American Journal of Sociology ,
+110(2), 349 –399. https://doi.org/10.1086/421787
+Chung, Y., & Jackson, S. E. (2013). The internal and external networks of knowledge-
+intensive teams: The role of task routineness. Journal of Management ,39(2),
+442–468. https://doi.org/10.1177/0149206310394186
+Cramton, C., Orvis, K., & Wilson, J. (2007). Situation invisibility and attribution in
+distributed collaborations. Journal of Management ,33(4), 525 –546. https://doi.
+org/10.1177/0149206307302549380 Management Communication Quarterly 38(2)
+Crawford, E. R., Reeves, C. J., Stewart, G. L., & Astrove, S. L. (2019). To link or not to
+link? Multiple team membership and unit performance. Journal of Applied
+Psychology ,104(3), 341 –356. https://doi.org/10.1037/apl0000381
+Dawson, J. F. (2014). Moderation in management research: What, why, when, and
+how. Journal of Business and Psychology ,29(1), 1–19.https://doi.org/10.1007/
+s10869-013-9308-7
+DeChurch, L. A., & Mesmer-Magnus, J. R. (2010). The cognitive underpinnings of
+effective teamwork: A meta-analysis. Journal of Applied Psychology ,95(1),
+32–53.https://doi.org/10.1037/a0017328
+de Vries, T. A., Walter, F., van der Vegt, G. S., & Essens, P. J. (2014). Antecedents of
+individuals ’inter-team coordination: Broad functional experiences as a mixed
+blessing. Academy of Management Journal ,57(5), 1334 –1359. https://doi.org/10.
+5465/amj.2012.0360
+Dey, C., & Ganesh, M. P. (2017). Team boundary activity: A review and directions for
+future research. Team Performance Management ,23(5/6), 273 –292. https://doi.
+org/10.1108/TPM-06-2016-0029
+Dibble, R., & Gibson, C. B. (2018). Crossing team boundaries: A theoretical model of
+team boundary permeability and a discussion of why it matters. Human Relations ,
+71(7), 925 –950. https://doi.org/10.1177/0018726717735372
+Faraj, S., & Yan, A. (2009). Boundary work in knowledge teams. Journal of Applied
+Psychology ,94(3), 604 –617. https://doi.org/10.1037/a0014367
+Fisher, M., Goddu, M. K., & Keil, F. C. (2015). Searching for explanations: How the
+internet in ﬂates estimates of internal knowledge. Journal of Experimental Psy-
+chology: General ,144(3), 674 –687. https://doi.org/10.1037/xge0000070
+Gupta, P., & Woolley, A. M. (2018). Productivity in an era of multi-teaming: The role
+of information dashboards and shared cognition in team performance. Pro-
+ceedings of ACM on Human-Computer Interaction ,2(CSCW), 1 –18.https://doi.
+org/10.1145/3274331
+Harvey, S., Peterson, R. S., & Anand, N. (2014). The process of team boundary
+spanning in multi-organizational contexts. Small Group Research ,45(5),
+506–538. https://doi.org/10.1177/1046496414534474
+Hayes, A. F. (2022). Introduction to mediation, moderation, and conditional process
+analysis: A regression based approach (3rd ed.). Guilford.
+Hollingshead, A. B., Gupta, N., Yoon, K., & Brandon, D. (2011). Transactive memory
+theory and teams: Past, present, and future. In E. Salas, S. Fiore, & M. Letsky(Eds.), Theories of team cognition: Cross-disciplinary perspectives
+(pp. 421 –455). Routledge. https://doi.org/10.4324/9780203813140
+Huang, Q., Liu, H., & Zhong, X. (2013). The impact of transactive memory systems on
+team performance. Information Technology & People ,26(2), 191 –212. https://
+doi.org/10.1108/ITP-04-2013-0068
+Kotlarsky, J., van den Hooff, B., & Houtman, L. (2015). Are we on the same page?
+Knowledge boundaries and transactive memory system development in cross-Yoon et al. 381
+functional teams. Communication Research ,42(3), 319 –344. https://doi.org/10.
+1177/0093650212469402
+Krogstad, J. M., Passel, J. S., & Noe-Bustamante, L. (2022). Key facts about U.S.
+Latinos for national hispanic heritage month . Pew research. https://www.
+pewresearch.org/
+Leonardi, P. M. (2014). Social media, knowledge sharing, and innovation: Toward a
+theory of communication visibility. Information Systems Research ,25(4),
+796–816. https://doi.org/10.1287/isre.2014.0536
+Leonardi, P. M. (2015). Ambient awareness and knowledge acquisition: Using social
+media to learn “who knows what ”and“who knows whom. MIS Quarterly ,39(4),
+747–762. https://doi.org/10.25300/MISQ/2015/39.4.1
+Leonardi, P. M., & Treem, J. W. (2020). Behavioral visibility: A new paradigm for
+organization studies in the age of digitization, digitalization, and data ﬁcation.
+Organization Studies ,41(12), 1601 –1625. https://doi.org/10.1177/
+0170840620970728
+Lewis, K. (2003). Measuring transactive memory systems in the ﬁeld: Scale devel-
+opment and validation. Journal of Applied Psychology ,88(4), 587 –604. https://
+doi.org/10.1037/0021-9010.88.4.587
+Lewis, K. (2004). Knowledge and performance in knowledge-worker teams: A
+longitudinal study of transactive memory systems. Management Science ,50(11),
+1519–1533. https://doi.org/10.1287/mnsc.1040.0257
+Lewis, K., Lange, D., & Gillis, L. (2005). Transactive memory systems, learning, and
+learning transfer. Organization Science ,16(6), 581 –598. https://doi.org/10.1287/
+orsc.1050.0143
+Liao, J., O ’Brien, A. T., Jimmieson, N. L., & Restubog, S. L. D. (2015). Predicting
+transactive memory system in multidisciplinary teams: The interplay betweenteam and professional identities. Journal of Business Research ,68(5), 965 –977.
+https://doi.org/10.1016/j.jbusres.2014.09.024
+Littlepage, G. E., Hollingshead, A. B., Drake, L. R., & Littlepage, A. M. (2008).
+Transactive memory and performance in work groups: Speci ﬁcity, communi-
+cation, ability differences, and work allocation.
+Group Dynamics: Theory,
+Research, and Practice ,12(3), 223 –241. https://doi.org/10.1037/1089-2699.
+12.3.223
+Margolis, J. (2020). Multiple team membership: An integrative review. Small Group
+Research ,51(1), 48 –86.https://doi.org/10.1177/1046496419883702
+Marrone, J. A., Tesluk, P. E., & Carson, J. B. (2007). A multi-level investigation of
+antecedents and consequences of team member boundary spanning behavior.
+Academy of Management Journal ,50(6), 1423 –1439. https://doi.org/10.5465/
+AMJ.2007.28225967
+Moreland, R. L., & Myaskovsky, L. (2000). Exploring the performance bene ﬁts of
+group training: Transactive memory or improved communication? Organiza-
+tional Behavior and Human Decision Processes ,82(1), 117 –133. https://doi.org/
+10.1006/obhd.2000.2891382 Management Communication Quarterly 38(2)
+Mortensen, M. (2014). Constructing the team: The antecedents and effects of
+membership model divergence. Organization Science ,25(3), 909 –931. https://
+doi.org/10.1287/orsc.2013.0881
+Mortensen, M., & Haas, M. R. (2018). Perspective —rethinking teams: From bounded
+membership to dynamic participation. Organization Science ,29(2), 341 –355.
+https://doi.org/10.1287/orsc.2017.1198
+Olabisi, J., & Lewis, K. (2018). Within- and between-team coordination via Trans-
+active Memory Systems and boundary spanning. Group & Organization Man-
+agement ,43(5), 691 –717. https://doi.org/10.1177/1059601118793750
+O’Leary, M. B., Mortensen, M., & Woolley, A. W. (2011). Multiple team membership:
+A theoretical model of its effects on productivity and learning for individuals andteams. Academy of Management Review ,36(3), 461 –478.https://doi.org/10.5465/
+AMR.2011.61031807
+Piercy, C. W., & Kramer, M. W. (2017). Exploring dialectical tensions of leading
+volunteers in two community choirs. Communication Studies ,68(2), 208 –226.
+https://doi.org/10.1080/10510974.2017.1303621
+Piercy, C. W., & Zhu, Y. (2021). Transactive memory and the job search: Finding
+expertise and in ﬂuence in socio-technical networks. Western Journal of Com-
+munication ,85(2), 230 –252. https://doi.org/10.1080/10570314.2020.1761994
+Qu, X., & Liu, X. (2021). How can creative ideas be implemented? The roles of leader
+performance-prove goal orientation and boundary-spanning strategy. Creativity
+Research Journal ,33(4), 411 –423. https://doi.org/10.1080/10400419.2021.
+1943135
+Rapp, T. L., & Mathieu, J. E. (2019). Team and individual in ﬂuences on members ’
+identi ﬁcation and performance per membership in multiple team membership
+arrangements. Journal of Applied Psychology ,104(3), 303 –320. https://doi.org/
+10.1037/apl0000344
+Ren, Y., & Argote, L. (2011). Transactive memory systems 1985 –2010: An integrative
+framework of key dimensions, antecedents, and consequences. The Academy of
+Management Annals ,5(1), 189 –
+229. https://doi.org/10.1080/19416520.2011.
+590300
+Rice, R. E., Evans, S. K., Pearce, K. E., Sivunen, A., Vitak, J., & Treem, J. W. (2017).
+Organizational media affordances: Operationalization and associations withmedia use. Journal of Communication ,67(1), 106 –130. https://doi.org/10.1111/
+jcom.12273
+Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. Journal of
+Statistical Software ,48(2), 1–36.https://doi.org/10.18637/jss.v048.i02
+Seibold, D. R., Hollingshead, A. B., & Yoon, K. (2014). Embedded teams. In L.
+Putnam, & D. K. Mumby (Eds.), Sage handbook of organizational communi-
+cation: Advances in theory, research, and methods (3rd ed., pp. 327 –349). Sage.
+Somech, A., & Khalaili, A. (2014). Team boundary activity: Its mediating role in the
+relationship between structural conditions and team innovation. Group &Yoon et al. 383
+Organization Management ,39(3), 274 –299. https://doi.org/10.1177/
+1059601114525437
+Tabachnik, B. G., & Fidell, L. S. (2019). Using multivariate statistics (7th ed.).
+Pearson.
+Treem, J. W., & Leonardi, P. M. (2012). Social media use in organizations. Annals of
+the International Communication Association ,36(1), 143 –189. https://doi.org/
+10.1080/23808985.2013.11679130
+van de Brake, H. J., Walter, F., Rink, F. A., Essens, P. J. M. D., & van der Vegt, G. S.
+(2018). The dynamic relationship between multiple team membership and in-dividual job performance in knowledge-intensive work. Journal of Organiza-
+tional Behavior ,39(9), 1219 –1231. https://doi.org/10.1002/job.2260
+Van Zoonen, W., Sivunen, A. E., & Treem, J. W. (2023). Examining the longitudinal
+relationship between visibility and presistence on stress and technology-assisted
+supplemental work. Human Communication Research ,49(1), 13 –23.https://doi.
+org/10.1093/hcr/hqac023 .
+Wageman, R., Gardner, H., & Mortensen, M. (2012). The changing ecology of teams:
+New directions for teams research. Journal of Organizational Behavior ,33(3),
+301–315. https://doi.org/10.1002/job.1775
+Wang, Y., Huang, Q., Davison, R. M., & Yang, F. (2018). Effect of transactive memory
+systems on team performance mediated by knowledge transfer. International
+Journal of Information Management ,41,6 5–79.https://doi.org/10.1016/j.
+ijinfomgt.2018.04.001 .
+Wattal, S., Racherla, P., & Mandviwalla, M. (2009) Employee adoption of corporate
+blogs: A quantitative analysis. 2009 42nd Hawaii International Conference onSystem Sciences, Waikoloa, HI, (pp. 1 –10). https://doi.org/10.1109/HICSS.
+2009.188
+Wegner, D. M. (1987). Transactive memory: A contemporary analysis of the group
+mind. In B. Mullen, & G. R. Goethals (Eds.), Theories of group behavior
+(pp. 185 –208). Springer-Verlag.
+Wimmer, J., Backmann, J., & Hoegl, M. (2019). In or out? Exploring the inconsistency
+and permeability of team boundaries. Small Group Research ,50(6), 699 –727.
+https://doi.org/10.1177/1046496419851842
+Wu, X., Huang, W., Jiang, J., Klein, G., & Liu, S. (2020). Boundary buffering:
+Limiting interference and information leakage in design teams. International
+Journal of Operations & Production Management ,40(3), 293 –313. https://doi.
+org/10.1108/IJOPM-03-2019-0180
+Yaghootkar, K., & Gil, N. (2012). The effects of schedule-driven project management
+in multi-project environments. International Journal of Project Management
+,
+30(1), 127 –140. https://doi.org/10.1016/j.ijproman.2011.02.005
+Yan, B., Kim, Y. J., Hollingshead, A. B., & Brandon, D. (2019). Conceptualizing
+online groups as multidimensional networks. In A. Attrill-Smith, C. Fullwood, &M. Keep (Eds.), Oxford handbook of cyberpsychology (pp. 308 –327). Oxford
+University Press.384 Management Communication Quarterly 38(2)
+Yoon, K., & Zhu, Y. (2022). Social media affordances and transactive memory systems
+in virtual teams. Management Communication Quarterly ,36(2), 235 –260.https://
+doi.org/10.1177/08933189211032639
+Yuan, Y. C., Zhao, X., Liao, Q., & Chi, C. (2013). The Usage of different information
+and communication technologies to support knowledge sharing in organizations.
+Journal of the American Society for Information Science and Technology ,64(8),
+1659–1670. https://doi.org/10.1002/asi.22863
+Author Biographies
+Kay Yoon (Ph.D., University of Illinois Urbana-Champaign) is a professor in
+the Department of Communication at University of Colorado ColoradoSprings, USA. Her research investigates communicative, technological, andsociocultural factors that in ﬂuence knowledge sharing behaviors and per-
+formances in work teams.
+Cameron W. Piercy (Ph.D., University of Oklahoma) is an associate pro-
+fessor of Communication Studies at the University of Kansas, USA. He is thedirector of the Human-Machine Communication lab ( https://hmc.ku.edu ) and
+is interested in socio-technical networks and organizational identity/
+identi ﬁcation.
+Young Ji Kim (Ph.D., University of Southern California) is an assistant
+professor in the Department of Communication at University of California,
+Santa Barbara, USA. Her main research interests include collective intelli-
+gence, technology in teamwork, team diversity, and the Future of Work issues.
+Yaguang Zhu (Ph.D., University of Texas at Austin) is an assistant professor
+in the Department of Communication at University of Oklahoma, USA. His
+main research interests include workplace technology adoption and team
+collaboration, primarily in healthcare contexts.Yoon et al. 385

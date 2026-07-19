@@ -1,0 +1,453 @@
+Digital Transformation  and Innovation Performance : the 
+Mediating Roles  of Open Innovation  and Absorptive 
+Capacity  
+*Nan Zhao  
+School of management, Shanghai University, Shanghai, 200444 , China  
+*Email: 1183075457@qq.com  
+Abstract . Digital transformation promotes the cross -organizational flow of 
+knowledge to provide a new impetus and a new engine for corporate innovation.  
+This study uses dynamic capability theory to demonstrate the intrinsic linkages  
+between digital transformation, open innovation, absorpt ive capacity and inno-
+vation performance. The study utilizes data from Chinese A -share listed manu-
+facturing enterprises from 2016 to 2022. The results show that there is a signifi-
+cant positive correlation between digital transformation and enterprise innova tion 
+performance, and the results are still valid after robustness test. The finding s of 
+the mediating mechanism indicate that digital transformation can facilitate open 
+innovation activities and enhance the absorptive capacity of enterprises,  which  
+leads to improved innovation performance. Starting from the knowledge flow 
+perspective, this paper provides essential  theoretical and empirical support for 
+clarifying the mechanism of digital transformation in manufacturing and its im-
+pact on innovation pe rformance. The study has significant implications  for the 
+long-term development of China's manufacturing industry in the digital economy 
+environment.  
+Keywords:  digita l transformation;  open innovation; absorptive capacity; inno-
+vation performance ;  
+1 INTRODUCT ION  
+In light of the current rapid expansion of the global digital economy, China's digital 
+economy has entered a new stage of growth. According to the Digital China Develop-
+ment Report (2022), China's digital economy expected to total 50.2 trillion yuan by 
+2022, accounting for 41.5% of the GDP [1]. The digital economy, with digital technol-
+ogy as its core driver, has greatly contributed to the advancement of productivity [2]. 
+To adapt to the new economic environment, many enterprises have started actively pur-
+suing digital transformation to  enhance their competitiveness and foster innovation.  
+The openness, availability, and integration of digital technologies, are reshaping the 
+innovation model of enterprises, making knowledge  flow between the external envi-
+ronment and the internal innovatio n activities of the company [3]. In the process of dig-
+ital transformation, the widespread application of digital  technology has strengthened  
+  
+© The Author(s) 2024
+V. Vasilev et al. (eds.), Proceedings of the 2024 5th International Conference on Management Science and 
+Engineering Management (ICMSEM 2024) , Advances in Economics, Business and Management Research 306,
+https://doi.org/10.2991/978-94-6463-570-6_39
+the connection for open innovation between subjects of innovation. Enterprises utilize
+open innovation for knowledge interoperability, which enhances their innovation capa-
+bilities [4]. At the same time, the knowledge absorption capacity of enterprises plays
+an important role in absorbing innovative resources[5], quickly identifying external
+knowledge and evaluating its effectiveness. However, few scholars have paid attention
+to the mechanism of open innovation and absorptive capacity's influence on innovation
+performance in the process of digital transformation, and there is a lack of relevant
+empirical tests.
+Based on dynamic capability theory, this paper aims to explore the impact of digital
+transformation on the innovation performance and its internal mechanisms from the
+knowledge perspective. Manufacturing is critical to future high-quality economic de-
+velopment. Therefore, this study utilizes data from China's listed manufacturing busi-
+nesses from 2016 to 2022. The paper makes some significant contributions: firstly, it
+enriches the existing research on the digital transformation of the manufacturing indus-
+try and suggests ways for China to become a manufacturing powerhouse and achieve
+high-quality development. Second, it broadens the scope of research the performance
+of enterprise innovation. It looks into how open innovation, specifically from the open
+innovation perspective, and absorptive capacity relate to the relationship between inno-
+vation performance and digital transformation.
+2 THEORETICAL REVIEW AND RESEARCH
+HYPOTHESES
+2.1 Digital Transformation and Innovation Performance
+Digital transformation involves the strategic actions taken by enterprises to achieve
+digitalization across all aspects of production, management, and sales by adopting dig-
+ital technologies such as artificial intelligence, blockchain, cloud computing, and big
+data [6]. The dynamic capability theory emphasizes that enterprises enhance their com-
+petitive advantage by continuously learning, adapting, and innovating in the face of
+constantly changing external environments. Digital transformation, through extensive
+data collection and in-depth analysis, it can help break down information barriers within
+and outside the enterprise, improving the information gap caused by the "digital divide"
+[7]. Additionally, it can promote cross-departmental and cross-geographical coopera-
+tion, thereby strengthening innovation collaboration. It reduces delays in decision-mak-
+ing and physical objects and improves the efficiency of innovation. It enables enter-
+prises and external partners to engage in distributed, virtualized, and large-scale
+knowledge collision and interaction, thereby promoting innovation in interaction meth-
+ods and strategic cooperation between enterprises [8]. Based on the above analysis, we
+propose hypothesis 1:
+Digital transformation has a significant positive impact on innovation performance.382             N. Zhao2.2 The Mediating Role of Open Innovation
+Open innovation refers to the purposeful utilization and management of knowledge in-
+flows and outflows [9] by firms to engage in innovation activities with external part-
+ners, customers, suppliers, academia, etc. In the digital era, enterprises utilize digital
+technology with the characteristics of openness, availability, generativity, convergence,
+and self-growth while undergoing digital transformation. It provides new support for
+enterprises to carry out open innovation activities across organizational boundaries
+[10]. Digital transformation also offers a wider range of platforms and tools for collab-
+orative research and development (R&D). These include open innovation platforms and
+digital collaboration tools that enterprises utilize to integrate resources and enhance the
+efficiency of their services. In addition, digital transformation has changed the way
+which innovation occurs. With the support of digital technology, innovation sharing
+can be promoted, increasing the possibility of integrating different innovation elements
+and technologies among enterprises. This greatly enhances the ability of open innova-
+tion, facilitates the establishment of innovation networks between enterprises and ex-
+ternal parties, and provides great convenience for conducting collaborative research and
+development [11]. Based on the above analysis, we propose hypothesis 2:
+Digital transformation has a significant positive impact on open innovation.
+Digital transformation helps reduce the information asymmetry of enterprises,
+thereby reducing the risks and costs associated with open innovation [12]. This can
+reduce the risk of innovation for enterprises and enhance their innovation performance.
+Under digital transformation, enterprises can establish a flat organizational structure
+and streamline their business processes using digital technology. This enables better
+resource integration and distribution. Furthermore, enterprises find it easier to innovate
+during the upgrading process due to the quick development and deployment of digital
+technologies. The improvement in operational efficiency allows enterprises to achieve
+greater output performance, even with the same resources. Based on the above analysis,
+we propose hypothesis 3:
+Open innovation mediates the relationship between digital transformation and inno-
+vation performance.
+2.3 The Mediating Role of Absorptive Capacity
+Absorptive capacity, as a crucial component of dynamic capabilities, is an important
+innovative capability for organizations [13] . "Absorptive capacity" describes the capa-
+bility to recognize, absorb, transform, and utilize valuable knowledge and technology
+both within and outside the organization[14]. Enterprises are supported in enhancing
+their absorption capacity by putting digital transformation into practice. Firstly, the
+adoption of cutting-edge digital technologies like big data and cloud computing, pro-
+vides rapid access to a large amount of user data in a cost-effective and multi-dimen-
+sional manner. This improves resource allocation efficiency and enhances the ability of
+enterprises to absorb and integrate internal and external resources [15], [16]. Secondly,
+digital transformation can also help enterprises accurately acquire relevant resources
+and capabilities in dynamic environments, enabling accurate matching of resources andDigital Transformation and Innovation Performance             383capabilities. This, in turn, improves the efficiency of information processing and pro-
+vides a material guarantee for enterprises to absorb and transform relevant information
+and knowledge. Therefore, we propose hypothesis 4:
+Digital transformation has a significant positive impact on absorptive capacity.
+Absorptive capacity, by integrating and generating new innovation resources and
+transforming them into part of the enterprise's future absorptive capacity [17] , can also
+accelerate the speed, frequency, and level of enterprise innovation, forming a virtuous
+cycle. This process also contributes to perfecting the enterprise's own innovation model.
+Enterprises with strong acquisition and absorptive capabilities may be better able to
+recognize external trends and internalize this information, which will enable them to
+update their knowledge stocks on a regular basis [18] . This gives them a first-mover
+advantage in new product development. They may also react promptly to market and
+consumer demands by fusing all facets of technology and customer information, which
+improves their innovation performance. Thus, we propose hypothesis 5:
+Absorptive capacity mediates the relationship between digital transformation and
+innovation performance.
+According to the above theoretical derivation and hypotheses, this paper develops
+the following research framework, as shown in Figure 1.
+Fig. 1.  Theoretical model
+3 RESEARCH DESIGN
+3.1 Sample Selection and Data Sources
+The core of China's economy and the main driver of innovation is the manufacturing
+sector.  This paper focuses on the period from 2016 to 2022 and examines the manu-
+facturing companies listed on China's A-share market in Shanghai and Shenzhen as the
+research subject. The variable data mainly come from the CSMAR and CNRDS data-
+bases. During the data collation process, samples from ST companies and *ST compa-
+nies with significant missing variable observations were excluded. As a result, 2623
+observations were obtained. The main continuous variables in this research are short-
+ened by 1% above and below to lessen the influence of extreme values. Finally, Stata
+17.0 is the program used in this paper for statistical analysis and data processing.
+384             N. Zhao3.2 Variable Description
+Dependent Variable: Innovation Performance. The paper adopts the number of in-
+vention patents filed by listed enterprises in the year as a measure of innovation perfor-
+mance[19]. Considering the right-skewed distributional pattern of patent data and ac-
+counting for heteroskedasticity, the number of patent applications is logarithmically
+transformed by adding 1 to the count. This transformed count is then used as a measure
+of firms' innovation performance.
+Independent Variable: Digital Transformation. This study measures the degree of
+digital transformation by adding 1 for logarithmic processing to word frequency data
+related to digital transformation [20] in the CMRDS database.
+Mediating Variables. Open Innovation: we refer to the study conducted by Jiang [21] ,
+which uses the logarithm of the number of authorized patents of joint innovation plus
+1 as a proxy variable for open innovation.
+Absorptive Capacity: The absorptive capacity is measured by calculating the ratio
+of the sample enterprise's annual R&D expenditures of the sample enterprise to its op-
+erating revenues[14].
+Control Variables. In order to mitigate potential endogenous interference resulting
+from the omission of variables, this paper follows the practices of Wen[22] and Bai[23]
+and selects the following variables as control variables: (1) Firm Size (SIZE); (2) Prof-
+itability of Assets (ROA); (3) Asset-liability Ratio (LEV); (4) Total Asset Turnover
+(TAT); (5) Age of Firm (AGE); (6) Equity Concentration (TOP10); (7) Nature of Own-
+ership (SOE).
+3.3 Model Construction
+This paper constructs Model 1 to Model 6 to test hypotheses:
+ܲܫ௜,௧ାଵ=ߙ଴+ߙଵܶܦ௜௧+ߝ௜௧(1)
+ܲܫ௜,௧ାଵ=ߚ଴+ߚଵܶܦ௜௧+ߚଶܧܼܫܵ௜௧+ߚଷܣܱܴ௜௧+ߚସܸܧܮ௜௧+ߚହܶܣܶ௜௧+ߚ଺ܱܲܶ10௜௧+
+ߚ଻ܧܩܣ௜௧+ߚ଼ܧܱܵ௜௧+∑ݏݑ݀݊ܫ + ∑ݎܻܽ݁+ߝ௜௧(2)
+ܫܱ௜௧=ߛ଴+ߛଵܶܦ௜௧+ߛଶܧܼܫܵ௜௧+ߛଷܣܱܴ௜௧+ߛସܸܧܮ௜௧+ߛହܶܣܶ௜௧+ߛ଺ܱܲܶ10௜௧+
+ߛ଻ܧܩܣ௜௧+ߛ଼ܧܱܵ௜௧+∑ݏݑ݀݊ܫ + + ∑ݎܻܽ݁+ߝ௜௧(3)
+ܲܫ௜,௧ାଵ=ߜ଴+ߜଵܶܦ௜௧+ߜଶܫܱ௜௧+ߜଷܧܼܫܵ௜௧+ߜସܣܱܴ௜௧+ߜହܸܧܮ௜௧+ߜ଺ܶܣܶ௜௧+
+ߜ଻ܱܲܶ10௜௧+ߜ଼ܧܩܣ௜௧+ߜଽܧܱܵ௜௧+∑ݏݑ݀݊ܫ + ∑ݎܻܽ݁+ߝ௜௧(4)
+ܥܣ௜௧=ߞ଴+ߞଵܶܦ௜௧+ߞଶܧܼܫܵ௜௧+ߞଷܣܱܴ௜௧+ߞସܸܧܮ௜௧+ߞହܶܣܶ௜௧+ߞ଺ܱܲܶ10௜௧+
+ߞ଻ܧܩܣ௜௧+ߞ଼ܧܱܵ௜௧+∑ݏݑ݀݊ܫ + ∑ݎܻܽ݁+ߝ௜௧(5)Digital Transformation and Innovation Performance             385ܲܫ௜,௧ାଵ=ߟ଴+ߟଵܶܦ௜௧+ߟଶܫܱ௜௧+ߟଷܧܼܫܵ௜௧+ߟସܣܱܴ௜௧+ߟହܸܧܮ௜௧+ߟ଺ܶܣܶ௜௧+
+ߟ଻ܱܲܶ10௜௧+ߟ଼ܧܩܣ௜௧+ߟଽܧܱܵ௜௧+∑ݏݑ݀݊ܫ + ∑ݎܻܽ݁+ߝ௜௧(6)
+i stands for listed companies, t stands for statistical year, IP stands for the explana-
+tory variable innovation performance; DT stands for the explanatory variable digital
+transformation; OI and AC stand for the mediator variables open innovation and ab-
+sorptive capacity, respectively; SIZE, ROA, LEV, TAT, TOP10, AGE, and SOE are
+the control variables. In order to control for the potential effects of industry and time
+factors, this paper controls for the dummy variables of time (Year) and industry (Indus-
+try) in the benchmark model; ε is a random perturbation term; and α, β, γ, δ, ζ, and η
+are regression coefficients of the corresponding variables, respectively.
+4 EMPIRICAL ANALYSIS
+4.1 Descriptive Statistics and Correlation Analysis
+The results of the covariance test, correlation analysis, and descriptive statistics per-
+formed on the variables are shown in Table 1. The findings indicate that innovation
+performance and digital transformation have a strong and positive link ( ߚ = 0.217,
+p<0.01), which aligns with Hypothesis 1 and provides supporting for the study's main
+premise Additionally, the key variables, including digital transformation, innovation
+performance, and open innovation, are all significantly correlated with each other at the
+1% level. Moreover, all variables have Variance Inflation Factors (VIF) less than 5,
+which suggests that there are no significant problems with multicollinearity. These re-
+sults provide a solid foundation for further hypothesis testing.
+Table 1.  Results of descriptive statistics and correlation analyses
+MEAN S D 1 2 3 4 5 6 7 8 9 1 0 1 1 V I F
+IP 2.49 1.55 1.00
+DT 1.85 1.370.22
+***1.00 1.17
+OI 2.66 1.450.38
+***0.20
+***1.00 1.27
+AC 5.10 3.74 0.010.30
+***-0.01 1.00 1.40
+SIZE 22.83 1.240.46
+***0.03*0.41
+***-0.26
+***1.00 1.90
+ROA 0.05 0.060.10
+***-0.09
+***-0.02-0.15
+***0.070
+***1.00 1.40
+LEV 0.44 0.180.25
+***0.07
+***0.19
+***-0.24
+***0.53
+***-0.340
+***1.00 1.88
+TAT 0.64 0.350.15
+***-0.09
+***0.01-0.40
+***0.22
+***0.23
+***0.18
+***1.00 1.28
+TOP10 55.82 14.120.08
+***-0.10
+***0.05
+**-0.11
+***0.20
+***0.22
+***-0.03
+*0.12
+***1.00 1.11
+AGE - -0.07
+***-0.010.12
+***-0.140
+***0.20
+***-0.03
+*0.17
+***0.10
+***-0.02 1.00 1.10
+SOE - -0.18
+***-0.07
+***0.10
+***-0.15
+***0.32
+***-0.09
+***0.29
+***0.12
+***0.07
+***0.24
+***1.00 1.20386             N. Zhao4.2 Benchmark Regression and Robustness Test
+The benchmark regression results are presented in Table 2. The regression findings of
+innovation performance and digital transformation are shown in columns 1-2. At the
+1% level of significance, the regression coefficients of the two models are 0.245 and
+0.256. It suggests that innovation performance and digital transformation have a strong
+positive association. Thus, hypothesis 1 was verified. This research investigates
+whether digital transformation provides organizations with a sustained competitive ad-
+vantage, taking into account the time lag impact. Column 3 represents the results of
+innovation performance lagged for two periods, while column 4 represents the results
+of innovation performance lagged for three periods. The robustness of the findings in
+this research is demonstrated by the main impacts being determined to be significant at
+the 1% level.
+Considering that mutual causation and sample self-selection may have an impact on
+both the independent and dependent variables. For additional testing, the Heckman two-
+step approach is employed in this paper.  The regression results are presented in column
+5 of Table 1. Heckman's two-step regression analysis reveals that the regression coef-
+ficient for enterprise digital transformation (DT) is 0.293. Even after taking sample se-
+lection bias into account, this coefficient has passed the significance test at the 1% level,
+suggesting that digital transformation can considerably improve enterprise perfor-
+mance.
+Table 2.  Results of the benchmark regressions
+IP (1) IP (2) IP(t+2) (3) IP(t+3) (4) IP (5)
+DT .245***(.022) .256***(.019) .25***(.025) .231***(.033) .293***(.030)
+IMR 2.596***(.422)
+SIZE .526***(.027) .583***(.035) .619***(.044) .585***(.032)
+ROA 2.397***(.475) .897(.621) -.427(.809) 2.487***(.559)
+LEV .252(.195) .1(.256) .03(.333) .158(.233)
+TAT .212***(.079) .191*(.106) -.035(.138) .374***(.098)
+TOP10 -.003(.002) -.005*(.003) -.005*(.003) -.004**(.002)
+AGE .001(.005) 0(.007) -.001(.009) .003(.006)
+SOE .182***(.058) .145*(.074) .041(.096) .071(.069)
+Indus YES YES YES YES YES
+Year YES YES YES YES YES
+Cons 2.036***(.05) -10.053***(.552) -11.093***(.711) -11.54***(.912) -12.781***(.685)
+Obs 2623 2623 1528 916 1980
+R2.047 .292 .304 .298 .296
+*** p<.01, ** p<.05, * p<.1
+4.3 Mediating Effects Tests
+This study uses the stepwise regression approach for regression analysis in order to
+investigate the mediating roles of open innovation and absorptive ability in digitalDigital Transformation and Innovation Performance             387transformation on innovation performance. Table 3 shows the regression results.  Col-
+umn 1 in Table 3 reveals that the regression coefficient between open innovation and
+digital transformation is 0.192, indicating statistical significance at the 1% level. It im-
+plies that open innovation is significantly and favorably impacted by digital transfor-
+mation, which supports H2. Column 2 examines open innovation's mediating function.
+The regression coefficient of open innovation sand innovation performance is 0.221,
+which is also significant at the 1% level. It indicates that open innovation can play a
+partially moderating function between digital transformation and innovation perfor-
+mance, playing a partial mediating role. Thus, Hypothesis 3 is supported. Column 3
+and column 4 assess the absorptive capacity's mediating function. The correlation be-
+tween digital transformation and absorptive capacity in column 3 is 0.732, indicating
+significance at the 1% level. This supports Hypothesis 4 by showing that digital trans-
+formation significantly improves absorptive capacity. The absorptive capacity and in-
+novation performance regression coefficient in column (4) is 0.064, which is likewise
+significant at the 1% level. This implies that the relationship between digital transfor-
+mation and innovation performance can be positively mediated by absorptive capacity.
+Table 3.  Results of the mediating effect test
+OI (1) IP (2) AC (3) IP (4)
+DT .192***(.019) .214***(.019) .732***(.046) .209***(.02)
+OI .221***(.019)
+AC .064***(.008)
+SIZE .536***(.027) .408***(.028) -.248***(.065) .542***(.027)
+ROA -.867*(.468) 2.588***(.464) -7.203***(1.143) 2.859***(.473)
+LEV -.583***(.192) .381**(.191) -4.199***(.47) .521***(.196)
+TAT -.213***(.078) .259***(.078) -3.015***(.191) .405***(.082)
+TOP10 -.001(.002) -.003(.002) -.003(.005) -.003(.002)
+AGE .013**(.005) -.002(.005) -.057***(.013) .005(.005)
+SOE -.072(.057) .198***(.057) -.057(.14) .186***(.057)
+id YES YES YES YES
+year YES YES YES YES
+cons -9.662***(.544) -7.918***(.57) 14.595***(1.329) -10.989***(.557)
+Obs 2623 2623 2623 2623
+R2.218 .325 .295 .309
+*** p<.01, ** p<.05, * p<.1
+Table 4.  The results of the mediating effect test of Bootstrap
+Coef. Std. Z P>Z [95%CI]
+DT-OI-IP Indirect effect 0.041 0.006 7.230 0.000 [0.030,0.052]
+DT-O-IP Direct effect 0.205 0.019 10.790 0.000 [0.168,0.242]
+DT-AC-IP Indirect effect 0.044 0.007 6.070 0.000 [0.030,0.058]
+DT-AC-IP Direct effect 0.202 0.021 9.630 0.000 [0.161,0.243]388             N. ZhaoStepwise regression was the main technique used in the aforementioned study to
+investigate the mediating impact. However, this method is known for its lower preci-
+sion in testing. Therefore, this paper draws on the research conducted by Wang [24]
+and utilizes the Bootstrap method to further examine the significance of the mediating
+role of open innovation and absorptive capacity in digital transformation on innovation
+capacity. The findings of this analysis are presented in Table 4. In the process of testing
+the mediating effect of open innovation, the 95% confidence interval of the indirect
+effect is (0.030, 0.052), and the direct effect is (0.168, 0.242). Neither of these intervals
+contains 0, which confirms the significance of the mediating effect of open innovation.
+Similarly, in the process of testing the mediating effect of absorptive capacity, the 95%
+confidence interval of the indirect effect is (0.030, 0.058), and the direct effect is (0.161,
+0.243). None of these intervals contains 0, the importance of the absorptive capacity
+mediating impact is confirmed.
+5 CONCLUSION AND IMPLICATIONS
+The paper draws the following conclusions: Firstly, digital transformation can greatly
+enhance firms' innovation performance and will have a substantial positive impact in
+the next 2-3 years. Second, through these two channels—open innovation and improved
+firm absorptive capacity—digital transformation can favorably impact innovation per-
+formance.
+Drawing from the aforementioned conclusions, this research proposes the subse-
+quent management insights: First, digital transformation is an important opportunity
+that enterprises must face in the digital era. Enterprises need to continuously promote
+the construction of their own digital transformation, and in this way to strengthen data
+openness and sharing, effectively integrate resources, and create conditions for their
+own innovation capabilities. In addition, enterprises need to encourage the sharing of
+knowledge throughout departments and monitor the growth of open innovation initia-
+tives. Finally, the role of absorptive capacity should be emphasized to promote the co-
+ordination of the enterprise's own absorptive capacity to digest, absorb and transform
+knowledge resources. It is crucial in encouraging manufacturing companies to innovate
+and, eventually, improving their performance in this area.
+REFERENCES
+1.Liu Shenglong and Hu Angang, "Trends in China's Economic Development: Opportunities
+and Challenges (2021-2035)", Gan Shu Social Science , Vol. 1, pp. 195-207, 2023, DOI:
+10.15891/j.cnki.cn62-1093/c.20230117.002.
+2.Shuchun Liu, Jinchen Yan, Sixue Zhang, and Hanchuan Lin, "Can digital change in business
+management improve input-output efficiency," Management World , vol. 37, no. 5, pp. 170-
+190+, 2021, DOI: 10.19744/j.cnki.11-1235/f.2021.0072.
+3.W. Zhang, S. Zhao, X. Wan, and Y. Yao, “Study on the effect of digital economy on high-
+quality economic development in China,” PLoSONE , vol. 16, no. 9, p. e0257365, Sep. 2021,
+DOI: 10.1371/journal.pone.0257365.Digital Transformation and Innovation Performance             3894.P. Chen and S. Kim, “The impact of digital transformation on innovation performance - The
+mediating role of innovation factors,” Heliyon , vol. 9, no. 3, Mar. 2023, DOI: 10.1016/j.heli-
+yon.2023.e13916.
+5.J. R. Jiang, E. J. Xia, and Y. P. Jia, "How Digital Enterprises Reconfigure Their Capabilities
+to Achieve Digital Convergence Product Innovation," Research in Science , pp. 1-17, DOI:
+10.16192/j.cnki.1003-2053.20230119.003.
+6.G. Vial, “Understanding digital transformation: A review and a research agenda,” J. Strateg.
+Inf. Syst. , vol. 28, no. 2, pp. 118–144, Jun. 2019, DOI: 10.1016/j.jsis.2019.01.003.
+7.H. Zhang and X. Gu, "Digital competence, open innovation and firm performance - the mod-
+erating effect of innovation exclusivity," Science and Management of Science and Technol-
+ogy, vol. 44, no. 6, pp. 132-149, 2023.
+8.S. Liang and T. Li, “Can Digital Transformation Promote Innovation Performance in Man-
+ufacturing Enterprises? The Mediating Role of R&D Capability,” Sustainability , vol. 14, no.
+17, Art. no. 17, Jan. 2022, DOI: 10.3390/su141710939.
+9.H. Chesbrough and A. K. Crowther, “Beyond high tech: early adopters of open innovation
+in other industries,” R D Manage. , vol. 36, no. 3, pp. 229–236, Jun. 2006, DOI:
+10.1111/j.1467-9310.2006.00428.x.
+10.M. Bogers, H. Chesbrough, and C. Moedas, “Open Innovation: RESEARCH, PRACTICES,
+AND POLICIES,” Calif. Manage. Rev. , vol. 60, no. 2, pp. 5–16, Feb. 2018, DOI:
+10.1177/0008125617745086.
+11.Ximeng Jia, Liping Li, Tao Wang, and Qisheng Chen, "The impact of enterprise digital
+transformation on open innovation," Science and Technology Management , vol. 43, no. 11,
+pp. 19-36, 2022.
+12.Ruizhi Pang and Dongge Liu, "The paradox of digitization and innovation: does digitization
+promote corporate innovation - an explanation based on open innovation theory", Southern
+Economy , vol. 9, pp. 97-117, 2022, DOI: 10.19592/j.cnki.scje.391844.
+13.Y. Zhao et al. , “Effect of dietary L-glutamate levels on growth, digestive and absorptive
+capability, and intestinal physical barrier function in Jian carp(Cyprinus carpio var.Jian),”
+Animal Nutrition , vol. 6, no. 2, pp. 198–209, 2020.
+14.W. M. Cohen and D. A. Levinthal, “Absorptive Capacity: A New Perspective on Learning
+and Innovation,” Administrative Science Quarterly , vol. 35, no. 1, pp. 128–152, 1990, DOI:
+10.2307/2393553.
+15.H. Wang, W. Cao, and F. Wang, “Digital Transformation and Manufacturing Firm Perfor-
+mance: Evidence from China,” Sustainability , vol. 14, no. 16, p. 10212, Aug. 2022, DOI:
+10.3390/su141610212.
+16.B. Shao, X. Kuang, and X. Wang, "Business Process Digitization and Enterprise Value in
+Manufacturing Firms: A Dynamic Capability-Based Perspective," Technological Econom-
+ics, vol. 42, no. 7, pp. 109-125, 2023.
+17.Y.-M. Zhai, W.-Q. Sun, S.-B. Tsai, Z. Wang, Y. Zhao, and Q. Chen, “An Empirical Study
+on Entrepreneurial Orientation, Absorptive Capacity, and SMEs’ Innovation Performance:
+A Sustainable Perspective,” Sustainability , vol. 10, no. 2, Art. no. 2, Feb. 2018, DOI:
+10.3390/su10020314.
+18.M. L. Flor, S. Y. Cooper, and M. J. Oltra, “External knowledge search, absorptive capacity
+and radical innovation in high-technology firms,” European Management Journal , vol. 36,
+no. 2, pp. 183–194, Apr. 2018, DOI: 10.1016/j.emj.2017.08.003.
+19.Zhang, W. and Liu, Y. W., "A mechanism study of digital transformation on the innovation
+performance of multinational firms," Macroeconomic Research , no. 6, pp. 86-100, 2023,
+DOI: 10.16304/j.cnki.11-3952/ f.2023.06.005.390             N. Zhao20.Fei Wu, Hu Huizhi, Hui-Yan Lin, and Xiaoyi Ren, "Corporate digital transformation and
+capital market performance - Empirical evidence from stock liquidity," Management World ,
+vol. 37, no. 7, pp. 130- 144+10, 2021, DOI: 10.19744/j.cnki.11-1235/f.2021.0097.
+21.Jiang, Z. S., "The impact of open innovation on R&D investment of manufacturing firms-
+the moderating role of government subsidies and market competition," Science and Tech-
+nology Progress and Countermeasures , vol. 38, no. 9, pp. 100 -108, 2021.
+22.H. Wen, Q. Zhong, and C.-C. Lee, “Digitalization, competition strategy and corporate inno-
+vation: Evidence from Chinese manufacturing listed companies,” International Review of
+Financial Analysis , vol. 82, p. 102166, Jul. 2022, DOI: 10.1016/j.irfa.2022.102166.
+23.F. P. Bai, K. Y. Dong, and D. H. Liu, "How digital transformation affects corporate techno-
+logical innovation: an empirical analysis based on the perspectives of financing constraints
+and agency problems," Friends of Accounting , no. 10, pp. 124 -133, 2023.
+24.Wang Molin, Song Yuanyang, Yan Haifeng, and Zhang Xiaoyu, "A study on the impact of
+digital transformation on firms' internationalization breadth: the mediating role of dynamic
+capabilities," Foreign Economics and Management , vol. 44, no. 5, pp. 33-47, 2022, DOI:
+10.16538/j.cnki.fem.20211212.204.
+Open Access  This chapter is licensed under the terms of the Creative Commons Attribution-
+NonCommercial 4.0 International License ( http://creativecommons.org/licenses/by-nc/4.0/ ),
+which permits any noncommercial use, sharing, adaptation, distribution and reproduction in any
+medium or format, as long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license and indicate if changes were made.
+        The images or other third party material in this chapter are included in the chapter's
+Creative Commons license, unless indicated otherwise in a credit line to the material. If material
+is not included in the chapter's Creative Commons license and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder.
+Digital Transformation and Innovation Performance             391

@@ -1,0 +1,1102 @@
+Finnish “state of mind ”on
+inter-organizational integration
+A cost accounting and cost management
+perspective
+Antti Ylä-Kujala
+Lappeenranta University of Technology, Lappeenranta, Finland
+Salla Marttonen-Arola
+University of Sunderland, Sunderland, UK, and
+Timo Kärri
+Lappeenranta University of Technology, Lappeenranta, Finland
+Abstract
+Purpose –The role of management control is frequently emphasized in connection with inter-organizational
+relationships and value networks. For example, boundary-spanning cost and accounting control techniqueshave been studied in multifaceted empirical settings. The prevalence of such techniques is, however, currently
+unknown in conjunction with companies ’interests to increase inter-organizational integration in general.
+Additionally, also the nexus between the internal state of cost management and the company ’s willingness to
+develop inter-organizational relationships requires further investigation. The paper aims to discuss these issues.
+Design/methodology/approach –The study is based on an extensive survey that was responded to by
+more than 1,500 CEOs and CFOs from large, medium-sized and small Finnish enterprises in a variety of
+industries. As the authors chose the mixed-methods approach, both quantitative and qualitative data were
+collected for the study.Findings –The findings suggest that companies can be allocated to five clusters: “the cost experts, ”
+“the trustful, ”“the holdouts, ”“the trailblazers ”and “the uncertain ”. When the networking-oriented clusters,
+“the trustful ”and “the trailblazers ”are combined, the authors can conclude that 40 percent of the studied
+companies are interested in increasing inter-organizational integration. However, only 7 percent have
+boundary-spanning techniques in use. There is also a correlation between interest in integrating and
+developing cost management.Research limitations/implications –This paper contains several theoretical implications, although
+further research, e.g. comparative studies, is required to verify the findings. The scarcity of managerial
+implications can be regarded as a limitation.
+Originality/value –This paper fills several untapped research gaps by studying inter-organizational
+integration in the cost management context from multiple, complementary perspectives with a particularlylarge set of data.
+Keywords Cost accounting, Cost management, Management control, Control techniques, Finnish survey,
+Inter-organizational relationships
+Paper type Research paper
+1. Introduction
+30 years have passed since “networks ”were identified as the third form of organization
+alongside conventional “markets ”and “hierarchies ”(Håkansson, 1982; Thorelli, 1986). In the
+course of time, the nature of inter-organizational relationships has been metamorphosing
+from arm ’s length transactions toward relational, and thus more complex interactions
+through subcontracting, outsourcing, a lliances and joint ventures. This kind of
+development, which can be described as network formation, is increasingly challenging
+academics ’outlook on management control (see, e.g. Dekker, 2004; Håkansson and
+Lind, 2007; Caglio and Ditillo, 2008). Caglio and Ditillo (2008) emphasize that management
+control in the inter-organizational domain comprises three distinct layers; control
+archetypes, management control and cost and accounting control. Out of these layers ofIMP Journal
+Vol. 12 No. 1, 2018
+pp. 171-191
+© Emerald Publishing Limited
+2059-1403
+DOI 10.1108/IMP-09-2016-0018Received 30 September 2016
+Revised 30 March 2017
+25 August 2017
+14 December 2017
+Accepted 30 December 2017The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com /2059-1403.htm
+171Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+control, this paper is focused specifically on cost and accounting control, which by definition
+transgresses organizational boundaries.
+The tradition of inter-organizational cost and accounting control began in the 1990s
+and early 2000s by the introduction and application of management concepts, such as
+“open-book accounting ”(OBA) (Munday, 1992; Carr and Ng, 1995; Seal et al. , 1999;
+Mouritsen et al. , 2001; Axelsson et al. , 2002) and “inter-organizational cost management ”
+(IOCM) (Cooper and Yoshikawa, 1994; Carr and Ng, 1995; Mouritsen et al. , 2001;
+Axelsson et al. , 2002; Cooper and Slagmulder, 2004). OBA is a rather general approach,
+where costs and other supporting information are disclosed to a counterpart in a unilateral
+or a bilateral fashion. Reciprocal trust has been repeatedly mentioned as an important
+prerequisite for such transparency (Kajüter and Kulmala, 2005). IOCM, on the other hand,can be described as a vacillating set of control techniques that are effectively based on
+target costing and functional analysis. These techniques are employed particularly in the
+upstream supply chain relations to influence the quality, functionality and/or price of a
+product, including, but not limited to, supplier selection, product design and manufacturing
+process development (Agndal and Nilsson, 2009).
+Later studies in the field have mainly followed in the footsteps of the early tradition.
+Both OBA (e.g. Kajüter and Kulmala, 2005; Free, 2008; Agndal and Nilsson, 2010;
+Möller et al., 2011; Caglio and Ditillo, 2012; Windolph and Möller, 2012; Alenius et al.,2 0 1 5 )
+and IOCM (e.g. Agndal and Nilsson, 2009; Möller et al., 2011; Fayard et al., 2012; Windolph
+and Möller, 2012) have been the conceptual foundation of numerous distinguished
+publications. In addition to OBA and IOCM, certain authors have also associated the
+concept of “value chain analysis ”(VCA) with the inter-organi zational cost and accounting
+control (Dekker, 2003; Coad and Cullen, 2006). A s perceived, e.g. by Dekker (2003), VCA is
+a control technique in which the chain of consecutive inter-organizational activities –from
+raw materials to the end customer –is broken down and observed by employing
+activity-based costing (ABC) principles. It ha s to be, however, underlined that drawing the
+line between the different concepts and som ewhat parallel control approaches is not by
+any means straightforward. For example, the utilization of IOCM techniques may, or may
+not, require disclosure of costs and other acco unting information (i.e. OBA), depending on
+the breadth of collaboration (Agndal and Nilsson, 2009).
+The above-mentioned literature on inter-or ganizational cost and accounting control is
+characterized by three idiosyncrasies. The first is the predominance of qualitative
+research. Most authors have applied the case s tudy method by incorporating a single case
+study (e.g. Seal et al. , 1999; Dekker, 2003; Free, 2008) or multiple case studies
+(e.g. Mouritsen et al. , 2001; Kajüter and Kulmala, 2005; Agndal and Nilsson, 2010).
+Some have classified their specific approac h as interventionist or action research,
+where the authors have influenced the out come actively (e.g. Coad and Cullen, 2006;
+Suomala et al. , 2010; Romano and Formentini, 2012). To date, quantitative data and
+corresponding analysis can be found in a r elatively limited number of scientific
+publications (i.e. Ittner et al. , 1999; Kulp, 2002; Wouters et al. , 2005; Möller et al. , 2011;
+Fayard et al. , 2012; Windolph and Möller, 2012; Cag lio and Ditillo, 2012; Caglio, 2017).
+Despite its merits, the qualitative research a pproach has also some shortcomings. On the
+basis of the literature, we know that boundar y-spanning control techniques, such as OBA,
+I O C Ma n dV C A ,a r ec u r r e n t l yu s e db yp r a ctitioners. However, unknown are the
+prevalence of these techniques and companies ’interest in advancing inter-organizational
+cost and accounting control in general.
+The second idiosyncrasy of the literature on inter-organizational cost and accounting
+control is the limited understanding of the nexus between intra- and inter-organizational
+management control techniques. Dekker (2016) has recently called for more research on how
+internal management accounting practices might either support or constrain the172IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+development of inter-organizational relationships. Prior evidence indicates that a poor state of
+companies ’internal costing systems is a barrier for OBA and IOCM (Seal et al. , 1999;
+Kajüter and Kulmala, 2005; Agndal and Nilsson, 2009; Suomala et al., 2010; Fayard et al., 2012).
+In dyadic customer-supplier relationships, especially the customer could often dispense
+resources, knowledge and assistance to improve suppliers ’cost accounting (see, e.g.
+Kajüter and Kulmala, 2005). Therefore, the connection between the state of cost management,
+and the company ’s interest to develop more profound inter-organizational relationships
+should be investigated further.
+The third idiosyncrasy of the literature on inter-organizational cost and accounting
+control is the dominance of customer-supplier relationships in the form of bilateral
+(one-to-one) or multilateral arrangements (one-to-many/many-to-many). In their rather
+comprehensive review of the literature, Caglio and Ditillo (2008) point out that upstream
+relationships have been studied in abundance by contrast to downstream relationships andwhole value chains. There are sparse examples of research settings that consist of both
+suppliers and customers simultaneously (e.g. Coad and Cullen, 2006; Thrane and Hald, 2006;
+Carlsson-Wall et al., 2009). The prevalence of studies on upstream relationships might stem
+from the use of specific control techniques, as for instance IOCM has been frequently
+associated with the supply chain and supplier management. There is thus a need for more
+complete network approaches.
+By building upon the above-mentioned idiosyncrasies of inter-organizational cost and
+accounting control literature as specific issues of concern, our research questions are
+phrased as follows:
+RQ1. How can companies be categorized relati ve to their orientation to joint cost
+management, current state of cost management and interest to develop
+cost management?
+RQ2. What is the influence of organizational size and industry on the categorization
+ofRQ1?
+RQ3. What is the extent of the implementation/utilization of inter-organizational cost
+and accounting control techniques (e.g. tools, methods and information systems)
+in practice?
+RQ1 takes a stand on first and second idiosyncrasies. First of all, companies ’inclination to
+advance inter-organizational management control, cost management control in particular,
+is mapped through a large set of quantitative data. This orientation to joint cost
+management is then linked, still within the same data set, to a company ’s“cost management
+strategy ”that is represented by its current state of cost management, and its interest to
+develop cost management practices in the future. By connecting these three dimensions
+with each other, we are able to categorize organizations based on their similarities and
+dissimilarities. RQ2, on the other hand, is an extension of RQ1, where the influences of most
+significant background variables, organizational size and industry, are examined in detail.
+RQ3 complements RQ1 by introducing another perspective to the first idiosyncrasy.
+As mentioned above, the prevalence of boundary-spanning control techniques is currentlyunknown. The question is phrased in such a way that “a technique ”is understood as
+broadly as possible in the context of cost management, in order to include also other
+techniques than OBA, IOCM and VCA. As far as the third idiosyncrasy is concerned, both
+upstream and downstream relationships have been acknowledged in the collection of data.
+When references are made to “network ”or“value network, ”they are composed of the
+closest inter-organizational relationships perceived by the respondent. The quantitative
+nature of the data has led us to examine the average relationship in each network of
+suppliers and customers.173Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+According to Lind (2017), the role of accounting has been mostly neglected in the lengthy
+tradition of IMP (i.e. industrial marketing and purchasing) inspired research that is founded
+on the so-called “interaction approach, ”which challenges the conventional understanding of
+industrial marketing and purchasing as purely transactional, and inherently dissimilar
+activities (Håkansson, 1982). In the center of the IMP thinking is the idea that each business
+relationship is determined by the interplay between three fundamental elements: activity
+links, resource ties and actor bonds (Håkansson and Snehota, 1995). In this sense, a natural
+way for IMP scholars is to understand activity links through the socio-material flow of
+reciprocal exchange (i.e. from purchasing to marketing). As accounting is the monetary
+value dimension of activities, resources and actors, and thus quintessential for the
+measurement, calculation, evaluation and representation of economic value and profitability
+in terms of money, its role as a particular kind of activity layer should be rather emphasized
+than ignored (Håkansson and Olsen, 2015).
+An important avenue within the broader IMP frame of research has been the study of
+resource ties in the interface between customers and suppliers (see, e.g. Araujo et al., 1999;
+Håkansson and Waluszewski, 2002; Baraldi and Strömsten, 2006; Baraldi et al. , 2012;
+Araujo et al., 2016). As no single company controls all required resources to produce goods
+and services, the management of resource interfaces both upstream and downstream
+becomes a critical task. Prenkert (2016), for instance, has recently argued that systematical
+commitment of resources to these interfaces is parallel to conducting “market investments, ”
+the aim of which is to create, maintain or develop resource interfaces that can be seen as
+“market assets, ”i.e. valuable network positions. The introduction of an inter-organizational
+cost and accounting control technique to any resource interface between a customer and a
+supplier is, therefore, a market investment of tangible (e.g. cost accounting system) and
+intangible nature (e.g. ancillary accounting knowledge). The prevalence of, and the interest
+towards, such investments are observed in the paper.
+Finally, this paper contributes also to the prior, rich tradition of Finnish management
+accounting surveys (Lukka and Granlund, 1996; Hussain et al. , 1998; Malmi, 1999;
+Hyvönen, 2003; Hyvönen, 2005; Laitinen, 2006). Our evidence sheds new light on how cost
+management has evolved in the past ten years. This paper is structured as follows: the
+research design is described in Section 2, the analysis and findings are discussed inSection 3, and discussion and conclusions connect the research questions explicitly with the
+key findings. Finnish viewpoints are considered shortly in the last section as well.
+2. Research design
+2.1 Data collection
+This paper is based on an extensive survey that was carried out in Finland in late 2014.
+In the course of roughly two months (October and November), altogether 1,507 responses were
+received from organizations ranging from small and medium-sized enterprises (SMEs) to large
+multinationals. The initial population of the companies that were contacted was around 3500,
+which yields a rather tolerable response rate of approximately 43 percent. The population of
+the survey was specifically chosen to include organizations from all industries in Finland
+relative to their reciprocal sizes. As far as organizational sizes are concerned, medium-sized
+and large enterprises were slightly favored in order to obtain more relevant, and interesting
+findings. Micro enterprises (i.e. companies that employ under ten employees) were
+intentionally excluded from the population before the data collection was initiated.
+The data were collected by conducting structured interviews over the phone with the
+respondents, who were senior managers, mainly either CEOs (1,103 respondents) or CFOs
+(403 respondents), in their respective organizations. The interviewers ’call sequence was
+completely random, so that the actualized popu lation would be as similar as possible with the
+designed population. The interviews were based on a questionnaire that comprised 24 claims174IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+(referred from now on as questions; Q1, Q2, Q3, etc.) on the Likert scale (1-5) and three open
+questions. The full structure of the questionnaire is shown in Appendix 1. The above-mentioned
+claims can be placed under three topics: “current business and cost accounting practices ”
+(Q1-Q9), “cost management needs: cost accounting systems and related services ”(Q10-Q18) and
+“inter-organizational relationships and transparency in value networks ”(Q19-Q24). As regards
+the open questions (Q25-Q27), it should be noted that only Q27 is addressed in this paper, as the
+phrasing of the question is particularly relevant to RQ3.
+The proportions of different organizational sizes and industries in relation with the total
+sample of the survey are illustrated in Figure 1. The categorization of organizational sizes
+comes from the pan-European definition of SMEs (European Commission, 2017), whereas
+the industries are based on the national Standard Industrial Classification TOL 2008
+(Statistics Finland, 2015). As can be noticed, the majority of the companies in the sample are
+small enterprises (approx. 64 percent). By excluding micro enterprises from the national
+statistics, small enterprises seem to account for 83 percent, medium-sized enterprises for
+14 percent, and large enterprises for 3 percent of Finnish companies (Statistics Finland, 2016).
+Therefore, medium-sized organizations (14 percent →31 percent) as well as large organizations
+(3 percent →5 percent) are overemphasized in the sample, and thus in the findings, roughly by
+a coefficient of two.
+A quick glance at the industries in the sample of the survey reveals that “manufacturing ”
+is evidently the largest industry (approx. 34 percent) followed by “wholesale and retail
+trade ”(approx. 14 percent), and “construction ”(approx. 9 percent). The miscellaneous group
+in the figure known as “other industries ”is comprised of 11 separate, smaller industries,
+each constituting under 5 percent of the total sample. Three largest industries within the
+group “other industries ”are “human health and social work activities, ”“financial and
+insurance activities ”and “electricity, gas, steam, and air conditioning. ”
+2.2 Descriptive statistics
+A summary of the descriptive statistics is presented in Table I. The highest means are found
+in Q3, Q5, Q8, Q9 and Q19, whereas Q14, Q16 and Q18 have the lowest means. The high
+mean in Q3 implies that an average Finnish company is satisfied with its information systems,
+Medium Small31%5%
+64%
+Large
+Manufacturing
+Wholesale and retail trade
+Construction
+Professional, scientific and technical activities
+Transportation and storage
+Information and communication
+Administrative and support services
+Other industries
+0% 5% 10% 15% 20% 25% 30% 35% 40%Figure 1.
+Overview of the
+background variables:
+organizational size
+and industry175Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+including, but not limited to, cost accounting systems. The high mean in Q8 suggests that
+companies are also confident about their ability to determine the costs of different accounting
+items, such as customers. They seem to be particularly aware of the variable and direct costs
+of their products and services, as Q5 further clarifies. In the light of Q5 and Q8, the high mean
+in Q9 is not surprising. The pursuit of cost efficiency was defined as the most important
+business goal by quite many respondents. The highest mean is found in Q19 (approx. 4.48),
+which advocates for building long-term business relationships. Based on Q19 alone, it appears
+that Finnish companies have understood how important inter-organizational integration and
+different kinds of partnerships are in the present competitive conditions.
+Furthermore, the low means in Q14, Q16 and Q18 imply that companies are currently
+reluctant to invest in new cost accounting systems (Q14) and cost accounting-related
+services (Q16 and Q18). The lowest mean is in Q14 (approx. 1.85), which indicates that the
+willingness to purchase systems is even lower among the companies than the willingness to
+acquire cost accounting-related services. Moreover, it seems that the low means are
+consistent with the high means. As Q5, Q8 and Q9 outlined, an average Finnish company
+could be described as “cost-conscious ”and “cost-efficient. ”Therefore, companies do not
+need new systems and related services to improve their already decent cost management
+practices. The greatest variances and thus standard deviations are found in Q13 and Q15,which means that some of the companies have also quite recently invested in new cost
+accounting systems (Q13) and cost accounting-related services (Q15), while others have not.
+The reluctance to invest in systems and services might thus stem either from a recent
+purchase or a feeling that the company is aware of its costs.
+2.3 Research approach and methods
+We decided on a mixed-methods approach to be able to study the different sides of the
+phenomenon. Therefore, both quantitative (Q1-Q24) and qualitative data (Q25-Q27) wereQuestion Mean Median SD Variance
+Q1 3.416 4 1.402 1.964
+Q2 3.544 4 1.350 1.823Q3 3.741 4 0.960 0.921Q4 3.345 4 1.545 2.386
+Q5 3.767 4 1.047 1.096
+Q6 3.451 4 1.112 1.236Q7 3.068 3 1.291 1.668Q8 3.962 4 0.832 0.692Q9 3.782 4 0.980 0.960Q10 3.279 3 1.145 1.310
+Q11 2.745 3 1.334 1.779
+Q12 2.413 2 1.205 1.452Q13 2.486 1 1.737 3.016Q14 1.851 1 1.227 1.506Q15 3.024 3 1.621 2.629Q16 2.324 2 1.328 1.764Q17 3.409 4 1.290 1.663
+Q18 2.090 2 1.126 1.267
+Q19 4.480 5 0.763 0.582Q20 3.336 3 1.114 1.242Q21 3.575 4 1.049 1.100Q22 3.036 3 1.161 1.349Q23 2.713 3 1.159 1.343
+Q24 2.694 3 1.120 1.254
+Table I.
+Descriptive statistics176IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+collected. According to Creswell (2015), the combination, and thus collective strength,
+of statistical trends (i.e. quantitative data) and personal experiences (i.e. qualitative data)
+provides more profound understanding than either form of data alone. From the three
+options to conduct mixed-methods research, this study adheres best to explanatory
+sequential design (ESD). Creswell (2015) states that the intent of ESD is to begin with a
+quantitative strand and then continue with a qualitative strand in order to explain the
+results of the former. Despite the fact that all our data were acquired simultaneously
+through the same instrument, the objective was from the beginning that the qualitative data
+would explain trends in the quantitative data.
+The quantitative part of the study was conducted with SAS JMP Pro, which is a
+data-analysis software where conventional statistical models are complemented with
+advanced visualization and data mining capabilities. SAS JMP Pro might be an unorthodox
+tool to conduct scientific research, but our choice was steered by the ability to generate better
+visualizations of the data. For the qualitative part of the study, a more unstructured approach
+was chosen. Each response to Q27 was categorized according to certain characteristics.
+The first basis of classification was the tone of the response (i.e. positive/negative), whereas
+the second basis of classification relied on the content and its finer nuances. This kind of an
+approach can be referred to as (qualitative) content analysis, in which the researcher searches
+for underlying themes from the data and illustrates them with, e.g. brief quotations
+(Bryman and Bell, 2011). Contrary to quantitative content analysis that relies on fixed coding,
+the equivalent process in the (qualitative) content analysis is more iterative by nature and
+initial categorizations often suggestive.
+The analysis with SAS JMP Pro was initiated by examining correlations between
+the most significant background variables, such as organizational size and industry, and the
+questions (Q1-Q24). As such interrelationships did not exist, regression analysis was not
+perceived as a feasible approach. However, we noticed that many of the questions (Q1-Q24)
+had reciprocal correlations, which channeled our attention toward factor analysis.
+According to Ghauri and Grønhaug (2002), factor analysis is a method that addresses the
+problem of analyzing the structure of interrelationships (i.e. correlations) among a large
+number of variables by defining a set of common underlying dimensions (i.e. factors).
+As the factoring method, we used maximum likelihood combined with varimax rotation.
+We tried also quartimin in case the factors were oblique rather than orthogonal, but it did
+not affect the results. When the factors were set, the next logical step was to group the
+companies according to their factor-specific characteristics. We used k-means clustering as
+the method. After all, such grouping i s based upon similarities or distances
+(i.e. dissimilarities) in an n-dimensional space (Ghauri and Grønhaug, 2002). The definitive
+number of clusters was determined by experimenting in such a way that the adding of
+clusters was stopped when the characteristics of two clusters became excessively similar.
+3. Analysis, findings and discussion
+3.1 In search of reciprocal correlations: factor analysis
+The foundation of cluster analysis is factor analysis, where sporadic survey questions are
+grouped to factors based on their reciprocal correlations. Our initial analysis resulted in five
+factors, of which two were rejected from further scrutiny. The first rejected factor comprised
+Q13 and Q15, and could be thus called, e.g. “cost accounting systems and services purchased
+recently. ”The factor was eliminated because of its poor fit with the research questions.
+The second rejected factor comprised Q20 and Q21, and could be thus called, e.g. “appreciation
+of transparency in cost structures and pricing. ”Unlike the first rejected factor, this second one
+was content-wise relevant, but “appreciation ”was considered too ambiguous conceptually.
+The decision to eliminate the factor was facilitated by the fact that the analysis resulted also in
+another factor that symbolized companies ’interest in joint cost management. The accepted177Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+factors are shown in Table II. As can be noticed, each accepted factor incorporates at
+least three survey questions instead of two in the rejected ones, which grants them more
+strength of evidence.
+Factor 1: “orientation to joint cost management ”is a measure of a company ’s interest to
+increase inter-organizational integration through joint cost management. The mean of
+Factor 1 is medium, which indicates that an average Finnish company is reasonably
+interested in inter-organizational aspects, such as information disclosure and joint cost
+management. Factor 2: “the current state of cost management ”, on the other hand, is a
+measure of a company ’s overall cost consciousness achieved with the cost accounting
+techniques/principles in use (e.g. product/service costing). The mean of Factor 2 is high,
+which indicates that an average Finnish company has a good knowledge of costs and
+contemporary costing techniques, including ABC (Q7). Furthermore, Factor 3: “interest to
+develop cost management ”is a measure of a company ’s willingness to improve their current
+cost management by investing in cost accounting systems and related services. The mean of
+Factor 3 is low, which indicates that an average Finnish company does not perceive
+improving cost management as topical. Interestingly, a lack of suitable software in the
+market (Q12) is correlated with an interest to invest in a new system (Q14), which denotes
+that all companies are not satisfied with their existing systems.
+Regarding the reciprocal correlations of the factors, it is intriguing how the development
+of cost management practices (Factor 3) is interconnected with an interest to increase inter-
+organizational integration in the context of cost management (Factor 1). The high positive
+correlation between the factors (approx. 0.39) could even imply that companies seek for
+improvements in both intra- and inter-organizational practices. The correlation between
+Factor 2 and Factor 3 is negative (approx. −0.13), as expected. The weak nature of the
+correlation is, however, surprising. The only explanation is that there are certain companies
+that want to develop their cost management further, despite its good state.
+3.2 Categorizing companies: five distinctive clusters found
+By employing the above-mentioned factor analysis as the premise, we were able to find five
+distinctive clusters of companies. As can be seen in Table III, each identified cluster has
+been given a name that represents its factor-specific characteristics, such as low, medium or
+high interest to increase inter-organizational integration through joint cost management.
+The clusters are further illustrated in a three-dimensional space, where the factors function
+as axes of a cube ( X¼Factor 1; Y¼Factor 2; Z¼Factor 3). An individual respondent
+(i.e. company) has been associated with a cluster with an icon and a matching color.
+TheN-column shows the total number of companies that belong to each cluster.
+Three issues stand out immediately. First, the majority of companies appear to be situated
+in the background, which leaves the area of low Y-values mostly unoccupied. As discussed
+above, the knowledge of costs and related techniques is in general good. Sporadic dots in the
+foreground belong to either Cluster 3 or Cluster 5, which consequently also have the lowest
+Factor 1: Factor 2: Factor 3:
+Ordinal/name of a factor →“Orientation to joint
+cost management ”“The current state of
+cost management ”“Interest to develop cost
+management ”
+Questions included Q22 +Q23+Q24 Q5 +Q6+Q7+Q8 Q10 +Q12+Q14+Q16+Q18
+Mean in the survey sample 2.815 (Medium) 3.562 (High) 2.392 (Low)
+Reciprocal correlations Factor 2: 0.085
+Factor 3: 0.386Factor 1: 0.085
+Factor 3: −0.131Factor 1: 0.386
+Factor 2: −0.131
+Notes: low mean ≤2.50; 2.50 omedium mean o3.50; high mean ≥3.50Table II.
+The accepted factors
+and their reciprocalcorrelations178IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+states of cost management. Second, the positive correlation between Factor 1 and Factor 3 is
+visible in the figure, as the dots are diagonally aligned from the origin toward higher values on
+theX-a n d Z-axes. If Cluster 2 is excluded from the analysis, the reciprocal correlation becomes
+even stronger (0.39 →0.60). Third, companies ’orientation to joint cost management seems to
+be relatively high in the survey sample. Almost 40 percent of the companies belong to the
+networking-oriented ones (Cluster 2 and Cluster 4), which is surprising.
+Ordinal/name         
+of a cluster ↓X=Factor 1: Y=Factor 2: Z=Factor 3:
+N “orientation to joint
+cost management”“the current state of
+cost management”“interest to develop
+cost management”
+Cluster 1:
+“the cost experts”2.135 (Low) 4.178 (High) 1.711 (Low) 327
+Cluster 2:
+“the trustful”3.696 (High) 3.794 (High) 2.142 (Low) 358
+Cluster 3:
+“the holdouts”1.750 (Low) 2.824 (Medium) 1.791 (Low) 236
+Cluster 4:
+“the trailblazers”3.707 (High) 3.488 (Medium) 3.660 (High) 240
+Cluster 5:
+“the uncertain”2.652 (Medium) 3.295 (Medium) 2.823 (Medium) 346
+X=Factor 1
+Z=Factor 3
+X=Factor 1
+Y=Factor 21
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+15
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+15
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+11.522.533.544.551.5 22.5 3 3.5 4 4.5 554.543.532.5 21.51Y=Factor 2
+Z=Factor 3
+Table III.
+Clusters of companies
+based on their factor-
+specific characteristics179Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+Cluster 1: “the cost experts ”(327 companies, 21.7 percent of the survey sample) is a group
+of companies that rank by far the highest in Factor 2 (approx. 4.18), which indicates that
+they are highly cost conscious. As a consequence, they are the least interested to develop
+cost management (approx. 1.71), which supports the impression of cost expertise. However,
+there might be another explanation. Some of these companies can also be excessively
+self-confident and even partly ignorant of the facts. They assume that everything is
+completely under control, and thus “the cost experts ”do not feel the need to review their
+current cost management practices. If these companies truly excel in cost management,
+they would probably put more emphasis on the continuous improvement of cost accounting
+techniques as well.
+Cluster 2: “the trustful ”(358 companies, 23.8 percent of the survey sample) is a group of
+companies whose name originates from two considerations in particular. Similarly to
+Cluster 1, these companies are very confident about the current state of cost management.
+In contrast, however, “the trustful ”are also interested in increasing integration within the
+value network, as they rank the second highest in Factor 1 (approx. 3.70). The reluctance to
+develop cost management is, however, common for both clusters, although “the trustful ”are
+less absolute. The joint cost management orientation makes them intriguing.
+Cluster 3: “the holdouts ”(236 companies, 15.7 percent of the survey sample) is a group of
+companies that is not particularly cost-oriented, as they have the lowest mean in Factor 2
+(approx. 2.82). The name of the cluster, “the holdouts, ”is based on these companies ’negative
+approach to progress that is to some extent manifested in Factor 1 and Factor 3. Cluster 3
+has by far the lowest mean in Factor 1 (approx. 1.75), which indicates that “the holdouts ”
+are extremely cynical toward integration and joint cost management. When it comes down
+to Factor 3, it is rather peculiar how the managers of “the holdouts ”resist change
+stubbornly, while the state of their cost management is poor compared to the other clusters.
+Cluster 4: “the trailblazers ”(240 companies, 15.9 percent of the survey sample) is a group
+of companies that is balanced in their attitudes to all the factors. They have the third highest
+cost consciousness (approx. 3.49), which might stem from an ability to assess their
+competences in cost management better. Cluster 4 ranks the highest in both Factor 1
+(approx. 3.71) and Factor 3 (approx. 3.66) in the survey sample. Unlike “the trustful, ”
+“the trailblazers ”are also interested in developing their cost management practices.
+Cluster 5: “the uncertain ”(346 companies, 23.0 percent of the survey sample) is a group of
+companies that are conspicuously indecisive and neutral in regard to all measures. Despite
+this somewhat striking neutrality, “the uncertain ”have the second highest mean in Factor 3
+(approx. 2.82), which indicates that they are more willing to develop cost management in
+comparison to the other clusters. However, the reluctance of the others makes
+“the uncertain ”look more interested than they actually are.
+The data show that an inter-organizational emphasis is characteristic especially for
+“the trustful ”and “the trailblazers, ”consisting of 40 percent of the surveyed companies. There
+is, however, one notable difference between these two clusters, which can be demonstrated by
+adopting the ARA framework (activity links, resource interfaces and actor bonds) perspective
+(Håkansson and Snehota, 1995) as illustrated in Table IV. Both clusters seem to recognize the
+importance of resource interfaces, which is manifested in the joint cost management
+orientation (Factor 1) and thus willingness to implement inter-organizational cost and
+ARA dimension Cluster 2: “the trustful ” Cluster 4: “the trailblazers ”
+Activity links ↓↑
+Resource interfaces ↑↑
+Actor bonds Moderate, but challenging Good state/potentialTable IV.
+Networking-oriented
+clusters: the ARA
+frameworkperspective180IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+accounting control techniques. By contrast, only “the trailblazers ”are interested to develop
+cost management (Factor 3). As far as activity links are concerned, this may be problematic
+for “the trustful ”as the dissimilarity of cost accounting practices (and internal accounting
+activity) constrains network-level cost management opportunities (Kulmala et al. , 2002;
+Suomala et al., 2010; Caglio, 2017). As a consequence, achieving deeper actor bonds in the cost
+accounting and cost management context becomes a challenge for “the trustful ”,w h e r e a s “the
+trailblazers ”have better premises for maintaining established connections as well as
+increasing integration to new directions.
+3.3 Going deeper into the clusters: the influence of organizational size and industry
+The essence of each company in the data set is defined by the two significant background
+variables: organizational size and industry. When the analysis is taken to the level of these
+background variables, the idea is to reveal underlying differences and distinctions among
+the clusters in relation to the total sample of the survey. Only the most intriguing anomalies
+are, however, emphasized separately and discussed in detail. A complete breakdown of
+organizational sizes (i.e. small, medium-sized and large enterprises) and the seven largest
+industries is shown, cluster by cluster, in Figure A1.
+As far as large enterprises are concerned, their proportion is highlighted specifically in
+“the trailblazers. ”This is only logical, as larger companies have more disposable resources
+to develop their cost management practices and joint cost management techniques
+constantly in the inter-organizational domain. In addition to resources, the intensity of
+competition may also drive larger companies to progress continuously. On the other hand,
+the likelihood of finding a large enterprise in “the cost experts ”is notably reduced. If the
+explanation that “the cost experts ”are excessively self-confident is accepted, it makes sense
+that larger size increases self-awareness in terms of being able to assess one ’s competencies
+better. Another possibility is that large enterprises need to integrate more with other
+companies, which would not only explain their diminished share in “the cost experts, ”but in
+“the holdouts ”as well.
+On the basis of the findings on large enterprises, organizational size seems to correlate
+with an interest to develop cost management practices and increase inter-organizational
+integration, but we should not jump to any conclusions, because medium-sized enterprises
+would prove us wrong. They are less represented in “the trailblazers ”and have a higher
+share in “the cost experts. ”Medium-sized companies are less represented also in
+“the holdouts, ”which indicates that they are a more diverse group than large enterprises,
+as “the holdouts ”can be easily regarded as antithetical to “the trailblazers. ”
+The heterogeneity might be explained by the fact that the definition of “medium-sized
+enterprise ”is actually quite broad. Some of these companies operate only on the domestic
+market, whereas others export goods globally.
+Small enterprises stand especially out in “the holdouts, ”but are highlighted also in the
+networking-ori ented clusters, “the trustful ”and “the trailblazers. ”It should be
+acknowledged that small enterprises are companies with diverging ambitions. On one
+hand, we have rapidly growing technology start-ups, and on the other hand stagnant family
+businesses. The start-ups are modern, enthusiastic companies that can be found among
+“the trustful ”and “the trailblazers, ”which are disassociated only by their dissimilarity in
+the interest to develop cost management. The family businesses belong more likely to
+“the holdouts, ”as their old-timer CEOs are resistant to change.
+As regards the industries, we concentrate here exclusively on “manufacturing, ”
+“wholesale and retail trade, ”“construction ”and “information and communication ”, because
+the most substantial differences and distinctions are found among them. The largest
+industry is, by far, “manufacturing ”(514 companies, 34.1 percent of the survey sample),
+the proportion of which is high in “the uncertain ”and “the trustful, ”and reduced in181Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+“the trailblazers ”and “the holdouts. ”There is a lot of indecisiveness among manufacturing
+companies, as they emerge most among “the uncertain. ”This might stem from intensified
+competition and increased customer demands. As an industry, it is mostly comprised of
+small upstream companies established around the original founder/proprietor. Therefore,
+it is surprising that “manufacturing ”is actually less represented in “the holdouts. ”
+The second largest industry is “wholesale and retail trade ”(205 companies, 13.6 percent
+of the survey sample). These companies have an increased proportion in “the holdouts ”and
+“the trailblazers, ”and decreased proportion in “the uncertain ”and “the trustful. ”Some
+wholesale and retail trade companies are networking-oriented, and they seek to improve
+their cost management practices as well, as “the trailblazers ”are favored instead of
+“the trustful. ”Given the position of “wholesale and retail trade ”in the value chain, it is only
+natural that inter-organizational relationships with the upstream and downstream
+counterparts are accentuated. All things considered, it looks like “manufacturing ”and
+“wholesale and retail trade ”stand out from exactly opposite clusters. In the latter, the high
+proportion in “the holdouts ”could be explained by a large number of small convenience
+stores and boutiques.
+The third largest industry is “construction ”(128 companies, 8.5 percent of the survey
+sample), which is highlighted in “the uncertain ”and “the cost experts ”. In addition, it has
+also a reduced share in the remaining clusters, i.e. “the trailblazers, ”“the holdouts ”and
+“the trustful. ”Construction companies operate in an unsteady environment, where their
+livelihood is often reliant on obtaining new building projects constantly. Under such
+circumstances, cost expertise is helpful for d rawing up tenders that are both cost efficient
+and competitive. On the other hand, some companies may also be overwhelmed by the
+situation, which is shown as increased uncerta inty, positioning them thus in the cluster
+“the uncertain. ”
+“Information and communication ”(93 companies, 6.2 percent of the survey sample) is not
+the fourth largest industry, but an interesting one, as its proportion fluctuates a lot among the
+clusters. “The holdouts ”are saturated with information and communication companies,
+whereas “the trailblazers ”and “the uncertain ”lack them. As technology companies are easily
+labeled as some kind of forerunners in contemporary business solutions, their proportional
+increase in “the holdouts ”is very surprising. It may be that the margins in “information and
+communication ”are so good that most companies in the industry are accustomed to the
+“rule of thumb, ”and do not thus need sophisticated cost accounting systems.
+3.4 Prevalence of inter-organizational cost and accounting control techniques
+In addition to the quantitative data that wer e employed in the above-mentioned factor and
+cluster analyses, qualitative data were coll ected from the respondents with Q27 in order to
+understand how common inter-organizational cost and accounting control techniques are
+in the companies. We have classified the res ponses to Q27 into five categories that are
+presented in Figure 2. The first basis of classification was th e tone of the response, which
+is interpreted as being either positive or negative to the question; “Does your company
+have any network-level cost accounting tools, methods or even systems in place? ”
+By following this logic, the data set contai ns 393 positive responses and 1,114 negative
+ones. The second basis of classification relied on the content, and also on the finer nuances
+of each individual response.
+The positive responses comprise three categories: Category 1: “technique is named
+and/or its purpose of use is explained in detail, ”Category 2: “claims to have, but response is
+ambiguous and/or incoherent ”and Category 3: “has misunderstood the question, only
+internal techniques in use. ”The negative responses comprise two additional categories:
+Category 4: “has something, but not necessarily in the cost management context, ”and
+Category 5: “does not have, does not know, or does not want to comment. ”The last category182IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+was straightforward to put together, because the majority of the respondents in Category 5
+phrased their answer simply as “no”(991/1,082 respondents).
+Even though the positive side accounts roughly for 26 percent of the companies, the
+prevalence of inter-organizational cost and accounting control techniques is significantly
+lower. A closer look reveals that techniques are found specifically in those companies that
+belong to Category 1, which denotes that around 7 percent of the companies have actually
+something tangible to facilitate collaboration in the value network. As far as the clusters are
+concerned, the networking-oriented ones stand out in Category 1. The proportions ofPOSITIVE
+393 responses
+NEGATIVE
+1,114 responses
+Category 4:
+Has something, but not 
+necessarily in the cost 
+management context
+32 responses
+Cluster 1: N=5; 15.6%
+Cluster 2: N=10; 31.3%  
+Cluster 3: N=6; 18.8% 
+Cluster 4: N=5; 15.6%
+Cluster 5: N=6; 18.8%Category 5:
+Doesnot have, does not 
+know, or does not want to 
+comment 
+1,082 responses
+Cluster 1: N=240; 22.2%  
+Cluster 2: N=226; 20.9%  
+Cluster 3: N=186; 17.2%  
+Cluster 4: N=157; 14.5%  
+Cluster 5: N=273; 25.2%  Category1:
+Technique is named 
+and/or its purpose of use 
+is explained in detail
+112 responses
+Cluster1: N=19; 17.0%   
+Cluster 2: N=39; 34.8%   (↑)
+Cluster 3: N=15; 13.4%   
+Cluster 4: N=22; 19.6%  (↑)
+Cluster 5: N=17; 15.2%   Category 2:
+Claims to have, but 
+response is ambiguous 
+and/or incoherent
+180 responses 
+Cluster 1: N=34; 18.9%  
+Cluster 2: N=55; 30.6%  
+Cluster 3: N=18; 10.0%  
+Cluster 4: N=38; 21.1%  
+Cluster 5: N=35; 19.4%   Category 3:
+Has misunderstood the 
+question, only internal 
+techniques in use
+101 responses
+Cluster 1: N=29; 28.7%  
+Cluster 2: N=28; 27.7%  
+Cluster 3: N=11; 10.9%  
+Cluster 4: N=18; 17.8%  
+Cluster 5: N=15; 14.9%(↓)
+(↓)
+(↓)
+(↓)
+(↓)(↑)
+(↑)
+(↑)(↑)
+(↓)(↓)
+(↑)
+(↓)(↑)
+(↑)(↓)
+(↓)
+(↓)(↑)
+(↑)(↑)
+(↓)
+(↓)
+Figure 2.
+Categorization of the
+responses on Q27183Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+“the trustful ”(23.8 percent →34.8 percent percent) as well as “the trailblazers ”
+(15.9 percent →19.6 percent) are both elevated in relation to the total sample. This
+observation holds true equally for Category 2, where some of the companies may also have
+inter-organizational cost and accounting control techniques in use. The issue with Category
+2 is, however, the ambiguity of the respondents. Overall, it seems that “the trustful ”and
+“the trailblazers ”are consistently highlighted more on the positive than the negative side,
+which indicates that the outlook of these companies is more optimistic and forward-looking
+in general.
+The following three exemplifying citations have been selected from Category 1. The first
+one states:
+We share Excel-sheets that contain information about unit production costs with our customers.
+What we do not have, however, is an actual information system that both parties would haveaccess to –CFO of a small plastics manufacturer (Cluster 2: “the trustful ”).
+The first example describes a situation where the supplier discloses cost information to its
+customers in the form of unit production costs on spreadsheets. Based on the citation alone,
+it would seem that the collaboration relies on the supplier ’s willingness to disclose
+information unilaterally to the customers. Similar settings with a simple information sharing
+tool in the inter-organizational interface were described in several responses in Category 1.
+The second citation states:
+Yes. We have certain strategic partners with whom information is disclosed in an open-book
+manner. We have developed collaborative reporting practices for this. –CFO of a medium-sized
+electricity trading company (Cluster 4: “the trailblazers ”).
+In the second example, the companies have established a systematic method to disclose
+information. This was actually the only response where OBA was clearly identified as a
+concept to disclose information, which means that it is not part of managers ’daily language.
+In comparison to the first example, the relationships in the second example appear to be
+deeper, as there are “reporting practices ”in place, and the respondent also refers to “certain
+strategic partners ”. The third citation states:
+Our information system specialists have built a system that is suitable for the specific needs of
+our industry. It is based mainly on the idea of customer relationship management –CEO of a
+medium-sized transportations operator (Cluster 2: “the trustful ”).
+The company in the third example has developed an information system that is targeted at
+managing downstream rather than upstream relationships. Interestingly, a number of
+respondents in Category 1 mentioned that they were employing self-made or tailored
+information systems. In this specific example, however, the response is so vague that the
+purpose of the use of the system is very difficult to assess. It is also entirely possible that
+the referred system has nothing to do with cost management.
+In addition to the above-mentioned examples, two more citations were selected, one from
+Category 2 and another from Category 3, to illustrate ways to misunderstand Q27.
+The former citation states:
+Yes, of course! In practice, I am able to access our network even from my summer cottage –
+CFO of a large specialized construction activities company (Cluster 1: “the cost experts ”).
+The first additional citation demonstrates how the meaning of “network ”can be
+misunderstood despite the general context of the survey. Whereas this is an extreme
+example, other responses in Category 2 were much harder to interpret in terms of
+the technique described. That being said, it is still remarkable that large company CEOs
+and CFOs mix up these terminologies, especially when the preceding questions (Q19-Q24)
+had covered the subject matter from the inter-organizational perspective.184IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+The other additional citation from Category 3 states:
+We have shared and integrated information systems within our group –CFO of a large regional
+supermarket cooperative (Cluster 3: “the holdouts ”).
+As can be seen in Category 3 as a whole, surprisingly many of the senior managers perceive
+consolidated corporation as a synonym for their “value network ”(101 respondents), which is
+the case also in the citation above. The nature of grocery retailing in Finland may explainwhy the term “network ”is associated with consolidated corporation in this particular case.
+As there are two large supermarket cooperatives with nationwide coverage, synergies are
+actively sought among the regional branches.
+4. Conclusions and implications
+The factor analysis resulted in five factors three of which were eventually accepted: Factor 1:
+“orientation to joint cost management, ”Factor 2: “the current state of cost management, ”and
+Factor 3: “interest to develop cost management. ”Based on these three factors, five distinctive
+clusters of companies were identified from the data: Cluster 1: “the cost experts, ”Cluster 2:
+“the trustful, ”Cluster 3: “the holdouts, ”Cluster 4: “the trailblazers ”and Cluster 5:
+“the uncertain ”. These clusters form the answer to the following research question:
+RQ1. How can companies be categorized relative to their orientation to joint cost
+management, current state of cost management and interest to develop
+cost management?
+As far as inter-organizational integration is concerned, “the trustful ”and “the trailblazers ”
+turned out to be the most intriguing clusters, as they both had a high mean in Factor 1 (~3.7).“The holdouts, ”on the other hand, were a pessimistic group of companies that resist change,
+joint cost management included. When the networking-oriented clusters,
+“the trustful ”and “the trailblazers, ”were combined, it could be stated that almost
+40 percent of the companies were willing to increase inter-organizational integration in the
+value network. It was further discovered that an interest to integrate (Factor 1) and develop
+cost management practices (Factor 3) were highly correlated (~0.4). The reciprocal correlation
+between these factors became even stronger when “the trustful ”were excluded from the
+analysis (~0.6).
+When a closer look was taken into organizational sizes and industries, it was noticed that
+there were certain differences among the clusters. Large enterprises stood out especially
+from “the trailblazers, ”medium-sized enterprises from “the cost experts, ”and small
+enterprises from “the holdouts. ”Moreover, differences were identified particularly on four
+industries, including
+“manufacturing, ”“wholesale and retail trade, ”“construction ”and
+“information and communication. ”The proportion of manufacturing companies seemed to
+be elevated in “the uncertain ”and “the trustful, ”and reduced in “the trailblazers ”and
+“the holdouts, ”which was exactly opposite to “wholesale and retail trade. ”Construction
+companies, on the other hand, were highlighted in “the uncertain ”and “the cost experts. ”
+Surprisingly, the forward-looking “information and communication ”stood out from the
+most change-resistant group of companies, “the holdouts ”. The above-mentioned
+distinctions form the answer to the following research question:
+RQ2. What is the influence of organizational size and industry on the categorization
+ofRQ1?
+Unlike the finding that a high portion of the companies wanted to increase inter-organizational
+integration could imply, only a few of them had already implemented/were utilizing
+inter-organizational cost and accountin g control techniqu es. At the same time,
+it should be acknowledged that also well-designed intra-organizational accounting supports185Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+the relationship formation and consequential integration (Håkansson and Lind, 2004).
+Based on the responses to Q27 ( “Does your company have any network-level cost accounting
+tools, methods or even systems in place? ”), it seemed that around 7 percent of the companies
+were employing boundary-spanning control techniques. A positive response was given by
+26 percent of the respondents, but many of them had either misunderstood the question or
+were otherwise too ambiguous about the technique in question. The breakdown of Q27 forms
+the answer to the following research question:
+RQ3. What is the extent of the implementation/utilization of inter-organizational cost
+and accounting control techniques (e.g. tools, methods and information systems)
+in practice?
+When the results of the cluster analysis were compared with the responses to Q27, it could
+be stated that there was some disparity between the rhetoric and the current state of affairs.
+The companies, especially those in “the trustful ”and “the trailblazers, ”were interested to
+increase inter-organizational integration through joint cost management. This orientation
+did not yet manifest itself, as only a small portion of the companies had inter-organizational
+cost and accounting control techniques already in place.
+Regarding the prior tradition of Finnish management accounting surveys, a few aspects
+should be briefly emphasized in comparison. According to Lukka and Granlund (1996),
+20 years ago Finnish product costing principles were dominated by variable costing over
+full costing and a mixed approach. Based on our survey, it appears that this past situation
+has now changed, as the mean of Q5 (i.e. variable/direct costing) as well as that of Q6
+(i.e. fixed/indirect costing) were both relatively high. It should be noted that the sample of
+Lukka and Granlund (1996) was comprised exclusively of large and medium-sized enterprises,
+which may have slightly accentuated the more comprehensive costing approaches.
+However, the state of cost management has improved significantly in Finland, which was
+shown in the high mean of Factor 2 (~3.6). One of the reasons behind increased cost
+consciousness was apparently the rise of ABC in the organizations. The use of ABC principles
+(Q7) correlated with Q5 and Q6, and also with Q8 (i.e. ability to determine the costs of different
+accounting items), as these questions are the four constituents of Factor 2. Previous studies
+have reported mainly on low adoption rates of ABC, ranging from 5 to 27 percent
+(Lukka and Granlund, 1996; Hussain et al., 1998; Malmi, 1999; Hyvönen, 2003). Even though
+the equivalent rate was over 80 percent in the study of Hyvönen (2005), the companies did not
+perceive ABC as particularly beneficial. Now, ten years later, it seems that ABC contributesfor a good state of cost management as a constituent of sound accounting practice.
+This paper contains several theoretical implications. First of all, both the extent of
+companies ’interest to increase inter-organizational integration in value networks
+(i.e. orientation to joint cost management), and the prevalence of cost and accounting
+control techniques were mapped in the survey. The high reciprocal correlation between an
+interest to integrate (Factor 1) and develop cost management practices further (Factor 3) is a
+novel finding. Based on the cluster analysis, we claim that companies can be allocated to five
+distinctive clusters according to their orientation to joint cost management, the current state
+of cost management, and the interest to develop cost management. Moreover, Dekker (2016)
+has recently called for more evidence on how internal management accounting practices
+might support or constrain companies in developing inter-organizational relationships.
+Our findings suggest that a good state of cost management (Factor 2) is also a requirement
+for a joint cost management orientation (Factor 1), as “the trailblazers ”and “the trustful ”can
+be both regarded as very cost-conscious groups of companies.
+Regarding the IMP research tradition, this paper furthers the understanding of the role of
+(cost) accounting in the inter-organizational domain. A decision to invest in inter-organizational
+cost and accounting control can be seen as a concrete action to create, maintain or develop186IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+resource interfaces among network actors, and a prior “state of mind ”to such a decision is the
+willingness to increase integration. Our approach to interaction and integration is, however,
+limited in a sense of typologies developed by IMP scholars (Abrahamsen and Håkansson, 2015;
+Håkansson and Ford, 2016). A strong orientation to joint cost management in certain clusters
+can be interpreted as an effort to transition from business duels toward business duets
+(cf. Håkansson and Ford, 2016) and from pure exchange toward full integration
+(cf. Abrahamsen and Håkansson, 2015). Further research could thus address what type of
+relationship (e.g. a long-term duet) is the threshold for accounting information exchanges to
+take place.
+The scarcity of managerial implications can also be regarded as a limitation. Of course,
+the clusters, the influence of organizational size and industry to clustering, and the
+prevalence of inter-organizational cost and accounting control techniques might be of some
+interest to managers. Another minor limitation is related to the data. Despite the fact that
+the data set was exceptionally large, it was still collected exclusively from Finnish
+organizations, which affects its generalizability. We also recognize that certain limitations
+stem from the selected research approach and the employed methods.
+Finally, further research, e.g. comparative studies, are needed to verify our key findings,
+including the clusters. We are confident that similar categories can be found in other
+countries as well. After all, it has been previously highlighted that management accounting
+practices are rather converging than diverging in Europe (Shields, 1998; Macintosh, 1998)
+as well as globally (Granlund and Lukka, 1998). Moreover, it would be interesting to see
+whether or not the prevalence of inter-organizational cost and accounting control techniques
+is higher elsewhere. All things considered, we think that more survey-based evidence is still
+needed in the crossroads of inter-organizational relationships and cost management.
+References
+Abrahamsen, M.H. and Håkansson, H. (2015), “Resource heterogeneity and its effects on interaction
+and integration in customer-supplier relationships ”,IMP Journal , Vol. 9 No. 1, pp. 5-25.
+Agndal, H. and Nilsson, U. (2009), “Interorganizational cost management in the exchange process ”,
+Management Accounting Research , Vol. 20 No. 2, pp. 85-101.
+Agndal, H. and Nilsson, U. (2010), “Different open book accounting practices for different purchasing
+strategies ”,Management Accounting Research , Vol. 21 No. 3, pp. 147-166.
+Alenius, E., Lind, J. and Strömsten, T. (2015), “The role of open book accounting in a supplier network:
+creating and managing interdependencies across company boundaries ”,Industrial Marketing
+Management , Vol. 43 No. 8, pp. 195-206.
+Araujo, L., Dubois, A. and Gadde, L.-E. (1999), “Managing interfaces with suppliers ”,Industrial
+Marketing Management , Vol. 28 No. 5, pp. 497-506.
+Araujo, L., Gadde, L.-E. and Dubois, A. (2016), “Purchasing and supply management and the role of
+supplier interfaces ”,IMP Journal , Vol. 10 No. 1, pp. 2-24.
+Axelsson, B., Laage-Hellman, J. and Nilsson, U. (2002), “Modern management accounting for
+modern purchasing ”,European Journal of Purchasing & Supply Management ,V o l .8N o .1 ,
+pp. 53-62.
+Baraldi, E. and Strömsten, T. (2006), “Embedding and utilizing low weight: value creation and resource
+configurations in the networks around IKEA ’s Lack table and Holmen ’s newsprint ”,
+IMP Journal , Vol. 1 No. 1, pp. 39-70.
+Baraldi, E., Gressetvold, E. and Harrison, D. (2012), “Resource interaction in inter-organizational
+networks: foundations, comparison, and a research agenda ”,Journal of Business Research ,
+Vol. 65 No. 2, pp. 266-276.
+Bryman, A. and Bell, E. (2011), Business Research Methods , Oxford University Press, Oxford.187Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+Caglio, A. (2017), “To disclose or not to disclose? –an investigation of the antecedents and effects of
+open book accounting ”,European Accounting Review , pp. 1-25, available at: www.tandfonline.
+com/doi/full/10.1080/09638180.2017.1315313
+Caglio, A. and Ditillo, A. (2008), “A review and discussion of management control in inter-firm
+relationships: achievements and future directions ”,Accounting, Organizations and Society ,
+Vol. 33 Nos 7/8, pp. 865-898.
+Caglio, A. and Ditillo, A. (2012), “Opening the black box of management accounting information exchanges
+in buyer-supplier relationships ”,Management Accounting Research ,V o l .2 3N o .2 ,p p .6 1 - 7 8 .
+Carlsson-Wall, M., Kraus, K. and Lind, J. (2009), “Accounting and distributed product development ”,
+IMP Journal , Vol. 3 No. 1, pp. 2-27.
+Carr, C. and Ng, J. (1995), “Total cost control: Nissan and its UK supplier relationships ”,Management
+Accounting Research , Vol. 6 No. 4, pp. 347-365.
+Coad, A.F. and Cullen, J. (2006), “Inter-organisational cost management: towards an evolutionary
+perspective ”,Management Accounting Research , Vol. 17 No. 4, pp. 342-369.
+Cooper, R. and Slagmulder, R. (2004), “Interorganizational cost management and relational context ”,
+Accounting, Organizations and Society , Vol. 29 No. 1, pp. 1-26.
+Cooper, R. and Yoshikawa, T. (1994), “Inter-organizational cost management systems: the case of the
+Tokyo-Yokohama-Kamakura supplier chain ”,International Journal of Production Economics ,
+Vol. 37 No. 1, pp. 51-62.
+Creswell, J. (2015), A Concise Introduction to Mixed Methods Research , Sage Publications, Inc.,
+Thousand Oaks, CA.
+Dekker, H.C. (2003), “Value chain analysis in interfirm relationships: a field study ”,Management
+Accounting Research , Vol. 14 No. 1, pp. 1-23.
+Dekker, H.C. (2004), “Control of inter-organizational relationships: evidence on appropriation concerns
+and coordination requirements ”,Accounting, Organizations and Society , Vol. 29 No. 1, pp. 27-49.
+Dekker, H.C. (2016), “On the boundaries between intrafirm and interfirm management accounting
+research ”,Management Accounting Research , Vol. 25 No. 4, pp. 86-99.
+European Commission (2017), “What is an SME? ”, available at: http://ec.europa.eu/growth/smes/
+business-friendly-environment/sme-definition/index_en.htm (accessed March 20, 2017).
+Fayard, D., Lee, L.S., Leitch, R.A. and Kettinger, W.J. (2012), “Effect of internal cost management,
+information systems integration, and absorptive capacity on inter-organizational costmanagement ”,Accounting, Organizations and Society , Vol. 37 No. 3, pp. 168-187.
+Free, C. (2008), “Walking the talk? Supply chain accounting and trust among UK supermarkets and
+suppliers ”,Accounting, Organizations and Society , Vol. 33 No. 6, pp. 629-662.
+Ghauri, P. and Grønhaug, K. (2002), Research Methods in Business Studies: A Practical Guide , 2nd ed.,
+Pearson Education Ltd., Essex.
+Granlund, M. and Lukka, K. (1998), “It’s a small world of management accounting practices ”,Journal of
+Management Accounting Research , Vol. 10 No. 1, pp. 153-179.
+Håkansson, H. (1982), International Marketing and Purchasing of Industrial Goods: An Interaction
+Approach , John Wiley & Sons, Ltd., Chichester.
+Håkansson, H. and Ford, D. (2016), “The managerial challenge of business interaction: behind the
+market façade ”,IMP Journal , Vol. 10 No. 1, pp. 154-171.
+Håkansson, H. and Lind, J. (2004), “Accounting and network coordination ”,Accounting, Organizations
+and Society , Vol. 29 No. 1, pp. 51-72.
+Håkansson, H. and Lind, J. (2007), “Accounting in an interorganizational setting ”, in Chapman, C.S.,
+Hopwood, A.G. and Shields, M.D. (Eds), Handbook of Management Accounting Research , Vol. 2,
+1st ed., Elsevier, Oxford, pp. 885-902.
+Håkansson, H. and Olsen, P.I. (2015), “The roles of money and business deals in network structures ”,
+Industrial Marketing Management , Vol. 43 No. 8, pp. 207-217.188IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+Håkansson, H. and Snehota, I. (1995), Developing Relationships in Business Networks , Routledge, London.
+Håkansson, H. and Waluszewski, A. (2002), Managing Technological Development –IKEA, The
+Environment and Technology , Routledge, London.
+Hussain, M., Gunasekaran, A. and Laitinen, E.K. (1998), “Management accounting systems in Finnish
+service firms ”,Technovation , Vol. 18 No. 1, pp. 57-67.
+Hyvönen, T. (2003), “Management accounting and information systems: ERP versus BoB ”,European
+Accounting Review , Vol. 12 No. 1, pp. 155-173.
+Hyvönen, J. (2005), “Adoption and benefits of management accounting systems: evidence from Finland
+and Australia ”,Advances in International Accounting , Vol. 18, pp. 97-120.
+Ittner, C.D., Larcker, D.F., Nagar, V. and Rajan, M.V. (1999), “Supplier selection, monitoring practices,
+and firm performance ”,Journal of Accounting and Public Policy , Vol. 18 No. 3, pp. 253-281.
+Kajüter, P. and Kulmala, H.I. (2005), “Open-book accounting in networks: potential achievements and
+reasons for failures ”,Management Accounting Research , Vol. 16 No. 2, pp. 179-204.
+Kulmala, H.I., Paranko, J. and Uusi-Rauva, E. (2002), “The role of cost management in network
+relationships ”,International Journal of Production Economics , Vol. 79 No. 1, pp. 33-43.
+Kulp, S.C. (2002), “The effect of information precision and information reliability on manufacturer-retailer
+relationships ”,The Accounting Review , Vol. 77 No. 3, pp. 653-677.
+Laitinen, E.K. (2006), “Explaining management accounting change: evidence from Finland ”,International
+Journal of Accounting, Auditing and Performance Evaluation , Vol. 3 No. 2, pp. 252-281.
+Lind, J. (2017), “The role of accounting for managing innovation processes when relationships matter ”,
+IMP Journal , Vol. 11 No. 1, pp. 7-24.
+Lukka, K. and Granlund, M. (1996), “Cost accounting in Finland: current practice and trends of
+development ”,European Accounting Review , Vol. 5 No. 1, pp. 1-28.
+Macintosh, N. (1998), “Management accounting in Europe: a view from Canada ”,Management
+Accounting Research , Vol. 9 No. 4, pp. 495-500.
+Malmi, T. (1999), “Activity-based costing diffusion across organizations: an exploratory empirical
+analysis of Finnish firms ”,Accounting, Organizations and Society , Vol. 24 No. 8, pp. 649-672.
+Möller, K., Windolph, M. and Isbruch, F. (2011), “The effect of relational factors on open-book
+accounting and inter-organizational cost management in buyer-supplier partnerships ”,Journal
+of Purchasing & Supply Management , Vol. 17 No. 2, pp. 121-131.
+Mouritsen, J., Hansen, A. and Hansen, C.Ø. (2001), “Inter-organizational controls and organizational
+competencies: episodes around target cost management/functional analysis and open bookaccounting ”,Management Accounting Research , Vol. 12 No. 2, pp. 221-244.
+Munday, M. (1992), “Accounting cost data disclosure and buyer-supplier partnerships –a research
+note ”,Management Accounting Research , Vol. 3 No. 3, pp. 245-250.
+Prenkert, F. (2016), “Market investments in resource interfaces: understanding market assets in
+networks ”,IMP Journal , Vol. 10 No. 3, pp. 409-442.
+Romano, P. and Formentini, M. (2012), “Designing and implementing open book accounting in
+buyer-supplier dyads: a framework for supplier selection and motivation ”,International Journal
+of Production Economics , Vol. 137 No. 1, pp. 68-83.
+Seal, W., Cullen, J., Dunlop, A., Berry, T. and Ahmed, M. (1999), “Enacting a European supply chain:
+a case study on the role of management accounting ”,Management Accounting Research , Vol. 10
+No. 3, pp. 303-322.
+Shields, M. (1998), “Management accounting practices in Europe: a perspective from the States ”,
+Management Accounting Research , Vol. 9 No. 4, pp. 501-513.
+Statistics Finland (2015), “Standard Industrial Classification TOL 2008 ”, available at: www.
+tilastokeskus.fi/meta/luokitukset/toimiala/001-2008/index_en.html (accessed 20 March 2017).
+Statistics Finland (2016), “Enterprises ”, available at: http://tilastokeskus.fi/tup/suoluk/suoluk_
+yritykset_en.html (accessed 20 March 2017).189Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+Suomala, P., Lahikainen, T., Lyly-Yrjänäinen, J. and Paranko, J. (2010), “Open book accounting in
+practice –exploring the faces of openness ”,Qualitative Research in Accounting & Management ,
+Vol. 7 No. 1, pp. 71-96.
+Thorelli, H.B. (1986), “Networks: between markets and hierarchies ”,Strategic Management Journal ,
+Vol. 7 No. 1, pp. 37-51.
+Thrane, S. and Hald, K.S. (2006), “The emergence of boundaries and accounting in supply fields:
+the dynamics of integration and fragmentation ”,Management Accounting Research , Vol. 17
+No. 3, pp. 288-314.
+Windolph, M. and Möller, K. (2012), “Open-book accounting: reason for failure of inter-firm
+cooperation? ”,Management Accounting Research , Vol. 23 No. 1, pp. 47-60.
+Wouters, M., Anderson, J.C. and Wynstra, F. (2005), “The adoption of total cost of ownership for
+sourcing decisions –a structural equations analysis ”,Accounting, Organizations and Society ,
+Vol. 30 No. 2, pp. 167-191.
+Appendix 1
+Q1. Our products and/or services are mainly standardized by nature
+Q2. We have illustrated our business processes within the last five yearsQ3. Our information systems support our business processes wellQ4. We enter working hours systematically to an electronic systemQ5. We know the variable or direct costs that are allocated to a product or a serviceQ6. We know the fixed or indirect costs that are allocated to a product or a serviceQ7. We employ activity-based costing principles in our companyQ8. We are able to determine the costs of different accounting items (e.g. profit centers, product lines,
+customers, etc.)
+Q9. Pursuing cost efficiency is the most important goal in our businessQ10. Through improved cost consciousness, we would be able to develop our operations significantlyQ11. A spreadsheet program (e.g. Microsoft Excel) is an adequate tool for our cost accounting needsQ12. We think that the markets lack a suitable software for cost accounting and profitability
+management
+Q13. We have purchased a cost accounting system within the last five yearsQ14. We are considering to purchase a cost accounting system in the near futureQ15. We have purchased cost accounting-related services (e.g. training or consulting) within the last
+five years
+Q16. We are considering to purchase cost accounting-related services (e.g. training or consulting) in the
+near future
+Q17. We prefer a comprehensive solution for cost accounting and profitability management
+(i.e. a software combined with training and consulting) to a plain cost accounting system.
+Q18. We are interested in an analysis about the state of our cost accounting and profitability
+management made by external professionals
+Q19. We build long-term relationships systematically with our business partnersQ20. Our customers appreciate especially the transparency of our cost structure and pricingQ21. We appreciate especially the transparency of suppliers ’cost structure and pricing
+Q22. With joint cost accounting, we could improve the efficiency and competitiveness of our current
+value network
+Q23. We are willing to deepen the collaboration of our current value network by disclosing cost
+structures and cost information bilaterally with others
+Q24. We think that transparent disclosure of cost structures and cost information is realistic, at the
+moment or in the near future, in our current value network
+Q25. What are the main characteristics of the systems and the services that could improve cost
+accounting and profitability management in your company?
+Q26. What are the greatest challenges and/or obstacles in purchasing, implementing and maintaining a
+functioning and effective cost accounting system?
+Q27. Does your company have any network-level cost accounting tools, methods or even systems in
+place? If you do, what are they and their main characteristics?190IMP
+12,1
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026
+Appendix 2
+Corresponding author
+Antti Ylä-Kujala can be contacted at: antti.yla-kujala@lut.fi
+Manufacturing 514 34.1% Manufacturing 111 33.9% –0.2 –0.5%
+Wholesale and retail trade 205 13.6% Wholesale and retail trade 50 15.3% 1.7 12.4%
+Construction 128 8.5% Construction 32 9.8% 1.3 15.2%
+Professional, sci. and techn. activities 121 8.0% Professional, sci. and techn. activities 25 7.6% –0.4 –4.8%
+Transportation and storage 96 6.4% Transportation and storage 21 6.4% 0.1 0.8%
+Information and communication 93 6.2% Information and communication 22 6.7% 0.6 9.0%
+Administrative and support services 90 6.0% Administrative and support services 19 5.8% –0.2 –2.7%
+Other industries 260 17.3% Other industries 47 14.4% –2.9 –16.7%
+Manufacturing 129 36.0% 1.9 5.6% Manufacturing 73 30.9% –3.2 –9.3%
+Wholesale and retail trade 36 10.1% –3.5 –26.1% Wholesale and retail trade 47 19.9% 6.3 46.4%
+Construction 26 7.3% –1.2 –14.5% Construction 17 7.2% –1.3 –15.2%
+Professional, sci. and techn. activities 28 7.8% –0.2 –2.6% Professional, sci. and techn. activities 16 6.8% –1.2 –15.6%
+Transportation and storage 25 7.0% 0.6 9.6% Transportation and storage 12 5.1% –1.3 –20.2%
+Information and communication 25 7.0% 0.8 13.2% Information and communication 24 10.2% 4.0 64.8%
+Administrative and support services 25 7.0% 1.0 16.9% Administrative and support services 12 5.1% –0.9 –14.9%
+Other industries 64 17.9% 0.6 3.6% Other industries 35 14.8% –2.4 –14.0%
+Manufacturing 70 29.2% –4.9 –14.5% Manufacturing 131 37.9% 3.8 11.0%
+Wholesale and retail trade 41 17.1% 3.5 25.6% Wholesale and retail trade 31 9.0% –4.6 –34.1%
+Construction 16 6.7% –1.8 –21.5% Construction 37 10.7% 2.2 25.9%
+Professional, sci. and techn. activities 21 8.8% 0.7 9.0% Professional, sci. and techn. activities 31 9.0% 0.9 11.6%
+Transportation and storage 16 6.7% 0.3 4.7% Transportation and storage 22 6.4% 0.0 –0.2%
+Information and communication 9 3.8% –2.4 –39.2% Information and communication 13 3.8% –2.4 –39.1%
+Administrative and support services 14 5.8% –0.1 –2.3% Administrative and support services 20 5.8% –0.2 –3.2%
+Other industries 53 22.1% 4.8 28.0% Other industries 61 17.6% 0.4 2.2%CLUSTER 4: “THE TRAILBLAZERS”CLUSTER 1: “THE COST EXPERTS”
+CLUSTER 3: “THE HOLDOUTS”
+100%100%TOTAL SAMPLE OF THE SURVEY
+CLUSTER 2: “THE TRUSTFUL”Proportion: 100% Total: 327 100%
+Total :
+CLUSTER 5: “THE UNCERTAIN”100% 236
+Proportion: 15.9% Total: 346 100% Proportion: 23.0% Total: 240 100%Proportion: 23.8%Proportion: 21.7%
+Total: 358 Proportion: 15.7%
+The difference in      
+percentage points
+The difference in     
+percentages (%)
+Total: 1,5074.7%
+31.0%
+64.3%
+Large Medium Small
+5.0%
+29.1%
+65.9%
+Large Medium Small
+6.3%
+27.9%
+65.8%
+Large Medium Small5.2%
+32.9%
+61.8%
+Large Medium Small3.4%
+35.5%
+61.2%
+Large Medium Small
+3.8%
+28.0%
+68.2%
+Large Medium Small
+Figure A1.
+Cluster-specific
+breakdown of
+organizational sizes
+and industries
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com191Finnish “state
+of mind ”
+Downloaded from http://www.emerald.com/imp/article-pdf/12/1/171/1242252/imp-09-2016-0018.pdf by University College London user on 30 May 2026

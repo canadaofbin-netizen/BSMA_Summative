@@ -1,0 +1,52 @@
+[
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0132",
+  "Prompt": "Now review BSMA0132. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[132] Diaz Ruiz and Makkar (2021) - Market bifurcations in board sports.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0132.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0133",
+  "Prompt": "Now review BSMA0133. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[133] Dillon (2002) - Boundary work American ethnographers as intercultural communicators in Japan.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0133.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0134",
+  "Prompt": "Now review BSMA0134. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[134] Dokko et al. (2014) - One of Us or One of My Friends.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0134.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0135",
+  "Prompt": "Now review BSMA0135. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[135] Dollinger (1984) - Environmental Boundary Spanning and Information Processing Effects.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0135.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0136",
+  "Prompt": "Now review BSMA0136. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[136] Dowrick et al. (2020) - Boundary spanners Negotiating connections.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0136.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0137",
+  "Prompt": "Now review BSMA0137. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[137] Brice (2023) - Working Across Silos to Bolster Organizational Effectiveness.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0137.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0138",
+  "Prompt": "Now review BSMA0138. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[138] Carter & DeChurch (2014) - Leadership in Multiteam Systems A Network Perspective.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0138.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0139",
+  "Prompt": "Now review BSMA0139. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[139] Drach-Zahavy (2011) - Interorganizational teams as boundary spanners.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0139.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0140",
+  "Prompt": "Now review BSMA0140. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[140] Duan et al. (2024) - Gender and cross\u2010boundary mobility preferences.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0140.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0141",
+  "Prompt": "Now review BSMA0141. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[141] Dumond (1994) - Making Best Use of Performance Measures and Information.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0141.json."
+ }
+]

@@ -1,0 +1,670 @@
+doi: 10.1111/padm.12117
+ONLY GOODFENCESKEEPGOODNEIGHBOURS!
+THEINSTITUTIONALIZATIONOFMINISTRY–AGENCYRELATIONSHIPSATTHESCIENCE–POLICYNEXUSIN GERMANFOODSAFETYPOLICY
+REBECCA-LEA KORINEK AND SYLVIA VEIT
+This article makes a further contribution to opening the ‘black box’ of micropractices in
+ministry–agency relationships. We argue that the mechanisms that come into play in the courseof institutionalizing agencification reforms– such as renegotiating mutual roles and rules inministry–agency interactions– are only poorly covered in the existing literature. To adequatelyaddress the negotiated and contingent nature of de facto agency autonomy and political control,we develop an interpretive approach based on the concept of ‘boundary work’. The empiricalfocus is on ministry–agency interactions at the science–policy nexus in the contested policy fieldof food safety. By studying actors’ stories about the institutionalization processes following thefundamentalreorganization of theGerman foodsafety administrationin thewakeof the BSEcrisisfrom a longitudinal perspective, we show how actors manage boundary conflicts via increasinglydifferentiatedbackstage coordination.
+INTRODUCTION
+For almost two decades, a growing body of literature within public administration
+has focused on agencification reforms – that is, the delegation of regulatory and other
+state competencies to various forms of formally semi-autonomous bodies (e.g. Pollittetal.2001; Gilardi 2005; Christensen and Lægreid 2006; Van Thiel etal.2012). While this
+research has provided important insights, for example with regard to the lack of a clear
+relationship between formaland de facto autonomy of agencies, it is still struggling to
+capture the mechanisms that come into play in the course of the institutionalization of
+the agencification reforms in practice (Yesilkagit 2004). To adequately address microlevel
+institutionalization dynamics, such as the renegotiation of mutual roles and rules in
+ministry–agency relationships, we concur with other recent contributions to the field
+in arguing that much is to be gained from adopting an interpretive approach to the
+agencification phenomenon (Moynihan 2006; Flinders 2009; Smullen 2010; Hay 2011;Elston 2014).
+This article sets out to address this microlevel practice gap by interpreting the institu-
+tionalizationofagencificationwithinaspecificsetting,namelythescience–policynexusin
+Germanfoodsafetypolicy,whichwasfundamentallyreorganizedinthewakeoftheBSE
+crisis in the early 2000s. To explore the question how the intra- and inter-organizational
+roleunderstandingsandpracticesinministry–agencyrelationshipschangedafterreorga-
+nization, we develop a heuristic allowing us to conceptualize de facto agency autonomy
+as the result of ‘boundary work’ (Gieryn 1983). Methodically, we draw on narrative data
+fromsemi-structured,personalexpertinterviewsconductedwithvariousmembersoftheorganizations involved.
+Rebecca-Lea Korinek is at the Cultural Sources of Newness Unit, at the Berlin Social Science Center Berlin (WZB), Ger-
+many.SylviaVeitis intheFacultyof Economicsand Management,UniversityofKassel,Kassel,Germany.
+PublicAdministrationVol.93,No.1, 2015 (103–120)© 2014 John Wiley& Sons Ltd.
+104 REBECCA-LEAKORINEKANDSYLVIAVEIT
+WHY WE NEED AN INTERPRETIVE APPROACH TO AGENCY AUTONOMY
+In the 1990s scholars began to observe a growing number of semi-autonomous agen-
+cies spreading across countries and sectors, resulting in the metaphorical diagnosis of
+‘agency-fever’ (Pollitt etal.2001). In addition to mapping, assessing, and explaining the
+rise and renewal of agency landscapes, agencification research has focused on concep-
+tualizing and empirically assessing ‘agency autonomy’. A major analytical distinctionis made between formal autonomy (‘the level of decision-making competencies’) and
+de facto autonomy (‘the exemption of constraints on the actual use of decision-making
+competencies’) (Verhoest etal.2004, p. 104). According to this conception, autonomy is
+inherentlya quantitative phenomenon.Thishasconsiderableimplicationsforhowagency
+autonomy is approached empirically, namely in terms of the varying degreesof formal or
+de facto autonomy.
+Most of the scholars focusing on de facto autonomy attempt to measure the autonomy
+of executive agencies on the basis of large- Nsurvey research (Verhoest etal.2012). One
+remarkablefindingstatesthatinanumberofcountriesthereisstillaconsiderabledegree
+ofpoliticalcontrolovertheoperationalworkofagencies.Ahigherdegreeofformalauton-
+omyhencedoesnotalwaysimplyahigherdegreeofdefactoautonomy(e.g.Yesilkagitand
+VanThiel2008;Maggetti2012).Atthesametime,however,thepatternsofautonomyand
+control in the actual ministry–agency interactions are contingent on different contextual
+factors (Verhoest etal.2012). These survey results lend some support to critiques ques-
+tioning one of the dominant New Public Management myths: namely, the possibility and
+universal rationality of a clear separation between politics/policy (having the primacy)
+and bureaucracy.
+StudyingDutchagencies,YesilkagitandVanThiel(2008)concludethattherelationships
+between autonomy and control are highly complex and that the question remains howmechanisms ofcontrol workinpractice, given thehighdegree ofinfluence thattheagen-
+cies ascribed to governmental actors, according to their survey. Discussing the method
+used,theyfinallyarguethatthequestionofthepracticaloperationofautonomyandcon-
+trol, that is, the way in which agencies respond to external expectations, requires ‘a more
+dynamic approach’ than survey research permits (Yesilkagit and Van Thiel 2008, p. 152).
+Ronessetal.(2008,p.168)arguethatsuchfindings,whichdrawarathermessypictureof
+howthepatternsofautonomyandcontrolfunctioninpractice,areentirelyplausiblecon-sideringthedeeply negotiated andcontingent natureofagencyautonomy.Finally,Verhoest
+etal.(2010), though supporting basic claims made by ‘task-specific path-dependence the-
+ory’(Pollitt etal.2004),suggestthatthereshouldbeastrongerfocusinfutureresearchon
+‘the mechanisms and logics in the minds of the key actors involved’ (Verhoest etal.2010,
+p. 269).
+Thisbriefliteratureoverviewshowsthatwhilepreviousresearchhasproducedimpor-
+tant insights, several questions remain unanswered: How do actors use and understandthe concept of agency autonomy and political control? What mechanisms come into play
+inthe course oftheinstitutionalization oftheagency model, forexample interms of‘role
+purification’(ChristensenandLægreid2006),followingtheestablishmentofnewagencies
+(Yesilkagit 2004)? If the agency model is contested, how does this contestation take place,
+andhowmightthemodelreassertitselfinthefaceofcontestations?Howdothedifferentinstitutional logics of politics, bureaucracy, and other social spheres shape organizational
+sensemaking processes with regard to the agency model?
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCYRELATIONSHIPS 105
+Answering questions such as these, we argue, requires us to supplement the existing
+researchbyadoptinganinterpretivemicroperspectiveonagencification.Inthefollowing,
+weshallthusdevelopaheuristicenablingustoaddressthemicrolevelofsensemakingin
+institutionalization processes.
+STUDYING AGENCIFICATION THROUGH INTERPRETIVE LENSES
+In line with a phenomenological view of institutions (Meyer 2008), we address the
+microlevel of institutionalization as a process– rather than as a property– by drawing on
+theconceptualizationofinstitutionalizationinwhich‘sensemaking’and‘boundarywork’
+are key discursive mechanisms.
+Tolbert and Zucker (1996, p. 181) refer to institutionalization as a ‘set of sequential
+processes – habitualization, objectification and sedimentation’. In a preinstitutionaliza-
+tion phase (habitualization), there is little sense for the necessity and the general utility
+of a new structural arrangement (p. 181). Habitualization is followed by processes ofobjectification in which some form of social consensus concerning the value of new
+structures inproblem-solving iscreatedwithinorbetweenorganizations. Thisconsensus
+emergeswhenthenewarrangementisjustifiedasasolutiontothepre-identifiedproblem
+using logical or empirical argumentation (p. 183). Hence, objectification involves the
+developmentofgeneral,sharedsocialmeaningsattachedtonewstructuralarrangements
+(Zucker 1977). Finally, when there is historical continuity in practising the new struc-
+tural arrangements, they are gradually completely institutionalized (sedimentation). The
+practices are then transmitted to new members of the organization who lack knowledge
+of their origins and are apt to treat them as ‘social givens’ (Tolbert and Zucker 1996,
+p. 181).
+WhereasTolbertandZucker(1996)areparticularlyconcernedwiththeemergingstruc-
+turesandpracticesonthemesoleveloforganizationalfields,Weick(1995,p.36)focuseson
+microlevelsensemakingasthe‘feedstockofinstitutionalization’.AccordingtoWeick,the
+wayactorsinterpretnewstructuralarrangementsisinfluencedbytheirinitialidentitycon-
+structions(pp.18–24).Whatactorsthinktheyare(identityconstruction)asorganizational
+actors affects how they interpret new roles and rules (Weick etal.2005, p. 409). More-
+over, from a sensemaking perspective, identity constructions are shaped by how actors
+are viewed by others: ‘Who we are lies importantly in the hands of others, which means
+our categories for sensemaking lie in their hands’ (p. 409). Using Weick’s understanding
+of sensemaking processes we can analyse how actors make sense of reform models on
+the basis of initial identities that inform the meaning they attribute to newly established
+organizational structures.
+With Weick, we can also focus on how actors’ initial identities come to be destabilized
+and more receptive to new meanings. He allows us to see how this occurs within pro-
+cesses that involve changes in how actors are viewed by others. These changes typically
+occur when new rules and roles are habitualized, objectified, and sedimented following
+organizationalreformsthatdisruptestablishedorganizationalnormsandworldviews(p.
+416).Moreover,Weickteachesusthat‘sensemakingisaboutorganizingthroughcommu-
+nication’(p.413).Yet,hissensemakingapproachprovidesuswithnoguidanceastohow
+thedifferentcommunicativemicropracticesinvolvedinthewayactorsmakesenseofnew
+roles and rules can be analytically distinguished.
+Wearguethattheconceptof‘boundarywork’(Gieryn1983),originatinginsciencestud-
+ies, helps us to understand how actors struggling to make sense of their changing roles
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+106 REBECCA-LEAKORINEKANDSYLVIAVEIT
+in institutional reforms deal with contradictory institutional logics. According to Gieryn
+(1983),scientificactorsareconstantlyworkingondrawingandredrawingtheboundaries
+between science and other knowledge forms in order to maintain the epistemic authority
+ofscientificactorsinjudgingtruth.Boundaryworkis,however,notonlyadiscursivestrat-
+egy for maintaining scientific autonomy. It is also a discursive device used to expandthe
+scientific field of influence into areas dominated by actors from different social spheres,
+such as politics or bureaucracy (or vice versa), and to coordinate the different and in part
+contradictory expectations (Hoppe 2005). It is thus a useful heuristic for reconstructing
+thediscursivestrategiesusedbyactorsatthescience–policynexusin(re)negotiatingtheir
+roles and rules governing their interactions. However, it would be misleading to assumethatboundaryworkisa purelyrational-intentionalpracticeasthetermof‘boundarywork
+strategies’mightimply.Rather,reflexiveactorsdrawoninstitutionalframesandlogicsto
+both emergently and deliberately account for why a boundary is (or is not) legitimately
+drawn, maintained or overstepped.
+BOUNDARY WORK ANALYSIS: OPERATIONALIZATION AND METHOD
+We distinguish between three types of boundary work strategies at the science–policy
+interface (table 1). Demarcation is a discursive device to uphold autonomy that entails
+disclaiming external expectations as normatively illegitimate, thereby advocating indif-
+ference to all but one’s own criteria of relevance and legitimacy (Jung 2014). Applying
+this to ministry–agency interactions at the science–policy nexus means that the demar-
+cation device is used by ministries to protect political decision-making processes from
+attemptsbyscientificadvisoryagenciestoimposetheirscientificlogicontheseprocesses.
+Conversely,demarcationcanalsobeusedbyscientificadvisoryagenciestowardoffmin-
+istries wishing to have a say in the agency’s internal processes of knowledge production
+and communication (Korinek and Veit 2013).
+Expansion involves the expectation that actors from other social spheres will adapt to
+one’s own norms and standards, while again framing external demands as illegitimate
+(Jung 2014). Applied to our object of study, expansion is about ministerial attempts to
+TABLE1 Discursivedevicesofboundarywork(owncompilation,basedonKorinekandVeit2013)
+Boundary work device Operationalization
+1. Demarcation Ministry/agencydisclaimothers’expectationsasnormativelyillegitimateand
+advocatethe demarcationofexternaldemands
+⇒maintaining autonomyofpoliticaldecision-making/scientific knowledge
+production
+2. Expansion Ministry/agency claimsthatthe otherpartyhas to adapttotheir owncriteria
+ofrationality,whilewardingoffexternaldemands atthe sametime
+⇒scientizationofpolitics/politicizationofscience
+3. Strategicadaptation Ministry/agency claimsthatits ownadaptationto the other’sdemands is
+bothnormativelylegitimateand strategicallynecessary
+⇒reflexivizationofpolitico-administrativedecision-making/scientific
+knowledge production
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCYRELATIONSHIPS 107
+TABLE2 Institutionalizationandboundarydiscourses(owncompilation)
+Institutionalization phase Boundary discourse
+Habitualization ⇒expansion anddemarcationdiscourses dominateover
+strategicadaptationdiscourses Uncertaintyandconflictaboutnewroles
+andrules
+Objectification ⇒strategicadaptationdiscourses dominateoverdemarcation
+andexpansion discourses Workingconsensusonthedefinitionof
+newrolesandrules
+Sedimentation ⇒strategicadaptationdiscourses marginalizeexpansion and
+demarcationdiscourses Takenforgrantednessofnewrolesand
+rules
+politicize the agency’s work in the field of scientific knowledge production and attempts
+by agencies to scientize politico-administrative decision-making (Korinek and Veit 2013).
+However,actorsalsoclaimattimesthatadaptationtoexternaldemandsisbothnorma-
+tivelylegitimateandstrategicallynecessaryintermsoftheirownidentity-boundmotives.Strategic adaptation is thus a third device of boundary work (Jung 2014). Ministries con-
+cedeagencyautonomyandadapttoscientificexpertlogiconlywhenandwherescientificautonomyisdeemedausefulmeansforachievingpoliticalgoalssuchaspubliclydemon-strating policy credibility. Independent or semi-autonomous scientific advisory agencies,in turn, adapt to political needs only where and when they regard the primacy of poli-tics as a legitimate and necessary means for realizing their own strategies. Thus, strategicadaptationisaboutnegotiatingwhen,where,andwhyscientificadvisoryagenciesshouldadapt to politico-administrative expectations and vice versa, with actors thereby becom-ingmorereflexiveintheirownidentityandexpectationsinrelationtootheridentitiesand
+expectations. Table 1 summarizes this operationalization.
+Turningtotheempiricalmaterial,itisreasonabletoassumethatinanyorganizational-
+institutionalsettingallthreediscursivedevicesofboundaryworkarepresent(Jung2014).Yet, we claim that we can observe a hierarchical pattern of these boundary work dis-courses at particular time periods along Tolbert and Zucker’s (1996) institutionalizationroute. Combining the three devices of boundary work with these three phases of institu-tionalization leads us to expect the following patterns (table 2):
+1. In the phase of habitualization, conflict about new roles and rules, expansion and
+demarcation discourses will be dominant due to a lack of understanding of the use-fulness of the new reform model.
+2. Astimepasses,theprimenarrativesmakingsenseofthenewstructuralarrangement,
+however, might change. The concepts of autonomy/control might shift from beingpredominantlyframedasanillegitimateanddysfunctionalexpansionofauthoritybybothpartiestobeingportrayedasnormativelylegitimateandnecessaryforachieving
+organizational goals. The story then is primarily about explaining why strategically
+adapting to external rationalities is both appropriate and necessary and about why,accordingly, actors should concede autonomy in certain respects or accept politicalcontrolinotherrespects.Inthiscase,whenstrategicadaptationdiscoursesdominateoverexpansionanddemarcationdiscourses,wecanspeakofanobjectificationofthenew arrangement.
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+108 REBECCA-LEAKORINEKANDSYLVIAVEIT
+3. While expansion discourses will still be visible and partly challenge the dominance
+of demarcation and strategic adaptation discourses in the objectification phase, theybecome generally marginalized if and when the new reform model is sedimented.
+Thus, in the phase of sedimentation, when the negotiated roles and rules become
+taken for granted, strategic adaptation is the widely unquestioned dominant dis-course.
+Methodology
+Following what Ospina and Dodge (2005) called ‘the narrative turn in public administra-
+tion’, we analyse these ‘boundary discourses’ as they manifest themselves in the stories
+that members from different levels within ministries and agencies tell. The aim of this
+narrative analysis is to understand how particular collective stories legitimizing or dele-gitimizing agency autonomy become dominant in the process of institutionalization and
+how they act as a means of resocialization that prescribes or reinforces particular actions.
+By analysing the way a storyteller includes or excludes, emphasizes or de-emphasizes,particular experiences or actions, we can reconstruct how the teller interprets the events
+and actions that have occurred and how she evaluates how things used to be, how they
+are, and how they should be (Czarniawska 1998; Feldman etal.2004).
+Data collection
+We drew our narrative data from different fieldwork sources. These included interviews
+andofficialdocumentssuchasguidelinesandconferencedocumentation,aswellasfieldnotestakenduringparticipantobservationoftwopubliceventsorganizedbytheBfR(tri-
+angulation).Weconducted23semi-structuredexpertinterviewsfromJune2011toAugust
+2012, which lasted from 45 to 120 minutes. They were all fully and precisely transcribedwith advanced rules including cross talk and long pauses. We assumed that the storiestold and received would vary according to the various organizational loci and therefore
+selectedintervieweesinpositionsrangingfromagencypresidents,headsofdivisionsand
+subdivisions to section leaders and heads of research groups and laboratories. The inter-views probed how the organization members had experienced the changes connected to
+the agencification reform in practice and addressed broader sets of different themes cov-
+ering more general issues such as ‘policy change’, or ‘evidence-based policymaking’ and‘risk communication’, as well as the nitty-gritty details of intra- and inter-organizational
+coordination.
+Data analysis
+In accordance with the interpretive focus of the study, we applied a reconstructive
+sequence-oriented microanalysis, proceeding in two steps.
+First,weanalysedthestoriesinthe microcontext ofthesequencesinwhichtheyoccurred.
+Here,wefocusedasmuchaspossibleonthenarrativedatathemselves – thatis,theform,
+content, and structure of the story told. Within this, we devoted particular attention to
+the storytellers’ use of personal, temporal, and spatial deixis (Krzy ̇zanowski 2010, p.
+88). Tracing personal deixis (e.g. we, us, our, they, them, their) allowed us to observe
+the interviewee’s allegiance and non-allegiance to certain groups described in the story,
+and her construction of her own agency in the actions recounted in the story. Analysingspatialdeixis(e.g.there,here,atthetop,atthebottom)enabledustoseetheinterviewee’s
+self-positioning as regards hierarchical subordination or superiority. Examining different
+temporal deixis (e.g. then, now, in the beginning) allowed us to explore the scope of
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCYRELATIONSHIPS 109
+different phases of the stories that were told (What was then? Why? And what is now?
+What has changed? Why?).
+Onthebasisofthismicroanalysis,wewentthroughalloftheidentifiedstoriesinorder
+todetectastoryline – thatis,thebasicpointthatwethoughttheintervieweewasmaking
+about the practical operation of ministry–agency interactions and the changes associated
+withtheagencyreform(Feldman etal.2004,p.154).Inadditiontothisinductiveapproach,
+wealsoperformedamoredeductiveanalysisbydrawingontheabove-describedanalyti-
+calheuristicofboundaryworkwhichwasrefinedoverthecourseofanalysingthestories.
+In the second step of analysis, we located our preliminary interpretations of the stories
+within a multilayered context. In doing this, we drew on our knowledge of (a) the local
+mesocontext oftheorganizationalsocialandpoliticalspacesstudied,aswellasourknowl-
+edgeof(b)the macrocontext ofpolicyandadministrativetraditions(BevirandRhodes2003,
+p. 71).
+With all identified stories and storylines from the transcript at hand, we used a col-
+laborative process to identify two main storylines. One storyline was about the conflicts
+caused by what we interpreted as practices of expansion becoming especially visible in
+theearlyyearsofthereform.Anotherstorylinewasabouthowtheorganizationsinvolved
+arrived at a consensus regarding the overall success of the new agency model, which we
+interpreted as a story of strategic adaptation occurring during the phase of objectifica-
+tionaccordingtoouranalyticalheuristic.Beforewepresentourfindings,thenextsection
+firstbrieflysketchesouttheinstitutionalanddiscursivecontextoftheGermanfoodsafetyadministration.
+GERMAN FOOD SAFETY ADMINISTRATION IN CONTEXT
+In Germany, scientific policy advice is most commonly organized in the form of ‘gov-
+ernmental research agencies’ (GRAs) that are usually ‘multiple purpose organizations’
+performingvariousadministrativeandregulatorytasksinadditiontoconductingresearch
+and giving scientific policy advice (Bach and Döhler 2012, p. 6). As a consequence of the
+German‘departmentalprinciple’andthedoctrineofministerialresponsibility,GRAs(and
+indeed almost all German federal agencies) are traditionally subject to full ministerial
+(legalandfunctional) oversight. Due to their hybrid accountabilities to the political and
+the scientific sphere, GRAs are traditionally perceived as being both scientifically valid
+and politically relevant and legitimate expert bodies.
+In the wake of the German BSE crisis, however, the federal GRAs responsible for food
+safety were blamed for having failed to assess, manage, and communicate scientific
+evidence neutrally and openly (von Wedel 2001). As a result, the organization of the
+science–policynexusinfoodsafetypolicy,neverapoliticallysalientbutratheratechnical
+issue,becameafront-stagepoliticaltheme.Coherentandobjectiveandtherewithcredible
+risk assessment and communication came to be defined as something that required more
+scientific autonomy than traditionally assigned to GRAs (Jung and Korinek 2014).
+Accordingly, the scientific advisory system in food safety policy was fundamen-
+tally reorganized in 2001–02 (Janning 2011, pp. 158–65). The Federal Institute for
+Health Protection of Consumer and Veterinary Medicine (BgVV) was dissolved,
+and two new single-purpose organizations were created in its place: one scien-
+tific risk assessment and risk communication agency, the Federal Institute for Risk
+Assessment (BfR); and one risk management agency, the Federal Office of Consumer
+Protection (BVL).
+1
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+110 REBECCA-LEAKORINEKANDSYLVIAVEIT
+The BfR is responsible for producing scientific opinions on the risks to human health
+from food, chemicals, and other consumer products either on request or on its own
+initiative. The recipients of these recommendations are the various federal ministries,
+mainlytheFederalMinistryforConsumerProtection,FoodandAgriculture(BMELV)and
+the risk management agency BVL, which conducts authorization procedures. Since the
+establishment of the BfR in 2002, the number of risk assessments produced per year has
+increased from 2,200 to 3,080 in 2012 (BfR 2012, p. 8), indicating regular interactions with
+ministries. The BfR conducts its own research and runs national reference laboratories
+in a number of fields. One of the main characteristics of the BfR is its formal autonomy
+in terms of risk research and public communication. The BfR was initially composed of
+former staff members from its predecessor agency, the BgVV. Today it has 756 employees
+(BfR2012, p.8).
+The BVL is responsible for authorization and risk management, fulfilling various
+coordinationandservicetasksbothforEU-levelbodiesandforthefederalstates( Länder).
+On the national level, the BVL is responsible for crisis management and for manag-
+ing authorization procedures, for example for plant protection substances, veterinary
+medical products, and genetically modified organisms. In contrast to the BfR, the BVL
+is subject to BMELV’s legal and functional oversight. On authorization procedures,
+there is very close cooperation between the BVL and the BfR; the majority of BfR risk
+assessments are part of the authorization procedures conducted by the BVL. Like the
+BfR, the BVL is a successor organization of the BgVV. Today, it employs around 522 staff
+members.
+Summingup,thespecialcharacterandhistoryofthefederalfoodsafetyadministration
+makes it a particularly suitable setting to study, from a longitudinal perspective, one of
+the key questions in agencification research: How do the intra- and inter-organizational
+role understandings and practices in ministry–agency interactions change when a mul-
+tipurpose organization previously under full ministerial supervision formally becomes a
+semi-autonomous, single-purpose organization?
+BOUNDARY DISCOURSES IN MINISTRY–AGENCY INTERACTIONS
+In the following, we will reconstruct the changing boundary work discourses within
+two different phases of the institutionalization processes (habitualization, objecti-
+fication). Looking back at more than one decade of operational practice, there is
+a clear awareness among all the interviewees that the implementation of the sep-
+aration model was (and sometimes still is) not without problems, conflicts, and
+dilemmas that required particular management practices in order to be solved. The
+next section deals with how such boundary conflicts were played out in the phase of
+habitualization.
+Habitualization: What does itmean to be an ‘independent risk assessor’?
+When we asked about ‘critical moments’ in the implementation phase of the reform
+model, we were told a story in which conflicts over new roles and rules disturbed the
+inter-organizational workflow in the early days of the new organizational arrangement.
+What was highly controversial was the question of how the concept of an independent
+risk assessment and communication should relate to the scope of political definitional
+power in risk management. The reform in 2002 made providing legal evaluations and
+policyrecommendations theexclusivetaskoftheBVL.However,thewaytheBfRstarted
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCY RELATIONSHIPS 111
+to engage with the new reform model was informed by its traditional self-understanding
+as a ‘multipurpose’ organization whose remit included both assessing risks scientifi-
+cally and evaluating policy and legal implications. As such, the members of the BfR’spredecessor organization were explicitly required to consider political and legal con-
+straints in their work. However, after the reform, the ministry and the BVL perceived
+the inclusion of concrete policy recommendations and legal evaluations in the BfR’srisk assessment reports as an ‘inappropriate overstepping of its domain of author-
+ity’ (#7). They expected the BfR to provide a range of more general policy options
+and not just formulate single and detailed policy recommendations including legal
+evaluations.
+In addition to sticking to its ‘old’ identity as a multipurpose organization, the BfR
+increasingly internalized the newly assigned ‘public education function’ as part of its
+identity. The agency now perceived itself as a ‘scientific corrective’ (#1,5) to the political
+sphere, ‘established with the aim of balancing the [political] unwillingness to commu-nicate’ (#1). From the risk managers’ perspective, this self-description was not without
+its problems because it ignored their demands for independent risk communication. As
+one official complained: ‘the difficulty wasthen, if someone is an independent scientist ,h e
+will tend to say things immediately andclearly, just like his profession and also his mandate
+dictates, and in addition, possibly also will give a recommendation for action. And then
+there is the expectation behind this: I have done all this scientific work, …and, actually,
+I have given them recommendations 1, 2, 3 of what to do’ (#2). A colleague remembered
+the initial problems of independent risk communication in a similar way: ‘Because youare obliged to educate the public, and then you tend to immediately put many things
+online. And that is not always a good thing’ (#4).
+As these quotations demonstrate, providing anything more than purely scientific risk
+assessmentshereisframedassteppingoutsidetheagency’sdomainofauthority.Inaddi-
+tion,astheitalicizedwordshighlight,understandingthe‘publiceducation’mandateasa
+purely scientifictask – thatis,ataskthatshould becarried outexclusively onthebasisof
+scientificnormsandstandards(e.g.publishorperish;linguisticprecision) – isdeemedan
+illegitimate and dysfunctional expansion of the new agency’s authority.
+The ministry regularly felt ‘put on the spot when a blockbuster runs through the news
+tickerat5p.m.onFriday’(#2).ThisquoteusesemotivelanguagetorefertotheBfR’sinitial
+practice of publishing scientific risk assessment results, typically prompting immediatemedia interest, without informing the ministry in advance. The ministry was denied a
+time buffer in order to become acquainted with the case or to at least allow the ministry
+toprepareapressreleasefortheminister.Asaconsequence,itoften‘feltdriven’(#2,3)bythe BfR in the early years after the reform.
+In the face of these dilemmas, the key challenges perceived were learning to give the
+ministry time buffers to prepare public statements, and giving the ministry and the BVL
+roomformanoeuvreinriskmanagement.Constitutiveofgrantingpolitico-administrative
+room for manoeuvre was developing a language reflecting the ministry’s and the BVL’sautonomy in risk management, thereby modifying the agency’s autonomy in risk com-
+munication in response to politico-administrative demands.
+2For the ministry, the BfR’s
+autonomy in public risk communication required using ‘language, that doesn’t containany risk management instructions and is comprehensible’ – that is, language that avoids
+‘stumblingblocksinthecommunication’,suchastheuseof‘should’insteadof‘must’and
+is not ‘replete with references’ (#3).
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+112 REBECCA-LEAKORINEKANDSYLVIAVEIT
+Habitualization: What does itmean tobearisk manager?
+The interpretive conflicts did not solely focus on the independent risk assessor role but
+alsoontheroleoftheministryandtheBVLasriskmanagers.Initially,ministrystaffstucktotheirtraditionalself-understandingasthe‘hierarchicalsuperiors’oftheBfRstaff,andtothenormofcommandandcontrolthatthisidentityimplies.ThefactthattheBfRwasnowformallyindependentinriskcommunicationparticularlychallengedtheministry’sestab-lished self-understanding. Several interviewees saw the ministry’s continued attempt to
+‘prevent certain things from being published, or to postpone their publication’ (#5) as an
+expression of its adherence to its former identity. In keeping with its traditional identity,it also continued to regard the BfR as its ‘extended workbench’ (#5) with the implicationthatministryofficials‘likedtocreatetheirownfeel-goodareawithintheBfR’(#5).Justashad been the norm beforehand, some junior-level officers expected the BfR’s scientists to
+give advice or to carry out work orders ‘at the snap of the fingers’ (#5).
+However,totheBfRtheministry’sbehaviourwasaninappropriateintrusioninto‘inter-
+nal issues and procedures’ (#1), which its new mandate defined as autonomous fromministerial interventions. It felt negatively affected by the ministry’s uncoordinated hier-archicalinterventionsandbilateralrequestingpractices,whichcausedworkoverloadsinthe agency. Moreover, the BfR felt impeded in its mission to speak with one voice, which
+wasseenasapreconditionforbecomingacceptedasa‘referenceauthority’(#1,5,3)infood
+safety policy – that is, being deemed as an authoritative voice vis-à-vis both critics fromsocial interest groups and media as well as other experts in the field.
+However, convincing the ministry that the only appropriate option was to adjust its
+role and adopt a more horizontal interactional pattern vis-à-vis the BfR was no easy task.
+Ministerial officials ‘were not amused, when they called us [the BfR] and then were not
+servedonthespot’(#5).Theministry’sinitialdifficultiesinlettinggooftheirformerroleasthe‘hierarchicalsuperior’wasfurtherdescribedbyanotherBfRstaffmember:‘Ofcourse,accordingtotheministry’sunderstanding,somethinglikeourorganizationdoesn’texist,becauseforthemit’ssimplyunimaginablethatthereisanorganization,andalthoughit’sfinancedbytheministry,itisstillabletodowhateveritwants’(#6) .Thus,theBfRrealized
+thatmaintainingitsformalautonomyinriskassessmentandcommunicationwouldpose
+a challenge.
+Oneofitsfirststepsalongthisroadwasmakingclearthattheministryneededtoadjust
+to the idea that the BfR was autonomous in defining its internal and external workingpracticesandthatthiswasnecessaryinordertorestoreconsumertrust.Inthiscontext,the
+ability of the agency’s president to cope with conflicts was seen as a crucial element: ‘as
+a former professor …who had just entered the organization and therefore had no BgVV
+orBGAexperience,heknewthathehadthemandate,weareallowedandareexpectedtoindependently assess and communicate risks’ (#5).
+To sum up, we have illustrated in the examples above how the boundary between the
+forms of autonomy and control that were considered legitimate and necessary and the
+formsofautonomy/controlthatweredeemedillegitimateanddysfunctionalweredrawn
+in different ways. Informed by their identities, actors attributed differing meanings tothe concept of scientific autonomy and deployed these ambiguous and contested under-standings in renegotiating roles and rules in ministry–agency interactions. According toour heuristic we can interpret these observations as ‘discourses of expansion’. Auton-
+omy is, on the one hand, thought of as a means of monopolizing risk communication
+and policy advice: by referring to the concept of scientific autonomy, the political expec-tations attributed to the practical operation of risk communication are disclaimed here
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCY RELATIONSHIPS 113
+as normatively illegitimate. Agency autonomy, in turn, is justified by the public educa-
+tion function attributed to scientific experts. On the other hand, the dominant claim isthat understanding autonomous risk communication as an exclusively scientific task cre-ates dysfunction. What follows is an exploration of how these conflicting interpretationsresultinginexpansiondiscoursescametobereconciledbyusingdifferentboundaryman-
+agement practices.
+Objectification: Boundary management as conflict management
+Coming to shared understandings of new roles and rules was a challenging process: ‘We
+underwent a learning,athinking process, which we,here,a n dalso the staff , still had to
+developin the course of time …if you introduce new rules, it normally takes four, five,
+six yearsuntil theyreachthebottom down there ’ (#3).This ‘learning’ and ‘thinking process’
+was fundamentally about redefining the new organization model as a strategic ‘successstory’withinacrisis-plaguedandcontestedpolicyfield.Astheaboveitalicizedwordssug-gest,fororganizationmemberstheprocessofacceptingthisstoryhasbeenaverylengthyone requiring considerable effort to establish top-down management. Let us first have acloserlookathowthenewgovernancemodelisnarratedasastrategicsuccessstory,beforeexploringthedifferentboundarymanagementpracticesusedtoenforcethisharmonizingsuccess story.
+Managing boundary conflicts through strategic success stories
+A constitutive element of the success story, which we read as ‘meta’ practice of conflict
+managementusedfortheresocializationoforganizationmembers,isportrayingtherela-tionship between the ministry and the BfR as a strategic relationship serving the institu-tional self-interest of both. As a ministerial staff member put it: ’And if you ask me whathas changed? Simply the acceptance of the BfR as an independent scientific institution inthe public, in the multiplier groups has increased. And that’s the success, to place a newinstitutiononthemarketinarelativelyshorttimeframeandgetittothepointwherewhatthis institution says is considered equally credible by the media and the consumers. Andwith this in mind, one can also argue that this has resulted in increased consumer “trustin science” (#8).
+Hence, the success story commences by pointing out the BfR’s increased public accep-
+tance. It then proceeds by explaining why public acceptance, here the attribution of cred-ibility, is such an important indicator for assessing the success of the agency. An inde-pendent agency is politically useful because it functions as an epistemic authority in a
+contested field – that is, in a ‘market’ where various experts are competing for credibility.
+Autonomy here is, in short, justified by the epistemic authority attributed to an indepen-dent agency.
+We also find a very similar and extensive discussion of the benefits of an independent
+single-purposeagencyprovidingexclusivelyscientificadviceintheBfR’snarratives:‘Onehasrecognizedinthepolicyfieldthathereyouhave,let’ssay,toplacethereferencefunc-tionofscienceintheforeground,although,atthebottom,thisisasubstitute,Iwouldsay,for political decisions or the delegation of political decision making’ (#1) .Once again, the
+lossofpoliticalprimacyinriskcommunicationisjustifiedbyrecoursetothenewagency’sepistemic authority. It is important to note that what is described as a ‘learning process’hereis‘toplacethereferencefunctionofscienceintheforeground’,althoughdefacto(‘atthe bottom’) this means the ‘replacement’ of political authority. Thus, in this passage it
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+114 REBECCA-LEAKORINEKANDSYLVIAVEIT
+becomesclearthatthestrategicadaptationnarrativeisindeedusedasadiscursivedevice
+of boundary management.
+Theepistemic‘referencefunction’isfurtherportrayedasallthemoreimportantwhere
+‘the distinction between good and bad science, …is indeed a crucial one’. In such an
+environment, the BfR is portrayed as ‘the sole agency in Germany whose core task is giv-
+ing good advice to them [the government] and that’s indeed the case. We are the soleagency giving exclusively good advice because we don’t stamp and don’t authorize andthat makes it special, because the question is, how to deal with second-best advice? And
+how to bring your people to a standard that ensures that the public regards the BfR as a
+reference’ (#1) .
+These sequences frame agency autonomy as a strategic necessity. Through its indepen-
+dence, the knowledge the BfR produces is apt to be considered ‘good science’, which canbe demarcated from ‘bad science’. Thus, the benefit of agency autonomy in risk commu-
+nication here is the generation and reassertion of epistemic authority in a politically and
+epistemically contested policy field.
+However, as should be clear from our previous analysis, this success story, which
+relies on the mutual strategic benefit of the separation model, had to compete with
+counter narratives. To manage these acceptance problems, the leadership in both
+organizations used various coordination practices as means of resocializing orga-nization members and enabling a working consensus over new roles and rulesto emerge.
+Managing boundary conflicts through bureaucratic coordination
+Wecallthefirstsetofboundarymanagementpracticesusedtoenforcethestrategicadap-
+tationnarrative‘bureaucraticcoordination’ – thatis,thetargetedandenhanceduseofclas-sicalintra-andinter-organizationalcoordinationpracticesofGermanministerialbureau-cracy.Onepracticewastograduallyunderminewhatwasperceivedasascientificmono-polization of risk communication by defining the BfR’s role not only with reference to its
+researchactivitiesandscientificexpertise,butalsoonthebasisofitsresponsibilitiesasan
+agency, that is,as a part of the politico-administrative system.
+First and unsurprisingly, this meant fulfilling the ministerial expectation of ‘being
+in constant touch’ (#2), and hence keeping the ministry informed about politically
+and administratively important issues in the work of the agency. In particular in
+the early days of the BfR, its president and vice-president were invited to weekly,sometimes even daily, telephone conversations or meetings with the ministry. Sec-ond, a ‘no surprises rule’ (#2,5,6) was agreed upon in order to give the ministry thechance to prepare press releases and coordinate a media or stakeholder communi-
+cation strategy. According to this rule, the BfR’s risk assessment reports are to be
+submitted to the ministry at least 24 hours prior to publication. The BfR acknowl-edged the general importance of such time buffers for political actors because theyhave learned to regard them as a prerequisite for the politico-administrative capac-
+ity to act. Today, this rule is seen as a ‘self-evident professional practice in good
+relationships’ (#8).
+Conversely, a central means of avoiding the ministry’s interventions in what came to
+be defined as the BfR’s ‘internal working procedures’ (#1,5,6) was an additional classicalbureaucratic coordination device, namely procedural formalization, centralization, and
+hierarchization. An informal rule was agreed according to which all ministerial requests
+have to be made by formal decree. This procedural formalization was accompanied by a
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCY RELATIONSHIPS 115
+centralization of the intra-organizational workflow within both the ministry and the BfR.
+Within the BMELV, the section that was charged with supervising the department’s sub-ordinated agencies was assigned the distinct task of monitoring the implementation ofreorganization. One of the section’s prime tasks at that time was fostering change in theministry’s tradition of secrecy to bring about a ‘culture of openness and transparency’where‘consumerinformationisnowthecentralpillar’(#3).Aculturalchangeofthismag-nitude did not proceed without triggering conflicts within the ministry.
+Duringtheinternaldiscussionsconcerningtheministry’snewrole,‘insomesituations,
+somepeoplelostpatience’(#8).Overtime,theministry’sleadershipmanagedtointernally
+achievea‘changeofconsciousness’:theministryinternallysucceededincentralizingcom-municationwiththeBfRinordertoavoidministerialinterventionsandbilateralrequests,which gradually came to be seen as running counter to the mutual goal of having anagency ‘speaking with one voice’ (#1,2,5). This centralization implies that the line organi-zation’s requests to the BfR always have to pass the desks of the respective section leaderand of the head of division.
+The BfR also introduced new internal hierarchies and underwent a process of central-
+ization in order to enable the agency to speak to the political sphere and the public withone voice. As a result, each ministerial decree is now first processed in the clearing unitwithin the division for risk communication. The clearing unit then makes a suggestion tothe president regarding which particular division or expert group should have responsi-bility for processing the request. After the division or group in charge has responded totherequestand,ifnecessary,coordinatedwithotherdivisions,therequestispassedtothedivision forriskcommunication, andthenbackagain tothepresidentbeforeitleaves thehouse.
+Managing boundary conflicts through translation and standardization
+Another boundary management practice involves adjusting the language of the sci-
+entific risk assessors to conform to politico-administrative and legal demands and
+rationalities (e.g. consistency with legal wording used in a court of law) by means of alegal-bureaucratic language regime. Here, the different rationalities of politics, law, andscience, often entailing contradictory normative and cognitive expectations concerningthe role of an independent scientific advisory agency, are translated into a language thatis perceived as politically and legally robust. Moreover, the agency’s leadership saw theneed to agree on standardized risk assessment terminology, making use of, for instance,thetermof‘verifying’insteadof‘tofindameasurementvalue’(#5)obligatoryforitsstaffmembers.
+In order to create intra-organizational capacities for these translation and standard-
+ization activities, the BfR’s president established a new division for risk communicationconsistingofsocialscientists,psychologists,lawyers,andmediaexperts.Thisdivisionini-tiatedthecreationofa‘GuidanceDocumentforHealthAssessments’containingconcreteformulations and definitions of risks, and thereby also serving as an internal coordina-tion device: ‘Because [the decision] whether the risk is now “high” or “medium high”, or“likely”, or “foreseeable” simply cannot be dependent on how person X or Y from divi-sion A or B pulls it out of his hat’ (#5). These guidelines, which are revised every secondyear, standardize the use of terminology in a number of respects: terminology for riskcharacterization, recommended management options, codifying scientific uncertainties,the concordant use of legal terms, and referring to legal provisions (BfR 2010, pp. 6–24).
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+116 REBECCA-LEAKORINEKANDSYLVIAVEIT
+For example, the phrase ‘health risks cannot be excluded’ should be avoided as it has no
+merit in a court oflaw (p.24).
+Theguidelinesalsoregulatetheoverallstructureandcontentofthereports,whichnow
+start with a small grey box including a short summary and the conclusions drawn from
+scientificresearch.Accordingtotheguidelines,thisshouldnotexceedoneparagraphand
+should include an unambiguously formulated ‘take home message’ for politicians andthe general public (BfR 2010, p. 12). This ‘take home message’ is particularly valued bythe ministry as being ‘definitely the guidelines’ resounding success!’ because it helps totranslate the scientific findings into a ‘politically useful’ product (#2). For the ministry’sleadershipitisthesetranslationsthatparticularlyjustifyanddefendtheautonomyoftheBfRinriskcommunicationwhenitischallengedbyministerialstaffmembersattemptingtohaveasayinriskcommunication:‘Thenitalsowasmytask,toholddirecttalkswiththeinitiatorshereinthehouseandtomakeclearthatwehaveadifferentculturenow,itmayhurt you, but that’s how it is, but consumer information is now a main pillar of our con-sumerpolicyandwehavefoundsomeonewhodoesthis,whotranslatesthecomplicatedscientific language into a language which is also understood by the housewife in front ofthe stove, and that’s the BfR and it does this independently’ (#3) .
+Remarkably,thistranslationandstandardizationregimewasacceptedbytheBfR’ssci-
+entistsbecausetheygraduallyrecognizedthat‘thereisalsoacertainstrategyofthehouse
+behindit!’(#5).Theguideline’sstrategicuseisseeninitsfunctionasaqualitymanagement
+tool that in turn serves to safeguard the BfR’s scientists in disputes with other scientistsor experts. Having also been published in English, the guidelines became ‘an export hit,today,weevenhaveasummerschoolwithhundredsofapplicantsandtheyalllearnhowwe, how Germany, does risk assessment’ (#5). Moreover, the guidelines are strategicallyusedtodefinethecriteriaforobjectivelyassessingrisks(BfR2010,p.6),whichcanthenbeused to publicly legitimate BfR’s risk assessment practices. As a representative of the BfRexplained,itsinternalriskassessmentproceduresarelegitimatedbecausetheyaredefinedin guidelines that are publicly accessible and transparent.
+Throughout the interviews, the BfR’s standardized approach to risk assessment is seen
+as a crucial tool that is assisting it on its path to becoming a ‘reference authority’ (#1,5,3)thatcanproviderulesforresolvingdissentamongexpertsfromEuropeanriskassessmentagencies.Accordingtotheheadofthecommunicationdivision,theofficialguidancedocu-mentisinternallysupplementedbyadetailed‘no-golist’involvinganongoingcollectionof ‘typically wrong wordings’ (#5). The division for risk communication internally moni-tors risk assessors’ compliance with both the guidelines and the ‘no-go list’.
+Summing up, what we see here is how in the phase of objectification the stories told
+changed. Autonomy and control, both of which had been framed by the other party as adysfunctional and illegitimate authority expansion, now came to be portrayed as appro-priate and legitimate for achieving their mutual, reflexive self-interested goals of gainingormaintainingpoliticalandepistemicauthorityinthefoodsafetyfield.Inthisphase,thepredominantstorywasaboutexplainingtotheirownorganizationmemberswhy,where,and when precisely they should adapt to the other’s demands. In telling this story, actorsbecome more reflexive about their relation as independent risk assessors and risk man-agers whose hierarchical control competencies have been curtailed.
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCY RELATIONSHIPS 117
+DISCUSSION AND CONCLUSION
+The aim of this article was to understand how a new agency model situated at the
+science–policy nexus became institutionalized over time. We studied the microlevel ofministry–agency interactions as they unfolded – and changed – in practice over more
+thanonedecade.Ourreconstructionoftheempiricalmaterialwasgroundedinaheuristic
+ofthreedifferenttypesofboundaryworkdevices,whichweexpectedtobehierarchically
+patternedaccordingtothethreephasesoftheinstitutionalizationprocess(habitualization,
+objectification, sedimentation).
+Agency autonomy as a discursive relational phenomenon
+Using a narrative approach to agencification we were able to systematically analyse
+the way storytellers were making sense of their organizational realities after these hadchanged in an agencification reform and how they renegotiated new roles and rules
+applying to their relationship within a lengthy iterative process. In the contested food
+safetyfield,oneofthecentralidentitynormsconcernstheobjectivity(hereinthesenseof
+disinterestedness from political or business interests) and scientific validity with which
+food risks are assessed and communicated. The stories we were told were about howactors worked to enact objectivity and validity, thereby renegotiating when, where,
+and why the ministry should concede scientific expert autonomy. Likewise, as much as
+objectivityandvalidityareconstitutivenormsofscience,value-baseddecision-makingis
+the identity constituting norm of politics. Thus, not only were the modes of ministerial
+adaptation to the BfR’s rationality as a scientific advisory organization renegotiated butalso when, where, and why the BfR should adapt to politico-administrative demands
+in order to grant the ministry room for political manoeuvre in relation to the agency’s
+independent risk communication.
+The perspective applied in this article thus highlights the qualitative and dynamic
+(rather than quantitative) nature of changes in ministry–agency interactions following
+agencification reforms. Accordingly, our suggestion for future research is twofold: we
+propose considering agency autonomy as the dynamic and tense discursive intertwine-ment of autonomy demands on the one hand and utility expectations on the other hand
+and thus as a discursive relational phenomenon (Jung 2014). Moreover, we propose that
+the institutionalization of agencification reforms should be seen as a process in which
+actors become more reflexiveconcerning their own organizational identity in relation to
+other organizational identities in changing social environments, rather than as a matterof higher or lower degrees of autonomy.
+Backstage coordination and front-stagereputation
+Our empirical findings offer some constitutive insights that refine the strand of agen-
+cification literature focusing on reputation management as a key resource for formally
+independentagencies,whichallowsthemtocreateandcultivatedefactoautonomy(Car-
+penter and Krause 2012). In the stories examined, conceding de facto agency autonomy
+hasconsistentlybeenframedasaneffectivemeansofguaranteeingthattheagencymeets
+expectations regarding its front-stage reputation, which involves producing risk assess-ments that are deemed both scientifically valid and objective andrelevant and robust by
+stakeholders and the wider public. However, as our findings show, the ability to speak
+with one unified voice and to produce reports that are deemed objective and robust can-
+not be taken for granted; it is something that demands ‘backstage management’ – that is,
+a tight coordination regime carefully concealed from the public (Hilgartner 2000).
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+118 REBECCA-LEAKORINEKANDSYLVIAVEIT
+Legally robust reports imply not only that they are deemed to be based on ‘sound
+science’, but also that they are written using standardized legal terminology. Likewise,
+socially robust risk assessment reports require not only the public attribution of scientific
+validity and objectivity, but also easily comprehensible language. To fulfil these multiple
+front-stage reputation requirements, both the ministry and the BfR have had to undergo
+considerable intra-organizational hierarchization, centralization, and formalization.
+Constructing the de facto autonomy of the agency as a whole required the individual
+ministerial officials and risk assessors within the BfR to adapt to leadership expectations.
+Yet, the story of strategic adaptation was at first only shared by the leadership of both
+organizations; its acceptance at the lower levels required a lengthy process of top-down
+management.
+Drawing on these empirical results, our proposition for future research would be that
+researchers should, rather than treating the expert authority of independent agencies as
+a pre-existing property, examine how it is actively constructed by means of a carefully
+orchestrated interplay between ‘front-stage performances’ and ‘backstage management’
+practices involving the development of intra-organizational hierarchization, centraliza-
+tion, and formalization (Hilgartner 2000; Hajer 2009; Korinek 2014).
+The discursive embeddedness of agencification
+Our findings suggest that boundary management practices and the working consen-
+sus established through these practices are constitutively shaped by policy discourses
+framing particular policy problems and policy solutions. The fundamental shift in the
+framing of food safety policy that occurred in response to the BSE crisis had implications
+for what the legitimate function of the science-based expertise produced by advisory
+agencies is deemed to be, namely ‘public education’ that aims to enable consumers to
+make rational choices on food risks. It is precisely in terms of this function that agency
+autonomy is construed as a rational (utility argument) and a legitimate (normative
+argument) solution to the policy problem of a dramatic loss of consumer trust. Thus, in
+terms of future research we argue that to account for the identified patterns of de facto
+agency autonomy, we must ask how policy problems were construed in different policy
+sectors,andhowthesepolicyideasarere-embeddedintoexistingboundarymanagement
+practices.
+Of course, these propositions draw on a single case study and thus their generaliz-
+ability needs to be explored in cross-national and/or cross-sectoral comparative studies.
+Notwithstandingthecaveatsconcerningsinglecasestudies’generalizability,ouranalysis
+underlinestheaddedvalueoffocusingonthemicroleveloforganizationsandthenegoti-
+ation of boundaries (boundary work) in order to understand the mechanisms involved
+in institutionalizing organizational change that remain – despite some important steps
+made – to a surprising degree an unexamined issue in the existing literature. With this
+article we hope to have made a further contribution in opening the ‘black box’ of intra-
+and inter-organizational micropractices in ministry–agency relationships.
+ACKNOWLEDGEMENTS
+Theinterviewsonwhichthisarticleisbasedwereconductedinthecontextoftheresearch
+project ‘Studying the Changing Orders of Political Expertise’ (SCOPE), carried out at the
+WZB Berlin Social Science Center and funded by the Volkswagen Foundation. Interview
+contributions from the Federal Ministry for Consumer Protection, Food and Agriculture
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+INSTITUTIONALIZATIONOFMINISTRY–AGENCY RELATIONSHIPS 119
+(BMELV), the Federal Office of Consumer Protection (BVL), and the Federal Institute
+for Risk Assessment (BfR) are gratefully acknowledged. In addition to two anonymous
+reviewers,wewouldalsoliketothanktheparticipantsofthepanel‘DoesAdministrative
+Structure Matter? The Effects of Agencification on the Policy Process’ at the XXII IPSA
+World Congress of Political Science in Madrid, and the members of the Research Group‘Science Policy’ at the WZB for very helpful comments on earlier versions of this article.
+NOTES
+1This reorganization followed the institutional design of the EU-level administration, where, since 2002, risk assessment is
+carried outseparately from riskmanagement.
+2In addition, sufficiently taking into account issues of commercial confidentiality was regarded as a precondition forpolitico-administrative room for manoeuvre.
+REFERENCES
+Bach, T. and M. Döhler. 2012. ‘Mandated Science and the Problem of Neutral Expertise: The Case of Governmental Research
+Agencies’. WZBDiscussionPaper SP III 2012–602.
+Bevir, M.and R.A.W.Rhodes.2003. InterpretingBritishGovernance . London: Routledge.
+BfR. 2010. LeitfadenfürgesundheitlicheBewertungen . Berlin: BfR.
+BfR. 2012. 10JahreBundesinstitutfürRisikobewertung. Berlin: BfR.
+Carpenter, D.P. and G.A. Krause. 2012. ‘Reputation and Public Administration’, Public Administration Review , 72, 1,
+26–32.
+Christensen,T.andP.Lægreid(eds).2006. AutonomyandRegulation:CopingwithAgenciesintheModernState. Cheltenham:Edward
+Elgar.
+Czarniawska, B. 1998. ANarrativeApproachtoOrganizationStudies . Thousand Oaks,CA: Sage.
+Elston,T.2014. ‘NotSo“Arm’sLength”:ReinterpretingAgenciesinUKCentralGovernment ’,PublicAdministration ,92,2,458–76.
+Feldman, M.S., K. Sköldberg, R.N. Brown and D. Horner. 2004. ‘Making Sense of Stories: A Rhetorical Approach to Narrative
+Analysis’, JournalofPublicAdministrationResearchandTheory , 14, 2, 147–70.
+Flinders, M. 2009. ‘Review Article: Theory and Method in the Study of Delegation: Three Dominant Traditions’, PublicAdminis-
+tration, 87, 4, 955–71.
+Gieryn, T.F. 1983. ‘Boundary-Work and the Demarcation of Science from Non Science: Strains and Interests in Professional Ide-
+ologies of Scientists’, AmericanSociologicalReview , 48, 6, 781–95.
+Gilardi, F. 2005. ‘The Institutional Foundations of Regulatory Capitalism: The Diffusion of Independent Regulatory Agencies in
+WesternEurope’, AnnalsoftheAmericanAcademyofPoliticalandSocialScience , 598, 84–101.
+Hajer, M. 2009. AuthoritativeGovernance:PolicyMakingintheAgeofMediatization. Oxford: OxfordUniversity Press.
+Hay,C.2011.‘InterpretingInterpretivismInterpretingInterpretations:TheNewHermeneuticsofPublicAdministration’, Public
+Administration , 89, 1, 167–82.
+Hilgartner, S. 2000. ScienceonStage:ExpertAdviceasPublicDrama . Stanford, CA: StanfordUniversityPress.
+Hoppe,R.2005.‘RethinkingtheScience–PolicyNexus:FromKnowledgeUtilizationandScienceTechnologyStudiestoTypesof
+Boundary Arrangements’, Poiesis&Praxis , 3, 3, 199–215.
+Janning, F. 2011. Die Spätgeburt eines Politikfeldes: Die Institutionalisierung der Verbraucherschutzpolitik in Deutschland und im inter-
+nationalenVergleich. Baden-Baden: Nomos.
+Jung, A. 2014. ‘Autonomieansprüche und Leistungserwartungen –(Dis)Kontinuitäten der Grenzarbeit wissenschaftlicher Poli-
+tikberatung ’,inM.Franzen,A.JungandD.Kaldewey(eds), Autonomierevisted–BeiträgezueinemumstrittenenGrundbegrifffür
+dieBeobachtungvonWissenschaft,KunstundPolitik, Special Issue of ZeitschriftfürTheoretischeSoziologie , forthcoming.
+Jung,A.andR.-L.Korinek.2014. ‘CulpritsandProblemSolvers:ThePolitico-Epistemic AuthorityofScience-BasedEvidencein
+German Employment and FoodSafetyPolicy’. Unpublishedmanuscirpt.
+Korinek, R.-L. 2014. ‘Comparing the Construction of Expert Reputation of Food Safety Agencies in Britain and in Germany ’,
+paper presented at the conference ‘What Makes Governmental Agencies Tick? ’,IPSA Research Committee ‘Structure and
+Organization of Government ’,The Hebrew Universityof Jerusalem, January.
+Korinek,R.-L.andS.Veit.2013. ‘WissenschaftlichePolitikberatungalsGrenzarbeit:EinKonzeptzurAnalyseinstitutionalisierter
+BeratungsformeninPolitikfeldern ’,inS.Kr oppandS.Kuhlmann(eds), WissenundExpertiseinPolitikundVerwaltung, Special
+Issue1of DerModerneStaat(DMS)–ZeitschriftfürPublicPolicy,RechtundManagement .
+Krzy ̇zanowski, M. 2010. The Discursive Construction of European Identities: A Multi-Level Approach to Discourse and Identity in the
+TransformingEuropeanUnion . Bern: Peter Lang.
+Maggetti, M.2012. RegulationinPractice:TheDeFactoIndependenceofRegulatoryAgencies . Colchester: ECPR Press.
+Public AdministrationVol.93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.
+120 REBECCA-LEAKORINEKANDSYLVIAVEIT
+Meyer, R.E. 2008. ‘New Sociology of Knowledge: Historical Legacy and Contributions to Current Debates in Institutional
+Research’, in R. Greenwood etal.(eds),The Sage Handbook of Organizational Institutionalism . Thousand Oaks, CA: Sage, pp.
+517–36.
+Moynihan, D.P.2006. ‘Ambiguity in Policy Lessons:The Agentification Experience’, PublicAdministration , 84, 4, 1029–50.
+Ospina, S.M. and J. Dodge. 2005. ‘It’s About Time: Catching Method up to Meaning –The Usefulness of Narrative Inquiry in
+Public Administration Research’, PublicAdministrationReview , 65, 2, 143–58.
+Pollitt,C.,K.Bathgate,J.Caulfield,A.SmullenandC.Talbot.2001.‘AgencyFever?AnAnalysisofanInternationalPolicyFash-
+ion’,JournalofComparativePolicyAnalysis , 3, 3, 271–90.
+Pollitt, C., J. Caulfield, A. Smullen and C. Talbot. 2004. HowGovernmentsDoThingsthroughSemi-AutonomousOrganizations .B a s -
+ingstoke:Palgrave Macmillan.
+Roness, P.G., K. Verhoest, K. Rubecksen and M. MacCarthaigh. 2008. ‘Autonomy and Regulation of State Agencies: Reinforce-
+ment,Indifference orCompensation?’, PublicOrganizationReview , 8,2, 155–74.
+Smullen, A. 2010. ‘Translating Agency Reform through Durable Rhetorical Styles: Comparing Official Agency Talk across Con-
+sensusand Adversarial Contexts’, PublicAdministration , 88, 4, 943–59.
+Tolbert,P.andL.G.Zucker.1996. ‘TheInstitutionalizationofInstitutionalTheory ’,inS.R.Clegg,C.HardyandW.R.Nord(eds),
+HandbookofOrganizationStudies . ThousandOaks,CA: Sage, pp.175–90.
+VanThiel,S.,K.Verhoest,G.BouckaertandP.Lægreid.2012. ‘LessonsandRecommendationsforthePracticeofAgencification ’,
+in K. Verhoest, S. van Thiel, G. Bouckaert and P. Lægreid (eds), Government Agencies: Practices and Lessons from 30 Countries .
+Basingstoke:Palgrave Macmillan, pp.413–39.
+Verhoest,K.,B.G.Peters,G.BouckaertandB.Verschuere.2004.‘TheStudyofOrganizationalAutonomy:AConceptualReview’,
+PublicAdministrationandDevelopment , 24, 2, 101–18.
+Verhoest,K.,P.G.Roness,B.Verschuere,K.RubecksenandM.MacCarthaigh.2010. AutonomyandControlofStateAgencies:Com-
+paringStatesandAgencies . Basingstoke:Palgrave Macmillan.
+Verhoest, K., S. van Thiel, G. Bouckaert, and P. Lægreid (eds). 2012. GovernmentAgencies:PracticesandLessonsfrom30Countries .
+Basingstoke:Palgrave Macmillan.
+von Wedel, H.2001. OrganisationdesgesundheitlichenVerbraucherschutzes:SchwerpunktLebensmittel . Stuttgart:Kohlhammer.
+Weick, K.E.1995. SensemakinginOrganizations . ThousandOaks,CA: Sage.
+Weick, K.E.,K.Sutcliffe and D.Obstfeld.2005. ‘Organizing and theProcessof Sensemaking’, OrganizationScience , 16, 4, 409–21.
+Yesilkagit,K.2004.‘BureaucraticAutonomy,OrganizationalCulture,andHabituation:PoliticiansandIndependentAdministra-
+tiveBodies in theNetherlands’, Administration&Society , 36, 5, 528–52.
+Yesilkagit, K.and S.van Thiel. 2008. ‘Political Influence and Bureaucratic Autonomy’, PublicOrganizationReview , 8, 2, 137–53.
+Zucker, L.G. 1977. ‘The Role of Institutionalization in Cultural Persistence’, AmericanSociologicalReview , 42, 5, 726–43.
+Public AdministrationVol. 93, No.1, 2015 (103–120)
+© 2014JohnWiley &SonsLtd.

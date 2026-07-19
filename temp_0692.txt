@@ -1,0 +1,898 @@
+Acta Psychologica Sinica  ©2020 Chinese Psychological Society  
+2020, V ol. 52, No. 11, 1 −10  https://dx.doi.org/10.3724/SP.J.1041.2020.00000   
+                       
+Received Date: December 2, 2019  
+This research was funded by  National University for Nationalities youth teachers' scientif ic research ability promotion program (2020QNPY24) and 
+Beijing outstanding talents training fund young backbone indivi dual project (106-2020000101).  
+Corresponding author: XU Shiyong, E-mail: xusy@ruc.edu.cn 
+The original article is in Chinese, translated by Lingocloud an d proofread by the author. The cross-level double-edged-sword effect of  
+boundary-spanning behavior on creativity 
+ZHU Jiqiang1, XU Shiyong2, ZHOU Jinyi3, ZHANG Bainan4, XU Fangfang4, ZONG Boqiang4 
+(1 School of Management, Minzu University of China, Beijing 100081, China ) (2 Center for Human Resource Development  
+and Assessment, School of Labor and Human Resources, Renmin University of China, Beijing 100872, China )  
+(3 Donlinks School of Economics and Management, Uni versity of Science & Technology Beijing, Beijing  100083,  China )  
+(4 School of Labor and Human Resources, Re nmin University of China, Beijing 100872,  China ) 
+Abstract  
+Boundary-spanning behavior has a ttracted considerable interest in recent years. Studies on this type of behavior have focused on 
+its positive outcomes from the pers pective of social networks. For decades, research has consis tently demonstrated that the bo und-
+ary-spanning behavior produces a wide array of positive results  for teams and organizations. Ho wever, scholars have found that  such 
+behavior has negative outcomes for individuals. Using the conse rvation of resources theory (COR), we examined the dou-
+ble-edged-sword effect of boundary- spanning behavior on creati vity at different levels, as well as its mediating mechanism an d 
+boundary conditions. 
+To test the proposed theoretical model, we applied multi-wave a nd multi-source research design. The data were collected from 
+dyads of employees and supervisors in a company. At time 1, the  boundary-spanning behavior, role stress, and role breadth 
+self-efficacy were measured. These variables were rated by the employees. Approximately a month  later, we asked the supervisor s to 
+rate the employees’ creativity. These variables were assessed b y mature scales. A total of 536 employees (90.32%) and 111 lead ers 
+(82.22%) responded to our survey. Confirmatory factor analyses and average variance extracted were conducted to assess the dis -
+criminant validity and convergence validity of the key variable s. Multilevel structural equation modeling was used to validate  the 
+hypothesis, and Monte Carlo simulation pro cedures using open-so urce software R were conducted to test mediation effects. 
+Results showed that at the tea m level, boundary-spanning behavi or had a significantly positive effect on team creativity (β = 0.18, 
+p < 0.05). However, at the individual level, boundary-spanning b ehavior had a significantly negative effect on employees’ creat ivity 
+(β = –0.02, p < 0.05). At the individual le vel, boundary-spanning behavior h ad a significantly positive effect on role stress (β  = 0.05, p 
+< 0.01) and role stress had a sign ificantly negative effect on cr eativity (β = –0.34, p < 0.001). The mediation effect of role stress was 
+significant (β = –0.02, p < 0.05, Monte Carlo = 20000, 95% CI = –0.03, –0.006). This evi dence would indicat e that the bound-
+ary-spanning behavior had a negative effect on individual creat ivity via role stress. Results a lso showed that the product ter m be-
+tween the boundary-spanning behavior and role-breadth self-effi cacy was significant (β = –0.08, p < 0.01). The role-breadth 
+self-efficacy moderated the rela tionship so that the mediating effect of role stress was stronger for employees with low role- breadth 
+self-efficacy.  
+The study illustrated the double-edged-sword effect of boundary -spanning behavior on creativity at different levels as well as  the 
+mediating mechanism and boundary conditions regarding the negat ive effect of boundary- spanning behavior on individual creativ ity, 
+thereby enriching the literature on boundary-spanning behavior.  Furthermore, this study identified the boundary conditions of COR, 
+which broadens the scope of research on this theory. 
+Key words  boundary spanning behavior; crea tivity; role stress; role-brea dth self-efficacy 
+ 
+1  Introduction 
+1.1  Questions 
+In the current context of China’s efforts to push forward the 
+new era of comprehensive deepening reform, enterprises are 
+faced with a changing environment, which requires enterprises to pay close attention to the external environment at all times , 
+gather information and resources  from outside the company to 
+deal with volatile situations and to win in the fierce competit ion. 
+So companies are increasingly, and urgently, encouraging em-
+ployees to engage in boundary-spanning behavior. Bound-
+ary-spanning behavior refers to the behavior of an individual 
+taking information from outside t he organization and transmit-ting it to people inside the or ganization (Katz & Tushman, 
+1983). Boundary-spanning behavior includes two levels, team and individual, which have been  studied respectively in the 
+literature (Marrone, Tesluk, & Carson, 2007). However, team boundary-spanning behavior is ba sed on the individual level 
+first and then aggregate to t he team level (Chan, 1998). The 
+two levels of boundary-spanning behavior are interrelated, individual boundary-spanning beh avior is the basis of team 
+boundary-spanning behavior (Liu & Li, 2014). In addition, according to the concept of boundary-spanning behavior, boundary-spanning behavior in volves both employees and 
+teams and has an impact on both, with the employee being the perpetrator of the boundary-spanning behavior, the team is the  Acta Psychologica Sinica 
+ receiver of boundary-spanning behavior. Does boundary-span-
+ning behavior have the same eff ect on the perpetrator and the 
+receiver of the act? Previous studies have not systematically answer this question yet. There fore, it is of great significanc e to 
+study the boundary-spanning behavior at both team and indi-vidual levels in order to fully understand the effects of bound -
+ary-spanning behavior on the outcome variables at different levels. 
+Related research shows that boundary-spanning behaviors at 
+the team level can improve t eam creativity (Xu & Qu, 2014), 
+but at the individual level, we still know very little about wh at 
+and how employees’ boundary-spanning behavior affects indi-vidual creativity. In many cas es, boundary- spanning behavior 
+is an out-of-role behavior beyond the duty of role norms, and implementing boundary-spanning b ehavior spends a lot of ad-
+ditional resources such as time and energy of employees (Xu, 
+2019). Even in roles that require employees to span boundaries,  
+employees also expend a lot of time and energy paying close attention to the external enviro nment and obtaining information  
+that is useful to the team (Katz  & Tushman, 1983). The litera-
+ture on creativity suggests that adequate resources are neces-sary to enhance individual crea tivity (Amabile, 1988). So from 
+a resource perspective, boundary -spanning behavior can ham-
+per creativity. Although it has b een recognized that there may 
+be negative effects of boundary -spanning behavior (Marrone et 
+al., 2007), no further research has been done to explore how th e 
+negative effects of boundary- spanning behavior arise? And under what conditions? 
+Based on the conservation of resources theory and previous 
+studies (Hobfoll, 1989, 2001; Hobfoll, Halbesleben, Neveu, & 
+Westman, 2018), this study constructed and empirically exam-ined the effects of boundary-spa nning behavior on creativity at  
+both team and individual levels, and further explore how and 
+under what conditions these effects occur. Conservation of resources theory (COR) suggests that the loss of individual 
+resources can lead to stress that can adversely affect the indi -
+vidual (Hobfoll, 1989; Hobfoll, H albesleben, Neveu, & West-
+man, 2018). According to the conservation of resources theory, 
+we think that at the team leve l, boundary-spanning behavior 
+can obtain resources for the team and promote team creativity, but at the individual level, employees’ boundary-spanning be-
+havior can consume their resources, leading to role pressure, 
+thus reducing the individual creativity of the employee. In ad-dition, the literature on conservation of resources theory sug-
+gests that self-efficacy influences the individual stress-pro-
+ducing process (Hobfoll, 2001; Hobfoll, Freedy, & Geller, 1990). Based on this, we further examined the moderating ef-
+fect of role-breadth self-effi cacy on the above relationships. 
+1.2  Boundary-spanning behavior and creativity 
+Hobfoll (1989) was the first to develop the conservation of 
+resources theory. The theory holds that individuals always 
+strive to acquire, preserve, and protect resources. Hobfoll (19 89) 
+defined resources as “the individual’ characteristics, conditio ns, 
+and energies, that make individual feel valuable or the means 
+by which individual acquires th em.” These include material 
+resources (e.g., plant), conditi onal resources (e.g., seniority , 
+position), personal characteristic s (e.g., self-efficacy, and I Q), 
+and capability resources (e.g. , time, and knowledge). These 
+resources are valued by individuals because they help them 
+achieve their goals. 
+The literature on creativity s uggests that adequate resources are necessary to enhance individual creativity (Amabile, 1988).  
+Inadequate resources are importa nt barriers to individual crea-
+tivity (Amabile, 1988). Without s ufficient resources (such as 
+time and knowledge), individuals will not be able to discover problems, find new ways to solv e them and find new ideas (de 
+Jonge, Spoor, Sonnentag, Dormann, & Van Den Tooren, 2012). According to the conservation of resources theory, the acquisi-
+tion, preservation, and conserva tion of resources are essential  
+for the survival and development of individuals (Hobfoll, 1989;  
+Hobfoll et al., 2018). Not only th e individual but also the tea m, 
+in order to maintain their own survival and development, will 
+continue to access resources . Team boundary-spanning behav-
+ior is an important way for a team to acquire resources. At the  
+team level, boundary-spanning be havior aims to achieve the 
+team goals (Choi, 2002). In the process of interaction with the  
+outside, employees will consciously acquire useful information and resources for the team. Often, these resources are scarce within the team, and they are heterogeneous and novel com-pared to resources within the  team. And heterogeneous, innova-
+tive resources are necessary to enhance the team’s creativity 
+(Zhang & Ge, 2016). In addition, boundary-spanning behav-ioral teams are proactive in r eaching out to the organization’s  
+top leaders for support and co mmitment (Ancona & Caldwell, 
+1992), which is important for enhancing the team’s creativity because of the high risks associated with creative activities, so 
+it’s easy to fail (Zhu, Xu, & Zhang, 2018). Obtaining the sup-
+port of the leader can free the team’s worries, and make the team feel comfortable to engage in creative activities, thus im -
+proving the team’s creativity. Empirical studies have shown that team’s boundary-spanning b ehavior improves team crea-
+tivity (Xu & Qu, 2014). 
+But at the individual level, first of all, both in-and 
+out-of-role boundary-spanning behavior, boundary-spanning employees need to pay close attention to the external environ-
+ment for a long time, from the external complex and rapidly 
+changing environment to obtain useful information for the team,  
+this information needs to be translated into knowledge that 
+team members can understand and then passed on to team 
+members (Katz & Tushman, 1983), a complex process that consumes a lot of time and effo rt. The empirical study shows 
+that there is a significant positive correlation between employ -
+ees’ boundary-spanning behavior and resource loss (Xu, 2019). Second, both in-and out-of-role boundary-spanning behavior, 
+as long as employees span boundary, means that employees 
+need to maintain contact with a wide range of stakeholders (Ancona & Caldwell, 1992), deal with a wide variety of differ-
+ent types of people and comple x interpersonal relationships. 
+Too much external interpersonal activities will interfere with employees' attention, resulting in employees can not focus on 
+creative work, which has a negative impact on individual crea-
+tivity. Empirical studies have shown that boundary-spanning 
+behavior reduces employees’ en gagement at work (Ramrajan, 
+Bezrukova, Jehn, & Euwema, 2011). Finally, for out-of-role 
+behavior, on the one hand, employees generally need to engage in out-of-office behavior (Paul, Scott, & Sarah, 2011), which 
+usually takes up employees' downtime, leading to employees 
+don't have enough time to recover from work, and the restora-tive experience is an important factor in boosting employee 
+creativity (Eschleman, Madsen,  Alarcon, & Barelka, 2014). On 
+the other hand, employees need to balance their in-role tasks with their out-of-role behaviors, which takes a lot of time and   ZHU Jiqiang et al. : The cross-level double-edged-sword effect of boundary-spanning behavior on creativity  
+ effort. Individual resources such as time and energy are limite d, 
+and the loss of individual re sources by boundary-spanning be-
+havior will lead to the reduction of individual resources spent  
+in creative activities. This is not conducive to the promotion of 
+individual creativity. In conclu sion, we propose the following 
+hypothesis: 
+Hypothesis 1: At the team lev el, team boundary- spanning 
+behavior promotes team creativit y. But at the individual level,  
+employees' boundary-spanning behavior can reduce their indi-vidual creativity. 
+1.3  The mediating effect of role stress 
+Conservation of resources theory holds that both actual and 
+potential resource losses trigge r an individual's stress and th at 
+after stress, the individual take s steps to relieve it (Hobfoll , 
+1989; Hobfoll et al., 2018). According to this theory, we pro-pose that employees' boundary-spanning behaviors consume 
+their time, energy, and other re sources, thus resulting in role  
+stress and have a negative impact on individual creativity. Rol e 
+stress is a stress that occurs when an individual fails to fulf ill 
+his or her role expectations effectively. It includes three asp ects: 
+role conflict, role ambiguity, an d role overload (Kahn, Wolfe, 
+Quinn, Snoek, & Rosenthal, 1964) . Role conflict refers to an 
+employee's inability to meet the conflicting demands or expec-
+tations of multiple roles (Kim,  Murrmann, & Lee, 2009; Rizzo, 
+House, & Lirtzman, 1970). Role ambiguity refers to an em-
+ployee's lack of clarity or understanding of his or her role an d 
+inability to achieve clear role expectations (House & Rizzo, 1972; Rizzo et al., 1970). Role overload is when the expecta-
+tions of a role exceed the lim its of one's capacity (Singh, 199 8). 
+Role stress tends to occur in boundary-spanning activities 
+(Wang, Liu, & Liu, 2017). Both in- and out-of role require the 
+employee to span boundary. As long as the employee imple-
+ments the boundary-spanning behavior, the employee needs to contact with different external stakeholders, and need to play 
+different roles in interacting with different external stakehol ders. 
+Each role has different, and sometimes even conflicting de-
+mands on the employee (Rakaraja n et al., 2011), and the fre-
+quent boundary-spanning activity of the employee requires 
+constant switching between diff erent and possibly conflicting 
+roles. On the one hand, this is easy to cause the role of confl ict; 
+on the other hand, the employees will have confusion and not 
+know clearly their own positioni ng, resulting in role ambiguity . 
+If boundary- spanning behavior is extra-role behavior, on the 
+one hand, in addition to the role tasks within the team, bound-
+ary- spanning employees also need to take on multiple tasks such as getting information from outside, processing informa-
+tion, and passing information to others. This increases the 
+workload of the employees, and consumes a lot of time, energy, and other resources, leading to role overload (Deng, Liu, &Mao,  
+2018). Empirical studies show tha t the extra-role helping be-
+haviors that consume employees' time and energy tend to cause role stress (Chen, Chen, & Luo, 2020). On the other hand, the 
+task work within the role and the boundary-spanning behavior 
+outside the role may not be cons istent with the requirements of  
+the employees, which easily leads to role conflict. 
+According to the conservation of resources theory, measures 
+will be taken to prevent further resource loss when an individ-ual feels stress (Hobfoll, 1989; Hobfoll et al., 2018). A creat ive 
+activity consumes a lot of em ployee’s resources. When the 
+boundary-spanning employees due to excessive consumption of resources, resulting in the employees do not have enough re-sources to invest in creative activities, in order to prevent f ur-
+ther loss of resources, the employees will reduce the investmen t 
+in creative activities, choose re laxation to restore resources (de 
+Jonge et al., 2012), and wait unt il resources are restored befo re 
+you get back to work. Empirical  studies have s hown that role 
+stress reduces employee’s engagement (Wang, Han, & Yang, 
+2014). In addition, role stress is often accompanied by emo-
+tional exhaustion (Wang & Zhang, 2016). Employees in emo-
+tional exhaustion often lack the motivation to work (Wan, 2011)  
+and are not motivated to engage in creative activities. Empiric al 
+studies have shown that role stress reduces employee creativity  
+(Çekmecelioglu & Günsel, 2011). Based on the above analysis, we propose: 
+Hypothesis 2: Employees' boundary-spanning behavior re-
+duces employees' individual creativity by increasing their role  
+stress. 
+1.4  The moderating effect of role breadth self-efficacy 
+Conservation of resources theor y holds that individuals with 
+more resources are less susceptible to resource loss and identi -
+fies self-efficacy as an impor tant individual trait resource 
+(Hobfoll, 2001) and an important factor of maintaining the individual resource pool (Hobf oll, 2001, p. 349), influencing 
+the process by which loss of resources leads to stress (Hobfoll , 
+2001). Role breadth self-efficac y is a kind of important 
+self-efficacy, and it is close ly related to boundary-spanning 
+behavior and role stress. T herefore, we propose that 
+role-breadth self-efficacy moderates the relationship between boundary-spanning behavior and role stress. Role-breadth 
+self-efficacy refers to an emplo yee's perception of his or her 
+ability to perform tasks that are broader, more proactive, and beyond the call of duty (Hwang, Han, & Chiu, 2015). It is a 
+form of self-efficacy that em phasizes the employee's confi-
+dence to perform broader out-of-role behaviors (Galperin, 2012). 
+Boundary-spanning behavior is a very challenging and 
+complex activity (Ma rrone et al., 2007) and  the implementation 
+of boundary-spanning behavior cons umes a great deal of time 
+and effort. Role-breadth self-efficacy (Hobfoll, 2001), as an 
+important personal trait resour ce, can help employees to resist  
+the resource depletion caused by boundary-spanning behaviors. 
+According to the conservation of resources theory (Hobfoll, 
+2001), employees with a high role - breadth self-efficacy have 
+more resources. Those with more resources are less sensitive to  
+resource loss and less prone to stress. Specifically, employees  
+with high role- breadth self-efficacy were more confident in their ability to manage relationships with stakeholders than 
+employees with low role-breadth self-efficacy (Marrone et al., 
+2007), and this self-confidence can help employees to reduce the resources consumption caused by boundary-spanning be-
+havior, thereby reducing the negative effects of bound-
+ary-spanning behavior, thus red ucing role stress. Employees 
+with high role-breadth self-efficacy were more confident of 
+their ability to perform tasks  beyond their assigned duties (Li ao 
+& Liang, 2015) and more confident of performing extra-role behaviors (Galperin, 2012), they  have a high ability to cope 
+with setbacks (Hartog & Belschak, 2012), and they can cope 
+with difficulties (Liao & Liang,  2015). Therefore, in the face of 
+the challenges and complexiti es of boundary- spanning behav-
+ior, such as conflicting role demands, role ambiguity, and role  
+overload, they have the confidence to play a variety of roles and to be able to address these issues. therefore bound- Acta Psychologica Sinica 
+ ary-spanning behavior is less likely to cause role stress. Base d 
+on the above analysis, we propos e the following assumptions: 
+Hypothesis 3a: Role breadth sel f-efficacy moderates the re-
+lationship between boundary-spanni ng behavior and role stress. 
+The higher the role breadth self-efficacy of employees, the 
+weaker the positive effect of boundary- spanning behavior on role stress. 
+Furthermore, when the role stress of employees is reduced, 
+the initiative and enthusiasm o f employees to engage in crea-
+tive activities are increased. In particular, employees with hi gh 
+role-breadth self-efficacy are more motivated to be active and 
+innovative (Parker, Williams, & Nick, 2006), and more actively 
+engaged in creative activities. Combining Hypothesis 2 and 
+Hypothesis 3a, we propose the fo llowing first stage moderated 
+mediation mode l hypothesis: 
+Hypothesis 3B: Role breadth s elf-efficacy moderates the 
+mediating effect of role stress on employees' boundary- span-
+ning behavior and individual creativity. The higher the em-ployee's role breadth self-efficacy, the weaker the mediation o f 
+the role stress is. 
+2  Method 
+2.1  Sample 
+The sample of this study comes from several enterprises in 
+Beijing, Shenzhen and Shanghai, mainly involving in finance, 
+consulting, Internet and other industries. The researchers firs t 
+explained the purpose of the sur vey to companies’ leaders and 
+asked them to identify a list of  subordinates and supervisors 
+who would be able to participat e in the survey. The question-
+n a i r e s  w e r e  d i s t r i b u t e d  m a i n l y  i n  p a p e r  f o r m a t ,  a n d  a  s m a l l  
+number of questionnaires were se nt to the subjects by e-mail. 
+In order to minimize the effect of common method bias, a 
+multi-stage and multi-source approach was used to collect data.  
+The data collection was conduct ed in two phases, one from the 
+subordinate and one from the supe rvisor. In the first phase, 62 0 
+subordinates were invited to participate in the study. We asked  
+subordinates to rate their boundary-spanning behavior, 
+role-breadth self-efficacy, rol e stress and subordinates' basic  
+personal information. A total o f 590 employees completed the 
+survey. The second phase of da ta collection was conducted 
+about a month later, involving 135 supervisors. We asked su-pervisors to rate the creativi ty of subordinates who had com-
+pleted the first phase of the qu estionnaire and the supervisors ' 
+basic personal information, and a total of 120 supervisors com-pleted the survey. 
+After two rounds of research,  we matched the subordinate 
+and supervisor questionnaires according to a pre-determined number. After deleting the unpa ired and incomplete question-
+naires, 536 employees’ questionnaires (effective recovery rate 
+90.32%) and 111 supervisors’ questionnaires (effective recov-ery rate 82.22%) were obtained. The team size (that is, the 
+number of subordinates evaluated  by each supervisor) ranged 
+from 3 to 8, with an average team size of 4.83. In the subordi-nate sample, the proportion of  men and women was basically 
+equal, and the proportion of men was 48.1%. In the educational 
+background, 61% were undergraduates, 22.8% were junior college students, 8.2% were gr aduate students, and above 8% 
+were secondary school students and below 52.6% of employees 
+were married. The average age of subordinates was 29.97 ( SD 
+= 4.49), and the average length of service in the unit was 3.66  
+years ( SD = 3.84). The proportion of men and women in the supervisor sample was also rough ly equal, with men accounting 
+for 55 percent. In education, 65.8% were undergraduates, 
+16.2% were junior college students, 16.2% were postgraduates and above, and 1.8% were secondar y school students and below. 
+81.1% of supervisors were married. The average age of the 
+supervisors was 34.05 ( SD = 4.68), and the average length of 
+service in the unit was 5.85 years ( SD = 3.97). 
+2.2  Measurement 
+Boundary-spanning behavior. Us ing a scale developed by 
+Faraj and Yan (2009), employees were asked to rate the extent 
+to which they had received information and resources from 
+outside the team. Using A seven- point scale, 1 to 7 represented  
+“very inconsistent” to “very consistent”. A total of 4 measure-
+ment items, a typical measurement item is “I will contact with 
+important people outside the tea m to obtain information and 
+resources for the team”. Following Marrone et al (2007), the 
+average value of each employee's boundary-spanning behavior 
+is regarded as the boundary-spann ing behavior at the team level . 
+The reason for averaging, rather than variance or maximum or 
+minimum, is that the variance a pproach is suitable for explor-
+ing variables that make up a diverse team, such as age diversit y. 
+The maximum or minimum method is suitable for situations 
+where the team outcome depends entirely on the individual in 
+the team (Barrick, Stewart, N eubert, & Mount, 1998). In this 
+study, team’s boundary-spanning behavior is mainly concerned 
+with the number of boundary- spanning behavior, not the diver-
+sity of boundary-spanning behavior, so from our theoretical 
+focus point of view, it is not suitable for the use of variance  
+method. The number of the team 's boundary-spanning behavior 
+is not decided by an individual's boundary-spanning behavior in the team, but decided by the team members  as a whole, so 
+the team's boundary-spanning beha vior is not suitable to use th e 
+maximum or minimum method. In the same way, team creativ-
+ity is aggregated using the mean method. Cronbach's α is 0.80 
+for employee boundary-spanning behavior and 0.79 for team’s 
+boundary-spanning behavior. 
+Role breadth self-efficacy. Us ing a scale developed by 
+Parker (1998), there are seven m easurement items, and a typi-
+cal measuring item is “I can con tact people outside the com-
+pany (such as customers) to di scuss the problem”. Using a 
+five-point scale, 1 to 5 stands for “strongly disagree” and 
+“strongly agree”. Cronbach's α is 0.73. 
+R o l e  s t r e s s .  T h e  s c a l e  w a s  d e v e l o p e d  b y  L i  a n d  Z h a n g  
+(2009), a total of 13 items, 5 of which were reverse scoring 
+items. Using a five-point scale,  1 to 5 stands for “strongly di s-
+agree” and “strongly agree”. A typical measurement item is “I 
+received conflicting requests from two or more people”. Cron-
+bach’s α is 0.76. 
+Creativity. Use a scale developed by Zhou and George 
+(2001), a total of 13 items. We asked supervisors to rate their  
+subordinates’ creativity, and a five-point scale ranging from 1  
+to 5 representing “strongly disa gree” to “strongly agree”. A 
+typical measurement item is “He/she will propose new ways to 
+achieve the work goal”. Supervis or’s evaluation of each subor-
+dinate as an individual level of individual creativity, the sup er-
+visor’s evaluation of all subordi nates as a team level of team 
+creativity. Cronbach’s α of individual creativity is 0.97 and Cronbach’s α of team creativity is 0.98. 
+Control variable. Previous s tudies have shown that demo-
+graphics variables impact bou ndary-spanning behavior and 
+creativity (Marrone et al., 2007), so we controlled for gender (1  ZHU Jiqiang et al. : The cross-level double-edged-sword effect of boundary-spanning behavior on creativity  
+ female, 2 male), age (in years),  marriage (1 unmarried, 2 mar-
+ried), education (1 junior high and below, 2 technical secon-
+dary/high school, 3 junior colle ge, 4 undergraduate, 5 graduate  
+and above) and length of service (in years) at the individual level, and the gender, age, marr iage, education, and length of 
+service of the leader at the team level, the same encoding as t he 
+corresponding variables at the employee level. Furthermore, individual paradoxical mindset, team functions (1 finance, 2 
+sales, 3 manufacturing, 4 opera tions, 5 design, 6 management, 
+7 others, translated into 6 dummy variables) and team size (in terms of team size) may also affect employees’ boundary- spanning behavior and creativity. Therefore, the paradoxical mindset of individuals, team function and team size are also considered as control variables to rule out other possible ex-planations for the relationshi p between variables. Paradox 
+mindset was measured using a scale developed by Mi-ron-Spektor, Ingram, Keller, Smith, and Lewis (2018). There were a total of 9 items, and a typical measuring item is “I can  
+better understand problems when I deal with conflicting per-spectives”. Cronbach’s α of the scale is 0.86. In addition, the  
+nesting effect may exist in en terprises with different team 
+sources. In order to eliminate the nesting effect, enterprises (27 
+enterprises in total, converted into 26 dummy variables) are also used as control variables. 2.3  Data analysis 
+The data were analyzed with SPSS 22.0 and MPLUS 7.4. 
+F i r s t ,  t h e  A v e r a g e  V a r i a n c e  E x t r a c t e d  ( A v e )  a n d  c o n f i r m a t o r y  factor analysis (CFA) were used to test the convergent validity  
+and discriminant validity. Second, common method bias was 
+tested by Harman single-factor method and untested sin-gle-factor method. Then, r
+wg, ICC (1) and ICC (2) are used to 
+test the validity of data aggregation. Finally, Path analysis i n 
+the multilevel structural equation Modeling (MSEM) was used to test the hypothesis and to cal culate the confidence interval s 
+o f  t h e  m e d i a t i n g  e f f e c t  b y  M o n t e  C a r l o  M e t h o d  ( P r e a c h e r  &  
+Selig, 2012). The moderated mediation model was examined using Edwards and Lambert (2007) path analysis. 
+3   R e s u l t s  
+3.1  Validity test 
+C o n f i r m a t o r y  f a c t o r  a n a l y s i s  ( C F A )  w a s  u s e d  t o  c o m p a r e  
+the convergent validity and discriminant validity of the vari- ables. Team boundary-spanning b ehavior and team creativity 
+are variables at the team level, while employees’ bound-ary-spanning behavior, role stress, role breadth self-efficacy,  
+individual creativity and parado xical mindset are variables at 
+individual level, so we construct cross-level confirmatory fac-
+tor analysis with Mplus to test discriminant validity among variables. As there are many measurement items of role stress, individual creativity, team cre ativity, role breadth self-effic acy 
+and paradoxical mindset, according to Wu and Wen (2011), in this paper, the balance method is  used for packaging the meas-
+urement items of these five vari ables, and then the item with 
+the highest factor load and the item with the lowest factor loa d 
+are packaged into a measurement item, and so on. After pack-aging, role stress, role bread th self-efficacy, individual crea tiv-
+ity and team creativ ity all included 3 i tems, paradox mindset 
+included 4 items. The cross-level confirmatory factor analysis results show that the seven-factor model can fit the data well as 
+shown in Table 1. In the model, the standardized factor load of  
+the seven variables (employe e’s boundary-spanning behavior, 
+role stress, individual creativity, role breadth self-efficacy,  
+paradoxical thinking, team bounda ry-spanning behavior, team 
+creativity) was are all above the  critical value of 0.5 except for 
+one item of team boundary-spanning behavior was 0.42 and slightly less than 0.5. And the A VE values of the seven vari-
+ables were 0.59, 0.64, 0.87, 0.47, 0.64, 0.62, 0.93 respectivel y, 
+except that the A VE values of the role breadth self-efficacy were slightly lower than the critical value of 0.5, the Ave val ues 
+of the other six variables are all larger than the critical val ue of 
+0.5(Anderson & Gerbing, 1988; H air, Black, Babin, Anderson, 
+& Tatham, 2006), which shows that the seven variables in the model have certain convergent validity. As shown in table 1, 11  
+competition models were significantly worse than the seven-factor model, indicating th at 7 variables had discriminan t 
+validity. The Ave values of each variable are larger than the square of the correlation coefficient between the two variables  
+(Fornel & Larcker, 1981; Hair et  al., 2006), further indicating  
+that the five variables have  good discriminant validity. 
+3.2  Common method bias 
+To reduce the effect of common method bias, data were col-
+lected at different time points and from different sources in t he 
+study design phase, according to the recommendations of Pod-
+sakoff, Mackenzie, Lee and Podsa koff (2003). And for different 
+ 
+Table 1 
+Results of confirmatory factor analysis 
+Model χ2 df χ2/df RMSEA CFI TLI Δχ2 Δ df 
+Seven-factor model 369.05 122 3.03 0.06 0.96 0.95   
+Six-factor model 1 1310.83 126 10.40 0.13 0.80 0.76 941.78*** 4  
+Six-factor model 2 905.27 126 7.18 0.11 0.87 0.84 536.22*** 4 
+Six-factor model 3 897.31 126 7.12 0.11 0.87 0.84 528.26*** 4 
+Six-factor model 4 1651.73 126 13.11 0.15 0.75 0.69 1282.68*** 4 
+Six-factor model 5 661.23 123 5.38 0.09 0.91 0.89 292.18*** 1 
+Five-factor model 1 1835.17 129 14.23 0.16 0.72 0.67 1466.12***  7  
+Five-factor model 2 1602.10 127 12.61 0.15 0.76 0.70 1233.05***  5  
+Four-factor model 1 3078.33 131 23.50 0.21 0.51 0.41 2709.28***  9  
+Four-factor model 2 2487.72 131 18.99 0.18 0.61 0.53 2118.67***  9  
+Three-factor model 3721.34 132 28.19 0.23 0.41 0.29 3352.29*** 10 
+Two-factor model 4013.51 133 30.18 0.23 0.36 0.24 3644.46*** 11  
+Note . Individual level N = 536, team level N = 111, * p < 0.05, ** p < 0.01, *** p < 0.001.  Acta Psychologica Sinica 
+ variables were used 5 points and 7 points, in addition, the rol e 
+stress measurement also set up 5 reverse scoring items. In the 
+data analysis phase, Harman si ngle-factor method and untested 
+single-factor method were used to test the effect of common 
+method bias. The results of Harman single-factor analysis 
+showed that the KMO of explorat ory factor analysis was 0.92, 
+and the Bartlett spherical test was significant ( p < 0.000). The 
+unrotated first factor explained only 33.04% of the total varia -
+tion. The unmeasured single-met hod latent factor showed that 
+the A VE value of the common method was only 0.35, far below 
+the critical value of 0.5 (Dulac, Coyle-Shapiro, Henderson, & 
+Wayne, 2008), thus it is concluded that common method bias has no significant effect on the relationship between variables  
+in this study. 
+3.3  Data aggregation 
+This study used cross-level design, team boundary- span-
+ning behavior and team creativity  as team-level variables, but 
+the measurement was done at the individual level, so we need 
+to test the feasibility of aggregation of data collected at the  
+individual level to team level. According to the suggestions of  
+Yu, Fang and Ling (2004), the validity of data aggregation was tested by r
+wg, ICC (1) and ICC (2). The results showed that the 
+group’s boundary-spanning behavior rwg median was 0.92, ICC 
+(1) = 0.33, ICC (2) = 0.7, group creativity rwg median was 0.98, 
+ICC (1) = 0.57, ICC (2) = 0.86, and met the criteria of rwg me-
+dian > 0.7 (Lebreton & Senter, 2007), ICC (1) > 0.05 and ICC 
+(2) > 0.5 (James, 1982). This indicates that team members’ scores have sufficient intra-group consistency and inter-group 
+differences, and intergroup differences accounted for 47.05% 
+and 65.33% of the variance in team boundary-spanning behav-ior and team creativity, respec tively. Thus they could be aggre -
+gated to the team level f or follow-up analysis. 3.4  Descriptive statistical analysis 
+The mean, standard deviation and correlation coefficient of 
+the variables were as shown in t able 2. At the individual level , 
+there was a significant positive correlation between employees’  
+boundary-spanning behavior and role stress ( r =  0 . 1 5 ,  p <  
+0.001), and a significant nega tive correlation between role 
+stress and creativity ( r = −0.15, p < 0.001). On the team level, 
+there was a significant positive correlation between team- 
+crossing behavior and team creativity ( r = 0.33, p < 0.001). 
+3.5  Hypothesis testing 
+According to Preacher, Zyphur and Zhang (2010), Mplus 
+7.4 was used to construct a two- level path analysis to test the  
+hypothesis. The results were shown in figure 1, after control-
+ling for paradoxical mindset at th e individual level, gender, a ge, 
+marriage, education, and tenure,  as well as team function, team  
+size, enterprise, leader’s gender, age, marriage, education lev el 
+and tenure, team boundary- spanning behavior had a significant 
+positive effect on team creativity (β
+ = 0.18, p  <  0.05). The overall 
+effect of employees’ boundary-spanning behavior on individual 
+creativity was negative and significant (β  = −0.02, p <  0 . 0 5 ) ,  
+which indicated that employees ’ boundary-spanning behavior 
+had a significant negative effec t on individual creativity. Hy-
+pothesis 1 was supported. 
+The results of the mediating effect of role stress showed that 
+the boundary-spanning behavior had a significant positive ef-
+fect on role stress (β = 0.05, p < 0.01), and the role stress had a 
+significant negative effect on individual creativity (β  = −0.34, p  
+< 0.001). The mediating effect bet ween role stress and individ-
+ual creativity was significant (mediating effect = −0.02, p <  
+0.05), and the 95% confidence interval of mediating effect did not include 0 (−0.03, −0.006), which was shown by the Monte 
+Carlo method, it is suggested that role stress mediates the rel a-
+ 
+Table 2 
+Mean, standard deviation and correla tion coefficient of variables 
+Variable Mean SD 1 2 3 4 5 6 7 8 9  
+At the individual level             
+1. gender - employee 1.48 0.50           
+2. age-employee 29.97 4.49 0.02          
+3. education level- employee 3.68 0.76 0.07 0.01         
+4. marriage - employees 1.53 0.50 −0.01 0.58*** −0.07        
+5. tenure- employee 3.66 3.84 0.02 0.56*** −0.20*** 0.37***       
+6. paradoxical mindset 3.57 0.61 −0.01 0.02 0.04 0.04 0.18*** (0. 64)     
+7. boundary-spanning behavior of  
+employees 4.78 1.15 −0.10 0.10* 0.05 0.06 0.13** 0.20*** (0.59)    
+8. role stress 2.60 0.43 0.01 0.02 0.03 0.02 0.11** 0.08 0.15*** (0.64)   
+9. role-breadth self efficacy 3.81 0.52 −0 .06 0.11* 0.12** 0.11** 0.19*** 0.56*** 0.19*** −0.01 (0.47)  
+10. individual creativity 3.54 0.71 0.02 0.05 0.00 0.04 0.16*** 0 .27*** −0.02 −0.15*** 0.33*** (0.87)
+Team level             
+1. gender-leadership 1.55 0.50           
+2. age-leadership 34.05 4.68 0.08          
+3. education-leadership 3.97 0.63 0.09 0.12         
+4. marriage-leadership 1.81 0.39 0.44*** 0.34*** 0.05        
+5. tenure -leadership 5.81 3.97 0.07 0.30** −0.07 0.31**       
+6. team size 32.57 92.33 −0.07 0.08 −0.28** 0.12 0.28*      
+7. team boundary-spanning behavior 4.63 0.68 0.05 −0.02 0.16 0.13 0.20* −0.04 (0.62)    
+8. team creativity 3.54 0.72 0.04 −0.15 0.03 −0.08 0.21* 0.07 0.33** (0.93)   
+Note . Individual level N = 536, team level  N = 111, * p < 0.05, ** p < 0.01, *** p < 0.001. The numbers in diagonal brackets are A VE for variable s. Because the 
+team functions and the enterprise have been converted to dummy variables, these two variables are not included in the table.  ZHU Jiqiang et al. : The cross-level double-edged-sword effect of boundary-spanning behavior on creativity  
+ 
+ 
+ 
+Figure 1 .  Results of the multilevel path analysis 
+Note . The path coefficient in the graph is the non-standardized pat h coefficient. T e1 indicates that the variable was evaluated by the employee at t he first time 
+point and t l2 indicates that the variable was evaluated by the leader at the  second time point. Individual level N = 536, team level N = 111, * p < 0.05, ** p 
+< 0.01, *** p < 0.001. 
+ 
+tionship between employees’ boundary-spanning behavior and 
+individual creativity. Hypothesis 2 is supported. 
+The results showed that the product item coefficient of 
+boundary-spanning behavior and role-breadth self-efficacy was 
+significant (β = −0.08, p < 0.01), it is suggested that role 
+breadth self-efficacy moderat es the relationship between 
+boundary-spanning behavior and r ole stress. To clearly demon-
+strate the moderating effect of role breadth self-efficacy, we 
+plotted the moderating effect graph (see figure 2) by adding or  
+subtracting a standard deviation from the mean value of role  
+breadth self-efficacy (Aiken a nd West, 1991). As shown in 
+figure 2, when the employee’s role breadth self-efficacy is low , 
+the employee’s boundary- spanning behavior has a stronger positive effect on role stress. The results of simple slope ana ly-
+sis showed that when role breadth self-efficacy was low 
+(mean-one standard deviation), employees’ boundary-spanning 
+behavior had a significant positive effect on role stress (β = 
+0.10, p < 0.001). When the sense of self-efficacy of role 
+breadth was high (mean + one sta ndard deviation), the positive 
+effect of boundary-spanning behavior on role stress was not 
+significant (β = 0.02, p > 0.1), and the difference between the 
+two groups was signi ficant (β = −0.08, p < 0.05). 
+Following Edwards and Lambert (2007), we tested the 
+moderated mediation model for th e first stage of the hypothesis  
+3b. First, the samples were divided into high and low groups by  
+adding or subtracting a standard deviation from the mean value 
+of the moderation variables, and then the value and difference of the mediating effect of the two groups were calculated,
+ 
+ 
+ 
+Figure 2 .  The moderating effect figure of role-breadth self- effi-
+cacy 
+ 
+respectively. Results are shown in Table 3. The mediating effec t 
+of role stress was small a nd not significant when the 
+self-efficacy of role breadth was high (mediating effect = −0.0 1, 
+p > 0.1, 95% CI including 0 [−0.02, 0.01]). When the 
+self-efficacy of role breadth was low, the mediating effect of role stress was significant ( mediating effect = −0.03, p < 0.01, 
+95% CI did not include 0 [−0.06, −0.01]), and there was sig-nificant difference between group s (the mediating effect value 
+was 0.02, p < 0.05, 95% CI did not include 0 [0.01, 0.05]). It 
+showed that role breadth self-efficacy moderated the mediating effect of role stress. 
+Table 3 
+The results of the moderated mediation model in the first stage 
+Employee boundary-spanning behavior (X) → role stress (M) → individual creativity (Y) 
+Group 
+Phase I (P MX) Phase II (P YM) Indirect effect (P MX×PYM) 95% CI for indirect effect 
+High role breadth sel f-efficacy 0.02 −0.35** −0.01 [−0.02, 0.01 ] 
+Low role bread th self-efficacy 0.10*** −0.35** −0. 03** [−0.06, −0.01] 
+Intergroup difference −0.08** 0 0.02* [0.01, 0.05] 
+Note . * p < 0.05, ** p < 0.01, *** p < 0.001. Since Mplus can not compute confidence intervals usin g bootstrap methods in cross-level analysis, we use the 
+Monte Carlo method to compute confidence intervals in R softwar e based on the reco mmendations of Preacher  and Selig (2012) and  their R language. 
+ 
+4  Discussion 
+From the perspective of resource, this study explores the ef-
+fects of boundary-spanning behavior on team creativity and individual creativity, as well as the mediating mechanism and 
+boundary conditions. The results show that team bound-ary-spanning behaviors improve t eam creativity at a team level,  
+but at the individual level,  employee boundary-spanning be- Acta Psychologica Sinica 
+ haviors negatively a ffect individual creativity by increasing 
+role stress. Compared with the employees with high role-breadth self-efficacy, the employees with low role-breadth  
+self-efficacy were more likely t o have role stress after imple-
+menting boundary-spanning behaviors . Thus the negative effect 
+on individual creativity is eve n stronger. Scholars and practi-
+tioners should be alert to the adverse effects of bound-ary-spanning behavior and minimize their negative effects while giving full play to their positive effects. 
+4.1  Theoretical contributions 
+The theoretical contributions o f this study are mainly re-
+flected in the following three as pects: First, previous studies  
+have either examined the effects of boundary-spanning behav-
+ior from the perspective of beh avior receiver or perpetrator 
+(Ancona & Caldwell, 1992; Song, Wang, & Zhang, 2017), this study integrates these two perspectives and explores the posi-
+tive and negative effects of boundary- spanning behavior at 
+both team and individual levels . More importantly, when fo-
+cusing on the literature on the relationship between bound-
+ary-spanning behavior and creativity, we found that current 
+research focuses on the impact of boundary-spanning behavior on behavioral receiver (team cre ativity) (Xu & Qu, 2014), this 
+study focuses on the impact of boundary-spanning behavior on 
+the behavior actor himself (indi vidual creativity), that is, we  
+shift the research perspective of the relationship between 
+boundary-spanning behavior and creativity from the behavior 
+receiver to the behavior actor himself, expanding from the team  
+level to the individual level an d helping scholars and practiti o-
+ners to more fully understa nd boundary-spanning behavior. 
+Second, previous studies have focused on the positive ef-
+fects of boundary-spanning behavior from a learning and net-
+work perspective (Liu, Jiang,  Chen, Pan, & Lin, 2018). Em-
+pirical studies such as Xu and Qu (2014) showed that team boundary-spanning behavior impr oves team creativity through 
+team learning. Liu and Li (2014) examined the mediating role 
+of network-centeredness and found that employees’ bound-ary-spanning behavior promoted their task performance by 
+enhancing their network-centere dness. Different from previous 
+studies, this study examines the negative impact of bound-ary-spanning behavior from the resource perspective. The re-
+sults show that boundary-spanning behavior has a negative 
+impact on individual creativity by  increasing role stress. The 
+results of this study show that in addition to the positive imp act 
+of boundary-spanning behavior, but a lso have a neg ative impact 
+on employees, thus expanding the boundary-spanning behav-ior-related research. 
+Finally, the research enriches conservation of resources the-
+ory and finds the specific boundary condition of the resource preservation theory-The role-brea dth self-efficacy. Halbesleben , 
+Neveu, and Paustian Underdah l (2014) called people to pay 
+attention to the interaction of multiple resources and empha-sized the role of focusing on e nvironmental factors. In respons e 
+to the call of Halbesleben et al. (2014), the present study ex-
+plored the moderating effect of the intrinsic psychological characteristic resources (role-breadth self-efficacy) on the 
+process of resource depletion, w hich further enriched the theor y 
+of resource conservation. 4.2  Practical implications 
+Previous studies on boundary-spanning behavior and crea-
+tivity have shown that boundary-spanning behavior can pro-mote team creativity (Xu & Qu, 2014), but this study shows that boundary-spanning behavior  can not only promote team 
+creativity, but also hinder individual creativity, and this sug -
+gests that the contribution of boundary-spanning behavior to team creativity may come at the expense of individual creativ-
+ity. That is, the individual sa crifices the individual to achie ve 
+the greater good. Therefore, in practice, when teams enhance 
+team creativity through members’ boundary-spanning behav-
+iors, we need to be alert to the negative effects of bound-
+ary-spanning behaviors on employees. On the one hand, we need to take measures to minimize the negative effects; on the 
+other hand, we should encourage and reward the team spirit of 
+the employees. For example, when building a team, try to choose employees with a high sense of self-efficacy. And more 
+praise should be used to manag e employees to improve their 
+sense of self-efficacy. Because employees with a high sense of self-efficacy have less adverse effects when they engage in 
+boundary-spanning behavior. In addition, team leaders can 
+publicly praise and reward employees who engage in bound-ary-spanning behavior, and make other members feel that the 
+implementation of boundary-spanni ng behavior is recognized 
+and supported by the team. On the  one hand, it can reduce the 
+role stress and the negative in fluence of the boundary-spanning  
+behavior. On the other hand, it is also an affirmation and reco g-
+nition of the dedication of the team that the employees sacri-ficed themselves to achieve, thus encouraging the employee to 
+make more efforts to contribute to the team. 
+4.3  Research limit and future research 
+First of all, although this stu dy adopts a multi-stage and 
+multi-source design to reduce the effect of common method 
+bias to a certain extent, it s till can not reach the conclusion  of 
+causality, in particular, boundary-spanning behavior and role 
+stress were collected at the same time point. Future research 
+may consider using the experiment a l  w a y t o  t e s t  t h e  r e l a t i o n s  
+between the variables, in order to obtain a reliable causal con -
+clusion. In addition, the team c reativity is measured by the wa y 
+that team leaders evaluate each member’s individual creativity,  
+rather than by the team as a whol e, which is also the shortcom-
+ing of this study, future resear ch will allow team leaders to 
+directly evaluate the overall cr eativity of the team, and furth er 
+verify the conclusions of this paper. 
+Second, in many cases, boundary-spanning behavior may 
+not be voluntary, but rather orch estrated by the team to adapt to 
+the external environment (Ancona & Caldwell, 1992), so it can 
+be divided into active and passive behaviors. The effects of 
+these two different types of boundary-spanning behavior may be different. Future studies coul d continue to explore the posi -
+tive and negative effects and mechanisms of different types of 
+boundary-spanning behavior. In addition, this study only fo-cused on the stress mechanism. A t the individual level, in addi -
+tion to role stress, there may be other mechanisms that lead to  a 
+positive impact on creativity. For example, if bound-ary-spanning behavior employees have rich sources of infor-
+mation, employees can easily access a wealth of even new 
+ideas, which may promote indivi dual creativity. Future research  
+will continue to explore the dual and even multiple mechanisms 
+by which boundary-spanning behaviors have both positive and 
+negative effects on creativity at the individual level. 
+Finally, this study is conducte d in China, and whether the 
+conclusions can be extended to other countries remains to be further tested. China is a country with high collectivism 
+(Hofstede, Hofstede, & Minkov, 2010), and Chinese employees  ZHU Jiqiang et al. : The cross-level double-edged-sword effect of boundary-spanning behavior on creativity  
+ are more likely to sacrifice their own interests for the sake o f 
+the collective good, so they are more likely to take the initia tive 
+to span boundaries in order to improve team performance. In 
+contrast, the United States is  a country with a higher tendency  
+to individualism (Hofstede et al., 2010). American workers are more concerned with their own interests and less likely to sac-
+rifice their own for the colle ctive good, so they are less like ly to 
+span boundaries on their own in itiative. That is, employees 
+from different cultural backgrou nds may have different possi-
+bilities and motivations for boun dary-spanning behavior. Future  
+studies can collect data in different countries at the same tim e 
+for comparative studies and may draw interesting conclusions. 
+References  
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and 
+interpreting interactions . London: Sage. 
+Amabile, T. M. (1988). A model of creativity and innovation in or-
+ganizations. In B. M. Staw & L. L. Cummings (Eds.), Research in 
+organizational behavior  (Vol. 10, pp. 123−167). Greenwich, CT: 
+JAI Press. 
+Ancona, D. G., & Caldwell, D. F. (1992). Bridging the boundary:  Ex-
+ternal activity and performanc e in organizational teams. Adminis-
+trative Science Quarterly, 37 (4), 634−665. 
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation m odel-
+ing in practice: A review and recommended two-step approach. 
+Psychological Bulletin, 103 (3), 411−423. 
+Barrick, M. R., Stewart, G. L., Neubert, M. J., & Mount, M. K. (1998). 
+Relating member ability and pers onality to work-team processes 
+and team effectiveness.  Journal of Applied Psychology, 83 (3), 
+377−391. 
+Çekmecelioglu, H. G., & Günsel, A. (2011). Promoting creativity  
+among employees of mature industries: The effects of autonomy 
+and role stress on creative beha viors and job performance. Procedia 
+Social and Behavioral Sciences, 24 , 889−895. 
+Chan, D. (1998). Functional relations among constructs in the s ame 
+content domain at different level s of analysis: A typology of c om-
+position models. Journal of Applied Psychology, 83 (2), 234−246. 
+Chen, X. T., Chen, H., & Luo, W. C. (2020). An inverted U-shape d 
+relationship between helping behavior and career growth: The me -
+diating role of role stressor a nd the moderating of job autonom y. 
+Human Resources Development of China, 37 (04), 51−63. 
+Choi, J. N. (2002). External activities and team effectiveness:  Review 
+and theoretical development. Small Group Research, 33 (2), 
+181−208. 
+de Jonge, J., Spoor, E., Sonnentag, S., Dormann, C., & van Den Tooren, 
+M. (2012). “Take a break?!” Off-job recovery, job demands, and 
+job resources as predictors of health, active learning, and cre ativity. 
+European Journal of Work & Organizational Psychology, 21 (3), 
+321−348. 
+Deng, C. P., Liu, X. J., & Mao, J. Y. (2018). The impacts of ch allenge 
+and hindrance stressors on the outcome of boundary spanning: Th e 
+moderated mediation effect of IT personnel’s learning under str ess-
+ors. Business Review, 30 (07), 150−163. 
+Dulac, T., Coyle-Shapiro, J. A., Henderson, D. J., & Wayne, S. J. 
+(2008). Not all responses to breach  are the same: The interconn ec-
+tion of social exchange and ps ychological contract processes in  or-
+ganizations. Academy of Management Journal, 51 (6), 1079−1098. 
+Edwards, J. R., & Lambert, L. S. (2007). Methods for integratin g mod-
+eration and mediation: a general analytical framework using mod -
+erated path analysis. Psychological Methods, 12 (1), 1−22. 
+Eschleman, K. J., Madsen, J., Alarcon, G., & Barelka, A. (2014) . Bene-
+fiting from creative activity: The positive relationships betwe en 
+creative activity, recovery experiences, and performance-relate d outcomes. Journal of Occupational & Organizational Psychology, 
+87(3), 579−598. 
+Faraj, S., & Yan, A. (2009). Boundary work in knowledge teams. 
+Journal of Applied Psychology, 94 (3), 604−617. 
+Fornel, C., & Larcker, D. F. (1981). Evaluating structural equa tion 
+models with unobservable variables and measurement error. Jour-
+nal of Marketing, 18 (1), 39−50. 
+Galperin, B. L. (2012). Exploring the nomological network of wo rk-
+place deviance: Developing and vali dating a measure of construc -
+tive deviance. Journal of Applied Social Psychology, 42 (12), 
+2988−3025. 
+Hair, J. F., Black, W. C., Bab in, B. J., Anderson, R. E., & Tat ham, R. L. 
+(2006). Multivariate data analysis  (Vol. 6). Upper Saddle River, NJ: 
+Pearson Prentice Hall. 
+Halbesleben, J. R. B., Neveu, J . P., & Paustian-underdahl, S. C . (2014). 
+Getting to the "COR": Understanding the role of resources in co n-
+servation of resources theory. Journal of Management, 40 (5), 
+1334−1364. 
+Hartog, D. N. D., & Belschak, F. D. (2012). When does transform a-
+tional leadership enhance employee proactive behavior? The role  of 
+autonomy and role breadth self-efficacy. Journal of Applied Psy-
+chology, 97 (1), 194−202. 
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt  a t  
+conceptualizing stress. American Psychologist, 44 (3), 513−524. 
+Hobfoll, S. E. (2001). The influence of culture, community, and  t h e  
+nested‐self in the stress proce ss: Advancing conservation of re -
+sources theory. Applied Psychology, 50 (3), 337−421. 
+Hobfoll, S. E., Freedy, J., Lane, C., & Geller, P. (1990). Cons ervation 
+of social resources: Social support resource theory. Journal of So-
+cial & Personal Relationships, 7 (4), 465−478. 
+Hobfoll, S. E., Halbesleben, J., Neveu, J. P., & Westman, M. (2 018). 
+Conservation of resources in the organizational context: The re ality 
+of resources and their consequences. Annual Review of Organiza-
+tional Psychology and Organizational Behavior, 5 (1), 103−128. 
+Hofstede, G., Hofstede, G. J., & Minkov, M. (2010). Cultures and 
+organizations: Software of the mind . New York: McGraw-Hill. 
+House, R. J., & Rizzo, J. R. (1972). Role conflict and ambiguit y as 
+critical variables in a model of organizational behavior. Organiza-
+tional Behavior & Human Performance, 7 (3), 467−505. 
+Hwang, P. C., Han, M. C., & Chiu, S. F. (2015). Role breadth 
+self-efficacy and foci of proactiv e behavior: Moderating role o f 
+collective, relational, and individual self-concept. The Journal of 
+Psychology, 149 (8), 846−865. 
+James, L. R. (1982). Aggregation bias in estimates of perceptua l 
+agreement. Journal of Applied Psychology, 67 (2), 219−229. 
+Kahn, R. L., Wolfe, D. M., Quinn, R. P., Snoek, J. D., & Rosent hal, R. 
+A. (1964). Organizational stress:  Studies in role conflict and ambi-
+guity. American Journal of Sociology, 10 (1), 125−129. 
+Katz, R., & Tushman, M. L. (1983). A longitudinal study of the effects 
+of boundary spanning supervisio n on turnover and promotion in r e-
+search and development. Academy of Management Journal, 26 (3), 
+437−456. 
+Kim, B. C. P., Murrmann, S. K., & Lee, G. (2009). Moderating ef fects 
+of gender and organizational le vel between role stress and job sat-
+isfaction among hotel employees. International Journal of Hospi-
+tality Management, 28 (4), 612−619. 
+Lebreton, J. M., & Senter, J. L. (2007). Answers to 20 question s about 
+interrater reliability and interrater agreement. Organizational Re-
+search Methods, 11 (4), 815−852. 
+Li, C. P., & Zhang, Y. (2019). The effects of role stressors on  physical 
+health and mental health among Chinese teachers. Psychological 
+Development and Education, 25 (1), 114−119. 
+Liao, H. Y., & Liang, Y. (2015). Self-sacrificial leadership an d em-
+ployee proactivity: An integrated model. Human Resources Devel-
+opment of China, (23), 28−37.   Acta Psychologica Sinica 
+ Liu, S. B., & Li, Y. H. (2014). A longitudinal study on the imp act 
+mechanism of employees’ boundary spanning behavior: Roles of centrality and collectivism. Acta Psychologica Sinica, 46 (6), 
+852−863. 
+Liu, S., Jiang, K., Chen, J., Pan, J., & Lin, X. (2018). Linkin g employee 
+boundary spanning behavior to task performance: The influence o f 
+informal leader emergence and group power distance. International 
+Journal of Human Resource Management, 29 (12), 1879−1899. 
+Marrone, J. A., Tesluk, P. E., & Carson, J. B. (2007). A multil evel 
+investigation of antecedents and consequences of team member 
+boundary-spanning behavior. Academy of Management Journal, 
+50(6), 1423−1439. 
+Miron-Spektor, E., Ingram, A., Keller, J., Smith, W. K., & Lewi s, M. 
+W. (2018). Microfoundations of organizational paradox: The prob -
+lem is how we think about the problem. Academy of Management 
+Journal, 61 (1), 26−45. 
+Parker, S. K. (1998). Enhancing role breadth self-efficacy: The  roles of 
+job enrichment and other organizational interventions. Journal of 
+Applied Psychology, 83 (6), 835−852. 
+Parker, S. K., Williams, H. M., & Nick, T. (2006). Modeling the  ante-
+cedents of proactive behavior at work. Journal of Applied Psychol-
+ogy, 91 (3), 636−652. 
+Paul, G., Scott, S., & Sarah , R. (2011). Boundary-spanning work  de -
+mands and their consequences for  guilt and psychological distre ss. 
+Journal of Health & Social Behavior, 52 (1), 43−57. 
+Podsakoff, P. M., MacKenzie, S. B., Lee, J., & Podsakoff, N. P.  (2003). 
+Common method biases in behavior al research: A critical review of 
+the literature and recommended remedies. Journal of Applied Psy-
+chology, 88 (5), 879−903. 
+Preacher, K. J., Zyphur, M. J., & Zhang, Z. (2010). A general m ulti-
+level SEM framework for asse ssing multilevel mediation. Psycho-
+logical Methods, 15 (3), 209−233. 
+Preacher, K. J., & Selig, J. P. (2012). Advantages of monte car lo con-
+fidence intervals for indirect effects. Communication Methods and 
+Measures, 62 (2), 77−98. 
+Ramarajan, L., Bezrukova, K., Jehn, K. A., & Euwema, M. (2011).  
+From the outside in: The nega tive spillover effects of boundary  
+spanners' relations with membe rs of other organizations. Journal of 
+Organizational Behavior, 32 (6), 886−905. 
+Rizzo, J. R., House, R. J., & Lirtzman, S. I. (1970). Role conf lict and 
+ambiguity in complex organizations. Administrative Science Quar-
+terly, 15 (2), N/A. 
+Singh, J. (1998). Striking a bala nce in boundary-spanning posit ions: An 
+Investigation of some unconventional influences of role stresso rs 
+and job characteristics on job outcomes of salespeople. Journal of Marketing, 62 (3), 69−86. 
+Song, M., Wang, Z., & Zhang, H. L. (2017). Understanding the re
+la-
+tionship between leader boundary s panning behavior and team in-
+novation: A knowledge management perspective.  Management Re-
+view, 29 (3), 126−135. 
+Wang, G. F., Han, P., & Yang, X. H. (2014). Effects of role str ess and 
+negative mood regulation expectancies on work engagement in 
+prison police: Mediating effect of proactive coping. Chinese Jour-
+nal of Clinical Psychology, 22 (06), 1095−1098. 
+Wang, H. L., & Zhang, Q. J. (2016). The cost of feeling trusted : The 
+study on the effects of feeling trusted from supervisor, role o verload, 
+job stress and emotional exhaustion. Management World, (8), 
+110−125. 
+Wang, S. Y., Liu, H., & Liu, R. Q. (2017). Effects of workload bound-
+ary on employees’ emotional exha ustion: The mediating role of r ole 
+stress. Journal of Zhejiang Gongshang University, (2), 79−89. 
+Wang, Y. Y., Meng, R., Li, J., Wang, J. Y., Hu, T., Zhao, X. Q. , & Gan, 
+Y. Q.(2011). The Mediation effect  of emotion focused coping be-
+tween occupational stress a nd emotional exhaustion. Psychological 
+Research, 04 (5), 60−66. 
+Wu, Y., & Wen, Z. L. (2011). Item parceling strategies in struc tural 
+equation modeling. Advances in Psychological Science, 19 (12), 
+1859−1867. 
+Xu, J. Z., & Qu, X. Y. (2014). The relationship among team's bo undary 
+spanning behavior, knowledge trading and team creativity: An em -
+pirical study based on equipmen t manufacturing enterprise. Science 
+of Science and Management of S. & T., (7), 151−161. 
+Xu, L. (2019). Boundary spanning be havior, team trust and team inno-
+vation performance: Mediation e ffect of resource depletion. Science 
+& Technology Progress and Policy, 36 (6), 11−18. 
+Yu, H. B., Fang, L. L., & Ling, W. Q. (2004). Issues on multile vel 
+research of organizations. Advances in Psychological Science, 
+12(02), 462−471. 
+Zhang, D. L., & Ge, Y . H. (2016). Relationship between top mana ge-
+ment team boundary-spanning be havior and the innovation per-
+formance of enterprises: A perspective of team learning. Journal of 
+Systems & Management, 25 (2), 235−245. 
+Zhou, J., & George, J. M. (2001). When job dissatisfaction lead s to 
+creativity: Encouraging the expression of voice. Academy of Man-
+agement Journal, 44 (4), 682−696. 
+Zhu, J. Q., Xu, S. Y., & Zhang, L. H. (2018). “Being lenient an d being 
+strict helping each other” promot es subordinates’ innovation: B ased 
+on the view of Yin-Yang. Nankai Business Review, 21 (5), 202−214. 
+ 
+ 

@@ -1,0 +1,790 @@
+An Empirical Investigation of Innovation and
+Community Development through Information
+and Communication Technology
+Michael Gordon, Vijay Dakshinamoorthy, Li Wang, and Allen Hammond
+Abstract- Recently, discussion has begun to consider serving
+the base of the economic pyramid for business and
+societal
+benefit. Suggestions for so doing have focused on business model
+innovation, improving internal capabilities, promoting stronger
+governance, and providing leapfrog technologies (such as ICT) to
+promote effective change.
+We consider the questions of what
+types of innovation are occurring when businesses and other
+organizations enter the base of the pyramid and what types of
+social, economic, and consumer
+benefits they bring
+to
+local
+communities. We base our findings on an analysis of more than
+1,000 cases describing base of the pyramid activities.
+Index Terms- Developing Nations, Information Technology,
+Social Factors, Technological Innovations
+I.
+INTRODUCTION
+BUSINESS and technology are both regarded as new spurs to
+economic development among the very poor.
+Prahalad
+and Hart [1] and Prahalad and Hammond [2] coined the
+phrase "bottom (or base) of the pyramid" to describe the
+concentration of people living on less than a dollar a day.
+They
+also
+indicated
+the
+kinds
+of business
+benefits
+to
+companies that serve them, as well as the local benefits to the
+communities that they serve. Hammond and others [3] have
+championed the role of technology in development as another
+tool by which the poor in the developing world can be brought
+closer to the economic mainstream.
+Economic arguments
+suggesting the benefits of ICT for development have been
+made [4] in addition to broader based arguments touting the
+advantages for businesses seeking opportunity to enter new
+markets and serve the poor [5][6].
+The World Resource Institute's Digital Dividend project has
+collected
+over
+1,000
+examples
+of organizations
+that
+are
+deploying information and communications technology at the
+base
+of the
+pyramid
+(www.digitaldividend.org).
+These
+Manuscript received December 21, 2005.
+Michael Gordon is a professor at the Stephen Ross School of Business,
+University
+of
+Michigan,
+Ann
+Arbor,
+MI
+48109
+USA
+(e-mail:
+Vijay Dakshinamoorthy is a PhD student at the Stephen Ross School of
+Business, University of Michigan, Ann Arbor, MI 48109 USA (phone: 734-
+647-7667; e-mail: vdakhinabuc).
+Li Wang
+is a PhD student at the Stephen Ross School of Business,
+University
+of
+Michigan,
+Ann
+Arbor,
+MI
+48109
+USA.
+(E-mail:
+Allen Hammond is Vice President of Special Projects and Innovation at the
+World Resources Institute, Washington D.C., USA (e-mail: all
+i o).
+projects
+occur around the world and cover a variety of
+activities and
+sectors.
+Gordon
+et
+al
+[8]
+gives
+a careful
+statistical depiction of these projects.
+Paul et al [9] gives a
+descriptive
+overview
+of the
+cases
+within
+the
+repository,
+describing them according to the various activities that they
+represent.
+What has been lacking
+is a more complete and careful
+understanding of the types of innovations that are taking place
+at the base of the pyramid and the types of benefits they are
+providing to local communities.
+This paper helps explore
+those issues, providing both new insights and indications of
+profitable areas for future research.
+II.
+BACKGROUND
+A.
+Data Analysis
+The original digital dividend case base consisted of over
+1,000 case capsules collected over the last five years.
+Each
+case contained a short abstract plus some meta-data describing
+the case's location, activity type, sponsorship, sector, etc. We
+sought to extend these descriptions by identifying for each
+case the type of innovation that it embraced and the types of
+benefit it produced.
+Specifically, for each case we sought to
+indicate whether the primary type of innovation it embodied
+was technology-focused or business-focused (see Table 1).
+(It
+is important to remember, however, that even descriptions that
+were coded
+as "business
+innovations" had
+a strong ICT
+component.) We also sought to indicate the types of benefits
+that flowed to local communities where the innovation was
+occurring (see Table 2).
+To ensure reliable descriptions of innovations and benefits,
+two individuals, who read the original abstracts provided in
+the digital dividend cases as well as pertinent information
+obtained from cases' underlying websites coded each case
+separately.
+A third individual compared the two encodings
+and made a final determination about how to code the case if
+there were any discrepancies.
+The coding for each case
+allowed
+a
+single
+highest-level
+"primary
+innovation"
+(technological or business innovation) with supporting detail
+(see Table 1) and up to two local benefits with supporting
+detail
+(see
+Table
+2).
+The taxonomy was developed
+in
+conversation with two research centers emphasizing the base
+of the pyramid, each contributing its theoretical and practical
+insights.
+ISBN: 1-4244-0485-1/06/$20.00 © 2006 IEEE
+218
+May 25-26, 2006
+ICTD 2006
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:51:26 UTC from IEEE Xplore.  Restrictions apply. 
+
+TABLE I
+FIRST 3 LEVELS OF CODING FOR INNOVATION
+Technological Innovations
+Re-purposed Western technology
+Extended communication / improved information
+Business Innovations
+Value Chain Innovation
+Supply chain
+Manufacturing
+Distribution
+Novel marketing
+Organizational Innovations
+Managerial leverage
+New types of social contracts
+Product / Service Innovations
+Sizing /"sachets"
+Language / literacy
+New product features
+Slimmed down feature set
+New product category
+III.
+RESULTS AND ANALYSIS
+A.
+Innovations and Local Benefits
+The number of cases with a primarily technological benefit
+(521) and a primarily business benefit (527) was nearly
+TABLE II
+FIRST 3 LEVELS OF CODING FOR LOCAL BENEFITS
+Benefits to Local Citizens
+Consumer benefits
+New product / service viable to provide
+Improved fulfillment
+Better prices
+Expanded choices
+Economic benefits
+Job creation
+New types ofjobs created
+Local business ownership
+Acquisition of business skills
+Reliable access to capital
+Access to new markets
+Greater share ofvalue extraction
+Social benefits
+Cultural preservation
+Empowerment ofwomen
+Improved healthcare
+Improved education
+identical.
+We compared these two types of innovations
+against any local benefits that they produced.
+The
+distribution
+of
+both
+technological
+and
+business
+innovations is shown in Table 3.
+Local
+Benefits
+Consumer
+Economic
+Social
+TABLE III
+DISTRIBUTION OF BENEFITS BY INNOVATION TYPE
+Technological
+Business Innovation
+Innovation
+317
+236
+131
+266
+343
+288
+Casual
+inspection of this table
+suggests
+that when an
+innovation
+is business-focused,
+it produces more economic
+benefits to local citizens (in the form of more or better jobs,
+better opportunities for local businesses, or a greater share of
+the
+economic
+value
+brought
+about).
+Several
+logistical
+regressions
+confirmed
+this
+observation.
+We
+regressed
+"economic
+local
+benefits"
+on
+the
+binary
+variable
+"technological innovation."
+Business innovations (i.e., non-
+technological)
+had
+more
+impact
+than
+technological
+innovations in producing economic benefits (p < .001).
+When local citizens' economic benefits were examined at
+the next level of detail (the most detailed level shown in Table
+2), the same results held:
+business innovations had greater
+impact
+in producing new jobs, new types of jobs,
+local
+business ownership, new business skills, access to capital and
+markets, and greater share of value extraction. Each of these
+was
+statistically significant with the exception of reliable
+access to capital. Thus while technology-driven innovation is
+approximately
+equivalent
+to
+business
+innovation
+(brought
+about through ICT) in attracting capital, all other forms of
+local economic benefits favor innovation in which ICT
+is
+employed
+in the
+service of business
+innovation.
+This
+is
+consistent with the perceived wisdom
+that technology
+is
+effective for business and economic value creation when it is
+used in the service of enabling the underlying operations of
+organizations.
+The
+magnitude
+of
+the
+difference
+in
+technological
+vs.
+business
+innovation
+was
+greatest
+in
+promoting job creation, new forms of employment, and access
+to new markets.
+Local citizens also receive differential social impact from
+ICT innovations depending on whether they are primarily
+technology-focused
+or
+business-focused.
+We
+logistically
+regressed
+"social
+local
+benefits"
+on
+the
+binary
+variable
+"technological innovation."
+Technological innovations had
+more impact than business innovations in producing social
+benefits (p < .001). However, a finer-grained analysis showed
+that all social benefits were not affected similarly.
+Improved
+healthcare was brought about to a much larger degree by
+technology-focused innovations than by business innovations
+(p < .001).
+Since nearly 80% of all technological innovations
+were directed at extending communication and information
+access, these results show the critical role of information in
+improving
+healthcare
+among
+the
+poor.
+In
+contrast
+to
+healthcare,
+business-focused
+ICT
+innovations
+produced
+greater impact in promoting the empowerment of women (p <
+.001).
+Technology innovations had
+a greater impact on
+improving education and preserving culture, but neither of
+these effects was statistically significant.
+Overall, consumer benefits to local citizens are also more
+effectively
+enhanced
+by
+technological
+(as
+compared
+to
+business) innovations (p < .001). Consumer benefits are those
+that improve local citizens' consumption options. Technology
+innovations had comparatively more impact than business
+May 25-26, 2006
+ICTD 2006
+ISBN: 1-4244-0485-1
+219
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:51:26 UTC from IEEE Xplore.  Restrictions apply. 
+
+innovations in making it possible and practical to provide new
+products or services (p < .05) and providing interactions with
+customers that were more convenient, more pleasant, or more
+respectful (p < .001).
+However, business innovations were
+more effective than technology innovations at reducing prices
+to
+consumers
+(p
+<
+.01).
+This
+suggests
+that
+business
+innovations are key to changing underlying economics, even
+as technology innovations are instrumental in making them
+possible in the first place.
+B.
+Characteristics ofTechnology
+The original encoding in the digital dividends database listed
+one or more activity types for each case.
+These activities
+included a mix of both what may be deemed "enablers" (such
+as providing rural telephony) and "effects" (such as computer
+training, agriculture, or empowering the disabled). We sought
+to understand the enablers in relationship with the benefits
+they produced.
+Table 4 (end of paper) shows how these
+enablers were distributed with respect to both technology-
+focused and business-focused innovations.
+Separately, we performed logistic regressions to see the
+effect of each enabler on technological innovation.
+Satellite,
+handheld,
+and
+radio
+were
+strongly
+associated
+with
+technological innovation (p < .001,
+.01,
+.01
+respectively).
+Enabling hardware and software were both associated with
+technological innovation at a statistically significant level as
+well (p < .05). Though no other coefficients were significant,
+each was in the "expected direction" of favoring technology
+over business innovation, except for mobile phones, whose
+negative coefficient meant this technology was more closely
+associated
+with
+business
+innovation
+than
+technology
+innovation (p < .10).
+It is difficult to interpret this last result.
+Ubiquity does not account for it, since radios (with a high
+level of penetration in the developing world) [10] have not led
+to business innovation whereas mobile phones (becoming
+ubiquitous as well) have.
+Neither does portability (handheld
+and mobile phones are equally portable).
+As a hypothesis,
+technological enablers that provide users with access to the
+information that they desire, when they desire
+it, may best
+support business
+innovation.
+Mobile phones,
+telecenters
+(which provide voice and internet connectivity), and rural
+telephony
+- the technologies
+most
+consistently
+used
+for
+business innovation- each provide users with instantaneous
+access to a wide variety of information and thus may be best
+positioned to support business innovations.
+The technology enablers can also be examined to see the
+types of local benefits that each provides (see Table 5 at the
+end of the paper).
+We were interested in knowing whether there were patterns
+between the enablers and the local benefits they provide. An
+overall chi-squared test rejected the null hypothesis that the
+distribution of rows and columns is statistically independent (p
+< .01).
+In other words, there are patterns in the overall data
+between enablers and local benefits.
+When columns were
+compared, the distribution of local benefits for telecenters was
+different than for any other enabler except radio.
+Telecenters
+and radio, in fact, are the only enablers for which the number
+of instances of social benefits exceeds the numbers of both
+consumer and economic benefits.
+(For every other type of
+enabler, consumer benefits were the largest category.) Recall
+that
+social
+benefits
+include
+improved
+healthcare
+and
+education,
+cultural preservation, and the empowerment of
+women. Of all the enablers, telecenters and radio may be the
+most community-based.
+Radio, by
+its very nature
+as
+a
+broadcast
+medium,
+provides
+common
+information
+to
+a
+community.
+Likewise, telecenters often serve as information
+portals, thus again unifying a community on the basis of
+information.
+The community nature of telecenters and radio
+may explain why these technologies are most effective in
+promoting social benefits.
+IV.
+CONCLUSIONS AND SUMMARY
+This paper examined over 1,000 cases drawn from the base
+of the pyramid to begin to understand the types of innovations
+that they embodied and the benefits they provided to local
+communities.
+In an attempt to gain a full statistical picture of
+what is happening at the base of the pyramid with respect to
+information
+and
+communication
+technology,
+we
+have
+encountered a sampling bias:
+items included in the database
+we examined were likely entered as illustrating some level of
+success.
+Efforts that had failed entirely most likely escaped
+the attention of the researchers who constructed the database.
+Thus the results we have shown can all be thought of as being
+drawn from a pool of (at least limited) success stories.
+In this
+important context, we have indicated what is happening on the
+ground in terms of innovation, social and economic benefits.
+Our
+results show
+that economic
+benefits
+such
+as job
+creation are more often produced when the innovation focuses
+on
+changing
+an
+organization's
+value
+chain,
+its
+internal
+organization,
+or the products or services
+it provides.
+In
+contrast,
+social benefits (such
+as improved healthcare
+or
+improved
+education)
+are
+more
+often
+produced
+from
+technology focused innovations, though the empowerment of
+women
+is better served from business-focused innovation.
+Consumer innovations provide a mixed picture as well, with
+better prices being
+the
+result of business
+innovation but
+technology innovations making the provision of certain goods
+and services possible at all and, in other cases, providing them
+in ways that are much more sensitive to local citizens' needs
+for respectful treatment.
+The technologies that are the backbone of many innovations
+were examined
+as
+well.
+Mobile phones were the only
+technology
+playing
+a
+more
+prominent
+role
+in
+business
+innovation than technology innovation, though telecenters and
+rural telephony each were involved in approximately half
+technology innovations, and half business innovations.
+We have left unexamined here the role of innovation in
+providing benefits to the companies or organizations (NGO or
+governmental agency) that support them. That is the topic of
+another paper [11], which, together with the current paper,
+shed light on the innovations ICT is producing at the base of
+the pyramid and the benefits that flow from them.
+APPENDIX
+Table IV - Joint distribution of enabling technology and
+innovation types
+Table V - Joint distribution of enablers and local benefits
+May 25-26, 2006
+ICTD 2006
+ISBN: 1-4244-0485-1
+220
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:51:26 UTC from IEEE Xplore.  Restrictions apply. 
+
+ACKNOWLEDGMENT
+The authors would like to acknowledge the support of Jim
+Walsh in this research study. We would also like to thank Kurt
+Beyerchen and Aaron Dombrowski for their help
+in data
+analysis.
+REFERENCES
+[1]
+C. K. Prahalad and S. L. Hart, "The fortune at the bottom of the
+pyramid," Strategy + Business, vol. 26, pp. 55-67, 2000.
+[2]
+C. K. Prahalad and A. Hammond, "Serving the world's poor
+profitably," Harvard Business Review, pp. 4-11, 2002.
+[3]
+A. Hammond, E. Jenkins, W. Kramer, and J. Paul, "Innovation
+And The Social Enterprise: Creating Development Value At The
+Village Level," World Resources Institute, 2003, pp. 32.
+[4]
+K. Eggleston, R. Jensen, and R. Zeckhauser, "Information and
+Communication Technologies, Markets, and Economic
+Development," in The Global Information Technology Report
+2001-2002: Readinessfor the Networked World, G. K. e. al., Ed.:
+Oxford University Press, 2002.
+[5]
+A. Hammond and E. Jenkins, "Bottom-Up, Digitally-Enabled
+Development: A Vision," in iMP Magazine, 2001.
+[6]
+J. Gage, "Some Thoughts on How ICTs Could Really Change the
+World," in The Global Information Technology Report 2001-2002:
+Readinessfor the Networked World, G. K. e. al., Ed.: Oxford
+University Press, 2002.
+[7]
+Digital Dividend project website
+[8]
+M. Gordon, L. Wang, and A. Hammond, "Exploring the Base of
+the Pyramid: An Empirical Study of Cases from the Field,"
+Unpublished, 2005.
+[9]
+J. Paul, R. Katz, and S. Gallagher, "Lessons from the field: An
+overview of the current uses of Information And Communication
+Technologies for development," World Resources Institute,
+Washington D.C. November 2004.
+[10]
+G. Kirkman, C. A. Osorio, and J. D. Sachs, "The Networked
+Readiness Index: Measuring the Preparedness ofNations for the
+Networked World," in The Global Information Technology Report
+2001-2002: Readinessfor the Networked World, G. Kirkman, Ed.:
+Oxford University Press, 2002.
+[11]
+M. Gordon, V. Dakshinamoorthy, L. Wang, and A. Hammond,
+"Understanding benefits and innovations at the base of the pyramid
+(tentative)," Unpublished, 2005.
+May 25-26, 2006
+ICTD 2006
+ISBN: 1-4244-0485-1
+221
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:51:26 UTC from IEEE Xplore.  Restrictions apply. 
+
+TABLE IV
+JOINT DISTRIBUTION OF ENABLING TECHNOLOGY AND INNOVATION TYPES
+Enablers
+Hardware
+Software
+Handheld
+Mobile Phone
+Smart
+Tele-
+Radio
+Rural
+Satellite
+Innovation
+General
+card
+center
+Telephony
+Technological
+21
+41
+45
+18
+4
+13
+130
+25
+22
+50
+Business
+12
+22
+25
+3
+11
+6
+125
+8
+20
+8
+Total
+33
+63
+70
+21
+15
+19
+255
+33
+42
+58
+TABLE V
+JOINT DISTRIBUTION OF ENABLERS AND LOCAL BENEFITS
+Enablers
+Hardware
+Software
+Handheld
+Mobile Phone
+Smart card
+Tele-
+Radio
+Rural
+Satellite
+Local Benefit
+General
+center
+Telephony
+Consumer
+Economic
+Social
+24
+8
+12
+51
+14
+23
+54
+20
+31
+18
+4
+14
+13
+5
+1
+14
+139
+8
+91
+11
+165
+21
+7
+24
+34
+11
+15
+38
+17
+35
+May 25-26, 2006
+ICTD 2006
+ISBN: 1-4244-0485-1
+222
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:51:26 UTC from IEEE Xplore.  Restrictions apply. 

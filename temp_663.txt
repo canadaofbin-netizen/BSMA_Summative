@@ -1,0 +1,1077 @@
+Green strategic intent, artificial intelligence capability and behavioral 
+dynamics of achieving circular economy goals in the public sector☆
+Nadia Zahoora,b,*, Muhammad Usmanc, Adeel Khalidd, Mohamed Gamal Aboelmagedc,  
+Naveed Yasine
+aDepartment of Business and Society, Queen Mary University of London, UK
+bInnoLab, University of Vaasa, Finland
+cCollege of Business Administration, University of Sharjah, United Arab Emirates
+dBusiness School, University of Aberdeen, Aberdeen, UK
+eAbu Dhabi School of Management, Abu Dhabi, United Arab Emirates
+ARTICLE INFO
+Keywords:
+Green strategic intent
+AI capability
+Green learning ambidexterity
+Leader boundary-spanning behavior
+Circular economy practicesABSTRACT
+This study investigates the role of green strategic intent in facilitating the adoption of circular economy practices 
+within public sector organizations. Using the dynamic capability view, we proposed that green strategic intent 
+leads to circular economy practices. We also proposed that artificial intelligence (AI) capability and green 
+learning ambidexterity act as significant underlying mechanisms and leader boundary-spanning behavior as a 
+moderator. Data were collected from 228 managers of various public sector departments in United Arab Emirates 
+(UAE) using a time-lagged design. Our results supported that there is a positive relationship between green 
+strategic intent and circular economy practices. Further, green strategic intent positively influences circular 
+economy practices through AI capability and green learning ambidexterity that act as serial mediators of the 
+green strategic intent-circular economy practices link. Finally, leader boundary-spanning behavior significantly 
+moderates the effects of green strategic intent on AI capability. Our findings offer important insights that can 
+enable public sector organizations to implement circular economy practices.
+1.Introduction
+The circular economy has emerged as a transformative paradigm for 
+promoting sustainable development in the public sector (Klein et al., 
+2022 ; Monciardini et al., 2024 ). The primary objective of circular 
+economy is to challenge the unsustainable linear models by focusing on 
+the continual recycling, repurposing, repairing, renewing, and opti-
+mizing of resources, materials, and processes to reduce waste and 
+maximize resource efficiency (Joensuu et al., 2020 ; Morseletto, 2020 ). 
+By implementing circular economy principles, public authorities can 
+improve environmental quality, achieve sustainable goals and foster 
+economic growth (Harris et al., 2021 ; Marrucci et al., 2021 ; Obeidat 
+et al., 2023 ). Nevertheless, integrating circular economy practices con-
+tinues to be a challenging task (Kua et al., 2024 ). In contrary to private 
+companies, public organizations often face complex bureaucratic 
+structures and conflicting stakeholder interests, which can impede sus-
+tained growth, and influence long-term environmental strategies and sustainable goals.
+At the helm of this quest is the green strategic intent as a rhetorical 
+device to challenge conventional thinking. Green strategic intent reflects 
+an organization ’s long-term commitment and vision to embed envi-
+ronmental responsibility into strategic priorities (Jirakraisiri et al., 
+2021 ). It encourages public institutions to align operations with sus-
+tainability goals and develop capabilities that support circular economy 
+practices (Ling, 2019 ). While a handful of studies suggest that green 
+strategic intent can positively drive circular economy practices 
+(˘Cwiklicki and Pawe łek, 2025 ; Puglieri et al., 2022 ), the mechanisms 
+through which green strategic intent drives circular economy practices 
+in the public sector remain enigmatic (Fadeeva and Van Berkel, 2021 ). 
+Specifically, it remains unclear how merely green strategic intent en-
+ables the adoption of circular economy practices by public organiza -
+tions. Our study seeks to unpack this black box by examining how green 
+strategic intent allows the public authorities to embrace sustainability 
+initiatives and ultimately adopt circular economy practices, as well as 
+☆This article is part of a special issue entitled: ’Public Sector in High Gear ’ published in Technological Forecasting & Social Change
+*Corresponding author at: Queen Mary University of London, UK.
+E-mail addresses: n.zahoor@qmul.ac.uk (N. Zahoor), maboelmaged@sharjah.ac.ae (M.G. Aboelmaged), N.yasin@adsm.ac.ae (N. Yasin). 
+Contents lists available at ScienceDirect
+Technological Forecasting & Social Change
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2�omsq{~o
+https://doi.org/10.1016/j.techfore.2025.124362
+Received 25 December 2024; Received in revised form 5 September 2025; Accepted 15 September 2025  Technological  Forecasting  & Social  Change  221 (2025)  124362  
+Available  online  25 September  2025  
+0040-1625/©  2025  The Authors.  Published  by Elsevier  Inc. This is an open access  article  under  the CC BY-NC-ND  license  ( http://creativecommons.org/licenses/by-  
+nc-nd/4.0/  ). the boundary conditions that hinder or foster this process.
+We draw insights from the dynamic capability view (Teece et al., 
+1997 ) to explain how and when green strategic intent promotes circular 
+economy practices. In particular, we introduce artificial intelligence (AI) 
+capability and green learning ambidexterity as key mechanisms through 
+which green strategic intent drives circular economy practices. We 
+theorize that green strategic intent represents a high-order capability 
+that helps organizations sense, seize, and transform in response to 
+environmental challenges. AI capability is explained as an ability of a 
+firm to select, orchestrate, and leverage its AI-specific resources (Mikalef 
+and Gupta, 2021 ), which in turn contribute to circular economy goals by 
+improving demand forecasting, minimising waste, and optimizing 
+resource flows (Nishant et al., 2020 ; Kulkov et al., 2024 ). Similarly, 
+green learning ambidexterity —the capacity to simultaneously exploit 
+existing environmental knowledge and explore new green solutions is 
+vital in enabling public organizations to adapt and innovate sustainably 
+(Chung et al., 2015 ; Clauss et al., 2021 ). Due to resource limitations and 
+structural complexity that public institutions often face, fostering green 
+learning ambidexterity enables them to consistently adapt their prac-
+tices to environmental requirements. Together, these capabilities —AI 
+and green learning ambidexterity —serve as critical mechanisms 
+through which green strategic intent is actualised in practice, enabling a 
+shift toward circular economy models. Moreover, we propose that the 
+influence of green strategic intent on these capabilities is moderated by 
+leader boundary-spanning behavior, which involves actions to acquire 
+external resources, build relationships, and foster collaboration (Salem 
+et al., 2018 ; Song et al., 2023 ). Leaders with strong boundary-spanning 
+behaviours are more likely to mobilise support and access critical 
+knowledge, amplifying the impact of strategic intent on capability 
+development.
+The current study contributes to the literature on sustainability and 
+circular economy. First, we advance the circular economy literature by 
+introducing a pivotal antecedent (i.e., green strategic intent) of circular 
+economy practices (Bassi and Dias, 2019 ; Joensuu et al., 2020 ; Walker 
+et al., 2022 ) within the public sector. Prior research has largely focused 
+on the outcomes and challenges of circular practices (Khan and Haleem, 
+2021 ; Marrucci et al., 2021 ; Obeidat et al., 2023 ) often overlooking the 
+strategic drivers that enable such transitions in public institutions. By 
+conceptualizing green strategic intent as a high-order capability that 
+shapes public institutions vision and commitment toward environ -
+mental sustainability, our study uncovers how long-term environmental 
+aspirations translate into tangible circular practices. This contributes a 
+novel strategic lens to circular economy research, which has predomi -
+nantly examined operational and regulatory aspects. Second, our study 
+contributes to the outcomes of green strategic intent. Existing studies 
+suggest that green strategic intent leads to several positive outcomes 
+including green human resource management practices, and green 
+relational capital (Jirakraisiri et al., 2021 ; Obeidat et al., 2023 ). We 
+extend this literature by showing that green strategic intent leads to 
+circular economy practices within the public sector context.
+Third, this study highlights the key yet overlooked role of AI capa-
+bility and green learning ambidexterity as mediators of the link between 
+green strategic and circular economy practices. By identifying AI capa-
+bility and green learning ambidexterity as critical mechanisms, our 
+study unpacks the “black box” of how strategic intent translates into 
+circular economy practices. AI capability enhances resource optimiza -
+tion and waste minimization (Mikalef and Gupta, 2021 ; Nishant et al., 
+2020 ), while green learning ambidexterity enables simultaneous 
+exploitation of existing knowledge and exploration of innovative green 
+solutions (Chung et al., 2015 ; Clauss et al., 2021 ). This contribution 
+enriches circular economy scholarship by providing a theoretically 
+grounded explanation of the mechanisms through which high-order 
+strategic intent fosters sustainable practices (e.g., ˘Cwiklicki and Pawe -
+łek, 2025 ; Puglieri et al., 2022 ).
+Finally, the contemporary study signifies that leader boundary 
+spanning behavior in enhancing green strategic intent on AI capability, green learning ambidexterity, and circular economy practices. Prior 
+studies indicate that leader boundary spanning behavior is associated 
+with positive outcomes, such as creativity and performance at work -
+place (Kim et al., 2022 ; Liu et al., 2018 ). By revealing leader boundary 
+spanning behavior as a boundary condition of green strategic intent and 
+AI capability link, we contribute to this stream of literature. Our pro-
+posed model is presented in Fig. 1.
+2.Theory and hypotheses development
+2.1. Dynamic capability view
+We use the dynamic capability view to explain the proposed hy-
+potheses, since it is appropriate and robust framework for describing 
+how organizations adjust and change in response to changing external 
+challenges (Teece et al., 1997 ; Teece, 2007 ). Resource-based view (RBV) 
+is often criticized for its static focus and limited attention to environ -
+mental dynamism (Bowman and Ambrosini, 2003 ; Wu, 2010 ), despite it 
+emphasizes the significance of valuable, rare, and unique resources to 
+gain competitive advantage (Barney, 1991 ).
+In contrary, dynamic capability view builds on RBV, but extends it by 
+focusing on how firms develop, reconfigure, and advances internal and 
+external resources to address the environmental changes, thus, making it 
+more appropriate theoretical framework for the current research. 
+Importantly, dynamic capability view highlights how crucial it is to 
+possess knowledge, expertise, and skills that can change a company ’s 
+present resources, practices, and business operations (Ye et al., 2022 ). 
+More precisely, the capacity of the business to innovate and adapt in 
+response to the internal and external challenges and changing envi-
+ronment (Gupta et al., 2020 ). Dynamic capabilities emerge from the 
+business processes, practices, and actions that integrate, develop, and 
+reorganize internal and external expertise and skills to address rapidly 
+changing business settings (Vogel and Güttel, 2013 ; Wu, 2010 ).
+Dynamic capability comprises three elements: sensing, seizing, and 
+reconfiguring (Teece, 2007 ). The ability of an organization to investi -
+gate and recognize opportunities both inside and outside of its bound -
+aries, as well as across its whole business value network and ecosystem, 
+is referred to as sensing (Teece, 2007 ). It entails understanding cus-
+tomers ’ needs as well as company requirements, developing R&D and 
+technology, and being informed and aware of the innovations produced 
+by business partners (Teece, 2007 ). Businesses regularly seek business 
+possibilities within and outside of their network to gain a competitive 
+edge and drive growth (Gupta et al., 2020 ). Seizing occurs once the 
+company has sensed the opportunity; it is defined as realizing the 
+opportunity ’s potential and value (Teece, 2007 ). It comprises estab -
+lishing enterprise boundaries and taking proactive measures to capi-
+talize on new trends, changes in the market, and evolving business needs 
+(Teece, 2007 ). Lastly, reconfiguring includes transforming and reor-
+ganizing organizational resources, and structure in response to evolving 
+external environment (Teece, 2007 ). Reconfiguration is essential to 
+ensure that the business effectively take advantage of identified oppor -
+tunities and tend to mitigate perceived risks (Vogel and Güttel, 2013 ). 
+Essentially, the dynamic capability view emphasizes how critical it is to 
+recognize opportunities, act quickly to take advantage of them, and 
+adjust organizational structure or processes to fully utilize the business 
+potential that has been identified.
+2.2. Green strategic intent and circular economy practices
+Teece (2007) argues that businesses first identify and evaluate the 
+internal and external settings that offer opportunities and emerging 
+trends for sustained growth and meet emerging needs by planning 
+proactive strategic initiatives and actions, altering their organizational 
+structure and operations to take advantage of these business prospects. 
+Indeed, an organization ’s strategic vision or direction is essential for 
+keeping them informed about markets and business avenues as well as N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+2 for fostering innovation and creativity within the value chain network 
+that supports the success of the company (Khalid et al., 2024 ). In the 
+current study, we chose green strategic intent since it provides clear 
+future directions, obsession, and commitment to green strategies and 
+environmentally responsible actions across the organization (Jirakraisiri 
+et al., 2021 ) to address the environmental challenges. The literature 
+clearly shows that long-term success requires identifying opportunities, 
+planning actions to seize them, and adapting and integrating firm op-
+erations and activities with the changing business needs and environ -
+ment (Gupta et al., 2020 ; Teece et al., 1997 ). As such, we argue that 
+green strategic intent guides the firm on how to adopt and implement 
+circular economy practices to achieve sustainable development goals, 
+mitigate environmental impact, and optimize the resources in public 
+sectors. It encourages businesses to continuously innovate operations, 
+processes, knowledge, and skills to maintain competitive advantage and 
+accommodate the environmental challenges in the dynamic business 
+environment.
+Strategic intent focuses on long-term but realistic objectives, assist 
+businesses to establish competitive position, succeed in the market, and 
+encourage them to engage in continuous learning and development 
+(Mariadoss et al., 2014 ). Companies are constantly informed through 
+strategic intent, which provides them with precise guidelines and a 
+pathway to achieve their goals (DeMartino et al., 2012 ; Seepana et al., 
+2021 ). Through green strategic intent, firms can effectively align their 
+business operation and activities with circular economy principles ulti-
+mately leading to a more sustainable world. Green strategic intent fos-
+ters a culture of sustainability across the firm and ensures that green 
+strategies are embedded throughout the business processes and activ-
+ities (Khalid et al., 2024 ). Green strategic intent encourages firms to 
+develop innovative solutions and eco-friendly market offerings (Obeidat 
+et al., 2023 ), which in turn enable public sectors and organizations to 
+implement circular economy practices. Green strategic intent ensures 
+that resources are optimised and effectively allocated to the business 
+activities (Jirakraisiri et al., 2021 ) ultimately contributing to circular 
+economy principles. Indeed, companies that prioritize green strategic 
+intent can reduce waste by creating products that are recyclable, 
+remanufactured, repairable, and reused. Thus, it assists public sector 
+organizations in addressing environmental challenges and meeting the 
+diverse needs of the society. This adaptability enables them to seize 
+market opportunities and prioritize continuously adopting sustainable 
+economic practices in public sectors and organizations. Therefore, we 
+argue that green strategic intent positively contributes to circular 
+economy practices. Together, we develop the following hypothesis. 
+H1.Green strategic intent is positively related to circular economy 
+practices.2.3. Green strategic intent and AI capability
+AI capabilities have the potential to bring changes in society and 
+industries by transforming how tasks are performed, decisions are made, 
+and services are delivered (Allioui and Mourdi, 2023 ; Dwivedi et al., 
+2021 ). Through AI capabilities, firms can innovate and improve their 
+operations, processes, practices, market offerings, and overall perfor -
+mance of the business (Mikalef and Gupta, 2021 ; Neiroukh et al., 2024 ). 
+Studies suggest that AI capabilities can enable firms to mitigate waste, 
+reduce energy usage, and optimize their entire value chain, leading to 
+sustainable business practices (Bag et al., 2021 ; Liu et al., 2023 ).
+Seen through the lens of dynamic capability view, which emphasizes 
+on an organization ’s ability to identify and seize opportunities and 
+transform resources in response to environmental changes (Teece et al., 
+1997 ). Green strategic intent is a higher-order dynamic capability that 
+allows public organizations to invest in AI technologies, predict envi-
+ronmental needs and demands, and modify internal processes accord -
+ingly. Consequently, green strategic intent not only acts as a guide to 
+long-range development of environmental strategies, butit also helps 
+public organizations in building AI capabilities that are critical for 
+enabling sustainable transformation and maintaining responsiveness in 
+a dynamically changing environment. Its importance lies in its ability to 
+facilitate learning, innovation, adaptation, research and development 
+(Obeidat et al., 2023 ) and to help organizations to operationalize cir-
+cular economy practices. At its core, firms with a focus on green stra-
+tegies have a clear vision and direction that predict future 
+environmental challenges and enable them to effectively deal with them 
+(Jirakraisiri et al., 2021 ). Indeed, green strategic intent emphasizes 
+streamlining and optimizing their value chain activities through AI 
+technologies that further assist them in staying ahead of the competitors 
+and addressing the rapidly changing market landscape. With an 
+emphasis on long-term objectives and practical goals (Usman et al., 
+2024 ), green strategic intent encourages organizations to develop AI 
+capabilities to seek out market opportunities, transform business oper-
+ations and activities, and find innovative ways to reduce carbon foot-
+prints. Green strategic intent fosters a culture of learning that assists 
+firms in using and optimizing natural resources effectively (Jirakraisiri 
+et al., 2021 ). Additionally, the firm benefits from green strategic intent, 
+focusing on green technologies and sustainable innovations necessary 
+for implementing the circular economy practices. By encouraging 
+emerging technologies, firms enable employees to develop creative and 
+innovative solutions, ultimately contributing to competitive advantage 
+(Hannola et al., 2018 ; Makridis and Han, 2021 ) and making society 
+more environmentally responsible and resilient. Green strategic intent 
+encourages businesses to invest and efficiently allocate resources in 
+developing AI capabilities to improve resource efficiency and reduce 
+carbon emissions, which is essential for implementing circular economy 
+Fig. 1.The proposed model.N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+3 practices in public sectors.
+Through AI capabilities, firms can gain deeper insights into envi-
+ronmental changes by analyzing the vast amounts of climate impact and 
+resource consumption data to reduce inefficiencies in organizational 
+processes and operations. Leveraging AI capabilities enables firms to 
+make more informed decisions and adjust strategies to reduce environ -
+mental impact (Bag et al., 2021 ), leading firms to effectively implement 
+circular economy practices. Indeed, technological capabilities can offer 
+several key benefits to the firm that can assist them in improving their 
+operation, skills, knowledge, and expertise (Khalid et al., 2025 ; Neir-
+oukh et al., 2024 ); thus, green strategic intent enables firms to sense and 
+seize market opportunities that align with the firm’s environmental 
+goals and create economic value. As such, we argue that green strategic 
+intent may focus on developing AI capabilities and continuously 
+updating these capabilities that contribute to circular economy princi -
+ples and long-term success. Thus, we propose the following hypothesis. 
+H2. Green strategic intent is positively related to AI capability.
+2.4. AI capability and green learning ambidexterity
+Grounded in the dynamic capability view, which focuses on firms 
+must identify emerging risks and opportunities, seize them effectively, 
+and transform their processes and resources to stay competitive in the 
+continuously changing environments (Teece et al., 1997 ). In this study, 
+AI capability act as a significant enabler by producing actionable in-
+sights, optimizing decision-making, and enhancing responsiveness. AI 
+capability support both exploitative and exploratory learning by 
+improving current operations and recognizing new environmental 
+trends and needs.
+AI thus promotes green learning ambidexterity by enabling busi-
+nesses to innovate sustainably and strategically in response to changing 
+market and environmental demands. Indeed, AI capabilities improve 
+existing processes and practices and generate knowledge that eventually 
+aids in discovering potential opportunities and improving the overall 
+business (Schrage et al., 2023 ). Additionally, AI capability includes 
+encompasses cutting-edge technologies, data management and pro-
+cessing techniques, and technical skills that allow businesses to be 
+proactive and responsive in identifying and seizing market opportunities 
+(Mikalef and Gupta, 2021 ; Sullivan and Wamba, 2024 ). As a result, 
+companies can find creative solutions and make better decisions because 
+of AI capabilities to predict and identify market trends and dynamics. 
+Prior studies highlight that AI capabilities create value by providing 
+deeper insights into business needs and demands, competitiveness, and 
+resource usage (Schrage et al., 2023 ; Wamba-Taguimdje et al., 2020 ). AI 
+capabilities can automate and optimize various business operations and 
+processes, improving the efficiency of an organization (Benbya et al., 
+2021 ), thereby making public sector organizations more agile and 
+responsive to achieve sustained growth and implement the circular 
+economy principle. Additionally, AI capabilities provide timely infor-
+mation about evolving market needs and trends (Mikalef and Gupta, 
+2021 ), fostering a culture of continuous learning, strategy development, 
+and adjustments (Huang and Rust, 2021 ) that ultimately enable firms to 
+improve organizational learning (i.e., exploratory and exploitative 
+learning) by effectively navigating uncertainties, learning from failures, 
+optimize knowledge and skills, and effectively adapting to new situa-
+tions (Usman et al., 2025 ). AI capabilities can help firms identify the key 
+areas for improvement, thus contributing to overall learning (Wamba- 
+Taguimdje et al., 2020 ).
+Firms can develop training programs and educate employees on how 
+to effectively use AI in organizational processes and businesses, which in 
+turn encourages both exploratory and exploitative learning (i.e., green 
+learning). Indeed, AI capabilities can provide actionable and market- 
+driven insights that assist in improving existing organizational prac-
+tices and skills and generating new knowledge to respond to emerging 
+market opportunities and environmental challenges in a timely manner. As such, we argue that AI capabilities facilitate firms in acquiring useful 
+and valuable market-driven insights, leading to taking necessary actions 
+to enhance both explorative and exploitative learning (i.e., green 
+learning). Thus, we propose the following hypothesis. 
+H3. AI capability is positively related to green learning ambidexterity.
+2.5. Green learning ambidexterity and circular economy practices
+According to Teece (2007) , organizational capabilities are crucial for 
+developing, integrating, and transforming resources in response to a 
+quickly evolving business landscape. From the dynamic capability 
+perspective, green learning ambidexterity serves as a key resource for 
+developing strategic flexibility and adaptive capability in public orga-
+nizations. More precisely, green learning ambidexterity facilitates 
+businesses to improve and expand their environmental knowledge base, 
+innovate sustainably, and respond proactively to changing environ -
+mental needs and demands. Exploratory and exploitative learning assist 
+organizations in improving their existing processes and making them 
+more responsive to the external environment (Khalid et al., 2024 ), 
+required to integrate circular economy principles in an effective way. 
+Indeed, exploitative and explorative learning encourages improvements 
+and creativity (Li et al., 2010 ) that may assist public sector organizations 
+in implementing circular economy practices. Additionally, exploitative 
+and explorative learning may enable firms to monitor market de-
+velopments and integrate innovative tactics (Wang and Zhang, 2022 ), 
+which in turn support the transition toward circular and sustainable 
+business models.
+Prior research highlights that exploitative and explorative learning 
+improves product development performance and success (Li et al., 
+2010 ). Notably, both exploitative and explorative learning are crucial to 
+the firm long-term success and performance (Khalid et al., 2024 ). Or-
+ganizations can become more flexible and sensitive to market opportu -
+nities and adapt to emerging business situations through exploitative 
+and exploratory learning (Usman et al., 2025 ). Additionally, firms may 
+focus on exploitative and explorative learning by effectively using 
+organizational resources (Ali et al., 2021 ), which in turn enables firms to 
+develop proactive and environmental-centric strategies that can lead to 
+the implementation of circular economy practices. As such, we argue 
+that firms can balance and integrate two different but complementary 
+logics – exploitative learning and explorative learning (i.e., green 
+learning ambidexterity)- to facilitate embedding circular economy 
+principles into organizational processes. Thus, we propose the following 
+hypothesis. 
+H4. Organizational green learning ambidexterity is positively related 
+to circular economy practices.
+2.6. AI capability and green learning ambidexterity as serial mediators
+Grounded in the dynamic capability view, we understand that AI 
+capability and green learning ambidexterity are key tools for gaining 
+competitive advantage and achieving environmental goals because they 
+assist organizations in developing, improving, and modifying resources 
+(Mikalef and Gupta, 2021 ; Usman et al., 2025 ) to implement circular 
+economy practices. The dynamic capability view emphasizes that busi-
+nesses sense opportunities first, seize them through strategic action, and 
+adapt internal and external resources accordingly (Teece et al., 1997 ). In 
+this study, AI capability and green learning ambidexterity can assist 
+firms to be responsive and proactive in recognizing and seizing oppor -
+tunities to make an environmentally responsible and resilient world. As 
+such, AI capabilities offer valuable insights into market trends, demands, 
+and preferences (Schrage et al., 2023 ; Wamba-Taguimdje et al., 2020 ), 
+while learning ambidexterity ensures that the organization can contin -
+uously adapt and evolve its processes and practices to respond to the 
+business changes (Ali et al., 2021 ). Thus, the underlying premise of our 
+arguments so far has been that green strategic intent provides directions N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+4 to gain and acquire the key resources, expertise, and skills (AI capabil -
+ities) that are crucial for capturing business opportunities and making 
+timely and market-oriented decisions (Jirakraisiri et al., 2021 ). In turn, 
+AI capability foster green learning ambidexterity, driving them to have a 
+balanced focus on exploitative and explorative environmental learning, 
+ultimately contributing to circular economy practices. Together, we 
+argue that AI capability and green learning ambidexterity act as serial 
+mediators through which green strategic intent affects circular eco-
+nomic practices. Thus, the following hypothesis is developed. 
+H5.AI capability and green learning ambidexterity act as serial me-
+diators of the associations of green strategic intent with circular econ-
+omy practices.
+2.7. The moderating role of leader boundary-spanning behavior
+Seen through the lens of dynamic capability view, firms need to 
+constantly re-configure and dynamically transform their resources in 
+response to evolving market changes (Barreto, 2010 ; Teece et al., 1997 ). 
+Green strategic intent demonstrates the firm’s commitment to 
+environment-driven goals and capitalizing on market opportunities to 
+achieve sustainable outcomes. Nevertheless, the effective conversion of 
+green strategic intent into operational capabilities (e.g., AI capabilities) 
+may require leadership behavior that transcends organizational 
+boundaries.
+Leader boundary-spanning behavior plays a crucial enabling role in 
+this process. Individuals with boundary-spanning behavior engage in 
+internal and external activities to acquire resources, expertise, knowl -
+edge, and information and facilitate and build relationships with various 
+departments and organizations to create value for the business (Marrone 
+et al., 2007 ; Salem et al., 2018 ). These activities enhance a firm’s ability 
+to reconfigure its resources, thus facilitating the development of capa-
+bilities like AI that are essential for green strategic intent. Individuals 
+high on boundary-spanning behavior emphasize representation, generic 
+information search, and task performance coordination (Marrone et al., 
+2022 ). They encourage creativity (Kim et al., 2022 ), improve workplace 
+performance (Liu et al., 2018 ), and actively address the evolving 
+external changes by developing ties with key stakeholders (Van Meer -
+kerk and Edelenbos, 2018 ). Specifically, when leaders exhibit high 
+boundary-spanning behavior, they are more likely to translate green 
+strategic intent into tangible outcomes by using available resources, 
+expertise, and coordinating cross-functional initiatives. In contrast, 
+when boundary-spanning behavior is low, green strategic intent may not 
+effectively transform into modern technological capabilities. Therefore, 
+we posit that leader boundary-spanning behavior strengthens the posi-
+tive relationship between green strategic intent and AI capability by 
+improving the firm’s dynamic capability to sense, seize, and reconfigure 
+resources for emerging environmental needs and demands. Thus, we 
+propose the following hypothesis. 
+H6.Leader boundary-spanning behavior positively moderates the 
+relationship between green strategic intent and AI capability, such that 
+the relationship is stronger when leader boundary-spanning behavior is 
+high (vs. low).
+3.Method
+3.1. Data collection and analysis
+Data were collected from managers working in 228 government 
+departments and municipalities across the United Arab Emirates (UAE) 
+through a two-round survey process. We used a network of 400 former 
+students from a major UAE university who were all working for various 
+government agencies and local governments in the country to start 
+gathering data. We reached out to these alumni by phone and email, 
+gave them an explanation of the study ’s objectives, and asked them to 
+help us by providing us with access to managerial respondents. 321 of the 400 alumni who were contacted consented to help with the data 
+collection.
+Every alumnus who consented to take part in the survey received a 
+packet containing a thorough cover letter and the survey form. The 
+cover letter outlined the goal of the research, underlined that partici -
+pation was entirely optional, and guaranteed respondents that their 
+answers would remain anonymous and confidential. The surveys and 
+cover letters were then delivered by the alumni themselves to managers 
+in their departments or localities. After managers finished the surveys on 
+their own, they gave them back to the alumni, who sent them on to the 
+research team.
+Before starting the data collection, the questionnaire was pretested 
+with 20 respondents and three academicians. Data collection occurred in 
+two rounds, separated by a time lag of two weeks. Data about green 
+strategic intent, leader boundary-spanning behavior, AI capability, and 
+demographic variables were collected in round 1. Data about green 
+learning ambidexterity and circular economy practices were collected in 
+round 2. We received 298 and 238 responses in the first and second 
+rounds, respectively. After matching the data from different rounds 
+using unique codes and discarding the responses that were not appro -
+priately filled, we retained 228 responses for hypotheses testing.
+To address potential biases, particularly common method bias (CMB) 
+and social desirability bias, we adopted a time-lagged approach, gath-
+ering data in two separate rounds with an appropriate time gap between 
+them. According to Podsakoff et al. (2003) , this temporal separation of 
+measurement lowers the probability of CMB. Furthermore, the cover 
+letter ’s guarantees of anonymity and confidentiality deterred re-
+spondents from giving socially acceptable responses and promoted 
+candid, deliberate participation. Lastly, in order to improve construct 
+validity, lower measurement error, and lessen response biases, we 
+employed well-established and verified measurement scales from earlier 
+research.
+Data were analyzed using structural equation modeling in Mplus 
+(8.8). In our sample, 52.2 % of departments belonged to the local gov-
+ernment, while 47.8 % belonged to the federal government. Further, in 
+terms of involvement in public-private partnerships or collaborations 
+with NGOs, 53.9 % had partnerships, while the remaining 46.1 % were 
+currently not in partnerships or collaborations.
+3.2. Measures and variables
+A five-point Likert scale ranging from 1 (strongly disagree) to 5 
+(strongly agree) was used to assess the constructs. Green strategic intent 
+was assessed by adapting an eight-item scale (α 0.93) of strategic 
+intent by Johnson and Sohi (2001) . Sample item: “Our organization seeks 
+market leadership in green processes and products. ” AI capability was 
+assessed by adapting 13 items (α 0.80) from Mikalef and Gupta (2021) . 
+“We have explored or adopted cloud-based services for processing data and 
+performing AI and machine learning ” was a sample item. Green learning 
+ambidexterity was assessed by adapting a ten-item scale (α 0.94) from 
+Chung et al. (2015) . Sample item: “We collect novel information and ideas 
+that go beyond our experience. ”. Circular economy practices were 
+assessed by adapting ten items (α 0.93) from Fonseca et al. (2018) . 
+“We consistently promote improvement of productivity and efficiency of work 
+processes in my company ” was a sample item. Leader boundary-spanning 
+behavior was assessed by adapting a six-item scale (α 0.92) from 
+Marrone et al. (2007) . “I reach out to individuals outside of our organiza -
+tion that can offer expertise or ideas about the task at hand ” was a sample 
+item.
+3.3. Control variables
+We controlled for a few important variables to account for alterna -
+tive explanations that could influence the relationships under investi -
+gation. First, we controlled for the type of government body (federal vs. 
+local government), as prior studies suggest that organizational N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+5 structures, decision-making processes, and resource allocations can 
+differ significantly between federal and local entities, potentially 
+impacting managerial practices and responses (Marrucci et al., 2021 ; 
+Obeidat et al., 2023 ). Differences in hierarchy, policy scope, and oper-
+ational flexibility between federal and local agencies could confound the 
+effects we sought to measure.
+Second, we controlled for the department ’s involvement in public- 
+private partnerships or collaborations with non-governmental organi -
+zations. Departments engaged in such collaborations may exhibit 
+different levels of stakeholder engagement and innovation adoption 
+compared to those operating solely within traditional government 
+frameworks. Such external partnerships often influence departments ’ AI 
+capability, learning practices, as well as adoption of circular economy 
+practices.
+4.Results
+4.1. Means and correlations
+Means and correlations are presented in Table 1.
+4.2. Measurement model
+Confirmatory factor analysis was performed in Mplus (8.8) to assess 
+the measurement model, which included green strategic intent, AI 
+capability, green learning ambidexterity, circular economy practices, 
+and leader boundary-spanning behavior. All items demonstrated sig-
+nificant loadings, and the fit indices – χ2 (1067) 1798.19, χ2/df 
+1.68, TLI 0.90, CFI 0.90, and RMSEA 0.06 – indicated that the 
+proposed model achieved a good fit with the data. Additionally, all 
+variables had average variance extracted (AVE) values above 0.50 
+(Table 2). The square root of AVE for each construct was greater than its 
+inter-construct correlations, and the maximum shared variances (MSV) 
+for all variables were lower than their respective AVEs (Table 2). These 
+findings establish that the scales used in the study met satisfactory 
+standards for both convergent and discriminant validity.
+4.3. Hypotheses testing
+As presented in Table 3, green strategic intent demonstrated a pos-
+itive relationship with circular economy practices (B 0.33, SE 0.06, 
+p < .01; 95 % CI [0.21, 0.45]) , supporting hypothesis 1. Additionally, 
+the findings revealed that green strategic intent was positively associ -
+ated with AI capability (B 0.16, SE 0.05, p < .01; 95 % CI [0.06, 
+0.26]) , and AI capability, in turn, had a positive relationship with green 
+learning ambidexterity (B 0.28, SE 0.08, p < .01; 95 % CI [0.12, 
+0.43]) , thereby supporting hypotheses 2 and 3. Moreover, organiza -
+tional green learning ambidexterity was found to have a significant 
+positive association with circular economy practices (B 0.18, SE 
+0.07, p < .01; 95 % CI [0.05, 0.31]) , providing support for hypothesis 4. 
+Furthermore, the relationship between green strategic intent and cir-
+cular economy practices was serially mediated by AI capability and green learning ambidexterity (B 0.04, SE 0.02, p < .01; 95 % CI 
+[0.01, 0.07]) , as well as the relationship with green activism (B 0.05, 
+SE 0.02, p < .01; 95 % CI [0.02, 0.10]) , confirming hypothesis 5.
+To test hypothesis 6, the interaction between green strategic intent 
+and leader boundary-spanning behavior was examined. The results 
+indicated a significant positive effect of this interaction on AI capability 
+(B 0.13, SE 0.05, p < .01; 95 % CI [0.04, 0.22]) , as shown in Table 3. 
+Fig. 2illustrates the characteristics of this moderated relationship: the 
+link between green strategic intent and AI capability was significant 
+when leader boundary-spanning behavior was high (B 0.27, SE 
+0.06, p < .01; 95 % CI [0.14, 0.40]) but was insignificant when leader 
+boundary-spanning behavior was low (B 0.01, SE 0.07, ns; 95 % CI 
+[ 0.13, 0.15]) . These findings support hypothesis 6.
+Table 1 
+Means and correlations.
+Construct Mean SD 1 2 3 4 5 6
+1. GSI 3.19 1.16
+2. AI capability 3.08 0.89 0.21**
+3. GLA 2.98 1.08 0.24** 0.27**
+4. CEP 3.03 1.12 0.34** 0.27** 0.29**
+5. LBSB 3.10 0.99 0.11 0.13* 0.11 0.16*
+6. Type 0.01  0.05 0.00 0.12  0.03
+7. Partnership 0.03 0.09 0.09 0.09 0.11 0.03
+Notes. N 228. * p D.05. ** p D.01 level (2-tailed). *p D.05 level (2-tailed). SD standard deviation. GSI Green strategic intent. CEP Circular Economy Practices. 
+GLA Green Learning Ambidexterity. LBSB Leader boundary-spanning behavior. Type Local government (1) and Federal government (2). Partnership 
+Involvement in public-private partnerships or collaborations with NGOs (1 No and 2 Yes).Table 2 
+Discriminant validity and convergent validity.
+Construct 1 2 3 4 5 AVE MSV ASV
+1. GSI 0.74 0.64 0.13 0.07
+2. AI capability 0.25 0.77 0.57 0.10 0.07
+3. GLA 0.24 0.29 0.74 0.62 0.10 0.06
+4. CEP 0.36 0.32 0.31 0.76 0.62 0.13 0.09
+5. LBSB 0.10 0.15 0.12 0.16 0.79 0.68 0.03 0.02
+Notes. N 228. AVE Average variance extracted. MSV Maximum variance 
+shared. ASV Average variance shared. Bolded values on the diagonals of 
+columns 2 to 6 are the square root values of AVE. GSI Green strategic intent. 
+CEP Circular Economy Practices. GLA Green Learning Ambidexterity. LBSB 
+Leader boundary-spanning behavior.
+Table 3 
+Hypotheses results.
+B SE 95 %CI
+LL UL
+Total effects
+GSI → CEP 0.33** 0.06 0.21 0.45
+Direct Paths
+GSI → CEP 0.26** 0.06 0.14 0.38
+GSI → AI capability 0.16** 0.05 0.06 0.26
+AI capability → GLA 0.28** 0.08 0.12 0.43
+GLA → CEP 0.18** 0.07 0.05 0.31
+Indirect Paths
+GSI → AI capability → GLA → CEP 0.01** 0.006 0.001 0.02
+Moderated Path
+LBSB * GSI → AI capability 0.13** 0.05 0.04 0.22
+GSI → AI capability (High LBSB) 0.27** 0.06 0.14 0.40
+GSI → AI capability (Low LBSB) 0.01 0.07 0.13 0.15
+Hotel sample N 228. B Unstandardized coefficient, SE Standard error, 
+Bootstrapping specified at 5000 with 95 % confidence interval. CI Confidence 
+interval. LL lower limit. UL Upper limit. GSI Green strategic intent. CEP 
+Circular Economy Practices. GLA Green Learning Ambidexterity. LBSB 
+Leader boundary-spanning behavior.N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+6 5.Discussion
+The aim of this study was to understand how and when green stra-
+tegic intent enables public sector organizations to implement circular 
+economy practices. Using the dynamic capability view, we examined 
+significant underlying mechanisms and a boundary condition on the 
+association between green strategic intent and circular economy prac-
+tices. Data were collected using a time-lagged design; the results 
+revealed a positive relationship between green strategic intent and cir-
+cular economy practices. Additionally, the study demonstrates that 
+green strategic intent positively influences circular economy practices 
+through AI capability and green learning ambidexterity that acts as se-
+rial mediators of the green strategic intent-circular economy practices 
+link. The study also revealed that leader boundary-spanning behavior 
+significantly moderated the effects of green strategic intent on AI 
+capability.
+5.1. Theoretical contributions
+First, this research advances the literature on the antecedents of 
+circular economy practices (Bassi and Dias, 2019 ; Joensuu et al., 2020 ; 
+Walker et al., 2022 ) within the public sector context. While prior studies 
+have identified factors such as green empowerment, legislative frame -
+works, and organizational integration (Joensuu et al., 2020 ; Khan and 
+Haleem, 2021 ; Marrucci et al., 2021 ; Obeidat et al., 2023 ), the role of 
+long-term strategic orientation has been largely overlooked. We bridge 
+this gap by highlighting green strategic intent as a key driver of circular 
+economy principles. In doing so, we move beyond structural or policy- 
+level enablers and focus on the role of top management vision and 
+commitment in directing environmental transformation.
+Second, our study contributes to the emerging literature on the so-
+cietal implications of green strategic intent (Karra, 2021 ; Usman et al., 
+2024 ). While previous studies have focused on its outcomes, such as 
+green human resource practices, and relational capital (Jirakraisiri 
+et al., 2021 ; Obeidat et al., 2023 ), we extend this stream by demon -
+strating that green strategic intent not only influences internal organizational capabilities and skills but also translates into system- 
+level sustainability outcomes (circular economy practices) within the 
+public sector organizations.
+Third, we deepen understanding of the mechanisms through which 
+green strategic intent influences circular economy principles by intro-
+ducing AI capability and green learning ambidexterity as serial media -
+tors. Prior literature has recognised the role of AI in making firms 
+competitive, agile, and enhancing market responsiveness (Nishant et al., 
+2020 ; Wamba et al., 2024 ), and green learning ambidexterity in sup-
+porting innovation (Wang et al., 2020 ), sustainable performance (Huang 
+and Huang, 2024 ), and operational efficiency (Úbeda-García et al., 
+2022 ). By highlighting the significant role of firm expertise, resources, 
+and skills (i.e., AI capabilities and green learning ambidexterity) as a 
+mechanism underlying the green strategic intent-circular economy 
+practices, we extend the limited literature of organizational resources 
+and capabilities in the public sector and highlights how public sector 
+organizations adapt and innovate to achieve sustainable goals.
+Lastly, we introduce leader boundary-spanning behavior as a key 
+boundary condition in our framework. While earlier research has linked 
+boundary-spanning behavior with creativity and performance in the 
+workplace (Kim et al., 2022 ; Liu et al., 2018 ). The current study is the 
+first to incorporate the construct of leader boundary-spanning behavior 
+in the context of green strategic intent, AI capability, and circular 
+economy practices.
+5.2. Practical implications
+First, our research findings offer insights into how public sector or-
+ganizations can encourage circular economy principles through green 
+strategic intent. The findings demonstrate that green strategic intent 
+plays a key role in implementing circular economy practices and making 
+society more environmentally responsible and resilient. Thus, managers 
+of public sector organizations seeking to address environmental chal-
+lenges must develop a comprehensive and well-defined plan that in-
+cludes creative and innovative solutions to deal with environmental 
+challenges within a society, ultimately contributing to circular economy 
+Fig. 2.Leader boundary-spanning behavior as a moderator of the link between green strategic intent and AI capability. (For interpretation of the references to colour 
+in this figure legend, the reader is referred to the web version of this article.)N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+7 principles. Moreover, public sector organizations with a focus on green 
+strategic intent tend to achieve sustained growth and long-term success 
+and must empower employees to engage in activities that assist them in 
+promoting sustainable practices and making the citizens more envi-
+ronmentally responsible. For this purpose, top management can develop 
+teams comprising individuals from various departments and the public 
+with the aim of working together to identify the environmental chal-
+lenges and suggest radical and eco-friendly solutions to bring changes 
+and make the overall society more resilient. Also, they can foster a 
+culture that fosters learning to implement the circular economy princi -
+ples. They can co-create market offerings to deal with environmental 
+changes and for the overall benefit of society. Additionally, managers 
+can adjust and improve their business processes and practices to 
+implement circular economy practices. Thus, all these activities make 
+firms more agile, adaptable, and competitive, which in turn contribute 
+to circular economy practices.
+Beyond structural or policy-level enablers, our findings highlight the 
+technological capabilities, particularly AI, as key enablers for translating 
+green strategic intent into the implementation of impactful sustainable 
+practices. Our findings highlight the key role of AI capability in sup-
+porting public sector organizations’ transformation toward circular 
+economy principles. AI capabilities significantly boost organizational 
+agility and innovation by allowing public sector organizations to 
+respond more proactively to changing environmental conditions. To 
+optimize business operations and produce innovative solutions that 
+support environmental goals, managers must effectively develop and 
+integrate cutting-edge emerging technologies like artificial intelligence 
+(AI), big data, and the Internet of Things. By using these digital tools, 
+businesses can gain a greater understanding of stakeholder needs, 
+market shifts, and environmental trends, which will help them imple -
+ment the principles of the circular economy. They effectively predict the 
+customer’s expectations and rescue the market risk by allowing public 
+sector organizations to customize their products in line with market- 
+specific insights. AI capabilities facilitate firms in exploring and devel -
+oping new avenues to make society more responsible and environmen -
+tally friendly. Emerging digital technologies allow companies to get 
+detailed and meaningful feedback from a variety of stakeholders on 
+environmental issues. Apart from improving operational efficiency and 
+producing innovative outcomes, AI capabilities promote openness, 
+responsiveness, and public participation, all of which contribute to 
+broader societal and economic growth. Public enterprises are better able 
+to solve local environmental issues, work with stakeholders, and co- 
+create value through sustainable initiatives as they become more data- 
+driven. AI also enables the development of open innovation ecosys -
+tems, where governmental, commercial, and private entities collaborate 
+to create solutions for common problems. This change improves public 
+trust, institutional performance, and the local economy’s resilience and 
+competitiveness. Therefore, it is critical that managers and legislators 
+invest in AI capabilities and infrastructure for their companies. Incor -
+porating artificial intelligence (AI) into strategic planning allows public 
+firms to improve organizational performance and better align technical 
+advancement with sustainability-driven aims.
+Similarly, green learning ambidexterity can enable firms to improve 
+their existing knowledge, information, skills, and expertise and acquire 
+new ones. Thus, this enables public sector organizations to efficiently 
+allocate resources to green processes and activities to deal with rapidly 
+changing environmental situations. With green learning ambidexterity, 
+employees learn new skills and expertise to improve their existing 
+products and develop new market solutions that contribute to circular 
+economy principles. Additionally, green learning ambidexterity makes 
+business processes efficient, improves partnerships, and introduces 
+environment-centric innovation, ultimately leading to the implementa -
+tion of circular economy practices. Managers in public sectors should 
+integrate green competency frameworks and develop cross-functional 
+teams to implement circular economy practices throughout the organi -
+zational processes. Furthermore, tools like eco-budgeting and resource- mapping can guide efficient investment in green initiatives which in 
+turn foster a culture of experimentation and continuous learning 
+enabling firms to adopt modern circular economy practices. Indeed, 
+striking a balance between exploitative and explorative learning can 
+drive innovation, improve existing and acquire new knowledge, main -
+tain competitive advantage, and contribute to circular economy 
+practices.
+Our findings regarding the moderating role of leader boundary- 
+spanning behavior also have key managerial implications. The find-
+ings indicate that public sector organizations should consider leaders’ 
+individual differences while focusing on the circular economy princi -
+ples. Leaders who exhibit high boundary-spanning behavior actively 
+take part in business activities that help them to acquire resources, 
+knowledge, and expertise as well as cultivate connections with various 
+to seize market opportunities and adapt to the quickly shifting envi-
+ronment. Thus, by creating organizational policies and clear guidelines 
+that are necessary for putting circular economy principles into practice, 
+such leaders can make a difference. They can clearly define the role of 
+employees and empower them by allocating the necessary resources to 
+adopt circular principles. Additionally, leaders high on boundary- 
+spanning behavior pay more attention and effectively implement cir-
+cular economy practices that align with overall environmental goals and 
+tactics for the betterment of society. Thus, public sector organizations 
+need to employ leaders who are high on boundary-spanning behavior 
+since they add value to the organizations and bring changes that align 
+with circular economy principles. They also help companies come up 
+with suitable ways to lessen the environmental problems. Leaders who 
+actively engage in organizational activities can acquire valuable re-
+sources, improve collaboration with stakeholders, and promote infor-
+mation exchange to address societal and environmental challenges. To 
+leverage and promote boundary-spanning conduct from leaders, public 
+institutions should focus cross-functional collaboration, promote 
+involvement in external sustainability networks, and engage continu -
+ously in leadership development. Furthermore, incorporating leader 
+boundary-spanning behavior into leadership development and perfor -
+mance evaluation frameworks can improve organizational flexibility, 
+creativity, and the effective execution of circular economy principles in 
+challenging public sector settings.
+5.3. Limitations and future research directions
+We should highlight a few of our study’s strengths. This research 
+examined the model using a time-lagged research approach. Therefore, 
+favorability bias and potential common method variance were taken 
+into account in the current study. Despite this strength in the study 
+design, our research still has some limitations. First, even with our data 
+collection strengths, which rule out common procedure bias, it is 
+impossible to draw causal inferences. Thus, it is strongly recommended 
+that future research employ longitudinal designs. Second, our sample is 
+limited to public organizations in the UAE, which may restrict the 
+generalisability of findings to other countries. Comparative studies 
+across diverse institutional and cultural settings are encouraged to 
+validate the current model. Third, we focus on green strategic intent as 
+an organizational-level construct. Future studies could explore other 
+leadership-constructs such as spiritual leadership (Usman et al., 2024 ), 
+transformational leadership (Khan et al., 2018 ) entrepreneurial leader -
+ship (Bani-Melhem et al., 2025 ), and managerial latitude (Khalid et al., 
+2024 ) to examine their impact on circular economy practices. Also, 
+future studies could examine the comparison of various leadership styles 
+and managerial approaches in terms of their influence and imple -
+mentation of circular economy practices to offer further insights into the 
+phenomenon and facilitate public sector organizations in designing 
+environmentally responsible and resilient strategies. Finally, AI capa-
+bility and green learning ambidexterity serve as a key mechanism in this 
+study, future studies could integrate additional factors such as such as 
+digital readiness, institutional support, and organizational culture to N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+8 gain deeper insights of circular economy practices in the public sectors.
+CRediT authorship contribution statement
+Nadia Zahoor: Validation, Supervision, Resources, Conceptualiza -
+tion, Writing – review & editing, Writing – original draft. Muhammad 
+Usman: Validation, Software, Methodology, Investigation, Formal 
+analysis, Data curation, Conceptualization, Writing – original draft. 
+Adeel Khalid: Validation, Project administration, Methodology, Inves -
+tigation, Conceptualization, Writing – original draft. Mohamed Gamal 
+Aboelmaged: Validation, Software, Conceptualization, Writing – re-
+view & editing, Writing – original draft. Naveed Yasin: Validation, 
+Software, Conceptualization, Writing – review & editing.
+Declaration of competing interest
+None.
+Data availability
+Data will be made available on request.
+References
+Ali, M., Qu, Y.E., Shafique, S., Pham, N.T., Usman, M., 2021. The role of ethical 
+leadership in enhancing exploitative and explorative learning simultaneously: what 
+does it matter if employees view work as central? Pers. Rev. 51 (2), 787–804.
+Allioui, H., Mourdi, Y., 2023. Unleashing the potential of AI: investigating cutting-edge 
+technologies that are transforming businesses. Int. J. Comp. Eng. Data Sci. (IJCEDS) 
+3 (2), 1–12.
+Bag, S., Pretorius, J.H.C., Gupta, S., Dwivedi, Y.K., 2021. Role of institutional pressures 
+and resources in the adoption of big data analytics powered artificial intelligence, 
+sustainable manufacturing practices and circular economy capabilities. Technol. 
+Forecast. Soc. Chang. 163, 120420 .
+Bani-Melhem, S., Akhtar, M.W., Zahoor, N., Khalid, A., Usman, M., 2025. Growth 
+hacking adoption in focus: Developing scale and enhancing the nomological network 
+of its antecedents. J. Bus. Res. 189, 115179 .
+Barney, J., 1991. Firm resources and sustained competitive advantage. J. Manag. 17 (1), 
+99–120.
+Barreto, I., 2010. Dynamic capabilities: A review of past research and an agenda for the 
+future. J. Manag. 36 (1), 256–280.
+Bassi, F., Dias, J.G., 2019. The use of circular economy practices in SMEs across the EU. 
+Resour. Conserv. Recycl. 146, 523–533.
+Benbya, H., Pachidi, S., Jarvenpaa, S., 2021. Special issue editorial: Artificial intelligence 
+in organizations: Implications for information systems research. J. Assoc. Inf. Syst. 
+22 (2), 10.
+Bowman, C., Ambrosini, V., 2003. How the resource-based and the dynamic capability 
+views of the firm inform corporate-level strategy. Br. J. Manag. 14 (4), 289–303.
+Chung, H.F., Yang, Z., Huang, P.H., 2015. How does organizational learning matter in 
+strategic business performance? The contingency role of guanxi networking. J. Bus. 
+Res. 68 (6), 1216 –1224 .
+Clauss, T., Kraus, S., Kallinger, F.L., Bican, P.M., Brem, A., Kailer, N., 2021. 
+Organizational ambidexterity and competitive advantage: The role of strategic 
+agility in the exploration-exploitation paradox. J. Innov. Knowl. 6 (4), 203–213.
+˘Cwiklicki, M., Pawe łek, B., 2025. The Environmental Policy and the Circular Economy 
+Adoption: An Empirical Study of Manufacturing Companies. Bus. Strateg. Environ. 
+34, 6249 –6263 .
+DeMartino, R., Neck, H.M., Dwyer, P.A., Treese, C., 2012. Radical innovation in medium- 
+sized enterprises: an exploratory study of strategic intent and innovation process. Int. 
+J. Entrep. Innov. Manag. 15 (3), 216–234.
+Dwivedi, Y.K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., Williams, M. 
+D., 2021. Artificial intelligence (AI): multidisciplinary perspectives on emerging 
+challenges, opportunities, and agenda for research, practice and policy. Int. J. Inf. 
+Manag. 57, 101994 .
+Fadeeva, Z., Van Berkel, R., 2021. Unlocking circular economy for prevention of marine 
+plastic pollution: An exploration of G20 policy and initiatives. J. Environ. Manag. 
+277, 111457 .
+Fonseca, L.M., Domingues, J.P., Pereira, M.T., Martins, F.F., Zimon, D., 2018. Assessment 
+of circular economy within Portuguese organizations. Sustainability 10 (7), 2521 .
+Gupta, S., Drave, V.A., Dwivedi, Y.K., Baabdullah, A.M., Ismagilova, E., 2020. Achieving 
+superior organizational performance via big data predictive analytics: A dynamic 
+capability view. Ind. Mark. Manag. 90, 581–592.
+Hannola, L., Richter, A., Richter, S., Stocker, A., 2018. Empowering production workers 
+with digitally facilitated knowledge processes –a conceptual framework. Int. J. Prod. 
+Res. 56 (14), 4729 –4743 .
+Harris, S., Martin, M., Diener, D., 2021. Circularity for circularity ’s sake? Scoping review 
+of assessment methods for environmental performance in the circular economy. 
+Sustain. Prod. Consump. 26, 172–186.Huang, C.H., Huang, Y.C., 2024. Exploring the linkages among green digital 
+transformation capability, ambidextrous green learning and sustainability 
+performance: a case study of manufacturing firms in Taiwan. J. Manuf. Technol. 
+Manag. 35 (5), 1103 –1123 .
+Huang, M.H., Rust, R.T., 2021. Engaged to a robot? The role of AI in service. J. Serv. Res. 
+24 (1), 30–41.
+Jirakraisiri, J., Badir, Y.F., Frank, B., 2021. Translating green strategic intent into green 
+process innovation performance: the role of green intellectual capital. J. Intellect. 
+Cap. 22 (7), 43–67.
+Joensuu, T., Edelman, H., Saari, A., 2020. Circular economy practices in the built 
+environment. J. Clean. Prod. 276, 124215 .
+Johnson, J.L., Sohi, R.S., 2001. The influence of firm predispositions on interfirm 
+relationship formation in business markets. Int. J. Res. Mark. 18 (4), 299–318.
+Karra, I., 2021. Resources and green strategic intent: towards improving the 
+competitiveness of Tunisian industrial companies. SN Bus. Econ. 1 (4), 63.
+Khalid, A., Singh, S.K., Usman, M., Waqas, M., Ishizaka, A., 2024. Managerial latitude 
+and adaptive selling: Important roles of salesperson perceived control and work 
+centrality. J. Bus. Res. 172, 114441 .
+Khalid, A., Usman, M., Bani-Melhem, S., Zahoor, N., Palmucci, D.N., Christofi, M., 2025. 
+Reducing feelings of xenophobia through cognitive effort: The role of market 
+knowledge, collaborative consumption behavior, and affinity for technology 
+interaction. J. Bus. Res. 199, 115521 .
+Khan, I., Hasnain, S., Ullah, S., Khalid, A., 2018. Impact of transformational leadership 
+on employee ’s job satisfaction and well-being through team efficacy in PMBMC. Int. 
+J. Human Resour. Stud. 8 (1), 327–339.
+Khan, S., Haleem, A., 2021. Investigation of circular economy practices in the context of 
+emerging economies: a CoCoSo approach. Int. J. Sustain. Eng. 14 (3), 357–367.
+Kim, S.L., Lee, D., Yun, S., 2022. Leader boundary-spanning behavior and creative 
+behavior: the role of need for status and creative self-efficacy. Leadersh. Org. Dev. J. 
+43 (6), 835–846.
+Klein, N., Deutz, P., Ramos, T.B., 2022. A survey of Circular Economy initiatives in 
+Portuguese central public sector organisations: National outlook for implementation. 
+J. Environ. Manag. 314, 114982 .
+Kua, H.W., Teoh, W.S., Xu, X., Huang, B., Geng, Y., 2024. A review of glass recycling 
+policies in Stockholm, Hong Kong SAR and Shanghai from a circular economy 
+perspective. J. Clean. Prod. 434, 140068 .
+Kulkov, I., Kulkova, J., Rohrbeck, R., Menvielle, L., Kaartemo, V., Makkonen, H., 2024. 
+Artificial intelligence-driven sustainable development: Examining organizational, 
+technical, and processing approaches to achieving global goals. Sustain. Dev. 32 (3), 
+2253 –2267 .
+Li, C.R., Chu, C.P., Lin, C.J., 2010. The contingent value of exploratory and exploitative 
+learning for new product development performance. Ind. Mark. Manag. 39 (7), 
+1186 –1197 .
+Ling, Y.H., 2019. Examining green policy and sustainable development from the 
+perspective of differentiation and strategic alignment. Bus. Strateg. Environ. 28 (6), 
+1096 –1106 .
+Liu, L., Song, W., Liu, Y., 2023. Leveraging digital capabilities toward a circular 
+economy: Reinforcing sustainable supply chain management with Industry 4.0 
+technologies. Comput. Ind. Eng. 178, 109113 .
+Liu, S., Jiang, K., Chen, J., Pan, J., Lin, X., 2018. Linking employee boundary spanning 
+behavior to task performance: The influence of informal leader emergence and group 
+power distance. Int. J. Hum. Resour. Manag. 29 (12), 1879 –1899 .
+Makridis, C.A., Han, J.H., 2021. Future of work and employee empowerment and 
+satisfaction: Evidence from a decade of technological change. Technol. Forecast. Soc. 
+Chang. 173, 121162 .
+Mariadoss, B.J., Johnson, J.L., Martin, K.D., 2014. Strategic intent and performance: The 
+role of resource allocation decisions. J. Bus. Res. 67 (11), 2393 –2402 .
+Marrone, J.A., Tesluk, P.E., Carson, J.B., 2007. A multilevel investigation of antecedents 
+and consequences of team member boundary-spanning behavior. Acad. Manag. J. 50 
+(6), 1423 –1439 .
+Marrone, J.A., Quigley, N.R., Prussia, G.E., Dienhart, J., 2022. Can supportive coaching 
+behaviors facilitate boundary spanning and raise job satisfaction? An indirect-effects 
+model. J. Manag. 48 (5), 1131 –1159 .
+Marrucci, L., Daddi, T., Iraldo, F., 2021. The contribution of green human resource 
+management to the circular economy and performance of environmental certified 
+organisations. J. Clean. Prod. 319, 128859 .
+Mikalef, P., Gupta, M., 2021. Artificial intelligence capability: Conceptualization, 
+measurement calibration, and empirical study on its impact on organizational 
+creativity and firm performance. Inf. Manag. 58 (3), 103434 .
+Monciardini, D., Rocca, L., Veneziani, M., 2024. Virtuous circles: Transformative impact 
+and challenges of the social and solidarity circular economy. Bus. Strateg. Environ. 
+33 (2), 642–660.
+Morseletto, P., 2020. Restorative and regenerative: Exploring the concepts in the circular 
+economy. J. Ind. Ecol. 24 (4), 763–773.
+Neiroukh, S., Emeagwali, O.L., Aljuhmani, H.Y., 2024. Artificial intelligence capability 
+and organizational performance: unraveling the mediating mechanisms of decision- 
+making processes. Manag. Decis.
+Nishant, R., Kennedy, M., Corbett, J., 2020. Artificial intelligence for sustainability: 
+Challenges, opportunities, and a research agenda. Int. J. Inf. Manag. 53, 102104 .
+Obeidat, S.M., Abdalla, S., Al Bakri, A.A.K., 2023. Integrating green human resource 
+management and circular economy to enhance sustainable performance: an 
+empirical study from the Qatari service sector. Empl. Relat. Int. J. 45 (2), 535–563.
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y., Podsakoff, N.P., 2003. Common method 
+biases in behavioral research: a critical review of the literature and recommended 
+remedies. J. Appl. Psychol. 88 (5), 879.N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+9 Puglieri, F.N., Salvador, R., Romero-Hernandez, O., Escriv ~ao Filho, E., Piekarski, C.M., de 
+Francisco, A.C., Ometto, A.R., 2022. Strategic planning oriented to circular business 
+models: A decision framework to promote sustainable development. Bus. Strateg. 
+Environ. 31 (7), 3254 –3273 .
+Salem, M., Van Quaquebeke, N., Besiou, M., 2018. How field office leaders drive learning 
+and creativity in humanitarian aid: Exploring the role of boundary-spanning 
+leadership for expatriate and local aid worker collaboration. J. Organ. Behav. 39 (5), 
+594–611.
+Schrage, M., Kiron, D., Candelon, F., Khodabandeh, S., Chu, M., 2023. AI is helping 
+companies redefine, not just improve, performance. MIT Sloan Manag. Rev. 64 (3), 
+1–7.
+Seepana, C., Huq, F.A., Paulraj, A., 2021. Performance effects of entrepreneurial 
+orientation, strategic intent and absorptive capacity within coopetitive relationships. 
+Int. J. Oper. Prod. Manag. 41 (3), 227–250.
+Song, M., Jiang, A., Wang, Z., Hu, H., 2023. Can boundary-spanning leaders take good 
+care of their families? A work-home resource model of leader boundary-spanning 
+behavior. J. Bus. Res. 156, 113517 .
+Sullivan, Y., Wamba, S.F., 2024. Artificial intelligence and adaptive response to market 
+changes: A strategy to enhance firm performance and innovation. J. Bus. Res. 174, 
+114500 .
+Teece, D.J., 2007. Explicating dynamic capabilities: the nature and microfoundations of 
+(sustainable) enterprise performance. Strateg. Manag. J. 28 (13), 1319 –1350 .
+Teece, D.J., Pisano, G., Shuen, A., 1997. Dynamic capabilities and strategic management. 
+Strateg. Manag. J. 18 (7), 509–533.
+Úbeda-García, M., Marco-Lajara, B., Zaragoza-S ˘aez, P.C., Manresa-Marhuenda, E., 
+Poveda-Pareja, E., 2022. Green ambidexterity and environmental performance: the 
+role of green human resources. Corp. Soc. Responsib. Environ. Manag. 29 (1), 32–45.
+Usman, M., Khalid, A., Saeed, M., Shafique, S., Babalola, M.T., Ren, S., 2024. 
+Invigorating the spirit of being adaptive: Examining the role of spiritual leadership in 
+adaptive selling. J. Bus. Res. 177, 114648 .
+Usman, M., Akhtar, M.W., Zahoor, N., Khan, M.A.S., Adomako, S., 2025. Triggering 
+employee green activism through green human resource management: the role of 
+green organizational learning and responsible leadership. Bus. Strateg. Environ. 34 
+(1), 1085 –1096 .
+Van Meerkerk, I., Edelenbos, J., 2018. Facilitating conditions for boundary-spanning 
+behaviour in governance networks. Public Manag. Rev. 20 (4), 503–524.
+Vogel, R., Güttel, W.H., 2013. The dynamic capability view in strategic management: A 
+bibliometric review. Int. J. Manag. Rev. 15 (4), 426–446.
+Walker, A.M., Opferkuch, K., Roos Lindgreen, E., Raggi, A., Simboli, A., Vermeulen, W.J., 
+Salomone, R., 2022. What is the relation between circular economy and 
+sustainability? Answers from frontrunner companies engaged with circular economy 
+practices. Circ. Econ. Sustain. 2 (2), 731–758.
+Wamba, S.F., Queiroz, M.M., Trinchera, L., 2024. The role of artificial intelligence- 
+enabled dynamic capability on environmental performance: the mediation effect of a 
+data-driven culture in France and the USA. Int. J. Prod. Econ. 268, 109131 .
+Wamba-Taguimdje, S.L., Wamba, S.F., Kamdjoug, J.R.K., Wanko, C.E.T., 2020. Influence 
+of artificial intelligence (AI) on firm performance: the business value of AI-based 
+transformation projects. Bus. Process. Manag. J. 26 (7), 1893 –1924 .
+Wang, C., Zhang, X.E., 2022. Binary effects of exploratory and exploitative learning on 
+opportunity identification: the different moderations of environmental munificence 
+and entrepreneurial commitment. Asian Bus. Manag. 21 (4), 497–524.Wang, J., Xue, Y., Sun, X., Yang, J., 2020. Green learning orientation, green knowledge 
+acquisition and ambidextrous green innovation. J. Clean. Prod. 250, 119475 .
+Wu, L.Y., 2010. Applicability of the resource-based and dynamic-capability views under 
+environmental volatility. J. Bus. Res. 63 (1), 27–31.
+Ye, Y., Yu, Q., Zheng, Y., Zheng, Y., 2022. Investigating the effect of social media 
+application on firm capabilities and performance: The perspective of dynamic 
+capability view. J. Bus. Res. 139, 510–519.
+Nadia Zahoor is a Reader at the Queen Mary University of London, UK. She completed her 
+PhD in Management at University of Huddersfield, UK. Her research interests are on 
+strategic alliances, global strategy, innovation, organizational resilience, and entrepre -
+neurial characteristics. She is particularly interested in the context of small and medium- 
+sized enterprises in emerging markets. Her research has been published in mainstream 
+journals, including Global Strategy Journal, Journal of Product Innovation Management, 
+The Leadership Quarterly, British Journal of Management, International Journal of 
+Management Reviews, Journal of Business Research, Technovation, International Business 
+Review, International Marketing Review, Business Strategy and the Environment, Scan-
+dinavian Journal of Management, among others.
+Muhammad Usman is an Associate Professor of Leadership and Organizational Behavior 
+at the College of Business School, University of Sharjah, Sharjah, UAE. His research focuses 
+on organizational leadership and employees ’ work-related outcomes. His recent research 
+has appeared in Human Resource Management, Human Resource Management Journal, 
+Human Relations, Journal of Management Studies, Journal of Organizational Behavior, 
+British Journal of Management, Tourism Management, Journal of Business Ethics, Public 
+Management Review, and Journal of Public Administration Research and Theory, among 
+others.
+Adeel Khalid is an Assistant Professor at Business School, University of Aberdeen, Aber-
+deen, UK. His current research interests include consumer behavior, big data analytics, 
+crowdfunding, and leadership. His recent research has appeared in Journal of Business 
+Research and Industrial Marketing Management, among others.
+Mohamed Gamal Aboelmaged is a Professor of Management at the College of Business 
+School, University of Sharjah, Sharjah, UAE His research focuses on knowledge manage -
+ment, AI capability, and organizational ambidexterity. His recent research has appeared in 
+Journal of Knowledge Management, International Journal of Information Management, 
+Information Processing & Management, and Production Planning & Control, among 
+others.
+Naveed Yasin is a Professor at Abu Dhabi School of Management, Abu Dhabi, UAE. He has 
+been the winner of several international awards including the ‘Outstanding All Round 
+Academic Award ’ from the Teaching & Learning Institute, UK. Dr. Yasin has published 
+extensively in internationally renowned ABS, Scopus indexed journals, and textbooks in 
+the field of enterprise education, education management and cross-border migrant 
+entrepreneurship.N. Zahoor et al.                                                                                                                                                                                                                                 Technological  Forecasting  & Social  Change  221 (2025)  124362  
+10 

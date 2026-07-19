@@ -1,0 +1,774 @@
+O R I G I N A L A R T I C L E
+Change leadership and change embeddedness in
+public organizations: Connecting macrolevel
+reform to microlevel implementation
+Malcolm J. Higgs1
+|
+Ben S. Kuipers2
+|
+Bram Steijn3
+1Hull University Business School, UK
+2Leiden University, The Netherlands
+3Erasmus University Rotterdam,
+The Netherlands
+Correspondence
+Ben S. Kuipers, Institute of Public
+Administration, Leiden Leadership Centre,
+Leiden University, P.O. Box 13228, 2501 EE
+The Hague, The Netherlands.
+Email: b.s.kuipers@fgga.leidenuniv.nl
+Abstract
+Governments initiate major public sector reforms for various
+reasons. Although change leadership appears crucial, its role in
+implementing reforms in public organizations receives scant
+attention. Insights from public administration and change man-
+agement literature help to bridge the gap between these
+macrolevel and microlevel perspectives. Our multilevel study of
+two youth care organizations addressing public sector reform
+explores how leadership behavior—and in interaction between
+top and middle managers—contributes to the concept of what
+we call change embeddedness among front-line employees. The
+use of leadership behaviors during the reform that are leader
+centric (shaping) appear to be associated with greater ambiguity
+and
+worse
+change
+embeddedness.
+However,
+leadership
+focused on engaging employees and boundary spanning with
+external organizations seems to support the embeddedness of
+the reform, especially when these behaviors are connected to
+a clear sense of purpose around the change.
+1
+|
+INTRODUCTION
+Public organizations are continuously challenged to change as they operate in a volatile, uncertain, complex, and
+ambiguous (VUCA) world (Van der Wal, 2017). Kuipers et al. (2014) stress that understanding the way external con-
+text informs the implementation of change and its leadership within public organizations is crucial to develop both
+Received: 20 January 2021
+Revised: 30 October 2021
+Accepted: 22 December 2021
+DOI: 10.1111/padm.12833
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which
+permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no
+modifications or adaptations are made.
+© 2022 The Authors. Public Administration published by John Wiley & Sons Ltd.
+902
+Public Admin. 2023;101:902–916.
+wileyonlinelibrary.com/journal/padm
+the literature and practical approaches to change. Following them, the role of context in change within public organi-
+zations must be understood better by looking at the relationships between macrolevel characteristics (reforms based
+on political decisions affecting an entire sector), organizational mesolevel characteristics (actions of senior manage-
+ment impacting the organization as a whole), and the microlevel characteristics (the individual level where new rou-
+tines and behaviors need to be implemented). It is particularly at the individual level within the organization where
+the change is being experienced and takes shape, and where the achievement of its goals can be determined
+(Higgs & Rowland, 2011). Or as Vogel & Masal (2015, p.1181) put it: “In the transition from micro-level leadership to
+macro-level outcomes, changes in the behaviour of followers are often the missing link.”
+In this respect, the significance of leadership in the context of change has been highlighted by many authors in
+the field of management and public administration (Kuipers et al., 2014; Vogel & Werkmeister, 2021). This view is
+well articulated by Gill (2002, p. 307): “While change must be well managed … it also requires effective leadership to
+introduce change successfully: it is leadership that makes the difference.” However, it is also asserted that studies of
+leadership in general, and studies of change leadership in particular, have tended to be largely acontextual (Pettigrew
+et al., 2001; Zhu et al., 2019). In a seminal review of the leadership literature, Avolio et al. (2009) commented on the
+need for more work that explores the relevance of leadership models and theories within different contextual set-
+tings and at different levels. Over the past decade, we can still observe that there is a lack of integration of context
+within leadership studies (Vogel & Masal, 2015).
+In this article, we aim to make three contributions to the literature. First, to add to the knowledge about the spe-
+cific nature of the public context in relation to change and its leadership. We do this by exploring the interactions
+between “micro- and sector-level changes” (Kuipers et al., 2014, p. 17). This emphasis reflects broader critiques of
+the leadership literature that suggest that a full understanding of the phenomenon requires empirical work that
+explores leadership by employing multilevel analyses (Batistič et al., 2017). Second, to improve our understanding of
+the repertoire of change leadership behaviors used by managers within public organizations dealing with reform. As
+Ford and Ford (2012) report, very few studies even consider change leadership behaviors in the generic management
+literature, whereas such behaviors are “key to successful change” (see also Zhu et al., 2019). Therefore, we will
+explore the range of change leadership behaviors by integrating insights from both (generic) leadership and the pub-
+lic administration literature. Third, to add to the theory of how we can consider the way change becomes embedded
+in a public organization. The determination of change success is widely debated (Hughes, 2016) and considered to
+be particularly difficult in a public sector context when dealing with a diversity of values (Kuipers et al., 2014).
+Although, there seems to be consensus on the impact of attitudes and behaviors by individual actors (Holt
+et al., 2007) on the effectiveness of change, few studies consider the phenomena at an integrated level in relation to
+the behaviors of leaders (Higgs & Dulewicz, 2016). For this, we introduce the concept of change embeddedness build-
+ing on the literature on change attitudes and behaviors (Oreg et al., 2011), together with the notion of social
+embeddedness (Van Emmerik & Sanders, 2004) and adding a group-level perspective.
+Given the above concerns and aims, our overall research question is as follows:
+What is the role of change leadership behavior in enabling macrolevel reform to achieve embedded change at the
+microlevel in public organizations?To answer this question, we first explore the literature on change leadership in the
+context of reform and explore how we can approach the embeddedness of change in organizations. Subsequently,
+we introduce our study designed to explore the implementation of macrolevel public sector reform, as well as the
+roles and behaviors in implementing this at the meso level and embedding required change through behaviors at the
+micro level. We use the reform of the youth care sector in The Netherlands as an excellent opportunity to study this.
+In this reform, an example of a New Public Governance reform (Pollitt & Bouckaert, 2017), the responsibility for
+youth care is decentralized from the national to the local government level. This involves both a new role for the
+390 Dutch municipalities, and for the 199 youth care organizations employing about 30,000 people throughout the
+country. In Section 4, we will further describe this reform and the two youth care organizations we identified as a
+sample for our study. We then present and discuss our findings and derive a number of directions to further advance
+the theory and research and to provide practical angles for change leadership in a reform context.
+HIGGS ET AL.
+903
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2
+|
+CHANGE LEADERSHIP AND PUBLIC SECTOR REFORM
+As Pollitt and Bouckaert (2017) note, reform is an important area of attention for public managers demanding a clear
+role from them in dealing with the accompanying contradictions and trade-offs. Fernandez and Rainey (2006) were
+among the first to specifically address this role as an aspect of change management in a public sector context. Fur-
+thermore, there is increasing recognition that successful change implementation in public sector organizations is sig-
+nificantly impacted by leadership behaviors (Kuipers et al., 2014). As Vogel and Werkmeister (2021, p. 175)
+conclude: “The ability and motivation to prepare, implement, and motivate change has been considered an increas-
+ingly critical aspect of leading public organizations”. In particular, Karp and Helgø (2008) stress the role of change
+leadership in public organizations, which must deal with complexity and chaos as a result of, among other things, the
+multitude of accountabilities and stakeholders as well as the ambiguity that arises from competing values.
+Although scholars agree that leaders play a significant role in change implementation, there is a paucity of empir-
+ical work that specifically examines the relationships between leadership behaviors and change implementation
+(Ford & Ford, 2012). Therefore, we consider the broader leadership literature to identify relevant frameworks for
+exploring change leadership in a public context by starting with Yukl's (2012) integrative behavioral taxonomy. He
+distinguishes behavioral components that are task-oriented (clarifying, planning, monitoring operations, and problem
+solving); relations-oriented (supporting, developing, recognizing, and empowering); change-oriented (advocating
+change, envisioning change, encouraging innovation, and facilitating collective learning); and external (networking,
+external monitoring, and representing). We found that the relational and change elements of this taxonomy align
+with the work of Higgs and Dulewicz (2016) and Higgs and Rowland (2011), who examined change leadership
+behaviors that serve different types of change and their impact on outcomes. Higgs and Dulewicz (2016) distinguish
+between behaviors concerning engaging leadership (identified as essential for the successful implementation of radical
+change), involving leadership (based on transitional rather than radical change), and goal leadership (delivering results
+within a stable context). In a similar vein, Higgs and Rowland (2011) found distinct relationships between three broad
+categories of leader behavior and success in implementing large-scale and complex change. Their framing behaviors
+(involving others in setting direction, skill development, empowering, and trust building), and creating capacity
+(coaching, providing feedback, and creating a positive climate) closely relate to engaging and involving leadership
+(Higgs & Dulewicz, 2016). Shaping behaviors (providing direction, role modeling, expending effort, and holding others
+accountable for delivering tasks) closely link to the above-mentioned goal leadership.
+Higgs and Rowland (2011) found that shaping behavior had a negative impact on large-scale and complex
+changes, whereas it had a positive impact on small-scale, first-order changes. Similarly, Higgs and Dulewicz, (2016)
+note that the context that warrants the goal-oriented style (i.e., stability) is increasingly scarce due to the VUCA envi-
+ronment. The authors further suggest that involving and engaging behaviors appear to be important for achieving suc-
+cess in change implementation in complex and large-scale settings, whereas a more “traditional” leader-centric
+approach appears to be effective within more stable contexts and first-order changes.
+Interestingly, Yukl's (2012) work in terms of the externally oriented category does not appear in the work of
+either Higgs and Rowland or Higgs and Dulewicz, although both refer to the importance of leaders connecting with
+the external environment. Vogel and Masal (2015) observe how public leaders need to develop their abilities to deal
+with environmental changes increasingly. Therefore, Yukl's (2012) external behavior (focusing on boundary spanning)
+seems to be an appropriate addition when considering leadership behaviors in this context. When adding the “net-
+work approach” of change leadership by Van der Voet et al. (2015), we see external behaviors during large-scale
+change in public organizations at executive and middle management levels, such as “collecting information and input
+from societal stakeholders,” as well as “explaining environmental dependencies and developments to subordinates”
+(2015, p. 297). In sum, we consider the combination of the abovementioned frameworks in Table 1 identifying four
+categories of change leadership behavior useful in a reform context. Next, we explore the literature on employee's
+experiences and subsequent behavioral responses to leaders' behaviors to understand the embeddedness of change
+within lower organizational levels as a multilevel phenomenon (Batistič et al., 2017).
+904
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+3
+|
+CHANGE EMBEDDEDNESS
+To date, research has generally acknowledged that change recipients play a key role in determining whether a
+change will succeed (Oreg et al., 2011). A range of different concepts have been used to explore this issue, including
+concepts that stress the negative feelings of change recipients (resistance to change or change cynicism—Reichers
+et al., 1997) as well as concepts that stress a positive approach to change (readiness to change—Armenakis
+et al., 1993). In their review of the literature, Oreg et al. (2011) identified, based on Piderit (2000), three dimensions
+of explicit reactions: an affective (feeling), a cognitive (thinking), and a behavioral (intention) dimension.
+In studying reactions to change from a positive perspective, change readiness concepts seem to be an obvious
+choice (Rafferty et al. 2013). Armenakis et al. (1993, p. 683) defined these as “beliefs, attitudes, and intentions
+regarding the extent to which changes are needed and the organisation's capacity to successfully undertake those
+changes.” This appears to include the three dimensions discerned by Oreg et al. (2011). However, Rafferty
+et al. (2013) note two important problems with the concept. First, the literature that applies it has only measured the
+cognitive aspect. Second, researchers who use the concept have not adopted a multilevel perspective. In the words
+of Rafferty et al. (2013, p. 116), “organisational change initiatives involve the implementation and adoption of change
+initiatives at multiple organisational levels.” In this respect, they advocate the use of a work group's change readiness.
+While we agree with Rafferty et al.’s (2013) proposal, we note that it omits the behavioral component of recipi-
+ent reactions. Therefore, we propose the concept of change embeddedness that includes all three dimensions pro-
+posed by Oreg et al. (2011). This new concept builds on the argument in the literature on social embeddedness that
+states that employees are embedded in a social environment (Van Emmerik & Sanders, 2004) and are linked to their
+co-workers. In the literature on institutional change, social embeddedness is primarily seen as a hindrance to change.
+However, Reay and Hinings (2009) argue that it could also provide a basis for (shared) action and an opportunity to
+implement desired change. Our argument is that this happens when all three dimensions of change reactions coexist
+within a work group. Change embeddedness can therefore be defined as: a situation where members of a workgroup
+or team collectively have positive feelings about a change (affective), understand the change and think positively about it
+(cognitive) and have the intention to exhibit behavior in accordance with the desired change. We suggest that this
+TABLE 1
+Categories of change leadership behavior in a context of public sector reform
+Related conceptualizations of (change) leadership
+Change leadership behavior
+categories
+Dulewicz and
+Higgs (2017)
+Higgs and
+Rowland (2011)
+Van der
+Voet et al. (2015)
+Yukl (2012)
+Shaping: Directing the change
+process by clarifying, planning,
+monitoring operations, problem
+solving
+Goal-oriented
+Shaping
+Task-oriented
+Involving: Relating others to the
+change goals and involving in
+how the goals will be achieved
+Involving
+Framing
+Relationship-oriented
+Engaging: Empowering others to
+create the change, both in terms
+of directions and in creating
+capabilities to achieve these
+Engaging
+Framing and creating
+Change-oriented
+Boundary spanning: Networking
+with external stakeholders,
+external monitoring, and
+explaining and connecting to
+others
+—
+—
+Network
+approach
+External (boundary
+spanning)
+HIGGS ET AL.
+905
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+definition will enable distinctions to be drawn between levels of embeddedness of change in different organizational
+settings.
+We conclude that, based on the literature, change leadership behaviors on the organizational mesolevel as sum-
+marized in Table 1 are expected to have an important role in implementing the macrolevel public sector reform on
+the microlevel among front line workers in terms of change embeddedness.
+4
+|
+METHODS
+Avolio et al. (2009) note that the dominant approach to leadership studies entails quantitative designs, and they call
+for greater use of qualitative studies to develop further insights. Following this call, we explored the above research
+question through the adoption of a critical realist paradigm (Bhaskar, 1998) employing a cross-sectional design and
+comparing two cases using a multilevel approach.
+4.1
+|
+Sampling
+To identify the sample for this study, a “purposive” approach was adopted (Hair et al., 2002). When selecting organiza-
+tions, we looked for those that faced the same overall reform but were likely to use different leadership approaches to
+implementation of change (see below). We applied the following case selection criteria (Hair et al., 2002): (i) similarity in
+size, (ii) serving a similar number and type of municipalities, (iii) similarity in type and range of stakeholders, (iv) similarity
+in structure, with sufficient hierarchical levels to enable a multilevel study, and (v) applying a different implementation
+strategy and leadership to deal with the reform. After applying these, we identified two organizations that agreed to
+participate in the study. The first serves 16 municipalities in the Dutch province of North Holland. We refer to this orga-
+nization as “North Holland Care” (NHC). The second provides youth care services in 17 municipalities in the province
+of South Holland. We refer to this organization as “South Holland Care” (SHC). Both organizations employ approxi-
+mately 600–700 caregivers and support staff. NHC and SHC both offer general preventative as well as specialized care,
+such as foster care. In NHC, we were granted access to study the division providing preventative care in home situa-
+tions (“Prevent”) and the division providing protected care in a youth institute (“Protect”). At SHC, we obtained the
+opportunity to study two departments within their division for preventative care.
+4.2
+|
+Data collection
+To obtain a multilevel design, we conducted (a) interviews with the top managers of both youth care organizations (one at
+NHC and two at SHC), (b) interviews with two division heads per organization (four in total), and (c) four focus groups of
+caregivers (one group of representatives per working unit—19 caregivers in total) each reporting directly to one of the divi-
+sion heads, to allow for the study of change embeddedness as a team-level construct. See the overview in Table 2.
+The limitations of the use of retrospective recollection in interviews are widely discussed (Miles &
+Huberman, 1994). To ameliorate these, we adopted a critical incident approach to the interviews (Butterfield
+et al., 2005). The main incident was the reform itself. In the interviews, we asked respondents to share their in-depth
+stories based on key incidents in the process of implementing the change (such as: important meetings between
+management and caregivers about the reform, and information sharing about both the process and outcomes of
+negotiations with municipalities with the rest of the organization). We explored each of these asking about how it
+impacted them and how others reacted. This entailed asking the interviewees to provide specific examples of behav-
+iors and responses for each incident, as well as providing a description of its context. By probing for multiple exam-
+ples, the problem associated with interviewees “smoothing” the stories was ameliorated if not eliminated
+906
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+(Butterfield et al., 2005). In discussing specific examples, we ensured that we captured respondents' actual experi-
+ences and behaviors. In doing this, we ascertained (i) the context of the story, (ii) the actions and behaviors of the
+leader, (iii) the impact of the behaviors on others, and (iv) the leader's reactions to the outcomes of actions and inter-
+actions. Each of the interviews lasted 1–2 h and was conducted in the interviewee's workplace in accordance with
+the guidelines of both the British and American Psychological Societies (APA and BPS). Interviews were recorded
+and transcribed. We also took field notes during the interviews to supplement our interview data.
+The focus groups were conducted after the interviews. Within the focus groups, respondents were encouraged
+to challenge each other with questions, provide examples of particular situations and formulate their experiences
+within their working unit (Morgan, 1996). This method showed its value during the focus group settings as the rela-
+tively abstract goals of a particular public sector reform could be translated into the daily reality of caregivers in their
+teams. In each group, a few topics were listed on a flipchart (the reform, change leadership, your feelings, knowledge,
+and behaviors in relation to the reform), and respondents were encouraged to discuss these with regard to their
+working unit. The researchers facilitated the conversation to ensure that all individual views were heard and partici-
+pation was not dominated by a few respondents (Blaikie & Priest, 2019).
+4.3
+|
+Trustworthiness
+We maximized the trustworthiness of our data by (i) taking written notes during interviews and focus groups to
+check our understanding of what was said and to clarify any early inferences drawn in interviews, (ii) checking data
+gathered from the interviews and focus groups about decisions and actions that used information contained in any
+relevant project documents provided to triangulate findings (Strauss & Corbin 1990), and (iii) establishing reliability in
+the coding process, which included double-coding of all transcripts from the NHC case and one interview transcript
+of the SHC case (Blaikie & Priest, 2019). When coder alignment of less than 80% arose, the transcript went to a third
+coder for adjudication of differences. Finally, summaries of the coding from each coder were reviewed by a separate
+researcher to check for any apparent consistent biases.
+4.4
+|
+Coding and data analysis
+All interviews and focus groups were recorded and transcribed with the interviewees' and focus group participants' per-
+mission. Transcripts were analyzed employing an iterative approach that encompassed both a priori coding schemes
+(based on the literature) and emergent themes (based on a first coding by the interviewers) (Blaikie & Priest, 2019;
+Strauss & Corbin 1990). A priori coding schemes included characteristics of the change leadership behaviors (Table 1)
+among top and middle managers and the embeddedness of the change among employees (affective and cognitive expe-
+riences about the reform and the intention to exhibit behavior in accordance with the change). Based on the coding of
+the interviews, we found that the behaviors of both top and middle managers had to be put into the context of how
+they looked at the reform and the role of their organization in it. In other words, in line with the broader arguments in
+TABLE 2
+Data collection
+North Holland care
+South Holland care
+Total of respondents
+Total of methods
+Top managers
+1
+2 (double interview)
+3
+2 interviews
+Middle managers
+1 for Prevent
+1 for Protect
+2
+4
+4 interviews
+Care givers
+Focus group of 4 (Prevent)
+Focus group of 5 (Protect)
+Focus group of 5
+Focus group of 5
+19
+4 focus groups
+HIGGS ET AL.
+907
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+the leadership literature, their experience of the context was an important element that informed their behavior. One
+particular and unexpected theme that emerged from the interviews during the coding process was the purpose of the
+organization. In our analyses, we will elaborate on the role of purpose during the change process. An overview of our
+coding in relation to our observations for the two cases are highlighted in Appendix S1.
+4.5
+|
+Background of the reform and cases
+The youth care reform is part of a series of three public sector reforms in the social domain in The Netherlands, all of
+which aim to decentralize budgets and responsibilities (Van der Voet et al., 2017). The series of reforms can be
+placed in the context of the so-called New Public Governance reforms (Pollitt & Bouckaert, 2017), putting more
+emphasis on the participation of various stakeholders such as municipalities, youth care organizations, clients, and
+the wider formal and informal care network. The domain of youth care largely involves child protection and both pre-
+ventative and specialized support for well-being and pedagogical and social questions related to children and youth.
+The aim of the reform is to facilitate the development of more integrated care provision that focuses on local needs
+and with more emphasis on prevention. This change means that all municipalities need to adapt to the new laws,
+build their own new policies, structures, and systems and develop the capabilities to deliver a higher quality of local
+youth care with lower budgets. This has led to changes in contractual arrangements with provider organizations. For
+these organizations, this implies a need to develop new ways of working, potentially significant changes in budgets
+and, in many cases, a need to develop new care-providing portfolios. Furthermore, the reform aims to bring profes-
+sionals closer to their clients and changes their role in the process from care delivering to overseeing the youth care
+process and monitoring the other actors involved, thereby potentially expanding their professional autonomy.
+This reform context is the same for both cases. Furthermore, both organizations operate in an environment with
+a dominating large city and a comparable number of smaller surrounding municipalities. This geographical context
+demands that both organizations apply a district approach since each municipality defines its own policies,
+budgeting, and procedures, in which the major city plays a dominant role. The district approach means that teams,
+which are managed by the municipality, and care providers from various organizations need to work together. In the
+case of SHC, teams in the city districts must focus on both youth and elderly care. This puts extra demands on the
+care providers in these teams as they need to organize care for people of all ages. Otherwise, both organizations
+largely deal with the same needs and restrictions. However, NHC chooses to rely on an organizational model of self-
+managing teams. This means that their caregivers have a great deal of responsibility for managing their own care pro-
+cess as a team. Furthermore, NHC promotes a climate where the organization is considered the home base for all
+employees and is supported by a large range of activities for learning, sharing expertise, and teambuilding. SHC relies
+much more on the district teams within the municipalities, where the type of organization and responsibilities are
+determined. The district teams are considered the home base for employees.
+5
+|
+FINDINGS
+In the sections below, we explore in more detail the results of the two case studies based on the findings of the
+interviews and focus groups, after which we present our case comparison and analysis.
+5.1
+|
+North Holland care
+The top manager of NHC experienced the youth care reform positively. The aims of the reform were very much in
+line with the vision and purpose of the organization: to empower clients and rely on prevention. The manager talked
+908
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+about the reform with middle managers and employees in both small and large group settings and organized meet-
+ings and personal talks. One of the issues identified was the need to create greater awareness of the costs of service
+provision and the need to focus on adding value. The top manager was convinced that involving employees was a
+basis to create more efficiency by sitting down with caregivers to start a dialog to see what this meant and how this
+could be used in their work:
+“When you talk about it, it seems very easy, but when you're working on it, it's very hard, I can tell
+you. So we [the management] had all the flip-overs with all the prices and all the people working for it
+and all the schemes to get it arranged. And afterwards we started talking with the people, the
+employees or the social workers working in the programmes, to make them conscious of the costs of
+their part of the work.” (Top Manager NHC)
+Furthermore, the manager's concern was the agenda and attitude of the municipalities in relation to their new role.
+Therefore, the top manager was very active in boundary spanning by preparing the municipalities prior to the imple-
+mentation of the reform. The manager initiated meetings with the municipalities to get the important issues of youth
+care on the agenda, as the experience was that the municipalities had too little understanding of what youth care
+was about and therefore what was needed to organize the shift of responsibilities toward municipalities.
+At the same time, the internal focus was on engaging employees in the reform. The manager informed all
+employees about the progress made and the negotiations with the municipalities by sharing tweets, sending newslet-
+ters and organizing sessions for questions and reflections. The way the top manager worked provides a good exam-
+ple of the engaging approach adopted throughout the preparations for the reform. The openness toward employees
+about all aspects of the change was pivotal to the success of the change, as reported by the other managers and
+employees. In addition, the top manager simultaneously worked on embedding the employees' identification with
+the organization by fostering the organization's purpose and preserving the organization's identity in the changed
+environment.
+“I think some of the programmes we offer may no longer exist when you think on a longer term. So I
+can't give comfort to the employees that things will go on in the same way. But I see that for many
+people, they work very well because they are part of an organisation. So being part of [NHC] gives
+them much energy and much power to do things.” (Top Manager NHC)
+From the interviews with the division heads of both Protect and Prevent as well as the focus groups with caregivers,
+it became evident that they shared this positive view of the reform and were committed to “making it work.” They
+also described leadership behaviors that focused on engaging and demonstrated high levels of commitment to the
+change. These behaviors were shown in formally organized meetings and during informal conversations with care-
+givers, where the managers created time and opportunity to reflect, openness about the change processes and
+together with caregivers discussed steps that needed to be taken to explore the new ways of working. These behav-
+iors were set in the context of boundary spanning through negotiations with the municipalities. They made it clear to
+employees that the commitment to the provision of a high-quality service required making some difficult decisions.
+“So, I have discussed with them [that] if the external world is changing - that we can't stay the same -
+that we also have to change. That's inevitable. And they agreed. So we talked about that; how are we
+going to change, and how are we going to transform in parallel with the transformation in the outside
+world?” (Division Head “Protect” NHC)
+The division heads communicated openly and clearly that the changes would require a culture change using a combi-
+nation of involving and engaging behaviors. There was a recognition that some employees may be unable to commit
+HIGGS ET AL.
+909
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+to the new culture and associated changes. To deal with this, they had open discussions. When employees felt
+unable to commit to the new ways of working, the division heads worked with the employees to develop or to sup-
+port their pursuit of alternative careers. Here, we can see that the leader behaviors and style of the top manager had
+a direct influence not only on the immediate followers but also on the employees.
+The embeddedness of the change among employees was similar in both groups and was comparable to the way
+the division heads experienced the change. Additionally, the employees had a shared experience based on the way the
+managers accompanied them in the change and tried to make the best of their negotiations with the municipalities:
+“Our management has put a lot of effort in standing there for us as employees and really saying,
+‘We've got high-quality employees and we're fighting for them.’ And that was certainly the case with
+the [municipalities] – they were not easily persuaded.” (Employee “Prevent” Division NHC)
+A difference between the two groups was that in the focus group in the “Protect” division, employees needed more
+time to reflect on the focus of the decentralization. A second difference was that the “Protect” employees experi-
+enced a very new context. As the children in their protected home originated from various municipalities, a conse-
+quence of the decentralization was that they had to deal with the different policies of various municipalities. In
+addition, many of the municipalities did not have all procedures in place and were careful about their budget for
+youth care. A formerly simple case of acquiring €150 for a client to buy shoes and a winter coat now became a prob-
+lematic issue as municipalities debated who should pay. As a result, the “Protect” employees felt burdened by the
+large amount of time they needed to spend on bureaucracy and, most importantly, the frustration that this time
+could not be spent on their clients.
+5.2
+|
+South Holland care
+The top management of SHC comprised two people who worked closely together. During the shared interview, they
+agreed with each other, referred to each other, and complemented each other's contributions to the discussion.
+To be well prepared for decentralization, the top managers initiated several structural changes in anticipation of
+the demand for generalist teams and the focus on preventative care. During this change process, there were redun-
+dancies, and employees were put into new generalist teams. The top managers exhibited shaping behavior by orga-
+nizing informational meetings and study days to communicate the changes to the employees. The focus of these
+meetings was on explaining the newly designed structures and not to give voice to caregivers to provide their inputs.
+During the implementation of the reform, the organization transferred its employees to district teams, similar to
+the Prevent division of NHC. The top managers were concerned about whether their employees would feel at home
+in their new environment. Furthermore, many aspects of the change remained unclear, including new processes and
+rules about case processes and more technical processes as registration systems were in development. Their
+response to this uncertainty was to ensure that employees would take on new responsibilities by exhibiting shaping
+behavior with both middle managers and caregivers by specifying to them the new way of working:
+“So, when an employee is responsible for a case, he shouldn't think, ‘I'm finishing the case, and if no
+one tells me anything, then I've got an easy time.’ No, you are responsible for your complete case. A
+supervisor also manages his team on those issues, but he does need to know what the whole struc-
+ture around financing, workload, etc. looks like.” (Top Manager SHC)
+The two middle managers discussed the issues they encountered together and had regular contact with top manage-
+ment. There were weekly meetings between them, the board and other SHC managers. The managers were involved
+in developing new tactics for coping with the decentralization. This had not always been the case:
+910
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+“Since recently, there are meetings now where we talk about it [the vision and where we are heading]
+… It actually gives me the feeling now that I can think along and have a say in where we are heading
+as an organisation.” (Middle Manager SHC)
+The middle managers experienced a decline in the identity and role of the organization with the growing importance
+of the new district teams organized by the municipalities. However, the extent of this shift varied between munici-
+palities in terms of the extent to which they were involved in the decision-making processes. The middle managers
+covered the behaviors of boundary spanning when they experienced a lack of this type of behavior from the top man-
+agement level. When new procedures were unclear and a municipality did not have a clear way forward, the middle-
+managers provided frameworks for their employees by telling them to do it the old “SHC way.” Many aspects of the
+reform remained unclear to them, and they felt as if they were “pioneering.”
+As with the top management, the middle managers tried to engender a new way of thinking among their
+employees. As a consequence of their new “individual” position in the district teams, the responsibilities of
+employees increased. Both managers struggled with how to keep in touch with their employees and how often they
+should reach out to them and shifted towards more involving leadership:
+“In the beginning, when I was asked, ‘How are you?,’ my first answer was ‘busy.’ Then I suddenly
+realised, ‘Why is that of interest to employees, to hear that from me all the time?’ They just need
+attention or they just need anything particular from me.” (Middle Manager SHC)
+The managers were uncertain about how their role and relationships with their employees would develop in the
+future. Currently, they felt that their role was that of an “employment agency” rather than a traditional line manager,
+and they experienced the municipalities treating them like “flex workers.”
+The reactions of the middle managers to the behaviors and style of the top managers again illustrate the multi-
+level effect of the top managers' behaviors. In this case, the middle managers responded to gaps in the external ele-
+ments of the change and the potentially negative impact of the predominantly shaping style of the top managers by
+adopting a different approach.
+The employees agreed with the middle managers that the new processes were still unclear, and they experienced
+high levels of uncertainty, increased caseloads and more bureaucracy and paperwork, all of which had a negative
+impact on the quality of the care they could give as well as their own “joy of working.”
+“Last week I came to the house of a man, an old man, and then I had to talk about what he needs in
+terms of housekeeping. After I left, I was so terribly sad because I just don't know anything about
+these matters. […] How should I arrange this? […] I have to fill out 26 forms, and there is nothing I
+know about this, and everybody is busy.” (Employee SHC)
+Due to a lack of clarity, the employees talked about their desire to be provided with guidelines. They explained that
+they were not sure about their accountabilities and what their job should involve. In addition, they experienced
+uncertainties about the case processes. They felt that they had two bosses: SHC and the municipality. As was the
+case in the interviews with the middle and top management, the employees explained how SHC was becoming less
+significant to them.
+“Because then you have our organisation that says, ‘We want to help you in your care work.’ […] But
+then the municipality says, ‘We don't want your organisation to do that’ […] then our managers say,
+‘But we are supervising you,’ and the municipality says, ‘But we are paying you, so we are supervising
+you.’” (Employee SHC)
+HIGGS ET AL.
+911
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+The majority of the employees in the focus groups indicated that they understood the purpose of the shift toward a
+more preventative approach and tended to be more aware of costs and of their new position in the district teams.
+However, they did not like the increased level of bureaucracy and the way in which the changes were being
+implemented by municipalities. The employees only partially supported the approach and increased accessibility to
+clients. In particular, the idea of activating a client's network was one that they believed was difficult to realize:
+“This is really a shift of thinking in society, and we are not going to solve that with a talk [with the cli-
+ent] at the kitchen table. […] Above all, we are dealing with clients for whom maintaining a network is
+problematic.” (Employee SHC)
+Here, we see that the relationship between the levels, in terms of behaviors and outcomes, has a negative impact on
+the embeddedness of change behaviors at the microlevel as a result of the top managers' behaviors causing ambigu-
+ity at the middle management level.
+5.3
+|
+Case comparison and analysis
+Based on the comparison of the two cases (see Appendix S1 for an overview of the most important characteristics)
+we observed that within SHC, top management leadership related to decisions about the structure, whereas in NHC,
+there was considerably more dialog among the managerial levels and caregivers. In the latter case, the top and middle
+managers provided general frameworks, and the caregivers were asked to develop their own solutions within these
+frameworks. To facilitate this, the management organized an intensive meeting schedule to meet with all employees.
+This approach can be described as a combination of involving and engaging leadership. Furthermore, it appears that
+management at NHC took a more proactive external approach and used boundary-spanning leadership behaviors,
+such as involving the municipalities in their vision of youth care. In this way, the top manager shaped the broader
+context of the organization in line with the desired change. Vice versa the top manager translated back the implica-
+tions of these activities into the organization through framing the communication with caregivers. This illustrated
+how the alignment of behaviors across levels led to clear embedding of the change in terms of cognitive, affective,
+and behavioral components. In SHC, the leadership approach was more reactive, both internally and externally.
+Boundary-spanning behaviors by the top management seemed to be much more focused on following the model ini-
+tiated by the municipalities. Consequently, many of the problems that occurred needed to be addressed by middle
+management. The dominant leadership approach can be described as shaping; focused on problem solving, monitor-
+ing, and a sometimes very detailed operational focus. In a later stage, middle managers and caregivers got more
+involved with top management in dialogs about the reform in response to some of the problems occurring during the
+reform process. At NHC, leadership behaviors were focused on organizational purpose, which was shared by care-
+givers. At SHC, a focus on organizational purpose seemed to be lacking, and employees reported a lack of clarity on
+the direction. Generally, we found more embedded change at NHC; employees understood and believed in the
+change and felt positive about it. Especially within the Prevent division, they felt that the change was going smoothly
+and that they were acting in line with the organizational purpose. At SHC, we did not find the change to be embed-
+ded. Employees mostly understood the reform but felt that the change process failed to work smoothly; they had lit-
+tle belief in the changes and often felt frustrated. Their behaviors were largely focused on daily concerns rather than
+broader change.
+The two cases indicate that change leadership behaviors within an organization, such as categorized in Table 1,
+are important in translating public management sector reforms into embedded change among employees. Organiza-
+tions deal differently with these issues. A consistent approach and style between managerial levels helped in achiev-
+ing effective implementation. A participative approach (focus on involving and engaging leadership) was more
+successful than a top-down approach focused on shaping leadership. However, we also saw an important role of
+912
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+boundary-spanning leadership, which is often ignored in the change management literature. When this was lacking at
+the top-management level, middle managers tried to compensate. The more successful approach seemed to arise
+when both levels of management were coherent in their approach to the outside world and translated the struggles
+with this outside world to the rest of the organization, resulting in more positive attitudes of caregivers. This illus-
+trates the importance of a multilevel perspective.
+In the case of NHC, we observed a coherent pattern of leadership behaviors (focusing on involving, engaging and bound-
+ary spanning), but the effect differed in the two divisions. Employees in both divisions understood and believed in the rea-
+sons for the change, but in the case of “Protect,” the organizational purpose did not fit the working reality. To an extent,
+this illustrates that context is an important component in understanding the impact of leader behaviors in change implemen-
+tation. The consequence was more dissatisfaction with the various demands and new procedures of the municipalities
+within the “Protect” division. In the case of SHC, we observed a similar concern among employees, who even felt less confi-
+dent about the effects of the entire reform. In that organization, there seemed to be no feeling of shared purpose.
+We found that leadership behaviors can more successfully translate sector changes to the organization and
+embed change among employees when they are connected to a clear sense of organizational purpose and belonging-
+ness. This finding was unexpected. In the literature, there is a shared view that organizational purpose plays an
+important role in securing successful organizational outcomes (Avolio & Gardner, 2005). However, in the context of
+leadership per se, and change leadership in particular, this has rarely been explored (By, 2021).
+6
+|
+DISCUSSION AND CONCLUSION
+The aim of this article was to contribute to the literature by studying the role of leadership behaviors in translating
+macrolevel change (government reforms) into organizational-level actions and engaging employees to embed the
+change. In answer to our research question, we found that the macro environment (context and content of the
+reform) were similar for both of the studied organizations. However, the way the two organizations dealt with the
+change at the meso level as well as its accompanying leadership behaviors were quite different, and this related to
+how the change was embedded at the micro level.
+A first important contribution of this study is the introduction of the concept of change embeddedness. Based
+on the literature on change reactions and social embeddedness, we arrived at the following definition of change
+embeddedness: a situation where members of a workgroup or team collectively have positive feelings about a change
+(affective), understand the change and think positively about it (cognitive) and have the intention to exhibit behavior in
+accordance with the desired change. By applying a group-based approach (By et al., 2018), we avoided individual sub-
+jective responses (a common limitation of surveys with self-reported change attitudes), and were able to consider
+consistency among the three dimensions at the individual level, but also the consistency of these change reactions at
+the group level. This provided us with the opportunity to differentiate between organizations and explore relation-
+ships with observed change leadership behaviors.
+A second contribution is about the role of leadership behaviors in implementing reform. It seems that especially
+a combination of involving and engaging leadership behaviors (Higgs & Dulewicz, 2016) together with boundary
+spanning behaviors (Yukl, 2012) by top managers and middle managers on meso-level are beneficial to interpret the
+macrolevel reform, take part in shaping the context and translate the reform inside the organization to mobilize
+others in the organization on microlevel and thereby contribute to change embeddedness. This finding makes a sig-
+nificant contribution to the literature by addressing the gap identified by Kuipers et al. (2014), who noted that many
+change management studies that focus on reform underemphasise the role of leadership within organizations. Fur-
+thermore, it illustrates the role of multilevel analyses in enhancing our understanding of leadership (Batistič
+et al., 2017), which is a third contribution of our study.
+Although there is a critique in the literature of top leader-centric perspectives on change, we observe a crucial role
+of the experiences and behaviors of top managers. The way top leaders experience major reforms influences how they
+HIGGS ET AL.
+913
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+respond to them (Cannella et al., 2008), which subsequently seems to have an effect on the embeddedness of change
+in terms of experience and behavior of others in the organization. Top leaders perform an important link by translating
+macrolevel factors to mesolevel policies and practices in their role as boundary spanners for the organization.
+More specifically, we found that focusing on shaping leadership (Higgs & Rowland, 2011) related to increased
+perceptions of ambiguity and bureaucracy on the micro level. Our findings support the view that within the context
+of public sector reform, the adoption of an approach characterized by “managerialism” (Hood, 1991) leads to less
+effective change implementation. In NHC, proactive and more engaging leadership behaviors tended to ameliorate
+the ambiguity and uncertainties surrounding the macrolevel change at the micro level. Top leadership in NHC
+adopted a strategic and proactive stance in the change with a visible outward and inward focus, using boundary-span-
+ning behaviors, which related to an alignment with the purpose of the reform of behaviors at both middle manage-
+ment and employee levels and therefore more embedded change. Indeed, the findings provide support for the
+common view that an approach to change that entails higher levels of involvement of front-line employees in deci-
+sions that impact their roles is more likely to lead to more embedded change (Higgs & Rowland, 2011). In addition,
+we found that there is a need for the alignment of leader behaviors between top- and middle-level managers to
+develop the embeddedness of the change.
+Our findings help to extend a more internally oriented model for change leadership behaviors (cf. Higgs &
+Dulewicz, 2016), by including boundary-spanning behaviors for a more complete conceptualization. At the same
+time, our findings help to shed light on the particular role of boundary-spanning when applying the taxonomy by
+Yukl (2012) in a reform context (Pollitt & Bouckaert, 2017). These behaviors appear not only externally focused, but
+are useful in translating back managers' experiences and advancements in the environment into the organization
+thereby engaging others and enhancing change embeddedness.
+Moreover, we found that increasing “purpose” and a sense of belonging was very important, which is a fourth contri-
+bution of our study. By developing a shared purpose that encompassed various values, NHC managed to effect the change
+(especially within their Prevent division). This is in line with conclusions by Van der Voet et al. (2017) who find that an expe-
+rienced meaningfulness of the reform for both society and clients fosters change commitment among caregivers. In SHC,
+we observed a lack of top management focus on and effort in creating a sense of purpose for the mesolevel change follow-
+ing the macrolevel reform. Unlike the caregivers in NHC, those in SHC experienced more doubts about the possibility of
+making the reform work (in terms of empowering clients). Thus, our study suggests that leadership behaviors that show
+clear purpose are proactive and create bottom-up engagement, help to meet reform goals and maintain the identity of the
+organization and front-line workers' commitment. This is in line with other research in public administration (Tummers &
+Knies, 2013) and the leadership literature (Avolio & Gardner, 2005) that shows the importance of purpose and meaningful-
+ness in organizations and its important role in securing successful outcomes.
+6.1
+|
+Limitations and areas for future research
+As with any research, this study has a number of limitations. First, employing case study methods limits the generaliz-
+ability of the findings (Blaikie & Priest, 2019; Yin, 2018). Further research that builds on these findings and employs
+a quantitative survey-based design would enhance our understanding of the way reform is implemented and its
+impact on employees' experiences and behaviors.
+Second, there is a critique that the cross-sectional nature of much of the change research precludes consider-
+ation of the nature of the phenomenon over time (Pettigrew et al., 2001). We have attempted to ameliorate this
+issue by adopting a retrospective approach to both the interviews and the focus groups, in which we asked respon-
+dents to think back over the period of the change. Miles and Huberman (1994) emphasized the use of retrospective
+recall as an issue in interviewing. The problems associated with this are reduced to some extent by the use of a criti-
+cal incident technique to encourage respondents, in both the interviews and focus groups, to provide as much detail
+as possible about actual situations they encountered.
+914
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Third, we applied a multilevel approach to consider the characteristics and relationships between the macro, meso,
+and micro levels of the reform, but were (apart from generally accessible information about the reform) mostly dependent
+on the interpretations and experiences of managers and caregivers about the meaning of the macrolevel of the reform. Of
+course, these experiences are valid as they also affected their behaviors and responses, yet future research would be help-
+ful to study the relationships between all three levels by including perspectives of external stakeholders as well.
+Fourth, the role of purpose in relation to change and leadership requires further study. Based on By (2021), we may
+conclude that so far the issue of purpose in relation to leadership has been neglected, but also requires different perspec-
+tives on leadership (such as through more shared models of leadership). Such perspectives were beyond the scope of our
+exploratory study and require attention in future studies putting purpose more central in the research question.
+To conclude, with this study, we contribute to the literature related to the nature and impact of leaders' roles
+and behaviors in the context of reform as a large-scale change. We observe a direct link between leadership behav-
+iors and the embeddedness of change among front-line employees. To enhance this embeddedness, public managers
+can play an important role by means of their leadership behavior in supporting the creation of a shared understand-
+ing of the purpose of the reform, and integrating this with the purpose of the organization.
+ACKNOWLEDGMENT
+The authors wish to thank Prof. Lars Tummers (Utrecht University) for his contributions to an earlier version of this
+paper.
+DATA AVAILABILITY STATEMENT
+The data are not publicly available due to privacy or ethical restrictions. The data that support the findings of this
+study are available upon reasonable request from the corresponding author and subject to the data regulations of
+Leiden University.
+ORCID
+Ben S. Kuipers
+https://orcid.org/0000-0003-0592-1709
+REFERENCES
+Armenakis, A.A., Harris, S.G. & Mossholder, K.W. (1993) Creating readiness for organizational change. Human Relations,
+46(6), 681–703.
+Avolio, B.J. & Gardner, W.L. (2005) Authentic leadership development: getting to the root of positive forms of leadership.
+The Leadership Quarterly, 16(3), 315–338.
+Avolio, B.J., Walumbwa, F.O. & Weber, T.J. (2009) Leadership: current theories, research, and future directions. Annual
+Review of Psychology, 60, 421–449.
+Bhaskar, R. (1998) Philosophy and scientific realism. In: Archer, M., Bhaskar, R., Collier, A., Lawson, T. & Norrie, A. (Eds.)
+Critical realism: essential readings. London: Routledge, pp. 16–47.
+Batistič, S., Černe, M. & Vogel, B. (2017) Just how multi-level is leadership research? A document co-citation analysis 1980–
+2013 on leadership constructs and outcomes. The Leadership Quarterly, 28(1), 86–103.
+Blaikie, N. & Priest, J. (2019) Designing social research: the logic of anticipation. Cambridge: Polity Press.
+Butterfield, L.D., Borgen, W.A., Amundson, N.E. & Malio, A.-S.T. (2005) Fifty years of the critical incident technique:
+1954-2004 and beyond. Qualitative Research, 5(4), 475–497.
+By, R.T. (2021) Leadership: in pursuit of purpose. Journal of Change Management, 21, 1–15.
+By, R.T., Kuipers, B. & Procter, S. (2018) Understanding teams in order to understand organizational change: the OTIC model
+of organizational change. Journal of Change Management, 18(1), 1–9.
+Cannella, B., Finkelstein, S. & Hambrick, D.C. (2008) Strategic leadership: theory and research on executives, top management
+teams, and boards. Oxford: Oxford University Press.
+Fernandez, S. & Rainey, H.G. (2006) Managing successful organizational change in the public sector. Public Administration
+Review, 66(2), 168–176.
+Ford, J.D. & Ford, L.W. (2012) The leadership of organization change: a view from recent empirical evidence. In: Shani, A.B.(.R.).,
+Pasmore, W.A. & Woodman, R.W. (Eds.) Research in organizational change and development, Vol. 20. Bingley: Emerald Group
+Publishing Limited, pp. 1–36.
+HIGGS ET AL.
+915
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Gill, R. (2002) Change management–or change leadership? Journal of Change Management, 3(4), 307–318.
+Hair, J.F., Anderson, R.E., Tatham, R.T. & Black, W.C. (2002) Multivariate data analysis, 6th edition. Englewood Cliffs, NJ:
+Prentice Hall.
+Higgs, M.J. & Dulewicz, S.V. (2016) Leading with emotional intelligence. London: Palgrave Macmillan.
+Higgs, M.J. & Rowland, D. (2011) What does it take to implement change successfully? A study of the behaviors of change
+leaders. The Journal of Applied Behavioral Science, 39, 3, 309–335.
+Holt, D.T., Armenakis, A.A., Feild, H.S. & Harris, S.G. (2007) Readiness for organizational change: the systematic develop-
+ment of a scale. The Journal of Applied Behavioral Science, 43(2), 232–255.
+Hood, C. (1991) A public management for all seasons? Public Administration, 69(1), 3–19.
+Hughes, M. (2016) The leadership of organizational change. New York: Routledge.
+Karp, T, & Helgø, T.(2008). The future of leadership: the art of leading people in a “post-managerial” environment. Foresight,
+10(2), 30–37.
+Kuipers, B.S., Higgs, M.J., Kickert, W.J.M., Tummers, L.G., Grandia, J. & Van der Voet, J. (2014) The management of change
+in public organisations: a literature review. Public Administration., 92(1), 1–20.
+Miles, M.B. & Huberman, A.M. (1994) Qualitative data analysis, 2nd edition. Thousand Oaks, CA: Sage.
+Morgan, D.L. (1996) Focus groups. Annual Review of Sociology, 22(1), 129–152.
+Oreg, S., Vakola, M. & Armenakis, A. (2011) Change recipients' reactions to organizational change: a 60-year review of quan-
+titative studies. The Journal of Applied Behavioral Science, 47(4), 461–524.
+Pettigrew, A.M., Woodman, R.W. & Cameron, K.S. (2001) Studying organizational change and development: challenges for
+future research. The Academy of Management Journal, 44(4), 697–713.
+Piderit, S.K. (2000) Rethinking resistance and recognizing ambivalence: a multidimensional view of attitudes toward an orga-
+nizational change. Academy of Management Review, 25(4), 783–794.
+Pollitt, C. & Bouckaert, G. (2017) Public management reform: a comparative analysis-into the age of austerity. Oxford: Oxford
+University Press.
+Rafferty, A.E., Jimmieson, N.L. & Armenakis, A.A. (2013) Change readiness: a multilevel review. Journal of Management,
+39(1), 110–135.
+Reay, T. & Hinings, C.R. (2009) Managing the rivalry of competing institutional logics. Organization Studies, 30(6), 629–652.
+Reichers, A.E., Wanous, J.P. & Austin, J.T. (1997) Understanding and managing cynicism about organizational change. Acad-
+emy of Management Perspectives, 11(1), 48–59.
+Strauss, A.L. & Corbin, J. (1990) Basics of qualitative research, grounded theory procedures and techniques. Thousand Oaks, CA: Sage.
+Tummers, L.G. & Knies, E. (2013) Leadership and meaningful work in the public sector. Public Administration Review, 73(6),
+859–868.
+Van der Voet, J., Kuipers, B. & Groeneveld, S. (2015) Held back and pushed forward: leading change in a complex public sec-
+tor environment. Journal of Organizational Change Management, 28(2), 290–300.
+Van der Voet, J., Steijn, B. & Kuipers, B.S. (2017) What's in it for others? The relationship between prosocial motivation and
+commitment to change among youth care professionals. Public Management Review, 19(4), 443–462.
+Van der Wal, Z. (2017) The 21st century public manager. London: Macmillan International Higher Education.
+Van Emmerik, H. & Sanders, K. (2004) Social embeddedness and job performance of tenured and non-tenured professionals.
+Human Resource Management Journal, 14(1), 40–54.
+Vogel, R. & Masal, D. (2015) Public leadership: a review of the literature and framework for future research. Public Manage-
+ment Review, 17(8), 1165–1189.
+Vogel, R. & Werkmeister, L. (2021) What is public about public leadership? Exploring implicit public leadership theories.
+Journal of Public Administration Research and Theory, 31(1), 166–183.
+Yin, R.K. (2018) Case study research: design and methods. Thousand Oaks: SAGE Publications Incorporated.
+Yukl, G. (2012) Effective leadership behavior: what we know and what questions need more attention. The Academy of
+Management Perspectives, 26(4), 66–85.
+Zhu, J., Song, L.J., Zhu, L. & Johnson, R.E. (2019) Visualizing the landscape and evolution of leadership research. The Leader-
+ship Quarterly, 30(2), 215–232.
+SUPPORTING INFORMATION
+Additional supporting information may be found in the online version of the article at the publisher's website.
+How to cite this article: Higgs, M. J., Kuipers, B. S., & Steijn, B. (2023). Change leadership and change
+embeddedness in public organizations: Connecting macrolevel reform to microlevel implementation. Public
+Administration, 101(3), 902–916. https://doi.org/10.1111/padm.12833
+916
+HIGGS ET AL.
+ 14679299, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12833 by University College London UCL Library Services, Wiley Online Library on [29/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

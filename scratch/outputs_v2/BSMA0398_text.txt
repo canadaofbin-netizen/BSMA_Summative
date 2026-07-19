@@ -1,0 +1,1199 @@
+https://doi.org/10.1177/01492063211003951Journal of Management
+ 
+DOI: 10.1177/01492063211003951
+© The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions 
+Can Supportive Coaching Behaviors Facilitate 
+Boundary Spanning and Raise Job Satisfaction? 
+An Indirect-Effects Model
+Jennifer A. Marrone
+Seattle University
+Narda R. Quigley
+Villanova School of Business
+Gregory E. Prussia
+John Dienhart
+Seattle University
+As organizations encounter unpredictable external environments, expectations are changing for 
+managers and team leaders toward providing more facilitative, less directive coaching in order to 
+stimulate more flexibility and adaptability. Prior research has underscored the role of team leader 
+supportive coaching behaviors in reinforcing and growing team member capabilities to work 
+independently from the leader. What is not yet understood, however, is if and how supportive 
+coaching behaviors relate to team member engagement in boundary-spanning behaviors, which 
+are team member efforts to establish and maintain relationships with key parties external to their 
+team. This study examines how team leaders’ supportive coaching of boundary spanning—defined 
+as a set of behaviors that (a) encourages team members to engage in frequent and open collabora -
+tions with key parties external to the team and (b) grants team members the latitude to engage 
+external parties in ways the team members deem necessary—relates to team member boundary-
+spanning behavior and job satisfaction through a motivational pathway. We test a hypothesized 
+indirect-effects model within a field sample of 256 engineering employees working in teams. 
+Results indicate that leaders’ supportive coaching of boundary spanning is positively related to 
+team member boundary-spanning self-efficacy, which in turn is positively related to team member 
+engagement in boundary-spanning behavior for their teams. Also, team members who reported 
+more boundary-spanning behavior experienced greater job satisfaction. The findings have impor -
+tant implications for organizations, team leaders, and team members.
+Keywords:  supportive coaching; boundary-spanning behavior; job satisfaction; mediation
+Corresponding author: Jennifer A. Marrone, Albers School of Business and Economics, Seattle University, 901 
+12th Avenue, P.O. Box 222000, Seattle, WA 98122-1090, USA. 
+E-mail: marronej@seattleu.edu1003951 JOM XXX10.1177/01492063211003951Journal of Management Marrone et al. / Boundary-Spanning Behavior
+research-article 2021
+Vol. 48No.5, May 2022 1131– 1159
+1131
+
+Rapid, constant, and disruptive change is now the norm [in organizations]. . . . Twenty-first 
+century managers simply don’t (and can’t!) have all the right answers. . . . The role of the 
+manager, in short, is becoming that of a coach. (Ibarra & Scoular, 2019: 112)
+Ibarra and Scoular’s (2019) research captures a shift in organizations: Leaders are expected 
+to provide more facilitative, less directive coaching to employees, who are engaged in 
+increasingly dynamic and complex work environments. Reflective of this trend, some team 
+leaders engage in “supportive coaching” behaviors that encourage and empower team mem -
+bers to work independently from the leader and to grow their capacity to self-manage the 
+team processes that drive team and organizational performance (see Carson, Tesluk, & 
+Marrone, 2007; Morgeson, 2005; Wageman, 2001). One team member activity that is critical 
+for modern organizations is boundary spanning . Boundary-spanning behaviors are team 
+member efforts to establish and maintain relationships with key entities external to their 
+working unit for the purposes of achieving work-unit tasks and objectives (Ancona & 
+Caldwell, 1992). When a team member solicits resources from upper-level management, he 
+or she is engaged in boundary-spanning behavior. Other examples of boundary-spanning 
+behavior include negotiating deliverable deadlines directly with another working unit and 
+acquiring needed technical expertise from external subject-matter experts. These efforts can 
+yield markedly higher client satisfaction (Marrone, Tesluk, & Carson, 2007), facilitate team 
+learning (Edmondson, 2003), enhance organizational innovation (Hargadon, 1998), and 
+increase sales margins (Gladstein, 1984).
+Given the importance of boundary spanning, it is surprising that we do not yet understand 
+how team leaders can support and motivate their members to engage in these behaviors. We 
+do not know how (or if) a team leader’s choice to “act as coach”—to be more facilitative and 
+less directive—relates positively to team member boundary spanning. Addressing this gap is 
+significant because enacting team boundary spanning has shifted away from team leaders 
+and toward the team itself. Team members are increasingly expected to represent team goals 
+and progress directly to stakeholders, incorporate diverse expertise from other functional 
+areas, and coordinate their interdependencies with other work groups (see Ancona & 
+Bresman, 2007; Cross et al., 2000; Marrone, 2010; Yan & Louis, 1999). Understanding the 
+leader’s efforts to support team member engagement in these activities is thus ever more 
+important (Tesluk & Mathieu, 1999). Also, boundary spanning is notably challenging for 
+team members to execute and may require specific leadership support. For example, mem -
+bers who boundary span report role overload and burnout due to conflicting expectations and 
+demands placed on them by diverse external parties, which may relate to poor work experi -
+ences and lower job attitudes (Marrone et  al., 2007; Singh, Goolsby, & Rhoads, 1994). 
+Leaders might be able to help team members overcome various deterrents to their engage -
+ment in this behavior, however, by emphasizing cross-boundary engagement and encourag -
+ing boundary-spanning behavior.
+In the current study, we therefore examine the relationship of team leader coaching behav -
+iors on team member engagement in boundary spanning and team member job satisfaction. 
+We focus specifically on team leaders’ supportive coaching of boundary spanning, which we 
+conceptualize as a set of behaviors that (a) encourages team members to engage in frequent 
+and open collaborations with key parties external to the team and (b) grants team members 1132 Journal of Management / May 2022
+the latitude to engage external parties in ways that the team members deem are necessary. We 
+use social cognitive theory (e.g., Bandura, 1986, 1997, 2012) and Hackman and Wageman’s 
+(2005) theory of team coaching as the foundation of our arguments, and we examine whether 
+boundary-spanning self-efficacy (Marrone et  al., 2007) serves as an important motivational 
+mechanism through which supportive-coaching behaviors relate to team member boundary 
+spanning. We hypothesize that team leader supportive-coaching behaviors relate to higher 
+member beliefs in their boundary-spanning capabilities, these beliefs relate to members’ 
+engagement in boundary-spanning behaviors, and these behaviors relate to higher levels of 
+job satisfaction.
+This study makes several important contributions. First, we clarify the relationship 
+between supportive-coaching behavior and team member boundary-spanning behavior, 
+which is nearly absent in the work teams coaching literature in the organizational behavior 
+domain. Extant studies have focused on the impacts of team leader supportive-coaching 
+behaviors on internal team dynamics, yet increasing demands are placed on team members 
+to establish and maintain relationships across  team boundaries. Second, our findings offer an 
+important theoretical extension regarding the effective leadership of externally dependent 
+work units by extending foundational work in the boundary-spanning literature that previ -
+ously highlighted directive team leader behaviors. We explore the role of supportive-coach -
+ing behaviors because boundary spanning is notably challenging for team members to 
+execute and members may seek out and benefit from specific leadership support in this 
+domain. Third, this study advances understanding of how supportive-coaching behavior pos -
+itively relates to team members’ boundary-spanning behavior. Specifying and testing this 
+underlying motivational mechanism answers recent calls for greater theoretical understand -
+ing of the antecedents to team member boundary-spanning behavior (Joshi, Pandey, & Han, 
+2009). Fourth, we examine the relationship between boundary-spanning behavior and job 
+satisfaction in an attempt to elucidate prior boundary-spanning research, where classic argu -
+ments for a positive association between boundary-spanning behavior and job satisfaction 
+(e.g., Aldrich & Herker, 1977; Hallenbeck, Hautaluoma, & Bates, 1999; Keller, 1978) have 
+been called into question by some more recent empirical findings (e.g., Marrone et  al., 2007; 
+Ramarajan, Bezrukova, Jehn, & Euwema, 2011). Last, this study advances understanding of 
+the ongoing supportive-coaching behaviors exhibited by organizational managers and team 
+leaders. In so doing, we contribute to calls for deeper exploration of managerial coaching 
+dimensions, mechanisms, and effects (e.g., Dahling, Taylor, Chau, & Dwight, 2016).
+Theoretical Background
+Team Member Boundary-Spanning Behavior
+As noted already, boundary-spanning behaviors are defined as the efforts made by employ -
+ees to establish and maintain relationships with key entities external to one’s own working 
+unit for the purposes of achieving work unit tasks and objectives (Ancona & Caldwell, 1992; 
+Marrone et  al., 2007). The overarching function of these behaviors is to manage the work 
+unit’s relationships with its external environment (Ancona, 1990; Leifer & Delbecq, 1978). 
+In considering work teams as subsystems embedded in their larger organizational system, the 
+necessity for work teams to engage externally becomes readily apparent. Work teams depend 
+upon their organizational environment for “human, technological, and financial information, 1133 Marrone et al. / Boundary-Spanning Behavior
+for information and power, and eventually for [their] very existence” (Friedlander, 1987: 
+303). In turn, the operations and output of the team further constitutes the system (Friedlander, 
+1987). Beyond the organizational environment, work teams and their members also contrib -
+ute to, and extract resources from, clients, suppliers, and other organizations residing across 
+organizational boundaries (Rosenkopf & Nerkar, 2001; Takeishi, 2001). The active manage -
+ment of a working unit’s relationships to key parties in its environment enables the team to 
+secure resources, exert power, obtain information (Aldrich & Herker, 1977), and experiment 
+and collaborate with other work units (Ancona, 1990). As such, member boundary spanning 
+underlies the survival and success of the team and its organization.
+Foundational empirical research in the work teams domain by Ancona and Caldwell 
+(1988, 1992) identified three primary types of boundary-spanning behaviors that are exe -
+cuted by work-unit members on the team’s behalf. These behaviors aim to (a) represent one’s 
+work unit in a positive way to external entities in order to gain further resources and/or pro -
+tect the unit from undue and adverse pressures (referred to as ambassadorial  behaviors), (b) 
+scan actively for resources and expertise embedded in external entities (referred to as scan-
+ning activities), and (c) manage interdependencies across work teams, such as informing 
+others of the work unit’s task progress (referred to as task coordination  activities). Later 
+research supports that engaging in these behaviors significantly affects the performance of 
+the focal working unit, the organization, and other interdependent entities (for related discus -
+sions of boundary-spanning behaviors and outcomes, see Cross et  al., 2000; Faraj & 
+Yan, 2009; Marrone, 2010; Marrone et al., 2018; Somech & Khalaili, 2014). For exam -
+ple, ambassadorial behaviors can elevate the unit’s ability to secure needed resources to 
+achieve organizational objectives (Ancona & Caldwell, 1992; Benoliel & Somech, 2015; 
+Druskat & Wheeler, 2004), and scanning behaviors can result in greater organizational learn -
+ing and innovation (Lorenzoni & Lipparini, 1999; Mors, 2010).
+The benefits of boundary-spanning behavior notwithstanding, significant variance exists 
+in the extent to which team members will engage in these activities. Early in-depth qualita -
+tive studies conducted by Ancona (1990) and Ancona and Caldwell (1992) demonstrated that 
+within some teams, members exhibit high levels of boundary-spanning activity, whereas in 
+other teams, members exhibit notably low levels and remain comparatively more isolated 
+from external parties relevant to the team’s task work. Research has not yet determined which 
+antecedent variables are most predictive of this variance, though these qualitative depictions 
+illuminated leadership as an important factor to consider (see also Marrone, 2010). Team 
+leaders who explicitly communicated strategies to their teams that emphasized early external 
+team activity were uniquely successful in influencing team members to engage in important 
+boundary-spanning behaviors that resulted in the team’s higher effectiveness. These team 
+leaders understood the need for boundary spanning, placed priority on this activity, and 
+directed members’ behaviors accordingly.
+In contrast, when team leaders did not prioritize and direct the boundary-spanning func -
+tion, team members demonstrated either passive reactivity to the team’s external environ -
+ment or unilaterally imposed their team’s ideas on external parties without an active 
+consideration of the roles, contributions, or objectives of the team’s existing and potential 
+contextual relationships (Ancona, 1990). These teams were significantly less effective over -
+all. Empirical research conducted by Hackman (2002) and colleagues likewise concluded 
+that without team leader explicit direction to interact externally, team members tended to 1134 Journal of Management / May 2022
+exhibit passive reactivity to their environment. It may be that without team leader direction 
+and encouragement, the demands associated with interacting beyond the team’s boundary 
+will reduce the willingness of the team’s members to engage in boundary-spanning behav -
+iors. Indeed, boundary spanners have reported high levels of role overload as a result of 
+continued exposure to diverse parties’ perspectives and objectives (Marrone et  al., 2007) and 
+negative job experiences (Ramarajan et  al., 2011).
+Supportive Coaching of Boundary Spanning
+An alternative approach for team leaders who wish to encourage—rather than direct or 
+ignore—boundary spanning may be the use of supportive-coaching behaviors. Supportive-
+coaching behaviors are team leader efforts to reinforce the team’s competencies and capabili -
+ties independently from the leader (Morgeson, 2005). It is important to note that we follow 
+the teams literature within organizational behavior (e.g., Carson et  al., 2007; Morgeson, 
+2005; Wageman, 2001) in examining the behaviors of “team leads,” or first-line team manag -
+ers. These managers are internal to the organization and have supervisory authority and lead -
+ership responsibility with respect to the teams. This approach is aligned with broader 
+managerial coaching studies, which increasingly emphasize the ongoing roles managers play 
+in supporting the development and growth of employees (e.g., Dahling et  al., 2016; Ellinger, 
+2013; Hui & Sue-Chan, 2018). A primary aspect of supportive-coaching behaviors is the 
+leader’s empowerment of the team’s members (Arnold, Arad, Rhoades, & Drasgow, 2000; 
+Burke, Stagl, Klein, Goodwin, Salas, & Halpin, 2006; Weer, DiRenzo, & Shipper, 2016). For 
+example, Carson et  al. (2007) found that leaders who supported their teams with coaching 
+behaviors established internal team conditions that enhanced team members’ voice, empow -
+erment, and shared leadership. Similarly, Farh and Chen (2018) found that coaching pro -
+moted employee voice in a field study of surgical teams. Supportive coaching empowers 
+team members through encouraging team self-management and providing team members 
+with latitude and authority so that they may act independently and free from leader interfer -
+ence (Farh & Chen, 2018; Morgeson, 2005; Wageman, 2001). As Morgeson (2005: 502) 
+noted, “Practically, this would involve providing reinforcement to the team but not actually 
+becoming involved in the task performance itself.”
+Supportive coaching of boundary spanning thus reinforces the team’s capabilities to carry 
+out boundary-spanning behaviors without direct intervention from their leader. We concep -
+tualize supportive coaching of boundary spanning as a set of behaviors that (a) encourages 
+team members to engage in frequent and open collaborations with key parties external to the 
+team and (b) grants team members the latitude to engage external parties in ways that the 
+team members deem are necessary. The combination of encouragement and responsibility is 
+vital to the supportive-coaching approach as it both guides team members toward engage -
+ment in productive boundary-spanning tasks and empowers team members with the authority 
+and control to carry out these actions independently from their leader. Empowered team 
+members, in turn, realize increased self-efficacy (Arnold et  al., 2000), satisfaction (Ellinger, 
+Ellinger, & Keller, 2003; Morgeson, 2005), and learning (Burke et  al., 2006; Edmondson, 
+2003) that, in turn, stimulate greater team performance. Indeed, numerous empirical findings 
+suggest that team effectiveness is positively associated with supportive coaching behaviors 
+(see Buljac-Samardzic & van Woerkom, 2015; Burke et  al., 2006; Liu, Pirola-Merlo, Yang, 1135 Marrone et al. / Boundary-Spanning Behavior
+& Huang, 2009; Rousseau, Aube’, & Tremblay, 2013; Weer et  al., 2016), and preliminary 
+evidence suggests that supportive-coaching behaviors may positively influence teams to 
+actively coordinate with other work groups (Edmondson, 2003; Tesluk & Mathieu, 1999).
+Supportive-coaching behaviors influence work-unit effectiveness through motivational 
+means (see Burke et  al., 2006) that enhance the effort that team members will exert toward 
+work tasks. Hackman and Wageman’s (2005) theory of team coaching specifies the motiva -
+tional role that team leader coaching behaviors plays in supporting team effectiveness. The 
+authors suggest that when coaching efforts reinforce team capabilities and encourage self-
+management, as is the intentional aim of supportive coaching, team leaders communicate 
+optimism regarding the team’s capabilities that motivates team members to contribute greater 
+efforts toward their collective team-related tasks. In support of this theory, Liu et  al.’s (2009) 
+study of 137 research and development teams in Taiwan demonstrated that increases in team 
+member efforts significantly mediated the positive influence of team coaching on team effec -
+tiveness. Additionally, Weer et  al. (2016) studied 714 managers and their teams over 54 
+months and found a positive and significant link between supportive coaching and the 
+strength of team members’ effort toward team tasks (labeled as team commitment). Rousseau 
+et al. (2013) also found that supportive coaching motivated greater team commitment, which 
+in turn enhanced team innovation, for teams in a public safety organization.
+Hypothesis Development
+In the sections that follow, we contend that the motivating influence of supportive coach -
+ing is most likely to occur through a salient mediating mechanism—boundary-spanning self-
+efficacy (i.e., team members’ views about their ability to perform boundary-spanning tasks 
+effectively; Marrone et  al., 2007)—that enhances team members’ views about their bound -
+ary-spanning capabilities. We hypothesize that supportive coaching of boundary spanning 
+indirectly relates to team member job satisfaction through higher boundary-spanning self-
+efficacy and greater engagement in boundary-spanning behaviors.
+Supportive Coaching of Boundary Spanning and Team Member Boundary-
+Spanning Self-Efficacy
+A team leader’s supportive-coaching behaviors likely facilitate greater engagement in 
+member boundary-spanning behavior through enhancing team member perceptions of their 
+boundary-spanning self-efficacy. Classic work in social cognitive theory (e.g., Bandura, 
+1986, 1997) emphasizes the critical role of self-efficacy (defined as the belief in one’s capa -
+bility to organize and execute the course of action required to succeed; Bandura, 1997; Hardy, 
+Day, & Steele, 2019) as a factor in the self-regulation of motivation and behavior. Numerous 
+studies over the past several decades find that self-efficacy has positive effects on work per -
+formance (e.g., Stajkovic & Luthans, 1998). Importantly, self-efficacy perceptions likely 
+“vary across activity domains and situational conditions rather than manifest uniformly . . . 
+in the likeness of a general trait” (Bandura, 2012:13). In keeping with prior research that 
+considers boundary-spanning behavior as an activity domain (e.g., Lanaj & Hollenbeck, 
+2015; Marrone et  al., 2007), we examine the role of supportive-coaching behaviors in build -
+ing boundary-spanning self-efficacy, which we in turn expect will result in higher levels of 1136 Journal of Management / May 2022
+boundary-spanning behavior. As noted earlier, we define boundary-spanning self-efficacy as 
+a team member’s belief in his or her ability to “successfully establish and manage relation -
+ships with important parties external to his or her team” (Marrone et  al., 2007: 1426).
+Following Bandura’s (1997, 2012) identification of verbal persuasion as one primary 
+source of self-efficacy, team members will likely internalize the verbal support and responsi -
+bility regarding boundary spanning given to them by authority figures, thereby making it 
+easier to hold and sustain affirming self-beliefs about this action. Indeed, Boyer, Zollo, 
+Thompson, Vancouver, Shewring, and Sims (2000) found in a meta-analysis that verbal per -
+suasion is an especially impactful antecedent of self-efficacy, as it can raise (or lower) self-
+efficacy beliefs independent of performance. Individuals’ expectations of themselves are 
+highly influenced by the expectations of their leaders (Mitchell & Daniels, 2003) and particu -
+larly so because these expectations are a salient aspect of the individual’s immediate social 
+environment from which sensemaking occurs (Weick, 1995). Furthermore, team members 
+are additionally motivated to internalize the positive expectations signaled by their leader’s 
+supportive coaching to maintain consistent views about themselves that are positive and 
+coherent with signals from their external environment (Salancik & Pfeffer, 1978).
+Though studies of team leader coaching behaviors have not yet addressed boundary-span -
+ning self-efficacy, scholars have theorized that self-efficacy in other task domains is a pri -
+mary mechanism through which supportive coaches exert motivational influence (e.g., 
+Dahling et  al., 2016; Manz & Sims, 1987). As one example, Pousa and Mathieu (2015) found 
+that managerial coaching significantly enhanced employee self-efficacy, which then fully 
+mediated coaching’s effect on changes in employee behavioral performance (i.e., actions 
+employees took to achieve desirable performance results) in a sample of 122 financial advi -
+sors. We hypothesize the following:
+Hypothesis 1 : Supportive coaching of boundary spanning is positively related to team member 
+boundary-spanning self-efficacy.
+Team Member Boundary-Spanning Self-Efficacy and Boundary-Spanning 
+Behavior
+Team members with higher levels of efficacy regarding their ability to boundary span may 
+be more likely to undertake subsequent boundary-spanning efforts and may persist longer in 
+their efforts despite any difficulties that may arise. This occurs through a number of self-
+regulatory pathways associated with more positive self-efficacy beliefs (Bouffard-Bouchard, 
+1990). Bandura (2012: 13) noted that self-efficacy beliefs contribute to choice processes as 
+individuals decide on their course of action because perceptions of self-efficacy “affect the 
+slate of options people consider and the choices they make at important decision points.” 
+Self-enabling beliefs allow team members to take greater risks in engaging in boundary-
+spanning activity because efficacious team members view challenges as opportunities to 
+learn and excel rather than as threats or insurmountable obstacles (Bandura, 1997, 2012). 
+Furthermore, those with high levels of self-efficacy interpret their bodily reactions to stress -
+ful work tasks adaptively (Bandura, 1997, 2012); team members with higher boundary-span -
+ning self-efficacy may experience less anxiety associated with boundary-spanning behavior 
+than those with lower levels of boundary-spanning self-efficacy (Bandura, 1997). These 1137 Marrone et al. / Boundary-Spanning Behavior
+gains in stress resistance should allow for greater persistence in boundary-spanning activity 
+over time (Hobfoll, 1989). As team members are encouraged by their leaders and persuaded 
+verbally of their boundary-spanning capabilities, they are likely to exert greater effort toward 
+boundary-spanning activities and sustain those efforts over time, thereby affirming their 
+beliefs that such behaviors are valued, supported, and likely to be effective.
+In the boundary-spanning domain, one existing empirical study supports the link between 
+efficacy and behavior. Boundary-spanning self-efficacy emerged as a strong motivational 
+driver of team member boundary-spanning behavior in a study of MBA consulting teams 
+(Marrone et  al., 2007). The authors surmised that boundary-spanning self-efficacy led to 
+higher goal setting and more realistic task performance strategies, which promoted both 
+boundary-spanning activity and success. Importantly, Marrone et  al. (2007) is the only pub -
+lished study providing evidence of a positive relationship between boundary-spanning self-
+efficacy and boundary-spanning behavior. Moreover, their work examined this relationship 
+in one team-based context (i.e., consulting team members) using a sample of MBA students. 
+Also, Marrone et  al. (2007) did not consider the role of leadership or supportive-coaching 
+behaviors in helping to increase boundary-spanning activity through positively influencing 
+boundary-spanning self-efficacy beliefs; one contribution of the current research is to exam -
+ine this indirect effect. Based on the aforementioned theoretical arguments, and rooted in 
+Bandura’s (1986, 1997, 2012) work and the existing empirical evidence, we hypothesize the 
+following:
+Hypothesis 2 : Team member boundary-spanning self-efficacy will be positively related to team 
+member boundary-spanning behavior.
+Supportive Coaching, Team Member Boundary-Spanning Behavior, and Team 
+Member Job Satisfaction
+Prior research is somewhat ambiguous regarding the effects of boundary-spanning 
+behaviors at the individual level. Although boundary-spanning behaviors can potentially 
+contribute to role overload and burnout (e.g., Marrone et  al., 2007; Singh et  al., 1994), 
+engagement in team member boundary-spanning behavior may also elevate team member 
+job satisfaction. Job satisfaction is “a pleasurable or positive emotional state” that is “a 
+function of the perceived relationship between what one wants from a job and what one 
+perceives it is offering” (Locke, 1976: 1300). To the extent that individuals perceive that 
+their job expectations are fulfilled, they will experience positive job satisfaction (Bacharach, 
+Bamberger, & Conley, 1991). Boundary-spanning behaviors may elevate job satisfaction 
+because engaging in boundary-spanning directly enables team members to achieve produc -
+tive work-related tasks, such as acquiring needed resources for their team and successfully 
+implementing team ideas (see Ancona, 1990; Ancona & Caldwell, 1992; Friedlander, 1987). 
+Because goal achievement meets individuals’ basic needs for autonomy and competence 
+(Deci & Ryan, 2000) and satisfies team needs for performance and survival (Morgeson, 
+DeRue, & Karam, 2010), boundary-spanning behaviors that facilitate goal attainment or 
+other desirable outcomes can enable greater job satisfaction. For instance, Aldrich and 
+Herker (1977) theorized that because boundary-spanning actions enable individuals to gain 
+power and exercise control over their environment in ways that “improve their bargaining 1138 Journal of Management / May 2022
+position,” their job satisfaction should increase. Several empirical studies have supported 
+these ideas, demonstrating that contrary to prior theories, boundary-spanning activity was 
+unrelated to role stressors and positively related to job satisfaction (e.g., Keller, 1978; Keller 
+& Holland, 1975). Our arguments are consistent with those of Locke (1970) and others who 
+viewed job satisfaction as a function of performance leading to valued outcomes that are 
+satisfying to individuals (see a review of studies by Judge, Thoresen, Bono, & Patton, 2001). 
+We thus hypothesize a direct effect of team member boundary-spanning behavior on team 
+member job satisfaction:
+Hypothesis 3 : Team member boundary-spanning behavior will be positively related to team member 
+job satisfaction.
+Moreover, leader encouragement of boundary-spanning behaviors may make salient their 
+importance for team members, even if these behaviors do not directly assist team members 
+in goal attainment. More specifically, when leaders explicitly encourage and emphasize 
+engagement in boundary-spanning behaviors, and team members respond with higher levels 
+of these behaviors, leaders may validate team members’ perceived and actual capabilities to 
+meet their job expectations. Ultimately, this process could result in higher team member job 
+satisfaction.
+In sum, supportive coaching of boundary spanning signals leader confidence in team 
+members’ capabilities regarding boundary-spanning behaviors that are proximally relevant 
+to desired job outcomes, such as relationship building and coordination of mutually benefi -
+cial deadlines across interdependent teams. As such, the resulting improvements in job atti -
+tudes (i.e., higher job satisfaction) from this type of supportive leadership are likely to be 
+realized through team members’ higher engagement specifically in those boundary-spanning 
+behaviors. It is important to note, therefore, that supportive-coaching behaviors are not likely 
+to directly or immediately result in a rise in job satisfaction. Rather, we suspect that as effica -
+cious team members explore boundary-spanning tasks independently from their leader, they 
+experience opportunities to observe the consequences of their efforts, are empowered to 
+adapt their boundary-spanning behaviors as appropriate based on what they observe, and 
+learn to respond to unique circumstances with external parties as those issues arise, resulting 
+in an enacted mastery of boundary spanning that is satisfying and productive (for related 
+arguments, see Hui & Sue-Chan, 2018). We thus hypothesize an overall indirect effect of 
+supportive coaching of boundary spanning on job satisfaction through team member bound-
+ary-spanning self-efficacy and boundary-spanning behavior:
+Hypothesis 4 : Supportive coaching of boundary spanning will have an indirect relationship with job 
+satisfaction via team member boundary-spanning self-efficacy and team member boundary-
+spanning behavior serially.
+Method
+To test our hypotheses, we collected field data via surveys and used a variety of analytical 
+tools, including Mplus (1998-2017), which allows for an assessment of direct and indirect 
+effects while including multilevel model specifications. The analysis of field data for this 
+study is important in that it allowed us to observe and understand the role that 1139 Marrone et al. / Boundary-Spanning Behavior
+  
+supportive-coaching behaviors may play on a daily basis within intact working teams in a 
+real organization in encouraging boundary-spanning behavior and, as a result, positively 
+relating to higher job satisfaction in team members. We describe further details of the sample, 
+analytical techniques, and results of preliminary analyses for assessing nonindependence of 
+observations, missing data assumptions, and overall measurement model fit next.
+Sample and Procedure
+A large division of a manufacturing and engineering firm located in the United States served 
+as the host for the research. Six hundred and eighty-six employees (nonmanagement team 
+members) were contacted via email and asked to participate in a voluntary study involving two 
+waves of data collection separated by a 3-month gap.1 This time interval ensured minimal dis -
+ruption for the employees (based on discussions with management) and allowed the research 
+team to manage concerns about survey length and common-method bias. Two hundred and 
+sixty-two team members responded to the first survey (which included measures of supportive 
+coaching and boundary-spanning self-efficacy) for a first-wave response rate of 38.2%. One 
+hundred and seventy-nine of these individuals also responded to the second survey (which 
+included measures of boundary-spanning behavior and job satisfaction) for a response rate to 
+both surveys of 26.1%. Of the 179 who also responded to the Wave 2 survey, 170 included 
+mostly complete data. The average age of this matched sample was 41.92 years ( SD = 11.11), 
+approximately 90.0% of the respondents were male, 54.3% identified the United States as their 
+country of origin (geographical areas included India/Asia [14.7%], North America [58.2%], 
+Russia [11.2%], and western Europe [12.9%]), and on average, participants had worked at the 
+organization for 9.04 ( SD = 8.75) years. Approximately 64.7% of the respondents identified as 
+White. Other ethnicities included African American/Black (1.8%), Asian (22.4%), Hispanic/
+Latino (5.9%), Native American (1.2%), Pacific Islander (1.2%), and Other (5.3%, including 
+Russian and multiethnic). Though we used the matched sample to assess our measures and 
+measurement models, we used all available data to assess structural model relationships.
+Following survey data collection, two analyses were conducted to determine possible dif -
+ferences between Wave 1 and Wave 2 survey respondents. First, t tests were conducted on 
+demographic characteristics to determine if sampling bias contributed to differences across 
+the two waves of data acquisition. Results indicated no significant differences in age, gender, 
+or education. Second, Goodman and Blum’s (1996) approach was followed to determine if 
+sampling characteristics contributed to nonrandom bias. Specifically, we used logistic regres -
+sion to assess attrition bias because assessing bias on the basis of demographic differences 
+alone is insufficient, and it is critical to examine whether respondents also differ on substan -
+tive model variables (Goodman & Blum, 1996). We first created a dependent variable distin -
+guishing those who completed both surveys from those who completed only the first survey. 
+The substantive variables collected in the Wave 1 survey were then regressed onto this 
+dependent measure. Results indicated no nonrandom sampling bias; we thus concluded that 
+subject attrition would not bias subsequent measurement data analyses.
+Measures
+The particular items and rating scales associated with each measure are in the appendix.1140 Journal of Management / May 2022
+Supportive coaching of boundary spanning (herein labeled as “supportive coaching”).  We 
+relied on previous studies assessing supportive-coaching behaviors of encouragement and 
+empowerment (e.g., Morgeson, 2005), as well as our discussions and interviews of orga -
+nizational personnel, to develop a four-item scale for the purposes of this study that asked 
+respondents to rate the extent to which they agreed that their lead encouraged and empowered 
+employee engagement in boundary spanning. We also followed prior research supporting the 
+use of employee ratings of leader coaching behavior. For instance, Ellinger et  al. (2003) found 
+that self-reported ratings of supervisor coaching behaviors were significantly different (higher 
+and inflated) than employee ratings of their supervisor’s supportive-coaching behavior. Leader 
+self-reported assessments of coaching did not relate to employee attitudes, whereas employee 
+ratings were associated with higher job satisfaction and commitment (Thornhill & Saunders, 
+1998). Furthermore, though not measuring leader coaching, Karasek’s (1979) landmark study 
+of job demands “suggests that self-assessments are a reasonably accurate measure of job deci -
+sion latitude.” Because we were interested in employee perceptions of supportive coaching, 
+aggregation to the unit level of analysis was not appropriate.
+Boundary-spanning self-efficacy.  A previously established six-item scale from Marrone 
+et al. (2007) was used to assess the extent to which team members agreed with statements 
+regarding their confidence in their ability to effectively carry out and manage boundary-
+spanning behaviors. We chose to use this measure for two specific reasons. First, the measure 
+we used has been validated in previous boundary-spanning research that found its reliability 
+to be .92; also, the measure was predictive of boundary-spanning behavior (Marrone et  al., 
+2007). Second, previous research has found that Likert-type and traditional measures of self-
+efficacy have similar reliability, predictive validity, factor structures, and discriminability 
+and therefore has recommended using Likert-type measures over traditional strength/magni -
+tude measures given their superior practicality (Maurer & Pierce, 1998).
+Boundary-spanning behavior.  We closely followed Ancona and Caldwell’s (1992) devel -
+opment of boundary-spanning items and selected 13 items from their research to assess the 
+extent to which team members engaged in various boundary-spanning behaviors aimed at 
+establishing and maintaining relationships with key external parties. The wording of some 
+items was adjusted to reflect the particular organization in which we collected data. We 
+further used their factor-analytic results in order to aggregate items into three a priori indica -
+tor variables based on their boundary-spanning character: ambassadorial, scouting, and task 
+coordination. The ambassadorial group included five items that reflected both buffering and 
+representational activities. The four items composing the scouting group involved scanning 
+outside the team for ideas about the competition, market, or relevant technology. Finally, the 
+task coordination group included four items that involved coordinating technical or design 
+issues with outside groups. Items were averaged to form the three indicator variables.
+Job satisfaction.  Survey items for this measure were from the five-item Job Satisfaction 
+Relative to Expectations instrument (Bacharach et  al., 1991). The measure assesses the extent 
+of agreement between broad satisfaction elements of a job relative to employee expectation. 
+Previous results showed negative correlations between scores derived from this measure and 
+those from role conflict, role overload, and work–home conflicts (Bacharach et  al., 1991). 1141 Marrone et al. / Boundary-Spanning Behavior
+  
+A measure comprising a subset of the items also showed strong negative correlations with 
+role ambiguity and intent to leave but positive correlations with organizational commitment 
+(Conley & You, 2009).
+Demographic variables.  We included gender, age, and ethnicity/race as variables in all 
+substantive equations. It is possible that females and non-White team members within a 
+relatively male- and White-dominated organization and/or younger employees in the orga -
+nization would have comparatively less access to resources that support boundary spanning 
+than do male, White, or more senior employees. There is strong theory and extant evidence to 
+suggest that members of subordinated social identity groups (e.g., women and non-Whites) 
+have less access to resources at work and experience greater challenges and lower job satis -
+faction, whereas dominant groups (and their members) possess a “disproportionately large 
+share of positive social value” (Amis, Mair, & Munir, 2020), such as power and status. Age 
+can also afford members with greater power and rewards, and a positive correlation between 
+age and job satisfaction has been found in numerous studies in the organizational behavior 
+literature (see Lee & Wilbur, 1985; Rhodes, 1983). We measured age in years; we coded 
+gender using male = 1 and female = 2. Finally, we asked respondents, “What is your ethnic -
+ity/race?” and included seven response options: African American/Black, Asian, Caucasian/
+White, Hispanic/Latino, Native American, Pacific Islander, and Other. Given the preponder -
+ance of Caucasian/White respondents, we ultimately coded the measure using Caucasian/
+White = 1 and all others = 2.
+Preliminary Analyses
+Table 1 includes means, standard deviations, variable correlations, and reliabilities based 
+on the matched sample of usable data (see Table 1).
+We evaluated the quality of our measures by first specifying and assessing a latent vari -
+able baseline measurement model using maximum-likelihood estimation methods in 
+Bentler’s (2007) EQS 6.1 program. Construct items and factor groupings were used as indi -
+cators for the latent variables (see Figure 1). Overall model fit was evaluated using χ2/df 
+ratio, the comparative fit index (CFI), and the non-normed fit index (NNFI). In addition, the 
+standardized root mean square residual (SRMR) as well as the root mean square error of 
+approximation (RMSEA) was used to assess model lack of fit. Good model fit can be inferred 
+when the χ2/df ratio falls below 3.00, CFI and NNFI values exceed .90, and SRMR and 
+RMSEA values are under .10 (Kline, 2005). Measurement parameter estimates were evalu -
+ated for significance, and nested-model comparisons were examined using the sequential 
+chi-square difference test (we used an alpha of .05 throughout).
+Measurement analyses required complete data at the item level, resulting in a sample size 
+of 164. The measurement model provided good fit to the data, χ2(129, N = 164) = 210.97, 
+p < .001, χ2/df = 1.63, CFI = .97, NNFI = .96, SRMR = .04, RMSEA = .06, and all stan -
+dardized factor loadings were significant and ranged from .71 to .96 ( M = .80). To examine 
+the construct independence of our measures, we compared the baseline measurement model 
+with a series of alternative nested models that constrained theoretically independent con -
+structs to be equivalent (see Table 2). First, a single-factor measurement model specifying 
+perfect correlation among all model latent variables was specified to assess overall 1142 Journal of Management / May 2022
+discriminability. Next, separate tests were conducted to evaluate the conceptual distinction 
+between each of the model constructs. These tests consisted of comparing the baseline model 
+with models that constrained particular constructs to be equal. The single-factor model used 
+to assess overall discriminability (Model 2 in Table 2) poorly accounted for the sample data. 
+These results support the multidimensionality of the model being tested. Subsequent sequen -
+tial chi-square difference tests showed that constraining combinations of latent variables to 
+be equivalent (see Models 3 to 8 in Table 2) produced significantly worse-fitting models 
+when compared with the baseline measurement model. Moreover, decreases in model CFI 
+indicated a material reduction in model fit for each of the constrained models. These findings 
+provide initial support for the quality of our measures.
+Additional evidence pertaining to the convergent and discriminant validity of our con -
+structs is provided in Table 3. All constructs exceed the .70 recommended composite con -
+struct reliability threshold as well as the .50 recommended average variance extracted (A VE) 
+threshold (Fornell & Larcker, 1981; Hair, Black, Babin, & Anderson, 2010), further support -
+ing the convergent validity of our measures. Moreover, A VE values exceed the maximum 
+shared variance and average shared squared variance in all of our model constructs, thereby 
+demonstrating their discriminant validity (Hair et  al., 2010). Together, these results attest to 
+the psychometric quality of our measures.
+We were also concerned about potential method variance effects in our data. We engaged 
+in both pre– and post–data collection actions in order to address possible common-method 
+bias. Following recommendations by Podsakoff and his colleagues (Podsakoff, MacKenzie, 
+Lee, & Podsakoff, 2003; Podsakoff, MacKenzie, & Podsakoff, 2012), we first sought to limit 
+potential method bias by following three specific pre–data collection strategies. First, we 
+made certain to “eliminate common scale properties” (Podsakoff et  al., 2012: 550) and cre -
+ated measures with distinct scale endpoints. Two of our constructs, supportive coaching and 
+boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree  to 5 = 
+strongly agree ), whereas our other two constructs utilized alternative anchor points (bound -
+ary spanning behavior, 1 = a very small extent  to 5 = a very great extent ; job satisfaction, 1 
+= very dissatisfied  to 5 = very satisfied ). Next, we worked to ensure the “temporal, proxi -
+mal, or psychological separation between predictor and criterion” measures (Podsakoff et  al., Table 1
+Variable Means, Standard Deviations, Correlations, and Reliabilities
+Variable M SD 1 2 3 4 5 6 7
+1. Age 41.92 11.11 —  
+2. Gender 1.10 0.30 −.12 —  
+3. Ethnicity 1.35 0.48 −.12 .00 —  
+4. Supportive coaching 3.72 0.69 −.08 −.01 .05 (.88)  
+5. Boundary-spanning self-efficacy 3.63 0.82 .12 −.02 −.03 .32**  (.95)  
+6. Boundary-spanning behavior 2.62 0.83 −.03 −.13 .18* .19* .35**  (.94)  
+7. Job satisfaction 3.27 1.08 .01 −.05 .09 .24** .29** .29** (.88)
+Note: N  = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation.
+*p < .05
+**p < .011143 Marrone et al. / Boundary-Spanning Behavior
+2012: 549). As such, we arranged for proximal separation of our measures by including them 
+in distinct surveys and separating them as much as possible within each survey. Finally, we 
+made sure to collect our ultimate criterion measure separately from other measures. This Figure 1
+Measurement Model Results
+ 1144 Journal of Management / May 2022
+measure, job satisfaction, was included in the second survey, which was administered 
+approximately 3 months and 1 week after the first survey that contained two of the model 
+predictor measures.
+Following data collection, we examined results from three separate analyses in order to 
+assess potential method effects. First, we used exploratory factor analysis to determine if 
+Harman’s single-factor test would indicate a common-method factor. Results indicated that a 
+single factor explained only 38% of the variance, much less than the 50% threshold estab -
+lished for the test to indicate a method factor (Podsakoff et  al., 2003). Next, we compared the 
+baseline measurement model with a model in which the correlations between model factors 
+were specified as equal to unity (i.e., a method factor). As can be seen in Table 2, results from 
+this constrained method factor model, χ2(135, N = 164) = 1406.19, p < .001, CFI = .47, 
+NNFI = .40, SRMR = .21, RMSEA = .24, along with a subsequent sequential chi-square 
+difference test suggested the method factor model was a significantly worse fit relative to the 
+original model, Δχ2 (6, N = 164) = 1195.22, p < .001.
+Finally, we also assessed potential method effects by specifying an additional method fac -
+tor model that included an unmeasured latent-methods factor within our baseline measure -
+ment model. We compared our baseline multifactor trait model to the method factor model 
+(multifactor trait plus method-effects model). This specification is recommended to assess 
+the existence and extent of methods effects (e.g., Podsakoff et al., 2003; Williams, Cote, & 
+Buckley, 1989). Importantly, none of the trait measures became insignificant following inclu -
+sion of method factor effects. Moreover, the amount of variance accounted for by method Table 2
+Indices for Nested Sequence of Measurement Models
+Model χ2 df CFI NNFI SRMR RMSEA ∆χ2
+1. Baseline 210.97 129 .97 .96 .04 .06 —
+2. Single-factor model 1406.19 135 .47 .40 .21 .24 —
+3. Equate supportive coaching with efficacy 495.20 132 .84 .82 .11 .13 —
+ Difference between Models 1 and 3 — — — — — — 284.23*
+4.  Equate supportive coaching with boundary-
+spanning behavior468.12 132 .86 .83 .12 .12 —
+ Difference between Models 1 and 4 — — — — — — 257.15*
+5.  Equate supportive coaching with satisfaction 527.06 132 .83 .81 .13 .14 —
+ Difference between Models 1 and 5 — — — — — — 316.09*
+6.  Equate efficacy with boundary-spanning 
+behavior426.29 132 .87 .85 .10 .12 —
+ Difference between Models 1 and 6 — — — — — — 215.32*
+7. Equate efficacy with satisfaction 913.3 132 .67 .62 .17 .19 —
+ Difference between Models 1 and 7 — — — — — — 702.33*
+8.  Equate boundary-spanning behavior with 
+satisfaction448.2 132 .86 .84 .11 .12 —
+ Difference between Models 1 and 8 — — — — — — 237.23*
+Note: N  = 164. CFI = comparative fit index; NNFI = non-normed fit index; SRMR = standardized root mean 
+square residual; RMSEA = root mean square error of approximation.
+*p < .0011145 Marrone et al. / Boundary-Spanning Behavior
+effects was very small—it averaged only 7%. This variance accounted for is less than half the 
+amount of method variance in typical behavioral research (Williams et  al., 1989) and com -
+pares favorably with method factor variance (11%) found in organizational research (Carlson 
+& Kacmar, 2000). Overall, we believe method variance was not a material problem in this 
+study based on results from these post–data collection analyses.
+Results
+To examine substantive relationships, we considered our data using multilevel latent vari -
+able structural equation modeling procedures included in Mplus (Muthen & Muthen, 1998-
+2017). Two-hundred and fifty-six usable observations were included in these analyses. We 
+used the TYPE=COMPLEX analysis in order to take into account the nonindependence of 
+observations due to cluster sampling. Because respondents were organized into work groups, 
+which may have contributed to systematic bias in our results, we added the effect of the 
+group-level work unit into our model.2 The model was assessed based on maximum likeli -
+hood estimation using 5,000 bootstrap draws and bias-corrected 95% confidence intervals 
+(CIs). Indirect effects were assessed by examining each CI; any interval that ranges from 
+negative on the low side to positive on the high side indicates an insignificant indirect effect.
+Omnibus model results yielded a good fit to the data, χ2(180, N = 256) = 285.47, p < 
+.001, χ2/df = 1.58, CFI = .96, SRMR = .05, RMSEA = .04. Furthermore, individual 
+model path estimates depicted in Table 4 and Figure 2 indicate strong support for model 
+hypotheses. Specifically, results support Hypothesis 1, in that supportive coaching was 
+positively related to boundary-spanning efficacy ( β = .41, SE = .07, p = .000). Results 
+further demonstrate support for Hypothesis 2 and the direct effect of boundary-spanning 
+self-efficacy on boundary-spanning behavior ( β = .34, SE = .08, p = .000). Results also 
+indicate that boundary-spanning behavior was positively related to job satisfaction ( β = 
+.21, SE = .10, p = .039) providing support for Hypothesis 3. Importantly, the direct effect 
+of supportive coaching on job satisfaction was insignificant ( β = .10, SE = .10, p = .351). 
+Overall, the proposed model predictors explained 15% of the variance in job satisfaction 
+(R2 = .15, SE = .07, p = .019).Table 3
+Latent Variable Psychometric Quality and Correlations
+VariableIntraconstruct Reliability Correlations
+CR CR AVE MSV 1 2 3 4
+1. Supportive coaching .87 .87 .63 .12 — — — —
+2. Boundary-spanning self-efficacy .95 .95 .78 .14 .36* — — —
+3. Job satisfaction .94 .94 .76 .12 .24* .32* — —
+4. Boundary-spanning behavior .87 .87 .70 .14 .24* .39* .35* —
+Note: N  = 164. CR = construct reliability; AVE = average variance explained; MSV = maximum shared squared 
+variance; ASV = average squared variance.
+*p < .051146 Journal of Management / May 2022
+Table 4 also includes results related to indirect model pathways and Hypothesis 4. Hypothesis 
+4 stated that supportive coaching would indirectly effect job satisfaction through boundary-
+spanning self-efficacy and boundary-spanning behavior. As shown in Table 4, supportive 
+coaching was positively associated with boundary-spanning self-efficacy, which was related to 
+boundary-spanning behavior, which was subsequently related to job satisfaction. The indirect 
+effect of supportive coaching on job satisfaction through boundary-spanning self-efficacy and Table 4
+Path Coefficients and Indirect Effects
+VariablePath Coefficients Indirect Effects
+To JS To BSEFF To BSB EstimateBias-Corrected 
+Bootstrap 95% 
+Confidence Interval
+From
+ SC .10 (.10) .41 (.07) .10 (.09) —  
+ BSEFF .20 (.11) - .34 (.08) —  
+ BSB .21 (.10) — — —  
+Total indirect effect — — — .13 (.05) [.05, .21]
+Indirect effects
+ SC → BSEFF → JSat — — — .08 (.05) [.01, .16]
+ SC → BSB → JSat — — — .02 (.02) [−.01, .06]
+ SC → BSEFF → BSB → JSat — — — .03 (.02) [.00, .06]
+Direct effect
+ SC → JSat — — — .10 (.10) [−.07, .27]
+Total effect
+ SC → JSat — — —  .23 (.09) [.08, .36]
+Note: N  = 256. Standard errors shown in parentheses. SC = supportive coaching; BSEFF = boundary-spanning 
+self-efficacy; BSB = boundary-spanning behavior; JSat = job satisfaction.
+Figure 2
+Mediation Model Results
+Note: N  = 256. * p = .039; ** p < .001.1147 Marrone et al. / Boundary-Spanning Behavior
+boundary-spanning behavior was significant ( β = .03, 95% CI [.00, .06]), thereby supporting 
+serial mediation. Moreover, the insignificant direct effect of supportive coaching on job satis -
+faction (β = .10, 95% CI [−.07, .27]) indicates that including the two mediators in the model 
+eliminates the direct effect of supportive coaching on job satisfaction. These findings demon -
+strate support for Hypothesis 4 and the proposed indirect effects specified in the model.
+Though not hypothesized here, results in Table 4 also can be used to examine simple indi -
+rect pathways included in the model. In particular, the pathway from supportive coaching to 
+job satisfaction via boundary-spanning self-efficacy yielded a significant indirect effect ( β = 
+.08, 95% CI [.01, .16]). However, the pathway from supportive coaching to job satisfaction 
+via boundary-spanning behavior yielded an insignificant indirect effect ( β = .02, 95% CI 
+[−.01, .06]). Together with the results pertaining to model hypotheses, these results attest to 
+the strong influence of efficacy perceptions on subsequent outcomes.
+Discussion
+The outcome of the indirect-effects model tested here indicates that team leader support -
+ive coaching of boundary spanning positively relates to boundary-spanning self-efficacy 
+among team members. This, in turn, relates to greater team members’ engagement in bound -
+ary-spanning behaviors, which positively relates to their job satisfaction. Through their 
+boundary-spanning behavior, team members initiate and manage relationships with the 
+team’s clients and external suppliers, coordinate efforts with mutually interdependent work 
+teams also inside the organization, and seek out feedback and resources from external sub -
+ject-matter experts so that work tasks both within and across multiple teams can be accom -
+plished effectively and efficiently (Ancona & Caldwell, 1992). While prior research to date 
+has examined a range of beneficial outcomes associated with boundary spanning for teams 
+and organizations, the calls for greater attention to the drivers of these important behaviors 
+(e.g., de Vries, Walter, Van der Vegt, & Essens, 2014; Joshi et  al., 2009; Marrone, 2010) are 
+important to answer. Engagement in these behaviors is challenging for individuals, and some 
+evidence suggests that individual motivation to carry out boundary spanning for one’s team 
+and/or organization varies (see Marrone et  al., 2007) and may be low for at least some team 
+members (e.g., Lanaj & Hollenbeck, 2015). Traditionally, boundary spanning was viewed as 
+the responsibility and authority of organizational leadership (e.g., Aldrich & Herker, 1977; 
+Katz & Kahn, 1978), and scholars have made notable strides toward understanding the 
+actions and decisions taken by leaders regarding their own boundary-spanning roles and 
+behaviors (e.g., Druskat & Wheeler, 2004; Ernst & Chrobot-Mason, 2011).
+Yet this prior research is missing a critical element present in modern organizational 
+designs: The responsibility for boundary spanning in many areas of the organization is 
+increasingly moving to team members and first-line employees (Ancona & Bresman, 2007; 
+Cross et al., 2000). A new and timely theoretical question has thus emerged: How can team 
+leaders influence and motivate team members to carry out important boundary-spanning 
+tasks for their teams? Our study findings suggest a compelling two-part answer. First, tar -
+geted supportive-coaching behaviors by team leaders relate to team members’ boundary-
+spanning capabilities independently from the team leader. Second, when more capable (i.e., 
+more efficacious) team members engage in greater boundary-spanning behaviors as a result 
+of their leaders’ supportive-coaching behaviors and motivational influence, team members 1148 Journal of Management / May 2022
+  
+also increase their job satisfaction. Our findings have theoretical extensions and implications 
+for teams coaching and boundary-spanning research.
+Theoretical Implications
+First, the teams coaching literature in the organizational behavior domain has largely 
+ignored the impact of supportive-coaching behaviors on team member interactions between 
+or across work teams. Instead, extant studies of a team leader’s supportive-coaching behav -
+iors have overwhelmingly focused on factors internal to the team’s boundary, such as team 
+member shared leadership (Carson et  al., 2007), voice within the team (Farh & Chen, 2018), 
+team commitment (Weer et  al., 2016), and team innovation (Rousseau et  al., 2013). This 
+internally oriented focus is significant and remains despite that team external relationships 
+are essential to the effectiveness of today’s complex and highly interdependent organizations 
+(see Ancona, Backman, & Isaacs, 2019). This study thus extends the focus to the relationship 
+between leader supportive-coaching behaviors and team member efforts to engage effec -
+tively across team boundaries.
+Second, by clarifying and validating the effect of team leader supportive-coaching behav -
+iors on team member boundary-spanning capabilities, we offer much needed theoretical clar -
+ity around the effective leadership of externally dependent work teams. The extant 
+boundary-spanning research examining a team leader’s influence on team member bound -
+ary-spanning behavior was reviewed a decade ago by Marrone (2010). She found evidence 
+for the influence of directive leadership approaches on driving team member boundary-span -
+ning actions in early foundational work by Ancona (1990) and Ancona and Caldwell (1992) 
+and limited, mixed findings relating to supportive team leadership approaches in later work. 
+Three studies emerged; two found that supportive-coaching behaviors positively influenced 
+teams to actively coordinate or communicate with other work groups (Edmondson, 2003; 
+Tesluk & Mathieu, 1999), while the other found insignificant or negative effects of support -
+ive-coaching behaviors on cross-boundary actions and building relationships with other 
+teams (Druskat & Kayes, 1999). These studies relied on generic assessments of supportive-
+coaching behaviors, however, rather than a boundary spanning-specific assessment, as we 
+have done here. The specificity of our four-item scale measuring supportive coaching of 
+boundary spanning is an important contribution to future research, as more global/general -
+ized assessments may not have the ability to detect finer-grained theoretical mechanisms 
+underlying the boundary-spanning phenomenon.
+Third, our findings that supportive-coaching behaviors relate to team member boundary-
+spanning behavior through an essential motivational mechanism—increased team member 
+beliefs in their boundary-spanning capabilities (i.e., boundary-spanning self-efficacy; 
+Marrone et  al., 2007)—integrates the broader managerial coaching literature and the bound-
+ary-spanning literature at a level of detail that has previously been largely neglected in both 
+literatures. Specifying and testing the underlying motivational mechanism answers recent 
+calls for greater theoretical understanding of both (a) the antecedents to team member bound -
+ary-spanning behavior as noted earlier (e.g., Joshi et  al., 2009; Marrone, 2010) and (b) the 
+specific psychological mechanisms through which ongoing and managerial coaching behav -
+iors lead to valued outcomes (e.g., Dahling et  al., 2016). Our findings support the notion that 
+supportive coaching can be a potent source of verbal persuasion regarding team member 1149 Marrone et al. / Boundary-Spanning Behavior
+  
+capabilities in boundary spanning that motivates them to engage in greater levels of these 
+important activities for their teams and perhaps persist longer in challenging boundary-span -
+ning tasks. These findings complement other work highlighting the role of self-efficacy for 
+explaining the motivational influence of supportive (facilitation-based) coaching in particu -
+lar, as opposed to more active (guidance) coaching (see Hui & Sue-Chan, 2018), and may 
+help to advance a more unified theory of the mechanisms through which supportive-coaching 
+behaviors relate to productive team member behaviors and positive job attitudes.
+Additionally, the question of whether boundary spanning creates role stress at the indi -
+vidual level for team members has been an issue in prior boundary-spanning literature (e.g., 
+Marrone et  al., 2007; Singh et  al., 1994). The results of this study suggest that as team leaders 
+send strong signals through supportive-coaching behaviors that boundary spanning is valued 
+and worthwhile and give latitude to team members to engage in boundary-spanning tasks as 
+they deem fit, team members may also see an increase in positive attitudinal outcomes at the 
+individual level (i.e., higher job satisfaction), even as they exhibit higher levels of boundary-
+spanning behavior. Notably, we collected data on boundary-spanning behavior and job satis -
+faction on the same (i.e., second) survey; while we have good theoretical reason to believe 
+that higher levels of boundary-spanning behavior occur when team members have higher 
+levels of boundary-spanning self-efficacy, as we hypothesized, we cannot rule out the pos -
+sibility that higher job satisfaction may also lead to higher levels of boundary-spanning 
+behavior. In line with other models of job satisfaction (e.g., Locke, 1970), however, we view 
+the concept of satisfaction as a function of performance leading to valued outcomes that are 
+satisfying to individuals, suggesting that boundary-spanning behavior drives job satisfaction. 
+Our findings provide an additional window into the potentially compelling influence of sup -
+portive team coaching behaviors on skill-based and affective outcomes of team members.
+Finally, a growing number of studies have delineated facilitative (supportive) from direc -
+tive (active) coaching (in the latter, leaders directly intervene in team members’ taskwork and 
+problem solving) and suggest the distinction is essential yet often overlooked in studies of 
+coaching (e.g., Carson et  al., 2007; Hui & Sue-Chan, 2018; Ibarra & Scoular, 2019; Morgeson, 
+2005; Wageman, 2001). We drew upon this work when conceptualizing and assessing sup -
+portive coaching as a set of behaviors that reinforce team members’ capabilities to carry out 
+boundary spanning. We further specified that the combination of encouragement and respon -
+sibility is vital as it both guides members toward engagement in productive boundary-span -
+ning tasks and empowers members with the authority and control to carry out these actions 
+independently from their leader. Our attention on supportive-coaching behaviors per se and 
+not on active coaching may help to answer calls in the managerial coaching literature to 
+clarify varying coaching dimensions or types and achieve greater consensus as to what 
+behaviors constitute coaching (see Dahling et  al., 2016; Ellinger, 2013).
+Practical Implications
+One implication of our findings is that they offer organizational leaders a deeper and 
+broader understanding of the benefits of team leader supportive coaching behaviors. In busi -
+ness environments increasingly characterized by rapid change and disruption, managers are 
+expected to adopt “coachlike” approaches to their employees that encourage innovation, 
+build commitment, and signal investment in human resources (e.g., Ibarra & Scoular, 2019). 1150 Journal of Management / May 2022
+  
+New organizational designs rely on the competencies and self-directed behaviors of the orga -
+nization’s actors, as opposed to hierarchical control, to bring about the cross-boundary coor -
+dination and communication activity needed for organizational success (Fjeldstad, Snow, 
+Miles, & Lettl, 2012). That is, meeting organizational objectives increasingly requires that 
+those closest to the work take initiative to promote their team’s progress to upper manage -
+ment, secure and exchange needed resources from other units, anticipate environmental 
+changes, and coordinate interdependencies with other work groups. This study indicates that 
+team leaders can employ supportive-coaching behaviors to respond to these organizational 
+needs by reinforcing the capabilities of employees at the lowest levels in the organization to 
+self-organize and to accumulate and share resources directly with multiple external parties 
+who reside across group and organizational boundaries. Moreover, leaders should recognize 
+the primary motivational role of boundary-spanning self-efficacy and apply our findings to 
+tailor their leadership approach and its effect on team member motivation.
+Our research also implies that organizations should allow team leaders sufficient latitude 
+to exhibit supportive-coaching behaviors. Encouraging and empowering team members to 
+carry out boundary-spanning tasks independently from the team leader may be challenging 
+for team leaders who have been enculturated to believe that more directive leadership 
+approaches are most effective (see Ancona et  al., 2019, for a discussion). If organizations do 
+not work to create a culture and support structure that value empowerment (Ancona et  al., 
+2019; Rapp, Gilson, Mathieu, & Ruddy, 2016), leaders who demonstrate empowerment and 
+encouragement of boundary spanning may be seen by other leaders, and potentially by their 
+own team members, as lacking leadership qualities or competence. This may be particularly 
+true for women team leaders (see Marrone et al., 2018). Our results could help to build orga -
+nizational cultures valuing supportive coaching by underscoring the importance of these 
+behaviors as a potent dimension of team coaching and clarifying its unique motivational 
+influence on the boundary spanning of team members who are facing tasks that likely require 
+expertise and resources outside their own personal skill sets. Moreover, that team members 
+would exhibit higher levels of boundary-spanning behavior—and feel more satisfied with 
+their jobs in the process—is compelling evidence that organizations should take a strategic 
+interest in developing supportive-coaching capabilities (Ibarra & Scoular, 2019). Equipped 
+with the knowledge of this study’s results, team members themselves may be better able to 
+advocate for leaders who exhibit greater supportive-coaching behaviors of boundary span -
+ning for their team or other teams, thus also strengthening the organizational culture’s values 
+around supportive coaching.
+Limitations and Future Research
+There are limitations of the present study. First, while our model proposes serial media -
+tion, we collected data at just two points in time. As we noted earlier, we did so in order to 
+manage the organization’s concerns about survey length and mitigate common-method bias 
+(especially important when collecting data examining leader behaviors and outcome vari -
+ables, as noted by Podsakoff et  al., 2012). We did not collect data on the four substantive 
+variables in our study at multiple points in time (i.e., our research was not longitudinal); thus 
+we cannot make causal inferences relative to our results. Moreover, the research design of 
+this study was not experimental or quasiexperimental; as a result, the causal nature that is 1151 Marrone et al. / Boundary-Spanning Behavior
+suggested in our theoretical model cannot be validated with the existing data set. Future 
+research that is longitudinal and experimental and/or quasiexperimental in a lab or field set -
+ting with the same concepts collected at multiple points in time so as to track changes after 
+establishing supportive coaching for boundary spanning is necessary in order to provide 
+further support for the causality of the results described here. In addition, future research, 
+such as a panel design, might be able to capture variable relationships (i.e., cross-lagged and 
+autoregressive effects) that we are not able to assess in the current study.
+Second, our use of same-source data collection, despite the fact that we collected data at 
+two points in time, may have led to method bias in our results. Our results across three sepa -
+rate tests, however, did not indicate that method bias was a material problem in this study. 
+Future research should consider incorporating behavioral measures of boundary spanning 
+(e.g., the number of meetings on a given employee’s calendar with outside departments or 
+parties) or team member ratings of their peers’ boundary-spanning behaviors as another way 
+to avoid common-method bias.
+Third, there are current design limitations specifically around the consideration of bound -
+ary-spanning self-efficacy. In particular, Lord, Diefendorff, Schmidt, and Hall (2010) called 
+for more empirical work on self-efficacy to be conducted at the within-person level. Future 
+research might consider how supportive coaching helps to develop within-person boundary-
+spanning self-efficacy, behaviors, and job satisfaction in a dynamic way that unfolds over 
+time. That is, studies might be designed to collect data on the same concepts at multiple time 
+points and use an analytical technique that focuses on the analysis of change over time (e.g., 
+longitudinal growth modeling; Ployhart & Vandenberg, 2010). Furthermore, while our mea -
+sure of boundary-spanning self-efficacy is consistent with measures utilized in management 
+and applied psychology fields, designed for working professionals who may have limited 
+time to complete a survey with longer instruments (see Maurer & Pierce, 1998), future 
+research should consider additional measurement approaches to further validate our findings. 
+In particular, researchers could consider potential benefits of an alternative boundary-span -
+ning self-efficacy measure aligned with traditional approaches that use a 100-point, 10-unit 
+interval scale and compute composite measures of strength and magnitude (see Bandura, 
+2006; Lee & Bobko, 1994).
+Last, some prior examinations of boundary-spanning behavior in teams have considered 
+the concept at the team level rather than at the individual level (e.g., Marrone et  al., 2007, 
+who utilized aggregated team member ratings of boundary spanning). The theoretical empha -
+sis of this research, however, is at the individual level, as we examine how supportive coach -
+ing might motivate individual team members to exhibit more boundary-spanning behaviors 
+and how that might influence their individual job satisfaction. Also, unlike the teams studied 
+in Marrone et  al. (2007) and other prior research (e.g., Ancona, 1990; Faraj & Yan, 2009), the 
+work units in this study were larger in size and not fully colocated, and some members were 
+part of multiple teams concurrently. It was therefore difficult, if not impossible, for cowork -
+ers to observe and assess accurately the extent of each other’s boundary spanning or bound -
+ary spanning at the team level. Hierarchical linear modeling analysis and our primary Mplus 
+analysis results revealed that our data did not appear to be biased due to between-group vari -
+ance, suggesting that it was appropriate to test hypotheses at the individual level.3
+Moving forward, because our study is among the first to demonstrate the importance of 
+supportive coaching by team leaders regarding a specific task—boundary spanning—our 1152 Journal of Management / May 2022
+findings suggest that more theoretical development linking the influence of team leader 
+coaching behaviors to team processes and outcomes could be an important future avenue for 
+research. We see promise in work that explores if certain types of coaching may be more 
+relevant for certain developmental stages of a given team’s life span. Additionally, team 
+leader supportive coaching behavior may help teams build collective efficacy, or the team’s 
+belief that it can effectively handle certain tasks (e.g., Bandura, 2000; Stajkovic, Lee, & 
+Nyberg, 2009). Transformational leadership, vision, and shared leadership are all positively 
+related to higher levels of collective efficacy (e.g., Fiset & Boies, 2019; Nicolaides et  al., 
+2014; Wang & Howell, 2012); future research could examine whether supportive-coaching 
+behavior influences collective efficacy and whether this could affect other important team 
+processes and outcomes, such as team boundary spanning and performance.
+Finally, while it was outside the scope of this article to examine the drivers of respondents’ 
+perceptions of team membership boundaries, future studies might explore the role that a sup -
+portive team coach of boundary spanning might play in encouraging team members to reflect 
+upon their perceptions of team boundaries and to increase awareness that perceptions may 
+differ from others inside or outside the team. Wimmer, Backmann, and Hoegl (2019), for 
+example, argued members’ perceptions of team boundaries are likely to vary in relation to 
+individual-level attention and social categorization processes and that such variation should 
+be welcomed (see also Mortensen & Haas, 2018).
+Conclusion
+The idea that team leader supportive-coaching behaviors as they relate to boundary span -
+ning specifically may provide a necessary support to help team members navigate increas -
+ingly ambiguous and uncertain work-role requirements is a powerful one for organizations. 
+We hope this research has provided additional insight linking supportive-coaching behaviors 
+that encourage boundary-spanning activities, boundary-spanning behaviors themselves, and 
+job satisfaction within an organization that is experiencing the realities of highly technical, 
+complex, cross-functional, and fluid work requirements (e.g., Hackman, 2012; Okhuysen, 
+Lepak, Lee Ashcraft, Labianca, Smith, & Steensma, 2015).
+Appendix
+Survey Items Used in Study
+Company and group area identifiers have been replaced with “###.”
+Supportive coaching.  Please indicate the extent to which you agree with the following 
+statements in reference to your team’s lead. Our lead . . .
+ 1. . . . encourages us to engage in an open and honest information exchange with important exter -
+nal parties (such as customers, design suppliers, upper management, external technical experts, 
+and other engineering and/or project teams within and outside of ###).
+ 2. . . . promotes frequent collaboration with important external parties.
+ 3. . . . grants my team members the autonomy to initiate contact with important external parties 
+when I deem it is necessary to do so.1153 Marrone et al. / Boundary-Spanning Behavior
+ 4. . . . grants my team members the authority to make decisions about when to accommodate 
+external party requests and when to “push back.”
+(Responses on this scale ranged from 1 = strongly disagree  to 5 = strongly agree .)
+Boundary-spanning self-efficacy.  Based on my past experiences working on various proj -
+ect and/or engineering teams thus far at ###, I feel very confident . . .
+ 1. . . . being an advocate for my team to important external parties outside my team (such as cli -
+ents, suppliers, upper management, external technical experts, and other engineering and/or 
+project teams within and outside of ###) if necessary.
+ 2. . . . soliciting feedback for my team from relevant external parties.
+ 3. . . . representing my team to external parties as we discuss project business.
+ 4. . . . initiating contact with persons outside of the team to discuss team-related problems.
+ 5. . . . maintaining external relationships that might be helpful to my team.
+ 6. . . . establishing connections with those outside the team that can provide the team with guid -
+ance/support.
+(Responses on this scale ranged from 1 = strongly disagree  to 5 = strongly agree .)
+Boundary-spanning behavior.  Please indicate to what extent you personally engage in 
+the following behaviors with respect to your team’s project.
+Ambassadorial
+ 1. Preventing outsiders from “overloading” the team with too much information or too many 
+requests.
+ 2. “Talking up”/promoting the team to outsiders.
+ 3. Persuading others to support the team’s decisions.
+ 4. Acquiring resources (e.g., access to information, supplies, etc.) for the team.
+ 5. Proactively seeking the advice and support of your team’s manager.
+Scouting
+ 6. Reaching out to individuals outside your team that can provide technical ideas/expertise.
+ 7. Scanning the environment inside or outside the organization for technical ideas/expertise.
+ 8. Scanning the environment inside or outside the organization for process ideas/expertise.
+ 9. Finding out what other groups are doing on similar projects.
+Task coordination
+10. Keeping other groups inside or outside of ### informed of your team’s progress.
+11. Negotiating with outside groups for delivery deadlines.
+12. Resolving design problems with external groups.
+13. Coordinating activities with external groups inside or outside ###.
+(Responses on this scale ranged from 1 = to a very small extent  to 5 = to a great extent .)1154 Journal of Management / May 2022
+Job satisfaction.  At the present time, how satisfied or dissatisfied are you with . . .
+ 1. . . . the progress you are making towards the goals you set for yourself in your present position 
+at ###?
+ 2. . . . your present job in light of your career expectations?
+ 3. . . . your present job when you compare it to jobs in other organizations?
+ 4. . . . the chance your job gives you to do what you are best at?
+ 5. . . . your present job when you consider the expectations you had when you took the job?
+(Responses on this scale ranged from 1 = very dissatisfied  to 5 = very satisfied .)
+ORCID iDs
+Jennifer A. Marrone  https://orcid.org/0000-0003-1969-8990
+Narda R. Quigley  https://orcid.org/0000-0003-1302-3140
+Notes
+1. Prior to surveying team members, we conducted semistructured interviews with 18 managers and lead 
+engineers in order to better understand the nature of their work and organizational structure and to ensure that 
+previously established measures of boundary-spanning behavior and self-efficacy were appropriate for this organi -
+zational context. We learned team members were organized into functional areas similar to large working units or 
+departmental groups (average reported size was 19.1 members). Interview responses also confirmed that boundary-
+spanning behavior by team members was desired and valued within the organization yet varied between individuals, 
+resulting in organizational management wanting to understand further the sources of such variance. Noted bound -
+ary-spanning activities followed earlier boundary-spanning research and included collaborations, negotiations, and 
+transfer of knowledge among multiple and distinct groups of engineering employees, manufacturing employees, and 
+external supplier organizations striving to work collaboratively in designing and manufacturing the lead organiza -
+tion’s products.
+2. We thank an anonymous reviewer for this suggestion.
+3. We used hierarchical linear modeling (Raudenbush & Bryk, 2001) to additionally assess if nonindepen -
+dence was likely to be problematic for interpreting our results. The null model indicated that no significant variance 
+in our dependent variable, job satisfaction, existed across work units, that is, χ2(79) = 95.04, p = .106, and one-way 
+ANOV A tests of all substantive variables also yielded nonsignificant results.
+References
+Aldrich, H., & Herker, D. 1977. Boundary spanning roles and organization structure. Academy of Management 
+Review , 2: 217-230.
+Amis, J. M., Mair, J., & Munir, K. A. 2020. The organizational reproduction of inequality. Academy of Management 
+Annals , 14: 195-230.
+Ancona, D., Backman, E., & Isaacs, K. 2019. Nimble leadership. Harvard Business Review , July: 74-83.
+Ancona, D. G. 1990. Outward bound: Strategies for team survival in an organization. Academy of Management 
+Review , 33: 334-365.
+Ancona, D. G., & Bresman, H. T. 2007. X-teams: How to build teams that lead, innovate, and succeed . Cambridge, 
+MA: Harvard Business Press.
+Ancona, D. G., & Caldwell, D. F. 1988. Beyond task and maintenance: Defining external functions in groups. Group 
+and Organization Studies , 13: 468-494.
+Ancona, D. G., & Caldwell, D. F. 1992. Bridging the boundary: External activity and performance in organizational 
+teams. Administrative Science Quarterly , 37: 634-665.1155 Marrone et al. / Boundary-Spanning Behavior
+Arnold, J. A., Arad, S., Rhoades, J. A., & Drasgow, F. 2000. The empowering leadership questionnaire: The con -
+struction and validation of a new scale for measuring leader behaviors. Journal of Organizational Behavior , 
+21: 249-269.
+Bacharach, S. B., Bamberger, P., & Conley, S. 1991. Work-home conflict among nurses and engineers: Mediating 
+the impact of role stress on burnout and satisfaction at work. Journal of Organizational Behavior , 12: 39-53.
+Bandura, A. 1986. Social foundations of thoughts and actions: A social cognitive theory . Englewood Cliffs, NJ: 
+Prentice Hall.
+Bandura, A. 1997. Self-efficacy: The exercise of control . New York: W. H. Freeman.
+Bandura, A. 2000. Exercise of human agency through collective efficacy. Current Directions in Psychological 
+Science , 9: 75-78.
+Bandura, A. 2006. Guide for constructing self-efficacy scales. In F. Pajares & T. Urdan (Eds.), Self-efficacy beliefs 
+of adolescents : 307-337. Greenwich, CT: Information Age.
+Bandura, A. 2012. On the functional properties of perceived self-efficacy revisited. Journal of Management , 38: 
+9-44.
+Benoliel, P., & Somech, A. 2015. The role of leader boundary activities in enhancing interdisciplinary team effec -
+tiveness. Small Group Research , 46: 83-124.
+Bentler, P. 2007. EQS 6.1 for Windows . Encino, CA: Multivariate Software.
+Bouffard-Bouchard, T. 1990. Influence of self-efficacy on performance in a cognitive task. Journal of Social 
+Psychology , 130: 353-363.
+Boyer, D. A., Zollo, J. S., Thompson, C. M., Vancouver, J. B., Shewring, K., & Sims, E. 2000. A quantitative review 
+of the effects of manipulate self-efficacy on performance . Poster session presented at the annual meeting of the 
+American Psychological Society, Miami, FL.
+Buljac-Samardzic, M., & van Woerkom, M. 2015. Can managers coach their teams too much? Journal of Managerial 
+Psychology , 30: 280-296.
+Burke, C. S., Stagl, K. C., Klein, C., Goodwin, G. F., Salas, E., & Halpin, S. M. 2006. What type of leadership 
+behaviors are functional in teams? A meta-analysis. Leadership Quarterly , 17: 288-307.
+Carlson, D. S., & Kacmar, K. M. 2000. Work-family conflict in the organization: Do life role values make a differ -
+ence? Journal of Management , 26: 1031-1054.
+Carson, J. B., Tesluk, P. E., & Marrone, J. A. 2007. Shared leadership in teams: An investigation of antecedent 
+conditions and performance. Academy of Management Journal , 50: 1217-1234.
+Conley, S., & You, S. 2009. Teacher role stress, satisfaction, commitment, and intentions to leave: A structural 
+model. Psychological Reports , 105: 771-786.
+Cross, R. L., Yan, A., & Louis, M. R. 2000. Boundary activities in “boundaryless” organizations: A case study of a 
+transformation to a team-based structure. Human Relations , 53: 841-868.
+Dahling, J. J., Taylor, S. R., Chau, S. L., & Dwight, S. A. 2016. Does coaching matter? A multilevel model linking 
+managerial coaching skill and frequency to sales goal attainment. Personnel Psychology , 69: 863-894.
+Deci, E. L., & Ryan, R. M. 2000. The “what” and “why” of goal pursuits: Human needs and the self-determination 
+of behavior. Psychological Inquiry , 11: 227-268.
+de Vries, T. A., Walter, F., Van der Vegt, G. S., & Essens, P. J. M. D. 2014. Antecedents of individuals’ interteam 
+coordination: Broad functional experiences as a mixed blessing. Academy of Management Journal , 57: 1334.
+Druskat, V. U., & Kayes, D. C. 1999. The antecedents of team competence: Toward a fine-grained model of self- 
+management team effectiveness. Research in Managing Groups and Teams , 3: 201-231.
+Druskat, V. U., & Wheeler, J. V. 2004. How to lead a self-managing team. MIT Sloan Management Review , 
+Summer: 65-71. 
+Edmondson, A. 2003. Speaking up in the operating room: How team leaders promote learning in interdisciplinary 
+actions teams. Journal of Management Studies , 40: 1420-1452.
+Ellinger, A. D. 2013. Supportive supervisors and managerial coaching: Exploring their intersections. Journal of 
+Occupational and Organizational Psychology , 86: 310-316.
+Ellinger, A. D., Ellinger, A. E., & Keller, S. B. 2003. Supervisory coaching behavior, employee satisfaction, 
+and warehouse employee performance: A dyadic perspective in the distribution industry. Human Resource 
+Development Quarterly , 14: 435-458.
+Ernst, C., & Chrobot-Mason, D. 2011. Boundary spanning leadership: Six practices for solving problems, driving 
+innovation, and transforming organizations . New York: McGraw-Hill.
+Faraj, S., & Yan, A. 2009. Boundary work in knowledge teams. Journal of Applied Psychology , 94: 604-617.1156 Journal of Management / May 2022
+  
+Farh, C. I. C., & Chen, G. 2018. Leadership and member voice in action teams: Test of a dynamic phase model. 
+Journal of Applied Psychology , 103: 97-110.
+Fiset, J., & Boies, K. 2019. Positively vivid visions: Making followers feel capable and happy. Human Relations , 
+72: 1651-1670.
+Fjeldstad, Ø. D., Snow, C. C., Miles, R. E., & Lettl, C. 2012. The architecture of collaboration. Strategic Management 
+Journal , 33: 734-750.
+Fornell, C., & Larcker, D. F. 1981. Evaluating structural equation models with unobservable variables and measure -
+ment error. Journal of Marketing Research , 18: 39-50.
+Friedlander, F. 1987. The ecology of work groups. In J. Lorsch (Ed.), Handbook of organizational behavior : 301-
+314. Englewood Cliffs, NJ: Prentice Hall.
+Gladstein, D. L. 1984. Groups in context. Administrative Science Quarterly , 29: 499-517.
+Goodman, J. S., & Blum, T. C. 1996. Assessing the non-random sampling effects of subject attrition in longitudinal 
+research. Journal of Management , 22: 627-652.
+Hackman, J. R. 2002. Leading teams: Setting the stage for great performances . Cambridge, MA: Harvard Business 
+Press.
+Hackman, J. R. 2012. From causes to conditions in group research. Journal of Organizational Behavior , 33: 428-
+444.
+Hackman, J. R., & Wageman, R. 2005. A theory of team coaching. Academy of Management Review , 30: 269-287.
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. 2010. Multivariate data analysis: A global perspective  (7th 
+ed.). Upper Saddle River, NJ: Pearson Prentice Hall.
+Hallenbeck, G. S., Jr., Hautaluoma, J. E., & Bates, S. C. 1999. The benefits of multiple boundary spanning roles in 
+purchasing. Journal of Supply Chain Management , 35: 38-43.
+Hardy, J. H., Day, E. A., & Steele, L. M. 2019. Interrelationships among self-regulated learning processes: Toward 
+a dynamic model of self-regulated learning. Journal of Management , 45: 3146-3177.
+Hargadon, A. B. 1998. Firms as knowledge brokers: Lessons in pursing continuous innovation. California 
+Management Review , 40: 209-227.
+Hobfoll, S. E. 1989. Conservation of resources: A new attempt at conceptualizing stress. American Psychologist , 
+44: 513.
+Hui, R. T., & Sue-Chan, C. 2018. Variations in coaching style and their impact on subordinates’ work outcomes. 
+Journal of Organizational Behavior , 39: 663-679.
+Ibarra, H., & Scoular, A. 2019. The leader as coach. Harvard Business Review , November-December: 111-119.
+Joshi, A., Pandey, N., & Han, G. 2009. Bracketing team boundary spanning: An examination of task-based, team-
+level, and contextual antecedents. Journal of Organizational Behavior , 30: 731-759.
+Judge, T. A., Thoresen, C. J., Bono, J. E., & Patton, G. K. 2001. The job satisfaction–job performance relationship: 
+A qualitative and quantitative review. Psychological Bulletin , 127: 376-407.
+Karasek, R. A., Jr., 1979. Job demands, job decision latitude, and mental strain: Implications for job redesign. 
+Administrative Science Quarterly , 24: 285-308.
+Katz, D., & Kahn, R. L. 1978. The social psychology of organizations . New York: Wiley.
+Keller, R. T. 1978. Boundary-spanning activity, role dynamics, and job satisfaction: A longitudinal study. Journal 
+of Business Research , 6: 147-158.
+Keller, R. T., & Holland, W. E. 1975. Boundary-spanning roles in a research and development organization: An 
+empirical investigation. Academy of Management Journal , 18: 388-393.
+Kline, R. B. 2005. Principles and practice of structural equation modeling . New York: Guilford Press.
+Lanaj, K., & Hollenbeck, J. R. 2015. Leadership over-emergence in self-managing teams: The role of gender and 
+countervailing biases. Academy of Management Journal , 58: 1476-1494.
+Lee, C., & Bobko, P. 1994. Self-efficacy beliefs: Comparison of five measures. Journal of Applied Psychology , 79: 
+364-369.
+Lee, R., & Wilbur, E. R. 1985. Age, education, job tenure, salary, job characteristics, and job satisfaction: A multi-
+variate analysis. Human Relations , 38: 781-791.
+Leifer, R., & Delbecq, A. 1978. Organizational/environmental interchange: A model of boundary spanning activity. 
+Academy of Management Review , 3: 40-50.
+Liu, C. Y., Pirola-Merlo, A., Yang, C. A., & Huang, C. 2009. Disseminating the functions of team coaching regard -
+ing research and development team effectiveness: Evidence from high-tech industries in Taiwan. Social 
+Behavior and Personality: An International Journal , 37: 41-57.1157 Marrone et al. / Boundary-Spanning Behavior
+Locke, E. A. 1970. Job satisfaction and job performance: A theoretical analysis. Organizational Behavior and 
+Human Performance , 5: 484-500.
+Locke, E. A. 1976. The nature and causes of job satisfaction. In M. D. Dunnette (Ed.), Handbook of industrial and 
+organizational psychology : 1297-1340. Chicago: Rand McNally.
+Lord, R., Diefendorff, J., Schmidt, A., & Hall, R. 2010. Self-regulation at work. Annual Review of Psychology , 61: 
+543-568.
+Lorenzoni, G., & Lipparini, A. 1999. The leveraging of interfirm relationships as a distinctive organizational capa -
+bility: A longitudinal study. Strategic Management Journal , 20: 317-338.
+Manz, C. C., & Sims, H. P., Jr. 1987. Leading workers to lead themselves: The external leadership of self-managing 
+work teams. Administrative Science Quarterly , 32: 106-130.
+Marrone, J. A. 2010. Team boundary spanning: A multilevel review of past research and proposals for the future. 
+Journal of Management , 36: 911-940.
+Marrone, J. A., Ferraro, H. S., & Huston, T. 2018. A theoretical approach to female team leaders’ boundary work 
+choices. Group & Organization Management , 43: 825-856.
+Marrone, J. A., Tesluk, P. E., & Carson, J. B. 2007. A multi-level investigation of antecedents and consequences of 
+team member boundary spanning behavior. Academy of Management Journal , 50: 1423-1439.
+Maurer, T. J., & Pierce, H. R. 1998. A comparison of Likert scale and traditional measures of self-efficacy. Journal 
+of Applied Psychology , 83: 324-329.
+Mitchell, T. R., & Daniels, D. 2003. Motivation. In W. C. Borman, D. R. Ilgen, & R. J. Klimoski (Eds.), Handbook 
+of psychology: Industrial and organizational psychology , Vol. 12: 225-254. Hoboken, NJ: Wiley.
+Morgeson, F. P. 2005. The external leadership of self-managing teams: Intervening in the context of novel and 
+disruptive events. Journal of Applied Psychology , 90: 497-508.
+Morgeson, F. P., DeRue, D. S., & Karam, E. P. 2010. Leadership in teams: A functional approach to understanding 
+leadership structures and processes. Journal of Management , 36: 5-39.
+Mors, M. L. 2010. Innovation in a global consulting firm: When the problem is too much diversity. Strategic 
+Management Journal , 31: 841-872.
+Mortensen, M., & Haas, M. R. 2018. Perspective—Rethinking teams: From bounded membership to dynamic par -
+ticipation. Organization Science , 29: 341-355.
+Muthén, L. K., & Muthén, B. O. 1998-2017. Mplus user’s guide  (8th ed.). Los Angeles, CA: Muthén & Muthén.
+Nicolaides, V. C., LaPort, K. A., Chen, T. R., Tomassetti, A. J., Weis, E. J., Zaccaro, S. J., & Cortina, J. M. 2014. 
+The shared leadership of teams: A meta-analysis of proximal, distal, and moderating relationships. Leadership 
+Quarterly , 25: 923-934.
+Okhuysen, G. A., Lepak, D., Lee Ashcraft, K., Labianca, G., Smith, V., & Steensma, H. K. 2015. Theories of work 
+and working today. Academy of Management Review , 38: 491-502.
+Ployhart, R. E., & Vandenberg, R. J. 2010. Longitudinal research. The theory, design, and analysis of change. 
+Journal of Management , 36: 94-120.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. 2003. Common method biases in behavioral 
+research: A critical review of the literature and recommended remedies. Journal of Applied Psychology , 88: 
+879-903.
+Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. 2012. Sources of method bias in social science research and 
+recommendations on how to control it. Annual Review of Psychology , 63: 539-569.
+Pousa, C., & Mathieu, A. 2015. Is managerial coaching a source of competitive advantage? Promoting employee 
+self-regulation through coaching. Coaching: An International Journal of Theory, Research, and Practice , 8: 
+20-35.
+Ramarajan, L., Bezrukova, K., Jehn, K. A., & Euwema, M. 2011. From the outside in: The negative spillover effects 
+of boundary spanners’ relations with members of other organizations. Journal of Organizational Behavior , 
+32: 886-905.
+Rapp, T. L., Gilson, L. L., Mathieu, J. E., & Ruddy, T. 2016. Leading empowered teams: An examination of the role 
+of external team leaders and team coaches. Leadership Quarterly , 27: 109-123.
+Raudenbush, S. W., & Bryk, A. S. 2001. Hierarchical linear models: Applications and data analysis methods  (2nd 
+ed.). New York: Sage.
+Rhodes, S. R. 1983. Age-related differences in work attitudes and behavior: A review and conceptual analysis. 
+Psychological Bulletin , 93: 328-367.1158 Journal of Management / May 2022
+Rosenkopf, L., & Nerkar, A. 2001. Beyond local search: boundary-spanning, exploration, and impact in the optical 
+disk industry. Strategic Management Journal , 22: 287-306.
+Rousseau, V., Aubé, C., & Tremblay, S. 2013. Team coaching and innovation in work teams: An examination of 
+the motivational and behavioral intervening mechanisms. Leadership & Organization Development Journal , 
+34: 344-364.
+Salancik, G. R., & Pfeffer, J. 1978. A social information processing approach to job attitudes and task design. 
+Administrative Science Quarterly , 23: 224-253.
+Singh, J., Goolsby, J. R., & Rhoads, G. K. 1994. Behavioral and psychological consequences of boundary spanning 
+burnout for customer service representatives. Journal of Marketing Research , 558-569.
+Somech, A., & Khalaili, A. 2014. Team boundary activity: Its mediating role in the relationship between structural 
+conditions and team innovation. Group & Organization Management , 39: 274-299.
+Stajkovic, A. D., Lee, D., & Nyberg, A. J. 2009. Collective efficacy, group potency, and group performance: Meta-
+analyses of their relationships, and test of a mediation model. Journal of Applied Psychology , 94: 814.
+Stajkovic, A. D., & Luthans, F. 1998. Self-efficacy and work-related performance: A meta-analysis. Psychological 
+Bulletin , 124: 240.
+Takeishi, A. 2001. Bridging inter- and intra-firm boundaries: Management of supplier involvement in automobile 
+product development. Strategic Management Journal , 22: 403-433.
+Tesluk, P. E., & Mathieu, J. E. 1999. Overcoming roadblocks to effectiveness: Incorporating management of perfor -
+mance barriers into models of work group effectiveness. Journal of Applied Psychology , 84: 200-217.
+Thornhill, A., & Saunders, M. N. K. 1998. What if line managers don’t realize they’re responsible for HR? Lessons 
+from an organization experiencing rapid change. Personnel Review , 27: 460-476.
+Wageman, R. 2001. How leaders foster self-managing team effectiveness: Design choices versus hands-on coach -
+ing. Organization Science , 12: 559-577.
+Wang, X., & Howell, J. M. 2012. A multilevel study of transformational leadership, identification, and follower 
+outcomes. Leadership Quarterly , 23: 775-787.
+Weer, C. H., DiRenzo, M. S., & Shipper, F. M. 2016. A holistic view of employee coaching: Longitudinal inves -
+tigation of the impact of facilitative and pressure-based coaching on team effectiveness. Journal of Applied 
+Behavioral Science , 52: 187-214.
+Weick, K. E. 1995. Sensemaking in organizations  (Vol. 3). Thousand Oaks, CA: Sage.
+Williams, L. J., Cote, J. A., & Buckley, M. R. 1989. Lack of method variance in self-reported affect and perceptions 
+at work: Reality or artifact? Journal of Applied Psychology , 74: 462-468.
+Wimmer, J., Backmann, J., & Hoegl, M. 2019. In or out? Exploring the inconsistency and permeability of team 
+boundaries. Small Group Research , 50: 699-727.
+Yan, A., & Louis, M. R. 1999. The migration of organizational functions to the work unit level: Buffering, spanning, 
+and bringing up boundaries. Human Relations , 52: 25-47.1159 Marrone et al. / Boundary-Spanning Behavior

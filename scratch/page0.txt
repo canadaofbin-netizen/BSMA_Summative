@@ -1,0 +1,80 @@
+Can  intraﬁrm  IT  skills  beneﬁt  interﬁrm  integration  and  performance?
+Eric  T.G.  Wang *,  Frank  K.Y.  Chou,  Neil  C.A.  Lee,  S.Z.  Lai
+Department  of  Information  Management,  School  of  Management,  National  Central  University,  No.  300  Jhongda  Road,  Jhongli  City  32001,  Taiwan,  ROC
+1.  Introduction
+Over  the  last  decade,  ﬁrms  have  sought  integration  with  their
+supply-chain  partners  to  cope  with  uncertainty  and  to  obtain
+better  supply-chain  performance  [27,79,98] .  Skilled  business
+personnel  certainly  lie  at  the  heart  of  interﬁrm  collaboration  for
+the  integration.  These  business  personnel  from  different  depart-
+ments,  such  as  purchasing,  play  a  boundary-spanner  role  by
+contributing  their  skills  and  knowledge  across  ﬁrms  to  help
+interﬁrm  collaboration  and  integration  [42].  Recently,  advanced
+interorganizational  systems  (IOS)  have  profoundly  changed  the
+nature  of  interﬁrm  operations  in  the  supply  chain  [68,69,75] .  Firms
+have  recognized  the  importance  of  IOS  and  begun  to  use  IOS  to
+integrate  their  processes  with  those  of  their  supply-chain  partners
+to  improve  their  supply-chain  operations  [68,69,75] .  Prior  studies
+also  recognize  that  IOS  integration  can  provide  information
+visibility  to  mitigate  the  bullwhip  effect  [50],  reduce  the
+complexity  of  supply-chain  activities  [66],  and  promote  ﬂexibility
+to  meet  varying  business  demands  [7].  However,  it  is  not  simple  to
+integrate  supply-chain  partners  using  IOS.  It  requires  the
+alignment  of  both  processes  and  technology  standards  across
+ﬁrms  [34]  and  demands  that  ﬁrms  overcome  the  various
+difﬁculties  caused  by  conﬂicting  processes  and  standards  [50].To  resolve  these  difﬁculties,  skilled  personnel  from  the  cooperating
+ﬁrms  must  work  together  to  address  the  conﬂicts.
+In  the  past,  business  personnel  from  core  departments,  such  as
+purchasing,  manufacturing,  and  selling,  typically  served  as  the
+boundary-spanners,  and  their  intense  collaboration  helped  ﬁrms
+to  achieve  better  interﬁrm  integration  [88],  to  improve  goal
+alignment  [66],  to  enable  effective  information  ﬂows,  and  to
+streamline  logistics  [66],  thereby  improving  supply-chain  perfor-
+mance.  However,  in  the  context  of  rapidly  advancing  IT,  the  role  of
+IT  personnel  in  enabling  interﬁrm  integration  has  become
+increasingly  critical  [68,69,75] .  In  interﬁrm  operations,  technology
+issues  inevitably  intertwine  with  business  processes.  Without
+skilled  IT  personnel  and  their  involvement,  ﬁrms  have  limited
+ability  to  tackle  conﬂicting  processes  and  technology  standards
+[50],  likely  resulting  in  low  levels  of  integration  and  mutual
+beneﬁts.  However,  it  remains  unclear  whether  ﬁrms’  internal  IT
+skills  can  truly  have  a  boundary-spanning  effect  when  supply-
+chain  partners  attempt  to  integrate  their  information  systems  and
+processes.  Consequently,  whether  and  how  intraﬁrm  IT  human
+capital,  and  IT  skills  in  particular,  can  help  interﬁrm  collaboration
+and  integration  are  issues  of  both  academic  and  practical
+signiﬁcance.
+In  supply  chains,  fulﬁlling  collaborative  objectives  requires  not
+only  the  participation  of  relevant  personnel  but  also  the
+application  of  their  skills  [73].  Although  IT  personnel  tend  to  be
+more  familiar  with  structured  approaches  and  IT  knowledge  [72],
+recognized  as  hard  skills,  ﬁrms  have  increasingly  search  for
+business-literate  IT  personnel  who  can  add  value  at  a  strategic
+level  [44].  Although  prior  studies  have  recognized  the  importanceInformation  &  Management  51  (2014)  924–938
+A  R  T  I  C  L  E  I  N  F  O
+Article  history:
+Received  1  September  2013
+Received  in  revised  form  4  April  2014
+Accepted  2  May  2014
+Available  online  13  May  2014
+Keywords:
+IT  skills
+Interﬁrm  collaboration
+Interﬁrm  integration
+Supply  chain
+PerformanceA  B  S  T  R  A  C  T
+This  study  develops  a  model  to  examine  whether  intraﬁrm,  hard  and  soft  IT  skills  have  cross-boundary
+effects  on  interﬁrm  collaboration  and  integration,  thus  leading  to  better  supply-chain  performance.  A
+model  with  eight  hypotheses  was  developed  and  tested  using  data  collected  from  250  Taiwanese
+manufacturing  ﬁrms.  Seven  hypotheses  ﬁnd  empirical  support.  The  results  show  that  intraﬁrm  IT  skills
+indeed  can  beneﬁt  interﬁrm  collaboration  and  integration  and  thus,  supply-chain  performance.  Our
+ﬁndings  suggest  that  the  value  of  skilled  IT  professionals  for  interﬁrm  integration,  supply-chain
+performance  and  collaborative  relationships  between  ﬁrms  is  critical  for  realizing  that  value.
+/C223  2014  Elsevier  B.V.  All  rights  reserved.
+*Corresponding  author.  Tel.:  +886  928986230.
+E-mail  addresses:  ewang@mgt.ncu.edu.tw ,  erictgwang@gmail.com
+(Eric  T.G.  Wang),  bestfriend_yoo@yahoo.com.tw  (Frank  K.Y.  Chou),
+lee.chueh.an@gmail.com  (Neil  C.A.  Lee),  a1989198@hotmail.com  (S.Z.  Lai).Contents  lists  available  at  ScienceDirect
+Information  &  Management
+jo  u  rn  al  h  om  ep  ag  e:  ww  w.els  evier.c  o  m/lo  c  ate/im
+http://dx.doi.org/10.1016/j.im.2014.05.0030378-7206/ /C223 2014  Elsevier  B.V.  All  rights  reserved.

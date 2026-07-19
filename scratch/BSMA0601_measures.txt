@@ -1,0 +1,73 @@
+ft  skills  are  positively  associated  with  interﬁrm  collabo-
+ration.
+4.  Research  methodology
+4.1.  Survey  administration
+A  cross-sectional  mail  survey  was  administered  to  collect  data
+from  the  manufacturing  ﬁrms  in  Taiwan.  A  draft  survey  was
+developed  primarily  based  on  measures  identiﬁed  in  the  literature
+as  suitable  for  this  study.  After  compiling  an  English-language
+version  of  the  questionnaire,  the  original  questionnaire  was
+translated  into  Chinese.  The  survey  items  then  were  veriﬁed  and
+reﬁned  for  translation  accuracy  by  an  MIS  profe
+---
+ondents  provided  a
+test  of  response  bias.  No  signiﬁcant  differences  between  the  ﬁrst
+and  last  quartile  of  all  respondents  were  found  on  employee
+numbers  based  on  x2test  (p  =  0.402).  Accordingly,  non-response
+bias  may  not  be  a  serious  concern  in  this  study.
+4.2.  Measures
+IT  hard  skills  were  measured  using  ﬁve  items  adapted  from
+Byrd  and  Turner  [10]  and  Lee  et  al.  [52],  assessing  abilities  related
+to  programming,  systems  analysis  and  design,  network,  and  data
+storage.  IT  soft  skills  focus  on  IT  personnel’s  abilities  to  manage  I
+---
+s  of  its  major  supplier,
+measured  using  six  items  adapted  from  Saraf  et  al.  [75]  and  Rai
+et  al.  [69].  Interﬁrm  collaboration  focuses  on  interﬁrm  decision-
+making  processes  that  involve  information  and  knowledge  sharing
+and  joint  problem  solving.  We  adapted  those  measures  from  Stank
+et  al.  [85]  and  Kim  et  al.  [46].  Process  integration  assesses  the
+extent  to  which  interﬁrm  processes  are  operationally  integratedTable  3
+Demographic  characteristics  of  the  responding  ﬁrms  (n  =  250).
+Sample  statistics  Percentage
+of  ﬁrms
+Industry
+Automobile 
+---
+)  for  each  construct  exceeding  the
+minimum  threshold  value  of  0.50  [29,36,38] .  As  shown  inTable  4,  all  of  the  AVE  values  are  above  0.50,  thus  satisfying  the
+criteria  for  convergent  validity.  The  above  combined  results
+demonstrate  the  convergent  validity  of  our  measures.
+Discriminant  validity  was  assessed  by  two  criteria.  First,  if  the
+loading  of  each  measurement  item  on  its  assigned  construct  is
+larger  than  its  loadings  on  all  other  constructs,  it  is  considered  as
+having  good  discriminant  validity  [18].  Second,  the  square  root
+---
+H8
+0.427***
+(t=7.670)H3
+0.190*
+(t=2.46)Interpersonal
+Skills
+Technology
+Management
+Skills
+Second-order
+constructFirst-order
+construct
+Fig.  3.  PLS  analysis  of  results.  Note:  ***p  <  0.001;  **p  <  0.01;  *p  <  0.05  (two-tailed  test).Table  4
+Interconstruct  correlations  and  reliability  measures  for  ﬁrst-order  constructs  (N  =  250).
+Construct  Items  Mean  (Std.)  CR.  AVE  Correlations  among  constructs
+1  2  3  4  5  6  7
+Interpersonal  skills  (IS)  8  5.66  (0.73)  0.96  0.62  0.79
+Technology  management  skills  (TMS)  5  5.69  (0.73)  0.87  0.58  0.69  0.76
+IT  hard  skills  (H
+---
+Marketing  Sci.  40  (3),  2012,  pp.  414–433.
+[37]  A.F.  Hayes,  K.J.  Preacher,  T.A.  Myers,  Mediation  and  the  estimation  of  indirect
+effects  in  political  communication  research,  in:  E.P.  Bucy,  R.L.  Holbert  (Eds.),
+Sourcebook  for  Political  Communication  Research:  Methods,  Measures,  and
+Analytical  Techniques,  Routledge,  New  York,  2011,  pp.  434–465.
+[38]  J.  Henseler,  C.M.  Ringle,  R.R.  Sinkovics,  The  use  of  partial  least  squares  path
+modeling  in  international  marketing,  in:  R.R.  Sinkovics,  P.N.  Ghauri  (Eds.),
+Advances  in  International  Marketing 

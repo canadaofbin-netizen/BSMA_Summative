@@ -1,0 +1,1869 @@
+ 
+ 
+ 
+Commitment systems in cross-boundary work
+Rossenberg, Y.G.T. van; Swart, J.A.; Cross, D.; Yalabik, Z.Y.; Kinnie, N.
+2023, Article / Letter to editor (British Journal of Management, 34, (2023), pp. 746-766)
+Doi link to publisher: https://doi.org/10.1111/1467-8551.12610
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Version of the following full text: Publisher’s version
+Downloaded from: https://hdl.handle.net/2066/248151
+Download date: 2026-05-30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:
+To cite this publication please use the final published version (if applicable).BritishJournalof Management,Vol.34,746–766(2023)
+DOI: 10.1111/1467-8551.12610
+Commitment Systems in Cross-boundary
+Work
+Yvonne G. T. van Rossenberg,1 J u a n iA .S w a r t ,2 Zeynep Y. Yalabik,2
+David Cross 3 and Nicholas Kinnie2
+1Institute for Management Research, Nijmegen School of Management, Radboud University 6525 AJ,
+Nijmegen, The Netherlands,2Work and Employment Research Centre (WERC), School of Management,
+University of Bath, Bath, BA2 7AY, UK, and3Southampton Business School, University of Southampton,
+Highfield, Southampton, SO17 1BJ, UK
+Corresponding author email: yvonne.rossenberg@ru.nl
+Workincreasinglytakesplaceacrossorganizationalboundaries.Thishasimplicationsfor
+workers’commitmentstoaplethoraof targets,includingtheorganizationandtheclient,
+aswellasfortheconflictingnatureof theinterrelationbetweenthesecommitments.Inthis
+paper,wedrawoncommitmentsystemtheory(CST),whichviewscommitmentasamal-
+leableandinterconnectedsystem.Usingapragmaticabductiveandquantitativediscovery
+approach,wedistinguishanddevelopcommitmentsystemstoconsistof strength,includ-
+ingthemultipletargetsandtypesof commitment,aswellas interactionbetweencommit-
+ments,including couplingandnature.Inparticular,wedevelopatheoreticalunderstand-
+ing of thenature dimension by identifying two target-neutral types of conflict and one
+context- and target-specific type of conflict. Three commitment systems are identified:
+‘balancedsystem ’, ‘conflictingsystem’, and ‘detachedsystem ’. Furthermore, we provide
+insightsintohowjobdemandsresourcesandcontextualjobaspectsinfluencemembership
+of these commitment systems. This paper is the first to empirically explore commitment
+as a system, and it advances the theoretical understanding of commitment systems in a
+cross-boundary space. Our study discusses the theoretical, methodological and practi-
+cal implications for cross-boundary organizations that compete with their clients for the
+commitment of their employees.
+Introduction
+Recent changes in the world of work mean that
+work is increasingly taking place across organiza-
+tional boundaries. Indeed, these boundaries have
+become blurred, as products and services are de-
+liveredinclosecollaborationwithclientstoreduce
+costs, improve flexibility and co-create knowledge
+(Cappelli and Keller, 2013; Heaphyet al., 2018;
+Marchington, Rubery and Grimshaw, 2011; Weil,
+2019). Consequently, organizations often manage
+peopletheydonotemployandemploypeoplethey
+do not manage (Kinnie and Swart, 2012; 2019).
+Such triadic arrangements among the individual,
+the organization, and their client(s) have impor-
+tant implications for the management of workers’
+commitments (van Rossenbergetal., 2018).
+Previous research has given some insights into
+theimplicationsof cross-boundaryissuesattheor-
+ganizationallevel.Itisknownthatcross-boundary
+work creates tensions between the organization
+and the client (Collins and Butler, 2020; Donnelly,
+2011; Olsen et al., 2016; van Rossenberget al.,
+2018). However, we know little about the percep-
+tions, experience, and consequences of such ten-
+sions at the individual level (Borg and Söderlund,
+2014; Olsenetal ., 2016). Insights into this are rel-
+evant and timely, given how recent events have
+limited engagement and communication between
+the worker, the organization, and the client, as
+©2022TheAuthors. BritishJournalofManagement publishedbyJohnWiley&SonsLtdonbehalf of BritishAcademy
+of Management. Published by John Wiley & Sons Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main
+Street, Malden, MA, 02148, USA.
+Thisisanopenaccessarticleunderthetermsof theCreativeCommonsAttribution-NonCommercial-NoDerivsLicense,
+whichpermitsuseanddistributioninanymedium,providedtheoriginalworkisproperlycited,theuseisnoncommercial
+and no modifications or adaptations are made.
+CommitmentSystemsinCross-boundaryWork 747
+observed in particular in information technology
+(IT) and professional services (Collins and Butler,
+2020; Shankar, 2020).
+Recent scholarship has urged researchers to
+jointlystudycommitmenttargetsandtypes(Klein,
+Brinsfield and Cooper, 2020a; Loscher, Ruhle and
+Kaiser, 2020), as well as considering commit-
+ment targets that are specific to the work context
+(Meyer, 2016; van Rossenberget al., 2018). The
+recently developed Commitment System Theory
+(CST) (Klein, Solinger and Duflot, 2020b) pro-
+vides a fitting theoretical grounding for this pur-
+pose. CST views the overall construct of com-
+mitment as a dynamic system, in which multiple
+commitments are interconnected structures devel-
+oping over time. CST is particularly recognizant
+of the role of context in shaping the commit-
+ment system, therefore drawing on this theoreti-
+calframeworkwillprovideadeeperunderstanding
+of workplacecommitmentinthecontextof cross-
+boudnary work.
+Following a pragmatist abductive approach, we
+draw on CST (Klein, Solinger and Duflot, 2020b)
+with the aim of extending this theory in the light
+of the cross-boundary context. We draw on CST
+to further develop and identify the elements of
+the commitment system, including the strength of
+commitments and the interrelation between com-
+mitments.Inparticular,weextendandprovidefur-
+therconceptualclaritytotheinterrelationbyiden-
+tifying two dimensions:coupling and the experi-
+encednatureof theinterrelation.The natureof the
+interrelation is developed by identifying and ex-
+ploring how commitments are experienced in the
+cross-boundarycontext.Furthermore,wedevelop
+insights into when and how commitment systems
+are shaped based on job demands, resources and
+contextualfactors.AnoverviewisprovidedinFig-
+ure1.Wespecificallyask: Howdoindividualsexpe-
+rience commitment systems when working between
+theboundariesof theorganizationandtheclient?
+A quantitative discovery approach (Bamberger,
+2018; Bamberger and Ang, 2016) is applied to-
+wards the analysis of survey data from 591 em-
+ployees in a medium-size UK-based professional
+service firm (PSF). We explore and develop the
+measurementof commitmentsystems,bycombin-
+ing existing measurement of the strength of com-
+mitment (type and target) with the development
+of the measurement of the interrelation between
+commitments (coupling and nature). We adopt a
+person-centredapproachtoexploretheprototypi-
+Commitment System        
+Multiple Commitment Targets
+Multiple Commitment Types
+Coupling: dynamic correlation 
+How is the interrelationship experienced? 
+Development nature dimension
+Commitment SystemsDrivers of
+Context
+Cross-boundary work
+Strength
+Commitment SystemElements of the
+InterrrelationshipJDR Job Demands Resources
+Figure1.Thenatureof commitmentsystems
+calcommitmentsystems(profiles)of employeesin
+the cross-boundary work setting.
+Cross-boundary work poses a managerial
+dilemma to the employing organization of how
+to service its clients’ needs while retaining the
+commitment of their employees to the organiza-
+tion (Doorewaard and Meihuizen, 2000; Olsen,
+Sverdrup and Kalleberg, 2019; Swart and Kinnie,
+2013). The empirical exploration of commitment
+systems in this setting identifies levers that could
+lead to commitment experiences in this context
+that are more positive and synergistic than con-
+flicting. Finally, we provide practical insights into
+how the employer and the client can manage
+the individual experiences associated with cross-
+boundary working, which is central to future
+managerial and increasingly virtual contexts.
+The paper is structured as follows. First, we de-
+velop theoretical insights into commitment sys-
+tems in the cross-boundary context based on: (1)
+CST; (2) the interrelation dimension including the
+coupling and the nature; (3) the role of job de-
+mands and resources (JDR); and (4) the role of
+context.Second,weoutlineourresearchapproach
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+748 Y.G.T.vanRossenbergetal.
+and setting, measurement development and ana-
+lytical strategy. This includes how we explore and
+developthemeasurementof commitmentsystems.
+Third,wedrawontheperson-centredapproachto
+identify three prototypical commitment systems.
+Fourth, we interpret the membership of commit-
+ment system profiles. Fifth, we give insights into
+the role of JDR and context in relation to com-
+mitment systems. Finally, we discuss the theoret-
+ical, empirical, and practical contributions of our
+study,itslimitations,andtheopportunitiesforfur-
+ther research.
+Theory
+CST
+Research on workplace commitment can be di-
+vided into three approaches (van Rossenberg,
+Cross and Swart, 2022). First, commitment is
+increasingly viewed as a set of multiple targets
+(Becker, 2009; 2018; Olsenet al., 2016). Second,
+commitment is assessed as consisting of multiple
+types (Loscher, Ruhle and Kaiser, 2020), often fo-
+cusing on a single target. The Three Component
+Model (Allen and Meyer, 1996) is the most com-
+monly used typology of commitment, consisting
+of affective commitment (i.e., an emotional at-
+tachment), normative commitment (i.e., a sense
+of moralobligationtocontinue),andcontinuance
+commitment (i.e., commitment based on the costs
+of leaving) (Allen and Meyer, 1996). The third ap-
+proach is the least common and studies the nature
+of the interrelation between commitments (con-
+flicting, neutral, or synergistic) (Donnelly, 2011;
+Johnson, Groff and Taing, 2009).
+Recent conceptual work indicates that commit-
+ment is most appropriately represented as a dy-
+namicsystem(Klein,SolingerandDuflot,2020a).
+Indeed,CSTisdevelopedonthepremisethatcom-
+mitment(s) should not be studied in isolation. A
+commitment system consists of the strength of
+the commitment and theinterrelationof the com-
+mitment elements. Thestrength refers to the level
+of commitment, which includes commitment to
+multipletargetsas well as commitment consisting
+of different types.T h einterrelation of the com-
+mitment elements is identified by CST as cou-
+pling, which is ‘a parameter that captures the
+degree of temporal synchrony between two com-
+mitments’ (2020, p. 119). Coupling between com-
+mitmentsmightbestrong(ortight),whenchanges
+inonecommitmentstronglypredictchangesinan-
+other commitment, or weak, when commitments
+do not develop in completely the same direc-
+tion (Klein, Solinger and Duflot, 2020b). Cou-
+pledcommitmentsworktogether,whiledecoupled
+commitments function independently.
+Concurrently, coupling can be positive, neu-
+tral, or negative in nature. Positive coupling oc-
+curs when commitments function in parallel; that
+is, when commitment to one target intensifies
+commitment to the other target will also inten-
+sify, and when commitment to one target dimin-
+ishes commitment to the other target will also di-
+minish. and vice versa. This notion is similar to
+whatMcLeanParks,KidderandGallagher(1998,
+p.718)identifyas‘commitmentinonelevelislikely
+tospill-overandmagnifycommitmentinanother’.
+Negative coupling includes the experience of two
+commitments working ‘against each other’ (John-
+son, Groff and Taing, 2009, p. 434), which is
+best represented as a negative dynamic (over time)
+correlation. Neutral commitments are decoupled,
+whichmeansthatcommitmentsfunctionindepen-
+dently; that is, commitment to one target comes
+at neither the advantage nor the expense of the
+other.
+Theinterrelationbetweencommitments:nature
+Another layer of the interrelation between multi-
+ple commitments that we seek to unpack in our
+study is the individual experience of thenatureof
+commitment interaction. Multiple commitments
+can be conflicting in nature, as recognized by Re-
+ichers (1985, 1986), as the organization consists
+of coalitional entities that compete for the indi-
+vidual’senergies,identificationsandcommitments.
+Ontheotherhand,employeescanalsosuccessfully
+align their commitments and experience the inter-
+relation as synergistic (e.g., Johnson, Groff and
+Taing, 2009; Jørgensen and Becker, 2015).
+We argue that when commitments are experi-
+enced as conflicting innature, this may lead to
+an adjustment in commitment to one or multiple
+commitments in the system. For example, when
+the interrelation between two commitments is ex-
+perienced as conflicting, the individual may de-
+cide to choose commitment to one target at the
+expense of the other (i.e., negative coupling) as a
+waytodealwiththeexperiencedconflict.Another
+reaction may be to reduce commitment to both
+targets, which then results in positive coupling.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 749
+Alternatively, commitments that are experienced
+asconflictinginnaturemaybedecoupledsuchthat
+commitment to one target may be adjusted inde-
+pendently from the other target. In this way, the
+nature and coupling may be related but, crucially,
+thenatureandcouplingbetweencommitmentsare
+not one and the same construct.
+Recently,progresshasbeenmadewithregardto
+the conflicting nature of the commitment interre-
+lation, in that value-based conflict and behaviour-
+based conflict have been identified (van Rossen-
+bergetal.,2018).Value-basedconflictsresultfrom
+tensionsinmoralnormsandprinciplesunderlying
+differentcommitmenttargets(Klein,Solingerand
+Duflot, 2020b). Behaviour-based conflicts occur
+when individuals are unable to balance the avail-
+able resources of time, energy, and attention be-
+tweentheircommitments(e.g.,Klein,Solingerand
+Duflot,2020b;vanRossenberg etal.,2018),which
+is similar to the conflict experienced in the en-
+actment of multiple commitments (Becker, Klein
+andMeyer,2012).Thetheoreticalgroundforthese
+types of conflict has not been extensively devel-
+oped, and this type of conflict, which is inher-
+ently part of the nature of the commitment in-
+terrelation, has not yet been empirically assessed.
+Hence, we draw on an abductive process to de-
+velop the nature dimension of commitment sys-
+tems by exploring how the interrelation between
+commitmenttotheorganizationandcommitment
+to the client is experienced in the cross-boundary
+context.
+Jobdemands–resourcesasadriverof commitment
+systems
+CSTidentifiestheelementsanddynamicsof com-
+mitmentsystems.However,itprovidesfewinsights
+into what factors would shape a commitment sys-
+tem and how changes in the system might occur.
+Recent exploratory work on the drivers of com-
+mitment to multiple targets indicates that many
+factors in extant commitment models are still
+relevant, including social exchange mechanisms
+(Klein, Brinsfield and Cooper, 2020a). Hence, we
+drawonjobdemands–resources(JDRs)toidentify
+potential drivers of commitment systems (Purcell,
+2014).
+First, we understand that a balance between
+job demands and job resources is the founda-
+tion for a reciprocal social exchange relationship
+that may involve commitment (van Rossenberg
+etal ., 2018). Job overload, the incompatibility be-
+tween work demands and the time available to
+fulfil these demands, represents an imbalance be-
+tweenjobdemandsandjobresources(Bacharach,
+Bamberger and Conley, 1990). Second, perceived
+support, the general belief that one’s ‘organiza-
+tionvaluestheircontributionandcaresabouttheir
+well-being’, positively contributes to the sense of
+purpose and meaning (Rhoades and Eisenberger,
+2002, p. 698). This is how perceived support cre-
+ates a higher sense of commitment, particularly
+in relation to the affective and normative commit-
+ment types. Third, we explore how JDR may re-
+late to how employees experience the interrelation
+betweencommitments.Whencommitmentssimul-
+taneously involve two sets of pressures, compli-
+ance with one keep would make compliance with
+the other more difficult (role conflict) (Katz and
+Kahn,1978).Similarly,whenthereisalackof nec-
+essary information available for a given organiza-
+tional position, this role ambiguity may increase
+job demands (Rizzo, House and Lirtzman, 1970,
+p. 151). Hutchinson and Purcell (2010) find that
+under high levels of support, reduced applies to
+workload, role conflict and ambiguity, fewer in-
+stances of conflict occur. That is, JDR may shield
+against the conflictingnature of the commitment
+interrelation.
+Theroleof context:Thecross-boundarywork
+setting
+Contextisvitaltotheexperienceanddevelopment
+of commitment systems (Klein, Solinger and Du-
+flot, 2020b). However, the role that clients play
+in human resources (HR) management and in
+the shaping of employee commitments has been
+largely neglected (Kirkpatrick, Hoque and Lons-
+dale,2019).Clientsinfluencetheirsupplyingorga-
+nization’s management practices by carrying out
+a detailed pre-contract audit, and then applying
+their recruitment, socialization, training, quality,
+and performance standards (Weil, 2019). Clients
+seek their peripheral staff to commit and to be-
+come indistinguishable from their own employees,
+particularly those working on clients’ sites. The
+employing organization then faces a dilemma: re-
+taining employees’ commitment to the organiza-
+tion or to the client while minimizing any conflict
+these employees may experience in this process.
+Workers may experience conflicts between the or-
+ganization and the client over expectations, tasks,
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+750 Y.G.T.vanRossenbergetal.
+Commitment Targets organization (employing organization) Client organization
+Commitment Types
+a. Affective                                                            
+b. Normative                                                      
+c. Continuance
+a. Affective
+b. Normative 
+c. Continuance 
+Dynamic Coupling
+Nature / experience
+Support organization supervisor Client organization
+Role ambiguity organization and Supervisor Client organization
+Role overload
+Location organization Client organization
+Position organization Client organization
+JDR
+Working at both organization and client
+Context
+Drivers of Commitment Systems
+Commitment Systems in the cross-boundary work setting       
+Elements of Commitment Systems
+Strength
+a.Value-Based Conflict      
+b. Behaviour-based conflict   
+a. Positive, negative or neutral coupling between commitment 
+b. Dynamic coupling: intention to stay / leave
+Interrelationships
+Figure2.Commitmentsystemsinthecross-boundaryworksetting
+and values, all of which make it more difficult to
+meet client’s needs (Donnelly, 2011; Doorewaard
+and Meihuizen, 2000; Swart and Kinnie, 2013).
+It is hardly surprising that for the employees
+workingacrossboundaries,closelywithclients,the
+organization is no longer the primary target of
+their commitment. Instead, the organization and
+the client are the two centraltargetsof their com-
+mitment.Consistently,Liden etal.(2003)findthat
+contingent workers develop attachments to their
+employing agencies, and Coyle-Shapiro and Mor-
+row(2006a)findthatemployeesdisplaydualcom-
+mitment to both their clients and their employers.
+Moreover, Yalabiket al. (2015) show that com-
+mitment to both the organization and the client is
+necessary for employees to experience all three di-
+mensionsof workengagementinacross-boundary
+setting.
+Of the three components of commitment, af-
+fective commitment has the strongest impact
+on employee attitudes, behaviours, and turnover
+intentions (Maertz and Boyar, 2012; Nguyen,
+Felfe and Fooken, 2015). However, Swartet al.
+(2014) show how both the commitment targets
+and types have a differential effect on knowl-
+edge sharing in a cross-boundary work setting.
+They find that affective and normative types
+of commitment to the organization, the team,
+and the profession enhance knowledge sharing,
+whereas continuance commitment to the client in-
+hibits knowledge obtaining and knowledge pro-
+viding. Their findings further explicate the rel-
+evance of including both multiple targets and
+multiple types of commitment in the commit-
+ment system, particularly in cross-boundary work
+settings.
+In summary, Figure 2 provides an overview
+of the elements and the nature of commit-
+ment systems in the cross-boundary work set-
+ting that we have developed based on the the-
+ory, and that we aim to shed more light on. This
+overview will function as a theoretical ground
+for the abductive exploration of our case data.
+In the following section, we outline our re-
+search approach, measurement development, and
+analyses.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 751
+Method
+This study is grounded in a pragmatist philoso-
+phy and abductive research approach (Martela,
+2015). Pragmatism adopts an experientialist on-
+tology that centres on fallibilist instrumentalism.
+The aim is to provide warranted guidance that
+is historically contextual rather than objectively
+‘true’ theories. Central to our design is the logic
+of abduction, which offers a third way or ‘mid-
+dle ground’between inductive approaches and the
+hypothetical-deductive model (Bamberger, 2018;
+BambergerandAng,2016).Abductionrequiresus
+to ‘hold theories lightly’ (Martela, 2015) and use
+pre-understandingtoiterativelymovebetweenthe
+theory and the empirical material (Mueller, 2018).
+Attheend,thisapproachenablesustomakesense
+of whatwefind,todemonstrateplausiblerelation-
+ships,andtoofferwhatweseeasthebestavailable
+explanation based on existing and relevant com-
+munity standards of rigour.
+Our approach here is particularly fitting, given
+the relative novelty of CST and the idea that
+commitment systems are contextually contingent
+(Klein, Solinger and Duflot, 2020b). It is also a
+morehonestaccountof ourresearchjourney,since
+we do not test hypotheses, fill gaps, or seek to de-
+velop a new theory (Bamberger, 2018). Instead,
+we seek to deepen and extend knowledge, accom-
+modate new experiences and inputs, and highlight
+both the theoretical and the practical implications
+of our research process.
+First, based on CST and existing theoretical
+insights, we develop a way to measure commit-
+mentsystemsbydrawingonexistingmeasurement
+scaleswherepossible( typesandtargets)andbyde-
+veloping measurement scales where needed (cou-
+plingandnature).Second,weadoptanexplorative
+analytical approach (specifically, a person-centred
+approach) to identify the prototypical commit-
+ment systems. Third, commitment system mem-
+bership is assessed on its relationship with JDR
+and contextual aspects consistently. This is how
+wedevelopourinterpretationsof thecommitment
+systems; that is, through an abductive process of
+iteration between CST, other existing theory, and
+our empirical insights.
+Researchsetting,design,andsample
+Ourresearchsettingisaglobalorganization(‘Pro-
+Client’ hereafter), with a head office in the UK.
+ProClient,whichprovidesoutsourcedbusinessser-
+vices and HR consulting, is a prime example of a
+cross-boundaryworksetting.Ourresearchdesign,
+implementedoverafour-yearperiod,consistedof
+three stages: (1) insights into the business context
+and development of the measurement; (2) identi-
+fication of commitment systems and test of asso-
+ciations with JDR and commitment system mem-
+bership; and (3) interpretation of the insights.
+We held two formal research meetings with the
+seniorheadofficestaff togaincontextualinsights.
+This was followed by a total of 13 meetings with
+sixseniormanagerstofurtherunderstandthebusi-
+ness context, the HR strategy and practices, and
+the nature of cross-boundary space(s). We used
+these meetings to help shape our questionnaire,
+which was sent to all ProClient employees (N=
+1334), with 591 responses (44% response rate) in-
+cludedinthefinalsample.Afteranalysisandiden-
+tification of the commitment systems, two further
+formal meetings with senior managers took place
+fourmonthsand15monthsafterthesurvey.These
+meetings enabled us to review and interpret our
+analysis, triangulate our data, and position our
+findings in the context of the organization.
+Measurementdevelopmentandapproachto
+studyingcommitmentsystems
+A person-centred approach has frequently been
+applied in the study of workplace commitment
+(vanRossenberg,CrossandSwart,2022).Thisap-
+proach is fitting because it captures the hetero-
+geneity of individuals’ commitment experiences
+in the commitment profiles (Meyer and Morin,
+2016; Morin et al., 2011). It is particularly ap-
+propriate for studying commitment as a system
+because it allows for all possible interactions be-
+tween commitment dimensions in the analysis,
+whereasthevariable-centredapproachisrestricted
+to a two-way or three-way interaction (Howard
+and Hofman, 2018). Furthermore, the person-
+centred approach identifies underlying prototyp-
+ical subpopulations, which enables both induc-
+tiveandabductivetheorizing(Hofmans,Willeand
+Schreurs, 2020). Previous work has analysed com-
+mitments as profiles consisting of (1) multiple
+targets of commitment (e.g., Morinet al., 2011;
+2015); (2) multiple types of commitment (e.g.,
+Kabins et al., 2016); (3) both types and targets
+(Loscher, Ruhle and Kaiser, 2020; Meyer, Morin
+and Vandenberghe, 2015; Morinetal ., 2015); and
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+752 Y.G.T.vanRossenbergetal.
+(4) commitment in combination with other con-
+structs that are inherent or inter-related to com-
+mitment, such as Gouldner’s (1958) latent ‘Cos-
+mopolitans’and ‘Locals’.
+Onthebasisof ourtheorizing,commitmentsys-
+tems consist of thestrength of the commitment
+(targets and types) as well as of the nature of
+theinterrelationbetweencommitments(Figure2).
+To represent this in our quantitative discovery, we
+identified commitment systems to consist of two
+dimensions ofstrength (target and type) and two
+dimensions of interaction (coupling and nature).
+Two targets, the organization and the client or-
+ganization, are included in the system. The three
+types of commitment – affective, normative, con-
+tinuance – were measured by the short three-item
+scale (Gellatly, Meyer and Luchak, 2006). In to-
+tal, we have six commitment variables represent-
+ingstrength:affectivecommitment(AC)totheor-
+ganization (ProClient), AC to the client, norma-
+tive commitment (NC) to the organization, NC
+to the client, continuance commitment (CC) to
+the organization, and CC to the client. An ex-
+ample item for AC to the organization is ‘I re-
+ally feel as if my client organization’s problems
+are my own’. The confirmatory factor analysis for
+these six factors demonstrated a good fit [Χ2 (120)
+= 455.60, p < 0.001, CFI = 0.95, RMSEA
+= 0.07].
+The coupling of commitments is described in
+CST as the dynamic correlation between commit-
+ments. This element of commitment systems is
+represented in the analysis by the person-centred
+approach, which allows commitments to freely
+interact with each other in the system. In other
+words,theinteractionbetweencommitmenttothe
+organizationandcommitmenttotheclientisused
+as a source to identify the profiles in the analysis.
+A post-hoc correlation was calculated for each
+identified system (i.e., profile) to interpret and to
+provide insights into the coupling between the
+commitments in the system. Furthermore, work-
+ing within the limitations of our cross-sectional
+data, we sought to capture some indications of
+the dynamic element of coupling by assessing the
+mean levels of the intention to quit the organiza-
+tion and the client in each commitment system.
+Within CST, the nature of the interrelation
+between commitments has been theorized to con-
+sist of value-based and behaviour-based types
+of conflict (Klein, Solinger and Duflot, 2020b).
+Yet,previous studieshaveneglected toempirically
+assess commitment-related conflict (e.g., Johnson,
+Groff and Taing, 2009). Following an abductive
+approach, value-based and behaviour-based types
+of conflict are represented whilst also allowing
+for other types of commitment-related conflict
+to be experienced, which may be context-specific.
+The value-based conflict dimension was repre-
+sented in the survey by drawing on Meyer, Allen
+and Smith’s (1993) six-item scale. This scale was
+reworded to reflect the commitments that are
+experienced as conflicting. The behaviour-based
+typeof conflictwasdiscussedinthemeetingswith
+senior managers, who confirmed that employees
+might indeed experience conflict over operational
+issues. These issues include speed of service, ad-
+herence to deadlines, quality of the service, level
+of discretion, expected results, scope of service,
+and prioritization of tasks.
+In addition to the value-based and the
+behaviour-based conflict dimensions, we used
+both a theoretical and a case-based classification
+to identify a third dimension, which we labelled
+as ‘expectation conflict’. For this dimension, we
+drew on Donnelly’s (2011) notion of conflict
+over the expectations of the organization and
+those of the client. This dimension is specifically
+linked to the differences between the organi-
+zation’s and the client’s expectations from the
+employee. In addition, we drew on the concept
+of role ambiguity (Rizzo, House and Lirtzman,
+1970). We did not adopt the original ambiguity
+measurement but reworded it into expected in-
+compatibilities between the organization and the
+client.
+In total, a set of 19 items was developed to
+measure the three conflict dimensions: value-
+based, behaviour-based, and expectation conflict
+(Table1).Toevaluatethepsychometricproperties,
+we assessed the item reliability and the convergent
+validity (Fornell and Larcker, 1981). The com-
+posite reliability of all constructs was above the
+threshold value of 0.70. Table 1 shows the factor
+loadings of three conflict scales, which exceed
+the recommended thresholds indicating sufficient
+convergent validity (Shah and Goldstein, 2006).
+Reliability was also confirmed for the value-based
+conflict (α = 0.96), the behaviour-based conflict
+(α=0.94),andtheexpectationconflict( α=0.86).
+For Cronbach’s alphas of all measurements, see
+Table 2. Additional confirmatory factor analysis
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 753
+Table1. Factoranalysisof thenatureof thecommitmentinterrelations
+Component
+123
+Value-based conflict
+WhenIthinkaboutmyinteractionsbetween[myorganization]andmy
+clientorganization….
+1. I feel a tension between ‘my sense of belonging’in [my organization]
+and my client organization.
+0.82 –0.01 0.09
+2. I feel torn between what it personally means for me to work for [my
+organization] and what it means for me to work for my client
+organization.
+0.95 0.02 –0.07
+3. There is a conflict between being ‘part of the family’at [my
+organization] and being ‘part of the family’at my client
+organization.
+0.90 0.02 0.01
+4. My sense of obligation to [my organization] and my client
+organization pulls in opposite directions.
+0.83 0.02 0.13
+5. I feel a tension between the loyalty I have for [my organization] and
+my client organization.
+0.91 0.04 0.02
+6. I feel a conflict between how much I owe to [my organization] and
+my client organization.
+0.90 0.04 –0.02
+Behaviour-based conflict
+Iexperienceconflictbetweenwhat[myorganization]hasagreedwiththe
+clientorganizationandwhatmyclientorganizationexpectsmetodoin
+thefollowingareas…
+1. The speed of the service required. 0.01 0.88 –0.02
+2. Adherence to deadlines when providing the service. 0.01 0.91 –0.06
+3. The quality of the service I provide. –0.04 0.86 0.06
+4. The level of discretion I have to provide the service. 0.02 0.84 0.01
+5. The expected results of my service. –0.02 0.86 0.06
+6. The provision of services that are outside the scope of the existing
+agreement without payment.
+0.02 0.68 0.15
+7. How I prioritize the tasks required to provide the service. 0.08 0.90 –0.08
+Expectation conflict
+WhenIthinkaboutmyinteractionsbetween[myorganization]andmy
+clientorganization….
+1. I experience conflict between my commitment to [my organization]
+and my commitment to my client organization.
+0.17 0.03 0.67
+2. I have compatible expectations from [my organization] and from my
+client organization.
+–0.10 0.09 0.78
+3. I experience conflict between the values of [my organization] and the
+values of my client organization.
+0.09 –0.06 0.76
+4. There is a good match between what is expected of me by [my
+organization] and by my client organization.
+–0.13 0.12 0.83
+5. Overall, I experience conflicting demands from [my organization]
+and from my client organization.
+0.12 –0.02 0.80
+6. I experience conflict between the organizational goals and objectives
+of [my organization].
+0.17 –0.07 0.78
+Note: Extraction method: principal component analysis; rotation method: oblimin with Kaiser normalization. Rotation converged in
+7 iterations.
+confirmed the three-factor solution, and the mea-
+surement model demonstrated a satisfactory fit
+with the data [Χ2 (131) = 464.03, p< 0.001, CFI
+= 0.96, RMSEA = 0.07]. In comparison, the
+three-factor solution represents the variance in
+the data significantly better than a two-factor
+solution, with a change inΧ2 (17) = 564.02, p <
+0.001. According to our analysis, there is evidence
+that respondents identify expectation conflict to
+be a different and separate dimension from value-
+based and behaviour-based conflict. However, we
+should note that the correlation between value-
+based conflict and expectation conflict is relatively
+high (μ =0.69).
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+754 Y.G.T.vanRossenbergetal.
+Table2. Descriptivestatistics,correlations,andreliabilities
+Variable 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 AC organization 0.90
+2 NC organization 0.73 ** 0.81
+3 CC organization 0.21 ** 0.30** 0.75
+4 AC client 0.33 ** 0.40** 0.07 0.89
+5 NC client 0.28 ** 0.43** 0.20** 0.67** 0.86
+6 CC client 0.00 0.09 0.64 ** 0.22** 0.43** 0.88
+7 Value-based
+conflict
+−0.37** −0.36** −0.08 −0.09* 0.00 0.11 * 0.96
+8 Behaviour-based
+conflict
+−0.20** −0.26** 0.01 −0.19** −0.14** 0.04 0.46 ** 0.94
+9 Cross-boundary
+conflict
+−0.31** −0.39** −0.12* −0.18** −0.14** 0.07 0.69 ** 0.57** 0.90
+10 PS organization .67 ** .64** 0.09* 0.34** 0.23** −0.10* −0.36** −0.38** −0.37** 0.86
+11 PS client 0.26 ** 0.27** −0.01 0.59 ** 0.54** 0.08 −0.29** −0.27** −0.18** 0.43** 0.87
+12 PS supervisor 0.39 ** 0.45** 0.08 0.26 ** 0.12** −0.08 −0.28** −0.33** −0.34** 0.59** 0.30** 0.92
+13 RA organization −0.51** −0.53** −0.17** −0.37** −0.24** 0.00 0.37 ** 0.50** 0.46** −0.59** −0.31** −0.49** 0.89
+14 RA client −0.29** −0.32** −0.05 −0.50** −0.38** −0.05 0.40 ** 0.47** 0.39** −0.45** −0.53** −0.39** 0.62** 0.88
+15 Job role overload −0.26** −0.26** −0.12** −0.87* −0.11* −0.07 0.34 ** 0.34** 0.28** −0.33** −0.20** −0.24** 0.37** 0.28** 0.69
+16 ITQ organization −0.52** −0.58** −0.14** −0.37** −0.28** −0.00 0.22 ** 0.24** 0.29** −0.56** −0.26** −0.43** 0.40** 0.32** 0.22** 0.84
+17 ITQ client −0.22** −0.38** −0.13** −0.42** −0.43** −0.11* 0.24** 0.30** 0.27** −0.27** −0.33** −0.26** 0.29** 0.37** 0.21** 0.48** 0.63
+M 4.64 4.48 3.35 4.84 4.25 3.02 3.41 3.06 2.69 4.90 4.25 5.25 2.69 1.21 4.55 2.75 3.33
+SD 1.43 1.36 1.44 1.51 1.59 1.64 1.66 1.36 1.57 0.99 1.09 1.41 1.25 2.59 1.25 1.63 1.45
+Notes: ∗Correlation is significant at the 0.05 level (2-tailed).
+∗∗Correlation is significant at the 0.01 level (2-tailed). Cronbach’s alphas are reported on the diagonal.
+Abbreviations:AC,affectivecommitment;NC,normativecommitment;CC,continuancecommitment;A-N,affective-normative;PS,perceivedsupport;RA,roleambi guity,ItQ,intention
+to quit.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 755
+Analytic procedure for identifying commitment
+systems . In the first step of the analyses, the nine
+commitment constructs were included in the la-
+tent profile analyses (LPA) and the latent mixture
+analyses (LMA) models using a robust maximum
+likelihood estimatorinMPlus7(Kam etal., 2016;
+Morin et al., 2011; Muthén, 2004). As developed
+in the previous section, the commitment system
+includes commitmentstrength of three types (af-
+fective,normative,andcontinuancecommitment),
+to two targets (the organization and the client),
+and three dimensions of thenatureof the interre-
+lation (value-based, behaviour-based, and expec-
+tation conflict). These nine constructs were used
+toexploretheprototypicalcombinations(profiles)
+of the commitment systems. MPlus 7 was used to
+testthemeasurementmodelusingCFA,whichalso
+draws on maximum likelihood estimation. The
+CFA confirms the nine-factor structure of these
+constructs as a set, sufficiently representing the
+variance in the data [Χ2 (593) = 1679.852, CFI=
+0.93, NFI=0.92, IFI= 0.92, RMSEA 0.06].
+Analytic procedure for analysing commitment
+systems in relation to JDR and context.I nt h e
+second step of the analyses, commitment system
+profile membership was tested on its association
+with (1) JDR, and (2) a set of personal and job-
+related characteristics (context). Latent mixture
+modelling (Muthén, 2002) was used to conduct a
+Wald chi-square (W2)testof mean equality of the
+auxiliary analyses; that is, to test the association
+betweentheprobabilityof profilemembershipand
+the following JDR-related variables (Lubke and
+Muthén, 2005; Muthén and Muthén, 2017).
+Jobdemands-resources(JDR )includeperceived
+support from the organization, the client and the
+supervisor, role ambiguity at the organization and
+at the client, job role overload, and intention to
+quit the organization and the client.
+Perceived organizational, client and supervi-
+sor support are measured on the eight-item
+scale adopted from Rhoades, Eisenberger and
+Armeli (2001). An example item is ‘ProClient/My
+client/Mysupervisoriswillingtohelpmeif Ineed
+aspecialfavour’.Thefactorstructuresforthethree
+supportvariablesareasfollows:perceivedsupport
+from ProClient [Χ2 (18) = 76.68, p< 0.001, CFI
+=0.97,RMSEA0.08],perceivedsupportfromthe
+client [Χ2 (17) = 33.76, p < 0.001, CFI = 0.99,
+RMSEA0.04],andperceivedsupportfromthesu-
+pervisor [Χ2 (2) = 6.17, p < 0.001, CFI = 0.99,
+RMSEA 0.06].
+Roleambiguity attheorganization and roleam-
+biguity at the client are measured separately on
+the six-item scale of Rizzo, House and Lirtzman
+(1970). Example items are ‘I know exactly what is
+expected of me by ProClient’, and ‘I know what
+my responsibilities are at my client’. The confir-
+matory factor analysis confirmed the factor struc-
+ture of role ambiguity at the organization [Χ2 (9)
+= 32.63, p < 0.001, CFI = 0.99, RMSEA 0.07],
+and role ambiguity at the client [Χ2 (9) = 48.14,
+p <0.001, CFI=0.97, RMSEA 0.09]. Additional
+analysesforthesetworoleambiguityscalesandthe
+expectation conflict dimension were conducted on
+the basis that the two scales have similarly worded
+items; however, the results of the analyses did not
+show any sign of convergent validity issues.
+Job role overloadis measured on the three-item
+scaleof Bacharach,BambergerandConley(1990).
+An example item is ‘I do not have time to finish
+my job’. The internal consistency of this scale is
+slightly under the accepted threshold (Cronbach’s
+alpha = 0.69). The confirmatory factor analysis
+showed a nearly sufficient fit of the data with the
+combined factor structures of the role ambigu-
+ity in the organization, the role ambiguity of the
+client,andthejobroleoverload[ Χ2 (83) =456.53,
+p <0.001,CFI =0.92,TLI =0.90,RMSEA0.09].
+Theseresultsindicatethattheinternalconsistency
+of the job overload construct is somewhat limited
+in our data.
+Intentiontoquit the organization and the client
+are measured on a three-item scale developed by
+Colarelli (1984). At ProClient, employees do have
+a choice in which client they decide to (continue
+to)workwith,andanyrequestsfromemployeesto
+switchclientsareusuallygrantedbyProClient.An
+exampleitemis‘Iamcurrentlyconsideringleaving
+ProClient’.Theintentiontoleavetheorganization
+and the intention to leave the client are tested on
+theirfitinaconfirmatoryfactoranalysis[ Χ2 (8) =
+27.24, p<0.001, CFI= 0.99, RMSEA 0.06].
+Thedescriptivestatistics,reliabilities,andcorre-
+lations for all constructs are reported in Table 2.
+Workcontext:personalandjob-related
+characteristics
+To provide insights into the role of work con-
+text, we explored the roles of age (42% of the re-
+spondents were in the age group of 25–30 years)
+and organizational tenure (46% of the respon-
+dents had worked for ProClient for less than
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+756 Y.G.T.vanRossenbergetal.
+Table3. FitindicesLPAmodelsonetonineclasses
+Model No. parameters LL AIC BIC ABIC Entropy LMR (p) LMR (ad. p) BLRT (p)
+One class 18 −8565 17166 17245 17188 na na na na
+Two classes 28 −8207 16471 16593 16504 0.77 0.00 0.00 0.00
+Three classes 38 −8028 16132 16298 16177 0.81 0.03 0.03 0.00
+Four classes 48 −7930 15957 16167 16015 0.79 0.41 0.40 0.00
+Five classes 58 −7855 15827 16081 15897 0.79 0.22 0.22 0.00
+Six classes 68 −7779 15694 15992 15776 0.82 0.29 0.29 0.00
+Seven classes 78 −7724 15604 15946 15698 0.82 0.34 0.34 0.00
+Eight classes 88 −7660 15496 15882 15602 0.84 0.67 0.67 0.00
+Nine classes 98 −7621 15437 15867 15555 0.83 0.28 0.28 0.00
+Abbreviations: AIC, Akaike information criterion; BIC, Bayesian information criterion; BLRT, bootstrap LRT; LL, log likelihood;
+LMR, La–Mendel–Rubin LRT; LRT, likelihood ratio test.
+Table4. Classsizeandmeanscommitmentsystemprofiles
+Balanced system Conflicting system Detached system
+Class size 272 237 81
+Means
+AC organization 5.44 4.18 3.36
+NC organization 5.29 4.15 2.92
+CC organization 3.61 3.40 2.38
+AC client 5.37 4.98 2.66
+NC client 4.72 4.56 1.77
+CC client 3.05 3.46 1.62
+Value-based conflict 1.42 4.12 2.64
+Behaviour-based conflict 2.44 4.22 4.01
+Expectation conflict 2.01 3.99 3.57
+Coupling: Intra-system correlations
+AC organization* AC client 0.33 ** 0.13 0.30 *
+NC organization* NC client 0.43 ** 0.28** 0.50**
+CC organization* CC client 0.54 ** 0.66** 0.62**
+Abbreviations: AC, affective commitment; NC, normative commitment; CC, continuance commitment; A-N, affective-normative.
+6months).Wedistinguishedfivegenericjobroles–
+administrator,specialist,principalspecialist,man-
+ager/consultant, and leadership team. Work loca-
+tion includes the head/regional office, at the client
+site, at a ProClient Global Service Centre, and at
+a mobile site, which was often their home office.
+Data were collected at three geographical loca-
+tions, with 84% of the respondents based in the
+UK.
+Results
+Identifyingcommitmentsystems
+Table 3 includes an overview of the profiles esti-
+mated by the LPA, including their fit indices and
+the tests of likelihood ratio. The Lo–Mendell–
+Rubin (LMR) likelihood ratio test indicates that
+thethree-classsolutionexplainssignificantlymore
+of the variance than the two-class solution1 .T h e
+class sizes and the variable means are presented in
+Table 4 and displayed in Figure 3.
+Balancedsystem. Thefirstprofileisthelargestof
+thethreeprofiles(n =272,46%of thesample),rep-
+resenting individuals who have the highest levels
+of commitment to both the organization and the
+client combined with the lowest experiences of all
+three types of conflict. The relatively higher levels
+of affective and normative commitment to the or-
+ganizationcontrastwithmuchlowerlevelsof con-
+tinuancecommitmenttothesetargets.Membersof
+this profile experience a moral duty or obligation
+to be committed as opposed to feeling tied in or
+1The four-class solution does not significantly explain
+more than the three-class solution.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 757
+1
+2
+3
+4
+5
+6
+7
+Balanced System Conflicting System Detached System
+AC Organization
+NC Organization
+CC Organization
+AC Client
+NC Client
+CC Client
+Value-based Conflict
+Behavior-based Conflict
+Expectation Conflict
+Figure3.Commitmentsystemprofilesextractedbythelatentprofileanalysis. [Colourfigurecanbeviewedatwileyonlinelibrary.com]
+Note:AC,affectivecommitment;NC,normativecommitment;CC,continuancecommitment;A-N,affective-normative
+feelingthatthecostsof leavingeithertargetaretoo
+high.
+Fortheseindividuals,bothdimensionsof thein-
+terrelation between the commitments are positive.
+Thecoupling of the commitments is positive, with
+significant positive correlations between commit-
+ment to the organization and to the client for all
+three commitment types. Also, intention to leave
+theorganizationandtheclientarethelowestinthis
+profile.Consistently,the natureof theinterrelation
+islowinconflictinthisprofile.Value-basedconflict
+isparticularlylow( μ =1.42),andbehaviour-based
+conflict is somewhat experienced (μ = 2.44). We
+label this profile thebalanced systembecause this
+group experiences a strong bond with both the or-
+ganization and the client and seems to be able to
+balance this connection for mutual benefit.
+Conflicting system. The members of the second
+profile (n= 237, 40%) experience similar levels of
+commitment to the client as the members of the
+balanced system; however, their level of commit-
+menttotheorganizationislowerthanexperienced
+in the balanced system. Affective and normative
+commitments to the organization are still high (μ
+= 4.18 and μ = 4.15), but not as high as in the
+balanced system. The difference between the lev-
+els of affective and normative commitment with
+continuance commitment is smaller than the dif-
+ference between these types of commitment in the
+balanced system. High commitment is combined
+with high levels of tension between commitment
+to the organization and to the client. All three di-
+mensionsof conflictareexperiencedatahighlevel.
+Theinterrelationbetweencommitmentswithre-
+gard tocoupling is reflected as a non-significant
+correlation between affective commitment to the
+organization and affective commitment to the
+client. Correlations between normative commit-
+ment and continuance commitment are positive
+andsignificant.Thecorrelationsbetweencommit-
+ment to the organization and commitment to the
+client are weakest for this commitment system in
+comparisontotheothercommitmentsystems.The
+membersof thisprofilearemorelikelytoleavethe
+organization and the client than those of thebal-
+ancedsystem , but less likely to leave than those of
+thedetached system. We label this profile thecon-
+flictingsystem becauseof thetensionsexperienced
+intheinterrelationbetweencommitmenttotheor-
+ganization and commitment to the client.
+Detached system. The third profile identified by
+the analyses is the smallest group (n= 81, 14%).
+Members of this profile have the lowest level of
+commitment to both their organization and the
+client in comparison with the other profiles. The
+interrelation in terms of coupling f o rt h i sp r o -
+file is positive; that is, there is a positive correla-
+tion between the commitment to the organization
+and that to the client for all three commitment
+types.Intentiontoleaveboththeorganizationand
+the client is high – the highest of all the profiles.
+This can be seen as an indication of positive cou-
+pling with low commitment to the organization to
+be correlated with low commitment to the client
+over time; however, a definite conclusion about
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+758 Y.G.T.vanRossenbergetal.
+Table5. MeansandresultsfromtheWaldchi-squaretestof meanequalityof theauxiliaryanalysis
+Balanced
+system
+Conflicting
+system
+Detached
+system Global χ2 1 versus 2 1 versus 3 2 versus 3
+PS organization 5.40 4.56 4.39 150.64 109.76 ** 64.26 ** 3.17
+PS client 4.59 4.19 3.28 70.68 14.10 ** 64.47 ** 30.96**
+PS supervisor 5.75 4.87 4.72 67.77 49.57 ** 24.12 ** 0.46
+RA organization 2.03 3.22 3.33 164.8 118.36 ** 56.25 ** 0.36
+RA client 2.01 2.96 3.37 114.84 75.63 ** 55.44 ** 14.54*
+Job role overload 4.17 4.87 4.88 44.78 39.09 ** 15.17 ** 0.01
+ITQ organization 2.08 3.11 3.99 96.81 49.01 ** 56.17 ** 11.16**
+ITQ client 2.81 3.55 4.54 88.51 28.47 ** 69.64 ** 22.54**
+Notes: ∗Mean difference is significant at the 0.05 level
+∗∗Mean difference is significant at the 0.01 level.
+Abbreviations: PS, perceived support; RA, role ambiguity; ItQ, intention to quit.
+Figure4.Auxiliaryanalysiscommitmentsystemprofiles. [Colourfigurecanbeviewedatwileyonlinelibrary.com]
+Note:RA,roleambiguity;PS,perceivedsupport;ItQ,intentiontoquit
+coupling cannot be drawn, given our cross-
+sectional data.
+Thenatureof theinterrelationbetweencommit-
+ments in this system is experienced as conflicting,
+with particularly high levels of behaviour-based
+conflict (μ = 4.01) and expectation conflict (μ =
+3.57). Value-based conflict (μ = 2.64) is experi-
+enced; however, it is higher in theconflicting sys-
+tem. We characterize this profile as thedetached
+system, representing individuals floating between
+the organization and the client while being com-
+mitted to neither, but operating in a constrained
+space experiencing both behaviour-based conflict
+and expectation conflict.
+Commitmentsystems,JDR,andcontext
+In the second step of the analysis of the data, fac-
+tor mixture analyses (FMA) are used to test the
+relation between the probability of membership
+of the three profiles and the set of JDR (Table 5
+and Figure 4). In the second FMA, the relation
+between the commitment systems and a series of
+personal and job-related characteristics are tested
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 759
+Table6. Waldtestof equalityof personalandjobcharacteristicsacrossprofiles
+Balanced
+system
+Conflicting
+system
+Detached
+system Global χ2 1 versus 2 1 versus 3 2 versus 3
+Age 3.62 3.14 3.48 0.86 0.00 0.89 0.77
+Organization tenure 2.60 2.67 2.96 2.81 0.16 2.80 1.83
+European 0.35 0.24 0.32 5.02 5.47 * 0.19 1.58
+Asian 0.15 0.11 0.04 10.14 1.24 10.20 ** 4.60*
+UK 0.54 0.41 0.40 10.51 7.06 ** 4.59* 0.02
+Head/regional office 0.05 0.06 0.06 0.12 0.09 0.05 0.00
+Global service centre 0.53 0.31 0.41 20.36 20.50 ** 3.18 2.05
+Client site 0.39 0.61 0.45 16.64 19.61 ** 0.62 5.28 *
+Mobile site 0.03 0.03 0.09 2.87 0.07 2.91 3.30
+Administrator 0.23 0.23 0.22 0.06 0.00 0.07 0.07
+Specialist 0.35 0.24 0.29 5.25 5.67 * 0.70 0.70
+Principal specialist 0.17 0.33 0.25 14.58 15.08 ** 2.02 1.56
+Manager/consultant 0.19 0.17 0.17 0.41 0.31 0.17 0.00
+Leadership team 0.07 0.03 0.07 2.29 3.45 0.02 1.54
+Notes: ∗Mean difference is significant at the 0.05 level,
+∗∗Mean difference is significant at the 0.01 level.
+(Table 6). The results are discussed for each of the
+commitment system profiles.
+Balanced system. Membership of this profile is
+associated with high perceptions of support, and
+the lowest levels of both role ambiguity and job
+role overload. This profile shows how (increased)
+job resources and (reduced) job demands might
+help to buffer the conflictingnature of the inter-
+relation between commitment to the organization
+andcommitmenttotheclient.Thekeyfindinghere
+is the perceived strong support from supervisors,
+who play a vital role in protecting employees and
+bufferingtheconflictingdemandsof theorganiza-
+tion and the client.
+Membersof thisprofilearelesslikelytoworkon
+the client site and more likely to work in a Global
+Service Centre (GSC), which is indicative of the
+positive influence of the proximity of the organi-
+zation in this context. Working in a GSC means
+thattheseemployeesarebasedinProClientoffices,
+where direct and senior managers are more proxi-
+mal and involved in the day-to-day work. The ju-
+nior specialists working on operational issues are
+significantly more likely to be members of this
+commitmentsystemprofile.Theydevelopastrong
+reputation for success if they can achieve client
+goals,whichismorelikelytobesupportedandrec-
+ognizedbytheirProClientmanagerattheGSC.In
+other words, the context of the system and work-
+ing in closer proximity to the organization inter-
+actswiththeperceptionsof higherlevelsof jobre-
+sources and lower levels of job demands and the
+experience of the commitment system.
+Conflictingsystem. Membersof thisprofileexpe-
+rience less support overall, and more ambiguity at
+both their organization and their client. They also
+experience a higher job role overload than mem-
+bers of the balanced system profile do. Moreover,
+these employees experience high commitment to
+both their organization and the client, since they
+engage in dialogue between themselves and the
+parties with whom they interact. However, having
+to cope with high levels of conflict, their job over-
+load and role ambiguity in relation to both their
+organization and the client seems to coincide with
+their experience of all three types of conflict.
+Members of this profile are significantly more
+likely to work on client-site than in a GSC. In ad-
+dition, the members of this profile are also more
+likelytobeseniorspecialists;hence,theyoftenrep-
+resent their employer to the client on a one-to-one
+basis. The fact that they work in closer proximity
+totheclientexplainsthehigherlevelof clientcom-
+mitment relative to organizational commitment.
+Employeeswithinthisprofileknowthattheymust
+place the interests of their client first, but at the
+same time they must achieve the performance tar-
+getssetbytheiremployer(i.e.,ProClient).Thissit-
+uation provides insights into the role of context
+in shaping the commitment system, in which the
+proximitytotheclientinfluencestheexperienceof
+the conflictingnature of the commitment interre-
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+760 Y.G.T.vanRossenbergetal.
+1. Balanced System  (46%)                                                                                                                                                    2. Conflicting System (40%)     3. Detached Subsystem (14%)
+Commitment Targets High commitment to the organization and 
+high commitment to the client 
+Medium-high commitment to the organization 
+and high commitment to the client 
+Low commitment to both the organization 
+and the client
+Commitment Types Strongest A-N dominant A-N dominant Low somewhat AN-dominant organization, 
+low A-dominant client, but low on all ANC  
+Coupling Positive coupling, Low Intentions to Quit the 
+organization and the Client
+Decoupled affective and normative 
+commitment, coupled continuance 
+commitment, Medium levels of Intentions to 
+Quit the organization and the Client
+Positive Coupling, High Intentions to Quit the 
+organization and the Client
+Nature
+Low Value-Based Conflict                                   High Value-Based Conflict                                    Medium Value-Based Conflict                   
+Medium Behaviour-based Conflict                      High Behaviour-based Conflict                           High Behaviour-based Conflict                       
+Medium-low Expectation Conflict High Expectation Conflict High Expectation Conflict
+Support High Support: organizational-Client-
+Supervisor
+High support organization and client, medium 
+high support supervisor, 
+High support organization medium support 
+client, medium high support supervisor
+Role ambiguity  Low Role Ambiguity Medium Role ambiguity Medium Role ambiguity
+Role overload Low Job Role Overload High Job Role Overload High Job Role Overload
+Location More likely to work at Global Client Centre, 
+less likely to work at client-site More likely to work at client-site Less likely to work at client site
+Position More likely to work as (junior) specialist More likely to work as Principal Specialist
+Commitment Systems identified in the Cross-Boundary Setting        
+Elements ofthe Commitment System
+StrengthInterrelationshipsContext JDR
+Drivers of the commitment system
+Figure5.Commitmentsystemsidentifiedinthecross-boundarysetting
+lation and the neutralcoupling between affective
+commitment to the organization and to the client.
+Detachedsystem. Outof thethreeprofiles,mem-
+bers of the detached system profile experience the
+lowest levels of job resources and the highest level
+of job demands in comparison to the other pro-
+files.Whatsetsthedetachedsystemapartfromthe
+conflicting system are the low levels of support
+fromtheclientandthehighlevelsof client-specific
+role ambiguity.
+The analysis of the survey data was unable
+to provide conclusive insights into some of the
+contextual dimensions of this system. As such,
+we sought to gain an understanding of the na-
+ture of this profile through meetings with Pro-
+Clients’ managers and HR professionals. In the
+words of the ProClient Global Head of HR, ‘they
+[theemployeesexperiencingadetachedsystem ]ha ve
+checked out’. Indeed, the members of this pro-
+file have the highest levels of intention to leave
+the organization and the client. Yet, it is interest-
+ing that even though their commitment is low and
+theirintentiontoleaveishigh,theystillexperience
+behaviour-based conflict and expectation conflict
+at substantial levels.
+Figure 5 provides an overview of the elements
+and the nature of commitment systems that were
+found in this study in the cross-boundary work
+setting.
+Discussion
+The key contributions of this paper are: (1) the
+clarificationanddevelopmentof theinterrelation-
+ship dimension of the commitment system, iden-
+tifying and developingcoupling and thenature of
+the commitment experience; (2) the development
+of thenatureof the commitment experience, con-
+sisting of three types of conflict; (3) the quan-
+titative discovery of three prototypical commit-
+ment systems in the cross-boundary work setting;
+and (4) insights into the drivers of commitment
+systems.
+First, we have further developed the interrela-
+tion dimension of commitment systems, by un-
+packing thecoupling dimension and by introduc-
+ing the nature dimension. Previous research has
+considered either commitment strength,or multi-
+ple types of commitment,or commitment inter-
+relationships. Unlike these studies, we have stud-
+iedcommitmentasasystemconsistingof multiple
+typesandtargets–inourcase,affective,normative
+and continuance commitment to the organization
+and the client, which arecoupled and can be ex-
+perienced as conflicting innature. By distinguish-
+ing betweencoupling and nature,w eh a v es h o w n
+that these dimensions are unique and experienced
+in a variety of combinations in the commitment
+systems.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 761
+Second,wehavedevelopedthe naturedimension
+of commitmentsystems,identifyingthreetypesof
+conflict experienced in the interrelation between
+commitmenttotheorganizationandcommitment
+to the client. Value-based conflict and behaviour-
+based conflict, which have been grounded in the
+commitment literature and commitment systems
+(Klein, Solinger and Duflot, 2020b; van Rossen-
+berg et al., 2018), seem to be generic or target-
+neutral. Expectation conflict, on the other hand,
+may be unique to the tensions specific to work-
+ing between the organization and the client. This
+type of conflict may be theoretically grounded in
+the experienced tensions with regard to the (con-
+flicting) expectations from the organization and
+the client, identified by previous work in cross-
+boundary work settings (Donnelly, 2011; Doore-
+waard and Meihuizen, 2000; Swart and Kinnie,
+2013). Our explorative analysis shows indications
+of this third conflict type, while the theoretical
+and conceptual groundings of this third dimen-
+sion are limited. We recommend, therefore, that
+future research seeks further insights, particularly
+into which commitment interrelation may be ex-
+perienced to be conflicting innature, what type of
+conflictisexperienced,andtowhatextentthistype
+of conflict may be context- or target-specific.
+Third,ouranalysesidentifiedthreecommitment
+systems: thebalanced system,t h econflicting sys-
+tem, and thedetached system.T h ebalanced sys-
+tem gives insights into the synergistic commit-
+ment relationship (Askew, Taing and Johnson,
+2013; Johnson, Groff and Taing, 2009; Jørgensen
+and Becker, 2015), represented by high levels of
+commitment, positive coupling, and low levels
+of commitment-relatedconflict.Theoreticalsense-
+making is grounded in coping with and balanc-
+ing the demands of conflicting parties (i.e., the or-
+ganization and the client) (Jørgensen and Becker,
+2015).
+The conflicting system provides insights into
+how commitments can be high, positively coupled
+(high levels of commitment and low intention to
+stay for both the client and the organization), and
+at the same time commitment is experienced as
+conflictingin nature.Workingattheclientsiteand
+working in a principal specialist role make it more
+likely that the employees will experiencea con-
+flicting commitment system. The employee experi-
+ence in this system may be grounded in the search
+forpsychologicalcloseness,whilstbeingphysically
+andsociallydistantfromProClient,whichleadsto
+conflicting experiences (Becker, 2009; Olsen, Sver-
+drup and Kalleberg, 2019).
+The detached system gives insights into how
+commitment can be positivelycoupled whilst also
+experienced as conflicting in nature. Low levels
+of commitment to the organization and to the
+client are combined with high intentions to leave
+the organization and the client, and substantial
+levels of behaviour-based and expectation con-
+flict. Our findings add to existing work in the
+cross-boundary context, giving insights into how
+workers experience becoming ‘structurally invisi-
+ble’ within their organization and ‘socially sepa-
+rated’from their client (Beech, 2011, p. 297): they
+are employed by one, work for another, but are
+committed to neither.
+Fourth, our results provide insights into the
+drivers of commitment systems, including JDR
+andcontext.Consistentwithpreviousresearch,we
+find balance in JDR in thebalanced commitment
+system. In thedetached commitment system, low
+commitment is combined with low levels of job
+resources (perceived support) and with high job
+demands (role ambiguity and job role overload)
+(Becker, 2009; Boshoff and Mels, 2000; Cooper
+et al., 2016; Coyle-Shapiro and Morrow, 2006a,
+2006b). Interestingly, we find that the JDR related
+to the client is the key difference between thecon-
+flictingcommitmentsystemandthe detachedcom-
+mitmentsystem.Clientsupportandlowerroleam-
+biguity at the client may buffer the experience of
+highconflict,allowingemployeestomaintainhigh
+levelsof commitmenttoboththeorganizationand
+theclient.Futureresearchmayconsiderproviding
+insights into the dynamics of the relationship be-
+tween JDR and commitment systems.
+Ourfindingsshowthatthejobroleandproxim-
+ity of the client relate to the experience of a com-
+mitment system. This finding contributes to the
+relevanceandthecomplexinteractionof thework
+context in shaping commitment systems, thereby
+contributing to CST. This highlights the relevance
+of studying commitment systems in relation to
+their context (Becker, 2009; Klein, Becker and
+Meyer, 2009, 2020b; van Rossenbergetal., 2018).
+Methodologicalcontributions
+In addition to the empirical insights into the the-
+ory, we have made two methodological contribu-
+tions. First, we explored and developed a way of
+representing commitment systems in survey data.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+762 Y.G.T.vanRossenbergetal.
+This includes thestrength of commitment (types
+andtargets)basedonexistingmeasurementscales,
+and a development of the measurement of thein-
+terrelations between commitments (coupling and
+nature). We followed a quantitative discovery ap-
+proach, seeking how to representcoupling in the
+analysis of our data.
+Second, the person-centred approach (Morin
+et al., 2011) enabled us to study the experience
+of commitment strength and the interrelation be-
+tween commitments as one commitment system,
+rather than simply examining the interactions
+between the targets, the types, and the interrela-
+tion separately (Baruch and Winkelmann–Gleed,
+2002; Bentein, Stinglhamber and Vandenberghe,
+2002; van Rossenberg et al., 2018). Crucially,
+our person-centred approach and use of profile
+analysis enabled us to move away from the four
+‘high/high’, ‘high/low’, ‘low/high’ and ‘low/low’
+groups frequently seen in the dual commitment
+literature (Carsonet al., 1999; Magenau, Martin
+and Peterson, 1988; Olsen et al., 2016, 2019) to a
+holistic solution that enabled us to identify proto-
+typicalcommitmentsystemsratherthanassuming
+homogeneity in the commitment systems (Houle
+etal., 2020). Again, this is consistent with CST.
+Unique to this approach is that our analyses
+give insights into how commitment to the organi-
+zationandtheclientisexperiencedincombination
+with coupling and nature. We found that conflict
+between commitments can be experienced when
+commitment is high (conflicting system), while
+behaviour-basedandexpectationconflictscanalso
+beexperiencedwhencommitmentislow( detached
+system). In addition, high commitment to the or-
+ganization and the client may result in the experi-
+ence of conflict (conflicting system), whereas high
+commitmentalsobecombinedwithouttheexperi-
+ence of any of these conflicts (balancedsystem ).
+Implicationsforpractice
+Our research has managerial and practical impli-
+cations for those seeking to manage the organiza-
+tional dilemma of needing to retain as well as to
+develop professionals and to satisfy the require-
+ments of their clients at the same time (Donnelly,
+2011; Doorewaard and Meihuizen, 2000; Swart
+and Kinnie, 2013). The irony from the point of
+view of ProClient is that the employees experienc-
+ingtheconflictingcommitmentsystemsarevitalto
+the financial successof theProClient, asthey gen-
+erate the most revenue. Yet, they have one of the
+toughest roles and have strong bargaining power
+owing to intensive client contact (Olsen, Sverdrup
+and Kalleberg, 2019). They are also prone to ‘go-
+ing native’ or being poached by their clients for
+higher salaries and benefits (Coyle-Shapiro and
+Morrow, 2006a). This is a major issue for our case
+company (i.e., ProClient), and our data corrobo-
+rate this situation. It would be interesting for fu-
+ture research to consider the impact of financial
+compensation on retention. Would a client paying
+more encourage a valuable employee to join the
+client organization?
+We have identified that JDR practices embed-
+dedwithintheclientarethekeydifferencebetween
+the conflicting system and the detached system.
+These practices might be particularly key when
+employees are present on the client site for long
+periods. This situation poses questions about the
+way in which organizations manage their employ-
+ees across boundaries. If organizations want their
+own management practices to predominate, they
+needtoconsiderthetransactioncostsof keepinga
+client at arm’s length. Furthermore, there is an in-
+creasingneedtounderstandhowaconstellationof
+managerial practices would need to be integrated
+to generate advantage beyond the boundaries of
+the organization (Kinnie and Swart, 2019).
+LimitationsandFutureResearch
+Commitmentsystemsareinherentlydynamic,and
+hence the cross-sectional nature of our data limits
+our ability to address and provide insights into
+this aspect of commitment systems. In particular,
+in assessingcoupling, our analysis is unable to do
+justice to the dynamic nature when drawing on a
+static snapshot correlation of commitment to the
+organization and to the client. To compensate, we
+assessed the intention to leave the organization
+and the client as an indication of future commit-
+ment intentions, which is limited. Furthermore,
+our data show that the detached system is associ-
+ated with low levels of supportfromtheclient and
+a higher role ambiguity
+at the client. Although
+tempting, we cannot confidently state that these
+two factorscause employees to adjust their com-
+mitment system from a conflicting commitment
+systemtoadetachedcommitmentsystem.Neither
+can we conclude that, if employees experience
+enough support and low levels of role ambiguity
+from their client, their commitment system will
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 763
+become balanced. It is of particular relevance for
+futureresearchtogaininsightsintosuchdynamics
+of commitment systems in relation to the impact
+of HR interventions.
+When tensions and conflict between commit-
+ments occur, CST proposes that the individuals
+adjust and change their commitment system into
+either positive coupling or decoupling. Another
+way to balance a commitment system is by mod-
+ulation, which involves a loss of efficiency and
+switching costs given the time and the energy
+needed (Klein, Solinger and Duflot, 2020b). Fu-
+ture research should explore whether employees
+who experience a conflicting commitment system
+usemodulatingbetweencommitments,potentially
+as a way to deal with the conflictingnature.
+Furthermore, we have focused on commitment
+to the organization and to the client, which is lim-
+ited because previous work indicates the relevance
+of the supervisor and the profession (Olsenetal .,
+2016; Swartet al., 2014; Yalabiket al., 2017). In
+addition, 46% of our respondents had a tenure of
+less than six months at ProClient, which is typi-
+cal of employees in the cross-boundary work set-
+ting. We did not find any indication that the low
+average tenure in our sample or age was related to
+the employees’experience of the commitment sys-
+tem. Still, future research might provide insights
+intotherolesof tenureandageinthedevelopment
+of commitment systems, which is particularly rel-
+evant in aging societies.
+The exploration of commitment systems in a
+cross-boundary work setting using the person-
+centred methodology holds great promise for fu-
+ture research. However, our sample is somewhat
+limitedinsizeforaLPA.Onefruitfulavenuewould
+be to explore large-scale heterogeneous samples
+including different types of cross-organizational
+working, such as law and audit (Malhotra and
+Morris, 2009; von Nordenflycht, 2010), with vary-
+ing amounts of time spent at the client site.
+References
+Allen, N. J. and J. P. Meyer (1996). ‘Affective, continuance, and
+normative commitment to the organization: an examination
+of construct validity’,Journalof VocationalBehavior, 49,p p .
+252–276.
+Askew,K.,M.U.TaingandR.E.Johnson(2013).‘Theeffectsof
+commitment to multiple foci: an analysis of relative influence
+and interactions’,HumanPerformance,26, pp. 171–190.
+Bacharach, S. B., P. Bamberger and S. C. Conley (1990). ‘Work
+processes, role conflict and role overload’,Work and Occupa-
+tions,17, pp. 199–228.
+Bamberger, P. and S. Ang (2016). ‘The quantitative discovery:
+what is it and how to get it published’,Academy of Manage-
+mentDiscoveries,2, 1–6.
+Bamberger, P. A. (2018). ‘AMD—clarifying what we are about
+andwherewearegoing’, AcademyofManagementDiscoveries ,
+4, 1–10.
+Baruch,Y.andA.Winkelmann-Gleed(2002).‘Multiplecommit-
+ments: a conceptual framework and empirical investigation in
+a community health service trust’,BritishJournalof Manage-
+ment,13, pp. 337–357.
+Becker, T. E. (2009). ‘Interpersonal commitments’. In H. Klein,
+T. Becker and J. Meyer (eds),Commitment in Organizations:
+AccumulatedWisdomandNewDirections .Routledge/Taylor&
+Francis Group: New York.
+Becker,T.E.,M.C.Kernan,K.D.ClarkandH.J.Klein(2018).
+‘Dual commitments to organizations and professions: differ-
+ent motivational pathways to productivity’,Journal of Man-
+agement,44, pp. 1202–1225.
+Becker, T. E., H. J. Klein and J. P. Meyer (2009).Commitment
+in Organizations: Accumulated Wisdom and New Directions.
+Routledge.
+Beech,N.(2011).‘Liminalityandthepracticesof identityrecon-
+struction’,HumanRelations,64, pp. 285–302.
+Bentein, K., F. Stinglhamber and C. Vandenberghe (2002). ‘Or-
+ganization,supervisor,andworkgroup-directedcommitments
+and citizenship behaviours: a comparison of models’,Euro-
+pean Journal of Work and Organizational Psychology, 11,p p .
+341–362.
+Borg, E. and J. Söderlund (2014). ‘Moving in, moving on: lim-
+inality practices in project-based work’,Employee Relations,
+36, pp. 182–197.
+Boshoff,C.andG.Mels(2000).‘Theimpactof multiplecommit-
+mentsonintentionstoresign:anempiricalassessment’, British
+Journalof Management,11, pp. 255–272.
+Cappelli, P. and J. R. Keller (2013). ‘Classifying work in the new
+economy’,Academyof ManagementReview,38, pp. 575–596.
+Carson,K.D.,P.P.Carson,C.W.Roe,B.J.BirkenmeierandJ.S.
+Phillips (1999). ‘Four commitment profiles and their relation-
+ships to empowerment, service recovery, and work attitudes’,
+PublicPersonnelManagement ,28, pp. 1–13.
+Colarelli, S. (1984). ‘Methods of communication and mediating
+processesinrealisticjobpreviews’, JournalofAppliedPsychol-
+ogy,69, pp. 633–642.
+Collins, D. and N. Butler (2020). ‘Success and failure in profes-
+sional projects: the nature, contours and limits of consulting
+professionalism’,BritishJournalof Management,31, pp. 457–
+469.
+Cooper, J. T., L. J. Stanley, H. J. Klein and A. Tenhiälä (2016).
+‘Profiles of commitment in standard and fixed-term employ-
+ment arrangements: implications for work outcomes’,Euro-
+pean Journal of Work and Organizational Psychology, 25,p p .
+149–165.
+Coyle-Shapiro, J. A.-M. and P. C. Morrow (2006a). ‘Organiza-
+tional and client commitment among contracted employees’,
+Journalof VocationalBehavior,68, pp. 416–431.
+Coyle-Shapiro, J. A.-M., P. C. Morrow and I. Kessler (2006b).
+‘Serving two organizations: exploring the employment rela-
+tionship of contracted employees’,HumanResourceManage-
+ment,45, pp. 561–583.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+764 Y.G.T.vanRossenbergetal.
+Donnelly, R. (2011). ‘The coalescence between synergies and
+conflicts of interest in a top consultancy firm: an analysis
+of the implications for consultants’attitudes and behaviours’,
+HumanResourceManagementJournal ,21, pp. 60–73.
+Doorewaard, H. and H. E. Meihuizen (2000). ‘Strategic perfor-
+mance options in professional service organizations’,Human
+ResourceManagementJournal ,10, pp. 39–57.
+Fornell,C.andD.F.Larcker(1981).‘Evaluatingstructuralequa-
+tion models with unobservablevariablesand measurement er-
+ror’,Journalof MarketingResearch,18, pp. 39–50.
+Gellatly,I.,J.MeyerandA.Luchak(2006).‘Combinedeffectsof
+the three commitmentcomponentson focaland discretionary
+behaviors: a test of Meyer and Herscovitch’s propositions’,
+Journalof VocationalBehavior,69, pp. 331–345.
+Gouldner, A. W. (1958). ‘Cosmopolitans and locals: toward an
+analysis of latent social roles’,Administrative Science Quar-
+terly,2, pp. 444–480.
+Heaphy,E.D.,K.Byron,G.A.Ballinger,J.H.Gittell,C.Leana
+and D. M. Sluss (2018). ‘Introduction to special topic forum:
+the changing nature of work relationships’,Academyof Man-
+agementReview,43, pp. 558–569.
+Hofmans, J., B. Wille and B. Schreurs (2020). ‘Person-centered
+methods in vocational research’,Journalof VocationalBehav-
+ior,118, p. 103398.
+Houle, S. A., A. J. Morin, C. Fernet, C. Vandenberghe and I.
+Tóth-Király (2020). ‘A latent transition analysis investigating
+the nature, stability, antecedents, and outcomes of occupa-
+tional commitment profiles for school principals’,Journal of
+VocationalBehavior,121, 1034–1060.
+Howard, M. C. and M. E. Hoffman (2018). ‘Variable-centered,
+person-centered, and person-specific approaches: where the-
+ory meets the method’,OrganizationalResearchMethods , 21,
+pp. 846–876.
+Hutchinson, S. and J. Purcell (2010). ‘Managing ward man-
+agers for roles in HRM in the NHS: overworked and under-
+resourced’,Human Resource Management Journal, 20,p p .
+357–374.
+Johnson,R.E.,K.W.Groff andM.U.Taing(2009).‘Natureof
+theinteractionsamongorganizationalcommitments:comple-
+mentary, competitive or synergistic?’,BritishJournalof Man-
+agement,20, pp. 431–447.
+Jørgensen, F. and K. Becker (2015). ‘Balancing organizational
+andprofessionalcommitmentinprofessionalservicefirms:the
+HRpracticesthatmatter’, InternationalJournalofHumanRe-
+sourceManagement,26, pp. 23–41.
+Kabins, A. H., X. Xu, M. E. Bergman, C. M. Berry and V. L.
+Willson (2016). ‘A profile of profiles: a meta-analysis of the
+nomological net of commitment profiles’,Journal of Applied
+Psychology,101, p. 881–904.
+Kam,C.,A.J.Morin,J.P.MeyerandL.Topolnytsky(2016).‘Are
+commitment profiles stable and predictable? A latent transi-
+tion analysis’,Journalof Management,42, pp. 1462–1490.
+Katz, D. and R. L. Kahn (1978). ‘Organizations and the system
+concept’,Classicsof OrganizationTheory,80, 480.
+Kinnie, N. and J. Swart (2012). ‘Committed to whom? Profes-
+sional knowledge worker commitment in cross-boundary or-
+ganizations’,Human Resource Management Journal, 22,p p .
+21–38.
+Kinnie,N.andJ.Swart(2019).‘Cross-boundaryworking:impli-
+cations for HRM theory, methods, and practice’,Human Re-
+sourceManagementJournal ,30, pp. 86–99.
+Kirkpatrick, I., K. Hoque and C. Lonsdale (2019). ‘Client orga-
+nizations and the management of professional agency work:
+the case of English health and social care’,Human Resource
+Management,58, pp. 71–84.
+Klein, H., T. Becker and J. Meyer (2009).Commitment in Or-
+ganizations: Accumulated Wisdom and New Directions. Rout-
+ledge/Taylor & Francis Group: New York.
+Klein,H.J.,C.T.BrinsfieldandJ.T.Cooper(2020a).‘Theexpe-
+rience of commitment in the contemporary workplace: an ex-
+ploratory reexamination of commitment model antecedents’,
+HumanResourceManagement ,60, pp. 885–902.
+Klein,H.J.,O.N.SolingerandV.Duflot(2020b).‘Commitment
+systemtheory:theevolvingstructureof commitmentstomul-
+tiple targets’,Academy of Management Review, 47, pp. 116–
+138.
+Liden, R. C., S. J. Wayne, M. L. Kraimer and R. T. Sparrowe
+(2003). ‘The dual commitments of contingent workers: an ex-
+amination of contingents’commitment to the agency and the
+organization’,JournalofOrganizaitonalBehavior ,24,pp.604–
+625.
+Loscher,G.,S.RuhleandS.Kaiser(2020).‘Commitmentprofiles
+of accountants: a person-centered study of the commitment
+towards profession and organization’,Behavioral Research in
+Accounting,32, pp. 51–68.
+Lubke, G. H. and B. Muthén (2005). ‘Investigating popula-
+tion heterogeneity with factor mixture models’,Psychological
+Methods,10, pp. 21–39.
+Maertz, C. P. and S. L. Boyar (2012). ‘Theory-driven develop-
+mentof acomprehensiveturnover-attachmentmotivesurvey’,
+HumanResourceManagement ,51, pp. 71–98.
+Magenau, J. M., J. E. Martin and M. M. Peterson (1988). ‘Dual
+and unilateral commitment among stewards and rank-and-
+fileunionmembers’, AcademyofManagementJournal ,31,pp .
+359–376.
+Malhotra, N. and T. Morris (2009). ‘Heterogeneity in profes-
+sional service firms’,Journal of Management Studies, 46,p p .
+895–922.
+Marchington, M., J. Rubery and D. Grimshaw (2011). ‘Align-
+ment, integration, and consistency in HRM across multi-
+employer networks’,Human Resource Management, 50,p p .
+313–339.
+Martela, F. (2015). ‘Fallible inquiry with ethical ends-in-view: a
+pragmatist philosophy of science for organizational research’,
+OrganizationStudies,36, pp. 537–563.
+McLean Parks, J., D. Kidder and D. G. Gallagher (1998).
+‘Fitting square pegs into round holes: mapping the do-
+main of contingent work arrangements onto the psycho-
+logical contract’, Journal of Organizational Behavior, 19,
+pp. 697–730.
+Meyer, J., N. Allen and C. Smith (1993). ‘Commitment to or-
+ganizations and occupations: extension and test of a three-
+componentconceptualization’,JournalofAppliedPsychology ,
+78, pp. 538–551.
+Meyer, J. P. (2016).Handbook of Employee Commitment.C h e l -
+tenham, UK: Edward Elgar.
+Meyer,J.P.andA.J.Morin(2016).‘Aperson-centeredapproach
+to commitment research: theory, research, and methodology’,
+Journalof OrganizationalBehavior,37, pp. 584–612.
+Meyer,J.P.,J.S.MorinandC.Vandenberghe(2015).‘Dualcom-
+mitmenttoorganizationandsupervisor:aperson-centeredap-
+proach’,Journalof VocationalBehavior,88, pp. 56–72.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CommitmentSystemsinCross-boundaryWork 765
+Morin, A., J. Morizot, J.-S. Boudrais and I. Madore (2011). ‘A
+multifoci person-centered perspective on workplace affective
+commitment: a latent profile/factor mixture analysis’,Organi-
+zationalResearchMethods ,14, pp. 58–90.
+Morin, A. J., J. P. Meyer, D. M. McInerney, H. W. Marsh and F.
+A.Ganotice(2015).‘Profilesof dualcommitmenttotheoccu-
+pation and organization: relations to well-being and turnover
+intentions’,AsiaPacificJournalof Management , 32, pp. 717–
+744.
+Mueller, J. (2018). ‘Finding new kinds of needles in haystacks:
+experimentationinthecourseof abduction’,AcademyofMan-
+agementDiscoveries,4, 103–108.
+Muthén, B. (2004). ‘Latent variable analysis. Growth mixture
+modeling and related techniques for longitudinal data’. In D.
+Kaplan (ed), The Sage Handbook of Quantitative Methodol-
+ogyfortheSocialSciences ,pp.345–368.ThousandOaks,CA:
+Sage Publications.
+Muthén, B. O. (2002). ‘Beyond SEM: general latent variable
+modeling’,Behaviormetrika,29, pp. 81–117.
+Muthén,L.K.andB.O.Muthén(2017). Mplus:StatisticalAnal-
+ysis with Latent Variables: User’s Guide (Version 8).L o sA n -
+geles, CA.
+Nguyen, P., J. Felfe and I. Fooken (2015). ‘Interaction effects of
+dualorganizationalcommitmentonretentionininternational
+assignments: the case of western expatriates in Vietnam’,In-
+ternational Journal of Human Resource Management, 26,p p .
+1407–1427.
+Olsen,K.M.,T.SverdrupandA.L.Kalleberg(2019).‘Turnover
+and transferable skills in a professional service firm’,Journal
+of ProfessionsandOrganization,6, pp. 2–16.
+Olsen, K. M., T. Sverdrup, T. Nesheim and A. Kalleberg (2016).
+‘Multiple foci of commitment in a professional service firm:
+balancing complex employment relations’,Human Resource
+ManagementJournal,26, pp. 390–407.
+Purcell, J. (2014). ‘Disengaging from engagement’,Human Re-
+sourceManagementJournal ,24, pp. 241–254.
+Reichers, A. E. (1985). ‘A review and reconceptualization of or-
+ganizational commitment’,Academy of Management Review,
+10, pp. 465–476.
+Reichers, A. E. (1986). ‘Conflict and organizational commit-
+ments’,Journalof AppliedPsychology,71, pp. 508–514.
+Rhoades, L. and R. Eisenberger (2002). ‘Perceived organiza-
+tional support: a review of the literature’,Journal of Applied
+Psychology,87, pp. 698–714.
+Rhoades, L., R. Eisenberger and S. Armeli (2001). ‘Affective
+commitmenttotheorganization:thecontributionof perceived
+organizationalsupport’,JournalofAppliedPsychology ,86,pp .
+825–836.
+Rizzo, J., R. House and S. Lirtzman (1970). ‘Role conflict and
+ambiguity in complex organizations’,Administrative Science
+Quarterly,15, pp. 150–163.
+Shah,R.andS.M.Goldstein(2006).‘Useof structuralequation
+modeling in operations management research: looking back
+andforward’,JournalofOperationsManagement ,24,pp.148–
+169.
+Shankar, K. (2020). ‘The impact of COVID-19 on IT services
+industry – expected transformations’,BritishJournalof Man-
+agement,31, pp. 450–452.
+Swart, J. and N. Kinnie (2013). ‘Managing multidimensional
+knowledge assets: HR configurations in professional service
+firms’,HumanResourceManagementJournal ,23,pp.160–179.
+Swart, J., N. Kinnie, Y. G. T. Van Rossenberg and Z. Y. Yalabik
+(2014).‘WhyshouldIsharemyknowledge?Amultiplefociof
+commitmentperspective’,HumanResourceManagementJour-
+nal,24, pp. 269–289.
+Vandenberghe, C. (2009). ‘Organizational commitments’. In H.
+J. Klein, T. Becker and J. Meyer (eds)CommitmentinOrgani-
+zations:AccumulatedWisdomandNewDirections ,pp99–135.
+Routledge/Taylor & Francis Group: New York.
+vanRossenberg,Y.G.T.,D.CrossandJ.Swart(2022).‘AnHRM
+perspectiveonworkplacecommitment:reconnectingconcept,
+measurement and methodology’,Human Resource Manage-
+mentReview. Available online 6 January 2022, In press, https:
+//doi.org/10.1016/j.hrmr.2021.100891
+vanRossenberg,Y.G.T.,H.J.Klein,K.AsplundK.Bentein,H.
+Breitsohl, A. Cohen, D. Cross, A. C. de Aguiar Rodrigues, V.
+Duflot, S. Kilroy, N. Ali, A. Rapti, S. Ruhle, O. N. Solinger,
+J. Swart and Z. Y. Yalabik. (2018). ‘The future of workplace
+commitment: key questions and directions’,EuropeanJournal
+of WorkandOrganizationalPsychology,27, pp. 153–167.
+von Nordenflycht, A. (2010). ‘What is a professional service
+firm?Towardsatheoryandtaxonomyof knowledge-intensive
+firms’,Academyof ManagementReview,35, pp. 155–174.
+Weil,D.(2019).‘Understandingthepresentandfutureof workin
+thefissuredworkplacecontext’, RussellSageFoundationJour-
+nalof theSocialSciences ,5, pp. 147–165.
+Yalabik, Z. Y., J. Swart, N. Kinnie and Y. G. T.van Rossen-
+berg(2017). ‘Multiple foci of commitment and intention to
+quitinknowledge-intensiveorganizations(KIOs):whatmakes
+professionalsleave?’,InternationalJournalofHumanResource
+Management,28, pp. 417–447.
+Yalabik, Z. Y., Y. G. T. Van Rossenberg, N. Kinnie and J. Swart
+(2015). ‘Engaged and committed? The relationship between
+work engagement and commitment in professional service
+firms’.InternationalJournalof HumanResourceManagement ,
+26, pp. 1602–1621.
+YvonnevanRossenbergisanAssistantProfessorattheInstituteforManagementResearch,Nijmegen
+School of Management, Radboud University, Nijmegen, The Netherlands. Her research interests in-
+clude the (human resource) management of employee motivations, attitudes and behaviours, in par-
+ticular regarding workplace commitment. Her research has been accepted for publication byHuman
+ResourceManagement,t h eHumanResourceManagementJournal and theEuropeanJournalof Work
+andOrganizationalPsychology .
+JuaniSwartisaProfessorinHumanCapitalManagementattheSchoolof Management,Universityof
+Bath.Sheseekstounderstandthenatureof contemporaryworkcontextsandcross-boundaryworking,
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+766 Y.G.T.vanRossenbergetal.
+anditsimpactoncommitmentandknowledge sharing.Herresearchisfocusedonhumancapitalasa
+strategicresource,innovation,ambidexterityandemployeeattitudesandbehaviours.Shehaspublished
+in journals such asHuman Resource Management Journal, Organization Studiesand theJournal of
+ManagementStudies.
+Zeynep Y. Yalabik is an Associate Professor in Human Resource Management at the School of Man-
+agement, University of Bath. Her research focuses on two key employee attitudes: engagement and
+commitment. She is particularly interested in how employees’ perceptions of HR practices shape en-
+gagementandcommitment.Shehaspublished injournalssuchasthe InternationalJournalof Human
+ResourceManagement and theHumanResourceManagementJournal .
+David Cross is a Lecturer in Organisational Behaviour and Human Resource Management within
+Southampton Business School at the University of Southampton. His research interests broadly con-
+cern understanding the experience of a changing world of work. This primarily concerns the investi-
+gation of bonds of commitment as a central way of forming relationships and guiding behaviour. His
+work centres on self-employed individuals, primarily knowledge workers and consultants.
+Nick Kinnie is Professor Emeritus in Human Resource Management at the School of Management,
+University of Bath. His research interests lie in exploring the links between HR practices and busi-
+ness performance in a variety of organizations including professional service firms and outsourced
+telephone call centres and professional service firms, knowledge and HR management.
+© 2022 The Authors.BritishJournalof Management published by John Wiley & Sons Ltd on behalf of British
+Academy of Management.
+ 14678551, 2023, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.12610 by Radboud University Nijmegen, Wiley Online Library on [14/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,500 @@
+process.” The Cronbach’s alpha was 0.94.
+3.2.5 Control variables. Team size was included as a control variable at the team level, 
+acknowledging that larger teams may possess more resources and influence creativity. Team 
+tenure (measured in years) was also a control variable for potential temporal effects. Previous 
+studies have indicated that team informational and social category faultlines can influence 
+team creativity (Yao et al., 2021; Liu et al., 2021). Therefore, we included these two types of 
+faultlines as team-level control variables. At the individual level, we controlled for 
+demographic factors due to their potential influence on employee creativity. Specifically, 
+this study selected employee tenure and education level as control variables to isolate the 
+effects of the focal variables.
+3.3 Analytical approach
+We employed Mplus 8.1 to conduct a multilevel path analysis, which was well-suited for the 
+nested structure of our study involving variables operationalized at both the team and 
+employee levels. This approach facilitated hypothesis testing and estimation within and 
+between teams. To enhance the precision of our analysis, team-level variables (e.g. team size, 
+team formation time, resource-based faultlines, informational faultlines, social category 
+faultlines, and team motivational climate) were centered using the grand-mean method. 
+Simultaneously, using the group-mean centering method, we centered individual-level 
+variables such as tenure and education level. We employed the Monte Carlo bootstrapping 
+method to test cross-level indirect effects under moderated mediation, calculating 95% bias-
+corrected confidence intervals (Bauer et al., 2006).
+4. Results
+4.1 Data aggregation
+To justify aggregating individual-level data to the team-level, we assessed within-team 
+agreement and between-team variance using Rwg(j) (James et al., 1984), ICC (1) (intra-class 
+correlation), and ICC (2) (reliability of group means). The mean Rwg(j) values for team 
+resource-based faultlines, team performance motivational climate, and team mastery 
+motivational climate were 0.78, 0.92, and 0.94, respectively, all exceeding the commonly 
+accepted threshold of 0.70. The corresponding ICC (1) values were 0.19, 0.25, and 0.35, 
+surpassing the 0.10 benchmark, while ICC (2) values were 0.47, 0.61, and 0.72. Although the 
+ICC (2) value for team resource-based faultlines was below Glick’s (1985) recommended 
+threshold of 0.60, this is likely due to the relatively small team sizes in the sample (James, 
+1982). To further support aggregation, we followed Newman and Sin’s (2020) 
+recommendation to compute ρ wg , which yielded a value of 0.72, indicating sufficient 
+within-group agreement and supporting the decision to aggregate data at the team level.
+MD
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+4.2 Confirmatory factor analyses
+We conducted a multilevel confirmatory factor analysis (CFA) to verify the structure of five key 
+constructs: team resource-based faultlines, team performance motivational climate, team 
+mastery motivational climate, employee boundary-spanning behavior, and employee creativity. 
+These constructs were evaluated at both the individual and team levels to ensure consistency in 
+the factor structure across levels. As shown in Table 1, the five-factor model, which treated each 
+variable as a separate latent construct, exhibited an acceptable fit to the data (RMSEA
+¼ 0:04; CFI ¼ 0:93; TLI ¼ 0:92; SRMRðwithinÞ ¼ 0:04; SRMRðbetweenÞ ¼ 0:09).
+This model demonstrated superior fit compared to all alternative models, providing strong 
+evidence for the distinctiveness of the constructs. The results further confirmed the discriminant 
+validity of the measures used in the study.
+4.3 Descriptive statistics and correlations
+Table 2 presents the variables’ means, standard deviations, and correlations. As anticipated, 
+the findings indicated that, at the individual level, employee boundary-spanning behavior was 
+positively related to employee creativity (r ¼ 0:51; p < 0:01). Additionally, at the team level, 
+after accounting for team size, team tenure, informational faultlines, and social category 
+faultlines, a positive correlation was observed between team resource-based faultlines and 
+team mastery motivational climate (r ¼ 0:53; p < 0:01), as well as between team performance 
+motivational climate and team mastery motivational climate (r ¼ 0:19; p < 0:01).
+4.4 Hypothesis testing
+To test the theoretical hypothesis, we used a two-level analytical model (TYPE 5 
+TWOLEVEL). Hypothesis 1 proposed an adverse effect of team resource-based faultlines 
+on employee boundary-spanning behavior. Model 1 in Table 3 demonstrates that, after 
+controlling for employee education level, tenure, team size, team tenure, social category 
+faultlines, and informational faultlines, team resource-based faultlines show a significant 
+negative relationship with employee boundary-spanning behavior (γ ¼ −0:23; s:e: ¼ 
+0:08; p < 0:05). Thus, Hypothesis 1 was supported.
+We tested the mediating effect using a multilevel regression model (MSEM) in Mplus 8.1. 
+The hypothesis was that employee boundary-spanning behavior mediates the relationship 
+between team resource-based faultlines and employee creativity. Table 4 presents the results of 
+the mediation analysis. In this model, employee boundary-spanning behavior positively 
+affects employee creativity (γ ¼ 0:62; s:e: ¼ 0:17; p < 0:01), supporting Hypothesis 2. The 
+multiplication of the two-stage coefficients (indirect effect) is also significant 
+(γ ¼ −0:15; s:e: ¼ 0:06; p < 0:05). Furthermore, Monte Carlo simulation tests indicate that 
+the 95% confidence interval is [0.27, 0.03], excluding 0. These results confirm the
+Table 1. Multilevel confirmatory factor analyses
+Model
+χ 2
+df
+χ 2/df
+RMSEA
+CFI
+TLI
+SRMR
+(within)
+SRMR
+(between)
+1. Five-factor hypothesized
+model
+575.60
+374
+1.54
+0.04
+0.93
+0.92
+0.04
+0.09
+2. Four-factor model
+993.82
+378
+2.63
+0.07
+0.79
+0.76
+0.05
+0.20
+3. Three-factor model
+1239.08
+382
+3.24
+0.08
+0.71
+0.67
+0.13
+0.23
+4. Two-factor model
+1387.01
+384
+3.61
+0.09
+0.64
+0.60
+0.13
+0.24
+Note(s): Four-factor model: TRBF and TPMC were combined in one factor; Three-factor model: TRBF, TPMC,
+and TMMC were combined in one factor; Two-factor model: TRBF, TPMC, and TMMC were combined in one
+factor, and BSB with EC were combined in one factor
+Source(s): Authors’ own work
+Management
+Decision
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+mediating role of employee boundary-spanning behavior in the relationship between team 
+resource-based faultlines and employee creativity, thereby providing further support for 
+Hypothesis 2.
+In Hypothesis 3a, we proposed that team performance motivational climate amplifies the 
+negative relationship between team resource-based faultlines and employee boundary-
+Table 3. Results of the multilevel effects test
+Predictors
+Employee boundary-spanning behavior
+Model 1 
+Model 2 
+Model 3 
+Estimate
+S.E
+Estimate
+S.E
+Estimate
+S.E
+Intercept
+5.03 **
+0.50
+5.04 **
+0.57
+4.97 **
+0.52
+Individual-level 
+Education level 
+0.01
+0.01
+0.02 
+0.12
+0.02 
+0.12
+Tenure
+0.02 
+0.12
+0.01 
+0.01
+0.01
+0.01
+Team-level
+Team size
+0.03
+0.08
+0.05
+0.07
+0.05
+0.08
+Team tenure
+0.01
+0.01
+0.01
+0.01
+0.02
+0.01
+Team informational faultlines
+0.43 
+0.37
+0.44 
+0.36
+0.5 
+0.54
+Social category faultlines
+0.22 
+0.48
+0.30 
+0.50
+0.01
+0.01
+Team resource-based faultlines
+0.23 *
+0.08
+0.26 **
+0.07
+0.32 **
+0.08
+Team performance motivational climate
+0.12
+0.09
+Team mastery motivational climate
+0.17
+0.18
+TRBF 3 TPMC
+0.18 *
+0.10
+TRBF 3 TMMC
+0.28 **
+0.13
+Note(s): N 5 336 for individual-level data, N 5 65 for team-level data; *p < 0.05. **p < 0.01
+Source(s): Authors’ own work
+Table 2. Descriptive statistics and correlations of variables
+Variables
+Mean
+SD
+1
+2
+3
+4
+5
+6
+7
+Individual-level variables
+1. Education level
+3.10
+0.61
+– 
+2. Tenure
+4.66
+5.02
+0.11 *
+–
+3. Boundary-spanning
+behavior
+5.18
+0.84
+0.03 
+0.05 –
+4. Employee creativity
+5.16
+0.80
+0.07 
+0.08 0.51 **
+–
+Team-level variables
+1. Team size
+5.38
+1.07
+– 
+2. Team tenure
+5.77
+5.69
+0.23 **
+–
+3. Team informational
+faultlines
+0.60
+0.16
+0.42**
+0.02 –
+4. Social category faultlines
+0.54
+0.13
+0.32 **
+0.05
+0.15 **
+–
+5. Team resource-based
+faultlines
+2.66
+0.66
+0.10 *
+0.05
+0.15**
+0.07
+–
+6. Team performance
+motivational climate
+4.95 
+0.67 0.12 ** 
+0.02 
+0.05 0.01 0.12 *
+–
+7. Team mastery motivational
+climate
+5.46 
+0.52 0.08 
+0.05 0.30 ** 
+0.05 0.53 ** 
+0.19 **
+–
+Note(s): N 5 336 for individual-level data, N 5 65 for team-level data; *p < 0.05. **p < 0.01 
+Source(s): Authors’ own work
+MD
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+spanning behavior. Model 2 in Table 3 supports this, as the interaction term between team 
+performance motivational climate and team resource-based faultlines is significantly 
+negatively correlated with employee boundary-spanning behavior (γ ¼ −0:18; s:e:
+¼ 0:10; p < 0:05), supporting Hypothesis 3a. To further interpret the moderating effect, we 
+plotted the mean of team performance motivational climate plus or minus one standard 
+deviation as high or low and presented the results in Figure 2. When team performance 
+motivational climate is low, the negative relationship between team resource-based faultlines 
+and employee boundary-spanning behavior is insignificant (b ¼ −0:16; ns). However, when 
+team performance motivational climate is high, this negative relationship becomes significant 
+(b ¼ −0:49; p < 0:05), further supporting Hypothesis 3a.
+In Hypothesis 3b, we proposed that team mastery motivational climate weakens the 
+negative relationship between team resource-based faultlines and employee boundary-
+spanning behavior. Model 3 in Table 3 supports this, showing a significant positive association 
+between the interaction term of team mastery motivational climate and team resource-based 
+faultlines with employee boundary-spanning behavior (γ ¼ 0:28; s:e: ¼ 0:13; p < 0:01), thus 
+supporting Hypothesis 3b. To further clarify this moderating influence, we plotted the mean of 
+team mastery motivational climate plus or minus one standard deviation for high and low 
+values, as shown in Figure 3. When team mastery motivational climate is low, there is a 
+significant negative correlation between team resource-based faultlines and employee 
+boundary-spanning behavior (b ¼ −0:45; p < 0:01). When team mastery motivational 
+climate is high, the relationship is insignificant (b ¼ 0:03; ns), offering additional support 
+for Hypothesis 3b.
+Table 4. Results of the mediating effect for employee boundary-spanning behavior
+Path
+Estimate
+S.E
+95%CI
+TRBF→BSB
+0.24 **
+0.09
+[0.42, 0.07]
+BSB→EC
+0.62 **
+0.17
+[0.28, 0.96]
+TRBF→BSB→EC
+Indirect effect 
+0.15 * 
+0.06 
+[0.27, 0.03] 
+Note(s): N 5 336 for individual-level data, N 5 65 for team-level data; *p < 0.05. **p < 0.01
+Source(s): Authors’ own work
+4
+4.5
+5
+5.5
+6
+6.5
+7
+Low TRBF
+High TRBF
+BSB
+ Low TPMC
+ High TPMC
+Figure 2. The moderating effect of team performance motivational climate on the relationship between team 
+resource-based faultlines and boundary-spanning behavior. Source(s): Authors’ own work
+Management
+Decision
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+To test the moderated mediation proposed in Hypothesis 4, we followed Edwards and 
+Lambert’s (2007) procedure to compare the conditional indirect effects of team motivational 
+climate at low (1 SD) and high (þ1 SD) levels. Hypothesis 4a proposed that team 
+performance motivational climate positively moderates the indirect effect of team resource-
+based faultlines on employee creativity through employee boundary-spanning behavior. 
+Table 5 shows that the mediating effect of boundary-spanning behavior is significant under 
+high team performance motivational climate (conditional indirect ¼ −0:19; s:e: ¼ 0:05; 
+CI 95% ¼ ½−0:29; − 0:06), but insignificant under low team performance motivational climate 
+(conditional indirect ¼ −0:06; s:e: ¼ 0:03; CI 95% ¼ ½−0:13; 0:02). The difference estimate 
+is also significant (difference ¼ −0:13; s:e: ¼ 0:05; CI 95% ¼ ½−0:18; − 0:01), supporting 
+Hypothesis 4a. Hypothesis 4b proposed that team mastery motivational climate negatively 
+moderates the indirect effect of team resource-based faultlines on employee creativity through 
+employee boundary-spanning behavior. The mediating effect of employee boundary-spanning 
+behavior is significant under high team mastery motivational climate (conditional indirect ¼
+− 0:10; s:e: ¼ 0:05; CI 95% ¼ ½−0:21; − 0:05). In comparison, it is also significant under low 
+team mastery motivational climate (conditional indirect ¼ −0:20; s:e: ¼ 0:06; CI 95% ¼
+½−0:34; − 0:07), with the difference being significant (difference ¼ 0:10; s:e: ¼ 0:05; CI 95%
+¼ ½0:01; 0:22). These findings confirm the moderated mediation effects and support 
+Hypothesis 4b.
+Together, these results provide robust evidence for the moderated mediation mechanism, 
+highlighting how the two types of team motivational climate differentially influence the 
+indirect pathway from team resource-based faultlines to employee creativity through 
+boundary-spanning behavior.
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+7
+Low TRBF
+High TRBF
+ Low TMMC
+ High TMMC
+Figure 3. The moderating effect of team mastery motivational climate on the relationship between team 
+resource-based faultlines and boundary-spanning behavior. Source(s): Authors’ own work
+Table 5. Results of moderated mediation effects
+Variables
+Estimate
+S.E
+95%CI
+TPMC
+High TPMC
+0.19 **
+0.05
+[0.29, 0.06]
+Low TPMC
+0.06 
+0.03
+[0.13, 0.02]
+Difference
+0.13 *
+0.05
+[0.18, 0.01]
+TMMC
+High TMMC
+0.10 *
+0.05
+[0.21, 0.05]
+Low TMMC
+0.20 **
+0.06
+[0.34, 0.07]
+Difference
+0.10 *
+0.05
+[0.01, 0.22]
+Note(s): N 5 336 for individual-level data, N 5 65 for team-level data; *p < 0.05. **p < 0.01
+Source(s): Authors’ own work
+MD
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+5. Discussion
+Resource-based faultlines constitute a critical dimension for understanding team dynamics, 
+especially as teams mature and accumulate experience through sustained collaboration. 
+Employee creativity, essential for innovative team performance, often depends on members’ 
+ability to generate novel ideas through open and unrestrained social interactions (Lee et al., 
+2018). This study applies COR theory as its theoretical framework to investigate how 
+resource-based faultlines affect employee creativity. It offers a nuanced understanding of the 
+complex mechanisms through which resource-based faultlines shape creative behavior. The 
+specific conclusions are as follows.
+First, we found that resource-based faultlines indirectly reduce employee creativity by 
+diminishing boundary-spanning behavior, thereby providing strong support for the mediating 
+role of this behavior. This finding broadly aligns with the COR theory (Hobfoll, 2001), which 
+posits that in environments characterized by intense resource conflict, employees tend to 
+conserve their limited resources and are less likely to engage in extra-role behaviors such as 
+boundary-spanning (Bruning and Campion, 2018). Consequently, they encounter greater 
+difficulty accessing diverse external resources, which hampers creative development. Our 
+finding also resonates with the work of Greer et al. (2017), who argued that the emergence of 
+power factions in teams heightens members’ sensitivity to resource distribution and 
+undermines individual outcomes. In addition, it is consistent with prior studies 
+demonstrating that boundary-spanning behavior enhances both task and creative 
+performance (Liu et al., 2018; Zhang and Li, 2024). By uncovering this mediating 
+mechanism, our study also responds to Yao and Liu’s (2023) call for further exploration of how 
+resource-based faultlines affect employee outcomes.
+Second, this study revealed that the two dimensions of team motivational climate, namely 
+team performance motivational climate and team mastery motivational climate, have opposite 
+moderating effects on the cross-level relationship between resource-based faultlines and 
+employee creativity. Specifically, a strong mastery climate helps buffer the negative influence 
+of resource-based faultlines by fostering a supportive and collaborative team environment that 
+promotes knowledge sharing and mutual assistance. This cooperative atmosphere mitigates 
+intra-team tensions, thereby facilitating the development of creative ideas. In contrast, a strong 
+performance climate strengthens the adverse effects of resource-based faultlines. Encouraging 
+comparison, competition, and pressure to outperform others may intensify perceptions of 
+internal division and exacerbate power struggles, ultimately inhibiting employee creativity. 
+These findings align with Wu et al. (2024), who reported that mastery and performance 
+motivational climates moderated the relationship between workplace suspicion and 
+knowledge hiding in opposing directions. Together, these findings respond to the call by 
+Greer et al. (2017) for a more contextualized understanding of how power dynamics operate 
+within team settings, especially under conditions of resource asymmetry. They also echo 
+Guillaume et al. (2017)’s recommendation to further explore boundary conditions that 
+influence the effects of team faultlines.
+5.1 Theoretical implications
+Our study offers several notable contributions to the existing body of literature. First, this 
+research makes a significant and timely contribution to the study of team faultlines by shifting 
+the focus from traditional demographic and informational faultlines (Bezrukova et al., 2009) 
+to the more potent yet underexplored resource-based faultlines. This study demonstrates how 
+resource disparities, deeply embedded within team structures, can profoundly shape members’ 
+attitudes, behaviors, and creative performance. By exploring the effects of resource-based 
+faultlines on creativity, the research broadens the understanding of team dynamics and adds to 
+the existing literature on employee creativity (Anderson et al., 2014). While previous studies 
+have emphasized the role of cognitive diversity in fostering innovative ideas (Shin et al., 
+2012), this study underscores how resource-based faultlines introduce social and power
+Management
+Decision
+Downloaded from http://www.emerald.com/md/article-pdf/doi/10.1108/MD-06-2024-1269/11201423/md-06-2024-1269en.pdf by University College Lo
+dynamics that can hinder creativity. Overall, this study not only lays a theoretical foundation 
+for understanding how resource-based faultlines affect employee outcomes, but also offers a 
+novel power-dynamics perspective on the antecedents of employee creativity.
+Second, we adopt a novel “within and outside team” perspective to identify boundary-
+spanning behavior as a critical mechanism linking resource-based faultlines to employee 
+creativity. Unlike prior research that treats teams as closed systems and emphasizes internal 
+cognitive or emotional processes (Qu and Liu, 2017; Ma et al., 2022; Yao and Liu, 2023), we 
+shift the analytical lens outward to show how faultlines influence employees’ engagement 
+with external knowledge and resources (Marrone et al., 2007). By empirically validating the 
+mediating role of boundary-spanning behavior, we uncover a previously underexplored 
+explanatory pathway and address the limitations of studies concentrating solely on intra-team 

@@ -1,0 +1,1385 @@
+IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024 1073
+Shared Mental Models and Boundary Management
+Activities in New Product Development: A
+Perspective on Multiteam Systems
+Yang Lei , Xiaosong Wu , and James Jiang
+Abstract —Multiteam systems (MTSs) have been increasingly
+adopted as an organizational form to manage large-scale projects.
+However, new product development (NPD) in the MTSs structure
+entails challenges with respect to achieving efﬁciency due to in-
+terteam coordination challenges. Shared mental models (SMMs)
+within a single team have been found to facilitate intrateam co-
+ordination; however, further exploration is needed as to whether
+SMMs within MTSs can improve interteam coordination among
+component teams and, if so, what mechanisms underlie this. The
+present article examines the theoretical underpinning of the im-
+pacts of SMMs among component team leaders on MTSs’ NPD
+efﬁciency, and further considers the impact of external conditions
+of requirement uncertainty, the most common external situation
+during NPD. Using survey data from 110 information technology
+development MTSs and drawing on boundary management per-
+spective, the results reveal that SMMs among component team lead-
+ers positively affect NPD efﬁciency by managing the MTSs bound-
+ary, i.e., through boundary entrainment and boundary buffering
+activities at the system level. In addition, we ﬁnd that requirement
+uncertainty plays a vital role in determining the nature of this
+relationship. Taken together, our ﬁndings highlight the importance
+of the role of SMMs among component team leaders in facilitating
+NPD efﬁciency in MTSs settings.
+Index Terms —Boundary management perspective, multiteam
+systems (MTSs), new product development (NPD) efﬁciency,
+requirement uncertainty, shared mental models (SMMs) theory.
+Manuscript received 18 May 2021; revised 2 September 2021, 10 November
+2021, and 4 January 2022; accepted 7 January 2022. Date of publication 24
+February 2022; date of current version 29 November 2023. This work was
+supported in part by the Key Program of NSFC-FRQSC Joint Project under
+Grant 72061127002, in part by the NSFC project under Grant 72032006,
+Grant 71731009, and Grant 92146005, in part by the Ministry of Science and
+Technology of the Taiwan under Grant 109-2410-H-002 -074 -MY3, in part by
+the National Center for Applied Mathematics Shenzhen under Grant 518055,
+and in part by the Shenzhen Key Research Base in Arts and Social Sciences
+(Intelligent Management and Innovation Research Center-IMIDRC, SusTech,
+Shenzhen). Review of this manuscript was arranged by Department Editor L.
+Santiago. (Yang Lei and Xiaosong Wu are co-ﬁrst authors.) (Corresponding
+author: James Jiang.)
+Yang Lei is with the Department of Information Systems and Management
+Engineering, College of Business, Southern University of Science and Technol-
+ogy, Shenzhen 518055, China (e-mail: leiy@sustech.edu.cn).
+Xiaosong Wu is with the Department of Innovation Management, Tsinghua
+Shenzhen International Graduate School, Shenzhen 518071, China (e-mail:
+xiaosongw@outlook.com).
+James Jiang is with the Department of Business Administration, College
+of Management, National Taiwan University, Taipei 10617, Taiwan (e-mail:
+jjiangmis@gmail.com).
+This article has supplementary material provided by the au-
+thors and color versions of one or more ﬁgures available at
+https://doi.org/10.1109/TEM.2022.3147905.
+Digital Object Identiﬁer 10.1109/TEM.2022.3147905I. INTRODUCTION
+IN today’s business environment, with large-scale projects
+and the complexities of work demand increasing to such
+an extent that many are beyond the management capacity of a
+single team, organizations are turning toward multiteam systems
+(MTSs) to accomplish multifaceted tasks [1]. An MTS is “two
+or more teams that interface directly and interdependently in
+response to environmental contingencies toward the accom-
+plishment of collective goals” [2]. For example, in new product
+development (NPD), various component teams are called upon
+to work interdependently with other component teams [3], and
+they may involve at different stages of the whole NPD process
+as Team A’s work may rely on what Team B has done. One
+of the most signiﬁcant challenges for NPD, as for other MTSs’
+projects, is project efﬁciency, as cost overrun and schedule over-
+run are common [4] due to issues such as resource limitations,
+distinct component team objectives, and increasing demand for
+coordination [5]. Unlike in standalone teams, where intrateam
+collaboration is required, MTSs require more interteam coor-
+dination to combine the efforts of various component teams
+responsible for operational task execution [6], which can be
+particularly challenging given that there exist signiﬁcant dif-
+ferences in component teams’ routines and thought-worlds [7].
+Ideally, what inﬂuences a successful team would also inﬂuence
+a successful MTS. However, this may not be the reality since
+the processes that make teams successful may not be the same
+processes that facilitate successful MTSs [8].
+Indeed, MTSs have been considered as a unique level of anal-
+ysis that prior traditional team-level theory is unable to fully ex-
+plain [9], [10]. A few studies have devoted initial efforts to under-
+stand the determinants of interteam coordination in MTSs, such
+as intrapersonal functional diversity, nonleader level boundary
+spanning (interpersonal interactions among members), and the
+overall MTSs leadership [1], [6], [11]–[13]. While these studies
+broaden our knowledge on the interteam coordination in MTSs,
+others point out the component team leaders, acting as the
+bridge connecting component team with the MTS, would be
+an important facilitator for the coordination within MTSs [14].
+However, there lacks empirical studies along this line to enrich
+our knowledge. According to the coordination literature that
+highlights the crucial role of a shared cognition of individuals in
+facilitating coordination [15], we posit that a shared cognition
+among each component team leader of an MTS should be helpful
+for enabling interteam coordination.
+0018-9391 © 2022 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.
+See https://www.ieee.org/publications/rights/index.html for more information.
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1074 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+The shared mental models (SMMs) theory has been adopted
+to explain intrateam coordination mechanisms that makes team-
+work efﬁciently [16]. It proposes that SMMs, which refer to the
+knowledge shared by members of a team when cooperating on
+team tasks [17], are strong predictors of team efﬁciency because
+of the contribution they make to internal team coordination [18].
+However, whether SMMs in the MTSs have the same effect
+remains unclear. In the MTSs that are structured according to two
+levels, the component-team level and the system level [8], [10],
+the SMMs are distinct in their meanings. At the component-team
+level, SMMs entail that team members in a same team organize
+their knowledge of speciﬁc team tasks, equipment, roles, goals,
+and abilities in a similar fashion, which allow them to anticipate
+others’ actions in the same component. At the system level,
+SMMs refer to that each component team leader, who is the
+representative of each component team’ project-based under-
+standing, has a clear understanding of other teams’ progresses
+and the information about the knowledge repertoire that other
+component teams hold, through which they could coordinate
+behaviors accordingly. The differences between SMMs at the
+two levels include the fact that subjects at the system level
+utilize different project management processes, have their own
+team values, and pursue their own proximal goals [19], which is
+not the case for team members within a single team [1]. Thus,
+although the effects of SMMs at the component-team level on
+intrateam coordination could be understood by the implications
+of prior single team studies [20], existing literature has shed little
+light on the inﬂuence of SMMs at the system level, i.e., SMMs
+among component team leaders, on the efﬁciency of MTSs’
+project considering the challenging problems of interteam coor-
+dination. In addition, prior literature has found that the inﬂuence
+of SMMs on team efﬁciency and team performance is through
+the enhanced team process [18]. However, whether such ﬁndings
+ﬁt the MTSs context have not been empirically tested. Therefore,
+it is crucial to investigate whether SMMs among component
+team leaders have a signiﬁcant impact on interterm coordination
+as well as NPD efﬁciency—and, if so, how.
+To answer the question, we ﬁrst look deeply at the mechanisms
+of SMMs on NPD efﬁciency by adopting a boundary man-
+agement perspective. The boundary management perspective,
+which emphasizes that a team should facilitate both entrainment
+activities within its borders and buffering activities outside
+its borders, serves as a solid theoretical foundation for us to
+understand how various kinds of information are processed
+in team process [21]. Speciﬁcally, entrainment is an inward-
+oriented information processing activity, referring to adjusting
+the pace or cycle of an activity to match or synchronize with
+that of another activity within a team [22], while buffering is
+an outward-oriented information processing activity that a team
+undertakes to ﬁlter external interference, such as change in the
+external environment [23]. Similarly, for a project that requires
+between-team coordination and encounters speciﬁc require-
+ments from external customers, the MTSs as a whole should not
+only facilitate entrainment activities among component teams
+but also buffer change in the external environment at the system
+level. In addition, the MTS-based complex NPD often face with
+requirement uncertainty, which has been found as one important
+contingent factor to inﬂuence the effectiveness of SMMs [24].However, we still have little empirical examination on the effect
+of requirement uncertainty on SMMs at the system level.
+To sum up, this article aims to explain the effect of SMMs
+among MTSs leader team on NPD efﬁciency from the boundary
+management perspective under requirement uncertainty. Be-
+cause a high degree of information-processing complexity is
+inherent in MTSs work, both within and outside the MTSs, a
+leader team that is comprised of component team leaders is often
+formed, and is overseen by the MTSs leader. The leader team
+serves to handle aspects that require coordination among the
+component teams or exchanges with the external environment
+beyond the MTSs [11], wherein the MTSs leader is responsible
+for the overall progress of the MTSs project and for commu-
+nicating with customers, while the leaders of component teams
+are responsible for the progress of their own tasks.
+Our article makes several contributions to theory. First, we
+contribute to the NPD literature by empirically investigating
+the antecedents of NPD efﬁciency from the MTSs perspective.
+While a few conceptual studies have proposed its implications
+for NPD [25], [26], empirical evidence of the MTSs perspective
+in the project management disciplines is still underexplored
+[27]. This article thus adds to the emerging MTSs literature and
+provides a foundation for future researchers to focus on investi-
+gating NPD efﬁciency, or any other project efﬁciency, from an
+MTSs perspective. Thus, practitioners, who are currently focus-
+ing on improving single-team efﬁciency in large-scaled projects,
+are suggested to manage such projects from such a perspective,
+that is to improve the overall efﬁciency of the MTSs. Second,
+this article expands SMMs theory into the MTSs setting and
+provides a preliminary theoretical framework for establishing
+a speciﬁc MTSs–SMMs theory by investigating SMMs at the
+system level (e.g., SMMs among component team leaders) and
+the underlying mechanisms. Speciﬁcally, our article provides
+insight into the mediating role of MTSs process, namely both
+the entrainment and buffering mechanisms at the system level,
+conﬁrming their distinct effects in promising MTSs-based NPD
+efﬁciency. Therefore, rather than focusing on each component
+team’s proximal goals distinctly, component team leaders are
+suggested also to have a clear understanding of other teams’
+progress and specializations to keep interterm coordination. In
+addition, component teams within an MTSs should keep in pace
+with each other and also protect the whole project from external
+inﬂuence. Third, this article shows how requirement uncertainty
+inﬂuences the relationship between SMMs and NPD in an MTS
+setting, thereby emphasizing the importance of considering
+requirement uncertainty in order to determining the effects of
+SMMs on boundary management. Thereby, besides managing
+within MTSs activities, the whole MTSs should assess the
+level of requirement uncertainty. Especially when requirement
+uncertainty is high, SMMs show a greater power in determining
+NPD efﬁciency.
+II. T HEORETICAL FOUNDATION
+A. MTSs Perspective on New Product Development
+Prior articles have identiﬁed several features that distinguish
+MTSs from traditional standalone teams [2], [8]: ﬁrst, MTSs
+are composed of at least two component teams, each of which
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1075
+has its own proximal goals. Second, component teams share a
+common goal—that is, completing the overall MTSs’ project.
+Third, the structure or conﬁguration of an MTS is determined
+by its goals, which are organized into a hierarchy with proximal
+team goals at the lowest level and distal MTSs’ goals at the
+highest level. Fourth, component teams have input, process, or
+outcome interdependence with at least one other team in the
+MTSs.
+Conceptual studies have emphasized the importance of re-
+searching MTSs as a unique level of analysis [19], and have rec-
+ognized the crucial role of interterm coordination among various
+component teams in MTSs. Subsequently, scholars devote their
+efforts in researching the antecedents of interterm coordination
+in the MTSs context. First, leadership of the MTSs has been
+identiﬁed as a crucial determinant of interterm coordination
+within an MTS. For example, DeChurch and Marks [11] ﬁnd that
+MTSs functional leadership is positively related with interteam
+coordination, which further inﬂuence MTSs performance.
+Luciano et al. [28] proposed that strategic leadership system
+is positively related to MTSs performance. In addition, besides
+examining the inﬂuence of MTSs leaders, a personal perspec-
+tive is adopted to investigate how component team members
+inﬂuence the interteam coordination. For example, De Vries et
+al.[6] studied how intrapersonal functional diversity of com-
+ponent team members inﬂuence MTSs performance through
+interteam coordination, of which they documented a positive
+result. Ziegert et al. [12] and Dietrich et al. [13] documented
+that interpersonal interactions among MTSs members would
+beneﬁt the entire MTSs performance. Although these articles
+have broadened our knowledge on the interteam coordination in
+MTSs, it is still lack of knowledge on how component team
+leaders play their roles. This article aims to ﬁll this gap by
+introducing the role of SMMs in MTSs leader team, involving
+MTSs leaders and component team leaders.
+NPD lies beyond the managing capacity of a single team;
+instead, the NPD process has been considered by organizational
+scholars to entail an MTS structure that usually involves multiple
+skilled component teams [29], including manufacturing, design,
+sales, etc. For example, NPD in IT ﬁrms involves a hardware
+team, a software team, a customer support team, an accounting
+and ﬁnance team, and so on [30]. The question of how to improve
+NPD efﬁciency—that is, to increase speed and reduce cost—
+has long been subject to attention from scholars in the ﬁelds of
+project management. For example, Jaber et al. [31] investigated
+the crucial role of efﬁcient collaborative decisions within teams
+in improving NPD projects, while Choi and Phan [32] explored
+how a ﬁrm’s exploration and exploitation activities inﬂuence
+NPD performance. In addition, in a meta-analysis, Chen et al.
+[33] indicated that factors such as team leadership and internal
+integration play crucial roles in improving NPD efﬁciency.
+However, as noted above, although extant research has broad-
+ened our understanding on NPD, most articles have been con-
+ducted at the single team or organizational level. We posit that
+ignoring MTSs nature of the NPD may hinder both academics
+and practitioners to have a complete picture. We believe that it
+is necessary to investigate the inﬂuencing factors of NPD efﬁ-
+ciency from an MTS perspective in which multiple componentteams work together. Within the ﬁelds of project management,
+the adoption of the MTSs perspective is in its infancy [27].
+With a few conceptual papers on investigation of NPD from the
+MTSs perspective [25], limited empirical studies have used it to
+investigate NPD in terms of component team leaders’ behaviors
+and interteam collaborations on large-scale projects.
+B. Shared Mental Models Theory
+Mental models, which are deﬁned as the “mechanism whereby
+humans are able to generate descriptions of system purpose and
+form, explanations of system functioning and observed system
+states” [34], help people to describe, explain, and predict events
+in their environment. Consequently, as individuals are often
+organized into teams to accomplish tasks, SMMs have been
+proposed to explain team functioning. SMMs are deﬁned as the
+knowledge shared by members of a team when cooperating on
+team tasks [9]. The idea is that team performance improves if
+team members have a shared understanding of the task that is to
+be performed and of the teamwork involved.
+Deeply, prior articles point out that SMMs are a complex
+cognitive concept which includes two major domains—task-
+related SMMs and team-related SMMs—where teams develop
+both teamwork and taskwork track behavior [35]. Speciﬁcally,
+task-related SMMs refer to the shared understanding of the
+team’s speciﬁc work/task, such as their predictions, judgment
+criteria, and perceptions of progress regarding the task [18].
+Team-related SMMs entail shared understanding on team struc-
+ture including team members’ constitution, skills, and team
+expertise distribution, which is beneﬁcial for any members to
+coordinate and cooperate with other teammates to accomplish
+the work [18].
+Prior articles have established that the impact of SMMs on
+team processes and performance is robust at the single-team
+level [36]. In the MTSs structure, the SMMs will be more
+important but complex, reﬂected at two aspects, respectively,
+levels and components. First, SMMs could be achieved into
+two levels. At the component-team level, SMMs entail team
+members organizing their knowledge of speciﬁc team tasks,
+equipment, roles, goals, and abilities, which allow them to antic-
+ipate others’ actions in the same component team. At the system
+level, SMMs refer to that each component team leader has a clear
+understanding of other teams’ tasks, actions, and then coordinate
+behaviors accordingly. We do believe that the SMMs literature
+provides insight to the effects of SMMs at the component-team
+level, but is not suitable for explaining the effect of SMMs at
+the system level. However, limited empirical studies have been
+conducted to explore the impacts of SMMs at the system level on
+MTSs performance, despite several conceptual and case studies
+[37], [38].
+Therefore, this article seeks to broaden our knowledge by
+examining the inﬂuence of SMMs at the system level, i.e., SMMs
+among component team leaders. In addition, following prior
+articles [35], we conceptualize SMMs at the system level in
+the MTSs structure as a second-order construct, including both
+task-related and team-related SMMs. This extension is reason-
+able because component team leaders in the context of NPD
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1076 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+need to share component team development progress and report
+the problems with those of interdependent component teams as
+well as MTSs leaders for coordination and cooperation [11],
+which means that even though component teams may commit
+to their local component team work [6], they still need to make
+sure their task and activities compatible to others. Therefore, we
+would like to deﬁne the system-level task-related SMMs as each
+component team leader has a clear shared understanding of in-
+terdependent teams’ work progress, procedures, and policies. In
+addition, component teams facing development problems need
+to scout expertise around the MTSs, which make it necessary for
+component team leaders to recognize the expertise of other teams
+and locate them when required. Thus, system-level team-related
+SMMs are deﬁned as each component team leader has a clear
+shared understanding of other teams’ expertise and the whole
+MTSs expertise distribution.
+C. Boundary Management
+1) Information-Processing Approach of Boundary Manage-
+ment: This article adopted the information-processing approach
+to understand the boundary management in the MTSs context.
+While the literature has pointed out three different approaches
+to manage boundary, information-processing boundary, inter-
+pretive boundary, and political boundary [39], information-
+processing boundary has been studied as the dominant view used
+to describe managing boundaries in product development [40].
+Such approach emphasizes the importance of boundary man-
+agement issues, both within-team boundary activities, known
+as entrainment, and outside-team boundary activities, known
+as buffering, for predicting team performance. Speciﬁcally, en-
+trainment is an inward-oriented activity, which is conceptualized
+as the work pace and cycle alignment of one given component
+teams to the MTS-level “pace givers” (e.g., project-level mile-
+stones and associated reviews) and also adjustment with other
+component teams [41], thereby coordinating cycles and pace
+within a team; buffering is an outward-oriented activity, which
+focuses on the information processing of external environment,
+including absorbing useful knowledge and protecting the team
+from external interference [23]. For example, in order to achieve
+a shared goal, a team must orchestrate its interrelated actions and
+responses [22] and maintain its boundaries [42].
+The MTSs boundary management faces both internal in-
+formation processing and external information processing, as
+well. Speciﬁcally, the MTSs need to not only synchronize cy-
+cles and pace between component teams, but also protect the
+MTSs project from external interference. Indeed, two levels of
+information-processing boundaries exist: the system boundary,
+which delineates the whole MTSs from its external environment;
+and the component team boundary, which separates a component
+team from others within the MTSs. Prior article on standalone
+team studies has investigated the inﬂuence of boundary entrain-
+ment [43] and boundary buffering [23] activities on performance
+and efﬁciency. Such literature may help us to understand the
+boundary management problem at the component team level.
+However, boundary management at the system level in an MTS
+structure has received limited attention. In addition, consideringrapid changes that occur in the external environment, such as
+requirement uncertainty from customers, it is crucial for MTSs
+to set appropriate boundaries. Therefore, our article seeks to ﬁll
+this gap and broaden our knowledge along this line.
+2) Requirements Uncertainty: Team boundary activities may
+also be challenged by the level of uncertainty, i.e., uncertainty of
+information that the team faces in the external environment. In
+the NPD context, this is also a signiﬁcant issue, as it is common
+for customers to change their requirements about the product’s
+function, size, or shape, or even to decide to suspend the project
+at any point in the development lifecycle in response to a
+dynamic environment [44]. From the information-processing
+perspective, requirements uncertainty refers to the asymmetric
+information between necessary information that need to identify
+customers’ requirements and the amount of information pos-
+sessed by the MTSs [45]. Further, three important dimensions
+of requirement uncertainty has been identiﬁed: requirement
+instability, which refers to the extent of changes in customers’
+requirements along the project life cycle; requirement diversity,
+which relates to distinct requirements among customers; and
+requirement analyzability, which refers to the extent to which
+customers’ needs can be converted to a set of requirement
+speciﬁcations [46]. However, while the moderating effect of
+uncertainty has been investigated in traditional team context
+[23], [24], [47], we still have little empirical examination on the
+effect of requirement uncertainty on SMMs at the system level.
+Considering that high level of requirement uncertainty may lead
+to more information to be processed, a higher level of SMMs may
+alleviate such external interference through encouraging more
+boundary management activities. Therefore, we argue that re-
+quirement uncertainty may moderate the relationships between
+SMMs and boundary management activities at the system level.
+In summary, we would expect that information-processing
+approach of boundary management provides a solid theoretical
+foundation to investigate how the SMMs among component
+team leaders achieve NPD efﬁciency through enhancing bound-
+ary management activities under level of requirement uncer-
+tainty.
+III. H YPOTHESES DEVELOPMENT
+Drawing on SMMs theory, we focus on SMMs among compo-
+nent team leaders. Adopting information-processing approach
+of boundary management perspective, we propose two different
+mechanisms, namely entrainment and buffering at the system
+level, to explain how SMMs among component team leaders in-
+ﬂuence NPD efﬁciency under levels of requirement uncertainty.
+The detailed hypothesis development is shown in Fig. 1.
+A. SMMs and NPD Efﬁciency
+We posit that the SMMs in the MTS leader team involving
+leaders of component teams and MTS leader would positively
+inﬂuence the overall outcome of an MTS—that is, NPD efﬁ-
+ciency. In an MTS setting, many of the tasks are interdependent.
+When the leaders of component team have a high level of SMMs,
+they could grasp more information on other teams’ progress, and
+have the information of how and who to effectively handover
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1077
+Fig. 1. Research model.
+the deliverables. As a result, they will more readily work on
+interdependent tasks, which improve the outcomes of the MTSs.
+For example, for an MTS software product development project,
+the software development team needs to rely on the results
+of the design team, while the testing team relies on the work
+of the software development team. If the SMMs among these
+component teams are high, such that each team is aware of the
+information of the others’ IT module deliverables and related
+handover procedure, they would be more readily to follow-up,
+thus improving the overall development efﬁciency. In addition, if
+the structure of knowledge, i.e., each component team is aware of
+the other teams’ expertise, is shared, when one team encounters
+difﬁculties in solving problems, they could get help immediately
+by ﬁnding the right helper, which would also facilitate the
+develop efﬁciency. Therefore, we put forward the following
+hypothesis:
+H1: SMMs in an MTS leader team are positively associated with
+NPD efﬁciency.
+B. SMMs, System Entrainment, and NPD Efﬁciency
+As we illustrated above, in a complex NPD project, each
+component team is responsible for a portion of subtasks that are
+interrelated according to complexity and professional require-
+ments [48]. This task complementary creates interdependency
+among the component teams in terms of business knowledge,
+development practices, testing data, system development doc-
+umentation, quality metrics, and deliverables handover [49].
+A high degree of SMMs among leaders of component teams
+means interdependent component teams for different IT mod-
+ule development could follow standard and agreed procedures
+and policies to handover the IT module deliverables, which
+can improve temporal coordination (entrainment) as the shared
+knowledge and information could reduce the communication
+cost and improve the efﬁciency of inward-oriented information
+processing activities [50]. For example, on the one hand, entrain-
+ment involves ﬁtting with the rhythm of other component teams
+[22]. This ﬁt is more likely to be achieved if the leaders of each
+component team are “on the same page” regarding the speciﬁcs
+of their associated IT modules delivered by other component
+teams and knowing other component teams’ expertise [51].
+Speciﬁcally, only after component team leaders share a common
+understanding of the interdependent task, it is possible for them
+to adapt their behaviors to ﬁt with each other. In addition,the shared understanding of MTSs knowledge (e.g., the whole
+MTSs schedule) distribution and component teams expertise
+(e.g., ﬁnd the professional members for solving problems as
+soon as possible) can also help to direct each component team
+to align with each other’s schedule and talent/resource usage
+for reducing any interteam conﬂict and time waste [52], which
+have been both found to have a negative inﬂuence on entrainment
+activities [53]. This is particularly the case in the context of NPD,
+which can involve multiple component teams with a common
+goal but different values. Thus, we propose that a high degree
+of SMMs among the leaders of component teams in general
+improves entrainment at the system level in an MTS.
+We also posit that entrainment activities at the system level
+could improve NPD efﬁciency. First, with more entrainment
+activities, each component team will have greater capability to
+back other teams up, which has been shown to have a posi-
+tive inﬂuence on overall project efﬁciency [54]. In addition,
+entrainment activities can ease the learning process within an
+MTS, which beneﬁts performance [55]. Component teams can
+learn from each other more easily by using entrainment activities
+to generate new ideas. Consequently, by recombining existing
+knowledge with new ideas, an MTS for NPD can bring new
+levels of innovation to organization products and services. For
+example, Burt [56] suggested that those who are adept at in-
+novating through a recombination of knowledge have a “vision
+advantage” over others in the organization. He also suggested
+that this vision advantage comes from bridging structural gaps in
+an organization’s communication network. Therefore, entrain-
+ment activities (e.g., collaboration) can further improve NPD
+efﬁciency. On the basis of these considerations, we posit that
+SMMs among leaders of component teams will improve NPD
+efﬁciency because they strengthen entrainment activities at the
+system level. In summary:
+H2a: SMMs in an MTS leader team are positively associated with
+entrainment activities at the system level.
+H2b: Entrainment activities are positively associated with NPD
+efﬁciency.
+H2c: Entrainment activities mediate the positive effect of SMMs
+in an MTS leader team on NPD efﬁciency.
+C. SMMs, System Buffering, and NPD Efﬁciency
+In addition to entrainment activities, and in response to the
+increased complexity of work tasks and changing environmental
+conditions, an MTS must increasingly conduct buffering activi-
+ties across its boundaries and actively manage relationships with
+external stakeholders [42]. We posit that SMMs in MTS leader
+team could help the MTSs to accurately determine whether
+external inputs are beneﬁcial or necessary for the MTSs and
+then more cohesively respond to external inputs. In a complex IT
+NPD project, the MTSs may encounter unwanted inﬂuences and
+interruptions from the external environment. For example, MTSs
+may be inﬂuenced by ambassador activities from top levels of
+the organization [57] and unreasonable IT requirements from the
+customers. Thus, the MTS leader team would protect the MTS
+project from these interferences and requirements in order to
+maintain the pace of the MTSs as a whole [58]. When the leaders
+of component teams share a high degree of share common goals
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1078 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+regarding the overall MTSs, they are clearer on what the MTSs
+and each component team needs or do not need from outside the
+MTSs. Thus, the SMMs could enhance the MTSs’ ability to pro-
+cess external information [59], conducting buffering activities to
+protect the MTSs from unwanted inﬂuences and interruptions.
+With a low degree of SMMs among component leaders, the
+MTSs will be vulnerable to external inﬂuences with distinct
+component team goals and each component team leaders may
+not conduct buffering for avoiding prevent beneﬁcial and impor-
+tant information ﬂowing into the MTSs. Thus, we hypothesize
+that SMMs among leaders of component teams are positively
+associated with buffering activities at the system level.
+We believe that buffering activities at the system level further
+improve NPD efﬁciency, as studies have found that buffering
+activities enhance team performance [60], [61]. In an MTS
+context, especially for NPD, buffering activities not only protect
+component teams from external interference so that these teams
+can move quickly, but also increase the quality and success
+of the product. For example, when faced with unreasonable
+changes or unexpected requirements from customers, buffering
+can strengthen the boundaries against such external interference
+and create a protected internal atmosphere for the component
+teams, thereby accelerating NPD. Therefore, we hypothesize
+that buffering at the system level is positively associated with
+NPD efﬁciency. On the basis of the foregoing discussion, we
+also propose that SMMs among leaders of component teams in
+the MTSs will improve NPD efﬁciency because they enhance
+buffering activities at the system level.
+H3a: SMMs in an MTS leader team are positively associated with
+buffering activities at the system level.
+H3b: Buffering activities are positively associated with NPD
+efﬁciency.
+H3c: Buffering activities mediate the positive effect of SMMs in
+an MTS leader team on NPD efﬁciency.
+D. Moderating Effects of Requirement Uncertainty
+Requirement uncertainty will improve the effect of SMMs
+on the entrainment and buffering by creating more additional
+coordination and buffering task from the perspective of infor-
+mation processing, which enhance the role of SMMs. In this
+article, requirement uncertainty includes the requirement insta-
+bility, diversity, and analyzability [46]. When the requirement
+instability is high, it means customer will frequently change
+their IT requirements [47]. In this situation, the MTSs could
+either follow or refuse the changed requirements. If the MTSs
+follow the changed requirements, then each component team
+needs to adapt its own team works/tasks and schedules to the
+new global IT requirements and further coordinate with each
+other [62], which requires more additional entrainment to attain
+this adaption and coordination. As above, the SMMs provide
+established and agreed coordination procedures for component
+team and enable more entrainment activities. Therefore, the
+higher requirement instability, the more additional entrainment
+activities will be enabled by established and agreed coordination
+procedures via SMMs. On the other hand, if the MTSs refuse the
+IT requirements changes (e.g., due to high cost and risk for this
+change), especially for unreasonable requirements, the MTSsneed to conduct more additional buffering to protect the MTSs
+and components teams to respond to changes. As above, the
+SMMs provide established and agreed guidance on determining
+how and who to buffer. Thus, the higher requirement instability,
+the more buffering enabled by the same SMMs.
+When the requirement diversity is high, it means inconsistent
+and even conﬂicting requirements to be proposed by a group
+of users [63]. In this case, the MTSs need to work on solving
+any requirement conﬂicts by additional entrainment or buffering
+these conﬂicting requirements, asking the group of users to
+discuss by themselves for working out a more consistent IT
+requirement. Similarly, the additional entrainment or buffering
+demands created by the requirement diversity will enhance the
+role of SMMs on realizing more entrainment and buffering ac-
+tivities. When the requirement unanalyzability is high, it means
+the requirements proposed by customers are ambiguous and
+hard to be translated into detailed speciﬁcations [64]. Then,
+the MTSs in whole need are to fully utilize the expertise of
+different component teams and integrate them to translate part
+of the IT requirements. For those too ambiguous requirements,
+necessary buffering is also required to conduct for requiring the
+customers for further clarity. Studies have shown that uncertainty
+increases the demand for a high level of information processing
+[65]. To cope with such demand, the MTSs should enhance
+its information-processing capabilities by means of cultivat-
+ing SMMs among component team leaders. Thus, alignment
+between information-processing demands and capabilities pro-
+duces better outcomes [66]. Similarly, Mathieu et al. [18] argued
+that SMMs are more important for coordination in an MTS when
+workload, time pressure, or external requirement uncertainty are
+high. In the face of changing customer requirements frequently,
+workload will increase and a low degree of SMMs may present a
+barrier to component teams predicting each other’s information
+and resource requirements. Given the above considerations, we
+propose the ﬁnal pair of hypotheses:
+H4a: Requirement uncertainty positively moderates the relationship
+between SMMs in an MTS leader team and entrainment activities at
+the system level.
+H4b: Requirement uncertainty positively moderates the relation-
+ship between SMMs in an MTS leader team and buffering activities
+at the system level.
+IV. M ETHODOLOGY
+A. Samples and Data Collection
+To test the above hypotheses, we collected data using a
+matched-pair ﬁeld survey. The samples for the survey comprised
+IT development MTSs within IT ﬁrms located in China. Given
+that complex IT systems or software development tasks are often
+carried out in the form of MTSs and suffer from requirement
+changes, we believe that focusing on NPD in the context of
+IT development is appropriate for testing our hypotheses. With
+the support of a known IT association, the survey targeted 500
+IT companies in China chosen at random. Of the companies
+invited in our research project, 320 agreed. A questionnaire
+package, including a cover letter with instructions, the survey,
+and postage-paid return envelopes, was sent to each ﬁrm’s
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1079
+coordinator. To avoid potential correlation errors among multi-
+ple MTSs in the same company, we asked each company to base
+its responses on only one recently completed IT development
+project that took the form of an MTS, regardless of the project’s
+success or failure.
+To minimize the risk of common method variance, the
+matched-pair survey was conducted using a multisource re-
+search design targeting two types of respondents: MTS leaders
+and component team leaders. The MTS leaders, who assemble
+a leader team consisting of all component team leaders, are re-
+sponsible for NPD efﬁciency, team-related SMMs, and buffering
+at the system level, because they are in charge of the overall
+IT development MTSs. The component team leaders account
+for signiﬁcant portions of the speciﬁc development task by
+coordinating with other team leaders, and are more familiar with
+the level of between-team entrainment achieved and the extent of
+task-related SMMs. Furthermore, their greater familiarity with
+any requirement changes in IT development puts them in a
+good position to answer questions about the level of require-
+ment uncertainty faced by the MTSs. Accordingly, two types of
+separate and conﬁdential questionnaire were sent to each type of
+respondent; these are the asked speciﬁc MTS-related questions
+and questions on the respondents’ demographic characteristics.
+Matching the different informants’ separate responses with
+unique identiﬁcation numbers yielded 132 matched responses.
+Of those, 22 surveys were discarded because of incomplete
+responses and outliers (two cases with cook distance values
+above 0.6), and the ﬁnal sample consisted of the remaining 110
+observations. Thus, the usable response rate was 22%, which
+is comparable to other studies using a matched-pair survey
+with senior executives [67]. In order to examine the degree
+of potential bias, we used late respondents as surrogates for
+a sample of nonrespondents and compared the differences in
+the means for early and late respondents. The results showed
+no signiﬁcant differences between early respondents and late
+respondents in relation to the key constructs. The demographics
+of sampled ﬁrms, MTS, MTS leaders, and component team
+leaders are summarized in the table of Online Appendix A.
+B. Measurement Development
+The contextual operationalization of the research constructs
+serves as a starting point for developing the measurement scale.
+Existing validated measures of requirement uncertainty and
+NPD efﬁciency were adopted, and requirement uncertainty as a
+second-order construct was measured via its three dimensions—
+requirement instability, requirement diversity, and requirement
+unanalyzability [46]. For the two types of boundary activities,
+entrainment and buffering at the system level, existing measures
+were adapted to suit our context of IT development in an MTS.
+Given the lack of a suitable scale for measuring SMMs at the
+system level, including team-related and task-related compo-
+nents, we developed new measures (see online Appendix B for
+the items). Our development of SMMs began with collecting
+original items from numerous prior articles. We ﬁrst identiﬁed
+the frame of SMMs measurement to summarize two strategies:
+One is to directly ask for the extent of the mental models tobe shared. Another is to assume that the mental model will be
+widely shared, such that less effort during coordination should
+be expected. Both strategies require identifying the knowledge
+content of the mental model that should be focused on. In this
+article, we adopted the ﬁrst strategy for our team-related mental
+model and considered the expertise distribution and who grasps
+what expertise as the knowledge content of the mental model,
+based on the work of [68]. On the other hand, we adopted the
+second strategy for our task-related mental model measurement,
+and considered the knowledge of different dimensions of IT
+product complexity that requires collaboration as the content of
+task-related SMMs, based on [69]. In combining and adapting
+these previous related measures, we made sure that our measures
+incorporated both task- and team-related SMMs. We originally
+developed 15 items, which we reduced to six through a three-
+round expert review process (interviews with 2 IT managers, 10
+sorters in two-step Q-sorting, and a pilot study). All items were
+worded such that they referred to the MTS, not the individual
+or single team, because the critical measure is the perceived
+degree to which mental models are shared among the leader
+team. In our model, SMMs are a second-order factor with two
+task- and team-related SMMs as formative ﬁrst-order factors.
+The organizational and MTSs characteristics of organization
+size, MTSs size, and MTSs duration were included as important
+controls for potential alternative explanations for the hypoth-
+esized relationships. All measurement items were scored on a
+ﬁve-point Likert scale (1 =very weak or strongly disagree, 5 =
+very strong or strongly agree).
+To ensure the validity of these adapted and self-developed
+measures in the context of an IT development MTSs, and to
+capture unambiguously the domain of each construct, all items
+were reﬁned through a process of expert review. The survey
+was translated into Chinese by one of the researchers, and the
+translation was checked by a second researcher ﬂuent in both
+English and Chinese. Two experienced managers responsible
+for an IT development MTS reviewed the Chinese version of the
+survey for clarity, and helped to modify any problematic items
+and improve content validity. To improve the face validity and
+convergent validity, two-step Q-sorting was conducted to ensure
+that all facets of the relevant construct were included and that
+the items for each construct were convergent [70]. Two separate
+rounds of sorting (with ﬁve sorters in each round) classiﬁed
+the previously generated items on the basis of their similarity
+to deﬁnitions and descriptions of the underlying construct cate-
+gories. In the ﬁrst round, the accuracy rate for item-to-construct
+deﬁnition classiﬁcations was around 80%. After minor correc-
+tions based on agreement between the sorters’ classiﬁcations,
+the modiﬁed items were classiﬁed by a different group of ﬁve
+sorters in the second round, during which 90% of the items
+were successfully classiﬁed into the intended constructs. These
+improvements indicate that face validity and convergent validity
+were established. Conﬁdent that the items were reliable, we
+proceeded to pilot test the survey on a convenience sample of 20
+MTS leaders who had experience of managing a customized
+complex IT development MTSs. The items were minimally
+modiﬁed based on feedback from this pilot study. All the ﬁnal
+measurement items are listed in Online Appendix B.
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1080 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+TABLE I
+CORRELATION MATRIX AMONG DIRECTLY OBSERVED CONSTRUCTS
+Note: N =110. The diagonal elements in this correlation matrix are the square root of the average variance extracted; ∗p<0.05.
+V. D ATAANALYSIS AND RESULTS
+Ordinary least squares (OLS) analysis was used to test the
+hypotheses. Before the OLS analysis, we used the latent factor
+score approach to compute a single indicator for our two com-
+posite constructs, requirement uncertainty, and SMMs. We ﬁrst
+tested the validity of the measurements of the directly observed
+ﬁrst-order constructs of SMMs and the ﬁrst-order constructs of
+requirement uncertainty to assess whether their factor structures
+were valid for the proposed conceptual model. Next, we cal-
+culated the latent factor scores of each ﬁrst-order construct of
+requirement uncertainty and SMMs. Finally, we calculated the
+single indicator of requirement uncertainty and SMMs using
+their respective ﬁrst-order construct factor scores and repeating
+the latent factor score approach.
+A. Measurement Model
+We began by assessing the reliability and validity of our
+measurement instrument, testing 1) item reliability, 2) construct
+reliability, and 3) measurement validity. First, all factor load-
+ings were above the acceptable threshold (0.70). Second, the
+Cronbach’s alpha values for the constructs consisting of multiple
+indicators were higher than the recommended threshold (0.70).
+These results conﬁrmed that all of the formative multi-indicator
+constructs had satisfactory reliability (see Online Appendix C
+for details of the reliability analysis). Third, the validity of all
+measurements was tested using an explorative factor analysis
+with principal component analysis (see Online Appendix C
+for the cross-loadings). All the items loaded more highly on
+the intended construct than on any other construct, providing
+evidence of discriminant and convergent validity among the
+multi-indicator constructs. Table I shows the correlations among
+constructs.
+We tested discriminant validity using the average variance
+extracted (A VE). Discriminant validity is inferred when the
+square root of each construct’s A VE is higher than the correlation
+of the construct to other latent variables [71]. All of the diagonal
+values in Table I, which are the square roots of each construct’s
+A VE, were much higher than the construct’s correlations with
+other constructs. These results provide additional evidence ofdiscriminant validity among the multi-indicator constructs. LIS-
+REL 8.7 software was then used to run a conﬁrmatory factor
+analysis (CFA) for the measurement model. The CFA model
+ﬁt indices of the measurement model were within accepted
+guidelines, conﬁrming the goodness of ﬁt of our measurement
+model (chi-square =281.12; df =247; incremental ﬁt index,
+0.97; non-normed ﬁt index, 0.97; comparative ﬁt index, 0.97). In
+addition, the root mean square error of approximation (RMSEA)
+was 0.036; an RMSEA of less than 0.08 is considered practical
+evidence of good model ﬁt [72].
+On the basis of these validity results for the directly observed
+research constructs, the SMMs construct and requirement un-
+certainty are, respectively, formed using the latent factor scores,
+their ﬁrst-order constructs as their new formative indicators, and
+further used for further hypothesis tests.
+B. Hypothesis Testing
+1) Testing of Main and Mediating Effects: The hypothesized
+relationship of the main and mediating effects in the research
+model was tested using Model 4 of the PROCESS macro of
+SPSS 20.0. All control variables were included in the model.
+After 5000 times of bootstrapping, the results for the main effects
+and mediating effects are computed to be reported in Table II.
+(As we found no signiﬁcant effect for the control variables, these
+results are not included.)
+First, there was a signiﬁcant effect of SMMs on NPD efﬁ-
+ciency without involving entrainment and buffering at the system
+level (β=0.392, p<0.05), providing support for our H1.
+Second, there was a signiﬁcant effect of SMMs on both system
+entrainment ( β=0.388, p<0.05) and system buffering ( β=
+0.269, p<0.05). Thus, H1a and H2a are supported. Third, there
+was a signiﬁcant effect of both system entrainment ( β=0.422,
+p<0.05) and system buffering (β=0.275, p<0.05) on NPD
+efﬁciency, which provides support for H1b and H2b. Finally, in
+the presence of both system entrainment and system buffering,
+the effect of SMMs on NPD efﬁciency was reduced, although it
+was still signiﬁcant. Taken together, these results indicate that
+both system entrainment ( β=0.164, p<0.05) and system
+buffering ( β=0.074, p<0.05) act as two important mediators
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1081
+TABLE II
+RESULTS OF TESTING FOR MAIN AND MEDIATING EFFECTS
+Notes: S =signiﬁcant.
+TABLE III
+HIERARCHICAL REGRESSION MODEL
+Note: Number of observations (n) is 110. All path coefﬁcients are standardized. The value in each parenthesis is the standard error. ∗p<0.05.
+between SMMs and NPD efﬁciency. Thus, H1c and H2c are
+supported.
+2) Test of Moderating Effects: The hypothesized relationship
+for the moderating effects in the research model was tested by
+means of hierarchical regression analysis with OLS using SPSS
+20.0. We ﬁrst incorporated the control variables, independent
+variables, moderators, and interaction term into our research
+model to check the variance of the two mediators as dependent
+variables. Then, we assessed the signiﬁcance level of the model
+by calculating the increased explained variance and F hierarchi-
+cal value [73]. Last, three models were formed for each mediator
+as the dependent variable, as shown in Table III.
+In Model 1, the three control variables (organization size,
+MTSs size, and MTSs duration) have an insigniﬁcant effect on
+both system entrainment and system buffering. Model 2 explainsthe signiﬁcant effect of SMMs on both system entrainment and
+system buffering in the complex IT development MTS. SMMs
+thus positively inﬂuence both system entrainment and system
+buffering. In Model 3, requirement uncertainty has signiﬁcant
+and positive moderating effects on both the relationship between
+SMMs and system entrainment ( β=0.23, p<0.05), and the
+relationship between SMMs and system buffering ( β=0.23, p
+<0.05). These signiﬁcant moderating effects are further veriﬁed
+by the signiﬁcance level of the F hierarchical value. Thus, H4a
+and H4b are supported.
+VI. D ISCUSSION
+The results conﬁrm all of our hypotheses: ﬁrst, SMMs among
+leaders of component teams in an MTS are positively associated
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1082 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+with NPD efﬁciency, through the two system-level boundary
+management activities in MTSs structure. This ﬁnding reveals
+that when the leaders of each component team share information
+about their own team’s actions on the task, as well as those of
+other component teams within the MTSs, the MTSs will conduct
+more boundary management activities at the system level—that
+is, entrainment and buffering activities—which in turn improve
+the efﬁciency of the whole MTSs.
+Second, our results emphasize the importance of the two
+boundary management activities at the system level. From the
+interterm process perspective, entrainment is an inward-oriented
+information processing activity that keep each component team
+in pace, and buffering is an outward-oriented information pro-
+cessing activity that keep the MTSs away from external in-
+terference. In addition, it is worth noting that the mediating
+effects of both boundary entrainment and boundary buffering are
+only partial. This indicates that besides these two system-level
+boundary management activities, there may exist other variables
+that link SMMs among team leaders to MTSs efﬁciency. For
+example, a higher level of SMMs among component team
+leaders may improve the MTSs commitment of all component
+teams, which is beneﬁcial for MTS performance [74]. In addi-
+tion, the interteam process within an MTS—that is, boundary
+management activities at the component-team level—may be
+inﬂuenced by the SMMs among team leaders and further impact
+NPD efﬁciency.
+The ﬁnding that requirement uncertainty positively moderates
+the relationships between SMMs and entrainment and buffering
+is in accordance with those of previous qualitative studies [18].
+The positive effects of SMMs on boundary entrainment and
+buffering activities exist only when requirement uncertainty is
+high. As mentioned above, when customer demand is more
+uncertain, the MTSs need not only to process more information
+but also to cope with extra work and time pressure. Thus, SMMs
+among the leaders of component teams have a greater impact in
+situations of high requirement uncertainty, while in situations
+of low requirement uncertainty, SMMs among component team
+leaders are less important but still signiﬁcantly contribute to both
+boundary management activities.
+A. Theoretical Implications
+The ﬁndings of our article have several theoretical contri-
+butions. First, our article contributes to the NPD literature by
+broadening understanding of the antecedents of NPD efﬁciency
+from a single-team perspective to an MTS perspective. As the
+MTS perspective has been characterized as a unique level of
+analysis in organizations [7], [75], a few conceptual studies
+have proposed its implications for NPD [25], [26]. However,
+a lack of relevant empirically MTSs research has hindered a
+comprehensive understanding of certain topics. Given that the
+MTSs perspective is relatively novel in project management
+areas [27], this article adds to the emerging MTSs literature
+and encourages future researchers to focus on improving NPD
+efﬁciency from an MTS perspective.
+Second, our article has implications for the body of knowl-
+edge on SMMs in terms of adapting SMMs theory to an MTSperspective. SMMs theory has been widely adopted to predict
+NPD performance at the team level [20]. Even with growing
+acknowledgment in the literature, as well as in practice, of
+the importance of MTSs in NPD projects, there have been
+limited empirical attempts to examine SMMs in relation to NPD
+efﬁciency at the system level. Our article adapts SMMs theory
+to the MTS level of analysis and differentiates SMMs at the two
+levels of an MTS structure; therein, we ﬁnd evidence that SMMs
+among leaders of component teams can improve NPD efﬁciency.
+Given the unique characteristics of MTSs, our article represents
+an initial empirical effort to extend the application of SMMs the-
+ory, and provides a point of reference for its future development.
+This has wider implications for the application of SMMs theory,
+especially in the operations management discipline. In addition,
+by adopting an information processing approach on boundary
+management, our research provides a more comprehensive pic-
+ture of the mechanism by which SMMs at the system level
+inﬂuence NPD efﬁciency. While prior articles have documented
+the direct effects of SMMs on team performance [76], less effort
+has been dedicated to investigating the underlying mechanisms
+[77]. By extending the boundary management perspective to the
+system level of the MTSs context, our ﬁndings document that
+both entrainment and buffering activities at the system level play
+mediating roles between SMMs among the leaders of component
+teams and NPD efﬁciency. Consequently, we claim that the
+boundary management perspective provides an important and
+useful theoretical framework for supplementing SMMs theory
+and enriching behavior operations research.
+Finally, this article contributes to the literature on uncertainty
+in the ﬁelds of project management. We incorporate and test
+how requirement uncertainty inﬂuences the relationship between
+SMMs and NPD at the system level. Although the literature
+has emphasized that requirement uncertainty is an important
+contingency factor in teamwork and performance [24], very few
+studies have empirically tested its contingent role in the relation-
+ship between SMMs and NPD efﬁciency. Therefore, this article
+advances knowledge of how the relationship between SMMs
+and NPD efﬁciency changes with the degree of external uncer-
+tainty. Building on theoretical discussions in previous research
+regarding how SMMs operation relates to task demand, our
+article provides strong empirical evidence that SMMs among the
+leaders of component teams in MTSs become more important
+when customer demand is highly unpredictable and less effective
+when requirement uncertainty is low.
+B. Practical Implications
+In addition to its theoretical implications, this article has a
+number of practical implications for managers and team lead-
+ers of MTSs. First, the positive relationship between SMMs
+among leaders of component teams in an MTS and NPD efﬁ-
+ciency emphasizes the importance of SMMs at the system level.
+While most project leaders are currently focusing on improving
+single-team efﬁciency, it is recommended that large-scale IT
+project managers should provide leaders of component teams
+with ample opportunities to establish SMMs. SMMs cannot be
+constructed automatically; it takes time to start working together,
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1083
+to gather teamwork experience, and to learn from mistakes.
+For example, Xiang et al. [76] found that awareness and man-
+agement of other people’s emotions are crucial antecedents of
+SMMs. Therefore, large-scale project managers are suggested
+to encourage each component team leader to become involved
+in more extra-role and off-job activities, which are beneﬁcial for
+establishing SMMs.
+Second, in a large-scale project involving MTSs, such as
+NPD, boundary management activities are crucial for success.
+It is recommended that large-scale project managers encourage
+both coordination within MTSs and adaptation to the outside
+environment. Within the MTSs boundary, entrainment activities
+at the system level should be emphasized as this may help to
+improve the efﬁciency of the overall MTSs. For example, project
+managers should focus on the cycle, pace, dominant rhythms,
+and time orientation of each component team to enact successful
+entrainment [22]. In addition, a balance of boundary buffering
+activities should be encouraged [23] because these protect the
+team from external inﬂuence and allow useful knowledge to be
+absorbed. Therefore, practices to implement buffering activities
+must be established, and should include metrics to determine
+their efﬁcacy.
+Third, the results of our article have practical implications
+for large-scale project managers with respect to requirement
+uncertainty from customers. We ﬁnd that when requirement
+uncertainty is high, the effects of SMMs among component team
+leaders are more signiﬁcant. Therefore, although requirement
+uncertainty may not be explicit, the MTS leader should assess
+it, to the best of their ability, at the beginning of the MTSs
+project. In addition, because of the dynamic characteristic of
+requirement uncertainty, the MTS leader is suggested to continue
+to assess requirement uncertainty at different stages of the MTSs
+project.
+C. Limitations and Future Research
+This article is subject to several limitations that should be
+considered in future research. First, the results are based on
+data from a sample of Chinese ﬁrms. Data collection from a
+single culture limits the generalization of research ﬁndings to
+other cultures, and future articles should seek to take account of
+cultural differences. Second, our data collection methodology
+limits further investigation of the dynamic nature of large-scale
+projects, which project management scholars regard as explain-
+ing the different boundary activities required and the changes
+to their relative importance during the project life cycle [42].
+For example, when the interdependence of each component
+team becomes more reciprocal, the uncertainty between compo-
+nent teams increases. Therefore, a longitudinal research design
+would provide stronger evidence with respect to whether the
+relationships identiﬁed in our article vary over the stages of a
+large-scale project. Third, we conﬁrmed the signiﬁcance role
+of SMMs among team leaders of component teams in leading
+to NPD efﬁciency; however, we did not explore the different
+functioning of SMMs among component team leaders, such as
+the accuracy and similarity of SMMs [78], [79]. As prior articles
+have revealed that SMMs are crucial within standalone teams,future research could further broaden our knowledge of SMMs
+within the MTSs structure by speciﬁcally focusing on that angle.
+Last, this article investigated the mediating effects of bound-
+ary management activities at the system level in an MTS struc-
+ture. Such boundary management activities—entrainment and
+buffering activities—are crucial in enhancing NPD efﬁciency.
+However, our article is subject to two limitations in this re-
+gard: On the one hand, we did not investigate the boundary
+management activities at the component team level, of which
+future research could have a deeper investigation; on the other
+hand, prior articles have documented that there exist different
+knowledge boundaries in the NPD process [39]. For example,
+Carlile [80] identiﬁed three types of knowledge boundary: an
+information-processing boundary that emphasizes the transfer of
+knowledge; an interpretive boundary that emphasizes the trans-
+lation of knowledge; and a political boundary that emphasizes
+the transformation of knowledge. This article only focuses on
+the ﬁrst type of knowledge boundary between cross-functioning
+teams (component teams), and emphasizes information process-
+ing. Therefore, we encourage future articles to further augment
+this line of research by considering the other two types of
+knowledge boundary.
+VII. C ONCLUSION
+In summary, this article investigates the effects of SMMs
+among component team leaders on NPD efﬁciency through
+enhanced entrainment and buffering activities at the system
+level of MTSs under levels of requirement uncertainty, based on
+information-processing lens of boundary management. It ﬁnds
+that SMMs among component team leaders are positively related
+with the two boundary management activities at the system level,
+which in turn improve NPD efﬁciency. In addition, the effects
+of SMMs are more pronounced in situations of high require-
+ment uncertainty. These ﬁndings not only enrich our knowledge
+along the project management and NPD literature, but also offer
+greater clarity regarding how NPD could be achieved efﬁciency
+for practitioners.
+REFERENCES
+[1] T. Murase, D. R. Carter, L. A. DeChurch, and M. A. Marks, “Mind the
+gap: The role of leadership in multiteam system collective cognition,”
+Leadership Quart. , vol. 25, pp. 972–986, 2014.
+[2] J. E. Mathieu, M. A. Marks, and S. J. Zaccaro, Multi-Team Systems .
+London, U.K.: Sage, 2001.
+[3] A. O’Sullivan, “Interpersonal boundary spanning for supplier integration
+in complex NPD,” IEEE Trans. Eng. Manage. , to be published, doi:
+10.1109/TEM.2020.2999042 .
+[ 4 ] S .H .H a n ,S .Y u n ,H .K i m ,Y .H .K w a k ,H .K .P a r k ,a n dS .H .L e e ,
+“Analyzing schedule delay of mega project: Lessons learned from Korea
+train express,” IEEE Trans. Eng. Manage. , vol. 56, no. 2, pp. 243–256,
+May 2009.
+[5] J. Kˇ reˇcková, D. M. Kennedy, H. Brožová, and J. Rydval, “Project man-
+agement communication planning: An improved optimization model with
+additional recipients and individualized weights,” IEEE Trans. Eng. Man-
+age., to be published, doi: 10.1109/TEM.2020.2973643 .
+[6] T. A. De Vries, J. R. Hollenbeck, R. B. Davison, F. Walter, and G. S.
+Van Der Vegt, “Managing coordination in multiteam systems: Integrating
+micro and macro perspectives,” Acad. Manage. J. , vol. 59, pp. 1823–1844,
+2016.
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+1084 IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT, VOL. 71, 2024
+[7] S. J. Zaccaro, M. A. Marks, and L. DeChurch, Multiteam Systems: An
+organization Form for Dynamic and Complex Environments .N e wY o r k ,
+NY, USA: Routledge, Taylor & Francis, 2012.
+[8] R. Asencio and L. A. DeChurch, “Assessing collaboration within and be-
+tween teams: A multiteam systems perspective,” in Innovative Assessment
+of Collaboration , A. von Davier, M. Zhu, and P. Kyllonen, Eds. Cham,
+Switzerland: Springer, 2017, pp. 37–50.
+[9] O. Brown, N. Power, and S. M. Conchie, “Communication and coordi-
+nation across event phases: A multi-team system emergency response,” J.
+Occupat. Org. Psychol. , vol. 94, pp. 591–615, 2021.
+[10] M. M. Luciano, L. A. DeChurch, and J. E. Mathieu, “Multiteam systems: A
+structural framework and meso-theory of system functioning,” J. Manage. ,
+vol. 44, pp. 1065–1096, 2018.
+[11] L. A. DeChurch and M. A. Marks, “Leadership in multiteam systems,” J.
+Appl. Psychol. , vol. 91, pp. 311–329, 2006.
+[12] J. C. Ziegert, A. P. Knight, C. J. Resick, and K. A. Graham, “Addressing
+performance tensions in multiteam systems: Balancing informal mecha-
+nisms of coordination within and between teams,” Acad. Manage. J. ,t ob e
+published.
+[13] P. Dietrich, J. Kujala, and K. Artto, “Inter-team coordination patterns and
+outcomes in multi-team projects,” Project Manage. J. , vol. 44, pp. 6–19,
+2013.
+[14] R. B. Davison, J. R. Hollenbeck, C. M. Barnes, D. J. Sleesman, and D.
+R. Ilgen, “Coordinated action in multiteam systems,” J. Appl. Psychol. ,
+vol. 97, pp. 808–824, 2012.
+[15] P. B. Lowry, T. L. Roberts, and N. C. Romano, Jr, “What signal is your in-
+spection team sending to each other? Using a shared collaborative interface
+to improve shared cognition and implicit coordination in error-detection
+teams,” Int. J. Hum.-Comput. Stud. , vol. 71, pp. 455–474, 2013.
+[16] J. A. Cannon-Bowers and E. Salas, “Reﬂections on shared cognition,” J.
+Org. Behav. , vol. 22, pp. 195–202, 2001.
+[17] J. A. Cannon-Bowers, E. Salas, and S. A. Converse, Shared Mental Models
+in Expert Team Decision Making . Hillsdale, NJ, USA: Erlbaum, 1993.
+[18] J. E. Mathieu, T. S. Heffner, G. F. Goodwin, E. Salas, and J. A. Cannon-
+Bowers, “The inﬂuence of shared mental models on team process and
+performance,” J. Appl. Psychol. , vol. 85, pp. 273–283, 2000.
+[19] M. L. Shufﬂer, M. Jiménez-Rodríguez, and W. S. Kramer, “The science
+of multiteam systems: A review and future research agenda,” Small Group
+Res., vol. 46, pp. 659–699, 2015.
+[20] J. S. Hsu, J. Y. Chang, G. Klein, and J. J. Jiang, “Exploring the impact
+of team mental models on information utilization and project perfor-
+mance in system development,” Int. J. Project Manage. , vol. 29, pp. 1–12,
+2011.
+[21] P. Lehtonen, M. Martinsuo, M. Lehtonen, and P. Dietrich, “Boundary man-
+agement between temporary and permanent: Linking change programs to
+their organizational context,” in Proc. 24th EGOS Eur. Group Org. Stud.
+Colloq. , Jul. 2008, pp. 1–27.
+[22] R. Standifer and A. Bluedorn, “Alliance management teams and en-
+trainment: Sharing temporal mental models,” Hum. Relations , vol. 59,
+pp. 903–927, 2006.
+[23] X. J. Wu, W. W. Huang, J. Jiang, G. Klein, and S. Liu, “Boundary buffering:
+Limiting interference and information leakage in design teams,” Int. J.
+Oper. Prod. Manage. , vol. 40, pp. 293–313, 2020.
+[24] Z. H. Aronson, R. R. Reilly, and G. S. Lynn, “The impact of leader
+personality on new product development teamwork and performance:
+The moderating role of uncertainty,” J. Eng. Technol. Manage. , vol. 23,
+pp. 221–247, 2006.
+[25] A. Scheerer, T. Hildenbrand, and T. Kude, “Coordination in large-scale
+agile software development: A multiteam systems perspective,” in Proc.
+IEEE 47th Hawaii Int. Conf. Syst. Sci. , 2014, pp. 4780–4788.
+[26] M. A. Marks and D. Luvison, “Product launch and strategic alliance
+MTSs,” in Multiteam Systems . Evanston, IL, USA: Routledge, 2012,
+pp. 48–67.
+[27] D. M. Kennedy, S. A. Sommer, and P. A. Nguyen, “Optimizing multi-team
+system behaviors: Insights from modeling team communication,” Eur. J.
+Oper. Res. , vol. 258, pp. 264–278, 2017.
+[28] M. M. Luciano, J. D. Nahrgang, and C. Shropshire, “Strategic leadership
+systems: Viewing top management teams and boards of directors from a
+multiteam systems perspective,” Acad. Manage. Rev. , vol. 45, pp. 675–701,
+2020.
+[29] M. B. O’Leary, A. W. Woolley, and M. Mortensen, “Multiteam member-
+ship in relation to multiteam systems,” in Multiteam Systems: An Orga-
+nizational Form for Dynamic and Complex Environments , S. J. Zaccaro,
+M. A. Marks, and L. A. DeChurch, Eds. New York, NY, USA: Routledge,
+2012, pp. 141–172.[30] L. Dubé, “Teams in packaged software development: The software corp,”
+Experience, Inf. Technol. People , vol. 11, pp. 36–61, 1998.
+[31] H. Jaber, F. Marle, and M. Jankovic, “Improving collaborative deci-
+sion making in new product development projects using clustering al-
+gorithms,” IEEE Trans. Eng. Manage. , vol. 62, no. 4, pp. 475–483,
+Nov. 2015.
+[32] Y. R. Choi and P. H. Phan, “Exploration, exploitation, and growth through
+new product development: The moderating effects of ﬁrm age and environ-
+mental adversity,” IEEE Trans. Eng. Manage. , vol. 61, no. 3, pp. 428–437,
+Aug. 2014.
+[33] J. Chen, F. Damanpour, and R. R. Reilly, “Understanding antecedents
+of new product development speed: A meta-analysis,” J. Oper. Manage. ,
+vol. 28, pp. 17–33, 2010.
+[34] W. B. Rouse and N. M. Morris, “On looking into the black box: Prospects
+and limits in the search for mental models,” Psychol. Bull. , vol. 100,
+pp. 349–363, 1986.
+[35] H.-D. Yang, H.-R. Kang, and R. M. Mason, “An exploratory study on meta
+skills in software development teams: Antecedent cooperation skills and
+personality for shared mental models,” Eur. J. Inf. Syst. , vol. 17, pp. 47–61,
+2008.
+[36] B. D. Edwards, E. A. Day, W. Arthur, Jr, and S. T. Bell, “Relationships
+among team ability composition, team mental models, and team perfor-
+mance,” J. Appl. Psychol. , vol. 91, pp. 727–736, 2006.
+[37] C. N. Lacerenza, R. Rico, E. Salas, and M. L. Shufﬂer, “The future of
+multiteam systems: Implications for research and practice,” in Pushing
+the Boundaries: Multiteam Systems in Research and Practice ,R .R .M .
+L. Shufﬂer and E. Salas, Eds. Bingley, U.K.: Emerald Group Publishing
+Limited, 2014, pp. 223–240.
+[38] E. C. Anania et al., “Communication in the spaceﬂight multi-team system:
+Training and technology recommendations to support boundary spanners,”
+inProc. Hum. Factors Ergonom. Soc. Annu. Meeting , 2017, pp. 150–154.
+[39] P. R. Carlile, “A pragmatic view of knowledge and boundaries: Boundary
+objects in new product development,” Org. Sci. , vol. 13, pp. 442–455,
+2002.
+[40] S. L. Brown and K. M. Eisenhardt, “Product development: Past research,
+present ﬁndings, and future directions,” Acad. Manage. Rev. , vol. 20,
+pp. 343–378, 1995.
+[41] D. Ancona and C.-L. Chong, “Entrainment: Pace, cycle, and rhythm
+in organizational behavior,” Res. Org. Behav. , vol. 18, pp. 251–284,
+1996.
+[42] C. Dey and M. Ganesh, “Team boundary activity: A review and directions
+for future research,” Team Perform. Manage.: Int. J. , vol. 23, pp. 273–292,
+2017.
+[43] D. A. Harrison, S. Mohammed, J. E. McGrath, A. T. Florey, and S. W.
+Vanderstoep, “Time matters in team performance: Effects of member
+familiarity, entrainment, and task discontinuity on speed and quality,”
+Personnel Psychol. , vol. 56, pp. 633–669, 2003.
+[44] Y. Zheng, S. Liu, W. Huang, and J. J.-Y. Jiang, “Inter-organizational coop-
+eration in automotive new product development projects,” Ind. Manage.
+Data Syst. , vol. 120, pp. 79–97, 2019.
+[45] M. L. Tushman and D. A. Nadler, “Information processing as an inte-
+grating concept in organizational design,” Acad. Manage. Rev. ,v o l .3 ,
+pp. 613–624, 1978.
+[46] S. R. Nidumolu, “Standardization, requirements uncertainty and software
+project performance,” Inf. Manage. , vol. 31, pp. 135–150, 1996.
+[47] S. Li, X. Cui, B. Huo, and X. Zhao, “Information sharing, coordination and
+supply chain performance: The moderating effect of demand uncertainty,”
+Ind. Manage. Data Syst. , vol. 119, pp. 1046–1071, 2019.
+[48] F. Wynstra, F. Von Corswant, and M. Wetzels, “In chains? An empirical
+study of antecedents of supplier product development activity in the
+automotive industry,” J. Product Innov. Manage. , vol. 27, pp. 625–639,
+2010.
+[49] J. J. Jiang, G. Klein, J. C.-A. Tsai, and Y. Li, “Managing multiple-supplier
+project teams in new software development,” Int. J. Project Manage. ,
+vol. 36, pp. 925–939, 2018.
+[50] J. S.-C. Hsu, N. Parolia, J. Jiang, and G. Klein, “The impact of team
+mental models on is project teams’ information processing and project
+performance,” in Proc. 2nd Int. Res. Workshop Inf. Technol. Project
+Manage. , 2007, pp. 39–49.
+[51] E. Salas, D. E. Sims, and C. S. Burke, “Is there a ‘big ﬁve’ in teamwork?,”
+Small Group Res. , vol. 36, pp. 555–599, 2005.
+[52] F. W. Kellermanns, S. W. Floyd, A. W. Pearson, and B. Spencer, “The
+contingent effect of constructive confrontation on the relationship between
+shared mental models and decision quality,” J. Org. Behav. , vol. 29,
+pp. 119–137, 2008.
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 
+LEI et al. : SHARED MENTAL MODELS AND BOUNDARY MANAGEMENT ACTIVITIES IN NEW PRODUCT DEVELOPMENT 1085
+[53] M. M. Montoya-Weiss, A. P. Massey, and M. Song, “Getting it together:
+Temporal coordination and conﬂict management in global virtual teams,”
+Acad. Manage. J. , vol. 44, pp. 1251–1262, 2001.
+[54] T. Kude, S. Mithas, C. T. Schmidt, and A. Heinzl, “How pair programming
+inﬂuences team performance: The role of backup behavior, shared mental
+models, and task novelty,” Inf. Syst. Res. , vol. 30, pp. 1145–1163, 2019.
+[55] S. Khavul, L. Pérez-Nordtvedt, and E. Wood, “Organizational entrainment
+and international new ventures from emerging markets,” J. Bus. Venturing ,
+vol. 25, pp. 104–119, 2010.
+[56] R. S. Burt, “Structural holes and good ideas,” Amer. J. Sociol. , vol. 110,
+pp. 349–399, 2004.
+[57] D. G. Ancona and D. Caldwell, “Beyond boundary spanning: Managing
+external dependence in product development teams,” J. High Technol.
+Manage. Res. , vol. 1, pp. 119–135, 1990.
+[58] Y. Shin, M. Kim, and W.-M. Hur, “Interteam cooperation and competition
+and boundary activities: The cross-level mediation of team goal orienta-
+tions,” Int. J. Environ. Res. Public Health , vol. 16, pp. 2738–2762, 2019.
+[59] T. E. Johnson and Y. Lee, “The relationship between shared mental models
+and task performance in an online team-based learning environment,”
+Perform. Improvement Quart. , vol. 21, pp. 97–112, 2008.
+[60] M. Chakkol, A. Karatzas, M. Johnson, and J. Godsell, “Building bridges:
+Boundary spanners in servitized supply chains,” Int. J. Oper. Prod. Man-
+age., vol. 38, pp. 579–604, 2018.
+[61] C. B. Gibson and R. Dibble, “Excess may do harm: Investigating the effect
+of team external environment on external activities in teams,” Org. Sci. ,
+vol. 24, pp. 697–715, 2013.
+[62] Y. Hong and J. L. Hartley, “Managing the supplier–supplier interface in
+product development: The moderating role of technological newness,” J.
+Supply Chain Manage. , vol. 47, pp. 43–62, 2011.
+[63] J. Zhang, J. Jiang, X. Wu, and R. Jiang, “Moderating effect of requirements
+uncertainty on task interdependence and NPD performance,” Ind. Manage.
+Data Syst. , vol. 121, pp. 456–477, 2021.
+[64] P. Lu, X. Song, and Y. Song, “An empirical analysis of requirements
+uncertainty, task uncertainty and software project performance,” J. Emerg.
+Trends Econ. Manage. Sci. , vol. 3, 2012, Art. no. 559.
+[65] M. Bensaou and N. Venkatraman, “Inter-organizational relationships and
+information technology: A conceptual synthesis and a research frame-
+work,” Eur. J. Inf. Syst. , vol. 5, pp. 84–91, 1996.
+[66] G. Premkumar, K. Ramamurthy, and C. S. Saunders, “Information pro-
+cessing view of organizations: An exploratory examination of ﬁt in the
+context of interorganizational relationships,” J. Manage. Inf. Syst. , vol. 22,
+pp. 257–294, 2005.
+[67] Y. Lu and K. Ramamurthy, “Understanding the link between information
+technology capability and organizational agility: An empirical examina-
+tion,” MIS Quart. , vol. 35, pp. 931–954, 2011.
+[68] S. Faraj and L. Sproull, “Coordinating expertise in software development
+teams,” Manage. Sci. , vol. 46, pp. 1554–1568, 2000.
+[69] K. K. Kim, N. S. Umanath, and B. H. Kim, “An assessment of electronic
+information transfer in B2B supply-channel relationships,” J. Manage. Inf.
+Syst., vol. 22, pp. 294–320, 2005.
+[70] F. Salvador, A. Chandrasekaran, and T. Sohail, “Product conﬁguration,
+ambidexterity and ﬁrm performance in the context of industrial equipment
+manufacturing,” J. Oper. Manage. , vol. 32, pp. 138–153, 2014.
+[71] J. A. Shaffer, D. DeGeest, and A. Li, “Tackling the problem of construct
+proliferation: A guide to assessing the discriminant validity of conceptually
+related constructs,” Org. Res. Methods , vol. 19, pp. 80–110, 2016.
+[72] M. W. Browne, R. C. MacCallum, C.-T. Kim, B. L. Andersen, and
+R. Glaser, “When ﬁt indices and residuals are incompatible,” Psychol.
+Methods , vol. 7, pp. 403–421, 2002.
+[73] T. A. Carte and C. J. Russell, “In pursuit of moderation: Nine common
+errors and their solutions,” MIS Quart. , vol. 27, pp. 479–501, 2003.
+[74] C.-W. Sheng, Y.-F. Tian, and M.-C. Chen, “Relationships among teamwork
+behavior, trust, perceived team support, and team commitment,” Social
+Behav. Personality: Int. J. , vol. 38, pp. 1297–1305, 2010.
+[75] L. A. DeChurch and S. J. Zaccaro, “Perspectives: Teams won’t solve this
+problem,” Hum. Factors , vol. 52, pp. 329–334, 2010.
+[76] C. Xiang, Z. Yang, and L. Zhang, “Improving IS development teams’
+performance during requirement analysis in project—The perspectives
+from shared mental model and emotional intelligence,” Int. J. Project
+Manage. , vol. 34, pp. 1266–1279, 2016.
+[77] C. M. Santos, S. Uitdewilligen, and A. M. Passos, “Why is your team more
+creative than mine? The inﬂuence of shared mental models on intra-group
+conﬂict, team creativity and effectiveness,” Creativity Innov. Manage. ,
+vol. 24, pp. 645–658, 2015.[78] M. A. Marks, S. J. Zaccaro, and J. E. Mathieu, “Performance implications
+of leader brieﬁngs and team-interaction training for team adaptation to
+novel environments,” J. Appl. Psychol. , vol. 85, pp. 971–986, 2000.
+[79] B. C. Lim and K. J. Klein, “Team mental models and team performance:
+A ﬁeld study of the effects of team mental model similarity and accuracy,”
+J. Org. Behav. , vol. 27, pp. 403–418, 2006.
+[80] P. R. Carlile, “Transferring, translating, and transforming: An integrative
+framework for managing knowledge across boundaries,” Org. Sci. , vol. 15,
+pp. 555–568, 2004.
+Yang Lei received the Ph.D. degree in decision sci-
+ences and managerial economics from The Chinese
+University of Hong Kong, Hong Kong, in 2019.
+He is currently an Assistant Professor with the
+Department of Information Systems and Manage-
+ment Engineering, College of Business, Southern
+University of Science and Technology, Shenzhen,
+China. He has authored or coauthored six papers. His
+research interests include supply chain management
+and project management.
+Dr. Lei has numerous publications in journal, in-
+cluding Information and Management, Decision Support Systems, International
+Journal of Operations and Production Management, etc .
+Xiaosong Wu received the Ph.D. degree in manage-
+ment science and engineering from the Xi’an Jiaotong
+University, Xi’an, China, in 2021.
+He is currently an Assistant Research Fellow with
+Tsinghua Shenzhen International Graduate School,
+Shenzhen, China. He has authored/coauthored in In-
+ternational Journal of Operations and Production
+Management, Journal of Management Science and
+Engineering, Industrial Management and Data Sys-
+tems, Journal of Computer Information Systems, and
+Information Systems Management . His research in-
+terests include complex IT/IS project management and IT-enabled or digital
+transformation program management.
+James Jiang received the Ph.D. degree in informa-
+tion management from the University of Cincinnati,
+Cincinnati, OH, USA, in 1992.
+He is currently a Professor of Management with
+National Taiwan University (NTU), Taipei, Taiwan.
+Prior to join NTU, in 2013, he was the Research
+Professor with IS, University of Central Florida,
+Orlando, FL, USA and a Distinguished Professor
+with Australian National University, Canberra, ACT,
+Australia for more than two decades. He has au-
+thored/coauthored more than 200 refereed journal
+articles with more than 12 517 citations ( H-index=62). His research interests
+include IS project/program/portfolio management.
+Prof. Jiang has serviced as a Senior Editor of MIS Quarterly and Journal
+of Association of Information Systems . He is currently the Editor-in-Chief of
+Paciﬁc Asia Journal of the Association for Information Systems . He was the
+inaugural recipient of the NTU Fu-Bon Endowed Professorship and the Out-
+standing Scholar Chair Professorship for the Foundation for the Advancement
+of Outstanding Scholarship.
+Authorized licensed use limited to: University College London. Downloaded on May 30,2026 at 09:56:10 UTC from IEEE Xplore.  Restrictions apply. 

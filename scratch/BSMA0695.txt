@@ -1,0 +1,1912 @@
+ADDRESSING PERFORMANCE TENSIONS IN
+MULTITEAM SYSTEMS: BALANCING INFORMAL
+MECHANISMS OF COORDINATION WITHIN AND
+BETWEEN TEAMS
+JONATHAN C. ZIEGERT
+Drexel University
+ANDREW P. KNIGHT
+Washington University in St. Louis
+CHRISTIAN J. RESICK
+Drexel University
+KATRINA A. GRAHAM
+Suffolk University
+Due to their distinctive features, multiteam systems (MTSs) face significant coordination
+challenges —both within component teams and across the larger system. Despite the ben-
+efits of informal mechanisms of coordination for knowledge-based work, there is consid-
+erable ambiguity regarding their effects in MTSs. To resolve this ambiguity, we build andtest theory about how interpersonal interactions among MTS members serve as an infor-
+mal coordination mechanism that facilitates team and system functioning. Integrating
+MTS research with insights from the team boundary spanning literature, we argue thatthe degree to which MTS members balance their interactions with members of their own
+component team (i.e., intrateam interactions) and with the members of other teams in the
+system (i.e., interteam interactions) shapes team- and system-level performance. Thefindings of a multimethod study of 44 MTSs composed of 295 teams and 930 members
+show that as interteam interactions exceed intrateam interactions, team conflict arises
+and detracts from component team performance. At the system level, a balance betweenintrateam and interteam interactions enhances system success. Our findings advanceunderstanding of MTSs by highlighting how informal coordination mechanisms enable
+MTSs to overcome their coordination challenges and address the unique performance
+tension between component teams and the larger system.
+As the industrial landscape shifted to an increas-
+ingly knowledge-driven economy, early commenta-
+tors (e.g., Drucker, 1999) directed attention to theunique challenges faced by individual knowledge
+workers. Subsequent scholarship (e.g., Wuchty,
+Jones, & Uzzi, 2007) redirected attention to teams as
+the locus of knowledge work, arguing that individual
+workers alone lack the capacity needed to solveproblems of increasing scope and complexity. Most
+recently, scholars (e.g., Edmondson & Harvey, 2018;
+Zaccaro, Dubrow, Torres, & Campbell, 2020) have
+highlighted the rising prominence of knowledgework in multiteam systems (MTSs), which refers to
+“two or more teams that interface directly and inter-
+dependently in response to environmental contingen-cies toward the accomplishment of collective goals ”
+(Mathieu, Marks, & Zaccaro, 2001: 290). Similar to the
+shift from the individual to the team, the shift from
+the team to the MTS has occurred because the com-
+plexity of many modern problems exceeds the capa-bilities of any single team (Zaccaro et al., 2020).
+As MTSs seek to address complex knowledge-
+based problems, theory and research have revealedWe are very grateful to Editor Laszlo Tihanyi and the
+three anonymous reviewers for their constructive and
+insightful feedback. We also thank Lauren D ’Innocenzo,
+Jeanine Porck, Steve Zaccaro, and the GOMERs group for
+their helpful comments on an earlier version of the manu-
+script. This research was partially funded by a LockheedMartin Leadership Development grant.
+158
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted with out the copyright holder's express
+written permission. Users may print, download, or email articles for individual use only.rAcademy of Management Journal
+2022, Vol. 65, No. 1, 158 –185.
+https://doi.org/10.5465/amj.2019.1043that coordination, or “the process of interaction that
+integrates a collective set of interdependent tasks ”
+(Okhuysen & Bechky, 2009: 463), is particularly
+important —but also especially difficult —for MTS
+functioning (e.g., Davison, Hollenbeck, Barnes,
+Sleesman, & Ilgen, 2012; de Vries, Hollenbeck, Davi-
+son, Walter, & van der Vegt, 2016; Rico, Hinsz, Davi-son, & Salas, 2018; Shuffler & Carter, 2018).Distributing tasks across teams offers the promise of
+specialized expertise or focused effort to solve dis-
+tinct elements of a larger and more complex prob-lem, but the overall benefit to the system can only be
+realized if members effectively coordinate both
+within and across team boundaries. Doing so is espe-cially difficult for MTSs because structural and psy-
+chological barriers emerging from a division of
+labor, specialization of expertise, and unique priori-ties stymie the flow of information between teams
+(Heath & Staudenmayer, 2000). As a function of
+these barriers, scholars have highlighted interteamcoordination, in particular, as a primary contributorto the success or failure of MTSs (e.g., DeChurch &
+Marks, 2006; Firth, Hollenbeck, Miles, Ilgen, &
+Barnes, 2015). Understanding how to facilitate inter-team coordination without degrading intrateam
+coordination has been a central focus of MTS
+research (Rico et al., 2018; Zaccaro et al., 2020).
+Theory (e.g., Katz & Kahn, 1978; Thompson, 1967)
+and research (e.g., Faraj & Sproull, 2000; Van de
+Ven, Delbecq, & Koenig, 1976) have highlighted
+that informal coordination mechanisms —entailing
+direct, mutual, and ad hoc interactions between peo-
+ple (Okhuysen & Bechky, 2009) —are useful for
+accomplishing collective knowledge-based work.Given that MTSs are frequently deployed to address
+such problems (Zaccaro et al., 2020), past theory and
+research on coordination has seemingly suggestedthat informal mechanisms would be especially help-
+ful for enabling MTS effectiveness. Yet, the degree to
+which informal mechanisms are beneficial or detri-mental for MTS effectiveness remains unclear, inpart, because prior studies have largely focused on
+formal structural (e.g., de Vries et al., 2016), role-
+based (e.g., Davison et al., 2012), and centralized(e.g., Lanaj, Hollenbeck, Ilgen, Barnes, & Harmon,
+2013) mechanisms of coordination (Mathieu,
+Luciano, & DeChurch, 2018). Moreover, the findingsof the few quantitative studies that have measured
+informal coordination are ambiguous, leading to
+contradictory recommendations about whether orhow MTS members should use informal mecha-
+nisms to facilitate coordination (e.g., Davison et al.,
+2012; Marks, DeChurch, Mathieu, Panzer, & Alonso,2005; Mell, DeChurch, Contractor, & Leenders,
+2020). Thus, while broader coordination theory and
+research have generally prescribed the use of infor-
+mal mechanisms for knowledge-based work, thereremains considerable inconsistency regarding theusefulness of these mechanisms for enabling coordi-
+nation in MTSs.
+The purpose of this paper is to build and test the-
+ory that resolves this ambiguity about how informalcoordination mechanisms —specifically, direct
+interpersonal interactions among MTS members —
+influence the effectiveness of MTSs engaged inknowledge-based work. While prior MTS research
+on informal mechanisms has assessed their intra-
+team and interteam effects independently, MTSsface the unique challenge of simultaneously coordi-
+nating activities within and between component
+teams. To address this challenge and the associatedambiguity, we develop new insights into informalcoordination in MTSs by integrating MTS scholar-
+ship with broader theory and research on activities
+commonly known as boundary spanning, whichdescribes a “team’s actions to establish linkages and
+manage interactions with parties in the external
+environment ”(Marrone, 2010: 914). The MTS and
+boundary spanning literatures share a focus on howteam members engage with those outside of team
+boundaries, which for MTS members involves inter-
+team interactions. However, because they are inter-ested in outcomes at different levels of analysis, with
+MTS researchers focused principally on the system
+level and boundary spanning researchers on theteam level, the theoretical bases of these literatures
+emphasize different constellations of processes. We
+integrate these two perspectives to derive the insightthat the degree of balance of MTS members ’intra-
+team and interteam interactions shapes team pro-
+cesses —specifically, team conflict —and team- and
+system-level performance.
+We test our theoretical model in a study of 44 mul-
+titeam systems, composed of 295 teams and 930
+members, charged with completing a knowledge-
+based engineering task over 11 weeks. Our findingsmake three main contributions to the MTS literature.
+First, our focus on informal coordination extends
+past studies in the MTS literature, which haveyielded ambiguous conclusions regarding informalmechanisms (Carter, Cullen-Lester, Jones, Gerbasi,
+Chrobot-Mason, & Nae, 2020; Luciano, DeChurch, &
+Mathieu, 2018; Rico et al., 2018; Zaccaro et al.,2020). Given the documented importance of within-
+and between-team coordination for MTS effective-
+ness (Zaccaro et al., 2020), paired with the2022 Ziegert, Knight, Resick, and Graham 159documented value of informal mechanisms for other
+forms of complex knowledge-based work (e.g., Faraj
+& Sproull, 2000), resolving ambiguity regarding the
+role of informal coordination mechanisms advancesMTS theory and offers guidance for practice. Ourfindings challenge the oft-stated view that MTSs are
+too large, complex, and distributed to benefit from
+informal coordination (e.g., Davison et al., 2012;Lanaj et al., 2013), calling attention to informal inter-
+actions as a facilitator of MTS effectiveness.
+Second, by examining the balance of intrateam
+and interteam interactions, our research takes intoaccount the unique performance tensions in MTSs
+to help resolve ambiguity in the findings of the few
+studies that have considered informal coordinationin MTSs (e.g., Davison et al., 2012; Marks et al.,
+2005; Mell et al., 2020). Deriving new insights by
+integrating the MTS and boundary spanning litera-tures, our coincident consideration of intrateam andinterteam interactions enriches prior MTS research,
+which has often treated within-team and between-
+team dynamics as separate, additive contributors tocoordination. We also identify team conflict as a
+mechanism that channels the effects of an imbalance
+of intrateam and interteam interaction patterns toteam effectiveness. Even as interteam interactionsare necessary for system-level coordination, when
+not balanced by corresponding intrateam interac-
+tions, conflict emerges and hinders team perfor-mance. Our joint consideration of intrateam and
+interteam interactions —specifically, their balance at
+the team and system levels —thus advances under-
+standing of the potential “countervailing or conflu-
+ent consequences of coordination processes ”in
+MTSs (Rico et al., 2018: 11), presenting implicationsfor how to overcome the performance tensions thatare inherent to MTSs (Luciano et al., 2018; Mathieu
+et al., 2018).
+Complementing our theoretical contributions,
+attributes of our study help address limitations inthe MTS literature that scholars have recently
+spotlighted (e.g., Shuffler & Carter, 2018; Zaccaro
+et al., 2020), although this is not the main contribu-tion of the paper. Our study of MTSs completing a
+generative engineering task enriches the diversity of
+MTS research in terms of task type (i.e., structuredvs. unstructured), interaction medium (i.e., com-puter mediated vs. face-to-face), and size (i.e., rela-
+tively small vs. large number of component teams).
+Additionally, we used wearable sensors to measureinterpersonal interactions among MTS members —
+an approach that scholars have advocated for assess-
+ing coordination in MTSs in a fine-grained way (e.g.,Luciano et al., 2018; Mathieu et al., 2018; Shuffler &
+Carter, 2018; Zaccaro et al., 2020). Wearable sensors
+enabled us not only to test our a priori hypotheses
+but also to examine post hoc how different foci andforms of interactions relate to MTS effectiveness.Together, these hypothesized and post hoc examina-
+tions suggest new directions for future research on
+coordination in MTSs.
+THEORETICAL DEVELOPMENT
+Coordination challenges are particularly acute
+within MTSs due to two of their distinctive charac-
+teristics. First, the goals of an MTS are hierarchical,
+with at least two levels. At the proximal level, eachcomponent team has its own specific goals; at thedistal level, the system has a superordinate goal that
+requires input from the component teams (Mathieu
+et al., 2001). This goal hierarchy creates structuralinterdependencies among component teams (Zac-caro et al., 2020) and contributes to potential perfor-
+mance tensions between the local component teams
+and the global system as a whole (Shuffler & Carter,2018). Second, MTS component teams are structur-ally differentiated, with particular goals, norms, and
+processes that reinforce distinctions between teams
+(Luciano et al., 2018). Together, these attributes canbe barriers to simultaneously achieving coordinationin the two areas where it is necessary (DeChurch &
+Marks, 2006). Intrateam coordination —the integra-
+tion of activities among the members of the samecomponent team —is needed for teams to realize
+their local, proximal goals. Interteam coordination —
+the integration of activities across teams within the
+system —is needed to achieve the global, distal objec-
+tives of the MTS as a whole.
+In trying to understand how organizations inte-
+grate their activities, researchers have studied a wide
+range of coordination mechanisms (Okhuysen &
+Bechky, 2009), which are ways that people integratetheir activities when engaged in interdependentwork. Scholars have often made a basic distinction
+between coordination mechanisms that are formal
+and those that are informal (e.g., Faraj & Xiao, 2006;Van de Ven et al., 1976). Formal mechanisms areimpersonal and top –down —leaders deploy them
+with little concern for the idiosyncratic attributes
+and characteristics of individual members (Van deVen et al., 1976). Informal mechanisms, in contrast,are personal and emerge organically; they entail
+direct, mutual, and real-time adjustments between
+people to facilitate the integration of their work (Vande Ven et al., 1976). The most ubiquitous informal160 Academy of Management Journal Februarymechanism in organizations, and the focus of our
+research, is interpersonal interactions —the direct,
+bi-directional exchange of information between two
+people (Katz & Kahn, 1978). Time spent in interper-sonal interactions enables individuals to mutuallyadjust their activities and better integrate their work.
+To capture this fundamental informal coordination
+mechanism, we focus our research specifically onthe duration of MTS members ’interactions with one
+another. As MTSs must realize coordination both
+within and between teams (Luciano et al., 2018), weconsider two kinds of interactions: intrateam andinterteam interactions. Intrateam interactions are
+encounters among the members of the same compo-
+nent team; interteam interactions are encountersamong the members of different component teams
+within the same MTS.
+Due to the size and complexity of MTSs, scholars
+have extolled the benefits of formal coordinationmechanisms (DeChurch & Marks, 2006; Lanaj et al.,
+2013). Indeed, a review of the MTS literature reveals
+that the vast majority of published studies —particu-
+larly those using quantitative methods —have docu-
+mented the value of various formal mechanisms for
+enabling system-level effectiveness. For example,MTS researchers have found that coordination canbe enhanced through the use of a well-defined, hier-
+archical structure that features a higher-order
+“integration team ”(Davison et al., 2012; de Vries
+et al., 2016). Researchers have also found perfor-
+mance benefits from centralized a priori planning
+(Lanaj et al., 2013) and pre-task formal frame of refer-ence training (Firth et al., 2015). Overall, existing
+research has clearly demonstrated the value of for-
+mal mechanisms for MTS coordination and systemeffectiveness.
+The picture is far less clear regarding the effects of
+informal coordination mechanisms on MTS func-
+tioning. On the one hand, with few exceptions —like
+Mell et al. ’s (2020) study of information sharing —
+research has rarely directly studied the interpersonal
+interactions that are an informal means of coordinat-
+ing activities. Rather than assessing interpersonalinteractions, past studies that have forwarded con-
+clusions about informal coordination have drawn
+inferences from, for example, synchronous activity(e.g., Davison et al., 2012) or from the effects of amultifaceted set of action processes (e.g., Marks et al.,
+2005). On the other hand, papers that have alluded
+to informal mechanisms in MTSs —particularly with
+respect to interteam coordination —have presented
+ambiguous empirical findings (e.g., Davison et al.,
+2012; Mell et al., 2020), and the resultinginterpretations have suggested rather broad pessi-
+mism (Rico, Hinsz, Burke, & Salas, 2017). Davison
+et al. (2012: 809), for example, argued that “direct
+mutual adjustment among all members in thecollective …is actually detrimental to performance
+in multiteam systems ”—a view echoed by Lanaj et al.
+(2013: 737), who asserted that “multiteam systems
+are too large to support mutual adjustment among allteam members. ”
+The dearth of research on informal mechanisms in
+the MTS literature and the relatively pessimistic
+view of their system-level effects is perplexing givenbroader theory and research on coordination in
+knowledge-based work (e.g., Faraj & Xiao, 2006;
+Heath & Staudenmayer, 2000; Van de Ven et al.,1976). Outside the MTS literature, informal mecha-nisms have been viewed as essential for enabling
+coordination for information-intensive collective
+tasks —tasks for which “coordination is less depen-
+dent on structural arrangements and more contin-
+gent on knowledge integration ”(Faraj & Xiao, 2006:
+1155). This body of broader theory and research sug-gests that informal mechanisms should be especially
+valuable for work that is complex, uncertain, and
+interdependent (Choi, 2002), like the knowledge-based problems that MTSs often address.
+To begin to resolve equivocality regarding infor-
+mal coordination in MTSs, we propose a conceptual
+model —depicted in Figure 1 —that delineates how
+interpersonal interactions among members influ-
+ence MTS processes and outcomes. Integrating prior
+findings from the MTS literature with insights from
+the team boundary spanning literature (e.g., Choi,2002), our core assertion is that how individuals bal-
+ance their interpersonal interactions —between the
+members of their own component team and themembers of other teams in the system —shapes
+whether informal interactions help or hinder the
+effectiveness of the team and system.
+Informal Coordination Mechanisms and
+Component Team Effectiveness
+For an MTS to achieve its global system-level
+objectives, the component teams within it must first
+achieve their local team-level objectives. How infor-mal mechanisms influence the internal functioning
+of component teams —a topic studied extensively in
+broader research on teams —has been of lesser con-
+cern in the MTS literature. Instead, and reflectingthe unique characteristics of MTSs, scholars have
+foremost sought to understand how to enable the
+between-team coordination needed to achieve2022 Ziegert, Knight, Resick, and Graham 161system-level outcomes (Carter et al., 2020; Zaccaro
+et al., 2020). To formulate predictions about howinformal interactions shape component team pro-cesses and outcomes in MTSs, we derive insightsfrom theory and research on team boundary span-ning (Ancona, 1990; Marrone, 2010). From a bound-
+ary spanning perspective, interteam interactions in
+an MTS are one —but certainly not the only —form of
+boundary spanning behavior (Marrone, 2010).Although centered on traditional, standalone teams,the boundary spanning literature provides comple-mentary insights that aid in developing predictionsabout how interpersonal interactions influence com-
+ponent teams in MTSs. Whereas the focus of MTS
+research on interteam interactions has been system-level outcomes, the focus of boundary spanningresearch on interteam interactions has been team-level effectiveness (Marrone, 2010).The team boundary spanning literature has put
+forward a nuanced view of the effects of interteaminterpersonal interactions (Choi, 2002; Marrone,2010). When team members venture beyond theboundaries of their own team, they are able to secureresources, gain support, and —importantly for the
+context of MTSs —align their activities with other
+organizational units (Ancona, 1990; Ancona & Cald-well, 1992; Marrone, Tesluk, & Carson, 2007). How-ever, it takes time and effort to seek out, engage with,and procure resources from external teams, and itrequires internal coordination to implement or usethose resources (Marrone et al., 2007). For these
+reasons, when not balanced with corresponding
+internal coordination efforts, extensive boundaryspanning behavior can breed divergence in teammembers ’conceptualizations of their tasks and
+spark disagreements about how best to accomplishFIGURE 1
+Model of Hypothesized Relationships
+Informal Coordination
+Mechanisms
+Intrateam
+Interpersonal
+Interactions
+Imbalance
+between
+Intrateam and
+Inter team
+Interaction
+Inter team
+Interpersonal
+InteractionsMTS Team ConflictMTS Team-Level
+PerformanceMTS System-Level
+Performance
+Hypothesis 1Hypothesis 3
+Hypothesis 2162 Academy of Management Journal Februarytheir team ’s objectives (Choi, 2002; Faraj & Yan,
+2009; Marrone, 2010). These symptoms are indica-
+tive of intrateam conflict —unpleasant disagree-
+ments among team members regarding their work(Jehn & Bendersky, 2003) —which may serve as an
+important intermediary mechanism for understand-
+ing how informal mechanisms relate to component
+team effectiveness in MTSs (Lanaj, Foulk, & Hollen-beck, 2018). Although conflict can be sparked by a
+range of issues —elements of a task, aspects of work
+processes, or relationships among members, forexample (Jehn, Northcraft, & Neale, 1999) —it is
+often experienced in a diffuse way, with one form
+spilling over to others (de Wit, Greer, & Jehn, 2012).
+For this reason, although task-based disagreementscan sometimes facilitate knowledge-based work,
+conflict often undermines team effectiveness
+because it disrupts the collective information proc-essing (De Dreu & Weingart, 2003) that MTS mem-
+bers need to integrate knowledge gained through
+their interteam interactions.
+To redress potential disruption, boundary span-
+ning theorists have advocated that team members
+balance external and internal activities (Choi, 2002;
+Marrone, 2010). As they increase their boundaryspanning, team members should engage in a corre-sponding amount of internal interaction because
+effective boundary spanning “requires the transmis-
+sion of resulting external information and knowl-edge back into the team itself ”(Marrone, 2010: 930).
+When team members engage with one another inter-
+nally, they can share new information acquiredexternally and resolve potentially discrepant under-
+standings of their task (Choi, 2002; Faraj & Yan,
+2009; Keller, 2001). In this regard, a balanced config-uration creates synergies between intra- and inter-team informal coordination efforts (Choi, 2002). The
+idea that external and internal activities work in con-
+cert to influence team effectiveness has receivedsupport in boundary spanning research on team
+coordination (Faraj & Yan, 2009), learning (Bresman,
+2010; Cummings & Haas, 2012; Wong, 2004), andcommunication (Keller, 2001).
+This core idea from the team boundary spanning
+literature —that balance between external and inter-
+nal activities is needed to leverage knowledge fromoutside the team and avoid disruptive conflict —
+serves as a grounding principle for our hypotheses
+about how intrateam and interteam interactions
+influence component team processes and outcomesin MTSs. Within the unique context of MTSs, exter-
+nal activities are not just beneficial, but essential
+(DeChurch & Marks, 2006). The necessity ofinterteam interactions does not, however, obviate
+their potential costs in terms of intrateam conflict ifnot appropriately balanced with intrateam interac-
+tions. Following boundary spanning theory, an
+excessive external focus relative to internal interac-tions can increase role overload and undermineteam viability —two states that may breed conflict
+among team members (Bresman, 2010; Bron, Ende-
+dijk, van Veelen, & Veldkamp, 2018; Marrone et al.,
+2007; Wong, 2004). From a boundary spanning per-spective, this type of incongruence reflects an“underbounded ”configuration, referring to many
+external interactions without the capacity to suffi-
+ciently coordinate team members to use the requisiteknowledge and skills and achieve their own localgoals (Ancona & Caldwell, 1992). Thus, althoughtheory has suggested that informal mechanisms are
+valuable for coordination in knowledge work, the
+key insight from the boundary spanning literaturehas been that a team must strike “a balance between
+internal and external activities ”(Choi, 2002: 187).
+When interteam interactions exceed intrateam inter-
+actions, MTS component teams are likely to become
+embroiled in conflict.
+Hypothesis 1. Imbalance between intrateam and
+interteam interactions is positively related to team
+conflict, such that team conflict is higher as interteam
+interactions exceed intrateam interactions.
+Extending this hypothesis, we propose that an
+imbalance in intrateam and interteam interactionshas implications —indirectly through team conflict —
+for component team performance. There is robust evi-
+dence that conflict —especially disagreements about
+how to allocate resources and disputes that are emo-tionally charged —is detrimental for team perfor-
+mance. Meta-analyses have documented thatalthough disagreements about ideas may be helpful
+under some circumstances, team conflict generally is
+negatively related to team performance (De Dreu &Weingart, 2003; de Wit et al., 2012). Moreover, evenhelpful disagreements often spill over into destruc-tive forms of conflict (e.g., Simons & Peterson, 2000).
+For MTS component teams —entities that already
+face the challenge of allocating scarce resources —
+time spent resolving discrepant understandings of
+who is responsible for what or how the team willcomplete its work is time taken away from advanc-ing toward their local objectives. Related research onboundary spanning similarly implicates team con-
+flict as a mechanism that transmits the effects of
+an imbalance between external and internal activi-ties to team performance (Choi, 2002). Bresman2022 Ziegert, Knight, Resick, and Graham 163(2010: 82), for instance, suggested that an imbalance
+leads team members to view external activities as a
+“waste of time, ”reflecting conflict over the alloca-
+tion of resources. Wong (2004: 647) argued that an
+imbalance will “increase cognitive variation in
+members ’beliefs about their task and how things are
+done, ”implicitly implicating conflict as an impor-
+tant mechanism (Hinsz & Betts, 2012). Bron et al.
+(2018: 454) further noted that teams that have a high
+external focus and low internal focus will struggle
+“to come to within-team consensus and reach deci-
+sions ”—a situation emblematic of team conflict.
+Hypothesis 2. Imbalance between intrateam and
+interteam interactions is indirectly negatively relatedto team performance through team conflict.
+Informal Coordination Mechanisms and
+System-Level Effectiveness
+Although component team effectiveness is a nec-
+essary building block for MTS effectiveness, team
+effectiveness alone is insufficient (Marks et al.,2005). The teams within an MTS must also coordi-
+nate their activities to realize effective system-level
+performance (Luciano et al., 2018). MTS scholars
+have noted that performance-enabling mechanisms
+at one level —such as effective within-team coordi-
+nation —may have performance-inhibiting effects at
+the other level (DeChurch & Zaccaro, 2010; Shuffler,
+Jim/C19enez-Rodr /C19ıguez, & Kramer, 2015). Given these
+countervailing effects, “MTSs must be aware of team
+and MTS functioning at the same time to balance
+needs ”(Shuffler & Carter, 2018: 393).
+Boundary spanning across the system can help
+achieve this simultaneous awareness of the team
+and system. Extending the notion of boundary span-ning to higher forms, Marrone (2010) discussed
+network boundary spanning across mutually inter-
+dependent teams, such as those that compose anMTS. Intraorganizational boundary spanning (e.g.,
+Rosenkopf & Nerkar, 2001; Zhao & Anand, 2013) is a
+means for the exchange and integration of knowl-
+edge within a broader system. Decentralized interac-
+tions between units in an organization can serveas a “collective bridge ”that enables knowledge
+transfer (Zhao & Anand, 2013). Organizational units
+must balance their focus, spanning their boundaries
+to obtain external knowledge and engaging in inter-
+nal activities to integrate it. As Choi (2002: 189)asserted, “internal and external activities may
+maintain synergistic relationships through mutual
+reinforcement. ”Balancing external and internal processes to coor-
+dinate information is thus likely paramount for MTS
+functioning. Interpersonal interactions may be
+important for coordinating laterally within andbetween teams but may have opposing effects unless
+sufficient attention is placed on each (Rico et al.,
+2018). Disproportionately engaging in intrateam
+interactions may enable component teams to per-
+form at a high level independently but could contrib-ute to a breakdown in between-team coordination.
+On the other hand, favoring interteam interactions
+over intrateam interactions may impede system-
+level coordination because component teams will
+struggle to integrate necessary changes into theirinternal work (Rico et al., 2017). MTSs must have
+interteam interactions to adjust at linkage points
+(Mell et al., 2020) and corresponding intrateam inter-
+actions to integrate these adjustments locally (Choi,
+2002; Marrone, 2010).
+Members of an MTS may be particularly at risk of
+becoming imbalanced in their intrateam and inter-
+team interactions. A primary reason that MTSs fail
+to achieve their system-level objectives is insuffi-
+cient coordination between teams (Mathieu et al.,
+2018; Rico et al., 2017). That is, an imbalance —in
+either direction —is likely problematic for an MTS
+(Mathieu et al., 2018). Providing some peripheral
+support for these ideas, Firth et al. (2015) found in astudy of a formal training program that the effective-
+ness of between-team coordination in an MTS
+depends on how well component teams coordinated
+their internal activities. Similarly, MTS researchers
+studying identification have found that an overem-phasis on either the component team or the system
+can undermine system-level performance (Porck,
+Matta, Hollenbeck, Oh, Lanaj, & Lee, 2019). These
+findings lend credence to the idea that balance
+between intrateam and interteam interpersonalinteractions serves as an informal coordination
+mechanism that can enable system-level success in
+an MTS.
+Hypothesis 3. Controlling for component team con-
+flict and performance, imbalance between intrateamand interteam interactions is negatively related to sys-tem performance.
+METHOD
+Research Setting
+We tested our hypotheses in a multisource and
+multimethod study of MTSs that were formed as
+part of the laboratory component of a required164 Academy of Management Journal Februaryundergraduate engineering course at a university on
+the East Coast of the United States. Students worked
+together in an MTS to design and build a Rube Gold-
+berg machine —a complex, over-engineered device
+that completes a trivial or mundane task. The build-
+ing block of a Rube Goldberg machine is the transfer
+of energy across events. For example, a marble rollsinto and knocks over a sequence of dominos, trigger-ing the release of a helium balloon to lift a switch
+that turns on a light. Within each laboratory section,
+students were first organized into component teams,and each team was charged with the goal of con-
+structing a Rube Goldberg machine comprising at
+least six prescribed energy transfer events. Eachcomponent team ’s Rube Goldberg machine was itself
+one part of a larger Rube Goldberg machine assem-
+bled by connecting all machines designed by theteams within that section. Teams were assigned an
+order and had to link their team ’s machine with adja-
+cent teams ’machines to create a larger, system-level
+Rube Goldberg machine. Thus, within each section,the teams needed to work together interdependently
+as an MTS to ensure the smooth transfer of energy
+between machines and through the system to com-plete the final goal. Throughout the 11-week course,
+each team had a separate physical workstation in the
+same classroom where, for roughly two hours perweek, members worked on their component Rube
+Goldberg machine. Members were not restricted to
+only their workstation, though; they could movefreely throughout the classroom to visit other teams ’
+workstations to discuss and coordinate transfers of
+energy between machines within the larger system.
+This task exemplifies the challenges faced by
+MTSs engaged in knowledge work, particularly in
+terms of structural differentiation and hierarchical
+goals. As the sample machine layout depicted inFigure 2A shows, students formed a sequentially
+interdependent MTS (Rico et al., 2018), with recipro-
+cal interactions between adjacent teams. Moreover,these teams had to complete a knowledge-based taskinvolving complex (multiple and varied energy
+transfer events), specialized (each team developed
+their own unique machine), and interdependent(linkage between adjacent teams) requirements (Zac-
+caro et al., 2020). Each component team was free to
+work in idiosyncratic ways, resulting in variantnorms and routines across teams that needed coordi-
+nation and integration to yield a system-level work
+product. In addition, a goal hierarchy existed; eachcomponent team needed to build its own machine
+but also coordinate with other teams to achieve the
+superordinate goal of building a system-levelmachine. Reinforcing the goal hierarchy, students ’
+performance in the course was both a function of the
+performance of their component team ’sm a c h i n e
+and the performance of their section ’s integrated
+machine.
+Sample and Data Sources
+We collected data from 44 MTSs, which were
+composed of 295 teams and 930 members. Teams
+comprised either three or four members ( M53.15,
+SD50.46), and the MTSs consisted of between four
+and eight teams ( M56.70, SD51.11). Participants
+w e r e ,o na v e r a g e ,1 9y e a r so l d( SD51.68). The sam-
+ple was predominantly male (76%) and represented
+a range of ethnicities (59% White, 25% Asian, 6%
+Hispanic or Latino, 5% multiethnic, 4% Black orAfrican American, and 1% Native Hawaiian or
+Pacific Islander).
+To guard against single-source and single-method
+limitations (e.g., Podsakoff, MacKenzie, Lee, & Pod-sakoff, 2003), we collected data in three ways. First,
+we used self-report surveys to collect background
+information during Week 1 and to assess team con-
+flict during Week 8. At each time, participants
+received an email inviting them to complete a web-based survey. We received 913 completed responses
+to the first survey (98% overall response rate, 100%
+median team-level response rate) and 827 responses
+to the second survey (89% overall response rate,
+100% median team-level response rate). Second, weused wearable sensors to measure how often partici-
+pants interacted with one another. In total, 912 par-
+ticipants (98% overall participation rate, 100%
+median team-level participation rate) wore a sensor
+during Weeks 5, 6, and 7. Third, we used trainedobservers to assess the performance of the Rube
+Goldberg machines, which were evaluated at the
+team and system levels in Week 11. Figure 2B visu-ally arrays these data collection sources and timings.
+The findings that we report in this paper were part of
+a larger data collection designed for pedagogical pur-
+poses and to provide individual feedback to stu-
+dents. One other paper (Graham, Mawritz, Dust,
+Greenbaum, & Ziegert, 2019) has also used one vari-
+able (individual dominance orientation) from this
+same data collection effort. Some participants from
+the data collection effort were participants in a dif-
+ferent study six months later; Graham et al. (2019)used data on students ’individual dominance orien-
+tation as a baseline assessment. Although there was
+a minor overlap in participants, there are no overlaps2022 Ziegert, Knight, Resick, and Graham 165FIGURE 2
+Empirical Method
+A: Sample Layout of MTS Rube Goldberg Machine
+3’
+8’
+8’2’1
+458
+7
+6 32
+FIGURE 2
+B: Project Timeline (in Weeks) and Data Sources
+1
+Transition Phase Action Phase Action Phase Transition Phase
+Team Formation
+Goal AssignmentFinalize Events Final Performance
+Trials
+Legend
+Survey Badge ObserverFinalize Set-UpSystem-Wide Test2 3 4 5 6 7 8 9 10 11
+Notes: Each component team built their local machine within a 3 foot 32 foot area at their own separate workstation and then subsequently
+connected it to adjacent teams ’machines to create the overall system based on the pattern above (the particular method and location of connec-
+tion between adjacent teams was determined based on mutual discussion and coordination among adjacent teams). The final energy output of
+transferring sugar to a cup of coffee was completed by the last team in the system.166 Academy of Management Journal Februaryin the variables used in this paper and those used in
+Graham et al. (2019).
+Measures
+Interpersonal interactions. We operationalized
+interpersonal interactions as the amount of time thatindividuals spent in relative physical proximity toone another, as assessed by using wearable Blue-
+tooth sensors. Proximity is a medium through which
+coordination-focused interactions often occur inorganizations (Okhuysen & Bechky, 2009). Under-girding this idea is the premise that if two people are
+physically close to one another, they are likely to be
+engaged in an interpersonal interaction with oneanother (Bernstein & Turban, 2018; Ingram & Morris,2007; M €uller, Meneses, Humbert, & Guenther, 2020).
+Substantiating this premise, research has repeatedly
+found that proximity is a valid measure of interper-sonal interaction and collaboration in field-basedsettings (e.g., Chaffin et al., 2017; Kraut, Egido, &
+Galegher, 2014; Matusik, Heidl, Hollenbeck, Yu,
+Lee, & Howe, 2019; M €uller et al., 2020; Parrino,
+2015). Of particular relevance for our measurementapproach, researchers have used wearable Bluetooth
+sensors and examined the relation between their
+measurement of physical proximity and self-reportsurvey measures of interpersonal interactions (e.g.,advice giving or receiving and friendship), finding
+support for convergent validity (Matusik et al., 2019;
+M€uller et al., 2020).
+Nonetheless, because proximity assessed using
+Bluetooth sensors does not consider people ’s orien-
+tation toward one another (e.g., whether they are
+face-to-face or back-to-back), we recognize that it is
+possible for two people to be physically close but notengaged in an interpersonal interaction. It is alsopossible for two people to be physically distant and
+engaged in an interaction through technology (e.g.,
+texting, phone calls, or web conferencing). Each ofthese possibilities, as sources of measurement error,would reduce the statistical power and result in
+more conservative tests of our hypotheses (Schwab,
+1980). Given Matusik et al. ’s (2019) and M €uller
+et al.’s (2020) guidance on understanding contextual
+nuances that might influence the validity of
+proximity-based measures from Bluetooth sensors,
+we observed all 44 MTSs in our study for at least twohours during Weeks 1 –3 of the project. In these
+observations, we sought to scrutinize the use of
+physical proximity as a reasonable indicator of
+work-related interpersonal interactions within thes p e c i f i cc o n t e x to fo u rr e s e a r c h .O u ro b s e r v a t i o n sindicated that proximity did indeed correspond
+with meaningful interactions in this context. When
+participants varied their physical location —either
+moving toward teammates at their workstation ortoward members of other teams —it was because
+they sought to examine or inquire about others ’
+work. Participants in our context did not rely upon
+digital means to interact —their colocation in the
+same classroom each week rendered in-person inter-actions the easiest means of communicating with
+each other.
+We assessed interpersonal interactions during
+Weeks 5, 6, and 7. We chose these weeks becausethey comprised the action phase when teams were
+responsible for building their component machines
+and designing mechanisms for transferring energybetween teams. Given prior theory and research
+regarding the benefits and costs of informal coordina-
+tion (e.g., Kanfer & Kerry, 2012; Mathieu et al., 2018),it is during this phase when we expected the relationsthat we hypothesized to be most salient (Rico et al.,
+2017). Further, boundary spanning activities were
+most likely to occur and have the greatest impact dur-ing this MTS action phase (Choi, 2002; DeChurch &
+Marks, 2006; DeChurch, Burke, Shuffler, Lyons,
+Doty, & Salas, 2011). This action phase —before the
+MTSs in our study shifted in Week 8 to an outcomephase to start system-wide testing of the machines
+(Marks, Mathieu, & Zaccaro, 2001; Rico et al., 2017) —
+thus constituted the right time for assessing informalinteractions (Mitchell & James, 2001).
+We recorded physical closeness using wearable
+multisensor devices (i.e., Kim, McFee, Olguin,
+Waber, & Pentland, 2012). Following recent valida-tion studies (Chaffin et al., 2017; Matusik et al.,2019; M €uller et al., 2020), we used the raw Bluetooth
+signal strength values recorded by the sensors to
+assess the time that members spent interacting withone another. Bluetooth devices regularly scan the
+environment (e.g., every 25 seconds) to determine
+whether other devices are available for connection.When one device detects a second device, it recordsthe strength of the connection between the two devi-
+ces, called the RSSI value, at that moment. Although
+signal strength can be influenced by other factors(e.g., walls made of different materials), validation
+studies have found that variations in RSSI values
+correspond to variations in the proximity of twoBluetooth devices; the higher an RSSI value, thecloser in physical space the two devices are likely to
+be (Matusik et al., 2019; M €uller et al., 2020).
+To measure intrateam and interteam interactions,
+we aggregated the markers of physically proximal2022 Ziegert, Knight, Resick, and Graham 167interactions between two people to the team level.
+For intrateam interactions, we calculated the num-ber of dyadic interactions detected by the sensors
+among members within the same component team.
+The devices ’regular and periodic scans for other
+devices indicated the amount of time that the mem-
+bers of a given team were engaged with others in
+their own team. To measure interteam interactions,we calculated the number of dyadic interactions thatthe sensors detected between the members of one
+component team and the members of other teams in
+the MTS. This indicated the time the members ofone team were engaged in interpersonal interactionswith others who were outside their team. To test our
+system-level hypothesis, we used the system-level
+mean (i.e., across teams) of these team-level meas-ures. Appendix A details the steps we took to mea-
+sure interpersonal interactions using the raw values
+obtained from the sensors. Appendix B reports theresults of sensitivity analyses, which examine andsupport the robustness of our findings to operation-
+alizing interactions using different signal strength
+values when processing the raw Bluetooth detectioninformation.
+Team conflict. During Week 8, participants com-
+pleted Jehn and Mannix ’s (2001) 9-item measure of
+team conflict using a 7-point scale ranging from 1(never )t o7( all the time ). A sample item is “How
+often are there disagreements about who should do
+what in your work group? ”
+1We measured conflict in
+Week 8 because this is when team members hadworked through the goal-striving process and actionphase that theory has suggested engender conflict
+(Marks et al., 2001; Rico et al., 2017). This is also the
+time when conflict may be particularly detrimentalto team effectiveness (Jehn & Mannix, 2001). The
+measure instructed members to rate conflict behav-
+iors in the team agnostic of a specific timeframe toallow for members to reflect back over the entirety ofthe preceding action phase. We found high team-level interitem reliability ( a50.94) and justification
+for aggregation to the team level [median r
+wg(j)5
+0.91; ICC(1) 50.21, p,0.01; ICC(2) 50.43] (Bliese,
+2000). The relatively low ICC(2) was due to the smallsize of the component teams, consisting of three tofour members (Bliese, 2000).
+Team performance. Instructors informed teams
+in the first week of the course that team performance
+would be assessed as the percentage of successfulenergy transfers across the events within their Rube
+Goldberg machine. A transfer was considered suc-
+cessful when energy passed seamlessly from oneevent to the next within the same team ’sR u b eG o l d -
+berg machine without any manual intervention by
+team members. Trained observers measured compo-
+nent teams ’performance across five trial runs of the
+machines conducted in Week 11. We calculated
+team performance as the total percentage of success-
+ful within-team energy transfers across the five per-formance trials. Component team performanceranged from 16.67% to 100%.
+System performance. Trained observers mea-
+sured system performance as the rate of successfulenergy transfers between component teams ’
+machines in the system. Between-team energy trans-
+fers represented the successful execution of the
+MTS ’s tasks between adjacent teams in the sequen-
+tially interdependent MTS (Rico et al., 2018). To suc-cessfully transfer energy from one team to the next,
+adjacent teams had to determine the precise location
+in three-dimensional space (i.e., length, width, andheight) of where the transfer would occur and the
+means of the transfer (e.g., a marble rolling down a
+ramp from one team to another). This measure of sys-tem performance also included the final event oftransferring sugar to a cup of coffee. As with team
+performance, we calculated system performance
+across the five performance trials conducted inWeek 11; its range was 73.33% to 100%.
+Controls. We used a theoretically driven approach
+to select controls for inclusion in our models (Becker,
+Atinc, Breaugh, Carlson, Edwards, & Spector, 2016).In predicting team conflict and team performance, we
+controlled for team familiarity (i.e., the degree to
+which team members knew one another at the start ofthe project) and team size (i.e., the number of peopleon the team roster). We controlled for team familiarity
+because teams with familiar members may experi-
+ence less conflict and perform at a higher level thanteams with unfamiliar members (e.g., Huckman,Staats, & Upton, 2009). We assessed familiarity using
+a round robin survey item during Week 1 (i.e., “I
+know this team member well ”using a 7-point
+1This measure comprises three items each for task, pro-
+cess, and relationship conflict. Like other field studies ofconflict (e.g., Bunderson, van der Vegt, Cantimur, & Rink,
+2016; O ’Neill, McLarnon, Hoffart, Woodley, & Allen,
+2018), we found high, positive correlations among thesethree forms of conflict (mean correlation 50.70). Although
+confirmatory factor analyses showed that a three-factor
+model was better than a one-factor model ( D
+x25569.22,
+p,0.01), our results were substantively the same across
+the three different forms of conflict. To present our results
+parsimoniously, we report results for the single overallmeasure of team conflict.168 Academy of Management Journal Februaryagreement scale) and used the mean across these
+dyadic ratings to operationalize team-level familiarity
+as an additive construct (Chan, 1998). We controlled
+for team size because larger teams possess more
+resources than smaller teams and, as a result, might
+be better equipped to perform at a high level bydesign (e.g., Thomas & Fink, 1963). In predicting
+system-level performance, we controlled for the num-
+ber of teams in the MTS, as larger systems introduce
+the potential for greater complexity (Shuffler & Carter,
+2018). We also controlled for average team familiar-ity, team performance, and team conflict when pre-
+dicting system-level performance. We controlled for
+these variables to focus specifically on system perfor-
+mance over and above team-level dynamics.
+2
+Analyses
+Central to our model is the idea that the benefits of
+informal coordination mechanisms are a function of
+how well MTS members balance their intrateam andinterteam interactions. That is, the balance of inter-
+actions, irrespective of the amount of interactions,
+shapes team conflict, team effectiveness, and system
+effectiveness. To test this idea, we used polynomial
+regression with response surface analysis (Barranti,Carlson, & C ^ot/C19e, 2017; Edwards, 1994; Edwards &
+Parry, 1993). Whereas traditional approaches —such
+as using a difference score or creating a product term
+between two variables —are conceptually intuitive,
+these approaches are limited in two important ways(Edwards, 1994, 1995, 2001; Edwards & Parry, 1993).
+First, interpreting statistical tests of balance effects
+using these simpler approaches rests upon assump-tions about the form of the relation among the varia-
+bles that could lead to erroneous interpretations
+(Edwards, 2001). Second, in contrast to the coarse
+view of balance effects afforded by simpler
+approaches, polynomial regression and responsesurface analysis afford the ability to examine the spe-
+cific form of balance effects on a criterion variable
+(Edwards & Parry, 1993). Response surface analysis
+involves plotting and testing the parameters from a
+polynomial regression model to determine the shapeof the relationship between the congruence and
+incongruence of two variables and an outcome. Thisis important because our first hypothesis specified
+that excessive interteam interactions relative to
+intrateam interactions enhance conflict.
+We tested our hypotheses using a subsample of
+the 295 teams comprising the 44 multiteam systems.Wearable device hardware or system failures, simi-
+lar to those documented by other researchers (e.g.,
+Chaffin et al., 2017; Matusik et al., 2019), necessi-tated excluding 22 teams for which we lacked data
+on interpersonal interactions. We also excluded 5
+teams that were outliers in measures of interpersonal
+interactions (i.e., greater than three standard devia-
+tions above the mean). We excluded these teamsbecause we suspected invalid measurement of inter-
+actions; specifically, the sensor data from these
+teams suggest that participants removed their devi-ces and placed them in a common physical location
+(M€uller et al., 2020). Including these five teams in
+our hypothesis tests does not change the magnitudeor significance of the focal parameters for testing our
+hypotheses. More broadly, the 27 teams that we
+excluded did not differ significantly from theremaining 268 teams with respect to team size,
+familiarity, conflict, or performance.
+Our hypotheses consider relationships at two lev-
+els of analysis —the team level and the system level.
+Because teams are nested within systems, the
+team-level observations of any given system are non-
+independent, which violates the assumption of inde-
+pendence that underlies the calculation of standard
+errors in ordinary least squares regression. To addressthis in our analyses predicting team conflict and team
+performance, we used clustered standard errors to
+adjust for potential inflation due to nonindependence(McNeish, Stapleton, & Silverman, 2017).
+RESULTS
+Tables 1 and 2 provide descriptive statistics for
+and intercorrelations among study variables at theteam level and the system level, respectively.
+Hypothesis 1 predicted that an imbalance between
+intrateam and interteam interpersonal interactions
+relates to component team conflict. Specifically, we
+argued that an excess of interteam interactions, rela-
+tive to intrateam interactions, increases team con-
+flict. Models 3 and 4 of Table 3 provide the results ofthe polynomial regression analyses used to test
+Hypothesis 1. Model 3 includes controls for team
+size and team familiarity; Model 4 shows the robust-ness of the results when excluding these controls.
+Following Barranti et al. (2017), we calculated four
+simple slope parameters (a1, a2, a3, and a4) that
+2In subsequent sensitivity analyses, we also examined
+additional controls of the number of people in each MTSand the performance of the lowest performing team. The
+significance and approximate magnitude of the focal
+parameter estimates for our hypothesis tests wereequivalent.2022 Ziegert, Knight, Resick, and Graham 169together reflect the shape of the three-dimensional
+response surface plot depicted in Figure 3A.Although all four parameters must be interpreted
+together, of particular relevance for testing Hypothe-
+sis 1 is the a3 parameter, which reflects the slope ofthe line of incongruence. As Model 3 and Figure 3Ashow, this parameter was significant and negative(a352 0.32, p,0.01) supporting Hypothesis 1,
+indicating that team conflict increases when mem-bers spend more time engaged in interteam interac-tions than intrateam interactions.
+Hypothesis 2 predicted that the imbalance effect
+of intrateam and interteam interactions indirectlyrelates to team performance through team conflict.Table 4 provides the results of regression analysespredicting component team performance. As shownin Model 5 of Table 4, there was a significant nega-tive relation between team conflict and team perfor-
+mance ( B520.02, p,0.01). However, there were
+no significant effects of interpersonal interactions onteam performance. This suggests that the relation-ship between interpersonal interactions and teamperformance is indirect, passing through team con-
+flict. To test this indirect effect, we used a block vari-
+able approach with bootstrapped standard errors in
+which we created weighted linear composites of the
+five polynomial estimates on team conflict and per-
+formance (Edwards & Cable, 2009). We then esti-mated a path model and computed the indirect
+effect of the block variables on team performance
+through team conflict. Supporting Hypothesis 2, we
+found that the indirect effect of imbalance of
+intrateam and interteam interactions on team perfor-mance, through team conflict, was significant
+(B520.02, SE50.01, p,0.05,b52 0.04).
+At the system level, Hypothesis 3 predicted that —
+above and beyond component team conflict andperformance —imbalance between intrateam and
+interteam interactions is negatively related to system
+performance. Table 5 presents the results of regres-
+sion analyses predicting system-level performance.
+As seen in Model 3 of Table 5 and depicted in Figure3B, the relationship between interpersonal interac-
+tions and system performance was curvilinear.
+Directly relevant to testing Hypothesis 3, based onthe significant downward curvature along the line of
+incongruence, we found that system performance
+was higher when team members balanced their
+engagement in interpersonal interactions with the
+members of their own component team and themembers of other component teams in the MTS
+(a4520.07, p,0.05). As members disproportion-
+ally engaged in intrateam or interteam interactions,
+resulting in an imbalance, system performance
+declined. Therefore, Hypothesis 3 was supported.
+Post Hoc Examinations: Leveraging the
+Granularity of Data from Wearable Sensors
+Following Hollenbeck and Wright (2017), who
+encouraged researchers to report the findings of post
+hoc analyses, we sought to extend the findingsTABLE 1
+Descriptive Statistics and Correlations Among Team-
+Level Variables
+MS D 123 45
+1. Team size 3.17 0.44
+2. Team
+familiarity3.89 1.04 20.11
+3. Intrateam
+interactions0.92 0.44 20.11 0.06
+4. Interteam
+interactions0.12 0.08 20.1020.04 0.30
+5. Team conflict 2.23 0.81 0.00 0.00 20.14 0.02
+6. Team
+performance0.89 0.10 0.06 20.0320.03 0.01 20.17
+Notes: Entries are bivariate correlations. n5268 teams nested
+within 44 systems. p,0.05 (two-tailed) for correlations greater
+than |0.12| in magnitude.
+TABLE 2
+Descriptive Statistics and Correlations Among System-Level Variables
+MS D 1234 5 6
+1. MTS size 6.66 1.12
+2. Team familiarity 3.85 0.55 20.04
+3. Team conflict 2.22 0.35 0.05 20.05
+4. Team performance 0.90 0.05 20.21 20.03 20.36
+5. Intrateam interactions 0.93 0.25 0.09 0.17 20.11 20.02
+6. Interteam interactions 0.12 0.08 20.03 20.15 0.00 0.00 0.54
+7. System performance 0.90 0.10 0.12 20.33 20.13 0.15 0.10 0.20
+Notes: Entries are bivariate correlations. n544 systems. p,0.05 (two-tailed) for correlations greater than |0.30| in magnitude.170 Academy of Management Journal Februaryreported above by leveraging the granularity of our
+sensor data to gain further insights into informalcoordination in MTSs. As an overarching structure
+for this effort, we drew from Mathieu et al. (2018),
+who organized research on coordination in MTSs byconsidering functions, foci, forms, and phases. Our
+hypotheses considered how interpersonal interac-
+tions are an informal coordination mechanism inMTSs —that is, we examined the function of inter-
+personal interactions. Informed by our results, we
+developed post hoc predictions and conducted anal-
+yses examining how differing foci of interactions(i.e., the specific targets of informal coordination)
+and differing forms of interactions (i.e., the structure
+of who is interacting with whom) relate to MTSeffectiveness. While these analyses allow for a richerexamination of informal coordination with foci and
+forms complementing functions, the sensor data,
+which we collected during a single period of the pro-ject, did not permit examining the phases compo-
+nent of Mathieu et al. ’s( 2 0 1 8 )f r a m e w o r k .
+Examining different coordination foci. Mathieu
+et al. (2018) referred to the different targets of coordi-nation efforts in an MTS as foci. Our hypotheses dif-
+ferentiated between two broad foci —intrateam
+interactions and interteam interactions. However,the sequential nature of the project completed by theMTSs in our study may have rendered some inter-
+team interactions more important for MTS effective-ness than others. As Figure 2A depicts, teams thatare adjacent to one another in the MTSs that we stud-ied (e.g., Team 3 with adjacent Teams 2 and 4) mustdirectly integrate their machines for the system to
+function. Building from Rico et al. ’s( 2 0 1 8 )f r a m e -
+work and our findings on the function of interper-sonal interactions, we might expect that informalinteractions between adjacent teams are more impor-tant than interactions between nonadjacent teams(e.g., Team 3 with nonadjacent Team 5). Rico et al.(2018) highlighted the need for explicit coordinationprocesses, such as direct communication and inter-
+actions, for how work activities between teams “fit
+together ”(Rico et al., 2018: 337), which may be espe-
+cially valuable for adjacent teams due to sequentialinterdependence. We therefore suggest that interper-sonal interactions are particularly beneficial to teamand MTS success when the interteam foci are adja-cent teams compared to nonadjacent teams.
+To examine whether the imbalance effects that we
+hypothesized differ depending on whether teams are
+proximal in the flow of work, we assessed howmuch members interacted with the members of adja-cent versus nonadjacent teams. Using sensor data,we calculated adjacent and nonadjacent interteamTABLE 3
+Results of Team-Level Analyses Predicting Team Conflict
+Model 1 Model 2 Model 3 Model 4
+B SE B SE B SE B SE
+Intercept 2.228 (0.06) 2.407 (0.14) 2.298 (0.08) 2.298 (0.08)
+Team size 20.003 (0.11) 20.020 (0.11) 20.022 (0.12)
+Team familiarity 20.001 (0.04) 0.008 (0.04) 0.000 (0.04)
+Intrateam interactions 20.290 (0.14) /C3 20.142 (0.06) /C3 20.141 (0.06) /C3
+Interteam interactions 0.738 (0.76) 0.174 (0.07) /C3 0.175 (0.07) /C3
+Intrateam interactions20.030 (0.04) 0.030 (0.04)
+Intrateam 3Interteam interactions 0.010 (0.05) 0.009 (0.05)
+Interteam interactions220.103 (0.05) /C3 20.103 (0.05) /C3
+Response Surface Parameters
+a1 0.032 (0.09) 0.034 (0.09)
+a2 20.063 (0.06) 20.063 (0.06)
+a3 20.316 (0.08) /C3/C3 20.316 (0.08) /C3/C3
+a4 20.083 (0.10) 20.082 (0.10)
+Overall Model
+F 0.000 1.310 1.919†2.699 /C3
+R20.000 0.020 0.049 0.049
+Notes: n 5268 teams nested in 44 systems. Entries are unstandardized parameter estimates, with clustered standard errors in
+parentheses. Tests are two-tailed.
+†p,0.10
+/C3p,0.05
+/C3/C3p,0.012022 Ziegert, Knight, Resick, and Graham 171FIGURE 3
+Response Surface Plots
+A: Response Surface Plot Predicting Team Conflict
+B: Response Surface Plot Predicting System Performance
+1.00
+0.95
+0.90
+0.85
+0.80
+0.7545
+3Team Conflict
+System Performance2
+1
+2 2
+0
+-1
+-1012
+-2 -2Interteam InteractionsInterteam Interactions
+Intrateam InteractionsIntrateam Interactions1
+0
+-1
+-2-10112
+-2
+TABLE 4
+Results of Team-Level Analyses Predicting Team Performance
+Model 1 Model 2 Model 3 Model 4 Model 5
+B SE B SE B SE B SE B SE
+Intercept 0.892 (0.01) 0.895 (0.01) 0.886 (0.01) 0.886 (0.01) 0.935 (0.02)
+Team size 0.013 (0.01) 0.013 (0.01) 0.012 (0.01) 0.011 (0.01)
+Team familiarity 20.002 (0.01) 20.002 (0.01) 20.001 (0.01) 20.001 (0.01)
+Intrateam interactions 20.006 (0.02) 20.003 (0.01) 20.003 (0.01) 20.006 (0.01)
+Interteam interactions 0.027 (0.09) 20.005 (0.01) 20.005 (0.01) 20.001 (0.01)
+Intrateam interactions20.000 (0.00) 0.000 (0.00) 0.001 (0.00)
+Intrateam 3Interteam interactions 0.005 (0.01) 0.005 (0.01) 0.005 (0.01)
+Interteam interactions20.004 (0.00) 0.004 (0.00) 0.002 (0.00)
+Team conflict 20.021 (0.01)/C3/C3
+Response Surface Parameters
+a1 20.008 (0.01) 20.009 (0.01) 20.007 (0.01)
+a2 0.010 (0.01) 0.010 (0.01) 0.008 (0.01)
+a3 0.002 (0.02) 0.002 (0.02) 20.005 (0.02)
+a4 0.000 (0.01) 20.001 (0.01) 20.002 (0.01)
+Overall ModelF 0.630 0.34 0.446 0.478 1.289
+R
+20.000 0.000 0.012 0.009 0.039
+Notes: n 5268 teams nested in 44 systems. Entries are unstandardized parameter estimates, with clustered standard errors in
+parentheses. Tests are two-tailed.
+†p,0.10
+/C3p,0.05
+/C3/C3p,0.01172 Academy of Management Journal Februaryinteractions by aggregating dyadic interactions
+among MTS members according to the sameapproach previously described for interteam interac-
+tions. We demarcated whether a given interaction
+comprised the members of teams that were next toone another in the MTS (i.e., adjacent interteaminteractions) versus teams that were separated by atleast one other team (i.e., nonadjacent interteam
+interactions). Using this distinction, we re-ran
+Model 3 from Table 3, predicting team conflict sepa-rately for adjacent and nonadjacent interteam inter-actions. Similar to our a priori findings, we observed
+an imbalance effect for nonadjacent interteam inter-
+actions (a3 520.34, SE50.08, p,0.01). As imbal-
+ance increased, with interteam interactions withnonadjacent teams exceeding intrateam interactions,team conflict increased. The imbalance effect was
+negative but nonsignificant, however, for interac-
+tions with adjacent teams (a3 520.12, SE50.10,
+p.0.10). Conflict did not significantly rise as inter-
+team interactions with adjacent teams exceeded
+intrateam interactions. At the system level, we
+re-ran Model 3 from Table 5, predicting system per-formance separately for adjacent and nonadjacentinteractions. Like the team level, the imbalanceeffect differed for these two types of interteam inter-
+actions. The imbalance of nonadjacent interteamand intrateam interactions was significant and nega-
+tively related to system performance (a4 520.06, SE
+50.03, p,0.05). The effect was not significant,
+however, for adjacent interteam interactions (a4 5
+20.06, SE50.05, p.0.10). Taken together, these
+post hoc findings suggest that it is important forresearchers to consider the specific foci of informalcoordination. The detrimental effects of imbalancethat we reported in our hypothesis tests are espe-cially pronounced when the interpersonal interteaminteractions are with nonadjacent teams with which
+the focal team does not directly integrate in the
+system.
+Examining different coordination forms.
+Mathieu et al. (2018: 338) used the term “form”to
+describe “the structure (e.g., boundary spanners,
+members, centralized, decentralized) of who in theMTS enacts the coordination functions. ”In our
+hypotheses, we considered interteam interactions
+agnostic to whether they were broadly distributedacross team members —such that all members
+engaged in similar amounts of interactions withthose outside the team —or concentrated in a single
+member. Although some MTS research has sug-gested that interteam interactions are best accom-
+plished by a formally designated liaison (e.g.,
+Davison et al., 2012), other MTS findings have
+TABLE 5
+Results of Regression Analyses Predicting System Performance
+Model 1 Model 2 Model 3 Model 4
+BS E BS E BS E BS E
+Intercept 0.896 (0.01) 0.854 (0.06) 0.938 (0.02) 0.922 (0.02)
+System size 0.012 (0.01) 0.012 (0.01) 0.013 (0.01)Team familiarity 20.057 (0.03) /C320.056 (0.03)
+†20.078 (0.02) /C3/C3
+Team performance 0.267 (0.34) 0.278 (0.35) 0.316 (0.30)
+Team conflict 20.030 (0.04) 20.027 (0.04) 20.056 (0.04)
+Intrateam interactions 0.025 (0.07) 20.004 (0.01) 20.009 (0.02)
+Interteam interactions 0.159 (0.23) 0.025 (0.02) 0.031 (0.02)Intrateam interactions
+220.043 (0.01)/C3/C320.025 (0.02)†
+Intrateam 3Interteam interactions 0.014 (0.02) 0.009 (0.02)
+Interteam interactions220.008 (0.01) 20.006 (0.01)
+Response Surface Parameters
+a1 0.022 (0.02) 0.023 (0.02)
+a2 20.036 (0.02)†20.022 (0.02)
+a3 20.029 (0.03) 20.040 (0.03)
+a4 20.065 (0.03)/C320.041 (0.03)
+Overall Model
+F 1.820 1.410 2.078†0.911
+R20.160 0.190 0.355 0.107
+Notes: n 544 systems. Entries are unstandardized parameter estimates, with standard errors in parentheses. Tests are two-tailed.
+†p,0.10
+/C3p,0.05
+/C3/C3p,0.012022 Ziegert, Knight, Resick, and Graham 173indicated that teams may benefit from having several
+members engage in these activities (e.g., DeChurch &
+Marks, 2006; Mell et al., 2020). This ambiguity is fur-
+ther reflected in the boundary spanning literature inwhich the question of whether external interactionsare“best reserved for only a single team member or
+leader ”remains unresolved (Marrone, 2010: 931).
+Given these differing possibilities, we leveraged
+our sensor data to examine coordination forms as theconcentration of interteam interactions in a compo-
+nent team —the degree to which a team channeled
+interteam interactions through a subset of teammembers —might influence the functional value of
+informal interactions. To do so, for each MTS mem-
+ber, we first pooled the dyadic interteam interactionsof that individual to create a measure of how much
+they interacted with the members of other teams.
+Then, we calculated the coefficient of variation foreach team —a metric that captures concentration in
+terms of how much more a person engages in inter-
+team interactions compared to the other members of
+their team (Harrison & Klein, 2007).
+To examine the effect of the form of informal coor-
+dination, we replaced the general measure of inter-
+team interactions with this measure of concentration
+and re-ran Model 2 from Table 3 to predict team con-flict. Consistent with our earlier results, which did
+not consider concentration, we found that intrateam
+interactions were significantly negatively related toteam conflict ( B52 0.26, SE50.11, p,0.05).
+Although the coefficient was negative, concentration
+of interteam interactions was not significantly
+related to team conflict ( B520.10, SE50.18, p.
+0.10). Also at the team level, we re-ran Model 2 from
+Table 4, predicting team performance by replacing
+interteam interactions with concentration. Therewas a positive relationship between concentration of
+interteam interactions and team performance ( B5
+0.04, SE50.02, p50.05). Teams where interteam
+interactions were more concentrated in a singlemember, as opposed to more equally distributed
+across members, performed better. These findings
+suggest that the form of coordination does not influ-ence team conflict; however, concentrating bound-
+ary spanning efforts could have direct benefits for
+the performance of teams embedded within an MTS.Extending these analyses, we considered how theaverage concentration of component teams might
+influence system-level performance by re-running
+Model 2 of Table 5 but substituting the interteaminteractions measure with the system-level mean of
+concentration of interteam interactions. The general
+tendency for teams to concentrate their interteaminteractions was not related to system-level perfor-
+mance ( B520.07, SE50.05, p.0.10), controlling
+for component team performance. Finally, to exam-
+ine the robustness of the results of our a priori
+hypothesis to concentration, we included this con-
+centration measure as a control variable in our prioranalyses. The hypothesis test results were robust to
+the inclusion of concentration in the models. These
+post hoc analyses with regard to the form of informal
+coordination suggest that concentrating interteam
+interactions within a subset of team members mayhave benefits for team performance that are not
+transmitted through team conflict. Moreover, these
+benefits do not seem to come at the cost of system
+performance.
+DISCUSSION
+Because of their unique properties —including
+hierarchically nested goals and structural differenti-
+ation —MTSs face unique coordination challenges
+(DeChurch & Marks, 2006; Zaccaro et al., 2020).
+Findings from our study resolve conceptual andempirical ambiguities regarding how informal mech-
+anisms enable or inhibit coordination and thus influ-
+ence MTS team and system effectiveness. Our
+conceptual model and empirical findings reveal that
+interpersonal interactions between the members ofdifferent component teams must be accompanied by
+a balanced amount of internally focused interactions
+among members of the same team for an MTS to ben-
+efit from informal interactions. This has implica-
+tions for MTS theory and practice.
+Theoretical Contributions and Implications for
+Future Research
+Our research suggests that the pessimistic views
+about informal mechanisms in past MTS scholarship
+(e.g., Lanaj et al., 2013), compounded by ambiguouspast empirical findings (e.g., Davison et al., 2012;
+Mell et al., 2020), may have undersold the potential
+utility for informal coordination to help MTS mem-
+bers overcome their unique challenges. Past empiri-
+cal research on MTSs, which has considered the useof informal mechanisms within and between teams
+as independent factors, has indicated that informal
+coordination can be both detrimental (Davison et al.,
+2012) as well as beneficial (Mell et al., 2020) to
+MTS functioning. By integrating insights from theboundary spanning literature, we proposed that it
+is necessary to consider informal mechanisms
+within and between teams in concert, rather than as174 Academy of Management Journal Februaryindependent factors. The core insight that emerges
+from our research is that balance —manifested in the
+correspondence of intrateam and interteam interac-
+tions —serves a beneficial coordination function that
+enables effectiveness at both the team and systemlevels in MTSs.
+At the team level, balanced interactions reduce
+the occurrence of team conflict, which, we find,undermines component team performance. Conflictis most likely to emerge and detract from perfor-
+mance when a component team engages in interteam
+interactions that exceed intrateam interactions. Ourconceptual model and findings also indicate that
+balanced interpersonal interactions serve a valuable
+coordination function at the system level. MTS effec-tiveness is highest when interteam interactions,
+which our theory suggests help to integrate activities
+across teams, are accompanied by correspondingand similar levels of intrateam interactions, whichwe argue enable team members to adjust their local
+activities in response to external information.
+Although these ideas align with past boundary span-ning theory (e.g., Choi, 2002), we did not directly
+measure system-level knowledge transfer mecha-
+nisms. As such, future research is needed to docu-ment precisely how informal interactions shape theflow of information between and within teams in
+MTSs.
+Our findings regarding balance reinforce the need
+to jointly consider effects at the team and system lev-els to more fully understand how to navigate inher-
+ent coordination challenges within MTSs. The idea
+of a “performance tension ”in MTSs —a tension
+between component teams and the overarching sys-
+tem—is a common thread running throughout the
+MTS literature (e.g., Luciano et al., 2018). Yet, only ahandful of MTS studies have separately conceptual-
+ized and tested performance effects at the team and
+system levels of analysis (e.g., DeChurch & Marks,2006; Mell et al., 2020). Building from the boundaryspanning literature and the need for balance, our
+findings indicate that MTS members can neither
+maximize within-team coordination or between-team coordination to realize their objectives. Instead,
+the side-by-side comparison of effects at the team
+and system levels in Figure 3 illustrates the need forbalanced interpersonal interactions in MTSs. Teamsin the region of Figure 3A that overly emphasize
+interteam interactions have elevated levels of team
+conflict, which is related to lower levels of team per-formance. However, acting to minimize component
+team conflict by focusing entirely on intrateam inter-
+actions is not the answer within the unique contextof MTSs. As Figure 3B illustrates, there are major
+consequences for system-level performance when
+teams engage in an incongruent pattern of informal
+interpersonal interactions. Instead, to address thetension for simultaneously achieving team-level andsystem-level performance, MTS members should
+seek balance to integrate interteam interactions with
+corresponding intrateam interactions.
+The findings of our post hoc analyses, however,
+suggested that this interplay between the team and
+the system, and their underlying mechanisms, may
+be even more nuanced than we initially proposed.Rather than treating other component teams as a sin-
+gular and undifferentiated external focus of coordi-
+nation efforts, we found that that it is useful todifferentiate the foci of interaction patterns and coor-
+dination efforts between external teams based on the
+level of direct interdependence. These findingscould also point to the potential value of both formaland informal coordination mechanisms for MTSs —
+at the very least for the kind of sequential MTSs that
+we studied. Formal coordination mechanisms, suchas planning or training, could focus MTS members ’
+informal coordination efforts specifically on those
+linked teams (i.e., teams adjacent in the workflow)with whom mutual adjustments are most likely to beneeded for system-level success. Recognizing that
+our findings regarding adjacent and nonadjacent
+teams were post hoc, further research is needed tobetter understand this distinction.
+To be clear, although we find that informal mecha-
+nisms serve an important coordination function in
+MTSs, our work does not call into question the valueof formal mechanisms or test the relative benefits of
+informal versus formal mechanisms for enabling
+coordination in MTSs. Indeed, several prior MTSstudies have directly tested and found positive
+effects of a range of formal mechanisms for enabling
+coordination (Zaccaro et al., 2020). The purpose ofour research was to resolve ambiguity about whetherinformal mechanisms could also serve a valuable
+coordination function within MTSs, as identified
+by both classic coordination theorists (e.g., Van deVen et al., 1976) and scholars who have studied
+knowledge-based teams (e.g., Faraj & Sproull, 2000).
+Considering our findings alongside research that hasexamined formal mechanisms, though, highlights aparticularly promising direction for future MTS
+research: studying the intersection of formal and
+informal mechanisms of coordination. Because for-mal and informal mechanisms are not mutually
+exclusive (Katz & Kahn, 1978; March & Simon,
+1958), they could function together in additive,2022 Ziegert, Knight, Resick, and Graham 175synergistic, or even incompatible ways. For exam-
+ple, it is possible that informal interactions enable a
+well-defined structure and role system to adapt to
+unexpected events or cope with a transient work-force. Research on organizations that face relatedcoordination challenges hints at the value of adopt-
+ing semi-structured mechanisms —ones that are nei-
+ther exclusively formal nor exclusively informal(e.g., Bechky, 2006; Bechky & Okhuysen, 2011;Bierly & Spender, 1995; Brown & Eisenhardt, 1997).
+Considering our post hoc findings on coordination
+forms and the potential value for component teams,but not systems, of concentrating informal interac-tions, such semi-structured approaches may provide
+agility that helps MTSs respond to coordination
+challenges. It is also possible, however, that anexcessive reliance on informal interactions coulddilute the efficiency and clarity of formal design
+and planning, contributing to breakdowns. Future
+research is needed to answer these questions.
+Finally, while our findings highlight the impor-
+tance of balance, we did observe some indicationthat it may also be important to consider the absolute
+level of members ’interactions with one another. In
+particular, the a2 parameter in Model 3 of Table 5,which indicates how the effect of balance changesacross different levels of corresponding intrateam
+and interteam interactions, approached significance
+for system performance. As depicted in Figure 3B,this inverted-U shaped relationship suggests that,when balanced, increasing levels of intra and inter-
+team interactions are valuable for system perfor-
+mance until an inflection point is reached wherebyadditional interactions begin to detract from systemperformance. Examining the volume of informal
+interactions could thus be a useful avenue for future
+MTS research.
+Practical Implications
+Our findings have actionable implications for
+organizations, given the nature of interdependence
+within and across teams in MTSs. Although the vari-
+ance in performance across MTSs may be small, aswas the case in our study, errors committed by anyone component team can ripple throughout and
+undermine the entire system. A failure of one team
+can cause the entire system to fail given the interde-pendent nature of MTSs (Zaccaro et al., 2020). More-over, the costs of coordination breakdowns in MTSs
+can be extraordinary. NASA, for example, suffered
+hundreds of millions of dollars in losses due to coor-dination breakdowns in an MTS working on theMars Climate Orbiter (Shuffler & Carter, 2018). Our
+results speak to the benefits of effectively balancing
+intrateam and interteam interactions to achieve
+coordination and avoid such costly errors, especiallyin MTSs focused on knowledge work. The opera-tionalization of performance in our study —the reli-
+ability of a machine —closely parallels the kinds of
+metrics that many knowledge-based MTSs (e.g., soft-ware development, mechanical engineering, etc.)
+rely on to assess the quality of their work. Con-
+versely, the inverse of this measure —the error or
+defect rate of a machine —has implications for the
+avoidable costs that organizations seek to minimize
+as defects compound across levels (Lei, Naveh, &
+Novikov, 2016). One error within or between teamscan ripple through and destabilize the overall MTS.
+Our results suggest that the benefits of effectively
+balancing informal interactions could be substantialgiven the downstream impact of focusing too muchon either intrateam or interteam interactions. For
+each additional point of team conflict, the error rate
+for the component teams ’machines increases by
+approximately 2%. At the system level, imbalanced
+systems can have error rates approximately twice as
+high in comparisons to systems that balance intraand interteam interpersonal interactions. This differ-ence is practically meaningful as even a 2% reduc-
+tion in a product ’s defect rate is consequential for a
+modern knowledge-based MTS (Goodman, Ramanu-jam, Carroll, Edmondson, Hofmann, & Sutcliffe,
+2011). Thus, although the variance explained in our
+analyses may seem relatively small, our findingsregarding the need for MTS members to balance their
+interactions still offer consequential managerial
+insights.
+Given this importance of balance for MTS func-
+tioning and performance, our findings indicate that
+MTS coordination efforts are aided when leaders
+and members consciously manage interpersonalinteractions with regard to whom they interact withand how much time they devote internally and
+externally. While interteam interactions are neces-
+sary for coordinating across teams, team membersneed to ensure that these external interactions are
+coupled with at least a similar level of intrateam
+interactions to integrate new information within ateam. Our post hoc analyses further suggest thatmembers should focus these external interactions
+with members of those teams they integrate directly
+with in the system. In addition, teams but not sys-tems may benefit from concentrating these boundary
+spanning efforts in a subset of team members. Social
+network analysis is one practical tool that may aid176 Academy of Management Journal FebruaryMTS managers in monitoring and altering informal
+interactions within and between teams so that they
+are kept in balance (e.g., Leonardi & Contractor,
+2018). Tools for tracking employee interactions
+through email, chat, and asynchronous messages
+could be specifically deployed to help MTS mem-bers maintain an appropriate balance in their infor-
+mal interactions.
+Limitations
+Our work has limitations due to the research con-
+text and sample. Given the nature of sequentialMTSs, the workflow is from one team to another in a
+linear fashion; however, the interactions between
+adjacent teams are also reciprocal in that adjacent
+teams need to coordinate between each other for suc-
+cessful handoffs and transfers (Rico et al., 2018). Assuch, our results are generally limited to this type of
+MTS structure, and more research is needed to deter-
+mine how they generalize to other types of structuressuch as intensive forms of interdependence (Rico
+et al., 2018). Further, we examined a sample of stu-
+dents studying to become engineers in a U.S. univer-
+sity, which may limit the generalizability of our
+findings to organizations as well as cross-culturalcontexts. However, this sample allowed multiple
+forms of measurement (sensors, surveys, and observa-
+tions) across multiple time points and also provided a
+standardized task across multiple MTSs that
+enhanced internal validity (DeChurch & Marks,2006). These benefits have similarly been noted in
+prior MTS research using targeted samples, such as
+Air Force trainees completing a simulation (e.g., Davi-
+son et al., 2012) or undergraduate students complet-
+ing a simulation (Porck et al., 2019). Further, thesample enabled us to examine the implications of
+interpersonal interactions within larger MTSs than
+prior studies, which have tended to focus on smallersystems of two or three component teams. While our
+sample contains a comparatively larger number of
+teams per system (nearly seven teams on average) rel-
+ative to prior quantitative research, the system-level
+sample size of 44 limits statistical power in our statis-tical analyses. Finally, the task structure enabled us
+to model interdependencies characteristic of MTSs,
+including a goal hierarchy and structural differentia-
+tion. Nonetheless, the generalizability of this task is
+unclear. Future research should examine informalcoordination in other cultural contexts, organiza-
+tional contexts, and in larger samples to better under-
+stand their role in MTSs.While we believe sensors are an advantageous way
+of assessing interpersonal interactions, there are sev-
+eral potential limitations with this approach. In par-
+ticular, we operationalized interaction as a quantityof time spent in close physical proximity. However,
+we could not assess the quality of the interactions
+among MTS members, nor were we able to measurethe content of team members ’interactions. Supple-
+menting a quantity-based approach with a quality
+and content focus would further elucidate the nature
+of interactions in MTSs, such as valuable learningfunctions within and between teams. Further, while
+we assessed interactions during a key action phase of
+the MTS lifecycle that is especially relevant for exter-nal interactions and team processes (DeChurch &
+Marks, 2006), it would also be useful to examine
+interactions during transition phases. We wereunable to do so because of incomplete sensor
+data over this time, but a fuller examination across
+the lifecycle of an MTS would enhance understand-ing of coordination phases (Mathieu et al., 2018).This issue of timing also relates to our measurement
+of conflict after the action phase and sensor measure-
+ment of interactions. It is possible that there arerecursive relations between conflict and interper-
+sonal interactions, such that conflicts arising from
+an initial imbalance in intrateam and interteaminteractions spurs a change in members ’interaction
+p a t t e r n s .I nt h i sr e g a r d ,i ns p i t eo fa s s e s s i n gc o n -
+structs at multiple time points, we were unable toestablish causality given our methodology. Research
+is needed, perhaps leveraging computational model-
+ing or experimental designs, to examine how cyclesof informal coordination emerge in MTSs acrosstime and their causal effects on conflict and
+performance.
+Our hypothesis regarding system-level perfor-
+mance presumed that knowledge exchange is a
+mechanism stemming from congruence in intrateam
+and interteam interactions. While we did notdirectly measure this system-level mechanism,Argote and Ingram (2000) noted that interactions
+among members are a potent mechanism for trans-
+ferring knowledge. A more in-depth examination ofknowledge sharing, acquisition, and assimilation
+processes within MTSs is needed, especially at the
+system level. Future research should examinesystem-level mediating mechanisms, such as knowl-
+edge transfer and interteam conflict, to attempt to
+mirror our findings at the team level. Future researchcould also examine the connections among these
+interactions and knowledge transfer to learning and
+performance within the MTS context.2022 Ziegert, Knight, Resick, and Graham 177CONCLUSION
+Our study highlights the role of informal coordina-
+tion mechanisms for overcoming performance
+tensions in MTSs. For knowledge-based MTSs, bal-anced informal interpersonal interactions —when
+intrateam interactions correspond to interteam inter-actions —provide an informal coordination mecha-
+nism. When interactions are unbalanced, theyengender conflict that threatens team and ultimately
+MTS performance. Our findings invite renewed atten-
+tion to the potential role of informal mechanisms forenabling coordination within the context of MTSs.
+REFERENCES
+A n c o n a ,D .G .1 9 9 0 .O u t w a r db o u n d :S t r a t e g i e sf o rt e a m
+survival in an organization. Academy of Manage-
+ment Journal , 33: 334 –365.
+Ancona, D. G., & Caldwell, D. F. 1992. Bridging the bound-
+ary: External activity and performance in organiza-
+tional teams. Administrative Science Quarterly ,3 7 :
+634–665.
+Argote, L., & Ingram, P. 2000. Knowledge transfer: A
+basis for competitive advantage in firms. Organiza-
+tional Behavior and Human Decision Processes ,
+82: 150 –169.
+Barranti, M., Carlson, E. N., & C ^ot/C19e, S. 2017. How to test
+questions about similarity in personality and social
+psychology research: Description and empirical dem-
+onstration of response surface analysis. Social Psy-
+chological & Personality Science ,8 :4 6 5 –475.
+Bechky, B. A. 2006. Gaffers, gofers, and grips: Role-based
+coordination in temporary organizations. Organiza-
+tion Science , 17: 3 –21.
+Bechky, B. A., & Okhuysen, G. A. 2011. Expecting the
+unexpected? How SWAT officers and film crews han-
+dle surprises. Academy of Management Journal ,5 4 :
+239–261.
+Becker, T. E., Atinc, G., Breaugh, J. A., Carlson, K. D.,
+Edwards, J. R., & Spector, P. E. 2016. Statistical control
+in correlational studies: 10 essential recommenda-
+tions for organizational researchers. Journal of Orga-
+nizational Behavior , 37: 157 –167.
+Bernstein, E. S., & Turban, S. 2018. The impact of the
+‘open ’workspace on human collaboration. Philosoph-
+ical Transactions of the Royal Society of London.
+Series B, Biological Sciences , 373: 20170239.
+Bierly, P. E., III, & Spender, J. C. 1995. Culture and high
+reliability organizations: The case of the nuclear sub-
+marine. Journal of Management , 21: 639 –656.
+B l i e s e ,P .D .2 0 0 0 .W i t h i n - g r o u pa g r e e m e n t ,n o n -
+independence, and reliability: Implications for data
+aggregation and analysis. In K. J. Klein & S. W. J.Kozlowski (Eds.), Multilevel theory, research, and
+methods in organizations: Foundations, extensions,
+and new directions :3 4 9–381. San Francisco, CA: Jos-
+sey-Bass.
+Bresman, H. 2010. External learning activities and team
+performance: A multimethod field study. Organiza-
+tion Science ,2 1 :8 1 –96.
+Bron, R., Endedijk, M. D., van Veelen, R., & Veldkamp,
+B. P. 2018. The joint influence of intra and inter-team
+learning processes on team performance: A construc-tive or destructive combination? Vocations and
+Learning , 11: 449 –
+474.
+Brown, S. L., & Eisenhardt, K. M. 1997. The art of continu-
+ous change: Linking complexity theory and time-
+paced evolution in relentlessly shifting organizations.
+Administrative Science Quarterly ,4 2 :1 –34.
+Bunderson, J. S., van der Vegt, G. S., Cantimur, Y., & Rink,
+F. 2016. Different views of hierarchy and why they
+matter: Hierarchy as inequality or as cascadinginfluence. Academy of Management Journal ,5 9 :
+1265–1289.
+Carter, D. R., Cullen-Lester, K. L., Jones, J. M., Gerbasi, A.,
+Chrobot-Mason, D., & Nae, E. Y. 2020. Functional
+leadership in interteam contexts: Understanding
+“what ”in the context of why? Where? When? And
+who? Leadership Quarterly . doi: 10.1016/j.leaqua.
+2019.101378
+C h a f f i n ,D . ,H e i d l ,R . ,H o l l e n b e c k ,J .R . ,H o w e ,M . ,Y u ,A . ,
+Voorhees, C., & Calantone, R. 2017. The promise and
+perils of wearable sensors in organizational research.
+Organizational Research Methods ,2 0 :3 –31.
+Chan, D. 1998. Functional relations among constructs in
+the same content domain at different levels of analy-
+sis: A typology of composition models. Journal of
+Applied Psychology , 83: 234 –246.
+Choi, J. N. 2002. External activities and team effectiveness:
+Review and theoretical development. Small Group
+Research , 33: 181 –208.
+Cummings, J. N., & Haas, M. R. 2012. So many teams, so lit-
+tle time: Time allocation matters in geographically
+dispersed teams. Journal of Organizational Behav-
+ior, 33: 316 –341.
+Davison, R. B., Hollenbeck, J. R., Barnes, C. M., Sleesman,
+D. J., & Ilgen, D. R. 2012. Coordinated action in multi-team systems. Journal of Applied Psychology ,9 7 :
+808–824.
+DeChurch, L. A., Burke, C. S., Shuffler, M. L., Lyons, R.,
+Doty, D., & Salas, E. 2011. A historiometric analysis of
+leadership in mission critical multiteam environ-
+ments. The Leadership Quarterly , 22: 152 –169.
+D e C h u r c h ,L .A . ,&M a r k s ,M .A .2 0 0 6 .L e a d e r s h i pi nm u l -
+titeam systems. Journal of Applied Psychology ,9 1 :
+311–329.178 Academy of Management Journal FebruaryDeChurch, L. A., & Zaccaro, S. J. 2010. Perspectives:
+Teams won ’t solve this problem. Human Factors ,
+52: 329 –334.
+De Dreu, C. K. W., & Weingart, L. R. 2003. Task versus rela-
+tionship conflict, team performance, and team mem-
+ber satisfaction: A meta-analysis. Journal of Applied
+Psychology , 88: 741 –749.
+de Vries, T. A., Hollenbeck, J. R., Davison, R. B., Walter, F.,
+& van der Vegt, G. S. 2016. Managing coordination inmultiteam systems: Integrating micro and macro per-
+spectives. Academy of Management Journal ,5 9 :
+1823–1844.
+de Wit, F. R. C., Greer, L. L., & Jehn, K. A. 2012. The para-
+dox of intragroup conflict: A meta-analysis. Journal of
+Applied Psychology , 97: 360 –390.
+Drucker, P. F. 1999. Knowledge-worker productivity: The
+biggest challenge. California Management Review ,
+41: 79 –94.
+Edmondson, A. C., & Harvey, J. F. 2018. Cross-boundary
+teaming for innovation: Integrating research on teams
+and knowledge in organizations. Human Resource
+Management Review , 28: 347 –360.
+Edwards, J. R. 1994. The study of congruence in organiza-
+tional behavior research: Critique and a proposedalternative. Organizational Behavior and Human
+Decision Processes ,5 8 :5 1 –100.
+Edwards, J. R. 1995. Alternatives to difference scores as
+dependent variables in the study of congruence in
+organizational research. Organizational Behavior
+and Human Decision Processes , 64: 307 –324.
+Edwards, J. R. 2001. Ten difference score myths. Organi-
+zational Research Methods ,4 :2 6 5 –287.
+Edwards, J. R., & Cable, D. M. 2009. The value of value
+congruence. Journal of Applied Psychology ,9 4 :
+654–677.
+Edwards, J. R., & Parry, M. E. 1993. On the use of polyno-
+mial regression equations as an alternative to differ-
+ence scores in organizational research. Academy of
+Management Journal ,3 6 :1 5 7 7 –1613.
+Faraj, S., & Sproull, L. 2000. Coordinating expertise in soft-
+ware development teams. Management Science ,4 6 :
+1554–1568.
+Faraj, S., & Xiao, Y. 2006. Coordination in fast-response
+organizations. Management Science ,5 2 :1 1 5 5 –1169.
+Faraj, S., & Yan, A. 2009. Boundary work in knowledge
+teams. Journal of Applied Psychology , 94: 604 –
+617.
+F i r t h ,B .M . ,H o l l e n b e c k ,J .R . ,M i l e s ,J .E . ,I l g e n ,D .R . ,&
+Barnes, C. M. 2015. Same page, different books:Extending representational gaps theory to enhance
+performance in multiteam systems. Academy of Man-
+agement Journal , 58: 813 –835.Goodman, P. S., Ramanujam, R., Carroll, J. S., Edmondson,
+A. C., Hofmann, D. A., & Sutcliffe, K. M. 2011. Organi-
+zational errors: Directions for future research.
+Research in Organizational Behavior , 31: 151 –176.
+Graham, K. A., Mawritz, M. B., Dust, S. B., Greenbaum,
+R. L., & Ziegert, J. C. 2019. Too many cooks in the
+kitchen: The effects of dominance incompatibility on
+relationship conflict and subsequent abusive supervi-sion. The Leadership Quarterly , 30: 351 –364.
+H a r r i s o n ,D .A . ,&K l e i n ,K .J .2 0 0 7 .W h a t ’s the difference?
+Diversity constructs as separation, variety, or disparity
+in organizations. Academy of Management Review ,
+32: 1199 –1228.
+Heath, C., & Staudenmayer, N. 2000. Coordination neglect:
+How lay theories of organizing complicate coordina-
+tion in organizations. Research in Organizational
+Behavior , 22: 153 –191.
+Hinsz, V. B., & Betts, K. R. 2012. Conflict in multiteam sit-
+uations. In S. J. Zaccaro, M. A. Marks, & L. DeChurch(Eds.), Multiteam systems: An organization form for
+dynamic and complex environments :2 8 9 –322. New
+York, NY: Routledge.
+Hollenbeck, J. R., & Wright, P. M. 2017. Harking,
+sharking, and tharking: Making the case forpost hoc
+analysis of scientific data. Journal of Management ,
+43: 5–18.
+Huckman, R. S., Staats, B. R., & Upton, D. M. 2009. Team
+familiarity, role experience, and performance: Evi-dence from Indian software services. Management
+Science ,5 5 :8 5 –100.
+Ingram, P., & Morris, M. W. 2007. Do people mix at mixers?
+Structure, homophily, and the “life of the party. ”
+Administrative Science Quarterly ,5 2 :5 5 8 –585.
+Jehn, K. A., & Bendersky, C. 2003. Intragroup conflict in
+organizations: A contingency perspective on the
+conflict-outcome relationship. In B. M. Staw & R. M.
+Kramer (Eds.), Research in organizational behavior ,
+vol. 25: 187 –242. Greenwich, CT: JAI Press.
+Jehn, K. A., & Mannix, E. A. 2001. The dynamic nature of
+conflict: A longitudinal study of intragroup conflict
+and group performance. Academy of Management
+Journal , 44: 238 –251.
+Jehn, K. A., Northcraft, G. B., & Neale, M. A. 1999. Why dif-
+ferences make a difference: A field study of diversity,conflict and performance in workgroups. Administra-
+tive Science Quarterly , 44: 741 –763.
+Kanfer, R., & Kerry, M. 2012. Motivation in multiteam sys-
+tems. In S. J. Zaccaro, M. A. Marks, & L. DeChurch
+(Eds.), Multiteam systems: An organization form for
+dynamic and complex environments :8 1–108. New
+York, NY: Routledge.
+Katz, D., & Kahn, R. L. 1978. The social psychology of
+organizations .N e wY o r k ,N Y :W i l e y .2022 Ziegert, Knight, Resick, and Graham 179Kayhan, V. O., Chen, Z. C., French, K. A., Allen, T. D., Sal-
+omon, K., & Watkins, A. 2018. How honest are the sig-
+nals? A protocol for validating wearable sensors.
+Behavior Research Methods ,5 0 :5 7 –83.
+Keller, R. T. 2001. Cross-functional project groups in
+research and new product development: Diversity,communications, job stress and outcomes. Academy
+of Management Journal ,4 4 :5 4 7 –555.
+Kim, T., McFee, E., Olguin, D. O., Waber, B., & Pentland,
+A. S. 2012. Sociometric badges: Using sensor technol-
+ogy to capture new forms of collaboration. Journal of
+Organizational Behavior , 33: 412 –427.
+Kraut, R., Egido, C., & Galegher, J. 2014. Patterns of contact
+and communication in scientific research collabora-t i o n s .I nJ .G a l e g h e r ,R .E .K r a u t ,&C .E g i d o( E d s . ) ,
+Intellectual teamwork: Social and technical foun-
+dations of cooperative work :1 6 3 –186. New York,
+NY: Psychology Press.
+Lanaj, K., Foulk, T. A., & Hollenbeck, J. R. 2018. The bene-
+fits of not seeing eye to eye with leadership: Diver-gence in risk preferences impacts multiteam system
+behavior and performance. Academy of Management
+Journal , 61: 1554 –1582.
+Lanaj, K., Hollenbeck, J. R., Ilgen, D. R., Barnes, C. M., &
+Harmon, S. J. 2013. The double-edged sword of decen-tralized planning in multiteam systems. Academy of
+Management Journal , 56: 735 –757.
+Lei, Z., Naveh, E., & Novikov, Z. 2016. Errors in organiza-
+tions: An integrative review via level of analysis, tem-
+poral dynamism, and priority lenses. Journal of
+Management ,4 2 :1 3 1 5 –1343.
+Leonardi, P., & Contractor, N. 2018. Better people analyt-
+ics.Harvard Business Review ,9 6 :7 0 –81.
+Luciano, M. M., DeChurch, L. A., & Mathieu, J. E. 2018.
+Multiteam systems: A structural framework and
+meso-theory of system functioning. Journal of Man-
+agement , 44: 1065 –1096.
+March, J. G., & Simon, H. A. 1958. Organizations .N e w
+York, NY: John Wiley.
+Marks, M. A., DeChurch, L. A., Mathieu, J. E., Panzer, F. J.,
+& Alonso, A. 2005. Teamwork in multiteam systems.
+Journal of Applied Psychology , 90: 964 –971.
+Marks, M. A., Mathieu, J. E., & Zaccaro, S. J. 2001. A tempo-
+rally based framework and taxonomy of team processes.
+Academy of Management Review ,2 6 :3 5 6 –376.
+Marrone, J. A. 2010. Team boundary spanning: A multile-
+vel review of past research and proposals for thefuture. Journal of Management , 36: 911 –940.
+Marrone, J. A., Tesluk, P. E., & Carson, J. B. 2007. A multi-
+level investigation of antecedents and consequences
+of team member boundary-spanning behavior. Acad-
+emy of Management Journal , 50: 1423 –1439.Mathieu, J. E., Luciano, M. M., & DeChurch, L. A. 2018.
+Multiteam systems: The next chapter. In D. Ones, N.
+Anderson, C. Viswesvaran, & H. Sinangil (Eds.), The
+SAGE handbook of industrial, work & organiza-
+tional psychology :3 3 3 –353. Thousand Oaks, CA:
+SAGE.
+Mathieu, J. E., Marks, M. A., & Zaccaro, S. J. 2001. Multi-
+team systems. In N. Anderson, D. S. Ones, H. K. Sinan-
+gil, & C. Viswesvaran (Eds.), Organizationalpsychology, Vol. 2: Handbook of industrial, work andorganizational psychology (2nd ed.): 289 –313. Lon-
+don, U.K.: SAGE.
+Matusik, J. G., Heidl, R., Hollenbeck, J. R., Yu, A., Lee,
+H. W., & Howe, M. 2019. Wearable Bluetooth
+sensors for capturing relational variables andtemporal variability in relationships: A construct vali-
+dation study. Journal of Applied Psychology ,1 0 4 :
+357–387.
+M c N e i s h ,D . ,S t a p l e t o n ,L .M . ,&S i l v e r m a n ,R .D .2 0 1 7 .O n
+the unnecessary ubiquity of hierarchical linear model-
+ing.Psychological Methods , 22: 114 –140.
+Mell, J. N., DeChurch, L., Contractor, N., & Leenders, R.
+2020. Identity asymmetries: An experimental investi-gation of social identity and information exchange in
+multiteam systems. Academy of Management Jour-
+nal, 63: 1561 –1590.
+M i t c h e l l ,T .R . ,&J a m e s ,L .R .2 0 0 1 .B u i l d i n gb e t t e rt h e o r y :
+Time and the specification of when things happen.
+Academy of Management Review , 26: 530 –547.
+M€uller, J., Meneses, J., Humbert, A. L., & Guenther, E. A.
+2020. Sensor-based proximity metrics for teamresearch. A validation study across three organiza-
+tional contexts. Behavior Research Methods ,5 3 :
+718–743.
+Okhuysen, G. A., & Bechky, B. A. 2009. Coordination in
+organizations: An integrative perspective. Academy
+of Management Annals ,3 :4 6 3 –502.
+O’Neill, T. A., McLarnon, M. J., Hoffart, G., Woodley, H. J.,
+& Allen, N. 2018. The structure and function of teamconflict state profiles. Journal of Management ,4 4 :
+811–836.
+Parker, J. N., Cardenas, E., Dorr, A. N., & Hackett, E. J.
+2018. Using sociometers to advance small group
+research. Sociological Methods & Research .d o i :1 0 .
+1177/0049124118769091
+Parrino, L. 2015. Coworking: Assessing the role of proxim-
+ity in knowledge exchange. Knowledge Management
+Research and Practice , 13: 261 –271.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff,
+N. P. 2003. Common method biases in behavioral
+research: A critical review of the literature and recom-
+mended remedies. Journal of Applied Psychology ,
+88: 879 –903.180 Academy of Management Journal FebruaryP o r c k ,J .P . ,M a t t a ,F .K . ,H o l l e n b e c k ,J .R . ,O h ,J .K . ,L a n a j ,
+K., & Lee, S. M. 2019. Social identification in multi-
+team systems: The role of depletion and task complex-
+ity.Academy of Management Journal ,6 2 :1 1 3 7 –
+1162.
+Rico, R., Hinsz, V. B., Burke, S., & Salas, E. 2017. A multile-
+vel model of multiteam motivation and performance.
+Organizational Psychology Review ,7 :1 9 7 –226.
+Rico, R., Hinsz, V. B., Davison, R. B., & Salas, E. 2018.
+Structural influences upon coordination and perfor-
+mance in multiteam systems. Human Resource Man-
+agement Review , 28: 332 –346.
+Rosenkopf, L., & Nerkar, A. 2001. Beyond local search:
+Boundary-spanning, exploration, and impact in theoptical disk industry. Strategic Management Jour-
+nal, 22: 287 –306.
+Schwab, D. P. 1980. Construct validity in organizational
+behavior. Research in Organizational Behavior ,2 :
+3–43.
+Shuffler, M. L., & Carter, D. R. 2018. Teamwork situated
+in multiteam systems: Key lessons learned and
+future opportunities. The American Psychologist ,
+73: 390 –406.
+Shuffler, M. L., Jim /C19enez-Rodr /C19ıguez, M., & Kramer, W. S.
+2015. The science of multiteam systems: A review andfuture research agenda. Small Group Research ,4 6 :
+659–699.
+Simons, T. L., & Peterson, R. S. 2000. Task conflict and
+relationship conflict in top management teams: The
+pivotal role of intragroup trust. Journal of Applied
+Psychology , 85: 102 –111.
+Thomas, E. J., & Fink, C. F. 1963. Effects of group size. Psy-
+chological Bulletin , 60: 371 –384.
+T h o m p s o n ,J .D .1 9 6 7 . Organizations in action: Social sci-
+ence bases of administrative theory . New York, NY:
+McGraw-Hill.
+Van de Ven, A. H., Delbecq, A. L., & Koenig, R. 1976. Deter-
+minants of coordination modes within organizations.
+American Sociological Review , 41: 322 –338.
+Wong, S. 2004. Distal and local group learning: Perfor-
+mance trade-offs and tensions. Organization Science ,
+15: 645 –656.Wuchty, S., Jones, B. F., & Uzzi, B. 2007. The increasing
+dominance of teams in production of knowledge. Sci-
+ence , 316: 1036 –1039.
+Zaccaro, S. J., Dubrow, S., Torres, E. M., & Campbell,
+L. N. P. 2020. Multiteam systems: An integrated
+review and comparison of different forms. Annual
+Review of Organizational Psychology and Organi-
+zational Behavior
+,7 :4 7 9 –503.
+Zhao, Z. J., & Anand, J. 2013. Beyond boundary spanners:
+The“collective bridge ”as an efficient interunit struc-
+ture for transferring collective knowledge. Strategic
+Management Journal ,3 4 :1 5 1 3 –1530.
+Jonathan C. Ziegert (ziegert@drexel.edu) is an associate
+professor of management in the LeBow College of
+Business at Drexel University. He received his PhD inorganizational psychology from the University of
+Maryland. His research focuses on influence processes
+within a variety of leadership and team structures.
+Andrew P. Knight (knightap@wustl.edu) is a professor of
+organizational behavior at Washington University in St.Louis, where he is also the associate dean of WashU at
+Brookings. He studies groups and teams, with a focus on
+emotions and relationships, and is particularly interestedin the contexts of entrepreneurship, health care, and themilitary.
+Christian J. Resick (cresick@drexel.edu) is an associate
+professor of management in the LeBow College of Business
+at Drexel University. His research focuses on the socialand cognitive psychological processes associated withleader influence, teamwork, and organizational culture
+and climate. He received his PhD in organizational
+psychology from Wayne State University.
+Katrina A. Graham (kgraham3@suffolk.edu) is an
+associate professor of management at SuffolkUniversity ’s Sawyer Business School in Boston,
+Massachusetts. She received her PhD from Drexel
+University. Her research explores ethics, leadership, andconflict in employee relationships.
+APPENDIX A
+PROCEDURE FOR PROCESSING BLUETOOTH
+SIGNAL DETECTION DATA
+Overview of Measurement Procedure
+The wearable multisensor devices (i.e., Kim et al.,
+2012) we u tilized have been used in other studies of
+teams (e.g., Bernstein & Turban, 2018; Parker,Cardenas, Dorr, & Hackett, 2018). The devices com-
+prise infrared sensors, microphones, an accelerome-
+ter, and Bluetooth technology and wereaccompanied by proprietary software used to pro-
+cess sensor output (Kim et al., 2012). Although
+recent papers have raised important questions aboutthe quality of some of the measures derived from
+these sensors (e.g., Chaffin et al., 2017, Kayhan,
+Chen, French, Allen, Salomon, & Watkins, 2018),2022 Ziegert, Knight, Resick, and Graham 181validation efforts have also suggested that the Blue-
+tooth sensors in the devices can yield a valid mea-
+sure of physical proximity if researchers use the raw
+signal information that the sensors record, rather
+than derivative metrics output by the software (Chaf-
+fin et al., 2017; Matusik et al., 2019; M €uller et al.,
+2020).
+We took several steps to reduce the likelihood of
+systematically biased measures of interpersonal
+interactions in MTSs. First, to guard against thepotential for individual devices to systematically
+vary in their sensitivity to physical proximity (i.e.,
+Chaffin et al., 2017), we randomly assigned devices
+to individual participants on a week-by-week basis.
+Second, we retrieved and used the raw Bluetooth
+detection data, which records any instance when
+two Bluetooth sensors detect one another and estab-
+lish a connection. The strength of the signal serves as
+the key indicator of physical proximity and was the
+basis of our operationalization of interpersonal inter-
+actions (Chaffin et al., 2017; Matusik et al., 2019;
+M€uller et al., 2020). Third, we adopted a threshold-
+based approach for determining whether a Bluetooth
+signal detection event constituted an interpersonal
+interaction. Consistent with Matusik et al. (2019), weconsidered a range of signal strength values (i.e.,
+291 to269) as potential thresholds for determiningwhether a given detection event constituted an inter-
+action. We report results using a threshold value of
+280—the value at the midpoint of the signal strength
+range that we considered. Appendix B provides theresults of sensitivity analyses used to assess thedegree to which our findings were dependent on a
+particular threshold value. The results of these anal-
+yses build confidence in the robustness of our find-ings to a particular threshold.
+Sample Dataset Excerpt Used in Exam-
+ple Below
+Using the example in Table A1, we explain below
+the process that we used to calculate intrateam andinterteam interactions.
+Step 1: Retrieve Bluetooth Signal Data
+We retrieved and used the raw Bluetooth detection
+data. This raw dataset records any instance when
+two Bluetooth sensors detect one another and estab-lish a connection. Because the Bluetooth device con-ducts a scan for other devices once every 25 seconds,the count of signal detection events provides an indi-
+cation of the amount of time that two badges are
+proximal to one another. For any signal detectionevent, the raw dataset includes an indication ofwhich two badges detected one another, a timestamp
+to indicate when the detection occurred, and an indi-
+cator of the signal strength (i.e., RSSI value) for theTABLE A1
+a_team_id a_indiv_id b_team_id b_indiv_id detection_time rssi t_91 t_90 t_89 t_88 t_87 t_86 t_85 t_84
+1 1 1 2 2019-01-01 10:00:05 27 2 11111111
+1 1 1 2 2019-01-02 10:00:30 27 3 11111111
+1 1 1 2 2019-01-03 10:00:55 27 2 11111111
+1 1 1 3 2019-01-03 10:15:25 27 9 11111111
+1 1 1 3 2019-01-03 10:15:50 27 8 11111111
+1 1 1 4 2019-01-03 10:15:25 27 6 11111111
+1 1 1 4 2019-01-03 10:15:50 27 5 11111111
+1 1 1 4 2019-01-03 10:16:15 27 6 11111111
+1 1 1 4 2019-01-03 10:16:40 27 7 11111111
+1 1 1 4 2019-01-03 10:17:05 27 8 11111111
+1 1 2 5 2019-01-03 10:27:05 28 7 11111000
+1 1 2 7 2019-01-03 10:27:05 27 7 11111111
+1 1 2 8 2019-01-03 10:27:05 27 1 11111111
+1 2 1 3 2019-01-01 10:00:05 27 9 11111111
+1 2 1 3 2019-01-02 10:00:30 28 2 11111111
+1 2 1 3 2019-01-03 10:00:55 28 3 11111111
+1 2 1 3 2019-01-04 10:01:20 28 6 11111100
+1 2 1 3 2019-01-05 10:01:45 28 8 11110000
+1 2 2 8 2019-01-03 10:15:50 27 4 11111111
+1 2 2 8 2019-01-03 10:15:25 27 2 11111111
+1 3 1 4 2019-01-03 10:16:15 27 0 11111111
+1 3 1 4 2019-01-03 10:16:40 27 0 11111111
+1 3 2 7 2019-01-03 10:17:05 28 7 11111000
+1 3 2 7 2019-01-04 10:17:25 28 9 11100000
+1 3 2 7 2019-01-05 10:17:45 29 0 11000000182 Academy of Management Journal Februarydetection. The strength of the signal provides the
+indicator of physical proximity that we used to oper-
+ationalize interpersonal interactions.
+Step 2a: Mark Bluetooth Signal Detection
+Events as Interactions Using a Given RSSI
+Threshold
+We adopted a threshold-based approach for deter-
+mining whether a Bluetooth signal detection eventconstituted an interpersonal interaction. Although
+Matusik et al. (2019: 383) generally advised against
+using a threshold-based approach, they also com-
+mented that “perhaps there are research contexts in
+which thresholding makes practical and/or theoreti-cal sense. ”A threshold-based approach is appropri-
+ate in our study because the MTSs that we studied
+worked collocated in a confined classroom spaceand because our interest was in assessing aggregate
+team- and system-level interpersonal interactions.
+Following Matusik et al. ’s (2019) and M €uller et al. ’s
+(2020) recommendations, we considered a range of
+signal strength values (i.e., 291 to269) as potential
+thresholds for determining whether a given detec-
+tion event constituted an interaction and adopted a
+threshold value of –80 (midpoint of the signal
+strength range) for our analyses. Columns t_91
+through t_84 provide a sample of marking a given
+Bluetooth signal detection event as an interaction at
+different thresholds. As can be seen in the sample
+dataset, when the absolute value of RSSI is less than
+or equal to a given threshold, the corresponding t_
+#
+variable is coded as 1; otherwise, it is coded as 0. Inour analyses, we considered a range of RSSI values
+between 291 and 269 (inclusive).
+Step 2b: Sum the Number of Marked Interac-
+tions for Each Dyad Across Time and Calculate
+the Number of Joint Active Minutes
+The purpose of this step is to create a dyad-level
+measure of how often two individuals were engaged
+in an interpersonal interaction (as classified by agiven RSSI threshold). Given the reality that partici-
+pants wore their sensors for varying amounts of time
+(e.g., due to equipment failures, late arrivals, andearly departures), we scaled the volume of marked
+interactions by the amount of time a given dyad
+wore an active sensor concurrently. We first summed
+the interactions within a given dyad across multiple
+time points. Doing so reduces the sample dataset tot h a ts h o w ni nT a b l eA 2 .
+In addition to summing across the dyadic interac-
+tions, there is also now a variable ( Min) to indicate
+the number of simultaneously recording minutes forthe pair ’ss e n s o r s .T h a ti s , Min gives the number of
+minutes time that a ’sa n db ’s sensors were simulta-
+neously in operation. This information is gleaned
+from the output provided by each badge.
+Step 3a: Compute Team-Level Intrateam
+Interactions
+The purpose of Step 3 is to aggregate the dyad-level
+data to the team level. We first did so for intrateam
+interactions —interactions between individuals who
+belong to the same component team. For a giventeam, we thus summed the interactions that took
+place between individuals with the same teamTABLE A2
+a_team_id a_indiv_id b_team_id b_indiv_id t_91 t_90 t_89 t_88 t_87 t_86 t_85 t_84 Min
+1 1 1 2 33333333 1 5
+1 1 1 3 22222222 2 01 1 1 4 55555555 2 01 1 2 5 11111000 1 7
+1 1 2 7 11111111 9
+1 1 2 8 11111111 1 21 2 1 3 55554433 1 3
+1 2 2 8 22222222 1 2
+1 3 1 4 22222222 2 01 3 2 7 33211000 9
+TABLE A3
+team_id t_91 t_90 t_89 t_88 t_87 t_86 t_85 t_84 Min
+1 1 71 71 71 71 61 61 51 58 8
+2 …TABLE A4
+team_id t_91 t_90 t_89 t_88 t_87 t_86 t_85 t_84 Min
+1 88766444 5 9
+2 …2022 Ziegert, Knight, Resick, and Graham 183identifier. Further, we summed to the team level the
+total number of minutes for these same dyadic obser-
+vations. Note that the sample interaction Table A3
+does not contain Team 2 ’s intrateam interaction
+data. Were the sample to be extended, Team 2 would
+similarly have values for intrateam interactions.
+Our measure of team-level intrateam interactions
+is a given threshold variable (i.e., t_##) divided by
+Min.
+Step 3b: Compute Team-Level Interteam
+Interactions
+Next, we computed team-level interteam interac-
+tions —interactions between individuals who belong
+to different component teams. For a given team, we
+thus summed the interactions that took place
+between individuals of the focal team with someone
+with a different team identifier. Again, we summed
+to the team level the total number of minutes forthese same dyadic observations. We have again
+excluded Team 2 ’s data, which are only partiallyrepresented in the sample dataset in Table A4. Were
+the sample to be extended, Team 2 would similarly
+have values for interteam interactions.
+Our measure of team-level interteam interactions
+is a given threshold variable (i.e., t_
+##)d i v i d e db y
+min.
+Step 4: Aggregate to the System Level
+To compute system-level intrateam and interteam
+interactions, we calculated the system-level mean
+(i.e., across teams) of the variables created in Steps3a and 3b.
+APPENDIX B
+RESULTS OF ANALYSES EXAMINING
+SENSITIVITY OF RESULTS TO DIFFERENT RSSI
+THRESHOLD VALUES
+The following tables provide the results of analy-
+ses conducted to examine the sensitivity of our
+results to different RSSI threshold values. M €uller
+TABLE B1
+Examining the Robustness of Table 3 Model 3 Predicting Team Conflict
+Variable Mean SD Median Min. Max.
+Intercept 2.305 0.025 2.298 2.251 2.341
+Team size 20.016 0.010 20.019 20.031 20.001
+Team familiarity 20.003 0.003 20.002 20.011 0.000
+Intrateam interactions 20.134 0.018 20.141 20.159 20.105
+Interteam interactions 0.164 0.012 0.168 0.145 0.181Intrateam interactions
+20.011 0.021 0.022 20.026 0.033
+Intrateam 3Interteam interactions 0.006 0.010 0.008 20.010 0.020
+Interteam interactions220.090 0.013 20.092 20.106 20.052
+a1 0.030 0.010 0.034 0.007 0.041a2 20.073 0.021 20.065 20.108 20.030
+a3 –0.299 0.029 –0.315 –0.338 –0.250
+a4 20.084 0.036 20.083 20.129 20.011
+TABLE B2
+Examining the Robustness of Table 4 Model 5 Predicting Team Performance
+Variable Mean SD Median Min. Max.
+Intercept 0.936 0.004 0.935 0.930 0.942
+Team size 0.011 0.001 0.011 0.009 0.012Team familiarity 20.001 0.000 20.001 20.002 20.001
+Intrateam interactions 20.008 0.004 20.006 20.018 20.004
+Interteam interactions 20.002 0.006 20.001 20.011 0.008
+Intrateam interactions
+20.000 0.002 0.000 20.003 0.005
+Intrateam 3Interteam interactions 0.006 0.004 0.005 0.002 0.014
+Interteam interactions20.002 0.004 0.002 20.004 0.009
+Team conflict –0.021 0.001 –0.021 –0.023 –0.020
+a1 20.009 0.003 20.008 20.016 20.005
+a2 0.009 0.002 0.008 0.007 0.013
+a3 20.006 0.010 20.005 20.026 0.006
+a4 20.004 0.007 20.002 20.017 0.005184 Academy of Management Journal Februaryet al. (2020) demonstrated that while higher RSSI
+values typically indicate devices being closertogether, there are a variety of factors that can impactthem (cubicle walls, clothing over the sensor, etc.).Given these factors, RSSI values should be inter-preted in terms of closer proximity or greater dis-tance, rather than as precise measures of distance(M€uller et al., 2020). We therefore examined a range
+of RSSI values to examine the sensitivity of the find-
+ings. Each table represents a single regression model,linked to our primary Results section. We considereda total of 23 threshold values, ranging from 291 to
+269 (inclusive). Thus, each summary statistic in
+Tables B1, B2, and B3 is based on a distribution of 23parameter estimates extracted from separate modelsrun at these threshold values. The table summarizes
+the distribution of t-values for each variable (i.e.,
+parameter estimate divided by its standard error) inthe model across multiple RSSI threshold values.Focal variables highlighted in our results section arein bold font.TABLE B3
+Examining the Robustness of Table 5 Model 3 Predicting System Performance
+Variable Mean SD Median Min. Max.
+Intercept 0.934 0.003 0.936 0.928 0.938
+System size 0.011 0.002 0.012 0.007 0.014
+Team familiarity 20.074 0.007 20.078 20.082 20.063
+Team performance 0.308 0.037 0.317 0.249 0.364Team conflict 20.052 0.007 20.056 20.060 20.040
+Intrateam interactions 0.001 0.007 20.002 20.005 0.025
+Interteam interactions 0.022 0.004 0.022 0.017 0.028Intrateam interactions
+220.040 0.003 20.040 20.051 20.038
+Intrateam 3Interteam interactions 0.018 0.008 0.014 0.008 0.033
+Interteam interactions220.009 0.002 20.009 20.012 20.006
+a1 0.023 0.008 0.022 0.013 0.041a2 20.031 0.007 20.035 20.039 20.021
+a3 20.021 0.008 20.024 20.029 0.008
+a4 –0.068 0.011 –0.065 –0.091 –0.0542022 Ziegert, Knight, Resick, and Graham 185Copyright
+of
+Academy
+of
+Management
+Journal
+is
+the
+property
+of
+Academy
+of
+Management
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

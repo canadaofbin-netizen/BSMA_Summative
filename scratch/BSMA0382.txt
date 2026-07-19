@@ -1,0 +1,1313 @@
+Fostering public sector employees’
+citizen-oriented boundary-
+spanning behaviors through human
+resource flexibility and employee
+perceptions of normative
+public values
+Trong Tuan Luu
+Swinburne University of Technology, Hawthorn, Australia
+Abstract
+Purpose – Public sector employees’ contributions play a crucial role in improving public service quality and
+promoting the image of public organizations. The aim of this research is to unravel how and when human
+resource (HR) flexibility activates citizen-oriented boundary-spanning behaviors among public sector
+employees.
+Design/methodology/approach – The data were collected from 427 public sector employees and 102
+supervisors working for governmental agencies from the districts of a major city in Vietnam. Multilevel
+structural equation modeling (MSEM) was employed to analyze the data.
+Findings – The positive associations between HR flexibility and the three dimensions of citizen-oriented
+boundary-spanning behaviors were supported. Harmonious passion demonstrated a mediating path for such
+linkages. Employee perceptions of normative public values were found to exert a positive moderating effect on
+the positive link between HR flexibility and harmonious passion, as well as their indirect link via harmonious
+passion.
+Originality/value – This study advances the literature by identifying how and when HR flexibility shapes
+citizen-oriented boundary-spanning behaviors among public sector employees.
+Keywords Citizen-oriented boundary-spanning behaviors, HR flexibility, Harmonious passion,
+Employee perceptions of normative public values
+Paper type Research paper
+Introduction
+Growing attention from academics and practitioners has been given to the role of public
+sector employees in engaging citizen-oriented behaviors to deliver, improve and promote
+public services (Tantivejakul, 2019). From Bettencourt et al.’s (2005) view, citizen-oriented
+boundary-spanning behaviors can be defined as individuals’ prosocial behaviors in forms of
+internal influence, external representation and service delivery. To fulfill a boundary-
+spanning role, organizational members can undertake internal influence behavior by
+generating and sharing initiatives, and influencing colleagues to generate initiatives to
+improve services (Bayighomog and Araslı, 2019; Bettencourt et al., 2005). Moreover,
+employees can engage in external representation by representing the public organization to
+citizens and enhancing citizens’ awareness and advocacy of its image (Waymer, 2013). Public
+sector employees can also achieve their boundary-spanning role by demonstrating
+responsiveness and courtesy in service delivery, which contribute to augmenting citizens’
+satisfaction (Nor et al., 2021).
+Personnel Review
+2087
+Conflict of interest: Authors declare that they have no conflict of interest.
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/0048-3486.htm
+Received 2 February 2022
+Revised 30 May 2023
+8 February 2024
+Accepted 11 April 2024
+Personnel Review
+Vol. 53 No. 8, 2024
+pp. 2087-2108
+© Emerald Publishing Limited
+0048-3486
+DOI 10.1108/PR-02-2022-0078
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Due to the importance of citizen-oriented boundary-spanning behaviors in improving the
+quality of public services (Van Meerkerk and Edelenbos, 2021; Waymer, 2013), it is crucial to
+explore its antecedents. de Geus et al.’s (2020) systematic review of public sector employees’
+citizenship behaviors revealed a gap in studies of this stream that have focused more on
+individual antecedents than on contextual ones. Research also indicated that contextual
+antecedents of citizenship behaviors tend to include leadership and organizational justice
+(de Geus et al., 2020; Hassan et al., 2017; Tran, 2023) and suggested further inquiries into its
+contextual determinants. The current study bridges such a gap by considering the
+antecedent role of human resource management (HRM) for citizen-oriented boundary-
+spanning behaviors as managing human resources (HRs) is one of the crucial ways to foster
+citizen-oriented behaviors (Bentein et al., 2021). Since improving customer services
+necessitates employees’ broad set of skills and behavioral scripts for adaptation and
+flexibility (Ubeda-Garcıa et al., 2017), research has considered the concept of HR flexibility to
+explicate partly how organizations can manage changing customer needs (Chang et al., 2013;
+Luu, 2016). HR flexibility indicates the degree to which an organization’s HRs (employees)
+possess a repertoire of skills and behavioral scripts, and its HR practices can effectively
+enable those employees to be adaptive (Way et al., 2015).
+Despite the potential role of HR flexibility in fostering client-oriented behaviors, as earlier
+discussed (Chang et al., 2013; Luu, 2016), research regarding the relationship HRM and
+customer-oriented behavior remains rather quiet about this role of HR flexibility. Insights
+into this antecedent effect of HR flexibility are further important since they complement prior
+studies that have concentrated on the role of HR practices in promoting citizenship behaviors
+through enhancing employee commitment (e.g. high-commitment HR practices) (Chen et al.,
+2017), job involvement (e.g. high-involvement HR practices) (Yasir and Majid, 2020) or high
+performance (e.g. high-performance work systems [HPWSs]) (Jaiswal and Tyagi, 2020). In
+addressing this gap, this study aims to unfold the role of HR flexibility in nurturing citizen-
+oriented boundary-spanning behaviors among public sector employees. Drawing on the self-
+determination theory (SDT) (Deci and Ryan, 2014), a social environment that can activate
+individuals’ psychological needs, particularly for autonomy, competence and relatedness, can
+shape their actions (Deci and Ryan, 2014). Thus, HR flexibility, which can equip employees
+with skill flexibility, behavioral flexibility and opportunities to use a broad set of skills and
+behavioral scripts in working with others and having control over work (Way et al., 2015), can
+fulfill such needs among public sector employees and drive them to achieve their boundary-
+spanning role. It is crucial to understand the relationship between HR flexibility and citizen-
+oriented boundary-spanning behaviors since this encourages public sector practitioners to
+build HR practices that can enable employees to develop a broad set of skills and behavioral
+scripts necessary for performing new or different work activities and improving public
+services.
+The SDT further contends that a social context that can fulfill individuals’ needs for
+autonomy, competence and relatedness can shape employees’ motivation to autonomously
+internalize activities (Deci and Ryan, 2014; Vallerand et al., 2003). Accordingly, as earlier
+discussed, HR flexibility, which provides employees with opportunities to satisfy such needs,
+may stimulate employees to internalize work activities autonomously and develop
+harmonious passion, which is defined as autonomous internalization that drives an
+individual to willingly undertake an activity (Vallerand et al., 2003). Moreover, passion has
+been reported to link some types of HR practices to employee behaviors such as innovative
+work behavior (Jan et al., 2021) or proactive service performance (Chen et al., 2017). These
+empirical proofs together with the SDT lens indicate the salience of examining harmonious
+passion as a mediation mechanism between HR flexibility and citizen-oriented boundary-
+spanning behaviors. Investigating the mediating role of this form of autonomous
+internalization, the current study can also complement previous studies that have largely
+PR
+53,8
+2088
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+delved into mediation mechanisms such as work engagement (Bal and De Lange, 2015), self-
+efficacy (Luu, 2016) and employability (Xu et al., 2023) for the effects of flexibility HRM
+systems.
+Furthermore, in light of the SDT, the impact of a situation on employee motivation can be
+contingent on contextual or individual factors (Ryan and Deci, 2000). Among individual
+contingencies, values are salient contingencies highlighted in the SDT (Graves and Sarkis,
+2018) but have been given less attention (Park et al., 2018; Sun et al., 2023). The SDT posits
+that, in the face of a specific organizational situation (e.g. HR practices), different values may
+affect the process of stimulating employee motivation (Graves and Sarkis, 2018). Research
+has reported the potentiality of values in leveraging employees’ perceptions of contextual
+factors (e.g. HR practices and leadership), which further strengthens the impact of such
+factors (Park et al., 2018; Sun et al., 2023). These suggest the potential moderating effect of
+values on the influence of HR practices on employee outcomes. We, hence, postulate that
+employee perceptions of normative public values in the work environment may serve as a
+moderator that influences employee responsiveness to and reliance on HR flexibility, which
+may further fuel their harmonious passion. Normative public values consist of individual
+rights (civil rights), representation (responsiveness to all citizens) and equity (fair distribution
+of resources) (Pandey et al., 2016). Guided by normative public values, employees are more
+inclined to contribute to the public mission (Pandey et al., 2016), which further influences them
+to rely on HR flexibility and channel skill and behavioral flexibility into harmonious passion
+for serving citizens. By unpacking the moderating role of employee perceptions of normative
+public values for the effect of HR flexibility, our study extends the literature that has scarcely
+examined the role of normative public values as well as largely focused on moderation
+mechanisms such as psychological capital (Cheewakoset et al., 2023), organizational identity
+(Xu et al., 2023) or inclusive leadership (Zhang et al., 2023) underlying the effects of flexibility
+HRM systems.
+In a nutshell, this study develops and validates a research model, in which HR flexibility
+influences public sector employees’ citizen-oriented boundary-spanning behaviors through
+the mediating path of harmonious passion, as well as employee perceptions of normative
+public values play a moderating role for such an effect. This research model contributes to the
+extant literature in some respects. First, by unpacking the link between HR flexibility and
+citizen-oriented boundary-spanning behaviors among public sector employees, our research
+answers the calls of researchers to unravel more contextual factors that shape public sector
+employees’ citizen-oriented behaviors (Bentein et al., 2021). Second, our study extends the
+relationship between HRM and customer-oriented behavior literature by unfolding the
+mediation path of harmonious passion that links HR flexibility to the citizen-oriented
+boundary-spanning behaviors. Third, by examining the role of employee perceptions of
+normative public values as a contingent condition, our study advances our understanding of
+conditions through which HR flexibility can be optimally utilized in the workplace.
+Literature review and hypothesis development
+Theoretical basis of the SDT
+The SDT focuses on fundamental human needs (competence, autonomy and relatedness),
+motivations and integrated regulation that underpin one’s choices (Deci and Ryan, 2014;
+Horwood et al., 2021). It posits that fulfilling these needs determines the quality of one’s
+motivation (Gagne and Deci, 2005). These assumptions have been further extended to
+contend that it is the extent of autonomous internalization linked with the motivation that
+makes a difference (Liu et al., 2011). Building on the SDT, Vallerand et al. (2003) argue that
+harmonious passion emerges through the process of autonomously internalizing an activity
+Personnel Review
+2089
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+into one’s identity, whereby individuals volitionally consider work as crucial to their
+identities due to the work characteristics (e.g. the work being meaningful or challenging).
+Of particular relevance in current inquiry is a tenet of the SDT in terms of how to promote
+autonomous motivation by fulfilling fundamental needs for competence, autonomy and
+relatedness (Deci and Ryan, 2014). Partaking in an activity that satisfies these needs is likely
+to influence individuals to autonomously internalize the activity into their identity and
+develop a harmonious passion (Vallerand et al., 2003). An SDT premise entails the salient role
+of contextual factors in impeding or fulfilling basic needs (Deci and Ryan, 2014) and ones’
+perceptions of the context are central to their passion (Ho et al., 2018). Building on these SDT
+premises, this study next explains how the factor of HR flexibility, which can meet such basic
+needs, can facilitate harmonious passion and in turn activate citizen-oriented boundary-
+spanning behaviors.
+HR flexibility and citizen-oriented boundary-spanning behaviors
+From Bettencourt et al.’s (2005) view, citizen-oriented boundary-spanning behaviors can be
+defined as individuals’ prosocial behaviors that associate their organization with its citizen-
+clients in forms of internal influence, external representation and service delivery. To fulfill a
+boundary-spanning role, members can engage in internal influence behavior by generating
+and sharing initiatives, and influencing colleagues to generate initiatives in relation to service
+delivery (Bayighomog and Araslı, 2019; Bettencourt et al., 2005). They represent their
+organization to outsiders (including clients) and promote its image and products or services
+(Bettencourt et al., 2005). They also demonstrate their boundary-spanning role by providing
+service in a courteous, responsible and flexible fashion (Parasuraman et al., 2020).
+HR flexibility is defined as the degree to which HRs of an organization possess skill and
+behavioral repertoires, as well as the degree to which the necessary HRM practices can be
+built and implemented in a timely manner to enhance the flexibility in such HRs (Way et al.,
+2015, 2018). HR flexibility is further viewed as a dynamic organizational capability (Sekhar
+et al., 2016) encompassing: (1) HRs who possess skill flexibility and behavioral flexibility and
+(2) the HR practices employed to effectively maximize such flexibility in HRs (Bhattacharya
+et al., 2005).
+Guided by the SDT, HR flexibility comprising skill flexibility, behavioral flexibility and
+HR practice flexibility can be expected to shape employees’ citizen-oriented boundary-
+spanning behaviors. Skills flexibility indicates potential alternative uses where an employee’s
+skills can be applied (Wright and Snell, 1998). Skill flexibility reflects competence to produce
+output streams for current and potential alternative requirements (Bhattacharya et al., 2005).
+Employees with skill flexibility anticipate the need for future skills, display learning
+motivation for new approaches to tasks and view each event taking place inside the
+organization as a learning opportunity (Stokes et al., 2015). Therefore, such employees can
+fulfill their needs for competence, control over work (with a broad repertoire of skills) and
+relatedness (through motivation to learn with and from others), which can motivate them not
+only to fulfill their in-role duties but also to go beyond their roles to contribute to the
+organization (Deci and Ryan, 2014). Consequently, employees with skill flexibility can fulfill
+their role in delivering services to citizens. Service delivery can also be accomplished since
+skill flexibility can enable employees to be responsive and adaptive in serving customers
+(Lepak et al., 2003). Furthermore, with learning motivation and a broad repertoire of skills
+(Stokes et al., 2015; Way et al., 2018), employees can amplify and use skills to perform beyond
+the requirements of their work roles such as generating initiatives for service improvement
+(i.e. internal influence) and promoting the organization and its services (i.e. external
+representation) as forms of customer-oriented boundary-spanning behaviors.
+PR
+53,8
+2090
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Employee behavioral flexibility alludes to the degree to which they possess a broad
+repertoire of behavioral scripts which they can adapt under various conditions (Bhattacharya
+et al., 2005). Rather than adhering to existing service procedures, members high in behavioral
+flexibility can adapt and demonstrate appropriate behavioral repertoires in line with
+situation-specific demands (Do et al., 2016), as well as respond to previously unknown
+situations beyond their work roles (Bhattacharya et al., 2005). Consequently, behavioral
+flexibility enables variation to emerge (Do et al., 2016), which is a competence beneficial to
+generating service initiatives (i.e. internal influence) and promoting services (i.e. external
+representation) in citizen-oriented boundary-spanning behaviors.
+HR practice flexibility alludes to the degree to which HR practices can be adapted and
+adopted in diverse situations, as well as the pace at which these adaptations and applications
+occur (Bhattacharya et al., 2005). HR practice flexibility can provide employees with
+opportunities to develop and use a broad set of skills and behavioral scripts for adaptation
+(Ubeda-Garcıa et al., 2017). Hence, HR practice flexibility can serve as a contextual factor that
+can meet employees’ need for competence, autonomy, and relatedness since such
+opportunities not only enhance employees’ skills and behavioral scripts (Way et al., 2018),
+control over work and situations in interactions with customers (Do et al., 2016) but also form
+connections with others by learning from them (Stokes et al., 2015). Through the SDT lens,
+such a contextual factor can motivate them to engage in work duties and contribute to the
+organization (Deci and Ryan, 2014). Therefore, working under HR practice flexibility, public
+sector employees are motivated to deliver and promote services to citizens (i.e. service
+delivery and external representation) as well as use their broad set of skills and behavioral
+scripts (Tretiakov et al., 2023) to improve and innovate services (i.e. internal influence).
+Additionally, being provided opportunities to enhance and use various skills and behavioral
+scripts through HR practice flexibility (Ubeda-Garcıa et al., 2017), employees feel a stronger
+bond with the organization, experience more satisfaction of relatedness need and thus
+contribute more to the organization through promoting its image (external representation). In
+other words, HR practice flexibility can shape behaviors beyond the boundaries of their work,
+such as internal influence, external representation and service delivery. Taken together, we
+postulate the following hypotheses:
+H1. HR flexibility is positively related to public sector employees’ citizen-oriented
+boundary-spanning behaviors in forms of internal influence (H1a), external
+representation (H1b) and service delivery (H1c).
+Harmonious passion as a mediator
+Passion alludes to an intense desire or inclination toward an activity that individuals are
+interested in, find significant, and invest their resources in. Job passion is defined as a job
+attitude encompassing an intense liking for an activity (affective element) and the perceived
+magnitude and meaning of the activity (cognitive element) (Ho et al., 2011). These elements
+are not found concurrently in other job-related attitudes (Ho et al., 2011). Harmonious passion,
+a form of work passion, refers to individuals’ view of their work as significant and their
+autonomous internalization of the work not due to any pressures, but due to its attributes (e.g.
+the challenging nature of the work) (Vallerand, 2015). Employees who are harmoniously
+passionate about an activity do not encounter conflict between it and other life facets (e.g.
+professional growth goals, values in life and family) (Gong et al., 2020).
+In the organizational setting, the SDT and SDT-based research suggest that both
+contextual support and individual competence play a pivotal role in influencing an
+individual’s extent of harmonious passion (i.e. autonomous internalization) (Deci and Ryan,
+2014; Vallerand, 2015). Contextual support offers individuals a sense of volition,
+self-determination and freedom from external pressures for thinking or behaving
+Personnel Review
+2091
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+(Ryan and Deci, 2000). The SDT also underscores that contextual factors play a crucial part in
+affecting basic needs (Deci and Ryan, 2014) and work passion (Ho et al., 2018). Hence, by
+providing employees with opportunities to develop and use a broad set of skills and
+behavioral scripts for adaptation (Ubeda-Garcıa et al., 2017; Way et al., 2018), HR practice
+flexibility can serve as contextual support that enables employees to experience self-
+determination and autonomously internalize activities, thereby forming harmonious passion.
+Additionally, as postulated in the SDT, individuals with high competence and autonomy
+(i.e. control over their work) are likely to organize actions based on interests and personal
+goals rather than constraints and controls, as well as seek and exploit opportunities for choice
+and self-determination (Deci and Ryan, 2014). In this sense, it is posited that employees with a
+broad set of skills and behavioral scripts are inclined to experience self-determination and
+choice, thereby autonomously internalizing activities and developing harmonious passion.
+Specifically, employees, who are high in skill and behavioral flexibility, possess a broad set of
+skills and behavioral scripts for adaptation (Stokes et al., 2015). They have positive beliefs
+about themselves due to their ability to exhibit appropriate behavioral repertoires under
+different situations and produce outputs for potential alternative demands (Bhattacharya
+et al., 2005). Besides, with a repertoire of skills for adaptation and flexibility, employees can
+have more control over their work (Halbesleben et al., 2014). They also anticipate the need for
+future skills, display enthusiasm about learning and build relationships with others for
+learning and developing new competence (Stokes et al., 2015). Differently expressed, through
+skill and behavior flexibility from HR practice flexibility, employees possess competence and
+autonomy in generating appropriate behavioral scripts in serving citizens as well as fulfill
+their needs for autonomy, competence and relatedness, which drive them to view their work
+as significant and autonomously internalize it, leading to harmonious passion in their work
+(Ho et al., 2011).
+Though the effect of HR flexibility on harmonious passion has not been established in the
+management literature, prior studies have had some indications for the HRM effects on work
+passion. Jan et al.’s (2021) study reported the effect of HRM practices on employees’
+harmonious passion. Chen et al. (2017) found a positive association between high-
+commitment HR practices with harmonious passion for work. In light of the above
+reasoning and some evidence, HR flexibility, which comprises skill and behavioral flexibility
+and HR practice flexibility (Way et al., 2018), can be expected to nurture public sector
+employees’ harmonious passion. The subsequent hypothesis is consequently formulated:
+H2. HR flexibility is positively related to public sector employees’ harmonious passion.
+As posited in the SDT, with a form of autonomous internalization (e.g. harmonious passion)
+(Deci and Ryan, 2014; Vallerand et al., 2003), individuals can self-determine and endorse
+activities in a manner that harmonizes with other facets of their lives, which enable them to
+concentrate on their activities, to be less prone to depletion of cognitive and affective
+resources and to experience positive outcomes such as positive affect, high cognitive
+engagement or high task performance (Ho et al., 2011; Horwood et al., 2021; Vallerand, 2015).
+With positive affect and high cognitive engagement, harmoniously passionate employees can
+effectively engage in behaviors within their roles as well as outside their job descriptions (Ho
+et al., 2018). Individuals are also inclined to engage in prosocial behaviors when they
+experience positive affect (Kong and Li, 2018). Thus, harmoniously passionate employees are
+inclined to promote the organization’s image and public services (i.e. external representation)
+as prosocial behavior beyond their work roles. Affective and cognitive resources that
+harmoniously passionate members build can also expand their thought-action repertoires (Ho
+et al., 2011), which facilitate not only their performance within their roles (e.g. service delivery)
+but also their pursuit of unscripted courses of action (Fredrickson, 2001), leading to initiatives
+for improving services (i.e. internal influence). Positive affect and high cognitive engagement
+PR
+53,8
+2092
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+stimulate employees to explore links between divergent thoughts, thereby generating novel
+solutions for service improvement (Isen, 2000; Liu et al., 2011).
+Moreover, since positive affect can be conducive to relation satisfaction and closeness with
+others, harmonious passion can contribute to employees’ positive relations with colleagues
+(Ho et al., 2018). Such positive relationships can nurture employees’ learning from colleagues’
+feedback and inputs as well as collaboration with them, which can help effectively perform
+service delivery tasks as well as explore novel solutions to improve service delivery (i.e.
+internal influence). Positive interpersonal connections, which fulfill relatedness needs, can
+also promote actions beneficial for their organization (Chiniara and Bentein, 2016) such as in
+the form of promoting its image and services (i.e. external representation). Furthermore, due
+to personally endorsing work activities in a fashion that is in harmony with other facets of
+their life (Vallerand, 2015), harmoniously passionate employees are less likely to face conflicts
+between roles within and outside their work and invest resources in handling them (Ho et al.,
+2018), and hence preserve more resources (e.g. time and energy) to reinvest in improving or
+promoting services.
+Integrating the above reasoning, it is tenable that harmonious passion leads to generating
+service initiatives (internal influence), delivering services effectively and promoting services
+(external representation). In juxtaposition with hypothesis H2, we propose the role of
+harmonious passion as a mediation path that links HR flexibility to citizen-oriented
+boundary-spanning behaviors as in the ensuing hypothesis:
+H3. Harmonious passion mediates the positive link between HR flexibility and citizen-
+oriented boundary-spanning behaviors in the forms of internal influence (H3a),
+external representation (H3b) and service delivery (H3c).
+Employee perceptions of normative public values as a moderator
+Normative public values comprise individual rights (civil rights and property rights),
+representation (responsiveness to citizens) and equity (fair distribution of resources) (Pandey
+et al., 2016). Guided by these public values, public sector employees place citizens center-stage
+and serve them responsibly to build relations with them and gain their trust (Pandey et al.,
+2016). Citizens will develop trust in the governmental agencies and the government that care
+about their basic human rights such as justice and property ownership (Yousaf et al., 2016).
+According to Yang and Pandey (2007), responsiveness and equity are vital in promoting
+citizen trust since these can enhance public service quality, satisfy citizens’ needs and
+increase their feeling of being equally treated.
+The SDT posits that individual self-regulation in response to a situation can be thwarted
+or facilitated by individual or contextual contingencies (Ryan and Deci, 2000). Stated
+differently, the effects of a situation on employee motivation can be contingent on individual
+or contextual factors. In addition to individual contingencies such as personality (Wu and
+Zhou, 2023) or independent self-construal (Kong and Ho, 2016) which have been examined in
+prior inquiries, values are important contingencies underscored in the SDT (Graves and
+Sarkis, 2018) but have been less investigated (Park et al., 2018; Sun et al., 2023). The SDT
+postulates that, in the face of a specific situation in the organization (e.g. HRM practices),
+different values may influence the process of shaping motivation among employees (Graves
+and Sarkis, 2018). Research has given attention not only to the predictive role of perceived
+workplace values (Park, 2023) but also to the interaction between values and contextual
+factors (Park et al., 2018; Sun et al., 2023). Research has revealed that values may enhance
+employees’ perceptions of contextual factors in the organization, which further accentuates
+the effects of such contextual factors. For instance, Park et al. (2018) reported that
+reform values can further promote public sector employees’ positive appraisal of flexible
+work systems, leading to the heightened impact of such systems on their job satisfaction.
+Personnel Review
+2093
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Sun et al. (2023) observed the role of power distance value in moderating the influence of
+exploitative leadership on employees’ harmonious passion for work. The SDT and such prior
+findings highlight the importance of employee perceptions of values as a moderator for
+contextual effects, which supports the proposition that employee perceptions of normative
+public values in the work environment may play a moderating role in enhancing employee
+perceptions of HR practice flexibility, which further influences employees to be more
+harmoniously passionate about serving citizens.
+Specifically, with high perceptions of normative public values in the work environment,
+employees tend to have a better understanding of the public mission and public service goals
+of the organization (Pandey et al., 2016). Thus, such employees are more inclined to use their
+skills and competence to catch sight of citizen demands and provide better services to
+citizens. They, hence, rely more on HR practice flexibility since it enables them to build and
+use a broad repertoire of behavioral scripts and skills, with which employees can be
+responsive and adaptive to customers’ situation-specific demands and changes in their
+demands (Bhattacharya et al., 2005; Lepak et al., 2003), address citizen demands in a timely
+and fair manner, and serve them with respect for their civil rights (Pandey et al., 2016). In
+other words, the effect of HR flexibility on harmonious passion for serving citizens will be
+more pronounced among employees with high perceptions of normative public values.
+Additionally, normative public values increase employee bonds with the public
+organization, which enhances their motivation to contribute to the organization (Hui et al.,
+2021). Therefore, employees with high rather than low perceptions of normative public values
+may view HR practice flexibility in a more positive light since a broad repertoire of behavioral
+scripts and skills that they acquire can help them make a further contribution to the
+organization by providing better services to citizens.
+Conversely, with low perceptions of normative public values in the work environment,
+employees may be less motivated to improve services for citizens and thus are less inclined to
+use skill flexibility and behavioral flexibility for service enhancements. This leads to their less
+responsiveness to and reliance on HR practice flexibility, resulting in a less pronounced effect
+of HR flexibility on their harmonious passion. From the above reasoning, we can expect
+employee perceptions of normative public values as a moderator that accentuates the impact
+of HR flexibility on harmonious passion among employees:
+H4. Employee perceptions of normative public values moderate the relationship between
+HR flexibility and employee harmonious passion such that the relationship is
+stronger when employee perceptions of normative public values are higher.
+The hypothesis above, together with the postulation on the indirect link between HR
+flexibility and employees’ citizen-oriented boundary-spanning behaviors via the mediating
+pathway of employees’ harmonious passion, indicates that the indirect relationship between
+HR flexibility and employees’ citizen-oriented boundary-spanning behaviors is contingent on
+the extent of employee perceptions of normative public values. We expect that HR flexibility
+promotes citizen-oriented boundary-spanning behaviors through harmonious passion, which
+is more likely to occur under conditions of high perceptions of normative public values. Under
+such conditions, employees’ harmonious passion and, in turn, citizen-oriented boundary-
+spanning behaviors tend to be more influenced by HR flexibility than under conditions of low
+perceptions of normative public values:
+H5. Employee perceptions of normative public values moderate the relationship between
+HR flexibility and employees’ citizen-oriented boundary-spanning behaviors in
+forms of internal influence (H5a), external representation (H5b) and service delivery
+(H5c) through employee harmonious passion such that the relationship is stronger
+when employee perceptions of normative public values are higher.
+PR
+53,8
+2094
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+The postulated relationships are portrayed in Figure 1.
+Research methods
+Sampling
+The data were garnered from employees who belonged to governmental agencies in a major
+city in Vietnam. Six governmental agencies were randomly selected from each of the 24
+districts of the city. We approached the heads of these agencies, explicated our academic
+purpose and solicited their voluntary participation. From the contact details of employees
+and their supervisors supplied by the agencies, the questionnaire link was emailed to them to
+invite their participation in tandem with the assurance of the confidentiality and anonymity
+of their responses.
+Three data collection waves were conducted with a time lag of three months. To mitigate
+common method bias (CMB), we collected data for the independent and dependent constructs
+in different measurement waves (Podsakoff et al., 2012). The first wave of measurement (T1)
+garnered data on HR flexibility and perceptions of normative public values from employees.
+In the second wave (T2), the data were collected for harmonious passion from employees. In
+the third measurement (T3), supervisors rated employees’ citizen-oriented boundary-
+spanning behaviors.
+At T1, 982 survey links were relayed to employees and 726 complete responses (response
+rate: 73.9%) were collected. At T2, 427 complete responses (response rate: 58.8%) were
+obtained from employees who partook in T1. At T3, among 144 survey links that had been
+distributed to supervisors, 102 complete responses (response rate: 70.8%) were obtained from
+supervisors. These participants belonged to 102 agencies. A total of 187 employees (43.8%)
+were female. Employees’ mean age was 36.74 years (SD 5 7.52), and their mean tenure with
+organization was 7.45 years (SD 5 3.96).
+Due to the existence of participants in the sample who failed to respond to survey
+questionnaires, it is crucial to test non-response bias (Green et al., 2006). Non-response bias is
+presumably nonexistent if there exist no differences in the variables between the survey
+waves (Lambert and Harrington, 1990). Following Green et al. (2006), one-way ANOVA was
+employed to compare participants between the survey waves, which indicated no differences
+in the study variables (p > 0.05). We also found no difference in the study variables by
+comparing early respondents (i.e. responding to initial requests) and late respondents (i.e.
+responding to follow-up requests after two weeks), demonstrating that non-response bias
+was not a concern in the dataset.
+Figure 1.
+Research model
+Personnel Review
+2095
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Measures
+The measurement items (1 5 “strongly disagree”, 5 5 “strongly agree”, unless otherwise
+designated) were translated into Vietnamese through the lens of Schaffer and Riordan’s
+(2003) back translation approach. HR flexibility was gauged through Way et al.’s (2015) 21-
+item instrument (e.g. “Your agency’s current training process enables employees to learn
+new/different work activities”). This scale demonstrated an acceptable internal consistency
+reliability in Way et al.’s (2015) work of the original scale (Cronbach’s alpha [α] 5 0.82) and
+other works (e.g. α 5 0.72 [Way et al., 2018]). Employee perceptions of normative public
+values were gauged through three items from Pandey et al. (2016). Employees were asked to
+rate the salience of public values including equity (a fair allocation of resources),
+representation (responsiveness to all citizens) and individual rights (civil rights, property
+rights) in making major decisions about public services in their agency (1 5 “of little
+importance”; 5 5 “extremely important”) (e.g. “How important is representation
+(responsiveness to all citizens) in making major decisions about public services in your
+agency?”). This scale exhibited a strong internal consistency reliability in prior inquiries (e.g.
+α 5 0.86 [Luu et al., 2022]). Citizen-oriented boundary-spanning behaviors were examined
+through items adapted from Bettencourt et al. (2005), comprising four items for internal
+influence (e.g. “Contributes many ideas for citizen promotions and communication”), four
+items for external representation (e.g. “Says good things about the organization to others”)
+and five items for service delivery (e.g. “Regardless of circumstances, exceptionally courteous
+and respectful to citizens”). The internal consistency reliability of the above dimensions of
+this scale was reported acceptable in Bettencourt et al.’s (2005) work of the original scale
+(α 5 0.94, 0.90, 0.91, respectively) and other works (e.g. α 5 0.80, 0.85, 0.85, respectively
+[Bayighomog and Araslı, 2019]). Harmonious passion was assessed through seven items
+from Vallerand et al. (2003) (e.g. “My work allows me to live memorable experiences”). The
+internal consistency reliability of this scale was found acceptable in Vallerand et al.’s (2003)
+work of the original scale (α 5 0.79) and other works (e.g. α 5 0.85 [Khan et al., 2023]). This
+research controlled for employees’ age, gender, education and organizational tenure.
+Data analytic strategy
+By virtue of the nested nature of the data within agencies, this research adopts a 2-1-1 model
+(Preacher et al., 2011) with the influence of a level 2 variable (HR flexibility) on level 1 outcome
+variables (citizen-oriented boundary-spanning behaviors) mediated by a level 1 variable
+(harmonious passion). Multilevel structural equation modeling (MSEM) was conducted
+through MPlus 7.2 to appraise indirect effects and mitigate the conflation of the level 1-level 2
+nexus (Preacher et al., 2011). Following Hofmann et al. (2000), we first group-mean centered all
+level 1 (i.e. employee-level) variables (i.e. harmonious passion, citizen-oriented boundary-
+spanning behaviors and control variables) to partial out level 2 (i.e. agency-level) variance and
+avoid conflating level 1 and level 2 variability. We then centered level 2 aggregates (see
+discussion on aggregation later) and added them to model the effect of level 2 variables.
+A Monte Carlo 20,000-replication test was employed to test the significance of indirect effects
+through confidence intervals (CIs) (Menges et al., 2017). We calculated the interaction term
+and plotted the conditional effect of the predictor on the outcome at high (1 SD above the
+mean) and low (1 SD below the mean) levels of the moderator.
+Results
+Common method bias (CMB)
+Following Podsakoff et al.’s (2012) recommendations, our study addressed potential CMB
+through procedural and statistical treatments. As procedural treatments, participants’
+PR
+53,8
+2096
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+confidentiality and anonymity were ensured, the data for independent, mediating and
+dependent variables were collected in three different waves, and the data were collected from
+two different sources. Nonetheless, as HR flexibility, employee perceptions of normative
+public values and harmonious passion were assessed by employees (i.e. the same source of
+participants), we further statistically checked if the data were affected by CMB. First, we
+utilized the marker variable technique (Lindell and Whitney, 2001) by adding “fashion
+consciousness” (i.e. the importance that one attaches to being fashionably dressed) as a
+marker variable to the survey questionnaire due to no theoretical relevance of this marker to
+other constructs. This marker variable has been used in prior studies (e.g. S Wang et al., 2021).
+When the marker was eliminated, all significant zero-order correlations remained significant,
+which revealed that the dataset was not affected by CMB. Second, we conducted the full
+collinearity test proposed by Kock (2015) and found that all variance inflation factors (VIFs)
+were under the 3.3 threshold (Kock, 2015). Third, the significant interactive effect further
+indicated that CMB was too weak to deflate it (Siemsen et al., 2010). These statistical results
+indicated that CMB was not an issue for our dataset.
+Aggregation
+We assessed between-group variances by computing intra-class correlations 1 (ICC1s), ICC2s
+and rwg (Rho-within group agreement) values for HR flexibility and employee perceptions of
+normative public values. ICC1s for HR flexibility and employee perceptions of normative
+public values were 0.17 and 0.22, respectively, while their ICC2s were 0.69 and 0.73,
+respectively. These values were greater than James’s (1982) median value of 0.12 for ICC1 and
+Glick’s (1985) ICC2 threshold of 0.60. The rwg average parameter was 0.74 [0.69, 0.82] for HR
+flexibility and 0.77 [0.72, 0.86] for employee perceptions of normative public values, exceeding
+Klein et al.’s (2000) threshold of 0.70. These variances were supportive of multilevel
+assessment.
+Measurement models
+The fit between the model and the data was decent (χ2/df 5 325.38/174 5 1.87; Tucker–Lewis
+Index (TLI) 5 0.95; incremental fit index (IFI) 5 0.95; comparative fit index (CFI) 5 0.96;
+standardized root mean residual (SRMR)within 5 0.052; SRMRbetween 5 0.073; root mean
+square error of approximation (RMSEA) 5 0.049 (90% CI [0.042, 0.054])) and better than the
+fits of the alternative models built by merging constructs (Table 1). This was supportive of
+discriminant validity. It was further confirmed as each construct’s correlations with the other
+constructs were surpassed by its square root of the average variance extracted (AVE)
+(Table 2) (Fornell and Larcker, 1981) and the heterotrait-monotrait ratios varied from 0.14 to
+0.72, under Kline’s (2011) criterion of 0.85.
+Hypothesis estimation
+As Table 3 demonstrates, HR flexibility exhibited a statistically significant and positive
+association with employees’ internal influence (B 5 0.34, p < 0.01), external representation
+(B 5 0.25, p < 0.01) and service delivery (B 5 0.29, p < 0.01), in support of hypotheses H1a,
+H1b and H1c.
+The results indicated that HR flexibility was positively and significantly linked with
+harmonious passion (B 5 0.31, p < 0.01), lending credence to hypothesis H2. Hypothesis H3
+postulates the mediating pathway of harmonious passion behind the positive connections
+between HR flexibility and the components of citizen-oriented boundary-spanning behaviors.
+Harmonious passion was significantly and positively linked with employees’ internal
+influence (B 5 0.42, p < 0.001), external representation (B 5 0.27, p < 0.01) and service
+Personnel Review
+2097
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Model
+χ2
+df
+Δχ2
+TLI
+IFI
+CFI
+SRMR
+within
+SRMR
+between
+RMSEA
+RMSEA
+confidence
+interval
+Hypothesized six-factor model
+325.38
+174
+0.95
+0.95
+0.96
+0.052
+0.073
+0.049
+(0.042, 0.054)
+Five-factor model:
+HR flexibility and employee perceptions of normative
+public values combined
+410.61
+179
+85.23**
+0.94
+0.93
+0.93
+0.061
+0.085
+0.065
+(0.058, 0.070)
+Four-factor model:
+HR flexibility, employee perceptions of normative public
+values and harmonious passion combined
+453.79
+183
+128.41**
+0.91
+0.92
+0.91
+0.075
+0.098
+0.079
+(0.073, 0.085)
+Three-factor model:
+HR flexibility, employee perceptions of normative public
+values, harmonious passion and internal influence
+combined
+491.42
+186
+166.04**
+0.89
+0.89
+0.90
+0.091
+0.107
+0.093
+(0.087, 0.098)
+Two-factor model:
+HR flexibility, employee perceptions of normative public
+values, harmonious passion, internal influence and external
+representation combined
+535.86
+188
+210.48**
+0.86
+0.85
+0.84
+0.109
+0.121
+0.112
+(0.103, 0.118)
+One-factor model:
+All variables combined
+601.19
+189
+275.81**
+0.77
+0.78
+0.78
+0.126
+0.146
+0.128
+(0.121, 0.134)
+Note(s): **p < 0.01
+Source(s): Created by author
+Table 1.
+Comparison of
+measurement models
+PR
+53,8
+2098
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Variables
+Mean
+SD
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+CCR
+AVE
+1
+Employee age
+31.74
+7.53
+. . .
+2
+Employee gender
+0.01
+. . .
+3
+Employee education
+0.04
+0.02
+. . .
+4
+Employee organizational tenure
+6.45
+3.91
+0.06
+0.05
+0.02
+. . .
+5
+HR flexibility
+3.63
+0.47
+0.02
+0.04
+0.07
+0.04
+(0.85)
+0.84
+0.72
+6
+Harmonious passion
+3.81
+0.59
+0.03
+0.06
+0.05
+0.02
+0.32**
+(0.79)
+0.81
+0.62
+7
+Internal influence behavior
+4.19
+0.65
+0.07
+0.05
+0.06
+0.05
+0.36***
+0.43***
+(0.84)
+0.86
+0.70
+8
+External representation behavior
+3.92
+0.54
+0.04
+0.03
+0.05
+0.03
+0.27**
+0.29**
+0.22*
+(0.82)
+0.80
+0.67
+9
+Service delivery behavior
+4.14
+0.61
+0.06
+0.07
+0.05
+0.04
+0.30**
+0.35***
+0.29**
+0.26**
+(0.87)
+0.83
+0.75
+10
+Employee perceptions of normative
+public values
+3.57
+0.58
+0.05
+0.04
+0.07
+0.02
+0.17*
+0.24*
+0.21*
+0.19*
+0.25*
+(0.80)
+0.79
+0.64
+Note(s): CCR 5 Composite construct reliability, AVE 5 Average variance extracted
+Values in parentheses display the square root of the average variance extracted
+Standardized correlations reported * p < 0.05; **p < 0.01; ***p < 0.001
+Source(s): Created by author
+Table 2.
+Correlation matrix
+Personnel Review
+2099
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+delivery (B 5 0.32, p < 0.01). Furthermore, the coefficient for the indirect impact of HR
+flexibility on employees’ internal influence through harmonious passion as a mediation
+channel was significant (0.13; SE 5 0.08; p < 0.01). A Monte Carlo 20,000-replication test
+(Menges et al., 2017) indicated that the 95% CI ranged between 0.07 and 0.43 with zero not
+being straddled in the interval. Likewise, the significant indirect effects via harmonious
+passion were observed between HR flexibility and employees’ external representation (0.08;
+SE 5 0.05; 95% CI 5 [0.03, 0.31]; p < 0.05) as well as service delivery (0.09; SE 5 0.06; 95%
+CI 5 [0.02, 0.37]; p < 0.01). These results were supportive of hypotheses H3a, H3b and H3c.
+The interaction term of HR flexibility 3 employee perceptions of normative public values
+in predicting harmonious passion was positive and statistically significant (B 5 0.22,
+p < 0.05) (see Table 3). Figure 2 graph indicates that HR flexibility enhanced harmonious
+passion to a greater extent when employee perceptions of normative public values were high
+Hypothesis
+Description of path
+Unstandardized path
+coefficient
+Conclusion
+Direct relationships
+H1a
+HR flexibility →Internal influence
+0.34** (0.12)
+Supported
+H1b
+HR flexibility →External representation
+0.25** (0.08)
+Supported
+H1c
+HR flexibility →Service delivery
+0.29** (0.11)
+Supported
+H2
+HR flexibility →Harmonious passion
+0.31** (0.14)
+Supported
+Harmonious passion →Internal influence
+0.42*** (0.10)
+Supported
+Harmonious passion →External representation
+0.27** (0.09)
+Supported
+Harmonious passion →Service delivery
+0.32** (0.11)
+Supported
+Indirect relationships
+H3a
+HR flexibility →Harmonious passion →Internal
+influence
+0.13** (0.08)
+[95% CI 5 0.07, 0.43]
+Supported
+H3b
+HR flexibility →Harmonious passion →External
+representation
+0.08* (0.05)
+[95% CI 5 0.03, 0.31]
+Supported
+H3c
+HR flexibility →Harmonious passion →Service
+delivery
+0.09** (0.06)
+[95% CI 5 0.02, 0.37]
+Supported
+Interactive relationship
+H4
+HR flexibility 3 Employee perceptions of normative
+public values →Harmonious passion
+0.22* (0.09)
+Supported
+Note(s): *p < 0.05; **p < 0.01; ***p < 0.001. Standard errors are presented in parentheses
+Source(s): Created by author
+Table 3.
+Path results
+Figure 2.
+Moderating the role of
+employee perceptions
+of normative public
+values
+PR
+53,8
+2100
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+(simple slope 5 0.67, p < 0.05) than at its low levels (simple slope 5 0.13, p 5 0.08). These
+results were in support of hypothesis H4 vis-a-vis the moderating effect of employee
+perceptions of normative public values on the HR flexibility-harmonious passion linkage.
+When employee perceptions of normative public values were at high levels, the indirect
+effect of HR flexibility on employees’ internal influence through harmonious passion was
+significant (estimate 5 0.11; SE 5 0.06, 95% CI [0.05, 0.29] excluding 0, p < 0.01). HR flexibility
+also indicated a significant indirect effect on employees’ internal influence (estimate 5 0.02;
+SE 5 0.01, 95% CI [0.01, 0.13] not including 0, p < 0.05) when employee perceptions of
+normative public values were at low levels. A significant difference was observed between the
+two indirect effects (estimate 5 0.09 with 95% CI [0.04, 0.32] not straddling zero). Likewise, the
+indirect effects of HR flexibility on employees’ external representation through harmonious
+passion at high and low levels of employee perceptions of normative public values were 0.07
+(SE 5 0.04; 95% CI5 [0.03, 0.25];p < 0.05)and 0.01(SE 5 0.01; 95% CI5 [0.05, 0.09];p > 0.10),
+respectively. A significant difference was found between the two indirect effects
+(estimate 5 0.06 with 95% CI [0.02, 0.18] not including zero). The indirect effects of HR
+flexibility on employees’ service delivery via harmonious passion at high and low levels of
+employee perceptions of normative public values were 0.10 (SE 5 0.05; 95% CI 5 [0.06, 0.34];
+p < 0.01) and 0.04 (SE 5 0.02; 95% CI 5 [0.02, 0.15]; p < 0.05), respectively. A significant
+difference was observed between the two indirect effects (estimate 5 0.06 with 95% CI [0.01,
+0.22] excluding zero). These results were in support of hypothesis H5 vis-a-vis the moderating
+role of employee perceptions of normative public values for the indirect nexus between HR
+flexibility and citizen-oriented boundary-spanning behaviors in forms of internal influence
+(H5a), external representation (H5b) and service delivery (H5c) via harmonious passion.
+Conclusion
+Our results support hypotheses H1a, H1b and H1c on the positive associations between HR
+flexibility and the three components of citizen-oriented boundary-spanning behaviors. We
+found evidence for hypothesis H2 regarding the positive link between HR flexibility and
+harmonious passion as well as hypotheses H3a, H3b and H3c vis-a-vis the mediation path of
+harmonious passion for the links between HR flexibility and citizen-oriented boundary-
+spanning behaviors. Furthermore, the results voice support for hypotheses H4 and H5,
+respectively, on the role of employee perceptions of normative public values as a moderator
+that strengthens the effect of HR flexibility on employees’ harmonious passion as well as the
+indirect effect of HR flexibility on citizen-oriented boundary-spanning behaviors through
+harmonious passion.
+Discussion
+Research implications
+This inquiry contributes to the extant knowledge in various facets. First, the current study
+advances the management literature by extending the concept of customer-oriented
+boundary-spanning behaviors to the public sector as well as identifying the effect of HR
+flexibility on citizen-oriented boundary-spanning behaviors of public sector employees.
+Albeit citizen-oriented boundary-spanning behaviors have not been explored in the
+management literature, our findings are partially consistent with previous studies that
+have reported the links between HRM and citizenship behavior in general (e.g. Cesario and
+Magalh~aes, 2017; Mostafa et al., 2015). Nonetheless, through unmasking HR flexibility as a
+precursor for citizen-oriented boundary-spanning behaviors, this study contributes to the
+literature that has not examined HR flexibility as an antecedent but mainly focused on
+contextual antecedents around manager/organizational support or fairness such as
+Personnel Review
+2101
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+leadership (Bayighomog and Araslı, 2019), perceived organizational support (Wang et al.,
+2022) or organizational justice (Bettencourt et al., 2005) for customer-oriented boundary-
+spanning behaviors.
+Second, our results unveil that HR flexibility activates citizen-oriented boundary-
+spanning behaviors through fueling their harmonious passion. These findings differentiate
+the current study from the extant literature that has concentrated on mediation mechanisms
+such as work engagement (Bal and De Lange, 2015), self-efficacy (Luu, 2016) and
+employability (Xu et al., 2023) for the effects of flexible HRM systems. The current work
+thus contributes to the literature by delving into the mediating role of harmonious passion as
+a form of autonomous internalization rather than competence (e.g. self-efficacy and
+employability skills) or positive state of mind (e.g. work engagement). Our study also extends
+the stream of passion research by adding HR flexibility as a new element to the fledging body
+of contextual precursors of harmonious passion, which is confined to group/supervisor
+autonomy support, leadership or high-commitment HR practices (Chen et al., 2017; Ho et al.,
+2018; Liu et al., 2011; Sun et al., 2023). It also lends further support for the SDT premise in
+terms of the pivotal role of a social context (e.g. HR practice flexibility) in stimulating
+individuals to autonomously internalize activities.
+Third, irrespective of a growing interest among researchers in normative public values
+(Luu, 2022; Pandey et al., 2016) as well as the SDT emphasis on the contingent role of values in
+the process of shaping motivation among individuals in face of a specific organizational
+situation (Graves and Sarkis, 2018), less scholarly attention has been given to the moderation
+mechanism of employee perceptions of normative public values behind the HRM effects
+(Cheewakoset et al., 2023; Xu et al., 2023). The current inquiry contributes to the literature by
+addressing a call for more inquiries into the moderating role of employee perceptions of
+normative public values (Luu, 2022). By examining this moderator, it also distinguishes itself
+from prior works that have concentrated on moderators such as organizational identity (Xu
+et al., 2023), psychological capital (Cheewakoset et al., 2023), or inclusive leadership (Zhang
+et al., 2023) underlying the influence of flexibility HRM systems. It further supports the SDT
+premise on the salience of contingencies underlying a contextual effect on activating an
+individual’s motivation. The current result indicates that employee harmonious passion is
+best realized by public sector employees who (1) work under HR practices that help them
+build a broad set of skills and behavioral scripts for flexibility and adaptation and (2) are
+exposed to normative public values.
+Implications for practice
+Our results present some practical implications. Since HR flexibility was found to activate
+citizen-oriented boundary-spanning behaviors, HR flexibility should be built in public
+organizations. Specifically, the selection process should assess candidates’ skills to adapt and
+perform different roles in various situations. Training programs should be flexibly adapted to
+arm employees with new skills to perform new or different work aspects in response to
+different contingencies. Employees should be trained on how to adapt to deal with diverse
+client types, diverse demands and diverse service delivery situations. Through HR flexibility,
+employees can develop harmonious passion for serving citizens as well as acquire the
+knowledge and skills necessary for the generation of novel solutions for public service
+improvement and promotion.
+The current study further reveals the moderating effect of employee perceptions of
+normative public values underlying the effects of HR flexibility. Hence, public
+organizations should provide communication programs to shape or reinforce employees’
+awareness of normative public values including civil rights, equity and representation.
+When valuing these values and feeling encouraged to enact them, employees are more
+PR
+53,8
+2102
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+inclined to translate their set of skills and behavioral scripts into citizen-oriented boundary-
+spanning behaviors.
+Limitations and pathways for future research
+Several limitations are acknowledged in the present study. First, its use of self-report data
+and a time-lagged research design might engender CMB. While this research found CMB not
+to be a major concern through the marker variable test, the interactive effect test and the
+multi-source data collection, future research should further diminish CMB through a cross-
+lagged approach (Kasl and Jones, 2003). Moreover, the causal relationships of the studied
+variables, which could not be derived through a time-lagged approach, should be further
+explored through experimental or cross-lagged research designs.
+Second, the generalizability of the current findings might be limited by a single cultural
+context of the study. Studies of HR flexibility have engaged with some Western contexts such
+as North America (Way et al., 2018), Australia, New Zealand (Tretiakov et al., 2023) or Spain
+(Ubeda-Garcıa et al., 2017) as well as some non-Western contexts such as India (Sekhar et al.,
+2016) or Taiwan (Do et al., 2016). Accordingly, future research is encouraged to delve into the
+effectiveness of HR flexibility in more Western and non-Western contexts. Besides, extant
+inquiries of HR flexibility have tended to concentrate on some sectors such as IT (Do et al.,
+2016; Sekhar et al., 2016; Tretiakov et al., 2023) and hospitality (Ubeda-Garcıa et al., 2017).
+More research in settings beyond these sectors as well as in mixed industries should be
+conducted to enhance the generalizability of the current findings.
+Third, while research has revealed the predictive role of high-performance work systems
+or high-commitment HR practices for employee performance outcomes through autonomous
+motivation or harmonious passion (Chen et al., 2017; Jaiswal and Tyagi, 2020), future works
+should comparatively analyze the effects of HR flexibility versus these two forms of HR
+practices on harmonious passion and in turn employee outcomes. Additionally, since our
+research model is incapable of accounting for every underlying mechanism for the linkage
+between HR flexibility and citizen-oriented boundary-spanning behaviors, future research
+should consider other mediators and moderators. When members possess a broad set of skills
+and behavioral scripts for adaptation, role breadth self-efficacy may emerge. Therefore,
+further research should investigate the mediating role of this variable. Future studies can also
+examine skill flexibility and behavioral flexibility as mediation paths underlying the effects
+of HR practices. Furthermore, since idiosyncratic deals (i-deals), viewed as individually
+negotiated agreements between employees and the employer for work flexibility, can add
+further flexibility and adaptability to members (Rofcanin et al., 2017), i-deals may play a
+moderation role in the effects of HR flexibility on citizen-oriented boundary-spanning
+behaviors on a new research path.
+References
+Bal, P.M. and De Lange, A.H. (2015), “From flexibility human resource management to employee
+engagement and perceived job performance across the lifespan: a multisample study”, Journal
+of Occupational and Organizational Psychology, Vol. 88 No. 1, pp. 126-154, doi: 10.1111/
+joop.12082.
+Bayighomog, S.W. and Araslı, H. (2019), “Workplace spirituality–customer engagement nexus: the
+mediated role of spiritual leadership on customer–oriented boundary–spanning behaviors”, The
+Service Industries Journal, Vol. 39 Nos 7-8, pp. 637-661, doi: 10.1080/02642069.2019.1570153.
+Bentein, K., Lapalme, M.E., Guerrero, S., Parent-Rocheleau, X. and Simard, G. (2021), “How can servant
+leaders foster public employees’ service-oriented behaviors? A multilevel multisource study in
+Canadian libraries”, Public Administration Review, Vol. 82 No. 2, pp. 269-279, doi: 10.1111/
+puar.13416.
+Personnel Review
+2103
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Bettencourt, L.A., Brown, S.W. and MacKenzie, S.B. (2005), “Customer-oriented boundary-spanning
+behaviors: test of a social exchange model of antecedents”, Journal of Retailing, Vol. 81 No. 2,
+pp. 141-157, doi: 10.1016/j.jretai.2005.03.004.
+Bhattacharya, M., Gibson, D.E. and Doty, D.H. (2005), “The effects of flexibility in employee skills,
+employee behaviors, and human resource practices on firm performance”, Journal of
+Management, Vol. 31 No. 4, pp. 622-640, doi: 10.1177/0149206304272347.
+Cesario, F. and Magalh~aes, S. (2017), “Human resources management, citizenship behavior, and
+turnover intention in the Portuguese public administration”, International Journal of Public
+Administration, Vol. 40 No. 11, pp. 979-988, doi: 10.1080/01900692.2016.1242609.
+Chang, S., Gong, Y., Way, S.A. and Jia, L. (2013), “Flexibility-oriented HRM systems, absorptive
+capacity, and market responsiveness and firm innovativeness”, Journal of Management, Vol. 39
+No. 7, pp. 1924-1951, doi: 10.1177/0149206312466145.
+Cheewakoset, S., Popaitoon, P. and Decharin, P. (2023), “Flexibility-oriented human resource
+management system and employee ambidexterity: a moderating role of psychological capital”,
+International Journal of Business Excellence, Vol. 29 No. 2, pp. 288-308, doi: 10.1504/ijbex.2023.
+128672.
+Chen, M., Lyu, Y., Li, Y., Zhou, X. and Li, W. (2017), “The impact of high-commitment HR practices on
+hotel employees’ proactive customer service performance”, Cornell Hospitality Quarterly, Vol. 58
+No. 1, pp. 94-107, doi: 10.1177/1938965516649053.
+Chiniara, M. and Bentein, K. (2016), “Linking servant leadership to individual performance:
+differentiating the mediating role of autonomy, competence and relatedness need satisfaction”,
+The Leadership Quarterly, Vol. 27 No. 1, pp. 124-141, doi: 10.1016/j.leaqua.2015.08.004.
+de Geus, C.J., Ingrams, A., Tummers, L. and Pandey, S.K. (2020), “Organizational citizenship behavior
+in the public sector: a systematic literature review and future research agenda”, Public
+Administration Review, Vol. 80 No. 2, pp. 259-270, doi: 10.1111/puar.13141.
+Deci, E.L. and Ryan, R.M. (2014), “The importance of universal psychological needs for understanding
+motivation in the workplace”, in Gagne, M. (Ed.), The Oxford Handbook of Work Engagement,
+Motivation, and Self-Determination Theory, Oxford University Press, Oxford, pp. 13-32.
+Do, B.R., Yeh, P.W. and Madsen, J. (2016), “Exploring the relationship among human resource
+flexibility, organizational innovation and adaptability culture”, Chinese Management Studies,
+Vol. 10 No. 4, pp. 657-674, doi: 10.1108/cms-01-2016-0022.
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable and
+measurement errors”, Journal of Marketing Research, Vol. 18 No. 1, pp. 39-50, doi: 10.2307/3151312.
+Fredrickson, B.L. (2001), “The role of positive emotions in positive psychology”, American
+Psychologist, Vol. 56 No. 3, pp. 218-226, doi: 10.1037//0003-066x.56.3.218.
+Gagne, M. and Deci, E.L. (2005), “Self-determination theory and work motivation”, Journal of
+Organizational Behavior, Vol. 26 No. 4, pp. 331-362, doi: 10.1002/job.322.
+Glick, W.H. (1985), “Conceptualizing and measuring organizational and psychological climate: pitfalls
+in multilevel research”, Academy of Management Review, Vol. 10 No. 3, pp. 601-616, doi: 10.
+5465/amr.1985.4279045.
+Gong, Z., Zhang, Y., Ma, J., Liu, Y. and Zhao, Y. (2020), “Effects of work passion on turnover intention
+for Chinese government employees: the dualistic model of passion perspective”, Journal of
+Management and Organization, Vol. 26 No. 4, pp. 502-518, doi: 10.1017/jmo.2017.71.
+Graves, L.M. and Sarkis, J. (2018), “The role of employees’ leadership perceptions, values, and
+motivation in employees’ provenvironmental behaviors”, Journal of Cleaner Production,
+Vol. 196, pp. 576-587, doi: 10.1016/j.jclepro.2018.06.013.
+Green, K.W., Wu, C., Whitten, D. and Medlin, B. (2006), “The impact of strategic human resource
+management on firm performance and HR professionals’ work attitude and work performance”,
+The International Journal of Human Resource Management, Vol. 17 No. 4, pp. 559-579, doi: 10.
+1080/09585190600581279.
+PR
+53,8
+2104
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Halbesleben, J.R., Neveu, J.P., Paustian-Underdahl, S.C. and Westman, M. (2014), “Getting to the ‘COR’
+understanding the role of resources in conservation of resources theory”, Journal of
+Management, Vol. 40 No. 5, pp. 1334-1364, doi: 10.1177/0149206314527130.
+Hassan, M.M., Azim, S. and Abbas, S.M. (2017), “Citizenship as targeted behavior: responses to
+organizational justice and the role of culture”, International Journal of Public Administration,
+Vol. 40 No. 6, pp. 459-471.
+Ho, V.T., Wong, S.S. and Lee, C.H. (2011), “A tale of passion: linking job passion and cognitive
+engagement to employee work performance”, Journal of Management Studies, Vol. 48 No. 1,
+pp. 26-47, doi: 10.1111/j.1467-6486.2009.00878.x.
+Ho, V.T., Kong, D.T., Lee, C.H., Dubreuil, P. and Forest, J. (2018), “Promoting harmonious work passion
+among unmotivated employees: a two-nation investigation of the compensatory function of
+cooperative psychological climate”, Journal of Vocational Behavior, Vol. 106, pp. 112-125, doi:
+10.1016/j.jvb.2018.01.005.
+Hofmann, D.A., Griffin, M.A. and Gavin, M.B. (2000), “The application of hierarchical linear modeling
+to organizational research”, in Klein, K. and Kozlowski, S. (Eds), Multilevel Theory, Research,
+and Methods in Organizations: Foundations, Extensions, and New Directions, Jossey-Bass, San
+Francisco, CA, pp. 467-511.
+Horwood, M., Marsh, H.W., Parker, P.D., Riley, P., Guo, J. and Dicke, T. (2021), “Burning passion,
+burning out: the passionate school principal, burnout, job satisfaction, and extending the
+dualistic model of passion”, Journal of Educational Psychology, Vol. 113 No. 8, pp. 1668-1688, doi:
+10.1037/edu0000664.
+Hui, L., Qun, W., Nazir, S., Mengyu, Z., Asadullah, M.A. and Khadim, S. (2021), “Organizational
+identification perceptions and millennials’ creativity: testing the mediating role of work
+engagement and the moderating role of work values”, European Journal of Innovation
+Management, Vol. 24 No. 5, pp. 1653-1678, doi: 10.1108/ejim-04-2020-0165.
+Isen, A.M. (2000), “Positive affect and decision making”, in Lewis, M. and Haviland-Jones, J.M. (Eds),
+Handbook of Emotions, 2nd ed., Guilford Press, New York, NY, pp. 417-435.
+Jaiswal, D. and Tyagi, A. (2020), “Effect of high performance work practices on service innovative
+behavior”, Tourism Review, Vol. 75 No. 2, pp. 382-401, doi: 10.1108/tr-07-2018-0101.
+James, L.R. (1982), “Aggregation bias in estimates of perceptual agreement”, Journal of Applied
+Psychology, Vol. 67 No. 2, pp. 219-229, doi: 10.1037//0021-9010.67.2.219.
+Jan, G., Zainal, S.R.M. and Lee, M.C.C. (2021), “HRM practices and innovative work behavior within the
+hotel industry in Pakistan: harmonious passion as a mediator”, Journal of Human Resources in
+Hospitality and Tourism, Vol. 20 No. 4, pp. 512-541, doi: 10.1080/15332845.2021.1959803.
+Kasl, S.V. and Jones, B.A. (2003), “An epidemiological perspective on research design, measurement
+and surveillance strategies”, in Quick, J.C. and Tetrick, L.E. (Eds), Handbook of Occupational
+Health Psychology, American Psychological Association, Washington, DC, pp. 379-398.
+Khan, J., Saeed, I., Fayaz, M., Zada, M. and Jan, D. (2023), “Perceived overqualification? Examining its
+nexus with cyberloafing and knowledge hiding behaviour: harmonious passion as a
+moderator”, Journal of Knowledge Management, Vol. 27 No. 2, pp. 460-484, doi: 10.1108/jkm-
+09-2021-0700.
+Klein, K.J., Bliese, P.D., Kozlowski, S.W.J., Dansereau, F., Gavin, M.B., Griffin, M. and Bligh, M.C. (2000),
+“Multilevel analytical techniques: commonalities, differences, and continuing questions”, in Klein,
+K.J. and Kozlowski, S.W.J. (Eds), Multilevel Theory, Research, and Methods in Organizations:
+Foundations, Extensions, and New Directions, Jossey-Bass, San Francisco, CA, pp. 512-553.
+Kline, R.B. (2011), Principles and Practice of Structural Equation Modeling, Guilford Press, New
+York, NY.
+Kock, N. (2015), “Common method bias in PLS-SEM: a full collinearity assessment approach”,
+International Journal of E-Collaboration (IJEC), Vol. 11 No. 4, pp. 1-10, doi: 10.4018/ijec.
+2015100101.
+Personnel Review
+2105
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Kong, D.T. and Ho, V.T. (2016), “A self-determination perspective of strengths use at work: examining
+its determinant and performance implications”, The Journal of Positive Psychology, Vol. 11 No. 1,
+pp. 15-25, doi: 10.1080/17439760.2015.1004555.
+Kong, Y. and Li, M. (2018), “Proactive personality and innovative behavior: the mediating roles of job-
+related affect and work engagement”, Social Behavior and Personality: An International Journal,
+Vol. 46 No. 3, pp. 431-446, doi: 10.2224/sbp.6618.
+Lambert, D.M. and Harrington, T.C. (1990), “Measuring nonresponse bias in customer service mail
+surveys”, Journal of Business Logistics, Vol. 11 No. 2, pp. 5-25.
+Lepak, D.P., Takeuchi, R. and Snell, S.A. (2003), “Employment flexibility and firm performance:
+examining the interaction effects of employment mode, environmental dynamism, and
+technological intensity”, Journal of Management, Vol. 29 No. 5, pp. 681-703, doi: 10.1016/
+s0149-2063_03_00031-x.
+Lindell, M.K. and Whitney, D.J. (2001), “Accounting for common method variance in cross-sectional
+research designs”, Journal of Applied Psychology, Vol. 86 No. 1, pp. 114-121, doi: 10.1037/0021-
+9010.86.1.114.
+Liu, D., Chen, X.P. and Yao, X. (2011), “From autonomy to creativity: a multilevel investigation of the
+mediating role of harmonious passion”, Journal of Applied Psychology, Vol. 96 No. 2, pp. 294-309,
+doi: 10.1037/a0021294.
+Luu, T.T. (2016), “How HR flexibility contributes to customer value co-creation behavior”, Marketing
+Intelligence and Planning, Vol. 34 No. 5, pp. 646-670, doi: 10.1108/mip-09-2015-0186.
+Luu, T.T., Vu, T.N., Rowley, C. and Luong, T.P.N. (2022), “Nurturing mutual gains in the public sector:
+the roles of socially responsible human resource practices, employee use of normative public
+values, and job crafting”, Public Management Review, Vol. 24 No. 7, pp. 1124-1154, doi: 10.1080/
+14719037.2021.1886315.
+Menges, J.I., Tussing, D.V., Wihler, A. and Grant, A.M. (2017), “When job performance is all relative:
+how family motivation energizes effort and compensates for intrinsic motivation”, Academy of
+Management Journal, Vol. 60 No. 2, pp. 695-719, doi: 10.5465/amj.2014.0898.
+Mostafa, A.M.S., Gould-Williams, J.S. and Bottomley, P. (2015), “High-performance human resource
+practices and employee outcomes: the mediating role of public service motivation”, Public
+Administration Review, Vol. 75 No. 5, pp. 747-757, doi: 10.1111/puar.12354.
+Nor, R., Gani, A., Saleh, C. and Amin, F. (2021), “Organizational commitment and professionalism to
+determine public satisfaction through good governance, public service quality, and public
+empowerment”, International Review on Public and Nonprofit Marketing, Vol. 19 No. 1,
+pp. 191-217, doi: 10.1007/s12208-021-00297-0.
+Pandey, S.K., Davis, R.S., Pandey, S. and Peng, S. (2016), “Transformational leadership and the use of
+normative public values: can employees be inspired to serve larger public purposes?”, Public
+Administration, Vol. 94 No. 1, pp. 204-222, doi: 10.1111/padm.12214.
+Parasuraman, A., Ball, J., Aksoy, L., Keiningham, T.L. and Zaki, M. (2020), “More than a feeling?
+Toward a theory of customer delight”, Journal of Service Management, Vol. 32 No. 1, pp. 1-26,
+doi: 10.1108/josm-03-2019-0094.
+Park, R. (2023), “What if employees with intrinsic work values are given autonomy in worker co-
+operatives? Integration of the job demands–resources model and supplies–values fit theory”,
+Personnel Review, Vol. 52 No. 3, pp. 724-744, doi: 10.1108/pr-05-2021-0362.
+Park, S.M., Joaquin, M.E., Min, K.R. and Ugaddan, R.G. (2018), “Do reform values matter? Federal
+worker satisfaction and turnover intention at the dawn of the trump presidency”, The
+American Review of Public Administration, Vol. 48 No. 6, pp. 506-521, doi: 10.1177/
+0275074017706674.
+Podsakoff, P.M., MacKenzie, S.B. and Podsakoff, N.P. (2012), “Sources of method bias in social science
+research and recommendations on how to control it”, Annual Review of Psychology, Vol. 63
+No. 1, pp. 539-569, doi: 10.1146/annurev-psych-120710-100452.
+PR
+53,8
+2106
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Preacher, K.J., Zhang, Z. and Zyphur, M.J. (2011), “Alternative methods for assessing mediation in
+multilevel data: the advantages of multilevel SEM”, Structural Equation Modeling, Vol. 18 No. 2,
+pp. 161-182, doi: 10.1080/10705511.2011.557329.
+Rofcanin, Y., Kiefer, T. and Strauss, K. (2017), “What seals the I-deal? Exploring the role of employees’
+behaviours and managers’ emotions”, Journal of Occupational and Organizational Psychology,
+Vol. 90 No. 2, pp. 203-224, doi: 10.1111/joop.12168.
+Ryan, R.M. and Deci, E.L. (2000), “Self-determination theory and the facilitation of intrinsic motivation,
+social development, and well-being”, American Psychologist, Vol. 55 No. 1, pp. 68-78, doi: 10.
+1037/0003-066x.55.1.68.
+Schaffer, B.S. and Riordan, C.M. (2003), “A review of cross-cultural methodologies for organizational
+research: a best-practices approach”, Organizational Research Methods, Vol. 6 No. 2,
+pp. 169-215, doi: 10.1177/1094428103251542.
+Sekhar, C., Patwardhan, M. and Vyas, V. (2016), “A study of HR flexibility and firm performance: a
+perspective from IT industry”, Global Journal of Flexible Systems Management, Vol. 17 No. 1,
+pp. 57-75, doi: 10.1007/s40171-015-0120-2.
+Siemsen, E., Roth, A. and Oliveira, P. (2010), “Common method bias in regression models with linear,
+quadratic, and interaction effects”, Organizational Research Methods, Vol. 13 No. 3, pp. 456-476,
+doi: 10.1177/1094428109351241.
+Stokes, P., Moore, N., Moss, D., Mathews, M., Smith, S.M. and Liu, Y. (2015), “The micro-dynamics of
+intraorganizational and individual behavior and their role in organizational ambidexterity
+boundaries”, Human Resource Management, Vol. 54 No. S1, pp. s63-s86, doi: 10.1002/hrm.21690.
+Sun, Z., Wu, L.Z., Ye, Y. and Kwan, H.K. (2023), “The impact of exploitative leadership on hospitality
+employees’ proactive customer service performance: a self-determination perspective”,
+International Journal of Contemporary Hospitality Management, Vol. 35 No. 1, pp. 46-63, doi:
+10.1108/ijchm-11-2021-1417.
+Tantivejakul, N. (2019), “The never changing story: eight decades of the government public relations
+department of Thailand”, Public Relations Review, Vol. 45 No. 2, pp. 258-266, doi: 10.1016/j.
+pubrev.2018.08.009.
+Tran, Q.H.N. (2023), “Explore the relationship between leadership skills, organizational citizenship
+behavior and organizational culture in Vietnamese public organizations”, Industrial and
+Commercial Training, Vol. 55 No. 3, pp. 309-323, doi: 10.1108/ict-10-2022-0078.
+Tretiakov, A., Jurado, T. and Bensemann, J. (2023), “Employee empowerment and HR flexibility in
+information technology SMEs”, Journal of Computer Information Systems, Vol. 63 No. 6,
+pp. 1394-1407, doi: 10.1080/08874417.2022.2158962.
+Ubeda-Garcıa, M., Claver-Cortes, E., Marco-Lajara, B. and Zaragoza-Saez, P. (2017), “Human resource
+flexibility and performance in the hotel industry: the role of organizational ambidexterity”,
+Personnel Review, Vol. 46 No. 4, pp. 824-846, doi: 10.1108/pr-12-2015-0315.
+Vallerand, R.J. (2015), The Psychology of Passion: A Dualistic Model, Oxford University Press, New
+York, NY.
+Vallerand, R.J., Blanchard, C., Mageau, G.A., Koestner, R., Ratelle, C., Leonard, M., Gagne, M. and
+Marsolais, J. (2003), “Les passions de l’ame: on obsessive and harmonious passion”, Journal of
+Personality and Social Psychology, Vol. 85 No. 4, pp. 756-767, doi: 10.1037/0022-3514.85.4.756.
+Van Meerkerk, I. and Edelenbos, J. (2021), “Becoming a competent boundary spanning public
+servant”, in Sullivan, H., Dickinson, H. and Henderson, H. (Eds), The Palgrave Handbook of the
+Public Servant, Springer, Cham, pp. 1437-1452.
+Wang, S., Eva, N., Newman, A. and Zhou, H. (2021), “A double-edged sword: the effects of
+ambidextrous leadership on follower innovative behaviors”, Asia Pacific Journal of
+Management, Vol. 38 No. 4, pp. 1305-1326, doi: 10.1007/s10490-020-09714-0.
+Wang, J., Fu, X., Wang, Y. and Wei, F. (2022), “Driving hospitality frontline employees’ boundary-
+spanning behaviors: a social exchange and role theory perspective”, Journal of Quality
+Personnel Review
+2107
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2
+
+Assurance in Hospitality and Tourism, Vol. 23 No. 2, pp. 388-414, doi: 10.1080/1528008x.2021.
+1871701.
+Way, S.A., Tracey, J.B., Fay, C.H., Wright, P.M., Snell, S.A., Chang, S. and Gong, Y. (2015), “Validation
+of a multidimensional HR flexibility measure”, Journal of Management, Vol. 41 No. 4,
+pp. 1098-1131, doi: 10.1177/0149206312463940.
+Way, S.A., Wright, P.M., Tracey, J.B. and Isnard, J.F. (2018), “HR flexibility: precursors and the
+contingent impact on firm financial performance”, Human Resource Management, Vol. 57 No. 2,
+pp. 567-582, doi: 10.1002/hrm.21867.
+Waymer, D. (2013), “Democracy and government public relations: expanding the scope of
+‘Relationship’ in public relations research”, Public Relations Review, Vol. 39 No. 4,
+pp. 320-331, doi: 10.1016/j.pubrev.2013.07.015.
+Wright, P.M. and Snell, S.A. (1998), “Toward a unifying framework for exploring fit and flexibility in
+strategic human resource management”, Academy of Management Review, Vol. 23 No. 4,
+pp. 756-772, doi: 10.2307/259061.
+Wu, F. and Zhou, Q. (2023), “Do ‘humble’leaders help employees to perform better? Evidence from the
+Chinese public sector”, Australian Journal of Public Administration, Vol. 82 No. 3, pp. 368-393,
+doi: 10.1111/1467-8500.12582.
+Xu, Y., Qian, H., Zhang, M., Tian, F., Zhou, L. and Zhao, S. (2023), “Flexible human resource
+management systems and employee innovation performance in China–based on the moderated
+mediation effect”, Chinese Management Studies, Vol. 17 No. 6, pp. 1259-1275, doi: 10.1108/cms-
+11-2021-0495.
+Yang, K. and Pandey, S.K. (2007), “Public responsiveness of government organizations: testing a
+preliminary model”, Public Performance and Management Review, Vol. 31 No. 2, pp. 215-240,
+doi: 10.2753/pmr1530-9576310204.
+Yasir, M. and Majid, A. (2020), “High-involvement HRM practices and innovative work behavior
+among production-line workers: mediating role of employee’s functional flexibility”, Employee
+Relations: The International Journal, Vol. 42 No. 4, pp. 883-902, doi: 10.1108/er-02-2018-0061.
+Yousaf, M., Ihsan, F. and Ellahi, A. (2016), “Exploring the impact of good governance on citizens’ trust
+in Pakistan”, Government Information Quarterly, Vol. 33 No. 1, pp. 200-209, doi: 10.1016/j.giq.
+2015.06.001.
+Zhang, M., Hu, E. and Lin, Y. (2023), “The impact of flexibility-oriented HRM systems on innovative
+behaviour in China: a moderated mediation model of dualistic passion and inclusive
+leadership”, Asia Pacific Business Review, Vol. 29 No. 1, pp. 114-135, doi: 10.1080/13602381.
+2022.2076446.
+About the author
+Trong Tuan Luu is currently a senior lecturer at Swinburne Business School, Swinburne University of
+Technology, Hawthorn, Australia. He received his master’s degree from Victoria University, Australia
+and PhD degree in management from Asian Institute of Technology (AIT), Thailand. His research
+interests include organizational behavior and human resource management in both private and public
+sector. Widely published his research has appeared in refereed academic journals such as Journal of
+Business Ethics, Public Management Review, Asia Pacific Journal of Management, Personnel Review,
+Group and Organization Management, Journal of Business Research, Knowledge Management Research
+and Practice, Tourism Management, International Journal of Hospitality Management, Journal of
+Sustainable Tourism, International Journal of Contemporary Hospitality Management, Industrial
+Marketing Management, among others. Trong Tuan Luu can be contacted at: luutrongtuan@gmail.com
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+PR
+53,8
+2108
+Downloaded from http://www.emerald.com/pr/article-pdf/53/8/2087/9599981/pr-02-2022-0078.pdf by University College London user on 30 May 2

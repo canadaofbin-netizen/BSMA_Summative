@@ -1,0 +1,564 @@
+Technology Analysis & Strategic Management
+ISSN: 0953-7325 (Print) 1465-3990 (Online) Journal homepage: www.tandfonline.com/journals/ctas20
+Search within or beyond the industrial cluster?
+The eﬀect of perceived competition and
+knowledge base tacitness on strategic location
+choices of external knowledge search
+Qiang Li & Jingjing Guo
+To cite this article: Qiang Li & Jingjing Guo (2020) Search within or beyond the industrial
+cluster? The eﬀect of perceived competition and knowledge base tacitness on strategic
+location choices of external knowledge search, Technology Analysis & Strategic Management,
+32:6, 711-723, DOI: 10.1080/09537325.2019.1702941
+To link to this article:  https://doi.org/10.1080/09537325.2019.1702941
+Published online: 21 Dec 2019.
+Submit your article to this journal 
+Article views: 424
+View related articles 
+View Crossmark data
+Citing articles: 5 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ctas20Search within or beyond the industrial cluster? The eﬀ ect of
+perceived competition and knowledge base tacitness on strategic
+location choices of external knowledge search
+Qiang Liaand Jingjing Guob,c
+aSchool of Business, Zhejiang University City College, Hangzhou, People ’s Republic of China;bInstitutes of Science
+and Development, Chinese Academy of Sciences, Beijing, People ’s Republic of China;cSchool of Public Policy and
+Management, University of Chinese Academy of Sciences, Beijing, People ’s Republic of China
+ABSTRACT
+From a knowledge-based perspective, this paper highlights the need for a
+framework linking perceived competition of the industry and ﬁrms’
+strategic location choices of external knowledge search and examineswhether the perceived competition increases the propensity of clusterﬁrms to search more widely from extra-cluster knowledge sources than
+intra-cluster knowledge sources. Furthermore, we emphasise that clusterﬁrms with varying degrees of tacitness in their knowledge base might
+respond to such competition di ﬀerently when conducting external
+knowledge search activities. Using a sample of 310 cluster ﬁrms in the
+Zhejiang Province of China, we ﬁnd that the cluster ﬁrm would increase
+the propensity for more geographic boundary-spanning search relativeto local search while under the pressure of competition. Moreover, the
+positive relationship between perceived competition and the propensity
+towards geographic knowledge search is weaker when the tacitness ofthe cluster ﬁrm’s knowledge base is higher. The ﬁndings contribute to
+the understanding of the relationship between competition and thechoice of location strategies in external knowledge search.ARTICLE HISTORY
+Received 4 January 2019
+Revised 16 October 2019Accepted 4 December 2019
+KEYWORDS
+Competition; geographicboundary-spanning search;knowledge base tacitness;industrial cluster
+1. Introduction
+As the knowledge-based view (KBV) argues, the heterogeneous knowledge base among ﬁrms is the
+main determinant of the creative capacity and above-average performance because it inﬂ uences a
+ﬁrm’s opportunities to reduce costs or increase di ﬀerentiation from competitors (Grant 1996 ;
+Maskell and Malmberg 1999 ; del-Corte-Lora, Molina-Morales, and Vallet-Bellmunt 2016 ; Chen,
+Zhou, and Probert 2017 ). When a ﬁrm confronts a severe competition, it may be triggered to
+search for new ideas and knowledge which may help to recon ﬁgure and update its knowledge port-
+folios to defend the existing competitive advantage (Chen 2008 ; Theeke 2016 ). The innovation search
+pieces of literatures suggest that it is important to engage with a wide range of external sources and
+actors, such as competitors, suppliers, clients, and universities, for acquiring new ideas, insight and
+knowledge to stay abreast of the competition (Laursen and Salter 2006 ; del-Corte-Lora, Molina-
+Morales, and Vallet-Bellmunt 2016 ). However, the nature of the relationship between competition
+and external knowledge search is not clear-cut. On the one hand, scholars state that a ﬁrm may
+be expected to pursue more external knowledge search if it will be able to obtain new and
+© 2019 Informa UK Limited, trading as Taylor & Francis GroupCONTACT Qiang Li liq@zucc.edu.cn, liq312@hotmail.com School of Business, Zhejiang University City College, Hangzhou
+310015, People’ s Republic of China
+This article has been republished with minor changes. These changes do not impact the academic content of the article.TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+2020, VOL. 32, NO. 6, 711 –723
+https://doi.org/10.1080/09537325.2019.1702941heterogeneous knowledge to di ﬀerentiate the products or lower production costs in reaction to the
+competition (Menon and Pfe ﬀer2003 ). On the other hand, competition pushes the ﬁrm to be more
+eﬃcient and inhibits the pursuing of risky activities (Melville, Gurbaxani, and Kraemer 2007 ). For
+example, Morandi Stagni, Fosfuri, and Santalo ( 2017 )ﬁnd that tougher product-market competition
+causes an increase in technological exploitation and a decrease in technological exploration. Thus,
+competition may promote more local, less risky and costly search (Chen and Miller 2007 ; García-
+Granero, Vega-Jurado, and Alegre 2014 ). One of the possible explanation for the inconsistency is
+that these studies fail to distinguish the type of external knowledge search with di ﬀerent geographic
+location choices.
+The literature in innovation search and economic geography has a debate over the di ﬀerences of
+local search and geographic boundary-spanning search (Bathelt, Malmberg, and Maskell 2004 ;
+Alcácer and Chung 2007 ). It emphasises the relative advantage of local search in the eﬃciency of
+knowledge search process due to the geographic and social proximity of spillover (Letaifa andRabeau 2013 ; Roper, Love, and Bonner 2017 ). Conversely, the relative advantages of geographic
+boundary-spanning search against local search are from increasing the probability of acquiring het-
+erogeneous knowledge and reducing the likelihood of leakage of its own knowledge (Wang 2015 ).
+Given these di ﬀerences, a ﬁrm would strategically choose the locations of search to trade-o ﬀ
+between attaining the e ﬃciency of the knowledge search process, and acquiring heterogeneous
+knowledge and reducing knowledge leak-out. Furthermore, under ﬁerce competition, the managerial
+decisions of a ﬁrm are not only to increase or decrease the magnitude of external search but more
+importantly to make choices about how much to invest in local search and geographic boundary-spanning search while considering the scarcity of the resource. However, it is largely unexplored
+about how the perceived competitive pressures in the industry may shape a ﬁrm’s strategic location
+choices between local search and geographic boundary-spanning search. Furthermore, the paper
+also suggests that the relationships between the perceived competition and location choices of
+external knowledge search are contingent upon the level of tacitness in a ﬁrm’s knowledge base.
+Prior research has demonstrated that tacit knowledge is di ﬃcult to be imitated by the competitors
+and transferred smoothly among actors (Kogut and Zander 1992 ; Kikoski and Kikoski 2004 ). There-
+fore, we argue that the tacitness of knowledge base may inﬂ uence the extent to which a ﬁrm will
+be threatened by the competition, then increase or hinder the motivation to acquire heterogeneous
+knowledge and control its own valuable knowledge away from leak-out (Visser and Boschma 2004 ).
+To test our hypotheses, our study focuses on the empirical setting on the industrial clusters in the
+Zhejiang province of China. Recent research focuses on the industrial cluster ’s role as a geographi-
+cally agglomerated knowledge system (Guo, Jin, and Li 2019 ),
+ and how the cluster ﬁrms interact
+with both intra-cluster and extra-cluster knowledge sources in the innovation process (Wang
+2015 ). Based on a random sample of 310 cluster ﬁrms, the results show that the perceived compe-
+tition has a signi ﬁcant and positive impact on the propensity towards geographic boundary-spanning
+search (referred to as ‘PTGBS ’). Moreover, we also ﬁnd that knowledge base tacitness undermines the
+positive relationship between perceived competition and PTGBS. Thus, it shows that a ﬁrm’s strategic
+location choices of external knowledge search not only depend on its competition pressure in theexternal environment but also on the characteristic of the knowledge base. Our study aims tomake several contributions to the extant literature on industry competition and innovation search.
+We further advance the relationship between industry competition and innovation search literature
+not only by highlighting the importance of competition as a determinant of external knowledgesearch (Drechsler and Natter 2012 ) but also by pointing to the di ﬀerent e ﬀects that exerts on local
+search and geographic boundary-spanning search in terms of the propensity of search within orbeyond geographical boundary of the cluster. Such ﬁndings have an important implication that com-
+petition not only inﬂ uences the magnitude of external knowledge search but also the trade-o ﬀ
+between two types of geographical knowledge search. Hence, this study provides a morenuanced view of how the interplay of industry competition and knowledge base tacitness mayshape the location choices of external knowledge search.712 Q. LI AND J. GUO2. Theory and hypotheses
+2.1. The trade-o ﬀbetween knowledge search within and beyond geographical boundaries
+of the cluster
+To sustain a competitive advantage, a ﬁrm need to constantly engage external knowledge search in
+response to the challenge of the dynamic market and intense rivalry (Laursen and Salter 2006 ). Scho-
+lars in the industrial cluster ﬁeld have identi ﬁed two strategic location choices for external search:
+local search and geographic boundary-spanning search (Caragliu and Nijkamp 2015 ). A local
+search involves searching for new knowledge or solutions from intra-cluster knowledge sources
+within the cluster ’s geographic boundary (Caragliu and Nijkamp 2015 ). The industrial cluster and
+economic geography literatures emphasise the superiority and dominant tendency to conduct
+local search which is also recognised as the most e ﬃcient mode of external knowledge search
+(March 1991 ). This is due, largely, to the greater ease and relatively lower cost of searching locally
+because of proximity arguments (Maskell and Malmberg 1999 ; Letaifa and Rabeau 2013 ). However,
+the mere reliance on intra-cluster knowledge can result in ‘knowledge homogenisation ’of the
+cluster that remains locked into an increasingly obsolete technological trajectory (Levinthal andMarch 1993 ). Furthermore, the intra-cluster knowledge sources are not only providers of new knowl-
+edge but also channels by which valuable knowledge will be spilt to rivals (Alcácer and Chung 2007 ).
+The risk is even higher when the cluster ﬁrms are searching within the industrial cluster where the
+local actors have more advantages in assimilating and transfer the spilt knowledge by face-to-faceinteractions. Therefore, it implies that the proximity of open innovators has the downside of knowl-
+edge homogenisation and negative externalities caused by overly local search.
+Geographic boundary-spanning search involves searching for the new knowledge or solutions
+from extra-cluster knowledge sources beyond the geographic boundary of the cluster (Wang2015 ). Recent research has suggested that the primary motivation for the geographic boundary-span-
+ning search is the need to secure heterogeneous knowledge necessary to support the innovation
+activities of the ﬁrm (Visser and Boschma 2004 ). It may allow cluster ﬁrms to access more technologi-
+cal opportunities and acquire new knowledge that are not available through intra-cluster knowledgesearch (Rosenkopf and Nerkar 2001 ). Moreover, geographic boundary-spanning search can reduce
+the risk of unintentional knowledge spillover to local actors who are the major rivals competing
+for the scarce resources in the same region (Wang 2015 ). Both of geographic distance and unfamiliar
+contexts inhibit the unintentional spillover of knowledge to the actors outside of the industrial
+cluster. However, establishing and maintaining the relations with distant ﬁrms requires a large
+amount of time, e ﬀorts and speci ﬁc investment (Bathelt, Malmberg, and Maskell 2004 ). It involves
+intense e ﬀorts and investments to develop a shared interpretative and institutional context for
+joint problem-solving and learning.
+As the ﬁrm may have limited time and resources, there are limits to the number of external knowl-
+edge sources that a ﬁrm can manage simultaneously (Laursen and Salter 2006 ). The question thus
+becomes whether intra-cluster knowledge sources or extra-cluster knowledge sources should be
+prioritised. The inherent trade-o ﬀthat exists between the search within and outside of industrial
+cluster results from the con ﬂicting e ﬀects of local or non-local knowledge sources on the innovation.
+Local search helps to keep the costs of coordination and di ﬃcult of knowledge transfer at a minimum
+(Alcácer and Chung 2007 ).
+ While critical, such local search can not provide a cluster ﬁrm of diverse
+and non-redundant knowledge, and also is more likely to leak out its valuable knowledge to external
+actors (Roper, Love, and Bonner 2017 ; Nan, Liu, and Ma 2018 ). On the other hand, geographic bound-
+ary-spanning search may enable to access the diverse knowledge distributed widely across large geo-graphic areas (Visser and Boschma 2004 ). The trade-o ﬀis that it will not only spend much more
+resources and managerial attention, but also it will be more risky and uncertain in the ﬁrm’s knowl-
+edge search process (Phene, Lindquist, and Marsh 2006 ). Thus, the cluster ﬁrms have to prioritise the
+choice between attaining proximate-based e ﬃciency of the knowledge search process through localTECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 713search and heterogeneous knowledge through geographic boundary-spanning search. When the pri-
+ority for diverse knowledge is greater than the e ﬃciency of the knowledge search process, a cluster
+ﬁrm will choose to search external knowledge more widely from extra-cluster knowledge sources
+than from intra-cluster knowledge sources, and vice versa.
+2.2. Competition and the propensity towards geographic knowledge search
+Competition is regarded as a common threat related to the ﬁrm survival and may have impact on
+the motivation of search and strategic change (March 1991). Within an industrial cluster, compe-
+tition is intense because the cluster ﬁrms usually sell seriously homogeneous products to the
+same market and access to the similar technologies or knowledge (Guo, Jin, and Li 2019; Ferras-Her-
+nandez and Nylund 2019). We argue that ﬁerce competition may trigger cluster ﬁrms to ﬁnd novel
+ways or heterogeneous knowledge to maintain their competitive advantage (Tsai and Hsu 2014).
+Prior studies have suggested intensi ﬁed competition may encourag e competitive imitation
+within the cluster (Porter 2000). When it occurs, due to the fast di ﬀusion of knowledge aﬀ orded
+by geographic proximity, ﬁerce competition may result in the p roblem of seriously homogeneous
+products and then diminish a cluster ﬁrm’s competitive advantage (Grant 1996;P o r t e r2000). To
+sustain the competitive advantage, the cluster ﬁrms tend to search externally to look for the
+superior alternatives to their current meth ods in both product and process, explore new
+markets, and ﬁnd new and better ways to compete (Chen 2008;T h e e k e 2016). Although the
+intra-cluster knowledge has an economic e ﬀect for a cluster ﬁrm, it fails to provide competitive
+advantages due to the homogenisation or redun dancy of the knowledge (Visser and Boschma
+2004; Bathelt, Malmberg, and Maskell 2004). However, extra-cluster knowledge sources across
+locations will have a greater amount of heterogeneous kno wledge due to the di ﬀerences in
+initial endowments, the actions of actors engage d in R&D, and educational systems and regulation
+(Alcácer and Chung 2007 ). As a result, while competition is intensi ﬁed, a cluster ﬁrm will be more
+likely to search beyond the geographic bounda ry of the industrial cluster to establish a di ﬀeren-
+tiation advantage.
+Moreover, competitive threats may raise the motivations of cluster ﬁrms for protecting their
+knowledge when they engage in external collabo ration and knowledge sourcing (Guo, Jin, and
+Li2019 ). Research has shown that there are substant ial risks of being imitated or copied while a
+ﬁrm is involved in accessing external sour ces of knowledge (Drechsler and Natter 2012 ; Giarratana
+and Mariani 2014 ). The empirical study of Drechsler and Natter ( 2012 )a l s o ﬁnds that competitive
+threats decrease the probability of ﬁrms being open because a high risk exists for other ﬁrms to
+easily imitate a ﬁrm’s products. The fact is that to obtain external knowledge, a ﬁrm has to
+reveal some parts of its knowledge to t he external partner (Alcácer and Chung 2007). While a
+cluster ﬁrm spills valuable knowledge to its competitors, the competitive advantage will be
+eroded. Therefore, the cluster ﬁr m sn e e dt ob eo p e nt oe n g a g ew i t hab r o a ds e to fe x t e r n a lk n o w l -
+edge sources but also have to protect their own knowledge from being copied by its competitors(Guo, Jin, and Li 2019). Especially when the competition is becoming intense, the cluster ﬁrms will
+be more concerned with the risk of losing ‘corporate crown jewels ’involved in external knowledge
+searching (Drechsler and Natter 2012 ). Scholars ﬁnd that local search will increase the risk of knowl-
+edge leak-out because co-location shortens the process and speed of knowledge spillover to com-
+petitors (Alcácer and Chung 2007). On the contrary, searching for knowledge from geographically
+distant sources to a large extent decreases the odds of knowledge leak-out. In sum, we propose
+that competition will increase the motivation for a cquiring heterogeneous knowledge and protect-
+ing internal knowledge from the technology le a k - o u t ,a sar e s u l t ,i tm a yc o m p e lac l u s t e rﬁ rm to
+search more widely from extra-cluster knowledge s ources rather than from intra-cluster knowledge
+sources.
+H1.Competition intensity has a positive e ﬀect on PTGBS.714 Q. LI AND J. GUO2.3. The moderating e ﬀect of knowledge base tacitness
+The distinction between codi ﬁed and tacit knowledge is the key to understanding organisational
+knowledge (Hsiao, Chen, and Choi 2017 ). Codi ﬁed knowledge is always embodied in the written
+language, code or formula and as a consequence it can be verbalised and communicated, processed,
+transmitted and stored relatively easily between individuals and organisations (Zander and Kogut
+1995 ). Tacit knowledge is deeply rooted in experience, action, procedures, skills and know-how,
+etc, and yet is di ﬃcult to articulate in a way that is meaningful and complete (Kogut and Zander
+1992 ). Some scholars have identi ﬁed that the knowledge can be classi ﬁed on a continuum
+between fully tacit and fully codi ﬁed (Pérez-Luño, Alegre and Valle-Cabrera 2019 ), so we will refer
+to knowledge tacitness instead of tacit or codi ﬁed knowledge.
+We argue that competition is less likely to increase PTGBS of those cluster ﬁrms that have higher
+levels of knowledge base tacitness. As noted by Kikoski and Kikoski ( 2004 ), tacit knowledge may
+create a learning curve for other ﬁrms di ﬃcult and time-consuming to follow. Hence, cluster ﬁrms
+with higher knowledge base tacitness are harder or more costly for competitors to imitate and expro-priate (Kogut and Zander 1992 ; Kikoski and Kikoski 2004 ). As the distinctiveness and value of tacit
+knowledge assets are eroded relatively slowly, they are more likely to sustain unique capabilities
+and di ﬀerential in products. It may be less threatened by the ﬁerce competition and as a result
+will be less triggered to select the risky and costly geographic boundary-spanning search for newknowledge. In contrast, a ﬁrm with lower levels of knowledge base tacitness is more vulnerable to
+competition within the cluster. As codi ﬁed knowledge can be easily di ﬀused and known by other
+cluster ﬁrms, it is harder for a cluster ﬁrm to create unique capabilities depending on the production
+and use of codi ﬁed knowledge (Maskell and Malmberg 1999 ; Hartono and Sheng 2016 ). As a
+response, while these cluster ﬁrms face intensi ﬁed competition, they are more prone to emphasise
+on the priority for searching heterogeneous knowledge outside of the cluster to sustain the competi-tive position.
+As previously noted, competition threat may raise more concerns on knowledge leak-out issues
+than search e ﬃciency when engaging in external knowledge sourcing (Guo, Jin, and Li 2019 ).
+However, to what extent that a cluster ﬁrm responds to such a threat depends on how easily its col-
+laborators can expropriate the focal ﬁrm’s valuable knowledge base in the knowledge exchange
+process. Tacit knowledge is highly context-speci ﬁc and hard to be transferred easily (Kogut and
+Zander 1992 ). So a tacit knowledge base can serve as an isolating mechanism that increases the
+diﬃculty
+of replication by outsiders (Szulanski and Jensen 2006 ). Because of these di ﬃculties,
+while such cluster ﬁrms interact with external knowledge sources, the unintentional knowledge
+leak-out is less likely. When a cluster ﬁrm is more optimistic about the knowledge leak-out issues,
+it is more likely to draw attention on the e ﬃciency of the knowledge search process than safeguard
+of a knowledge base as a response to competition. In sum, for a cluster ﬁrm with a high tacit knowl-
+edge base, the desire to seek heterogeneous knowledge and reduce knowledge leak-out triggeredby competition will be lower. Thus, we suggest the following hypotheses:
+H2. Knowledge base tacitness will negatively moderate the main positive e ﬀect of competition intensity on a
+cluster ﬁrm’s PTGBS: the e ﬀect will be weaker when tacitness is high and stronger when tacitness is low.
+3 Research methodology
+3.1. Data collection and sample
+We identi ﬁed a random sample from a number of industrial clusters located in the Zhejiang Province
+of China. For budgetary reasons, we randomly selected 600 cluster ﬁrms from six cities in the Zhejiang
+Province. Using a systematic random sampling design, in each of six cities we sampled 100 ﬁrms from
+the list of cluster ﬁrms provided by the local Economic and Trade Commissions and Statistical
+Bureaus. We designed our questionnaire using existing scales and used its Chinese version after aTECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 715back-translation process to avoid cultural bias. The questionnaire items were measured on a ﬁve-
+point Likert scale, from strongly disagree to strongly agree. We adopted a double-respondent ques-
+tionnaire design method by dividing the questionnaire into two parts, which were required to be
+ﬁnished by two top managers of the same ﬁrm independently and anonymously. We identi ﬁed
+senior managers, mid-level managers who were knowledgeable about the ﬁrm’s product innovation
+as the respondents. The respondents were assured that the data would be kept con ﬁdential to urge
+them to express their true opinions. After several rounds of follow-ups, we obtained data from 338
+ﬁrms, thus achieving a participation rate of 56.3%. The industry distribution of our sample revealed
+that most of the cluster ﬁrms were from telecommunication and electronics (11.5%), textile and cloth-
+ing (24.9%), general or special equipment (21.3%), machinery and metal (18.6%), pharmaceuticalsand chemicals (11.8%), and furniture (9.2%). About 72.78% were of small size with less than 300employees, 16.86% were of medium size with between 300 and 1000 employees and 7.40% were
+of large size with more than 1000 employees. About 21.60% had been in business between 5 and
+10 years, with another 52.37% aged between 10 and 20 years, 10.95% aged between 20 and 30,2.66% older, 8.28% aged less than 5 years, and 4.14% of the sample (14 ﬁrms) had the missing
+value. We then eliminated 28 copies of questionnaires with excessive missing data and with asingle respondent. Our ﬁnal sample included 310 valid questionnaires, representing an eﬀ ective par-
+ticipation rate of 51%.
+3.2. Variable measures
+3.2.1. Dependent variable
+We included eight external knowledge sources used in innovation: customers, competitors, suppliers
+of equipment, suppliers of material or components, consultants, commercial laboratories, universities
+or other higher education institutes, public research institutes (Laursen and Salter 2006 ). First, we fol-
+lowed Wu, Wang and Li ( 2015 )’s study in deﬁ ning intra-cluster and extra-cluster sources of knowl-
+edge. Intra-cluster refers to the municipal district (namely, the city) where the focal cluster ﬁrm is
+located in, and extra-cluster refers to the space outside the municipal district.
+Furthermore, we asked the respondents to indicate whether their ﬁrms had used eight types of
+both intra-cluster and extra-cluster sources of knowledge over the last three years using a binary vari-able coded 1 if the source was used and 0 otherwise. Third, we summed up these codings to obtain a
+composite measure of intra-cluster knowledge search and extra-cluster knowledge search. Finally, wecalculated the ratio of geographic boundary-spanning search to the sum of both local and geo-
+graphic boundary-spanning search to measure PTGBS. Firms with a higher ratio were considered
+as placing a heavy emphasis on geographic boundary-spanning search, reﬂ ecting the ﬁrm’s propen-
+sity to search more widely from extra-cluster knowledge sources rather than intra-cluster knowledge
+sources.
+3.2.2. Independent and moderating variables
+Following Jaworski and Kohli ( 1993 ), we used the perception of the competitive environment to
+measure competition intensity which includes three items. Those items reﬂ ect the managers ’percep-
+tion of competition that eventually counts for the decision-making in whether a ﬁrm will invest in
+diﬀerentiating and retaining the competitive advantages.
+When the ﬁrm’s knowledge base is di ﬃcult to articulate, communicate and understand, that
+knowledge base is considered more tacit and less codi ﬁed. Based on these concepts, we adopted
+three ﬁne-grained items to measure the degree of knowledge base tacitness (Zander and Kogut
+1995 ).
+3.2.3. Control variables
+To control for internal R&D, we included a dummy variable taking the value of one if the cluster ﬁrm
+had R&D centre or department and of zero otherwise. Firm age was measured as the number of years716 Q. LI AND J. GUOsince the ﬁrst operation in its logged format. Similarly, the ﬁrm size was measured by the natural log-
+arithm of the number of full-time employees. Moreover, because foreign ownership and export may
+help the cluster ﬁrm identify useful knowledge in other regions or countries (Lyles and Salk 1996 ),
+foreign ownership was included and measured by a dummy variable that equals to 1 if the clusterﬁrm was classi ﬁed as a foreign-invested company or JVs, and 0 to indicate otherwise. We included
+a dummy variable to control whether the cluster ﬁrm had export activities or not. To control for di ﬀer-
+ences in the ﬁnancial resources, we used the adapted scale developed by Tan and Peng ( 2003 )t o
+measure ﬁnancial slack. We introduced the construct of technological turbulence to account for
+the speed of change and instability in a technological environment (Jaworski and Kohli 1993 ).
+Finally, we included industry dummies to account for potential industrial di ﬀerences.
+3.3. Construct reliability and validity
+Table 1 shows the Cronbach ’sαcoeﬃcients all of which were above the recommended threshold of
+0.70, indicating internal consistency and good reliability of the factors generated. We conducted a
+conﬁ rmatory factor analysis which showed good convergent validity for the factor speci ﬁcation of
+competition intensity, technological turbulence, knowledge base tacitness and ﬁnancial slack. To
+demonstrate discriminant validity, in Table 2 we computed the average variance extracted values
+for our constructs which were ranged 0.58 –0.78, exceeding the 0.50 benchmark.
+We carefully examined the potential multicollinearity problems of our data. None of the absolute
+values of the correlation between variables was above 0.50. We also mean-centred all the variablesbefore generating the interaction terms to reduce potential multicollinearity problems. Finally, VIFs
+for all individual variables were all below 2 which was far below the cut-o ﬀof 10. Therefore, we
+were con ﬁdent that our estimates were not threatened by multicollinearity problems.
+3.4. Common method bias
+The use of perceptual measures for both independent and dependent variables in this paper mayraise concerns of common method variance in our estimations. To safeguard against this possibility,we adopted both procedural and statistical techniques recommended by Podsako ﬀet al. ( 2003 )t o
+mitigate and detect a possible common method variance problem. Procedurally, we used tworespondents rather than a single respondent from each ﬁrm for data collection. Furthermore,
+using the con ﬁrmatory factor analysis, we compared the measurement model without the
+common method factor and with the factor. After adding the common method factor, the model
+Table 1. Measures for all of the multi-item constructs.
+Variable name Variable constructionStandardized factor
+loading
+Competition
+intensity
+(a= 0.74)There are frequent price wars or promotion wars in the industry. 0.56***There is ﬁerce competition in the industry. 0.80***
+Anything that one competitor can oﬀ er, others can match readily. 0.74***
+Technological
+turbulence(a= 0.71)The technology in our industry was changing quite rapidly. 0.83***
+Technological developments were highly unpredictable. 0.55***
+Technological changes provided big opportunities in our industry. 0.66***
+Knowledge base
+tacitness
+(a= 0.71)It is di ﬃcult to comprehensively document in manuals, formulas, blueprints or
+reports.0.64***
+It is di ﬃcult to precisely communicate through written documents and manuals. 0.60***
+It is di ﬃcult to comprehensively understand from written documents and
+manuals if without personal contact and talking to skilled employees.0.75***
+Financial slack
+(a= 0.81)Theﬁrm ’s retained earnings have been su ﬃcient for market expansion. 0.67***
+It has a pool of ﬁnancial resources that can be used on a discretionary basis. 0.81***
+It is able to secure necessary bank loans. 0.80***
+χ
+2= 66.6, p= 0.00; χ2/df = 1.4; CFI = 0.98; IFI = 0.98; RFI = 0.90; TLI = 0.97; NFI = 0.94; RMSEA = 0.03.TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 717Table 2. Descriptive statistics and correlations ( N= 310).
+Variables Mean S.D. 1 2 3 4 5 6 7 8 9 10
+1. PTGBS 0.311 0.314
+2. Firm size 5.042 1.174 −0.051
+3. Technological uncertainty 3.168 0.794 0.232*** 0.009 (0.62)
+4. Firm age 2.745 0.862 0.020 0.076 0.258***
+5. Financial slack 3.329 0.786 0.146** −0.163** 0.120* −0.131* (0.78)
+6. Export 0.556 0.498 0.015 0.323*** 0.002 −0.028 −0.001
+7. Foreign ownership 0.195 0.397 −0.024 0.131* −0.032 0.060 0.093+0.140*
+8. R&D centre 0.491 0.501 0.183*** 0.319*** 0.177** −0.0020 0.118* 0.032 0.113*
+9. Competition intensity 3.598 0.784 0.098+0.167** 0.247*** 0.100+−0.003 0.195*** −0.017 −0.037 (0.63)
+10. Knowledge base tacitness 3.319 0.583 −0.112* 0.021 0.092+0.068 −0.007 −0.031 −0.005 0.010+0.122* (0.58)
+Note: AVE in parenthesis. *** p< 0.001; ** p< 0.01; * p< 0.05;+p< 0.10.718 Q. LI AND J. GUOwith a common method factor did not ﬁt better than the model without a common method factor.
+These ﬁndings suggest that common method bias was not a signi ﬁcant problem.
+4. Results
+Our dependent variable is the fraction of geographic boundary-spanning search from the sum of
+both local and geographic boundary-spanning search, which assumes values between 0 and 1. It
+is‘censored ’or has a corner solution of zero, so we perform multiple Tobit regressions analysis
+with Stata 12. Table 2 shows the descriptive statistics and the correlation matrix between the vari-
+ables included in the empirical analysis. Table 3 reports the results for the main and moderating
+eﬀects. Model 1 includes the control variables only. Model 2 introduces the main eﬀ ect of compe-
+tition intensity, and models 3 and 4 add moderating variables and the interactive eﬀ ect of compe-
+tition intensity and knowledge base tacitness. Finally, Model 5 is the full model, which is used totest the hypotheses.
+In model 2, as hypothesised, we ﬁnd a positive and signiﬁ cant relationship between competition
+intensity and PTGBS ( β= 0.080, p< 0.05). Model 4 provides further support for Hypothesis 1, in that
+the linear term of competition intensity is positive and signi ﬁcant ( β= 0.092, p< 0.05). Hence, Hypoth-
+esis 1 is con ﬁrmed. The result indicates that perceived competition may inﬂ uence the location choice
+of external knowledge search by triggering the cluster ﬁrm to rely relatively more on geographic
+boundary-spanning search rather than local search. In Model 4, we introduce the interaction term
+of competition intensity and knowledge base tacitness to test whether there is a moderating
+eﬀect of knowledge base tacitness on PTGBS. In this model, the coe ﬃcient of the interaction term
+is negative and signiﬁ cant ( β=−0.127, p< 0.05), resulting in strong support for Hypothesis 2. It
+means that knowledge base tacitness will negatively moderate the main positive eﬀ ect of compe-
+tition intensity on a cluster ﬁrm’s PTGBS.
+5. Discussion and conclusions
+Based on a questionnaire survey of 310 cluster ﬁrms in the Zhejiang Province of China, we ﬁnd that
+perceived competition creates pressures for cluster ﬁrms to shift their focus to acquire hetero-
+geneous knowledge and reduce technology leak-out, thereby increasing the propensity for acquiringTable 3. Results of Tobit models for the e ﬀect of competition on PTGBS.
+Variables Model 1 Model 2 Model 3 Model 4
+Firm size −0.0430+(0.0246) −0.0473+(0.0244) −0.0509* (0.0238) −0.0458+(0.0237)
+Technological uncertainty 0.117** (0.0444) 0.0980* (0.0447) 0.0948* (0.0434) 0.0985* (0.0431)
+Firm age −0.0289 (0.0416) −0.0299 (0.0412) −0.0186 (0.0402) −0.0271 (0.0400)
+Financial slack 0.0377 (0.0333) 0.0362 (0.0329) 0.0353 (0.0321) 0.0310 (0.0318)Export 0.101+(0.0548) 0.0828 (0.0548) 0.0672 (0.0534) 0.0670 (0.0529)
+Foreign ownership −0.0742 (0.0653) −0.0594 (0.0649) −0.0503 (0.0632) −0.0400 (0.0628)
+R&D centre 0.158** (0.0580) 0.167** (0.0575) 0.184** (0.0563) 0.173** (0.0559)
+Competition intensity 0.0795* (0.0362) 0.104** (0.0359) 0.0923* (0.0358)
+Knowledge base tacitness −0.153*** (0.0438) −0.153*** (0.0433)
+Competition intensity * Knowledge
+base tacitness−0.127* (0.0619)
+Constant 0.136* (0.0647) 0.124+(0.0642) 0.120+(0.0624) 0.127* (0.0619)
+Industry dummy Included Included Included Included
+No. of obs 310 310 310 310
+No. of left-censored obs 97 97 97 97
+No. of right-censored obs 21 21 21 21
+Pseudo R20.078 0.088 0.115 0.124
+LR chi235.78*** 40.58*** 52.67*** 56.85***
+Log likelihood −211.47097 −209.06982 −203.02439 −200.93517
+Note: Standard error in parenthesis. *** p< 0.001; ** p< 0.01; * p< 0.05;+p< 0.10.TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 719extra-cluster knowledge. For the cluster ﬁrms with more tacit of the knowledge base, the competition
+will exert a lesser positive e ﬀect on PTGBS. Our study provides a more comprehensive and nuanced
+picture of external knowledge search within and beyond the geographic boundary of the industrial
+cluster under dynamic competitive environments.
+Ourﬁndings yield important theoretical contributions to the literature on innovation search and
+industry competition. First, they provide an interesting contribution to open innovation literature onthe choice of search mode decisions. To the best of our knowledge, the majority of research studies
+investigate the choice of governance modes such as internal and external search (Berchicci 2013 )o r
+JVs and acquisition for external knowledge sourcing (Riccobono, Bruccoleri, and Perrone 2015 ). In
+response to the call for future studies into how ﬁrms ’structure R&D activities (Berchicci 2013 ), we par-
+ticularly investigate the choice between searching external knowledge beyond and within the geo-graphical boundary of the cluster. Previous studies have reached a consensus on the need for
+searching knowledge simultaneously within and beyond the geographic boundary of the industrial
+cluster (Wu and Wu 2014 ;Wu, Wang, and Li 2015 ). However, the common emphasis of those studies
+has to be given to treat local search and geographic boundary-spanning search as a dichotomy or
+two quite di ﬀerent alternatives (Wu, Wang, and Li 2015 ) or examine the interactive e ﬀect of two
+sources of knowledge search (Wu and Wu 2014 ). The results of Wu and Wu ( 2014 ) show that extensive
+local search and international search complement each other and produce a more positive impact onproduct innovation. Our operationalisation of the construct contributes to a more ﬁne-grained concep-
+tual understanding of the trade-o ﬀbetween two diﬀ erent geographical scales of knowledge sources as
+an organisational adaptation to the competitive environment. The managerial implication is the needfor senior managers to prioritise the allocation of resources between local search and geographic
+boundary-spanning search and makes a trade-o ﬀin a resource-constrained context.
+Second, our ﬁndings contribute in understanding the relationship between industry competition
+and external knowledge search. Industry competition has a critical role in determining a ﬁrm’s strat-
+egy of resource allocation and acquisition (Melville, Gurbaxani, and Kraemer 2007 ) and search behav-
+iour pattern (Chen and Miller 2007 ). So far, only limited empirical studies pay attention to the direct or
+contingent roles of industry competition in shaping a ﬁrm’s external knowledge search behaviour.
+For example, García-Granero et al. ( 2014 )ﬁnd that increased competition will decrease the probability
+of pursuing an exploratory oriented external search strategy. Wang and Guo ( 2019 ) indicate that
+industrial competition will exert a negative moderating eﬀ ect on the relationship between absorptive
+capacity and external knowledge search. Our study extends the existing studies by proposing thatindustry competition may shape strategic location choices of external knowledge search in the par-
+ticular context of the industrial cluster. Furthermore, our results inform the ongoing debate on the
+choice of local search and geographic boundary-spanning search by ﬁrms under the ﬁerce competi-
+tive environment. On the one hand, the competition will increase the incentive of cluster ﬁrms for
+acquiring heterogeneous knowledge from external knowledge sources. The long-term industrial
+competitiveness is related to the ability of ﬁrms
+ to upgrade their knowledge base continuously
+(Maskell and Malmberg 1999 ). On the other hand, competition may raise the ﬁrm’s concerns for
+leak-out of valuable knowledge to external actors (Alcácer and Chung 2007 ; Guo, Jin, and Li 2019 ),
+thereby reducing the use of external sources (Giarratana and Mariani 2014 ). Therefore, our
+ﬁndings inform this on-going debate by theoretically proposing and empirically showing that com-
+petition not only inﬂ uences the magnitude of external knowledge search but also the trade-o ﬀ
+between two di ﬀerent geographical orientation of the knowledge search. The managerial implication
+of the results may present a partial solution to such a dilemma by suggesting that the cluster ﬁrm
+may choose and trade-o ﬀbetween two di ﬀerent geographical scales of knowledge search according
+to their relative advantages.
+Furthermore, our ﬁndings shed light on the role of knowledge tacitness in knowledge transfer and
+external search process. Scholars have reached a consensus that proximity matters in transferringtacit knowledge because such a type of knowledge exchange continues to require regular face-to-face contact and a high degree of mutual trust and understanding (Malmberg and Maskell 2002 ;720 Q. LI AND J. GUONan, Liu, and Ma 2018 ). However, most of those studies focus their attention on the tacitness of trans-
+ferred knowledge, instead of the knowledge base of the ﬁrm conducting external knowledge search
+(Hsiao, Chen, and Choi 2017 ). This study, to the best of our knowledge, is one of the ﬁrst to system-
+atically investigate how the extent to which tacit knowledge constitutes the knowledge base of the
+cluster ﬁrm will in ﬂuence the geographic location choices of the external search as a response to the
+pressure of competition. Our study indicates that knowledge base tacitness weakens the positive
+eﬀect of competition intensity on PTGBS by reducing the threaten by the ﬁerce competition, while
+lessening the concerns for controlling knowledge leak-out issues. It then complements arguments
+on how knowledge attribute inﬂ uences the transfer, exploitation and control of innovation-related
+knowledge during the innovation search process.
+Our study has a number of limitations that point to directions for future research. First, given that
+perceptual measures were used for both the independent and moderating variables, it might be the
+possibility of common method bias. Although we employed both procedural and statistical precau-
+tions, the potential of this bias could not be completely ruled out. Second, the survey data were gath-ered at one point in time, which prevented us from studying causal relationships between
+competition and PTGBS. A longitudinal study may provide further insight into the dynamics of how
+the cluster ﬁrms trade-o ﬀbetween types of knowledge search to adapt competition in the market.
+Third, our sample was selected from the industrial clusters in China. This might raise the concern of
+the generalisability issue of our ﬁndings. Additional empirical research, using samples of ﬁrms
+coming from other countries, is warranted. Furthermore, future studies may consider the coexistence
+of competition and cooperation between the cluster ﬁrm. Although the cluster ﬁrms compete ﬁercely,
+it is worthwhile to examine how competition and cooperation interactively in ﬂuence the location
+choices of external knowledge search across the geographic boundary of the industrial cluster.Finally, this paper examined the moderating e ﬀect of knowledge base tacitness, but it is reasonable
+to expect that other internal contingencies, such as organisational slack and organisational inertia,may also in ﬂuence the relationship. Perceived competition may provide incentives for a cluster ﬁrm
+to search comparably more from extra-cluster knowledge sources, but it is also critical for a cluster
+ﬁrm to have su ﬃcient resource and capacity to adjust their external search strategy.
+Acknowledgements
+We deeply thank anonymous reviewers for their insightful suggestions and constructive comments. We are grateful to
+the editors for their patient work for our manuscript.
+Disclosure statement
+No potential con ﬂict of interest was reported by the authors.
+Funding
+This research was funded by the Natural Science Foundation of Zhejiang Province, China [grant number LY17G020011],
+the Humanities and Social Sciences Project of Ministry of Education, China [grant number 16YJC630054], the National
+Natural Science Foundation of China [grant numbers 71603235, 71672185], and the Youth Innovation Promotion Associ-
+ation, Chinese Academy of Sciences [grant number 2017201].
+Notes on contributors
+Qiang Li is an associate professor of Business School of Zhejiang University City College, Hangzhou, China. His research
+topics include innovation network and knowledge search in emerging economies.
+Jingjing Guo is an associate professor at Institutes of Science and Development, Chinese Academy of Sciences and School
+of Public Policy and Management, University of Chinese Academy of Sciences. Dr. Guo ’s research concentrates on topics
+such as innovation management and innovation policy.TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 721ORCID
+Qiang Li http://orcid.org/0000-0002-5077-2194
+References
+Alcácer, J., and R. Chung. 2007 .“Location Strategies and Knowledge Spillovers. ”Management Science 53: 760 –776.
+Bathelt, H., A. Malmberg, and P. Maskell. 2004 .“Clusters and Knowledge: Local Buzz, Global Pipelines and the Process of
+Knowledge Creation. ”Progress in Human Geography 28: 31– 56.
+Berchicci, L. 2013 .“Towards an Open R&D System: Internal R&D Investment, External Knowledge Acquisition and
+Innovative Performance. ”Research Policy 42 (1): 117 –127.
+Caragliu, A., and P. Nijkamp. 2015 .“Space and Knowledge Spillovers in European Regions: The Impact of Di ﬀerent Forms
+of Proximity on Spatial Knowledge Di ﬀusion. ”Journal of Economic Geography 16 (3): 749 –774.
+Chen, W. R. 2008 .“Determinants of Firms ’Backward- and Forward-Looking R&D Search Behavior. ”Organization Science 19
+(4): 609 –622.
+Chen, W. R., and K. D. Miller. 2007 .“Situational and Institutional Determinants of Firms ’R&D Search Intensity. ”Strategic
+Management Journal 28 (4): 369 –381.
+Chen, X., Y. Zhou, and D. Probert. 2017 .“Managing Knowledge Sharing in Distributed Innovation from the Perspective of
+Developers: Empirical Study of Open Source Software Projects in China. ”Technology Analysis & Strategic Management
+29 (1): 1– 22.
+del-Corte-Lora, V., F. X. Molina-Morales, and T. M. Vallet-Bellmunt. 2016 .“Mediating Eﬀ ect of Creativity Between Breadth
+of Knowledge and Innovation. ”Technology Analysis & Strategic Management 28 (7): 768 –782.
+Drechsler, W., and M. Natter. 2012 .“Understanding a Firm ’s Openness Decisions in Innovation. ”Journal of Business
+Research 65 (3): 438 –445.
+Ferras-Hernandez, X., and P. A. Nylund. 2019 .“Clusters as Innovation Engines: The Accelerating Strengths of Proximity. ”
+European Management Review 16 (1): 37– 53.
+García-Granero, A., J. Vega-Jurado, and J. Alegre. 2014 .“Shaping the Firm ’s External Search Strategy. ”Innovation 16 (3):
+417 –429.
+Giarratana, M. S., and M. Mariani. 2014 .“The Relationship Between Knowledge Sourcing and Fear of Imitation. ”Strategic
+Management Journal 35 (8): 1144 –1163.
+Grant, R. M. 1996 .“Toward a Knowledge-Based Theory of the Firm. ”Strategic Management Journal 17 (S2): 109–
+122.
+Guo, B., Y. Jin, and Q. Li. 2019 .“How Does Spatial Crowdedness A ﬀect Patenting Performance in Industrial Clusters? An
+Empirical Study on the Moderated U-Shaped Relationship. ”Technology Analysis & Strategic Management 31 (9): 1016 –
+1028.
+Hartono, R., and M. L. Sheng. 2016 .“Knowledge Sharing and Firm Performance: The Role of Social Networking Site and
+Innovation Capability. ”Technology Analysis & Strategic Management 28 (3): 335 –347.
+Hsiao Y-C, Chen C-J, and Y. R. Choi. 2017 .“The Innovation and Economic Consequences of Knowledge Spillovers: Fit
+Between Exploration and Exploitation Capabilities, Knowledge Attributes, and Transfer Mechanisms. ”Technology
+Analysis & Strategic Management 29 (8): 872 –885.
+Jaworski, B. J., and A. K. Kohli. 1993 .“Market Orientation: Antecedents and Consequences. ”The Journal of Marketing 57 (3):
+53–70.
+Kikoski, C. K., and J. F. Kikoski. 2004 .The Inquiring Organization: Tacit Knowledge, Conversation, and Knowledge Creation
+Skills for 21st-Century Organizations . London: Praeger.
+Kogut, B., and U. Zander. 1992 .“Knowledge of the Firm, Combinative Capacities and the Replication of Technology. ”
+Organization Science 3: 383 –397.
+Laursen, K., and A. Salter. 2006 .“Open for Innovation: The Role of Openness in Explaining Innovation Performance among
+UK Manufacturing Firms. ”Strategic Management Journal 27 (2): 131 –150.
+Letaifa, S. B., and Y. Rabeau. 2013 .“Too Close to Collaborate? How Geographic Proximity Could Impede Entrepreneurship
+and Innovation. ”Journal of Business Research 66 (10): 2071 –2078.
+Levinthal, D. A., and J. G. March. 1993 .“The Myopia of Learning. ”Strategic Management Journal 14 (2): 95– 112.
+Lyles, M. A., and J. E. Salk. 1996 .“Knowledge Acquisition from Foreign Parents in International Joint Ventures: An Empirical
+Examination in the Hungarian Context. ”Journal of International Business Studies 27 (5): 877 –903.
+Malmberg, A., and P. Maskell. 2002 .“The Elusive Concept of Localization Economies: Towards a Knowledge-Based Theory
+of Spatial Clustering. ”Environment and Planning A: Economy and Space 34 (3): 429 –449.
+March, J. G. 1991 .“Exploration and Exploitation in Organizational Learning. ”Organization Science 2 (1): 71– 87.
+Maskell, P., and A. Malmberg. 1999 .“Localised Learning and Industrial Competitiveness. ”Cambridge Journal of Economics
+23 (2): 167 –185.
+Melville, N., V. Gurbaxani, and K. Kraemer. 2007 .“The Productivity Impact of Information Technology across Competitive
+Regimes: The Role of Industry Concentration and Dynamism. ”Decision Support Systems 43 (1): 229 –242.722 Q. LI AND J. GUOMenon, T., and J. Pfe ﬀer.2003 .“Valuing Internal vs. External Knowledge: Explaining the Preference for Outsiders. ”
+Management Science 49 (4): 497 –513.
+Morandi Stagni, R., A. Fosfuri, and J. Santalo. 2017 .“Unpacking the Impact of Competition on Innovation Strategies:
+Exploration vs Exploitation[J]. ”Academy of Management Proceedings 2017(1): 10933.
+Nan, D., F. Liu, and R. Ma. 2018 .“Eﬀect of Proximity on Recombination Innovation in R&D Collaboration: An Empirical
+Analysis. ”Technology Analysis & Strategic Management 30 (8): 921 –934.
+Pérez-Luño, A., J. Alegre, and R. Valle-Cabrera. 2019 .“The Role of Tacit Knowledge in Connecting Knowledge Exchange
+and Combination with Innovation. ”Technology Analysis & Strategic Management 31 (2): 186 –198.
+Phene, A., K. F. Lindquist, and L. Marsh. 2006 .“Breakthrough Innovations in the U.S. Biotechnology Industry: The E ﬀects of
+Technological Space and Geographic Origin. ”Strategic Management Journal 27: 369 –388.
+Podsako ﬀ, P. M., S. B. MacKenzie, J. Y. Lee, and N. P. Podsako ﬀ.2003 .“Common Method Biases in Behavioral Research: A
+Critical Review of the Literature and Recommended Remedies. ”Journal of Applied Psychology 88 (5): 879 –903.
+Porter, M. E. 2000 .“Location, Competition, and Economic Development: Local Clusters in a Global Economy. ”Economic
+Development Quarterly 14 (1): 15– 34.
+Riccobono, F., M. Bruccoleri, and G. Perrone. 2015 .“External Knowledge Sourcing for R&D Activities: Antecedents and
+Implications of Governance Mode Choice. ”Technology Analysis & Strategic Management 27 (2): 142 –160.
+Roper, S., J. H. Love, and K. Bonner. 2017 .“Firms ’Knowledge Search and Local Knowledge Externalities in Innovation
+Performan
+ce.”Research Policy 46 (1): 43– 56.
+Rosenkopf, L., and A. Nerkar. 2001 .“Beyond Local Search: Boundary-Spanning, Exploration, and Impact in the Optical Disk
+Industry. ”Strategic Management Journal 22 (4): 287 –306.
+Szulanski, G., and R. J. Jensen. 2006 .“Presumptive Adaptation and the Eﬀ ectiveness of Knowledge Transfer. ”Strategic
+Management Journal 27 (10): 937 –957.
+Tan, J., and M. W. Peng. 2003 .“Organizational Slack and Firm Performance During Economic Transitions: Two Studies
+from an Emerging Economy. ”Strategic Management Journal 24 (13): 1249 –1263.
+Theeke, M. 2016 .“The Eﬀ ects of Internal and External Competition on Innovation Breadth. ”Journal of Business Research 69
+(9): 3324 –3331.
+Tsai, K. H., and T. T. Hsu. 2014 .“Cross-Functional Collaboration, Competitive Intensity, Knowledge Integration
+Mechanisms, and New Product Performance: A Mediated Moderation Model. ”Industrial Marketing Management 43
+(2): 293 –303.
+Visser, E., and R. Boschma. 2004 .“Learning in Districts: Novelty and Lock-in in a Regional Context. ”European Planning
+Studies 12 (6): 793 –808.
+Wang, C. C. 2015 .“Geography of Knowledge Sourcing, Search Breadth and Depth Patterns, and Innovative Performance:
+A Firm Heterogeneity Perspective. ”Environment and Planning A 47 (3): 744 –761.
+Wang, Y., and B. Guo. 2019 .“Managing External Knowledge Search: The Multiple and Contingent Roles of Absorptive
+Capacity. ”Technology Analysis & Strategic Management ,1–15.doi:10.1080/09537325.2019.1632821 .
+Wu,
+A., C. Wang, and S. Li. 2015 .“Geographical Knowledge Search, Internal R&D Intensity and Product Innovation of
+Clustering Firms in Zhejiang, China. ”Papers in Regional Science 94 (3): 553 –572.
+Wu, J., and Z. F. Wu. 2014 .“Local and International Knowledge Search and Product Innovation: The Moderating Role of
+Technology Boundary Spanning. ”International Business Review 23 (3): 542 –551.
+Zander, U., and B. Kogut. 1995 .“Knowledge and the Speed of Transfer and Imitation of Organizational Capabilities: An
+Empirical Test. ”Organization Science 6: 76 –92.TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT 723

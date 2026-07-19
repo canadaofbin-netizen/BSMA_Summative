@@ -1,0 +1,852 @@
+The impact of empowerment-
+focused human resource
+management on relationship
+learning and innovation
+Huiying Zhang, Man Yang and Baofeng Huo
+College of Management and Economics, Tianjin University, Tianjin, China
+Abstract
+Purpose –In the field of innovation, there is growing interest in exploring the factors that determine the extent
+to which firms can learn from external sources. However, most previous studies neglect the role of human
+factors. Little is known about which employee behaviors are desirable for boundary-spanning learning
+activities and which human resource management (HRM) practices are appropriate to respond to externalknowledge transfer across boundaries. To fill this gap, the authors investigate the role of empowerment-
+focused HRM in interfirm learning and explore the integration of external inputs from the perspective of
+employees.
+Design/methodology/approach –Based on empirical survey data collected from different countries, the
+authors test the proposed model with structural equation modeling.
+Findings –The authors ’findings indicate that empowerment-focused HRM practices, including job
+enrichment, job autonomy, teamwork and cross-functional communication, are positively associated with
+relationship learning.
+Originality/value –In this study, the authors present a theoretical explanation for how empowerment-
+focused HRM may influence firm ’s innovation through relationship learning process and provide empirical
+evidence regarding the specific HRM practices that can have different effects on the different phases of
+relationship learning.
+Keywords Empowerment-focused HRM, Relationship learning, Innovation
+Paper type Research paper
+1. Introduction
+In recent years, leveraging external knowledge for innovation has attracted significant
+attention in both research and practice ( West and Bogers, 2014 ). By learning from external
+partners, firms can obtain new knowledge and resources to accelerate innovation in rapidly
+changing environments ( Fang et al., 2011 ). For example, many firms from the Asia –Pacific
+region, such as HTC, Acer, Haier and other original design manufacturers and original
+equipment manufacturers, have developed their own innovative capabilities by leveraging
+relationship learning mechanisms with their partners ( Bryan and Sinkovics, 2010 ).
+Relationship learning, which involves a series of boundary-spanning learning activities, is
+viewed as an effective mechanism that allows firms to learn from partners to increase their
+knowledge stock ( Fang et al., 2011 ). Although the importance of sourcing external knowledge
+from interfirm learning is widely discussed and recognized, the factors that explain why some
+firms outperform others when learning from external partners remain largely unexplored.
+Prior research often discusses interorganizational mechanisms of external learning, such asstrategic alliances, industrial clusters and social embeddedness. Little is known about the role
+of firms ’internal organization mechanisms in the whole external learning process ( Ooms
+et al., 2015 ).Foss et al.(2011) argued that firms ’internal practices should be taken into accountEmpowerment-
+focused human
+resource
+management
+1767
+This research is supported by the National Natural Science Foundation of China (#72091214 and
+#72062011) and Tianjin Municipal Education Commission of China (#2019JWZD26).The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/0263-5577.htm
+Received 30 September 2020
+Revised 17 March 2021
+Accepted 10 April 2021
+Industrial Management & Data
+Systems
+Vol. 121 No. 8, 2021
+pp. 1767-1783
+© Emerald Publishing Limited
+0263-5577
+DOI10.1108/IMDS-09-2020-0563
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+when firms attempt to leverage external knowledge. Therefore, this study aims to explore
+intraorganizational practices that promote relationship learning.
+Research on relationship learning has shown knowledge inflows and integration at the
+level of organizational boundary. However, these studies did not examine the role of
+employees in knowledge flows across the boundary of firms. Cohen and Levinthal (1990)
+noted that obtaining and integrating external knowledge is dependent on the individuals
+working. External and internal sources of innovation only connect when employees engage in
+boundary-spanning activities. Bogers et al. (2018) considered that the role of employees is a
+research gap in exploring how firms rely on external sources to accelerate innovation
+processes. de Zubielqui et al. (2019) proposed that firms that allow employees to interact with
+external holders of knowledge are better at disseminating externally sourced knowledge
+within the organization. Thus, employees ’behavior, attitude and knowledge base may
+influence external learning. Drawing upon the behavioral perspective, human resource
+management (HRM) practices can influence and align employee behaviors, and different
+behaviors are required for different objectives that firms expect to achieve ( Jiang et al., 2013 ).
+However, there is a lack of systematic research on what employee behaviors are desirable in
+boundary-spanning activities and which HRM practices are appropriate to support
+relationship learning.
+Current studies find that access to external knowledge is no longer dependent on
+centralized “gatekeeping ”roles, while boundary-spanning roles that can obtain external
+knowledge are becoming more distributed across organizations ( Bogers et al., 2018 ). Given
+the increasingly decentralized information inflow, some studies assert that control-oriented
+or“centralized ”structures may hamper informal interconnections and lead to information
+transmission leaks and delays, and slow decision-making is punished under dynamic
+environmental conditions ( Foss et al., 2011 ).Murphy and Salomone (2013) also concluded that
+organizations must give up some managerial control to enable a more diverse and larger
+group of people to connect with external holders of knowledge. To foster the flow of
+information and knowledge across boundaries and hierarchies, firms are expected to develop
+empowerment-focused HRM, which refers to “the delegation of responsibility from
+management to employees, nonhierarchical forms of work organization and sharing of
+information between, and within, different levels of organization ”(Harley, 1999 ;Kazlauskaite
+et al., 2012 ). Empowerment-focused HRM involves a bundle of human resource practices that
+empower employees to use their knowledge and skills to achieve organizational objectives(Subramony, 2009 ;Jiang et al., 2013 ).
+Therefore, the purpose of this study is to explore the role of empowerment-focused HRM in
+improving relationship learning and subsequent innovation performance. Our study makes
+three contributions to the literature. First, in response to the call made by Foss et al. (2011) for
+further research on the appropriate intraorganizational response to a much wider range of
+external knowledge inputs, we introduce HRM into the research on cross-organizational
+learning. Second, we enrich the understanding of empowerment-focused HRM by identifying
+empowering practices at the individual level and the organizational level. Third, most
+existing research regards three phases of interfirm relationship learning as independent or
+parallel, and little is known about differences and relationships between the processes of
+acquisition, interaction and integration of external knowledge. Our study shows that the
+improvement of different phases of relationship learning requires different forms of human
+resource support.
+2. Theoretical foundations and proposed hypotheses
+2.1 Empowerment-focused HRM
+In a stable environment, bureaucratic HRM or control-oriented HRM systems can maintain
+employee alignment with the institutional context by
+“developing a human capital pool with aIMDS
+121,8
+1768
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+narrow range of skills and elicit a narrow range of employee behavior ”(Chang et al., 2013 ).
+However, due to rapid changes in technology and increasing global competition, openness to
+external sources is becoming an essential part of competitiveness ( Flor et al., 2018 ). In this
+context, Shipton et al. (2017) pointed out that the HRM configuration based on open networks
+and structures that emphasize job design and empowerment is the opposite of control-
+oriented HRM. Foss et al. (2011) suggested that increased openness to external sources will
+increase the urgency of extensive delegation of authority in a fast-moving external
+environment. According to organizational information processing theory, moving the level of
+decision-making down to where the information exists can increase the capacity to process
+information and reduce the cost of transmitting and receiving information ( Galbraith, 1974 ).
+Thus, the empowerment of employees who are close to external sources can help them rapidly
+interact with outside parties and process external information effectively. In addition,
+providing employees with more opportunities to participate in decision-making can increase
+the number of a firm ’s interfaces with its external environment and increase employees ’
+willingness to absorb and share external knowledge. In this sense, empowerment-focused
+HRM, which refers to granting authority to employees, is likely to be beneficial for firms that
+attempt to leverage external knowledge efficiently.
+Empowerment practices are designed to share power with subordinates. It can influence
+employees ’perceptions and behaviors by creating an environment where employees perceive
+to be psychologically empowered ( Jiang et al. , 2013 ). In this study, we recognize these
+empowerment-focused HRM practices from a multilevel perspective. The literature suggests
+that the influence of empowerment practices is fundamentally a multilevel phenomenon
+(Maynard et al., 2012 ). The word “power ”at the individual level has two underlying meanings –
+“authority to do something ”and “ability to make something happen ”(Kazlauskaite et al., 2012 ).
+The former relates to the practice of job autonomy, which describes the degree of independence
+and freedom that employees experience in how they perform their tasks and roles ( Bos-Nehles
+et al.,2 0 1 7 ). The latter refers to job enrichment, which can help employees develop a multitude
+of skills and gain a variety of experiences by providing a wide range of work content
+(Subramony, 2009 ). At the individual level, empowerment HRM practices focus on granting
+employees authority and rich skills to help them perform well in their individual work. In
+contrast, the organizational level of empowerment HRM practices focuses on coordination and
+collaboration, such as “decentralized decision making through teamwork, ”“problem-solving
+groups to encourage feedback ”and “increasing communication between different levels of
+functions ”(Jiang et al.,2 0 1 3 ).Harley (1999) argued that empowerment is not only the degree of
+decision-making power at the individual level but also the “empowering ”forms of work
+organization, which include team-based work and various communication mechanisms.
+2.2 Relationship learning
+Relationship learning has been described as an interfirm learning activity by which firms can
+learn from their partners to increase their knowledge base and develop innovative
+capabilities ( Selnes and Sallis, 2003 ;Chen et al., 2009 ). Although firms increasingly rely on
+external knowledge and resources to improve internal innovation, it does not imply that
+external knowledge can be transferred easily across organizational boundaries. Implicitly,
+the connection to external sources requires boundary-spanning activities based on a certain
+degree of relationship. A close relationship is the foundation of substantial knowledge
+exchange between exchanging parties ( Fang et al., 2011 ). Thus, relationship learning as joint
+activities between supply chain partners provides a viable and effective mechanism to bring
+external knowledge into firms.
+Relationship learning consists of three major subprocesses: information sharing, joint
+sensemaking and knowledge integration, including not only the input flow of informationEmpowerment-
+focused human
+resource
+management
+1769
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+and knowledge but also knowledge integration and dissemination ( Selnes and Sallis, 2003 ).
+Drawing on organizational learning theor y, firms can utilize organizational-level
+mechanisms to enhance learning capability and thus improve innovativeness ( Chang et al.,
+2013). From knowledge-based view, knowledge flows and stocks within the organization
+depend on learning behaviors of employees and these behaviors at the individual level
+collectively shape firm learning capability ( Volberda et al., 2010 ). This view is consistent with
+the perspective of research on strategic HRM. HRM as one of the organizational-level
+arrangements can affect firm competitive advantage by creating an organizational context
+that elicits employee behaviors that contribute to firm capability ( Collins and Smith, 2006 ;
+Jiang et al. , 2013 ). Thus, we suggest that HRM practices are appropriate antecedents of
+interfirm relationship learning.
+2.3 Empowerment-focused HRM and relationship learning
+2.3.1 Empowerment-focused HRM and information sharing. Information sharing, as a
+starting point for relationship learning, enables companies to obtain crucial information and
+knowledge from their partners for innovation ( Selnes and Sallis, 2003 ;Chen et al., 2009 ). Only
+when information and knowledge are sufficiently and efficiently transferred across
+organizational boundaries can firms utilize and integrate this information and knowledge
+to support innovation ( Fang et al., 2011 ). However, the input flow of external information and
+knowledge into firms is not an automatic or easy process ( Flor et al. , 2018 ).Cohen and
+Levinthal (1990) noted that “a fairly broad range of prospective ‘receptors ’to the
+environment ”is important when firms contact external sources of knowledge. Subsequent
+studies suggested that exposure to external sources through a variety of receptors can
+contribute to contact with diverse external knowledge ( Jansen et al., 2005 ). The receptors have
+two meanings: one is the number of employees exposed to external sources, and the other is
+the knowledge diversity possessed by these employees ( Cohen and Levinthal, 1990 ;Lane
+et al., 2006 ).Foss et al. (2011) proposed that employees who work directly with external actors
+are the best people to judge, absorb and pass on inputs from external environment. These
+employees need to be able to make decisions and implement them rapidly in activities
+involving external learning.
+Job enrichment can develop multiskilling and enrich knowledge structures of employees
+(Patterson et al., 2004 ). By performing multiple tasks and receiving a variety of training,
+employees obtain a considerable breadth of knowledge and skills that help them to perform
+complex jobs. Based on the theory of human capital, Bogers et al. (2018) theorize that
+“employees ’knowledge bases can be important determinants of firms ’ability to access
+external sources of knowledge for innovation. ”As mentioned earlier, increasing the number
+of interfaces and the knowledge diversity of employees can improve the firm ’s receptivity,
+which may facilitate identification and acquisition of external information and knowledge.
+Thus, we propose ( Figure 1 ) the following:
+H1a. Job enrichment is positively related to information sharing.
+In addition, de Zubielqui et al. (2019) suggested that employees who are independent and
+free to determine how to do their work interact more with external resources. It seems that a
+high degree of autonomy may increase the number of interfaces a firm has with its external
+environment. Job autonomy, as an empowerment HRM practice at the individual level,
+determines the extent to which employees pa rticipate in decision-making as well as the
+automatic right to intera ct with outside parties ( Bos-Nehles et al., 2017 ). Teamwork, as a
+practice at the organizational level, also provides employees with more opportunities to
+take part in the decision-making process and express their views and ideas freely
+(Wilkinson, 1998 ;Subramony, 2009 ). The logic of teamwork is similar to that of jobIMDS
+121,8
+1770
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+autonomy based on the belief that employee s who are granted some degree of autonomy
+will increase their number of receptors for exp osure to external sources, thereby improving
+their ability to obtain external informatio n and knowledge. Therefore, we propose the
+following:
+H1b. Job autonomy is positively related to information sharing.
+H1c. Teamwork is positively related to information sharing.
+Prior research has shown that horizontal communication facilitates nonroutine information
+processing, but increases information redundancy and reduces access to different
+perspectives ( Sethi et al. , 2001 ). A high degree of overlap in information and knowledge
+within the organization may impede external knowledge inflows ( Cohen and Levinthal, 1990 ).
+However, de Zubielqui et al. (2019) considered that lateral forms of communication across
+functional boundaries lead to better acquisition of external knowledge. Thus, we suggest that
+cross-functional communication can affect the quality and breadth of information sharing.
+We propose the following:
+H1d. Cross-functional communication is positively related to information sharing.
+2.3.2 Empowerment-focused HRM and joint sensemaking. Many prior studies on how firms
+leverage external sources for innovation have focused on the phases of acquisition and
+integration and ignored the step of interaction. As West and Bogers (2014) emphasized,
+ongoing interactions with external partners play an important role in linking different phases
+in the process of sourcing external knowledge. Because organizations vary in the ways they
+make sense of the same information, it is easy to cause misunderstandings that impede
+effective knowledge transfer between parties ( Selnes and Sallis, 2003 ;Fang et al. , 2011 ).
+Accordingly, interaction mechanisms are needed to reduce cognitive distance and seek
+shared understanding ( West and Bogers, 2014 ). Joint sensemaking acts as a mechanism thatH1a-d
+H2a-d
+H3a-dH5a 
+H6aH5b 
+H6bJob enrichment
+Job autonomy
+Teamwork
+Cross-functional 
+communicationAt the organizational level
+Empowerment-focused 
+HRM practicesAt the individual level
+Innovation performanceProduct innovation
+Process innovationInformation sharing
+Joint sensemaking
+Knowledge integrationH4a
+H4b
+Relationship learning Figure 1.
+Conceptual modelEmpowerment-
+focused human
+resource
+management
+1771
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+facilities effective interactions and communication by building appropriate interaction
+platforms ( Myers and Cheung, 2008 ;Huikkola et al., 2013 ).Selnes and Sallis (2003) noted that
+since there are differences in the mechanisms involved in making sense of external
+information, some external information and knowledge acquired “might be rejected, not
+because it is unimportant, but because the organization lacks abilities and knowledge to
+make sense of it. ”
+Employees who possess diverse and different knowledge structures can promote joint
+activities to build consensus and better understand external knowledge. At the individual
+level, job enrichment can enhance employees ’abilities and expand their knowledge base, thus
+enabling them to make sense of external information and knowledge. In addition, job
+enrichment encourages employees to take on different roles and tasks and broadens their
+experience, allowing them to respond flexibly to diverse joint activities and adapt quickly to
+cross-organizational work scenarios ( Chang et al., 2013 ;Bos-Nehles et al., 2017 ). Therefore, we
+propose the following:
+H2a. Job enrichment is positively related to joint sensemaking.
+Joint sensemaking includes a series of interactive activities that rely on cross-organizational
+collaboration ( Cheung et al., 2011 ). These interorganizational interactions require firms to
+respond quickly to external feedback and fully coordinate cross-functional and cross-
+boundary personnel and resources. Maet al. (2019) noted that the centralization of authority
+can facilitate the centralized management and coordination of employees ’actions, enabling
+them to quickly respond to complex situations in joint activities. However, Annosi et al.(2020)
+argued that the decentralization of decision-making and the low formalization of tasks
+facilitate complex interactions between individuals and external environment. It seems that
+the more employees are independent and free to determine their own work composition and
+working methods, the more they are willing to take on additional roles and tasks ( Foss et al.,
+2011;Bos-Nehles et al., 2017 ). These additional tasks include striving to build long-term close
+relationships with the firm ’s external partners ( Huoet al., 2016 ). Close personal relationships
+can promote effective communication and interaction between organizations, thereby
+shortening cognitive distance between partners. Therefore, we propose the following:
+H2b. Job autonomy is positively related to joint sensemaking.
+At the organizational level, teamwork and cross-functional communication, as interactive
+mechanisms inside the organization, also have impacts on interaction activities outside the
+organization. Teamwork and cross-functional communication within the organization
+increase firms ’interactional knowledge and experience related to interaction, feedback,
+conflict management and the implementation of cooperative programs ( Johnson et al., 2004 ).
+When organizations possess more interactional knowledge, they can better understand how
+to interact with external partners and engage in joint activities ( Fang et al., 2011 ). Thus, we
+propose the following:
+H2c. Teamwork is positively related to joint sensemaking.
+H2d. Cross-functional communication is positively related to joint sensemaking.
+2.3.3 Empowerment-focused HRM and knowledge integration. For firms to benefit from
+external sources, external information and knowledge from partners must be fully integrated
+into organizational memory. Knowledge integration can be viewed as knowledge
+institutionalization that t ransfers knowledge from employees to an organization ’s
+property. Based on Cohen and Levinthal (1990) , building an effective internal
+communication mechanism by sharing the same specialized language and code can
+increase knowledge sharing between employees and promote knowledge transformationIMDS
+121,8
+1772
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+from individuals to organizations. Sharing some languages and codes provides a common
+base of understanding through which individuals with disparate experience and knowledge
+can transfer and integrate knowledge ( Collins and Smith, 2006 ). Thus, knowledge integration
+requires the ability of connectedness, which leads to internal links between disciplines and
+functions to develop common understandings within the organization ( Volberda et al., 2010 ).
+Ooms et al. (2015) stated that connectedness encourages communication and cooperation and
+facilitates knowledge transformation and integration. Empowerment practices, which
+emphasize interactions among individuals and information sharing between different levels
+of the organization, have the function of connectedness.
+Job enrichment not only broadens the knowledge structures of employees, but also
+develops organizational contacts through cross-training and rotation. On the one hand,
+previous studies have shown that diverse knowledge structures of employees may lead to
+redundancy and thus hinder new knowledge embedding systems and structures ( Cohen and
+Levinthal, 1990 ). On the other hand, developing organizational contacts can effectively build
+the internal linkages needed for knowledge integration. Therefore, we propose the following:
+H3a. Job enrichment is positively related to knowledge integration.
+Jansen et al. (2005) indicated that employees who participate in decision processes can
+promote interplay between various perspectives. Decision-making authority can broaden
+internal communication for knowledge sharing ( de Zubielqui et al. , 2019 ). Employee
+autonomy and team autonomy enable a more diverse and larger group of people to connect to
+form a rich internal network of diverse knowledge. Through teamwork, firms can create a
+climate of trust and cooperation to increase employees ’willingness to share the information,
+experience and knowledge that they acquire from the external environment ( Haneda and Ito,
+2018). Therefore, we propose the following:
+H3b. Job autonomy is positively related to knowledge integration.
+H3c. Teamwork is positively related to knowledge integration.
+In addition, a high level of interaction among team members increases internal links to
+facilitate and support shared codes and language ( Collins and Smith, 2006 ). Cross-functional
+communication refers to information sharing and coordination between disciplines and
+functions ( Wilkinson, 1998 ;Harley, 1999 ). Cross-functional communication leads to a
+horizontal communication channel that deepens knowledge flows across functional
+boundaries. Jansen et al. (2005) found that the interaction between different functions can
+contribute to a unit ’s ability to overcome differences, interpret issues and build a common
+understanding of new knowledge. Moreover, cross-functional communication provides an
+effective way to develop linkages among employees to encourage knowledge exchange and
+transfer ( Kazlauskaite et al., 2012 ;Ooms et al., 2015 ). Therefore, we propose the following:
+H3d. Cross-functional communication is positively related to knowledge integration.
+2.4 Relationship learning and innovation performance
+Prior studies have examined the relationship between relationship learning and innovation
+performance ( Chen et al., 2009 ). However, most of these studies regarded the three phases of
+relationship learning as a whole or parallel in analysis. They did not distinguish between
+information sharing, joint sensemaking and knowledge integration, which may have
+different impacts on innovation. Fang et al. (2011) noted that relationship learning involves
+knowledge inflows and knowledge store. Firms first access and receive incoming knowledge
+through information sharing and then integrate and store the external knowledge into
+organizational memory. Zhou et al. (2020) showed that knowledge inflow and integration, asEmpowerment-
+focused human
+resource
+management
+1773
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+distinct stages of knowledge transfer, play different roles in the creation of new knowledge.
+Therefore, it is necessary to distinguish the different effects of the three phases of relationship
+learning on firms ’innovation activities. In addition, we suggest that the relationships
+between the three phases are not independent. Joint sensemaking acts as an interaction
+mechanism that links the phases of information sharing and knowledge integration. On the
+one hand, when firms acquire too much information and knowledge from external sources,
+information overload becomes a concern, and joint sensemaking can filter external
+information and knowledge to improve the quality and efficiency of information sharing
+(Bryan and Sinkovics, 2010 ). On the other hand, joint sensemaking can help interpreting and
+decoding the received information by facilitating the accumulation of shared knowledge and
+then integrate this knowledge into firms ( Fang et al., 2011 ). Thus, we propose the following:
+H4a. Joint sensemaking is positively related to information sharing.
+H4b. Joint sensemaking is positively related to knowledge integration.
+Based on the argument about the use of external knowledge, both acquisition and integration
+processes contribute to improving innovation outcomes ( West and Bogers, 2014 ). Through
+case studies, Eslami et al. (2018) found that the establishment of interactive platforms and
+mechanisms with partners does not guarantee the success of cooperative innovation, but can
+promote the transformation of external knowledge. Joint activities alone are not enough;
+whether interfirm learning can influence firm innovation depends on whether external
+knowledge flows in sufficiently and is stored effectively. Sukoco et al. (2018) also indicated
+that joint sensemaking does not directly affect firm performance, its role is to facilitate the
+exchange of knowledge between the two parties, thereby improving firm performance.
+Therefore, we consider that joint sensemaking, as an interactive process, may not have a
+direct impact on innovation performance. In this study, we focus on exploring the effect of
+information sharing and knowledge integration on firm innovation.
+Research in the field of product development shows that information and knowledge
+exchange with external partners can enhance the performance of new products. Information
+sharing involves exchanging important data with upstream and downstream and gathering
+relevant information about the market ( Myers and Cheung, 2008 ). Firms can clearly identify
+customer product needs and effectively predict market trends through information sharing.
+In addition, information and knowledge from different partners can help firms solve practical
+problems in the product development process ( Eslami et al., 2018 ). In this field, most empirical
+studies focus on product innovation and ignore process innovation ( Un and Asakawa, 2015 ).
+Product and process innovation are two different types of innovation; the former refers to the
+novelty of products, and the latter relates to the efficiency in production ( Haneda and Ito,
+2018). In contrast to product innovation, process innovation is more dependent on the
+institutionalization of the organization to assure efficiency. Through information sharing,
+firms can gain insights into efficiency targets of upstream and downstream partners and how
+managers evaluate these targets internally. For instance, in the thin-film transistor –liquid-
+crystal display (TFT-LCD) industry, data from supplier partners helps firms improve their
+processes ( Un and Asakawa, 2015 ). Thus, we propose:
+H5a. Information sharing is positively related to product innovation.
+H5b. Information sharing is positively related to process innovation.
+In the process of knowledge integration, firms frequently update and evaluate markets,
+policies, databases and techniques across partners to integrate the knowledge “not invented
+here ”and create new knowledge ( Huikkola et al., 2013 ). Knowledge integration involves not
+only the storage and transformation of external knowledge but also the creation of new
+knowledge. New knowledge created through the combination of external knowledge will beIMDS
+121,8
+1774
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+applied to the development of new products. Even though process innovation tends to be
+internal and tacit to the firm, firms can still benefit from integrating external knowledge.
+Knowledge integration can make newly acquired knowledge deeply embedded in routines,
+collective sights and working procedures at the organizational level ( Myers and Cheung,
+2008). The institutionalization of knowledge can lead to process improvements. Thus, we
+propose the following:
+H6a. Knowledge integration is positively related to product innovation.
+H6b. Knowledge integration is positively related to process innovation.
+3. Research methodology
+3.1 Data
+The data used in this study were taken from the high-performance manufacturing research
+project conducted by a group of international researchers during 2012 –2015. The data were
+collected from 288 manufacturing plants located in 13 different countries and three different
+industrial sectors (electronics, machinery and transportation equipment). These industries
+were chosen because of three reasons. First, they represent major sectors of industrialized
+production in the world ( Naor et al., 2010 ). Second, they are in transition and experiencing
+fierce competition. Tsai (2009) pointed out that compared with other sectors, electronics,
+machinery and transportation equipment firms have to cope with a more complex external
+environment and a higher degree of technological uncertainty. Third, since these industries
+have relationship processes with their supply chain partners, establishing cooperative
+relationships with other firms is common ( Garrido-Vega et al., 2015 ). The database ’s stratified
+sample includes both traditional and world-class manufacturing plants. These plants were
+randomly selected from a list of manufacturing plants in each country. Each plant in the data
+set has at least 100 employees. The sample distribution by country and industry is shown in
+Table 1 .
+The questionnaires were prepared in English and translated into the local languages for
+each country by a local member of the research team. To avoid potential biases, the
+questionnaires were then back-translated into English by another local member to check
+consistency with the original version. The managers of the selected plants were contacted via
+phone calls to determine their willingness to participate in the project. Each interested plant
+manager appointed a survey coordinator to take charge of distributing and collecting the
+CountryIndustry
+Total Machinery Electronics Transportation
+Brazil 7 3 11 21
+China 16 10 4 30Spain 6 7 10 23Finland 6 6 5 17Germany 12 6 8 26Italy 17 7 5 29
+Japan 7 6 9 22
+Korea 5 8 13 26Sweden 4 4 1 9UK 5 4 4 13Vietnam 7 9 8 24Israel 4 14 0 18
+Taiwan 10 19 1 30
+Total 106 103 79 288Table 1.
+Sample distribution by
+country and industryEmpowerment-
+focused human
+resource
+management
+1775
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+questionnaires. To ensure the quality of responses, we selected multiple respondents from
+different functions and hierarchies as key informants to complete certain parts of the
+questionnaire. Coordinators helped the research team select appropriate respondents with
+specific knowledge or experience, including supervisors, managers and direct workers in
+each plant. In total, 23 separate questionnaires were sent to each coordinator in sealed
+envelopes. To avoid common method bias, each questionnaire had two informants. We
+ultimately collected 288 useable questionnaires with a response rate of 65%.
+3.2 Measurements
+Most of the measures were adapted from previo usly published scales. The job enrichment
+measures were adapted from Patterson et al. (2004) and Subramony (2009) , including
+employees ’skill flexibility, job variety and job r otation. Job autonomy was assessed by a
+four-item scale based on Bello-Pintado (2015) . These items measured employees ’autonomy
+in deciding how to do their work. Teamwork was measured by four items of Ahmad and
+Schroeder (2003) .A ne x a m p l ei t e mw a s “our plant forms teams to solve problems. ”The
+measures of cross-functional co mmunication were adopted from Jansen et al. (2005) .W e
+asked managers to indicate the extent of cros s-functional communica tion and cooperation
+in their work. The measures of relationship learning were adopted from Selnes and Sallis
+(2003) andCheung et al. (2011) . Information sharing was assessed by a four-item scale,
+involving whether the plant exchanges information related to changes in demand, sensitive
+content, organizational strategies and polic ies and key product technologies with their
+partners. We adopted three items to measure joint sensemaking by asking if the plant can
+(1) maintain close communication with partn ers, (2) hold regular meetings with partners
+and (3) offer the necessary training with part ners. Knowledge integration was measured by
+four items. We asked whether the plant frequently adjusts partners ’common
+understanding of customer preferences and technology trends and whether it integrates
+information from partners. Product and pro cess innovation measures were adapted from
+previous studies ( Tsai, 2009 ;Un and Asakawa, 2015 ). These indicators of product
+innovation included the success rates of new pr oducts, the proportion of annual turnover of
+new products, the market response of new pro ducts and the technical performance of new
+products. Process innovation was measu red with four items regarding the firm ’s
+introduction of important modifications in the production process. All items were
+measured using a five-point Likert scale with “1”indicating “strongly disagree ”and “5”
+indicating “strongly agree. ”
+3.3 Unidimensionality and reliability
+To ensure unidimensionality of the scales, we conducted exploratory factor analysis (EFA)
+with principal component analysis, which found that nine factors explained 66.858% of the
+total variance. Varimax rotation with Kaiser normalization was used to rotate and clarify the
+factors. We used Cronbach ’s alpha to assess reliability. Table 2 shows that each Cronbach ’s
+alpha value was higher than 0.70, which is acceptable. In addition, we calculated corrected
+item-total correlation (CITC) reliability, and all values exceeded the suggested threshold of
+0.40 ( Table 2 ).
+We performed confirmatory factor analysis (CFA) to evaluate convergent validity. The
+model fit indices ( χ2(558)51399.63, RMSEA 50.072, NNFI 50.90, CFI 50.91 and
+SRMR50.065) indicated that the model was acceptable. All loadings were greater than 0.50
+and significant, demonstrating convergent validity. The AVE coefficients were all greater
+than 0.50, which means that the items were able to explain the variance in the constructs. Our
+results showed that all correlations were lower than the square roots of AVEs ( Table 3 ). Thus,
+discriminant validity of the constructs was acceptable.IMDS
+121,8
+1776
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+4. Results
+We used structural equation modeling (SEM) with the maximum-likelihood estimation
+method to test the hypotheses. SEM estimates were generated using the LISREL 8.80
+program. The goodness of fit indices were χ251, 492.63 with df 5570, RMSEA 50.075,
+NNFI50.90, CFI 50.91, which are better than the threshold values suggested by Hu and
+Bentler (1999) ; thus, the model is accepted. The results of the full model are shown in Figure 2 ,
+which provides the standard coefficients associated with the significant paths. The path
+coefficients of H1a,H1b andH1care significant ( β1150.31, β1250.20 and β1350.31).
+Hypothesis 1d is not supported. The path coefficient between job enrichment and joint
+sensemaking is positive and significant ( β2150.24), while the path coefficients of H2b,H2c
+andH2dare not significant. The path coefficients from job autonomy, teamwork and cross-
+functional communication to knowledge integration are 0.32, 0.17 and 0.23, respectively, and
+are significant; therefore, H3b,H3c and H3d are supported, whereas H3a is not. H4is
+supported since the path coefficients are positive and significant ( β4150.21, β4250.35). The
+result shows that information sharing is positively related to product innovation and process
+innovation. H5aandH5bare supported ( β5150.28, β5250.36). For the path from knowledge
+integration to product and process innovation, H6a is not supported, while H6b is
+supported ( β6250.16).
+5. Discussion
+The purpose of this study is to explore the role of empowerment-focused HRM in relationship
+learning. Our results demonstrate several critical relationships among empowerment-
+focused HRM practices, three phases of relationship learning and innovation performance.Construct 1 2 3 4 5 6 7 8 9
+1. Job enrichment 0.76
+2. Job autonomy 0.19 0.81
+3. Teamwork 0.23 0.20 0.77
+4. Cross-functional communication 0.33 0.20 0.08 0.89
+5. Information sharing 0.37 0.11 0.31 0.25 0.71
+6. Joint sensemaking 0.27 0.14 0.16 0.06 0.28 0.73
+7. Knowledge integration 0.12 0.28 0.15 0.33 0.58 0.33 0.75
+8. Product innovation 0.15 0.09 0.21 0.04 0.23 0.09 0.11 0.74
+9. Process innovation 0.37 0.03 0.45 0.24 0.33 0.21 0.32 0.31 0.76Construct Number of questions Cronbach ’s alpha CITC
+Job enrichment 5 0.826 0.549 /C00.674
+Job autonomy 4 0.852 0.647 /C00.793
+Teamwork 4 0.806 0.569 /C00.693
+Cross-functional communication 4 0.917 0.688 /C00.897
+Information sharing 4 0.759 0.511 /C00.565
+Joint sensemaking 3 0.740 0.486 /C00.645
+Knowledge integration 4 0.805 0.468 /C00.691
+Product innovation 4 0.777 0.505 /C00.626
+Process innovation 4 0.794 0.568 /C00.650
+Note(s) : CITC: corrected item –total correlation
+Table 3.
+Discriminant validityTable 2.
+ReliabilityEmpowerment-
+focused human
+resource
+management
+1777
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+First, the positive association between job enrichment and information sharing supports the
+argument that employees with multiskills and diverse work experience can encourage firms
+to gain knowledge from external partners. In addition, the findings show that job enrichment
+is positively related to joint sensemaking. These results are similar to those of Cohen and
+Levinthal (1990) andBogers et al. (2018) , which suggest that the diverse knowledge of
+employees facilitates knowledge transfer across organizational boundaries. Job enrichment
+not only broadens individual employees ’knowledge and expertise portfolios but also allows
+employees to work with new people and take on different roles and tasks. Joint sensemaking
+involves a two-way interaction and consensus building between firms and their partners.
+Nonaka and Takeuchi (2007) pointed out that “people do not just passively receive new
+knowledge, they actively interpret it to fit their own situations and perspectives. ”Employees
+with broad knowledge and rich interactive experience are more likely to build common
+cognitive ground with external partners and promote joint activities. Unlike knowledge
+inflows, knowledge storage requires a more stable and professional knowledge structure
+(Huikkola et al., 2013 ). This is consistent with our results that job enrichment only facilitates
+the effective inflow of external knowledge (information sharing and joint sensemaking); it is
+not related to knowledge integration.
+Second, our results show that both job autonomy and teamwork are positively associated
+with information sharing and knowledge integration. Job autonomy and teamwork improve
+employees ’opportunities to take part in decision-making at the individual level and the team
+level, respectively. From an information processing perspective, the dispersion of decision
+rights to lower levels reduces the costs of transmitting, receiving and processing information
+(Foss et al. , 2011 ). As Vlachos (2008) emphasizes, granting authority to employees and
+teamwork can promote employees ’commitment to participation. The high degree of
+participation allows employees to interact with each other, engage in constant dialogue and
+discussion and integrate their individual perspectives into a new collective perspective.Job enrichment
+Job autonomy
+Teamwork
+Cross-functional 
+communicationInformation 
+sharing
+Joint 
+sensemakingProduct 
+innovation 
+Process 
+innovation 
+Knowledge 
+integration0.31***
+0.24***
+0.20***
+0.31***
+0.17**
+0.23***0.16*0.36***0.28***
+0.35***0.21***
+0.32***
+Note(s) : *p < 0.05; ** p < 0.01; *** p < 0.001Figure 2.
+Estimated structural
+equation modelIMDS
+121,8
+1778
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+Participation can not only increase the range of prospective receptors to the external
+environment but also promote the connection between employees. Thus, empowering
+practices of job autonomy and teamwork facilitate both the acquisition and integration of
+external knowledge. However, job autonomy and teamwork do not enhance joint
+sensemaking. Sensemaking is the social process of searching for a common understanding
+in a relational context ( Huikkola et al. , 2013 ). According to the earlier discussion, job
+autonomy and teamwork can lead to collective cognition, which may deprive employees of a
+broader perspective.
+Third, we find that cross-functional communication is positively related to knowledge
+integration. Because of specialization and departmentalization, organizations often do not
+know what they know. Different departments have different norms, language codes and
+knowledge bases. However, the knowledge integration process is rarely performed by a
+single department. Knowledge and information differentiation among members from
+different departments hinders the interpretation and exploration of new knowledge ( Nonaka
+and Takeuchi, 2007 ).Chang et al. (2013) argued that the process of transferring and decoding
+new knowledge within the organization requires intensive collaboration among departments.
+Thus, cross-functional communication, which relates to increases in the linkage between
+employees and departments, can create common codes and broad understanding for
+knowledge integration and can reduce the likelihood of conflict regarding cross-sectoral
+interactions. Our results show that cross-functional communication has no direct impact on
+information sharing and joint sensemaking. The reason may be that the density of linkages
+may increase the redundancy of information and diminish access to divergent perspectives.
+Excessive internal interaction may constrain unit members to alternative ways of doing
+things and result in collective blindness within the organization ( Jansen et al., 2005 ). Collective
+blindness will prevent firms from building consensus with their partners, which may result in
+poor information sharing and joint activities between partners.
+Fourth, our findings demonstrate that joint sensemaking plays a central role in
+relationship learning. Joint sensemaking enhances both information sharing and knowledge
+integration. Moreover, we find that information sharing can promote product and process
+innovation at the same time, while knowledge integration only has a positive impact on
+process innovation. Knowledge integration in relationship learning places more emphasis on
+knowledge institutionalization, which means the storage of knowledge through working
+procedures and practices.
+6. Theoretical and managerial implications
+Sourcing knowledge from external partners has become increasingly important in recent
+decades. Most previous studies focused on how to obtain knowledge from external
+environments ( Flor et al., 2018 ). However, the appropriate intraorganizational response to
+broader external knowledge inputs remains a “black box. ”Existing research does not
+address the role of HRM in innovation activities across organizational boundaries. Thus, this
+study contributes to our understanding of the role of HRM practices in interfirm learning
+activities. First, HRM can affect employees ’behaviors and attitudes to act in ways consistent
+with company goals. Open innovation requires a form of HRM that can improve employee
+participation and knowledge sharing. We propose that empowering employees allows firms
+to better respond to knowledge transfer across organizations. Our results support the
+argument that empowerment-focused HRM positively influences interfirm learning. Second,
+we delineate empowerment-focused HRM practices in terms of the individual level and the
+organizational level. At the individual level, empowerment-focused HRM is associated with
+granting employees decision-making authority and improving their abilities and skills in
+their individual work. At the organizational level, empowerment-focused HRM refers toEmpowerment-
+focused human
+resource
+management
+1779
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+nonhierarchical forms of organization that emphasize interactions and collaboration among
+employees. Both empowerment practices at the individual and organizational level have a
+positive impact on boundary-spanning learning activities. Third, the differences and nexus
+between the processes of acquisition, interaction and integration of external knowledge are
+reflected in our research framework. We find that empowerment-focused HRM practices
+demonstrate different effects on the different phases of relationship learning.
+The findings of our study also offer significant guidance for managerial practices. First,
+firms that attempt to use external knowledge for innovation should design appropriate HRM
+activities to support it. Implementing certain intraorganizational practices can create an
+organizational context that favors externa l knowledge acquisition, interaction and
+integration. Managers cannot directly intervene in organizational learning capabilities, but
+they can influence interfirm learning by implementing specific HRM practices that improve
+employees ’learning abilities. Thus, managers who engage in interfirm learning must better
+manage and implement HRM practices. Second, our study strengthens managers ’
+understanding of the role of empowerment-focused HRM practices. Empowerment-focused
+HRM includes the degree of decision-making power and the ability required for decision-
+making at the individual level as well as teamwork and cross-functional communication,
+which enhance internal coordination and information flows at the organizational level. A high
+degree of delegation of authority provides firms with more opportunities to leverage external
+knowledge. Leaders from Netflix revealed that the secret of their success is to give employees
+room to do their best to communicate openly and make smart decisions ( Gulati, 2018 ).
+7. Limitations and future research
+Although our research contributes to both theories and practices, it has several limitations
+that should be addressed in future research. First, this study investigates the relationship
+between HRM practices and relationship learning. However, some scholars have suggested
+that using the configuration approach to measure HRM systems is more meaningful for
+managerial practices. The configuration approach involves the combination of HRM
+practices into a coherent package. Future research can examine the role of HRM practices in
+external learning from a configurational perspective. Second, we select data from electronics,
+machinery and transportation equipment industries to test our hypotheses, so the
+generalizability of our findings is a concern. These sectors operate in an environment of
+intense global competition. Our results indicate that empowerment-focused HRM canpositively influence relationship learning in these industries. However, it may occur that in a
+relatively stable environment there is not enough motivation to implement empowering
+practices. Therefore, additional research could apply our framework to other industries to
+improve the generalizability of current research results.
+References
+Ahmad, S. and Schroeder, R.G. (2003), “The impact of human resource management practices on
+operational performance: recognizing country and industry differences ”,Journal of Operations
+Management , Vol. 21 No. 1, pp. 19-43.
+Annosi, M.C., Monti, A. and Martini, A. (2020), “Individual learning goal orientations in self-managed
+team-based organizations: a study on individual and contextual variables ”,Creativity and
+Innovation Management , Vol. 29 No. 3, pp. 528-545.
+Bello-Pintado, A. (2015), “Bundles of HRM practices and performance: empirical evidence from a Latin
+American context ”,Human Resource Management Journal , Vol. 25 No. 3, pp. 311-330.
+Bogers, M., Foss, N.J. and Lyngsie, J. (2018), “The ‘human side ’of open innovation: the role of
+employee diversity in firm-level openness ”,Research Policy , Vol. 47 No. 1, pp. 218-231.IMDS
+121,8
+1780
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+Bos-Nehles, A., Renkema, M. and Janssen, M. (2017), “HRM and innovative work behaviour:
+a systematic literature review ”,Personnel Review , Vol. 46 No. 7, pp. 1228-1253.
+Bryan, J.R. and Sinkovics, R.R. (2010), “Relationship learning and performance enhancement via
+advanced information technology: the cas e of Taiwanese dragon electronics firms ”,
+International Marketing Review , Vol. 27 No. 2, pp. 200-222.
+Chang, S., Gong, Y., Way, S.A. and Jia, L. (2013), “Flexibility-oriented HRM systems, absorptive
+capacity, and market responsiveness and firm innovativeness ”,Journal of Management , Vol. 39
+No. 7, pp. 1924-1951.
+Chen, Y., Lin, M.J. and Chang, C. (2009), “The positive effects of relationship learning and absorptive
+capacity on innovation performance and competitive advantage in industrial markets ”,
+Industrial Marketing Management , Vol. 38 No. 2, pp. 152-158.
+Cheung, M.S., Myers, M.B. and Mentzer, J.T. (2011), “The value of relational learning in global buyer-
+supplier exchanges: a dyadic perspective and test of the pie-sharing premise ”,Strategic
+Management Journal , Vol. 32 No. 10, pp. 1061-1082.
+Cohen, W.M. and Levinthal, D.A. (1990), “Absorptive capacity: a new perspective on learning and
+innovation ”,Administrative Science Quarterly , Vol. 35, pp. 128-152.
+Collins, C.J. and Smith, K.G. (2006), “Knowledge exchange and combination: the role of human
+resource practices in the performance of high-technology firms ”,Academy of Management
+Journal , Vol. 49 No. 3, pp. 544-560.
+de Zubielqui, G.C., Fryges, H. and Jones, J. (2019), “Social media, open innovation & HRM: implications
+for performance ”,Technological Forecasting and Social Change , Vol. 144, pp. 334-347.
+Eslami, M.H., Lakemond, N. and Brusoni, S. (2018), “The dynamics of knowledge integration in
+collaborative product development: evidence from the capital goods industry ”,Industrial
+Marketing Management , Vol. 75, pp. 146-159.
+Fang, S., Fang, S., Chou, C., Yang, S. and Tsai, F. (2011), “Relationship learning and innovation: the
+role of relationship-specific memory ”,Industrial Marketing Management , Vol. 40 No. 5,
+pp. 743-753.
+Flor, M.L., Cooper, S.Y. and Oltra, M.J. (2018), “External knowledge search, absorptive capacity and
+radical innovation in high-technology firms ”,European Management Journal , Vol. 36 No. 2,
+pp. 183-194.
+Foss, N.J., Laursen, K. and Pedersen, T. (2011), “Linking customer interaction and innovation: the
+mediating role of new organizational practices ”,Organization Science , Vol. 22 No. 4, pp. 980-999.
+Galbraith, J.R. (1974), “Organization design: an information processing view ”,Interfaces , Vol. 4 No. 3,
+pp. 28-36.
+Garrido-Vega, P., Jimenez, C.H.O. and Morita, M. (2015), “Implementation of technology and
+production strategy practices: relationship levels in different industries ”,International Journal
+of Production Economics , Vol. 161, pp. 201-216.
+Gulati, R. (2018), “Structure that ’s not stifling: how to give your people essential direction —without
+shutting them down ”,Harvard Business Review , Vol. 96 No. 3, pp. 68-79.
+Haneda, S. and Ito, K. (2018), “Organizational and human resource management and innovation:
+which management practices are linked to product and/or process innovation? ”,Research
+Policy , Vol. 47 No. 1, pp. 194-208.
+Harley, B. (1999), “The myth of empowerment: work organisation, hierarchy and employee autonomy
+in contemporary Australian workplaces ”,Work, Employment and Society , Vol. 13 No. 1,
+pp. 41-66.
+Hu, L. and Bentler, P.M. (1999), “Cutoff criteria for fit indices in covariance structure analysis:
+conventional criteria versus new alternatives ”,Structural Equation Modeling , No. 6, pp. 1-55.
+Huikkola, T., Ylim €aki, J. and Kohtam €aki, M. (2013), “Joint learning in R&D collaborations and the
+facilitating relational practices ”,Industrial Marketing Management , Vol. 42 No. 7, pp. 1167-1180.Empowerment-
+focused human
+resource
+management
+1781
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+Huo, B., Ye, Y., Zhao, X. and Shou, Y. (2016), “The impact of human capital on supply chain
+integration and competitive performance ”,International Journal of Production Economics ,
+Vol. 178, pp. 132-143.
+Jansen, J.J.P., Bosch, F.A.J.V. and Volberda, H.W. (2005), “Managing potential and realized absorptive
+capacity: how do organizational antecedents matter? ”,Academy of Management Journal , Vol. 48
+No. 6, pp. 999-1015.
+Jiang, K., Takeuchi, R. and Lepak, D.P. (2013), “Where do we go from here? New perspectives on the
+black Box in strategic human resource management research ”,Journal of Management Studies ,
+Vol. 50 No. 8, pp. 1448-1480.
+Johnson, J.L., Sohi, R.S. and Grewal, R. (2004), “The role of relational knowledge stores in interfirm
+partnering ”,Journal of Marketing , Vol. 68 No. 3, pp. 21-36.
+Kazlauskaite, R., Buciuniene, I. and Turauskas, L. (2012), “Organisational and psychological
+empowerment in the HRM-performance linkage ”,Employee Relations , Vol. 34 No. 2, pp. 138-158.
+Lane, P.J., Koka, B.R. and Pathak, S. (2006), “The reification of absorptive capacity: a critical review
+and rejuvenation of the construct ”,Academy of Management Review , Vol. 31 No. 4, pp. 833-863.
+Ma, L., Zhai, X., Zhong, W. and Zhang, Z. (2019), “Deploying human capital for innovation: a study of
+multi-country manufacturing firms ”,International Journal of Production Economics , Vol. 208,
+pp. 241-253.
+Maynard, M.T., Gilson, L.L. and Mathieu, J.E. (2012), “Empowerment-fad or fab? A multilevel review
+of the past two decades of research ”,Journal of Management , Vol. 38 No. 4, pp. 1231-1281.
+Murphy, G. and Salomone, S. (2013), “Using social media to facilitate knowledge transfer in complex
+engineering environments: a primer for educators ”,European Journal of Engineering Education ,
+Vol. 38 No. 1, pp. 70-84.
+Myers, M.B. and Cheung, M. (2008), “Sharing global supply chain knowledge ”,MIT Sloan
+Management Review , Vol. 49 No. 4, pp. 67-73.
+Naor, M., Linderman, K. and Schroeder, R. (2010), “The globalization of operations in Eastern and
+Western countries: unpacking the relationship between national and organizational culture andits impact on manufacturing performance ”,Journal of Operations Management , Vol. 28 No. 3,
+pp. 194-205.
+Nonaka, I. and Takeuchi, H. (2007), “The knowledge-creating company ”,Harvard Business Review ,
+Vol. 85 Nos 7/8, pp. 162-171.
+Ooms, W., Bell, J. and Kok, R.A.W. (2015), “Use of social media in inbound open innovation: creating
+conditions for absorptive capacity ”,Creativity and Innovation Management , Vol. 24 No. 1,
+pp. 136-150.
+Patterson, M.G., West, M.A. and Wall, T.D. (2004), “Integrated manufacturing, empowerment, and
+company performance ”,Journal of Organizational Behavior , Vol. 25 No. 5, pp. 641-665.
+Selnes, F. and Sallis, J. (2003), “Promoting relationship learning ”,Journal of Marketing , Vol. 67 No. 3,
+pp. 80-95.
+Sethi, R., Smith, D.C. and Park, C.W. (2001), “Cross-functional product development teams, creativity,
+and the innovativeness of new consumer products ”,Journal of Marketing Research , Vol. 38
+No. 1, pp. 73-85.
+Shipton, H., Sparrow, P., Budhwar, P. and Brown, A. (2017), “HRM and innovation: looking across
+levels ”,Human Resource Management Journal , Vol. 27 No. 2, pp. 246-263.
+Subramony, M. (2009), “A meta-analytic investigation of the relationship between HRM bundles and
+firm performance ”,Human Resource Management , Vol. 48 No. 5, pp. 745-768.
+Sukoco, B.M., Hardi, H. and Qomariyah, A. (2018), “Social capital, relational learning and performance
+of suppliers ”,Asia Pacific Journal of Marketing and Logistics , Vol. 30 No. 2, pp. 417-437.
+Tsai, K. (2009), “Collaborative networks and product innovation performance: toward a contingency
+perspective ”,Research Policy , Vol. 38 No. 5, pp. 765-778.IMDS
+121,8
+1782
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026
+Un, C.A. and Asakawa, K. (2015), “Types of R&D collaborations and process innovation: the benefit of
+collaborating upstream in the knowledge chain ”,Journal of Product Innovation Management ,
+Vol. 32 No. 1, pp. 138-153.
+Vlachos, I. (2008), “The effect of human resource practices on organizational performance: evidence
+from Greece ”,The International Journal of Human Resource Management , Vol. 19 No. 1,
+pp. 74-97.
+Volberda, H.W., Foss, N.J. and Lyles, M.A. (2010), “Absorbing the concept of absorptive capacity: how
+to realize its potential in the organization field ”,Organization Science , Vol. 21 No. 4, pp. 931-951.
+West, J. and Bogers, M. (2014), “Leveraging external sources of innovation: a review of research on
+open innovation ”,Journal of Product Innovation Management , Vol. 31 No. 4, pp. 814-831.
+Wilkinson, A. (1998), “Empowerment: theory and practice ”,Personnel Review , Vol. 27 No. 1, pp. 40-56.
+Zhou, A.J., Fey, C. and Yildiz, H.E. (2020), “Fostering integration through HRM practices: an empirical
+examination of absorptive capacity and knowledge transfer in cross-border M&As ”,Journal of
+World Business , Vol. 55 No. 22, p. 100947.
+Further reading
+Jean, R.B., Sinkovics, R.R. and Kim, D. (2010), “Drivers and performance outcomes of relationship
+learning for suppliers in cross-border customer –supplier relationships: the role of
+communication culture ”,Journal of International Marketing , Vol. 18 No. 1, pp. 63-85.
+About the authors
+Huiying Zhang is full professor in Tianjin University. She received her PhD from Tianjin University in2003 and M.E. and B.E. degrees from Nankai University in 1988 and 1993. She is a member of AOM, avice director of the Technical Innovation and Management Professional Committee in ChineseManagement Modernization Research Association and a reviewer of GEBRC Journal groups, includingInformation Systems and Management, International Journal of Electronic Commerce and so on.Dr. Zhang is involving in the studies of technical innovation and new product development and haspublished more than 100 papers in most distinguished journals at home and abroad.
+Man Yang is a PhD student at College of Management and Economics, Tianjin University, China. Her
+main areas of research include knowledge management, open innovation and technical innovation andnew product development.
+Baofeng Huo is dean and chair professor at College of Management and Economics, Tianjin
+University, China. He received the PhD from The Chinese University of Hong Kong. His research andteaching interests are operations management, logistics and supply chain management. His work waspublished in the Journal of Operations Management, Production and Operations Management, Journalof Supply Chain Management, IEEE Transactions on Engineering Management, International Journalof Operations and Production Management, Journal of Business Logistics, International Journal of
+Production Research, International Journal of Production Economics, Information and Management,
+Business Horizons and other journals. Baofeng Huo is the corresponding author and can be contacted at:baofeng@tju.edu.cn
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htmOr contact us for further details: permissions@emeraldinsight.comEmpowerment-
+focused human
+resource
+management
+1783
+Downloaded from http://www.emerald.com/imds/article-pdf/121/8/1767/1261212/imds-09-2020-0563.pdf by University College London user on 30 May 2026

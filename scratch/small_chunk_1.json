@@ -1,0 +1,52 @@
+[
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0142",
+  "Prompt": "Now review BSMA0142. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[142] Eckerd (2011) - An Examination of Firm-Level and Individual-Level Contracts in Buyer-Supplier Relationships.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0142.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0143",
+  "Prompt": "Now review BSMA0143. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[143] Edmondson (2003) - Speaking Up in the Operating Room.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0143.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0144",
+  "Prompt": "Now review BSMA0144. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[144] Edmondson and Matthews (2020) - Does Sleep Really Matter Examining Sleep among Salespeople.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0144.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0145",
+  "Prompt": "Now review BSMA0145. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[145] Ekezie et al. (2025) - Worker Displacement by Artificial Intelligence in Interorganizational Systems.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0145.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0146",
+  "Prompt": "Now review BSMA0146. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[146] Elango (2009) - Minimizing effects of \u2018liability of foreignness\u2019 Response.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0146.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0147",
+  "Prompt": "Now review BSMA0147. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[147] Ellinger (2000) - Improving MarketingLogistics Cross-Functional Collaboration in the Supply Chain.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0147.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0148",
+  "Prompt": "Now review BSMA0148. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[148] Eng and Ozdemir (2014) - International R&D partnerships and intrafirm R&D\u2013marketing\u2013production.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0148.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0149",
+  "Prompt": "Now review BSMA0149. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[149] Engen and Magnusson (2015) - Exploring the role of front-line employees as innovators.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0149.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0150",
+  "Prompt": "Now review BSMA0150. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[150] Estey et al. (2025) - Toward a typology of boundaries in crisis management.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0150.json."
+ },
+ {
+  "TypeName": "bsma_reviewer_v3",
+  "Role": "Rev BSMA0151",
+  "Prompt": "Now review BSMA0151. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[151] Fagundes and Gasparetto (2023) - Boundary spanners in inter-organizational relationships.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0151.json."
+ }
+]

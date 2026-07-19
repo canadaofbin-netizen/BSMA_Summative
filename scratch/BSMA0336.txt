@@ -1,0 +1,1980 @@
+How do customer-related 
+characteristics influence frontline 
+bank employees’ boundary 
+spanning behaviors?
+Myoung-Soung Lee
+Department of Food Franchise Business, Kyungnam University, 
+Changwon, South Korea, and
+Jaewon Yoo
+Department of Entrepreneurship and Small Business, Soongsil University, 
+Seoul, South Korea
+Abstract
+Purpose – This study investigated the influence of ambiguous customer expectations and customer 
+demandingness, which reflect hindrance and challenge demands, on the boundary spanning behaviors (BSBs) 
+of frontline bank employees (FBEs) through person-job fit and work engagement. It also examined the 
+moderating effect of customer stewardship between job demands and work engagement.
+Design/methodology/approach – Data of 296 FBEs in the retail banking industry in the Republic of Korea 
+were collected through an online survey and analyzed.
+Findings – Ambiguous customer expectations acted as hindrance demands and negatively affected FBEs’ 
+psychological process. Additionally, customer demandingness positively affected FBEs’ psychological process 
+as challenge demands. Moreover, person-job fit and work engagement improved the BSBs of FBEs as a 
+psychological motivation process. Lastly, customer stewardship buffered the negative influence of ambiguous 
+customer expectations on work engagement while strengthening the positive influence of customer 
+demandingness on work engagement.
+Originality/value – This study contributes to the marketing literature by presenting customer-related 
+characteristics influencing the BSBs of FBEs and exploring the psychological response processes. First, this 
+study presents empirical evidence that ambiguous customer expectations and customer demandingness play 
+the role of hindrance and challenge demands, respectively. Second, it confirms that customer-related 
+characteristics affect the BSBs of FBEs through psychological processes. Finally, it enriches the authors’ 
+understanding of customer stewardship as a job resource by exploring the role of customer stewardship in 
+moderating the relationship between different types of job demands and work engagement.
+Keywords Job demands-resources (JD-R) model, Ambiguous customer expectation,
+Customer demandingness, Employees stewardship toward customers, Boundary-spanning behaviors (BSBs)
+Paper type Research paper
+1. Introduction
+In a competitive, technologically and systemically changed banking environment, banks 
+have been confronting increased business complexity to obtain better performance 
+(Chatterjee et al., 2022; Yoo and Jung, 2019). Furthermore, the outbreak of the COVID-19 
+pandemic has made it even more difficult for banks to generate superior service performance 
+(Olorunsola et al., 2022). On account of these environmental changes, scholars have 
+emphasized that frontline bank employees (FBEs) play a key role in achieving a competitive 
+advantage for banks (Asif and Sargeant, 2000; Yavas and Babakus, 2010). Because the
+Influence of 
+customer- 
+related 
+characteristics
+1945
+Since submission of this article, the following author(s) have updated their affiliations: Myoung-Soung 
+Lee is at the Department of Business Administration, Andong National University, Andong, South 
+Korea.
+The current issue and full text archive of this journal is available on Emerald Insight at: 
+https://www.emerald.com/insight/0265-2323.htm
+Received 11 December 2022 
+Revised 14 August 2023
+9 October 2023 
+Accepted 9 October 2023
+International Journal of Bank 
+Marketing 
+Vol. 41 No. 7, 2023 
+pp. 1945-1973
+© Emerald Publishing Limited 
+0265-2323 
+DOI 10.1108/IJBM-12-2022-0541
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+customer service quality of banks is determined by close contact between FBEs and their 
+customers (Yoo and Jung, 2019), the roles of FBEs are crucial for banks to be sustainable in 
+times of change, turmoil and crisis (Chatterjee et al., 2022; Lee and Yoo, 2022).
+Many scholars have engaged in discussions on the boundary-spanning roles of FBEs over 
+the last several decades due to the importance of FBEs’ activities connecting banks and 
+customers (e.g. Abdel-Halim, 1981; Chebat and Kollias, 2000; Green et al., 1983; Lee and Han, 
+2020; Lievens and Moenaert, 2000; Yoo et al., 2014). In particular, Bettencourt et al. (2001) 
+established the concept of boundary-spanning behaviors (BSBs) as specific actions of the 
+boundary-spanning roles, exploring the influences of genuinely excellent service due to the 
+connection between service performance and going beyond one’s official role in the designated 
+service area. Moreover, empirical studies have shown that the constructs of BSBs have usually 
+supported our understanding of service performance; consequently, these studies have 
+propounded the positive influence of BSBs on positive customer responses and service 
+performance (Bettencourt et al., 2005; Lee and Han, 2020; Yoo et al., 2014). Accordingly, scholars 
+have identified antecedents to manage BSBs of frontline employees in the services sector. In 
+order to improve employees’ BSBs, previous studies have examined the influence of individual-
+related factors such as role stressors and personality characteristics (e.g. Bettencourt and 
+Brown, 2003; Chien et al., 2021), or have focused on organizational factors such as relational 
+factors within the organization (e.g. Lee and Han, 2020; Yoo, 2013), organizational justice (e.g. 
+Bettencourt et al., 2005) and leadership (e.g. Bayighomog and Araslı, 2019). Despite progress in 
+understanding these antecedents, there are still unresolved questions regarding how customer-
+related characteristics impact frontline employees’ BSB. Further research is needed to enhance 
+and effectively manage frontline employees’ BSBs in the banking industry.
+Given the critical role customers play in service encounters and their contribution to the 
+company’s revenue, it is imperative not to underestimate the significance of customers for 
+frontline employees. Furthermore, H€ 
+uttel et al. (2019) argued that as employees’ opportunity to 
+identify customer need knowledge and suggest customer orientation, the influential power of 
+customer characteristics on employees’ perception should be considered. Previous studies have 
+shown that customer-related characteristics affect not only the attitudes of employees related to 
+work but also their job behaviors (Stock and Bednarek, 2014; Yoo and Arnold, 2016). Moreover, 
+because banking services are highly customized, customers not only have heterogeneous 
+characteristics from one another (H€ 
+uttel et al., 2019), but also typically engage in a high level of 
+interaction with FBEs before being purchased (Chan et al., 2010). Therefore, customer-related 
+characteristics are particularly important to FBEs in the banking services sector.
+As noted by Mikolon et al. (2015), banking service, one of the professional services, is 
+generally perceived as very complex by customers. Customers experience reduced cognitive 
+resources as they endeavor to understand the banking service and cognitively depleted 
+customers have difficulty in grasping the service properly (Mikolon et al., 2015). In this context, 
+customers experiencing reduced cognitive resources struggle to comprehend the service, 
+leading to ambiguous expectations and higher customer demandingness. FBEs interact with 
+customers exhibiting these characteristics. Interestingly, ambiguous expectations hinder FBEs’ 
+job performance by reducing satisfaction and clear feedback, while customer demandingness 
+requires substantial effort but contributes to personal development and work-related 
+accomplishments (Agnihotri et al., 2017; Dudenh€offer and Dormann, 2015; Jaramillo et al., 2013). 
+Meanwhile, FBEs require psychological resources to smoothly perform their job roles in 
+response to different customer-related characteristics (i.e. ambiguous customer expectations 
+and customer demandingness) arising from banking services. Identifying the psychological 
+resource factor of FBEs is important because it protects the psychological aspects of FBEs 
+and helps them perform their job roles (Bakker and Demerouti, 2007; Lee and Han, 2020). 
+Thus, the current study proposes customer stewardship as a psychological resource for FBEs 
+and examines the point of interaction between customer-related characteristics and customer
+IJBM
+41,7
+1946
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+stewardship. Customer stewardship is related to a frontline employee’s felt proprietary rights 
+to and ethical responsibility for customers’ overall well-being (Schepers et al., 2012) and is 
+driven by intrinsic motivations such as psychological ownership and higher autonomy 
+(Aßl€ander et al., 2016; Singh and Tiwari, 2020). Therefore, we emphasize the importance of 
+examining BSBs of FBEs in association with customer-related characteristics, as well as the 
+unique role of customer stewardship in a frontline banking service context.
+This study aims to achieve the following objectives: (1) empirically examine the impact of 
+ambiguous customer expectations and customer demandingness, as customer-related 
+characteristics in banking services, on frontline employees’ boundary-spanning behaviors 
+(BSBs); and (2) investigate the moderating role of customer stewardship on the relationship 
+between customer-related characteristics and the psychological aspects of employees. The 
+study adopts the theoretically extended job demands-resources (JD-R) model as a framework 
+to understand these objectives and related concepts. In this study, ambiguous customer 
+expectations are categorized as hindrance demands and customer demandingness as 
+challenge demands. Moreover, the study explores whether customer stewardship acts as a 
+job resource in the influence of job demands.
+2. Theoretical framework and literature review
+2.1 Job demands-resources model
+The JD-R model explains how two types of job-related characteristics (i.e. job demands and 
+resources) interact in a job situation to influence job motivation and/or stress (Lee and Yoo, 
+2022). This theoretical perspective focuses on the positive emotions and motivational potential of 
+work-related resources (Bakker and Demerouti, 2007), suggesting that job resources (e.g. 
+autonomy, work support, rewards and job feedback) contribute to true welfare at work. In 
+contrast, various job demands (e.g. increased occupational burden, inappropriate physical job 
+conditions and interplay with customers that generates negative emotions) cause a decrease in 
+employees’ energy resources, leading to physical and mental health problems (Yoo et al., 2021). 
+Job demands refer to the psychological, physical, organizational and social dimensions of 
+work that require physical and/or mental (cognitive and affective) exertion or technique on an 
+ongoing basis and are therefore associated with particular physiological and/or mental costs. 
+Job demand factors are not always adverse, but they may transform into work stressors when 
+excessive exertion is required to satisfy these demands and/or insufficient compensation is 
+provided. However, not only do job resources perform a practical role in attaining job 
+objectives, they reduce the physiological and mental costs incurred by job demands as well. 
+Moreover, job resources encourage individuals to acquire and develop their occupational 
+roles, leading to positive growth. Job resources and demands are usually negatively related 
+(Bakker and Demerouti, 2007; Lee and Yoo, 2022).
+Job demands and job resources are assumed to stimulate different psychological 
+processes in the JD-R model (Hakanen et al., 2006): (1) a strain process of exhaustion, wherein 
+excessive job demands decrease individuals’ mental and physical resources and may thus 
+cause stress and eventually feeble wellness; and (2) a motivational process wherein job 
+resources reinforce positive job behaviors and outcomes through work engagement 
+(Schaufeli and Bakker, 2004).
+Despite the different consequences of job demands and job resources explored in prior 
+studies, not all results have been consistent with these domains of work-related peculiarities 
+(Olafsen and Frølund, 2018). For instance, cognitive demands, time constraints and 
+workloads related to job demands have been previously documented to increase work 
+engagement (Bakker et al., 2005; Schaufeli et al., 2008). In relation to these results, a qualitative 
+classification that divides job demands into hindrance elements and challenge elements has 
+been previously suggested (Crawford et al., 2010; Olafsen and Frølund, 2018; Ventura et al.,
+Influence of 
+customer- 
+related 
+characteristics
+1947
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+2015). Consequently, this leads to three domains of work-related peculiarities within the JD-R 
+model: challenge demands, hindrance demands and job resources (Van Den Broeck 
+et al., 2010).
+Challenge demands require work conditions and situations that require energy and effort, 
+but coping with them effectively may lead to learning, development and objective 
+achievement. For example, excessively complicated task conditions may require a large 
+investment of energy, but can simultaneously accelerate the development of skills and 
+abilities. Typically, workload, job complexity and time pressure are included in the challenge 
+demands (Tadi  
+c et al., 2015). In contrast, hindrance demands require job conditions and 
+situations that expect energy and effort but do not have development potential. Typically, 
+hindrance demands include role ambiguity, interpersonal conflicts, constraints and job 
+insecurity (LePine et al., 2005; Van Den Broeck et al., 2010). Identifying job demands that are 
+divided into hindrance and challenge elements in job conditions can be beneficial in 
+supervising the mentality, attitude and behaviors of individuals. Thus, it is important to 
+investigate the specific elements of the challenge and hindrance demands.
+2.2 Customer-related characteristics in banking services: ambiguous customer expectations
+and customer demandingness
+The perspective of expectations is reflected in a diverse range of fields spanning management 
+studies. It has been argued that unfulfilled expectations are important in sectors such as 
+product and leader performance satisfaction, or job satisfaction (Coye, 2004). In particular, 
+interest in customer expectations in the service sector has consistently surfaced in line with 
+increasing attention to improvements in service quality. In the majority of cases, perceptions 
+of service quality and/or customer satisfaction are considered a function of the difference 
+between the expectations of a customer and their assessment of the real service (Solomon 
+et al., 1985; Walker, 1995; Zeithaml et al., 1993). Coye (2004) notes that customer expectations
+include the following two principal conceptualizations: (1) the customers’ anticipation of what 
+might occur in an imminent transaction or exchange and (2) what the customers ideally want. 
+The first conceptualization represents predictive expectations, which are the subjectively 
+perceived probabilities of the occurrence of future events. The second conceptualization 
+reflects normative expectations that customers wish and/or expect from excellent service 
+employees (Coye, 2004; Miller, 1977; Zeithaml et al., 1990, 1993). Accordingly, if customers’ 
+expectations for service are ambiguous, the work roles and behaviors of service employees 
+tend to be disturbed.
+Ambiguous customer expectations are related to customers having uncertain and 
+ambiguous requirements, as one of the representative customer-related social stressors 
+arising from interactions between service employees and customers (Dormann and Zapf, 
+2004; Kim et al., 2012). Furthermore, role ambiguity and uncertainty in goal attainment 
+triggered by ambiguous customer expectations is a representative hindrance demand that 
+causes individuals to use excessive energy for information processing and problem-solving 
+(Crawford et al., 2010). Previous empirical studies have shown that ambiguous customer 
+expectations not only negatively affect psychological aspects such as emotional exhaustion 
+of frontline employees (Dormann and Zapf, 2004), but also result in deterioration in service 
+performance (Kim et al., 2012).
+Meanwhile, customer demandingness refers to the level of customers’ countless and 
+distinctive demands for obtaining quality, support, satisfaction of special needs and delivery 
+of a product or service (Itani et al., 2020; Li and Calantone, 1998). Over the past decade, 
+customer demand for service organizations and their employees has continuously grown 
+(Agnihotri et al., 2017; Banin et al., 2016; Luu, 2021). Moreover, customers have increasingly 
+diverse demands to enhance their perceived experiences and values (Flint et al., 2011; O’Hern
+IJBM
+41,7
+1948
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+and Kahle, 2013). The bulge in customer demandingness is triggered by expanded 
+accessibility to information, the sustaining trend of customer empowerment and the 
+galloping competition between service organizations (Luu, 2021; Verbeke et al., 2011), all of 
+which have resulted in more informed customers (Itani et al., 2020). Despite service 
+organizations’ efforts to address steadily increasing customer demandingness (Jaramillo 
+et al., 2013; Kumar and Reinartz, 2018), customer demandingness has been treated as a
+consistent threat due to the lack of understanding of the service organization (Itani et al., 
+2020). Furthermore, many organizations fail to create customer value and service experiences 
+by ignoring customer demands (Agnihotri et al., 2017; Sandstr€om et al., 2008). Service 
+organizations rely on service employees to respond to customer demands because service 
+employees are not only essential to providing a service experience to customers but also 
+central to the service’s capability to modify services to meet customer demands (Gwinner 
+et al., 2005; Sony and Mekoth, 2016). Thus, previous studies have confirmed the effect of
+customer demandingness on service employees (e.g. Itani et al., 2020; Jaramillo et al., 2013; 
+Jung et al., 2022).
+Because customer demandingness utilizes the resources of service employees and can 
+experience higher levels of stress (Agnihotri et al., 2017; Jaramillo et al., 2013), previous studies 
+have implied that customer demandingness belongs to job demands. A high level of customer 
+demandingness puts additional pressure on FBEs in terms of augmented workload and 
+effort, which causes stress (Jaramillo and Mulki, 2008). On the other hand, previous studies 
+have confirmed that customer demandingness play a role in improving the ability and 
+performance of service employees (Banin et al., 2016; Jaramillo et al., 2013). The conflicting 
+roles of customer demandingness imply that it belongs to the challenge demand in that it 
+promotes personal growth and development while requiring psychological energy.
+2.3 Customer stewardship
+The concept of customer stewardship is derived from stewardship theory, which replaces 
+traditional control systems based on agency theory (Schepers et al., 2012). Agency and 
+stewardship theories are two core theories that are inextricably linked and explain the 
+relationship between an organization’s management and its stakeholders (Davis et al., 1997; 
+Tosi et al., 2003). Agency theory assumes that external regulations such as compensation 
+and/or monitoring are required to prohibit management from behaving opportunistically. In 
+contrast, stewardship theory suggests that the interests of managers can be associated with 
+those of stakeholders, such that managers’ efforts benefit not only their welfare but others’ 
+interests as well (Hernandez, 2008; Schepers et al., 2012). In addition, agency and stewardship 
+theories reveal differences in employee perceptions. Agency theory asserts that employees 
+(agents) will behave according to their own benefit, which may collide with their 
+organization’s interests (Van Puyvelde et al., 2012). On the other hand, stewardship theory 
+suggests that employees (stewards) will behave in the best interest of their organization 
+ahead of their own benefit (Hernandez, 2012; Singh and Tiwari, 2020).
+Based on stewardship theory, Schepers et al. (2012) introduced the concept of customer 
+stewardship in the relationship between service employees and customers. Customer 
+stewardship refers to a service employee’s sense of moral responsibility and ownership for 
+their overall well-being (Boateng et al., 2022; Schepers et al., 2012). For the concept of customer 
+stewardship, responsibility and psychological ownership are key motives for aligning the 
+interests of service employees and customers (Block, 1996; Davis et al., 1997). Service 
+employees who feel responsible for their customers perform role duties in return for 
+awareness from customers and the intensification of their occupational beliefs (Hernandez, 
+2012). Job-related activities that fail to improve customer well-being and are inconsistent with 
+one’s beliefs are rectified through self-regulation (Schepers et al., 2012; Tosi et al., 2003).
+Influence of 
+customer- 
+related 
+characteristics
+1949
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Psychological ownership also leads service employees to perceive customer interests as their 
+own. Service employees are motivated to prevent exposure to excessive loss or damage when 
+they pursue their own interests (Hernandez, 2008; Pierce et al., 2001).
+Previous studies related to customer stewardship indicate that customer stewardship can 
+share conceptual territory with customer orientation and therefore embrace the concept of 
+service to and enhancement of customers (Schepers et al., 2012). However, there are two 
+distinct differences between customer stewardship and orientation. The first difference stems 
+from the source of the control of work behavior. Customer orientation focuses on the control 
+of performance perspectives because it seeks to satisfy customer needs by aiming to achieve 
+performance for service employees and organizations (Franke and Park, 2006; Jaramillo and 
+Grisaffe, 2009; Jaramillo et al., 2009). In contrast, customer stewardship emphasizes the 
+psychological control of service employees because it not only recognizes replying to 
+customer needs as an occupational obligation within a formal control system, but considers 
+customer well-being as a moral restriction within an informal control system as well (Davis 
+et al., 1997; Schepers et al., 2012). The second difference arises from the distinction between the
+areas of concern for customers. Customer orientation is a comparatively steady, personal 
+surface characteristic that affects job attitudes and behaviors by focusing on satisfying 
+customer needs (Flaherty et al., 2009; Licata et al., 2003). By contrast, customer stewardship is 
+a more embracing construct that concentrates on the overall well-being of customers rather 
+than customer needs (Schepers et al., 2012).
+Similar to the common context of stewardship literature, which values pursuing others’ 
+interests over self-interests (Block, 1996; Davis et al., 1997), customer stewardship allows 
+service employees to form a fundamental belief that puts customer interests ahead of their 
+own. This discussion does not imply that customer stewardship has no personal interest in 
+service employees. Rather, it implies that serving customer interests is eventually linked to 
+the attainment of service employees’ personal interests (Singh and Tiwari, 2020). Customer 
+stewardship, in this sense, is more willing to conduct actions that prioritize the interests of 
+customers, even in situations where customer interest and self-interest conflict (Davis et al., 
+1997; Singh and Tiwari, 2020). Service employees, who regard themselves as holding 
+stewardship roles, are responsible for customers (Caldwell et al., 2008; De Ruyter et al., 2009). 
+They are perceived as partners for customers and enjoy reputational enhancement, 
+reciprocity and autonomy (Block, 1996; Van Puyvelde et al., 2012). In addition, stewardship 
+has needs and values that are admired and valued as ends in themselves (Caldwell and Karri, 
+2005). Customer stewardship creates intrinsic forms of motivation for service employees 
+(Aßl€ander et al., 2016; Singh and Tiwari, 2020). Based on this discussion, we propose that 
+customer stewardship is a job resource for FBEs.
+2.4 Psychological aspects of FBEs on customer-related characteristics: person-job fit and
+work engagement
+Person-environment fit signifies the conformance between individuals and particular 
+categories of work environments (Bretz and Judge, 1994) and has received a lot of interest 
+from both practitioners and scholars interested in interpreting the attitudes and behaviors of 
+employees (Bui et al., 2017; Chuang and Sackett, 2005). The concept of person-environment fit 
+is broad (Kristof-Brown et al., 2005), and previous studies have reflected it through various 
+types of fits associated with the work environment, such as tasks (Wronska et al., 2019), 
+groups (Seong and Kristof-Brown, 2012), supervisors (Van Vianen et al., 2011) and customers 
+(Yoo, 2016). Among these, person-job fit is a key element that represents person-environment 
+fit (Lam et al., 2018; Lee and Yoo, 2022). Person-environment fit is divided into two categories: 
+supplementary fit and complementary fit (Bui et al., 2017). Supplementary fit refers to 
+possessing similar characteristics between individuals and their work environment, whereas
+IJBM
+41,7
+1950
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+complementary fit means that individuals and their work environment have different 
+features, but need each other to form the entirety or replenish what is missing (Boon et al., 
+2011; Bui et al., 2017; Kristof-Brown, 1996). Person-job fit is included in the complementary fit 
+for the particular qualifications demanded in terms of jobs and individuals (Edwards, 1991; 
+Kristof-Brown et al., 2005). Specifically, person-job fit comprises two types of fit that represent 
+specific characteristics (Tims et al., 2016). The fit of the first characteristic is demand-ability 
+fit, which is related to the ability, expertise and techniques of service employees to satisfy job 
+requirements. From an occupational perspective, person-job fit improves when service 
+employees have the qualifications and techniques to conduct their work. The fit of the second 
+characteristic is the needs-supplies fit, which means that the job satisfies service employees’ 
+preferences and needs. In terms of employees, person-job fit increases when service 
+employees’ needs, such as pay, social relationships and self-actualization, are fulfilled (Lee 
+and Yoo, 2022; Tims et al., 2016). While these types of fit were dealt with separately in earlier 
+studies (Cable and DeRue, 2002), they have been integrated into a single and overall concept 
+of person-job fit in recent studies (Yoo, 2013). In addition, previous studies mention that 
+person-job fit belongs to the cognitive dimension in the psychological aspects of an individual 
+(Lee and Yoo, 2022).
+Meanwhile, work engagement refers to a high standard of devotion and a powerful 
+concentration of work conjoined with a condition of positive and affective motivation 
+(Schaufeli and Bakker, 2010) and represents the emotional domain in terms of psychological 
+aspects (Lee and Yoo, 2022). Work engagement is a core aspect of employees’ psychological 
+condition, as described in the J-DR model. The psychological motivation process in the JD-R 
+model appears when employees acquire resources for job fulfillment (Bakker and Demerouti, 
+2007), and work engagement is a mental response that occurs in the psychological motivation 
+process for job resources (Bakker et al., 2014). Work engagement comprises three 
+characteristic elements: vigor, dedication and absorption (Bakker and Demerouti, 2008; 
+Schaufeli and Bakker, 2004). Vigor is associated with the condition wherein a high standard 
+of energy persists even after employees face difficulties. Dedication refers to participation in a 
+job while experiencing a sense of challenge, significance and inspiration. Absorption is 
+related to the condition wherein an individual is too focused on the task of identifying with the 
+task (Schaufeli et al., 2002). Work engagement is the basis for achieving high standards of 
+organizational performance and is encouraged to form a high level of work engagement in 
+contemporary organizations (Bakker and Demerouti, 2007; Lee and Yoo, 2022).
+2.5 Boundary-spanning behaviors
+Boundary-spanning employees oscillate between the organization’s external and/or internal 
+borders in the fulfillment of their occupational roles (Yoo, 2013). Thus, boundary-spanning 
+employees interact not just with internal members but with external customers too (Adams, 
+1976). BSBs refer to frontline employees’ activities that originate from their occupational roles 
+as boundary spanners for their organization (Bettencourt et al., 2001; Chebat and 
+Kollias, 2000).
+Previous marketing and management studies have stated that frontline employees 
+perform three fundamental boundary-spanning roles (Bettencourt and Brown, 2003; 
+Bettencourt et al., 2001; Yoo et al., 2014). The first role is to achieve high customer service 
+quality perceptions and satisfaction through frontline employees’ activities, such as 
+politeness, personal interest and response and fulfillment of guarantees (Parasuraman 
+et al., 1988). The second role is to improve the image and legitimacy of the service organization
+by representing it to external stakeholders and supporting products and services (Lee and 
+Han, 2020). The third role is to provide various opportunities to exchange intelligence 
+internally about changing customer requirements and feasible developments in goods and
+Influence of 
+customer- 
+related 
+characteristics
+1951
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+service offerings (Yoo, 2013). Based on these roles, Bettencourt et al. (2001) suggested three 
+categories of BSBs that customer-contact workers may conduct related to connecting the 
+organization to its practical customers.
+(1) Service delivery: Responding to customers sincerely, receptively, pliably and politely.
+(2) External representation: Vocal endorsements to external stakeholders of the firm’s 
+impression, goods and service offering.
+(3) Internal influence: Taking personal leadership in interactions with the organization 
+and internal members to enhance service offering by oneself, internal members and 
+the organization.
+Like frontline employees in other service industries, FBEs are boundary spanners that 
+directly deliver financial services to customers, represent banks to customers and 
+communicate acquired customer needs to banks (Lee and Han, 2020). The essential work 
+role of FBEs is that of BSBs. Thus, it is necessary to manage the BSBs of FBEs to improve 
+their work performance.
+3. Hypotheses development
+3.1 Ambiguous customer expectations, person-job fit and work engagement
+Ambiguous customer expectations can negatively affect the psychological aspects of FBEs, 
+because they cause role ambiguity and uncertainty in goal attainment (Dudenh€offer and 
+Dormann, 2015). If customers’ expectations of service are not accurately known, FBEs do not 
+have a clear understanding of their role in the service process. Because service providers’ 
+responses and attitudes toward customers in service situations have a significant influence 
+on customers’ perceptions of service (Hartline and Ferrell, 1996), it is the core roles of FBEs to 
+make customers highly aware of service quality (Lee and Yoo, 2022). A key way to improve 
+service quality is to bridge the gap between customers’ expectations for service and FBEs’ 
+understanding of such expectations (Luk and Layton, 2002). Ambiguous customer 
+expectations interfere with the role behavior of FBEs because of ambiguous feedback, 
+making it difficult to satisfy customer expectations (Dudenh€offer and Dormann, 2015). On the 
+other hand, FBEs may revise the service roles or the process based on them understanding of 
+what is expected by customers (Luk and Layton, 2002). Therefore, the increased 
+understanding of customer expectations influences the job role performance of FBEs 
+(Schepers and van der Borgh, 2020). Eventually, due to ambiguous customer expectations, 
+FBEs may believe that they and their occupations do not match each other because they 
+judge their knowledge and skills to be insufficient to provide services to solve customer 
+problems. Meanwhile, if the achievement of occupational goals is uncertain, then FBEs 
+cannot satisfy an individual’s needs to be met through the job. Uncertainty of goal attainment 
+due to ambiguous customer expectations leads FBEs to expect that they will not achieve the 
+desired levels of pay or self-realization through their jobs. In general, pay-for-performance 
+systems that connect employees’ salary levels with their previous or future job performance 
+and incentives based on individual job performance are used as important organizations’ 
+compensation strategy (Gerhart and Fang, 2014; Gerhart and Rynes, 2003; Gerhart et al., 2009; 
+He et al., 2021; Lee et al., 2020). These compensation systems serve as motivation for 
+employees to achieve better performance (He et al., 2021). In addition, the need for 
+achievement has been recognized as an essential psychological need for individuals 
+(Albrecht, 2015; Schriesheim and Schriesheim, 1980), whereas ambiguous customer 
+expectations hinder the occupational achievement of FBEs. Thus, ambiguous customer 
+expectations are perceived as a hindrance demand that obstructs the psychological 
+satisfaction of FBEs.
+IJBM
+41,7
+1952
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+In summary, we suggest that ambiguous customer expectations are hindrance demands 
+and are negatively related to both person-job fit and work engagement, which are the 
+cognitive and emotional psychological aspects of FBEs.
+H1. Ambiguous customer expectations have a negative influence on person-job fit.
+H2. Ambiguous customer expectations have a negative influence on work engagement.
+3.2 Customer demandingness, person-job fit and work engagement
+Because customer demandingness utilizes the resources of service employees and can 
+experience higher levels of stress (Agnihotri et al., 2017; Jaramillo et al., 2013), previous studies 
+have implied that customer demandingness belongs to job demands. A high level of customer 
+demandingness puts additional pressure on FBEs in terms of augmented workload and 
+effort, which causes stress (Jaramillo and Mulki, 2008). However, customer demandingness 
+has been confirmed to play a role in improving the ability and performance of service 
+employees (Banin et al., 2016; Jaramillo et al., 2013). A high level of customer demandingness 
+encourages FBEs to learn more about their customers and develop customized solutions for 
+customer problems (Wang and Netemeyer, 2004). Furthermore, customer demandingness 
+augments a new set of problem-solving and value-providing abilities, such as enhanced 
+improvisation, creativity and FBEs’ efforts (working smart and hard) in service situations, to 
+FBEs’ traditional portfolios (Itani et al., 2020; Luu, 2021). Regarding the psychological aspect 
+of FBEs, customer demandingness is accepted as a challenging task, and the growth needs of 
+FBEs can be satisfied by solving high levels of customer demandingness through the 
+application of new knowledge and skills (Agnihotri et al., 2017). We suggest that customer 
+demandingness is a challenge that enhances job competency and motivation.
+H3. Customer demandingness has a positive influence on person-job fit.
+H4. Customer demandingness has a positive influence on work engagement.
+3.3 Person-job fit and work engagement
+When service employees perceive that their abilities match their job requirements, they 
+maintain positive emotions and attitudes, feel happiness and passionately engage in their 
+jobs (Lam et al., 2018). Larsen and McKibban (2008) confirmed that individuals wishing what 
+they possess and possessing what they wish increase their psychological well-being, such as 
+happiness. In the occupational context, demands-abilities fit is associated with individuals 
+wishing what they possess, and needs-supplies fit is associated with individuals possessing 
+what they wish (Lee and Yoo, 2022). In the same context, the extant literature has confirmed 
+that person-job fit has positive effects on service employees (Babakus et al., 2010; Lam et al., 
+2018; Yoo, 2013). Lee and Yoo (2022) demonstrated that person-job fit, which belongs to the 
+cognitive aspect, has a positive influence on the emotional aspect and leads to a motivational 
+process. Based on these discussions, we suggest the following hypothesis:
+H5. Person-job fit has a positive influence on work engagement.
+3.4 Work engagement and boundary-spanning behaviors
+Previous studies related to the JD-R model show that work engagement leads to high 
+outcomes for individuals and organizations because it improves the fulfillment of in- and 
+extra-roles (Bakker and Demerouti, 2008; Bakker et al., 2004; Gierveld and Bakker, 2005; 
+Salanova et al., 2005; Xanthopoulou et al., 2007). Therefore, it can be predicted that FBEs with 
+a high level of work engagement will make efforts to perform their job roles. FBEs who are 
+strongly motivated obtain satisfaction from job achievement and thus work harder to excel
+Influence of 
+customer- 
+related 
+characteristics
+1953
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+(Staw, 1977; Yoo et al., 2014). In addition, work engagement increases the organizational 
+citizenship behavior of FBEs, leading to altruistic behavior by prioritizing the organization 
+(Yoo et al., 2021). Since FBEs evaluate performing tasks that are helpful to customers and 
+colleagues as an important job characteristic, they may be more concerned about the 
+outcomes of their work enforcement, as well as the work achievement of colleagues and 
+organizational success. Yoo et al. (2014) confirmed that FBEs’ psychological motivation has a 
+positive effect on the three types of BSBs, which are their occupational roles. Thus, the 
+following hypotheses are proposed:
+H6. Work engagement has a positive influence on service delivery.
+H7. Work engagement has a positive influence on external representation.
+H8. Work engagement has a positive influence on internal influence.
+3.5 Moderating role of customer stewardship
+We propose that customer stewardship buffers the negative effect of customer-related 
+hindrance demands on work engagement. Hindrance demands, such as ambiguous customer 
+expectations, accumulate stress and interfere with work roles and behaviors in reaching work 
+performance (Dudenh€offer and Dormann, 2015; Kim et al., 2012). Even if FBEs experience 
+high hindrance demands, having access to sufficient job resources may buffer the negative 
+effects of hindrance demands because job resources increase the willingness to devote effort 
+to work (Meijman and Mulder, 1998; Tadi  
+c et al., 2015). For example, customer stewardship 
+can provide the energy required for customers’ ambiguous expectations through the 
+motivation to pursue their interests. Moreover, as customer stewardship leads FBEs to focus 
+more on the welfare of their customers, they may be less concerned with the uncertainty of 
+goal achievement because of ambiguous customer expectations. This suggests that customer 
+stewardship moderates the relationship between ambiguous customer expectations and 
+work engagement. Meanwhile, we argue that customer stewardship boosts the positive effect 
+of customer-related challenge demands on work engagement. When faced with complex or 
+challenging problems at work, access to sufficient job resources improves one’s job 
+competency and the prospect that one’s work effort will lead to positive outcomes. Thus, 
+challenge demands have the highest motivational potential when combined with job 
+resources (Tadi  
+c et al., 2015; Widmer et al., 2012). This can improve work engagement. In the 
+context of FBEs, customer demand as a challenge demand leads to engagement in work 
+because of the ability to develop customized solutions. At the same time, customer 
+stewardship stimulates FBEs’ work engagement by an immersion in customer interests. 
+Accordingly, we propose the following hypotheses:
+H9. The negative influence of ambiguous customer expectations on work engagement
+will be weaker when customer stewardship is high.
+H10. The positive influence of customer demandingness on work engagement will be
+stronger when customer stewardship is high.
+Based on the proposed research hypotheses, we established the research model shown in 
+Figure 1.
+4. Method
+4.1 Samples and procedure
+We collected data from FBEs in the retail banking industry in the Republic of Korea, using the 
+online service of a specialized survey institution. This specialized survey institution enrolls
+IJBM
+41,7
+1954
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+people who wish to spontaneously engage in surveys and does not limit the affiliated 
+organizations or districts of participants. The survey institution has the largest number of 
+participants as an online panel in Korea, and it encourages participants to be involved in 
+surveys by providing points that can be swapped for money. The URL to access the online 
+survey was selectively sent to only bank employees among the panel participants, and 
+participants were allowed to conduct the survey through a mobile device or personal 
+computer. The participants were also asked to proceed with a two-step process before 
+conducting the full-scale survey. In the first step, participants were given a list of occupations 
+and were asked to choose their current occupation. At this stage, individuals who were not 
+currently bank employees were excluded from the survey. In the second step, the participants 
+were presented with a list of duties and asked to select their principal duties. At this stage, 
+only bank employees who sold financial products and/or provided financial services to 
+customers were selected to conduct the final survey. The URL to access the survey was sent 
+to 450 participants over 3 weeks, and data was collected from 296 surveys completed 
+(response rate 65.78%).
+Of 296 participants, 173 (58.4%) were men and 123 (41.6%) were women. The majority of 
+participants were in their 30s (101; 34.1%), followed by those in their 40s (91; 30.7%), 20s (64; 
+21.6%) and 50s or older (40; 13.5%). The highest number of participants had graduated from 
+university (202; 68.2%), followed by those who graduated from high school (73; 24.7%), those 
+either attending or graduated from graduate school (11; 3.7%) and those attending university 
+(10; 3.4%). In addition, the majority had a work experience of less than 3 years (83; 28.0%), 
+followed by those with more than 3 years and less than 6 years (69; 23.3%), more than 
+12 years (61; 20.6%), more than 6 years and less than 9 years (42; 14.2%), and more than 
+9 years and less than 12 years (41; 13.9%). Regarding monthly average income, 94 
+participants (31.8%) reported earning less than 2 million Korean won (KRW; 1 million KRW is 
+about USD 750), 99 (33.4%) reported more than 2 million KRW and less than 3 million KRW, 
+49 (16.6%) reported more than 3 million KRW and less than 4 million KRW, 28 (9.5%) 
+reported more than 4 million KRW and less than 5 million KRW, and 26 (8.8%) reported 
+earning more than 5 million KRW.
+4.2 Measurement of variables
+All measurement scales used in this study were developed in English and we translated them 
+into Korean. During the translation process, the translated version of the measurement items 
+was evaluated by two experts who can speak both English and Korean. In addition,
+Figure 1.
+Research model
+Influence of 
+customer- 
+related 
+characteristics
+1955
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+we performed the back-translation process to confirm that the items translated into Korean 
+have the same meaning as the original version. All measurement scales are shown in Table 1. 
+To measure ambiguous customer expectations, three measurement items from Dormann 
+and Zapf (2004) were selected. Ambiguous customer expectations reflect the degree of 
+uncertain and ambiguous demands perceived by FBEs.
+To assess customer demandingness, four scale measures from Wang and Netemeyer 
+(2002) were selected. The items were originally used by Li and Calantone (1998) to evaluate 
+the level of quality, reliability, service and requirements demanded by the customer.
+To evaluate person-job fit, four items utilized in the study of Yoo (2013) were used. This 
+measure reflects a single concept that encompasses demands-abilities fit and needs-
+supplies fit.
+In this study, nine scale measures (Utrecht Work Engagement Scale-9; UWES-9) proposed 
+by Schaufeli et al. (2006) were used to measure work engagement. The scale has three aspects: 
+composing vigor, dedication and absorption.
+Customer stewardship measured with four items adapted from Schepers et al. (2012). This 
+measure reflects the sense of moral responsibility and ownership of the FBEs for the 
+customers’ overall welfare.
+To measure the BSBs of FBEs, twelve scale measures from Bettencourt et al. (2005) were 
+used. Specifically, service delivery was measured using four items that reflected the manner 
+of providing the desired level of service to customers. External representation also used four 
+items to measure the behavior of promoting financial products and services, and the image of 
+the organization outside of their company. Finally, internal influence was measured using 
+four items that reflect the degree to which FBEs communicate with colleagues and 
+organizations to enhance service delivery from themselves, internal members and
+organizations. 
+All items in this study were assessed on a 5-point scale ranging from “strongly disagree” 
+to “strongly agree”.
+5. Analysis results
+5.1 Measurement model analysis
+Using covariance-based structural equation modeling (CB-SEM, Amos21), measurements 
+and the hypothesized model were identified. Prior to testing the hypotheses, we identified the 
+constructs’ reliability and validity in the measurement model. The measurement model 
+comprised 36 reflective indicators and 8 correlated latent factors, equivalent to the 8 
+constructs shown in Figure 1. The reliability of the constructs was estimated through an 
+internal consistency method using Cronbach’s α coefficient (Nunnally, 1978). All Cronbach’s
+α coefficients for the constructs were confirmed to be greater than 0.7, which was regarded as 
+satisfactory. We also performed confirmatory factor analysis (CFA). Composite reliability 
+(CR) was checked to measure reliability at model level, and average variance extracted (AVE) 
+was used to evaluate convergent validity. As a result of conducting CFA, the fit of 
+measurement model was shown as χ 2 5 1085.86 (df 5 566, p < 0.01), CFI 5 0.92, TLI 5 0.91, 
+IFI 5 0.92, RMR 5 0.03 and RMSEA 5 0.06. Moreover, all observed variable loadings were 
+statistically significant (p < 0.01), and the CR and AVE scores of each latent construct 
+satisfied the criteria proposed by Hair et al. (2010). Table 1 presents the CFA results.
+To assess discriminant validity, correlations between latent constructs and the square 
+root value of AVE were compared (Fornell and Larcker, 1981). We verified that the 
+correlations between the constructs were lower than the square root value of AVE (see 
+Table 2). In addition, heterotrait-monotrait (HTMT) criterion was examined to confirm 
+discriminant validity. HTMT criterion is considered to be the new standard for testing 
+discriminant validity (Henseler et al., 2015; Voorhees et al., 2016). The results of HTMT test
+IJBM
+41,7
+1956
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Construct
+Items
+λ a
+α
+CR b
+AVE c
+Ambiguous customer 
+expectation
+1. Customers’ wishes are often contradictory
+0.62
+0.75
+0.83
+0.63
+2. It is difficult to make arrangements with 
+customers
+0.93
+3. Customers’ instructions can complicate our 
+work
+0.80
+Customer
+demandingness
+1. The clients I serve are demanding in regard 
+to product/service quality and reliability
+0.84
+0.90
+0.93
+0.76
+2. My clients have high expectations for service 
+and support
+0.88
+3. My clients require a perfect fit between their 
+needs and our product/service offering
+0.88
+4. My clients expect me to deliver the highest 
+levels of product and service quality
+0.90
+Person-job fit 
+1. To what extent is the job a good match for 
+you?
+0.83
+0.84
+0.89
+0.68
+2. To what extent does the job fulfill your 
+needs?
+0.83
+3. To what extent do your knowledge, skills, 
+and abilities match the requirement of the 
+job?
+0.83
+4. To what extent does the job enable you to do 
+the kind of work you want to do?
+0.79
+Work engagement
+1. At work, I feel very energetic
+0.70
+0.89
+0.91
+0.54
+2. At my job, I feel strong and vigorous
+0.76
+3. When I get up in the morning, I feel like going 
+to work
+0.67
+4. I am enthusiastic about my job 
+0.80
+5. My job inspires me 
+0.79 
+6. I am proud of the work that I do 
+0.80
+7. I feel happy when I am working intensely 
+0.74
+8. I am immersed in my work 
+0.72
+9. I get carried away when I am working 
+0.60
+Service delivery
+1. I follow up in a timely manner to customer
+requests and problems
+0.71
+0.83
+0.88
+0.66
+2. Regardless of circumstances, I am 
+exceptionally courteous and respectful to 
+customers
+0.83
+3. I follow through in a conscientious manner 
+on promises to customers
+0.88
+4. I take time to understand customer needs (on 
+an individual basis)
+0.81
+External
+representation
+1. I tell outsiders this is a great place to work
+0.81
+0.87
+0.91
+0.72
+2. I generate favorable goodwill for my 
+company
+0.88
+3. I say good things about my company to 
+others
+0.87
+4. I encourage others to use my company’s 
+products and services
+0.83
+Internal influence
+1. I make constructive suggestions for sale and 
+service improvement
+0.84
+0.87
+0.91
+0.73
+2. I contribute many ideas for customer 
+promotions and communications
+0.87
+3.
+I share creative solutions to customer
+problems with other salespeople
+0.84
+4.
+I encourage co-workers to contribute ideas
+and suggestions for sale and service 
+improvement
+0.85
+Customer
+stewardship
+1.
+I feel a sense of responsibility for the
+customer
+0.84
+0.85
+0.90
+0.69
+2. I sense that the customers I serve are my 
+customers
+0.85
+3. I feel a sense of ownership of the customer’s 
+problems
+0.85
+4. I feel responsible for customer welfare
+0.79
+Note(s): χ 2 5 1085.86 (df 5 566, p 5 0.00), CFI 5 0.92, TLI 5 0.91, IFI 5 0.92, RMR 5 0.03, RMSEA 5 0.06 
+a All factor loadings are significant (p < 0.01); b CR 5 composite reliability; c AVE 5 average variance extracted
+Source(s): Authors’ own creation
+Table 1. 
+Measurement items 
+and results of CFA
+Influence of 
+customer- 
+related 
+characteristics
+1957
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+confirmed that the values between latent constructs were lower than a threshold of 0.85, 
+indicating that discriminant validity was obtained (Clark and Watson, 1995; Kline, 2011). 
+Table 3 shows the results of HTMT criterion. Overall, measurement model suggests that the 
+proposed constructs are reliable and valid.
+5.2 Common method variance
+Previous studies have argued that the common method variance (CMV) may lead to critical 
+bias when performing behavioral research using single-source surveys (Rodr  
+ıguez-Pinto 
+et al., 2011). Podsakoff et al. (2003) suggested statistical remedies to solve the potential
+problem caused by CMV. We implemented Harman’s single-factor test, a statistical remedy, 
+using a confirmatory factor-analytic approach. The single-factor model (χ 2 5 3273.11 
+[df 5 594, p < 0.01], CFI 5 0.56, TLI 5 0.54, IFI 5 0.56, RMR 5 0.08, RMSEA 5 0.12) showed a 
+worse fit than the measurement model proposed in this study. Consequently, we confirmed 
+that CMV was unlikely to distort the results.
+5.3 Hypotheses testing
+To test the direct relationships among the constructs in the research model, we used 
+structural equation modeling (SEM). The overall fit of the research model was χ 2 5 975.44 
+(df 5 455, p < 0.01), CFI 5 0.90, TLI 5 0.89, IFI 5 0.90, RMR 5 0.04 and RMSEA 5 0.06, 
+which are generally acceptable. We predicted, through H1 and H2, that ambiguous customer
+1 
+2
+3
+4
+5
+6
+7
+8
+1. ACE
+0.79
+2. Customer demandingness
+0.60 **
+0.87
+3. P-J fit
+0.13
+0.09
+0.82
+4. Work engagement
+ 0.01
+0.29 **
+0.63 **
+0.73
+5. Service delivery
+0.20 **
+0.54 **
+0.34 **
+0.51 **
+0.81
+6. External representation
+ 0.02
+0.32 **
+0.58 **
+0.71 **
+0.61 **
+0.85
+7. Internal influence
+0.07
+0.27 **
+0.51 **
+0.67 **
+0.47 **
+0.64 **
+0.85
+8. Customer stewardship
+0.22 **
+0.54 **
+0.41 **
+0.61 **
+0.66 **
+0.63 **
+0.53 **
+0.83
+Mean
+3.68
+3.94
+3.14
+3.32
+3.74
+3.45
+3.36
+3.75
+SD
+0.68
+0.65
+0.72
+0.56
+0.56
+0.69
+0.65
+0.62
+Note(s): The number in the diagonal is the square root of the AVE; ACE 5 ambiguous customer expectation
+** p < 0.01
+Source(s): Authors’ own creation
+1 
+2
+3
+4
+5
+6
+7
+8
+1. ACE
+2. Customer demandingness
+0.75
+3. P-J fit
+0.16
+0.12
+4. Work engagement
+0.11
+0.31
+0.68
+5. Service delivery
+0.23
+0.56
+0.34
+0.52
+6. External representation
+0.08
+0.32
+0.59
+0.79
+0.60
+7. Internal influence
+0.07
+0.28
+0.50
+0.71
+0.48
+0.69
+8. Customer stewardship
+0.21
+0.54
+0.43
+0.65
+0.72
+0.65
+0.56
+Note(s): ACE 5 ambiguous customer expectation 
+Source(s): Authors’ own creation
+Table 2. 
+Measurements of 
+correlations and 
+discriminant validity
+Table 3.
+Results of heterotrait– 
+monotrait (HTMT) 
+criterion
+IJBM
+41,7
+1958
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+expectations would have a negative influence on FBEs’ person-job fit and work engagement. 
+The results indicated that ambiguous customer expectations had a negative influence on 
+person-job fit (β 5  0.45, p < 0.01) and a negative effect on work engagement (β 5  0.25, 
+p < 0.01). Thus, H1 and H2 were supported. We also predicted, through H3 and H4, that
+customer demandingness would have a positive influence on FBEs’ person-job fit and work 
+engagement. The results show that customer demandingness has a positive influence on an 
+FBEs’ person-job fit (β 5 0.43, p < 0.01). The effect of customer demandingness on work 
+engagement is also positive and significant (β 5 0.47, p < 0.01). Thus, H3 and H4 were 
+supported. H5 predicted that person-job fit would have a positive effect on work engagement, 
+and the analysis revealed that person-job fit positively influenced work engagement 
+(β 5 0.62, p < 0.01). Thus, H5 was accepted as well. Finally, we predicted through H6, H7 and 
+H8 that FBEs’ work engagement would have a positive effect on their BSBs. The results 
+showed that work engagement has positive effects on service delivery (β 5 0.57, p < 0.01), 
+external representation (β 5 0.72, p < 0.01) and internal influence behavior (β 5 0.62, p < 0.01), 
+which are factors of BSBs. Thus, H6, H7 and H8 were all supported. Figure 2 shows the results 
+of the hypothesis testing.
+5.4 Moderating effects of customer stewardship
+We used the PROCESS macro, based on the bootstrapping method suggested by Hayes 
+(2013), to test the moderating effects of customer stewardship on the relationships between 
+customer-related characteristics, which reflect hindrance and challenge demands, and work 
+engagement. Because customer-related characteristics were established to influence work 
+engagement through person-job fit in our research model, we used the PROCESS macro 
+(conditional process analysis) model 5 to confirm the interaction effect of customer 
+stewardship and the indirect effect of person-job fit. In order to perform the analysis, 
+bootstrap resamples were set to 5,000 and the bootstrap confidence intervals was set to 95%. 
+Moreover, we inserted customer-related characteristics (i.e. ambiguous customer 
+expectations and customer demandingness) as X, work engagement as Y, person-job fit as 
+M and customer stewardship as W (Hayes, 2013). We set demographic variables as control
+variables. Previous studies have suggested that demographic factors such as gender, age, 
+work experience and education can affect frontline employees (Lee and Yoo, 2022; Levy and 
+Sharma, 1994; Franke and Park, 2006). Therefore, we used demographic factors of FBEs as 
+control variables to rule out the possibility that these would influence the relationship 
+between variables. The PROCESS macro model 5 provides results in two steps.
+Figure 2. 
+Results of hypotheses
+Influence of 
+customer- 
+related 
+characteristics
+1959
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+The PROCESS macro procedure was conducted to confirm the moderating effect of customer 
+stewardship between ambiguous customer expectations and work engagement. In the first 
+step, the influences of ambiguous customer expectations and control variables on person-job 
+fit were identified. Ambiguous customer expectations had a negatively significant effect on 
+person-job fit (coeff 5  0.1542, CI 5 [  0.2692,  0.0392]). Among the control variables, 
+gender (coeff 5  0.1719, CI 5 [  0.3396,  0.0042]), age (coeff 5  0.1695, CI 5 [  0.2661, 
+ 0.0729]) and income (coeff 5 0.1718, CI 5 [0.0938, 0.2497]) were significantly related to 
+person-job fit. However, educational background (coeff 5 0.0206, CI 5 [  0.0684, 0.1095]) and 
+work experience (coeff 5 0.0017, CI 5 [  0.0632, 0.0667]) were not significantly related to 
+person-job fit.
+In the second step, the influences of ambiguous customer expectations, person-job fit, 
+customer stewardship, the interaction effect (ambiguous customer expectations 3 customer 
+stewardship) and control variables on work engagement were identified. Ambiguous 
+customer expectations had a negatively significant effect on work engagement 
+(coeff 5  0.6013, CI 5 [  0.9700,  0.2326]), while person-job fit had a positively 
+significant effect on work engagement (coeff 5 0.3085, CI 5 [0.2340, 0.3830]). The 
+moderating effect of customer stewardship on the relationship between ambiguous customer 
+expectations and work engagement show a significant interaction effect (coeff 5 0.1542, 
+CI 5 [0.0576, 0.2509]). Among the control variables, income (coeff 5 0.0791, CI 5 [0.0315, 
+0.1266]) was significantly related to work engagement. However, gender (coeff 5 0.0333, 
+CI 5 [  0.0674, 0.1339]), age (coeff 5  0.0185, CI 5 [  0.0781, 0.0410]), educational 
+background (coeff 5  0.0278, CI 5 [  0.0810, 0.0254]) and work experience (coeff 5  0.0237, 
+CI 5 [  0.0620, 0.0147]) were not significantly related to work engagement. In addition, the 
+conditional direct effect of ambiguous customer expectations on work engagement was 
+significant only at the  1 SD level (coeff 5  0.1190, CI 5 [  0.2119,  0.0261]) and person-job 
+fit mediated the relationship between ambiguous customer expectations and work 
+engagement (coeff 5  0.0476, CI 5 [  0.0891,  0.0084]). Table 4 shows the results of the 
+PROCESS macro model 5 that analyzed the moderating effect of customer stewardship 
+between ambiguous customer expectation and work engagement.
+In addition, we conducted the PROCESS macro procedure to confirm the moderating 
+effect of customer stewardship between customer demandingness and work engagement. In 
+the first step, the influences of customer demandingness and control variables on person-job 
+fit were identified. Customer demandingness had a positively significant effect on person-job 
+fit (coeff 5 0.0913, CI 5 [0.0010, 0.1815]). Among the control variables, gender 
+(coeff 5  0.2071, CI 5 [  0.3768,  0.0373]), age (coeff 5  0.1514, CI 5 [  0.2488, 
+ 0.0541]) and income (coeff 5 0.1543, CI 5 [0.0745, 0.2341]) were significantly related to 
+person-job fit. However, educational background (coeff 5 0.0166, CI 5 [  0.0732, 0.1065]) and 
+work experience (coeff 5 0.0098, CI 5 [  0.0559, 0.0756]) were not significantly related to 
+person-job fit.
+In the second step, the influences of customer demandingness, person-job fit, customer 
+stewardship, the interaction effect (customer demandingness 3 customer stewardship) and 
+control variables on work engagement were identified. Customer demandingness 
+(coeff 5 0.2985, CI 5 [0.1879, 0.3091]) and person-job fit (coeff 5 0.3188, CI 5 [0.2461, 
+0.3916]) had significant effects on work engagement. The moderating effect of customer 
+stewardship on the relationship between customer demandingness and work engagement 
+show a significant interaction effect (coeff 5 0.1797, CI 5 [0.0780, 0.2815]). Among the control 
+variables, income (coeff 5 0.0656, CI 5 [0.0257, 0.1055]) was significantly related to work 
+engagement. However, gender (coeff 5 0.0162, CI 5 [  0.0680, 0.1004]), age (coeff 5  0.0025, 
+CI 5 [  0.0518, 0.0468]), educational background (coeff 5  0.0314, CI 5 [  0.0755, 0.0127]) 
+and work experience (coeff 5  0.0180, CI 5 [  0.0501, 0.0142]) were not significantly related 
+to work engagement. In addition, the conditional direct effect of customer demandingness on
+IJBM
+41,7
+1960
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+work engagement was significant only at the þ1 SD level (coeff 5 0.1917, CI 5 [0.0741, 
+0.3093]) and person-job fit did not mediate the relationship between customer demandingness 
+and work engagement (coeff 5 0.0159, CI 5 [  0.0235, 0.1033]). Table 5 shows the results of 
+the PROCESS macro model 5 that analyzed the moderating effect of customer stewardship 
+between customer demandingness and work engagement. 
+To identify the characteristics of statistically significant interaction terms in the results of 
+PROCESS macro procedure, we conducted a simple slope analysis following the procedures 
+proposed by Aiken and West (1991). We identified the conditional influence of an antecedent 
+variable at a single value of the moderating variable through a simple slope analysis. The 
+results showed that the negative influence of ambiguous customer expectations on work 
+engagement was weaker in the high customer stewardship group (gradient of 
+slope 5  0.447, p < 0.01) than in the low customer stewardship group (gradient of 
+slope 5  0.756, p < 0.01). Meanwhile, the relationship between customer demandingness and 
+work engagement was significant in the high customer stewardship group (gradient of 
+slope 5 0.478, p < 0.01), while the low customer stewardship group (gradient of slope 5 0.119,
+b
+(Boot) SE
+p-values
+LLCI
+ULCI
+DV 5 Person-job fit 
+(Constant)
+3.8993
+0.2920
+0.0000
+3.3245
+4.4741
+Gender
+ 0.1719
+0.0852
+0.0445
+ 0.3396
+ 0.0042
+Age
+ 0.1695
+0.0491
+0.0006
+ 0.2661
+ 0.0729
+Educational background 
+0.0206
+0.0452
+0.6492
+ 0.0684
+0.1095
+Work experience 
+0.0017
+0.0330
+0.9580
+ 0.0632
+0.0667
+Income
+0.1718
+0.0396
+0.0000
+0.0938
+0.2497
+ACE
+ 0.1542
+0.0584
+0.0088
+ 0.2692
+ 0.0392
+R 2
+0.1483
+Adjusted R 2
+0.1306
+Model F
+8.3879 **
+DV 5 Work engagement 
+(Constant)
+3.1918
+0.7145
+0.0000
+1.7855
+4.5981
+Gender
+0.0333
+0.0511
+0.5158
+ 0.0674
+0.1339
+Age
+ 0.0185
+0.0303
+0.5407
+ 0.0781
+0.0410
+Educational background 
+ 0.0278
+0.0270
+0.3042
+ 0.0810
+0.0254
+Work experience 
+ 0.0237
+0.0195
+0.2262
+ 0.0620
+0.0147
+Income
+0.0791
+0.0242
+0.0012
+0.0315
+0.1266
+ACE
+ 0.6013
+0.1873
+0.0015
+ 0.9700
+ 0.2326
+Person-job fit
+0.3085
+0.0378
+0.0000
+0.2340
+0.3830
+CusSt
+ 0.2173
+0.1868
+0.2459
+ 0.5850
+0.1505
+ACE 3 CusSt (H9)
+0.1542
+0.0491
+0.0019
+0.0576
+0.2509
+R 2
+0.5247
+Adjusted R 2
+0.5097
+Model F
+35.0750 **
+Conditional direct effects of ACE on work engagement
+ 1 SD 
+ 0.1190
+0.0472
+0.0122
+ 0.2119
+ 0.0261
+Mean 
+ 0.0229
+0.0363
+0.5274
+ 0.0943
+0.0484
+þ1 SD
+0.0731
+0.0476
+0.1259
+ 0.0206
+0.1669
+Indirect effect of ACE on work engagement
+Person-job fit
+ 0.0476
+0.0204
+ 0.0891
+ 0.0084
+Note(s): ** p < 0.01, * p < 0.05
+ACE 5 ambiguous customer expectation; CusSt 5 customer stewardship 
+Source(s): Authors’ own creation
+Table 4. 
+Results of moderating 
+effects of customer 
+stewardship between 
+ambiguous customer 
+expectation and work 
+engagement
+Influence of 
+customer- 
+related 
+characteristics
+1961
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+p > 0.05) was not significant. Overall, customer stewardship buffers the effect of ambiguous
+customer expectations on work engagement and increases the effect of customer 
+demandingness on work engagement. Thus, H9 and H10 were supported. The results of 
+the simple slope analysis are shown in Figures 3 and 4.
+6. Conclusion
+We investigated the effects of ambiguous customer expectations and customer 
+demandingness, which reflect hindrance and challenge demands, on BSBs through person-
+job fit and work engagement and the moderating effect of customer stewardship between job 
+demands and work engagement. As shown in Figure 2, ambiguous customer expectations are 
+negatively related to person-job fit (H1) and work engagement (H2), and customer 
+demandingness is positively linked to person-job fit (H3) and work engagement (H4). 
+Person-job fit enhanced work engagement (H5). We also confirmed that work engagement 
+improved BSBs (H6, H7 and H8). Finally, as shown in Tables 4 and 5, and Figures 3 and 4, we
+b
+(Boot) SE
+p-values
+LLCI
+ULCI
+DV 5 Person-job fit 
+(Constant)
+3.1699
+0.3098
+0.0000
+2.5602
+3.7796
+Gender
+ 0.2071
+0.0862
+0.0170
+ 0.3768
+ 0.0373
+Age
+ 0.1514
+0.0495
+0.0024
+ 0.2488
+ 0.0541
+Educational background 
+0.0166
+0.0457
+0.7162
+ 0.0732
+0.1065
+Work experience 
+0.0098
+0.0334
+0.7683
+ 0.0559
+0.0756
+Income
+0.1543
+0.0406
+0.0002
+0.0745
+0.2341
+CusD
+0.0913
+0.0615
+0.0476
+0.0010
+0.1815
+R 2
+0.1298
+Adjusted R 2
+0.1117
+Model F
+7.1824 **
+DV 5 Work engagement 
+(Constant)
+3.4686
+0.7696
+0.0000
+1.9539
+4.9833
+Gender
+0.0162
+0.0510
+0.7513
+ 0.0680
+0.1004
+Age
+ 0.0025
+0.0299
+0.9331
+ 0.0518
+0.0468
+Educational background 
+ 0.0314
+0.0267
+0.2407
+ 0.0755
+0.0127
+Work experience 
+ 0.0180
+0.0195
+0.3566
+ 0.0501
+0.0142
+Income
+0.0656
+0.0242
+0.0071
+0.0257
+0.1055
+CusD
+0.2985
+0.1878
+0.0000
+0.1879
+0.3091
+Person-job fit
+0.3188
+0.0370
+0.0000
+0.2461
+0.3916
+CusSt
+ 0.4093
+0.2156
+0.0587
+ 0.8337
+0.0151
+CusD 3 CusSt (H9)
+0.1797
+0.0517
+0.0006
+0.0780
+0.2815
+R 2
+0.5291
+Adjusted R 2
+0.5143
+Model F
+35.7086 **
+Conditional direct effects of CusD on work engagement
+ 1 SD 
+ 0.0323
+0.0467
+0.4899
+ 0.1093
+ 0.0261
+Mean 
+0.0797
+0.0429
+0.0640
+ 0.0047
+0.1641
+þ1 SD
+0.1917
+0.0598
+0.0015
+0.0741
+0.3093
+Indirect effect of CusD on work engagement
+Person-job fit
+0.0159
+0.0208
+ 0.0235
+0.1033
+Note(s): ** p < 0.01, * p < 0.05
+ACE 5 CusD 5 customer demandingness, CusSt 5 customer stewardship 
+Source(s): Authors’ own creation
+Table 5.
+Results of moderating 
+effects of customer 
+stewardship between 
+customer 
+demandingness and 
+work engagement
+IJBM
+41,7
+1962
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+found that customer stewardship alleviates the negative influence of ambiguous customer 
+expectations on work engagement (H9) while strengthening the positive influence of 
+customer demandingness on work engagement (H10).
+6.1 Theoretical implications
+We contribute to the marketing literature by presenting customer-related characteristics that 
+influence the BSBs of FBEs and explore psychological response processes. The first 
+contribution of the current study is that ambiguous customer expectations and customer 
+demandingness were specified as customer-related characteristics affecting the BSBs of 
+FBEs. Previous studies have emphasized the importance of frontline employees’ BSBs 
+(Bayighomog and Araslı, 2019; Bettencourt and Brown, 2003; Bettencourt et al., 2005), which 
+led scholars to explore antecedents that influence BSBs of frontline employees in services 
+sector. To this end, previous studies have examined the influence of individual-related factors
+Figure 3. 
+Interaction effect of 
+ambiguous customer 
+expectation and 
+customer stewardship
+Figure 4. 
+Interaction effects of 
+customer 
+demandingness and 
+customer stewardship
+Influence of 
+customer- 
+related 
+characteristics
+1963
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+such as role stressors and personality characteristics (e.g. Bettencourt and Brown, 2003; 
+Chien et al., 2021), or have focused on organizational factors such as relational factors within 
+organization (e.g. Lee and Han, 2020; Yoo, 2013), organizational justice (e.g. Bettencourt et al., 
+2005) and leadership (e.g. Bayighomog and Araslı, 2019). However, these studies have not 
+confirmed how customer-related characteristics affect BSBs of FBEs. Frontline employees in 
+service sector are expected to interact with customers to identify and satisfy customer needs 
+(Kim and Yoon, 2012; Singh, 2000). In the process, customers increase or inhibit frontline 
+employees’ ability to perform their job roles due to individual customer factors (H€ 
+uttel et al., 
+2019). Previous studies have shown that customer-related characteristics affect not only the 
+attitudes of employees related to work but also job behaviors (Stock and Bednarek, 2014; Yoo 
+and Arnold, 2016). Moreover, because banking services are highly customized, customers not 
+only have heterogeneous characteristics from each other (H€ 
+uttel et al., 2019), but also typically 
+engage in a high level of interaction with FBEs before being purchased (Chan et al., 2010). 
+Therefore, customer-related characteristics are particularly important to FBEs in the 
+banking services sector. We contribute to the bank marketing literature by identifying the 
+influence of customer-related characteristics on BSBs of FBEs in the banking services sector. 
+Second, this study presents empirical evidence that ambiguous customer expectations 
+and customer demandingness, which are customer-related job demands, play the role of 
+hindrance and challenge demands, respectively. Previous studies have expanded the JD-R 
+model by identifying that job demands are classified as hindrances and challenges and have 
+different effects on motivation (Crawford et al., 2010; Olafsen and Frølund, 2018; Ventura 
+et al., 2015), whereas attempts to classify customer-related job demands into hindrances and
+challenges have been deficient. Our results support the notion that ambiguous customer 
+expectations are hindrance demands that inhibit the motivational process of FBEs and play a 
+role in reducing the BSBs of FBEs by negatively affecting cognitive and emotional aspects. 
+In addition, we find support for our findings that customer demandingness is a challenge that 
+enhances the motivational process by positively affecting the cognitive and emotional 
+aspects of FBEs and that it is an antecedent in improving the BSBs of FBEs. The findings of 
+this study expand the theoretical scope of the JD-R model by producing empirical evidence 
+that ambiguous customer expectations belong to hindrance demands and customer 
+demandingness belongs to challenge demands.
+Third, our findings provide an understanding of the role of job resources in the 
+relationship between different job demands such as hindrances and/or challenges and work 
+engagement. Previous studies conducted from the JD-R perspective have suggested that job 
+demands and resources are not only negatively associated but also have a buffering effect on 
+each other’s psychological processes (Bakker and Demerouti, 2007; Bakker et al., 2014). 
+However, it has been identified that the influence on the motivational process in the extended 
+JD-R model that divides job demands into hindrances and challenges depends on the type of 
+job demands (Van den Broeck et al., 2010; Crawford et al., 2010), and thus the moderating roles 
+of job resources may also be different. We demonstrate that customer stewardship as a job 
+resource buffers the effect of hindrance demands on work engagement and reinforces the 
+effect of challenge demands on work engagement. We enrich the understanding of customer 
+stewardship as a job resource by exploring its role in the relationship between different types 
+of job demands and work engagement.
+6.2 Managerial implications
+Because our findings indicate that specific factors related to customers affect the BSBs of 
+FBEs, it is necessary to discuss practical strategies to improve their BSBs based on these 
+factors. First, ambiguous customer expectations are negatively related to the psychological 
+aspects of FBEs and diminish BSBs. Therefore, financial service organizations must
+IJBM
+41,7
+1964
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+establish practical solutions to reduce ambiguous customer expectations. Increasing the 
+social capital between FBEs and customers is one way to lower ambiguous customer 
+expectations. The increase in social capital between FBEs and customers expands shared 
+interpretations and information about each other (Lee and Yoo, 2022; Nahapiet and Ghoshal, 
+1998). Shared information about customers not only gives FBEs an understanding of the 
+customer’s situation, but also allows FBEs to, in reverse fashion, suggest requisitions and/or 
+solutions to customers. Eventually, FBEs’ social capital for customers can be utilized as a way 
+to deal with ambiguous customer expectations.
+Second, customer demandingness is positively related to the psychological aspects of 
+FBEs and intensifies BSBs. FBEs cannot completely exclude job demands in their job 
+performance, and it is important to identify challenge demands in the jobs of FBEs because 
+challenge demands among job demands are positively related to work engagement. For FBEs 
+to achieve personal development and performance in a job environment with high customer 
+demand, it is necessary to design jobs to increase the empowerment of FBEs. If FBEs are not 
+empowered to respond to customer requests, they cannot address customer demandingness 
+and may lead to increased job stress. Additionally, it is necessary to strengthen their 
+capabilities through regular job training and education, thereby enabling them to meet the 
+level of customer demandingness. Although customer demandingness acts as a training 
+factor that increases the abilities of FBEs (Banin et al., 2016; Jaramillo et al., 2013), FBEs that 
+do not have a certain level of ability cannot handle customer demandingness. Therefore, 
+FBEs that lack job performance capabilities increase job stress because of customer
+demandingness.
+Third, customer stewardship acts as a job resource by buffering the negative influence of
+hindrance demands on work engagement and improving the positive influence of challenge
+demands on work engagement. Therefore, practical solutions should be implemented to
+increase FBEs’ customer stewardship. Customer stewardship being reflected in 
+organizational values is a representative solution to improve FBEs’ customer stewardship. 
+Organizational values influence the behavior of FBEs and direct them to follow the 
+organization’s spirit and philosophy (Boateng et al., 2022). Financial service organizations are 
+required to reflect customer stewardship in organizational values and infuse organizational 
+values into FBEs. For example, financial service organizations can make customer 
+stewardship reflective and prominent in the moral code within the organization, placing it 
+at the forefront of FBEs’ minds. Financial service organizations must also infuse in their 
+FBEs a sense of responsibility and ownership in their FBEs. Managers can achieve this by 
+periodically communicating the customer vision of the organization to FBEs.
+6.3 Limitations and future research
+Our findings represent a framework for investigating the role of customer-related 
+characteristics and their effect on the BSBs of FBEs from the perspective of the JD-R 
+model. Despite these contributions, the current study has several limitations. First, while the 
+JD-R model assumes a psychological dual process (i.e. strain and motivational processes), this 
+study included only the motivational process in the research model. Reflecting on only one of 
+the dual processes in the JD-R model may provide a partial or insufficient understanding of 
+job demands and resources. Therefore, future studies should investigate the role of job 
+demands and resources in the strain process.
+Second, we presented customer-related characteristics as antecedents of the BSBs of 
+FBEs. However, despite the existence of various aspects that affect the BSBs of FBEs, we 
+failed to consider other factors. In particular, the characteristics of financial services (e.g. 
+service complexity and degree of contact with customers) were not controlled or considered 
+even though they could affect the degree of relationship with customers. In future studies, an
+Influence of 
+customer- 
+related 
+characteristics
+1965
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+expansion of the research is required to include various factors that were not considered in 
+the current study.
+Third, we conducted our investigation in a single culture (i.e. Asia), which may restrict the 
+generalizability of our results. For example, Korea has a strong collectivistic culture, which 
+may lead to different results from studies conducted in countries with individualistic cultures. 
+Therefore, future studies need to generalize the research findings by examining FBEs 
+belonging to other cultures.
+Fourth, this study is not free from endogeneity concerns. Rutz and Watson (2019) 
+emphasized that there is no perfect solution to endogeneity and suggested relying on theory 
+as a way to mitigate endogeneity concerns. In the context of managing endogeneity concerns, 
+researchers may include control variables to address omitted variable bias (Hill et al., 2021), 
+but it may be implausible to identify and measure all possible control variables. Therefore, 
+researchers should rely on sound theoretical reasoning beyond simply including control 
+variables (Rutz and Watson, 2019). The purpose of our study is to identify the effects of 
+customer-related characteristics on psychological processes and frontline employees’ BSBs in 
+banking services. This study adopted the theoretically extended JD-R model as a framework 
+to understand these objectives and related concepts. All variables set in this study were based 
+on theoretical reasoning. Moreover, Hill et al. (2021) proposed the use of the latent variable 
+method (SEM) and the resolution of the CMV to solve measurement error, which is a source of 
+endogeneity. We utilized covariance-based SEM for analysis and addressed the potential 
+problems of CMV through statistical techniques. Nevertheless, this study cannot be 
+completely free from endogeneity concerns because there is no perfect solution to 
+endogeneity.
+References
+Abdel-Halim, A.A. (1981), “Effects of role stress-job design-technology interaction on employee work 
+satisfaction”, Academy of Management Journal, Vol. 24 No. 2, pp. 260-273.
+Adams, J.S. (1976), “The structure and dynamics of behavior in organizational boundary roles”, 
+in Dunette, M.D. (Ed.), Handbook of Industrial and Organizational Psychology, Rand McNally, 
+Chicago, IL, pp. 1175-1199.
+Agnihotri, R., Gabler, C.B., Itani, O.S., Jaramillo, F. and Krush, M.T. (2017), “Salesperson ambidexterity 
+and customer satisfaction: examining the role of customer demandingness, adaptive selling, 
+and role conflict”, Journal of Personal Selling and Sales Management, Vol. 37 No. 1, pp. 27-41.
+Aiken, L.S. and West, S.G. (1991), Multiple Regression: Testing and Interpreting Interactions, SAGE, 
+Newbury Park, CA.
+Albrecht, S.L. (2015), “Challenge demands, hindrance demands, and psychological need satisfaction: 
+their influence on employee engagement and emotional exhaustion”, Journal of Personnel 
+Psychology, Vol. 14 No. 2, pp. 70-79.
+Asif, S. and Sargeant, A. (2000), “Modeling internal communications in the financial services sector”, 
+European Journal of Marketing, Vol. 34 Nos 3/4, pp. 299-318.
+Aßl€ander, M.S., Roloff, J. and Nayır, D.Z. (2016), “Suppliers as stewards? Managing social standards in 
+first-and second-tier suppliers”, Journal of Business Ethics, Vol. 139 No. 4, pp. 661-683.
+Babakus, E., Yavas, U. and Ashill, N.J. (2010), “Service worker burnout and turnover intentions: roles 
+of person-job fit, servant leadership, and customer orientation”, Services Marketing Quarterly, 
+Vol. 32 No. 1, pp. 17-31.
+Bakker, A.B. and Demerouti, E. (2007), “The job demands-resources model: state of the art”, Journal of 
+Managerial Psychology, Vol. 22 No. 3, pp. 309-328.
+Bakker, A.B. and Demerouti, E. (2008), “Towards a model of work engagement”, Career Development 
+International, Vol. 13 No. 3, pp. 209-223.
+IJBM
+41,7
+1966
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Bakker, A.B., Demerouti, E. and Verbeke, W. (2004), “Using the job demands: resources model to 
+predict burnout and performance”, Human Resource Management, Vol. 43 No. 1, p. 83-104.
+Bakker, A.B., Demerouti, E. and Schaufeli, W.B. (2005), “The crossover of burnout and work 
+engagement among working couples”, Human Relations, Vol. 58 No. 5, pp. 661-689.
+Bakker, A.B., Demerouti, E. and Sanz-Vergel, A.I. (2014), “Burnout and work engagement: the JD-R 
+approach”, Annual Review of Organizational Psychology and Organizational Behavior, Vol. 1, 
+pp. 389-411.
+Banin, A.Y., Boso, N., Hultman, M., Souchon, A.L., Hughes, P. and Nemkova, E. (2016), “Salesperson 
+improvisation: antecedents, performance outcomes, and boundary conditions”, Industrial 
+Marketing Management, Vol. 59, pp. 120-130.
+Bayighomog, S.W. and Araslı, H. (2019), “Workplace spirituality-customer engagement Nexus: the 
+mediated role of spiritual leadership on customer–oriented boundary–spanning behaviors”, The 
+Service Industries Journal, Vol. 39 Nos 7-8, pp. 637-661.
+Bettencourt, L.A. and Brown, S.W. (2003), “Role stressors and customer-oriented boundary-spanning 
+behaviors in service organizations”, Journal of the Academy of Marketing Science, Vol. 31 No. 4, 
+pp. 394-408.
+Bettencourt, L.A., Gwinner, K.P. and Meuter, M.L. (2001), “A comparison of attitude, personality and 
+knowledge predictors of service-oriented organizational citizenship behaviors”, Journal of 
+Applied Psychology, Vol. 86 No. 1, pp. 29-41.
+Bettencourt, L.A., Brown, S.W. and MacKenzie, S.B. (2005), “Customer-oriented boundary-spanning 
+behaviors: test of a social exchange model of antecedents”, Journal of Retailing, Vol. 81 No. 2, 
+pp. 141-157.
+Block, P. (1996), Stewardship: Choosing Service over Self-Interest, Berrett-Koehler, San Francisco.
+Boateng, H., Amenuvor, F.E., Adam, D.R., Agbemabiese, G.C. and Hinson, R.E. (2022), “Exploring customer 
+stewardship behaviors in service firms”, European Business Review, Vol. 34 No. 4, pp. 541-555.
+Boon, C., Den Hartog, D.N., Boselie, P. and Paauwe, J. (2011), “The relationship between perceptions of 
+HR practices and employee outcomes: examining the role of person-organisation and person-job 
+fit”, International Journal of Human Resource Management, Vol. 22 No. 1, pp. 138-162.
+Bretz, R.D., Jr and Judge, T.A. (1994), “The role of human resource systems in job applicant decision 
+processes”, Journal of Management, Vol. 20 No. 3, pp. 531-551.
+Bui, H.T.M., Zeng, Y. and Higgs, M. (2017), “The role of person-job fit in the relationship between 
+transformational leadership and job engagement”, Journal of Managerial Psychology, Vol. 32 
+No. 5, pp. 373-386.
+Cable, D.M. and DeRue, D.S. (2002), “The convergent and discriminant validity of subjective fit 
+perceptions”, Journal of Applied Psychology, Vol. 87 No. 5, pp. 875-884.
+Caldwell, C., Hayes, L.A., Bernal, P. and Karri, R. (2008), “Ethical stewardship–implications for 
+leadership and trust”, Journal of Business Ethics, Vol. 78 Nos 1-2, pp. 153-164.
+Caldwell, C. and Karri, R. (2005), “Organizational governance and ethical systems: a covenantal 
+approach to building trust”, Journal of Business Ethics, Vol. 58, pp. 249-259.
+Chan, C.W., Yim, C.K.B. and Lam, S.S.K. (2010), “Is customer participation in value creation a double-
+edged sword? Evidence from professional financial services across cultures”, Journal of 
+Marketing, Vol. 74 No. 3, pp. 48-64.
+Chatterjee, S., Chaudhuri, R., Gonz  
+alez, V.I., Kumar, A. and Singh, S.K. (2022), “Resource integration 
+and dynamic capability of frontline employee during COVID-19 pandemic: from value creation 
+and engineering management perspectives”, Technological Forecasting and Social Change, 
+Vol. 176, 121446.
+Chebat, J.C. and Kollias, P. (2000), “The impact of empowerment on customer contact employees’ roles 
+in service organizations”, Journal of Service Research, Vol. 3 No. 1, pp. 66-81.
+Influence of 
+customer- 
+related 
+characteristics
+1967
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Chien, S.Y., Yang, A.J.F. and Huang, Y.C. (2021), “Hotel frontline service employees’ creativity and 
+customer-oriented boundary-spanning behaviors: the effects of role stress and proactive 
+personality”, Journal of Hospitality and Tourism Management, Vol. 47, pp. 422-430.
+Chuang, A. and Sackett, P.R. (2005), “The perceived importance of person-job fit and person-
+organization fit between and within interview stages”, Social Behavior and Personality, Vol. 33 
+No. 3, pp. 209-226.
+Clark, L.A. and Watson, D. (1995), “Constructing validity: basic issues in objective scale development”, 
+Psychological Assessment, Vol. 7 No. 3, pp. 309-319.
+Coye, R.W. (2004), “Managing customer expectations in the service encounter”, International Journal 
+of Service Industry Management, Vol. 15 No. 1, pp. 54-71.
+Crawford, E.R., LePine, J.A. and Rich, B.L. (2010), “Linking job demands and resources to employee 
+engagement and burnout: a theoretical extension and meta-analytic test”, Journal of Applied 
+Psychology, Vol. 95 No. 5, pp. 834-848.
+Davis, J.H., Schoorman, F.D. and Donaldson, L. (1997), “Toward a stewardship theory of 
+management”, Academy of Management Review, Vol. 22 No. 1, pp. 20-47.
+De Ruyter, K., De Jong, A. and Wetzels, M. (2009), “Antecedents and consequences of environmental 
+stewardship in boundary-spanning B2B teams”, Journal of the Academy of Marketing Science, 
+Vol. 37 No. 4, pp. 470-487.
+Dormann, C. and Zapf, D. (2004), “Customer-related social stressors and burnout”, Journal of 
+Occupational Health Psychology, Vol. 9 No. 1, pp. 61-82.
+Dudenh€offer, S. and Dormann, C. (2015), “Customer-related social stressors: meaning and 
+consequences across service jobs”, Journal of Personnel Psychology, Vol. 14 No. 4, pp. 165-181.
+Edwards, J.R. (1991), Person-job Fit: A Conceptual Integration, Literature Review, and Methodological 
+Critique, John Wiley & Sons, Oxford.
+Flaherty, K.E., Mowen, J.C., Brown, T.J. and Marshall, G.W. (2009), “Leadership propensity and sales 
+performance among sales personnel and managers in a specialty retail store setting”, Journal of 
+Personal Selling and Sales Management, Vol. 29 No. 1, pp. 43-59.
+Flint, D.J., Blocker, C.P. and Boutin, P.J., Jr (2011), “Customer value anticipation, customer satisfaction 
+and loyalty: an empirical examination”, Industrial Marketing Management, Vol. 40 No. 2, 
+pp. 219-230.
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable 
+variables and measurement error”, Journal of Marketing Research, Vol. 18 No. 1, pp. 39-50.
+Franke, G.R. and Park, J.E. (2006), “Salesperson adaptive selling behavior and customer orientation: a 
+meta-analysis”, Journal of Marketing Research, Vol. 43 No. 4, pp. 693-702.
+Gerhart, B. and Fang, M. (2014), “Pay for (individual) performance: issues, claims, evidence and the 
+role of sorting effects”, Human Resource Management Review, Vol. 24 No. 1, pp. 41-52.
+Gerhart, B. and Rynes, S. (2003), Compensation: Theory, Evidence, and Strategic Implications, Sage, 
+Thousand Oaks, CA.
+Gerhart, B., Rynes, S.L. and Fulmer, I.S. (2009), “Pay and performance: individuals, groups, and 
+executives”, Academy of Management Annals, Vol. 3, pp. 251-315.
+Gierveld, J.H. and Bakker, A.B. (2005), De invloed van de secretaresse (The Influence of the Secretary), 
+Manpower, Diemen.
+Green, S.G., Blank, W. and Liden, R.C. (1983), “Market and organizational influences on bank 
+employees’ work attitudes and behaviors”, Journal of Applied Psychology, Vol. 68 No. 2, 
+pp. 298-306.
+Gwinner, K.P., Bitner, M.J., Brown, S.W. and Kumar, A. (2005), “Service customization through 
+employee adaptiveness”, Journal of Service Research, Vol. 8 No. 2, pp. 131-148.
+IJBM
+41,7
+1968
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Hair, J.F., Black, W.C., Babin, B.J. and Anderson, R.E. (2010), Multivariate Data Analysis: A Global 
+Perspective, 7th ed., Prentice-Hall, New York, NY.
+Hakanen, J.J., Bakker, A.B. and Schaufeli, W.B. (2006), “Burnout and work engagement among 
+teachers”, Journal of School Psychology, Vol. 43 No. 6, pp. 495-513.
+Hartline, M.D. and Ferrell, O.C. (1996), “The management of customer-contact service employees: an 
+empirical investigation”, Journal of Marketing, Vol. 60 No. 4, pp. 52-70.
+Hayes, A.F. (2013), Introduction to Mediation, Moderation, and Monditional Process Analysis: 
+A Regression-Based Approach, Guilford Press, New York, NY.
+He, W., Li, S.-L., Feng, J., Zhang, G. and Sturman, M. (2021), “When does pay for performance motivate 
+employee helping behavior? The contextual Influence of performance subjectivity”, Academy of 
+Management Journal, Vol. 64 No. 1, pp. 293-326.
+Henseler, J., Ringle, C.M. and Sarstedt, M. (2015), “A new criterion for assessing discriminant validity 
+in variance-based structural equation modeling”, Journal of the Academy of Marketing Science, 
+Vol. 43, pp. 115-135.
+Hernandez, M. (2008), “Promoting stewardship behavior in organizations: a leadership model”, Journal 
+of Business Ethics, Vol. 80 No. 1, pp. 121-128.
+Hernandez, M. (2012), “Toward an understanding of the psychology of stewardship”, Academy of 
+Management Review, Vol. 37 No. 2, pp. 172-193.
+Hill, A.D., Johnson, S.G., Greco, L.M., O’Boyle, E.H. and Walter, S.L. (2021), “Endogeneity: a review and 
+agenda for the methodology-practice divide affecting micro and macro research”, Journal of 
+Management, Vol. 47 No. 1, pp. 105-143.
+H€ 
+uttel, B.A., Ates, Z., Schumann, J.H., B€ 
+uttgen, M., Haager, S., Komor, M. and Volz, J. (2019), “The 
+influence of customer characteristics on frontline employees’ customer need knowledge”, 
+Journal of Services Marketing, Vol. 33 No. 2, pp. 220-232.
+Itani, O.S., Jaramillo, F. and Paesbrugghe, B. (2020), “Between a rock and a hard place: seizing the 
+opportunity of demanding customers by means of frontline service behaviors”, Journal of 
+Retailing and Consumer Services, Vol. 53, 101978.
+Jaramillo, F. and Grisaffe, D.B. (2009), “Does customer orientation impact objective sales performance? 
+Insights from a longitudinal model in direct selling”, Journal of Personal Selling and Sales 
+Management, Vol. 29 No. 2, pp. 167-178.
+Jaramillo, F. and Mulki, J.P. (2008), “Sales effort: the intertwined roles of the leader, customers, and the 
+salesperson”, Journal of Personal Selling and Sales Management, Vol. 28 No. 1, pp. 37-51.
+Jaramillo, F., Grisaffe, D.B., Chonko, L.B. and Roberts, J.A. (2009), “Examining the impact of servant 
+leadership on sales force performance”, Journal of Personal Selling and Sales Management, 
+Vol. 29 No. 3, pp. 257-275.
+Jaramillo, F., Mulki, J.P. and Boles, J.S. (2013), “Bringing meaning to the sales job: the effect of ethical 
+climate and customer demandingness”, Journal of Business Research, Vol. 66 No. 11, pp. 2301-2307.
+Jung, J.H., Brown, T.J. and Zablah, A.R. (2022), “How customer requests influence frontline employee 
+job outcomes: the role of personal appraisal tendencies and situational customer 
+demandingness”, Journal of Retailing, Vol. 98 No. 2, pp. 315-334.
+Kim, E. and Yoon, D.J. (2012), “Why does service with a smile make employees happy? A social 
+interaction model”, Journal of Applied Psychology, Vol. 97 No. 5, pp. 1059-1067.
+Kim, T.T., Paek, S., Choi, C.H. and Lee, G. (2012), “Frontline service employees’ customer-related social 
+stressors, emotional exhaustion, and service recovery performance: customer orientation as a 
+moderator”, Service Business, Vol. 6 No. 4, pp. 503-526.
+Kline, R.B. (2011), Principles and Practice of Structural Equation Modeling, Guilford Press, New York.
+Kristof-Brown, A.L. (1996), “Person-organization fit: an integrative review of its conceptualizations, 
+measurement, and implications”, Personnel Psychology, Vol. 49 No. 1, pp. 1-49.
+Influence of 
+customer- 
+related 
+characteristics
+1969
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Kristof-Brown, A.L., Zimmerman, R.D. and Johnson, E.C. (2005), “Consequences of individuals’ fit at 
+work: a meta-analysis of person-job, person-organization, person-group, and person-supervisor 
+fit”, Personnel Psychology, Vol. 58 No. 2, pp. 281-342.
+Kumar, V. and Reinartz, W. (2018), “Concepts of customer value”, in Customer Relationship 
+Management, Springer, Berlin, Heidelberg, pp. 17-29.
+Lam, W., Huo, Y. and Chen, Z. (2018), “Who is fit to serve? Person-job/organization fit, emotional labor, 
+and customer service performance”, Human Resource Management, Vol. 57 No. 2, pp. 483-497.
+Larsen, J.T. and McKibban, A.R. (2008), “Is happiness having what you want, wanting what you have, 
+or both?”, Psychological Science, Vol. 19 No. 4, pp. 371-377.
+Lee, M.S. and Han, S.L. (2020), “The effects of relationship bonds on bank employees’ psychological 
+responses and boundary-spanning behaviors: an empirical examination of the JD-R model”, 
+International Journal of Bank Marketing, Vol. 38 No. 3, pp. 578-599.
+Lee, M.S. and Yoo, J. (2022), “The effects of frontline bank employees’ social capital on adaptive selling 
+behavior: serial multiple mediation model”, International Journal of Bank Marketing, Vol. 40 
+No. 2, pp. 197-220.
+Lee, Y.L.A., Malik, A., Rosenberger, P.J., III and Sharma, P. (2020), “Demystifying the differences in the 
+impact of training and incentives on employee performance: mediating roles of trust and 
+knowledge sharing”, Journal of Knowledge Management, Vol. 24 No. 8, pp. 1987-2006.
+LePine, J.A., Podsakoff, N.P. and LePine, M.A. (2005), “A meta-analytic test of the challenge stressor-
+hindrance stressor framework: an explanation for inconsistent relationships among stressors 
+and performance”, Academy of Management Journal, Vol. 48 No. 5, pp. 764-775.
+Levy, M. and Sharma, A. (1994), “Adaptive selling: the role of gender, age, sales experience, and 
+education”, Journal of Business Research, Vol. 31 No. 1, pp. 39-47.
+Li, T. and Calantone, R.J. (1998), “The impact of market knowledge competence on new product 
+advantage: conceptualization and empirical examination”, Journal of Marketing, Vol. 62 No. 4, 
+pp. 13-29.
+Licata, J.W., Mowen, J.C., Harris, E.G. and Brown, T.J. (2003), “On the trait antecedents and outcomes 
+of service worker job resourcefulness: a hierarchical model approach”, Journal of the Academy 
+of Marketing Science, Vol. 31 No. 3, pp. 256-271.
+Lievens, A. and Moenaert, R.K. (2000), “Communication flows during financial service innovation”, 
+European Journal of Marketing, Vol. 34 Nos 9/10, pp. 1078-1110.
+Luk, S.T. and Layton, R. (2002), “Perception gaps in customer expectations: managers versus service 
+providers and customers”, Service Industries Journal, Vol. 22 No. 2, pp. 109-128.
+Luu, T.T. (2021), “Activating salesperson resilience during the COVID-19 crisis: the roles of employer 
+event communication and customer demandingness”, Industrial Marketing Management, 
+Vol. 96, pp. 18-34.
+Meijman, T.F. and Mulder, G. (1998), “Psychological aspects of workload”, in Drenth, P.J.D. and 
+Thierry, H. (Eds), Handbook of Work and Organizational Psychology: Work Psychology, 
+Psychology Press, Hove, Vol. 2, pp. 5-33.
+Mikolon, S., Kolberg, A., Haumann, T. and Wieseke, J. (2015), “The complex role of complexity: how 
+service providers can mitigate negative effects of perceived service complexity when selling 
+professional services”, Journal of Service Research, Vol. 18 No. 4, pp. 513-528.
+Miller, J.A. (1977), “Studying satisfaction, modifying models, eliciting expectations, posing problems, 
+and making meaningful measurements”, in Hunt, H.K. (Ed.), Conceptualization and 
+Measurement of Consumer Satisfaction and Dissatisfaction, School of Business, Indiana 
+University, Bloomington.
+Nahapiet, J. and Ghoshal, S. (1998), “Social capital, intellectual capital, and the organizational 
+advantage”, Academy of Management Review, Vol. 23 No. 2, pp. 242-266.
+Nunnally, J.C. (1978), Psychometric Theory, McGraw-Hill, New York, NY.
+IJBM
+41,7
+1970
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Olafsen, A.H. and Frølund, C.W. (2018), “Challenge accepted! Distinguishing between challenge-and 
+hindrance demands”, Journal of Managerial Psychology, Vol. 33 Nos 4/5, pp. 345-357.
+Olorunsola, V.O., Saydam, M.B., Ogunmokun, O.A. and Ozturen, A. (2022), “Service beyond the status 
+quo: the ripple effect of corporate social responsibility and internal marketing on employee’s 
+customer-oriented behavior”, International Journal of Bank Marketing, Vol. 40 No. 4, pp. 820-841.
+O’Hern, M.S. and Kahle, L.R. (2013), “The empowered customer: user-generated content and the future 
+of marketing”, Global Economics and Management Review, Vol. 18 No. 1, pp. 22-30.
+Parasuraman, A., Zeithaml, V.A. and Berry, L. (1988), “SERVQUAL: a multiple-item scale for 
+measuring consumer perceptions of service quality”, Journal of Retailing, Vol. 64 No. 1, 
+pp. 12-40.
+Pierce, J.L., Kostova, T. and Dirks, K.T. (2001), “Toward a theory of psychological ownership in 
+organizations”, Academy of Management Review, Vol. 26 No. 2, pp. 298-310.
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), “Common method biases in 
+behavioral research: a critical review of the literature and recommended remedies”, Journal of 
+Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+Rodr  
+ıguez-Pinto, J., Carbonell, P. and Rodr  
+ıguez-Escudero, A.I. (2011), “Speed or quality? How the 
+order of market entry influences the relationship between market orientation and new product 
+performance”, International Journal of Research in Marketing, Vol. 28 No. 2, pp. 145-154.
+Rutz, O.J. and Watson, G.F. (2019), “Endogeneity and marketing strategy research: an overview”, 
+Journal of the Academy of Marketing Science, Vol. 47, pp. 479-498.
+Salanova, M., Agut, S. and Peir  
+o, J.M. (2005), “Linking organizational resources and work engagement 
+to employee performance and customer loyalty: the mediation of service climate”, Journal of 
+Applied Psychology, Vol. 90 No. 6, p. 1217-27.
+Sandstr€om, S., Edvardsson, B., Kristensson, P. and Magnusson, P. (2008), “Value in use through 
+service experience”, Managing Service Quality, Vol. 18 No. 2, pp. 112-126.
+Schaufeli, W.B. and Bakker, A.B. (2004), “Job demands, job resources, and their relationship with 
+burnout and engagement: a multi-sample study”, Journal of Organizational Behavior, Vol. 25 
+No. 3, pp. 293-315.
+Schaufeli, W.B. and Bakker, A.B. (2010), “Defining and measuring work engagement: bringing clarity 
+to the concept”, in Bakker, A.B. and Leiter, M.P. (Eds), Work Engagement: A Handbook of 
+Essential Theory and Research, Psychology Press, Hove, East Sussex, pp. 10-24.
+Schaufeli, W.B., Salanova, M., Gonz  
+alez-Rom  
+a, V. and Bakker, A.B. (2002), “The measurement of 
+engagement and burnout: a two sample confirmatory factor analytic approach”, Journal of 
+Happiness Studies, Vol. 3 No. 1, pp. 71-92.
+Schaufeli, W.B., Bakker, A.B. and Salanova, M. (2006), “The measurement of work engagement with a 
+short questionnaire: a cross-national study”, Educational and Psychological Measurement, 
+Vol. 66 No. 4, pp. 701-716.
+Schaufeli, W.B., Taris, T.W. and Van Rhenen, W. (2008), “Workaholism, burnout, and work 
+engagement: three of a kind or three different kinds of employee well-being?”, Applied 
+Psychology, Vol. 57 No. 2, pp. 173-203.
+Schepers, J.J.L. and van der Borgh, M. (2020), “A meta-analysis of frontline employees’ role behavior 
+and the moderating effects of national culture”, Journal of Service Research, Vol. 23 No. 3, 
+pp. 255-280.
+Schepers, J., Falk, T., De Ruyter, K., De Jong, A. and Hammerschmidt, M. (2012), “Principles and 
+principals: do customer stewardship and agency control compete or complement when shaping 
+frontline employee behavior?”, Journal of Marketing, Vol. 76 No. 6, pp. 1-20.
+Schriesheim, J.F. and Schriesheim, C.A. (1980), “A test of the path-goal theory of leadership and some 
+suggested directions for future research”, Personnel Psychology, Vol. 33 No. 2, pp. 349-370.
+Influence of 
+customer- 
+related 
+characteristics
+1971
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Seong, J.Y. and Kristof-Brown, A.L. (2012), “Testing multidimensional models of person-group fit”, 
+Journal of Managerial Psychology, Vol. 27 No. 6, pp. 536-556.
+Singh, J. (2000), “Performance productivity and quality of frontline employees in service 
+organizations”, Journal of Marketing, Vol. 64 No. 2, p. 15-34.
+Singh, B. and Tiwari, A.A. (2020), “Customer stewardship behavior and stewardship fatigue: a 
+conceptual framework”, Marketing Intelligence and Planning, Vol. 38 No. 3, pp. 386-399.
+Solomon, M., Surprenant, C., Czepiel, J. and Gutman, E. (1985), “A role theory perspective on dyadic 
+interactions: the service encounter”, Journal of Marketing, Vol. 49, p. 99-111.
+Sony, M. and Mekoth, N. (2016), “The relationship between emotional intelligence, frontline employee 
+adaptability, job satisfaction and job performance”, Journal of Retailing and Consumer Services, 
+Vol. 30, pp. 20-32.
+Staw, B.M. (1977), “Motivation in organizations: toward synthesis and redirection”, in Staw, B.M. and 
+Salancik, G. (Eds), New Directions in Organizational Behavior, St. Clair, Chicago, IL, pp. 55-95.
+Stock, R.M. and Bednarek, M. (2014), “As they sow, so shall they reap: customers’ influence on 
+customer satisfaction at the customer interface”, Journal of the Academy of Marketing Science, 
+Vol. 42 No. 4, pp. 400-414.
+Tadi  
+c, M., Bakker, A.B. and Oerlemans, W.G. (2015), “Challenge versus hindrance job demands and 
+well-being: a diary study on the moderating role of job resources”, Journal of Occupational and 
+Organizational Psychology, Vol. 88 No. 4, pp. 702-725.
+Tims, M., Derks, D. and Bakker, A.B. (2016), “Job crafting and its relationships with person-job fit and 
+meaningfulness: a three-wave study”, Journal of Vocational Behavior, Vol. 92, pp. 44-53.
+Tosi, H.L., Brownlee, A.L., Silva, P. and Katz, J.P. (2003), “An empirical exploration of decision-making 
+under agency controls and stewardship structure”, Journal of Management Studies, Vol. 40 
+No. 8, pp. 2053-2071.
+Van Den Broeck, A., De Cuyper, N., De Witte, H. and Vansteenkiste, M. (2010), “Not all job 
+demands are equal: differentiating job hindrances and job challenges in the job demands-
+resources model”, European Journal of Work and Organizational Psychology, Vol. 19 No. 6, 
+pp. 735-759.
+Van Puyvelde, S., Caers, R., Du Bois, C. and Jegers, M. (2012), “The governance of nonprofit 
+organizations: integrating agency theory with stakeholder and stewardship theories”, Nonprofit 
+and Voluntary Sector Quarterly, Vol. 41 No. 3, pp. 431-451.
+Van Vianen, A.E., Shen, C.T. and Chuang, A. (2011), “Person-organization and person-supervisor fits: 
+employee commitments in a Chinese context”, Journal of Organizational Behavior, Vol. 32 No. 6, 
+pp. 906-926.
+Ventura, M., Salanova, M. and Llorens, S. (2015), “Professional self-efficacy as a predictor of burnout 
+and engagement: the role of challenge and hindrance demands”, The Journal of Psychology, 
+Vol. 149 No. 3, pp. 277-302.
+Verbeke, W., Dietz, B. and Verwaal, E. (2011), “Drivers of sales performance: a contemporary meta-
+analysis. Have salespeople become knowledge brokers?”, Journal of the Academy of Marketing 
+Science, Vol. 39 No. 3, pp. 407-428.
+Voorhees, C.M., Brady, M.K., Calantone, R. and Ramirez, E. (2016), “Discriminant validity testing in 
+marketing: an analysis, causes for concern, and proposed remedies”, Journal of the Academy of 
+Marketing Science, Vol. 44, pp. 119-134.
+Walker, J.L. (1995), “Service encounter satisfaction: conceptualized”, Journal of Services Marketing, 
+Vol. 9 No. 1, p. 5-14.
+Wang, G. and Netemeyer, R.G. (2002), “The effects of job autonomy, customer demandingness, and 
+trait competitiveness on salesperson learning, self-efficacy, and performance”, Journal of the 
+Academy of Marketing Science, Vol. 30 No. 3, pp. 217-228.
+IJBM
+41,7
+1972
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3
+
+Wang, G. and Netemeyer, R.G. (2004), “Salesperson creative performance: conceptualization, 
+measurement, and nomological validity”, Journal of Business Research, Vol. 57 No. 8, 
+pp. 805-812.
+Widmer, P.S., Semmer, N.K., K€alin, W., Jacobshagen, N. and Meier, L.L. (2012), “The ambivalence of 
+challenge stressors: time pressure associated with both negative and positive well-being”, 
+Journal of Vocational Behavior, Vol. 80 No. 2, pp. 422-433.
+Wronska, M.K., Bujacz, A., Gocłowska, M.A., Rietzschel, E.F. and Nijstad, B.A. (2019), “Person-task 
+fit: emotional consequences of performing divergent versus convergent thinking tasks 
+depend on need for cognitive closure”, Personality and Individual Differences, Vol. 142, 
+pp. 172-178.
+Xanthopoulou, D., Bakker, A.B., Demerouti, E. and Schaufeli, W.B. (2007), “How job and personal 
+resources influence work engagement and financial turnover: a diary study in a Greek fast-food 
+company”, International Journal of Stress Management, Vol. 14, pp. 121-141.
+Yavas, U. and Babakus, E. (2010), “Relationships between organizational support customer 
+orientation and work outcomes: a study of frontline employees”, International Journal of 
+Bank Marketing, Vol. 28 No. 3, pp. 222-228.
+Yoo, J. (2013), “The influence of social undermining on the service employee’s customer-oriented 
+boundary-spanning behavior”, Journal of Services Marketing, Vol. 27 No. 7, pp. 539-550.
+Yoo, J. (2016), “Perceived customer participation and work engagement: the path through emotional 
+labor”, International Journal of Bank Marketing, Vol. 34 No. 7, pp. 1009-1024.
+Yoo, J. and Arnold, T.J. (2016), “Frontline employee customer-oriented attitude in the presence of job 
+demands and resources: the influence upon deep and surface acting”, Journal of Service 
+Research, Vol. 19 No. 1, pp. 102-117.
+Yoo, J. and Jung, Y. (2019), “Interactive effects of organizational goal orientations on bank-employee’s 
+behavior”, International Journal of Bank Marketing, Vol. 37 No. 2, pp. 402-425.
+Yoo, J.J., Arnold, T.J. and Frankwick, G.L. (2014), “Promoting boundary-spanning behavior among 
+service personnel”, European Journal of Marketing, Vol. 48 Nos 9/10, pp. 1626-1647.
+Yoo, J., Chen, J. and Frankwick, G.L. (2021), “Influence of customer participation from the employee 
+perspective”, International Journal of Bank Marketing, Vol. 39 No. 1, pp. 24-47.
+Zeithaml, V.A., Parasuraman, A. and Berry, L.L. (1990), Delivering Quality Service: Balancing Customer 
+Perceptions and Expectations, The Free Press, New York, NY.
+Zeithaml, V.A., Berry, L.L. and Parasuraman, A. (1993), “The nature and determinants of 
+customer expectations of service”, Journal of the Academy of Marketing Science, Vol. 21 
+No. 1, p. 1-12.
+Corresponding author
+Jaewon Yoo can be contacted at: yjw1774@ssu.ac.kr
+For instructions on how to order reprints of this article, please visit our website: 
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Influence of 
+customer- 
+related 
+characteristics
+1973
+Downloaded from http://www.emerald.com/ijbm/article-pdf/41/7/1945/10978083/ijbm-12-2022-0541en.pdf by University College London user on 3

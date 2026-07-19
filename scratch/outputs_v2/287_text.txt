@@ -1,0 +1,1399 @@
+Work from home: understanding
+boundary management proﬁles
+using boundary-ﬁt perspective
+Neerja Kashive and Brijesh Sharma
+Ves Business School, Mumbai, India, and
+Vandana Tandon Khanna
+KJ Somaiya Institute of Management Studies and Research, Mumbai, India
+Abstract
+Purpose – The recent COVID-19 pandemic has (triggered) lots of interest in work from home (WFH)
+practices. Many organizations in India are changing their work practices and adopting new models of getting
+the work done. The purpose of the study to look at the boundary-ﬁt perspective (Ammons (2013) and two
+factors, namely, individual preferences (boundary control, family identity, work identity and technology
+stress) and environmental factors (job control, supervisor support and organizational policies). These
+dimensions are used and considered to create various clusters for employees working from home.
+Design/methodology/approach – K-mean clustering was used to do the cluster analysis. Statistical
+package for social sciences 23 was used to explore different clusters based on a pattern of characteristics
+unique to that cluster, but each cluster differed from other clusters. Further analysis of variance test was
+conducted to see how these clusters differ across three chosen outcomes, namely, work-family conﬂict,
+boundary management tactics used and positive family-to-work spillover effect. The post hoc test also
+provided insights on how each cluster differs from others on these outcomes.
+Findings – The results indicated four distinct clusters named boundary-ﬁt family guardians, work warriors,
+boundary-ﬁt fusion lovers and dividers consistent (with previous) research. These clusters also differ across at
+least two major outcomes like boundary management tactics and positive spillover. The high control cluster
+proﬁles like Cluster 3 (boundary-ﬁt fusion lovers) and Cluster 4 (dividers) showed low technostress and higher
+use of boundary management tactics. Cluster 3 (boundary-ﬁt fusion lovers) and Cluster 1 (boundary-ﬁt family
+guardians) having high environmental inﬂuencers also showed higher positive family-to-work spillover.
+Research limitations/implications – Because this study is very speciﬁc to the Indian context, a broad
+generalization requires further exploration in other cultural contexts. The absence of this exploration is one of
+the limitations of this study. On the culture continuum, countries may vary from being individualistic on one
+extreme to being collectivistic on the other extreme. Interaction of these two cultural extremities with the
+individual and the environmental dimension, as espoused in this research, can be examined further in a
+different cultural setting.
+Originality/value – This study has extended the work of Ammons (2013) and added external inﬂuencers
+as a dimension to the individual preferences given by (Kossek 2016), and created the cluster for employees in
+the Indian context. This study has demonstrated the importance of reduced technostress, and the use of
+boundary management tactics (temporal and behavioral) leads to positive family-to-work spillover. It has also
+emphasized the relevance of organization policies and supervisor support for better outcomes in WFH.
+Keywords Work from home, Boundary-ﬁt, Work-family conﬂict, Boundary management tactics,
+Positive spillover, Cluster analysis
+Paper type Research paper
+1. Introduction
+The recent emergence of COVID-19 has led to a global crisis hitting many service industries
+(Suneson, 2020) and thereby disrupting markets and service ecosystems (McKinsey, 2020).
+IJOA
+31,5
+1776
+Received 1 April 2021
+Revised 28 June 2021
+12 November 2021
+Accepted 12 November 2021
+International Journal of
+Organizational Analysis
+Vol. 31 No. 5, 2023
+pp. 1776-1801
+© EmeraldPublishingLimited
+1934-8835
+DOI 10.1108/IJOA-04-2021-2695
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1934-8835.htm
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+This disruption has compelled people to work from home (WFH), and consequent to this,
+many organizations have changed their human resource (HR) policies to accommodate these
+unforeseen changes (Carnevale and Hatak, 2020). Work from home (WFH) has become the
+new normal. Individuals are adopting technology and also learning new skills to remain
+updated and communicate virtually. This has led to renewed interest in work from home
+phenomenon (WFH). It is well documented that technological innovation, the rise of dual-
+income families and globalization have been the drivers of the integration of work and
+nonwork domains (Rothbard and Ollier-Malaterre, 2016). There is growing interest and
+research in the dynamics of integration of work and nonwork settings and how it affects
+employee well-being and their health, but the ﬁnding in many of the studies are inconclusive
+(Allen et al., 2014; Rothbard and Ollier-Malaterre, 2016).
+Pre COVID-19, WFH was in infancy in India, and the general populace was not very
+warm to the concept of WFH; and also, companies were not very receptive to WFH as a
+workplace arrangement option. COVID-19 has compelled Indian companies to use WFH
+as a workplace arrangement in a very crude way to tide over the COVID-induced disruption.
+WFH has moved from the fringes to become a mainstream workplace arrangement, and it
+seems it has gained permanency. Looking at the new normal, which includes “future of work”
+and “role of ofﬁce” leads to concerns about well-being and mental health (Guest et al., 2021).
+There is a lot of learning for managers and organizations to create the right support during this
+pandemic (Kirchner et al., 2021). The current study provides insight and a direction to the
+practitioners and organizations about the importance of organizational support to employees
+who are performing their tasks in the WFH kind of workplace arrangement. The research
+study also gives a direction that using and generalizing, one size ﬁts all, approach in managing
+the new WFH workplace arrangement would not yield optimum results. A speciﬁc strategy for
+each cluster and a calibrated approach for each cluster would be more desirable.
+Although work to nonwork integration can bring positive spillover in the individuals
+leading to higher enrichment (Powell and Greehaus, 2010), work to nonwork integration can
+also lead to negative spillover in the individuals leading to more conﬂict (Hecht and Allen,
+2009; Kossek et al., 2012; Powell and Greenhaus, 2010; Wepfer et al., 2018). Teleworking can
+also lead to higher work-family conﬂict (WFC) due to overlapping roles in the work and
+family domain (Madsen, 2003). Apart from the contradictions in the studies concerning the
+beneﬁt and the maladies of the abovementioned integration, there is a limited understanding
+of how technology and its usage outside working hours are affecting work and nonwork
+outcomes (Boswell and Olson-Buchanan, 2007). The traditional work and home environment
+are divided by temporal, physical and psychological boundaries. Working from home has
+changed (blurred) the previously set boundaries like physical, psychological and temporal
+between work and family domain (Greer and Payne, 2014). WFH has blurred these
+boundaries and made them porous, and in the absence of proper boundary management
+tactics, we have instances of WFC. Given the scale of adoption of WFH and the ensuing WFC,
+there is evidence of the sparse attention given to how work and nonwork boundaries are
+managed (Bulger et al., 2007) and how they affect the major work-life outcomes (Kossek et al.,
+2006).
+A lot of work has been done in the work-life balance domain, and to reduce the WFC,
+individuals may try to reach some level of work-family balance (Clark, 2000; Greenhaus
+et al., 2003). Organizations are looking for ways to provide a workplace where employees
+can achieve work-life balance, and many companies have introduced “family-friendly
+practices” (FFP) to reduce the WFC (Lockwood, 2003). Often the beneﬁt obtained from WFH
+is more stressed, like increased ﬂexibility leading to better manage the demand for work and
+family at the same time (Gajendran and Harrison, 2007). It is considered that WFH brings
+Work from
+home
+1777
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+more work-life balance as it leads to more integration between work and family roles. For
+integrating or segmenting roles to create boundaries between work and family, two
+important factors like ﬂexibility and permeability are discussed (Ashforth et al., 2000; Clark,
+2000). Flexibility is given by the extent to which boundary may contract or expand in time
+or space depending on the demand from one domain, whereas permeability is the degree to
+which elements from one domain may enter another domain (Clark, 2000). When boundaries
+have high ﬂexibility and permeability, it leads to more integration between work and family
+roles. People may move from the work domain to the family domain and manage the border
+to achieve work-life balance.
+A person-centered approach can be applied to identify different proﬁles having different
+styles of boundary management as a part of psychological behaviors forming a distinct
+pattern or clusters. Kossek and Lautsch (2008) divided the individuals into high control
+(fusion lovers, quality timers and work or family ﬁsters) exhibiting high WFC and
+psychological distress than individuals with low boundary control (BC) (job warriors,
+captives and reactors). Kossek et al. (2012) have shown that the three characteristics of
+boundary management, cross-role interruption behavior, role identity salience and BC gave
+six possible styles: work warriors, family guardians, overwhelmed reactors, dividers, fusion
+lovers and nonwork eclectics. Kossek (2016) used BC, work-non work interruption behavior,
+career-family identity centralities, needing time for self and technological dependence to
+create four major clusters such as integrators, cyclers, separators and role ﬁsters.
+Ammons (2008) came up with a unique dimension and adopted a person-environment ﬁt
+perspective, and investigated the alignment of individual boundary preferences and
+boundaries provided by the external environment or workplace. In the person-environment
+approach, when there is the alignment of environmental conditions like workplace policies
+and practices with individual boundary preferences, it results in “boundary congruence”
+(Kreiner, 2009), which results in reducing conﬂict among work-family domain (Chen et al.,
+2009) and higher satisfaction and commitment for the job (Rothbard et al., 2005).
+The current research has extended this approach to divide the employees into various
+clusters and emphasized the role of organization support as an external predictor for
+creating a positive family-to-work spillover for work from home (WFH). Based on the
+boundary ﬁt perspective, two factors, namely, individual preferences (BC, family identity,
+work identity and technology dependence) and environmental factors (job control,
+supervisor support and organizational policies) are used to categorize the individuals into
+different clusters. The organizations can use the characteristics of the different clusters to
+understand the employee’s behavior and conﬁgure strategies to manage them. These
+clusters are also compared for WFC, different boundary management tactics (temporal,
+physical, behavioral, communicative) and positive spillover from family to work. WFC was
+seen to be high in all the clusters, and temporal and behavioral tactics were more used by the
+particular clusters with more positive family-to-work spillover.
+This study has two important contributions to make. First, it investigates both
+individual factors as well as environmental factors based on the boundary ﬁt perspective
+given by Ammons (2013) to divide individuals into various clusters, and second, it compares
+both positive and negative behavioral outcomes for all these clusters such as WFC, family-
+work boundary tactics and works positive spillover.
+Key research questions
+RQ1. Can we use a boundary ﬁt perspective with both individual preferences (BC,
+family identity, work identity and technology adoption) and environmental
+IJOA
+31,5
+1778
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+factors (job control, supervisor support and organizational support) to create
+clusters for individuals working from home (WFH)?
+RQ2. Do clusters based on individual preferences (BC, family identity, work identity
+and technology adoption) and environmental factors (job control, supervisor
+support and organizational support) differ across WFC, family-work boundary
+tactics and work positive spillover?
+2. Literature review
+2.1 The theoretical perspective of boundary management
+When looking at the boundary management related to work and nonwork, two important
+theories with different origins are studied (Allen et al., 2014). These are boundary theory
+(Ashforth et al., 2000; Allen et al., 2014; Nippert Eng, 1996), which focuses on the work-life
+domain, and border theory (Clark, 2000), which focuses on the work and family domain. As
+per these theories, individuals are forced to set boundaries to balance their work and family
+roles. Some create a boundary to segment the roles, whereas others create weaker
+boundaries to integrate the roles.
+The boundary theory and border theory both investigate how individuals manage to set
+boundaries between work and their families. Although boundary theory takes up the
+sociological and cognitive perspective to understand individual learning about setting
+boundaries and its implications on social life. It dwells into the interaction between work
+and family and how people put meaning to these two aspects in their life (Nippert-Eng, 1996)
+and how they can change their roles when moving from one domain to another (Ashforth
+et al., 2000; Desrochers and Sargent, 2004) the border theory focusses on the transition from
+one aspect to other and managing the border between them (Clark, 2000).
+Most researchers have used a variable level approach by taking independent variables
+(choice for integration/segmentation) and outcome variables (WFC) as per (Rothbard
+et al., 2005). Others have used a continuum to describe various characteristics of
+individuals using a mix of approaches or remain in extreme ends of the continuum
+(Kossek and Lautsch, 2008; Bulger et al., 2007; Kossek et al., 2012). They have also
+suggested the directionality to these concepts as to if the individual is integrating or
+segment from work to family or family to work (Kosekk and Lautsch, 2008; Ashforth
+et al., 2000; Kossek et al., 2012). Boundary scholars (Ashforth et al., 2000; Kossek et al.,
+2005; Nippert-Eng, 1996; Kreiner, 2006; Kossek et al., 1999) have also differentiated
+between desired and actual boundaries. “Enacted boundaries” are the actual demarcation
+individual makes, whereas “boundary preferences” are the boundary they desire to have.
+As per (Kossek et al., 2005; Kossek and Lautsch, 2008) the preferred boundary can be a
+part of the enactment boundary.
+Another aspect studied is the role of ﬂexibility and permeability affecting the
+boundaries between the two domains (Asforth et al., 2000; Clark, 2000). Flexibility is the
+expansion and contraction of the boundary in time and space as the demand varies for
+one domain over the other (Clark, 2000). The permeability of the boundary is the extent of
+other domain elements entering into the phenomenon (Clark, 2000). The boundary with a
+high level of ﬂexibility and permeability leads to higher integration of roles between
+work and nonwork domains. The three borders that work between work and family
+domains are temporal, physical and psychological (Clark, 2000). Preference for
+segmentation/integration also leads to the use of work-related technology in nonwork
+time (Park et al., 2011; Piszczek, 2017).
+Work from
+home
+1779
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+2.2 Person-centered approach
+A person-centered approach can be applied to boundary management, which can be used to
+identify different proﬁles having various styles of boundary management as a part of
+distinct psychological behaviors pattern. The person-centered approach can divide
+individuals into distinct clusters but different clusters differing from other clusters (Sinclair
+et al., 2005). This approach considers boundary management as a holistic process having
+multiple aspects existing together.
+Kossek and Lautsch (2008) divided the individuals into high control (fusion lovers,
+quality timers and work or family ﬁsters), showing high WFC and psychological distress
+than individuals with low BC (job warriors, captives and reactors). Kossek et al. (2012)
+identiﬁed that the three characteristics of boundary management are cross-role
+interruptions behaviors, role identity salience and BC. Cross-role interruption behaviors are
+the extent to which an individual allows interruptions from one role to another. Role identity
+centrality shows the relative value individual places on his or her different identities.
+Perceived BC is the amount of control one perceives to have over his or her boundary
+environment. Combining all these three factors Kossek et al. (2012) gave six possible styles:
+work warriors, family guardians, overwhelmed reactors, dividers, fusion lovers and
+nonwork eclectics.
+Bulger et al. (2007) created four clusters using boundary strengths of ﬂexibility and
+permeability. Although Cluster 1 had high boundary strength and preferred high
+integration, Cluster 2 refereed preferred integration over-segmentation but did not have a
+strong urge to do so. Cluster 3 was neutral on all the boundary strength, but a low score for
+work ﬂexibility and Cluster 4 was high on work ﬂexibility and permeability but low on
+family ﬂexibility and permeability
+Kossek (2016) used BC, work-non work interruption behavior, career-family identity
+centralities, needing time for self and technological dependence to create four major clusters
+such as integrators, cyclers, separators and role ﬁsters. Further strategies for self-
+management for personal BC in terms of physical, mental and social were suggested.
+Strategies for leaders and organizations to manage and support boundary styles were listed.
+2.3 Boundary-ﬁt perspective
+Ammons (2008) came up with a unique perspective and suggested that boundary
+preferences and enactment are different but interrelated, and their relation to boundary-ﬁt
+leads to various outcomes like WFC and work-life balance. This approach adopts a person-
+environment ﬁt perspective and investigates the alignment of individual boundary
+preferences and boundaries provided by the external environment or workplace. In the
+person-environment approach, when there is the alignment of environmental conditions like
+workplace policies and practices with individual boundary preferences, it results in
+“boundary congruence” (Kreiner, 2009), which results in reduced conﬂict among work-
+family domain (Chen et al., 2009) and higher satisfaction and commitment for the job
+(Rothbard et al., 2005).
+Allen et al. (2014) introduced boundary management styles using integration and
+segmentation continuum and distinguished between boundary preferences and enactment.
+Boundary preferences refer to the desired level of integration and segmentation (Ammons,
+2013; Kreiner, 2006), whereas boundary enactment refers to the individual actual degree of
+integration and segmentation, which he or she achieves to fulﬁll his work and nonwork roles
+(Allen et al., 2014). As per Allen et al. (2014), boundary management preferences and
+enactment for integration and segmentation are related to physical, psychological and
+behavioral aspects of the boundary between work and nonwork domains.
+IJOA
+31,5
+1780
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Ammons (2013) suggests that instead of focusing on the level of congruence between
+outside environmental conditions and boundary preference (Kreiner, 2009; Rothbard et al.,
+2009), the researcher should investigate the process of environmental conditions affecting
+preferences and enactment. The boundary-ﬁt approach can inﬂuence outcomes like WFC,
+work-life balance, job satisfaction, commitment and turnover intentions. Though already
+studies have focused on the boundary and above outcomes, the level of ﬁt between actual
+and desired boundaries may provide a better understanding.
+Ammons (2013), through a qualitative approach, studied the employees working in the
+environment, which facilitated ﬂexibility in the context of the time (when) and place (where)
+they work and observed four dominant styles. The ﬁrst style, called “protecting family” kept
+work away from family, and the second was called “above and beyond” and showed absence
+to little integration of family into the work domain. The second category had two subgroups,
+“eager above beyonders” who were completely engrossed in work and enjoyed it, whereas
+“reluctant above and beyonders” were not happy about integrating. The third category was
+called “enhancing family” as they aligned family responsibility into work, and the fourth
+category was called “holistic boundaries” as they could manage both work and family well
+lead a balanced life. Table 1 shows the various cluster suggested by the researcher in
+boundary management research.
+Boundary management styles can be divided into various groups depending upon the
+following two factors, namely, individual preferences and environmental inﬂuencers. The
+individual preferences talk about the factors chosen at the individual level such as BC, work
+and family identity and technostress, whereas environmental factors are outside related to
+the job, supervisor and organizational policies.
+2.3.1 Individual preferences
+2.3.1.1 Boundary control. BC differs from identities as they focus on understanding of
+managing and controlling boundaries and do not investigate any personality traits. As
+per Clark (2000), ﬂexibility is the degree to which people expand or contract the level of
+the boundary they have created. Karasek (1979) suggested job strain model can be used
+to apply to WFH as stress is created when an individual is not able to manage the
+demand of the environment when freedom to control job/job demand is not granted to
+him/her. The individuals having a high level of perceived BC will have a belief that they
+may manage time, frequency and direction of the crossing of boundaries to better ﬁt their
+identities to the role, whereas individuals showing low control may feel that they cannot
+manage the crossing of boundaries to ﬁt the identity given for each role.
+2.3.1.2 Identity centrality of work and family roles. The role identity theory (Burke and
+Reitzes, 1991) can be used to explain role centrality, which investigates how an individual
+puts relative value to his or her identity in terms of investing time and energy in a given role.
+Many researchers believe that almost all the employees perceive themselves as having high
+family identity than work identity (Casper et al., 2007; Routhausen, 1999). People differ as to
+how they give importance to different roles. Some people have a high family identity
+wherein they are family-centric, whereas some people place greater importance on career
+identity, prioritizing work-related tasks over family and are work-centric. Dual-centricity
+people are those who focus on both tasks related to work and family and have an equal
+identity for both job and family (Lobel and St. Clair, 1992).
+2.3.1.3 Technological stress. The spread of information and communication technology
+(ICT) has increased the ﬂexibility and permeability of work-family boundaries as the
+availability of communication devices like smart-phone and tablets are allowing people to
+work from home, providing ﬂexible work schedules (Valcour and Hunter, 2005). In their
+study for IBM, Hill et al. (2003) have shown that working via ICT has provided a lot of
+Work from
+home
+1781
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Sr. No. Authors
+Integration !Segmentation
+Cluster 1
+Cluster 2
+Cluster 3
+Cluster 4
+Cluster 5
+Cluster 6
+1
+Bulger et al. (2007)
+Integrators
+Somewhat work
+integrator and somewhat
+personal life segmentor
+Neutral
+(Midpoint of
+segmented-integrator)
+Segmentor
+(work integrators/
+personal life segmentor)
+2
+Kossek and Lautsch
+(2008)
+Fusion lovers
+Work or family ﬁsters
+Quality timers
+3
+Kossek et al. (2012)
+Work warrior
+Overwhelmed Reactive
+Family Guardians
+Fusion lovers
+Dual-centric integrator
+Divider
+Dual-centric
+separator
+Nonwork-eclectics
+other-centric
+4
+Ammons (2013)
+Holistic
+Enhanced family
+Above and beyond
+Protect family
+5
+Kossek (2016)
+Integrators
+Cycler
+Role ﬁster
+Separators
+Table 1.
+Framework for
+clusters based on
+individual
+preferences
+IJOA
+31,5
+1782
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+ﬂexibility to employees in scheduling their tasks. But it is also observed that using ICT can
+also lead to increased workload and WFC due to interference in personal lives (Kurland and
+Bailey,1999; Mirchandani,1999).
+Technostress is caused by the use of technology resulting from stimuli, events and
+demands that cause stress (Ayyagari et al., 2011; Ragu-Nathan and Tu, 2008). Tarafdar et al.
+(2007) have given ﬁve ICT related stress: technology overload – making employees work
+more, techno invasion – ICT impacting employees personal lives, techno complexity –
+creating a mindset of not being competent, techno uncertainty – constant changing and up-
+gradation of technology and techno security – the perception of losing a job due to
+continuous changes in technology.
+Technostress may be caused due to three reasons: individual differences, technology-
+related perception and organizational characteristics (Tu et al., 2005). Individual
+characteristics such as younger, male, lower education, inexperience for computer usage and
+lower level of computer efﬁcacy and self-conﬁdence may lead to higher technostress (Ragu-
+Nathan et al., 2008; Shu et al., 2011). Organizational characteristics may include technology
+dependency, centralization, degree of innovation, literacy and technology support (Shu et al.,
+2011; Wang et al., 2008). Technology characteristics such as degree individual accessibility,
+anonymity and continuous change also increase stress (Ayyagari et al., 2011). Ollier-
+Malaterre et al. (2019) looked into the spatial, temporal, and relational boundaries for work
+and family and usage of technology to manage the same.
+2.3.2 Environment inﬂuencers
+2.3.2.1 Psychological job control. Kossek et al. (2006) proposed a psychological job control
+scale, based on Hackman and Oldham’s (1980) job control scale, measuring job
+characteristics of how individuals perceive control of their work. The study found that the
+perception of an individual of having control over where, when and how work will be done
+predicts conﬂict between work and family more than how these can be integrated through
+organizational policies (Kossek et al., 2006).
+2.3.2.2 Supervisor support. The organizations that provide support in working hours
+scheduling and ﬂexibility may give authority to supervisors who decide on workload and
+stress generated from work (Beehr et al., 2003). As the supervisor plays an important role in
+managing the WFC, it becomes crucial for an organization to study the supervisor’s
+behavior inﬂuencing these aspects of employee work (Hopkins, 2005). Supervisor support,
+which is a source of social support, is related to a lower level of work-family conﬂict (Frye
+and Breaugh, 2004; Lapierre and Allen, 2006; Thomas and Ganster, 1995) and a higher level
+of positive spillover between work and family (Thompson and Prottas, 2006). Supervisor
+support also leads to higher job satisfaction and is negatively related to turnover intentions
+(Thomas and Ganster, 1995; Thompson and Prottas, 2006).
+Family supportive supervisor behavior (FSSB) is deﬁned as the behavior shown by the
+supervisor which supports family and includes emotional support, role modeling,
+instrumental support and creative work-family management (Kossek et al., 2007). FSSB has
+been deﬁned as where supervisors empathize with employees for having a work-family
+balance (Thomas and Ganster, 1995).
+2.3.2.3 Organizational policies. Person environment (P-E) ﬁt reveals that person and
+environment both inﬂuence not only individually but also interact and affect the individual
+outcomes (Harrison,1978; Kulka,1979; Stone and Hollenbeck, 1984). The preference supplies’
+perspective considers how the environment satisﬁes personal needs, values and preferences
+(Kristof, 1996). As the workplace environment provides the desired supplies, the ﬁt is
+achieved as contrary to when the preferred supplies are provided in a small amount or large
+amount, leading to the mismatch. As per P-E ﬁt theory, the match will lead to a reduction in
+Work from
+home
+1783
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+conﬂict and lower stress and improved well-being, whereas mismatch will lead to the exact
+opposite effect.
+Family supportive organizations will always be considerate to the nonwork life of
+employees by their policies and procedure and, in effect, send the message across all the
+employees that nonwork responsibilities are valued. Allen (2001) showed that employees
+working in family-supportive organizations have less work interfering with family, even
+after controlling other variables like family-supportive supervision and family-friendly
+beneﬁts. Organizations having a culture promoting positive work-family integration have
+been also associated with higher job satisfaction and organizational commitment, and lower
+turnover intentions (Allen, 2001). Gordon et al. (2007) have found that supportive culture
+integrating both aspects of work and family leads to lower WFC and higher job satisfaction,
+and Lapierre and Allen (2006) have shown the critical role of a supportive supervisor in
+managing WFC and high overall well-being. Mesmer-Magnus and Viswesvaran’s (2006)
+meta-analysis also conﬁrmed the negative relation between the perception of supportive
+work-family culture and WFC.
+Hence, boundary ﬁt perspective can be applied to take both individual preferences (BC,
+family identity, work identity and technology adoption) and environmental factors (job
+control, supervisor support and organizational support) to create clusters for individuals
+working from home (WFH). We can test the following hypothesis by using the cluster
+analysis technique using all the variables:
+H1a. Employees can be divided into different boundary management proﬁles based on
+individual preferences (BC, work identity, family identity and technology stress).
+H1b. Employees can be divided into different boundary management proﬁles based on
+environmental factors (job control, supervisor support and organizational
+support).
+2.4 Work to family outcomes
+2.4.1 Boundary management tactics. Kreiner et al. (2009) have identiﬁed four categories of
+tactics used by individuals for segmentation and integration. These four tactics are
+behavioral, temporal, physical and communication. Behavioral tactics use other people’s
+support, technology usage, giving priority to the task and allowing permeability. Temporal
+tactics involve having control of time by blocking speciﬁc times and removing oneself from
+work/home tasks for some duration of time. Physical tactics use creating boundaries
+physically, manipulating physical space and managing physical artifacts. Although
+communication tactics use setting expectations by informing family members and
+confronting boundary violators. Sturges (2012) has further suggested techniques and
+activities which she called “crafting behaviors” as they are initiated by self and proactive
+behaviors. Three crafting behavior identiﬁed are physical, cognitive and relational. Physical
+crafting includes temporal, locational, choosing a convenient job and reducing the time for
+traveling. Cognitive crafting consists of deﬁning work-life balance, deciding priorities for
+work and making choices to compromise. Although relational crafting included handling
+relationships in work, managing nonwork relationships. Carlson et al. (2019) found that job-
+focused and supervisor focused impression management (IM) behavior affects family-to-
+work-conﬂict and self-focused, coworker-focused and supervisor-focused IM behavior
+affects family-to-work enrichment.
+2.4.2 Work-family conﬂict. Previous research has also shown that higher integration
+concerning greater permeability between the work domain and family domain leads to
+IJOA
+31,5
+1784
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+higher conﬂict between work and family. Rothbard et al. (2005) found that individuals
+choosing segmentation may experience a lower level of negative work-family outcomes if
+the employer provides them with ﬂexible working policies and support behaviors of
+boundary-crossing. Other researchers also suggest that the more the individual integrates
+boundaries (Kossek et al., 2006) and uses ﬂexibility in managing boundaries (Mathew et al.,
+2010), the more conﬂict they would experience. Kreiner (2009) have shown that less the
+congruence between boundary-crossing behavior and salient identity between work and
+family more will be negative work-family outcomes, and others have conﬁrmed the same as
+high control over the boundary (Kossek et al., 2006) and schedules (Kelly and Moen, 2007)
+leads to more positive work-family outcomes.
+2.4.3 Family-work positive spillover. Edwards and Rothbard (2000) have categorized
+positive spillover into four types and explained the process for the occurrence of this
+spillover. These four types of spillover are effect, value, skills and behavior. Each type of
+spillover occurs from work to family and family to work. Work-family positive spillover can
+be deﬁned “as the transfer of positively valence effect, skill, behavior and values from the
+originating domain to the receiving domain and thus providing beneﬁt to the receiving
+domain” (Edwards and Rothbard, 2000).
+Yet another deﬁnition used is work-family facilitation, which describes the beneﬁt of
+taking part in both the work and family (Wayne et al., 2004, 2007). Work-family facilitation
+is deﬁned as “the extent to which an individual’s engagement in one domain of life (e.g. work
+or family) yields developmental, affective, capital or efﬁciency gains that result in enhanced
+functioning in another life domain (e.g. family or work)” (Wayne et al., 2004). The basic
+difference is that in positive spillover, there is the transfer of personal gains like skills,
+behavior and values from one aspect of life to another and transferring the beneﬁt to the
+other aspect, whereas work-family facilitation does not only occur through personal gains
+but also capital gains like money, employment beneﬁts and social contacts.
+Greenhaus and Powell (2006) came up with the concept of enrichment, which occurs
+when there is the transfer of resources generated in one role like family to another role like
+work and that improves the quality of life. Hence, the construct positive spillover and even
+work-family facilitation can be put under the umbrella of work-family enrichment. Many
+studies have shown that positive spillover in work and family leads to greater satisfaction in
+job as well as family (Crouter,1984; Edwards and Rothbard,2000; Grzywacz et al., 2002).
+Carlson et al. (2019) showed family-to-work enrichment is affected by supervisor-focused,
+coworker-focused and self-focused IM.
+Based on individual preferences (BC, family identity, work identity and technology
+adoption) and environmental factors (job control, supervisor support and organizational
+support) if individuals can be dived into various clusters as the previous hypothesis. We can
+also look into if they also differ across work and family outcomes (WFC, family-work
+boundary tactics and family-work positive spillover) which are depicted in Figure 1 and can
+be tested by the following hypotheses:
+H2a. Boundary management proﬁles based on individual preferences (BC, work
+identity, family identity and technology tress) and environmental factors (job
+control, supervisor support and organizational support) vary across the WFC.
+H2b. Boundary management proﬁles based on individual preferences (BC, work
+identity, family identity and technology stress) and environmental factors (job
+control, supervisor support and organizational support) vary across family-work
+boundary tactics.
+Work from
+home
+1785
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+H2c. Boundary management proﬁles based on individual preferences (BC, work
+identity, family identity and technology stress) and environmental factors (job
+control, supervisor support and organizational support) vary across family-to-
+work positive spillover.
+3. Research methodology
+3.1 Data and sample
+The data were collected from people working in the COVID-19 period and working from
+home in Mumbai (India). A total of 186 data was collected. Demographic details concerning
+age, gender, number of dependents, number of rooms in the house and income were
+captured. It was seen that there were 53% male and 47% female and average they have
+worked for 30 h in a day. More than 80% lived in a house with only two bedrooms.
+3.2 Measures
+Individual preferences were captured by BC, which was measured through three items
+adapted from Kossek (2012) scale. Family identity and work identity had two items each and
+were measured by Kossek (2012). Technology adoption/stress was measured by two items
+each for techno overload, invasion, complexity and privacy adapted from Nimrod’s (2018)
+study.
+Environmental preferences were measured by psychological Job control adapted from
+the (Kossek, 2006) scale. Supervisor support (Hammer et al., 2011) with four items for
+emotional support and three items for instrumental support. Organizational support
+(segmentation supplies) had four items adapted from (Kreiner, 2006).
+WFC items were adapted from Carlson et al. (2000) scale having three items each for time-
+based and strain-based work-family interference. Boundary management tactics items
+included three items each for temporal, physical, behavioral and communicative and
+adapted from Carlson et al. (2015) study. Family-to-work positive spillover included four
+items for affective, four items for behavioral and three items for value-based based on
+Hanson et al. (2006).
+Figure 1.
+Conceptual model
+based on boundary-
+ﬁt perspective
+IJOA
+31,5
+1786
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+3.3 Method
+Scale reliability for each item was tested, and it was seen that Cronbach’s alpha for all the scale
+items was more than 0.08. Cluster analysis was conducted to segregate individuals working
+from home in various categories based on their responses to the questionnaire. Cluster analysis
+helps in identifying and dividing respondents based on similar characteristics. This can be very
+helpful in the context of WFH as it provides an idea about the unique characteristics of each
+group. K-mean cluster analysis using statistical package for social sciences (SPSS) was used to
+explore different clusters based on a pattern of characteristics unique to that cluster but
+differing signiﬁcantly from other clusters. Previous research has shown that cluster analysis is
+used in WFH studies and can provide very signiﬁcant inputs. K-mean clustering is ideal when
+the number of clusters can be speciﬁed in the beginning. From the study of previous research, it
+was clear that a maximum six cluster solution can be achieved i.e. Kossek et al. (2012) have
+suggested six clusters for different individuals as per the boundary management approach.
+The K-means cluster analysis was run using six, ﬁve and four clusters and concluded that the
+four clusters solution was most ideal for explaining our theory considering two distinct aspects
+like individual preferences and environment inﬂuencers. All the variables used also
+signiﬁcantly contributed to the cluster formation.
+Further analysis of variance (ANOVA) test was conducted to see how these clusters
+differ across three chosen outcomes, namely, WFC, boundary management tactics used and
+positive family work spillover felt. The post hoc test also provided which clusters differ
+from others on these outcomes.
+4. Results and ﬁndings
+As shown in Figure 2, four distinct clusters have emerged from the K-mean cluster
+analysis done in SPSS. The four clusters have clear cluster centers. They can be deﬁned
+based on individual preferences (BC, work identity, family identity and technostress) and
+environmental inﬂuencers (job control. supervisor support and organization support). All
+the variables for individual preferences and environmental inﬂuencers are signiﬁcant in
+deﬁning clusters as they have high F-values, which are all signiﬁcant, as shown in Table 2.
+Individual preferences i.e. BC (47.00), work identity (11.84), family identity (43.10) and
+technostress (8.29), showed p values (0.00) as signiﬁcant and environmental preferences
+i.e. job control (77.98), supervisor support (16.95) and organization support (22.88)
+showed p values (0.00) as signiﬁcant. This led us to accept both hypotheses H1a and H1b
+and further name each cluster as per the unique characteristics they showcased
+concerning chosen variables.
+Figure 2.
+Cluster centers for
+different boundary
+proﬁles
+Work from
+home
+1787
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Low control
+High control
+Cluster 1
+Cluster 2
+Cluster 3
+Cluster 4
+n = 73
+n = 44
+n = 37
+n = 35
+Boundary management dimensions
+Boundary-fit family guardians
+Work warriors
+Boundary-fit Fusion lovers
+Dividers
+F-values
+Sig
+Boundary_control
+30.71 (0.57)
+2.89 (0.66)
+4.27 (0.58)
+4.26 (0.62)
+47.00
+0.00
+Work_identity
+3.57 (0.62)
+3.89 (0.67)
+4.38 (0.59)
+3.80 (0.82)
+11.84
+0.00
+Family_identity
+3.46 (0.65)
+3.31 (0.64)
+4.42 (0.69)
+2.66 (0.70)
+43.10
+0.00
+Technostress
+2.87 (0.57)
+2.99 (0.67)
+2.63 (0.79)
+2.28 (0.77)
+8.29
+0.00
+Job control
+3.49 (0.48)
+2.31 (0.64
+4.11 (0.68)
+2.35 (0.84)
+77.98
+0.00
+Supervisor_support
+3.36 (0.55)
+2.95 (0.78)
+3.94 (0.67)
+3.17 (0.62)
+16.95
+0.00
+Org_support
+3.45 (0.63)
+2.91 (0.76)
+4.12 (0.63)
+3.62 (0.63)
+22.88
+0.00
+Table 2.
+Mean and standard
+deviation for
+different boundary
+management clusters
+IJOA
+31,5
+1788
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+These clusters can be divided into clusters having proﬁles with either low or high control.
+Cluster 1 (n = 73) and Cluster 2 (n = 44) are low control clusters, whereas Cluster 3 (n = 37)
+and Cluster 4 (n = 35) are high control clusters. The mean values and standard deviations
+are shown in Table 2. These clusters are named based on their characteristics on the two
+chosen dimensions i.e. individual preferences (BC, work identity, family identity and
+technostress) and environmental inﬂuencers (job control, supervisor support and
+organization policies). The four clusters are named as boundary-ﬁt family guardians, work
+warriors, boundary-ﬁt fusion lovers and dividers based on previous frameworks given by
+Kossek et al. (2012), Kossek (2016) and Ammons (2013), as shown in Table 3.
+Cluster 1 has characteristics with low BC (M = 3.71), high family identity (M = 3.46) and
+low technostress as individual preferences but has high environmental inﬂuencers like job
+control (M = 3.49), supervisor support (M = 3.36) and organization policies (M = 3.45). They
+are named as boundary-ﬁt family guardians. This cluster has an average age of 30 years,
+male (48%), female (52%), married (60%), senior-level (45%) and junior-level (55%).
+Cluster 2 has characteristics with low BC (M = 2.89), high work identity (M = 3.89) and
+low technostress, and have low environmental inﬂuencers like job control (M = 2.31),
+supervisor support (M = 2.95) and organization policies (M = 2.91). They are named as work
+warriors. This cluster has an average age of 30 years, male (55%), female (45%), married
+(60%), senior-level (57%) and junior-level (43%).
+Cluster3 has characteristics with high BC (M = 4.27), high family identity (M = 4.42) and
+work identity (M = 4.38) and low technostress as individual preferences but have high
+environmental inﬂuencers like job control (M = 4.11), supervisor support (M = 3.94) and
+organization policies (M = 4.12). They are named as boundary-ﬁt fusion lovers. This cluster
+has an average age of 30 years, male (57%), female (43%), married (65%), senior-level (60%)
+and junior-level (40%).
+Cluster 4 has characteristics with high BC (M = 4.26), low family identity (M = 2.66),
+work identity (M = 3.80) and technostress, and have low environmental inﬂuencers like job
+control (M = 2.35), supervisor support (M = 3.17) and organization policies (M = 3.62). They
+are named as dividers. This cluster has an average age of 28 years, male (54%), female
+(46%), married (55%), senior-level (40%) and junior-level (60%).
+Table 4 shows the ANOVA test for various outcomes for these four clusters concerning
+WFC, the boundary management tactics used by them and the positive family-to-work
+spillover. It is seen that these clusters show high WFC, as a means for all these clusters were
+greater than 3.5, but it does not differ across them as F-value is 1.297 and p-value = 0.277.
+But the emerged clusters do differ across the other two outcomes, namely, boundary
+management tactics with F-value = 8.477 and p-value = 0.000 and positive family to work
+spill over with F-value = 7.487 and p-value = 0. 000. Hence, H2b and H2c were accepted,
+whereas H2a was rejected.
+It is also observed that both Cluster 3 (M = 3.80) and Cluster 4 (M = 3.47) have the
+highest values for a mean and standard deviation for boundary management tactics.
+Table 3.
+Clusters based on
+individual
+preferences and
+environmental
+inﬂuencers
+Boundary management dimension
+Individual preferences
+High
+Low
+Environmental inﬂuencers
+High
+Cluster 3
+Boundary-ﬁt fusion lovers.
+Cluster 1
+Boundary-ﬁt family guardians
+Low
+Cluster 4
+Dividers
+Cluster 2
+work warriors.
+Work from
+home
+1789
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Low control
+High control
+Cluster 1
+Cluster 2
+Cluster 3
+Cluster 4
+n = 73
+n = 44
+n = 37
+n = 35
+Work-family outcomes
+Boundary-fit family guardians
+Work warriors
+Boundary-fit Fusion lovers
+Dividers
+F-values
+Sig
+Work_family_conﬂict
+3.51(0.59)
+3.66(0.61)
+3.66(0.69)
+3.42(0.78)
+1.297
+0 0.277
+Boundary_tactics
+3.41(0.53)
+3.19(0.53)
+3.80(0.65)
+3.47(0.49)
+8.477
+0 0.000
+Family_work_spillover
+3.95 (0.56)
+3.80(0.68)
+4.40(0.52)
+3.90(0.65)
+7.487
+0 0.000
+Table 4.
+Mean and standard
+deviation for
+different clusters for
+various outcomes
+IJOA
+31,5
+1790
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Although Cluster 3 (M = 4.40) and Cluster 1 (M = 3.95) has also high mean values for a
+positive family-to-work spillover. The post hoc test showed that Cluster 3 differs from
+Clusters 1 and 2 for boundary management tactics and with all the other three clusters for
+the positive family-to-work spillover.
+Further, when looking into the ANOVA test for the different boundary management
+tactics, it is seen that all tactics differ across the four clusters, as shown in Table 5. Cluster 3
+has the highest mean values for all four boundary management tactics, namely,
+temporal_tactics (M = 4.07), physical_tactics (M = 3.59), behavioral_tactics (M = 3.83) and
+comm_tactics (M = 3.73). Cluster 4 has the highest mean values for three boundary
+management tactics, namely, temporal_tactics (M = 3.69), physical_tactics (M = 3.46) and
+behavioral_tactics (M = 3.64). Cluster 2 has a high mean value of M = 3.21 for
+communication tactics. Clusters 3 and 4 use temporal followed by behavioral tactics more
+than physical and communicative tactics.
+The post hoc test showed that Cluster 3 differs from Clusters 1 and 2 for temporal_tactics,
+Cluster 2 for behavioral_tactics and with all the clusters for communication tactics. It is also
+seen that Cluster 2 differs from Clusters 3 and 4 for physical_tactics. Cluster 3 also showed a
+signiﬁcant difference between Clusters 1 and 2 for affective positive spillover and all the other
+three clusters for behavioral as well as value-based positive spillover.
+5. Discussions
+COVID-19 situation has led many to work from home for an exceptionally long time in
+India, and organizations have also understood the need to support employees working
+from home in this era of new normal. In India, work from home is still not so popular,
+and there is a need for an organization to understand how they must change their work
+culture and mindset concerning WFH. One way of doing this is to design generalized
+policies and HR practices for all the employees working from home, and the second
+way would be to segregate employees based on various clusters and identify the
+characteristic of each cluster. Based on this cluster group and characteristics, devise
+the right policies and HR practices for each cluster to integrate them into a new work
+culture. The current research is focusing on bridging the gap between the theory and
+practice and emphasizing the designing of very speciﬁc strategies as per cluster
+characteristics.
+The advantages of the latter would be phenomenal as it will allow the organization to
+focus on each group of a particular cluster and then understand their characteristics and
+design strategies as per their need. It would also lead to better results as strategies are
+targeted very speciﬁcally for each cluster in terms of their developmental area.
+5.1 Theoretical implications
+The study has three important contributions to make. First, it has applied the concept as
+suggested by Ammons (2013) for a boundary-ﬁt perspective, which states that when looking
+at the boundary management studies, it is imperative to consider how individuals make
+efforts to align the individual preference with the external environment. The study has
+investigated the employees and divided them into various clusters as suggested by Kossek
+et al. (2012) and Kossek (2016) work by taking individual preferences (BC, work identity,
+family identity and technostress) and environmental inﬂuencers (job control, supervisor
+support and organization policies). There is no other study that has approached the
+boundary management proﬁles from both internal and external factors and looking at
+holistically the proﬁles.
+Work from
+home
+1791
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Low control
+High control
+Cluster 1
+Cluster 2
+Cluster 3
+Cluster 4
+n = 73
+n = 44
+n = 37
+n = 35
+Boundary management tactics
+Boundary-fit family guardians
+Work warriors
+Boundary-fit Fusion lovers
+Dividers
+F-values
+Sig
+Temporal_tactics
+3.67(0.70)
+3.26 (0.79)
+4.07(0.69)
+3.69(0.67)
+8.569
+0.000
+Physical_tactics
+3.30 (0.76)
+3.01(0.78)
+3.59(0.90)
+3.46(0.632)
+4.220
+0.006
+Behavioral_tactics
+3.51(0.69)
+3.28(0.79)
+3.83(0.91)
+3.64(0.67)
+3.771
+0.012
+Comm_tactics
+3.18(0.74)
+3.21(0.88)
+3.73(0.87)
+3.11(0.96)
+4.354
+0.005
+Table 5.
+Mean and standard
+deviation for
+different clusters for
+boundary
+management tactics
+IJOA
+31,5
+1792
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+The hypothesis H1a and H1b were accepted as all the variables under study i.e. individual
+preferences (BC, work identity, family identity and technostress) and environmental
+inﬂuencers (job control, supervisor support and organization policies), came out to be
+signiﬁcant and contributed toward building four unique clusters different from each other.
+The study identiﬁed four important clusters, namely, boundary-ﬁt family guardians, work
+warriors boundary-ﬁt fusion lovers and dividers based on individual preferences (BC, work
+identity, family identity and technostress) and environmental inﬂuencers (job control,
+supervisor support and organization policies). These clusters align with the work of Kossek
+et al. (2012), Kossek (2016) and Ammons (2013). Clusters 1 and 2 are low control clusters,
+whereas Clusters 3 and 4 are high control clusters. Demographic details are also looked at
+for each cluster, and it was found that Cluster 1 (boundary-ﬁt family guardians), which is
+high on family identity, has a higher population of female employees. Clusters 3 and 4 are
+low on technostress and show more positive family-to-work spillover.
+The second contribution of this study is that it also compares the outcomes for all these
+clusters based on boundary ﬁt perspectives like WFC, their boundary management tactics
+used by them and the positive family-to-work spillover. It was found that these clusters
+differ across boundary management tactics and family-to-work positive spillover but not
+concerning WFC, and hence, H2b and H2c were accepted but not H2a. Cluster 3 differs from
+Clusters 1 and 2 for boundary management tactics. Cluster 3 (boundary-ﬁt fusion lovers) has
+the
+highest
+mean
+values
+for
+all
+four
+boundary
+management
+tactics,
+namely,
+temporal_tactics, physical_tactics, behavioral_tactics and comm_tactics, and were high on
+both individual preferences, as well as environmental inﬂuencers. Although Cluster 4
+(dividers) also showed high mean values for three boundary management tactics, namely,
+temporal_tactics, physical_tactics and behavioral_tactics, and used these tactics to have
+control on the boundary between work and home. Both the clusters use temporal followed
+by behavioral tactics more than physical and communicative tactics.
+The third major contribution of this study is understanding the positive family-to-work
+spillover among these clusters. Cluster 3 (boundary-ﬁt fusion lovers) also showed a
+signiﬁcant difference from Clusters 1 and 2 for affective positive spillover and all the other
+three clusters for behavioral as well as value-based positive spillover. It was seen that
+Cluster 3 is high on both individual preferences as well as environmental inﬂuencers; it had
+a better overall family-to-work positive spillover and differed signiﬁcantly from other
+clusters on all the three-positive family-to-work spillovers, namely, affective, behavioral and
+value-based. Cluster 1 (boundary-ﬁt family guardians), also high on environmental
+inﬂuencers, showed high value for the positive family to work spillover. This indicated that
+environment inﬂuencers do play a crucial role in deciding the positive family-to-work
+spillover.
+6. Managerial implication
+Clusters 3 and 4 are low on technostress, which is helping them to have a more positive
+family-to-work spillover as they do not feel technology is overloading or complex to handle
+and do not see that technology is invading and affecting their privacy. Organizations can
+also assist employees in handling technology-related stress, as this will reduce their anxiety
+and help in managing their work more efﬁciently from home. Some studies have focused on
+differences in individual behaviors when feeling technostress like young workers feel more
+technostress in terms of overload and invasion (Ayyagari et al., 2011; Tarafdar et al., 2007),
+whereas senior workers are more impacted by inclusion, privacy and complexity (Nimod,
+2017). This leads us to the fact that there is a need to integrate older workers by reducing the
+complexity of the technology used and creating more inclusive practices for the use of
+Work from
+home
+1793
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+technology, especially with the emergence of WFH culture. This can be achieved by
+segregating employees into a cluster based on demographics and then having the right
+strategy designed for them.
+Cluster 3 (boundary-ﬁt fusion lovers) have not only used individual preferences of
+controlling boundary and reducing technology-related stress but their perception about
+psychological job control as to when, where and how the job must be completed,
+supervisor support providing emotional as well as instrumental support and
+organization having family-friendly policies are also high. Cluster 1 (boundary-ﬁt
+family guardians), also high on environmental inﬂuencers, showed high value for the
+positive family to work spillover. This cluster is characterized by high family identity
+and has more female employees than males. This provides the organization clear
+indications that the organization should design jobs that provide ﬂexibility and
+autonomy and orient their supervisors to provide support and investigate the family-
+supportive organization policies to achieve positive family-to-work spillover leading to
+high productivity. The results support FSSB as given by Hammer et al. (2007, 2009) and
+Kossek et al. (2007), which has four dimensions: emotional support, instrumental
+support, role modeling and creative work-family management. More emphasis should
+be given to creative work-family management behavior as they are considered more
+strategic and innovative and are more supervisor-initiated activities to integrate work
+and family responsibilities (Hammer et al., 2007). Coaching and mentoring programs
+can be designed for the supervisors who can be especially groomed to handle their team
+members who are battling with the uncertainty of working from home. FFP provided
+by organizations need to look into individual differences and focus on each cluster and
+their needs for integration and segmentation as suggested by previous research work
+(Rau and Hyland, 2002; Rothbard et al., 2005). FFP like ﬂexitime, telecommuting, on-site
+childcare all have to be targeted as per different cluster needs
+Cluster 3 (boundary-ﬁt fusion lovers), high on both individual preferences, as well as
+environmental inﬂuencers, have shown high mean values for all four boundary
+management tactics, namely, temporal_tactics, physical_tactics, behavioral_tactics and
+comm_tactics followed by Cluster 4 (dividers), showing high mean values for three
+boundary
+management
+tactics,
+namely,
+temporal_tactics,
+physical_tactics
+and
+behavioral_tactics. These results emphasize the importance of using these tactics while
+working from home as the cluster, which is low in these tactics, also showed low value for
+the positive family to work spillover. So, if organizations want that the performance of
+employees should be improved, they have to focus on these tactics. It was also observed that
+both the clusters use temporal followed by behavioral tactics more than physical and
+communicative tactics. Temporal tactics refer to how time is managed by allocating speciﬁc
+time for work and home-related activities and removing oneself from another domain for
+that duration. Behavioral tactics investigate how individuals bring about changes in their
+behavior by asking for support from others, using technology more and prioritizing tasks.
+The training can be provided by the organization to improve on temporal and behavioral
+tactics, especially in those employee’s clusters, which have low values like Clusters 1 and 2.
+The development of these tactics will go a long way to help employees working from home
+cope with the stress and burnout.
+7. Limitation and future scope
+The study is speciﬁc to India, and hence, the behavior of the variables in the study in other
+cultures is questionable. The culture may play an important role in deciding whether
+individual preferences or environmental inﬂuencers will play an important role. It is a well-
+IJOA
+31,5
+1794
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+understood fact that some culture promotes individualistic culture while in many others,
+collectivist culture is embedded. Hence, there is a need to replicate this study in other
+cultural contexts to see its generalizability.
+The future scope of this study could be many. First, the studies can explore more about
+environmental inﬂuencers other than those studied. In the era of technology adoption,
+especially in times of COVID-19 scenario, it becomes important to investigate how technostress
+can be reduced by the organization. In this study, technostress came low for both Clusters 3 and
+4, having high BC. Future research can investigate how organizations can take initiatives to
+reduce technology-related stress in employees working from home and help in reducing WFC.
+References
+Allen, T.D. (2001), “Family-supportive work environments: the role of organizational perceptions”,
+Journal of Vocational Behavior, Vol. 58 No. 3, pp. 414-435.
+Allen, T.D., Cho, E. and Meier, L.L. (2014), “Work-family boundary dynamics”, Annual Review of
+Organizational Psychology and Organizational Behavior, Vol. 1 No. 1, pp. 99-121.
+Ammons, S.K. (2008), “Boundaries at work: a study of work-family boundary stability within a large
+organization”, Doctoral Dissertation. University of Minnesota; Minneapolis, MN.
+Ammons, S.K. (2013), “Work-family boundary strategies: stability and alignment between preferred
+and enacted boundaries”, Journal of Vocational Behavior, Vol. 82 No. 1, pp. 49-58.
+Ashforth, B.E., Kreiner, G.E. and Fugate, M. (2000), “All in a day’s work: boundaries and micro role
+transitions”, Academy of Management Review, Vol. 25 No. 3, pp. 472-491.
+Ayyagari, R., Grover, V. and Purvis, R. (2011), “Technostress: technological antecedents and
+implications”, MIS Quarterly, pp. 831-858, doi: 10.2307/41409963.
+Beehr, T.A., Farmer, S.J., Glazer, S., Gudanowski, D.M. and Nair, V.N. (2003), “The enigma of
+social support and occupational stress: source congruence and gender role effects”, Journal
+of Occupational Health Psychology, Vol. 8 No. 3, pp. 220-231, doi: 10.1037/1076-
+8998.8.3.220.
+Boswell, W.R. and Olson-Buchanan, J.B. (2007), “The use of communication technologies after hours:
+the role of work attitudes and work-life conﬂict”, Journal of Management, Vol. 33, pp. 592-610,
+doi: 10.1177/0149206307302552.
+Bulger, C.A., Matthews, R.A. and Hoffman, M.E. (2007), “Work and personal life boundary
+management: boundary strength, work/personal life balance, and the segmentation-integration
+continuum”, Journal of Occupational Health Psychology, Vol. 12 No. 4, doi: 10.1037/10.76-
+8998.12.4.365.
+Burke, P. and Reitzes, D. (1991), “An identity theory approach to commitment”, Social Psychology
+Quarterly, Vol. 54, pp. 239-251.
+Carlson, D.S., Ferguson, M. and Kacmar, K.M. (2015), “Boundary management tactics: an examination
+of the alignment with preferences in the work and family domains”, Journal of Behavioral and
+Applied Management, Vol. 16 No. 2, pp. 51-70.
+Carlson, D.S., Kacmar, K.M. and Williams, L.J. (2000), “Construction and initial validation of a
+multidimensional measure of work-family conﬂict”, Journal of Vocational Behavior, Vol. 56
+No. 2, pp. 249-276.
+Carlson, D.S., Kacmar, K.M., Thompson, M.J. and Andrews, M.C. (2019), “Looking good and doing good:
+family to work spillover through impression management”, Journal of Managerial Psychology,
+Vol. 34 No. 1, pp. 31-45, doi: 10.1108/JMP-04-2018-0162.
+Carnevale, J.B. and Hatak, I. (2020), “Employee adjustment and well-being in the era of COVID-19:
+Implications for human resource management”, Journal of Business Research, Vol. 116,
+pp. 183-187, doi: 10.1016/j.jbusres.2020.05.037.
+Work from
+home
+1795
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Casper, W.J., Weltman, D. and Kwesiga, E. (2007), “Beyond family-friendly: the construct and
+measurement of singles-friendly work culture”, Journal of Vocational Behavior, Vol. 70 No. 3,
+pp. 478-501.
+Chen, Z., Powell, G.N. and Greenhaus, J.H. (2009), “Work-to-family conﬂict, positive spillover, and
+boundary management: a person-environment ﬁt approach”, Journal of Vocational Behavior,
+Vol. 74 No. 1, pp. 82-93.
+Clark, S.C. (2000), “Work/family border theory: a new theory of work/family balance”, Human
+Relations, Vol. 53 No. 6, pp. 747-770, doi: 10.1177/0018726700536001.
+Crouter, A.C. (1984), “Spillover from family to work: the neglected side of the work-family
+interface”,
+Human
+Relations,
+Vol.
+37
+No.
+6,
+pp.
+425-441,
+doi:
+10.1177/
+001872678403700601.
+Desrochers,
+S.
+and
+Sargent,
+L.D.
+(2004),
+“Boundary/border
+theory
+and
+work-family
+integration1”, Organization Management Journal, Vol. 1 No. 1, pp. 40-48, doi: 10.1057/
+omj.2004.11.
+Edwards, J.R. and Rothbard, N.P. (2000), “Mechanisms linking work and family: clarifying the
+relationship between work and family constructs”, Academy of Management Review, Vol. 25
+No. 1, pp. 178-199, doi: 10.5465/AMR.2000.2791609.
+Frye, N.K. and Breaugh, J.A. (2004), “Family-friendly policies, supervisor support, work-family conﬂict,
+family-work conﬂict, and satisfaction: a test of a conceptual model”, Journal of Business and
+Psychology, Vol. 19 No. 2, pp. 197-220, doi: 10.1007/s10869-004-0548-4.
+Gajendran, R.S. and Harrison, D.A. (2007), “The good, the bad, and the unknown about
+telecommuting: meta-analysis of psychological mediators and individual consequences”,
+Journal
+of Applied Psychology, Vol. 2 No. 6, pp. 1524-1541, doi: 10.1037/0021-
+9010.92.6.1524.
+Gordon, J.R., Whelan-Berry, K.S. and Hamilton, E.A. (2007), “The relationship among work-family
+conﬂict and enhancement, organizational work-family culture, and work outcomes for older
+working women”, Journal of Occupational Health Psychology, Vol. 12 No. 4, pp. 350-364,
+doi: 10.1037/1076-8998.12.4.350.
+Greenhaus, J.H. and Powell, G.N. (2006), “When work and family are allies: a theory of work-family
+enrichment”, Academy of Management Review, Vol. 31 No. 1, pp. 72-92, available at: doi: 10.5465/
+AMR.2006.19379625.
+Greenhaus, J.H., Collins, K.M. and Shaw, J.D. (2003), “The relation between work-family balance and
+quality of life”, Journal of Vocational Behavior, Vol. 63 No. 3, pp. 510-531.
+Greer, T.W. and Payne, S.C. (2014), “Overcoming telework challenges: outcomes of successful telework
+strategies”, The Psychologist-Manager Journal, Vol. 17 No. 2, pp. 87.
+Grzywacz, J.G., Almeida, D.M. and McDonald, D.A. (2002), “Work-family spillover and daily reports of
+work and family stress in the adult labor force”, Family Relations, Vol. 51 No. 1, pp. 28-36.
+Guest, D., Know, A. and Warhust, C. (2021), “Human relations virtual special issue: the quality of
+working life revisited”, Hum. Relations, Vol. 74, pp. 153-156.
+Hackman, R. and Oldham, G. (1980), Work Redesign, Addison-Wesley, Reading, MA.
+Hammer, L.B., Kossek, E.E., Zimmerman, K. and Daniels, R. (2007), “Clarifying the construct of family-
+supportive supervisory behaviors (FSSB): a multilevel perspective”, Exploring the Work and
+Nonwork Interface, Emerald Publishing Limited, Bingley.
+Hammer, L.B., Kossek, E.E., Yragui, N.L., Bodner, T.E. and Hanson, G.C. (2009), “Development and
+validation of a multidimensional measure of family supportive supervisor behaviors (FSSB)”,
+Journal of Management, Vol. 35 No. 4, pp. 837-856.
+Hammer, L.B., Kossek, E.E., Anger, W.K., Bodner, T. and Zimmerman, K.L. (2011), “Clarifying work-
+family intervention processes: the roles of work-family conﬂict and family-supportive
+IJOA
+31,5
+1796
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+supervisor behaviors”, Journal of Applied Psychology, Vol. 96 No. 1, pp. 134-150, doi: 10.1037/
+a0020927.
+Hanson, G.C., Hammer, L.B. and Colton, C.L. (2006), “Development and validation of a multidimensional
+scale of perceived work-family positive spillover”, Journal of Occupational Health Psychology,
+Vol. 11 No. 3, pp. 249-265, doi: 10.1037/1076-8998.11.3.249.
+Harrison, R.V. (1978), “Person-environment ﬁt and job stress”, Stress at Work, Vol. 1,
+pp. 175-205.
+Hecht, T.D. and Allen, N.J. (2009), “A longitudinal examination of the work–nonwork boundary
+strength construct”, Journal of Organizational Behavior: The International Journal of Industrial,
+Occupational and Organizational Psychology and Behavior, Vol. 30 No. 7, pp. 839-862,
+doi: 10.1002/job.579.
+Hill, E.J., Ferris, M. and Märtinson, V. (2003), “Does it matter where you work? A comparison of how
+three work venues (traditional ofﬁce, virtual ofﬁce, and home ofﬁce) inﬂuence aspects of work
+and personal/family life”, Journal of Vocational Behavior, Vol. 63 No. 2, pp. 220-241.
+Hopkins, K. (2005), “Supervisor Support and Work-Life Integration: A Social Identity Perspective,
+Lawrence Erlbaum Associates Publishers. Mahwah, NJ.
+Karasek, R.A. (1979), “Job demands, job decision latitude, and mental strain: implications for job
+redesign”, Administrative Science Quarterly, Vol. 24 No. 2, pp. 285-308, doi: 10.2307/2392498.
+Kelly, E.L. and Moen, P. (2007), “Rethinking the clockwork of work: why schedule control may pay off
+at work and at home”, Advances in Developing Human Resources, Vol. 9 No. 4, pp. 487-506.
+Kirchner, K., Ipsen, C. and Hansen, J.P. (2021), “COVID-19 leadership challenges in knowledge work”,
+Knowledge Management Research and Practice, Vol. 1, pp. 1-8.
+Kossek, E.E. (2016), “Managing work-life boundaries in the digital age”, Organizational Dynamics,
+Vol. 45 No. 3, pp. 258-270.
+Kossek, E.E. and Lautsch, B.A. (2008), “CEO of Me: Creating a Life That Works in the Flexible Job Age,
+Pearson Prentice Hall, London.
+Kossek, E.E., Lautsch, B. and Eaton, S.C. (2005), “Flexibility enactment theory: relationships between
+type, boundaries, control, and work-family effectiveness”, Work and Life Integration:
+Organizational, Cultural, and Individual Perspectives, Vol. 1, pp. 243-261.
+Kossek, E.E., Lautsch, B.A. and Eaton, S.C. (2006), “Telecommuting, control, and boundary
+management: correlates of policy use and practice, job control, and work-family
+effectiveness”, Journal of Vocational Behavior, Vol. 68 No. 2, pp. 347-367, doi: 10.1016/j.
+jvb.2005.07.002.
+Kossek, E., Pichler, S., Hammer, L. and Bodner, T. (2007), “Contextualizing workplace supports for
+family: an integrative meta-analysis of direct and moderating linkages to work-family”, National
+Meetings of the Society of Industrial and Organizational Psychology, New York, NY.
+Kossek, E.E., Ruderman, M.N., Braddy, P.W. and Hannum, K.M. (2012), “Work-nonwork boundary
+management proﬁles: a person-centered approach”, Journal of Vocational Behavior, Vol. 81 No. 1,
+pp. 112-128, doi: 10.1016/j.jvb.2012.04.003.
+Kreiner, G.E. (2006), “Consequences of work-home segmentation or integration: a person-environment
+ﬁt perspective”, Journal of Organizational Behavior: The International Journal of Industrial,
+Occupational and Organizational Psychology and Behavior, Vol. 27 No. 4, pp. 485-507,
+doi: 10.1002/job.386.
+Kreiner, G.E., Hollensbe, E.C. and Sheep, M.L. (2006), “boundary work tactics: negotiating the work-
+home interface”, Academy of Management Proceedings, Vol. 2006 No. 1, pp. K1-K6, doi: 10. 5465/
+AMB2006.22898629.
+Kreiner, G.E., Hollensbe, E.C. and Sheep, M.L. (2009), “Balancing borders and bridges: negotiating the
+work-home interface via boundary work tactics”, Academy of Management Journal, Vol. 52
+No. 4, pp. 704-730.
+Work from
+home
+1797
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Kristof, A.L. (1996), “Person-organization ﬁt: an integrative review of its conceptualizations,
+measurement, and implications”, Personnel Psychology, Vol. 49 No. 1, pp. 1-49, doi: 10.1111/
+j.1744-6570.1996.tb01790.x.
+Kulka, R.A. (1979), “Interaction as person-environment ﬁt”, New Directions for Methodology of
+Behavioral Science, Vol. 55, p. 71.
+Kurland, N.B. and Bailey, D.E. (1999), “Telework: the advantages and challenges of working here, there,
+anywhere, and anytime”, Organizational Dynamics, Vol. 28 No. 2, pp. 53-67, doi: 10.1016/S0090-
+2616(00)80016-9.
+Lapierre, L.M. and Allen, T.D. (2006), “Work-supportive family, family-supportive supervision, use of
+organizational beneﬁts, and problem-focused coping: implications for work-family conﬂict and
+employee well-being”, Journal of Occupational Health Psychology, Vol. 11 No. 2, pp. 169-181,
+doi: 10.1037/1076-8998.11.2.169.
+Lobel, S.A. and St. Clair, L. (1992), “Research notes. effects of family responsibilities, gender, and career
+identity salience on performance outcomes”, Academy of Management Journal, Vol. 35 No. 5,
+pp. 1057-1069, doi:https://doi.org/10.2307/256540.
+Lockwood, N.R. (2003), “Work/life balance: challenges and solutions”, HR Magazine, Vol. 48 No. 6, p. 2,
+available
+at:
+http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=9936718&
+site=ehost-live (accessed 21 June 2021).
+Madsen, S.R. (2003), “The effects of home-based teleworking on work-family conﬂict”, Human Resource
+Development Quarterly, Vol. 14 No. 1, pp. 35-58., doi: 10.1002/hrdq.1049.
+Matthews, R.A., Barnes-Farrell, J.L. and Bulger, C.A. (2010), “Advancing measurement of work-family
+boundary characteristics”, Journal of Vocational Behavior, Vol. 77, pp. 447-460.
+Mesmer-Magnus, J.R. and Viswesvaran, C. (2006), “How family-friendly work environments affect
+work/family conﬂict: a meta-analytic examination”, Journal of Labor Research, Vol. 27 No. 4,
+pp. 555-574, doi: 10.1007/s12122-006-1020-1.
+Mirchandani, K. (1999), “Feminist insight on gendered work: new directions in research on women and
+entrepreneurship”, Gender, Work and Organization, Vol. 6 No. 4, pp. 224-235, doi: 10.1111/1468-
+0432.00085.
+Nimrod, G. (2018), “Technostress: measuring a new threat to well-being in later life”, Aging and Mental
+Health, Vol. 22 No. 8, pp. 1086-1093.
+Nippert Eng, C. (1996), Home and Work: Negotiating Boundaries through Everyday Life, University of
+Chicago Press Chicago.
+Ollier-Malaterre, A., Jacobs, J.A. and Rothbard, N.P. (2019), “Technology, work, and family: Digital
+cultural Capital and boundary management”, Annual Review of Sociology, Vol. 45 No. 1,
+pp. 425-447, doi: 10.1146/annurev-soc-073018-022433.
+Park, Y., Fritz, C. and Jex, S.M. (2011), “Relationships between work-home segmentation and
+psychological detachment from work: the role of communication technology use at home”,
+Journal of Occupational Health Psychology, Vol. 16 No. 4, pp. 457-467, doi: 10.1037/
+a0023594.
+Piszczek, M.M. (2017), “Boundary control and controlled boundaries: organizational expectations for
+technology use at the work-family interface”, Journal of Organizational Behavior, Vol. 38 No. 4,
+pp. 592-611, doi: 10.1002/job.2153.
+Powell, G.N. and Greenhaus, J.H. (2010), “Sex, gender, and the work-tofamily interface: exploring
+negative and positive interdependencies”, Academy of Management Journal, Vol. 53,
+pp. 513-534.
+Ragu-Nathan, T.S., Tarafdar, M., Ragu-Nathan, B.S. and Tu, Q. (2008), “The consequences of
+technostress for end users in organizations: Conceptual development and empirical
+validation”, Information Systems Research, Vol. 19 No. 4, pp. 417-433, doi: 10.1287/
+isre.1070.0165.
+IJOA
+31,5
+1798
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Rau, B.L. and Hyland, M.M. (2002), “Role conﬂict and ﬂexible work arrangements: the effects on
+applicant attraction”, Personnel Psychology, Vol. 55 No. 1, pp. 111-136, doi: 10.1111/j.1744-
+6570.2002.tb00105.x.
+Rothbard, N.P. and Ramarajan, L. (2009), “Checking your identities at the door? Positive relationships
+between nonwork and work identities”, Exploring Positive Identities and Organizations: Building
+a Theoretical and Research Foundation, pp. 125-148.
+Rothbard, N.P. and Ollier-Malaterre, A. (2016), “Boundary management”, in Allen T. D. and Eby, L.T.
+(Eds), Oxford Handbook of Work and Family, Oxford University Press, New York, NY, pp. 109-123.
+Rothbard, N.P., Phillips, K.W. and Dumas, T.L. (2005), “Managing multiple roles: work-family policies
+and individuals’ desires for segmentation”, Organization Science, Vol. 16 No. 3, pp. 243-258,
+doi: 10.1287/orsc.1050.0124.
+Routhausen, T. (1999), “Family in organizational research: a review and comparison of deﬁnitions and
+measures”, Journal of Organizational Behavior, Vol. 19, pp. 817-836, doi: 10.1002/(SICI)1099-1379
+(199911)20:6<817::AID-JOB953>3.0.CO;2-E.
+Shu, Q., Tu, Q. and Wang, K. (2011), “The impact of computer self-efﬁcacy and technology
+dependence on computer-related technostress: a social cognitive theory perspective”,
+International Journal of Human-Computer Interaction, Vol. 27 No. 10, pp. 923-939,
+doi: 10.1080/10447318.2011.555313.
+Sinclair, R.R., Tucker, J.S., Cullen, J.C. and Wright, C. (2005), “Performance differences among four
+organizational commitment proﬁles”, Journal of Applied Psychology, Vol. 90 No. 6, pp. 1280-1287,
+doi: 10.1037/0021-9010.90.6.1280.
+Stone, E.F. and Hollenbeck, J.R. (1984), “Some issues associated with the use of moderated regression”,
+Organizational Behavior and Human Performance, Vol. 34 No. 2, pp. 195-213, doi: 10.1016/0030-
+5073(84)90003-5.
+Sturges, J. (2012), “Crafting a balance between work and home”, Human Relations, Vol. 65 No. 12,
+pp. 1539-1559, doi: 10.1177/0018726712457435.
+Suneson, G. (2020), “Industries hit hardest by coronavirus in the US include retail, transportation, and
+travel”, USA Today.
+Tarafdar, M., Tu, Q., Ragu-Nathan, B.S. and Ragu-Nathan, T.S. (2007), “The impact of technostress on
+role stress and productivity”, Journal of Management Information Systems, Vol. 4 No. 1,
+pp. 301-328, doi: 10.2753/MIS0742-1222240109.
+Thomas, L.T. and Ganster, D.C. (1995), “Impact of family-supportive work variables on work-family
+conﬂict and strain: a control perspective”, Journal of Applied Psychology, Vol. 80 No. 1, pp. 6-15,
+doi: 10.1037/0021-9010.80.1.6.
+Thompson, C.A. and Prottas, D.J. (2006), “Relationships among organizational family support, job
+autonomy, perceived control, and employee well-being”, Journal of Occupational Health
+Psychology, Vol. 11 No. 1, pp. 100-118, doi: 10.1037/1076-8998.10.4.100.
+Tu, Q., Wang, K. and Shu, Q. (2005), “Computer-related technostress in China”, Communications of the
+ACM, Vol. 48 No. 4, pp. 77-81.
+Valcour, P.M. and Hunter, L.W. (2005), “Technology, organizations, and work-life integration”, 61-84.
+Wang, K., Shu, Q. and Tu, Q. (2008), “Technostress under different organizational environments: an
+empirical investigation”, Computers in Human Behavior, Vol. 24 No. 6, pp. 3002-3013,
+doi: 10.1016/j.chb.2008.05.007.
+Wayne, J.H., Musisca, N. and Fleeson, W. (2004), “Considering the role of personality in the work-family
+experience: relationships of the big ﬁve to work-family conﬂict and facilitation”, Journal of
+Vocational Behavior, Vol. 64 No. 1, pp. 108-130.
+Wayne, J.H., Grzywacz, J.G., Carlson, D.S. and Kacmar, K.M. (2007), “Work-family facilitation: a
+theoretical explanation and model of primary antecedents and consequences”, Human Resource
+Management Review, doi10.1016/j.hrmr.2007.01.002.
+Work from
+home
+1799
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+Wepfer, A.G., Allen, T.D., Brauchli, R., Jenny, G.J. and Bauer, G.F. (2018), “Work-life boundaries and
+well-being: does work-to-life integration impair well-being through lack of recovery?”, Journal of
+Business and Psychology, Vol. 33 No. 6, pp. 727-740, doi: 10.1007/s10869-017-9520-y.
+Further reading
+Breaugh, J.A. and Frye, N.K. (2007), “An examination of the antecedents and consequences of the use of
+family-friendly beneﬁts”, Journal of Managerial Issues, Vol.19 No. 1, pp. 35-52, available at: http://
+search. ebscohost.com/login.aspx?direct=true&db=buh&AN=24885316&site=ehost-live
+Clark, S.C. (2001), “Work cultures and work/family balance”, Journal of Vocational Behavior, Vol. 58
+No. 3, pp. 348-365.
+Craven, M. da Liu, L. Mysore, M. and Wilson, M. (2020), “COVID-19: implications for business”,
+McKinsey Insights, N.PAG.
+Grzywacz, J.G. and Butler, A.B. (2005), “The impact of job characteristics on work-to-family facilitation:
+testing a theory and distinguishing a construct, ”, Journal of Occupational Health Psychology,
+Vol. 10 No. 2, pp. 97-109, doi: 10.1037/1076-8998.10.2.97.
+Kim, S. and Hollensbe, E. (2017), “Work interrupted: a closer look at work boundary
+permeability”, Management Research Review, Vol. 40 No. 12, pp. 1280-1297, doi: 10.1108/
+MRR-02-2017-0025.
+Kossek, E.E. and Nichol, V. (1992), “The effects of on-site child care on employee attitudes and
+performance”, Personnel Psychology, Vol. 45 No. 3, pp. 485-509.
+Lambert, S.J. (2000), “Added beneﬁts: the link between work-life beneﬁts and organizational
+citizenship behavior”, Academy of Management Journal, Vol. 43 No. 5, pp. 801-815,
+doi: 10.5465/1556411.
+Nippert-Eng, C.E. (2008), “Home and Work: Negotiating Boundaries through Everyday Life, University
+of Chicago Press. Chicago.
+Qiang, T., Kanliang, W. and Qin, S. (2005), “Computer-related technostress in China”, Communications
+of the ACM, Vol. 48 No. 4, pp. 77-81, 10.1145/1053291.1053323.
+Rothbard, N.P. (2001), “Enriching or depleting? The dynamics of engagement in work and
+family roles”, Administrative Science Quarterly, Vol. 46 No. 4, pp. 655-684, doi: 10.2307/
+3094827.
+Tarafdar, M., Tu, Q. and Ragu-Nathan, T.S. (2010), “Impact of technostress on end-user satisfaction and
+performance”, Journal of Management Information Systems, Vol. 27 No. 3, pp. 303-334, available
+at: https://doi. org/10.2753/MIS0742-1222270311.
+Tarafdar, M., Tu, Q., Ragu-Nathan, T.S. and Ragu-Nathan, B.S. (2011), “Crossing to the dark side:
+examining creators, outcomes, and inhibitors of technostress”, Communications of the ACM,
+Vol. 54 No. 9, pp. 113-120, available at: http://search. ebscohost.com/login.aspx?direct=true&
+db=buh&AN=67134758&site=ehost-live
+About the authors
+Neerja Kashive is presently working as associate dean-academics at VES’s Institute of Management
+Studies and Research. She has completed her PhD from Mumbai University in the area of employer
+branding with the title, “Impact of Employer and Employee branding on Organizational
+attractiveness and Firm performance in IT sector in Mumbai”. Her area of research focuses on
+employer branding, internal branding, brand loyalty, brand citizenship behavior, artiﬁcial
+intelligence, gamiﬁcation and technology in HR. She is a certiﬁed HR analytics professional and
+conducts workshops and seminars. Neerja Kashive is the corresponding author and can be contacted
+at: nirja.kashive@ves.ac.in
+Brijesh Sharma is an incisive professional with over 25 years of work experience. He has diverse
+experience ranging from operations to sales and marketing and also running various ventures. He
+has worked in Blue chip pharmaceutical companies like Lupin and Wockhardt. He is a graduate in
+IJOA
+31,5
+1800
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3
+
+microbiology and MMS and PhD from the University of Mumbai. Professor Sharma has an interest in
+learning and teaching business research, strategic management, marketing and analytics. His
+research areas are corporate governance and technology in business.
+Vandana Tandon Khanna is working as a professor at KJ Somaiya Institute of Management
+Studies and Research, Mumbai, in the Department of Marketing Management. She is a doctorate in
+services marketing from the Department of Management, Kurukshetra University, Kurukshetra, and
+a master in tourism management (MTM) Department of Tourism, Kurukshetra University
+Kurukshetra). She has around 14 years of diversiﬁed teaching experience. Her teaching and research
+interests are in the area of services marketing, CRM, customer satisfaction and loyalty, customer
+experience management and tourism and hospitality management.
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+Work from
+home
+1801
+Downloaded from http://www.emerald.com/ijoa/article-pdf/31/5/1776/10774305/ijoa-04-2021-2695en.pdf by University College London user on 3

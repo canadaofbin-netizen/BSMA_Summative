@@ -1,0 +1,1030 @@
+Project Leadership and Society 3 (2022) 100066
+Available online 1 November 2022
+2666-7215/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).Empirical Research Paper 
+Practices of strategic alignment in and between innovation 
+project portfolios 
+Miia Martinsuo*, Roosa Anttila 
+Tampere University, Department of Industrial Engineering and Management, Finland   
+ARTICLE INFO  
+Keywords: 
+Project portfolio 
+Strategy 
+Strategic alignment 
+Multiple portfolios 
+Practices ABSTRACT  
+Strategic alignment of project portfolios concerns the match between projects in the portfolio and the organi -
+zation ’s strategy. It is often considered either as a selection criterion when creating the project portfolio or as a 
+performance indicator when assessing success. Organizations pursue optimal strategic alignment while retaining 
+responsiveness to changes in the environment. The problem guiding this study is the need to understand how 
+strategic alignment occurs in practice in the work of project portfolio management in the context of multiple 
+project portfolios. We explore large firms ’ practices of strategic alignment and cross-portfolio interplay in the 
+innovation project portfolios of three industrial firms. The findings reveal social, mechanistic, and structural 
+practices of portfolios ’ strategic alignment and sharing, synergy creation, and boundary-spanning practices in 
+cross-portfolio interplay. Strategic alignment is reported as a dynamic, continuous activity in the work of 
+managers and personnel, with versatile practices that drive both efficiency and renewal.   
+1.Introduction 
+Firms want their innovation projects to produce outcomes that 
+implement their strategy while at the same time promoting the renewal 
+of the business. In project portfolio management (PPM), the strategic 
+alignment (or fit) of the project portfolios and individual projects within 
+them is considered a principle and assessment criterion guiding the se-
+lection of projects (Archer and Ghasemzadeh, 1999 ; Cooper et al., 
+1997a , 1997b ; Dye and Pennypacker, 1999 ; Englund and Graham, 
+1999 ) as well as a project portfolio success criterion (Cooper et al., 1999 ; 
+Jonas et al., 2013 ; Kock and Gemünden, 2019 ; Kock et al., 2016 ; Kop-
+mann et al., 2017 ). Large firms usually have multiple project portfolios 
+designed for different purposes and strategies, and the organization of 
+these project portfolios may follow the structural arrangements of the 
+entire organization (Artto and Dietrich, 2004 ). This study concentrates 
+on large firms ’ innovation project portfolios and their strategic align -
+ment and cross-portfolio interplay in multi-portfolio contexts. 
+Innovation project portfolios are the collection of a firm’s innovation 
+projects included under the same management umbrella (Dye and 
+Pennypacker, 1999 ). For example, a firm might decide to have separate 
+innovation project portfolios for its product development, service 
+development, technology development, and long-term research (Artto 
+and Dietrich, 2004 ), or separate project portfolios might emerge based on different management styles (Loch, 2000 ). Alternatively, the firm 
+might organize separate innovation project portfolios for each business 
+unit or geographic area. In this study, strategic alignment in PPM is 
+defined as ways of connecting or fitting the project portfolio and its 
+projects with the firm’s official strategy. Extant research dominantly 
+treats this as the extent to which the projects (individually) or the 
+portfolio (as a whole) fit with the strategy. In this study, we also 
+acknowledge that project portfolios do not exist in isolation but are 
+connected with other portfolios and activities in the firm as well as the 
+external business environment, in line with Martinsuo and Geraldi 
+(2020) . 
+The previous research on project portfolios ’ strategic alignment is 
+limited in two primary ways. Firstly, its treatment is often very static; it 
+is used as an episodic measure that is observed externally and momen -
+tarily, but the research does not discuss how organizations develop and 
+achieve it in practice. As described above, strategic alignment is 
+frequently treated as an input (i.e., assessment criterion) into project 
+selection or as an outcome (i.e., success criterion) of doing the right 
+projects. Yet, organizations need to do some aligning in practice, too, 
+when managing the project portfolio, and this dynamic, proactive aspect 
+of strategic alignment is weakly understood. Consequently, we adopt the 
+practice-centric view of portfolios ’ strategic alignment following some 
+previous influential portfolio studies (Blichfeldt and Eskerod, 2008 ; 
+*Corresponding author. 
+E-mail address: miia.martinsuo@tuni.fi (M. Martinsuo).  
+Contents lists available at ScienceDirect 
+Project Leadership and Society 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1�mt ozmont~om�1m{ y2u{�~zk w2|~{uom�/wok no~�st|/kzn /�{mto�Þ!
+https://doi.org/10.1016/j.plas.2022.100066 
+Received 28 October 2022; Accepted 30 October 2022   Project Leadership and Society 3 (2022) 100066
+2Christiansen and Varnes, 2008; Clegg et al., 2018; Jerbrant and Karrbom 
+Gustavsson, 2013; Martinsuo, 2013). 
+Secondly, strategic alignment is often considered merely for a specific 
+project portfolio, as if it represents all portfolios in the firm and as if there 
+is only one strategy with which the projects and portfolio should be 
+aligned. However, medium-sized and large firms are likely to have 
+multiple different project portfolios, each with their own specific strat-
+egy (or multiple strategies) and related selection and success criteria. 
+Previous research has rarely considered the interplay and relations be-
+tween different project portfolios in the firm when pursuing strategic 
+alignment, but the need for context awareness has been explicated in 
+conceptual portfolio research (see Martinsuo, 2013; Martinsuo and 
+Geraldi, 2020). Our research is motivated by the need for a more 
+context-sensitive treatment of strategic alignment of innovation project 
+portfolios, especially acknowledging cross-portfolio linkages. 
+The purpose of this study is to explore firms’ practices of strategic 
+alignment and cross-portfolio interplay in innovation project portfolios. 
+The goal is to increase the knowledge on how strategic alignment hap-
+pens in practice in the work of personnel involved in PPM in the multi- 
+portfolio contexts of large firms. The research focuses on two main 
+questions: 1) How, through what kinds of practices, do firms implement 
+strategic alignment in their project portfolios? and 2) How do firms consider 
+cross-portfolio linkages when implementing strategic alignment in their 
+project portfolios? The study is delimited to innovation project portfolios 
+of large business-to-business firms that have multiple portfolios, while 
+smaller firms and other types of project portfolios are purposely 
+excluded. The chosen firms are innovation-oriented in their strategies 
+but represent conventional industrial manufacturing, which may limit 
+the transferability of the findings. We purposely excluded the consid -
+eration of formal structural arrangements of project portfolios as they 
+tend to be pre-defined by top management instead of at the portfolio 
+level. 
+Next, we summarize previous research on how strategic alignment 
+has been considered both for selecting projects for inclusion in the 
+project portfolio and assessing project portfolio success. Also, we 
+introduce how the multi-portfolio context of large firms has been dis-
+cussed in previous research and how it portrays strategic alignment to 
+highlight the potential for further research. We then introduce the 
+qualitative multiple-case study conducted with three large firms that 
+have multiple innovation project portfolios. Data collection was done 
+primarily through key informant interviews and the consequent the-
+matic data analysis approach. Social, mechanistic, and structural prac-
+tices are reported as key mechanisms of strategic alignment in project 
+portfolios. The interplay between multiple project portfolios is handled 
+through sharing, synergy creation, and boundary-spanning practices. 
+We discuss the continuity of strategic alignment practices of managers 
+and personnel as key contributions, the possibilities for exploring the 
+identified strategic alignment practices as topics of future research, and 
+the contextuality of strategic alignment in the organizational cultures 
+and subcultures of firms. 
+2.Literature review 
+2.1. Aligning projects with strategy 
+Companies organize their innovation activities into portfolios of 
+projects to ensure that the projects fulfill the strategic objectives of the 
+firm. Strategic alignment, strategic fit, or strategy implementation is 
+considered one of the key goals of portfolio management. Other goals 
+include value maximization and portfolio balance (Cooper et al., 1997a, 
+1997b), average project or product success, and exploitation of syn-
+ergies (Jonas et al., 2013; Kock and Gemünden, 2019; Kock et al., 2016; 
+Kopmann et al., 2017). The expectation of alignment may deal with any 
+aspects of strategy, ranging from its ideological standpoint and market 
+positioning to resources, competences, benefits, and risks. Often, the 
+general assumption is that strategic alignment should be considered early on, when projects are being proposed, assessed, prioritized, and 
+consequently selected for the portfolio (Archer and Ghasemzadeh, 1999; 
+Cooper et al., 1997a, 1997b; Dye and Pennypacker, 1999; Englund and 
+Graham, 1999). In this way, projects are designed, prioritized, strate -
+gically selected, and considered as vehicles or mechanisms of strategy 
+implementation. 
+For single projects to be aligned with strategy, they need to be 
+planned in such a manner that the goals, benefits, and ways of operating 
+are defined with the strategy in mind (Englund and Graham, 1999). In 
+the context of innovations, this causes a dilemma. On the one hand, 
+innovations are expected to bring renewal to the firm and potentially 
+pave the way for enabling emergent strategies in PPM (Kopmann et al., 
+2017; Loch, 2000). On the other hand, if renewal intentions are built 
+into a strategy that guides innovations, then such a strategy may directly 
+guide projects’ goal setting and planning (Cooper et al., 1997a; Englund 
+and Graham, 1999). Thereby, innovation project portfolios may serve 
+both renewal and strategy implementation simultaneously (Kopmann 
+et al., 2017), and the different project portfolios in a firm may be used to 
+follow strategies that emphasize incremental versus radical innovation 
+pursuits differently (Loch, 2000). 
+At the individual project level, the dilemma between strategy 
+renewal and implementation may be resolved when each project has its 
+own strategy that may or may not obey the parent organization. Project 
+strategy specifies the direction of the project and ways in which its 
+success is assessed (Artto et al., 2008; Artto et al., 2008); it includes the 
+perspective, position, and guidelines on what is done in a project and 
+how in order to achieve the best value from the project and, thereby, 
+beat competitors (Patanakul and Shenhar, 2012). Project strategies vary 
+depending on the complexity of the stakeholder setting and autonomy 
+that the project can adopt in its environment (Artto et al., 2008). Ac-
+cording to Artto et al. (2008), innovation projects within one parent 
+organization can either serve the strategy of the organization obediently 
+or purposely contradict such a strategy in pursuit of radical renewal. 
+When a firm has multiple different project portfolios, they and their 
+specific projects can be designed with different strategies in mind. 
+At the level of single projects, strategic alignment is often considered 
+only in terms of an assessment and selection criterion at the start of the 
+project. However, a project’s strategic alignment is expected to continue 
+through its implementation so that its outcomes eventually fulfill the 
+strategic goals set for the project and the firm. Project success is 
+increasingly considered from broader business and customer perspec -
+tives (Atkinson, 1999; Shenhar et al., 1997, 2001) and concerning 
+strategic outcomes. As many kinds of changes may occur during a 
+project (Dvir and Lechler, 2004; Steffens et al., 2007), there is a need to 
+consider strategy alignment and re-alignment later on in the project and 
+during project termination (Unger et al., 2012). Particularly in uncertain 
+environments surrounding innovations, there is a need to manage un-
+certainties as part of the projects and take them into account in man-
+aging project portfolios (Martinsuo et al., 2014; Petit and Hobbs, 2010). 
+2.2. Strategic alignment or fit of the project portfolio 
+In PPM research, strategic alignment (i.e., fit or implementation) is 
+considered among the central criteria for assessing the success of the 
+project portfolio (Jonas et al., 2013; Kester et al., 2014; Kock and 
+Gemünden, 2019; Kock et al., 2016; McNally et al., 2013) or its man-
+agement (Martinsuo and Lehtonen, 2007; Spieth and Lerch, 2014). It is 
+often considered in terms of projects in the portfolio fitting or imple -
+menting the official strategy and serving the future pursuits of the or-
+ganization. Previously, there has been a tendency to include strategic 
+alignment or fit as a first-order construct as part of a more compre -
+hensive second-order measure of project portfolio success or PPM suc-
+cess (Jonas et al., 2013; Kock and Gemünden, 2019; Kock et al., 2016; 
+Spieth and Lerch, 2014). However, some authors have shown that some 
+antecedents of portfolio success yield different results for different 
+first-order constructs of portfolio success (Kock and Gemünden, 2019; M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+3McNally et al., 2013 ). 
+Quantitative project portfolio success studies tend to seek manage -
+rial factors that would explain project portfolio success for instance in 
+the criterion of strategic alignment. However, Martinsuo & Geraldi 
+(2020) offered a critique for assessing strategic alignment as a measure 
+of portfolio success when the nature of the strategy is not specified. They 
+pointed out that organizations have different strategies, and the stra-
+tegic alignment or fit of portfolios in one organization cannot be directly 
+compared with that of another organization. For example, the strategic 
+alignment for differentiation strategies is not the same as the strategic 
+alignment for cost efficiency or customer intimacy strategies (Martinsuo 
+and Geraldi, 2020 ). In a similar way, strategic alignment might differ for 
+different time intervals and different project portfolios. Portfolios of 
+radical innovation projects would likely differ from portfolios of incre -
+mental projects in how strategic alignment is defined (Loch, 2000 ). 
+Likewise, technology development project portfolios would differ from 
+service development project portfolios. In many research studies, port-
+folio managers ’ or directors ’ assessment of and satisfaction with stra-
+tegic alignment is used as a proxy, likely because it is challenging to 
+acknowledge exactly what strategies the portfolios are aligned with and 
+make them otherwise comparable. 
+In the pursuit of better portfolio success, plenty of research has 
+considered the practices through which organizations attempt to pro-
+mote portfolio success, but only a few studies have concentrated on 
+factors that specifically explain or contribute to strategic alignment. 
+Unger, Kock, et al. (2012) found that senior managers ’ involvement and 
+project termination quality were positively associated with portfolio 
+strategic fit. Beringer et al. (2013) reported that the level of certain se-
+nior managers ’ involvement and role clarity had interaction effects on 
+portfolio strategic fit. McNally et al. (2013) concentrated on 
+decision-making effectiveness and showed that portfolio mindset, focus, 
+and agility were antecedents of strategic alignment (as well as other 
+portfolio success criteria). In the study by Kock and Gemünden (2019) , 
+proactive and reactive lineage of projects were both associated with 
+strategic fit, but their effects varied for the other first-level measures of 
+portfolio success. Such studies clearly draw attention to managers ’ 
+actions. 
+The outcome-centric view of strategic alignment, however, does not 
+offer a clear view on how such aligning occurs in practice, i.e., what 
+managers actually do when they strategically align the project portfolios. 
+While some conceptual studies clearly encourage exploring managers ’ 
+and personnel ’s actions in managing project portfolios (Clegg et al., 
+2018 ; Martinsuo, 2013 ), practice-centric studies tend to concentrate on 
+how managers deviate from established norms, rules, and routines 
+(Blichfeldt and Eskerod, 2008 ; Christiansen and Varnes, 2008 ; Jerbrant 
+and Karrbom Gustavsson, 2013 ). If innovation project portfolios are 
+established to implement renewal-oriented strategies, we need to un-
+derstand how strategic alignment occurs in the practices of managers 
+and personnel. 
+2.3. Strategic alignment between project portfolios 
+Particularly in large firms, it is likely that innovation projects are 
+organized into not just one but several different project portfolios. In 
+organizations, this multi-portfolio issue is commonly treated as a 
+structural solution whereby portfolios are defined by business areas or 
+organizational units, geographic areas, or innovation types (Artto and 
+Dietrich, 2004 ; Loch, 2000 ), or they could be considered “project 
+buckets ” to which resources and money are allocated based on strategic 
+priorities (Cooper et al., 1997b ). However, PPM studies are often carried 
+out concerning a specific project portfolio only, neglecting the possible 
+multi-portfolio circumstances in the organization. 
+The existence of and relations between different project portfolios 
+are rarely discussed in the literature, but multi-portfolio interplay could 
+be very challenging and influential with regard to strategic alignment. 
+The context connections of project portfolios may be influential and require attention in PPM (Engwall, 2003 ; Martinsuo, 2013 ; Martinsuo 
+and Geraldi, 2020 ). Multiple portfolios in an organization may compete 
+for and share some of the same resources as projects do (Engwall and 
+Jerbrant, 2003 ; Elonen and Artto, 2003 ; Fricke and Shenhar, 2000 ). 
+They might share the same project management office as a source of 
+support coordination, tools, and guidelines as well as the guidance and 
+engagement of senior management (Beringer et al., 2013 ; Unger et al., 
+2012 ). Organizations may occasionally observe that the same or over-
+lapping tasks are done in multiple project portfolios (Elonen and Artto, 
+2003 ) or that the portfolios could benefit from each other by sharing 
+information and learning from each other to reach synergy (Kock and 
+Gemünden, 2019 ). There is increasing understanding that portfolios are 
+connected temporally, with current projects building on past projects ’ 
+lineage (Maniak and Midler, 2014 ; Midler, 2013 ), learning from each 
+other, and creating a lineage for the future in the form of roadmaps 
+(Kock and Gemünden, 2019 ). These examples indicate that the interplay 
+between project portfolios is strategic, relevant, and may have signifi -
+cant consequences both at the portfolio and organizational levels, but 
+research has yet to purposively tackle cross-portfolio linkages. 
+In our view, strategic alignment is not only something that occurs 
+between a certain project portfolio and the strategy it implements but 
+also something that requires cross-portfolio interplay when multiple 
+project portfolios exist in parallel. Fig. 1 summarizes three aspects of 
+strategic alignment of project portfolios as covered in previous research. 
+The focus of this paper is on the strategic alignment of the project 
+portfolio as a whole (marked with 2 in Fig. 1) and in terms of the cross- 
+portfolio interplay (marked with 3 in Fig. 1). The attention is in practice, 
+i.e., what managers actually do when they align the innovation project 
+portfolio strategically. 
+3.Methods 
+3.1. Research design and cases 
+This study was carried out using a qualitative multiple-case study 
+with three firms that implemented their innovations through projects. 
+We purposely selected large firms that had at least two innovation 
+project portfolios and prioritized innovation in their strategies. One firm 
+represented the forest industry, and two firms represented the me-
+chanical engineering industry. All firms operated internationally in 
+business-to-business markets, and their headquarters were located in the 
+same country. Table 1 summarizes the background information of the 
+companies and interviewees. 
+The focus is on the PPM of innovations in these firms, and the case 
+(unit of analysis) is each firm’s approach for handling strategic align -
+ment as part of PPM. Firm A divided its innovation activities into two 
+main innovation project portfolios according to product and service 
+Fig. 1.Summary of strategic alignment in and across project portfolios.  M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+4offerings. Firm B organized its product and service development within 
+business units, each of which had its own innovation project portfolio 
+containing both incremental and radical development. Firm C had 
+separate product development and process development project port-
+folios for business areas and guided such activities through strategic 
+themes such as sustainable development and automatization. 
+3.2. Data collection 
+Data were collected through semi-structured interviews with key 
+informants involved in managing the innovation project portfolios. A 
+contact person in charge of innovation activities in the firm helped 
+identify interviewees to ensure that they were key persons involved in 
+steering and managing an innovation portfolio and/or leading the 
+innovation activities in a business unit. All interviewees therefore had 
+first-hand knowledge of one or more innovation portfolios. Within each 
+firm, three to five such persons were interviewed to gain a compre -
+hensive picture and triangulate the data. Table 1 summarizes the in-
+terviews. There were 12 interviewees total (one interview included two 
+persons), and the interviews lasted 50–96 min (average 60 min). 
+The interview outline included questions concerning the company ’s 
+and interviewee ’s background, the key stakeholders involved with 
+innovation project portfolios, their responsibilities and tasks, how the 
+project portfolios were organized, how uncertainties in the project 
+portfolios were managed, connections and interfaces between the proj-
+ect portfolios, and linkages between the portfolios and strategy. The 
+main topics were supplemented with more detailed questions as needed. 
+This paper concentrates on the strategy connections and cross-portfolio 
+interfaces. The second author conducted all interviews using the inter-
+view outline, but the order and coverage of the questions varied across 
+the interviews depending on the interviewees ’ spontaneous coverage of 
+the relevant issues. The interviews were recorded and transcribed for the 
+purposes of analysis. Company-specific public documentation such as 
+websites were used as secondary data, particularly to understand the 
+business contexts and industries. 
+3.3. Data analysis 
+The data analysis proceeded in three main phases. First, the inter-
+view transcripts were read through, and a tentative analysis was con-
+ducted using an open coding approach to identify possible repeating 
+codes on strategic alignment at the level of the portfolio, portfolio 
+connections, and stakeholder interactions with the portfolio. Case- 
+specific results from these analyses were drafted and reported back to 
+the companies to verify the tentative findings and potentially gain 
+feedback and improvement suggestions from the company personnel. 
+Second, based on the positive feedback from the companies, an 
+additional reading of the interview data, and the authors ’ creative dis-
+cussion, we developed more structured and robust analysis frameworks 
+to serve the recurring patterns in the interview data. One coding 
+framework concerned the strategic alignment in the project portfolios (covering social, mechanistic, and structural practices; see Table 2). The 
+other coding framework examined strategic alignment across multiple 
+project portfolios (covering sharing, synergy creation, and boundary- 
+spanning practices; see Table 3). Each case was systematically coded 
+according to these themes, and cross-tabulation was used to summarize 
+the extent to which the issues were discussed in the interviews. As 
+background information, we explored each firm’s strategies and 
+governance of the innovation project portfolios. 
+Third, we tracked the similarities and differences between the target 
+companies ’ strategic alignment of project portfolios to understand the 
+cases both separately and together. We went back to detailed interview 
+transcripts to discover illustrative quotes and examples for the findings. 
+This final phase is reported through a thematic storyline that spans 
+across the cases. Lastly, we reflected on the key findings in the literature 
+to discover and discuss the novel findings. 
+4.Results 
+4.1. Strategies guiding innovation project portfolios 
+The studied firms had established strategies to guide innovation 
+activities with the intent of securing the firms ’ future existence by 
+delivering the right types of innovations at the right time. The firms 
+differed in the terminology regarding their strategy —technology, 
+product development, and business unit strategies —but all three had the 
+same intent of specifying and directing future innovations. For example, Table 1 
+Background information on the studied firms.   
+Firm A Firm B Firm C 
+Industry Forest industry Mechanical engineering Automation for mechanical engineering 
+Offering Renewable wood-based materials Mobile work machines and related services Automation solutions and related services 
+for mobile machines 
+Turnover (M€) F1800 F3000 F1500 
+Personnel F2000 F16,000 F10,000 
+Nr. of innovation project 
+portfolios 2 F3 F3 
+Nr. of interviews 
+(interviewees) 3 (4) 5 (5) 3 (3) 
+Job profiles of 
+interviewees Vice president of Research and development, 
+process owner, project manager Vice president of technology, process owner, technology 
+director, service manager, innovation manager Director of product management, 
+portfolio manager, product manager  
+Table 2 
+Practices used for strategic alignment expressed in the interviews.  
+Category Practices A 
+(n 
+
+4) B 
+(n 
+
+5) C 
+(n 
+
+3) Sum 
+(N 
+12) 
+Social 
+practices Interacting and 
+communicating strategically 3 1 2 6 
+Involving and engaging 
+stakeholders 3 2  5 
+Cooperating in defining the 
+strategy  1 1 2 
+Mechanistic 
+practices Using the PPM system 4 1 1 6 
+Using key performance 
+indicators and measures  1 1 2 
+Visualizing portfolio status on 
+a dashboard (linked to project 
+control)   1 1 
+Structural 
+practices Clarifying the value chain for 
+innovations  2  2 
+Considering the roadmap of 
+projects over time (to prepare 
+for long-term future)  1  1 
+Reducing or avoiding the 
+hierarchical layering of 
+innovation planning and 
+reporting  1  1  M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+5in Firm C, the importance of strategy with regard to projects was 
+emphasized in business units ’ activities: “There is no separate innova -
+tion strategy, but it is covered as part of the technology unit’s business 
+strategy – we can clearly see that innovation is a focus area and an issue 
+visible in the strategy ” (H12). Irrespective of the terms used, the inno-
+vation strategies contained priorities regarding customer needs, creation 
+of added value, differentiation, technological leadership, and competi -
+tive means, thereby guiding the direction of innovation activities. 
+The strategies in all three firms featured goal orientation, improve -
+ment orientation, and creation of functional solutions to customer 
+needs. The firms differed slightly in the emphases communicated in the 
+strategies: Firm A included innovations as part of its corporate strategy 
+and management group decision making, Firm B developed separate 
+innovation strategies for each business area, and Firm C emphasized 
+corporate-level technological capabilities as part of its innovation 
+strategy. In all firms, the focus was on steering innovation activities 
+holistically as entire portfolios and not just single projects. 
+The interviewees had somewhat different experiences concerning 
+how the corporate strategy was reflected in innovation strategies and 
+detailed in innovation projects and activities, even within the same firm. 
+Some interviewees saw a very evident linkage between the different 
+strategies and innovation projects, for example, in terms of how 
+customer needs were acknowledged in the strategy and reflected in 
+innovation projects. Similarly, the strategic priority of environmentally 
+friendly solutions appeared as a clear continuum from strategies to 
+projects. In Firm B, however, the division into multiple different busi-
+ness unit strategies caused versatile interpretations of innovation in the 
+strategies: “The product strategy is quite siloed and is not that well- 
+visible in innovation activities ” (H8). Such experiences varied, though, 
+and the silo experience was not necessarily shared across the business 
+units. 
+Interviewees did not spontaneously express how the innovation 
+project portfolios influenced the firms ’ strategies. Because the directors 
+and managers themselves were involved in strategic analysis and plan-
+ning, they as individuals had an influence on the strategies. Also, some 
+interviewees expressed that the strategies were to some extent vague 
+and general and that they required individuals ’ interpretation when 
+converted to project portfolios. Therefore, the interpretation process 
+from strategy to projects required creativity and innovativeness. For 
+example, one interviewee in Firm A explained this as follows: “The 
+mission given in the strategy is not always very accurate; of course, it never goes directly to the project level … so we have to translate the 
+strategic task somehow into project portfolio goals and project goals to 
+specify more concrete accomplishments and performances. ” In-
+terviewees in Firm C emphasized the multiple levels of the organization 
+and cooperation in and between business units in designing the strate -
+gies. The overarching strategies required portfolio and project-level 
+interpretation among the people involved in those portfolios, and this 
+collaborative interpretation process yielded both the visions of desired 
+states in a few years ’ time and the steps toward such visions. 
+4.2. Practices for strategic alignment of project portfolios 
+The analysis revealed three main categories of practices for strategic 
+alignment of project portfolios: social, mechanistic, and structural. The 
+social practices required individuals ’ interaction at and between the 
+different levels of the organization and between the firm and other 
+stakeholders. The mechanistic practices dealt with systems, tools, and 
+measures harnessed for enabling and enforcing strategic alignment of 
+portfolios. The structural practices dealt with how the organization and 
+its projects and other activities were organized to enable strategic 
+alignment. The firms differed to some extent in how the practices were 
+used. Strategic alignment was most visible in the practices of Firm A, 
+which had systematized the strategic alignment of project portfolios 
+very recently. Firm B interviewees mentioned many different practices 
+for strategic alignment but also identified areas of improvement in how 
+strategic alignment could be achieved. Firm C interviewees emphasized 
+that innovation activities were already strategically well-aligned and 
+that alignment-related routines were in regular use. Table 2 summarizes 
+the practices identified and the extent to which they were discussed by 
+different interviewees. 
+The interviewees most frequently discussed the social practices of 
+communicating the strategy, involving stakeholders, and cooperating to 
+define the strategy. Firm A interviewees discussed how the management 
+led a very concentrated approach to strategy communication and 
+required strategy-related justifications for proposing projects. This was 
+also reflected in strategy-related assessments of projects both before 
+their selection and during implementation. This shift to strategy- 
+oriented communication in innovation PPM was recent and had 
+improved personnel ’s awareness of aligning projects with strategy and 
+the future orientation of innovation projects: “Earlier, our communica -
+tion was on a quite different level … now managers constantly repeat in 
+their talk which strategy we follow and what are the largest and most 
+significant projects that are related to [that] strategy ” (H3). The cen-
+trality of strategy communication was also visible when cooperating 
+with external stakeholders. 
+Firms B and C had somewhat more versatile experiences of the social 
+practices of strategic alignment and less emphasis on communicating 
+innovation strategies. Interviewees in Firm B discussed regular strategy 
+meetings and cooperation between project portfolio actors and with 
+other stakeholders to build awareness of strategic priorities in in-
+novations. Firm C interviewees discussed the use of documented product 
+roadmaps and plans as a means of involving personnel and stakeholders 
+in planning, communicating, and implementing innovation strategies in 
+projects. This, in a way, combined the use of mechanistic and social 
+practices. 
+All the firms had some kind of PPM information system in place, 
+which represents an example of mechanistic practices used for strategic 
+alignment. Firm A had recently implemented a new management system 
+for leading and steering the project portfolio, which was a major topic of 
+discussion in their interviews. The system enabled steering the projects 
+in the portfolio toward strategic goals systematically and effectively and 
+identifying dependencies and synergies between projects. Particularly 
+when the number of projects increased, the system was considered a 
+useful way to help decision makers comprehend the complex portfolio 
+entity. 
+In Firms B and C, such systems, dashboards, and performance Table 3 
+Practices for strategic alignment in cross-portfolio interplay expressed in the 
+interviews.  
+Category Practices A 
+(n 
+
+4) B 
+(n 
+
+5) C 
+(n 
+
+3) Sum 
+(N 
+12) 
+Practices of 
+sharing Sharing of resources 4 3 3 10 
+Sharing of (internal) 
+information regularly 3 3 2 8 
+Sharing of information and 
+weak signals from external 
+stakeholders 2  2 4 
+Practices of 
+synergy 
+creation Using the same external 
+partners (repeatedly) 3 3  6 
+Using the same technologies 
+and facilities  2 3 5 
+Encouraging competition and 
+openness on successful 
+innovations between 
+portfolios (but avoiding 
+resource competition)   1 1 
+Practices of 
+boundary 
+spanning Acknowledging the benefit of 
+cross-portfolio interplay (or 
+failure thereof)  2 1 3 
+Using tools to depict cross- 
+portfolio interfaces 1   1  M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+6measures were mentioned as useful in forming a complete picture of the 
+portfolio status and monitoring single projects, but interviewees 
+expressed them as possibilities not yet in use. For example, in Firm C, 
+one interviewee felt that a more comprehensive PPM system could be 
+useful in guiding and monitoring innovation activities “so we would not 
+need man-made monthly reports, but we could just open the dashboard 
+and see different scenarios” (H12) of what the portfolio could offer and 
+require in the future. Some interviewees, especially those in Firm B, felt 
+that visualization, automatization of repeated functionalities, and of-
+fering decision options in the tools could help not just in assessing 
+strategic alignment and consequent monitoring and decision making but 
+also in sharing information among stakeholders and improving the 
+innovation culture. They also expressed a need for more accurate mea-
+sures and a more systematic approach to handling the entity of the 
+innovation project portfolio. 
+Besides current practices, Firm B interviewees expressed some 
+structural practices that either could be useful or that should be avoided 
+to drive strategic alignment and complement the social and mechanistic 
+practices. Some interviewees mentioned the need to look at the up-
+coming projects over time to form a comprehensive picture of the 
+project roadmap. They expressed the need to reduce hierarchies in the 
+organizational structure to avoid “tunnel vision” and to assist strategy 
+orientation in innovation projects. One interviewee used the following 
+example: “We have these technology platforms for multiple products. As 
+long as profit and loss responsibility is here [in the business units], there 
+is a risk that we are building an extra layer of hierarchy with them. 
+Eventually, we may notice that the platform layer will employ itself with 
+all kinds of reporting needs and does not add value to the customer 
+interface in any way.” They pointed out the necessity of understanding 
+value throughout the entire innovation value chain as well as involving 
+external partners in the supply chain in order for the innovation out-
+comes to fulfill strategic objectives. The structural practices were in this 
+case expressed as issues requiring personnel’s understanding and atti-
+tude adjustment and as improvement needs that could potentially be 
+resolved in the future to strengthen strategic alignment. 
+4.3. Practices for strategic alignment across portfolios 
+Each firm had at least two separate innovation project portfolios, so 
+we explored strategic alignment and its practices concerning cross- 
+portfolio interplay. Interviewees acknowledged the existence of 
+boundaries between innovation project portfolios, and they mentioned 
+various practices of cross-portfolio interplay and related strategic 
+alignment, which we categorized into sharing, synergy creation, and 
+boundary spanning. While resource and information sharing and syn-
+ergies have been well-explored in the previous literature, they are often 
+examined solely within the firm; in our study, they were also connected 
+to other stakeholders and complemented with practices concerning 
+purposive boundary spanning between project portfolios. Table 3 sum-
+marizes practices of cross-portfolio interplay dealing with strategic 
+alignment and how they were covered in the interviews. Many practices 
+were covered in all organizations, but interviewees also expressed clear 
+needs for improvement in these kinds of cross-portfolio strategic align -
+ment practices. 
+The practices of sharing concerned both resources and internal and 
+external information across the project portfolios. They delt with of-
+fering access to competences and information between the portfolios to 
+overcome resource scarcity and benefit from learning. Interviewees in 
+Firm A described how cooperation and allocation of resources between 
+different project portfolios was open and transparent, which helped with 
+managing the complex settings: “We cross-use our competences [be-
+tween portfolios], and by competences we mean people, so this is the 
+way in which the project portfolios are connected, I would say contin -
+uously” (H1). 
+Firm B interviewees characterized their innovation project portfolios 
+as somewhat separate entities despite their position within the same business units. They had product development teams that served the 
+needs of different business areas using the same technology knowledge. 
+In their view, resource sharing would require some official guidelines 
+and procedures, which had yet to be developed. Such sharing requires 
+deep insights and years of experience regarding personnel competences 
+from the portfolio owners: “We need to have persons who know this 
+firm’s ways of working, the competences that we have inside the firm; 
+otherwise this [sharing] does not function properly” (H5). 
+In Firm C, innovations took place in the same geographical location, 
+which implies that engineering teams inside portfolios engaged in active 
+and open dialogue and flexible resource sharing. However, cooperation 
+across portfolio boundaries was perceived as somewhat challenging. 
+They also experienced resource scarcity and emphasized learning from 
+the other business units as a way of sharing: “We noticed that they [the 
+other business unit] have an interesting solution [to certain needs] that 
+we also would like to use, instead of us reinventing the wheel. So we set 
+up a team they would manage, serving only our needs” (H10). Firm C 
+utilized external cooperation particularly as a source of weak signals and 
+input into innovation projects in and across the project portfolios. 
+The practices of synergy creation deal with exploiting the same tech-
+nologies, facilities, and external partners to create mutual benefits from 
+successful innovations, which imply cost and time savings. Firm A in-
+terviewees noted that the same facilities and equipment were used 
+across project portfolios. They had recently created an innovation center 
+specifically for promoting the efficient use of facilities shared by the 
+different project portfolios. Interviewees in Firm B emphasized the 
+replication and modification of the same technologies for different 
+business areas’ needs as a way to create synergies between project 
+portfolios, save resources, reduce workload, and avoid redundancies. 
+According to one interviewee, “We have a few core technologies that we 
+govern and replicate in several projects, so they in a way operate in a 
+matrix with the projects across business area[s]” (H9). Firm C in-
+terviewees perceived that the co-location of innovation activities, as 
+opposed to geographically dispersed locations, improved efficiency: 
+“We can use the same testing equipment in the innovation centers for 
+any projects … so the customer delivery and solution benefits from 
+combining [development in multiple areas]” (H5). The practices for 
+synergy creation were tightly connected to resource and information 
+sharing as well. 
+Innovation projects often involve external partners such as cus-
+tomers, research institutes, and engineering services, and the involve -
+ment of partners might increase as the new product’s market launch 
+approaches. Particularly for Firm A, this external cooperation was a 
+source of synergy benefits because external partners learned from one 
+project to another, making the cooperation more efficient: “We have a 
+lot of external partners, it is a long list of different organizations and 
+firms. The most of such collaborations are so repetitive that we know the 
+people and the cooperation functions with ease” (H1). Firm B in-
+terviewees involved customers in the idea generation phase of innova -
+tion projects in one portfolio, benefiting from their earlier knowledge, 
+but this practice was not shared with another project portfolio. Firm C 
+organized innovation contests between business areas, which both 
+increased the level of ambition in the innovations and created synergies 
+by having the areas learn from each other. Furthermore, successful 
+innovation in a neighboring project portfolio sparked ideas for the other 
+portfolios. 
+The practices of boundary spanning were concerned with under -
+standing the benefits of cross-portfolio interplay as well as the use of 
+tools for boundary spanning. The existence of boundaries between 
+project portfolios was acknowledged in all the firms, but the benefits of 
+crossing the boundaries and ways of managers to support boundary 
+crossing were less discussed. Firm A interviewees felt that the new PPM 
+system was beneficial for revealing overlaps and possibilities for sharing 
+and synergies between project portfolios, but as the access to the system 
+was restricted to certain persons only, its usefulness for boundary 
+spanning was limited. Visibility to other project portfolios through such M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+7tools was considered useful for the purposes of sharing and synergy 
+practices and for managing risks stemming from project overload if an 
+individual was allocated to too many projects. 
+5.Discussion 
+This study explored practices of strategic alignment and cross- 
+portfolio interplay in large industrial firms’ innovation project portfo -
+lios. We adopted a practice-centric view of portfolios’ strategic align -
+ment following the work of previous researchers (Blichfeldt and 
+Eskerod, 2008; Christiansen and Varnes, 2008; Clegg et al., 2018; Jer-
+brant and Karrbom Gustavsson, 2013; Martinsuo, 2013). Following 
+Martinsuo and Geraldi (2020), we acknowledge that innovation project 
+portfolios are managed in their context, including their connection with 
+multiple other project portfolios. We thereby wanted to complement 
+such research that treats strategic alignment primarily as a project se-
+lection criterion (see Archer and Ghasemzadeh, 1999; Cooper et al., 
+1997a, 1997b; Dye and Pennypacker, 1999; Englund and Graham, 
+1999) or as a criterion for assessing portfolio success (see Jonas et al., 
+2013; Kester et al., 2014; Kock and Gemünden, 2019; Kock et al., 2016; 
+Martinsuo and Lehtonen, 2007; McNally et al., 2013; Spieth and Lerch, 
+2014). Strategic alignment, in our view, is something that managers, as 
+well as personnel more broadly, can do in practice throughout the life-
+cycles of projects and portfolios. 
+The first research question focused on firms’ practices of imple -
+menting strategic alignment in their project portfolios. The findings 
+confirmed our above assumption that strategic alignment of project 
+portfolios occurs continuously over time in the practices of managers 
+and personnel and not just during project selection or performance 
+evaluation. In particular, the analysis revealed the use of various social, 
+mechanistic, and structural practices of strategic alignment. The find-
+ings suggest that formal PPM systems are clearly supplemented with less 
+formal communicative practices, thereby lending support to improvised 
+and norm-breaking behaviors in PPM (Blichfeldt and Eskerod, 2008; 
+Christiansen and Varnes, 2008; Jerbrant and Karrbom Gustavsson, 
+2013), and also with structure-related practices that represent the dy-
+namic potential for portfolio reconfiguration (Martinsuo, 2013). The 
+differences between the firms suggest that strategic alignment practices 
+may be a feature of the organizational culture, which is reflected in the 
+formalization of PPM systems and diversity of strategic alignment 
+practices used. 
+The framework developed during the analysis offers a nuanced pic-
+ture of potential ways to implement strategic alignment of project 
+portfolios from the viewpoint of traditional high-tech manufacturing 
+firms. The framework thereby complements and adds to previous 
+research on a select few antecedents of strategic alignment (Beringer 
+et al., 2013; Kock and Gemünden, 2019; McNally et al., 2013; Unger 
+et al., 2012) by showing how the aligning actually takes place in prac-
+tice. As the practices of strategic alignment vary over time, they may 
+continuously renew the portfolios, and thereby, the findings contribute 
+to research of emergent strategy in project portfolios (Kopmann et al., 
+2017). Our empirical findings revealed a diversity of experiences con-
+cerning the use of different strategic alignment practices even within the 
+firms, indicating that even the job positions and business units of the 
+informants offer different views of such practices and lend support to the 
+context dependency of these practices (Martinsuo, 2013; Martinsuo and 
+Geraldi, 2020). It is possible that the exploration of strategic alignment 
+in more dynamic contexts such as information system portfolios and new 
+service development portfolios would reveal additional practices. 
+The second research question was: How do firms consider cross- 
+portfolio linkages when implementing strategic alignment in their 
+project portfolios? With this question, we wanted to draw attention to 
+the fact that large firms tend to have multiple different innovation 
+project portfolios, which may serve different strategies and be managed 
+in different ways. Yet, the innovation project portfolios together are 
+supposed to fulfill the innovation strategies in the firm and may compete for the same resources, which is why they must somehow be aligned. 
+The empirical analysis revealed various sharing, synergy creation, and 
+boundary-spanning practices for cross-portfolio strategic alignment. 
+Here especially, the findings concerning sharing and synergy creation 
+add a cross-portfolio view and related details to previous research that 
+has considered resource sharing across projects (Elonen and Artto, 2003; 
+Engwall and Jerbrant, 2003; Fricke and Shenhar, 2000) and learning 
+and synergies between portfolios (Kock and Gemünden, 2019). While 
+boundary spanning practices were not discussed much, acknowledging 
+and visualizing the multiple portfolios and creating possibilities for their 
+interface management is a novel idea to enhance cross-portfolio stra-
+tegic alignment. 
+In the cross-portfolio strategic alignment practices, we identified the 
+firms’ simultaneous pursuit of efficiency and strategic renewal. While 
+resource and information sharing and synergy with partners, technolo -
+gies, and innovation contests were used to create savings in a certain 
+portfolio, they also drove more influential innovation outcomes, 
+potentially in another portfolio and the firm more generally. This im-
+plies that the same cross-portfolio strategic alignment practices serve the 
+needs of efficiency and renewal. Where Kopmann et al. (2017) covered 
+portfolio analyses as a key mechanism for emergent strategy recogni -
+tion, our findings suggest sharing, synergy creation, and 
+boundary-spanning practices are also suited for renewal and emergent 
+strategies. 
+Some of the strategic alignment practices dealt with external stake -
+holders, including involving stakeholders (concerning portfolio strategic 
+alignment), sharing information from stakeholders, and using the same 
+external partners across portfolios (concerning cross-portfolio strategic 
+alignment). These findings offer empirical evidence on the centrality of 
+including stakeholder interests and views in innovation PPM (Martinsuo 
+and Geraldi, 2020). External stakeholders may both add and reduce 
+uncertainty in innovation project portfolios, support strategy imple -
+mentation, and drive strategic renewal. Our findings encourage further 
+investigations of stakeholders’ interests and related dynamics in stra-
+tegic alignment of innovation project portfolios. 
+6.Conclusions 
+6.1. Main contributions 
+This study offers three main contributions in the form of increased 
+knowledge on how strategic alignment happens in practice in the work 
+of personnel involved in PPM in the innovation-centric multi-portfolio 
+contexts of large firms. First, strategic alignment is the continuous ac-
+tivity of managers and personnel taking place over time during PPM. 
+Thereby, this study contributes by offering a more dynamic view of 
+strategic alignment to complement its static treatment during project 
+selection or portfolio performance evaluation. Second, the study con-
+tributes by revealing a variety of strategic alignment practices con-
+cerning both portfolios and their interplay in connection with the parent 
+organization’s strategy. The qualitative findings concerning social, 
+mechanistic, and structural practices of aligning a portfolio with the 
+strategy, sharing, synergy creation, and boundary-spanning practices of 
+cross-portfolio strategic alignment will be useful in future research and 
+can help managers strategically align project portfolios in organizations. 
+Third, the findings revealed differences between and within firms 
+regarding how the use of strategic alignment practices is experienced. 
+This contributes to the research emphasizing the contextuality of PPM 
+by connecting PPM practices with the organizational culture and its 
+subcultures. The findings indicate that strategic alignment practices 
+need to be developed to support the local organizational culture while at 
+the same time enabling innovativeness (as this is the purpose of inno-
+vation projects). Thereby, strategic alignment not only deals with 
+strategy implementation but may simultaneously drive renewal. M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+86.2. Practical and policy implications 
+A central practical implication in this study is the necessity of project 
+portfolio managers and project managers considering strategic align -
+ment in practice in their day-to-day work. In our view, strategic align -
+ment cannot be treated merely as an assessment criterion at the start of 
+the project and performance indicator after project completion. Stra-
+tegic alignment must be practiced throughout the implementation of the 
+project and the steering of the project portfolio. This study offers prac-
+tical ideas on how strategic alignment could be implemented. Another 
+practical implication deals with the strategic interplay of different 
+project portfolios within the firm. As large firms tend to have multiple 
+project portfolios, they can benefit from their interplay in strategic ways 
+through knowledge and resource sharing, purposive synergy creation, 
+and spanning of project portfolio boundaries as needed. While this study 
+offers some tentative ideas on how industrial firms use this cross- 
+portfolio interplay for strategic purposes, its broader uses and applica -
+tions require future research. 
+For PPM policies and frameworks, this study offers two main rec-
+ommendations. Firstly, PPM policies and frameworks should acknowl -
+edge strategy not just episodically during portfolio selection and success 
+assessment but as part of managers’ continuous and active process of 
+strategic alignment throughout PPM. Secondly, such policies and 
+frameworks should increasingly acknowledge the multi-portfolio cir-
+cumstances of organizations as the contextual conditions of project 
+portfolios. Strategic alignment cannot be considered merely between the 
+project portfolio and the parent organization’s strategic aspirations; it 
+must also be considered between different project portfolios. Even if the 
+different project portfolios follow different strategies in their organiza -
+tion, they may compete for and benefit from the same resources, infor-
+mation, facilities, and top managers’ attention. This study shows that 
+project portfolios can support each other in many ways, and portfolio 
+managers can collaborate to achieve cross-portfolio efficiencies through 
+strategic alignment. 
+6.3. Validity limitations 
+This qualitative multiple-case study has some validity limitations 
+that may limit the transferability of the findings. The empirical study 
+was purposely delimited to industrial firms operating in business-to- 
+business markets, and thus consumer businesses were not covered. 
+The companies were selected based on the innovation orientation in 
+their strategies, and it is likely that firms with other strategies may have 
+a different approach to the strategic alignment of innovation project 
+portfolios. 
+The use of interviews for data collection also limits the validity due 
+to the chosen cross-sectional research design. Longitudinal approaches 
+with real-time observations of ongoing strategic alignment in and be-
+tween portfolios could open up completely new possibilities in future 
+research. The interviewees were selected from key persons, i.e., man-
+agers involved in innovation PPM. The selection of a limited number of 
+interviewees with the help of a contact person may have caused sample- 
+related validity limitations. It is possible that project managers, other 
+directors involved in portfolio committees, and managers of other 
+portfolios might have different experiences and viewpoints concerning 
+strategic alignment. However, with the sampling approach and the use 
+of multiple informants from the same firm, we attempted to triangulate 
+the data and ensure sufficient diversity of responses. 
+The analytical framework was developed iteratively while analyzing 
+the data, which may limit the validity. Some sub-categories in the 
+frameworks were mentioned merely by single interviewees and thus do 
+not necessarily reflect the organization’s reality in full. Since strategic 
+alignment has been treated in the literature either as an input for or as an 
+outcome of PPM, the practice-centric analysis and further development 
+of the frameworks may require further consideration. 6.4. Ideas for future research 
+The findings create new possibilities for investigating strategic 
+alignment of and between project portfolios in the future. The catego -
+rizations developed in this study could be useful for future hypothetico- 
+deductive studies to test whether and how such factors follow from 
+selecting projects strategically or achieve the success criterion of stra-
+tegic fit in project portfolios. It is important to acknowledge the exact 
+strategy guiding innovation project portfolios and to analyze the dif-
+ferences in strategic alignment between firms with very different inno-
+vation strategies. Due to the contextuality of PPM, this study encourages 
+research on the use of different PPM practices in connection with 
+organizational culture and possible subcultures within the organization. 
+Furthermore, as the empirical context was delimited to traditional 
+manufacturing industries, it would be important to study the use of 
+strategic alignment practices in more dynamic contexts, such as infor-
+mation system portfolios and new service development portfolios. 
+The issue of boundary identification and spanning between multiple 
+project portfolios requires further attention, as it emerged only weakly 
+in this study. It is possible that the sampling or question setting did not 
+enable a sufficiently thorough coverage of the issue. It might be 
+important to carry out more in-depth case studies in organizations that 
+have several project portfolios to map their portfolio interfaces even 
+more thoroughly. Additionally, since innovation project portfolios can 
+both implement and renew strategies, we suggest further research on 
+how the practices of strategic alignment serve the purposes of reconfi -
+guration and renewal. Our findings indicate that certain strategic 
+alignment practices are particularly geared toward restructuring the 
+portfolio, but more focused empirical research is needed to understand 
+such dynamics. 
+Funding 
+This research did not receive any specific grant from funding 
+agencies in the public, commercial, or not-for-profit sectors. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+The data that has been used is confidential. 
+Acknowledgements 
+We thank the companies and interviewees for their kind cooperation 
+in this research. An earlier version of this paper was presented at 
+EURAM European Academy of Management conference, 15–17 June 
+2022, Winterthur, Switzerland. We thank the anonymous reviewers, the 
+discussant, and the conference session participants for the encouraging 
+feedback. 
+References 
+Archer, N.P., Ghasemzadeh, F., 1999. An integrated framework for project portfolio 
+selection. Int. J. Proj. Manag. 17, 207–216. 
+Artto, K.A., Dietrich, P., 2004. Strategic business management through multiple projects. 
+In: Morris, P.W.G., Pinto, J.K. (Eds.), The Wiley Guide to Managing Projects. John 
+Wiley and Sons, London, pp. 144–176. 
+Artto, K., Kujala, J., Dietrich, P., Martinsuo, M., 2008a. What is project strategy? Int. J. 
+Proj. Manag. 26 (1), 4–12. 
+Artto, K., Martinsuo, M., Dietrich, P., Kujala, J., 2008b. Project strategy – strategy types 
+and their contents in innovation projects. Int. J. Manag. Proj. Bus. 1 (1), 49–70. M. Martinsuo and R. Anttila                                                                                                                                                                                                                 Project Leadership and Society 3 (2022) 100066
+9Atkinson, R., 1999. Project management: cost, time and quality, two best guesses and a 
+phenomenon, it’s time to accept other success criteria. Int. J. Proj. Manag. 17, 
+337–342. 
+Beringer, C., Jonas, D., Kock, A., 2013. Behavior of internal stakeholders in project 
+portfolio management and its impact on success. Int. J. Proj. Manag. 31, 830–846. 
+Blichfeldt, B.S., Eskerod, P., 2008. Project portfolio management: there ’s more to it than 
+what management enacts. Int. J. Proj. Manag. 26, 357–365. 
+Christiansen, J.K., Varnes, C., 2008. From models to practice: decision making at 
+portfolio meetings. Int. J. Qual. Reliab. Manag. 25, 87–101. 
+Clegg, S., Killen, C.P., Biesenthal, C., Shankaran, S., 2018. Practices, projects and 
+portfolios: current research trends and new directions. Int. J. Proj. Manag. 36, 
+762–772. 
+Cooper, R.G., Edgett, S.J., Kleinschmidt, E.J., 1997a. Portfolio management in new 
+product development: lessons from the leaders – I. Res. Technol. Manag. 40 (5), 
+16–28. 
+Cooper, R.G., Edgett, S.J., Kleinschmidt, E.J., 1997b. Portfolio management in new 
+product development: lessons from the leaders – II. Res. Technol. Manag. 40 (6), 
+43–52. 
+Cooper, R.G., Edgett, S.J., Kleinschmidt, E.J., 1999. New product portfolio management: 
+practices and performance. J. Prod. Innovat. Manag. 16, 333–351. 
+Dvir, D., Lechler, T., 2004. Plans are nothing, changing plans is everything: the impact of 
+changes on project success. Res. Pol. 33 (1), 1–15. 
+Dye, L.D., Pennypacker, J.S., 1999. Project Portfolio Management: Selecting and 
+Prioritizing Projects for Competitive Advantage. Center for Business Practices, West 
+Chester, PA.  
+Elonen, S., Artto, K., 2003. Problems in managing internal development projects in multi- 
+project environments. Int. J. Proj. Manag. 21, 395–402. 
+Englund, R.L., Graham, R.J., 1999. From experience: linking projects to strategy. J. Prod. 
+Innovat. Manag. 16 (1), 52–64. 
+Engwall, M., 2003. No project is an island: linking projects to history and context. Res. 
+Pol. 32, 789–808. 
+Engwall, M., Jerbrant, A., 2003. The resource allocation syndrome: the prime challenge 
+of multi-project management? Int. J. Proj. Manag. 21, 403–409. 
+Fricke, S.E., Shenhar, A.J., 2000. Managing multiple engineering projects in a 
+manufacturing support environment. IEEE Trans. Eng. Manag. 47, 258–268. 
+Jerbrant, A., Karrbom Gustavsson, T., 2013. Managing project portfolios: balancing 
+flexibility and structure by improvising. Int. J. Manag. Proj. Bus. 6, 152–172. 
+Jonas, D., Kock, A., Gemünden, H.G., 2013. Predicting project portfolio success by 
+measuring management quality: a longitudinal study. IEEE Trans. Eng. Manag. 60 
+(2), 215–226. 
+Kester, L., Hultink, E.J., Griffin, A., 2014. An empirical investigation of the antecedents 
+and outcomes of NPD portfolio success. J. Prod. Innovat. Manag. 31, 1199 –1213 . 
+Kock, A., Gemünden, H.G., 2019. Project lineage management and project portfolio 
+success. Proj. Manag. J. 50, 587–601. Kock, A., Heising, W., Gemünden, H.G., 2016. A contingency approach on the impact of 
+front-end success on project portfolio success. Proj. Manag. J. 47, 115–129. 
+Kopmann, J., Kock, A., Killen, C.P., Gemünden, H.G., 2017. The role of project portfolio 
+management in fostering both deliberate and emergent strategy. Int. J. Proj. Manag. 
+35, 557–570. 
+Loch, C., 2000. Tailoring product development to strategy: case of a European 
+technology manufacturer. Eur. Manag. J. 18, 246–258. 
+Maniak, R., Midler, C., 2014. Multiproject lineage management: bridging project 
+management and design-based innovation strategy. Int. J. Proj. Manag. 32, 
+1146 –1156 . 
+Martinsuo, M., 2013. Project portfolio management in practice and in context. Int. J. 
+Proj. Manag. 31, 794–803. 
+Martinsuo, M., Geraldi, J., 2020. The management of project portfolios: relationships of 
+project portfolios with their contexts. Int. J. Proj. Manag. 38, 441–453. 
+Martinsuo, M., Korhonen, T., Laine, T., 2014. Identifying, framing and managing 
+uncertainties in project portfolios. Int. J. Proj. Manag. 32, 732–746. 
+Martinsuo, M., Lehtonen, P., 2007. Role of single-project management in achieving 
+portfolio management efficiency. Int. J. Proj. Manag. 25 (1), 56–65. 
+McNally, R.C., Durmus ¸o˚glu, S.S., Calantone, R.J., 2013. New product portfolio 
+management decisions: antecedents and consequences. J. Prod. Innovat. Manag. 30, 
+245–261. 
+Midler, C., 2013. Implementing a low-end disruption strategy through multiproject 
+lineage management: the Logan case. Proj. Manag. J. 44 (5), 24–35. 
+Patanakul, P., Shenhar, A., 2012. What project strategy really is: the fundamental 
+building block in strategic project management. Proj. Manag. J. 43 (1), 4–20. 
+Petit, Y., Hobbs, B., 2010. Project portfolios in dynamic environments: sources of 
+uncertainty and sensing mechanisms. Proj. Manag. J. 41 (4), 46–58. 
+Shenhar, A., Dvir, D., Levy, O., Maltz, A.C., 2001. Project success: a multidimensional 
+strategic concept. Long. Range Plan. 31, 699–725. 
+Shenhar, A., Levy, O., Dvir, D., 1997. Mapping the dimensions of project success. Proj. 
+Manag. J. 28 (2), 5–13. 
+Spieth, P., Lerch, M., 2014. Augmenting innovation project portfolio management 
+performance: the mediating effect of management perception and satisfaction. R&D 
+Management 44, 498–515. 
+Steffens, W., Martinsuo, M., Artto, K., 2007. Change decisions in product development 
+projects. Int. J. Proj. Manag. 25, 702–713. 
+Unger, B.N., Gemünden, H.G., Aubry, M., 2012a. The three roles of a project portfolio 
+management office: their impact on portfolio management execution and success. 
+Int. J. Proj. Manag. 30, 608–620. 
+Unger, B.N., Kock, A., Gemünden, H.G., Jonas, D., 2012b. Enforcing strategic fit of 
+project portfolios by project termination: an empirical study on senior management 
+involvement. Int. J. Proj. Manag. 30, 675–685. M. Martinsuo and R. Anttila                                                                                                                                                                                                                 

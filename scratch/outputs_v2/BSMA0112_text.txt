@@ -1,0 +1,785 @@
+Telework during the Covid-19
+pandemic and
+the work-nonwork conflict
+Erica Custodia de Oliveira
+Departamento de Administracao,
+Faculdade de Economia Administraç ~ao e Contabilidade, Universidade de S ~ao Paulo,
+Sao Paulo, Brazil
+Abstract
+Purpose –This study aims to analyze the relationship between telework and teleworkers ’characteristics and
+the work-nonwork conflict (WNWC) in the Brazilian context, investigating time spent in eight nonwork
+dimensions and the more affected dimensions.
+Design/methodology/approach –The study was quantitative and descriptive. A survey was conducted
+with 299 professionals ’teleworking in Brazil. Data analysis was conducted through descriptive statistics,
+Pearson ’s correlation and analysis of variance.
+Findings –Results show diversified interests other than work and family among teleworkers, variation within
+the affected nonwork dimensions in the WNWC, and that teleworkers ’WNWC is negatively associated with
+time flexibility and manager support and positively associated with individual preference for segmentation as
+a boundary management strategy.
+Research limitations/implications –The study highlights the need to include more nonwork aspects in
+telework studies to influence organizational practices. The main limitation is the nonprobabilistic sample.
+Practical implications –Knowing more about teleworkers ’WNWC will help organizations improve lives by
+implementing practices and building a cultural environment that preserves nonwork time.
+Social implications –The study reinforces demands from new family arrangements and an aging society:
+organizations have to prepare to have teleworkers who want or need to dedicate time to interests besides family
+or children.
+Originality/value –It progresses towards a broad understanding of nonwork besides family to understand
+teleworkers ’WNWC.
+Keywords Telework, Work-family conflict, Work-nonwork conflict, Boundary theory
+Paper type Research paper
+1. Introduction
+Although telework has been studied since the 1970s ( Allen, Golden, & Shockley, 2015 ), the
+Covid-19 pandemic brought unprecedented challenges for at least 8.6 million Brazilians
+(IBGE, 2020 ). Telework was done initially full-time, regardless of the home infrastructure or
+people ’s previous experience. Schools were closed and the recommendation was not to leave
+home or receive other people. In March 2020, several Brazilian cities decreed quarantine,
+aiming at social isolation to stop the virus ( OMS, 2020 ).
+The spatial and temporal boundaries between work and nonwork were eliminated for
+those who could telework at home. People ’s private lives were possibly invaded, and Brazilian
+laws are very ambiguous when it comes to overtime worked at home ( Pereira, Barbosa, &
+Saraiva, 2021 ).REGE
+30,3
+314
+© Erica Custodia de Oliveira. Published in Revista de Gest ~ao. Published by Emerald Publishing Limited.
+This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone mayreproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms ofthis licence may be seen at http://creativecommons.org/licences/by/4.0/legalcodeThe current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/2177-8736.htm
+Received 15 July 2021
+Revised 3 April 202210 June 2022Accepted 26 July 2022
+Revista de Gest ~ao
+Vol. 30 No. 3, 2023
+pp. 314-329Emerald Publishing Limited
+e-ISSN: 2177-8736
+p-ISSN: 1809-2276
+DOI10.1108/REGE-07-2021-0116
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026With economic uncertainty enhanced by the pandemic (unemployment rose to 14.4% in
+2020 ( IBGE, 2020 )), many people tried to be the ideal worker, who prioritizes professional life
+(Bailyn, 2006 ). But at which personal cost, not dedicating themselves as much as they would
+like to which nonwork dimensions? It is necessary to deepen the academic understanding of
+the work-nonwork conflict (WNWC) for teleworkers, recognizing it as a dilemma that affects
+people, organizations and society systemically ( Bailyn, 2006 ).
+Although nonwork has been treated as a synonym for family in studies about work and
+nonwork since the 1980s ( Greenhaus & Beutell, 1985 ), it is necessary to expand nonwork
+besides family because people dedicate themselves to other dimensions too, such ( Keeney,
+Boyd, Sinha, Westring, & Ryan, 2013 ;Oliveira, 2017 ). Only two studies were found about
+WNWC ( Keeney et al., 2013 ;Oliveira, 2017 ), not focused on teleworkers. It enhances the need
+to analyze whether the time spent teleworking at home interferes with the desired dedication
+to different nonwork dimensions, as well as whether there are telework or teleworkers ’
+characteristics that contribute to this interference.
+Brazilian teleworkers increased to 8.6 m people in May 2020 due to the pandemic ( IBGE, 2020 ),
+and should keep growing due to organizations ’financial advantages, mainly by reducing
+accommodation costs ( Daniels, Lamond, & Standen, 2001 ). This context emphasizes the need to
+contribute academically, expanding the investigation from work-family conflict (WFC)
+(Greenhaus & Beutell, 1985 )t oW N W C( Keeney et al., 2013 ;Oliveira, 2017 )f o rt e l e w o r k e r s .T h i s
+step is essential to support managers in improving teleworkers ’well-being and, consequently,
+society ’s well-being. People are more productive and s atisfied when they can dedicate themselves
+to different nonwork dimensions ( Bailyn, 2006 ;Hirschi, Herrmann, Nagy, & Spurk, 2016 )–and
+telework at home can make this dedication difficult. Concerning the Covid-19 pandemic, three
+studies explored only WFC and indicated difficulties to reconcile different roles at home ( Lemos,
+Barbosa, & Monzato, 2021 ;Pandini and dos Santos Pereira, 2020 ;Leite & Lemos, 2020 ).
+Due to the lack of WNWC studies for teleworkers ( Oliveira & Pantoja, 2020 ), to fill the gap
+described, the problem presented is: “Which characteristics of telework and teleworkers are
+associated with the work-nonwork conflict (WNWC)? ”.To answer this question, the article ’s
+objective is to analyze the relationship between telework and teleworkers ’characteristics and
+the WNWC, investigating time spent in the nonwork dimensions and the dimensions more
+affected in the WNWC.
+2. Theoretical background
+2.1 Telework
+Allen et al. (2015) attest that different definitions of telework exist because it is of interest to
+different areas, such as transport, information systems and management. They rest on
+conceptualizations widely adopted to define telework as:
+a work practice that involves members of an organization substituting a portion of their typical work
+hours [ ...] to work away from a central workplace —typically principally from home —using
+technology to interact with others as needed to conduct work tasks ( Allen et al., 2015, p. 44 ).
+In this definition, four characteristics stand out and will be considered in the theoretical model
+supporting this article:
+(1) space flexibility: part of the hours that would be worked at the main office is worked
+outside the office (it is not overtime);
+(2) telework intensity: portion of hours worked in telework;
+(3) telework takes place mainly in the worker ’s home;
+(4) use of technologies for interaction among teleworkers.Telework and
+the work-
+nonwork
+conflict
+315
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026Messenger and Gschwind (2016) consider the use of these technologies as a milestone for 21st-
+century telework, increasing time and space flexibilities. These flexibilities, in turn, can
+confound the work-nonwork boundaries ( Raghuram & Wiesenfeld, 2004 ) and increase
+WNWC ( Keeney et al., 2013 ), as will be explored later (subchapter 2.3).
+Afifth characteristic is time flexibility , as telework can be done beyond the hours typically
+allocated to work. It is beneficial to teleworkers when it means autonomy to fulfill their tasks
+(Nakro /C20sien _e, Bu /C20ci/C22unien _e, & Go /C20stautait _e, 2019 ), but harmful if it means overtime or invades
+nonwork moments ( Kossek, Lautsch, & Eaton, 2006 ).
+2.2 Work-nonwork conflict
+WNWC is defined as “[...] difficulty participating in nonwork domains due to participation in
+the work domain ”(Keeney et al., 2013, p. 221 ). It is an expansion from WFC ( Greenhaus &
+Beutell, 1985 ), as they have the same conceptual basis of role conflict ( Kahn, Wolfe, Quinn,
+Snoek, & Rosenthal, 1964 ), but WNWC includes other nonwork roles. The eight resulting
+nonwork dimensions are health, family, household management, friendships, education,
+romantic relationships, community involvement and leisure.
+Validating the WNWC scale, Keeney et al. (2013) replicated the WFC dominant
+framework, whose main sources are time (worked hours) and stress ( Greenhaus & Beutell,
+1985), and proposed a multidimensional construct with 16 factors –8 nonwork dimensions
+and 2 sources. This model was also validated for a Brazilian sample ( Oliveira, 2017 ) and it is
+partially illustrated in Figure 1 .
+Identifying which other nonwork dimensions besides family the time spent teleworking
+influences is essential to develop more policies and practices for preventing and combating
+WNWC among teleworkers. Interests change from person to person ( Bailyn, 2006 ) as shown
+by studies about workers (not teleworkers yet): the North Americans allocated more time to
+household management, leisure and health ( Keeney et al., 2013 ); the Brazilians, to education,
+family and romantic relationship ( Oliveira, 2017 ).
+Telework has been positively associated with the hours worked ( Hill, Ferris, & M €artinson,
+2003) and WFC ( Russell, O ’Connell, & McGinnity, 2009 ). So, it can also consume time desired
+for other nonwork dimensions, originating the first hypothesis:
+H1. For teleworkers, there are other nonwork dimensions in the WNWC which are
+affected as much as family.
+2.3 Telework and WNWC
+Telework is theorized to implement time and space flexibility policies to help workers manage
+work and nonwork responsibilities. Empirical evidence, however, shows a weak association
+Telework characteristics:
+●Intensity (H2 (–)) ( H1 (+))
+●Previous experience
+●
+●●Time flexibility
+Manager supportHappens in a specific place at home(H3 (–))
+(H5 (–))
+(H6 (–))
+(H7 (–))
+Telework characteristics:
+●Preference for segmentation (H4 (+))
+●Being woman
+●
+●Being mother of up to 14 years old
+Having elderly under your care(H8 (+))
+(H9 (+))
+(H10 (+))Work-nonwork conflict (WNWC)
+(time-originated) 
+Work-health conflict
+Work-family conflict
+Work-household management conflict
+Work-friendships conflict
+Work-education conflict
+Work-romantic relationship conflict
+Work-community involvement conflict
+Work-leisure conflict
+Source(s):  Elaborated by authorFigure 1.
+Theoretical
+research modelREGE
+30,3
+316
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026specifically between telework and lower WFC ( Allen et al., 2015 ). The WFC is just one of the
+WNWC factors, but the only one found in quantitative telework studies, the reason why WFC
+predominates in this theoretical subchapter.
+As the objective of this article is to expand the investigation from the WFC to the WNWC
+for teleworkers, the hypotheses presented below consider time-originated WNWC and its
+eight factors ( Figure 1 ). Therefore, for hypotheses 2 –10, the investigation considered 8
+derived hypotheses. For example, for hypothesis 2 , we investigated from “H2a: Telework
+intensity is negatively associated with the work-health conflict ”to“H2h: Telework intensity
+is negatively associated with the work-leisure conflict ”.
+The weak association between telework and lower WFC was found in two meta-analyses
+of 46 and 58 studies. In the first meta-analysis, Gajendran and Harrison (2007) investigated
+possible moderating variables and found that, when the intensity was high or there was more
+experience in this format, the WFC was lower. These results ground hypotheses 2 and3:
+H2a –h.Telework intensity is negatively associated with WNWC.
+H3a –h.Previous telework experience is negatively associated with WNWC.
+In the second meta-analysis, Allen, Johnson, Kiburz, and Shockley (2013) focused on the
+effects of time and space flexibilities on the WFC, discerning whether they were available or
+effectively used. The negative association was low and only between: (a) availability of time
+flexibility and WFC, and (b) use of space flexibility and WFC. Due to the low effects, the
+authors hypothesized that telework would increase the risk of confounding boundaries
+between work and family, a perception already verified in Hill, Miller, Weiner, and Colihan
+(1998) andHillet al. (2003) .
+This confusion between boundaries may be unwanted, as these boundaries are the main
+factors workers can manage to reduce the WFC ( Ashforth, Kreiner, & Fugate, 2000 ).
+According to the boundary theory, people prefer to exercise their roles considering some
+point between total integration (no distinction between what belongs to work or family or
+when or where each role manifests itself) and total segmentation (the two dimensions as
+separate worlds, that occur in distinct time and space) ( Nippert-Eng, 1996 ). Furthermore, if
+the work environment demands the opposite of what the worker prefers, there is a greater
+chance of conflict.
+Convergence between worker preference and environment demands is decisive, as more
+integration between roles can both reduce the conflict, by allowing an easier transition
+between dimensions, or increase it, by confounding the most salient role for the individual at
+any given time. The opposite occurs when there is more segmentation ( Ashforth et al., 2000 ): it
+increases the conflict by making the transition difficult or decreases it by explicitly
+expressing the priority at each moment.
+Thus, as telework tends to enhance the integration between roles, teleworkers who prefer
+more segmentation may have a higher perception of WNWC, which generates the fourth
+hypothesis:
+H4a –h.Preference for more segmentation between work and nonwork is positively
+associated with WNWC.
+Time and space flexibilities, telework characteristics, can affect teleworkers ’mental health
+positively, by allowing them to balance working hours with family demands, or negatively,
+by causing conflicts between work and family demands ( Kattenbach, Demerouti, &
+Nachreiner, 2010 ;Johnson et al., 2020 ), So, it is important to investigate whether these and
+other telework-related characteristics are associated with WNWC. Hornung, Rousseau, and
+Glaser (2008) found that time flexibility was negatively related to WFC. Regarding space
+flexibility, while Hillet al. (1998) found specific places associated with more hours worked,Telework and
+the work-
+nonwork
+conflict
+317
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026which could result in higher WFC, Sol/C19ıs (2016) found that such places were related to lower
+WFC. Thus, two other hypotheses will be investigated:
+H5a –h.Time flexibility in telework is negatively associated with WNWC.
+H6a –h.Having a specific place at home to te lework is negatively associated
+with WNWC.
+Several studies indicate that social support works better at combating WFC than formal
+organizational practices ( Anderson, Coffey, & Byerly, 2002 ;Oliveira, Cavazotte, & Paciello,
+2013), even for teleworkers. Bentley et al. (2016) found an association between manager
+support and lower psychological stress. These studies support the following hypotheses:
+H7a –h.Manager support for telework is negatively associated with WNWC.
+It is also important to examine teleworkers ’characteristics, starting with sex. Telework can
+impact household and people care, especially for women, as they usually spend more hours
+per week on household tasks than men. In Brazil, before the Covid-19 pandemic, women spent21.4 hours on these tasks, while men spent 11.0 hours ( IBGE, 2019 ), even though they (women)
+have participated increasingly in the labor market for a long time. Only from 2012 to 2019,
+there was a 2.9 pp increase, from 51.6% to 54.5% ( IBGE, 2019 ).
+The sexual division of labor stems from men being responsible for working outside the
+home and ensuring financial support for the family, while women work at home, taking care
+of people and domestic chores ( Hirata & Kergoat, 2003 ). Even when the assumptions for such
+a division no longer exist, with both sexes working outside the home, women still seem to be
+considered the main responsible for domestic tasks. A study by Oliveira and Casado (2021)
+found women with more WNWC than men for all eight nonwork dimensions, especially if
+they were married or had no children. This sexual division of labor can increase in telework
+(Ellison, 1999 ), which motivates the following hypotheses:
+H8a –h.Women in telework perceive more WNWC than men in telework.
+Investigation concerning telework and life stages suggested that children were a key
+component, increasing WFC ( Zhang, Moeckel, Moreno, Shuai, & Gao, 2020 ).Hilbrecht, Shaw,
+Johnson, and Andrey (2008) explored the experience of school-age children ’s mothers and
+found tensions as working hours followed children ’s school rhythm, with no time for leisure
+or personal care. They also expressed living the sexual division of labor and being
+responsible for household and child care. Russell et al. (2009) found similar results: a positive
+relationship between telework at home and WFC, especially for mothers of under 5-year-olds.
+These results generate the following hypotheses:
+H9a –h.Mothers of school-age children (up to 14 years old) perceive more WNWC than
+women who do not have children of that age.
+Sol/C19ıs (2016) discovered that having more personal responsibilities, such as taking care of an
+elderly person, was associated with higher WFC. One last group of hypotheses, then, should
+be investigated:
+H10a –h.Teleworkers who have elderly people under their care perceive more WNWC
+than teleworkers who do not have this responsibility.
+Investigating telework during the Covid-19 pandemic, Nguyen and Armoogum (2021) found
+middle-aged women less likely to prefer home-based telework than younger women. Having
+more household and children responsibilities was the most probable reason. Çoban (2022)
+encountered women expressing a greater risk of being detached from professional work and
+of consolidating their role as housewives.REGE
+30,3
+318
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026Shirmohammadi, Au, and Beigi (2022, p. 1) analyzed 40 studies concerning work-life
+balance for teleworkers during the pandemic. They found four misfits between desirable
+expectations and undesirable realities: “(1) flextime versus work intensity, (2) flexplace versus
+space limitation, (3) technologically-feasible work arrangements versus technostress and
+isolation, and (4) family-friendly work arrangement versus housework and care intensity ”.
+There are recent Brazilian studies with teleworkers whose results brought WFC up.
+Filardi, Castro, and Zanini (2020) discovered perceptions of low WFC and higher interaction
+with the family, although domestic chores interfered with telework. During the pandemic, the
+studies reported: (1) women with varied perceptions about WFC, some mentioning work
+overload, some highlighting time gained for other activities ( Lemos et al., 2021 ); (2) difficulties
+to reconcile different roles at home and how positive time flexibility was ( Pandini and dos
+Santos Pereira, 2020 ); (3) WFC as one of the disadvantages, in addition to the distraction
+caused by household chores ( Leite & Lemos, 2020 ).
+At Latin America ’s biggest university, S ~ao Paulo University, professors conducted two
+studies, whose results are comparable due to the similar samples: balance between men and
+women, most respondents married and with a postgraduate degree, an average income of
+United States (US)$ 1,700.0 [1]. From the first to the second survey, people ’s desire to keep
+teleworking increased from 70% to 78%, as well as their perception about sharing tasks to
+take care of the family while teleworking or telework being compatible with their physical
+health care, as shown in Table 1 (PROGEP, 2020 ,2021).
+Figure 1 shows the theoretical model that supports the hypotheses investigated.
+3. Methods
+This quantitative and descriptive research is based on Allen et al.’s telework model ( 2015) and
+Keeney et al.’s WNWC model ( 2013), as shown in Figure 1 . These two variables –telework and
+WNWC –were conceptually defined in subchapters 2.1 and 2.2, and operationally defined
+using the scales mentioned in Table 2 . A specialized professional translated the scales into
+Portuguese, followed by a back-translation into English. A pretest before the data collection
+showed that no extra adjustments were needed.
+Theuniverse consisted of people who telework in Brazil, estimated at 7.90m individuals in
+September 2020 ( IBGE, 2020 ). The invitation to participate in this research was sent through
+the researcher ’s social media to about 1,000 people. They were also asked to spread the
+research among their contacts. 395 people started answering the questionnaire and 299
+completed it. Thus, the sample of 299 respondents was nonprobabilistic, intentional and
+convenience-based.
+Data were collected from 11/09/2020 to 12/21/2020, using an electronic self-reporting
+questionnaire, detailed in Table 2 . The questionnaire was elaborated to make self-reporting
+easier, aiming for adaptation to the context, ability to capture the variables of interest,
+reliability and validity ( Sampieri, Collado, & Lucio, 2006 ). The questions were programmed to
+have a mandatory response on the data collection platform to avoid missing values. It was
+also possible to randomize items referring to nonwork dimensions, WNWC, preferred
+Assertive 2020 2021
+I share tasks to take care of the family while teleworking 67% 71%
+I feel that telework is compatible with my physical health care 63% 70%While teleworking, I have time flexibility 62% 59%
+Source(s): PROGEP (2020 ,2021)Table 1.
+Percentage of people
+who agreed –
+202132020Telework and
+the work-
+nonwork
+conflict
+319
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026work-nonwork boundary management strategy, time flexibility and management support, so
+the order in which they appeared inside each block varied among the respondents.
+For the variables in blocks 3 to 6, Cronbach ’s alpha ranged between 0.75 and 0.91,
+exceeding 0.70. The analysis of outliers pointed to 2 cases in the intensity telework variable,
+calculated based on the hours worked in telework and total hours worked per week.
+Therefore, when these variables were analyzed, respondents were reduced to 297.
+Data were analyzed using Statistical Package for the Social Sciences (SPSS) 20,
+considering the following techniques: descriptive analysis, Pearson ’s correlation (values below
+j0.300 jare low; above j0.700 j, high; and between j0.300 jandj0.700 j, moderate), and analysis of
+variance (t-test; the next section highlights the statistically significant results –p< 0.05 or
+p< 0.01). The assumptions of analysis of variance were checked –independence of
+observations, a minimal sample of 20 elements for each group, absence of outliers,
+homoscedasticity and normality of variables ( Hair, Black, Babin, Anderson, & Tathan, 2009 ).
+All assumptions were fulfilled except the normality of variables (and the outliers in telework
+intensity); nevertheless, this causes a low impact on the results, as the sample in this study
+was big ( Hair et al., 2009 ).
+4. Results and discussion
+4.1 Characteristics of the sample
+The sample includes 56.9% women and 43.1% men, with an average age of 42 years
+(standard deviation (SD) 510), concentrated in the Brazilian Southeast (97.9%), and mostly
+married (68.6%). There is a similar number of respondents with and without children
+(respectively, 52.5% and 47.5%) and 33.8% (of all respondents) have children until 14 years
+old. As the focus is on investigating the whole WNWC (its 8 factors), and not just the WFC, it
+is interesting to have diverse family configurations in the sample.
+Concerning the respondents ’professional occupations, they are mostly specialists,
+analysts, assistants (26.1%), managers (18.4%) or autonomous (15.4%). They work 46.1Block Research variable Operational definitionNumber of
+items
+1 2 variables to filter If the respondent teleworked at home in Brazil 2
+2 8 variables about time
+allocation to nonwork
+dimensionsLikert scale from 1 5no time to 7 5a lot of time 8 (1 per
+variable)
+3 8 variables referring to time-
+originated WNWCScale from Keeney et al. (2013) , Likert from
+15totally disagree to 7 5totally agreea24 (3 per
+variable)
+4 Preferred work-nonwork
+boundary management
+strategyScale from Kossek et al. (2006) , Likert from
+15totally disagree to 7 5totally agree9
+5 Working time flexibility Scale from Pierce and Newstrom (1983) apud
+Golden, Veiga, and Simsek (2006) , Likert from
+15too little to 7 5totally2
+6 Manager support Scale from Aboelmaged and Subbaugh (2012) ,
+Likert from 1 5totally disagree to 7 5totally
+agree3
+7 Other telework characteristics Examples: previous experience with telework,
+having a specific place at home to telework6
+8 Other characteristics of
+teleworkersExamples: sex and marital status 17
+Note(s):aLikert scale could be considered an interval scale as in Hair et al. (2009)
+Source(s): Elaborated by authorTable 2.
+Research variables,operational definitions
+and number of items in
+the questionnaireREGE
+30,3
+320
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026hours per week on average (SD 512.5) and 40.2 hours (SD 515.4) in telework, with no
+statistical difference between men and women. Almost a third of the respondents (31.8%)
+were studying at the time of the survey.
+On telework, the average intensity is 87.2%; 47.2% of respondents had previous
+experience with this format before 2020, 53.5% have a specific place at home to telework, and
+63.2% work for companies with telework policies. Everyone uses a computer for telework .
+During telework, 15.1% are alone at home, 56.9% have the company of their spouses, 43.1%
+of their children, 8.4% of elderly people under their care and 22.7% of someone who does the
+household tasks.
+Regarding their income, the average is US$ 2,139.0 [2], with greater concentration in the
+ranges between US$ 813.1 and US$ 1,219.4 (13.7%), US$ 1,219.6 and US$ 1,625.8 (13.4%), and
+above US$ 3,658.1 (21.7%), which makes the sample a very specific portion of Brazilian
+population, whose average income in 2019 was US$ 448.9 (in the Southeast, US$ 515.4)
+(IBGE, 2019 ).
+4.2 Time allocation to nonwork dimensions and the more affected ones in WNWC
+Family, household management, and education are the three nonwork dimensions to which
+teleworkers allocate more time (4.96, 4.53, and 4.52, respectively –Table 3 ), while leisure (3.71)
+and community involvement (2.38) have less time spent. It is important to point out that
+previous experience did not generate statistical differences in the time allocated to family and
+household management. Only having children up to 14 years old or at home or being
+married did.
+Compared to what North American and Brazilian workers declared ( Keeney et al., 2013 ;
+Oliveira, 2017 ), in this study, the two dimensions related to the home environment stand out
+by figuring, together, among the three to which teleworkers dedicate more time ( Table 3 ).
+This could come from the Covid-19 scenario, as people had to adapt abruptly to telework at
+home and take care of the family and the house at the same time. Brazilian teleworkers had
+highlighted performing domestic chores even before the pandemic ( Filardi et al., 2020 )–and
+just continued in the Covid-19 scenario ( Leite & Lemos, 2020 ;Pandini and dos Santos Pereira,
+2020;PROGEP, 2020 ,2021).
+Another highlight: all dimensions have time allocation varying among respondents
+(coefficient of variation (CV) from 28% to 56%). It reinforces the multiplicity of interests to
+which teleworkers dedicate themselves in addition to their jobs and families and,
+consequently, the need to study nonwork besides the family dimension.
+As for the nonwork dimensions more affected in the WNWC , leisure, family and education
+stand out (4.63, 4.34 and 4.32, respectively –Table 4 ), which led to the acceptance of
+hypothesis 1 . This result strengthens the possibility that telework invades leisure time
+(Kossek et al., 2006 ) and does not help to manage work and family demands ( Allen et al., 2015 ),
+at least not as intensely as desired (WFC is the second most intense factor). Similar
+perceptions appeared in Pandini and dos Santos Pereira (2020) , since people declared
+Nonwork dimensions Mean SD* CV** Nonwork dimensions Mean SD* CV**
+Health 3.95 1.47 37% Education 4.52 1.51 33%
+Family 4.96 1.37 28% Romantic relationship 4.01 1.68 42%Household management 4.53 1.43 32% Community involvement 2.38 1.33 56%Friendships 3.81 1.36 36% Leisure 3.71 1.35 36%
+Note(s): *SD5Standard deviation. **CV 5Coefficient of variation
+Source(s): Elaborated by the author, based on the research dataTable 3.
+Time allocation to
+different nonwork
+dimensionsTelework and
+the work-
+nonwork
+conflict
+321
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026difficulties to reconcile different roles at home, and in one of the misfits found by
+Shirmohammadi et al. (2022) : family-friendly work arrangements versus care intensity.
+As happened with North American and Brazilian workers ( Keeney et al., 2013 ;Oliveira,
+2017), the nonwork dimensions affected vary among respondents, as well as within each
+dimension (CV from 32% to 42%; Table 4 ). This result yet again emphasizes the need to study
+nonwork besides the family dimension.
+Just like in Oliveira (2017) , leisure figures as a key dimension because it is the second with
+less time allocated, the most affected in WNWC, with correlations between allocated time (low
+correlations) and all eight WNWC factors ( Table 5 ). In other words, allocating less time to
+leisure is associated with a more intense general WNWC perception for teleworkers. It seems
+that when teleworkers spend less time at leisure, they feel like not being able to dedicate
+themselves as much as they want to the other seven nonwork dimensions too. That might
+happen because leisure is the freest of the nonwork dimensions, the one that can be
+customized to what each person wants to do.
+Friendships and health are the other dimensions whose allocated times are correlated with
+more WNWC factors: seven and six, respectively ( Table 5 ).
+4.3 Telework characteristics and WNWC
+Concerning telework characteristics, the average intensity in the sample is 87.2% and
+teleworkers report a slightly higher perception of manager support (average 54.99 and
+SD51.57) than of time flexibility (mean54.57 and SD 51.81). This last characteristic was
+also slightly less mentioned by PROGEP (2020 ,2021) respondents from 2020 to 2021 (62%
+versus 59%).
+Investigating the association between these three telework characteristics and WNWC
+(Table 6 ), time flexibility stands out due to a negative (low) correlation with all eight WNWC
+factors. There is lower WNWC among teleworkers who declare higher time flexibility
+(Table 6 ), which leads to the acceptance of hypotheses 5a –h. These results converge with
+Pandini and dos Santos Pereira (2020) , whose respondents pointed out time flexibility as an
+advantage, overcoming the misfit “flextime versus work intensity ”(Shirmohammadi et al.,
+2022). It indicates that when people work in their own homes, having some autonomy to
+decide on their time becomes especially important.
+As manager support is negatively associated (low correlation) with six WNWC factors
+(Table 6 ),hypotheses 7a, c, d, e, g, and h are also accepted. It reinforces the importance of social
+support to prevent WNWC ( Anderson et al., 2002 ;Oliveira et al., 2013 ). Finally, hypotheses 2a –
+hwere rejected, as there is no association between telework intensity and WNWC ( Table 6 ).
+In other words, the percentage of hours spent teleworking does not affect the surveyed
+teleworkers ’WNWC, but the perception of manager support and time flexibility does so.
+Regarding only time flexibility, it does not seem to confound boundaries, differently from
+what was found in Hillet al. (1998 ,2003) .
+Having a specific place in the house to telework is not related to WNWC intensity. Thus,
+hypothesis 6 is refuted. A similar thing happens to having previous experience with telework,
+Nonwork dimensions
+affected Mean SD CVNonwork dimensions
+affected Mean SD CV
+Health 4.29 1.57 37% Education 4.32 1.57 36%
+Family 4.34 1.63 38% Romantic relationship 3.95 1.62 41%Household management 3.88 1.55 40% Community involvement 3.61 1.53 42%Friendships 4.19 1.51 36% Leisure 4.63 1.47 32%
+Source(s): Elaborated by the author, based on the research dataTable 4.
+Nonwork dimensions
+more and less
+affected in WNWCREGE
+30,3
+322
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026Factor Health FamilyHousehold
+manage Friendships Education Romantic relatCommunity
+involve Leisure
+Work-health conflict /C00.259** /C00.156** /C00.048 /C00.235** /C00.063 /C00.142* /C00.105 /C00.228**
+Work-family conflict /C00.203** /C00.029 /C00.056 /C00.202** /C00.072 /C00.172** /C00.105 /C00.249**
+Work-household management conflict /C00.153** /C00.036 0.023 /C00.226** /C00.113 /C00.122* /C00.040 /C00.198**
+Work-friendships conflict /C00.151** /C00.081 /C00.027 /C00.135* /C00.039 /C00.138* /C00.003 /C00.198**
+Work-education conflict /C00.189** /C00.139* /C00.074 /C00.126* /C00.129* /C00.099 /C00.071 /C00.208**
+Work-romantic relationship conflict /C00.101 /C00.088 0.013 /C00.194** /C00.061 /C00.082 /C00.077 /C00.193**
+Work-community involvement
+conflict/C00.021 /C00.081 0.030 /C00.102 /C00.037 /C00.054 0.148* /C00.159**
+Work-leisure conflict /C00.244** /C00.124* /C00.056 /C00.175** /C00.109 /C00.142* /C00.065 /C00.202**
+Note(s): *Significant correlation at p< 0.05 (bicaudal). **Significant correlation at p< 0.01 (bicaudal)
+Source(s): Elaborated by the author, based on the research dataTable 5.
+Correlation between
+time allocation to
+nonwork dimensions
+and WNWCTelework and
+the work-
+nonwork
+conflict
+323
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026which is associated with only two factors, household management and community
+involvement. So, only hypotheses 3c and g are accepted.
+4.4 Teleworkers ’characteristics and WNWC
+Regarding the preferred boundary management strategy , the mean indicates a balance
+between integration and segmentation (mean 54.02 and SD 51.05). This characteristic
+stands out for presenting a positive (low) correlation with all eight WNWC factors ( Table 7 ). It
+indicates a higher perception of this conflict for teleworkers who prefer segmentation, leading
+to the acceptance of hypotheses 4a –h. This result strengthens the role of individual
+preference for a specific boundary management strategy. Such preference is fundamental for
+the positive or negative meaning attributed to greater permeability between work and
+nonwork, an intrinsic characteristic of telework at home. So, people who prefer to separate
+work from nonwork tend to find it harder to telework at home.
+Characteristics such as teleworkers ’sex, having elderly people under their care, and,
+specifically for women, having children up to 14 years old, are not associated with different
+levels of WNWC. These results lead to refuting hypotheses 8a –h,9a–h, and 10a–h.
+Complementing these final analyses, there is no difference in the WNWC factors either
+between mothers and fathers of children up to 14 years old. Focusing specifically on the WFC
+and comparing people with and without children up to 14 years old, there is a difference for
+men. The fathers declare higher WFC when compared to the other men (4.90 versus 3.98).
+These results differ from Nguyen and Armoogum (2021) andÇoban (2022) , as their female
+respondents were less likely to telework or feared consolidating their role as housewives,
+probably because of children and household responsibilities. This difference may be a
+consequence of the sexual division of labor, when women are held responsible for domestictasks and incorporate this role, finding it difficult to admit that work can interfere negatively.
+Table 8 summarizes the results found.
+Factor Telework intensity Manager support Time flexibility
+Work-health conflict /C00.023 /C00.127* /C00.174**
+Work-family conflict /C00.052 /C00.090 /C00.147*
+Work-household management conflict 0.014 /C00.128* /C00.213**
+Work-friendships conflict /C00.011 /C00.122* /C00.162**
+Work-education conflict /C00.052 /C00.201** /C00.146*
+Work-romantic relationship conflict 0.002 /C00.065 /C00.119*
+Work-community involvement conflict /C00.024 /C00.189** /C00.138*
+Work-leisure conflict /C00.012 /C00.127* /C00.142*
+Note(s): *Significant correlation at p< 0.05 (two-tailed). **Significant correlation at p< 0.01 (two-tailed)
+Source(s): Elaborated by the author, based on the research data
+DimensionsWork-<dimension> conflict
+Health FamilyHousehold
+manage Friendships EducationRomantic
+relatCommunity
+involve Leisure
+Preferred
+strategy:integration Xsegmentation0.304** 0.210** 0.239** 0.231** 0.240** 0.224** 0.310** 0.277**
+Note(s): **Significant correlation at p< 0.01 (two-tailed)
+Source(s): Elaborated by the author, based on the research dataTable 6.
+Correlation between
+telework
+characteristicsand WNWC
+Table 7.
+Correlation between
+preferred boundary
+management strategy
+and WNWCREGE
+30,3
+324
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 20265. Conclusions
+Usually, academic research on WNWC considers only the family dimension as nonwork. And
+when it comes to telework, there were no studies concerning different nonwork dimensions in
+the WNWC. More recent studies have begun to emphasize that focusing on the work-family
+relationship can hide the difficulties of those who want to dedicate themselves to othernonwork dimensions. If not even studies allow people to declare this desire, there will be no
+scientific basis for proposing organizational practices to prevent WNWC, nor for questioning
+the system that values the (tele)worker who can prioritize professional life at any cost. These
+are important reasons to identify the nonwork dimensions that telework can invade, a
+practice intensified due to the Covid-19 pandemic.
+As academic implications, the study highlights the need to include more nonwork
+dimensions in research on telework to influence organizational practices, presenting data that
+reflect diverse interests besides work and family. In this study, teleworkers spent time mainly
+on family, household management and education, with individual differences, representing
+different priorities. So, theoretical models about work and nonwork for teleworkers should
+expand nonwork besides family. Something similar occurs when the focus is on WNWC: the
+time spent on telework influences other nonwork dimensions besides family, with variation
+among teleworkers.
+In summary, the first accepted hypothesis indicates that telework has invaded leisure and
+education as much as family. Telework, therefore, does not always fulfill the premise of
+helping to manage family demands, at least not in the desired intensity. Leisure continues as a
+key dimension in WNWC studies, as teleworkers allocate the second smallest amount of time
+to it and less time than they want (the work-leisure conflict is the highest). Besides, people
+who manage to allocate more time to leisure feel that work interferes less with the desired
+dedication to all investigated nonwork dimensions, reporting lower WNWC.
+In the other accepted hypotheses, WNWC is: (a) negatively associated with time
+flexibility and manager support; (b) positively associated with individual preference for the
+segmentation strategy in boundary manageme nt. In other words, when people telework at
+home, an environment culturally associated with rest and care, it makes a difference to
+have the autonomy to stop and restart working whenever necessary, relying on theHypotheses Decision
+H1: For teleworkers, there are other nonwork dimensions in the WNWC which are
+affected as much as familyAccept
+H4a–h: Preference for more segmentation between work and nonwork is positively
+associated with WNWC
+H5a–h: Time flexibility in telework is negatively associated with WNWC
+H3a–h: Previous telework experience is negatively associated with WNWC
+Accept: Hypotheses concerning the dimensions of household management andcommunity involvementAccept: c, g
+H7a–h: Manager support for telework is negatively associated with WNWC
+Accept: Hypotheses concerning the dimensions of health, household management,
+friendships, education, community involvement and leisureAccept: a, c, d, e,
+g, h
+H2a–h: Telework intensity is negatively associated with WNWC Refute
+H6a–h: Having a specific place at home to telework is negatively associated with WNWC
+H8a–h: Women in telework perceive more WNWC than men in telework
+H9a–h: Mothers of school-age children (up to 14 years old) perceive more WNWC than
+women who do not have children of that age
+H10a –h: Teleworkers who have elderly people under their care perceive more WNWC
+than teleworkers who do not have this responsibility
+Source(s): Elaborated by the authorTable 8.
+Summarized resultsTelework and
+the work-
+nonwork
+conflict
+325
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026manager ’s understanding. And the higher the preference for segmenting work and
+nonwork, the higher the WNWC, as teleworking forces some level of integration. This
+result strengthens the role of individual pre ferred boundary management strategy as the
+factor that attributes a positive or negative meaning to the higher permeability between
+work and nonwork. So, this preferred bo undary management strategy should also
+compose the theoretical models about work and nonwork for teleworkers, which is another
+academic implication of this study.
+Rejecting the other hypotheses, no association was found between WNWC and telework
+intensity, nor previous experience with this format (except for the dimensions of household
+management and community involvement) or having a specific place to telework at home, nor
+between WNWC and the teleworker ’s sex, having children up to 14 years old for women or
+having elderly people at home during telework. One finding specifically about WFC is that it
+is higher only for fathers (not mothers) with children up to 14 years old, compared to people
+without children of this age. It indicates that when fathers and mothers telework, the sexual
+division of labor may occur. Perhaps mothers charge themselves more to exercise the
+caregiver role expected by society and play this role, as women spend much more hours per
+week on household tasks than men. They (women) don ’t let themselves express how much
+telework interferes, while fathers expose this unwanted interference.
+As practical implications, knowing more about teleworkers ’WNWC will help organizations
+to improve lives if they implement practices and build a cultural environment to preserve
+nonwork time. It is also possible to help people choose the organizations they want to (tele)work
+for, with a sociocultural environment that matches their nonwork needs.
+As social implications, the study reinforces that there are varied and growing individual
+demands in a society with diverse family arrangements and higher longevity. Organizations
+need to prepare to have (tele)workers who want or need to dedicate themselves to individual
+and collective interests other than children.
+Methodological limitations include the nonprobabilistic and convenience sample, which
+makes the results not generalizable and the self-reported data collection. Self-reporting was
+chosen to capture individual perceptions of the research phenomenon (WNWC) and evoked
+proactive measures to reduce method bias: the survey was anonymous, with communication
+on no wrong or right answers, randomization of questionnaire alternatives and questions
+appropriate to the target sample. Two other limitations result from the theoretical model of
+WNWC: there may be further nonwork dimensions, such as spirituality, besides intersectionsamong the eight studied dimensions.
+This study was the first one to investigate WNWC for teleworkers. The results demand
+new studies, such as: 1) qualitative investigation to deepen knowledge on how telework
+invades nonwork; 2) research about the relation between WNWC and teleworkers ’well-being,
+especially in a society that will deal with more diverse responsibilities; 3) study on how
+organizations can encourage nonwork as a way to positively influence individual health and
+work satisfaction; 4) study focused on ge nder discussions, d eepening them while
+investigating WNWC for teleworkers.
+Notes
+1. The average dollar rate in June 2020 was US$ 1 5R$ 5.363, and in June 2021, US$ 1 5R$ 5.163.
+2. The average dollar rate in December 2020 was US$ 1 5R$ 5.142
+References
+Aboelmaged, M. G., & El Subbaugh, S. M. (2012). Factors influencing perceived productivity of
+Egyptian teleworkers: An empirical study. Measuring Business Excellence ,16(2), 3 –22.REGE
+30,3
+326
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026Allen, T. D., Golden, T. D., & Shockley, K. M. (2015). How effective is telecommuting? Assessing
+the status of our scientific findings. Psychological Science in the Public Interest ,16(2), 40 –68.
+Allen, T. D., Johnson, R. C., Kiburz, K. M., & Shockley, K. M. (2013). Work-family conflict and flexible
+work arrangements: Deconstructing flexibility. Personnel Psychology ,66(2), 345 –376.
+Anderson, S. E., Coffey, B. S., & Byerly, R. T. (2002). Formal organizational initiatives and informal
+workplace practices: Links to work-family conflict and job-related outcomes. Journal of
+Management ,28(6), 787 –810.
+Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day ’s work : Boundaries and micro role
+transitions. The Academy of Management Review ,25(3), 472 –491.
+Bailyn, L. (2006). Breaking the mold: Redesigning work for productive and satisfying lives (2 Ediç ~ao).
+Ithaca: ILR Press.
+Bentley, T. A., Teo, S. T. T., McLeod, L., Tan, F., Bosua, R., & Gloet, M. (2016). The role of
+organizational support in teleworker wellbeing: A socio-technical systems approach. Applied
+Ergonomics ,52, 207 –215.
+Çoban, S. (2022). Gender and telework: Work and family experiences of teleworking professional,
+middle-class, married women with children during the Covid-19 pandemic in Turkey. Gender,
+Work and Organization ,29(1), 241 –255.
+Daniels, K., Lamond, D., & Standen, P. (2001). Teleworking: Frameworks for organizational research.
+Journal of Management Studies ,38(8), 1151 –1185.
+Ellison, N. B. (1999). Social impacts - new perspectives on telework. Social Science Computer Review ,
+17(3), 338 –356.
+Filardi, F., Castro, R. M. P. D., & Zanini, M. T. F. (2020). Vantagens e desvantagens do teletrabalho na
+administraç ~ao p /C19ublica: An /C19alise das experi ^encias do serpro e da receita federal. Cadernos Ebape.
+Br,18(1), 28 –46.
+Gajendran, R. S., & Harrison, D. A. (2007). The good, the bad, and the unknown about telecommuting:
+Meta-analysis of psychological mediators and individual consequences. Journal of Applied
+Psychology ,92(6), 1524 –1541.
+Golden, T. D., Veiga, J. F., & Simsek, Z. (2006). Telecommuting ’s differential impact on work-family
+conflict: Is there no place like home?. Journal of Applied Psychology ,91(6), 1340.
+Greenhaus, J. H., & Beutell, N. J. (1985). Sources of conflict between work and family roles. Academy of
+Management Review ,10(1), 76 –88.
+Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., & Tathan, R. L. (2009). An/C19alise multivariada de
+dados . Porto Alegre: Bookman Editora.
+Hilbrecht, M., Shaw, S. M., Johnson, L. C., & Andrey, J. (2008). I ’m home for the kids ’: Contradictory
+implications for work - life balance of teleworking mothers. Gender, Work and Organization ,
+15(5), 454 –476.
+Hill, E. J., Ferris, M., & M €artinson, V. (2003). Does it matter where you work? A comparison of how
+three work venues (traditional office, virtual office, and home office) influence aspects of workand personal/family life. Journal of Vocational Behavior ,63(2), 220 –241.
+Hill, E. J., Miller, B. C., Weiner, S. P., & Colihan, J. (1998). Influences of the virtual office on aspects of
+work and work/life balance. Personnel Psychology ,51(3), 667 –683.
+Hirata, H., & Kergoat, D. (2003). A divis ~ao sexual do trabalho revisitada. In Maruani, M., & Hirata, H.
+(Eds.), As novas fronteiras da desigualdade: homens e mulheres no mercado de trabalho
+(pp. 111 –123). S ~ao Paulo: Editora Senac.
+Hirschi, A., Herrmann, A., Nagy, N., & Spurk, D. (2016). All in the name of work? Nonwork
+orientations as predictors of salary, career satisfaction, and life satisfaction. Journal of
+Vocational Behavior ,95(96), 45 –57.
+Hornung, S., Rousseau, D. M., & Glaser, J. (2008). Creating flexible work arrangements through
+idiosyncratic deals. Journal of Applied Psychology ,93(3), 655 –664.Telework and
+the work-
+nonwork
+conflict
+327
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026IBGE –Instituto Brasileiro de Geografia e Estat /C19ıstica. Dados sobre teletrabalho em 2020 (2020).
+Available from: https://covid19.ibge.gov.br/pnad-covid/ (accessed 20 March 2021).
+IBGE –Instituto Brasileiro de Geografia e Estat /C19ıstica. Estat /C19ısticas de G ^enero (2019). Available from:
+https://www.ibge.gov.br/estati sticas/multidominio/genero/ 20163-estatisticas-de-genero-
+indicadores-sociais-das-mulheres-no-brasil.html? 5&t5resultados (accessed 20 March 2021).
+Johnson, A., Dey, S., Nguyen, H., Groth, M., Joyce, S., Tan, L., ...Harvey, S. B. (2020). A review and
+agenda for examining how technology-driven changes at work will impact workplace mentalhealth and employee well-being. Australian Journal of Management ,45(3), 402 –424.
+Kahn, R. L., Wolfe, D. M., Quinn, R. P., Snoek, J. D., & Rosenthal, R. A. (1964). Organizational stress .
+Nova Jersey: Wiley.
+Kattenbach, R., Demerouti, E., & Nachreiner, F. (2010). Flexible working times: Effects on employees ’
+exhaustion, work-nonwork conflict, and job performance. Career Development International ,
+15(3), 279 –295.
+Keeney, J., Boyd, E. M., Sinha, R., Westring, A. F., & Ryan, A. M. (2013). From “work-family ”to“work-
+life”: Broadening our conceptualization and measurement. Journal of Vocational Behavior ,82(3),
+221–237.
+Kossek, E. E., Lautsch, B. A., & Eaton, S. C. (2006). Telecommuting, control, and boundary
+management: Correlates policy use and practice, job control, and work-family effectiveness.Journal of Vocational Behavior ,68(2), 347 –367.
+Leite, A. L., & Lemos, D. D. C. (2020). Teletrabalho durante a pandemia: Experi ^e n c i ad oc o r p o
+t/C19ecnico da universidade do estado de Santa catarina –UDESC. Pensamento and Realidade ,
+35(3), 87 –109.
+Lemos, A. H. D. C., Barbosa, A. D. O., & Monzato, P. P. (2021). Mulheres em home office durante
+ap a n d e m i ad aC o v i d - 1 9ea sc o n f i g u r a ç ~o e sd oc o n f l i t ot r a b a l h o - f a m /C19ılia. Revista de
+Administraç ~ao de Empresas
+,60, 388 –399.
+Messenger, J. C., & Gschwind, L. (2016). Three generations of telework: New ICTs and the (R)evolution
+from home office to virtual office. New Technology, Work and Employment ,31(3), 195 –208.
+Nguyen, M. H., & Armoogum, J. (2021). Perception and preference for home-based telework in the
+covid-19 era: A gender-based analysis in Hanoi, Vietnam. Sustainability ,13(6), 3179.
+Nakro /C20sien _e, A., Bu /C20ci/C22unien _e, I., & Go /C20stautait _e, B. (2019). Working from home: Characteristics and
+outcomes of telework. International Journal of Manpower ,40(1), 87 –101.
+Nippert-Eng, C. (1996). Calendars and keys: The classification of “home ”and “work ”.Sociological
+Forum ,11(3), 563 –582.
+Oliveira, E. C. (2017). O conflito trabalho-n ~ao trabalho e sua relaç ~ao com os sucessos objetivo e subjetivo
+na carreira . Tese de Doutorado. Universidade de S ~ao Paulo, S ~ao Paulo.
+Oliveira, E. C., & Casado, T. (2021). Work-nonwork conflict: An urgent situation for Brazilian women.
+RAUSP Management Journal ,56(1), 71 –87.
+Oliveira, M. A. M., & Pantoja, M. J. (2020). Desafios e Perspectivas do Teletrabalho nas
+Organizaç ~oes: Cen /C19ario da Produç ~ao Nacional e Agenda de Pesquisa. Revista Ci ^encias
+Administrativas ,26(3). doi: 10.5020/2318-0722.2020.26.3.9538 .
+Oliveira, L. B. D., Cavazotte, F. D. S. C. N., & Paciello, R. R. (2013). Antecedentes e consequ ^encias dos
+conflitos entre trabalho e fam /C19ılia.Revista de Administraç ~ao Contempor ^anea,17(4), 418 –437.
+OMS –Organizaç ~ao Mundial da Sa /C19ude (2020). Coronavirus disease (COVID-19) advice for the public.
+Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-
+public (accessed 25 December 2020).
+Pandini, L. S., & dos Santos Pereira, E. (2020), O teletrabalho no contexto de pandemia de Covid-19:
+A percepç ~ao de servidores p /C19ublicos do Judici /C19ario brasileiro e MPU. Caderno de Administraç ~ao,
+28(2), 55 –81.REGE
+30,3
+328
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026Pereira, J. J., Barbosa, J. K. D., & Saraiva, C. M. (2021). Sobre o tempo livre na era do teletrabalho.
+Caderno de Administraç ~ao,29(1), 114 –131.
+Pierce, J. L., & Newstrom, J. W. (1983). The design of flexible work schedules and employee responses:
+Relationships and process. Journal of Organizational Behavior ,4, 247 –262.
+PROGEP –Programa de Gest ~ao de Pessoas (2020). Satisfaç ~ao e desempenho na migraç ~ao para o home
+office: Um estudo sobre a percepç ~ao de gestores, t /C19ecnicos de n /C19ıvel superior e professores.
+Available from: https://www.youtube.com/watch?v 5TX_ByioOxIo (accessed 4 February 2022).
+PROGEP –Programa de Gest ~ao de Pessoas (2021). Satisfaç ~ao e desempenho no home office: Avanços
+e desafios ap /C19os um ano de migraç ~ao. Available from: https://www.youtube.com/watch?
+v5HJiG07lFh9E (accessed 31 March 2022).
+Raghuram, S., & Wiesenfeld, B. (2004). Work-nonwork conflict and job stress among virtual workers.
+Human Resource Management ,43(2-3), 259 –277.
+Russell, H., O ’Connell, P. J., & McGinnity, F. (2009). The impact of flexible working arrangements on
+work-life conflict and work pressure in Ireland. Gender, Work and Organization ,16(1), 73 –97.
+Sampieri, R. H., Collado, C. F., & Lucio, P. B. (2006). Metodologia de Pesquisa . Nova York: McGraw-Hill.
+Shirmohammadi, M., Au, W. C., & Beigi, M. (2022). Remote work and work-life balance: Lessons
+learned from the covid-19 pandemic and suggestions for HRD practitioners. Human Resource
+Development International , 163 –181.
+Sol/C19ıs, M. S. (2016). Teletrabajo: Condiciones que impactan de manera positiva y negativa el conflicto
+trabajo-familia. Academia Revista Latinoamericana de Administracion ,29(4), 435 –449.
+Zhang, S., Moeckel, R., Moreno, A. T., Shuai, B., & Gao, J. (2020). A work-life conflict perspective on
+telework. Transportation Research Part A: Policy and Practice ,141,5 1–68.
+Corresponding author
+Erica Custodia de Oliveira can be contacted at: ericacol@yahoo.com.br
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htmOr contact us for further details: permissions@emeraldinsight.comTelework and
+the work-
+nonwork
+conflict
+329
+Downloaded from http://www.emerald.com/rege/article-pdf/30/3/314/2292795/rege-07-2021-0116.pdf by University College London user on 30 May 2026

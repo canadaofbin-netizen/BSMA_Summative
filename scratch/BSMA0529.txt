@@ -1,0 +1,1855 @@
+Information & Management 60 (2023) 103817
+Available online 7 May 2023
+0378-7206/Crown Copyright © 2023 Published by Elsevier B.V. All rights reserved.
+Value co-creation for digital innovation: An interorganizational 
+boundary-spanning perspective 
+Yunfei Shi a,*, Tingru Cui b, Sherah Kurnia b 
+a School of Information Systems and Technology Management, The University of New South Wales, Australia 
+b School of Computing and Information Systems, The University of Melbourne, Australia   
+A R T I C L E  I N F O   
+Keywords: 
+Boundary spanning 
+Interorganizational systems 
+Value co-creation 
+Ideation 
+Knowledge integration 
+Digital innovation 
+A B S T R A C T   
+Despite the enthusiasm for engaging in interorganizational collaboration to enable digital product innovation, 
+firms often face challenges in integrating knowledge across organizational boundaries. Our research examines 
+how collaborating firms use Interorganizational Systems (IOS) tools and project coordinators to overcome 
+knowledge boundaries in different types of ideation tasks. Drawing on boundary-spanning theory, we concep­
+tualize IOS tools as boundary objects, project coordinators as boundary spanners, and the interdependence of 
+ideation tasks as moderators of the impacts of boundary objects and spanners on knowledge integration. Our 
+findings suggest that IOS tools help overcome syntax and semantic knowledge boundaries by transferring and 
+sharing information when the interdependence of idea implementation tasks is high, and project coordinators 
+help overcome pragmatic knowledge boundaries by building reciprocity of innovation participants when the 
+interdependence of idea generation tasks is high. Our research contributes to value co-creation literature by 
+developing a boundary-spanning mechanism to explain the roles of boundary objects and boundary spanners in 
+overcoming different knowledge boundaries to enable digital product innovation at the inter-firm level.   
+1. Introduction 
+As digital technologies become highly distributed and change 
+frequently, organizations have advanced from single-firm innovation to 
+collaborative innovation across multiple firms [1]. Collaborative inno­
+vation focuses on the joint development of digital products by 
+combining technical and business resources to generate knowledge 
+across organizational boundaries [2,3]. Such innovation is exemplified 
+in Samsung and Royal Philips teaming up for an intelligent 
+Internet-of-Things healthcare platform [4] to Ericsson and Piaggio 
+working on cloud-based connected vehicles [5]. Despite the prevalent 
+examples in the industry, there is little scholarly investigation of how to 
+co-create value for digital product innovation at the interorganizational 
+level [6]. 
+Interorganizational Systems (IOS) tools are used as “catalysts and 
+enablers for collaboration across organizational boundaries and impor­
+tant drivers for value creation in inter-organizational networks” ([7], p. 
+288). Prior research focuses on the role of IOS tools in information 
+sharing to improve operational efficiency between collaborative firms 
+[8–10]. As well as sharing information, firms need to integrate 
+domain-specific knowledge to create digital products [11,12]. 
+Knowledge integration requires organizations to overcome syntactic 
+boundaries by transferring information, semantic boundaries by devel­
+oping the shared meaning of the information, and pragmatic boundaries 
+by integrating information for new knowledge [13]. Research, to date, 
+offers limited insights into how to use IOS tools to overcome these 
+knowledge boundaries for digital innovation. 
+Interorganizational knowledge integration is challenging because 
+collaborative firms have different organizational structures and cul­
+tures, causing barriers to sharing and synthesizing knowledge. In addi­
+tion to IOS tools, firms need project coordinators to help increase the 
+belongingness of team members and manage the conflict within 
+boundary-spanning teams [14]. Moreover, the effects of IT and com­
+plementary resources on value co-creation are contingent on the in­
+terdependencies 
+between 
+collaborating 
+firms 
+i.e., 
+high-level 
+interdependencies positively moderate the relationship between IT as­
+sets and business value [15]. Focusing on the moderating effects of in­
+terdependencies, our research takes a step forward to examine if such 
+effects vary across different types of tasks [16]. Taken together, we aim 
+to develop a systematic understanding of how digital artifacts, humans, 
+and interdependent tasks collectively contribute to the knowledge 
+integration that leads to value co-creation for digital innovation. 
+* Corresponding author. 
+E-mail addresses: fei.shi@unsw.edu.au (Y. Shi), tingru.cui@unimelb.edu.au (T. Cui), sherahk@unimelb.edu.au (S. Kurnia).  
+Contents lists available at ScienceDirect 
+Information & Management 
+journal homepage: www.elsevier.com/locate/im 
+https://doi.org/10.1016/j.im.2023.103817 
+Received 1 August 2021; Received in revised form 20 April 2023; Accepted 2 May 2023   
+
+Information & Management 60 (2023) 103817
+2
+Our research focuses on ideation tasks including idea generation and 
+idea implementation because they are two important stages in enabling 
+digital innovation [17,18]. IOS tools and project coordinators enable 
+digital innovation via interdependent tasks of generating and imple­
+menting ideas, and their roles may vary across these two types of tasks 
+[16,19]. Therefore, we address the research question: how do IOS tools, 
+project coordinators, and ideation task interdependence interact to 
+integrate knowledge for digital product innovation? 
+Drawing on boundary-spanning theory, we conceptualize IOS tools 
+as boundary objects and project coordinators as boundary spanners [13, 
+20]. Our research model examines 1) the enabling effects of boundary 
+objects and boundary spanners on inter-firm knowledge integration that 
+leads to high levels of digital innovation quality; and 2) the moderating 
+effects of ideation task interdependence on the relationships between 
+boundary resources (i.e., boundary objects; boundary spanners) and 
+inter-firm knowledge integration. 
+We used the survey method to test our research model using data 
+from 209 firms in China. The findings suggest that IOS tools and project 
+coordinators are co-specialized assets for digital innovation. Specif­
+ically, coordinators are important for idea generation tasks because 
+humans are effective in tacit knowledge integration, whereas IOS tools 
+are critical for idea implementation tasks because these tools are effec­
+tive in transferring codified, explicit knowledge. Our findings further 
+suggest that IOS tools cannot directly lead to digital innovation quality 
+and their effects are fully mediated by inter-firm knowledge integration, 
+while boundary spanners can directly influence the quality of digital 
+innovation. 
+This research makes three contributions to existing knowledge. First, 
+it contributes to the IT-based value co-creation literature by developing 
+a boundary-spanning mechanism from a knowledge development 
+perspective [21,15]. The boundary-spanning mechanism provides a 
+systematic understanding of how IOS tools, humans, and ideation tasks 
+interact to integrate knowledge. IOS tools help organizations overcome 
+syntactic and semantic knowledge boundaries when the interdepen­
+dence of idea implementation tasks is high, while project coordinators 
+help overcome pragmatic knowledge boundaries when the interdepen­
+dence of idea generation tasks is high [22,13]. 
+Second, our research contributes to the IOS literature by examining 
+how IOS tools can be used for knowledge integration. Prior research 
+largely focuses on the role of IOS tools in improving operational per­
+formance [10]. We examine IOS tools in knowledge-intensive activity i. 
+e., enabling digital innovation, and suggest that the effects of IOS tools 
+on knowledge integration are augmented when the information is pre­
+sented in an explicit and codified format. 
+Third, our research contributes to the digital innovation literature by 
+examining the enablement of digital product innovation at the inter- 
+organizational level. Prior research largely focuses on the financial 
+performance of digital innovation at a single firm [6]. Our research 
+explains how to improve the quality of digital product innovation at the 
+inter-firm level from a knowledge integration perspective. 
+2. Theoretical foundation 
+Because our research focuses on IOS-enabled value co-creation at the 
+inter-firm level, we review the literature on IT-based value co-creation 
+to highlight key issues to be addressed in this study. We then present 
+boundary-spanning theory and explain how this research applies the 
+theory to examine the inter-firm knowledge integration for digital 
+innovation. 
+2.1. IT-based value co-creation 
+In the changing IT landscape featured by big data and ubiquitous 
+technologies, developing digital products often requires collective in­
+telligence across organizations. Firms, therefore, use IT to facilitate 
+communication, accelerate innovation speed, and generate innovative 
+solutions [2,23]. IT-based value co-creation between firms emerges as 
+an important research stream in the IS research field. This research 
+stream, however, receives relatively less attention compared to the 
+research that examines value creation at a single-firm level [7,15]. 
+Specifically, IT-based value co-creation refers to using IT to generate 
+business value at the inter-firm level [21,15]. 
+We identify three issues in the literature on IT value co-creation and 
+explain how our research addresses these issues. First, knowledge inte­
+gration is an important aspect of value co-creation because collaborating 
+firms need to share information and absorb external information to 
+generate new knowledge at the interorganizational level [21,24]. This is 
+especially important for digital innovation projects as it involves 
+knowledge-intensive activities where participants generate innovative 
+ideas and convert ideas into technical solutions [25,17]. Knowledge 
+integration at the inter-firm level is challenging because innovation 
+participants possess domain-specific knowledge and are bounded by 
+their organizational routines and norms [13,26]. 
+To effectively integrate domain-specific knowledge across organi­
+zational boundaries, firms need to not only overcome the difficulties of 
+sharing information but also address the challenges of developing a 
+shared vision and beliefs in developing new knowledge [27]. Prior 
+research has not sufficiently addressed how IT and organizational re­
+sources work together to help overcome various knowledge boundaries 
+(i.e., syntax, semantic, pragmatic) for innovation [13]. Furthermore, 
+existing literature mainly examines the role of IOS in coordinating 
+communication [9,28]. We lack the understanding of how IOS tools 
+contribute to knowledge-driven value co-creation in interorganizational 
+projects. 
+Second, existing literature lacks the investigation of the interde­
+pendence of tasks for value co-creation [15,16]. Interdependent tasks 
+are channels where collaborating firms share information and resources 
+to jointly integrate knowledge [16,29]. Prior research focuses on the 
+interdependence of companies’ business processes in supply chain 
+management such as decision-making [30] and buyer-supplier re­
+lationships [31]. Unlike supply chain management, digital innovation 
+relies on generating innovative ideas and converting these ideas into 
+technical solutions [17,18]. As a result, the interdependence of idea 
+generation and implementation tasks influence IOS tools and humans to 
+co-create value. For example, idea generation tasks often deal with tacit 
+knowledge. Because this knowledge resides in innovation actors’ minds, 
+the integration of such knowledge relies on human-to-human in­
+teractions [27]. Idea implementation tasks deal with explicit knowledge, 
+which relies on IOS tools to share information [9]. However, there is 
+limited research that sheds light on how IOS tools and project co­
+ordinators are used to engage in ideation tasks and how their roles may 
+differ in different types of boundary-spanning tasks for innovation. 
+Finally, prior research mainly focuses on financial performance in 
+general (e.g., sales; profits) or relationship-specific performance (e.g., 
+shared trust; operational excellence) in supply chain management [7]. 
+Few studies have examined IT-based value co-creation for digital 
+products. Driven by the increasing importance of digital products, IS 
+researchers have called for studies to examine how to enable digital 
+product innovation [6]. Because emerging technologies such as artificial 
+intelligence and the Internet of Things are highly distributed, knowledge 
+to enable digital innovation is often derived from collaboration across 
+multiple firms [11]. Therefore, it is useful to examine how to enable 
+digital product innovation at the inter-firm level. 
+2.2. Boundary-spanning theory 
+Boundary-spanning theory suggests that organizations develop 
+boundary objects, boundary spanners, and boundary-spanning tasks to 
+achieve inter-functional collaboration within or across organizations 
+[13,26,16]. Specifically, boundary objects refer to the artifacts that “are 
+plastic enough to adapt to local needs and constraints of the several 
+parties employing them, yet robust enough to maintain a common 
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+3
+identity across sites” ([32], p. 393). Boundary objects of IOS tools are 
+exemplified by prototyping and computer-aided design systems, 
+knowledge management systems, and collaboration systems [33,34]. 
+Boundary spanners facilitate collaboration across different groups to 
+overcome functional, geographical, or professional boundaries [26,11]. 
+Boundary spanners are designated project coordinators who facilitate 
+the collaboration between firms [13]. Boundary-spanning tasks involve 
+interdependent activities that are collectively performed by collabo­
+rating organizations [16]. 
+The IS research has examined the interactions of boundary spanners 
+and boundary objects in shaping boundary-spanning activities within a 
+firm or across firms. For example, boundary spanners facilitate the 
+emergence of organizational boundary-spanning competence by coor­
+dinating communication, strengthening reciprocal relationships, and 
+brokering knowledge [26,35]. Boundary objects such as collaboration 
+tools help overcome knowledge boundaries by transferring, translating, 
+and transforming information [13,22]. Ubiquitous technology provides 
+opportunities for delivering new services by facilitating knowledge 
+creation across organizational boundaries [36,11]. 
+Prior research indicates that the roles of boundary spanners are 
+contingent on the nature of the tasks [16,19]. Furthermore, researchers 
+suggest that high-level task interdependence implies high knowledge 
+barriers, which moderates the relationship between organizational ca­
+pabilities (e.g., training, management support) and performance out­
+comes [29,37]. In line with these thoughts, boundary objects and 
+spanners play different roles in shaping boundary-spanning activities, so 
+their effects on knowledge integration are contingent on the interde­
+pendence of the tasks to be conducted [16]. 
+In our research, we focus on the interdependence of ideation tasks 
+because firms must generate ideas and convert these ideas into technical 
+solutions to enable digital innovation. We examine idea generation and 
+implementation tasks because they are two important stages of enabling 
+digital product innovation [17,38]. Through interdependent idea gen­
+eration and implementation tasks, collaborating firms jointly develop 
+innovation. When the interdependence of idea generation tasks is high, 
+boundary-spanning activities are characterized by tacit knowledge ac­
+tivities such as articulating ideas and developing a shared version of 
+generating digital innovation. When the interdependence of idea 
+implementation tasks is high, boundary-spanning activities are charac­
+terized by explicit knowledge activities such as sharing codified, explicit 
+information across organizations. The interdependence of different 
+types of ideation tasks, therefore, implies different knowledge barriers 
+for boundary objects and spanners to engage in the process of inte­
+grating knowledge. 
+3. Research model and hypotheses development 
+Focusing on knowledge-driven value co-creation for digital innova­
+tion, we develop an integrative model to examine how IOS, project co­
+ordinators, and ideation task interdependence interact to integrate 
+knowledge at the inter-firm level. Our model, as shown in Fig. 1, draws 
+on the nomological framework of IT-based business value creation [15, 
+39] and boundary-spanning theory [22,20]. IT business value creation 
+literature suggests that IS and organizational resources are antecedents 
+to organizational performance [15,40,39]. Therefore, we propose that 
+IOS tools and project coordinators are the antecedents to digital inno­
+vation quality. 
+Using boundary-spanning theory [13,22], we conceptualize IOS 
+tools as boundary objects and project coordinators as boundary span­
+ners. Boundary objects and boundary spanners enable knowledge inte­
+gration at the inter-firm level, leading to high-level digital innovation 
+quality. Boundary-spanning activities happen through interdependent 
+idea generation and idea implementation tasks [17,16]. Highly coupled 
+boundary-spanning activities are reflected in a high-level interdepen­
+dence between tasks, and vice versa. The impacts of boundary objects 
+and boundary spanners on knowledge integration are moderated by 
+interdependent tasks where collaborating firms share information and 
+build reciprocity [29,37]. Below, we present our five hypotheses in turn. 
+3.1. IOS and inter-firm knowledge integration 
+Boundary objects support the integration of knowledge across 
+interorganizational boundaries syntactically, semantically, and prag­
+matically [13]. IOS tools are technological artifacts that are imple­
+mented to operationalize the relationships between collaborating 
+organizations [7,33]. From the syntactic perspective, IOS tools increase 
+collaborative organizations’ information processing capability by help­
+ing transfer knowledge across firms. For example, IOS tools provide a 
+common platform where collaborators share the data and their under­
+standing for solving problems and for discovering innovation opportu­
+nities [2]. Therefore, IOS tools support transferring domain-specific 
+knowledge across syntactic boundaries [13]. 
+From the semantic perspective, the use of IOS creates shared 
+meanings, which allows collaborative organizations to translate 
+knowledge. Because collaborators often come from complementary 
+domains and have domain-specific knowledge, the shared meaning of 
+the information from different domains is important for integrating 
+knowledge. Collaborative technologies such as online communication 
+tools 
+or 
+document-based 
+collaboration 
+systems 
+facilitate 
+the 
+Fig. 1. Research Model of Value Co-creation for Digital Product Innovation.  
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+4
+interactions, which helps innovators make sense of semantic differences 
+and smooth the process of knowledge integration [41]. 
+From the pragmatic perspective, the use of IOS tools facilitates 
+learning-by-doing processes where collaborators jointly transform their 
+expertise into collective knowledge [13]. Individuals possess different 
+skills that are specific to their local context, and knowledge gaps or 
+boundaries may arise when collaborators apply domain-specific skills to 
+developing digital innovation that involves cross-domain tasks [42]. To 
+close these gaps, innovation actors need to experiment with their ideas 
+and transform them into value-added output. Interorganizational pro­
+totyping systems such as computer-aided design systems (CAD) allow 
+innovators to run and share simulations in trialing different conceptions 
+for digital prototypes [33]. Hence, we propose the following hypothesis: 
+H1: The use of IOS tools is positively associated with inter-firm knowledge 
+integration. 
+3.2. Boundary spanners and inter-firm knowledge integration 
+In collaborative innovation, coordination roles engage in meetings, 
+face-to-face discussions, and seminars at different organizational levels 
+[20]. Boundary-spanning coordinators help with knowledge integration 
+in sharing information and coordinating collaboration activities. First, 
+boundary spanners facilitate information flows across domains and 
+bridge knowledge gaps from different fields. When innovators work on 
+joint tasks, they face challenges in integrating local knowledge into the 
+global level because these workers come from different firms and they 
+may lack connections with other collaborators. Boundary spanners 
+facilitate knowledge integration by establishing communication chan­
+nels based on their formal and informal interactions with innovation 
+participants. For example, working as knowledge brokers, boundary 
+spanners identify knowledge gaps in newly joint groups and frame 
+problems in the common language shared across functional teams [35]. 
+Second, boundary spanners contribute to interorganizational 
+knowledge integration by coordinating divergent views to reduce un­
+certainty and build reciprocal relationships among innovation partici­
+pants. Frontline innovators often lack a global view because they mainly 
+focus on the specific tasks assigned to them in a local context. Conflict or 
+dispute may emerge when cross-boundary teams face competing tasks or 
+requirements [26]. Project coordinators use formal and informal in­
+teractions to communicate and discuss uncertainties and articulate the 
+vision of innovation development from a global perspective. These in­
+teractions build reciprocity between project members, facilitating the 
+synthesis of complementary knowledge for innovation [11]. Hence, we 
+propose the following hypothesis: 
+H2: The use of boundary spanners is positively associated with inter-firm 
+knowledge integration. 
+3.3. Moderating effects of task interdependence 
+Task interdependence refers to the work processes that involve 
+multiple actors who interact with collaborators to perform tasks shared 
+across organizations [37]. In our research, we argue that the roles of 
+boundary objects and boundary spanners are contingent on the inter­
+dependence of two types of ideation tasks. Specifically, we propose that 
+the interdependence of idea generation tasks positively moderates the 
+effects of boundary spanners on knowledge integration, and the inter­
+dependence of idea implementation tasks positively moderates the ef­
+fects of boundary objects on knowledge integration. 
+Idea generation tasks focus on tacit knowledge because firms work 
+on wicked problems at the early stage of innovation and the ideas are yet 
+to take shape in an explicit, codified format [17]. For example, partic­
+ipants from a collaborative project interact to identify potential market 
+needs, explore the requirements of potential customers, and discuss the 
+shared vision of product development. The integration of the tacit 
+knowledge possessed by individuals who are from different firms pre­
+sents a high level of pragmatic knowledge boundaries as participants are 
+bounded by their organizational norms and interests [43]. Such kinds of 
+integration rely on person-to-person interactions [44]. 
+When the interdependence of idea generation tasks is high, innova­
+tion participants frequently interact to address the wicked problems by 
+combining their knowledge to conceptualize key functionalities of dig­
+ital innovation [17]. Frequent interactions strengthen the effects of 
+boundary spanners on knowledge integration. When generating ideas, 
+the project relies on boundary spanners to help overcome pragmatic 
+boundaries by articulating a shared vision, negotiating potential con­
+flict, and channeling communications [22]. 
+Furthermore, project coordinators help shape the willingness of in­
+dividuals to share their knowledge and increase the trust within the 
+newly formed team to integrate knowledge [26]. For example, innova­
+tion participants from different domains may collect conflicting 
+customer requirements in growing digital innovation. Under these sit­
+uations, project coordinators reinforce the product development vision 
+at the inter-organizational project level and configure different view­
+points in developing new knowledge to grow digital product innovation 
+[23]. Hence, we propose the following hypothesis: 
+H3: The interdependence of idea generation tasks positively moderates 
+the effects of boundary spanners on inter-firm knowledge integration. 
+During the idea implementation stage, the tacit knowledge about 
+innovative ideas has been transformed into a codified format, which is 
+ready to be converted to the functionalities of digital innovation. When 
+the interdependence of idea implementation tasks is high, innovation 
+participants frequently exchange information about realizing the func­
+tionalities of digital products [17]. The integration of explicit knowledge 
+relies on digital artifacts that help overcome syntactic and semantic 
+boundaries by developing a common lexicon and syntax [13]. The 
+interdependence of idea implementation tasks, therefore, strengthens 
+the effects of IOS tools on knowledge integration. 
+For example, when implementing ideas, collaborative teams use user 
+case models to capture users’ views that will be used to realize digital 
+innovation based on market analysis and customer feedback [34]. IOS 
+tools about case models provide a medium for firms to develop shared 
+vocabularies and understanding to document customer requirements 
+[42]. Furthermore, when the interdependence of idea implementation 
+tasks is high, collaborative organizations tend to be overloaded by 
+high-volume tasks. Under these circumstances, the effects of IOS tools 
+are strengthened because the use of IOS tools allows innovators to ex­
+change product data and associated information regardless of time and 
+space. Hence, we propose the following hypothesis: 
+H4: The interdependence of idea implementation tasks positively mod­
+erates the effects of IOS tools on inter-firm knowledge integration. 
+3.4. Inter-firm knowledge integration and digital innovation quality 
+Inter-firm knowledge integration refers to the combination of indi­
+vidual know-how and expertise to achieve collaboration outcomes at the 
+interorganizational level [45,46]. Interorganizational knowledge inte­
+gration increases digital innovation quality in the following ways. First, 
+a high level of knowledge integration implies a broad-scope synthesis of 
+complementary knowledge for digital innovation [47]. Compared to 
+cross-department integration for innovation within a firm, collaborative 
+innovation often occurs through knowledge integration across in­
+dustries. The greater the integration scope, the better the organization 
+can offer appropriate and targeted product ideas [23]. For example, by 
+integrating IoT technology from Samsung with a digital health platform 
+from Royal Philips, these two firms developed an IoT-based platform 
+where users can access, share, and analyze health data via connected 
+devices [4]. 
+Second, a high level of knowledge integration implies greater 
+reconfiguration capabilities for generating innovation. Compared to 
+traditional products, digital products offer fluid boundaries where 
+changes happen frequently because technology is highly distributed and 
+readily reprogrammable [48]. Superior knowledge integration between 
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+5
+Table 1 
+Operationalization of Constructs.  
+Variables 
+Item Description 
+References 
+Interorganizational 
+Systems 
+(IOS) 
+For the collaborative innovation 
+project identified, please rate your 
+extent of usage of the following 
+interorganizational system tools. 
+IOS1: Shared digital storage tools 
+IOS2: Project collaboration tools 
+IOS3: Prototyping tools 
+IOS4: CAD modeling tools 
+[13,33], and 
+Interviews with 
+project managers 
+Boundary Spanners 
+(BS) 
+For the collaborative innovation 
+project identified, please rate your 
+agreement on the following 
+statements. 
+BS1: One or more members of the 
+project team had been formally 
+designated to facilitate 
+coordination with our 
+collaborator. 
+BS2: One or more members of the 
+project team informally facilitated 
+coordination with our 
+collaborator. 
+BS3: One or more members of the 
+project team had been formally 
+designated to facilitate knowledge 
+sharing with our collaborator. 
+BS4: One or more members of the 
+project team informally facilitated 
+knowledge sharing with our 
+collaborator. 
+[20] Adapted from 
+discussion in [26] 
+Idea Generation Task 
+Interdependence 
+(IGTI) 
+For the collaborative innovation 
+project identified, please rate your 
+agreement on the following 
+statements when generating ideas 
+for innovation. 
+IGTI1: When generating ideas for 
+innovation, our tasks can be 
+performed fairly independently of 
+our collaborator’s tasks. (Reverse 
+Code) 
+IGTI2: When generating ideas for 
+innovation, our tasks can be 
+planned with little need to 
+coordinate with our collaborator’s 
+tasks. (Reverse Code) 
+IGTI3: When generating ideas for 
+innovation, we rarely obtained 
+information from our collaborators 
+to complete our tasks. (Reverse 
+Code) 
+IGTI4: When generating ideas for 
+innovation, our tasks were 
+relatively unaffected by the 
+performance of our collaborators. 
+(Reverse Code) 
+IGTI5: When generating ideas for 
+innovation, our tasks required 
+frequent coordination with the 
+efforts of our collaborators. 
+IGTI6: When generating ideas for 
+innovation, our performance on 
+tasks depends on receiving 
+accurate information from our 
+collaborators. 
+[29,37] 
+Idea Implementation 
+Task Interdependence 
+(IITI) 
+For the collaborative innovation 
+project identified, please rate your 
+agreement on the following 
+statements when implementing 
+ideas for innovation. 
+IITI1: When implementing ideas 
+for innovation, our tasks can be 
+performed fairly independently of 
+our collaborator’s tasks. (Reverse 
+Code) 
+IITI2: When implementing ideas 
+[29,37]  
+Table 1 (continued) 
+Variables 
+Item Description 
+References 
+for innovation, our tasks can be 
+planned with little need to 
+coordinate with our collaborator’s 
+tasks. (Reverse Code) 
+IITI3: When implementing ideas 
+for innovation, we rarely obtained 
+information from our collaborators 
+to complete our tasks. (Reverse 
+Code) 
+IITI4: When implementing ideas 
+for innovation, our tasks were 
+relatively unaffected by the 
+performance of our collaborators. 
+(Reverse Code) 
+IITI5: When implementing ideas 
+for innovation, our tasks required 
+frequent coordination with the 
+efforts of our collaborators. 
+IITI6: When implementing ideas 
+for innovation, our performance on 
+tasks depends on receiving 
+accurate information from our 
+collaborators. 
+Inter-firm Knowledge 
+Integration 
+(IKI) 
+For the collaborative innovation 
+project identified, please rate your 
+agreement on the following 
+statements. 
+IKI1: We combined our expertise 
+with our collaborator’s expertise to 
+jointly solve project-related 
+problems. 
+IKI2: We combined our 
+perspectives with our 
+collaborator’s perspectives to 
+develop shared concepts for the 
+digital product. 
+IKI3: We gained new insights by 
+sharing our ideas with our 
+collaborators. 
+IKI4: We shared our knowledge 
+with collaborators to improve 
+work efficiency. 
+IKI5: We synthesized knowledge 
+by combining expertise from 
+collaborators. 
+IKI6: We used the information 
+from collaborators when making 
+project-related decisions. 
+[45,46]  
+Digital Innovation 
+Quality 
+(DIQ) 
+For the collaborative innovation 
+project identified, please rate your 
+agreement on the following 
+statements. 
+DIQ1: Compared with technically 
+similar, self-developed products, 
+the technical capabilities of this 
+digital product were better. 
+DIQ2: Compared with competitors, 
+the technical capabilities of this 
+digital product were better. 
+DIQ3: Compared with competitors, 
+the features of this digital product 
+were better. 
+DIQ4: Our customers more often 
+praised this digital product’s 
+quality. 
+DIQ5: Our customers were 
+satisfied with this digital product’s 
+quality 
+DIQ6: Our customers were firmly 
+convinced that the quality of this 
+digital product is high. 
+[34,54,55]   
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+6
+collaborative organizations can help assimilate relevant technology and 
+transform customer requirements into new products [2]. For example, 
+by combining Pfizer’s scientific knowledge and IBM’s machine learning 
+and data analytics technologies, the two firms develop a cloud-based 
+health analytics platform, aiming to provide real-time, evidence-based 
+insights for cancer treatment [49]. Hence, we propose the following 
+hypothesis: 
+H5: Inter-firm knowledge integration is positively associated with digital 
+innovation quality. 
+4. Research method 
+We test our hypotheses using a field survey. The unit of the analysis is 
+an interorganizational, digital innovation project. In this section, we 
+first present our measurement development, followed by the approaches 
+that we use to validate our constructs. Finally, we present the procedures 
+for collecting data. 
+4.1. Measurement development 
+We operationalize constructs in the survey instrument by drawing on 
+validated measurement scales from the literature with a 7-point Likert 
+response scale. We operationalized the dependent variable (digital 
+innovation quality), independent variables (boundary spanners, inter- 
+firm knowledge integration) and moderating variables (idea genera­
+tion task interdependence, idea implementation task interdependence) 
+as reflective constructs. 
+We operationalized the independent variable IOS tools as a formative 
+construct [50]. For its measurements, we listed a number of IOS tools 
+used in innovation projects based on existing literature [13,33]. To 
+confirm and refine our list of tools, we conducted interviews with nine 
+project managers in three firms to learn about the IOS tools that have 
+been adopted in their projects (see Appendix A for interview details). 
+Following the suggestions from our interviewees, we replaced ‘data­
+bases’ with ‘shared digital storage’ because the latter is commonly used 
+in the industry. Using existing literature and the information collected 
+from project managers, the items ‘shared digital storage tools’, ‘proto­
+typing tools’, ‘project collaboration tools’, and ‘CAD modeling tools’ 
+form the construct IOS tools. 
+To exclude alternative explanations, we include control variables 
+firm age, size, and R&D investment because they indicate a firm’s in­
+ternal R&D characteristics and have impacts on innovation outcomes 
+[51,52]. We also include industry as a control variable to account for the 
+external environment where a firm operates [51]. Furthermore, we 
+include prior relationships, project size, and project cost as 
+project-related characteristics, which may influence collaborative 
+innovation project outcomes [53]. Table 1 presents the operationaliza­
+tion of our constructs. 
+4.2. Conceptual validation 
+We consulted several colleagues in the IS research field to identify 
+and revise the framing issues of our survey instrument. We developed 
+measures based on the existing literature and validated our measures 
+following Moore and Benbasat’s [56] approach. Specifically, we first 
+conducted a two-stage Q-sorting to verify the content validity, conver­
+gent validity, and discriminant validity of our measurements. The ac­
+curacy at the unlabeled stage is 90%, while the accuracy at the labeled 
+stage is 92%. The Q-sorting results suggest good measurement quality. 
+Based on the verification, we made minor modifications. We developed 
+our instrument in English and then translated it into Chinese. To ensure 
+conceptual equivalence, we used the back-translation approach [57]. To 
+check face validity, we invited the top managers of three firms to 
+comment on the survey. Based on their suggestions, we further phrased 
+and framed the questions of the survey instrument. 
+4.3. Data collection procedures 
+We distributed our survey to 758 organizations that were randomly 
+selected from a high-tech organization directory in China.We collected 
+data from project managers who are in charge of inter-firm innovation 
+projects by using the key informant approach [58]. We asked project 
+managers to identify a collaborative innovation project and respond to 
+our survey questions. Of the 232 returned surveys, we removed 23 
+surveys because of the incompleteness of data. We used 209 surveys for 
+the data analysis. The sample size was sufficient to achieve a statistical 
+power higher than 0.9 [59]. 
+Table 2 presents the demographic characteristics of the respondents 
+that we use as our control variables. Our target population consists of 
+firms that have collaborated with other firms to co-develop digital 
+products using IOS tools. We followed the procedures used by prior 
+research to ensure our sample is representative of the target population. 
+Specifically, we selected four industries that have a broad presence in 
+China’s economy and represent the most advanced high-tech develop­
+ment in China [60]. Furthermore, we selected firms that are of different 
+ages and sizes to ensure the diversity of our sample [3]. We assess 
+nonresponse bias by comparing the earliest 52 respondents (25%) and 
+the last 52 respondents (25%) on their organizational characteristics and 
+their responses to the principal constructs [61]. There are no statistical 
+differences between the two cohorts. Nonresponse bias, therefore, is not 
+a major concern in our study. 
+5. Analysis and results 
+We used variance-based partial least squares (PLS-SEM) to estimate 
+the structural equation model [62,63]. Compared with covariance-based 
+SEM, PLS-SEM is especially suitable for theory development and for a 
+model including both reflective and formative constructs [64,65]. Our 
+research focuses on developing a theoretical model of value co-creation 
+for digital innovation and the model includes both reflective and 
+formative constructs, so PLS-SEM is a suitable method to test our model. 
+In this section, we first demonstrate the reliability and validity of our 
+measurement model. We then present the results for our hypotheses 
+testing, followed by our mediation analysis results. Finally, we test our 
+non-hypothesized relationships to investigate if 1) the interdependence 
+of idea generation tasks moderates the effects of IOS on inter-firm 
+knowledge integration; and 2) the interdependence of idea imple­
+mentation tasks moderates the effects of boundary spanners on inter- 
+firm integration. 
+Table 2 
+Demographics of Respondents (N = 209).  
+Control Variables 
+Frequency 
+Percentage 
+Industry 
+Industry 1:Chemical and 
+pharmaceutical 
+38 
+18.2 
+Industry 2: Industrial and 
+commercial machinery equipment 
+43 
+20.6 
+Industry 3: Electronic and other 
+electrical equipment 
+49 
+23.4 
+Industry 4: Fabricated metal and 
+other material 
+46 
+22.0 
+Others 
+33 
+15.8 
+Number of 
+Employees 
+< 100 
+27 
+12.9 
+100–300 
+87 
+41.6 
+301–500 
+43 
+20.6 
+501–1000 
+26 
+12.4 
+1001–2000 
+12 
+5.7 
+> 2000 
+14 
+6.7 
+Firm Age 
+(years) 
+< 15 
+83 
+39.7 
+15–20 
+83 
+39.7 
+20–25 
+22 
+10.5 
+> 25 
+21 
+10.0  
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+7
+5.1. Measurement model: reliability and validity 
+To assess the reliability of reflective measures, we tested indicator 
+reliability, construct reliability, convergent validity, and discriminant 
+validity [66,65]. As shown in Table 3, all indicators achieve satisfactory 
+reliability with outer loadings exceeding 0.70. The reflective measure­
+ment models present reliable internal consistency by achieving com­
+posite reliability of 0.908 or higher. The internal consistency is further 
+evidenced by the average variance extracted (AVE) values, exceeding 
+the threshold value of 0.5 [67,68]. 
+To examine the discriminant validity of constructs, we used two 
+measures: the indicators’ cross-loadings [62] and the criteria developed 
+by Fornell and Larcker [67]. Both cross-loadings (as shown in Table 3) 
+and the comparison of the square roots of AVE and inter-construct 
+correlations with other constructs (as shown in Table 4) demonstrate 
+discriminant validity. We further assess the discriminant validity using 
+the Heterotrait-Monotrait ratio (HTMT) criterion in Table 5. All values 
+were below the conservative threshold value of 0.85 [63], reconfirming 
+the established discriminant validity. 
+We followed the guidelines of Cenfetelli and Bassellier [69] and 
+Petter et al. [50] to validate the formative construct of boundary objects: 
+IOS tools. Table 6 shows the results for VIF (multicollinearity test), 
+weights (the relative contribution), and loadings (the absolute impor­
+tance). The assessment output suggests that multicollinearity is not an 
+issue. Because we use single informants to answer our survey questions, 
+we further assess the common method variance of our research in Ap­
+pendix C. The assessment shows that our results are not subject to the 
+issue of common method variance. 
+5.2. Hypotheses testing 
+We used the following criteria to evaluate the structural model: the 
+squared multiple correlations R2, structural path coefficients, the pre­
+dictive relevance of endogenous variables using Stone Geisser’s Q2 
+values, and effect size values f2 as recommended by Hair et al. [63]. 
+When performing the analysis, we selected the path-weighting scheme 
+and a stop criterion set at 10−7, with 5000 iterations of resampling and 
+the no-sign-change using SmartPLS 3. We assessed all statistical tests at 
+the two-tailed 5% significance level. 
+To reduce the threats of multicollinearity, we used mean centering 
+before creating the interaction terms [70]. Furthermore, VIF values are 
+fewer than the recommended threshold of 3.3 (the highest VIF among 
+the explanatory variables was 3.188) [71]. The effect size values f2 show 
+small to moderate effects, supporting the predictive relevance of the 
+endogenous latent variables. Table 7 presents the results of the hy­
+pothesized relationships. 
+Our results in Fig. 2 show that the conceptual model explains 47.9% 
+of the variation in inter-firm knowledge integration and 43.3% of the 
+variation in digital innovation quality. The results suggest that boundary 
+objects are significantly and positively related to inter-firm knowledge 
+integration (β = 0.280, p < 0.001), supporting H1. Boundary spanners 
+are significantly and positively related to inter-firm knowledge inte­
+gration (β = 0.163, p < 0.05), supporting H2. Finally, inter-firm 
+knowledge integration is also statistically significant in explaining 
+Table 3 
+Loadings and Cross-loadings of the Reflective Constructs.  
+Items 
+BS 
+IGTI 
+IITI 
+IKI 
+DIQ 
+Boundary Spanners (BS) 
+BS1 
+0.927 
+0.128 
+0.227 
+0.419 
+0.371 
+BS2 
+0.937 
+0.048 
+0.214 
+0.455 
+0.358 
+BS3 
+0.889 
+0.088 
+0.279 
+0.349 
+0.268 
+BS4 
+0.875 
+0.051 
+0.136 
+0.368 
+0.332 
+Idea Generation Task Interdependence (IGTI) 
+IGTI1 
+0.080 
+0.955 
+0.131 
+−0.154 
+−0.106 
+IGTI2 
+0.091 
+0.961 
+0.129 
+−0.141 
+−0.133 
+IGTI3 
+0.073 
+0.968 
+0.116 
+−0.181 
+−0.127 
+IGTI4 
+0.095 
+0.957 
+0.137 
+−0.118 
+−0.105 
+IGTI5 
+0.069 
+0.968 
+0.084 
+−0.172 
+−0.139 
+IGTI6 
+0.099 
+0.957 
+0.127 
+−0.145 
+−0.092 
+Idea Implementation Task Interdependence (IITI) 
+IITI1 
+0.182 
+0.109 
+0.948 
+0.100 
+−0.137 
+IITI2 
+0.242 
+0.084 
+0.922 
+0.102 
+−0.118 
+IITI3 
+0.272 
+0.092 
+0.904 
+0.117 
+−0.118 
+IITI4 
+0.235 
+0.136 
+0.949 
+0.132 
+−0.078 
+IITI5 
+0.167 
+0.138 
+0.954 
+0.102 
+−0.132 
+IITI6 
+0.180 
+0.134 
+0.864 
+0.058 
+−0.123 
+Inter-firm Knowledge Integration (IKI) 
+IKI1 
+0.451 
+−0.127 
+0.265 
+0.836 
+0.413 
+IKI2 
+0.399 
+−0.080 
+0.321 
+0.762 
+0.300 
+IKI3 
+0.469 
+−0.086 
+0.301 
+0.817 
+0.386 
+IKI4 
+0.284 
+−0.167 
+−0.044 
+0.784 
+0.528 
+IKI5 
+0.256 
+−0.162 
+−0.170 
+0.775 
+0.612 
+IKI6 
+0.195 
+−0.144 
+−0.196 
+0.757 
+0.581 
+Digital Innovation Quality (DIQ) 
+DIQ1 
+0.386 
+−0.080 
+−0.136 
+0.560 
+0.924 
+DIQ2 
+0.387 
+−0.067 
+−0.149 
+0.569 
+0.926 
+DIQ3 
+0.321 
+−0.189 
+−0.096 
+0.549 
+0.935 
+DIQ4 
+0.320 
+−0.105 
+−0.062 
+0.522 
+0.938 
+DIQ5 
+0.330 
+−0.107 
+−0.100 
+0.553 
+0.930 
+DIQ6 
+0.300 
+−0.145 
+−0.143 
+0.523 
+0.911  
+Table 4 
+Internal Consistency, Convergent Validity, and Discriminant Validity for Reflective Constructs.  
+Latent Construct 
+Cronbach’s α 
+Composite Reliability 
+AVE 
+Fornell-Larcker Criterion 
+BS 
+IGTI 
+IITI 
+IKI 
+DIQ 
+Boundary Spanners (BS) 
+0.928 
+0.949 
+0.823 
+0.907     
+Idea Generation Task Interdependence (IGTI) 
+0.983 
+0.986 
+0.923 
+0.087 
+0.961    
+Idea Implementation Task Interdependence (IITI) 
+0.966 
+0.972 
+0.854 
+0.235 
+0.124 
+0.924   
+Inter-firm Knowledge Integration (IKI) 
+0.879 
+0.908 
+0.623 
+0.442 
+−0.161 
+0.115 
+0.789  
+Digital Innovation Quality (DIQ) 
+0.968 
+0.974 
+0.860 
+0.369 
+−0.123 
+−0.124 
+0.590 
+0.927 
+Note: Square roots of AVE on the diagonal (in bold) and correlations among the latent constructs on the off-diagonal positions. 
+Table 5 
+Heterotrait–Monotrait Ratio (HTMT) Assessment for Discriminant Validity.  
+Latent Construct 
+BS 
+IGTI 
+IITI 
+IKI 
+DIQ 
+Boundary Spanners (BS)      
+Idea Generation Task 
+Interdependence (IGTI) 
+0.093     
+Idea Implementation Task 
+Interdependence (IITI) 
+0.244 
+0.130    
+Inter-firm Knowledge Integration 
+(IKI) 
+0.476 
+0.171 
+0.297   
+Digital Innovation Quality (DIQ) 
+0.384 
+0.126 
+0.131 
+0.645   
+Table 6 
+Assessment of Formative Construct - IOS.  
+Items 
+Variance Inflation Factors 
+Weights 
+Loadings 
+IOS1* 
+3.202 
+0.346 
+0.917 
+IOS2 
+3.017 
+0.167 
+0.867 
+IOS3 
+2.836 
+0.329 
+0.903 
+IOS4 
+3.188 
+0.268 
+0.902 
+* See Table 1 for the description of items. 
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+8
+digital innovation quality (β = 0.595, p < 0.001), supporting hypothesis 
+H5. 
+Our results suggest that the interaction effect of boundary spanners 
+and idea generation task interdependence positively affects inter-firm 
+knowledge integration (β = 0.229, p < 0.001), thereby supporting H3. 
+Furthermore, idea implementation task interdependence significantly 
+moderates the effect of boundary objects on inter-firm knowledge 
+integration (β = 0.284, p < 0.05), thereby supporting H4. There is no 
+significant influence of the control variables (i.e., firm age, size, in­
+dustry, and other project-level control variables) on digital innovation 
+quality. 
+5.3. Mediation analysis 
+To further check the mediation effect of inter-firm knowledge inte­
+gration, we used independent variables to predict the dependent vari­
+able (i.e., digital innovation quality). Table 8 summarizes the mediation 
+analysis. The results show the direct effects of boundary spanners (β =
+0.228, p < 0.01), boundary objects (β = 0.171, p < 0.05), boundary 
+spanners x idea generation task interdependence (β = 0.164, p < 0.05), 
+and boundary objects x idea implementation task interdependence (β =
+0.198, p < 0.01) are positively associated with digital innovation 
+quality. 
+We also analyzed independent variables and a mediator predicting 
+the dependent variable. The results show the effects of boundary objects 
+(β = 0.058, p > 0.05), boundary spanners x idea generation task 
+Table 7 
+Results of the Structural Model Path Coefficients.  
+Structural Path 
+Path Coefficient (β) 
+Effect Size (f2) 
+Standard 
+Deviation 
+t-value 
+Bias Corrected 95% Confidence 
+Interval 
+Conclusion 
+IOS→IKI 
+0.280*** 
+0.111 
+0.059 
+4.745 
+[0.150; 0.390] 
+H1 supported 
+BS→IKI 
+0.163* 
+0.032 
+0.067 
+2.456 
+[0.024; 0.283] 
+H2 supported 
+BS×IGTI→IKI 
+0.229*** 
+0.091 
+0.058 
+3.949 
+[0.109; 0.324] 
+H3 supported 
+IOS×IITI→IKI 
+0.284* 
+0.117 
+0.122 
+2.336 
+[0.152; 0.411] 
+H4 supported 
+IKI→DIQ 
+0.595*** 
+0.594 
+0.058 
+10.168 
+[0.454; 0.694] 
+H5 supported 
+Firm Age→DIQ 
+0.106 
+0.017 
+0.063 
+1.666 
+[−0.035; 0.214] 
+Not supported 
+Firm Size→DIQ 
+−0.056 
+0.003 
+0.079 
+0.704 
+[−0.226; 0.085] 
+Not supported 
+Industry1→DIQ 
+−0.059 
+0.003 
+0.070 
+0.836 
+[−0.195; 0.077] 
+Not supported 
+Industry2→DIQ 
+−0.051 
+0.002 
+0.075 
+0.677 
+[−0.196; 0.100] 
+Not supported 
+Industry3→DIQ 
+0.014 
+0.000 
+0.070 
+0.205 
+[−0.121; 0.151] 
+Not supported 
+Industry4→DIQ 
+0.111 
+0.011 
+0.067 
+1.659 
+[−0.019; 0.239] 
+Not supported 
+R&D→DIQ 
+−0.102 
+0.009 
+0.080 
+1.273 
+[−0.262; 0.056] 
+Not supported 
+Relationship→DIQ 
+0.077 
+0.008 
+0.063 
+1.223 
+[−0.039; 0.212] 
+Not supported 
+Project Size →DIQ 
+0.104 
+0.013 
+0.065 
+1.610 
+[−0.020; 0.238] 
+Not supported 
+Project Cost→DIQ 
+0.007 
+0.000 
+0.065 
+0.114 
+[−0.119; 0.126] 
+Not supported 
+* Significant at the 0.05 level; ** Significant at the 0.01 level; *** Significant at the 0.001 level. 
+Fig. 2. Model Estimation 
+*Significant at the 0.05 level; **Significant at the 0.01 level; *** Significant at the 0.001 level. (R2 adjusted, Q2) given for endogenous constructs. 
+Table 8 
+Results of Mediation Analysis (Mediator: Inter-firm Knowledge Integration).  
+Path 
+Direct Effect 
+95% Confidence 
+Interval of the Direct Effect 
+t- 
+value 
+Indirect Effect 
+95% Confidence Interval of the Indirect Effect 
+t- 
+value 
+Conclusion 
+IOS→DIQ 
+0.171* 
+[0.079; 0.355] 
+2.389 
+0.058 
+[−0.132; 0.202] 
+0.709 
+Full mediation 
+BS→DIQ 
+0.228** 
+[0.001; 0.290] 
+3.253 
+0.141* 
+[0.024; 0.284] 
+2.124 
+Partial mediation 
+IOS*IITI→DIQ 
+0.198** 
+[0.073; 0.358] 
+2.645 
+0.077 
+[−0.061; 0.207] 
+1.119 
+Full mediation 
+BS*IGTI→DIQ 
+0.164* 
+[0.022; 0.289] 
+2.503 
+0.059 
+[−0.039; 0.172] 
+1.076 
+Full mediation 
+Note. * Significant at the 0.05 level; ** Significant at the 0.01 level; *** Significant at the 0.001 level. 
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+9
+interdependence (β=0.059, p > 0.05), and boundary objects x idea 
+implementation task interdependence (β = 0.077, p > 0.05) with the 
+mediation of inter-firm knowledge integration are no longer signifi­
+cantly associated with digital innovation quality. Taken together, the 
+findings support the full mediation of inter-firm knowledge integration 
+on boundary objects and the two interaction terms. In addition, the ef­
+fect of boundary spanners remains significant, while weakened (β =
+0.141, p < 0.05), which suggests the partial mediation of inter-firm 
+knowledge integration on boundary spanners. 
+5.4. Post hoc analysis 
+We performed a post hoc analysis to examine the non-hypothesized 
+moderating relationships between boundary objects and spanners and 
+task interdependence. These moderating effects are (1) idea imple­
+mentation task interdependence moderates the relationship between 
+boundary spanners and inter-firm knowledge integration; and (2) idea 
+generation task interdependence moderates the relationship between 
+boundary objects and inter-firm knowledge integration. First, the 
+interaction of boundary spanners and idea implementation task inter­
+dependence does not significantly influence inter-firm knowledge inte­
+gration (β = −0.020, p > 0.05). Second, the interaction of boundary 
+objects and idea generation task interdependence does not have a sig­
+nificant impact on inter-firm knowledge integration (β = 0.009, p >
+0.05). 
+Because the interaction effects of boundary spanners and idea 
+implementation tasks and the interaction effects of boundary objects 
+and idea generation tasks are insignificant, our post hoc analysis results 
+strengthen the finding that boundary objects and boundary spanners are 
+co-specialized assets in integrating knowledge. In other words, the ef­
+fects of IOS tools on knowledge integration are augmented only when 
+the interdependence of idea implementation tasks is high, and the ef­
+fects of project coordinators on knowledge integration are augmented 
+only when the interdependence of idea generation tasks is high. 
+Therefore, we suggest that boundary spanners are important for 
+generating ideas that deal with tacit knowledge, whereas boundary 
+objects are crucial for implementing ideas that deal with explicit 
+knowledge. 
+6. Discussion and conclusion 
+In this section, we discuss the data analysis results, followed by the 
+theoretical contributions of our research. We then present our research 
+implications to practice, its limitations and opportunities for future 
+research. 
+6.1. Discussion of findings 
+In this study, we develop a boundary-spanning mechanism to explain 
+how IOS tools and boundary spanners lead to knowledge-driven value 
+co-creation for digital product innovation. Our findings suggest that 
+project coordinators can directly influence digital innovation quality, 
+whereas IOS tools cannot. Prior research has suggested that humans are 
+crucial for sensing innovation opportunities, formulating problems, and 
+converting ideas into technical solutions [27,18]. Our research takes 
+these findings further by demonstrating that human agents such as 
+project coordinators have direct effects on the quality of digital 
+products. 
+The effects of IOS tools on digital innovation quality are fully 
+mediated by knowledge integration. These findings align with the IS 
+business value literature in general, suggesting that the strategic value of 
+IT assets is realized via intermediated processes [39]. Our research 
+specifically demonstrates that interorganizational knowledge integra­
+tion capabilities are critical for IOS tools to create value for digital 
+product 
+innovation. 
+Given 
+that 
+digital 
+innovation 
+involves 
+knowledge-intensive activities, IOS tools facilitate the combination of 
+domain-specific knowledge from a single firm by transferring and 
+translating knowledge across organizational boundaries [13]. For 
+example, online collaboration tools facilitate information sharing more 
+efficiently and CAD tools enable team members to develop shared 
+meanings of ideas for designing digital innovation [33]. 
+Our findings also suggest that IOS tools and boundary spanners play 
+co-specialized roles in the ideation tasks of enabling digital innovation. 
+Specifically, the effects of IOS tools are augmented during the idea 
+implementation stage because digital artifacts are suitable for trans­
+ferring codified, explicit knowledge by helping collaborating firms 
+overcome syntax and semantic boundaries [9]. The effects of project 
+coordinators are augmented during the idea generation stage because 
+transferring tacit knowledge relies on human-to-human interactions to 
+help overcome pragmatic boundaries [13,27]. 
+To support these insights, we performed post hoc analysis to test 1) 
+the interaction effects of IOS and the interdependence of idea generation 
+tasks and 2) the interaction effects of boundary coordinators and the 
+interdependence of idea implementation tasks. The results show that 
+these interaction effects do not hold, further strengthening our findings 
+that the role of boundary objects and spanners in knowledge integration 
+depends on the tasks that are associated with tacit or explicit knowledge. 
+Specifically, explicit knowledge integration relies on the information 
+medium that transfers and shares information between teams [25]. 
+Therefore, when idea implementation tasks are present, the effects of 
+IOS tools on integrating explicit knowledge are increased. Tacit 
+knowledge integration relies on team members’ willingness and trust to 
+collaborate and project coordinators can help build reciprocal re­
+lationships within the team [26,72]. Therefore, when idea generation 
+tasks are present, the effects of boundary spanners on integrating tacit 
+knowledge are increased. 
+6.2. Theoretical contributions 
+Our research contributes to the following literature streams. First, 
+this study contributes to the IT-based value co-creation literature by 
+providing a boundary-spanning mechanism to explain how to use IOS 
+tools and project coordinators to engage in different stages of ideation 
+tasks to integrate knowledge across organizational boundaries. Prior 
+research has not developed a systematic understanding of how these 
+factors interact to impact value co-creation. Our boundary-spanning 
+mechanism specifically contributes to the knowledge perspective of 
+IT-based value co-creation by explaining the role of IOS tools and project 
+coordinators in integrating knowledge at an inter-firm digital innova­
+tion project [21]. 
+Furthermore, a key finding of this study is the moderating effects of 
+task interdependence. Prior research suggests that high-level in­
+terdependencies positively moderate the effects of IT on value co- 
+creation, but has not addressed how the effects may vary across 
+different types of tasks [15]. Our research advances this discourse by 
+examining two types of ideation tasks in digital innovation develop­
+ment. Our findings demonstrate that the interdependence of idea 
+implementation tasks only moderates the effects of IOS tools on 
+knowledge integration, whereas the interdependence of idea generation 
+tasks moderates the effects of project coordinators on knowledge inte­
+gration. We, therefore, suggest that IOS tools and project coordinators 
+play a co-specialized role in integrating knowledge. Specifically, IOS 
+tools are important for explicit knowledge integration by sharing in­
+formation to overcome syntax and semantic knowledge boundaries, 
+whereas project coordinators are important for implicit knowledge 
+integration by developing reciprocity among innovation actors to 
+overcome pragmatic knowledge boundaries [13]. 
+Second, our research contributes to the IOS literature by addressing 
+how IOS tools and organizational resources enable knowledge integra­
+tion for digital innovation. The literature on IOS-based business value 
+predominantly focuses on the role of IOS in information sharing at the 
+operational level [8,7]. Our research suggests that IOS tools alone 
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+10
+cannot lead to digital innovation at the interorganizational level. Their 
+performance impacts are realized through knowledge integration. 
+Moreover, firms need to use the IOS tools in conjunction with 
+co-specialized resources such as project coordinators to realize 
+inter-firm knowledge integration. Specifically, IOS tools are more 
+important when the knowledge barriers in converting ideas to technical 
+solutions are high, and project coordinators are more important when 
+the knowledge barriers in generating ideas are high. 
+Third, prior research mainly examines the enablement of digital 
+product innovation at a single-firm level. Among these studies, value is 
+captured using market-facing or financial metrics of digital innovation 
+[6]. Our research advances the development of the digital innovation 
+literature by examining how digital innovation is enabled across firms. 
+Research suggests that the integration of domain-specific knowledge is 
+crucial for digital innovation at the inter-firm level [11,46]. However, 
+the understanding of the antecedents of cross-boundary knowledge 
+integration is currently lacking. Our research addresses this issue by 
+demonstrating how boundary objects, spanners, and ideation tasks 
+interact to integrate cross-domain knowledge for digital innovation. 
+Furthermore, different from prior research focusing on financial per­
+formance for value realization, our research examines the quality of 
+digital innovation in new features and technical capabilities. 
+6.3. Practical implications 
+Our research offers a number of insights for practitioners to partic­
+ipate in collaborative innovation. First, collaborative firms need to 
+invest in both technical and human resources to enable digital innova­
+tion at the inter-firm level. IOS tools and project coordinators play 
+different roles in facilitating knowledge integration activities across 
+firms. IOS tools facilitate knowledge integration by developing infor­
+mation in a common format with shared structure and meanings. Project 
+coordinators facilitate knowledge integration by resolving the conflicts 
+that arise from collaboration and by building reciprocity and trust be­
+tween collaborating firms. 
+Second, practitioners need to invest in boundary-spanning resources 
+for ideation tasks. Our findings suggest that IOS and project coordinators 
+are co-specialized assets during the ideation process. As human-to- 
+human interactions are vital for developing tacit knowledge, collabo­
+rative organizations need to encourage project coordinators to actively 
+engage in the collaboration process especially when the interdepen­
+dence of tasks is high. When implementing ideas, information for 
+enabling digital innovation becomes codified and explicit. Collaborative 
+organizations, therefore, need to effectively use IOS to transfer explicit 
+knowledge. 
+Our research further suggests that collaborative organizations may 
+avoid a high level of investment in IOS tools at the idea generation stage 
+of enabling digital innovation. Because our research findings demon­
+strate that IOS tools become more important during the idea imple­
+mentation stage, collaborating firms can keep a necessary level of 
+investment in IOS tools at an early stage of the innovation and increase 
+the investment when idea implementation tasks are dominant in the 
+collaboration. By doing so, firms can spare resources to invest in project 
+coordinators at the early stage as they are important for articulating the 
+shared version of the project and for building reciprocity and trust 
+among innovation workers from different organizations. 
+6.4. Limitations and future research 
+Our research has several limitations, which provide opportunities for 
+future research. First, we identify R&D and product managers who are in 
+charge of a collaboration project to be the most knowledgeable infor­
+mant following the key informant approach. Prior research has sug­
+gested that some project coordinators can emerge from work practices 
+and may not be the individuals who are nominated at the start of the 
+project [26]. In our research, designated boundary-spanning project 
+managers oversee the entire project, so they are the most informative 
+respondents to answer our survey questions. Furthermore, single in­
+formants may generate response biases, although our assessment shows 
+that common method variance is not a major concern of our research 
+findings. Future research could use a dyadic design to collect data from 
+pairs of project coordinators, one in each collaborating firm [31]. 
+Second, we expect our boundary-spanning mechanisms to be 
+extended to other business contexts. We consider the interdependence of 
+ideation tasks to be critical in boundary-spanning processes for digital 
+innovation. In other business contexts such as supply chain manage­
+ment, future research may examine the interdependence of decision- 
+making or other business practices as boundary-spanning tasks. 
+Furthermore, the four industries we selected may not fully represent the 
+firms in general that participate in interorganizational digital innovation 
+projects. We encourage future research to test our model in other in­
+dustries and extend the model by adding industry-specific factors. 
+Third, our study used a cross-sectional research design to measure 
+constructs at a point in time through the survey research method. 
+Although the survey method provides a high level of generalizability, it 
+offers limited in-depth, context-based explanations. For example, idea 
+generation and implementation can be iterative during the process of 
+enabling digital innovation. Future research could use the case study 
+research method to explore how IOS tools and project coordinators are 
+used in the iterative processes of ideation. 
+Apart from methodological opportunities, future research can also 
+use alternative theoretical perspectives to investigate how to co-create 
+digital products at interorganizational level. For example, prior 
+research suggests that governance is important for the management of 
+inter-firm collaboration [21,73]. Future research could use IT gover­
+nance theory to examine the influence of different governance mecha­
+nisms (e.g., relational governance; structural governance; procedural 
+governance) on innovation outcomes [74]. 
+CRediT authorship contribution statement 
+Yunfei Shi: Methodology, Formal analysis, Writing – original draft, 
+Writing – review & editing. Tingru Cui: Methodology, Formal analysis, 
+Writing – original draft, Writing – review & editing. Sherah Kurnia: 
+Methodology, Writing – review & editing. 
+Appendix A Interview Details 
+We conducted interviews with key stakeholders to validate and 
+adapt the measurements of IOS tools we identified from prior literature. 
+Based on our targeted industries, We contacted five firms to explore 
+their use of IOS tools in collaborative innovation activities. Three firms 
+agreed to participate in the project. We then conducted interviews with 
+three project managers at each firm. In total, we conducted nine in­
+terviews. Each interview lasted for around 45–60 minutes. We recorded 
+and transcribed each interview to ensure the reliability of the informa­
+tion. We asked the interviewees to identify a collaborative innovation 
+project that had been recently completed and to describe the IOS tools 
+they used for the project, and their roles in the project they identified. 
+Appendix B Assessment of Common Method Variance 
+Our research is subject to the threat of common method variance 
+because we collected the survey data using a single-informant approach 
+[75]. To mitigate the threats, we kept respondents uninformed about the 
+constructs that we were measuring. We also offered respondents the 
+choice of answering questions anonymously to reduce respondents’ 
+evaluation apprehension and to minimize social desirability bias. 
+We used two approaches to assess potential common method vari­
+ance in our research. First, we conducted Harmon’s one-factor test by 
+entering all the constructs into a principal components factor analysis 
+[75]. One constrained factor accounted for 35.6% of the variance (<
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+11
+50%). Second, we applied R¨onkk¨o and Ylitalo’s [76] six-step marker 
+variable approach. There were no differences between the baseline 
+model and the model with the marker variable, while all paths saw no 
+change in the level of statistical significance (Table B1). Therefore, 
+common method variance is not a major concern in our research. 
+References 
+[1] A.H. Hensen, J.Q. Dong, Hierarchical business value of information technology: 
+toward a digital innovation value chain, Inf. Manag. 57 (4) (2020), 103209. 
+[2] M. Andersson, R. Lindgren, O. Henfridsson, Architectural knowledge in inter- 
+organizational IT innovation, J. Strat. Inf. Syst. 17 (1) (2008) 19–38. 
+[3] T. Cui, Y. Tong, H.H. Teo, J. Li, Managing knowledge distance: iT-enabled inter- 
+firm knowledge capabilities in collaborative innovation, J. Manag. Inf. Syst. 37 (1) 
+(2020) 217–250. 
+[4] Spitzer (2018). Philips, Samsung partner for connected health project, Available at 
+https://www.beckershospitalreview.com/healthcare-information-technology/phili 
+ps-samsung-partner-for-connected-health-project.html [Accessed at 26 April 
+2021]. 
+[5] Ericsson (2016). “Exploring the future of connected scooters with 5G” Available at 
+https://www.ericsson.com/en/cases/2016/data-analytics/piaggio [Accessed at 26 
+April 2021]. 
+[6] R. Kohli, N.P. Melville, Digital innovation: a review and synthesis, Inf. Syst. J. 29 
+(1) (2019) 200–223. 
+[7] Mandrella, M., Zander, S. & Kolbe, L.M. (2016). IT-based value co-creation: a 
+literature review and directions for future research, In 2016 49th Hawaii 
+International Conference on System Sciences (HICSS), 287–296. 
+[8] D. Chatterjee, T. Ravichandran, Inter-organizational information systems research: 
+a critical review and an integrative framework, in: 37th Hawaii International 
+Conference on System Sciences, 2004, 2004. 
+[9] M.C. Dong, Y. Fang, D.W. Straub, The impact of institutional distance on the joint 
+performance of collaborating firms: the role of adaptive interorganizational 
+systems, Inf. Syst. Res. 28 (2) (2017) 309–331. 
+[10] C. Zhang, L. Xue, J. Dhaliwal, Alignments between the depth and breadth of inter- 
+organizational systems deployment and their impact on firm performance, Inf. 
+Manag. 53 (1) (2016) 79–90. 
+[11] R. Lindgren, M. Andersson, O. Henfridsson, Multi-contextuality in boundary- 
+spanning practices, Inf. Syst. J. 18 (6) (2008) 641–661. 
+[12] M. Ozer, D. Vogel, Contextualized relationship between knowledge sharing and 
+performance in software development, J. Manag. Inf. Syst. 32 (2) (2015) 134–161. 
+[13] P.R. Carlile, Transferring, translating, and transforming: an integrative framework 
+for managing knowledge across boundaries, Org. Sci. 15 (5) (2004) 555–568. 
+[14] A.W. Richter, M.A. West, R. Van Dick, J.F. Dawson, Boundary spanners’ 
+identification, intergroup contact, and effective intergroup relations, Acad. Manag. 
+J. 49 (6) (2006) 1252–1269. 
+[15] M. Mandrella, S. Trang, L.M. Kolbe, Synthesizing and integrating research on IT- 
+based value cocreation: a meta-analysis, J. Assoc. Inf. Syst. 21 (2) (2020) 388–427. 
+[16] J.A. Marrone, Team boundary spanning: a multilevel review of past research and 
+proposals for the future, J. Manag. 36 (4) (2010) 911–940. 
+[17] A.K. Jha, I. Bose, Innovation research in information systems: a commentary on 
+contemporary trends and issues, Inf. Manag. 53 (3) (2016) 297–306. 
+[18] Q. Liu, Q. Du, Y. Hong, W. Fan, S. Wu, User idea implementation in open 
+innovation communities: evidence from a new product development 
+crowdsourcing community, Inf. Syst. J. 30 (5) (2020) 899–927. 
+[19] M.L. Tushman, T.J. Scanlan, Characteristics and external orientations of boundary 
+spanning individuals, Acad. Manag. J. 24 (1) (1981) 83–98. 
+[20] A. Gopal, S. Gosain, Research note - the role of organizational controls and 
+boundary spanning in software development outsourcing: implications for project 
+performance, Inf. Syst. Res. 21 (4) (2010) 960–982. 
+[21] V. Grover, R. Kohli, Cocreating IT value: new capabilities and metrics for multifirm 
+environments, MIS Q. 36 (1) (2012) 225–232. 
+[22] P.R. Carlile, A pragmatic view of knowledge and boundaries: boundary objects in 
+new product development, Org. Sci. 13 (4) (2002) 442–455. 
+[23] L. Berchicci, Towards an open R&D system: internal R&D investment, external 
+knowledge acquisition and innovative performance, Res. Policy 42 (1) (2013) 
+117–127. 
+[24] K. Han, W. Oh, K.S. Im, R.M. Chang, H. Oh, A. Pinsonneault, Value cocreation and 
+wealth spillover in open innovation alliances, MIS Q. 36 (1) (2012) 291–315. 
+[25] J.Q. Dong, C.H. Yang, Information technology and innovation outcomes: is 
+knowledge recombination the missing link? Eur. J. Inf. Syst. 28 (6) (2019) 
+612–626. 
+[26] N. Levina, E. Vaast, The emergence of boundary spanning competence in practice: 
+implications for implementation and use of information systems, MIS Q. 29 (2) 
+(2005) 335–363. 
+[27] G. Jiang, Y. Xu, Tacit knowledge sharing in IT R&D teams: nonlinear evolutionary 
+theoretical perspective, Inf. Manag. 57 (4) (2020), 103211. 
+[28] K. Zhao, M. Xia, Forming interoperability through interorganizational systems 
+standards, J. Manag. Inf. Syst. 30 (4) (2014) 269–298. 
+[29] R. Sharma, P. Yetton, The contingent effects of training, technical complexity, and 
+task interdependence on successful information systems implementation, MIS Q. 
+31 (2) (2007) 219–238. 
+[30] G. Im, A. Rai, IT-enabled coordination for ambidextrous interorganizational 
+relationships, Inf. Syst. Res. 25 (1) (2014) 72–92. 
+[31] R. Klein, A. Rai, Interfirm strategic information flows in logistics supply chain 
+relationships, MIS Q. 33 (4) (2009) 735–762. 
+[32] S.L. Star, J.R. Griesemer, Institutional ecology, translations’ and boundary objects: 
+amateurs and professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39, 
+Soc. Stud. Sci. 19 (3) (1989) 387–420. 
+[33] K. Kumar, H.G. van Dissel, Sustainable collaboration: managing conflict and 
+cooperation in interorganizational systems, MIS Q. 20 (3) (1996) 279–300. 
+[34] P.A. Pavlou, O.A. El Sawy, From IT leveraging competence to competitive 
+advantage in turbulent environments: the case of new product development, Inf. 
+Syst. Res. 17 (3) (2006) 198–227. 
+[35] S.D. Pawlowski, D. Robey, Bridging user organizations: Knowledge brokering and 
+the work of information technology professionals, MIS Quarterly 28 (4) (2004) 
+645–672. 
+[36] K. Jonsson, J. Holmstr¨om, K. Lyytinen, Turn to the material: remote diagnostics 
+systems and new forms of boundary-spanning, Inf. Org. 19 (4) (2009) 233–252. 
+[37] R. Sharma, P. Yetton, The contingent effects of management support and task 
+interdependence on successful information systems implementation, MIS Q. 27 (4) 
+(2003) 533–556. 
+[38] M.L. Tushman, Special boundary roles in the innovation process, Adm. Sci. Q. 22 
+(4) (1977) 587–605. 
+[39] G. Schryen, Revisiting IS business value research: what we already know, what we 
+still need to know, and how we can get there, Eur. J. Inf. Syst. 22 (2) (2013) 
+139–169. 
+[40] N. Melville, K. Kraemer, V. Gurbaxani, Information technology and organizational 
+performance: an integrative model of IT business value, MIS Q. 28 (2) (2004) 
+283–322. 
+[41] J.E. Scott, Facilitating interorganizational learning with information technology, 
+J. Manag. Inf. Syst. 17 (2) (2000) 81–113. 
+[42] J.E. Ettlie, P.A. Pavlou, Technology-based new product development partnerships, 
+Decis. Sci. 37 (2) (2006) 117–147. 
+[43] S. Makin, The research-practice gap as a pragmatic knowledge boundary, Inf. Org. 
+31 (2) (2021), 100334. 
+[44] Y.S. Hau, B. Kim, H. Lee, Y.G. Kim, The effects of individual motivations and social 
+capital on employees’ tacit and explicit knowledge sharing intentions, Int. J. Inf. 
+Manag. 33 (2) (2013) 356–366. 
+[45] P.J. Lane, J.E. Salk, M.A. Lyles, Absorptive capacity, learning, and performance in 
+international joint ventures, Strat. Manag. J. 22 (12) (2001) 1139–1161. 
+[46] N. Mehta, A. Bharadwaj, Knowledge integration in outsourced software 
+development: the role of sentry and guard processes, J. Manag. Inf. Syst. 32 (1) 
+(2015) 82–115. 
+[47] R.M. Grant, Prospering in dynamically-competitive environments: organizational 
+capability as knowledge integration, Org. Sci. 7 (4) (1996) 375–387. 
+[48] O. Henfridsson, J. Nandhakumar, H. Scarbrough, N. Panourgias, Recombination in 
+the open-ended value landscape of digital innovation, Inf. Org. 28 (2) (2018) 
+89–100. 
+[49] Pfizer. (2016) Using the power of technology and innovative science to advance 
+patient care. Accessed on 21 October 2022: https://www.pfizer.com/news/pre 
+ss-release/press-release-detail/ibm_and_pfizer_to_accelerate_immuno_oncology_re 
+search_with_watson_for_drug_discovery. 
+[50] S. Petter, D. Straub, A. Rai, Specifying formative constructs in information systems 
+research, MIS Q. 31 (4) (2007) 623–656. 
+[51] V. Grover, K.A. Saeed, The impact of product, market, and relationship 
+characteristics on interorganizational system integration in manufacturer-supplier 
+dyads, J. Manag. Inf. Syst. 23 (4) (2007) 185–216. 
+[52] R.C. Sampson, R&D alliances and firm performance: the impact of technological 
+diversity and alliance organization on innovation, Acad. Manag. J. 50 (2) (2007) 
+364–386. 
+[53] T.O. Salge, T. Farchi, M.I. Barrett, S. Dopson, When does search openness really 
+matter? A contingency study of health-care innovation projects, J. Product Innov. 
+Manag. 30 (4) (2013) 659–676. 
+[54] B.A. Lukas, A. Menon, New product quality: intended and unintended 
+consequences of new product development speed, J. Bus. Res. 57 (11) (2004) 
+1258–1264. 
+[55] E. Olson, O. Walker, R. Ruekert, Organizing for effective new product 
+development: the moderating role of product innovativeness, J. Mark. 59 (1) 
+(1995) 48–62. 
+[56] G.C. Moore, I. Benbasat, Development of an instrument to measure the perceptions 
+of adopting an information technology innovation, Inf. Syst. Res. 2 (3) (1991) 
+192–222. 
+[57] R.E. Hoskisson, L. Eden, C.M. Lau, M. Wright, Strategy in emerging economies, 
+Acad. Manag. J. 43 (3) (2000) 249–267. 
+Table B1 
+Comparison of the Baseline Model and the Model with the Marker Variable.  
+Path 
+Baseline Model 
+Model with Marker 
+Est. 
+S.E. 
+Sig. 
+Est. 
+S.E. 
+Sig. 
+IKI→DIQ 
+0.595 
+0.058 
+0.000 
+0.595 
+0.060 
+0.000 
+BS→IKI 
+0.163 
+0.067 
+0.014 
+0.149 
+2.138 
+0.033 
+BO→IKI 
+0.280 
+0.059 
+0.000 
+0.288 
+4.942 
+0.000 
+BS*IGTI→IKI 
+0.229 
+0.058 
+0.000 
+0.227 
+3.877 
+0.000 
+BO*IITI→IKI 
+0.284 
+0.122 
+0.020 
+0.293 
+2.145 
+0.032 
+Marker→IKI    
+0.078 
+1.236 
+0.217 
+Marker→DIQ    
+0.031 
+0.458 
+0.647  
+Y. Shi et al.                                                                                                                                                                                                                                      
+
+Information & Management 60 (2023) 103817
+12
+[58] T.B. Wall, M. Jonathan, M. Patterson, S.J. Wood, M. Sheehan, C.W. Clegg, M. West, 
+On the validity of subjective measures of company performance, Personnel Psych. 
+57 (1) (2004) 95–118. 
+[59] H.C. Kraemer, C. Blasey, How Many Subjects?: Statistical Power Analysis in 
+Research, Sage Publications, 2015. 
+[60] A. Rai, X. Tang, Leveraging IT capabilities and competitive process capabilities for 
+the management of interorganizational relationship portfolios, Inf. Syst. Res. 21 (3) 
+(2010) 516–542. 
+[61] J.S. Armstrong, T.S. Overton, Estimating nonresponse bias in mail surveys, 
+J. Market. Res. 14 (3) (1977) 396–402. 
+[62] W.W. Chin, The partial least squares approach to structural equation modeling, 
+Modern Methods Bus. Res. 295 (2) (1998) 295–336. 
+[63] J.F. Hair, M. Sarstedt, C.M. Ringle, S.P. Gudergan, Advanced Issues in Partial Least 
+Squares Structural Equation Modeling, Sage Publications, 2017. 
+[64] J.F. Hair, M. Sarstedt, T.M. Pieper, C.M. Ringle, The use of partial least squares 
+structural equation modeling in strategic management research: a review of past 
+practices and recommendations for future applications, Long Range Plann. 45 
+(5–6) (2012) 320–340. 
+[65] C.M. Ringle, M. Sarstedt, D.W. Straub, Editor’s comments: a critical look at the use 
+of PLS-SEM in “MIS quarterly, MIS Q. 36 (1) (2012) pp. iii-xiv. 
+[66] D. Gefen, D. Straub, A practical guide to factorial validity using PLS-Graph: tutorial 
+and annotated example, Commun. Assoc. Inf. Syst. 16 (1) (2005) 91–109. 
+[67] C. Fornell, D.F. Larcker, Evaluating structural equation models with unobservable 
+variables and measurement error, J. Market. Res. 18 (1) (1981) 39–50. 
+[68] J. Henseler, C.M. Ringle, R.R. Sinkovics, The use of partial least squares path 
+modeling in international marketing, In Sinkovics and Ghauri (Eds). New 
+Challenges to International Marketing, Emerald Group Publishing Limited, 2009. 
+[69] R.T. Cenfetelli, G. Bassellier, Interpretation of formative measurement in 
+information systems research, MIS Q. 33 (4) (2009) 689–707. 
+[70] L.S. Aiken, S.G. West, R.R. Reno, Multiple Regression: Testing and Interpreting 
+Interactions, Sage Publications, 1991. 
+[71] S.B. MacKenzie, P.M. Podsakoff, N.P. Podsakoff, Construct measurement and 
+validation procedures in MIS and behavioral research: integrating new and existing 
+techniques, MIS Q. 35 (2) (2011) 293–334. 
+[72] A. Tiwana, E.R. McLean, Expertise integration and creativity in information 
+systems development, J. Manag. Inf. Syst. 22 (1) (2005) 13–43. 
+[73] S. von Danwitz, Managing inter-firm projects: a systematic review and directions 
+for future research, Int. J. Project Manage. 36 (3) (2018) 525–541. 
+[74] P.P. Tallon, R.V. Ramirez, J.E. Short, The information artifact in IT governance: 
+toward a theory of information governance, J. Manag. Inf. Syst. 30 (3) (2013) 
+141–178. 
+[75] P.M. Podsakoff, S.B. MacKenzie, J.Y. Lee, N.P. Podsakoff, Common method biases 
+in behavioral research: a critical review of the literature and recommended 
+remedies, J. Appl. Psychol. 88 (5) (2003) 879–903. 
+[76] R¨onkk¨o, M. & Ylitalo, J. (2011). PLS marker variable approach to diagnosing and 
+controlling for method variance, In: ICIS 2011 Proceedings. Paper 8. 
+Dr Yunfei SHI is a Lecturer in the School of Information Systems and Technology Man­
+agement, the University of New South Wales, Australia. Her primary research interest 
+focuses on the enablement and the adoption of digital innovation, with its economic as 
+well as non-economic impacts (e.g., human wellbeing, environmental sustainability). Her 
+second research interest focuses on improving theories and methods in the IS discipline, 
+specifically on critical realist research. Dr Shi’s research has been published at conferences 
+such as International Conference on Information Systems, Pacific Asia Conference on Infor­
+mation Systems, and the Journal of Strategic Information Systems. She is currently a member 
+of Early Career Editorial Board at the Journal of Strategic Information Systems. 
+Dr Tingru CUI is a Senior Lecturer at the School of Computing and Information Systems at 
+the University of Melbourne, Australia. Her research interests are interdisciplinary, 
+exploring digital innovation, human-AI interaction, learning analytics and digital health. 
+Dr Cui has over 90 publications and has published in various journals including Journal of 
+Management Information Systems, Information Systems Journal, Journal of Strategic Infor­
+mation Systems, and IEEE Transactions on Knowledge and Data Engineering. She is currently 
+an Associate Editor for the journal Information and Management. 
+Dr Sherah KURNIA is an Associate Professor at the School of Computing and Information 
+Systems, the University of Melbourne, Australia. Her main research areas include tech­
+nology adoption, inter-organizational information systems, sustainable supply chain 
+management, and enterprise architecture. Dr Kurnia has over 180 publications and has 
+published in various journals including Journal of Information Technology, Journal of 
+Strategic Information Systems, Journal of Business Research, and International Journal of 
+Supply Chain Management. She has won seven Best Paper Awards from leading Information 
+Systems conferences. She is currently an Associate Editor for Information and Management 
+Journal and the Australasian Journal of Information Systems. 
+Y. Shi et al.                                                                                                                                                                                                                                      

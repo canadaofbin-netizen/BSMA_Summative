@@ -1,0 +1,630 @@
+Beating the odds in the innovation arena: The role of market and technology
+signals classification and noise
+Mark A.A.M. Leendersa,⁎, Corné A.M. Voermansb
+aUniversity of Amsterdam, ASCoR, Room B116a, Kloveniersburgwal 48, NL-1012 CX, The Netherlands
+bPhilips Lighting B.V ., Mathildelaan 1, 5611 BD Eindhoven, The Netherlands
+Received 24 August 2004; received in revised form 4 April 2005; accepted 6 October 2005
+Available online 28 February 2006
+Abstract
+Innovation is a risky business. Notwithstanding the attention in research on the determinants of innovation success, the estimates of the
+extremely high failure rates (ranging from 40% to 90%) have not come down. As a result, new approaches have to be found to address the
+issues that prevent organizations from reaching innovation success over a longer period of time. In this study, Signal Detection Theory(SDT) is introduced to show that it may be less important to improve innovation practices in companies, than it is to change the nature of
+the projects that enter the corporate innovation funnel. In our empirical study of 44 innovation projects in the pharmaceutical and
+electronics industry, we show that pursuing more noisy signals (uncertain technological and market opportunities) is currently beneficial forinnovation success. In general, companies allocate too few resources to noisy innovation opportunities. Interestingly, we find a positive, andnot an inverted U-shaped, relationship between noise/signal ratios and innovation success. This indicates that there are almost no companies
+that take too much risk in the current competitive environment and that many can gain from increasing their noise tolerance. The
+implications from this study are quite counter-intuitive in a sense that ‘risk’is not the cause of the innovation problems, but may be a
+solution.
+© 2006 Published by Elsevier Inc.
+Keywords: Innovation; Success; Signal Detection Theory (SDT); Noise; Blockbusters
+1. Introduction
+Innovations are the life-blood of most firms ( Shane, 2000;
+Wind & Mahajan, 1988 ). Yet, while it appears that many
+companies only develop some successful innovations by
+accident, a few other firms seem to have a consistent supplyof rewarding innovations ( Crawford & Di Benedetto, 2003 ).
+For instance, the Minnesota Mining and ManufacturingCompany (3M) is widely recognized as a truly successful andinnovative company. Today, 3M makes 66,000 products asdiverse as fire hose linings, surgical gowns, bingo supplies andScotch tape (3M Annual Report 2003). The company
+consistently ranks in the top 10 of Fortune's list of most
+admired companies and makes more than a quarter of its salesfrom products less than 4 years old. In the biotechnology
+industry, companies like Amgen have become industry leaderswith a consistent flow of new products such as Epogen , while
+other companies in the industry are taken over by others
+because they have no new products to replace their older ones,
+which are running out of patent protection.
+The potential causes for innovation performance differences
+have been widely established in earlier research, such as:variations in the quality of market analysis, differences inproduct design capabilities, timing, and marketing efforts(Griffin & Hauser, 1996; Henard & Szymanski, 2001; Ottum
+& Moore, 1997 ). From a strategic marketing perspective, many
+companies seem to have trouble accumulating and exploiting
+scarce innovation resources. Scientists adhering to the resource-based views argue that companies have to acquire andleverage
+scarce and difficult to imitate resources and capabilities toestablish a sustainable competitive advantage ( Barney, 1991;
+Day, 1994; McEvily, Eisenhardt, & Prescott, 2004 ). Interest-
+ingly, while much research is available and knowledge grows
+Industrial Marketing Management 36 (2007) 420 –429
+⁎Corresponding author. Tel.: +31 20 5256695; fax: +31 20 5253681.
+E-mail addresses: M.A.A.M.Leenders@uva.nl (M.A.A.M. Leenders),
+Corne.voermans@philips.com (C.A.M. Voermans).
+0019-8501/$ - see front matter © 2006 Published by Elsevier Inc.
+doi:10.1016/j.indmarman.2005.10.004
+on why some firms are more innovative than others, the
+difficulties surrounding innovation hardly seem to disappear(Cooper, 1993; Crawford & Di Benedetto, 2003; Montoya-
+Weiss & Calantone, 1994 ).
+One of the key reasons for failure seems to be inherently
+linked to the uncertainties surrounding any new product andservice. That is, before technological and market changes leadto new products and services, organizations have to identify
+and prioritize opportunities and allocate resources to develop
+them further. Since opportunities are surrounded withdifferent degrees of uncertainty, opportunity identificationand classification are far from trivial ( Shane, 2000 ).
+Interestingly, the identification of an opportunity may notcome from active search by an individual or organization. Itmay come from the recognition of the value of newinformation that is received through open channels with the
+environment ( Kirzner, 1997 ). Since the recognition is based
+on prior knowledge and experiences of the people in theorganization, only a subset of organizations will possess abackground that triggers the opportunity identification ( Shane,
+2000 ).
+In the present study, we introduce and test a relatively
+unknown theory from physics and psychology named SignalDetection Theory (SDT) that can complement current insights
+on innovation performance. SDT provides a theoretical
+approach to the identification and selection of signals thatare pursued for further action by individuals or organizations.SDT is now emerging as a modeling tool in marketing andother business areas, such as advertisement recognition testing(Cradit, Tashchian, & Hofacker, 1994 ), sales effectiveness
+(Knowles, Grove, & Keck, 1994 ), auditing ( Karim & Siegel,
+1998 ), and competition ( Lampel & Shapira, 2001 ). This
+theory seems to be very valuable in relation to existing
+resource-based research on openness and absorptive capacityas it provides a clue as to why companies may, or may not,pursue certain market and technology signals ( Cohen &
+Levinthal, 1990 ).
+SDT is a model on how humans detect (filter) signals in a
+background of interference or noise. Noise blurs the signal andis therefore a burden that needs to be reduced. However, from
+a marketing and innovation performance perspective, which is
+the focus of this study, noise may not be a burden at all since itmay distract competitors from detecting the same signal. Thismay lead to an early product introduction and probably a betterperformance in the market. However, as will be discussedlater, there are also other stakeholders that often preventorganizations from pursuing noisy signals. All these resultingforces together result in the fact that organizational filters
+range from ‘too loose ’(resulting in too many dead ends and
+costs) to ‘too rigid ’(resulting in too few unique competitive
+breakthroughs).
+The next section of this paper discusses the concept and
+aspects of learning and SDT. We test our framework with datafrom two industries, namely consumer electronics and pharma-ceuticals ( n=44). After that, we analyze our results and present
+our findings. Finally, the managerial implications, and sugges-
+tions for further research are presented.2. Theory on learning and SDT
+The process of knowledge acquisition and leveraging is often
+labelled “organizational learning ”. For example, Slater and
+Narver (1995) define the process of learning as a three-stage
+process that includes information acquisition, informationdissemination, and shared interpretation. Others conceptualizethe organizational learning process as the acquisition, dissem-
+ination, and utilization of information ( Argote, 1999 ). While in
+these definitions information is in the core, the purpose of
+learning is related to knowledge improvement or knowledge
+creation. Nonaka and Takeuchi (1995) state: “learning is
+defined as the activities through which group members acquire,share, and combine knowledge into a collective product throughexperience with another ”. As a facilitator, a learning orientation
+of the organization consisting of a high commitment to learning,
+shared vision, open mindedness, and adequate knowledge
+sharing, is needed ( Calantone, Cavusgil & Zhao, 2002 ).
+The theory of knowledge creation is anchored to the
+assumption that human knowledge is created and expandedthrough the social interaction between tacit and explicitknowledge. Prencipe and Tell (2001) argue that: “the quintes-
+sential knowledge creation process takes place when tacitknowledge is converted into explicit knowledge. In other words,
+our hunches, perceptions, mental models, beliefs, and experi-
+ences are converted to something that can be communicated and
+transmitted in formal and systematic language between people ”.
+Given the uncertainties and limited data in innovation, thisprocess plays an important role in innovation in general.
+From a broader resource-based perspective, the term acquisi-
+tion and leveraging refer to distinctive types of activities that canengender competitive advantage from technological and market-
+based competencies. Acquisition is the process by which
+organizations absorb, develop, and renew competencies. Lever-aging encompasses the transfer of knowledge to differentorganizational units and the exploitation, integration, andrecombination of extant competencies ( McEvily et al., 2004 ).
+Learning is therefore a key organizational phenomena that is oftenconceptualized as a sequential or linked process within andbetween functional groups. As a result, understanding how groups
+learn, provides the micro foundation for understanding organiza-
+tional learning ( Hatch, 1997 ). A group is made up of individuals
+who share some identity and whose tasks are interdependent. As aresult, they have to show some level of cooperative behaviour tobe successful. Many different groups exist in organizations andthey can be large or small, temporarily or for a very long time.What is especially important in innovation are functional andcross-functional groups ( Griffin & Hauser, 1996 ). Functional
+groups provide ‘depth ’in a certain functional area such as R&D or
+Marketing ( Allen, 1977 ). The use of cross-functional groups
+facilitates integration and time to market for developing newproducts ( Crawford & Di Benedetto, 2003 ,p .3 0 3 ) .A sar e s u l t ,
+innovation performance is to a considerable extent the result of along process of information or knowledge acquisition and sharingwithin and between functional groups. So, successful innovationover a longer period of time has to be facilitated with a learning
+process that scores high on a ranges of key metrics or strategic421 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+success factors such as (see Brockhoff, 2003 ): (1) information
+acquisition, (2) group learning, and (3) sharing (also with othercompanies and customers).
+Before we will identify some key learning/innovation
+metrics and develop hypotheses, Signal Detection Theory isintroduced.
+2.1. SDT
+Signal Detection Theory provides a theoretical approach to
+the identification and selection of signals. SDT is a model onhow humans detect signals in a background of interference ornoise. The human observer considers a particular event anddecides whether it is a signal or noise. SDT assumes that there isan overlap between the distributions of signal and noise, so thata particular observation may have come from either distribution.
+The observer then has to decide whether to accept or reject the
+event as a signal. There are four possibilities in the decisionmatrix of the observer ( Cradit et al., 1994 ):
+1. the observer notices a noise when it is a signal (miss)
+2. the observer notices a signal when it is a signal (a hit)3. the observer notices a noise when it is a noise (correct
+identification)
+4. the observer notices a signal when it is a noise (false alarm).
+The observer should make a decision concerning the event
+and classify it either as a signal or a noise. There are two maincomponents in the decision-making process: informationacquisition and criterion. Th e purpose of acquiring more
+information is to increase the likelihood of getting either a hitor a correct identification. The second component is subjective; it
+is based upon the own judgement of the observer. This judgement
+might be based on existing knowledge capabilities, mentalmodels, and premises. From a corporate perspective, certainsignals can only be detected by adjusting the noise tolerance.
+There is a major difference between business and physics: in
+physics information has the role of eliminating noise as much aspossible. By eliminating noise in physics, the level of risk indecision-making is decreased. In business, noise is almost a
+necessary element as without noise the signal can be detected by
+any competitor, which makes it a less attractive new productopportunity. The ability of being able to detect and act upon(weak) signals in an environment with large amounts of noise,before others do, can lead to a competitive advantage becausethe market will be less crowded and/or positions can be betterdefended ( Day, 1994 ). This argument also relates to the
+competitive forces approach of Porter (1980) and it puts an
+emphasis on the intensity of competition in the industry or
+market segment that determines profitability.
+2.2. Hypotheses
+As mentioned before, information and knowledge leveraging
+are considered two key components of the learning process andultimately innovation success. Relevant information flows can
+come from a variety of sources, including internal databases,which contain to a certain extent the firm's organizational
+memory, and external sources such as journals, reports, andfrom interactions with other firms ( Mascitelli, 2000 ). In an
+innovation context, the detection and generation of relevantmarket and technology information is linked to resources suchas absorptive capacity or open relationships with the environ-ment ( Cohen & Levinthal, 1990 ). Organizational openness
+relates to the mere availability of relevant information through a
+range of channels and this information is later transferred
+through face-to-face interactions and through dialogue to otheremployees of groups. Since the core groups in innovation arefunctional (specialized in for example basic science) or cross-
+functional (such as a cross functional team), the following
+hypotheses are formulated as a starting point:
+H1. There is a positive relationship between openness of the
+corporate innovation system and innovation success.
+H2. There is a positive relationship between knowledge
+leveraging within and between functional departments and
+innovation success.
+Signal detection theory argues that the interpretation of all
+(new) information depends on the sensitivity of the observer. Asa result, the availability of information alone and capable
+downstream leveraging capabilities are not sufficient; the noise
+filter determines whether a piece of information is detected at alland classified as an opportunity. The level of success in filteringsignals in a background of interference of noise is believed to bedependent on what we will call the filter sensitivity (see Fig. 2 ).
+Filter sensitivity relates to the firm's degree of sensitivity
+with respect to responses to market and technology signals. So,it indicates whether a firm has a low or high threshold level to
+respond. This dimension relates to the firm's willingness to take
+risk. In cases of high noise levels (upper part of Fig. 2 ), where
+signals are really blurred, there can be two types of outcomes:(1) a competitive miss (no action was taken) or (2) a competitivehit (action was taken). In cases of low noise (lower part), acompetitive hit is not likely to be obtained because othercompanies see the same opportunity, resulting in me-toocompetition. If there is no uncertainty and the company decides
+not to take action, there was likely no sound business case to
+pursue.
+Fig. 2 shows the application of SDT in competitive
+innovation. If one compares it with Fig. 1 , there are two
+miss hitno yes
+SignalResponse
+false
+alarmNoyes
+correct
+identifi-cation
+Fig. 1. The Signal Detection Theory (SDT) model.422 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+major differences. First, there is no signal and noise distinction
+because there is always an opportunity (signal) behindinnovation work and as a result there is only more or lessnoise (vertical axe). Second, there is a special cell called“competitive hit ”, which relates to the fact that competitors may
+not pursue the signal as well, likely to lead to above averagereturns in the market ( Porter, 1980 ). It is important to note that
+more noise is not similar to a more innovative product.
+Innovativeness is related to the technologies or products that are
+developed to address the opportunity. Innovative or lessinnovative products may be developed for all quadrants.
+An interesting question is what happens if a company adopts
+more noisy signals? Fig. 2 shows that these types of companies
+position themselves in the competitive hit arena (lower figure).A noise neutral innovator will be equally active in all fourquadrants (upper figure). A noise tolerant firm will be biased
+towards the upper right cell (competitive hits).
+There are many forces that determine the level of signal/
+noise sensitivity an organization wants, or can, achieve in itsinnovation efforts. Stakeholder theory ( Freeman, 1984 ) sug-
+gests that organizations have to manage many relationships inan unpredictable environment and many stakeholders may notlike the focus on more noisy signals. Investors and credit rating
+agencies, for example, may not prefer these initiatives. Others,such as innovative partners and entrepreneurial employees, maywelcome a higher noise tolerance as illustrated by the followingcase description:
+Box 1
+Epogen of the biotechnology company Amgen
+Since its foundation in 1980, the company Amgen
+has grown from a handful of employees at its
+Thousand Oaks headquarters in California, to a
+company employing more than 10,000 people span-
+ning the globe in 2002. Amgen discovers, develops,
+manufactures and markets human therapeutics
+based on advanced cellular and molecular biology.
+Its annual revenue is around $ 6 billion in 2003.
+The success of Amgen started with Epogen.
+Epogen is a recombinant erythropoietin product.
+Erythropoietin is a protein hormone that origins from
+the kidney and stimulates red blood cell formation.
+Patients with impaired kidney function do not
+produce sufficient quantities of erythropoietin and,
+as a result, develop chronic anemia. Without ade-
+quate amounts of erythropoietin, there are too few
+red blood cells to deliver oxygen throughout the body.
+Amgen was the only company to pursue and
+develop a product based on the hormone. It seems
+that Amgen's filter sensitivity allowed it to detect
+and pursue the signal and to isolate and synthesize
+the human erythropoietin gene, which was extre-
+mely difficult with no guarantee for success. Other
+firms also thought there was no big market.
+However, the leading scientists devised a clever
+way of isolating the human gene based on a new
+method of screening human genomic libraries. After
+two years of long days and nights in the laboratory
+they succeeded in isolating the human gene and this
+placed Amgen in the leadership position worldwide
+to develop a therapeutic agent. After that, the
+market exploded as tests showed beneficial results
+for all types of patients (and illegally for athletes).
+Sources: www.Amgen.com ,A m g e np r e s s
+releases.
+We recognize that at some point, setting the right level of
+noise tolerance becomes a delicate balancing act with respect to
+all stakeholders.1For example, if filters are too loose, (too)
+many signals will be pursued, leading to many dead ends andwasted resources that could paralyze a firm's innovation systemNoise Neutral Innovator 
+Noise Tolerant Innovator   No                              High
+Low
+Level of  Noise 
+Firm’s response Yes
+ to a signal Competitive 
+Hit 
+Hit No 
+Business case Competitive 
+Miss 
+Filter Sensitivity
+ No                                                 Yes  High 
+Low 
+Level of  Noise 
+Firm’s response 
+ to a signal Competitive
+Hit 
+Filter Sensitivity
+Fig. 2. SDT models for two types of organizations.1There are many strategies a firm can follow with respect to secretly hiding
+initiatives and signaling that it is, or is not, pursuing certain signals. This is part
+of how companies try to protect advantages or try to create a lead-timeadvantage. However, in this study we focus on what is actually pursued in theNPD funnel.423 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+and performance. If filters are too tight, insufficient competitive
+hits will occur, leading also to suboptimal performance as well.
+However given the low levels of noise tolerance of importantstakeholder such as banks and shareholders, we expect that inthe current environment, accepting more noise is better forperformance. So we expect that:
+H3. In the current business environment, there is a positive
+relationship between noise/signal (tolerance) and innovationsuccess.
+By conducting a comprehensive test of the hypotheses, we
+hope to be able to show that SDT's key noise concept can offeradditional explanatory power in explaining innovation success.As such, it can establish SDT in an innovation context.
+3. Methodology
+3.1. The research population and sampling
+The empirical part of this study was conducted in two
+industries: pharmaceuticals and electronics. We opted for theseindustries for several reasons. First, innovation plays an importantrole in these industries and relatively many companies areinvolved in innovation activities. Second, these companies pursueprojects with high and low levels of noise around market and
+technology signals. Finally, the two industries cover a process
+industry and an assembly/manufacturing industry. It seems
+interesting to explore whether there are similar mechanismsbehind success. The final data set consists of 24 biotechnologyprojects and 20 electronics projects in the Netherlands andBelgium. The projects range from recombinant human insulin anda HIV test to a large Xenon car light project. The average projectsize is $25 million Euros with the most expensive one being an
+estimated $200 million Euros. The sample was developed by
+contacting firms in this industry randomly from a large list ofcompanies mentioned in trade journals and identifying projectmanagers that were willing to participate in the interviews. The
+final response rate of companies in the sample was 80%.
+3.2. Questionnaire
+Data were collected by means of semi-structured interviews
+of about 1 –1.5 h at the company site. With respect to the open
+parts of the interview, notes were taken and they were later send
+to the informant to provide feedback. The structured parts were
+developed using multi-item scales for the key variables. Theunit of analysis for the questionnaire was the new productdevelopment project and the informant was asked to select themost recent project he/she worked for. We decided to ask for the
+most recent instead of successful/unsuccessful to get a morerandom draw of projects and to reduce memory problems.
+3.3. Measures
+The key measures in this study are: (1) a set of variables
+related to “openness of the innovation system ”, (2) a set of
+variables related to “knowledge leveraging ”, (3) “noise/signal
+ratio ”, and (4) “innovation success ”. We used existing scales as
+much as possible and a complete list of the items and their sourceis presented in Appendix 1. We decided not to use measures for
+the strength of the signal and noise separately because there was
+a strong negative correlation between signal and noise in thedata. As a result, a comprehensive noise/signal measure wasused with higher scores indicating more noise relative to thesignal. Scale analysis was used to make sure that the measuresare uni-dimensional with sufficient reliability. The variable“Resources ”was included as a control variable. The Cronbach α
+values of the multi-item scales are acceptable (see Appendix 1).
+3.4. The projects in the sample
+The response set contains a broad variation of projects,
+including breakthrough and incremental innovations (asperceived by the respondent).
+Table 1 provides an overview of the level of innovativeness
+of the projects that resulted from our sampling approach. The
+projects of the sample are relatively important to the companies
+concerned: 77% of all the projects are perceived by therespondents to belong to the (future) core of the company.Table 1
+Overview of projects in the sample (as perceived by the respondent)
+Breakthrough Incremental Total
+Pharmaceuticals 14 10 24
+Electronics 3 17 20
+Total 17 (39%) 27 (61%) 44 (100%)
+Table 2Descriptive statistics and inter variable correlations
+12 34 56 7 8 9
+1 Internal knowledge acquisition 1
+2 External knowledge acquisition .022 13 Functional learning .116 .238 1
+4 Cross-functional learning .105 .290 .035 1
+5 Learning from customers .242 .112 .403 ⁎ .105 1
+6 Learning from other firms −.162 .112 .094 .101 .298 ⁎⁎ 1
+7 Noise/Signal .101 −.086 −.307 ⁎⁎ .162 .003 .158 1
+8 Resources −.003 −.171 .217 −.031 −.186 −.019 −.405 ⁎ 1
+9 Innovation Success .273 ⁎⁎ −.160 −.119 −.013 .330 ⁎⁎ .282 .449 ⁎ −.271 1
+⁎Correlation is significant at the 0.01 level (two-tailed).
+⁎⁎Correlation is significant at the 0.05 level (two-tailed).424 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+4. Results
+Before we test our hypotheses, the inter-variable correlation
+matrix is presented in Table 2 .
+The correlations matrix reveals that there is a high positive
+correlation between functional learning and learning fromcustomers. This is in line with the general trend to use customerfeedback, customer visits, and prototyping in innovation. The
+correlation matrix also shows some negative relationships
+between variables. A negative correlation is revealed betweennoise/signal and functional learning (intra departmental). Thismay indicate that specialized groups are less interested todevelop new knowledge based on weak signals surrounded byconsiderable amounts of noise. For marketing, it is often the casethat the absence of upfront market potential might negativelyaffect the eagerness of marketers to ‘go for it ’. A negative
+relationship is also found between resources and noise ( r=
+−.405, pb.01). It is important to note that resources were
+measured at the project level and not at the firm level. A negativecorrelation between resources and noise could indicate thatprojects with higher noise levels (competitive hit area of the SDTmodel for innovation) are rewarded with a relatively lower levelof resources. Possibly management is having some reservations(related to risk and uncertainty) when awarding project ideas
+with resources that are based upon relatively weak signals. As
+such, the low levels of allocated resources could resemble‘probing ’before making definite choices, but it may also be a
+sign that the noise tolerance is relatively low on average. Finally,the correlation matrix shows that there is a positive correlation
+between ‘innovation success' with ‘learning from customers ’
+and ‘noise ’.
+As a second step, a multiple-regression model is estimated.
+Based on the correlations between the independent variables
+(rb.5) multicollinearity is not a major problem. To test for a
+non-linear effect of noise, we included the main effect for noiseand (noise×noise). To reduce multicollinearity further, thevariables noise and noise×noise were mean centred ( Jaccard,
+Turrisi & Wan, 1990 ).
+4.1. Factors that affect innovation success
+Four independent variables have a significant effect on
+innovation success: internal knowledge acquisition, learningfrom other firms, cross-functional learning, and noise/signal.
+4.1.1. Openness
+Internal knowledge acquisition is significant ( β=396,
+pb.05). It shows that proper and active consultation of up-to-
+date, reliable and accessible internal knowledge –that holders
+are willing to share –has a positive influence on innovation
+success. Earlier research has also stressed the importance oforganizational memory that, among others, is embedded in theorganization's knowledge base ( Argote, 1999 ). External
+knowledge acquisition is not significant (the negative signmay indicate that there are counter-productive forces in terms ofprotecting resources if firms depend too much on outside
+knowledge). Learning from other firms is significant andpositive with respect to innovation performance ( β=.357,
+pb.05). It highlights the importance of outside learning that
+results from interactions with other firms and openness. Itreveals that learning from other firms, such as co-developingfirms and also universities or research centres, highly contributeto success. H1 is generally supported.
+4.1.2. Leveraging knowledge: functional learning and cross-
+functional learning
+The table shows a positive but not significant βforfunctional
+learning . So, although the direction is in line with our
+expectations, it does not significantly explain variance ininnovation performance.
+Cross-functional learning is significant, but it has a negative
+coefficient ( β=−369, pb
+.1). Possibly interface management is
+over-emphasized in the projects in the sample. In general, cross-
+functional interfaces are considered critical in the new product
+development process. It is not unlikely that in their efforts tomanage the critical interfaces between for instance Marketingand R&D, the target has been overshot. To put it differently,possibly there is ‘too much cross-functional talking and
+cooperation ’(for instance between departments or in multi-
+functional project teams). Souder (1988) for example found that
+there were organizations where marketing and R&D were too
+good friends. In addition, Leenders and Wierenga (2002) found
+that there are some negative performance side-effects of certain(formal) organizational integration mechanisms. H2 is notsupported.
+4.1.3. Noise/signal
+Noise/signal is significant and the coefficient is in the
+expected direction ( β=.326, pb.1). The regression analysis
+confirms that noise contributes to innovation success. It may
+indicate that noise hides weak signals, which are harder todetect, but if pursued lead to more successful new productsbecause other firms do not follow the same track, resulting inless (me-too) competition and higher market performance. So,
+Table 3
+Multiple regression analysis including a curvilinear noise effect
+Independent variable: β t Significance
+Openness
+Internal knowledge acquisition .396 2.389 .025
+External knowledge acquisition −.074 −.460 .650
+Learning from customers .151 .873 .391Learning from other firms .357 2.094 .047
+Leveraging
+Functional learning .107 .572 .572Cross-functional learning −.369 −1.898 .069
+Noise tolerance
+Noise/signal (mean centred) .326 1.798 .084
+Noise×noise (mean centred) .045 .220 .827
+Control variable
+Resources −.088 −.421 .678
+Dependent variable: innovation success.
+R
+2=.28.425 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+the drawbacks of a more lenient noise classification system
+(e.g., information overload, costs of trying many avenues) do
+not seem to outweigh the potential benefits.
+4.1.3.1. Exploring possible non-linear relationships between
+noise and innovation success. It may be the case that noise/
+signal has a non-linear effect on performance. In other words,there may be a curvilinear effect or even an optimum. Table 3 ,
+however, does not show a significant coefficient for the
+noise×noise variable after controlling for the main effects.
+The increase in R
+2due to the interaction is also not significant.
+So, there does not seem to be an optimal level of noise withrespect to performance (inverted U-shape): Increases of noiseare accompanied by increases in performance and there is noturning point where noise starts to influence innovation successnegatively (see Fig. 3 ). H3 is supported.
+The curve estimation reveals that the curve has an almost
+linear progression. This is a quite remarkable result because
+there is quite some variation in the level of noise in the sample.So, it shows no real limit to the benefits of pursuing noisysignals in the current industry environment. On the contrary, themore noise the better. The curve shows an almost linearrelationship between noise and new product performance. Ofcourse, theoretically it is still possible that the figure is differentfor more extreme levels of noise or no noise at all. However, our
+study shows that companies may increase innovation perfor-
+mance by selecting signals that are less clear and are surroundedwith more noise. From a stakeholder perspective, the resultsshow that noisy signals may not only be pursued from acompetitor perspective, but also from a financial or shareholderperspective as the benefits outweigh the risk.
+Different relationships between noise/signal and performance
+may exist beyond the noise level included in this study. Maybe
+the most likely relationship is that an optimal noise level occurs
+somewhere (after that, it really becomes too risky and involvestoo much costs). Another possibly may be that the curve wouldshow a steep increase beyond a certain level of noise. This couldoccur in such cases where no single competitor pursues thesignal. This was for example the case in the pharmaceuticalindustry when the company AstraZeneca developed the drugLosec . The ethical drug completely blocks the acid production in
+the stomach to prevent stomach problems. Because all companiesthought this was too rigid to work (noise), it was not pursued.
+However, it created one of the most financially successfulproducts ever developed in the pharmaceutical industry. Finally,the curve could show a drop-off after our signal/noise levels. Thiscould occur in case that the risks and costs are really too high forlarger levels of noise relative to the signal.
+Finally, we conducted several sensitivity analyses. First, we
+added innovativeness to the regression as an independent
+variable. Innovativeness was positively related to innovation
+success ( β=.28, pb.10) but did not substantially affect the other
+coefficients. The correlation between noise and innovativenessisr=.24, pb.1 supporting the notion that noise and innova-
+tiveness are different concepts. To test whether there aresubstantial differences between the two industries, we ranseparate regressions for the two industries. However, we foundsimilar patterns in size of the coefficients and their signs. In
+addition, independent samples t-tests were done to see whether
+the industries differ on the main variables in this study. Overall,we only found significant differences in the average scores forexternal knowledge acquisition (mean Electronic Indus-try=3.15, mean Biotech=3.76) and for resources (meanElectronic Industry=4.05, mean Biotech=3.29). This indicatesthat the pattern in the data is quite general and robust.
+5. Conclusions and discussion
+The starting point for organizational learning in new product
+innovation is often an opportunity or idea with respect to newtechnologies, emerging needs in the market, or both. In thisresearch we adopted a relatively new approach to explain whysome firms are more successful with their innovation effortsthan others: Signal Detection Theory (SDT).
+Bringing successful innovations to the market involves a
+long process of information processing and learning. SDTshows that the chances for success are related to the level ofnoise that firms find acceptable (related to market andtechnology risk/uncertainty). Interestingly, noise tolerance hastwo sides. If a lot of uncertainty is accepted (low signal to noiseopportunities are pursued), a lot of investments have to be madeand many dead ends have to be taken for granted. This may not
+be in line with the interests of important stakeholders such as
+banks or credit rating organizations. If only low levels ofuncertainty are accepted, many missed (not recognized) signalswill also result in low innovation performance. In addition,certain stakeholders such as entrepreneurial employees ornetwork partners will not prefer this approach either. The keyquestion that results from this is where the balance currentlylies: Do companies accept too much or too little noise?
+From our empirical research in the pharmaceutical and
+electronics industry, we learned that companies may currentlybe a little too conservative with the levels of noise they findacceptable –or, to put it differently, that the corporate filters are
+too rigid and that they are missing many interesting opportu-nities. A closer look at the relationship between the level ofnoise around the signal and innovation success even showedthat there is currently a linear positive relationship between
+noise and new product success.Innovation Success
+5                        
+4 3 
+2
+1
+05 3 2 14
+Noise/ signal
+Fig. 3. Relationship between noise/signal and innovation success.426 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+Noise is a combination of all kinds of surplus and non-
+relevant technical and market information that distracts anobserver from identifying a signal that could be pursued –if
+detected –and could lead to a successful new product. Noise is
+making it more difficult to detect a signal, but, maybe a bitparadoxical, this very nature of noise affects new productperformance. Noise contributes to new product success becausenoise ‘hides ’signals and therefore decreases the likelihood that
+competitors pursue the same learning track. Thus, if competitors
+do not pursue learning it can create a competitive advantage forothers ( Porter, 1980 ). In environments where successful new
+products are, to a large extent, based upon achieving andowning first-to-market intellectual property, noise is even a pre-condition for new product success. This is quite counter-intuitive in a sense that innovation risks are not the cause of theinnovation problems and low success rate, but a competitive
+opportunity.
+Besides detection of the signal, translating the signal into
+appropriate action is important too. Here we believe entrepre-neurship may play an important role. Weak signals often resultin weak business cases, that, if rewarded at all, often lacksufficient resources for action because management might tendto prioritize towards stronger, and less risky business cases. Theentrepreneur, driven by personal belief and commitment, also
+plays a major role in this arena through the ability of coalition
+forming. The importance of the individual, or a small group ofpeople, in detecting and pursuing the weak signal is striking intheEpogen case presented earlier. Research on entrepreneurs
+and opportunity identification strongly supports this notion.Shane (2000) argues that more research is need on why some
+entrepreneurs manage to exploit some technologies andmarkets. He argues for example that “entrepreneurs can and
+will discover those opportunities without searching for them ”.
+This may have a direct link to SDT. Our interviews stronglyshowed that the entrepreneurs were noise tolerant and able tocombine information from the market and from technology,which led to the recognition of the weak signal out of noise.
+Most of the time, entrepreneurs followed their personal
+belief in pursuing a signal based on his or her prior knowledge(Shane, 2000 ). Personal belief and commitment is an important
+driving force, as an entrepreneur has to overcome internal
+skepticism (existing filters) that results from noise ( ‘this is not
+possible ’,‘there is no market for this ’, and so on) and many
+times has to fight for resources. Obtaining resources for the newidea based upon weak signals can be very difficult as weaksignals mostly also lead to weak business cases. Weak businesscases lead to difficulties in getting financial support to start up anew product project. Entrepreneurs however do not let
+themselves hinder by this, they are willing to take risks to
+find the resources they need. These entrepreneurs, eitherindividuals or small groups of people, have a specific capabilityto get things done, such entrepreneurs can be found in anyorganization. These entrepreneurs are capable of coalitionforming and finding other individuals in pursuing andaccomplishing their goals. So, more research is needed tounderstand this process (see also Daniel, Hempel, and
+Srinivasan (2003) for a broader discussion on project selection).Overall, the findings of this research contribute to improving
+new product innovation success by increasing the awarenessthat there is a rewarding side to the tolerance for –and the
+ability to detect and pursue –noisy signals in the innovation
+arena.
+Acknowledgements
+The authors like to thank the Erasmus Research Institute of
+Management (ERIM) and the Erasmus ‘Trustfonds ’for their
+financial support. Mark Leenders thanks John Hauser and otherMarketing colleagues at M.I.T. in Boston for their support andcomments on earlier versions during his 6-month visit.
+Appendix A. Overview of measurement scales
+Internal knowledge acquisition
+Items Source1. Information sources inside the firm
+were easy to accessMoorman and Miner (1997)
+2. Information inside the firm was reliable Moorman and Miner (1997)
+3. Information inside the firm was updated Moorman and Miner (1997)
+4. Holders of information were willing
+to share and cooperateMoorman and Miner (1997)
+Cronbach αreliability of 0.7469.
+External knowledge acquisition
+Items Source5. The knowledge potential of external information
+sources (literature, universities, internet) was
+known and exploitedKessler, Bierly, and
+Gopalakrishnan (2000)
+6. External information sources were easy to access Kessler et al. (2000)
+7. External firms (customers, suppliers, others)
+were an important source of informationKessler et al. (2000)
+8. External information was reliable Kessler et al. (2000)
+Cronbach αreliability of 0.7162.
+Learning from customers
+Items Source
+9. Feed-back and learning from customers were
+actively pursuedLynn, Morone, and
+Paulson (1996)
+10. Some form of prototyping and/or test projects,
+including iterative feed-back loops with customers,
+were used in the projectLynn et al. (1996)
+11. Customers were/are open and willing to share Lynn et al. (1996)
+12. Customers provided both explicit and tacit knowledge Mascitelli (2000)
+13. Tacit knowledge from customers was important Mascitelli (2000)
+Cronbach αreliability of 0.7597.
+Learning from other firms
+Items Source14. There was involvement of other firm(s) in the development
+of the productTsai (2001)
+15. Other firm(s) were developing a complementary product
+16. The level of openness of the other firm(s) was appropriate Tsai (2001)
+17. The level of trust between the two firms was appropriate Tsai (2001)
+Cronbach αreliability of 0.6806.427 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+Functional learning
+Items Source18. With this project a lot was
+learned within ResearchLynn, Skov,
+and Abel (1999)
+19. With this project a lot was
+learned within DevelopmentLynn et al. (1999)
+20. With this project a lot was learned within
+MarketingLynn et al. (1999)
+21. Problem solving and trial-and-error
+(based upon today's technology) within thedepartment were an important source ofknowledge creationLynn et al. (1996)
+22. Experiments within the department were an
+important source of (new) knowledge creationLynn et al. (1996)
+23. Tacit knowledge within the department was
+important for learningMascitelli (2000)
+Cronbach αreliability of 0.6814.
+Crossunctional learning
+Items Source24. Knowledge transferred easily from
+Research to DevelopmentOttum and Moore (1997)
+25. Knowledge transferred easily from
+Development to MarketingOttum and Moore (1997)
+26. Knowledge transferred easily from
+Research to MarketingOttum and Moore (1997)
+27. It was possible to by-pass certain
+departments to gather new knowledgeOttum and Moore (1997)
+Cronbach αreliability of 0.7714.
+Noise/Signal (higher scores mean more noise relative to the signal)
+Items Source28. The idea for the new product came
+from a weak technological signalShane and Venkataraman (2000)
+29. The idea for the new product came
+from a weak market signalShane and Venkataraman (2000)
+30. Competitors clearly missed the signal
+that led to this innovationShane and Venkataraman (2000)
+Cronbach αreliability of 0.6519.
+Noise/Signal Innovation successItems Source37. The project was a success with regard to costs Cooper (1993)
+38. The project was a success with regard to time Cooper (1993)
+39. The project was a success with regard to
+Return On InvestmentCooper (1993)
+40. The project was a success with regard to
+competitivenessCooper (1993)
+Cronbach αreliability of 0.6043.
+Resources (single item)Item Source
+41. Availability of resources for the project was no issue Argote (1999)
+References
+Allen, T. J. (1977). Managing the flow of technology. Cambridge: MIT
+press.
+Argote, L. (1999). Organizational learning: Creating, retaining and transfer-
+ring knowledge. Boston: Kluwer Academic Press.
+Barney, J. (1991). Firm resources and sustained competitive advantage. Journal
+of Management ,17,9 9−120.Brockhoff, K. (2003). Exploring strategic R&D success factors. Technology
+Analysis and Strategic Management ,13(3), 333 −348.
+Calantone, R. J., Cavusgil, S. T., & Zhao, Y. (2002). Learning orientation, firm
+innovation capability, and firm performance. Industrial Marketing Man-
+agement ,31, 515−524.
+Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new
+perspective on learning and innovation. Administrative Science Quarterly ,
+35, 128−152.
+Cooper, R. G. (1993). Winning at new products. Cambridge: Addison-Wesley.
+Cradit, J. D., Tashchian, A., & Hofacker, C. F. (1994). Signal detection theory
+and single observation designs: Methods and indices for advertising
+recognition testing. Journal of Marketing Research ,31,1 1 7−127.
+Crawford, M., & Di Benedetto, A. (2003). New products management. Boston:
+McGraw-Hill.
+Daniel, H. Z., Hempel, D. J., & Srinivasan, N. (2003). Project selection; a
+process analysis. Industrial Marketing Management ,32,3 9−54.
+Day, G. S. (1994). The capabilities of market-driven organizations. Journal of
+Marketing ,58,3 7−52.
+Freeman, R. E. (1984). Strategic management: A stakeholder approach. Boston:
+Pitman.
+Griffin, A., & Hauser, J. R. (1996). Integrating marketing and R&D: A review
+and analysis of the literature. Journal of Product Innovation Management ,
+13, 191−215.
+Hatch, M. J. (1997). Organization theory. New York: Oxford University Press.
+Henard, D. H., & Szymanski, D. M. (2001). Why some new products are more
+successful than others. Journal of Marketing Research ,38, 362−375.
+Jaccard, J., Turrisi, R., & Wan, C. K. (1990). Interaction effects in multiple
+regression. Thousand Oaks: Sage University Papers.
+Karim, K. E., & Siegel, P. H. (1998). A signal detection theory approach to
+analysing the efficiency and effectiveness of auditing to detect management
+fraud. Managerial Auditing Journal ,13, 367−375.
+Kessler, E. H., Bierly, P. E., & Gopalakrishnan, S. (2000). Internal versus
+external learning in new product development: Effects on speed, costs, and
+competitive advantage. R&D Management ,30(3), 213 −224.
+Kirzner, I. (1997). Entrepreneurial discovery and the competitive market
+process: An Austrian approach. Journal of Economic Lit ,35,6 0−85.
+Knowles, P. A., Grove, S. J., & Keck, K. (1994). Signal detection theory and
+sales effectiveness. Journal of Personal Selling and Sales Management ,14
+(2), 1−14.
+Lampel, J., & Shapira, Z. (2001). Judgemental errors, interactive norms, and the
+difficulty of detecting strategic surprises. Organization Science ,12,
+599−611.
+Leenders, M. A. A. M., & Wierenga, B. (2002). The effectiveness of different
+mechanisms for integrating marketing and R&D. Journal of Product
+Innovation Management ,19, 305−317.
+Lynn, G. S., Morone, J. G., & Paulson, A. S. (1996). Marketing and
+discontinuous innovation: The probe and learn process. California
+Management Review ,38(3), 8−37.
+Lynn, G. S., Skov, R. B., & Abel, K. D. (1999). Practices that support team
+learning and their impact on speed to market and new product success.Journal of Product Innovation Management ,16(5), 439 −454.
+Mascitelli, R. (2000). From experience: Harnessing tacit knowledge to achieve
+breakthrough innovation. Journal of Product Innovation Management ,17,
+179−193.
+McEvily, S., Eisenhardt, K. M., & Prescott, J. E. (2004). The global acquisition,
+leverage, and protection of technological competencies. Strategic Manage-
+ment Journal ,25, 713−722.
+Moorman, C., & Miner, A. S. (1997). The impact of organizational memory on
+new product performance and creativity. Journal of Marketing Research ,34,
+91−106.
+Motoya-Weiss, M. M., & Calantone, R. (1994). Determinants of new product
+performance: A review and meta-analysis. Journal of Product Innovation
+Management ,11, 397
+−417.
+Nonaka, I., & Takeuchi, H. (1995). The knowledge-creating company. New
+York: Oxford University Press.
+Ottum, B. D., & Moore, W. L. (1997). The role of market information in new
+product success/failure. Journal of Product Innovation Management ,14,
+258−273.428 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429
+Porter, M. (1980). Competitive strategies. New York: The Free Press.
+Prencipe, A., & Tell, F. (2001). Inter-project learning: Processes and outcomes
+of knowledge codification in project-based firms. Research Policy ,30,
+1373−1394.
+Slater, S. F., & Narver, J. C. (1995). Market orientation and the learning
+organization. Journal of Marketing ,59,6 3−74.
+Shane, S. (2000). Prior knowledge and discovery of entrepreneurial opportu-
+nities. Organization Science ,11(4), 448 −469.
+Shane, S., & Venkataraman, S. (2000). The promise of entrepreneurship as a
+field of research. Academy of Management Review ,25(1), 217 −226.
+Souder, W. E. (1988). Managing relations between R&D and marketing in new
+product development projects. Journal of Product Innovation Management ,
+5(1), 6−19.
+Tsai, P. (2001). Knowledge transfer in intraorganizational networks: effects of
+network position and absorptive capacity on business unit innovation and
+performance. Academy of Management Journal ,44, 996−1004.Wind, Y., & Mahajan, V. (1988). New product development process: A
+perspective for re-examination. Journal of Product Innovation Management ,
+5, 304−310.
+Mark A.A.M. Leenders is an Assistant Professor at ASCoR, University of
+Amsterdam. He holds an MSc in Management Science from the University ofEindhoven and a Ph.D. in Marketing and Technology Management from the
+Rotterdam School of Management. His research interests lie in the area of new
+product development in blockbuster industries.
+Corné A.M. Voermans is a European Marketing Manager of Retail and
+Hospitality, Philips Lighting, Business Unit Professional Lamps Europe,
+Eindhoven. He holds an MSc in Business Administration from the RotterdamSchool of Management.429 M.A.A.M. Leenders, C.A.M. Voermans / Industrial Marketing Management 36 (2007) 420 –429

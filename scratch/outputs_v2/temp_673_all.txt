@@ -1,0 +1,1564 @@
+International Journal of Information Management 64 (2022) 102490
+Available online 10 February 2022
+0268-4012/© 2022 Elsevier Ltd. All rights reserved.Research article 
+The interactive effects of individual boundary spanning and boundary 
+buffering when using enterprise social media 
+Jianru Zhanga, Xiaosong Wub,*, Ju’e Guoa, Randi Jiangc 
+aSchool of Management, Xi’an Jiaotong University, Xi’an, China 
+bTsinghua Shenzhen International Graduate School, Shenzhen, China 
+cSchool of Accounting, Grand Valley State University, Michigan, USA   
+ARTICLE INFO  
+Keywords: 
+Enterprise social media 
+Individual boundary spanning 
+Individual boundary buffering 
+Mindfulness ABSTRACT  
+Enterprise social media (ESM) provides convenient channels for employees to access enterprise-wide work re-
+sources but also exposes employees to potential distractions. Prior studies have confirmed this “two-sided ” role of 
+ESM usage on employee work performance. Ongoing studies are exploring possible methods to alleviate side 
+effects of ESM usage. Drawing on boundary management literature and information processing theory, we 
+propose the concept of individual boundary spanning to capture employees ’ information-obtaining behaviors via 
+ESM and identify two mediating mechanisms —mindfulness and information overload —through which an in-
+dividual ’s boundary spanning affects work performance. We also propose the concept of individual boundary 
+buffering to capture protective actions by individuals that prevent them from becoming disturbed or overloaded 
+with ESM requests. We further investigate the interaction effects of these two boundary activities in the ESM 
+context. We conducted a survey and collected data from 202 ESM users from a research and development en-
+terprise in China. The results suggest that individual boundary spanning triggers mindfulness in individuals that 
+benefits their work performance but also increases information overload, harming work performance. Individual 
+boundary buffering can enhance the positive relationship between individual boundary spanning and mindful -
+ness, and mitigate the positive relationship between spanning activity and information overload.   
+1.Introduction 
+Companies are increasingly deploying enterprise social media (ESM) 
+as internal information and communication tools (ICTs) and resource- 
+sharing platforms to support employees ’ work (Cai, Huang, Liu, & 
+Wang, 2018; Leonardi, 2014; Shang & Sun, 2020 ). However, recent 
+studies have shown that organizations have vague guidelines regarding 
+the use of these tools that enable employees ’ work to benefit from 
+enterprise-wide resources (Lu & Pan, 2019 ). One investigation showed 
+that roughly half of the companies surveyed could not effectively use 
+ESM tools (Li, 2015 ). Since social media has been considered a signifi -
+cant source of distraction and waste of work resources, managers are still 
+uncertain as to whether ESM is a “productivity killer ” (Archer-Brown & 
+Kietzmann, 2018 ). Therefore, how organizations can better leverage the 
+advantages of ESM and alleviate the potentially adverse effects of ESM 
+use has become an important and urgent issue (Liang, Xin, Yan, & 
+Jianxiang, 2020 ). 
+One main advantage of ESM is that it offers unprecedented opportunities for employees to break the work boundary formed by 
+work or department divisions, enabling them to conveniently access and 
+share information-based resources across the company (Ellison, Gibbs, 
+& Weber, 2015; Leonardi, Huysman, & Steinfield, 2013 ). According to 
+boundary management theory, behaviors that solicit external resources 
+through action and communication are recognized as boundary span-
+ning (Dey & Ganesh, 2017; Tushman & Scanlan, 1981; Yan & Louis, 
+1999 ). 
+Scholars have provided evidence that ESM can support boundary 
+spanning within organizations. For example, Pee (2018) found ESM ’s 
+various affordances (e.g., visibility) can alleviate codification efforts for 
+cross-domain or complex knowledge transmission. Rode (2016) and Liu 
+and Bakici (2019) recognized ESM as a valuable tool to help individuals 
+search for work-related information. Aboelmaged (2018) found that 
+employees can acquire knowledge from individuals both within and 
+outside organizations via ESM. Scholars posit that work completion 
+generally requires employees to have access to adequate work resources 
+(Bacharach & Bamberger, 1995; Tatikonda & Rosenthal, 2000 ), 
+*Corresponding author. 
+E-mail address: xiaosongw@outlook.com (X. Wu).  
+Contents lists available at ScienceDirect 
+International Journal of Information Management 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow�o�t o~1m{y2w{m k�o2tutzq{yr�!
+https://doi.org/10.1016/j.ijinfomgt.2022.102490 
+Received 23 February 2021; Received in revised form 28 January 2022; Accepted 28 January 2022   International Journal of Information Management 64 (2022) 102490
+2therefore, boundary spanning can benefit individuals’ work by com-
+plementing knowledge and expertise, etc. Nevertheless, some ESM 
+scholars have observed that even though ESM provides convenient in-
+formation channels for both work and non-work-related communica -
+tions, the abundance of information may render users in a work 
+environment overwhelmed, consuming their limited work resources and 
+ultimately leading to information overload (Chen & Wei, 2019; Zhang, 
+Zhao, Lu, & Yang, 2016). These studies have provided valuable insights 
+into our understanding of the positive and negative effects of ESM usage. 
+Unfortunately, how organizations can alleviate the potential negative 
+effects of ESM use on individuals and improve employees’ usage of ESM 
+has still not been answered. 
+Scholars have suggested that individuals take protective actions such 
+as neglect and avoidance behaviors to protect themselves from infor-
+mation overload and prevent interruption from computers and 
+communication tools during work time (Russell, Jackson, & Banks, 
+2019; Zhang Y, 2020). According to boundary management theory, 
+behaviors individuals take to protect themselves from becoming 
+disturbed and overloaded from the outside can be defined as “boundary 
+buffering” (Faraj & Yan, 2009). However, when researching boundary 
+spanning and boundary buffering, extant studies mainly focus on the 
+effects of these two kinds of activities individually (e.g., Faraj & Yan, 
+2009) or only consider one of them (e.g., Schotter, Mudambi, Doz, & 
+Gaur, 2017; Van Osch & Steinfield, 2018). There is currently a lack of 
+empirical investigation into the interaction effects between these two 
+types of boundary activities at the individual level. In their review of 
+team boundary management, Dey and Ganesh recommended that 
+scholars pay attention to the interaction effects of both boundary 
+spanning and boundary buffering. They suggested that “buffering pro-
+vides teams with slack, which gives team members an opportunity for 
+quite reflection within the team. This fuels learning and innovation in 
+the team by letting team members synthesize the knowledge they have 
+gathered through boundary-spanning activities” (Dey & Ganesh, 2017). 
+This study argues that individual boundary spanning and boundary 
+buffering can work together to achieve interaction effects for in-
+dividuals’ work for several reasons. First, within the ESM context, the 
+objects of boundary spanning and boundary buffering are both 
+information-type content (i.e., spanning for needed work-related infor-
+mation and buffering for non-work-related information), the two ac-
+tivities are compatible while being implemented. Second, ESM activities 
+are information-based. Since individuals possess limited information- 
+processing resources, the effectiveness of boundary spanning depends 
+on whether individuals have adequate information processing resources 
+(e.g., cognition) to process the work materials they acquire from span-
+ning and processing efficiency. Third, individual boundary buffering can 
+be practiced to ensure continuity of ongoing information processing 
+procedures and save resources from unnecessary activities, which acts as 
+an effective approach to strengthen the effectiveness of boundary 
+spanning (Dey & Ganesh, 2017). This study also resonates with the call 
+for the need to provide empirical studies to examine the effectiveness of 
+protective actions for coping with information overload (Saxena & 
+Lamest, 2018). We therefore propose our research question as: What role 
+does ESM boundary buffering play when considering the effects of ESM 
+boundary spanning on individual work performance? 
+We apply information processing theory as the theoretical lens 
+through which to understand how humans process information to 
+answer research questions (Miller, 1956). The theory suggests that 
+human brains receive information from various sources and store it in 
+working memory for further cognitive processing (Atkinson & Shiffrin, 
+1968; Simon, 1978). The information processing yielding two outcomes: 
+mindfulness or information overload. Mindfulness is a mind mode in 
+which individuals are open to new experiences and display active 
+awareness of novel distinctions. In this mode, individuals tend to reflect 
+on their situations, consider actions from various perspectives, and think 
+of different possibilities, etc. (Frese & Zapf, 1994a; Thatcher, Wright, 
+Sun, Zagenczyk, & Klein, 2018; Wei, Zhu, & Chen, 2020). However, because humans have limited information processing capacity (e.g., 
+working memory) (Miller, 1956), individuals who are continually 
+accessing information will quickly reach their limits, leading to infor-
+mation overload (Swar, Hameed, & Reychav, 2017). This study con-
+siders mindfulness and information overload as two mediators that 
+mediate the impact of individual boundary spanning on individual work 
+performance. 
+Furthermore, we consider individual boundary buffering as a 
+mechanism to strengthen individuals’ information processing efficiency 
+by avoiding unnecessary information processing and enhancing the 
+levels of mindfulness. Based on a survey of an important research and 
+development company in China, the results support the idea that ESM 
+enabled individual boundary spanning to promote users’ work perfor -
+mance by motivating mindfulness, but it also harmed work performance 
+by increasing information overload. The results also support that prop-
+erly utilizing individual boundary buffering can help employees 
+enhance mindfulness and mitigate information overload. These findings 
+significantly contribute to our understanding of ESM usage in several 
+ways. They suggest individual boundary buffering, in addition to indi-
+vidual boundary spanning, as another necessary activity in effective 
+ESM usage in the ESM literature. They confirm that information over-
+load and mindfulness are two critical explanatory factors of the rela-
+tionship between ESM-enabled individual boundary spanning and 
+individual work performance. Finally, they provide new insight into the 
+boundary management literature by revealing the interaction effects of 
+boundary spanning and boundary buffering in the ESM context. 
+The remainder of the paper proceeds as follows. Section 2 summa -
+rizes prior literature on individual boundary spanning and individual 
+boundary buffering. Section 3 introduces the theoretical background 
+and hypothesis. Section 4 elaborates on our research method. Section 5 
+presents the results of the data analysis. Section 6 discusses theoretical 
+and practical implications of the findings, and specifies the study’s 
+limitations. Section 7 concludes this study. 
+2.Literature review 
+Boundary management literature recognizes a series of activities in 
+which individuals interact with the external environment, such as when 
+communicating with external actors to obtain resources beyond their 
+boundaries or maintaining boundaries to protect themselves from being 
+negatively influenced by the outside environment (Dey & Ganesh, 2017; 
+Wu, Huang, Jiang, Klein, & Liu, 2020). The scope of boundaries can be 
+different when considering diverse analytical units and research con-
+texts. For example, when the boundary is at an organizational level, the 
+organization’s scope can be classified as within or outside the company 
+(Schotter et al., 2017). In the context of this study, ESM is typically 
+implemented within the company and in the company we surveyed, 
+project teams generally carry out the job responsibilities. Therefore, we 
+define the scope of individual boundaries as that formed by the acces -
+sibility of resources the project team officially provides. For example, 
+suppose one developer engages in a project with three other teammates. 
+In that case, resources provided by the members within the project team 
+are resources within the work boundary. At the same time, the knowl -
+edge of colleagues in the same department/organization who are not 
+members of the project is a resource outside the work boundary. 
+2.1. Individual boundary spanning 
+In boundary management literature, individual boundary spanning 
+refers to individual behaviors to solicit external work resources through 
+actions and communication relationships (Tushman & Scanlan, 1981). 
+Boundary spanning can play an important role in employees’ work 
+performance as it supplements their work resources (Bacharach & 
+Bamberger, 1995; Tatikonda & Rosenthal, 2000; Wang et al., 2019). In 
+an organization, coworkers are reliable sources for supplementing work 
+resources, and prior research has found that employees’ sharing J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+3activities such as discussing ideas, updating information, and 
+exchanging knowledge, can broaden the resources employees possess, 
+improve the details of their work as well as their decision-making ca-
+pabilities (Aboelmaged, 2018; Anand & Singh, 2011; Mantym aki & 
+Riemer, 2016; Teigland & Wasko, 2003 ). ESM has been suggested as 
+effective tools for transferring information-based work resources among 
+employees within organizations (Aboelmaged, 2018; Laitinen & Sivu-
+nen, 2020 ). 
+In particular, ESM connects every employee and equips multiple 
+sharing and communication functions to support users in breaking 
+boundaries established by structures such as work divisions, de-
+partments, or individuals ’ social networks so that they can access 
+enterprise-wide resources (Leonardi et al., 2013; Van Osch & Steinfield, 
+2016 ). Prior studies have implicitly suggested that ESM supports in-
+dividuals across work boundaries to acquire external resources to aid 
+their work. 
+According to our summary, as shown in Table 1, studies that embody 
+the connotation of individual boundary spanning via ESM can be 
+divided into two streams: the knowledge management stream and the 
+information management stream. In the former, scholars found that ESM 
+can facilitate employees ’ knowledge sharing and knowledge creation. 
+Pee (2018) found that ESM ’s various affordances alleviate the diffi-
+culties of sharing knowledge with others. Qi and Chau (2017) found that 
+an employee ’s ESM usage is positively related to his/her knowledge 
+sharing and knowledge creation, which benefits organizational learning. 
+In regard to information management, scholars mainly focus on the 
+antecedents of ESM information sharing (Laitinen & Sivunen, 2020 ) and 
+information searching (Van Osch & Steinfield, 2016, 2018 ), and only 
+one study has explored the relationship between information manage -
+ment and individual work performance (Lu & Pan, 2019 ). 
+However, there are significant differences between the above per-
+spectives and the distinct boundary spanning perspective. First, extant 
+studies do not explicitly discriminate whether knowledge or information 
+management activities occurred within the work boundary (e.g., within 
+the project team) or outside the work boundary but within the organi -
+zation. Such lack of discrimination fails to recognize the benefits of 
+ESM ’s broadening individuals ’ access to work resources across work 
+boundaries. Second, neither the knowledge management perspective 
+nor the information management perspective represent the complete 
+range of individual boundary spanning activities. Presently, we only 
+vaguely understand how ESM users can benefit from accessing the 
+broader range of enterprise work resources outside their conventional 
+work jurisdiction. We argue that boundary management theory provides 
+a research lens to capture such behavior and investigate different 
+mechanisms influencing an individual ’s work. 
+Besides the topic of ESM, many studies have investigated the influ-
+ence of individual boundary spanning activities on other issues, such as 
+the relationship between boundary spanning and managers ’ influence 
+(Manev & Stevenson, 2001 ) or boundary spanning in multinational 
+corporations (Barner-Rasmussen, Ehrnrooth, Koveshnikov, & Makela, 2014; Reiche, 2011; Schotter et al., 2017 ). These studies found that 
+individual boundary spanning can broaden the channels for acquiring 
+work resources (Barner-Rasmussen et al., 2014; Reiche, 2011 ) while 
+providing extra cues for decision-making (Floyd & Wooldridge, 1997 ), 
+thus benefiting work performance. However, when comparing 
+ESM-facilitated boundary spanning to these conventional individual 
+boundary spanning studies, several differences remain. First, they 
+examined different actors. ESM allows every employee to access the 
+enterprise resource pool, thus everyone can be a boundary spanner 
+(Schotter et al., 2017 ). However, conventional boundary spanning 
+literature has shown that only a limited number of individuals possess 
+key resources and can mediate activities across the boundary as 
+boundary spanners. For example, inpatriates who can connect their 
+home unit and the headquarters (Reiche, 2011 ), or IT employees who 
+have unique knowledge and serve multiple departments ( Wang et al., 
+2019 ) can be boundary spanners. Second, the resources boundary 
+spanners can access are different. Every spanner can access the 
+enterprise-wide resources pool in the ESM context, such as project re-
+ports and Q&As on the ESM. If spanners find it necessary, they can 
+contact relevant colleagues for help through the tool even if they do not 
+know one another. However, their work and relational network limit the 
+resource pool of conventional boundary spanners. Lastly, motivations or 
+expectations under spanning activities might differ since ESM users 
+engage in boundary spanning activities mainly out of their own interests 
+(i.e., acquiring support for their work). However, because of their 
+unique identities (roles), conventional boundary spanners might be ex-
+pected to contribute benefits beyond the individual level, such as pro-
+moting knowledge transfer between the home unit and headquarters 
+(Reiche, 2011 ) or negotiating with external stakeholders on behalf of the 
+team (Faraj & Yan, 2009 ). Inappropriate management of this conven -
+tional boundary spanning could lead to side effects such as role overload 
+(Wang et al., 2019 ). As ESM becomes more prevalent in businesses, 
+these differences indicate that ESM boundary spanning is a topic that 
+warrants further investigation. In this study, we investigate the mech -
+anisms through which ESM-based individual boundary spanning could 
+affect individuals ’ work performance. 
+2.2. Individual boundary buffering 
+Boundary buffering generally refers to behaviors that shield the en-
+tity from unwanted exposure to the environment (Faraj & Yan, 2009 ). In 
+the ESM context, individual boundary buffering can be defined as ac-
+tions to insulate individuals from unwanted interference and overloaded 
+demands from the ESM. In contrast to boundary spanning, which can be 
+characterized as a form of engagement activity, boundary buffering is a 
+form of disengagement (Faraj & Yan, 2009 ). Boundary buffering de-
+creases outside influences, strengthening the effectiveness of rational 
+action inside (Scott, 1998 ). 
+Researchers have thus far paid attention to team-level boundary 
+buffering (Dey & Ganesh, 2017 ). For example, Chang, Wu, Discenza, and 
+Klein (2021) found that team boundary buffering can improve software 
+development project performance. Faraj and Yan (2009) found that 
+team boundary buffering can enhance team members ’ psychological 
+safety and team performance. Wu et al. (2020) found that supplier 
+teams ’ boundary buffering in the supply chain management context can 
+protect teams from suffering the environmental uncertainties driven by 
+buyers ’ requirements changes. Team boundary buffering activities are 
+often carried out by team leaders dedicated to creating a well-protected 
+working environment. In the ESM context, ESM makes it viable and 
+convenient for individuals to practice individual-level boundary buff-
+ering. Except for conventional buffering approaches such as negotiation 
+or coordination (Faraj & Yan, 2009 ), the use of ESM functionalities can 
+be regarded as a new, technology-based method of buffering, which is 
+complementary to extant buffering approaches. Specifically, conven -
+tional buffering activities generally require interaction engagement, 
+such as refusing a non-work invitation during work time. An individual Table 1 
+The summary of boundary spanning in the ESM context.  
+Boundary spanning in the 
+ESM context Topic-related works 
+Knowledge management ≡Knowledge sharing (Pee, 2018; Qi & Chau, 2017; 
+Rode, 2016 ; Kwahk & Park, 2016; Sun et al., 2019; 
+Filstad et al., 2018; Oostervink et al., 2016; Razmerita 
+et al., 2016; Fulk & Yuan, 2013 ) 
+≡Knowledge creation (Qi & Chau, 2017 ; Cao et al., 
+2020; Chen et al., 2020) 
+Information management ≡Information sharing (Laitinen & Sivunen, 2020; Lu 
+& Pan, 2019 )  
+≡Information seeking\searching (Liu & Bakici, 2019; 
+Lu & Pan, 2019 )  
+≡Team boundary spanning–information searching 
+(Van Osch & Steinfield, 2016, 2018 )  J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+4can decide to reject or not only after processing the relevant informa -
+tion, but such information processing action will have already inter-
+rupted current work. However, ESM functionalities such as blocking 
+certain information sources, using mute mode (i.e., muting the notifi -
+cation of all or specific kinds of messages), or online status settings (i.e., 
+setting online status to busy or in a meeting when one doesn’t want to be 
+disturbed) can achieve the buffering effect without interrupting em-
+ployees’ current activities. For knowledge workers, guaranteeing the 
+continuity of their intellectual process often means guarding 
+high-performance work (Jett & George, 2003). 
+These technological methods of boundary buffering also echo prior 
+studies’ suggested approaches to coping with information overload in 
+the contemporary era of information explosion, such as queuing (i.e., 
+postponing information processing to less busy times) (Wilson, 1995), 
+filtering (i.e., weeding out useless information) and withdrawing (i.e., 
+limiting the volume of information that one is exposed to) (Savolainen, 
+2007). Nevertheless, scholars have pointed out a lack of empirical 
+studies to statistically investigate the effectiveness of approaches for 
+coping with information overload (Saxena & Lamest, 2018). Since 
+contextualization is essential to improving the theory’s generalizability 
+(Saxena & Lamest, 2018), this study aims to investigate the influence of 
+individual boundary buffering in the ESM context. 
+In short, boundary management studies have suggested that different 
+boundary activities have different motivations, targets and objects, and 
+functions (Dey & Ganesh, 2017; Marrone, 2010). We summarized the 
+properties of individual boundary spanning and buffering in the ESM 
+context in Table 2. 
+Different motivations drive ESM users to practice different boundary 
+activities. Specifically, individuals who practice boundary spanning aim 
+to obtain more resources that once were difficult or unable to be 
+accessed (Leonardi et al., 2013). Individuals engage in boundary buff-
+ering because they want to remain undisturbed and not be overloaded 
+with ESM requests (Faraj & Yan, 2009). Targets of boundary spanning 
+are external colleagues who possess information, knowledge, or tech-
+nology that spanners need to aid them in finishing their work, and 
+external work resources stored on ESM. The targets of boundary buff-
+ering are external ESM users who may interrupt individuals or give them 
+an overload of requests during work time. Along with the different 
+boundary targets, boundary objects for boundary spanning are 
+task-related documents, knowledge, ideas, feedback, and conversations 
+enabled by ESM. Simultaneously, non-work-related posts, notifications, 
+chats, or overloaded work requests are objects that ESM users buffer 
+during work time (Leonardi et al., 2013). 3.Theoretical background and hypotheses development 
+3.1. Information processing theory 
+Given that information processing theory (IPT) has been proposed as 
+one important theoretical lens through which to explore the influence of 
+boundary spanning on individuals’ work (Carlile, 2004; Wang et al., 
+2019), our study adopts it to formulate the hypothesized relationships. 
+Information processing theory provides scholars with a theoretical lens 
+to understand how humans process information (Atkinson & Shiffrin, 
+1968; Miller, 1956). According to theory, the human brain receives in-
+formation from various sources and stores it in working or short-term 
+memory. There, it is subject to further cognitive processing (Atkinson 
+& Shiffrin, 1968; Simon, 1978). Prior studies have suggested that in-
+dividuals can engage in two cognitive processing states to process the 
+information stored in working memory: mindfulness and mindlessness 
+(Langer, 1989, 1992). Mindfulness is defined as a state of cognitive 
+functioning in a specific situation under which individuals exhibit 
+conscious awareness and alertness of their actions and contexts, open-
+ness to new experiences (Addas & Pinsonneault, 2018; Langer, 1989), a 
+tendency to consider actions from various perspectives, reflect on their 
+situations, think of different possibilities, etc. (Frese & Zapf, 1994a; 
+Hacker, 2003). When individuals are in a mindless state, their thoughts, 
+emotions, and behaviors rely on well-structured routines based on dis-
+tinctions and associations learned in the past (Bodner & Langer, 2001; 
+Haigh, Moore, Kashdan, & Fresco, 2011). Mindlessness requires less 
+effort, but people are also more likely to neglect the nuances of new 
+information in such a processing mode. Scholars posit that individual 
+work performance is determined by whether employees can access 
+adequate work resources such as information, knowledge and expertise 
+(Bacharach & Bamberger, 1995; Tatikonda & Rosenthal, 2000), which 
+stresses the importance of how individuals process the 
+information-based work resources. 
+3.1.1. Theorizing the relationship between boundary spanning and 
+mindfulness 
+Scholars have adopted the information processing perspective to 
+investigate the influence of boundary spanning activities on boundary 
+spanners (Carlile, 2004; Wang et al., 2019). They proposed that the 
+objects of boundary spanning activities are generally information flows, 
+which convey work-related information and knowledge. ESM users 
+consciously span boundaries to acquire task-related information that 
+usually contains information outside the spanner’s routine experience 
+that could update or complement the spanner’s understanding of the 
+work. Under such situation, mindfulness is validated as an appropriate 
+information processing mode that allows individuals to effectively 
+leverage the information obtained to benefit their current work (Addas 
+& Pinsonneault, 2018; Jett & George, 2003). Therefore, we use mind -
+fulness to capture the potential positive influence of boundary spanning 
+activities on an individual’s work. 
+3.1.2. Theorizing the relationship between boundary spanning and 
+information overload 
+Information processing theory acknowledges individuals possess 
+limited information processing capacity (Gao, Liu, Guo, & Li, 2018; 
+Miller, 1956). Considering boundary spanning brings in external 
+work-related information and knowledge for spanners (Ratcheva, 2009; 
+Teigland & Wasko, 2003; Wang et al., 2019), reflecting the need for 
+information processing, we argue that intensive boundary spanning 
+activities will import too much information to spanners’ working 
+memory over a short period, causing an individual’s information pro-
+cessing capacity to quickly reach its limits (Swar et al., 2017) and 
+resulting in information overload (Gao et al., 2018; Jacoby, Speller, & 
+Kohn, 1974). Table 2 
+Properties of individual boundary spanning and buffering in the ESM context.  
+Definition and scope of boundary: We follow the general definition of boundary given 
+byYan and Louis (1999) “domain of interactions of a system with its environment to 
+maintain the system as a system and provide for its long-term survival.” We specify the 
+scope of individual boundaries in the ESM context as formed by the accessibility 
+officially provided by the project team. 
+Properties Individual boundary spanning Individual boundary buffering 
+Boundary 
+motivation Use ESM to obtain resources 
+external to one’s work 
+boundary. Protect oneself from 
+disturbances or request 
+overload on ESM. 
+Boundary 
+targets External ESM users (colleagues) 
+who grasp the information, the 
+knowledge or technology that 
+one needs to finish the work, 
+and external work resources 
+stored on ESM. External ESM users who may 
+interrupt the individual or 
+overload them with individual 
+requests during work time. 
+Boundary 
+objects Task/project-related 
+documents, knowledge, ideas, 
+feedback, conversations 
+enabled by ESM. Non-work-related posts, 
+notifications, chats, or 
+overloaded work-related 
+requests on ESM.  J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+53.1.3. Theorizing the interaction between boundary spanning and buffering 
+Information processing theory emphasizes that the fit between the 
+quantity of information to be processed and the capacity to process it 
+will determine individual performance, such as decision making quality 
+( Gao, Zhang, Wang, & Ba, 2012 ). We first map the boundary spanning 
+to determine the quantity of information to be processed. Further, 
+boundary buffering can shield individuals from unwanted interference 
+and overloaded demands (Wu et al., 2020 ), maintaining their informa -
+tion processing capacity and promoting information processing effi-
+ciency (Dey & Ganesh, 2017 ). Therefore, information processing theory 
+supports our argument for positive interaction effects between individ -
+ual boundary spanning and boundary buffering. 
+Fig. 1 shows how a boundary spanner exploits information from 
+ESM. 
+3.2. Hypotheses development 
+By drawing on information processing theory and the relevant 
+literature, this study proposes a research model in which individual 
+boundary spanning is positively related to mindfulness and overload. 
+Mindfulness could promote individual performance, but overload would 
+decrease individual performance. We further investigate the moderating 
+effects of individual boundary buffering, which is hypothesized to 
+strengthen the positive effect of boundary spanning on mindfulness 
+while mitigating the positive effect of boundary spanning on overload.  
+Fig. 2 presents the research model. The hypotheses are developed in the 
+paragraphs that follow. 
+As discussed, boundary spanning is a conscious activity that aims to 
+acquire useful resources to aid spanners ’ work, such as finding novel 
+task solutions or filling knowledge gaps to develop individuals ’ under -
+standing of their work. So individuals have the motivation and will-
+ingness to keep an eye on the link between external resources and their 
+current work. In the ESM context, resources obtained from boundary 
+spanning are information-based, which requires effective information 
+processing procedures. This specific requirement aligns with the prac-
+tice of spanners ’ mindfulness because individuals in the mindful state 
+are alert, lively, aware of current experiences (Baer, 2003; Roberts, 
+Thatcher, & Klein, 2007 ), more willing to explore alternatives and 
+novelties brought by external resources (Frese & Zapf, 1994b; Hacker, 
+2003 ) and more sensitized to the subtleties of context (Roberts et al., 
+2007 ). This mindful state enables them to capture the similarities and 
+differences between external resources and current work and identify 
+the formation factors behind them. Therefore, mindfulness is a pro-
+cessing mode that can help individuals fulfill the goal of boundary 
+spanning. 
+Prior research suggests that task-related events can trigger an in-
+dividual ’s mindful processing mode (Addas & Pinsonneault, 2018; Jett 
+& George, 2003; Langer, 1989 ). In the ESM context, external resources 
+acquired from boundary spanning via ESM may contain novelties or 
+discrepancies about spanners ’ work, serving as external clues to trigger 
+individuals ’ mindful processing to help them better integrate external 
+resources. Hence, we posit the following hypothesis: 
+H1a.Individual boundary spanning is positively related to 
+mindfulness. ESM activities are information-based. Individuals engaging in 
+boundary spanning activities generally need to go through a series of 
+information processing processes, including collecting potentially useful 
+resources (either in proactive ways such as searching on the ESM or in 
+passive ways such as receiving relevant feedback) and recognizing 
+whether these resources match their needs. If the resource fits their 
+needs, substantial cognitive efforts must be made to incorporate such 
+external resources to aid the spanner ’s work (Addas & Pinsonneault, 
+2018; Carlile, 2004 ). The more boundary spanning activities there are, 
+the more information processing capabilities and resources are required 
+(Swar et al., 2017 ). However, information processing theory and related 
+studies have proposed that individuals have limited work resources 
+(Miller, 1956 ), and intensive boundary spanning activities could drive 
+information processing resource deficiency and lead to information 
+overload (Cao & Yu, 2019; Sun et al., 2021 ). 
+On the other hand, individuals face various work-related activities 
+aside from boundary spanning via ESM during work time. Then when an 
+individual ’s work resources are rapidly depleting due to boundary 
+spanning, few resources are left to process the other necessary tasks. 
+Therefore, an incompatibility between the limited resources one pos-
+sesses and the information processing required is aggravated, leading to 
+information overload (Gao et al., 2018 ). Hence, we propose the 
+following hypothesis: 
+H1b.Individual boundary spanning is positively related to informa -
+tion overload. 
+Through mindful processing, an individual can incorporate relevant 
+external resources gathered from ESM into contextual-fit internal re-
+sources to assist their work (Addas & Pinsonneault, 2018 ). For example, 
+a developer can search a particular development flow from a completed 
+project report (e.g., similar to the one he is currently working in) 
+uploaded by other colleagues on the ESM. Even though two projects may 
+have different aims, objects, and personnel, some test procedures can be 
+referenced, and the developer can compare and analyze the differences 
+and commonalities between the two projects and recognize and acquire 
+the key knowledge to benefit his work when in a state of mindfulness. 
+The mindful process can also improve individuals ’ work details 
+(Addas & Pinsonneault, 2018 ). In this mindful state, individuals are 
+sensitive to discrepancies and abnormalities in their work (Frese & Zapf, 
+1994a ) and possess the motivation to improve their performance (Roe, 
+1999 ). Therefore, they are efficient and effective in intellectual en-
+deavors to solve their problems and are open to changing routinized 
+behaviors such as altering existing plans or developing new approaches 
+based on the current situation, correcting their work process, or 
+applying new approaches to work. Hence, we posit the following 
+hypothesis: 
+H2.Mindfulness is positively related to individual work performance. 
+Information overload could decrease individuals ’ work performance. 
+Bounded rationality emphasizes that individuals ’ cognitive limitations 
+inhibit their decision-making (Karr-Wisniewski & Lu, 2010 ). Being 
+overwhelmed by ESM information could render users unable to effec-
+tively recognize, interpret and integrate external resources, resulting in 
+decreased decision-making efficiency (Jackson & Farzaneh, 2012; Keller 
+Fig. 1.Information processing model of ESM boundary spanning.  J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+6& Staelin, 1987; Schick, Gordon, & Haka, 1990 ) and increased errors 
+(Eyrolle & Cellier, 2000 ). 
+In addition, when workers ’ minds are occupied with a large amount 
+of ESM information, especially non-work-related information, it be-
+comes harder for them to recall prior information and resume inter-
+rupted activities (Baethge & Rigotti, 2013; Schick et al., 1990 ). This 
+predicament requires them to consume more work resources during the 
+transition process and generate issues due to resource deficiency, such as 
+work delays and decreased work performance (Adler & Benbunan-Fich, 
+2012 ). Hence, we posit the following: 
+H3.Information overload is negatively related to individual work 
+performance. 
+3.2.1. Moderating effects 
+As Table 2 shows, both boundary spanning and boundary buffering 
+objects are information-based content. The core rationale of their 
+interaction is that individuals possess limited information processing 
+resources (Miller, 1956 ). Specifically, on the one hand, achieving the 
+benefits of boundary spanning requires individuals to process external 
+information-based work materials obtained from spanning activities 
+effectively (Carlile, 2004 ). Therefore, the more information processing 
+resources (e.g., attention, time cognitive effort, etc.) available, and the 
+higher the resource efficiency, the better the effectiveness of the 
+boundary spanning. On the other hand, ESM boundary buffering can 
+protect individuals from being exposed to an interruptive environment 
+during work time and spending information processing resources on 
+unnecessary ESM activities (Faraj & Yan, 2009; Galluch, Grover, & 
+Thatcher, 2015 ). Boundary buffering guarantees the continuous running 
+of information processing procedures and saves individuals ’ limited 
+information processing resources. Therefore, it is reasonable to infer that 
+the information processing procedure dynamics driven by boundary 
+buffering can affect the outcomes of boundary spanning. Below, we 
+discuss the moderating effects of boundary buffering concerning the 
+relationship between boundary spanning and two mediators. 
+Engaging in mindful processing requires an individual ’s sustained 
+and focused attention and intellectual efforts to analyze and synthesize 
+the information acquired from ESM boundary spanning with current 
+work details (Bishop et al., 2004 ). For example, a product manager may 
+need to consider the underlying factors that cause discrepancies in the 
+product evaluations collected from various department colleagues on 
+ESM to leverage its report and experience better to adjust the develop -
+ment plan. Boundary buffering activities support such engagement by 
+protecting themselves against unrelated activities to form a less 
+disturbed working environment. This behavior ultimately enhances the 
+continuity of their mindful process and rational behaviors (Scott, 1998 ). 
+On the other hand, boundary buffering provides individuals with more slack to fuel mindful processing of information from boundary 
+spanning (Dey & Ganesh, 2017 ). Due to an individual ’s limited working 
+memory capacity and other work resources (Miller, 1956 ), subsequent 
+unnecessary resource consumption is avoided when individuals block 
+unrelated activities ’ involvement during work time (Faraj & Yan, 2009 ). 
+Therefore, users can invest more work resources in processing infor-
+mation gathered from boundary spanning activities in a mindful mode. 
+Hence, we posit the following: 
+H4a.Individual boundary buffering can strengthen the positive rela-
+tionship between individual boundary spanning and mindfulness. 
+The convenient communication feature of ESM exposes employees to 
+a broader interaction environment, aggravating the risk of receiving an 
+overload of requests either out of work or non-work purposes (Chen & 
+Wei, 2019 ; Guo, Lu, Kuang, & Wang, 2020 ). Engaging in appropriate 
+boundary buffering activities can effectively defend ESM users from 
+getting too much information processing pressure by ESM requests in 
+two ways. First, individuals can refuse unrelated or overloaded requests 
+from others to reduce information processing needs and avoid unnec -
+essary consumption of work resources (e.g., working memory) related to 
+this information and follow-up activities (Dey & Ganesh, 2017; Faraj & 
+Yan, 2009 ). Secondly, individuals can take measures to decrease the 
+disturbances from ESM information (Russell et al., 2019 ; Zhang Y, 
+2020 ). For example, users can turn on the ESM silent mode or mute 
+unrelated notifications to avoid interruption or be reminded to check 
+new messages every time they are received. Instead, they can handle 
+these unread messages when they are free. In addition, checking 
+collected unread messages at fewer time points means fewer transition 
+processes between current work and ESM activities (Galluch et al., 
+2015 ), which helps employees save their work resources (e.g., time, 
+cognition efforts). 
+Since individuals have limited resources to process information from 
+both boundary spanning and other activities, they practice boundary 
+buffering to decrease the expenditure of resources on unnecessary ESM 
+information processing, leading to a decrease in the perception of in-
+compatibility between boundary spanning and information processing 
+resources. Hence, we posit the following: 
+H4b.Individual boundary buffering can mitigate the positive rela-
+tionship between individual boundary spanning and information 
+overload. 
+4.Methodology 
+4.1. Construct measurement 
+Multi-item scales operationalized constructs in this study. Items were 
+adapted from validated existing studies; we modified some items to 
+Fig. 2.Research model and hypotheses.  J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+7ensure that they fit our context. A seven-point Likert scale was used as an 
+anchor to measure all items. Specifically, individual boundary spanning 
+and individual boundary buffering are adapted from Faraj and Yan 
+(2009). Individual boundary spanning is measured by four reflective items 
+and individual boundary buffering is measured by three reflective items, 
+both of them are adjusted to fit the context of an individual’s ESM use. 
+Information overload is defined as the condition induced by the large 
+amount of information generated on ESM that exceeds the capacity an 
+individual can process (Jacoby et al., 1974). Five reflective items of the 
+construct were adapted from Zhang et al. (2016). Mindfulness is defined 
+as a mode of cognitive functioning in a specific situation that increases 
+individuals’ alertness to discrepancies, openness to newness, orientation 
+in the present, and awareness of multi-angle thinking while performing 
+key activities (Addas & Pinsonneault, 2018). The construct was 
+measured with six reflective items adopted from (Addas & Pinsonneault, 
+2018; Langer, 1989). Individual work performance was evaluated by 
+the ESM user’s section leader, and four items from Venkatesh, Rai, and 
+Maruping (2018) were used to reflect an individual’s work performance 
+in a particular project. 
+Since the study was implemented in China, the existing construct 
+items were first translated into Chinese by three researchers fluent in 
+English and Chinese. After minor corrections, we conducted two inde-
+pendent card sorting analysis rounds with eight Ph.D. students for initial 
+validity (Moore & Benbasat, 1991; Tsai, Wu, Klein, & Jiang, 2021; 
+Zhang, Guo, Jiang, Wu, & Jiang, 2021). Four students classified items 
+according to their definition similarity and descriptions of construct 
+categories in each round. First round classification accuracy was 93%. 
+After minor corrections based on feedback, modified items were classi -
+fied by the other four students in a second round following which the 
+accuracy of classifications increased to approximately 96%. Improve -
+ments indicated adequate face and convergent validity. 
+At the company surveyed in this study, work is generally carried out 
+by project teams. One can legitimately access resources in the project 
+team, freely contact teammates, and respond promptly to requests made 
+to ensure the project’s progression. Therefore, we specified the 
+“external” (the connotation of boundary) of the respondents as the 
+demarcation formed by the accessibility officially provided by the 
+project team that they are in. 
+In addition, items for boundary management constructs were 
+adapted from Faraj and Yan (2009). In their study, items were used to 
+measure team-level boundary activities in a general context. Compared 
+to this study, both the research context and research level are different. 
+Therefore, we conducted interviews with three employees at the com-
+pany we surveyed who were experienced in using ESM to refine the 
+wording of these items to ensure they were consistent with ESM users’ 
+actual use scenario. After incorporating their comments, we made 
+several necessary amendments to these items, including specifying that 
+all boundary activities are enabled by ESM and practiced by ESM users 
+themselves. The statement sentences were also revised to fit our research 
+purpose. For example, one item of boundary spanning in Faraj’s study is 
+“To what extent does the team encourage its members to solicit infor-
+mation and resources from elsewhere in and/or beyond the division?” 
+We revised this item as “I use ESM to solicit information and resources 
+from external channels.” To measure boundary buffering, we repeated 
+these steps but added more materials (i.e., use of typical ESM func-
+tionalities, which could reflect the connotation of ESM boundary buff-
+ering) to some of the items to aid respondents’ comprehension. For 
+example, one item of boundary buffering in Faraj’s study is “To what 
+extent are outside pressures deflected or absorbed so that the team can 
+work free of interference?” We revised the item and added relevant 
+materials, to “I take measures (e.g., muting nonwork-related notifica -
+tions) to ensure that I can work free of ESM interference.” 
+To further ensure the questionnaire’s content validity, we invited ten 
+experienced employees using ESM to participate in the pretest. They 
+reviewed every item to assess precision and clarity as well as appropriate 
+meaning in the ESM context, rating each item as “1-not matched,” “2- somewhat matched,” “3-quite matched” and “4-highly matched.” We 
+then calculated the content validity index for each item. The results 
+show that the index for each item is no less than 0.9, indicating good 
+content validity (Polit & Beck, 2006). Several items were slightly 
+modified according to feedback. The results from the pretest suggested 
+that the measurement items were valid. 
+4.1.1. Control variables 
+Our study included seven control variables. Polychronicity orien -
+tation refers to the extent to which one prefers to be engaged in two or 
+more tasks or events simultaneously. Two items were adapted from A. 
+Chen and Karahanna (2018). Prior studies have validated that people 
+with different polychronicity orientations show variations in resource 
+allocation and performance when they face multiple tasks (Bluedorn 
+Allen, Kalliath Thomas, Strube Michael, & Martin Gregg, 1999; Cameron 
+& Webster, 2012). Demographic factors, such as age, gender, and edu-
+cation were also controlled in this study since they have been found to 
+influence workload perception and work performance in the informa -
+tion and communication tool context (Ragu-Nathan, Tarafdar, 
+Ragu-Nathan, & Tu, 2008; Tams, Thatcher, & Grover, 2018). We include 
+work experience as a control, because more experienced workers could 
+have more social and work ties, which could further influence infor-
+mation overload and work performance (Peng, Heim, & Mallick, 2015). 
+Moreover, ESM use experience is controlled given that individuals with 
+more experience in ESM would manage their ESM use more appropri -
+ately and utilize ESM work resources better. Finally, we included 
+non-work ESM use (e.g., social-related ESM use) as a control because 
+extant studies have validated that such use can affect information 
+overload ( Chen & Wei, 2019) and further influence work performance 
+(Kuegler, Smolnik, & Kane, 2015). 
+4.2. Data collection 
+We collected data from a large Chinese telecommunications and 
+information technology corporation with over 10,000 employees in 
+Xi’an, China. The firm uses an ESM application that runs on personal 
+computers and mobile devices for internal communication and other 
+employee activities. The software is similar to other popular enterprise 
+social media platforms in China, such as DingDing and WeCom, which 
+integrate various functions, including basic communication functions (e. 
+g., instant messaging and online meetings), social features (e.g., posts) 
+and work-support features (e.g., documentation management). 
+The formal survey used a multi-informant design to eliminate the 
+risk of social desirability bias and common method variance. Section 
+members are expected to answer most of the questionnaire, while sec-
+tion leaders are required to evaluate their own section members’ per-
+formance. In addition, collecting all items in one survey wave could lead 
+to common method bias (Podsakoff, MacKenzie, Lee, & Podsakoff, 
+2003). To help alleviate these issues, our study conducted a two-wave 
+survey, which has been widely implemented (e.g., Wang, Wang, Lin, 
+& Abdullat, 2021). Specifically, section members are required to answer 
+their questionnaires over two waves. The first wave includes measure -
+ment of ESM boundary spanning and buffering, and polychronicity 
+orientation. One week later, respondents finish the questionnaire, with 
+measurements of mindfulness and information overload, and 
+demographics. 
+With the help of the company’s administrator, we finally sent 400 
+questionnaires and received 284 responses. After deleting responses 
+with missing data, we analyzed 202 usable responses to test the pro-
+posed model. We compared the early and late respondents for all the 
+constructs and found no significant differences between them, suggest -
+ing that nonresponse bias was not a problem (Armstrong & Overton, 
+1977). Table 3 shows respondents’ demographic information. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+85.Data analysis and results 
+5.1. Measurement model 
+We used the partial least squares (PLS) method (SmartPLS 2.0) to test 
+the measurement model and assess each construct ’s reliability and val-
+idity. PLS is best suited for our research because it does not require 
+multivariate normality of the data (Teo, Wei, & Benbasat, 2003 ). Sec-
+ond, this method is suitable for explaining a relatively complex research 
+model (Sarstedt, Ringle, & Hair, 2017 ). Third, PLS is capable of calcu -
+lating reasonable latent variable scores of each construct. Rather than 
+assume equal weights for all indicators of a scale, PLS allows every in-
+dicator to contribute differently to the composite score of the latent 
+variable (Chin, Marcolin, & Newsted, 2003 ), which avoid fixed-scale 
+construction (Lowry & Gaskin, 2014 ), the obtained latent variables 
+support subsequent analysis (Hair, Hollingsworth Carole, Randolph 
+Adriane, & Chong Alain Yee, 2017 ). The PLS algorithm follows a 
+two-step approach to test the measurement model. The first step aims to 
+calculate the convergent latent variable scores through iteration. The 
+scores are then used to estimate the measurement models (Henseler, 
+Ringle, & Sarstedt, 2012 ). 
+As shown in Table 4, the Cronbach ’s alpha score of each construct 
+was above the recommended value of 0.70. Each construct ’s composite 
+reliability was above the recommended value of 0.70 (Chin et al., 2003 ). 
+Every construct ’s average variance extracted (AVE) was above 0.50, and 
+item loadings on each latent variable were over 0.50, most of which 
+reached higher than 0.7, indicating good convergent validity (Chin 
+et al., 2003 ). To assess discriminant validity, we compared the square root of each 
+construct ’s AVE with the absolute value of corresponding correlation 
+coefficients in Table 5. The results indicated that the square roots of all 
+AVEs were greater than their correlations with other constructs, 
+showing satisfactory discriminant validity (Fornell & Larcker, 1981; 
+Gefen & Straub, 2005 ). 
+The variance inflation factor (VIF) was calculated, and the values 
+were all below 3.3, indicating that there was no multicollinearity issue 
+(Diamantopoulos & Winklhofer, 2001 ). We employed Harman ’s 
+one-factor test to determine whether there was a common method bias 
+issue. The results showed that no factor accounted for over half of the 
+variance, suggesting that common method bias was not a problem 
+(Harman, 1970; Mattila & Enz, 2002 ). 
+5.2. Structural model 
+This study used SmartPLS to calculate latent variable scores of the 
+main model and then used PROCESS macro for SPSS as a supplementary 
+tool to estimate path coefficients. Although SmartPLS can apply the 
+calculated latent variable scores to ordinary least squares regressions 
+(OLS) to estimate path coefficients of the research model without the 
+help of other tools (Henseler et al., 2012 ), the PLS tool we used (i.e., 
+SmartPLS 2.0M3) could not help us directly obtain specific results of 
+indirect effects of individual boundary spanning on performance, via 
+mindfulness and information overload, respectively. Nor did it enable us 
+to draw the interaction figure between individual boundary spanning 
+and buffering. To deal with these complex model estimation issues, 
+Hayes (2012) developed the PROCESS macro for SPSS, which allowed us 
+to directly obtain detailed path analysis results and draw the two-way Table 3 
+Sample Demographics.  
+Demographic Variables Distribution 
+Age ≼25: 6%; 25–30: 32%; 31–35: 37%; 36–40: 21%; 
+41–45: 4% 
+Education College graduate: 14%; Postgraduate degree: 
+84%; Ph.D degree: 2% 
+Gender Male: 73%; Female: 27% 
+Work experience ≼5 years: 35%; 6–10 years: 30%; 11–15 years: 
+26%; 16–20 years: 8%; ＞20 years: 1% 
+ESM experience ≼6 months: 12%; 7–12 months: 12%; 
+13–24months: 16%; ＞24months: 60% 
+Numbers of other projects or 
+tasks undergo currently Null: 13%; One: 23%; Two: 33%; Three: 19%; 
+Four: 5%; Five: 5%; ≽Five: 2%  
+Table 4 
+Measurement model.  
+Construct Items Loadings Cronbach ’s alpha Composite reliability Average variance extracted (AVE) 
+Individual boundary spanning (BS) BS1  0.882  0.867  0.910  0.717 
+BS2  0.874       
+BS3  0.880       
+BS4  0.743       
+Mindfulness (MI) MI1  0.838  0.898  0.922  0.664 
+MI2  0.784       
+MI3  0.852       
+MI4  0.842       
+MI5  0.868       
+MI6  0.691       
+Information overload (IO) IO1  0.888  0.944  0.957  0.816 
+IO2  0.915       
+IO3  0.917       
+IO4  0.912       
+IO5  0.882       
+Individual work performance (WP) WP1  0.890  0.916  0.941  0.798 
+WP2  0.915       
+WP3  0.880       
+WP4  0.888       
+Individual boundary buffering (BB) BB1  0.827  0.846  0.895  0.741 
+BB2  0.801       
+BB3  0.947        Table 5 
+The correlation matrix of constructs.   
+Mean Std 1 2 3 4 5 
+1.BS  4.89  1.26  .847         
+2.MI  5.48  0.87  .331**  .815       
+3.IO  3.44  1.53  .310**  .074  .903     
+4.WP  5.22  1.02  .149*  .320**  -.230 **  .893   
+5.BB  3.86  1.62  .252**  .124  -.070  .341**  .861 
+Notes: The bolded elements on diagonal are the square roots of AVEs, and off- 
+diagonal elements are correlations between constructs. 
+*pD0.05; 
+**pD0.01. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+9interaction figure. Therefore, this study applied the latent variable 
+scores computed by SmartPLS to PROCESS macro for SPSS to estimate 
+path coefficients. The PROCESS model test that involves the boot-
+strapping technique can provide a reasonable estimate of indirect ef-
+fects, and does not require a normally distributed sample (Preacher & 
+Hayes, 2008 ). This macro can further report detailed mediation results 
+with confidence intervals at the level of 95% as shown in Table 7. 
+SmartPLS and PROCESS are compatible because both use OLS regression 
+to estimate path coefficients (Hair Jr, Hult, Ringle, & Sarstedt, 2016; 
+Preacher & Hayes, 2008 ). This use of the statistical tool has been applied 
+in prior studies (e.g., Wang et al., 2021 ; Finoti, Didonet, Toaldo, & 
+Martins, 2017 ; Gong, 2018 ). 
+We tested the main effects (Hypotheses H1a, H1b, H2, and H3) by 
+employing Model 4 of the PROCESS macro and tested the moderating 
+effects by employing Model 7 in PROCESS. To attain significance with a 
+confidence of 95%, the confidence intervals must not include zero. 
+Below, we discuss the results of hypothesis testing. 
+In Table 6, Model I, Model III, and Model V show the results of the 
+PROCESS Model 4 test; Model II and Model IV show the results of the 
+PROCESS Model 7 test. Fig. 3 shows the results of model testing. 
+As shown in Table 6, Model I indicates that individual boundary 
+spanning is positively related to mindfulness (β0.294, p<0.01). 
+Model III shows a positive effect on information overload from indi-
+vidual boundary spanning (β0.252, p<0.01), and Model V shows 
+that mindfulness and information overload significantly influence in-
+dividual work performance . (β0.271, p<0.01 and β 0.291, 
+p<0.01), thereby supporting Hypotheses 1a and 1b and Hypotheses 2 
+and 3. We further report the bootstrapping results for the mediation 
+analyses in Table 7. The results reveal that the mediating effects of both 
+mindfulness and information overload are significant. 
+Test of Moderating Effects . 
+H4a and H4b predict that individual boundary buffering moderates 
+the impact of individual boundary spanning on mindfulness and infor-
+mation overload. To test these predictions, the PROCESS formulated the 
+interaction term BS ”BB. As shown in Table 6, the interaction term was positively related to mindfulness (β0.125 p<0.05) in Model II and 
+negatively related to information overload (β 0.204 p<0.01) in 
+Model IV. The relevant interaction plots are shown in Fig. 4. 
+6.Discussion and implications 
+The advantages and potential negative effects of ESM technologies 
+that facilitate employees ’ online interactions and access to the 
+enterprise-wide resources pool provide the impetus for this empirical 
+investigation. This study applies an information processing theoretical 
+lens to explore how individuals ’ boundary spanning and boundary 
+buffering can collectively affect work performance in the ESM context 
+(Dey & Ganesh, 2017 ). The results of this study support our proposed 
+research hypotheses, which confirmed two distinct mechanisms (i.e., 
+mindfulness and information overload) that could explain the positive 
+and negative effects of ESM-based individual boundary spanning ac-
+tivities. Furthermore, the results indicated that individual boundary 
+buffering could strengthen the positive effect of individual boundary 
+spanning on mindfulness and alleviate the positive influence of indi-
+vidual boundary spanning on information overload. This study links to 
+existing research in several ways. 
+The present study takes the position that perceives ESM as broad -
+ening an individual ’s resource sources within the organization (Ellison 
+et al., 2015; Leonardi et al., 2013 ), and introduces the concept of 
+boundary spanning from boundary management theory to explicitly 
+capture the behaviors of individuals obtaining external work resources 
+in the ESM context. Our research validates the positive mediating effect 
+of mindfulness on the relationship between individual boundary span-
+ning and work performance, indicating mindfulness is an effective in-
+formation processing mode for taking advantage of external 
+work-related resources obtained from individual boundary spanning 
+via ESM. The finding is consistent with a prior study stating that em-
+ployees ’ mindfulness can help individuals incorporate task-relevant in-
+formation obtained from e-mail interruptions during work time (Addas 
+& Pinsonneault, 2018 ). The revealed mechanism (i.e., mindfulness) adds 
+knowledge to extant boundary spanning research, which recognizes that 
+boundary spanning can broaden resource access and promote work 
+performance (Barner-Rasmussen et al., 2014; Levina & Vaast, 2005; 
+Reiche, 2011 ). 
+This study found that individual boundary spanning has a positive 
+linear relationship with information overload, indicating that intensive 
+boundary spanning activities constantly consume individuals ’ informa -
+tion processing resources, aligning with a prior study ’s notion that 
+boundary spanning is taxing (Wang et al., 2019 ). It is worth noting that 
+this finding seems inconsistent with one previous study that found an 
+inverted curvilinear relationship between work-related ESM use and 
+information overload (X. Chen & Wei, 2019 ). Chen and her colleague 
+argued that as employees become familiar with ESM, they can better 
+manage ESM activities; therefore, information overload decreases. 
+However, the validated moderating role of individual boundary buff-
+ering provides a perspective to address such inconsistency. Specifically, 
+an individual who is more familiar with ESM will better understand how 
+to prevent overloading oneself with ESM information (i.e., individual 
+boundary buffering). Our study adds knowledge to the understanding of 
+the relationship between ESM use and information overload. 
+Lastly, this study examines the moderating role of individual 
+boundary buffering. Previous literature on other information technolo -
+gies’ use behavior suggested taking measures such as queuing (Wilson, 
+1995 ), filtering, and withdrawing (Savolainen, 2007 ) to protect oneself 
+from receiving too much information, thus enhancing one’s information 
+processing efficiency. Nevertheless, scholars have pointed out a lack of 
+empirical studies to statistically investigate the effectiveness of ap-
+proaches for coping with information overload (Saxena & Lamest, 
+2018 ). This study echoes this call and provides empirical evidence to 
+consider the protection mechanisms on the effects of ESM on individual 
+performance. Table 6 
+Regression results.   
+Mindfulness Information overload Individual 
+work 
+performance 
+Variable Model I Model II Model 
+III Model 
+IV Model V 
+Polychronicity 
+orientation  0.080  0.074  0.164 *  0.196 **  -0.081 
+Non-work ESM 
+use  -0.084  -0.103  0.170 *  0.211 **  0.055 
+Age  0.069  0.014  -0.322 **  -0.174  0.169 
+Education  0.278  0.284  -.0.190  -0.201  0.014 
+Gender  -0.014  -0.025  -0.008  -0.037  -0.262 
+Work 
+experience  -0.100  -0.083  0.058  0.010  -0.052 
+ESM use 
+experience  0.188 **  0.197 **  0.219 **  0.210 **  0.109 
+Individual 
+boundary 
+Spanning(BS)  0.294 **  0.358 **  0.252 **  0.173 *  0.149 * 
+Mindfulness          0.271 ** 
+Information 
+overload          -0.291 ** 
+Individual 
+boundary 
+Buffering(BB)    -0.021    -0.125   
+BS x BB    0.125 *    -0.204 **   
+R2  0.188  0.205  0.216  0.291  0.238 
+F  5.567  4.933  6.631  7.837  5.964 
+Note: 
+*PD0.05, 
+**PD0.01. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+10The following section discusses theoretical and managerial implica -
+tions associated with our findings. 
+6.1. Research contributions and implications 
+First, this study contributes to the ESM literature by introducing 
+individual boundary spanning to capture individuals ’ obtaining external 
+work resource behaviors and exploring mechanisms through which in-
+dividual boundary spanning can affect individual work performance. 
+Extant studies have validated the fact that ESM ’s integration of conve -
+nient communication and work resource management could facilitate 
+ESM users ’ obtaining and exchanging work resources (Qi & Chau, 2017; 
+Rode, 2016 ). For example, Mantym aki (2016) found that ESM encour -
+ages employees to exchange novel work ideas and gather opinions on 
+work issues by reading colleagues ’ postings on ESM. However, it is a pity 
+that we still know little on whether these resources obtaining and 
+exchanging activities are occurring within the work boundary (e.g., 
+within the project team) or out of the work boundary but within the 
+organization. Such lack of discrimination does not allow us to explicitly 
+capture the advantage of ESM as a tool to broaden individuals ’ access to knowledge across their work boundaries as proposed by prior scholars 
+(Ellison et al., 2015; Leonardi et al., 2013 ). Based on boundary man-
+agement literature, this study proposed the concept of boundary span-
+ning to explicitly capture individuals ’ behaviors of obtaining work 
+resources outside the boundary of their work. The study results reveal 
+ESM boundary spanning activities trigger spanners into a mindful pro-
+cessing mode through which they effectively incorporate external work 
+resources obtained to aid their work. These findings echo prior studies ’ 
+findings that receiving work-related information can benefit one’s work 
+(Addas & Pinsonneault, 2018 ). Simultaneously, due to an individual ’s 
+limited information processing capacity, intensive boundary spanning 
+could lead to resource deficiency (i.e., information overload) and harm 
+an individual ’s work performance. This finding is consistent with prior 
+research findings that information overload is a critical negative 
+consequence in ESM use activities (Chen & Wei, 2019 ; Gao et al., 2018 ). 
+Second, the significant moderating effect of ESM boundary buffering 
+suggests that it effectively enhances the value of ESM use. Prior litera -
+ture presents conflicting views on the relationship between ESM use and 
+work performance. The favorable perspective observed that ESM 
+implementation is an excellent approach to breaking down knowledge 
+silos in organizations and facilitating individuals ’ sharing and accessing 
+of cross-boundary resources (Ellison et al., 2015; Kwayu, Abubakre, & 
+Lal, 2021; Leonardi et al., 2013 ). In contrast, the opposing side posited 
+that ESM use depletes individuals ’ limited resources and negatively 
+influenced them through information overload (Chen & Wei, 2019 ; Sun 
+et al., 2021 ). However, limited knowledge exists about alleviating ESM ’s 
+negative effects on individuals and improving employees ’ efficiency of 
+resources on ESM (Liang et al., 2020 ). The results of this study support 
+the prior suggestion of taking measures such as queuing (Wilson, 1995 ), 
+filtering and withdrawing (Savolainen, 2007 ) to protect oneself from 
+Fig. 3.Results of model testing.  
+Table 7 
+Bootstrapping results for the mediation analyses.  
+Test of mediation Effect SE 95% BC CI 
+Lower Upper 
+Mindfulness  0.079  0.034  0.027  0.165 
+Information Overload  -0.073  0.029  -0.140  -0.026 
+Note: Bootstrapping sample 5000. 
+Fig. 4.Moderating effects of individual boundary buffering.  J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+11receiving too much information and enhancing one’s information pro-
+cessing efficiency. This study provides empirical evidence to consider 
+protection mechanisms in the effects of ESM on individual performance. 
+Finally, we contribute to the boundary management literature by 
+theoretically proposing and empirically validating that individual 
+boundary spanning and boundary buffering can be strategically com-
+bined to effectively benefit an individual’s work. Extant studies have 
+found that individual boundary spanning can broaden the channels for 
+acquiring more work resources (Barner-Rasmussen et al., 2014; Levina 
+& Vaast, 2005; Reiche, 2011), facilitating knowledge flow (Pawlowski & 
+Robey, 2004), and providing extra cues for decision-making (Floyd & 
+Wooldridge, 1997), thus benefiting work performance. However, those 
+studies focused solely on the effects of boundary spanning, without 
+in-depth discussion of strengthening the effectiveness of boundary 
+spanning. Our study applied information processing theory and argued 
+that individual boundary spanning via ESM is information-based; such 
+activities can influence individual work performance through two 
+mechanisms—mindfulness and information overload. We further 
+considered the moderating role of individual boundary buffering in the 
+relationship between individual boundary spanning and the two 
+mechanisms. The results revealed that individual boundary buffering 
+activities could strengthen the positive relationship between boundary 
+spanning and mindfulness and alleviate the negative relationship be-
+tween boundary spanning and information overload, thus, strength -
+ening the effectiveness of individual boundary spanning. Our study 
+echoes Dey and Ganesh’s call for studies that do not only consider the 
+influence of separate boundary activities, as this would neglect the 
+interaction effects of boundary activities (Dey & Ganesh, 2017). To the 
+best of our knowledge, this is one of the first few, if not the first, 
+empirical studies on the effects of combining both individual boundary 
+spanning and boundary buffering activities on individual performance. 
+6.2. Implications for practice 
+Our study provides significant evidence that employees can enhance 
+work performance by accessing external work resources via ESM. 
+Managers need to realize that employees’ boundary spanning activities 
+rely mainly on unofficial communications and interactions. In Chinese 
+culture, co-worker guanxi is crucial to interpersonal workplace in-
+teractions (Zhang X, 2020), and high-quality co-worker guanxi can 
+reduce interaction conflict (Yen, Abosag, Huang, & Nguyen, 2017), 
+facilitate communications, and motivate employees’ organizational 
+citizenship behaviors (Lin & Ho, 2010). Therefore, managers can 
+develop a fun and friendly atmosphere in the workplace (Yang, 2018) or 
+organize more joint departmental team-building activities to enhance 
+familiarity among employees, thus strengthening co-worker guanxi. On 
+the other hand, team or project leaders can also encourage their mem-
+bers to proactively acquire external work resources via ESM (Faraj & 
+Yan, 2009). 
+Second, it is notable that the effectiveness of individual boundary 
+spanning also depends on the quality of the external resources. Orga-
+nizations can take approaches to enrich high-quality work resources 
+documented on ESM (Dang, Zhang, & Chen, 2018), such as providing 
+incentives for employees to encourage ESM content creation and sharing 
+(Beranek, Klein, & Jiang, 2014), setting sharing norms for project teams 
+and departments to require them to upload and maintain the work log 
+and report on the ESM. 
+Third, although employees can benefit from individual boundary 
+spanning, managers should be aware that employees need to search, 
+recognize work-related information from massive content on ESM, and 
+then incorporate useful information into their work. Such a series of 
+procedures is costly and inefficient. Since individuals possess limited 
+information processing resources, managers are expected to reduce the 
+cost of individuals’ boundary spanning activities. Examples include 
+providing a series of content tags, allowing users to customize content 
+tags, and encouraging ESM users to tag the content they create or upload on the ESM to facilitate other ESM users’ content searching. Managers 
+can also establish a reasonable content management directory to better 
+arrange content on the ESM, or increase the communication visibility of 
+ESM to help users develop meta knowledge (i.e., knowledge about who 
+knows what and who knows whom) to assist them in locating the source 
+of needed work resources (Leonardi, 2014). 
+Fourth, the positive moderating effects of individual boundary 
+buffering show their value during individuals’ boundary-spanning ac-
+tivities, especially as ESM functionalities provide various technology- 
+based approaches to support individuals in engaging in these activ-
+ities. Managers should therefore conduct ESM training courses for em-
+ployees to clarify and emphasize the use and effects of different 
+functionalities in different typical contexts so that ESM users can have 
+better control over ESM. These practices would ultimately achieve more 
+effective ESM boundary management. The results also imply that the 
+intrusiveness and disturbance of non-work-related activities via ESM 
+during work time are not negligible in the ESM context. Managers 
+should set norms or rules to reduce employees’ unnecessary ESM use 
+activities during work time. 
+Finally, the findings of boundary buffering activities provide di-
+rections for ESM developers. They can provide more buffering types of 
+ESM functionalities to improve user experience. For example, by 
+providing tags for information flows to enable ESM users to classify 
+whether the specific information flow is work or non-work-related, such 
+functionality can help ESM manage notifications automatically (e.g., 
+ESM can mute notifications from non-work-related information sources 
+during work time). 
+6.3. Limitations and future research direction 
+This study has limitations that present opportunities for future 
+research. First, this study focuses on one typical interaction of boundary 
+management activities. Prior boundary management literature has 
+identified different boundary activities, such as boundary reinforcement 
+(Faraj & Yan, 2009). Future research could follow this direction and seek 
+a new portfolio of boundary management activities. Second, this study 
+considered limited mechanisms regarding the interaction effects of 
+boundary spanning and boundary buffering in the ESM context. Future 
+researchers could investigate other potential mechanisms, such as job 
+burnout or stress, in this specific context (Voydanoff, 2005). Third, 
+although we measured ESM boundary buffering, we did not further 
+discriminate whether the information that individuals’ buffer is 
+work-related, which could neglect some of the potential effects of such 
+boundary behaviors. For example, if one buffers work-related informa -
+tion (though he may feel overloaded at that time), such behavior could 
+negatively influence the relationship between him and his colleagues (e. 
+g., collaboration or mutual trust) and work performance. Future 
+research could therefore continue to explore these behaviors to provide 
+finer-grained insights. Fourth, this study provides insights into the ef-
+fects of individual boundary spanning. However, according to the 
+summary of boundary spanning in the ESM context, there is a lack of 
+research on what factors influence individuals to engage in ESM 
+boundary spanning. For instance, scholars have confirmed different 
+psychological conditions (i.e., psychological meaningfulness, psycho -
+logical availability, psychological safety) as indispensable factors that 
+affect work activities in the ESM context (Cai et al., 2018). Future studies 
+could follow this direction and explore the relationships between psy-
+chological conditions and individual boundary spanning in the ESM 
+context. Finally, the data in this study was collected from one firm in 
+China. Whether the results and discussions are applicable to other 
+countries remains unverified. Different cultures might affect ESM users’ 
+behaviors and interactions. Prior studies have suggested differences 
+between Chinese guanxi and Western relationship norms (Yang, 2018; 
+Yen et al., 2017). Future studies can apply our model to other cultural 
+contexts to develop more comprehensive research. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+127.Conclusion 
+This study adopts an information processing theoretical lens to 
+empirically identify two mechanisms through which individual bound -
+ary spanning affects work performance. Along with these two mecha -
+nisms, we also explored the moderating effects of individual boundary 
+buffering via ESM. Our results found that boundary buffering can 
+enhance the positive effects of individual boundary spanning on mind -
+fulness and reduce the side effects of individual boundary spanning on 
+information overload. Our findings emphasize that necessary boundary 
+buffering helps employees better reap the benefits of boundary 
+spanning. 
+CRediT authorship contribution statement 
+Jianru Zhang: Methodology, Validation, Formal analysis, Writing – original draft. Xiaosong Wu: Conceptualization, Methodology. Ju’e 
+Guo: Funding acquisition. Randi Jiang: Writing – review & editing. 
+Acknowledgements 
+The first author want to thank the support by the Major Program of 
+the National Social Science Foundation of China, China (17ZDA083) and 
+the National Natural Science Foundation of China, China (71774130, 
+72032006, 71731009, 72061127002). The second author want to thank 
+the support from National Center for Applied Mathematics Shenzhen 
+(NCAMS), Shenzhen 518055, China and Shenzhen Key Research Base in 
+Arts & Social Sciences (Intelligent Management & Innovation Research 
+Center-IMIDRC, SusTech, Shenzhen, China).  
+Appendix A.Measurement Items  
+Construct and items Sources 
+Individual boundary spanning  Faraj and Yan (2009) 
+BS1. I use ESM to solicit information and resources from external channels. 
+BS2. I make use of my relationships with external colleagues through ESM to support my work. 
+BS3. I actively use ESM to solicit external work resources. 
+BS4. My work depends upon information and resources actively solicited through ESM, that is, information and resources beyond 
+what comes through official channels. 
+Information overload  Zhang et al. (2016) . 
+IO1. During work time, I have more information on ESM than I have energy to deal with. 
+IO2. During work time, I have more information on ESM than I have time to deal with. 
+IO3. I am often distracted by the excessive amount of information available to me on ESM. 
+IO4. I find that I am overwhelmed by the amount of information I have to process on a daily basis on ESM. 
+IO5. There is too much information about my coworkers on ESM so I find it a burden to handle. 
+Mindfulness  Addas and Pinsonneault (2018) ;Langer (1989) 
+After processing the work-related information from ESM … 
+MI1: I investigated new issues that emerged in my work. 
+MI2: I came out new ideas about doing my work. 
+MI3: I tended to engage in provoking conversations. 
+MI4: I found myself very curious about issues that I faced in my work. 
+MI5: I tried to apply new approach to my work. 
+MI6: I developed an open-mind about the issues I faced, even things that challenged my core beliefs. 
+Individual work performance – Obtained from supervisor ratings  Venkatesh et al. (2018) 
+Please rate [team member name] on his/her performance on the project in terms of: 
+WP1. Quantity of work output. 
+WP2. Quality of work output 
+WP3. Accuracy of work. 
+WP4. Completing work tasks on-time. 
+Individual boundary buffering  Faraj and Yan (2009) 
+BB1. I take measures (e.g., muting nonwork-related notifications) to ensure that I can work free of ESM interference. 
+BB2. I prevent myself from receiving overloaded information or requests on ESM. 
+BB3. I inform others on ESM that I’m concentrating on my work (e.g., by setting a ‘busy ’ mode on ESM).  
+References 
+Aboelmaged, M. G. (2018). Knowledge sharing through enterprise social network (ESN) 
+systems: motivational drivers and their impact on employees ’ productivity. Journal 
+of Knowledge Management, 22(2), 362–383. 
+Addas, S., & Pinsonneault, A. (2018). E-Mail Interruptions and Individual Performance: is 
+There a Silver Lining? Mis Quarterly, 42(2), 381–405. 
+Adler, R. F., & Benbunan-Fich, R. (2012). Juggling on a high wire: multitasking effects on 
+performance. International Journal of Human-Computer Studies, 70(2), 156–168. 
+Anand, A., & Singh, M. D. (2011). Understanding knowledge management: a literature 
+review. International Journal of Engineering Science and Technology, 3(2). 
+Archer-Brown, C., & Kietzmann, J. (2018). Strategic knowledge management and 
+enterprise social media. Journal of Knowledge Management, 22(6), 1288 –1309 . 
+Armstrong, J. S., & Overton, T. S. (1977). Estimating nonresponse bias in mail surveys. 
+Journal of Marketing Research, 14(3), 396–402. 
+Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: a proposed system and its 
+control processes. Psychology of Learning and Motivation, 2(4), 89–195. 
+Bacharach, S. B., & Bamberger, P. (1995). Beyond situational constraints: Job resources 
+inadequacy and individual performance at work. Human Resource Management 
+Review, 5(2), 79–102. Baer, R. (2003). Mindfulness training as a clinical intervention: a conceptual and 
+empirical review. Clinical Psychology: Science and Practice, 10, 125–143. 
+Baethge, A., & Rigotti, T. (2013). Interruptions to workflow: their relationship with 
+irritation and satisfaction with performance, and the mediating roles of time 
+pressure and mental demands. Work & Stress, 27(1), 43–63. 
+Barner-Rasmussen, W., Ehrnrooth, M., Koveshnikov, A., & Makela, K. (2014). Cultural 
+and language skills as resources for boundary spanning within the MNC. Journal of 
+International Business Studies, 45(7), 886–905. 
+Beranek, P. M., Klein, G., & Jiang, J. J. (2014). Building user engagement for successful 
+software projects: meaningfulness, safety, and availability. Pacific Asia Journal of the 
+Association for Information Systems, 6(3), 1. 
+Bishop, S., Lau, M., Shapiro, S., Carlson, L., Anderson, N., Carmody, J., & Devins, G. 
+(2004). Mindfulness: a Proposed Operational Definition. Clinical Psychology: Science 
+and Practice, 11, 230–241. 
+Bluedorn Allen, C., Kalliath Thomas, J., Strube Michael, J., & Martin Gregg, D. (1999). 
+Polychronicity and the Inventory of Polychronic Values (IPV): the development of an 
+instrument to measure a fundamental dimension of organizational culture. Journal of 
+Managerial Psychology, 14(3/4), 205–231. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+13Bodner, T. E., & Langer, E. J. (2001, 2001). Individual differences in mindfulness: The 
+mindfulness/mindlessness scale. Paper presented at the 13th annual American 
+Psychological Society Convention, Toronto, Ontario, Canada. 
+Cai, Z., Huang, Q., Liu, H., & Wang, X. (2018). Improving the agility of employees 
+through enterprise social media: the mediating role of psychological conditions. 
+International Journal of Information Management, 38(1), 52–63. 
+Cameron, A.-F., & Webster, J. (2012). Multicommunicating: juggling Multiple 
+Conversations in the Workplace. Information Systems Research, 24(2), 352–371. 
+Cao, X., & Yu, L. (2019). Exploring the influence of excessive social media use at work: a 
+three-dimension usage perspective. International Journal of Information Management, 
+46, 83–92. 
+Carlile, P. R. (2004). Transferring, translating, and transforming: an integrative 
+framework for managing knowledge across boundaries. Organization Science, 15(5), 
+555–568. 
+Chang, J. Y. T., Wu, X., Discenza, R., & Klein, G. (2021). Creative software development 
+with team boundary management. Journal of Computer Information Systems , 1–12. 
+Chen, A., & Karahanna, E. (2018). Life interrupted: the effects of technology-mediated 
+work interruptions on work and nonwork outcomes. Mis Quarterly, 42(4), 
+1023 –1042 . 
+Chen, X., & Wei, S. (2019). Enterprise social media use and overload: a curvilinear 
+relationship. Journal of Information Technology, 34(1), 22–38. 
+Chin, W. W., Marcolin, B. L., & Newsted, P. R. (2003). A partial least squares latent 
+variable modeling approach for measuring interaction effects: results from a Monte 
+Carlo simulation study and an electronic-mail emotion/adoption study. Information 
+Systems Research, 14(2), 189–217. 
+Dang, M. Y., Zhang, G. Y., & Chen, H. (2018). Adoption of social media search systems: 
+an IS success model perspective. Pacific Asia Journal of the Association for Information 
+Systems, 10(2), 4. 
+Dey, C., & Ganesh, M. P. (2017). Team boundary activity: a review and directions for 
+future research. Team Performance Management: An International Journal, 23(5), 
+273–292. 
+Diamantopoulos, A., & Winklhofer, H. M. (2001). Index construction with formative 
+indicators: an alternative to scale development. Journal of Marketing Research, 38(2), 
+269–277. 
+Ellison, N. B., Gibbs, J. L., & Weber, M. S. (2015). The use of enterprise social network 
+sites for knowledge sharing in distributed organizations: the role of organizational 
+affordances. American Behavioral Scientist, 59(1), 103–123. 
+Eyrolle, H., & Cellier, J.-M. (2000). The effects of interruptions in work activity: field and 
+laboratory results. Applied ergonomics, 31(5), 537–543. 
+Faraj, S., & Yan, A. (2009). Boundary work in knowledge teams. Journal of Applied 
+Psychology, 94(3), 604–617. 
+Finoti, L., Didonet, S., Toaldo, A., & Martins, T. (2017). The role of the marketing 
+strategy process in the innovativeness-performance relationship of SMEs. Marketing 
+Intelligence & Planning, 35, 298–315. 
+Floyd, S. W., & Wooldridge, B. (1997). Middle management ’s strategic influence and 
+organizational performance. Journal of Management Studies, 34(3), 465–485. 
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with 
+unobservable variables and measurement error. Journal of Marketing Research , 
+39–50. 
+Frese, M., & Zapf, D. (1994aaa). Action as the core of work psychology: a German 
+approach. Handbook of Industrial and Organizational Psychology, 4(2), 271–340. 
+Frese, M., & Zapf, D. (1994bbb). Action as the core of work psychology: a German 
+approach. Handbook of Industrial and Organizational Psychology, 4. 
+Fulk, J., & Yuan, Y. C. (2013). Location, motivation, and social capitalization via 
+enterprise social networking. Journal of Computer-Mediated Communication, 19(1), 
+20–37. 
+Galluch, P. S., Grover, V., & Thatcher, J. B. (2015). Interrupting the workplace: 
+Examining stressors in an information technology context. Journal of the Association 
+for Information Systems, 16(1), 2. 
+Gao, J., Zhang, C., Wang, K., & Ba, S. (2012). Understanding online purchase decision 
+making: the effects of unconscious thought, information quality, and information 
+quantity. Decision Support Systems, 53(4), 772–781. 
+Gao, W., Liu, Z., Guo, Q., & Li, X. (2018). The dark side of ubiquitous connectivity in 
+smartphone-based SNS: an integrated model from information perspective. 
+Computers in Human Behavior, 84, 185–193. 
+Gefen, D., & Straub, D. (2005). A practical guide to factorial validity using PLS-Graph: 
+tutorial and annotated example. Communications of the Association for Information 
+Systems, 16(1), 5. 
+Gong, T. (2018). Customer brand engagement behavior in online brand communities. 
+Journal of Services Marketing, 32, 286–299. 
+Guo, Y., Lu, Z., Kuang, H., & Wang, C. (2020). Information avoidance behavior on social 
+network sites: Information irrelevance, overload, and the moderating role of time 
+pressure. International Journal of Information Management, 52, Article 102067 . 
+Hacker, W. (2003). Action regulation theory: a practical tool for the design of modern 
+work processes? European Journal of Work and Organizational Psychology, 12(2), 
+105–130. 
+Haigh, E. A. P., Moore, M. T., Kashdan, T. B., & Fresco, D. M. (2011). Examination of the 
+factor structure and concurrent validity of the langer mindfulness/mindlessness 
+scale. Assessment, 18(1), 11–26. 
+Hair, J., Hollingsworth Carole, L., Randolph Adriane, B., & Chong Alain Yee, L. (2017). 
+An updated and expanded assessment of PLS-SEM in information systems research. 
+Industrial Management & Data Systems, 117(3), 442–458. 
+Hair Jr, J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2016). A primer on partial least 
+squares structural equation modeling (PLS-SEM) . Sage publications .  
+Harman, H. H. (1970). Modern factor analysis. Modern factor analysis . University of 
+Chicago press .  Hayes, A. (2012). PROCESS: A Versatile Computational Tool for Observed Variable 
+Mediation. Moderation, and Conditional Process Modeling, 1. 
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2012). Using partial least squares path 
+modeling in advertising research: basic concepts and recent issues. Handbook of 
+research on international advertising . Edward Elgar Publishing .  
+Jackson, T. W., & Farzaneh, P. (2012). Theory-based model of factors affecting 
+information overload. International Journal of Information Management, 32(6), 
+523–532. 
+Jacoby, J., Speller, D. E., & Kohn, C. A. (1974). Brand Choice Behavior as a Function of 
+Information Loading, 11(1), 63–69. 
+Jett, Q. R., & George, J. M. (2003). Work interrupted: a closer look at the role of 
+interruptions in organizational life. Academy of Management Review, 28(3), 494–507. 
+Karr-Wisniewski, P., & Lu, Y. (2010). When more is too much: operationalizing 
+technology overload and exploring its impact on knowledge worker productivity. 
+Computers in Human Behavior, 26(5), 1061 –1072 . 
+Keller, K. L., & Staelin, R. (1987). Effects of quality and quantity of information on 
+decision effectiveness. Journal of Consumer Research, 14(2), 200–213. 
+Kuegler, M., Smolnik, S., & Kane, G. (2015). What ’s in IT for employees? Understanding 
+the relationship between use and performance in enterprise social software. The 
+Journal of Strategic Information Systems, 24(2), 90–112. 
+Kwayu, S., Abubakre, M., & Lal, B. (2021). The influence of informal social media 
+practices on knowledge sharing and work processes within organizations. 
+International Journal of Information Management, 58, Article 102280 . 
+Laitinen, K., & Sivunen, A. (2020). Enablers of and constraints on employees ’ 
+information sharing on enterprise social media. Information Technology & People, 34 
+(2), 642–665. 
+Langer, E. J. (1989). Mindfulness. Reading, MA, US. Wesley Longman: Addison-Wesley/ 
+Addison .  
+Langer, E. J. (1992). Matters of mind: mindfulness/mindlessness in perspective. 
+Consciousness and cognition, 1(3), 289–305. 
+Leonardi, P. M. (2014). Social media, knowledge sharing, and innovation: toward a 
+theory of communication visibility. Information Systems Research, 25(4), 796–816. 
+Leonardi, P. M., Huysman, M., & Steinfield, C. (2013). Enterprise social media: 
+definition, history, and prospects for the study of social technologies in 
+organizations. Journal of Computer-Mediated Communication, 19(1), 1–19. 
+Levina, N., & Vaast, E. (2005). The emergence of boundary spanning competence in 
+practice: implications for implementation and use of information systems. Mis 
+Quarterly, 29(2), 335–363. 
+Li, C. (2015). Why no one uses the corporate social network. Harvard Business Review . 
+https://hbr.org/2015/04/why-no-one-uses-the-corporate-social-network . 
+Liang, M., Xin, Z., Yan, D. X., & Jianxiang, F. (2020). How to improve employee 
+satisfaction and efficiency through different enterprise social media use. Journal of 
+Enterprise Information Management, 34(3), 922–947. 
+Lin, L.-H., & Ho, Y.-L. (2010). Guanxi and OCB: the Chinese cases. Journal of Business 
+Ethics, 96(2), 285–298. 
+Liu, Y., & Bakici, T. (2019). Enterprise social media usage: the motives and the 
+moderating role of public social media experience. Computers in Human Behavior, 
+101, 163–172. 
+Lowry, P. B., & Gaskin, J. (2014). Partial least squares (PLS) structural equation 
+modeling (SEM) for building and testing behavioral causal theory: when to choose it 
+and how to use it. IEEE Transactions on Professional Communication, 57(2), 123–146. 
+Lu, Y., & Pan, T. (2019). The effect of employee participation in enterprise social media 
+on their job performance. IEEE Access, 7, 137528 –137542 . 
+Manev, I. M., & Stevenson, W. B. (2001). Balancing ties: boundary spanning and 
+influence in the organization ’s extended network of communication. The Journal of 
+Business Communication (1973), 38(2), 183–205. 
+Mantym aki, M., & Riemer, K. (2016). Enterprise social networking: a knowledge 
+management perspective. International Journal of Information Management, 36(6), 
+1042 –1052 . 
+Marrone, J. A. (2010). Team Boundary Spanning: A Multilevel Review of Past Research and 
+Proposals for the Future, 36(4), 911–940. 
+Mattila, A. S., & Enz, C. A. (2002). The role of emotions in service encounters. Journal of 
+Service Research, 4(4), 268–277. 
+Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our 
+capacity for processing information. Psychological Review, 63(2), 81. 
+Moore, G. C., & Benbasat, I. (1991). Development of an instrument to measure the 
+perceptions of adopting an information technology innovation. Information Systems 
+Research, 2(3), 192–222. 
+Pawlowski, S., & Robey, D. (2004). bridging user organizations: knowledge brokering 
+and the work of information technology professionals. Mis Quarterly, 28, 645–672. 
+Pee, L. G. (2018). Affordances for sharing domain-specific and complex knowledge on 
+enterprise social media. International Journal of Information Management, 43, 25–37. 
+Peng, D. X., Heim, G. R., & Mallick, D. N. (2015). Collaborative product development: the 
+effect of project complexity on the use of information technology tools and new 
+product development practices. Production & Operations Management, 23(8), 
+1421 –1438 . 
+Podsakoff, P., MacKenzie, S., Lee, J.-Y., & Podsakoff, N. (2003). Common Method Biases 
+in Behavioral Research: A Critical Review of the Literature and Recommended 
+Remedies. Journal of Applied Psychology, 88, 879–903. 
+Polit, D., & Beck, C. (2006). The content Validity Index: are you sure you know what ’s 
+being reported? Critique and recommendations. Research in Nursing & Health, 29, 
+489–497. 
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing 
+and comparing indirect effects in multiple mediator models. Behavior Research 
+Methods, 40(3), 879–891. J. Zhang et al.                                                                                                                                                                                                                                   International Journal of Information Management 64 (2022) 102490
+14Qi, C., & Chau, P. Y. K. (2017). Will enterprise social networking systems promote 
+knowledge management and organizational learning? An empirical study. Journal of 
+Organizational Computing and Electronic Commerce, 28(1), 31–57. 
+Ragu-Nathan, T., Tarafdar, M., Ragu-Nathan, B. S., & Tu, Q. (2008). The consequences of 
+technostress for end users in organizations: Conceptual development and empirical 
+validation. Information Systems Research, 19(4), 417–433. 
+Ratcheva, V. (2009). Integrating diverse knowledge through boundary spanning 
+processes – The case of multidisciplinary project teams. International Journal of 
+Project Management, 27(3), 206–215. 
+Reiche, B. S. (2011). Knowledge transfer in multinationals: the role of inpatriates ’ 
+boundary spanning. Human Resource Management, 50(3), 365–389. 
+Roberts, N. H., Thatcher, J. B., & Klein, R. (2007). Using information technology 
+mindfully. Paper presented at the Proceedings of the 2007 Southern Association for 
+Information Systems Conference. 
+Rode, H. (2016). To share or not to share: the effects of extrinsic and intrinsic 
+motivations on knowledge-sharing in enterprise social media platforms. Journal of 
+Information Technology, 31(2), 152–165. 
+Roe, R. A. (1999). Work performance: A multiple regulation perspective. 
+Russell, E., Jackson, T., & Banks, A. (2019). Classifying computer-mediated 
+communication (CMC) interruptions at work using control as a key delineator. 
+Behaviour & information technology (pp. 1–15). 
+Sarstedt, M., Ringle, C. M., & Hair, J. F. (2017). Partial Least Squares Structural Equation 
+Modeling. In C. Homburg, M. Klarmann, & A. Vomberg (Eds.), Handbook of Market 
+Research (pp. 1–40). Cham: Springer International Publishing .  
+Savolainen, R. (2007). Filtering and withdrawing: strategies for coping with information 
+overload in everyday contexts. Journal of Information Science, 33(5), 611–621. 
+Saxena, D., & Lamest, M. (2018). Information overload and coping strategies in the big 
+data context: evidence from the hospitality sector. Journal of Information Science, 44 
+(3), 287–297. 
+Schick, A. G., Gordon, L. A., & Haka, S. (1990). Information overload: a temporal 
+approach. Accounting, organizations and Society, 15(3), 199–220. 
+Schotter, A. P. J., Mudambi, R., Doz, Y. L., & Gaur, A. (2017). Boundary spanning in 
+global organizations. Journal of Management Studies, 54(4), 403–421. 
+Scott, W. R. (1998). Organizations: Rational, Natural and Open Systems . Englewood Cliffs, 
+NJ: Prentice Hall.  
+Shang, R.-A., & Sun, Y. (2020). So little time for so many ties: fit between the social 
+capital embedded in enterprise social media and individual learning requirements. 
+Computers in Human Behavior , Article 106615 . 
+Simon, D. (1978). Information processing theory of human problem solving. Handbook of 
+Learning and Cognitive processes: Vol. 5. Human Information Processing . 
+Sun, Y., Liu, Y., Zhang, J. Z., Fu, J., Hu, F., Xiang, Y., & Sun, Q. (2021). Dark side of 
+enterprise social media usage: a literature review from the conflict-based 
+perspective. International Journal of Information Management, 61, Article 102393 . 
+Swar, B., Hameed, T., & Reychav, I. (2017). Information overload, psychological ill- 
+being, and behavioral intention to continue online healthcare information search. 
+Computers in Human Behavior, 70, 416–425. 
+Tams, S., Thatcher, J. B., & Grover, V. (2018). Concentration, Competence, Confidence, 
+and Capture: An Experimental Study of Age, Interruption-based Technostress, and 
+Task Performance. Journal of the Association for Information Systems, 19, 857–908. 
+Tatikonda, M. V., & Rosenthal, S. R. (2000). Technology novelty, project complexity, and 
+product development project execution success: a deeper look at task uncertainty in 
+product innovation. IEEE Transactions on Engineering Management, 47(1), 74–87. 
+Teigland, R., & Wasko, M. M. (2003). Integrating Knowledge through Information 
+Trading: Examining the Relationship between Boundary Spanning Communication 
+and Individual Performance*. Decision Sciences, 34(2), 261–286. 
+Teo, H. H., Wei, K. K., & Benbasat, I. (2003). Predicting intention to adopt 
+interorganizational linkages: an institutional perspective. Mis Quarterly, 27(1), 
+19–49. Thatcher, J., Wright, R., Sun, H., Zagenczyk, T., & Klein, R. (2018). Mindfulness in 
+information technology use: definitions, distinctions, and a new measure. Mis 
+Quarterly, 42(3), 831–847. 
+Tsai, J. C.-A., Wu, X., Klein, G., & Jiang, J. J. (2021). Goal equivocality and joint account 
+of meaning creation in an enterprise system program. Information Systems 
+Management , 1–16. 
+Tushman, M. L., & Scanlan, T. J. (1981). Boundary spanning individuals: their role in 
+information transfer and their antecedents. Academy of Management Journal, 24(2), 
+289–305. 
+Van Osch, W., & Steinfield, C. W. (2016). Team boundary spanning: strategic 
+implications for the implementation and use of enterprise social media. Journal of 
+Information Technology, 31(2), 207–225. 
+Van Osch, W., & Steinfield, C. W. (2018). Strategic visibility in enterprise social media: 
+implications for network formation and boundary spanning. Journal of Management 
+Information Systems, 35(2), 647–682. 
+Venkatesh, V., Rai, A., & Maruping, L. M. (2018). Information systems projects and 
+individual developer outcomes: role of project managers and process control. 
+Information Systems Research, 29(1), 127–148. 
+Voydanoff, P. (2005). Consequences of boundary-spanning demands and resources for 
+work-to-family conflict and perceived stress. Journal of Occupational Health 
+Psychology, 10(4), 491. 
+Wang, G., Liu, X., & Liu, Y. (2019). Role overload, knowledge acquisition and job 
+satisfaction: an ambidexterity perspective on boundary-spanning activities of IT 
+employees. The International Journal of Human Resource Management, 30(4), 
+728–757. 
+Wang, X., Wang, Y., Lin, X., & Abdullat, A. (2021). The dual concept of consumer value 
+in social media brand community: a trust transfer perspective. International Journal 
+of Information Management, 59, Article 102319 . 
+Wei, S., Zhu, F., & Chen, X. (2020). Do stressors stifle or facilitate employees ’ innovative 
+use of enterprise systems: the moderating role of IT mindfulness. Information 
+Technology & People, 34(3), 955–977. 
+Wilson, P. (1995). Unused relevant information in research and development. Journal of 
+the American Society for Information Science, 46(1), 45–51. 
+Wu, X., Huang, W., Jiang, J., Klein, G., & Liu, S. (2020). Boundary buffering: limiting 
+interference and information leakage in design teams. International Journal of 
+Operations & Production Management, 40(3), 293–313. 
+Yan, A., & Louis, M. R. (1999). The Migration of organizational functions to the work 
+unit level: buffering, spanning, and bringing up boundaries. Human Relations, 52(1), 
+25–47. 
+Yang, F. X. (2018). Social media friending in building coworker guanxi: a study in the 
+hotel industry. International Journal of Hospitality Management, 84, Article 102183 . 
+Yen, D. A., Abosag, I., Huang, Y.-A., & Nguyen, B. (2017). Guanxi GRX (ganqing, renqing, 
+xinren) and conflict management in Sino-US business relationships. Industrial 
+Marketing Management, 66, 103–114. 
+Zhang, J., Guo, J. E., Jiang, J., Wu, X., & Jiang, R. (2021). Moderating effect of 
+requirements uncertainty on task interdependence and NPD performance. Industrial 
+Management & Data Systems, 121(2), 456–477. 
+Zhang, S., Zhao, L., Lu, Y., & Yang, J. (2016). Do you get tired of socializing? An 
+empirical explanation of discontinuous usage behaviour in social network services. 
+Information & Management, 53(7), 904–914. 
+Zhang, X., Tang, J., Wei, X., Yi, M., & Ord˘o~nez, P. (2020). How does mobile social media 
+affect knowledge sharing under the “Guanxi ” system? Journal of Knowledge 
+Management, 24(6), 1343 –1367 . 
+Zhang, Y., Liu, Y., Li, W., Peng, L., & Yuan, C. (2020). A study of the influencing factors of 
+mobile social media fatigue behavior based on the grounded theory. Information 
+Discovery and Delivery, 48(2), 91–102. J. Zhang et al.                                                                                                                                                                                                                                   

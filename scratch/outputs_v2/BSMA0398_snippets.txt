@@ -1,0 +1,104 @@
+e, 54.3% identified the United States as their  country of origin (geographical areas included India/Asia [14.7%], North America [58.2%],  Russia [11.2%], and western Europe [12.9%]), and on average, participants had worked at the  organization for 9.04 ( SD = 8.75) years. Approximately 64.7% of the respondents identified as  White. Other ethnicities included African American/Black (1.8%), Asian (22.4%), Hisp
+
+s the team members deem necessary—relates to team member boundary- spanning behavior and job satisfaction through a motivational pathway. We test a hypothesized  indirect-effects model within a field sample of 256 engineering employees working in teams.  Results indicate that leaders’ supportive coaching of boundary spanning is positively related to  team member boundary-spanning self-efficacy, which in
+
+hanced employee self-efficacy, which then fully  mediated coaching’s effect on changes in employee behavioral performance (i.e., actions  employees took to achieve desirable performance results) in a sample of 122 financial advi - sors. We hypothesize the following: Hypothesis 1 : Supportive coaching of boundary spanning is positively related to team member  boundary-spanning self-efficacy. Team Member 
+
+elationship between boundary-spanning self- efficacy and boundary-spanning behavior. Moreover, their work examined this relationship  in one team-based context (i.e., consulting team members) using a sample of MBA students.  Also, Marrone et  al. (2007) did not consider the role of leadership or supportive-coaching  behaviors in helping to increase boundary-spanning activity through positively influenci
+
+t working teams in a  real organization in encouraging boundary-spanning behavior and, as a result, positively  relating to higher job satisfaction in team members. We describe further details of the sample,  analytical techniques, and results of preliminary analyses for assessing nonindependence of  observations, missing data assumptions, and overall measurement model fit next. Sample and Procedure A l
+
+g behavior and job satisfaction) for a response rate to  both surveys of 26.1%. Of the 179 who also responded to the Wave 2 survey, 170 included  mostly complete data. The average age of this matched sample was 41.92 years ( SD = 11.11),  approximately 90.0% of the respondents were male, 54.3% identified the United States as their  country of origin (geographical areas included India/Asia [14.7%], North
+
+frican American/Black (1.8%), Asian (22.4%), Hispanic/ Latino (5.9%), Native American (1.2%), Pacific Islander (1.2%), and Other (5.3%, including  Russian and multiethnic). Though we used the matched sample to assess our measures and  measurement models, we used all available data to assess structural model relationships. Following survey data collection, two analyses were conducted to determine possibl
+
+ately coded the measure using Caucasian/ White = 1 and all others = 2. Preliminary Analyses Table 1 includes means, standard deviations, variable correlations, and reliabilities based  on the matched sample of usable data (see Table 1). We evaluated the quality of our measures by first specifying and assessing a latent vari - able baseline measurement model using maximum-likelihood estimation methods in
+
+ed-model comparisons were examined using the sequential  chi-square difference test (we used an alpha of .05 throughout). Measurement analyses required complete data at the item level, resulting in a sample size  of 164. The measurement model provided good fit to the data, χ2(129, N = 164) = 210.97,  p < .001, χ2/df = 1.63, CFI = .97, NNFI = .96, SRMR = .04, RMSEA = .06, and all stan - dardized factor l
+
+ring the baseline model  with models that constrained particular constructs to be equal. The single-factor model used  to assess overall discriminability (Model 2 in Table 2) poorly accounted for the sample data.  These results support the multidimensionality of the model being tested. Subsequent sequen - tial chi-square difference tests showed that constraining combinations of latent variables to  be e
+
+upportive coaching of boundary spanning will have an indirect relationship with job  satisfaction via team member boundary-spanning self-efficacy and team member boundary- spanning behavior serially. Method To test our hypotheses, we collected field data via surveys and used a variety of analytical  tools, including Mplus (1998-2017), which allows for an assessment of direct and indirect  effects while 
+
+-month gap.1 This time interval ensured minimal dis - ruption for the employees (based on discussions with management) and allowed the research  team to manage concerns about survey length and common-method bias. Two hundred and  sixty-two team members responded to the first survey (which included measures of supportive  coaching and boundary-spanning self-efficacy) for a first-wave response rate of 38.
+
+hed sample of usable data (see Table 1). We evaluated the quality of our measures by first specifying and assessing a latent vari - able baseline measurement model using maximum-likelihood estimation methods in  Bentler’s (2007) EQS 6.1 program. Construct items and factor groupings were used as indi - cators for the latent variables (see Figure 1). Overall model fit was evaluated using χ2/df  ratio, the
+
+onstructs, thereby  demonstrating their discriminant validity (Hair et  al., 2010). Together, these results attest to  the psychometric quality of our measures. We were also concerned about potential method variance effects in our data. We engaged  in both pre– and post–data collection actions in order to address possible common-method  bias. Following recommendations by Podsakoff and his colleagues (Po
+
+dsakoff, MacKenzie,  Lee, & Podsakoff, 2003; Podsakoff, MacKenzie, & Podsakoff, 2012), we first sought to limit  potential method bias by following three specific pre–data collection strategies. First, we  made certain to “eliminate common scale properties” (Podsakoff et  al., 2012: 550) and cre - ated measures with distinct sc
+
+months and 1 week after the first survey that contained two of the model  predictor measures. Following data collection, we examined results from three separate analyses in order to  assess potential method effects. First, we used exploratory factor analysis to determine if  Harman’s single-factor test would indicate a common-method factor. Results indicated that a  single factor explained only 38% of t
+
+he variance, much less than the 50% threshold estab - lished for the test to indicate a method factor (Podsakoff et  al., 2003). Next, we compared the  baseline measurement model with a model in which the correlations between model factors  were specified as equal to unity (i.e., a method fact
+
+or). As can be seen in Table 2, results from  this constrained method factor model, χ2(135, N = 164) = 1406.19, p < .001, CFI = .47,  NNFI = .40, SRMR = .21, RMSEA = .24, along with a subsequent sequential chi-square  difference test suggested the method factor model w
+
+as a significantly worse fit relative to the  original model, Δχ2 (6, N = 164) = 1195.22, p < .001. Finally, we also assessed potential method effects by specifying an additional method fac - tor model that included an unmeasured latent-methods factor within our baseline measure - ment model. We compared our baseline multifactor trait model to the method factor model  (multifactor t
+
+rait plus method-effects model). This specification is recommended to assess  the existence and extent of methods effects (e.g., Podsakoff et al., 2003; Williams, Cote, &  Buckley, 1989). Importantly, none of the trait measures became insignificant following inclu - sion of method factor effects. Moreover, the 
+
+amount of variance accounted for by method Table 2 Indices for Nested Sequence of Measurement Models Model χ2 df CFI NNFI SRMR RMSEA ∆χ2 1. Baseline 210.97 129 .97 .96 .04 .06 — 2. Single-factor model 1406.19 135 .47 .40 .21 .24 — 3. Equate s
+
+ mean square error of approximation. *p < .0011145 Marrone et al. / Boundary-Spanning Behavior effects was very small—it averaged only 7%. This variance accounted for is less than half the  amount of method variance in typical behavioral research (Williams et  al., 1989) and com - pares favorably with method factor variance (11%) found in organizational research (Carlson  & Kacmar, 2000). Overall, we be
+
+lieve method variance was not a material problem in this  study based on results from these post–data collection analyses. Results To examine substantive relationships, we considered our data using multilevel lat
+
+odel proposes serial media - tion, we collected data at just two points in time. As we noted earlier, we did so in order to  manage the organization’s concerns about survey length and mitigate common-method bias  (especially important when collecting data examining leader behaviors and outcome vari - ables, as noted by Podsakoff et  al., 2012). We did not collect data on the four substantive  variables 
+
+egressive effects) that we are not able to assess in the current study. Second, our use of same-source data collection, despite the fact that we collected data at  two points in time, may have led to method bias in our results. Our results across three sepa - rate tests, however, did not indicate that method bias was a material problem in this study.  Future research should consider incorporating behavi
+
+  (e.g., the number of meetings on a given employee’s calendar with outside departments or  parties) or team member ratings of their peers’ boundary-spanning behaviors as another way  to avoid common-method bias. Third, there are current design limitations specifically around the consideration of bound - ary-spanning self-efficacy. In particular, Lord, Diefendorff, Schmidt, and Hall (2010) called  for m
+
+rg, R. J. 2010. Longitudinal research. The theory, design, and analysis of change.  Journal of Management , 36: 94-120. Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. 2003. Common method biases in behavioral  research: A critical review of the literature and recommended remedies. Journal of Applied Psychology , 88:  879-903. Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. 2012
+
+. Sources of method bias in social science research and  recommendations on how to control it. Annual Review of Psychology , 63: 539-569. Pousa, C., & Mathieu, A. 2015. Is managerial coaching a source of competitive adv
+
+amination of the role  of external team leaders and team coaches. Leadership Quarterly , 27: 109-123. Raudenbush, S. W., & Bryk, A. S. 2001. Hierarchical linear models: Applications and data analysis methods  (2nd  ed.). New York: Sage. Rhodes, S. R. 1983. Age-related differences in work attitudes and behavior: A review and conceptual analysis.  Psychological Bulletin , 93: 328-367.1158 Journal of Manag
+
+ Journal of Applied  Behavioral Science , 52: 187-214. Weick, K. E. 1995. Sensemaking in organizations  (Vol. 3). Thousand Oaks, CA: Sage. Williams, L. J., Cote, J. A., & Buckley, M. R. 1989. Lack of method variance in self-reported affect and perceptions  at work: Reality or artifact? Journal of Applied Psychology , 74: 462-468. Wimmer, J., Backmann, J., & Hoegl, M. 2019. In or out? Exploring the incon
+
+ns with management) and allowed the research  team to manage concerns about survey length and common-method bias. Two hundred and  sixty-two team members responded to the first survey (which included measures of supportive  coaching and boundary-spanning self-efficacy) for a first-wave response rate of 38.2%. One  hundred and seventy-nine of these individuals also responded to the second survey (which  in
+
+cluded measures of boundary-spanning behavior and job satisfaction) for a response rate to  both surveys of 26.1%. Of the 179 who also responded to the Wave 2 survey, 170 included  mostly complete data. The average 
+
+ (1.8%), Asian (22.4%), Hispanic/ Latino (5.9%), Native American (1.2%), Pacific Islander (1.2%), and Other (5.3%, including  Russian and multiethnic). Though we used the matched sample to assess our measures and  measurement models, we used all available data to assess structural model relationships. Following survey data collection, two analyses were conducted to determine possible dif - ferences betwee
+
+1 survey were then regressed onto this  dependent measure. Results indicated no nonrandom sampling bias; we thus concluded that  subject attrition would not bias subsequent measurement data analyses. Measures The particular items and rating scales associated with each measure are in the appendix.1140 Journal of Management / May 2022 Supportive coaching of boundary spanning (herein labeled as “supportive c
+
+ch that found its reliability  to be .92; also, the measure was predictive of boundary-spanning behavior (Marrone et  al.,  2007). Second, previous research has found that Likert-type and traditional measures of self- efficacy have similar reliability, predictive validity, factor structures, and discriminability  and therefore has recommended using Likert-type measures over traditional strength/magni - tu
+
+de measures given their superior practicality (Maurer & Pierce, 1998). Boundary-spanning behavior.  We closely followed Ancona and Caldwell’s (1992) devel - opment of boundary-spanning items and selected 13 item
+
+. Preliminary Analyses Table 1 includes means, standard deviations, variable correlations, and reliabilities based  on the matched sample of usable data (see Table 1). We evaluated the quality of our measures by first specifying and assessing a latent vari - able baseline measurement model using maximum-likelihood estimation methods in  Bentler’s (2007) EQS 6.1 program. Construct items and factor grouping
+
+f = 1.63, CFI = .97, NNFI = .96, SRMR = .04, RMSEA = .06, and all stan - dardized factor loadings were significant and ranged from .71 to .96 ( M = .80). To examine  the construct independence of our measures, we compared the baseline measurement model  with a series of alternative nested models that constrained theoretically independent con - structs to be equivalent (see Table 2). First, a single-factor
+
+ine measurement model. Moreover, decreases in model CFI  indicated a material reduction in model fit for each of the constrained models. These findings  provide initial support for the quality of our measures. Additional evidence pertaining to the convergent and discriminant validity of our con - structs is provided in Table 3. All constructs exceed the .70 recommended composite con - struct reliability t
+
+shold as well as the .50 recommended average variance extracted (A VE)  threshold (Fornell & Larcker, 1981; Hair, Black, Babin, & Anderson, 2010), further support - ing the convergent validity of our measures. Moreover, A VE values exceed the maximum  shared variance and average shared squared variance in all of our model constructs, thereby  demonstrating their discriminant validity (Hair et  al., 2010).
+
+ Together, these results attest to  the psychometric quality of our measures. We were also concerned about potential method variance effects in our data. We engaged  in both pre– and post–data collection actions in order to address possible common-method  bias. Following reco
+
+o limit  potential method bias by following three specific pre–data collection strategies. First, we  made certain to “eliminate common scale properties” (Podsakoff et  al., 2012: 550) and cre - ated measures with distinct scale endpoints. Two of our constructs, supportive coaching and  boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree  to 5 =  strongly agree ), wherea
+
+ry great extent ; job satisfaction, 1  = very dissatisfied  to 5 = very satisfied ). Next, we worked to ensure the “temporal, proxi - mal, or psychological separation between predictor and criterion” measures (Podsakoff et  al., Table 1 Variable Means, Standard Deviations, Correlations, and Reliabilities Variable M SD 1 2 3 4 5 6 7 1. Age 41.92 11.11 —   2. Gender 1.10 0.30 −.12 —   3. Ethnicity 1.35 0.48
+
+gonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .011143 Marrone et al. / Boundary-Spanning Behavior 2012: 549). As such, we arranged for proximal separation of our measures by including them  in distinct surveys and separating them as much as possible within each survey. Finally, we  made sure to collect our ultimate criterion measure separately from other measures. Thi
+
+nt / May 2022 measure, job satisfaction, was included in the second survey, which was administered  approximately 3 months and 1 week after the first survey that contained two of the model  predictor measures. Following data collection, we examined results from three separate analyses in order to  assess potential method effects. First, we used exploratory factor analysis to determine if  Harman’s single-
+
+fects model). This specification is recommended to assess  the existence and extent of methods effects (e.g., Podsakoff et al., 2003; Williams, Cote, &  Buckley, 1989). Importantly, none of the trait measures became insignificant following inclu - sion of method factor effects. Moreover, the amount of variance accounted for by method Table 2 Indices for Nested Sequence of Measurement Models Model χ2 df CF
+
+ in our results. Our results across three sepa - rate tests, however, did not indicate that method bias was a material problem in this study.  Future research should consider incorporating behavioral measures of boundary spanning  (e.g., the number of meetings on a given employee’s calendar with outside departments or  parties) or team member ratings of their peers’ boundary-spanning behaviors as another 
+
+focuses on the analysis of change over time (e.g.,  longitudinal growth modeling; Ployhart & Vandenberg, 2010). Furthermore, while our mea - sure of boundary-spanning self-efficacy is consistent with measures utilized in management  and applied psychology fields, designed for working professionals who may have limited  time to complete a survey with longer instruments (see Maurer & Pierce, 1998), future  
+
+ could consider potential benefits of an alternative boundary-span - ning self-efficacy measure aligned with traditional approaches that use a 100-point, 10-unit  interval scale and compute composite measures of strength and magnitude (see Bandura,  2006; Lee & Bobko, 1994). Last, some prior examinations of boundary-spanning behavior in teams have considered  the concept at the team level rather than at t
+
+conducted semistructured interviews with 18 managers and lead  engineers in order to better understand the nature of their work and organizational structure and to ensure that  previously established measures of boundary-spanning behavior and self-efficacy were appropriate for this organi - zational context. We learned team members were organized into functional areas similar to large working units or  de
+
+er-emergence in self-managing teams: The role of gender and  countervailing biases. Academy of Management Journal , 58: 1476-1494. Lee, C., & Bobko, P. 1994. Self-efficacy beliefs: Comparison of five measures. Journal of Applied Psychology , 79:  364-369. Lee, R., & Wilbur, E. R. 1985. Age, education, job tenure, salary, job characteristics, and job satisfaction: A multi- variate analysis. Human Relations
+
+tecedents and consequences of  team member boundary spanning behavior. Academy of Management Journal , 50: 1423-1439. Maurer, T. J., & Pierce, H. R. 1998. A comparison of Likert scale and traditional measures of self-efficacy. Journal  of Applied Psychology , 83: 324-329. Mitchell, T. R., & Daniels, D. 2003. Motivation. In W. C. Borman, D. R. Ilgen, & R. J. Klimoski (Eds.), Handbook  of psychology: Indust
+

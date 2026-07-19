@@ -1,0 +1,493 @@
+Determining Inventor Status and Its Effect on Knowledge
+Diffusion: A Study on Nanotechnology Literature FromChina, Russia, and India
+Xuan Liu
+Department of Management Science and Engineering, School of Business, East China University of Scienceand Technology, No. 130, Meilong Road, Shanghai, 200237 China. E-mail: xuanliu@ecust.edu,cn
+Siddharth Kaza
+Department of Computer and Information Sciences, Towson University, Towson, MD 21252.E-mail: skaza@towson.edu
+Pengzhu Zhang
+Department of Management Information Systems, Shanghai Jiao Tong University, No. 535, Fahuazhen Road,Shanghai, 200052 China. E-mail: pzzhang@sjtu.edu.cn
+Hsinchun Chen
+Department of Management Information Systems, University of Arizona, Tucson, AZ 85721.E-mail: hchen@eller.arizona.edu
+In an increasingly global research landscape, it is impor-
+tant to identify the most proliﬁc researchers in variousinstitutions and their inﬂuence on the diffusion of knowl-edge. Knowledge diffusion within institutions is inﬂu-enced by not just the status of individual researchersbut also the collaborative culture that determines sta-tus. There are various methods to measure individualstatus, but few studies have compared them or exploredthe possible effects of different cultures on the statusmeasures. In this article, we examine knowledge diffu-sion within science and technology-oriented researchorganizations. Using social network analysis metricsto measure individual status in large-scale coauthor-ship networks, we studied an individual’s impact on therecombination of knowledge to produce innovation innanotechnology. Data from the most productive and high-impact institutions in China (Chinese Academy of Sci-ences), Russia (Russian Academy of Sciences), and India(Indian Institutes of Technology) were used. We foundthat boundary-spanning individuals inﬂuenced knowl-edge diffusion in all countries. However, our results alsoindicate that cultural and institutional differences mayinﬂuence knowledge diffusion.
+Received October 29, 2010; revised February 19, 2011; accepted
+February 21, 2011
+© 2011 ASIS&T •Published online 30 March 2011 in Wiley Online Library
+(wileyonlinelibrary.com). DOI: 10.1002/asi.21528Introduction
+Scientiﬁc publications are important indicators of inno-
+vative research, which has been deﬁned as discoveringsolutions to problems via the novel recombination of exist-ing knowledge (Fleming, 2001). The diffusion of existingknowledge can be traced by this recombinatory process andthe factors that inﬂuence it. Researchers have a choice inselecting knowledge that is recombined to produce newinnovations, and studies have suggested that this choice isinﬂuenced by the status of individuals within knowledge net-works (Nerkar & Paruchuri, 2005; Singh, 2007). Individualsusually value and recombine innovations from high-statusresearchers.
+Previous research has used various social network anal-
+ysis (SNA) measures to establish the status of individualsand examine their role on knowledge diffusion. Patterns ofcollaboration at various departmental, organizational, andnational granularities also have been studied. However, therehas been limited comparative examination of social networkmeasures to establish individual status. In addition, there hasbeen little research on whether cultural differences inﬂuenceindividual status and the recombinatory knowledge-diffusionprocess. We believe that in an increasingly competitive globalresearch landscape, identifying the most proliﬁc individualsin various countries and disciplines based on the mosteffective measures is important.
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY , 62(6):1166–1176, 2011
+Focal
+Innovation 
+Time The arrow indicates that the later innovation built upon the earlier one
+Innovation 1
+Innovation 2Innovation 3
+Innovation 4Innovation 5
+Innovation 6
+FIG. 1. Emergence of a focal innovation.
+In this study, we extract large-scale coauthorship networks
+from the most proliﬁc institutions in China, Russia, and Indiain the fast-moving nanotechnology discipline. We examinean individual researcher’s status and its impact on knowl-edge diffusion. We also explore if the collaborative culturesin these countries have an effect on the effectiveness of statusmeasures. Speciﬁcally, the research questions explored are:
+RQ1: How does the status of an individual in a coauthorship
+network affect knowledge diffusion?
+RQ2: Which measures can explain the effect of an individ-
+ual’s status on knowledge diffusion?
+RQ3: Is the measure of author status in knowledge networks
+different across countries and institutional cultures?
+The next section presents the literature review. The subse-
+quent section presents the research design and testbed usedin our work. The experiment results are then shown anddiscussed. Last, we conclude and present possible futuredirections in this area.
+Literature Review
+In this section, we discuss important previous research
+on coauthorship-based knowledge networks. We character-ize knowledge networks as social networks with authors asnodes and coauthorship collaborations as links between them.
+A summary of the social network measures to determine
+individual status also is presented.
+Knowledge Networks
+Since the ﬁrst collaborative scientiﬁc paper was published,
+coauthorship has been increasing steadily over time across allﬁelds. Innovation by an individual in a knowledge network isgreatly inﬂuenced by his or her collaboration and interactionpatterns. To understand the diffusion of knowledge in thesenetworks, it is necessary to identify the factors leading to theselection of a “focal innovation.” Podolny and Stuart (1995)deﬁned the focal innovation as the knowledge that othersbuild upon to produce novel outcomes. Figure 1 shows theprocess of evolution of knowledge (time increasing on the x-
+axis) and the emergence of a focal innovation. An arrow fromone innovation to the next indicates that the second innova-
+tion built upon the ﬁrst. This process of knowledge diffusioncan be traced using citations in research literature. Indeed,citation analysis has been widely used in coauthorship net-works to study various network and diffusion phenomena(Bornmann & Daniel, 2008; Davis, 2009; Leydesdorff & Sun,2009).
+Knowledge networks can be studied at different levels of
+granularity, with emphasis on individual, within-group, orintergroup collaboration. Previous studies have examined thepatterns of collaboration between individual authors in vari-ous disciplines (Kretschmer, 2004; Moody, 2004; Newman,2001; Newman, 2004; Yoshikane & Kageura, 2004). Otherresearch also has focused on within-group collaboration(Arunachalam & Doss, 2000; Arunachalam, Srinivasan, &Raman, 1994; Luukkonen, Persson, & Sivertsen, 1992; Zitt,Bassecoulard, & Okubo, 2000) and intergroup collabora-tion (Leydesdorff & Sun, 2009; Singh, 2007; Wagner &Leydesdorff, 2005; Yamashita & Okubo, 2006; Zucker &Darby, 1996).
+Though there is a difference in granularity, the primary
+research focus of previous studies are twofold: (a) networkstructure, which analyzes the topological structure, its evo-lution, and the effect of global measures on knowledgegeneration, diffusion, and recombination within or acrossthe organizations; and (b) individual status, which analyzestrends or patterns in an individual’s collaborative activity andlinks to determine status. Table 1 presents a representative setof these studies.
+As can be seen from Table 1, many studies have used mea-
+sures to examine the topological structure of coauthorshipnetworks. Among the limited papers focusing on effect ofindividual status on knowledge selection, Zucker and Darby(1996) focused on collaboration patterns for star scientistsacross groups, and results showed that these scientists tendto collaborate more within their own institutions in the earlyyears of their evolution to protect their techniques, ideas, anddiscoveries. Newman (2001) used the betweenness centralitymeasure to study individual activities and demonstrated thatthe typical distances between pairs of authors through thenetworks are small. Kretschmer (2004) studied the relation-ship between the average geodesic distances for collaborationclusters and the productivity of their scientists, and found thathighly productive authors have, on average, shorter length
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011 1167
+DOI: 10.1002/asi
+TABLE 1. Previous knowledge network studies.
+Study granularity Study emphasis Measures Aim/result
+Newman, 2001 Individual Network structure/ Closeness centrality, (a) Typical distances between pairs of
+Individual status betweenness centrality authors in the networks are small (small world).
+(b) The bulk of the paths between authors gothrough just one or two of their collaborators.
+Kretschmer, 2004 Individual Individual status Closeness centrality: (based Exploration of relationship between (a) size of
+on geodesic distance) clusters and (b) average of geodesic distances on
+the productivity of scientists
+Moody, 2004 Individual Network structure Degree distribution, Impact of social-interaction pattern on the
+clustering coefﬁcient structure of ideas
+Newman, 2004 Individual Network structure Largest component, Patterns of collaboration in different disciplines
+largest distance,clustering coefﬁcient
+Yoshikane & Individual Network structure No. of partners, Gini’s index Development of personal collaboration networks
+Kageura, 2004 in different disciplines
+Ding, Yan, Individual Individual status PageRank, Weighted Compare PageRank and weighted PageRank
+Frazho, & PageRank results with the citation ranking, h-index, and
+Caverlee, 2009 centrality measures. Results: Citation rank is
+highly correlated with PageRank and weightedPageRank.
+Luukkonen, Intragroup Network structure Observed/expected ratios, Institutional coauthorship patterns in different
+Persson, & percentage of papers with countriesSivertsen, 1992 international institutional
+coauthorships
+Arunachalam, Intragroup Network structure Afﬁnity index, cooperation Study the international cooperative behavior
+Srinivasan, & index (Salton’s measure) in Asia giants (e.g., China, Japan, and India).Raman, 1994
+Arunachalam, & Intragroup Network structure International cooperation International collaboration activity in science
+Doss, 2000 index and afﬁnity index in 11 different countries in Asia
+Zitt, Bassecoulard, & Intragroup Network structure Probabilistic afﬁnity index Cooperation behavior in ﬁve large scientiﬁc
+Okubo, 2000 countries
+Zucker & Darby, Intergroup Individual status Degree centrality Collaboration patterns for star scientists
+1996 across groups
+Wagner & Intergroup Network structure Clustering, links between Global network has expanded and become
+Leydesdorff, pairs of countries using more interconnected. Large countries compete2005 Salton’s measure and with each other for partners.
+Jaccard’s measure
+Yamashita & Intergroup Network structure Probabilistic partnership International collaborative patterns and
+Okubo, 2006 Index domestic collaborative patterns within
+French–Japanese cooperation
+Singh, 2007 Intergroup Individual status Degree centrality and Impact of external collaboration on innovation
+extensions and productivity Result: External collaboration
+cross-national, organizational, or institutionalboundaries increases the productivity
+Note. Studies marked in bold speciﬁcally focused on the effect of individual status on innovation selection. These are discussed in detail in the text.
+of paths to all the other authors. Singh (2007) focused on
+the impact of external collaboration on innovation and pro-ductivity, and found that the degree centrality of an inventordid not have a signiﬁcant effect on the impact of his or herinnovation while the external-collaboration cross national,organizational, or institutional boundaries increased produc-tivity. Ding, Yan, Frazho, and Caverlee (2009) proposed aweighed PageRank algorithm to study how varied dampingfactors in this algorithm inﬂuence the ranking of authorsin co-citation network; using an empirical study, they con-cluded that citation rank is highly correlated with PageRankwith different damping factors and with a different weighted
+PageRank algorithm. The article also compared PageRankand weighted PageRank results with other measures such asranking, h-index, and centrality measures; however, it inves-tigated individual status from a static point of view, withouttracing the knowledge diffusion and selection process in adynamic citation network.
+From the literature, we found that most previous stud-
+ies have focused on the macro level, emphasizing intragroupor intergroup collaboration rather than the individual sta-tus. There are two primary drawbacks in studies that have
+1168 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011
+DOI: 10.1002/asi
+Network ExtractionKnowledge
+Diffusion Analysis
+Cox Proportional
+Hazards Regression 
+Identification of Top
+Authors Network Meas urement
+Structural
+Holes Betweenness
+Centrality
+Random Walk
+Betweenness Degree
+Centrality Data Acq uisition
+Extraction by keywords
+Parsing
+Nanotechnology
+Literat ure SCI
+FIG. 2. Research design.
+examined individual status. First, most have used static snap-
+shots of networks without taking time into consideration.Since the status of an individual changes over time, it playsan important role in determining the inﬂuence on knowledgediffusion. Second, few studies have compared the measureswith each other to determine the most effective ones. In addi-tion, there is a need to study the effectiveness of individualmeasures in different organizations and cultures. In this arti-cle, we use a time-dependent analytic technique to measurethe status of individuals in a network and study its inﬂu-ence on the citation of their knowledge in datasets from threecountries.
+Social Network Measures
+Various measures to identify high-status nodes have been
+proposed in prior work (Bonacich, 1987; Burt, 1992; Free-man, 1979; Newman, 2005). These measures are usuallyknown as centrality orprestige measures and can be broadly
+classiﬁed into three categories based on their methods of cal-culation: degree centrality, closeness centrality, and between-ness centrality. The degree centrality measures refer to thoseemphasizing the immediate ties of a node and its neighborsand include the Freeman’s degree centrality (Freeman, 1979),Bonacich power (Bonacich, 1987), and structural holes (Burt,1992), among others. Closeness centrality (Freeman, 1979)emphasizes the distance of a node to all others in the network.Betweenness centrality views a node as being in a favoredposition to the extent that it falls on paths between otherpairs of nodes in the network. Primary betweenness cen-trality measures include Freeman’s betweenness centrality(Freeman, 1979) and the more recent random-walk between-ness centrality (Newman, 2005). Each of these measuresmakes different assumptions about the ﬂow of knowledge ina network. For instance, degree-based measures emphasizedirect links, closeness-based measures are based on the speedof transfer, and betweenness measures emphasize access todiverse parts of the network. Thus, picking the right mea-sure to determine individual status becomes paramount, andcomparison becomes important.Previous studies have analyzed the effect of individual
+status and knowledge diffusion based on two theories:
+Centrality and its impact on knowledge diffusion: Centrality
+is usually regarded as a signal of a high level of collaborationwithin the network. Previous empirical studies have indicatedthat an individual’s centrality measured by degree centralityhas a positive effect on the diffusion of his or her knowledge(Patrakosol & Olson, 2007; Podolny & Stuart, 1995). In addi-tion, separate studies have shown that Bonacich power andbetweenness centrality also had a positive effect (Nerkar &Paruchuri, 2005; Newman, 2001).
+Boundary spanning and access to diverse knowledge: Indi-
+viduals who perform boundary-spanning roles are consideredinﬂuential as gatekeepers to diverse knowledge bases. Pre-vious empirical studies have provided mixed results: Nerkarand Paruchuri (2005) used the structural holes measure todetermine centrality and found that a higher centrality hasa positive effect on knowledge diffusion; in another studyon structural holes, it was found to have negative effect oninnovation (Ahuja, 2000).
+However, none of the previous studies have compared
+these measures to determine which is more effective. Inaddition, coauthorship networks have not been studied tosee the effect (if any) of organizational or cultural environ-ments on the determination of individual status. To addressthese concerns, we implemented degree centrality (Freeman,1979), structural holes (Burt, 1992), and betweenness central-ity (Freeman, 1979) to model knowledge diffusion patternsin coauthorship networks based on their use in previous lit-erature. In addition, random walk betweenness (Newman,2005) also is included since this measure is largely differentin basis because it assumes random knowledge diffusion andhas rarely been used to study knowledge networks.
+Research Design
+Figure 2 shows the system design and research pro-
+cess used for data acquisition, network extraction, networkmeasurement, and knowledge diffusion analysis.
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011 1169
+DOI: 10.1002/asi
+TABLE 2. Basic statistics of the three institutions under study.
+Institutions Papers Authors (distinct) Publication year
+CAS 5,881 6,738 1990–2004
+RAS 4,055 8,628 1991–2004IIT 740 1,074 1992–2004
+CAS=the Chinese Academy of Sciences; RAS =the Russian Academy
+of Sciences; ITT =the Indian Institutes of Technology.
+Data Acquisition and Research Testbed
+We selected Thomson Reuters’ Science Citation Index
+(SCI) as our database because it provides broad coverage
+of journals in more than 150 disciplines, which can be usedto extract coauthorship networks and citation information.
+We narrowed our focus to nanotechnology-related literature,
+as it promises to impact various engineering and computingdisciplines and forms an ideal testbed for a large-scale studyon global research outputs. The keyword-searching methodwas used to collect nanotechnology papers (for more details,see Huang, Chen, Chen, & Roco, 2004). Since SCI papers
+are in XML format, we developed parsers to extract relevantauthorship and citation data. Our ﬁnal testbed spans from1976 to 2004, with a total of 213,847 papers published by231,561 individuals.
+We focused on China, Russia, and India because these
+countries are active in paper publications and are havingan increasing impact on global research, especially in nan-otechnology (Huang et al., 2004; Li et al., 2008; Liu et al.,2009). China’s nanotechnology R&D investment is estimatedto have been about 250 million U.S. dollars in 2008 (Guan &Ma, 2007). In Russia, it has been reported that approximately20 to 25 million U.S. dollars in funding have been investedin nanotechnology research annually since 2002 (Tretyakov,2007). In India, the government planned to spend 23 millionU.S. dollars on nanotechnology between 2004 and 2009, andthe investments’new research programs and centers increasedsigniﬁcantly after 2007 (Hassan, 2005).
+SCI papers also serve as a good testbed to study the effect
+of different collaborative cultures and work environments onknowledge diffusion. Since we focus on the status of individ-uals within organizations, we selected the Chinese Academyof Sciences (CAS), the Russian Academy of Sciences (RAS),and the Indian Institutes of Technology (IIT) as our test group.
+These were picked because they are the most prestigious insti-
+tutions within the target countries and are the most productivein nanotechnology research (Liu et al., 2009). Table 2 showsthe basic statistics of publications in nanotechnology for theseorganizations.
+Network Extraction
+A knowledge network based on coauthorships was
+extracted for authors from all three institutions. The networkswere constructed such that each node is an author, and twoauthors are linked to each other if they have coauthored apaper. Research has shown that such an observed collabora-
+tion marks the beginning of a strong tie that generally lastsbeyond the collaboration date. Uniquely determining authoridentity posed a challenge, as the SCI database uses only
+the last name and the ﬁrst initial to identify authors. Thisproved to be insufﬁcient to disambiguate most authors fromChina. Thus, we used names, afﬁliations, addresses, and e-mail addresses to identify authors. Two static snapshots ofthe coauthorship networks in CAS are shown in Figure 3. Ascan be seen, the number of authors in the connected com-ponents increased signiﬁcantly from 1995 ( n=152) to 2004
+(n=3,114).
+Network Measurement
+The following social network measures were used to
+determine the status of authors in the network:
+•Betweenness centrality (BC): A node has a high betweenness
+centrality if a large number of shortest paths between othernodes pass through it.
+•Degree centrality (DC): This is based on the intuition that
+actors who have more direct ties than do other actors may bein advantaged positions.
+•Structural holes: Structural holes measures identify boundary-
+spanning individuals. There are two different approaches tocalculating structural holes, constrained based (CONS) andredundancy- or efﬁciency-based (EFF).
+•CONS is a summary measure that determines the extent to
+which a node’s connections are to others who are connected toeach other. EFF for a node measures the proportion of its linksthat are nonredundant. We implement both these approaches.
+•Random walk betweenness (RW): This measure is similar to
+Freeman’s betweenness centrality; however, it includes con-tributions from all paths between nodes (not just the shortestpaths). We included this measure because intuitively, thismeasure may ﬁt the real knowledge diffusion process incoauthorship networks.
+Innovation Diffusion Analysis
+We used a Cox proportional hazards model for repeated
+events to study the effect of network measures on paper cita-tion (Nerkar & Paruchuri, 2005; Podolny & Stuart, 1995) andknowledge diffusion. The proportional hazards model wasfound to be the best ﬁt for our data (We tested the Weibull andexponential models.) The hazard rate model is used becauseit incorporates information on both censored and uncensoredcases (i.e., whether a paper is cited). If Tis the duration since
+a paper has been published, then the hazard rate of a paperbeing cited again at time tis deﬁned as:
+r(t)=lim
+/Delta1t→0Pr(t≤T≤t+/Delta1t)
+/Delta1t
+Using a semiparametric Cox model, the previous equation
+can be estimated using the following (Allison, 1995; Cox,1972):
+r(t)=h(t)exp{XB+Y(t)S}
+1170 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011
+DOI: 10.1002/asi
+(a) ( b)
+FIG. 3. Coauthorship network (connected component) for the Chinese Academy of Sciences in 1995 (a) and in 2004 (b).
+TABLE 3. Variables included in the Cox regression model.
+Type Name
+Dependent variable Paper citation
+Control variables Calendar age
+Paper ageKeyword count
+Age of prior art
+Self-citationNo. of references
+Team size
+Presence of different groupsJournal effects
+Explanatory variables Betweenness centrality
+Degree centralityStructural holesRandom walk
+where r(t) is the hazard rate of a paper being cited within the
+network (dependent variable), h(t) is an unspeciﬁed base-
+line rate, Xis a matrix of time-constant covariates (control
+variables), Y(t) is a matrix of time-varying covariates (inde-
+pendent variables), and Band Sare vectors of unknown
+regression parameters.
+The three kinds of variables in our study are discussed in
+the following sub-sections and summarized in Table 3.
+Dependent variable. Paper citation was used as the depen-
+dent variable because it is considered an excellent measureof technological impact as well as knowledge ﬂow (Ahuja,2000; Nerkar & Paruchuri, 2005; Podolny & Stuart, 1995).
+To include time into the analysis, the life of a paper (from
+publication year until the end of the dataset) was divided intotime periods called spells (Nerkar & Paruchuri, 2005). The
+strategy of dividing time into spells effectively measures theeffect of network measures on the citation of a patent throughits entire life. Each time period was used as a data point todetermine the effect of explanatory and control variables onthe dependent variable in that spell. In line with prior research(Nerkar & Paruchuri, 2005), spells of a maximum of 1 yearwere created for each paper. The ﬁrst spell begins at the pub-
+lication year and ends either with a citation or no citation. Wecalculated the network measures and time-varying covariatesfor each paper in each spell based on the network of authorsin the prior calendar years. This is important because if thesocial network measures are calculated only once (for a singlesnapshot of the knowledge network), then it will not accu-rately reﬂect the author’s status over time. The status of anauthor might change as the size and density of the networkchange.
+Figure 4 is an example of the spells created for a paper pub-
+lished in 1995 and cited three times in 1996, 1998, and 2002.
+The solid line denotes that the spell ended with a citation,
+the dashed line denotes that the spell ended with no citation.
+The network range indicates the time span of the knowledge
+network that was used for computing measures for that spell(set to 3 years based on previous research; Podolny & Stuart,1995).
+Explanatory variables. Each of the four social network
+measures from the previous section [BC, DC, structuralholes (EFF and CONS), and RW centrality] were used asexplanatory variables to examine the effect of status on papercitation.
+Control variables. Control variables are the factors (other
+than network measures) that affect paper citations. Two kindsof control variables were included based on previous studies(Nerkar & Paruchuri, 2005; Podolny & Stuart, 1995): vari-ables effecting citation rates and variables describing paperattributes. The variables effecting citation rates included thecalendar age , which controls for the improvement in search
+technology since the start of the dataset. Information retrievaland search technology have improved dramatically since1976, and papers are easier to ﬁnd and cite. Another time-variant control included is the paper age . This was included
+since an older paper may be cited more than are newer papers.
+Variables describing paper attributes are:
+•keyword count: Keywords indicate the value of a paper and
+the technological spaces it occupies.
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011 1171
+DOI: 10.1002/asi
+1996 1997 199 8 1999 2000 2001 2002 2003 2004
+Spell 1
+Network
+94–96Spell 2
+Network
+95–97Spell 3
+Network
+96–98Spell 4
+Network
+97–99Spell 5
+Network
+98–00Spell 5
+Network
+99–01Spell 6
+Network
+00–02Spell 7
+Network
+01–03Spell 8
+Network
+02–04Paper published year: 1995 End of dataset
+FIG. 4. Spell construction for the dependent variable (paper citation).
+•age of prior art (prior age ): This indicates that papers that
+build on old knowledge have different citation patterns thando new ones. This variable is operationalized by the medianof the difference between the publication year of a focal paperand that of references.
+•self-citation: A self-citation indicates conﬁdence of an indi-
+vidual in his or her work and may encourage other individualsto cite that work (Nerkar & Paruchuri, 2005). We set this tobe1if a paper has been self-cited by any of its authors before
+the spell.
+•number of references (ref count ): Papers that cite more prior
+art may have a different level of inﬂuence than do others. Wemeasure this by counting the number of the paper’s references.
+•team size: We include team size to account for the effect of
+all authors on the paper.
+•presence of different groups (group ﬂag ): Knowledge may
+have a higher chance to diffuse if the authors have multipleafﬁliations. This variable is set to 1if any author of the paper
+has a different afﬁliation from the others.
+•journal effects (journal ﬂag ): This variable is included to con-
+trol for the different inﬂuential journals. It is implemented asa dummy variable that captures the top-10 journals (selectedby impact scores). A value of 1indicates that the paper is
+published in top10 journals.
+Based on the aforementioned variables, the Cox model
+tests the effect of an author’s status (as established by a net-work measure) on the likelihood of his or her knowledgebeing selected for citation by other authors. Once the appro-priate measure is determined, we identify the most inﬂuentialauthors in nanotechnology for each of the three institutions.
+Results
+Here, we show the results of the Cox proportional haz-
+ards analysis for the CAS, the RAS, and the IIT. Six modelswere constructed for these three institutions; one includedonly control variables, and the other ﬁve included all con-trol variables and each social network measure individually.Results for the CAS are shown in detail; the conclusions forthe RAS and the IIT are discussed in summary when they aresimilar to those of the CAS.Knowledge Diffusion Analysis: The CAS
+The correlation matrix with all the variables was examined
+to help identify multicollinearity and redundancy issues. Theresults showed that all correlations were low and did not poseany problems (see values in Table 4). The high correlationsbetween some network measures (in bold) do not lead tomulticollinearity issues since each model contains only onemeasure.
+Table 5 presents the Cox proportional hazards regression
+model for the CAS. Numerals in the columns represent thehazard ratio (HR) (Signiﬁcance at p<0.01 level is noted with
+an asterisk.) Model 0 consists of all the control variables. Ascan be seen, the likelihood of a paper being cited decreases(HR<1) with an increase of the number of keywords. The
+likelihood of citation also decreases when the authors havedifferent afﬁliations. This was unexpected; however, it mightbe an artifact of our methodology. Since we only measurecitation within institutions, different afﬁliations may indicateknowledge diffusion across organizations, which is not mea-sured in our model. On the other hand, the likelihood of apaper being cited increases (HR >1) with an increase of ref-
+erence counts and author counts. Papers that cite more priorwork and have more authors may have more inﬂuence andare much more likely to be cited. Results also showed that thepresence of self-citation and being published in top journalspositively affect the citation of the paper. The signiﬁcance ofthese control variables generally persisted across all models.
+Model 1 adds Freeman’s BC with all the control variables.
+As can be seen from Table 5, the BC measure of the author
+was found to have a signiﬁcant positive effect on the cita-tion of his or her papers. However, the HR was almost equalto 1 (1.000004), indicating that the measure cannot suitablyexplain the effect of an author’s status on the selection of hisor her knowledge for innovation in the CAS.
+Model 2 adds DC to the control variables in Model 0. The
+DC of an author was found to have a signiﬁcant positive effecton the citation of his or her papers, but also with a HR slightlylarger than 1 (1.005815). This also implies that the measuremay not be suited to explain the effect of an author’s statuson the selection of his or her knowledge in the CAS.
+1172 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011
+DOI: 10.1002/asi
+TABLE 4. Correlation matrix between control variables (Chinese Academy of Sciences).
+Variables 123456789 1 0 1 1 1 2 1 3 1 4
+1. BC 1
+2. DC 0.87* 13. EFF 0.59* 0.73* 14. CONS 0.23* 0.36* 0.79* 15. RW 0.09* 0.16* 0.46* 0.62* 16. Prior age 0.02* 0.01 −0.03* −0.06* −0.06* 1
+7. Keyword count −0.02* −0.04* −0.00 0.00 −0.00 0.00 1
+8. Self-citation 0.06* 0.06* −0.02* −0.02 −0.04* 0.45* −0.04* 1
+9. Reference count −0.07* −0.08* −0.11* −0.10* −0.06* 0.11* −0.03* 0.16* 1
+10. Team size/ 0.10* 0.12* 0.03* 0.03* 0.04* 0.03* −0.04* 0.02* −0.05* 1
+Author count
+11. Group ﬂag −0.06* −0.05* −0.02* 0.05* 0.04* −0.01 −0.03* 0.10* −0.01 0.21* 1
+12. Journal ﬂag −0.02* −0.03* −0.05* −0.05* −0.04* 0.01 −0.02* 0.03* 0.12* 0.02* −0.21* 1
+13. Paper age 0.24* 0.18* 0.17* 0.08* −0.03* −0.15* −0.07* −0.07* −0.07* −0.02* 0.05* 0.06* 1
+14. Calendar age 0.14* 0.01 −0.13* −0.20* −0.23* 0.15* 0.07* 0.07* 0.07* 0.02* 0.05* −0.06* 0.20* 1
+BC=betweenness centrality; DC =degree centrality; EFF =redundancy or efﬁciency-based; CONS =constrained-based; RW =random walk.
+*p<0.05.
+TABLE 5. Knowledge diffusion results for the Chinese Academy of Sciences.
+Variables Model 0 Model 1 Model 2 Model 3a Model 3b Model 4
+BC 1.000004*
+DC 1.005815*EFF 1.359633*
+CONS 1.326059*
+RW 1.25256
+Prior age 0.9980615 0.9979607 0.9979044 0.9970947 0.9991697 0. 9985351Keyword count 0.9078333* 0.9084321* 0.9084989* 0.9060713* 0.9063287* 0.9077845*Self-citation 1 class* 1 class* 1 class* 1 class* 1 class* 1 class*
+(1.360126) (1.339293) (1.333197) (1.334097) (1.354752) (1.362013)
+Reference count 1.006981* 1.007228 * 1.00726* 1.007497* 1.007288* 1.007052*
+Author count 1.05373* 1. 048461* 1.046922* 1.051576* 1.053564* 1.052994*
+Group ﬂag 1 class* 1 class 1 class 1 class* 1 class 1 class*
+(0.7105347) (0.7234883) (0.7164366) (0.7027412) (0.7073208)
+Journal ﬂag 1 class* 1 class* 1 class* 1 class* 1 class* 1 class*
+(2.387818) (2.399323) (2.450417) (2.536319) (2.504112) (2.434536)
+Paper age 1.882723 1.635927 1.089369 * 1.205402 1.702875 2.988541Calendar age 1.058284 1.05783* 1.065479 1.080535* 1.075622 1.064521*
+Note. The self-citation, group, and journal ﬂags were split into dummy classes for the analysis. BC =betweenness centrality; DC =degree centrality;
+EFF=redundancy or efﬁciency-based; CONS =constrained-based; RW =random walk.
+*p<0.01.
+TABLE 6. Top-5 authors in the Chinese Academy of Sciences.
+Rank EFF CONS
+1 B. Zou, Inst Phys, Beijing (1999–2001) D. Jiang Shanghai, Inst Ceram, State Key Lab High Performance
+Ceram & Superﬁne, Shanghai (2002–2004)
+2 J. Yuan, Inst Chem, Ctr Mol Sci, Lab Chem Biol, Beijing (2001–2003) T. Zhao, Inst Chem, Ctr Mol Sci, State Key Lab Engn Plast,
+Beijing (2002–2004)
+3 D. Shi, Beijing Lab Vacuum Phys, Beijing (2002–2004) Q. Zhang, Inst Phys, Opt Phys Lab, Beijing (2002–2004)4 H. Cong, Inst Met Res, Shenyang Natl Lab Mat Sci, Shenyang (2000–2002) W. Hu, Inst Chem, Ctr Mol Sci, Beijing (2002–2004)5 G. Fei, Inst Solid State Phys, Key Lab Mat Phys, Hefei (2001–2003) Q. Zhang, Inst Phys, Opt Phys Lab, Beijing (2001–2003)
+EFF=redundancy or efﬁciency-based; CONS =constrained-based.
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011 1173
+DOI: 10.1002/asi
+Model 3a and 3b consists of the two structural holes met-
+rics along with all the control variables. EFF was found to bepositively signiﬁcant, with an HR of 1.359633. This impliesthat a unit increase in the EFF measure of an author leadsto a 35% increase in the likelihood of a citation of his or herpaper. CONS also was found to be signiﬁcant. A unit increasein the CONS measure of an author leads to a 32% increasein likelihood of a citation of his or her paper.
+Model 4 tests the HR for RW and all control variables. It
+was found that the RW measure was positively related, butnot signiﬁcant at a 1% level.
+In summary, structural holes (EFF and CONS) were suited
+to explain the status of authors in the knowledge diffusionprocess in the CAS as compared to the other measures.
+This supports previous research on inventor status in patent
+networks (Nerkar & Paruchuri, 2005).
+Top Authors in the CAS
+Since the EFF and CONS status measures more clearly
+explain the knowledge diffusion pattern in the CAS, we reporton the most prestigious authors as identiﬁed by these mea-sures in Table 6. For instance, Bingsuo Zou; Inst Phys, Beijing(1999–2001) in the EFF column implies that based on the EFFmeasure, Bingsuo Zou was the most important author in the2-year time span of 1999 to 2001.We found that the most pres-tigious authors in different subject categories such as physics,chemistry, and material science were from Beijing.
+TABLE 7. Knowledge diffusion results for the Russian Academy of
+Sciences.
+BC DC EFF CONS RW
+Direction Positive Positive Positive Positive PositiveHazard 1.000157 1.014428* 2.303907* 2.069452* 2.179456*
+Ratio
+BC=betweenness centrality; DC =degree centrality; EFF =
+redundancy or efﬁciency-based; CONS =constrained-based; RW =random
+walk.
+*p<0.01.
+TABLE 8. Top-5 authors in the Russian Academy of Sciences.
+Rank EFF CONS RW
+1 V .Y . Prinz, Inst Semicond Phys, R.A. Andrievskii, Inst Problems Chem Phys, V .Y . Prinz, Inst Semicond Phys, Novosibirsk
+Novosibirsk (2002–2004) Chernogolovka, Moscow Oblast (2000–2002) (2002–2004)
+2 B.V . V olovik & A.F. Ioffe, Phys Tech Inst, W. Skorupa, Inst Semicond Phys, L.M. Bronstein & A.N. Nesmeyanov, Organoelement
+St. Petersburg (2002–2004) Siberian Div, Novosibirsk (2002–2004) Cpds Inst, Moscow (2002–2004)
+3 V .D. Frolov, Inst Gen Phys, Moscow R.A. Andrievskii, Inst Problems Chem Phys, P.M. Valetsky & A.N. Nesmeyanov, Organoelement
+(2002–2004) Chernogolovka, Moscow Oblast (1999–2001) Cpds Inst, Moscow (2002–2004)
+4 S.M. Pimenov, Inst Gen Phys, E.D. Obraztsova, Inst Gen Phys, V .Y . Prinz, Inst Semicond Phys, Novosibirsk
+Moscow (2000–2002) Moscow (2000–2002) (2001–2003)
+5 L.M. Bronstein & A.N. Nesmeyanov, G.V . Kalinnikov, Inst Problems Chem Phys, V .V . Preobrazhenskii, Inst Semicond Phys,
+Organoelement Cpds Inst, Moscow Chernogolovka, Moscow Oblast (2000–2002) Siberian Div, Novosibirsk (2002–2004)(2002–2004)Knowledge Diffusion Analysis: The RAS
+The results for the RAS are summarized in Table 7. All
+measures except BC were found to have a signiﬁcant positiveeffect on the citation of papers (although the HR for DCwas 1.014428). The HRs showed that the structural holesmeasures and RW explained the knowledge diffusion patternwithin the RAS. One unit increase in EFF leads to a 130%increase in the hazard of citation as compared to 118% forRW and 107% for CONS.
+Top Authors in the RAS
+Table 8 lists the most important authors in the RAS using
+the three effective and statistically signiﬁcant measures. Themeasures demonstrate the importance of the same authorsin different spells. For instance, Prinz, VY was identiﬁedby EFF and RW to have high importance in all time spellsfrom 2001 from 2004. Andrievskii, RA also was high sta-tus as demonstrated by CONS in the spells from 1999 to2002. Bronstein, LM also was ranked in both EFF and RW’stop author lists. Most of these authors were from physicsand related areas, and the majority were from the cities ofMoscow and Novosibirsk.
+Knowledge Diffusion Analysis: The IIT
+Table 9 shows a summary of the results obtained for the
+IIT in which all the measures were found to have a signiﬁcantpositive effect. However, the RW measure best explained theknowledge diffusion (with 215% increase in the hazard ofcitation), followed by EFF and CONS.
+Top Authors in the IIT
+Using the most effective measures, RW, EFF, and CONS,
+we identiﬁed the most important authors in the IIT (Table10). RW identiﬁed Gajbhiye, NS’s importance in the knowl-edge diffusion process from 1997 to 2001; EFF identiﬁedDas, RN’s important role in all spells from 2000 to 2004.
+The majority of those authors were from chemistry- and
+1174 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011
+DOI: 10.1002/asi
+physics-related branches; however, there was no overlap in
+the authors identiﬁed by the measures.
+Comparing results across the three institutions, it is clear
+that boundary-spanning individuals (as measured by struc-tural holes) are considered inﬂuential in the CAS and theRAS whereas in the IIT, most inﬂuential individuals wereidentiﬁed by RW betweenness. In addition, it appears that theimportant authors in the IIT persisted across longer spells intime as compared to those in the RAS and the CAS. Anotherimportant conclusion that can be drawn from the results is thatbeing connected to diverse parts of the network leads to moreinﬂuence since both structural holes and RW are essentiallybetweenness measures emphasizing “gatekeeper” roles.
+We plan to closely examine the data and networks
+extracted, as the signiﬁcance of different measures indi-cate that cultural and institutional differences may inﬂu-ence knowledge diffusion. In addition, each measure makesimplicit assumptions on the ﬂow of knowledge in the net-work. The signiﬁcance (or lack thereof) of these measuresmay indicate differences in institutional and collaborativeculture. Further study on the networks from India may beneeded because the current dataset is signiﬁcantly smallerthan the datasets of China and Russia.
+Conclusions and Future Directions
+In this study, we examined the role of author status on
+the selection of knowledge that is recombined to produce
+TABLE 9. Knowledge diffusion results for the Indian Institutes of
+Technology.
+BC DC EFF CONS RW
+Direction Positive Positive Positive Positive PositiveHazard 1.013099* 1.097022* 2.929148* 2.113073* 3.150772*
+ratio
+BC=betweenness centrality; DC =degree centrality; EFF =
+redundancy or efﬁciency-based; CONS =constrained-based; RW =random
+walk.
+*p<0.01.
+TABLE 10. Top-5 authors in the Indian Institutes of Technology.
+Rank EFF CONS RW
+1 N. Sandhyarani, Dept Chem and Reg Sophisticated R.K. Joshi, Dept Phys, New Delhi N.S. Gajbhiye, Dept Chem, Kanpur,
+Instrumentat Ctr, Madras (2001–2003) (2002–2004) Uttar Pradesh (1998–2000)
+2 N. Pradhan, Dept Chem, Kharagpur (2002–2004) H.K. Sehgal, Dept Phys, New Delhi N.S. Gajbhiye, Dept Chem, Kanpur,
+(2002–2004) Uttar Pradesh (1997–1999)
+3 R.N. Das,Dept Chem, Kharagpur 721302, Y .V .G.S. Murti, Dept Phys, Guwahati N.S. Gajbhiye, Dept Chem, Kanpur,
+W Bengal (2002–2004) (2000–2002) Uttar Pradesh (1999–2001)
+4 R.N. Das, Dept Chem, Kharagpur 721302, P. Nandakumar, Dept Phys, Chennai B.R. Mehta, Dept Phys, Thin Film Lab,
+W Bengal (2000-2002) (2000–2002) New Delhi (2000–2002)
+5 M. Venkataramanan, Dept Chem and Reg C. Vijayan, Dept Phys, Chennai K.C. Khilar, Dept Chem Engn, Bombay,
+Sophisticated Instrumentat Ctr, Madras, (2000–2002) Maharashtra (2002–2004)
+Tamil Nadu (2000–2002)
+EFF=redundancy or efﬁciency-based; CONS constrained-based; RW =random walk.innovation within an organization. We conducted the study
+on three large-scale institutions from three different countriesand studied the process that models their knowledge evolutionin nanotechnology ﬁelds. Using different social network mea-sures, we identiﬁed the mechanism through which knowledgeis selected for recombination. Speciﬁcally, we asked howthe status of an individual in a coauthorship network affectsknowledge diffusion. To answer this, we used Cox propor-tional hazards models to examine the role of author statuson the selection of knowledge that is recombined to pro-duce innovation within an organization. The empirical resultsshowed that individuals with access to diverse parts of theknowledge network were inﬂuential in all three institutions.
+Our second research question focused on which measures
+could explain the effect of an individual’s status on knowl-edge diffusion. Since Cox proportional hazards models canbe used to compare the effect of a set of variables on afuture event, by measuring individual status in coauthorshipnetworks with different social network measures (BC, DC,structural holes, RW betweenness), we can identify the mosteffective measure to determine author status for a speciﬁcinstitution. For example, our empirical study showed thatfor the CAS in China, structural holes (as measured by theefﬁciency measure) best explained the status of authors inthe knowledge diffusion process in China. Using the mostsuited measures in each institution, we also identiﬁed themost important authors in the nanotechnology ﬁeld in China,Russia, and India.
+There are some limitations to this study. Although we
+found that cultural and institutional differences may resultfrom the varying knowledge diffusion mechanisms withininstitutions, a further sociological study to understand whichcultural factors might inﬂuence diffusion is warranted. Thus,comparing institutional culture and incentives in these coun-tries and its effect on network structure (and the selectionof knowledge) might be an interesting future direction topursue. We also plan to compare these results to organiza-tions in the United States and European nations to examineany differences. In addition, since paper collaborations areonly a subset of actual afﬁliations between individuals in
+JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011 1175
+DOI: 10.1002/asi
+an institution, patent collaborations and other kinds of rela-
+tionships can be overlaid over paper collaborations to moreclearly understand individual status.
+Our ﬁndings also suggest that authors are in a position
+to work toward prestige positions in knowledge networks toplay important roles in an organization’s knowledge evolu-tion. This may be even more important in industry researchlabs, where the evolution of knowledge and the patents thatit is based on may have important ﬁnancial implications.Policy makers in the scientiﬁc community should pay moreattention to the network positions and knowledge diffusionmechanisms because the development of an organization’scapabilities and competencies might depend on the path ofknowledge ﬂow and the individuals on that path. The suc-cess of betweenness measures of prestige shows that thenanotechnology community and possibly the scientiﬁc com-munity at-large could beneﬁt by encouraging collaborationsbetween diverse parts of the discipline.
+Acknowledgment
+This research was partially supported by U.S. National
+Science Foundation Grants CMMI-0533749 and CMMI-0926270, National Natural Science Foundation of China(NSFC) “Fundamental Research on E-Government Theoryand Methods” Grant 70533030, and Chinese Ministry ofEducation Grant 10YJCZH097.
+References
+Ahuja, G. (2000). Collaboration networks, structural holes, and innovation:
+A longitudinal study. Administrative Science Quarterly, 45(3), 425–455.
+Allison, P.D. (1995). Survival analysis using the SAS system: A practical
+guide. Cary, NC: SAS Institute.
+Arunachalam, S., & Doss, M.J. (2000). Mapping international collaboration
+in science in Asia through coauthorship analysis. Current Science, 79(5),621–628.
+Arunachalam, S., Srinivasan, R., & Raman, V . (1994). International collabo-
+ration in science: Participation by the Asian giants. Scientometrics, 30(1),7–22.
+Bonacich, P. (1987). Power and centrality: A family of measures. American
+Journal of Sociology, 92(5), 1170–1182.
+Bornmann, L., & Daniel, H.D. (2008). Selecting manuscripts for a high-
+impact journal through peer review:A citation analysis of communicationsthat were accepted byAngewandte Chemie International editor or rejectedbut published elsewhere. Journal of the American Society for InformationScience and Technology, 59(11), 1841–1852.
+Burt, R.S. (1992). Structural holes: The social structure of competition.
+Cambridge, MA: Harvard University Press.
+Cox, D.R. (1972). Regression models and life tables. Journal of the Royal
+Statistical Society, B34, 187–220.
+Davis, M. (2009).Author-choice open access publishing in the biological and
+medical literature: A citation analysis. Journal of the American Societyfor Information Science and Technology, 60(1), 3–8.
+Ding, Y ., Yan, E.J., Frazho, A., & Caverlee, J. (2009). PageRank for rank-
+ing authors in co-citation networks. Journal of the American Society forInformation Science and Technology, 60(11), 2229–2243.
+Fleming, L. (2001). Recombinant uncertainty in technological search.
+Management Science, 47(1), 117–132.
+Freeman, L.C. (1979). Centrality in social networks: Conceptual clariﬁca-
+tion. Social Networks, 3, 215–239.Guan, J., & Ma, N. (2007). China’s emerging presence in nanoscience and
+nanotechnology:A comparative bibliometric study of several nanosciencegiants. Research Policy, 36(6), 880–886.
+Hassan, M.H.A. (2005). Nanotechnology: Small things and big changes in
+the developing world. Science, 309(5731), 65–66.
+Huang, Z., Chen, H., Chen, Z., & Roco, M.C. (2004). International nan-
+otechnology development in 2003: Country, institution, and technologyﬁeld analysis based on USPTO patent database. Journal of NanoparticleResearch, 6, 325–354.
+Kretschmer, H. (2004). Author productivity and geodesic distance in biblio-
+graphic co-authorship networks, and visibility on theWeb. Scientometrics,60(3), 409–420.
+Leydesdorff, L., & Sun, Y . (2009). National and international dimensions of
+the triple helix in Japan: University–industry–government versus inter-national coauthorship relations. Journal of the American Society forInformation Science and Technology, 60(4), 778–788.
+Li, X., Chen, H., Dang, Y ., Lin, Y ., Larson, C.A., & Roco, M.C. (2008). A
+longitudinal analysis of nanotechnology literature: 1976–2004. Journal ofNanoparticle Research, 10, 3–22.
+Liu, X., Zhang, P.Z., Li, X., Chen, H., Dang,Y ., Larson, C.A., & Wang, X.W.
+(2009). Trends for nanotechnology development in China, Russia, andIndia. Journal of Nanoparticle Research, 11(8), 1845–1866.
+Luukkonen, T., Persson, O., & Sivertsen, G. (1992). Understanding patterns
+of international scientiﬁc collaboration. Science, Technology & Human
+Values, 17(1), 101–126.
+Moody, J. (2004). The structure of a social science collaboration network:
+Disciplinary cohesion from 1963 to 1999. American Sociological Review,69(2), 213–238.
+Nerkar, A., & Paruchuri, S. (2005). Evolution of R&D capabilities: The
+role of knowledge networks within a ﬁrm. Management Science, 51(5),771–785.
+Newman, M.E.J. (2001). From the cover: The structure of scientiﬁc collabo-
+ration networks. Proceedings of the National Academy of Sciences, USA,98(2), 404–409.
+Newman, M.E.J. (2004). Coauthorship networks and patterns of scientiﬁc
+collaboration. Proceedings of the National Academy of Sciences, USA,101(1), 5200–5205.
+Newman, M.E.J. (2005). A measure of betweenness centrality based on
+random walks. Social Networks, 27, 39–54.
+Patrakosol, B., & Olson, D.L. (2007). How interﬁrm collaboration beneﬁts
+IT innovation. Information & Management, 44(1), 53–62.
+Podolny, J.M., & Stuart, T.E. (1995). A role-based ecology of technological
+change. American Journal of Sociology, 100(5), 1224–1260.
+Singh, J. (2007). External collaboration, social networks and knowledge
+creation: Evidence from scientiﬁc publications. Danish Research Unit ofIndustrial Dynamics Summer Conference (pp. 1–43). Oxford, UK: OxfordUniversity Press.
+Tretyakov, Y .D. (2007). Challenges of nanotechnological development in
+Russia and abroad. Herald of the Russian Academy of Sciences, 77(1),15–21.
+Wagner, C.S., & Leydesdorff, L. (2005). Mapping global science using inter-
+national co-authorships: A comparison of 1990 and 2000. InternationalJournal of Technology and Globalization, 2(1), 185–208.
+Yamashita, Y ., & Okubo, Y . (2006). Patterns of scientiﬁc collaboration
+between Japan and France: Inter-sectoral analysis using ProbabilisticPartnership Index (PPI). Scientometrics, 68(2), 303–324.
+Yoshikane, F., & Kageura, K. (2004). Comparative analysis of coauthor-
+ship networks of different domains: The growth and change of networks.Scientometrics, 60(3), 435–446.
+Zitt, M., Bassecoulard, E., & Okubo, Y . (2000). Shadows of the past in
+international cooperation: Collaboration proﬁles of the top ﬁve producersof science. Scientometrics, 47(3), 627–657.
+Zucker, L.G., & Darby, M.R. (1996). Star scientists and institutional trans-
+formation: Patterns of invention and innovation in the formation ofthe biotechnology industry. Proceedings of the National Academy ofSciences, USA, 93(23), 12709–12716.
+1176 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY —J une 2011
+DOI: 10.1002/asi

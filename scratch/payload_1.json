@@ -1,0 +1,104 @@
+{
+  "Subagents": [
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0445",
+      "Prompt": "Now review BSMA0445. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[445] Olorunsola et al. (2022) - Service beyond the status quo the ripple effect of corporate social responsibility.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0445.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0446",
+      "Prompt": "Now review BSMA0446. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[446] Onishi (2016) - Measuring nurse managers' boundary spanning development and psychometric evaluation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0446.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0447",
+      "Prompt": "Now review BSMA0447. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[447] Onyemah et al. (2010) - How HRM control affects boundary-spanning employees' behavioural strategies.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0447.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0448",
+      "Prompt": "Now review BSMA0448. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[448] Packell (2013) - Testing the role of boundary management tactics within the work-nonwork interface.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0448.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0449",
+      "Prompt": "Now review BSMA0449. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[449] Pappas and Flaherty (2008) - The effect of trust on customer contact personnel strategic behavior and sales.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0449.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0450",
+      "Prompt": "Now review BSMA0450. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[450] Pappas and Wooldridge (2007) - Middle Managers' Divergent Strategic Activity.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0450.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0451",
+      "Prompt": "Now review BSMA0451. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[451] Park and Kim (2003) - A framework of dynamic CRM linking marketing with information strategy.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0451.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0452",
+      "Prompt": "Now review BSMA0452. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[452] Pattinson and Dawson (2024) - The Ties that Bind How Boundary Spanners Create Value in Science\u2010Based SMEs.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0452.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0453",
+      "Prompt": "Now review BSMA0453. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[453] Pavez et al. (2022) - Collaborating Across Organizational Boundaries to Co-Create a More Just, Resilient.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0453.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0454",
+      "Prompt": "Now review BSMA0454. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[454] Pedersen et al. (2019) - Globally networked Intraorganizational boundary spanning in the global organization.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0454.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0455",
+      "Prompt": "Now review BSMA0455. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[455] Perreault et al. (2024) - \u201cEverything Else is Public Relations\u201d How Rural Journalists Draw the Boundary.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0455.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0456",
+      "Prompt": "Now review BSMA0456. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[456] Perrone et al. (2003) - Free to Be Trusted Organizational Constraints on Trust in Boundary Spanners.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0456.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0457",
+      "Prompt": "Now review BSMA0457. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[457] Pham et al. (2024) - The influences of boundary spanning capabilities and long\u2013term orientation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0457.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0458",
+      "Prompt": "Now review BSMA0458. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[458] Piotrowski (2023) - Landscaping Wellness at Work.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0458.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0459",
+      "Prompt": "Now review BSMA0459. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[459] Robertson (1995) - Involvement in Boundary-Spanning Activity Mitigating the Relationship.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0459.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0460",
+      "Prompt": "Now review BSMA0460. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[460] Robertson (1989) - The relationship between work setting and behavior and the moderating effects of boundary spanning activity.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0460.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0461",
+      "Prompt": "Now review BSMA0461. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[461] Powell et al. (1996) - Iriterorganizational Collaboration and the Locus of Innovation.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0461.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0462",
+      "Prompt": "Now review BSMA0462. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[462] Pramanik (2021) - Resource mobilization and contributing resources to a collective task.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0462.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0463",
+      "Prompt": "Now review BSMA0463. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[463] Pulles and Hartman (2017) - Likeability and its effect on outcomes of interpersonal interaction.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0463.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    },
+    {
+      "TypeName": "bsma_reviewer_v3",
+      "Role": "Review paper BSMA0464",
+      "Prompt": "Now review BSMA0464. The PDF is at G:\\My Drive\\UCL\\BSMA\\BSMA ANTIGRAVITY\\01_Academic_Papers\\[464] Purcell and Smith (2023) - Disciplinary Expertise and Faculty Credentialing in Leadership Studies.pdf. Output to G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/outputs_v2/BSMA0464.json. Read the rules from G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/preamble.txt FIRST."
+    }
+  ]
+}

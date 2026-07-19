@@ -1,0 +1,6 @@
+{
+  "ID": "BSMA0501",
+  "Final_Judgment": 1,
+  "Reason_Code": null,
+  "Rationale": "Per AGENTS.md Rule 16 (Leader BSB & Cross-Entity Inclusion OVERRIDE PRIORITY), Boundary Spanning Leadership (BSL) measured via subordinate ratings is now officially INCLUDED. This explicitly overrides previous 'Cross-Entity Trap' or Code 1 logic that the human GT originally used to exclude the paper. The paper provides valid zero-order correlations for BSL, meaning the AI Validation1 correctly included the study."
+}

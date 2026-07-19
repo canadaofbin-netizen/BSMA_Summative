@@ -1,0 +1,6 @@
+{
+  "ID": "BSMA0304",
+  "Final_Judgment": 1,
+  "Reason_Code": "None",
+  "Rationale": "Based on Rule 16 (Leader BSB & Cross-Entity Inclusion), the concept of Boundary Spanning Behavior explicitly includes Boundary Spanning Leadership (BSL). The study (Kim et al., 2022) measures leader boundary-spanning behavior as rated by their subordinates (cross-entity dyadic data) and provides a zero-order correlation matrix (N=260 employees). Rule 16 dictates this MUST BE INCLUDED, taking absolute precedence over any other cross-entity exclusion logic. The AI Validation1 correctly coded it as 1 (Include), whereas the Human GT of 0 was incorrect."
+}

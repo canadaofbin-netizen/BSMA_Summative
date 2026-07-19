@@ -1,0 +1,112 @@
+[
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0674",
+        "Prompt": "Review `BSMA0674`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[674] Zhang et al. (2026) - Concentration in cross\u2010border research collaborations and MNC.pdf`. Output to `scratch/outputs/BSMA0674.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0681",
+        "Prompt": "Review `BSMA0681`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[681] Zhang et al. (2019) - Conflict management for co\u2010ordination between shift teams in Shanghai subway stations.pdf`. Output to `scratch/outputs/BSMA0681.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0682",
+        "Prompt": "Review `BSMA0682`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[682] Zhang and Xie (2024) - How and when does boundary spanning behavior influence employees\u2019 creative.pdf`. Output to `scratch/outputs/BSMA0682.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0683",
+        "Prompt": "Review `BSMA0683`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[683] Zhang and Li (2024) - How and when employees\u2019 boundary-spanning improve.pdf`. Output to `scratch/outputs/BSMA0683.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0684",
+        "Prompt": "Review `BSMA0684`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[684] Zhao et al. (2024) - When and how employee boundary spanning behavior influences supervisor support.pdf`. Output to `scratch/outputs/BSMA0684.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0685",
+        "Prompt": "Review `BSMA0685`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[685] Liu et al. (2025) - Expatriates\u2019 boundary-spanning double-edged effects in multinational enterprises.pdf`. Output to `scratch/outputs/BSMA0685.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0686",
+        "Prompt": "Review `BSMA0686`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[686] Zhao (2024) - Digital Transformation and Innovation Performance the Mediating Roles of Open Innovation.pdf`. Output to `scratch/outputs/BSMA0686.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0687",
+        "Prompt": "Review `BSMA0687`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[687] Zheng et al. (2014) - Job insecurity and job satisfaction The interactively moderating effects of optimism.pdf`. Output to `scratch/outputs/BSMA0687.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0688",
+        "Prompt": "Review `BSMA0688`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[688] Zheng and Ahmed (2024) - Humble leadership and employee creative performance in China.pdf`. Output to `scratch/outputs/BSMA0688.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0689",
+        "Prompt": "Review `BSMA0689`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[689] Zhong et al. (2023) - Managing the hearts of boundary spanners CEO organizational identification.pdf`. Output to `scratch/outputs/BSMA0689.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0690",
+        "Prompt": "Review `BSMA0690`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[690] Zhou and Liu (2025) - Resource-based faultlines and creativity employee boundary- spanning.pdf`. Output to `scratch/outputs/BSMA0690.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0691",
+        "Prompt": "Review `BSMA0691`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[691] Zhu et al. (2025) - How and when is boundary-spanning behaviour related to innovative behaviour role.pdf`. Output to `scratch/outputs/BSMA0691.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0692",
+        "Prompt": "Review `BSMA0692`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[692] Zhu et al. (2020) - The cross-level double-edged-sword effect of boundary-spanning behavior on creativity.pdf`. Output to `scratch/outputs/BSMA0692.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0693",
+        "Prompt": "Review `BSMA0693`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[693] Zhu et al. (2024) - Boundary-spanning search and business model innovation.pdf`. Output to `scratch/outputs/BSMA0693.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0694",
+        "Prompt": "Review `BSMA0694`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[694] Zhu et al. (2023) - Transactive memory system, boundary-spanning search and business model innovation.pdf`. Output to `scratch/outputs/BSMA0694.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0695",
+        "Prompt": "Review `BSMA0695`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[695] Ziegert et al. (2022) - Addressing Performance Tensions in Multiteam Systems.pdf`. Output to `scratch/outputs/BSMA0695.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0696",
+        "Prompt": "Review `BSMA0696`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[696] Zimmer and Henry (2017) - The role of social capital in selecting interpersonal information sources.pdf`. Output to `scratch/outputs/BSMA0696.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0697",
+        "Prompt": "Review `BSMA0697`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[697] Zobel et al. (2024) - A Temporal Perspective on Boundary Spanning Engagement Dynamics.pdf`. Output to `scratch/outputs/BSMA0697.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0698",
+        "Prompt": "Review `BSMA0698`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[698] Zong et al. (2026) - Shifting Representations Understanding How CEO Cognitive Flexibility.pdf`. Output to `scratch/outputs/BSMA0698.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0699",
+        "Prompt": "Review `BSMA0699`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[699] Zott and Amit (2007) - Business Model Design and the Performance of Entrepreneurial Firms.pdf`. Output to `scratch/outputs/BSMA0699.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0700",
+        "Prompt": "Review `BSMA0700`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[700] Zou and Ingram (2013) - Bonds and boundaries Network structure, organizational boundaries, and job performance.pdf`. Output to `scratch/outputs/BSMA0700.json`."
+    },
+    {
+        "TypeName": "bsma_reviewer_v3",
+        "Role": "Reviewer for BSMA0701",
+        "Prompt": "Review `BSMA0701`. The PDF is at `g:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/01_Academic_Papers/[701] Cozier (2001) - AN EXTENSION OF SYSTEMS PUBLIC RELATIONS.pdf`. Output to `scratch/outputs/BSMA0701.json`."
+    }
+]

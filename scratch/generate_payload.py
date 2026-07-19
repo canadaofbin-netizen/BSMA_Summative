@@ -1,0 +1,76 @@
+import json
+
+base_prompt = """=== CRITICAL OVERRIDE RULES (CHECK BEFORE ANY EXCLUSION) ===
+
+1. LEADER BSB OVERRIDE (Rule 16): If the paper measures a leader/manager's boundary spanning behavior as rated by subordinates -> MUST INCLUDE. Leader BSB IS BSB. Do NOT exclude under Code 1 or 'cross-entity' logic. EXCEPTION: If items measure internal demographic diversity (e.g., Blau's index), that is inclusive leadership, NOT BSB -> Exclude.
+
+2. INTRA-ORG BSB OVERRIDE (Rule 17): If the paper measures boundary spanning across internal departments/functions (e.g., IT <-> Business, R&D <-> Marketing, cross-lab knowledge seeking) -> MUST INCLUDE. Intra-Org BSB IS BSB.
+
+3. CEO BSB EXCEPTION (Rule 15): If a CEO rates their OWN individual behavior using 'I' referent items (e.g., 'I solicit information from external channels') and N=firms=N=CEOs -> Valid individual-level BSB. INCLUDE.
+
+4. 1:1 MATCHED DYAD SAFE HARBOR: If a study uses 1-to-1 matched pairs (e.g., 1 expatriate paired with 1 coworker, N=177 unique individuals) -> Statistical independence is preserved. Do NOT exclude under Code 3. ONLY exclude under Code 3 if N = relationships (e.g., 87 people -> 673 ties).
+
+5. PROXY TRAP VERIFICATION (Rule 15): Always check the grammatical subject of survey items. 'I' = individual-level (valid). 'We/Our team/My organization' = macro-level key informant (exclude Code 3).
+
+6. AI TOOL INTERACTION (Rule 13 strict): BSB must be interpersonal (human-to-human). Using AI tools (ChatGPT) to gather information is NOT BSB -> Exclude Code 1.
+
+7. NETWORK-BASED BSB INCLUSION (Rule 17+18 supplement): If a study measures cross-boundary ties using a network generator that asks about PURPOSIVE actions (e.g., 'who do you go to for information or knowledge on work-related topics'), the resulting network variables (bridging ties, cross-boundary contacts, degree centrality) ARE valid BSB operationalizations -> INCLUDE. Do NOT exclude simply because BSB is measured via social network analysis rather than a Likert scale. The key test is whether the network generator question implies purposive boundary spanning action. ONLY Burt's structural constraint is explicitly invalid.
+
+8. IMPLANTED BOUNDARY SPANNER / KNOWLEDGE EXCHANGE INCLUSION: If a study's sample consists of employees whose JOB ROLE is boundary spanning (e.g., logistics implants on-site at client facilities, expatriates) AND the study measures their knowledge exchange, coordination, or information-sharing behavior with the partner organization, this IS a valid BSB construct -> INCLUDE. Do NOT exclude just because the paper labels it 'knowledge exchange' instead of 'boundary spanning behavior'. The construct captures the same purposive cross-boundary activity.
+
+=== FEW-SHOT JUDGMENT EXAMPLES ===
+
+EXAMPLE 1 (INCLUDE - Leader BSB):
+Paper: 'Leader boundary-spanning behavior and creative behavior'
+Sample: N=260 employees rating their supervisor's BSB
+-> Rule 16 OVERRIDE: Leader BSB rated by subordinates = INCLUDE
+
+EXAMPLE 2 (INCLUDE - Intra-Org BSB via Network):
+Paper: 'Activating Cross-Boundary Knowledge: The Role of Simmelian Ties'
+Sample: N=245 R&D scientists spanning across internal research labs
+Network generator asks 'who do you go to for information or knowledge'
+-> Rule 7: Purposive network ties across internal boundaries = valid BSB = INCLUDE
+-> Do NOT exclude because BSB is measured as network ties rather than a Likert scale
+
+EXAMPLE 3 (INCLUDE - Implanted Boundary Spanner):
+Paper: 'Enhancing Dyadic Performance Through Boundary Spanners and Innovation'
+Sample: N=81 logistics implants on-site at customer facilities (1:1 matched dyads)
+Measured construct: Knowledge Exchange between implant and host firm
+-> Rule 8: Implanted boundary spanners' knowledge exchange IS BSB = INCLUDE
+-> Rule 4: 1:1 matched pairs preserve statistical independence
+
+EXAMPLE 4 (EXCLUDE - Nested/Repeated Data):
+Paper: 'Boundary Spanning by Public Managers'
+Sample: N=158 observations, but 98 managers each rated 2 projects
+-> Code 3: Repeated measures from same individuals violates independence
+
+EXAMPLE 5 (EXCLUDE - AI Interaction, not BSB):
+Paper: 'How AI use contributes to employee competitive advantage'
+Sample: Employees using ChatGPT to 'solicit information from external channels'
+-> Code 1: Human-computer interaction, not interpersonal BSB
+
+=== END OF PREAMBLE ===
+
+"""
+
+with open('G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/batch_chunk_8.json', 'r', encoding='utf-8') as f:
+    batch = json.load(f)
+
+for chunk_idx in range(4):
+    chunk = batch[chunk_idx*10:(chunk_idx+1)*10]
+    out = []
+    for item in chunk:
+        pdf_clean = item['pdf'].replace('\\', '/')
+        id = item['id']
+        out_path = item['out']
+        prompt = f"{base_prompt}Now review `{id}`. The PDF is at `{pdf_clean}`. Output to `{out_path}`."
+        
+        out.append({
+            'TypeName': 'bsma_reviewer_v3',
+            'Role': f'Validation3 for {id}',
+            'Prompt': prompt
+        })
+    with open(f'G:/My Drive/UCL/BSMA/BSMA ANTIGRAVITY/scratch/subagents_chunk_{chunk_idx}.json', 'w', encoding='utf-8') as f:
+        json.dump({'Subagents': out}, f, indent=2)
+
+print('Created chunks')

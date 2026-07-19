@@ -1,0 +1,1705 @@
+Information Systems Research
+Vol. 27, No. 3, September 2016, pp. 648–660
+ISSN 1047-7047 (print)  ISSN 1526-5536 (online)
+http://dx.doi.org/10.1287/isre.2016.0652
+© 2016 INFORMS
+CORRECTED VERSION OF RECORD; SEE LAST PAGE OF ARTICLE
+Research Note
+Designing Promotion Ladders to Mitigate Turnover
+of IT Professionals
+Frank MacCrory
+Gabelli School of Business, Fordham University, New York, New York 10023, fmaccrory@fordham.edu
+Vidyanand Choudhary
+Merage School of Business, University of California Irvine, Irvine, California 92697, veecee@uci.edu
+Alain Pinsonneault
+Desautels Faculty of Management, McGill University, Montréal, Québec H3A 1G5, Canada, alain.pinsonneault@mcgill.ca
+C
+hronic excessive turnover among information technology (IT) professionals has been costly to ﬁrms for
+decades with annual turnover rates as high as 24% even among Computerworld’s “100 Best Places to Work in
+IT.” Prior information systems literature has identiﬁed two key factors affecting turnover: boundary-spanning
+roles and low promotability in one’s current ﬁrm. We draw on tournament theory, which is primarily concerned
+with inducing effort in employees, to decompose promotability into two distinct constructs: the likelihood of
+promotion and beneﬁt from promotion, and demonstrate that each has a distinct role in affecting turnover rates.
+Our key result is that a job ladder motivating IT professionals with large, infrequent promotions will lead to
+higher turnover than a job ladder with smaller, more frequent promotions. We describe the conditions under
+which rearranging the job ladder creates economic value for the ﬁrm. We also offer an explanation for the
+observation that jobs characterized by boundary-spanning activities have higher turnover, and show that such
+jobs are more sensitive to the effect of likelihood of promotion on turnover. We test our hypotheses on a
+detailed data set covering 5,704 IT professionals over a ﬁve-year period. We conﬁrm that likelihood of promotion
+has the predicted effects on turnover of IT professionals. A one standard deviation increase in likelihood of
+promotion decreases turnover by over 99%, consistent with our prediction. The empirical analysis also conﬁrms
+the predicted effects of boundary spanning activities.
+Keywords: IT turnover; tournament theory; econometrics; career concerns; management of IT human resources
+History: Il-Horn Hann, Senior Editor; Anandasivam Gopal, Associate Editor. This paper was received on
+March 28, 2013, and was with the authors 13 months for 2 revisions. Published online in Articles in Advance
+September 1, 2016.
+1.
+Introduction
+Chronic excessive turnover among information tech-
+nology (IT) professionals has been costly to ﬁrms
+for decades (Jiang and Klein 2002, Tambe and Hitt
+2014), during periods of high and low unemploy-
+ment (Quan and Cha 2010) with annual turnover rates
+as high as 24% even among the “100 Best Places
+to Work in IT” (Computerworld 2015). Prior research
+(see Joseph et al. 2007 for a review) has identiﬁed
+several factors that impact turnover of IT profession-
+als including job satisfaction, organizational commit-
+ment, human capital, intrinsic motivation, and exter-
+nal labor market conditions, with boundary-spanning
+activities and low promotability as key factors that
+are under the ﬁrm’s control. Yet a ﬁrm cannot avoid
+boundary-spanning jobs, and increasing promotabil-
+ity can be costly to the ﬁrm. This leads us to the
+following questions: What trade-off does a ﬁrm face
+between promotion incentives, turnover, and overall
+wage costs? Do the components of promotability affect
+IT professionals’ incentives to remain with or leave
+their current employer? More speciﬁcally, what is the
+impact of likelihood of promotion and the beneﬁt from
+promotion on the turnover rate? How do boundary-
+spanning activities affect turnover and why?
+Our approach to these questions is to incorpo-
+rate tournament theory into the information systems
+(IS) literature on turnover, and to our knowledge
+ours is the ﬁrst study to do so. Tournament theory
+explains how relative performance appraisals incen-
+tivize effort from knowledge workers (Lazear and
+Rosen 1981, Rosen 1986), including IT profession-
+als, even if the ﬁrm cannot observe effort levels.
+We combine prior research on tournament theory
+with economically signiﬁcant job alternatives to gen-
+erate novel recommendations for mitigating turnover
+among IT professionals.
+648
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+649
+Turnover often occurs when some job alternative’s
+net present value (NPV) is sufﬁciently higher than
+the NPV of staying at the current job, particularly if
+the NPV of the current job has decreased (Lee et al.
+1999).1 This is related to two phenomena, “career
+concerns” (Gibbons and Murphy 1992, Gibbons and
+Waldman 1999) in which employees exert effort for
+rewards in the future, and “promotions as job mar-
+ket signals” (Waldman 1984, Lerner and Tirole 2002,
+Roberts et al. 2006, Owan 2004, Roberts et al. 2006),
+which extend the career horizon beyond the current
+employer. A promotion at the current ﬁrm may sig-
+nal an employee’s ability to other ﬁrms independent
+of signals that she can send herself such as edu-
+cation (Spence 1973). Firms may engage in a risky
+strategy of delaying promotion to mitigate poaching
+(Bernhardt 1995, Owan 2004), but on average promo-
+tions decrease turnover among IT personnel (Igbaria
+and Siegel 1992).
+In the context of tournament theory with economi-
+cally signiﬁcant job alternatives, we move beyond cor-
+relation between pay dispersal and turnover (Bloom
+and Michel 2002) to discuss two key factors that
+have been identiﬁed in prior IS literature as im-
+pacting turnover: boundary-spanning activities and
+promotability.
+Boundary-spanning activities are those that require
+interactionacrossmultiplebusinessfunctionsordepart-
+ments. They can sometimes be a source of power within
+the organization (Baroudi and Igbaria 1994) but are
+almost always a source of stress (Kahn et al. 1964),
+and many IT jobs fall into the boundary-spanning cat-
+egory (Baroudi 1985).
+Promotability has been deﬁned in prior literature as
+the probability of being promoted within one’s cur-
+rent ﬁrm (Igbaria and Greenhaus 1992). Prior research
+has identiﬁed promotability within the current ﬁrm as
+a factor in turnover decisions (Igbaria and Greenhaus
+1992, Igbaria and Siegel 1992, Nalbantian and Szostak
+2004), but the variety of internal labor market strate-
+gies used by IT departments (Ang and Slaughter
+2004) and the indeterminate results of these efforts
+(Joseph et al. 2007) indicate that promotability’s effec-
+tiveness is still an open question.
+A key contribution of our work is that promota-
+bility should be considered as two distinct constructs
+of likelihood of promotion and beneﬁt from the promo-
+tion. After all, a promotion from Helpdesk Agent 2
+to Helpdesk Agent 3 (with a small pay increase and
+similar prospects for promotion) is not as valuable as
+a promotion from senior developer to technical man-
+ager (with a large pay increase and a shift from a
+1 This mechanism has shown good predictive power in several con-
+texts, although interestingly not for IT professionals (Niederman
+et al. 2007, Mourmant 2009).
+career plateau to a highly promotable management
+role).
+“[O]pportunities for career mobility outside the
+organization have been found to be negatively related
+to satisfaction and commitment,” (Mobley et al. 1979;
+Bluedorn 1982; Cotton and Tuttle 1986; Igbaria and
+Greenhaus 1992, p. 37) which leads to turnover (Meyer
+et al. 2002, Paré and Tremblay 2007). The fungibil-
+ity of IT skills and the need to acquire updated
+IT skills (Gallivan et al. 2002) increases turnover
+relative to other professions (Spain 1995, Ang and
+Slaughter 2004).
+Our results show that incentives from internal pro-
+motion opportunities for IT professionals can have
+undesirable—but avoidable—effects on turnover. Our
+key result is that a job ladder motivating IT pro-
+fessionals with the possibility of large, infrequent
+promotions will lead to higher turnover than a job
+ladder with smaller, more frequent promotions. This
+is consistent with the reduced-form results in John-
+ston et al. (1993) and Bloom and Michel (2002), but
+our detailed microdata allow us to explore the con-
+ditions under which adjusting the job ladder is cost-
+effective for the ﬁrm. We argue that increasing the
+likelihood of promotion can reduce turnover with-
+out increasing the NPV of the ﬁrm’s wage cost,
+although there is no free lunch: the ﬁrm faces a trade-
+off between incentive effects and turnover expenses.
+Firms in industries with low turnover costs will be
+better served by focusing their job ladder design to
+incentivize increased employee effort by having large,
+infrequent promotions. However ﬁrms in industries
+with high turnover costs should deploy a job ladder
+that reﬂects the value of retaining talent. We argue
+that high turnover costs should lead to a job ladder
+with smaller, more frequent promotions as compared
+to the job ladder used by ﬁrms in low-turnover-cost
+industries.
+Counterintuitively, we also ﬁnd that increasing the
+beneﬁt from promotion can increase turnover when
+it is coupled with a lower likelihood of promotion.
+This result is counter to prior career concern results
+that do not take turnover into account. We also ﬁnd
+that jobs characterized by boundary-spanning activ-
+ities are more sensitive to the effect of likelihood of
+promotion.
+Our results have important implications for inter-
+nal incentives that depart from classic tournament
+theory. Misapplying a ladder suitable for a low-
+turnover industry in a moderate-turnover industry
+creates precisely the type of situation that causes
+excessive turnover. Smaller, more frequent promo-
+tions reduce turnover even if the beneﬁt from promo-
+tion is decreased so much that the NPV of the job is
+unchanged. Thus our work contributes to the litera-
+ture by showing the existence of a force countering
+the incentives created by promotion opportunities.
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+650
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+2.
+Hypothesis Development
+In this section, we motivate the development of our
+hypotheses by combining tournament theory (Rosen
+1986) with the future-oriented nature of career con-
+cerns (Gibbons and Murphy 1992). Lazear and Rosen
+(1981) show that even if the actual effort exerted by
+each employee is unobservable, the publicly observ-
+able characteristics of a tournament-style job ladder
+determine the equilibrium level of effort and the prob-
+ability of promotion. The ability to design the job
+ladder allows the ﬁrm to induce a speciﬁc level of
+employee effort chosen from a fairly broad range. We
+argue that the “optimal” level of effort in a job lad-
+der that does not consider turnover is not necessar-
+ily proﬁt maximizing once turnover-related costs are
+considered.
+Faced with a trade-off between incentivizing effort
+and mitigating turnover, the ﬁrm has three funda-
+mental options. We discuss each option in turn.
+1. The benchmark case is to induce an “optimal”
+level of effort ignoring the cost of turnover.
+2. Increase employee compensation to make out-
+side job alternatives less attractive.
+3. Minimize the pool of at-risk employees and/or
+decrease the shock of nonpromotion.
+The ﬁrst option may be appropriate if the ﬁrm’s
+replacement cost is very low for this job. In this case,
+the cost of reorganizing the job ladder may not pay
+off for the ﬁrm (Cappelli 2000). Some entry-level IT
+jobs may be in this category such as helpdesk agents,
+but most IT staff are valuable enough to the ﬁrm to
+justify some expenditures on retention.
+The second option is appropriate if the ﬁrm needs
+to adjust to labor market conditions that change
+rapidly relative to the ﬁrm’s ability to adjust its job
+ladder. Firms that enjoy a productivity advantage
+because of ﬁrm-speciﬁc human capital are in an espe-
+cially good position to share some of their surplus
+with employees to reduce turnover.
+The third option allows for compensation adjust-
+ments like option 2 but provides additional ﬂexibil-
+ity regarding the job ladder. For example, the ﬁrm
+can insert new levels in the middle of the job lad-
+der that increase the fraction of employees promoted
+but decrease the incremental beneﬁt of each promo-
+tion. Such an adjustment could be less costly, but it
+would also weaken employees’ incentives for exerting
+unobservable effort. This option is appropriate if the
+ﬁrm has time to adjust its job ladder such as when
+it is facing persistent, long-term turnover issues. We
+devise our hypotheses in a way that controls for ﬁrm
+actions consistent with the second option, so that we
+may focus on the third option, which is novel to our
+research.
+We expect that employees will seek to maxi-
+mize their NPV over their entire careers derived
+from wages less the cost of effort and nonpecu-
+niary costs associated with switching employers, plus
+any nonpecuniary beneﬁts from working at the ﬁrm
+(Duncan 1976). The ﬁrm’s NPV, on the other hand,
+is the employee’s productivity less the NPV of wages
+and the cost of nonpecuniary beneﬁts. Consider an
+employee’s NPV just prior to an appraisal for a possi-
+ble promotion. Her NPV is a weighted average of the
+NPV conditional on promotion and the NPV condi-
+tional on nonpromotion. If the employee is promoted
+then her NPV increases, otherwise she is not pro-
+moted and the NPV decreases. Nonpromoted IT pro-
+fessionals have job alternatives that may exceed the
+NPV of remaining until the next appraisal, causing
+some to leave the ﬁrm. Promoted employees may also
+leave the ﬁrm because of job market signaling, but
+they do so at a lower rate (Igbaria and Siegel 1992,
+Johnston et al. 1993).2
+Ceteris paribus, increasing the promotion rate will
+put more employees into the promoted group that has
+lower turnover, lowering the overall turnover rate,
+but increase costs for the ﬁrm. One way to increase
+promotion probability at lower cost is to redesign the
+job ladder with more rungs. The additional rungs
+will slow down the increase in the ﬁrm’s costs, and
+it can even be done in a way to keep the NPV
+of costs constant while increasing promotion prob-
+ability. However, employees are motivated by the
+difference in NPV between promotion and nonpromo-
+tion (Lazear and Rosen 1981), and increasing promo-
+tion probability without increasing the overall NPV
+must decrease the difference in NPV between promo-
+tion and nonpromotion. This smaller difference will
+induce less unobservable effort, creating a trade-off
+between promotion incentives and turnover mitiga-
+tion. Hence tournament theory incentivizes effort but
+also introduces shocks, which lower NPVs whenever
+an appraisal does not result in a promotion. Thus, we
+have the following:
+Hypothesis 1. Controlling for NPV, the turnover rate
+is lower for jobs with larger likelihood of earning a
+promotion.
+As the likelihood of promotion increases, the frac-
+tion of employees that are not promoted decreases.
+As discussed previously, the turnover rate is lower
+for promoted employees (Johnston et al. 1993), so this
+leads to a reduction in turnover. Introducing the NPV
+of holding the job as a control variable removes the
+effect of changes in the average wage (i.e., any use
+of the “second option” is ﬁltered out). The ﬁrm can
+balance the wage cost implications of the increased
+2 Rational ﬁrms avoid promoting someone if doing so increases her
+ex ante probability of leaving the ﬁrm.
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+651
+likelihood of promotion by reducing the beneﬁt from
+promotion.
+In Hypothesis 2, we test for the effect of beneﬁt
+from promotion upon turnover, again controlling for
+NPV. It is possible that this control may not fully
+ﬁlter out the “second option.” In Hypothesis 2, any
+impact from the second option “seeping” through
+will decrease turnover. However, if the control works
+properly, then the third option will dominate and
+turnover will increase because of the larger drop in
+employee NPV. Therefore, this hypothesis tests the
+adequacy of our control and our novel prediction that
+an increase in the beneﬁt from promotion will lead to
+an increase in turnover.
+As discussed above, an appraisal that does not
+result in a promotion creates a negative shock to
+the employee’s NPV. The higher the potential bene-
+ﬁt from the promotion, the larger the negative shock
+and the greater the likelihood of the nonpromoted
+employee leaving the ﬁrm. If our prediction about the
+“third option” is true, then a higher beneﬁt from pro-
+motion will tend to occur with a lower likelihood of
+promotion, increasing the pool of employees that are
+subjected to this negative shock. Thus, we have the
+following:
+Hypothesis 2. Controlling for NPV, jobs with higher
+beneﬁt of promotion will have higher turnover.
+Our ﬁrst two hypotheses assume implicitly that
+the only things that differentiate jobs are objective
+measures like NPV, Likelihood of Promotion, Beneﬁt
+from Promotion, and Current Wages, but this obvi-
+ously oversimpliﬁes the problem. Some jobs are asso-
+ciated with lower commitment to the ﬁrm than others
+(George and Bettenhausen 1990), which has impor-
+tant implications for turnover. It turns out that many
+IT jobs involve boundary-spanning activities that
+increase stress (Kahn et al. 1964) and decrease job
+satisfaction and organizational commitment (Baroudi
+1985, Guimaraes and Igbaria 1992) relative to other
+jobs.3 Hence, we expect boundary-spanning activi-
+ties to be signiﬁcant drivers of employees’ commit-
+ment to the ﬁrm. Ceteris paribus such activities would
+tend to increase turnover because on average these
+employees are less attached to their current employer,
+as stated in Hypothesis 3A and illustrated by how
+the solid curve (turnover rate for boundary-spanning
+jobs) is higher than the dashed curve (turnover rate
+for non-boundary-spanning jobs) in Figure 1.
+3 The decrease in commitment might be due to the nature of the
+job making the employee more willing to leave, the boundary-
+spanning itself creating contacts that allow the employee to ﬁnd job
+alternatives more easily, or some combination of the two. Once a
+job is designed to be boundary spanning, these commitment effects
+are largely outside the ﬁrm’s control.
+Figure 1
+Effects of Boundary Spanning upon Turnover
+Fraction of nonpromoted employees
+leaving the firm (%)
+100
+80
+60
+40
+20
+15
+30
+45
+60
+75
+Benefit from promotion (wage per hour) ($)
+Boundary-spanning job
+Non-boundary-spanning job
+Notes. Curve represents the cumulative fraction of nonpromoted employees
+who leave the ﬁrm for different levels of Beneﬁt from Promotion. The solid
+curve represents boundary-spanning jobs, and the dashed curve represents
+non-boundary-spanning jobs. The numbers used in this ﬁgure are for illus-
+tration only.
+In addition to having lower commitment on aver-
+age, we expect that employees in boundary-spanning
+jobs will also exhibit greater turnover because of
+higher variance in their level of commitment than
+those in nonspanning jobs. Their variance is higher
+because employees in boundary-spanning IT jobs are
+subject to all of the factors that affect organizational
+commitment of IT employees and in addition are het-
+erogeneous in (1) their tolerance for type of stress
+induced by boundary-spanning activities and (2) their
+valuation of the power that can be derived from a
+boundary-spanning role (Kahn et al. 1964, Tushman
+and Scanlan 1981). So long as turnover is less than
+50%, higher variance means that employees with
+below-average commitment are more likely to fall
+below the threshold for actually leaving, as illustrated
+in Figure 2. Recording the fraction below the thresh-
+old for many values of Beneﬁt from Promotion yields
+the original Figure 1, and note that the solid curve has
+a higher slope in the lower left of Figure 1 indicat-
+ing that the outcome (turnover rate) is more sensitive
+to small changes in the variable (Beneﬁt from Promo-
+tion). Since turnover rates for IT jobs are high but
+signiﬁcantly less than 50%, we expect that the higher
+variance in commitment will cause small changes in
+Beneﬁt from Promotion to have larger effects on them
+as stated in Hypothesis 3B.4
+4 On the other hand, if these employees operate with minimal com-
+mitment to the ﬁrm then their likelihood of leaving could be “sat-
+urated,” and they would be less sensitive to differences in Beneﬁt
+from Promotion as in the upper right part of Figure 1. The symptoms
+of extremely low commitment (pervasive shirking, absenteeism,
+turnover, etc.) would prompt management to redesign the job, so
+“saturation” is unlikely to be a long-run feature of any job in the
+ladder.
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+652
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+Figure 2
+Variance in Commitment
+–4
+–2
+0
+2
+4
+Remain
+Leave
+Boundary-spanning job
+Non-boundary-spanning job
+Notes. These distributions have the same mean and support, but the solid
+one has greater variance. Only 2.5% of the dashed distribution falls below
+the threshold to leave the ﬁrm (thin vertical line), but 5% of the solid distri-
+bution falls below the same threshold. The numbers used in this ﬁgure are
+for illustration only.
+Hypothesis 3A. On average, jobs characterized by
+boundary-spanning activities will have higher turnover
+than other jobs.
+Hypothesis 3B. The turnover effect of beneﬁts from
+promotions identiﬁed in Hypothesis 2 will be greater in jobs
+characterized by boundary-spanning activities compared to
+jobs that are not.
+To test that our hypotheses describe economically
+signiﬁcant factors, we perform a series of empirical
+tests in the next section.
+3.
+Empirical Investigation
+The focal ﬁrm in our study is a large multinational
+outsourcing, systems integration and consulting ﬁrm.
+It provides application managed services, IT con-
+sulting services, and numerous software solutions.
+The ﬁrm is headquartered in North America with
+ofﬁces in over 100 cities across four continents. They
+have over 30,000 employees. For this study, we based
+all employee-level analysis on the ﬁrm’s administra-
+tive records to preserve the information asymmetries
+present in the workplace and prevent a Hawthorne
+Effect.5 As a fortunate side effect, this eases replica-
+tion of the results across ﬁrms since most ﬁrms keep
+similar records.
+Our primary data source is the ﬁrm’s human re-
+sources records, which includes demographic infor-
+mation and date of hire for each employee. We also
+observe time-varying job titles, base salaries, and
+scheduled hours for each employee. We supplement
+this data with information from timecards that allow
+us to observe exits from the ﬁrm. These observations
+5 Polling employees weekly about their intent to leave the company
+might affect their decision processes.
+Table 1
+Summary Statistics of Job-Week Variables (N = 31252)
+Variable
+Mean
+Std. dev.
+Min.
+Max.
+Wage per hour ( ¯w)
+10000
+00493
+00115
+20674
+Fraction part-time (%)
+20699
+120511
+00000
+1000000
+Turnover rate
+00224
+20494
+00000
+1000000
+per week (%)
+Likelihood of
+10568
+20913
+00051
+20000
+promotiona (%)
+Beneﬁt from
+00307
+00218
+1.906×10−5
+10404
+promotion ( ¯w)
+Job type dummy:
+00223
+00416
+0
+1
+Clerical
+Job type dummy :
+00138
+00345
+0
+1
+CSR
+Job type dummy:
+00144
+00351
+0
+1
+Developer
+Job type dummy:
+00319
+00466
+0
+1
+Consultant
+Job type dummy:
+00176
+00381
+0
+1
+Manager
+aWithin the next quarter. This variable is constant for a job across the entire
+time period, because the average promotion rate is the best proxy available
+for what the optimal promotion rate would be absent managers’ endogenous
+attempts to retain speciﬁc employees.
+cover 5,704 individual knowledge workers in 28 jobs
+ranging from customer service representatives to vice
+presidents over a ﬁve-year period from February 2005
+to April 2010. Our data set does not include all of the
+ﬁrm’s employees, but it does have full coverage of the
+employees for several business units.
+We aggregate these data into 3,252 job-week obser-
+vations using simple means (each person-week obser-
+vation in the same job is averaged with equal
+weights). Summary statistics for these variables are
+presented in Table 1. There are two variables however,
+Wage per Hour and Beneﬁt from Promotion, that require
+further explanation. Wage per Hour is converted from
+the local currency into nominal U.S. dollars based on
+the exchange rate recorded for Friday of that week,
+and to maintain privacy we report wages in units of
+the mean wage ¯W. Ideally our wage measure should
+also account for the cost of effort and nonpecuniary
+beneﬁts in each job. The proxies for effort in our data
+(hours worked and absenteeism) are consistent across
+jobs, so the cost of effort falls out of the equation.6 We
+do not attempt to monetize the nonpecuniary beneﬁts
+of the jobs within our data set, instead using categor-
+ical variables for job types explained in Table 2.
+Operationalizing Beneﬁt from Promotion is some-
+what complex. We begin with a transition matrix of
+observed job changes within the ﬁrm in Table 3, in
+6 This consistency is almost certainly an artifact of data collection
+(for example, we have anecdotal evidence that managers partici-
+pate in international conference calls late at night without billing
+that time), but unobserved higher cost of effort in higher jobs would
+bias against us ﬁnding results.
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+653
+which we use observed transitions to deﬁne hierar-
+chical levels rather than job titles or pay ranges (Baker
+et al. 1994). These levels are indicated on the matrix
+by a heavy box surrounding cells in the same hier-
+archical level, and shaded cells represent a move up
+one level. The matrix’s row headings represent the
+job an employee performs at the start of a quarter
+(with job titles disguised to maintain conﬁdentiality),
+and column headings represent jobs at the start of the
+next quarter. The number in each cell is the percent-
+age of employees who started the quarter in the row’s
+job who transitioned to the column’s job. For every
+job, the most common outcome is to remain in the
+same job. The [Entry] row represents new hires dur-
+ing the sample period, while the [Exit] column repre-
+sents separations from the ﬁrm. Using this matrix, we
+calculate the NPV of wages associated with occupy-
+ing a job by incorporating the likelihood of promotion
+in the near future.7
+Next, for jobs below the top level (level 8), we
+identify the “goal” for each job as the most com-
+mon promotion earned by employees in that job.8
+For example, the goal for a “Consultant 4a” is to
+become a “Consultant 5a.” Finally, we deﬁne Beneﬁt
+from Promotion as the NPV of the goal job minus the
+NPV of the current job. This variable is measured in
+dollars per hour and is one of the key variables of
+interest in our hypotheses.
+We also coded the job titles in Table 2 according
+to the relative level of boundary-spanning activities
+in each job. Note that the sufﬁxes in Table 3 do not
+indicate within-level steps on the job ladder, so each
+category in Table 3 represents a number of distinct
+jobs.
+Although we wish to study effects at the job level to
+inform job ladder design, we must ﬁrst validate that
+our variables of interest actually inﬂuence employee
+behavior. Table 4 shows that employees facing higher
+Likelihood of Promotion or lower Beneﬁt from Promotion
+are less likely to leave the ﬁrm in a given week.
+We use a Tobit estimator for our main empirical
+model to test our hypotheses because the dependent
+variable is limited (it cannot be below 0% nor above
+100%) and ordinary least squares regression is biased
+whenever a signiﬁcant number of observations are at
+the limits (which is the case with our data). The Tobit
+estimator is able to handle these limit cases if the
+7 Employees are generally considered for promotion once per year
+during annual performance appraisals. We do not leverage the
+expectation of annual appraisals because there is not enough infor-
+mation in the data to infer everyone’s appraisal schedule, and we
+do observe out-of-cycle job changes.
+8 Data on level 8 employees determine the promotion opportunities
+for level 7 employees, but we cannot measure the incentives facing
+the level 8 employees themselves. Therefore, vice presidents are
+excluded from the analysis.
+Table 2
+Job Types in the Focal Firm
+Job type
+Brief description
+Clerical
+Non-IT jobs in the IT hierarchy:
+secretary, underwriter, etc.
+Consultant
+High-skill IT jobs that are customer
+facing: business analyst, team
+leader, etc.
+Customer service representative
+Low-skill IT jobs that are customer
+facing: Help desk, sales support,
+etc.
+Developer
+IT jobs that are not customer facing
+and thus less boundary spanning
+than typical IT jobs: database
+administrator, programmer, etc.
+Manager
+Managerial jobs that routinely interact
+with IT personnel (either as direct
+superiors or as the superiors of
+clerical employees): director of
+consulting, technical manager, etc.
+Subcontractor
+These jobs are excluded from our
+analysis because their job title
+never changes. They do not appear
+in Table 3.
+data meet certain assumptions, which we are able to
+accommodate. Our empirical speciﬁcation is
+turnover∗
+j1t
+= 0 + 1promoBenenﬁtj1t + 2promoLikelihoodj1t
++ 3NPVj1t + 4partTimej1t +
+4X
+k=1
+kjobTypek1j
++
+4X
+k=1
+k4promoBenenﬁtj1t × jobTypek1j5 + j1t1
+(1)
+where
+turnoverj1t = min611max401turnover∗
+j1t571
+(2)
+and the promoBeneﬁtj1t variable is mean centered so
+that it can be interacted with other variables with-
+out biasing the results. We calculate our monetary
+variables using three regimes: without discounting,
+with adjustments for a ﬁxed discount factor, and with
+adjustments for inﬂation.
+The dummy variable jobTypek1j is one if job j
+is in category k and zero otherwise (k = 0 repre-
+sents the excluded category, Clerical). The variable
+turnover∗
+j1t
+represents intended or latent turnover
+while turnoverj1t represents observed turnover (which
+cannot be below 0% nor above 100%). The NPV of
+occupying the job and the fraction of employees in
+each job who work part-time are included as control
+variables.
+Our empirical results for the above model are
+presented in Table 5 using nominal dollars and
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+654
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+Table 3
+Job Transition Matrix
+Total
+[Entry]
+Manager 8e
+Manager 8d
+Manager 8c
+Manager 8b
+Manager 8a
+Manager 7c
+Manager 7b
+Manager 7a
+Consultant 7
+Manager 6b
+Manager 6a
+Consultant 6
+Consultant 5b
+Consultant 5a
+Developer 5
+Consultant 4b
+Consultant 4a
+Developer 4
+Clerical 3e
+Clerical 3d
+Clerical 3c
+Clerical 3b
+Clerical 3a
+CSR 2c
+CSR 2b
+CSR 2a
+Clerical 2
+CSR 1
+0.09
+0.20
+0.01
+71.43
+CSR 1
+0.14
+0.27
+78.26
+Clerical 2
+0.3
+0.58
+0.01
+0.29
+3.03
+16.67
+66.67
+2.38
+CSR 2a
+0.01
+0.02
+66.67
+0.71
+CSR 2b
+0.07
+0.13
+75.76
+2.38
+CSR 2c
+0.19
+0.31
+1.04
+79.12
+1.45
+Clerical 3a
+0.20
+0.20
+85.42
+2.2
+1.45
+Clerical 3b
+0.11
+0.20
+0.02
+72.22
+Clerical 3c
+0.01
+0.02
+80.00
+Clerical 3d
+0.13
+0.13
+0.03
+78.13
+1.10
+16.67
+Clerical 3e
+7.23
+8.89
+0.02
+0.06
+0.05
+85.23
+3.13
+6.06
+0.71
+Developer 4
+34.44
+45.76
+0.02
+0.06
+0.21
+84.18
+0.94
+3.13
+20.00
+3.70
+2.20
+3.03
+2.13
+2.38
+Consultant 4a
+1.02
+1.11
+0.07
+0.49
+79.96
+0.09
+0.15
+Consultant 4b
+3.43
+3.54
+0.05
+0.05
+84.62
+0.41
+0.02
+1.17
+1.85
+Developer 5
+27.34
+26.73
+0.16
+0.07
+86.55
+2.04
+1.24
+1.34
+0.09
+3.70
+1.04
+Consultant 5a
+2.95
+1.91
+2.67
+0.47
+0.11
+88.51
+0.29
+0.12
+0.21
+0.01
+Consultant 5b
+1.96
+2.05
+0.25
+0.70
+0.05
+84.81
+0.65
+0.06
+Consultant 6
+4.09
+3.42
+0.31
+86.14
+0.43
+1.08
+0.3
+0.31
+1.86
+0.02
+1.85
+Manager 6a
+0.16
+0.17
+85.33
+0.05
+0.01
+Manager 6b
+0.06
+0.05
+0.25
+79.31
+0.22
+Consultant 7
+2.72
+2.84
+0.51
+84.88
+0.83
+1.08
+0.08
+0.01
+Manager 7a
+0.83
+0.98
+1.47
+81.93
+0.93
+0.10
+0.22
+Manager 7b
+0.03
+0.03
+68.75
+0.25
+0.08
+0.01
+Manager 7c
+0.14
+0.17
+77.94
+0.25
+0.16
+10.34
+Manager 8a
+0.13
+0.25
+76.92
+1.47
+Manager 8b
+0.01
+75.00
+1.54
+Manager 8c
+0.01
+0.02
+50.00
+0.08
+Manager 8d
+0.01
+0.02
+71.43
+25.00
+Manager 8e
+12.16
+28.57
+25.00
+25.00
+21.54
+19.12
+31.25
+16.54
+12.87
+10.34
+12.00
+12.16
+13.15
+9.69
+12.55
+12.29
+16.12
+14.22
+12.13
+15.63
+16.67
+12.50
+15.38
+12.12
+29.79
+18.84
+21.43
+[Exit]
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+655
+Table 4
+Estimation Results for Individual Turnover (N = 4041015)
+Panel logistic regression
+(population average)
+Dependent variable
+Exit during focal week
+Observation
+Person-week
+Likelihood of promotion
+−2780045∗∗
+413807455
+Beneﬁt from promotion
+00037∗∗∗
+4000055
+NPV
+−00014∗∗
+4000055
+Part-time employee
+00629∗∗∗
+4002075
+Female
+00324∗∗∗
+4000775
+Age at hire (years)
+−00013∗∗∗
+4000045
+Tenure in ﬁrm (years)
+−00115∗∗∗
+4000125
+Tenure in current job (years)
+00088∗∗∗
+4000135
+Intercept
+−40740∗∗∗
+4002945
+Note. Standard errors are in parentheses.
+∗∗p < 0005; ∗∗∗p < 0001.
+Table 6 deﬂated to December 2006 dollars.9 Using raw
+fractions as our turnover measure did not meet the
+normality assumptions of the Tobit estimator, so our
+model uses a logit transform of the same fraction as
+the dependent variable, and in this speciﬁcation the
+normality assumption is satisﬁed. The coefﬁcients in
+these tables are analogous to the coefﬁcients of a bino-
+mial logit estimator in that they estimate how our
+variables of interest change the probability of observ-
+ing an exit for a randomly chosen individual in that
+job.10
+Although the “Fisher effect” postulates that ex-
+change rates account for differences in inﬂation in
+expectation, in practice the response is slow (Mishkin
+1992) and therefore the use of inﬂation-adjusted dol-
+lars introduces considerable instability into the esti-
+mates. Therefore, Table 5 is our preferred speciﬁcation
+despite Table 6’s higher R2 scores. Those higher R2
+scores do, however, indicate that employees seem to
+rationally anticipate the effects of inﬂation.
+In Table 5, Model (a) includes Likelihood of Pro-
+motion plus controls, Model (b) includes Beneﬁt from
+Promotion plus the same controls, and Model (c)
+adds interaction terms between mean-centered Bene-
+ﬁt and the job categories. For the speciﬁcation shown
+in Table 5, tests for multicollinearity showed that
+9 We omit the results using a ﬁxed discount rate because they have
+very similar coefﬁcients and precisely the same pseudo-R2 scores as
+Table 5.
+10 “Randomly chosen” is critical here. Assuming that this aggregate
+probability of exit applies to any speciﬁc individual would be an
+ecological fallacy.
+the highest variance inﬂation factors for our mod-
+els are 4.01, 2.85, and 8.76, respectively, which are
+lower than the traditional limit of 10. Since estima-
+tion errors of the same job may be correlated over
+different weeks, we also employed alternate speciﬁ-
+cations using panel estimators at the job level in the
+online appendix (available as supplemental material
+at http://dx.doi.org/10.1287/isre.2016.0652).
+We test Hypothesis 1 using the variable Likelihood of
+Promotion in Table 5. A higher expected Likelihood of
+Promotion is associated with lower Turnover. Model (a)
+shows that at the mean turnover rate, a one standard
+deviation increase in Likelihood of Promotion could vir-
+tually eliminate Turnover by reducing it to (10676 ×
+10−45%.11 This supports Hypothesis 1.
+In Table 5’s Model (b), a higher Beneﬁt is associated
+with higher Turnover. At the mean turnover rate of
+0.224% per week, a one standard deviation increase in
+Beneﬁt could more than quadruple Turnover to 0.936%,
+which is a statistically and economically signiﬁcant
+change. Therefore Hypothesis 2 is supported, and our
+focal ﬁrm’s behavior is consistent with our reasoning
+for the third option in Section 2.
+Next, Models (a) and (b) show partial support
+for Hypothesis 3A, in that the boundary-spanning
+jobs
+of
+Consultant
+and
+Manager
+have
+signiﬁ-
+cantly higher turnover than Clerical employees (the
+excluded group). This is only partial support because
+boundary-spanning
+Customer
+Service
+Representa-
+tives do not have higher turnover while the Develop-
+ers, whom we coded as not boundary spanning, do.
+Finally,
+we
+test
+Hypothesis
+3B
+in
+Model
+(c)
+using
+interaction
+terms;
+now
+it
+is
+evident
+that
+Beneﬁt has a signiﬁcantly increased effect on the
+boundary-spanning jobs of Consultant, Customer
+Service Representative, and Manager compared to
+the nonspanning jobs of Clerical and Developer.
+Although the main effect of Beneﬁt is negative, the sig-
+niﬁcant coefﬁcients on the interactions are larger than
+the main effect resulting in net positive inﬂuence for
+Beneﬁt on Turnover.
+Taken together, our results provide evidence that
+promotability, boundary-spanning activities, and per-
+sistent job alternatives have economically signiﬁ-
+cant impacts on the turnover of IT professionals.
+A higher likelihood of promotion is associated with
+lower turnover while a higher beneﬁt from pro-
+motion is associated with higher turnover. Both of
+these effects match our predictions, both are absent
+from classic tournament theory, yet both ﬁt with
+prior correlational studies of IT personnel turnover
+11 This value is lower than the lowest nonzero turnover rate in our
+data set. Of course, it is also very close to the many zeros we
+observe.
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+656
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+Table 5
+Estimation Results for Turnover (N = 31252)
+Model
+Model
+Model
+(a)
+(b)
+(c)
+Estimation method
+Tobit with robust standard errors
+Dependent variable
+Logit of turnover ratea
+Observation
+Job-week
+Likelihood of promotion
+−1680132∗∗∗
+44109115
+Beneﬁt from promotion
+00184∗∗∗
+−00296∗
+4000285
+4001765
+NPV
+−00175∗∗∗
+−00113∗∗∗
+−00151∗∗∗
+4000255
+4000175
+4000235
+Fraction part-time
+00212
+20907∗∗∗
+−00410
+4103405
+4103885
+4102775
+Job: Consultant (spanning)
+90135∗∗∗
+90353∗∗∗
+100279∗∗∗
+4008895
+4008405
+4100485
+Job: CSR (spanning)
+−00567
+00203
+−00025
+4104225
+4103925
+4108085
+Job: Developer (nonspanning)
+60102∗∗∗
+70055∗∗∗
+70029∗∗∗
+4008765
+4009125
+4101415
+Job: Manager (spanning)
+90663∗∗∗
+70528∗∗∗
+70429∗∗∗
+4101515
+4009765
+4103955
+Beneﬁt × Consultant (spanning)
+00322∗
+4001815
+Beneﬁt × CSR (spanning)
+00901∗∗
+4004395
+Beneﬁt × Developer (nonspanning)
+−00138∗∗
+4002275
+Beneﬁt × Manager (spanning)
+00636∗∗∗
+4001815
+Intercept
+−140533∗∗∗
+−190768∗∗∗
+−170248∗∗∗
+4100515
+4100575
+4101385
+Pseudo-R2
+00086
+00084
+00102
+Notes. Standard errors are in parentheses. Excluded category for Job is Clerical (Nonspanning).
+aThe lower limit is −8, indicating no exits for that role-week. The lowest nonlimit result is −70579.
+∗p < 0010; ∗∗p < 0005; ∗∗∗p < 0001.
+(Mourmant 2009). Additionally, IT jobs character-
+ized by boundary-spanning activities exhibit higher
+turnover and are even more sensitive to the turnover-
+inducing effects of beneﬁt from promotion.
+However, the Beneﬁt-related coefﬁcients we observe
+could be caused by an alternate mechanism: if the
+employees who exit the ﬁrm happen to be those earn-
+ing the highest wages in their respective jobs (per-
+haps because the job alternatives are easier to obtain
+for such employees), such exits would pull down the
+average wage for the focal job without affecting the
+average wage of the goal job, and artiﬁcially increase
+the observed Beneﬁt. Yet we can exclude this possi-
+bility for two reasons. First, examination of the data
+reveals that the 12% of employees exiting the ﬁrm
+each year tend to earn wages in the 40th to 50th
+percentile for their jobs at the focal ﬁrm. Second,
+we designed our NPV variable to include the exiting
+employee’s wages in the average wage to better rep-
+resent the Beneﬁt facing the employees in that job.
+Another potential concern for our results’ validity
+is endogeneity of a sort that managers intentionally
+promote employees that they believe are most likely
+to leave the ﬁrm (using signals unobserved by the
+researchers). This could be serious because we do not
+have access to a good instrument for which employees
+should be promoted absent their managers’ discretion.
+The best proxy available is the average promotion rate
+for that job over the entire sample period, which is the
+control we use. If we insufﬁciently control for man-
+agers’ preferential promoting, the effect would be to
+depress the turnover rate for nonpromoted employ-
+ees and bias against us ﬁnding results for Likelihood of
+Promotion or boundary spanning.
+4.
+Discussion and Conclusion
+We extend tournament theory with economically
+important job alternatives to explain the turnover
+behavior of IT professionals. In this section, we pro-
+vide a summary of our key ﬁndings, contributions
+to the literature, and managerial implications of our
+results.
+Our results show that the “promotability” construct
+from prior literature has two distinct components
+that impact turnover at the job level in a promo-
+tion tournament environment. First, the Likelihood of
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+657
+Table 6
+Inﬂation-Adjusted Estimation Results for Turnover (N = 31252)
+Model
+Model
+Model
+(d)
+(e)
+(f)
+Estimation method
+Tobit with robust standard errors
+Dependent variable
+Logit of turnover ratea
+Observation
+Job-week
+Likelihood of promotion
+−1980794∗∗∗
+44808645
+Real beneﬁt from promotion
+00166∗∗∗
+−630726∗
+4000315
+43605925
+Real NPV
+−00233∗∗∗
+−00150∗∗∗
+−00251∗∗∗
+4000285
+4000205
+4000425
+Fraction part-time
+−00522
+20404∗∗
+−10095
+4104265
+4101165
+4102865
+Job: Consultant (spanning)
+100015∗∗∗
+90853∗∗∗
+3130883
+4009215
+4008255
+442102605
+Job: CSR (spanning)
+−00811
+00048
+118500132∗∗
+4104255
+4103825
+475307705
+Job: Developer (nonspanning)
+60419∗∗∗
+70311∗∗∗
+−3570748
+4008705
+4008995
+451108275
+Job: Manager (spanning)
+110315∗∗∗
+80962∗∗∗
+115610039∗∗∗
+4102155
+4009845
+440002625
+Beneﬁt × Consultant (spanning)
+280668
+43909115
+Beneﬁt × CSR (spanning)
+1750477∗∗
+47105045
+Beneﬁt × Developer (nonspanning)
+−340677
+44804625
+Beneﬁt × Manager (spanning)
+1470067∗∗∗
+43708935
+Intercept
+−120958∗∗∗
+−180772∗∗∗
+−6870329∗
+4101155
+4100815
+438604805
+Pseudo-R2
+00100
+00089
+00114
+Notes. Standard errors are in parentheses. Excluded category for Job is Clerical (Nonspanning).
+aThe lower limit is −8, indicating no exits for that role-week. The lowest nonlimit result is −70579.
+∗p < 0010; ∗∗p < 0005; ∗∗∗p < 0001.
+Promotion in each period is an important driver of
+turnover because promoted employees are less likely
+to leave the ﬁrm, and obviously a higher Likelihood
+of Promotion puts more of the employees in the pro-
+moted group. Second, the Beneﬁt from Promotion is
+highly correlated with the negative shock experienced
+by employees who are not promoted,12 with larger
+shocks causing a larger fraction of the nonpromoted
+employees to leave the ﬁrm. Taken together, these
+results demonstrate why plateau-type jobs that offer
+a large but less likely path to promotion lead to con-
+sistently high turnover. It is important to note that
+the mechanisms we describe apply to any knowl-
+edge workers facing competitive promotions, but the
+high baseline turnover in the IT profession makes
+these mechanisms particularly salient because small
+changes can have economically important impacts for
+the ﬁrm.
+These
+mechanisms
+are
+even
+more
+salient
+for
+the subset of IT jobs that involve considerable
+12 For hyperrational Homo Economicus employees, they would be
+perfectly correlated.
+boundary-spanning activities. We ﬁnd partial sup-
+port for our hypothesis that these jobs have higher
+turnover on average, and we ﬁnd full support for our
+hypothesis that boundary-spanning IT employees are
+more sensitive to the Beneﬁt from Promotion effect. If
+small changes are important for IT jobs in general,
+even the smallest adjustment to boundary-spanning
+IT jobs can have an outsized impact.
+For example, consider the customer service repre-
+sentative jobs at level 2 of our focal ﬁrm’s hierarchy
+(see Table 3). The promotions for a CSR 2a or CSR 2c
+have large beneﬁts (to Developer 4 or Consultant 4a)
+but relatively low likelihood. The promotion for a
+CSR 2b is more modest (to Clerical 3e) but at a much
+higher likelihood. We hypothesized that the CSR 2b
+job would have a lower turnover rate than CSR 2a or
+CSR 2c, and it does.
+The intuition behind this result is as follows: just
+before they are appraised, each CSR’s NPV is a con-
+vex combination of the values of her current job and
+the one for which she is competing. Each also has
+access to a job alternative with its own NPV. The CSRs
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+658
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+that are promoted now have a higher NPV for remain-
+ing at the ﬁrm (namely, the NPV of the new job)
+and are less likely to leave for a job alternative. The
+CSRs who are not promoted now have a lower NPV
+(because they must wait another period for the next
+appraisal and promotion opportunity) and are more
+likely to leave the ﬁrm for a job alternative. Since the
+likelihood of promotion is higher and the beneﬁt of
+promotion is smaller for CSR 2b, this job has a smaller
+pool of high-risk employees and a smaller fraction of
+those employees leave the ﬁrm.
+This ﬁnding, which applies much more broadly
+than just customer service representatives, has impor-
+tant managerial implications for the design of the
+job ladder. It suggests that when high turnover is a
+problem, ﬁrms can trade off between increased com-
+pensation, promotion incentives, and turnover. The
+ﬁrm can buy organizational commitment by paying
+an information rent to the employees (due to their
+private knowledge of their organizational commit-
+ment),13 but this can lead to wage inﬂation. This work
+provides another way to lower turnover: by increas-
+ing the number of rungs on the job ladder. This
+is proﬁt improving so long as managers are careful
+to maintain enough promotion incentive to induce
+effort.
+Counterintuitively, we also ﬁnd that increasing
+the beneﬁt from promotion can increase turnover.
+This result is counterintuitive because one would
+expect higher beneﬁts to incentivize employees to
+stay at their current employer. This surprising result
+is, however, consistent with our hypotheses. We also
+predicted that IT jobs characterized by boundary-
+spanning activities would exhibit higher turnover.
+This result was partially supported by our empiri-
+cal analysis, in that most job categories satisﬁed the
+hypothesis’s prediction. We also predicted that such
+boundary spanning jobs would be even more sensi-
+tive to the turnover-inducing effects of beneﬁts from
+promotion. This result was fully supported by our
+empirical analysis.
+Prior literature has identiﬁed promotability as a
+crucial factor in IS turnover, and we contribute to
+this literature by examining jointly the likelihood of
+promotion and the beneﬁt of promotion. Prior ﬁnd-
+ings on the negative relationship between likelihood
+of promotion and turnover could have been driven by
+the increase in NPV that results from an increase in
+the likelihood of promotion. By considering the ben-
+eﬁt from promotion, we are able to disentangle the
+cause of this correlation and determine that it is not
+simply the result of paying IT professionals more.
+13 Although their analysis has no turnover in equilibrium, Lazear
+and Rosen (1981) state that an off-equilibrium adjustment to raise
+wages is more efﬁcient at retaining/poaching employees than
+increasing the likelihood or beneﬁt of promotion.
+We also contribute to tournament theory by consid-
+ering economically important job alternatives for the
+employees. IT professionals are an ideal population
+to demonstrate the importance of the job alternative’s
+impact on tournament theory because IT profession-
+als have persistent outside employment opportunities
+in a wide variety of economic conditions.
+Since the incentives of a classic tournament affect
+not only effort decisions but also turnover, it is impor-
+tant for researchers applying tournament theory in
+future studies to account for the job alternatives when
+it is an economically signiﬁcant factor for an indus-
+try (such as it is for IT professionals). Furthermore,
+for researchers studying turnover, it is important to
+take into account the various dimensions of a job’s
+NPV identiﬁed by tournament theory when design-
+ing surveys or gathering administrative data. That is,
+while a single “promotability” survey item captures
+an important facet of promotion incentives, a richer
+set of items can capture the multidimensional impacts
+of internal promotion opportunities upon turnover.
+Our results also have important implications for
+managers. Job ladders can be designed in a way that
+trades off incentive effects and turnover. Managers
+can accomplish this by increasing the likelihood of
+promotion at each appraisal (and balancing this with
+a lower beneﬁt from the promotion to contain the
+overall wage cost). This can be accomplished either
+through marginal adjustments to existing jobs or by
+inserting new levels into the job ladder. Importantly,
+since boundary-spanning activities make IT profes-
+sionals particularly sensitive to these types of shocks,
+even small changes can have economically signiﬁcant
+impacts on turnover. Our study provides guidance on
+the constraints facing a manager designing (or alter-
+ing) a job ladder for IT professionals.
+On the other hand, if a ﬁrm wishes to decrease
+turnover without muting promotion incentives then
+it has the option to increase its compensation to its
+employees. This is consistent with SAS Institute’s
+retention strategy of spending $6,000 to $8,000 per
+employee on perks to prevent $50 to $70 million
+of replacement costs (Harvard Business School 2002,
+pp. 80–81) and with the use of costly “industrial” in-
+ternal labor market strategies to retain employees that
+would be expensive or disruptive to replace (Ang and
+Slaughter 2004). We believe that even a ﬁrm that is
+buying commitment from its employees (Spence 1973)
+can take advantage of our results to trade off a small
+effect on incentives to save a considerable amount of
+compensation.
+Classic tournament theory’s guidance to managers
+is to motivate employees by increasing the differ-
+ence in present values between winning and not
+winning a promotion. Since classic tournament the-
+ory abstracts away turnover, the guidance may lead
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+659
+to some steps of the job ladder with high beneﬁts
+from promotion and low likelihood of promotion.
+We show that this combination increases turnover.
+One method for avoiding high-beneﬁt/low-likelihood
+steps is to increase the number of rungs in the job lad-
+der (without materially affecting the overall wage bill
+or the top and bottom wage levels) so that employees
+face smaller promotions with higher probabilities of
+attaining them.
+Our study has limitations that researchers and man-
+agers may need to consider. First, we infer turnover
+from a premature exit from our panel data set,
+although such an exit may represent merely a trans-
+fer to a different line of work (e.g., a CSR 3 moving
+to sales). Such events create similar replacement costs
+for the focal business unit, but may reduce replace-
+ment costs or time-to-proﬁciency at the hiring busi-
+ness unit. Second, we cannot distinguish voluntary
+turnover from involuntary turnover, although from
+conversations with managers at the focal ﬁrm, it is
+apparent that ﬁrings are rare and there were no lay-
+offs during the sample period. Voluntary and invol-
+untary turnover impose similar replacement costs, but
+our results and guidance apply only to voluntary
+turnover. Third, some of the retention actions taken
+by the ﬁrm may trigger reactions from other ﬁrms.
+Fourth, the framework we test is an extension of tour-
+nament theory and is applicable only when tourna-
+ment theory itself is applicable (costly or infeasible
+to observe individual effort or productivity, and an
+expectation that a signiﬁcant number of employees
+will not be promoted in each period).
+Future work in this area may include deriving
+the labor market equilibrium, which should demon-
+strate whether broad adoption of our recommenda-
+tions would decrease overall competition (and thus
+excessive turnover) in the IT labor market. Future
+work might also examine the incentive effects of orga-
+nizational changes, such as the introduction of off-
+shoring. Another opportunity for future research is
+to test our framework on a data set spanning multi-
+ple ﬁrms. Finally, future work can incorporate human
+capital and the signaling role of promotions to more
+fully capture the multiple channels through which a
+job ladder affects employees’ incentives to leave a
+ﬁrm.
+While many ﬁrms struggle with annual IT turnover
+rates of 24% or higher, managers have the option
+to increase pay and beneﬁts to achieve SAS’s rate
+of 6% or adjust the job ladder to lower turnover
+with a trade-off between promotion incentives and
+replacement costs. The guidance in this paper helps
+managers make the right decision for their speciﬁc
+combination of IT needs and industry characteristics.
+Supplemental Material
+Supplemental material to this paper is available at http://dx
+.doi.org/10.1287/isre.2016.0652.
+Acknowledgments
+The authors thank the editors and reviewers for helpful
+feedback that improved this work greatly. The authors also
+wish to thank David Fitoussi, Kenneth Kraemer, and the
+participants of the Workshop on Information Systems and
+Economics for their input. This research was funded in part
+by the National Science Foundation [Grant SES-0527180].
+References
+Ang S, Slaughter S (2004) Turnover of information technology pro-
+fessionals: The effects of internal labor market strategies. DATA
+BASE Adv. Inform. Systems 35(3):11–27.
+Baker G, Gibbs M, Holmström B (1994) The internal economics
+of the ﬁrm: Evidence from personnel data. Quart. J. Econom.
+109(4):881–919.
+Baroudi J (1985) The impact of role variables on IS personnel work
+attitudes and intentions. MIS Quart. 9(4):341–356.
+Baroudi J, Igbaria M (1994) An examination of gender effects on
+career success of information systems employees. J. Manage-
+ment Inform. Systems 11(3):181–201.
+Bernhardt D (1995) Strategic promotion and compensation. Rev.
+Econom. Stud. 62(2):315–339.
+Bloom M, Michel J (2002) The relationships among organizational
+context, pay dispersion, and managerial turnover. Acad. Man-
+agement J. 45(1):33–42.
+Bluedorn A (1982) A uniﬁed model of turnover from organizations.
+Human Relations 35(2):135–153.
+Cappelli P (2000) A market-driven approach to retaining talent.
+Harvard Bus. Rev. 78(1):103–111.
+Computerworld (2015) “100 Best Places to Work in IT 2015”.
+(June 22), http://www.computerworld.com/bestplaces/2015.
+Cotton J, Tuttle J (1986) Employee turnover: A meta-analysis and
+review with implications for research. Acad. Management Rev.
+11(1):55–70.
+Duncan G (1976) Earnings functions and nonpecuniary beneﬁts.
+J. Human Resources 11(4):462–483.
+Gallivan M, Truex D, Kvasny L (2002) An analysis of the chang-
+ing demand patterns for information technology professionals.
+Proc. 2002 ACM SIGCPR Conf. Comput. Personnel Res. (ACM,
+New York), 1–13.
+George J, Bettenhausen K (1990) Understanding prosocial behavior,
+sales performance, and turnover: A group-level analysis in a
+service context. J. Appl. Psych. 75(6):698–709.
+Gibbons R, Murphy K (1992) Optimal incentive contracts in the
+presence of career concerns: Theory and evidence. J. Political
+Econom. 100(3):468–505.
+Gibbons R, Waldman M (1999) A theory of wage and promotion
+dynamics inside ﬁrms. Quart. J. Econom. 114(4):1321–1358.
+Guimaraes T, Igbaria M (1992) Determinants of turnover inten-
+tions: Comparing IC and IS personnel. Inform. Systems Res. 3(3):
+273–303.
+Harvard Business School (2002) Hiring and Keeping the Best People
+(Harvard Business School Press, Boston).
+Igbaria M, Greenhaus J (1992) Determinants of MIS employees’
+turnover intentions: A structural equation model. Comm. ACM
+35(2):34–49.
+Igbaria M, Siegel S (1992) The reasons for turnover of information
+systems personnel. Inform. Management 23(6):321–330.
+Jiang J, Klein G (2002) A discrepancy model of information sys-
+tem personnel turnover. J. Management Inform. Systems 19(2):
+249–272.
+Johnston M, Griffeth R, Burton S, Carson P (1993) An exploratory
+investigation into the relationships between promotion and
+MacCrory, Choudhary, and Pinsonneault: Designing Promotion Ladders
+660
+Information Systems Research 27(3), pp. 648–660, © 2016 INFORMS
+turnover: A quasi-experimental longitudinal study. J. Manage-
+ment 19(1):33–49.
+Joseph D, Ng K, Koh C, Ang S (2007) Turnover of information tech-
+nology professionals: A narrative review, meta-analytic struc-
+tural equation modeling, and model development. MIS Quart.
+31(3):547–577.
+Kahn R, Wolfe D, Quinn R, Snoek J, Rosenthal R (1964) Organiza-
+tional Stress: Studies in Role Conﬂict and Ambiguity (John Wiley
+& Sons, New York).
+Lazear E, Rosen S (1981) Rank-order tournaments as optimum labor
+contracts. J. Political Econom. 89(5):841–864.
+Lee T, Mitchell T, Holtom B, McDaniel L, Hill J (1999) The unfold-
+ing model of voluntary turnover: A replication and extension.
+Acad. Management J. 42(4):450–462.
+Lerner J, Tirole J (2002) Some simple economics of open source.
+J. Indust. Econom. 50(2):197–234.
+Meyer J, Stanley D, Herscovitch L, Topolnytsky L (2002) Affective,
+continuance, and normative commitment to the organization:
+A meta-analysis of antecedents, correlates, and consequences.
+J. Vocational Behav. 61(1):20–52.
+Mishkin FS (1992) Is the Fisher effect for real?: A reexamination of
+the relationship between inﬂation and interest rates. J. Mone-
+tary Econom. 30(2):195–215.
+Mobley WH, Griffeth RW, Hand HH, Meglino BM (1979) Review
+and conceptual analysis of the employee turnover process.
+Psych. Bull. 86(3):493–522.
+Mourmant G (2009) A necessary clariﬁcation of the unfolding
+model of turnover. Proc. Special Interest Group on Management
+Inform. System’s 47th Annual Conf. Comput. Personnel Res. (ACM,
+New York), 143–151.
+Nalbantian H, Szostak A (2004) How Fleet Bank fought employee
+ﬂight. Harvard Bus. Rev. 82(4):116–122.
+Niederman F, Sumner M, Maertz C (2007) Testing and extending
+the unfolding model of voluntary turnover to IT professionals.
+Human Resource Management 46(3):331–347.
+Owan H (2004) Promotion, turnover, earnings, and ﬁrm-sponsored
+training. J. Labor Econom. 22(4):955–978.
+Paré G, Tremblay M (2007) The inﬂuence of high-involvement
+human resources practices, procedural justice, organizational
+commitment, and citizenship behaviors on information tech-
+nology professionals’ turnover intentions. Group Organ. Man-
+agement 32(3):326–357.
+Quan J, Cha H (2010) IT certiﬁcations, outsourcing and information
+systems personnel turnover. Inform. Tech. People 23(4):330–351.
+Roberts J, Hann I, Slaughter S (2006) Understanding the motiva-
+tions, participation, and performance of open source software
+developers: A longitudinal study of the Apache projects. Man-
+agement Sci. 52(7):984–999.
+Rosen S (1986) Prizes and incentives in elimination tournaments.
+Amer. Econom. Rev. 76(4):701–715.
+Spain W (1995) Adios! Computerworld 29(32):88.
+Spence M (1973) Job market signaling. Quart. J. Econom. 87(3):
+355–374.
+Tambe P, Hitt L (2014) Job hopping, information technology, and
+productivity growth. Management Sci. 60(2):338–355.
+Tushman M, Scanlan T (1981) Boundary spanning individuals:
+Their role in information transfer and their antecedents. Acad.
+Management J. 24(2):289–305.
+Waldman M (1984) Job assignments, signalling, and efﬁciency.
+RAND J. Econom. 15(2):255–267.
+CORRECTION
+In this article, "Designing Promotion Ladders to Mitigate Turnover of IT Professionals" by Frank MacCrory,
+Vidyanand Choudhary, and Alain Pinsonneault (ﬁrst published in Articles in Advance, September 1, 2016,
+Information Systems Research, DOI:10.1287/isre.2016.0652), the history line has been corrected.
+Copyright 2016, by INFORMS, all rights reserved. Copyright of Information Systems
+Research is the property of INFORMS: Institute for Operations Research and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.

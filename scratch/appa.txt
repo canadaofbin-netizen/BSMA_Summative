@@ -1,0 +1,30 @@
+Questionnaire  items
+IT  Soft  Skills  (Byrd  and  Turner  [10];  Lee  et  al.  [52])
+Interpersonal  Skills  (IS)
+IS1  Our  IT  staff  is  capable  of  teaching  others.
+IS2  Our  IT  staff  has  the  ability  to  plan,  organize,  and  lead  projects.
+IS3  Our  IT  staff  has  the  ability  to  plan  and  execute  work  in  a  collective  environment.
+IS4  Our  IT  staff  has  the  ability  to  accomplish  multiple  assignments.
+IS5  Our  IT  staff  works  well  in  cross-functional  teams  to  address  business  problems.
+IS6  Our  IT  staff  has  the  ability  to  work  cooperatively  in  a  project-team  environment.
+IS7  Our  IT  staff  has  the  ability  to  work  closely  with  users.
+IS8  Our  IT  staff  has  the  ability  to  write  clear,  concise,  and  effective  memos,  reports,  and  documentation.
+Technology  Management  Skills  (TSM)
+MS1  Our  IT  staff  is  knowledgeable  about  the  key  success  factors  that  must  be  present  if  our  organization  is  to  succeed.
+TMS2  Our  IT  staff  is  encouraged  to  learn  new  technologies  and  related  business  knowledge.
+TMS3  Our  IT  staff  closely  follows  trends  in  current  technologies.
+TMS4  Our  IT  staff  considers  IT  investments  as  long  term  and  consistent.
+TMS5  Our  IT  staff  is  willing  to  understand  and  employ  new  techniques.
+IT  Hard  Skills  (HS)  (Byrd  and  Turner  [10];  Lee  et  al.  [52])
+HS1  Our  IT  staff  is  skilled  in  multiple  programming  languages.
+HS2  Our  IT  staff  is  skilled  in  distributed  processing  or  distributed  computing.
+HS3  Our  IT  staff  is  skilled  in  network  management  and  maintenance.
+HS4  Our  IT  staff  is  skilled  in  developing  web-based  applications.
+HS5  Our  IT  staff  is  skilled  in  data  warehousing,  mining,  or  marts.
+Interﬁrm  Collaboration  (CO)  (Stank  et  al.  [85];  Kim  et  al.,  [46])
+CO1  Our  ﬁrm  and  its  major  supplier  coordinate  their  efforts  harmoniously.
+CO2  Our  ﬁrm  and  its  major  suppliers  of  various  departments  frequently  attend  cross-functional  meetings.
+CO3  Our  ﬁrm  and  its  major  supplier  meet  frequently  for  both  formal  and  informal  discussions  of  important  issues.
+CO4  Our  ﬁrm  benchmarks  best  practices/processes  and  shares  results  with  its  major  suppliers.
+CO5  Our  ﬁrm  has  supply-chain  arrangements  with  its  major  supplier  that  operate  under  principles  of  shared  risks  and  rewards.
+CO6  Our  ﬁrm  effectively  shares  o

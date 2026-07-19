@@ -1,0 +1,634 @@
+UvA-DARE is a service provided by the library of the University of Amsterdam (http s://dare.uva.nl)
+UvA-DARE (Digital Academic Repository)
+Talking engagement into being: A three-wave panel study linking boundary
+management preferences, work communication on social media, and employee
+engagement
+van Zoonen, W.; Banghart, S.
+DOI
+10.1093/jcmc/zmy014
+Publication date
+2018
+Document Version
+Final published version
+Published in
+Journal of Computer-Mediated Communication
+Link to publication
+Citation for published version (APA):
+van Zoonen, W., & Banghart, S. (2018). Talking engagement into being: A three-wave panel
+study linking boundary management preferences, work communication on social media, and
+employee engagement. Journal of Computer-Mediated Communication , 23(5), 278-293. 
+https://doi.org/10.1093/jcmc/zmy014
+General rights
+It is not permitted to download or to forward/distribute the text or part of it without the consent of the author(s)
+and/or copyright holder(s), other than for strictly personal, individual use, unless the work is under an open
+content license (like Creative Commons).
+Disclaimer/Complaints regulations
+If you believe that digital publication of certain material infringes any of your rights or (privacy) interests, please
+let the Library know, stating your reasons. In case of a legitimate complaint, the Library will make the material
+inaccessible and/or remove it from the website. Please Ask the Library: https://uba.uva.nl/en/contact, or a letter
+to: Library of the University of Amsterdam, Secretariat, P.O. Box 19185, 1000 GD Amsterdam, The Netherlands.
+You will be contacted as soon as possible.
+Download date:30 May 2026
+Journal of Computer-Mediated Communication
+Talking Engagement Into Being: A Three-Wave
+Panel Study Linking Boundary ManagementPreferences, Work Communication on SocialMedia, and Employee Engagement
+Ward van Zoonen and Scott Banghart
+The Amsterdam School of Communication Research (ASCoR), University of Amsterdam, Amsterdam,
+The Netherlands
+Widespread use of social media across work and non-work boundaries has heightened concerns
+about employee engagement in the contemporary workforce. This study examines how employees ’
+boundary management preferences in ﬂuence their work communication on social media, and
+how these factors impact their engagement. Results from three waves of survey data (N =361)
+demonstrate that work communication mediates the relationship between employee boundarypreferences and engagement, supporting the hypothesized causal structure over alternative mod-
+els. Overall, the ﬁndings contribute a novel perspective on employee engagement by showing that
+mediated work communication plays a central role in constructing engagement, rather thanmerely demonstrating it. We discuss how organizations can leverage this knowledge to address
+critical concerns about workplace (dis)engagement in the digital age.
+Keywords: Social Media, Technology Use, Employee Engagement, Boundary Management, Work
+Communication.
+doi:10.1093/jcmc/zmy014
+Along with the rise of publicly-available social media (e.g., Facebook and Twitter) and their penetration
+across private, professional, and public domains, communication scholars and organizational practi-
+tioners have devoted increasing attention to the workplace practices and attendant impacts associatedwith these technologies (
+boyd & Ellison, 2007 ;Leonardi, Huysman, & Stein ﬁeld, 2013 ). A particularly
+prevalent concern in the context of social media use in organizations is the multivalent involvement of
+these platforms in employees ’work and non-work lives ( Fieseler, Meckel, & Ranzini, 2015 ). Indeed,
+today ’s employees frequently use the same social platforms to communicate for and about their work,
+and to share personal content with friends and family members ( Ollier-Malaterre & Rothbard, 2015 ).
+The potential for 24/7 connectivity also enables employees to access these platforms both in and out-side the workplace, on and o ﬀthe clock, and through company-issued and personally-owned devices
+Corresponding author: Ward van Zoonen; e-mail: w.vanzoonen@uva.nl
+Editorial Record: First manuscript received on November 30, 2017. Revisions received on April 25, 2018. June 1, 2018.
+Final manuscript received on June 18, 2018. First published online on 18 July 2018.
+278 Journal of Computer-Mediated Communication 23(2018) 278 –293 © The Author(s) 2018. Published by Oxford University Press
+on behalf of International Communication Association. All rights reserved. For permissions, please e-mail: journals.permissions@oup.comDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+(Stohl, Etter, Banghart, & Woo, 2017 ). In turn, the heightened ﬂuidity and increasing visibility of com-
+munication that crosses multiple life domains have complicated the ability for employees to maintaindiscrete personal/professional boundaries, positioning active boundary management as a critical
+employment competency of the digital age (
+Banghart, Etter, & Stohl, 2018 ;van Zoonen, Verhoeven, &
+Vliegenthart, 2016 ).
+Concomitantly, broader societal shifts toward knowledge work in the information economy have
+been accompanied by growing interest in employee engagement —i.e., the degree to which organiza-
+tion members experience meaningful connections to their work, express enthusiasm about their job
+roles, and maintain commitments to high quality performance ( Bakker, Albrecht, & Leiter, 2011 ).
+Engagement has become a predominant buzzword in both scholarly and mainstream managementcircles, the focus of numerous professional associations and consulting initiatives, and a topic of wide-
+spread debate —particularly as industry surveys over the last decade routinely indicate low percentages
+of reported engagement among global employees (
+Crabtree, 2018 ). As one recent example, a report
+from the Gallup organization positions employee engagement as a global crisis based on the research
+ﬁrm’sﬁnding that merely 13% of employees are engaged with their work, worldwide ( Mann & Harter,
+2016 ).
+Discussions around social media dynamics in the workplace o ﬀer mixed interpretations around
+the potential role of these media in facilitating or impeding employee engagement. On the one hand,
+research has shown that social media use in organizations can enhance job performance ( Cao, Guo,
+Vogel, & Zhang, 2016 ) and increase employee morale and feelings of cultural belonging ( Leidner,
+Koch, & Gonzalez, 2010 ). On the other, some studies suggest that social media use in the workplace is
+counterproductive ( Andreassen, Torsheim, & Pallesen, 2014 ) and generates a host of boundary man-
+agement issues and tensions for employees ( Pike, Bateman, & Butler, 2013 ). While management voices
+concern about employees “cyberloa ﬁng”and “cyberslacking ”(i.e., wasting time and losing productiv-
+ity by using social media for personal matters while at work; Andreassen et al., 2014 ), employees con-
+template issues such as whether to accept friend requests from bosses and coworkers, and how to
+manage personal information and conversations that spill over from public online environments into
+the workplace ( Peluchette, Karl, & Fertig, 2013 ). Yet, even as recent communication scholarship speci-
+ﬁes a link between social media use and various forms of engagement (e.g., interpersonal, political,
+civic, etc.; Dijkmans, Kerkhof, Buyukcan-Tetik, & Beukeboom, 2015 ;Lovejoy & Saxton, 2012 ), the
+relationship between mediated work communication and employee engagement remains largely unex-amined and undertheorized.
+This study examines how employees ’preferences for managing boundaries (i.e., integrating vs.
+segmenting work/non-work elements online;
+Ollier-Malaterre & Rothbard, 2015 )i nﬂuence their work
+communication on social media, and how these factors impact their engagement. We de ﬁnework
+communication on social media as those communicative acts in which employees share information
+about their job tasks, organizations, occupations, and/or industries through publicly-available plat-forms (i.e., Facebook and Twitter rather than enterprise platforms such as Yammer or Slack;
+Leonardi
+et al., 2013 ;van Zoonen et al., 2016 ), typically through personal and individually-owned accounts.
+Examining the links between employees ’boundary preferences, work communication on social media,
+and engagement holds both theoretical and practical importance. Theoretically, our longitudinal
+investigation unpacks the role of mediated work communication in relation to boundary preferences
+and employee engagement, and in doing so, contributes a novel view of the communication –engage-
+ment relationship. Pragmatically, establishing causal priority in these relations helps to explicate some
+of the circumstances under which social media use may facilitate engagement for some employees,
+while diminishing engagement for others. We discuss how a clearer understanding of these relations
+279 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+can help organizations to better manage social media dynamics in the workplace and address critical
+concerns around employee (dis)engagement.
+Theoretical background and hypotheses
+This research is informed by work/non-work boundary theory ( Ashforth, Kreiner, & Fugate, 2000 ;
+Nippert-Eng, 1996 ) and recent theorizing linking social media use to various forms of engagement.
+The following sections explicate these theoretical connections and present a set of hypotheses regard-ing the anticipated links among employees ’preferences for managing work/non-work boundaries, the
+frequency of their work communication on social media, and their engagement with work.
+Boundary preferences and work communication on social media
+Boundaries are “physical, temporal, and cognitive limits that de ﬁne domains as separate from one
+another and de ﬁne components within domains ”(Kreiner, Hollensbe, & Sheep, 2006 , p. 1319).
+According to boundary theory ( Nippert-Eng, 1996 ), people construct boundaries to simplify their
+environments and di ﬀerentiate domains of life experience. To that end, individuals develop unique
+preferences for separating or integrating work/non-work elements, which in turn in ﬂuence the strate-
+gies they use to manage con ﬂicting demands between domains. Whereas segmentation preferences
+suggest a desire to maintain rigid and impermeable boundaries to keep elements of work and non-
+work domains separate (e.g., imposing restrictions on mediated work communication during o ﬀ-
+hours and/or outside of the workplace; Olson-Buchanan & Boswell, 2006 ), integration preferences are
+typically associated with more ﬂexible and permeable boundaries that enable people to blend elements
+from di ﬀerent social domains together (e.g., using personal devices to address work-related matters
+while at home; Bulger, Matthews, & Ho ﬀman, 2007 ).
+Given the omnipresence of new media in both social and organizational life, employees develop
+rules and preferences for communicating on these platforms across their personal/non-work, profes-sional/work, and public/political roles (
+Ollier-Malaterre & Rothbard, 2015 ). Indeed, social media are
+platforms through which employees enact boundary rigidity and permeability, and recent scholarship
+has linked employees ’boundary preferences to the choices they make around those with whom they
+connect, how they structure their social ties, and the kinds of information they share in mediated com-
+munication environments ( Marwick & boyd, 2011 ;van Zoonen et al., 2016 ). Building on this work,
+we argue that the frequency with which employees communicate for and about their work on socialmedia is directly related to their integration or segmentation preferences. In particular, we expect that
+individuals with integration preferences may be more inclined to engage in work communication
+through their personal social media accounts, thereby allowing their work and non-work lives to blendtogether online. At the same time, it is likely that employees with segmentation preferences may be
+less inclined to engage in work communication on personal social media accounts, as this would
+involve combining work/non-work identities, information, and audiences in an integrated onlineenvironment.
+H1: Employees ’preferences for integrating work/non-work domains will be associated with
+increases in work communication on social media.
+Work communication on social media and employee engagement
+Across management literature, scholars typically conceptualize engagement as an employee trait (i.e.,a stable characteristic associated with positive views of life and work) or a psychological state (i.e., a
+cognitive condition involving heightened energy, commitment, resilience, and e ﬀort at work), while
+280 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+paying minimal attention to the underlying communicative dynamics that shape engagement in the
+ﬁrst place ( Macey & Schneider, 2008 ;Schaufeli & Bakker, 2004 ). To wit, the prevailing assumption is
+that trait and/or state engagement precede desirable work behaviors such that increases in engagement
+lead to more positive employee and workplace outcomes. For example, when viewing engagement as a
+pre-existing cognitive state or trait, communication is typically conceptualized as a discretionary e ﬀort
+or contextual performance by employees ( Macey & Schneider, 2008 ), and social media are treated as
+instruments through which employees can express enthusiasm or demonstrate their positive a ﬀect
+toward work. Yet, there is limited empirical support for such causal prioritization.
+Missing from the literature is a perspective that acknowledges how employees construct and enact
+engagement through communicating for and about their work on social media —a constructive view
+of the communication –engagement relationship ( Fairhurst & Putnam, 2004 ,2014 ). Social media not
+only facilitate information-sharing about employees ’work engagement (i.e., with work-related com-
+munication representing engagement) but can also serve as a model for generating engagement in the
+ﬁrst place (i.e., sharing work-related messages serves to communicatively construct engagement).
+Contemporary scholars of engagement also specify that employees are not simply passive actors who
+let work and life happen to them, but rather are active agents who participate in constructing theirown work environments and engagement (
+Bakker et al., 2011 ). Along these lines, Bakker et al. (2011)
+propose that employees may attempt to conserve their engagement through behaviors such as jobcrafting (e.g., customizing work interactions to align with their goals) and point to the need for moreresearch on the speci ﬁc tactics employees use to maintain or increase engagement.
+From a constructivist communication perspective (
+Fairhurst & Putnam, 2004 ,2014 ), organiza-
+tional phenomena such as work-related social media use are not merely products of pre-existing states(e.g., engagement) or perpetually evolving patterns of organizing, but are grounded in action; that is,
+they are both processes and products of communicative practices. Building from these insights, we
+propose an alternative view of the communication –engagement relationship —a co-constructive
+perspective —in which work communication on social media both demonstrates engagement and plays
+a fundamental role in constructing it. In this conception, engagement is not simply a trait or state that
+leads employees to communicate about work online; it is also a process wherein communicating forand about work aids employees in talking their engagement into being. To that end, our second
+hypothesis is:
+H2: More frequent work communication on social media will be associated with heightened
+levels of employee engagement.
+Boundary management preferences and employee engagement
+As a last step in our model, we propose that the impact of employees ’boundary management prefer-
+ences on their engagement will be mediated, at least in part, by the frequency of their work communi-cation on social media. Existing studies have already demonstrated that boundary management
+preferences are related to engagement (
+Kossek, Lautsch, & Eaton, 2006 ) and that social technology use
+partially mediates the association between boundary preferences and engagement-relevant outcomessuch as psychological detachment at work (
+Park, Fritz, & Jex, 2011 ). By extension, it seems likely that
+employees ’preferences for integrating work/non-work domains might facilitate an attachment to
+work that underpins engagement, with work communication on social media further intensifying thatprocess. Hence, if employees use social media to enact their boundary preferences, work communica-
+tion on social media may partially mediate the association between employees ’preferences for inte-
+grating work/non-work domains and their engagement.
+281 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+H3: Work communication on social media will partially mediate the boundary management
+preferences and employee engagement relationship.
+Methods
+Procedure and participants
+Participants supplied data through a web-based survey administered by PanelClix1at three di ﬀerent
+times with 2.5 months between the measurement points. At time one (T1), we employed quota sam-pling to obtain the predetermined number of 1,008 respondents. A total of 7,000 Dutch employees
+received the questionnaire, but only the ﬁrst 1,008 respondents were allowed to participate in the
+study, after which the survey was closed. At time two (T2), 578 of the 1,008 employees completed thequestionnaire (a 42.7% drop-out percentage). At time three (T3), 361 of the 578 employees who com-
+pleted the questionnaire at T1 and T2 completed the questionnaire (a 37.5% drop-out percentage).
+Thus, 361 employees completed all three waves, meaning that 647 of the 1,008 respondents from T1did not participate at T2 or T3.
+Responses to standard demographic questions indicated that the majority of the participants
+(56%) were male. The participants were on average 47 years ( SD=11.06). In addition, the average
+employee in the ﬁnal sample held 14.89 years ( SD=11.98) of organizational tenure and reported an
+average work week of 36.72 hours ( SD=8.56). We also examined selective drop-outs through the
+comparison of the scores of participants who dropped out ( N=647) to the scores of those who com-
+pleted all three waves (i.e., the ﬁnal sample, N=361). This indicated that men were slightly overrepre-
+sented in the ﬁnal sample (56% of participants were male compared to 45% in the initial sample; χ
+2=
+12.23, p>.001) and that the average age was slightly higher among the ﬁnal sample ( M=47.00 SD=
+11.06) compared to that of the initial sample at T1 ( M=42.95, SD=11.52; t=−5.42, p<.001).
+We assessed causal homogeneity between the drop-out sample and the ﬁnal sample through
+cross-sectional multi-sample (i.e., drop-out versus survivor) structural equation analysis. In doing so,we examined whether the causal relationships were di ﬀerent for the drop-out group in comparison to
+the survivor group in the ﬁnal sample. The ﬁndings demonstrate that the e ﬀect of boundary prefer-
+ence on work communication on social media was somewhat larger in the ﬁnal sample [ b*=.231,
+BC95% (.161; .303) p=.001] compared to the initial sample including participants who dropped out
+[b*=.147, BC95% (.093; .202) p=.001]. However, this di ﬀerence was not signi ﬁcant (z =1,702
+p=.088). There were also no di ﬀerences in the e ﬀects between work communication on social media
+and engagement; hence, it is unlikely that di ﬀerent causal dynamics in ﬂuenced participants to drop
+out of the study. Finally, the Missing Completely at Random test indicated no systematic pattern of
+missing values ( χ
+2=106,96, df=94,p=.170).
+Measures
+First we measured boundary preferences along a continuum based on existing measures by Kreiner,
+Hollensbe, and Sheep (2006) andIlies, Wilson, and Wagner (2009) . Participants rated their agreement
+with six statements relating to integration and segmentation preferences on a 5-point scale rangingfrom: 1 =not at all to 5 =very much. These items were used to create three parcels that re ﬂect the
+continuum ranging from integration preferences to segmentation preferences (
+Rothbard, Phillips, &
+Dumas, 2005 ). Factor loadings ranged from .90 to .96 at T1; .92 to .95 at T2; and .92 to .96 at T3.
+Second we measured work communication on social media withﬁve items derived from an exist-
+ing instrument by van Zoonen et al. (2016) . The measure assesses the frequency of sharing work-
+related messages through publicly-available social media. In particular, we asked respondents to
+282 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+indicate the frequency with which they used social media in the past week to share information about:
+(a) work projects, (b) their organizations, (c) their organization ’s products or services, (d) their indus-
+try; and (e) their daily work activities. Participants responded to a Likert-type scale ranging from: 1 =
+never to 5 =very often (multiple times a day) for each item. Factor loadings were between .74 and .92
+at T1; .76 and .92 at T2; and .71 and .89 at T3.
+Finally, we measured engagement using the items representing vigor in the Utrecht Work
+Engagement Scale (UWES; Schaufeli & Bakker, 2004 ). The measure asks participants to report how
+frequently they experience certain conditions of engagement (e.g., “When I get up in the morning,
+I look forward to starting the workday ”). Responses were documented on a Likert-type scale ranging
+from: 0 =never to 6 =always (daily). Factor loadings ranged from .76 to .94 at T1; .73 to .95 at T2;
+and .70 to.94 at T3.
+Data analysis
+In this study we examine mediation involving two causal relations (i.e., boundary preferences on workcommunication on social media, and work communication on social media on employee engage-
+ment). To establish causality, one variable must precede the other in time. Thus, we focus on tradi-
+tional regression-based analysis, particularly on linear relationships that allow the examination ofindividual di ﬀerences across time points (
+Cole & Maxwell, 2003 ). Curve estimations show that the
+relationships between boundary preferences, work communication on social media, and employee
+engagement are linear. Hence, covariance-based structural modeling in statistical software packageAmos can be applied. We examined the mediational e ﬀects using structural equation modeling by fol-
+lowing the ﬁve-step process outlined by
+Cole and Maxwell (2003) . Steps 1 and 2 involve tests for the
+robustness of the measurement model such as establishing longitudinal factorial invariance. Steps 3and 4 involve testing competing and progressively constrained models. Finally, in step 5 mediational
+parameters are examined.
+Competing models include a baseline model (M
+(baseline) )—that examines the extent to which vari-
+ables in the model remain stable over time —by assessing the autoregressive paths —i.e., the regression
+weights between the same variables across waves (e.g., boundary preferences at T1 and boundary pre-
+ferences at T2). We evaluated the baseline model by testing it against the causal model M (causal) , the
+reversed causal model M (reversed) and the reciprocal model M (reciprocal) . Note that M (causal) extents the
+M(baseline) by examining the e ﬀects of boundary preferences on work communication on social media
+and of work communication on social media on employee engagement between time points. Thus, the
+causal model re ﬂects the assumption that employees with integration preferences share more work-
+related information than those with segmentation preferences (H1), and that work communication on
+social media is positively related to employee engagement (H2). In contrast, the reversed causationmodel M
+(reversed) includes e ﬀects in the opposite direction from engagement to work communication
+on social media and from work communication on social media to boundary preferences. The recipro-
+cal model M (reciprocal) , includes the reciprocal relationships between boundary preferences, work com-
+munication on social media, and engagement (i.e., including all e ﬀects of the M (causal) and M (reversed) ).
+We compared di ﬀerent models through a Δχ2test. Additionally, we used multiple ﬁt indices to exam-
+ine model ﬁt—i.e., TLI; CFI; SRMR; and RMSEA.
+Results
+Measurement model
+Theﬁrst step is estimating the measurement model. At all three waves of data collection, the measure-
+ment model including employees ’preferences for managing boundaries, work communication on
+283 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+social media, and employee engagement shows satisfactory model ﬁt:χ2(666)=1,931.25; TLI =.91;
+CFI=.92; RMSEA =.073 (CI: .069, .076), and SRMR =.04. Factor correlations within waves ranged
+from .08 to .36 demonstrating that the latent constructs as su ﬃciently distinct (i.e., discriminant valid-
+ity). Correlations across waves between the same factors ranged from .55 to .80. This suggests that the
+constructs are relatively stable across measurement points (see Table 1).
+Next, we examined factor loadings and explained variances to assess convergent validity. The
+observed variables yielded signi ﬁcant and sizable standardized factor loadings between .70 to .96. Each
+of the observed variables had an explained variance between .49 and .93 on the respective latent con-
+struct. Additionally, the alpha coe ﬃcients reported in Table 1are all above .90. Hence, the measure-
+ment model adequately measures boundary preferences, work communication on social media, andemployee engagement.
+Longitudinal factorial invariance
+The second phase involves comparing various parameters and examining their equivalence acrosswaves. Examining longitudinal factorial invariance is important as this helps to provide evidence forthe imperative assumption that the fundamental meaning of the latent variables is consistent across
+measurement points. We examined factorial invariance by modeling progressively constrained models
+and comparing all models to more restricted (nested) models.
+Longitudinal factorial invariance was established as the structural models were invariant over time: (1)
+conﬁgural invariance [ Δχ
+2(20)=20.06, p=.454], (2) loading invariance [ Δχ2(46)=38.42, p=.778], (3)
+intercept invariance [ Δχ2(58)=52.73, p=.787], and (4) residual invariance [ Δχ2(84)=99.18, p=.123].
+These results demonstrate that the meanings of the observed variables and latent constructs in the model
+were invariant. In other words, they did not change ove r time. Furthermore, the invariance tests show that
+the causal parameters met the stationarity assumptions ( Cole & Maxwell, 2003 ).
+Structural regression models
+The next steps refer to testing the hypotheses by estimating several competing models (see Table 2for
+model ﬁt statistics). Generally, every estimated regression model demonstrated acceptable model ﬁta s
+the threshold values for the model ﬁt indices were met. In what follows, we ﬁrst discuss the compari-
+sons used to determine which model best ﬁt the data before presenting the results of our hypothesis
+testing.
+The causal model (M causal) showed better ﬁt than the baseline model (M baseline )Δχ2(4)=28.85,
+p<.001. Hence, adding the cross-lagged e ﬀects of boundary preferences to work communication on
+social media, and of work communication on social media to employee engagement made a substan-
+tial diﬀerence. Successively, we estimated the reverse causation model (M reversed ). The reversed model
+contains the e ﬀects in the opposite direction —i.e., from employee engagement to work communica-
+tion on social media, and from work communication on social media to boundary preferences. The
+ﬁndings demonstrate that model ﬁt did not improve in comparison to the model with only autoregres-
+sive e ﬀects (M baseline [Δχ2(4)=3.96, p=.411]). Finally, we estimated the reciprocal model
+(Mreciprocal ), including cross-lagged e ﬀects in both causal directions. Hence, the reciprocal model
+includes the e ﬀects of boundary preferences on work communication on social media and vice versa,
+and the e ﬀects between work communication on social media and employee engagement and vice ver-
+sa. The ﬁt of the reciprocal model improved signi ﬁcantly in comparison to that of the baseline model
+[Mbaseline :Δχ2(8)=33.58, p<.001] and the reversed model [M reversed :Δχ2(4)=29.62, p<.001].
+Compared to the more parsimonious causal model, the reciprocal model did not ﬁt better [M causal;
+Δχ2(4)=4.73, p=.316], hence the causal model is preferred, despite nearly equal model ﬁt statistics.
+284 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Table 1 Correlations and Descriptive Statistics
+Constructs Mean ( SD) 1234 5 6 7 8 91 0 1 1 1 2
+Time 1
+1. Boundary preference T1 1.40 (1.42) .95
+2. Social media use T1 1.54 (.83) .30* .93
+3. Engagement T1 5.24 (1.19) .22* .18* .93
+Time 2
+4. Boundary preference T2 1.38 (1.40) .80* .29* .19* .96
+5. Social media use T2 1.50 (.81) .31* .56* .10 .32* .93
+6. Engagement T2 5.15 (1.21) .21* .18* .79* .21* .11* .93
+Time 3
+7. Boundary preference T3 1.38 (1.42) .79* .29* .13* .77* .28* .14* .96
+8. Social media use T3 1.48 (.74) .33* .55* .08 .30* .62* .08 .36* .91
+9. Engagement T3 5.13 (1.21) .23* .18* .78* .22* .13* .80* .17* .15* .92
+Controls at Time 110. Gender 1.44 (.50) .01 −.07 .02 .06 .00 −.06 .03 −.01 −.06 –
+11. Age 47.00 (11.06) .04 −.01 .14* .05 −.01 .16* −.01 −.07 .16* −.20* –
+12. Working hours p/w 36.72 (8.56) .13 .10 .16* .21* .16* .18* .14* .08 .16* −.36* .01 –
+13. Tenure 14.89 (11.98) .00 −.12* .06 −.02 −.06 .14* −.05 −.12* .10 −.19* .52* −.08
+Note: Values on the diagonal are alpha coe ﬃcients. Values in italics represent stability coe ﬃcients of the same constructs across waves. Signi ﬁcant
+correlations are ﬂagged *.
+285 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social Media
+Downloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Table 2 Model Fit Statistics
+Name Model χ2df TLI CFI RSMEA (95% CI) SRMR Δχ2(Δdf) Model comparison
+Mm Measurement model 1,931.25 666 .91 .92 .073 (.069; .076) .04
+Mbaseline Only autoregressive structural paths 2,040.66 688 .91 .91 .074 (.070; .078) .09
+Mcausal Mbaseline +BP>WCSM >Engagement 2,011.81 684 .91 .91 .073 (.070; .077) .06 28.85** (4) M baseline vs M causal
+Mreversed Mbaseline +Engagement >WCSM >BP 2,036.70 684 .91 .91 .074 (.070; .078) .08 3.96 n.s.(4) M1 baseline vs M1 reversed
+Mreciprocal M1 reversed +M2 causal 2,007.08 680 .91 .92 .074 (.070; .077) .05 33.58** (8)
+4.73 n.s.(4)
+29.62 **(4)M1 baseline vs M1 recirpocal
+M1 causal vs M1 reciprocal
+M1 reversed vs M1 reciprocal
+Note:* *=.05; BP =boundary management preferences; WCSM =work communication on social media.
+286 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. Banghart
+Downloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Hypothesis testing
+We examined the structural relationships of the causal model to test our hypotheses. Notably, the
+autoregressive e ﬀects of boundary preferences between Time 1 and Time 2 [ b*=.853, BC95% (.795;
+.920) p=.001], and Time 2 and Time 3 [ b*=.813, BC95% (.741; .893) p<.001] indicated that while
+participants ’boundary preferences were relatively stable over time. In turn, work communication on
+social media was somewhat less stable across times as indicated by the autoregressive e ﬀects from
+Time 1 on Time 2 [ b*=.489, BC95% (.329; .690) p<.001] and from Time 2 on Time 3 [ b*=.422,
+BC95% (.254; .612) p<.001]. Lastly, the e ﬀects of employee engagement at Time 1 on employee
+engagement at Time 2 [ b*=.864, BC95% (.773; .968) p<.001] and from employee engagement at
+Time 2 on employee engagement Time 3 [ b*=.583, BC95% (.420; .750) p<.001] indicated relative
+stability.
+Ourﬁrst hypothesis (H1) asserted that employees ’boundary preferences would have a positive
+impact on work communication on social media. The causal model shows that boundary managementpreferences at Time 1 have a direct e ﬀect on work communication on social media at Time 2 [ b*
+=.080, BC95% (.032; .133) p<.001]. Similarly, boundary preferences at Time 2 also predict work
+communication on social media at Time 3 [ b*=.062, BC95% (.021; .105) p=.004]. There was no sig-
+niﬁcant e ﬀect in the opposite direction as work communication on social media at Time 1 did not
+aﬀect boundary preferences at Time 2 [ b*=.117, BC95% ( −.011; .259) p=.075] nor did work com-
+munication on social media at Time 2 a
+ﬀect boundary preferences at Time 3 [ b*=.054, BC95%
+(−.115; .221) p=.502].
+Hypothesis 2 suggested that increases in the frequency of work communication on social media
+would be accompanied by increases in employee engagement. The ﬁnal model indicates that the e ﬀect
+for work communication on social media at Time 1 did not signi ﬁcantly impact employee engagement
+at Time 2 [ b*=.070, BC95% ( −.027; .176) p=.240]. However, there was a signi ﬁcant positive e ﬀect
+of work communication on social media at Time 2 on employee engagement at Time 3 [ b*=.133,
+BC95% (.033; .250) p=.010]. Notably, employee engagement at Time 1 did not signi ﬁcantly in ﬂuence
+work communication on social media at Time 2 [ b*=−.023, BC95% ( −.076; .024) p=.344].
+Conversely, the e ﬀect of employee engagement at Time 2 on work communication at Time 3 [ b*=
+−.014, BC95% ( −.054; .026) p=.432] was not signi ﬁcant. Thus, these ﬁndings o ﬀer limited support
+for H2.
+Finally, our third hypothesis (H3) proposed an indirect e ﬀect of employees ’boundary preferences
+on employee engagement through work communication on social media. The results support this
+notion as boundary preferences at Time 1 yielded a signi ﬁcant e ﬀect on employee engagement at
+Time 3 through work communication on social media at Time 2 [ b*=.011, BC95% (.003; .026)
+p=.007]. Notably, boundary preferences at Time 1 had a signi ﬁcant e ﬀect on employee engagement
+at Time 3 in a model without mediators [ b*=.196, BC95% (.104; .296) p=.001]. In the model with
+mediators this e ﬀect was smaller [ b*=.080, BC95% (.023; .144) p=.024], thus supporting the partial
+mediation proposed in H3 (see Figure 1).
+Discussion
+This study examined the extent to which employees ’preferences for managing work/non-work
+boundaries in ﬂuenced the frequency with which they communicated about work on social media, and
+the extent to which these factors related to their engagement. Perhaps the most important ﬁnding is
+that, irrespective of individuals ’boundary preferences, work communication on social media plays a
+critical role in constructing employee engagement rather than merely representing or demonstrating
+287 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+it. As our analysis revealed, employees ’preferences for managing boundaries at T1 had a signi ﬁcant
+eﬀect on the frequency of their mediated work communication at T2 while controlling for reported
+frequencies of work communication on social media at T1. In turn, work communication on social
+media at T2 had a signi ﬁcant e ﬀect on employee engagement at T3, while accounting for previous
+levels of engagement. Finally, the relationship between boundary preferences at T1 and employee
+engagement at T3 was partially mediated by work communication on social media. The ﬁndings did
+not support reverse causality.
+Theoretical implications
+Although previous studies have speci ﬁed links between social media communication and engagement-
+related concepts, this study is the ﬁrst to foreground computer-mediated communication in the
+engagement process and to empirically demonstrate a causal relationship between work communica-tion on social media and employee engagement. Our ﬁnding that work communication on social
+media increases employee engagement both complements and extends existing theory. Notably,
+employee engagement did not reciprocally in ﬂuence work communication on social media. Thus,
+beyond supporting the well-established notion that communication constructs individual and organi-
+zational realities (
+Fairhurst & Putnam, 2004 ,2014 ), our ﬁndings provide further evidence that work
+communication on social media serves to shape and actively construct employee engagement. Thisﬁnding stands in stark contrast to much of the existing literature, which tends to position employee
+engagement primarily as a personality trait or cognitive state that precedes particular job activities and
+communicative acts such as sharing work-related information online. Hence, by demonstrating thatwork communication on social media irrevocably precedes and even aids in constructing employee
+engagement over time, our study reverses the traditional ﬁgure-ground relationship between engage-
+ment and everyday work practices.
+Figure 1 Regression model.
+Note: For sake of clarity the ﬁgure represents only the regression weights between the latent factors.
+The observed variables and correlations between latent factors were omitted from this visual represen-tation. Signi ﬁcance is indicated by: *** p<.001; ** p<.05.
+288 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Ourﬁndings also reinforce those of previous studies, which have shown that employees enact
+boundary preferences in their use of new media ( Olson-Buchanan & Boswell, 2006 ;Park et al., 2011 ).
+In turn, we add to this conversation by demonstrating that employees ’integration preferences and the
+frequency of their work communication on social media also have a direct and positive impact on
+engagement. Conversely, employees with segmentation preferences appear less inclined to utilize
+social media to share work-related messages and also report lower engagement. Hence, employees ’
+work communication on social media is, at least in part, a re ﬂection of their boundary management
+preferences and these mediated communicative acts play a critical role in constructing employee
+engagement.
+Although the focus of our analysis is limited to self-reported communicative practices, considering
+our results in light of recent work drawing from the a ﬀordance perspective on social technology use
+(Treem & Leonardi, 2013 ) allows for some additional speculation regarding possible explanations
+behind this relationship. Clearly, the widespread use of social media across work and non-workdomains provides employees with quick and relatively easy ways to stay connected to their work.
+Recent scholarship also demonstrates that the increased accessibility and e ﬃciency of communication
+aﬀorded by message visibility and association on social media is positively linked to employee engage-
+ment (
+van Zoonen, Verhoeven, & Vliegenthart, 2017 ). Our ﬁndings further substantiate these claims.
+In particular, it seems likely that work takes a more prominent place in employees ’day-to-day lives —
+both on and o ﬄine—when they routinely communicate about their work practices, job roles, organi-
+zations, and industries through social media. Moreover, as work and organization-related issues
+become more visible and accessible to broader audiences in mediated environments, employees may
+experience their work as more engaging. The potential for online audiences to acknowledge such mes-sages and even provide feedback (e.g., by “retweeting, ”“liking, ”or commenting on employees ’mes-
+sages) is also likely to reinforce work communication on social media by employees, and particularly
+those who prefer to integrate life domains. Overall then, our ﬁndings suggest that employees ’work/
+non-work boundary preferences and social media use are fruitful starting points from which to exam-
+ine engagement as communicatively constructed through the interplay of work-related talk and social
+media a ﬀordances in the digital age.
+Notably, while our ﬁndings o ﬀered support for our hypotheses regarding the causal relationships
+among work communication on social media and employee engagement, the fact that the mean scores
+on the boundary preference measure were so low is theoretically surprising. In contrast to the prevail-ing trends in both popular and academic discourse, which generally frame integration as a desirable
+“new norm ”of organizational life in the digital age (
+Dumas & Sanchez-Burks, 2015 ), weﬁnd that the
+majority of participants in our sample were inclined to report segmentation rather than integrationpreferences. Employees with segmentation preferences also reported lower engagement compared to
+those who preferred to integrate. In a broader sense, this ﬁnding indicates that employees with seg-
+mentation preferences may be less engaged with work compared to integrators, or at the very least,may have more di ﬃculty achieving the same levels of engagement as integrators do. Given that seg-
+mentation may already prompt di ﬃculties for these individuals as they transition between multiple
+life roles (
+Ashforth et al., 2000 ), our ﬁndings o ﬀer compelling evidence to suggest that organizations
+may bene ﬁt from searching for alternative ways to help these employees communicatively construct
+engagement.
+Practical implications
+Pragmatically, the key question facing organizations then, is how to foster opportunities for employeeswho hold di ﬀerent boundary management preferences to communicatively construct their engage-
+ment. For one, it may behoove managers to attend to the ways in which employees do and do not use
+289 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+social media for work communication as one potential indicator of their boundary preferences.
+However, irrespective of employees ’boundary preferences, our ﬁndings suggest that organizations
+should direct attention to the opportunities available to employees for communicatively constructing
+their engagement.
+Based on our results, employees with integration preferences seem better equipped to enact their
+boundary preferences and thereby enhance their engagement through work communication on social
+media. Thus, for integrators, explicit support from management around the use of publicly-availableplatforms for work communication may su ﬃce in enhancing engagement. However, given that inte-
+grators may comprise the minority in many companies, as they did in our sample, organizations also
+need to consider di ﬀerent avenues to foster engagement for employees with segmentation preferences.
+It seems possible that segmenters might be more willing to use social technologies for work communi-
+cation (and thereby become more engaged) if their messages are restricted to an internal organiza-
+tional audience and remain inaccessible to external (non-work) constituencies. Thus, managementmight consider implementing enterprise platforms and/or promoting the use of existing internal com-
+munication media in which message visibility is limited to work audiences (
+Leonardi et al., 2013 ).
+Enterprise media such as Yammer or Slack may provide segmenters with alternative channels throughwhich they can communicatively construct engagement without blurring personal/professional
+boundaries.
+In addition, recent scholarship has clearly noted that organizations continue to struggle with work
+communication on social media, with management increasingly imposing prohibiting guidelines that
+constrain employee communication and behavior on publicly-available platforms to mitigate reputa-
+tional, legal, and business risks (
+Stohl et al., 2017 ). Yet, our ﬁndings indicate that such constraining
+corporate policies might limit potential opportunities for the enactment of employees ’boundary man-
+agement preferences —particularly for integrators —and by extension, limit employee engagement.
+Given that policies often include broad and ambiguous guidelines that explicitly constrain onlineemployee communication and behavior (
+Banghart et al., 2018 ), integrators might become hesitant in
+terms of how their managers and colleagues will respond to their social media messages. Overall then,
+we suggest that management strategies and corporate policies should be implemented in ways thatneither limit employees ’communicative freedoms nor hinder opportunities to construct engagement.
+Limitations and future research directions
+Our study has several limitations. For one, despite the strengths of our analyses, we cannot rule out
+the potential in ﬂuence of confounding factors not included in our models, for instance, individuals ’
+overall social media use, positive a ﬀect, organizational identi ﬁcation, corporate social media policies,
+and organizational and occupational norms. Although cross-lagged autoregressive models account forthe in ﬂuence of a stable third variable, identifying confounding variables should form the focus of
+future research in this area.
+Second, this research focused on the direct e ﬀects between work communication on social media
+and employee engagement. However, other studies on social media and employee well-being suggest
+that this relationship may be underpinned by di ﬀerent indirect mechanisms (
+van Zoonen et al., 2016 ).
+Thus, future work should examine additional factors that shape the association between work commu-nication on social media and employee engagement as well as the possible role of exhaustion, given its
+antipodal link to engagement.
+Finally, this study showed that employees generally have little desire to integrate their work and
+non-work lives online and report using social media for work-related communication relatively infre-
+quently, overall. Given that integration is often privileged in both recent academic literature and popu-
+lar discourse surrounding work/life boundaries (
+Dumas & Sanchez-Burks, 2015 ), our results suggest a
+290 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+need for more work investigating the ways in which employees with segmentation preferences can
+communicatively construct engagement in the digital age. Nonetheless, we ﬁnd that both boundary
+management preferences and work communication on social media have a signi ﬁcant impact on
+engagement and thus are important factors for future scholars and managerial practitioners to con-
+sider in this domain.
+Note
+1 Dutch-based research company, their panel is ISO26362 certi ﬁed.
+References
+Andreassen, C. S., Torsheim, T., & Pallesen, S. (2014). Predictors of use of social network sites at
+work: A speci ﬁc type of cyberloa ﬁng.Journal of Computer-Mediated Communication, 19 (4),
+906–921. doi:10.1111/jcc4.12085
+Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day ’s work: Boundaries and micro role
+transitions. Academy of Management Review, 25 (3), 472 –491. doi:10.5465/AMR.2000.3363315
+Bakker, A. B., Albrecht, S. L., & Leiter, M. P. (2011). Key questions regarding work engagement.
+European Journal of Work and Organizational Psychology, 20 (1), 4 –28. doi:10.1080/1359432X.
+2010.485352
+Banghart, S., Etter, M. , & Stohl, C. (2018). Organizational boundary regulation through social
+media policies. Management Communication Quarterly 32 (3), 337 –373. doi:10.1177/
+0893318918766405
+boyd, d. m., & Ellison, N. B. (2007). Social network sites: De ﬁnition, history, and scholarship. Journal
+of Computer-Mediated Communication, 13 (1), 210 –230. doi:10.1111/j.1083-6101.2007.00393.x
+Bulger, C. A., Matthews, R. A., & Ho ﬀman, M. E. (2007). Work and personal life boundary
+management: Boundary strength, work/personal life balance, and the segmentation-integration
+continuum. Journal of Occupational Health Psychology, 12 (4), 365 –375. doi:10.1037/1076-8998.12.
+4.365
+Cao, X., Guo, X., Vogel, D., & Zhang, X. (2016). Exploring the in ﬂuence of social media on employee
+work performance. Internet Research, 26 (2), 529 –545. doi:10.1109/HICSS.2012.618
+Cole, D. A., & Maxwell, S. E. (2003). Testing mediational models with longitudinal data: Questions
+and tips in the use of structural equation modeling. Journal of Abnormal Psychology, 112 (4),
+558–577. doi:10.1037/0021-843X.112.4.558
+Crabtree, S. (2018). Global productivity hinges on human capital development, Gallup Blog . Retrieved
+from http://news.gallup.com/opinion/gallup/225752/global-productivity-hinges-human-capital-
+development.aspx?g_source =BLOG_TGB&g_medium%20 =topic&g_campaign =tiles.
+Dijkmans, C., Kerkhof, P., Buyukcan-Tetik, A., & Beukeboom, C. J. (2015). Online conversation and
+corporate reputation: A two-wave longitudinal study on the e ﬀects of exposure to the social media
+activities of a highly interactive company. Journal of Computer-Mediated Communication, 20 (6),
+632–648. doi:10.1111/jcc4.12132
+Dumas, T. L., & Sanchez-Burks, J. (2015). The professional, the personal, and the ideal worker:
+Pressures and objectives shaping the boundary between life domains. Academy of Management
+Annals, 9 (1), 803 –843. doi:10.1080/19416520.2015.1028810
+Fairhurst, G. T., & Putnam, L. L. (2004). Organizations as discursive constructions. Communication
+Theory, 14 (1), 5 –26. doi:10.1111/j.1468-2885.2004.tb00301.x
+291 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Fairhurst, G. T., & Putnam, L. L. (2014). Organizational discourse analysis. In L. L. Putnam & D. K.
+Mumby (Eds.), The SAGE handbook of organizational communication: Advances in theory,
+research, and methods (3rd ed., pp. 271 –296). Thousand Oaks, CA: SAGE Publications, Inc.
+Fieseler, C., Meckel, M., & Ranzini, G. (2015). Professional personae: How organizational
+identiﬁcation shapes online identity in the workplace. Journal of Computer-Mediated
+Communication, 20 (2), 153 –170. doi:10.1111/jcc4.12103
+Ilies, R., Wilson, K. S., & Wagner, D. T. (2009). The spillover of daily job satisfaction onto employees ’
+family lives: The facilitating role of work-family integration. Academy of Management Journal, 52 (1),
+87–102. doi:10.5465/AMJ.2009.36461938
+Kossek, E. E., Lautsch, B. A., & Eaton, S. C. (2006). Telecommuting, control, and boundary
+management: Correlates of policy use and practice, job control, and work-family e ﬀectiveness.
+Journal of Vocational Behavior, 68 (2), 347 –367. doi:10.1016/j.jvb.2005.07.002
+Kreiner, G. E., Hollensbe, E. C., & Sheep, M. L. (2006). On the edge of identity: Boundary dynamics at
+the interface of individual and organizational identities. Human Relations, 59 (10), 1315 –1341.
+doi:10.1177/0018726706071525
+Leidner, D., Koch, H., & Gonzalez, E. (2010). Assimilating generation Y IT new hires into USAA ’s
+workforce: The role of an enterprise 2.0 system. MIS Quarterly Executive, 9 (4), 229 –242.
+Leonardi, P. M., Huysman, M., & Stein ﬁeld, C. (2013). Enterprise social media: De ﬁnition, history,
+and prospects for the study of social technologies in organizations. Journal of Computer-Mediated
+Communication, 19 (1), 1 –19. doi:10.1111/jcc4.12029
+Lovejoy, K., & Saxton, G. D. (2012). Information, community, and action: How nonpro ﬁt
+organizations use social media. Journal of Computer-Mediated Communication, 17 (3), 337 –353.
+doi:10.1111/j.1083-6101.2012.01576.x
+Macey, W. H., & Schneider, B. (2008). The meaning of employee engagement. Industrial and
+Organizational Psychology, 1 (1), 3 –30. doi:10.1111/j.1754-9434.2007.0002.x
+Mann, A., & Harter, J. (2016). The worldwide employee engagement crisis. Retrieved from http://
+news.gallup.com/businessjournal/188033/worldwide-employee-engagement-crisis.aspx
+Marwick, A. E., & boyd, d. (2011). I tweet honestly, I tweet passionately: Twitter users, context
+collapse, and the imagined audience. New Media & Society, 13 (1), 114 –133. doi:10.1177/
+1461444810365313
+Nippert-Eng, C. E. (1996). Home and work: Negotiating boundaries through everyday life . Chicago, IL:
+University of Chicago Press.
+Ollier-Malaterre, A., & Rothbard, N. P. (2015). Social media or social mine ﬁeld? Surviving in the new
+cyberspace era. Organizational Dynamics, 44 (1), 26 –34. doi:10.1016/j.orgdyn.2014.11.004
+Olson-Buchanan, J. B., & Boswell, W. R. (2006). Blu rring boundaries: Correlates of integration and
+segmentation between work and nonwork. Journal of Vocational Behavior, 68 (3), 432 –445.
+doi:10.1016/j.jvb.2005.10.006
+Park, Y., Fritz, C., & Jex, S. M. (2011). Relationships between work-home segmentation and
+psychological detachment from work: The role of communication technology use at home.
+Journal of Occupational Health Psychology, 16 (4), 457 –467. doi:10.1037/a0023594
+Peluchette, J. V., Karl, K., & Fertig, J. (2013). A Facebook ‘friend ’request from the boss: Too close for
+comfort? Business Horizons, 56 (3), 291 –300. doi:10.1016/j.bushor.2013.01.013
+P i k e ,J .C . ,B a t e m a n ,P .J . ,&B u t l e r ,B .( 2 0 1 3 ) .D i a l e c t i ct e n s i o n so fi n f o r m a t i o nq u a l i t y :S o c i a l
+networking sites and hiring. Journal of Computer-Mediated Communication, 19 (1), 56 –77.
+doi:10.1111/jcc4.12031
+292 Journal of Computer-Mediated Communication 23(2018) 278 –293Talking Engagement Into Being Through Social Media W. van Zoonen & S. BanghartDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018
+
+Rothbard, N. P., Phillips, K. W., & Dumas, T. L. ( 2005). Managing multiple roles: Work-family
+policies and individuals ’desires for segmentation. Organization Science, 16 (3), 243 –258.
+doi:10.1287/orsc.1050.0124
+Schaufeli, W. B., & Bakker, A. B. (2004). Job demands, job resources, and their relationship with
+burnout and engagement: A multi-sample study. Journal of Organizational Behavior, 25 (3),
+293–315. doi:10.1002/job.248
+Stohl, C., Etter, M., Banghart, S., & Woo, D. (2017). Social media policies: Implications for
+contemporary notions of corporate social responsibility. Journal of Business Ethics, 142 (3),
+413–436. doi:10.1007/s10551-015-2743-9
+Treem, J. W., & Leonardi, P. M. (2013). Social media use in organizations: Exploring the a ﬀordances
+of visibility, editability, persistence, and association. Annals of the International Communication
+Association, 36 (1), 143 –189. doi:10.1080/23808985.2013.11679130
+van Zoonen, W., Verhoeven, J. W. M., & Vliegenthart, R. (2016). Social media ’s dark side: Inducing
+boundary con ﬂicts.Journal of Managerial Psychology, 31 (8), 1 –15. doi:10.1108/JMP-10-2015-0388
+van Zoonen, W., Verhoeven, J. W. M., & Vliegenthart, R. (2017). Understanding the consequences of
+public social media use for work. European Management Journal, 35 (5), 595 –605. doi:10.1016/j.
+emj.2017.07.006
+293 Journal of Computer-Mediated Communication 23(2018) 278 –293W. van Zoonen & S. Banghart Talking Engagement Into Being Through Social MediaDownloaded from https://academic.oup.com/jcmc/article-abstract/23/5/278/5055446 by Universiteit van Amsterdam user on 10 October 2018

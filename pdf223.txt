@@ -1,0 +1,653 @@
+A model of R&D leadership and
+team communication: the
+relationship with projectperformance
+Giles Hirst1and Leon Mann2
+1Work and Organisational Psychology Group, Aston Business School, Aston University,
+Birmingham B47ET, UK. g.hirst@aston.ac.uk
+2Melbourne Business School, University of Melbourne. 200 Leicester Street, Carlton, Victoria.
+3053, Australia. l.mann@mbs.unimelb.edu.au
+Industrial research and development (R&D) involves the processing and transformation of new
+knowledge into a commercially valuable outcome. Communication is an effective mechanismto translate, share and integrate new information into commercial products or processes.We developed a ﬁve-factor model of team communication comprising: leadership role per-
+formance, team boundary spanning, communication safety, team reﬂexivity and task
+communication and tested the model using a one-year longitudinal study. Analyses wereconducted on team level data from 56 teams, comprising 350 employees. Independentmeasures of project performance were obtained from surveys of research managers as well asproject customers. Three ﬁndings emerged. Different factors predicted different stakeholders’ratings of project performance. Communication safety was the strongest predictor of customerratings of performance. Boundary spanning is most effective when performed by the projectleader not the team.
+1. Introduction
+The awareness that successful teamwork isdependent on interaction and knowledge
+sharing amongst team members has led to a
+proliferation of team communication studies
+(Marks et al., 2001). Team communication has
+been found to predict innovation (Ancona andCaldwell, 1992), project performance (Brodbeck,2001; Keller, 2001) as well as patents andcommercialized products (Allen, 1984; Visart,1976). However despite making considerableprogress several questions remain unanswered.
+Few studies have examined the range of commu-
+nication behaviours that teams engage in. Evenempirical studies that distinguish and measure
+both external and internal communication arerare (Kivimaki et al., 2000). As a consequence we
+possess limited insight into the communicationbehaviours that teams should engage in, nor
+understand the interaction between different
+aspects of communication. Further researcherswho have studied project teams have done soeither from a leadership or team’s perspective,with little attention being paid to the interactionbetween the two. As a consequence divergentprescriptions emerge from different perspectives.For example, leadership studies (cf. Waldman
+and Atwater, 1994), emphasize that the project
+leader’s authority and seniority is essential to
+R&D Management 34, 2, 2004. rBlackwell Publishing Ltd, 2004. Published by Blackwell Publishing Ltd, 147
+9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA.
+lobby and overcome resistance and interface with
+the wider organization. Whereas the team andcommunication network literature (cf. Allen,1984; Boutty, 2000) articulates that extensiveand diverse networks ensure teams are able to
+acquire scarce resources and develop a compre-
+hensive understanding of sometimes divergentand complex information. Studies which measureboth leadership and team communication wouldreconcile these perspectives.
+We seek to improve our understanding of team
+communication by developing and testing amodel of team communication. In particular, we
+make three contributions to the literature. Firstly,
+we identify key leader and team communicationbehaviours. Consistent with previous research,which has identiﬁed the importance of role basedmodels (cf. Kim et al., 1999; Hooijberg and Choi,
+2000) we examine four leadership roles. The fourroles were identiﬁed by Barry (1991) and reﬁnedby Yukl (2002) based upon qualitative observa-
+tions of engineering and new product develop-
+ment teams. They include leadership boundaryspanning, facilitative leadership, leadership whichstimulates reﬂection and innovation as well astask leadership. Corresponding to the leadershiproles we identify four team communication pro-cesses. These processes include team boundaryspanning, communication safety, team reﬂection
+and task communication. We summarize and integ-
+rate these approaches to develop a ﬁve-factormodel of team communication (see Figure 1).
+Secondly, we seek to address a surprising gap
+within the literature, that despite the centrality ofleaders to team performance, and considerableresearch examining team and leadership pro-cesses, we know surprisingly little about how
+leaders create and handle effective teams (Zac-caro et al., 2001; Pirola-Merlo, Hartel, Mann &
+Hirst, 2002). Based on recent team leadershipresearch of Zaccaro et al . (2001) we test a
+functional leadership framework. This approach
+diverges from traditional leadership perspectives(e.g. Fiedler, 1964; Kerr and Jermier, 1978)treating team processes not as moderators butas mediators (Zaccaro et al., 2001). The premise
+behind this framework is that leaders areresponsible for managing teamwork and theirrole is to ensure task accomplishment and group
+maintenance is adequately managed. Thus leader-
+ship behaviours facilitate team communication,which in turn drives effective performance.
+Thirdly, we incorporate methodological direc-
+tions highlighted by Cohen and Bailey (1997)who afﬁrm the need for longitudinal studies thatuse repeated measures of performance and drawupon multiple ratings of performance. Their
+conclusions parallel the ﬁndings of recent re-
+search, such as Hooijberg and Choi’s (2000) studyof team leadership and Hoegl and Gemuenden’s(2001) study of software development teams thathave observed stakeholders hold divergentratings of performance. Thus we survey teams,customers and research managers’ ratings ofperformance. Whilst this contribution is metho-
+dological, it reﬂects an increasing awareness that
+within organizations there are different constitu-ents of performance and as a consequencedifferent stakeholders may hold different some-times clashing agenda (West et al., 1997). Indeed,
+Shankman (1999) argues that the identiﬁcation ofdifferent stakeholders’ agenda and understanding
+Communication Safety
+•Participative decision making
+Power conflict
+Open discussionProject Team
+PerformanceBoundary spanner
+Facilitator
+Innovator
+DirectorTeam Boundary Spanning
+Team boundary spanning
+Leader Roles
+Reflexivity
+Task reflexivity
+Process reflexivity
+Task Communication
+Clarity of objectives
+Feedback
+Information flow
+Clarity of customer requirementsTeam Processes
+Figure 1. Representation of the leadership and team communication model.Giles Hirst and Leon Mann
+148 R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+their performance implications is one of most
+instrumental challenges facing modern organiza-tions. Thus we implicitly acknowledge in complexdecision-making settings, such as the R&D context,there may not be a single performance standard.
+2. Model of team communication
+2.1. Leadership role performance
+Team leadership studies have demonstrated the
+importance of role based leadership models toR&D performance (Barry, 1991; McCall, 1988;Kim et al., 1999). The basic premise of these
+studies is that team leaders must be competent at
+performing a diverse array of leadership beha-viours. These models tend to measure the extentto which leaders foster teamwork, organize anddirect project work, manage relationships withexternal stakeholders (Mohrman et al., 1995) and
+stimulate creativity and innovation. Barry (1991)conducted a detailed qualitative study of engi-
+neering and product development teams. He
+identiﬁed four leadership roles that are criticalto ensure teams are able to tackle the challengesof R&D work. Yukl (2002) reﬁned this taxonomyto identify four roles: boundary spanning, facil-itative, innovation-stimulating leadership as wellas directive leadership. Leadership boundaryspanning involves the management of external
+relationships including coordinating tasks, nego-
+tiating resources and goals with stakeholdersas well as scanning for information and ideas.Facilitative leadership measures whether theleader encourages an atmosphere conducive toteamwork ensuring team interactions are equita-ble and safe; encouraging participation, sharingof ideas and open discussion of different perspec-
+tives. A leader who acts as an innovator envisions
+project opportunities and new approaches byquestioning team assumptions and challengingthe status quo. Directive leaders’ drive structuredand ordered performance of project work bycommunicating instructions, setting priorities,deadlines and standards. We adopt this frame-work as it provides a parsimonious and practical
+description of the speciﬁc leadership behaviours
+required to build task orientation, ensure teamcooperation, foster innovation, as well as manageexternal relations. Whilst studies have indepen-dently isolated the importance of the roles (e.g.Waldman and Atwater, 1994; Kim et al., 1999;
+Kim and Yukl, 1995) no study has tested the taxo-nomy developed by Barry (1991) and Yukl (2002).
+Thus given that Barry’s (1991) research indicateseach role serves a critical function maintaining a
+team’s operation we propose the four roles will becollectively related to performance:
+H1. Leadership role performance is positively
+associated with project performance.
+2.2. Boundary spanning
+R&D teams are dependent on the externalenvironment for resources, information and
+support (Ancona and Caldwell, 1992). Bound-ary-spanning communication includes politicallyorientated communication that increases theresources available to the team, and networkingcommunication, which expands the amount andvariety of information available to a team (Brownand Eisenhardt, 1995). Ancona and Caldwell
+(1992) conducted a longitudinal study of 45
+product development teams. Boundary spanning,involving political activities such as negotiatingand lobbying resources, was a signiﬁcant pre-dictor of research managers’ ratings of perfor-mance. Keller (2001) found that based upon asample of 93 research teams that external com-munication was a signiﬁcant predictors of mana-
+gers ratings of technical quality ( b¼0.56), budget
+(b¼0.29) and schedule performance ( b¼0.24).
+The researchers concluded that teams and theirmembers must engage in a range of boundaryspanning activities in order to succeed. Thus weput forward the following hypothesis:
+H2. Team boundary spanning is positively asso-
+ciated with project performance.
+2.3. Communication safety
+Communication processes form the buildingblock of effective teamwork, providing the means
+to exchange information, ideas and differentperspectives amongst team members (Hoegl andGemuenden, 2001). The study of team processesreﬂects a rich tradition of research, spawned byhuman relations theories that identiﬁed socialinteraction as a potent motivator and stimulus forinnovation. Kivimaki et al. (2000) studied 493
+employees. Of the eight different facets of org-
+anizational communication measured, participa-tive communication was the strongest predictorof innovation effectiveness ( r¼0.60) and patents
+produced ( r¼0.19). Participation leads to a more
+complete understanding of potential problems, asuseful information is shared, leading to the crossfertilization of ideas, spawning innovation (Mum-
+ford and Gustafson, 1988). Open discussion ofTeam communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 149
+diverse viewpoints creates uncertainty about the
+adequacy of one’s position, curiosity and informa-tion seeking to understand the contrary view.Because people understand opposing ideas andinformation, they are able to see the limitations in
+their views and incorporate other perspectives,
+leading to high quality decisions (Tjosvold, 1985).Conversely, power conﬂicts between individualsand coalitions within the team, may impair teamwork as anxiety impairs cognitive processing ofcomplex information (Amason and Sapienza,1997), as individuals become less receptive to theideas of others and energy devoted to task work is
+directed towards resolving conﬂict (West et al.,
+1998). Donnellon (1986) conducted a series ofdetailed in-depth studies of product developmentteams. She observed cliques and coalitions be-tween different functional groups were responsiblefor costly delays, and integration difﬁculties. Basedupon previous research we propose the following:
+H3. Communication safety is positively associated
+with project performance.
+2.4. Reﬂection
+Research studying knowledge work teams (cf.Edmondson et al., 2001; West, 2000) has identi-
+ﬁed the importance of reﬂection in complexproblem solving activities. West (2000) calls this
+construct team reﬂexivity and describes it as the
+extent to which team members collectively reﬂectupon the team’s tasks (including objectives,strategies) or processes and adapt them to currentor anticipated circumstances. Dunbar (1996)studied four renowned science laboratories tra-cing the processes underlying scientiﬁc discov-eries. He found that scientiﬁc discoveries most
+commonly occurred when groups reﬂected on
+potential causes for negative or inconsistentﬁndings. The ﬁndings mirror West’s constructionof reﬂexivity (cf. West et al ., 1997) whereby
+reﬂection was more effective if it occurred inteams, as individuals tended to discount anom-alous ﬁndings. Secondly, reﬂection stimulated thereframing of individuals cognitive representations
+of tasks and questioning of assumptions, leading
+to the proposal of alternative, novel and innova-tive approaches. Thus we propose the following:
+H4. Team reﬂexivity will be positively associated
+with project performance.
+2.5. Task communication
+The inclusion of the task communication factor
+reﬂects a rigorous body of research developed bythe goal setting literature. We examine four
+aspects of task communication: clarity of objec-tives, feedback, information transmission andunderstanding of customer requirements. Clarityof objectives and the quality of feedback have
+been consistently identiﬁed as a signiﬁcant pre-
+dictor of performance. Thamhain and Wilemon(1987) examined 60 potential driving forces andbarriers to the performance of engineering teams.Proper direction and leadership ( r¼0.55) was
+one of the strongest drivers of performance,whereas unclear objectives ( r¼/C00.40) were one
+of the strongest inhibitors of performance. A
+subsequent study conducted by Thamhain (1996)
+based upon 74 self-directed engineering teamsreplicated this ﬁnding. Communication of projectobjectives was one of the strongest correlates ofperformance. Clear direction setting enables thefocused development of ideas which can beassessed with greater precision than if unclear(West and Anderson, 1996). Effective informa-
+tion transmission is important to provide teams
+with sufﬁcient knowledge to enable informedselection of project strategies (Hackman, 1990).R&D teams that commonly perform non-routineand non-repetitive tasks require frequent taskcommunication to provide a comprehensive andcomplete understanding of complex inter-relatedactivities. In particular, interaction with project
+customers ensures a clear understanding of what
+is needed to meet the customer’s requirements,how it is to be achieved and how successfully ithas been achieved. Zirger and Maidique (1990)compared 70 successful products and failures.They found that customer-team interaction dif-ferentiated project success enabling focused anddirected work, providing opportunities for learn-
+ing. Thus consistent with research and theory we
+put forward the following hypothesis:
+H5. Task communication is positively associated
+with project performance.
+2.6. Functional leadership
+The functional leadership model proposes that
+effective leadership stimulates teamwork, which
+in turn enhances project performance. Applyingthis framework to our research, we predict thatthe relationship between leadership role perfor-mance and project performance will be mediatedby similar communication behaviours. Thus afacilitative leader will encourage communicationsafety, which in turn will enhance performance.
+Likewise a directive leader will enhance projectGiles Hirst and Leon Mann
+150
+R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+performance largely through their impact on task
+communication. Consistent with this rationale weput forward the following hypothesis:
+H6. Team communication mediates the relation-
+ship between leadership role performance and
+project performance.
+3. Method
+Four organizations participated, providing 56
+R&D teams. Two of the companies were R&D
+divisions of large publicly-listed mining andchemical manufacturing organizations, whilstthe other two were government R&D organiza-tions. The analyses report a one-year longitudinalstudy, with repeated mail outs every four months.Analyses were conducted on team level datacollected over four time periods. Teams (both
+leaders and team members) rated leadership role
+performance and team communication. Teams,research managers and customers rated projectperformance. At the beginning of the study therewere 56 teams, comprising 294 team membersand 56 leaders (providing 78% response rate).Fifty-three teams participated at mail-out two(four months later), 41 teams participated at
+mail-out three (eight months later), and 37 teams
+participated at mail-out four (one year later).Twenty customers rated performance at mail-outtwo. However response rates were too low forstatistical analyses at mail-out four. Thirty-oneresearch managers rated project performance atmail-out one, whilst 33, 24 and 22 researchmanagers rated performance four months later
+(mail-out two), eight months (mail-out three) and
+one year later (mail-out four).
+On average, managers supervised six project
+leaders (s.d. 4.60). The mean team size was eightpeople (s.d. 4.72). Based on the classiﬁcationsystem reported by Katz and Tushman (1979)most teams in the study were engaged in appliedresearch (39%) or product development projects
+(33%). Basic and technical services projects each
+accounted for 4% of the sample. A ﬁfth (20%) ofthe projects spanned a range of R&D types.
+3.1. Questionnaire measures
+Leadership role performance was assessed on aseven-point scale, ‘1’ corresponded to ‘not at allwell’, ‘4’ ‘moderately well,’ and ‘7’ ‘extremelywell’. Team communication items were rated on a
+5-point Likert-type scale ranging from stronglydisagree ‘1’ to strongly agree ‘5’. Means, standard
+deviations, chronbach alphas ( a), and inter-rater
+agreement (rwg) are reported in Table 1 and allitems are listed in Appendix A. Conﬁrmatoryfactor analysis was used to assess construct mea-
+surement. A two-stage analysis was conducted
+based upon individual level data ( n¼350) from
+team members and project leaders, consistentwith the procedures outlined by Bollen (1989).The ﬁrst stage examined the measurement prop-erties of scales within each factor. The second setof analyses assessed the latent variable equationof the original model, i.e. treating the team
+factors as though they were observed variables,
+examining the inter-relationship between scalescomprising the ﬁve factors and the correlationbetween factors. Indices of model ﬁt wereacceptable: Joreskog AGFI ¼.86, Bentler CFI
+¼.93. The team boundary spanning scale, based
+upon the work of Ancona and Caldwell (1992)demonstrated sound measurement properties:
+AGFI¼0.92, CFI ¼0.93. The communication
+safety factor demonstrated sound measurementproperties: AGFI ¼0.93, CFI ¼0.96. The reﬂex-
+ivity measure displayed acceptable ﬁt indices:AGFI¼0.85, CFI ¼0.92. Task communication
+demonstrated adequate ﬁt; AGFI ¼0.88, CFI ¼
+0.95. Conﬁrmatory factor analysis indicated thatthe second order factor structure was an accep-
+table ﬁt to the data (AGFI ¼0.83, CFI ¼0.93).
+Comparison of three and four factor modelsrevealed they were not a better ﬁt to the data. Thelargest correlation was found between facilitativeleadership and communication safety ( r¼0.67).
+Whilst the correlations between some scales werelarge, leading to concerns regarding discriminantvalidity of the scales, the inter-correlated nature
+of team communication is consistent with the
+presence of conceptual relationships betweendifferent aspects of team communication. Insummary, the ﬁrst analyses conﬁrmed scalemeasurement was acceptable and the second stepshowed that the latent variable model loadingswere also acceptable, providing sufﬁcient evi-dence to identify the model as a whole, consistent
+with the criteria outlined by Bollen (1989).
+The team performance measure included seven
+items covering whether the team had chosen the‘best available strategies for meeting projectgoals’ and ‘succeeded in meeting project objec-tives/milestones’. Correlations between differentstakeholders’ assessments of project performancewere averaged across time to increase the sample
+size for these analyses. Team ratings were signi-
+ﬁcantly correlated with customer ratings ( r¼0.44)Team communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 151
+but not research managers ( r¼0.19). Research
+managers ratings were signiﬁcantly correlatedwith customer ratings ( r¼0.44).
+4. Results
+Analyses were conducted on team level data.1We
+divide the results according to the three sets ofperformance ratings as support for the individualhypotheses varies across the three stakeholders.
+Table 1 reports the correlations between leader-
+ship roles and team communication measures atmail-out one as well as their relationship withproject performance measured four months later(mail-out one) and one year later (mail-out four).
+4.1. Team ratings of performance
+Across all four-time periods, four of the ﬁvecommunication processes: leadership role perfor-
+mance (H1), communication safety (H3), team
+reﬂexivity (H4) and task communication (H5),were signiﬁcantly correlated with team per-formance. When the ﬁve factors were enteredsimultaneously into a regression model, taskcommunication was a signiﬁcant determinant ofteam performance at mail-out two, F(5, 47) ¼
+2.08, po0.05. However the other factors were not
+signiﬁcant.
+Based on team ratings of performance hypoth-
+esis ﬁve received the strongest support. Taskcommunication was the strongest predictor ofperformance. Least support was provided forhypothesis two. While leadership boundary span-ning was related to team performance acrossdifferent time periods, team boundary spanning
+was only signiﬁcantly correlated with team per-
+formance measured at mail-out two. We used twoapproaches to compare and contrast leadershipand team boundary spanning. First, we examinedleaders’ perceptions of leadership boundaryspanning role performance, and team members(only) ratings of team boundary spanning. Al-most no association ( r¼0.03) was found between
+leaders ratings and team boundary spanning. To
+isolate potential antecedents of leadership andteam boundary spanning, we examined measuresof project complexity (i.e. perceived difﬁculty,obstacles and type of R&D) as well as leaderattributes (i.e. leader tenure both years in theorganization and as a project leader, number ofprojects previously supervised, perceived control
+over project decisions) and factors (team tenure,Table 1. Means, standard deviations, reliabilities, rwgs of leadership and team communication measures and correlations between stakeholders’ ra tings of performance.
+M (S.D.) a r w g 123456 78 9R2N
+1. Leadership role performancew4.98 (0.58) 0.92 0.81
+2. Boundary spanner 5.10 (0.60) 0.84 0.74 0.73**
+3. Facilitator 4.96 (0.85) 0.79 0.70 0.81** 0.39**
+4. Innovator 4.78 (0.80) 0.65 0.67 0.80** 0.45** 0.51**
+5. Director 5.02 (0.77) 0.77 0.73 0.85** 0.63** 0.62** 0.62**
+6. Team boundary spanning 3.94 (0.30) 0.60 0.79 0.31* 0.31** 0.22* 0.30* 0.22*
+7. Communication safety 3.91 (0.36) 0.88 0.84 0.49** 0.18 0.67** 0.34** 0.31** 0.30
+8. Team reﬂexivity 3.10 (0.32) 0.76 0.82 0.35** 0.15 0.42** 0.23* 0.27 0.32** 0.43**
+9. Task communication 3.55 (0.41) 0.88 0.75 0.53** 0.21 0.56** 0.42** 0.49** 0.25* 0.31** 0.59**
+Performance: Team, 4 months 3.84 (0.37) 0.89 0.93 0.36** 0.30* 0.49** 0.28* 0.21 0.31** 0.43** 0.34** 0.40** 0.67 53
+Performance: Team, 1 year 3.90 (0.45) 0.91 0.93 0.42** 0.49** 0.54** 0.41* 0.29* 0.07 0.46** 0. 45** 0.44** 0.65 37
+Performance: Customer, 4 months 3.95 (0.66) 0.91 n.a 0.34 0.34 0.33 0.34 0.19 /C00.12 0.54* 0.23 0.12 0.50 20
+Performance: Research manager, 4 months 3.87 (0.60) 0.87 n.a 0.37* 0.27 0.21 0.38* 0.33* 0.23 0.14 0.05 0.22 0.48 33
+Performance: Research manager, 1 year 4.16 (0.58) 0.83 n.a 0.30 0.35 0.25 0.36* 0.03 /C00.04 0.05 /C00.27 0.05#22
+wLeadership role performance composite of four roles. **signiﬁcant at 0.01 level; *signiﬁcant at 0.05 level.
+#not computed due to bi-modal distribution. Adjusted R2values calculated according to Browne (1975) providing a conservative measure of adjusted R2values for samples o40 (Cattin, 1980).Giles Hirst and Leon Mann
+152 R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+co-location and team size). Amongst these
+measures older project leaders reported higherlevels of leadership boundary spanning ( r¼0.33,
+p¼0.09, N¼26), as did leaders who were
+responsible for resolving disputes and project
+decisions ( r¼0.32, po0.05). Secondly we com-
+pared the frequency of leader and team commu-nication with (i) customers, (ii) managers and (iii)technical experts. This scale was re-coded as anordinal measure (i.e. a leader who speaks to acustomer on a daily basis, interacts 20 times permonth). Project leaders interacted more fre-quently with external stakeholders. For example
+the majority (62.5%) of project leaders spoke to
+project customers at least on a weekly basis,whereas less than a quarter (22.4%) of teammembers spoke to customers on a weekly basis.Sixty percent (62.8%) of project leaders andslightly less than half (48.1%) of team membersspoke with colleagues external to the project on aweekly basis. Little or no relationship was found
+between the frequency of leader and team
+communication with external stakeholders. Thelargest correlation observed was a negative asso-ciation between the frequency of leader and teaminteraction with technical experts ( r¼–0.16).
+4.2. Hypothesis 6: Functional leadership
+We conducted three sets of regression analyses to
+test for the presence of moderated relationshipsas well as the functional leadership model. Theﬁrst analyses examined whether an alternatemoderated model was a better ﬁt to the datathan the functional leadership model. Moderated
+regression models did not explain more variance
+in project performance (measured four monthslater) than simple regression models. Thus theanalysis did not provide support for the proposi-
+tion that leadership and team communicationfactors interact to predict performance.
+The second regression analyses tested the
+functional model of leadership assessing whether
+the relationship between leadership role perfor-
+mance and team performance (measured fourmonths later) was mediated by related team com-munication factors. According to Baron andKenny (1986) three conditions are requiredbefore one can test for mediation: the indepen-dent and mediator variables must be correlated(all leader roles and team factors met this
+condition), the independent and dependent vari-
+ables must be correlated (all leader roles with theexception of the director role which was nearsigniﬁcantly correlated ( r¼0.21) met this condi-
+tion) and the mediator and dependent variablesmust be correlated (all team factors met thiscriteria). Establishing mediation requires that theeffect of an independent variable be less when the
+mediator is included in the regression equation
+than when the mediator is not included (Keller,2001). Table 2 reports the regression resultsassessing the variance explained by the indepen-dent and mediator variables separately andtogether in the mediated model on team perfor-mance measured at mail-out two. The change inthe adjusted R-square between the mediator and
+mediated model (i.e. the independent variable and
+the mediator) is reported in the last column.Entering leadership and team boundary spanningsimultaneously into the model reduced thevariance explained by leadership boundary span-ning. However when entered simultaneously bothmeasures were not signiﬁcant indicating thatwhilst team boundary spanning attenuated the re-
+lationship with performance it did not completely
+Table 2. Tests of mediation: does team communication mediate the relationship between leadership role
+performance and team performance.
+Direct Mediator only Mediated Model
+b Adjusted R2b Adjusted R2b Adjusted R2DAdjusted R2
+Boundary spanner 0.34* 0.10 0.08 0.26 0.12 0.04
+Team boundary spanning 0.31* 0.22
+Boundary spanner 0.34* 0.10 0.17 0.21 0.19 0.02Task communication 0.43** 0.35*
+Facilitator 0.49** 0.22 0.18 0.36* 0.23 0.05
+Communication safety 0.44** 0.19Innovator 0.28* 0.06 0.11 0.20 0.13 0.02Reﬂexivity 0.36** 0.31*
+Director 0.22 0.03 0.17 /C00.09 0.15 /C00.02
+Task communication 0.42** 0.44**
+Team ratings of team performance measured at mail-out two. *signiﬁcant at 0.05, **signiﬁcant at 0.01.Team communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 153
+explain all the variance, consistent with partial
+mediation only. When facilitative leadership andcommunication safety were simultaneously en-tered into regression analyses, facilitative leader-ship remained a signiﬁcant predictor of per-
+formance. Entering innovative leadership and
+team reﬂexivity simultaneously reduced the var-iance explained by innovative leadership beha-viour, indicating that reﬂexivity mediated therelationship with performance. As stated pre-viously the director role was a non-signiﬁcantpredictor of team performance, F(1, 50) ¼2.52,
+p¼0.12. Entering project clarity removed the
+variance explained by leader role performance,
+such that the beta coefﬁcient was weak andnegative.
+We performed cross-lagged analyses to assess
+the link between leadership and team commu-nication. For example, we tested whether facil-itative leadership, controlling for communicationsafety at mail-out one, predicted communication
+safety one year later (or vice versa). These
+analyses tested whether effective leadership beha-viours led to positive team communication or viceversa, and are reported in Table 3. No consistentpatterns of results were evident for the directorrole and task communication. Facilitative leader-ship was a signiﬁcant predictor of communicationsafety one year later, even after controlling for
+communication safety at mail-out one, F(2,
+34)¼17.91, po0.01. Communication safety did
+not predict facilitative leadership. Similarly theinnovator role was a signiﬁcant predictor of teamreﬂexivity, controlling for reﬂexivity at mail-outone, F(2, 34) ¼3.81, po0.05. Team reﬂexivity
+did not predict innovator role performance.Thus the results demonstrate that the facilitator
+and innovator roles stimulate communication
+safety or team reﬂexivity rather than the con-verse.4.3. Customer ratings of performance
+Adjusted r-squares indicated that the model
+explained a quarter of the variance in team per-formance (28%). When all factors were enteredsimultaneously into a regression model, onlycommunication safety were a signiﬁcant predictorof team performance, F(5, 15) ¼1.28, po0.05.
+Communication safety ( r¼0.54) and all three
+scales comprising this factor: participative deci-
+sion making ( r¼0.45), power conﬂict ( r¼0.47)
+and open discussion ( r¼0.39) were signiﬁcantly
+correlated with team performance at mail-outtwo.
+4.4. Research managers’ ratings of
+performance
+The team communication model explained 27%
+of the variance in ratings of team performance at
+mail-out two. Overall leadership role perfor-
+mance( r¼0.37), the innovator ( r¼0.38) and the
+director role ( r¼0.33), were signiﬁcantly corre-
+lated with team performance at mail-out two.Within the task communication factor, the clarityof objectives scale was signiﬁcantly correlatedwith team performance across the ﬁrst three timeperiods (mail-out one r¼0.31, mail-out two
+r¼0.29, mail-out three r¼0.35).
+5. Discussion
+While the model of team communication ex-
+plained a substantial proportion of the variancein project performance over time, different com-munication factors predicted different stakeholders’
+assessments of performance (see summary Table
+4). Like Hooijberg and Choi’s (2000) results, theﬁndings strikingly illustrate that there are sys-tematic differences in the importance of different
+Table 3. Tests of the link between leadership and team communication: leader roles and team communication
+factors as determinants of team and leadership communication one year later.
+I.V. (M1) bAdjusted
+R2D.V. (M4) bAdjusted
+R2D.V. (M4)
+Boundary spanner 0.34* 0.38 Team boundary spanning 0.81** 0.58 Boundary spanner
+Team boundary spanning 0.39* /C00.07
+Facilitator 0.31* 0.50 Communication safety 0.58** 0.48 FacilitatorCommunication processes 0.50** 0.19
+Innovator 0.35* 0.14 Reﬂexivity 0.38* 0.16 Innovator
+Reﬂexivity 0.13 0.16Director 0.14 0.44 Task communication 0.60** 0.37 DirectorTask communication 0.60** 0.08
+Signiﬁcant at *0.05 level, **signiﬁcant at 0.01 level.Giles Hirst and Leon Mann
+154 R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+factors across different raters. Customers’ ratings
+of performance provided the strongest support
+for hypothesis three. Communication safety was
+the only signiﬁcant predictor of customer ratingsof project performance. Whereas research man-agers’ ratings of performance provided thestrongest support for hypothesis ﬁve; task com-munication was the most consistent predictor ofperformance. Mixed support was provided forthe functional leadership framework. We discuss
+different stakeholder perspectives, the distinction
+between leadership and team activities future re-search directions as well as the managerial impli-cations following.
+Whilst there has been an explosion in interest
+and research examining stakeholder management(Jones and Wicks, 1999) much of this attentionhas been directed towards the strategic level of
+the ﬁrm (cf. Ogden and Watson, 1999). Team
+studies that have used multiple performancemeasurements (cf. Campion et al., 1996; Hoegl
+and Gemeuneden, 2001) have largely ignored thetheoretical implications of divergent sets ofratings. As a consequence there is a theoreticalgap within the research. Thus we possess limitedtheoretical basis to explore systematic inﬂuences
+on the orientations of different stakeholders. We
+acknowledge this as both a limitation of ourresearch and the wider teams’ ﬁeld. Applyingstakeholder theories to the results leads us toconclude that key measures of effectiveness froman organizational perspective are those thatencourage efﬁciency and ordered task perfor-mance. Thus it was not surprising that task com-
+munication was the strongest predictor of team
+members’ and research managers’ ratings projectperformance. Task communication is likely toensure orderliness and structure, facilitating theefﬁcient use of resources and therefore enhancesoperational effectiveness. Efﬁciency, whilst valu-able from an organizational perspective, may notnecessarily spark innovation and the develop-
+ment of competitive processes and ideas that are
+crucial from a customer’s perspective, and thus isunlikely to be related to customers’ ratings of
+performance.
+Whilst a stakeholder perspective provides
+accurate predictions for the relationship betweentask communication and organizational perfor-mance, the link between communication safetyand customer ratings of performance is counter-intuitive. Further, the absence of any associationbetween team boundary spanning or customerinteraction and customer ratings of performance
+runs contrary to a stakeholder perspective, which
+proposes that activities which facilitate the teamand customer bond are likely to be those mostvalued by the customer. The results raises ques-tions as to how and when do we know stake-holder perspectives should be applied? And whenare alternate theoretical perspectives more appro-priate? Further research is needed to a priori test
+and contrast stakeholder theories with more
+established theoretical frameworks, such as thegoal setting literature or human relations the-ories, to understand when stakeholder basedtheories, provide more accurate predictions ofempirical relationships.
+We conclude that Zaccaro et al. (2001) func-
+tional leadership framework is an appropriate
+model for understanding the relationship between
+some types of leadership and team communica-tion. For example, leadership and team boundaryspanning activities are relatively independent pro-cesses, providing limited support for the notionthat team members role model leaders by engagingin high levels of boundary spanning. In contrast,consistent with the predictions of the functional
+leadership model, team reﬂexivity mediated the
+link between innovative leadership and teamperformance, whilst cross-lagged analyses de-monstrated innovative leadership behaviour ledto team reﬂexivity. Thus team leadership activ-ities may act in a differential fashion, i.e. somebut not all leadership activities may drive teamcommunication. Project leaders do not necessa-
+rily serve as role models leading team members to
+engage in certain types of communication, norTable 4. Support for different hypotheses across stakeholders.
+FactorStakeholder
+Team Customer Research manager
+H1.Leadership role performance | ? |
+H2.Team boundary spanning ? /C2 ?
+H3.Communication safety || | /C2
+H4.Reﬂexivity | ? /C2
+H5.Task communication || /C2 |
+||¼strong support, |¼supported, ? ¼weak support, /C2¼not supported.Team communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 155
+does task focused leadership necessarily lead to
+effective task communication and project clarity.Rather, the data suggests that the functionalleadership model is the most appropriate frame-work to study leadership roles that stimulate
+positive processes, encouraging interaction and
+reﬂection.
+5.5. Managerial implications
+Interview data from a leader responsible for apolitically tumultuous project poignantly illus-trates why different stakeholders may hold com-peting perspectives:
+We didn’t get stakeholders completely right y
+The stakeholders included the end-user custo-mer, it included the plant that had tomanufacture the product, the distributionand logistics system people yWhen you pack
+products into cases the more you put in a case,
+the harder it is squeeze them in and the more
+work an operator has to do, so they don’t likeus trying to get a lot of product into a case.But, the supply and transport people, they loveit. At the end of the day, whatever you do,every stakeholder will perceive that theirinterests are being compromised and they’reprobably right.
+The example of the new packaging product
+illustrates an inherent structural conﬂict wheredifferent functions hold competing goals. Com-panies should ensure that different functionsperformance targets are weighted towards super-ordinate goals, i.e. the release of a successful newproduct as opposed to individual cost reduction
+targets. Further, managers can enhance commit-
+ment to common goals by lobbying executives tovisibly support the development of a new pro-duct, and by explicitly linking new productrelease with key business and employee objec-tives, i.e. increased revenue and in turn enhancedresources and job security (Mohrman et al .,
+1995). Similarly, the identiﬁcation of external
+threats, such as competitor new product releases,
+will increase salience of common performancetargets. Having worked to align the struc-tural incompatibilities, Thomas (1992) suggestsa range of problems solving behaviours tofacilitate trust, goodwill and cooperation whilstfacilitating discussion of contentious issues. Theseproblem solving behaviours include frequently
+questioning, summarizing, evaluating and testingunderstandings, keeping the other party informed
+of ones actions, whilst avoiding the use ofunfavorable statements towards the other partyor their interests, as well as adversarial commentswhich defend or attack an approach and stating
+disagreements without ﬁrst providing reasons.
+Laying the groundwork for integrative negotia-tion will increase the likelihood that partiesaccurately exchange information, underlying con-cerns and openly discuss probable outcomes ofalternative courses of action. Finally seniormanagement sign-off of agreements within com-panies will provide formalized evidence of senior
+management buy-in.
+Managers should encourage leaders to develop
+innovative role behaviours and boundary span-ning leadership. Whilst training programs mayteach leaders how to stimulate debate and act asa devils advocate, attention to systemic issuesis essential to provide sustained behaviouralchange. Performance appraisal processes sup-
+porting innovation, i.e. requiring leaders to
+provide evidence of innovations developed, arenecessary to provide the impetus for lastingbehavioural changes. We suggest organizationscan enhance a leader’s boundary spanning abilityby implementing mentoring programs whichsocialize leaders to organizational norms, prac-tices and develop leaders’ inﬂuencing and cham-
+pioning skills. Whilst improvements in the
+transparency and objectiveness of resource me-chanisms may ‘on paper’ greatly diminish theimportance of boundary spanning behaviours,in many organizations important decisions willcontinue to be made through often informal andhidden networks. Similarly, complex technicalinformation is often best disseminated by face-to-
+face interaction and in the worst-case scenario,
+these formalized protocols serve to legitimizehidden decisions and hide tacit knowledge.Therefore we suggest leaders should be encour-aged to build their networks. In particular the useof in-house research forums and networkingevents particularly for peer groups providean efﬁcient means of developing leaders’ intra-
+company links and the potential pool of knowl-
+edge sharing resources.
+Communication safety was the strongest most
+consistent predictor of customer ratings of pro-ject performance. Given that project customersare the ultimate arbiters of performance, wepropose practitioners should direct much of theirattention towards facilitating these processes. In
+particular, we suggest a step-wise approach to
+progressively provide the conditions, good willGiles Hirst and Leon Mann
+156
+R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+and trust necessary for communication safety.
+Initially, practitioners should identify whetherthere is conﬂict and rivalry amongst teammembers. Should conﬂict be evident, leadersshould stress the importance of common targets,
+encouraging team members to focus on issues not
+personalities and if conﬂict continues consideraltering a team’s membership. Having addressedissues of power conﬂict, practitioners shouldencourage all team members to participate inteam discussions. Researchers have found thathumor (Avolio et al., 1999) and positive affect
+(West, 1997) encourages participation as well as
+enhancing the creativity of individuals sugges-
+tions. Having targeted participation, facilitatorsshould increase the openness by which individualsexpress their opinions, in particular discouragingnegative evaluations of ideas. Rather if there aredifferences of opinion, leaders should encourageteam members to suggest alternate positions andillustrate why these may be preferable.
+In conclusion, the study re-iterates the impor-
+tance of communication in driving innovationand project performance. However our ﬁndingsadd that perceptions of performance are relativeas different factors predict different stakeholder’sratings of performance. Thus there is an urgentresearch and practical need to understand whystakeholders adopt different perspectives. Further
+research should compare and contrast different
+interventions to test how effective they are indeveloping and maintaining consensus betweendifferent stakeholder groups.
+Acknowledgement
+This study was supported by a grant from theAustralian Research Council to Professor Leon
+Mann. The authors acknowledge the insightful
+feedback and advice of Michael West, FelixBrodbeck and Amy Edmondson.
+References
+Allen, T.J. (1984) Managing the Flow of Technology:
+Technology Transfer and the Dissemination of Tech-nological Information within the R&D Organization
+(2nd ed.). Cambridge MA: MIT Press.
+Amason, A.C. and Sapienza, H.J. (1997) The effects of
+top management team size and interaction norms on
+cognitive and affective conﬂict. Journal of Manage-
+ment,23, 4, 495–516.Ancona, D.G. and Caldwell, D.F. (1992) Bridging the
+boundary: external process and performance in
+organizational teams. Administrative Science Quar-
+terly,37, 634–665.
+Avolio, B.J., Howell, J.M. and Sosik, J.J. (1999) A
+funny thing happened on the way to the bottom line:
+Humor as a moderator of leadership style effects.Academy of Management Journal ,42, 2, 219–227.
+Baron, M.R. and Kenny, D.A. (1986) The moderator–
+mediator variable distinction in social psychologicalresearch: conceptual, strategic, and statistical con-siderations. Journal of Personality and Social Psy-
+chology ,51, 6, 1173–1182.
+Barry, D. (1991) Managing the bossless team: lessons
+in distributed leadership. Organizational Dynamics ,
+20, 1, 31–47.
+Bollen, K.A. (1989) Structural Equations with Latent
+Variables . New York: John Wiley.
+Boutty, I. (2000) Interpersonal and interaction inﬂu-
+ences on informal resource exchanges between R&Dresearchers across organizational boundaries. Acad-
+emy of Management Journal ,43, 1, 50–65.
+Brodbeck, F.C. (2001) Communication and perfor-
+mance in software development projects. European
+Journal of Work and Organizational Psychology ,10,
+1, 73–94.
+Brown, S.L. and Eisenhardt, K.M. (1995) Product
+development: past research, present ﬁndings and
+future directions. Academy of Management Review ,
+20, 343–378.
+Browne, M.W. (1975) Predictive validity of a linear
+regression equation. British Journal of Mathematical
+and Statistical Psychology ,28, 79–87.
+Campion, A.M., Papper, E.M. and Medsker, J.M.
+(1996) Relations between work group characteristics
+and effectiveness: a replication and extension.
+Personnel Psychology ,49, 429–452.
+Cohen, S.G. and Bailey, D.E. (1997) What makes
+teamwork: group effectiveness research from the
+shop ﬂoor to the executive suite. Journal of Manage-
+ment,23, 3, 239–290.
+Donnellon, A. (1986) Team work: linguistic models of
+negotiating differences. In: Sheppard, B., Lewicki, R.and Bies, R. (eds), Research on Negotiations in
+Organizations (Vol. 4). Greenwich CT: JAI Press.
+Dunbar, K. (1996) How scientists really reason:
+scientiﬁc reasoning in real-world laboratories. In:Sternberg, R.J. and Davidson (eds), The Nature of
+Insight . Cambridge MA: MIT Press, pp. 365–395.
+Edmondson, A.C., Bohmer, R.M. and Pisano, G.P.
+(2001) Disrupted routines: team learning and new
+technology implementation in hospitals. Administra-
+tive Science Quarterly ,46, 685–716.
+Fiedler, F.E. (1964) A contingency model of leadership
+effectiveness. In: Berkowitz, L. (ed.), Advances in
+Experimental Social Psychology ,1, 149–190. New
+York: Academic.
+Hackman, J.R. (1990) Groups that Work (and those
+that Don’t) . San Francisco CA: Jossey-Bass.Team communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 157
+Hoegl, M. and Gemeunden, H.G. (2001) Teamwork
+quality and the success of innovative projects: a
+theoretical concept and empirical review. Organiza-
+tion Science ,12, 4, 435–449.
+Hooijberg, R. and Choi, J. (2000) Which leadership
+roles matter to whom? An examination of rater
+effects on perceptions of effectiveness. Leadership
+Quarterly ,11, 3, 341–364.
+Jones, T.M. and Wicks, A.C. (1999) Convergent stake-
+holder theory. Academy of Management Review ,24,
+2, 206–221.
+Katz, R. and Tushman, L.T. (1979) Communication
+patterns, project performance, and task character-
+istics: an empirical evaluation and integration in anR&D setting. Organizational Behaviour and Human
+Performance ,23, 139–162.
+Keller, R.T. (2001) Cross-functional project groups in
+research and new product development: diversity,
+communications, job stress and outcomes. Academy
+of Management Journal ,44, 3, 547–555.
+Kerr, S. and Jermier, J.M. (1978) Substitutes for
+leadership. Organizational Behaviour and Human
+Performance ,22, 375–403.
+Kim, Y., Min, B. and Cha, J. (1999) The roles of R&D
+team leaders in Korea: a contingent approach. R&D
+Management ,29, 2, 153–165.
+Kim, H. and Yukl, G. (1995) Relationships of manage-
+rial effectiveness and advancement to self-reported
+leadership-reported leadership behaviours from the
+multiple-linkage model. Leadership Quarterly ,6,3 ,
+361–377.
+Kivimaki, M., Lansisalmi, H., Elovainio, M., Heikkila,
+A., Lindstrom, K., Harisalo, R., Sipila, K. andPuolimatka, L. (2000) Communication as a determi-nant of organizational innovation. R&D Manage-
+ment,30, 1, 33–42.
+Marks, M.A., Mathieu, J.E. and Zaccaro, S.E. (2001)
+A temporally based framework and taxonomy of
+team processes. Academy of Management Review ,26,
+3, 356–376.
+McCall, M.W. Jr. (1988) Leadership and the profes-
+sional. In Katz, R. (ed.), Managing Professionals in
+Innovative Organizations . Cambridge MA: Ballinger.
+Mohrman, S., Cohen, S. and Mohrman, L. (1995)
+Designing Team Based Organizations . London: Jos-
+sey-Bass.
+Mumford, M.D. and Gustafson, S.B. (1988) Creativity
+syndrome: Integration, application and innovation.
+Psychological Bulletin ,103, 1, 27–43.
+Ogden, S. and Watson, R. (1999) Corporate perfor-
+mance and stakeholder management: balancing
+stakeholder and customer interests in the U.K.
+privatized water industry. Academy of Management
+Journal ,42, 5, 526–538.
+Pelz, D.C. and Andrews, F.M. (1976) Scientists in
+Organizations . Ann Arbor MI: Institute for Social
+Research.Pirola-Merlo, A., Hartel, C., Mann, L. and Hirst, G.
+(2002) How leaders inﬂuence the impact of
+affective events on team climate and performance
+in R&D teams. Leadership Quarterly ,13,5 ,
+561–581.
+Shankman, N.A. (1999) Reframing the debate between
+agency and stakeholder theories of the ﬁrm. Journal
+of Business Ethics ,19, 319–334.
+Thamhain, H.J. and Wilemon, D.L. (1987) Building
+high performing engineering teams. IEEE Transac-
+tions on Engineering Management ,EM-34 ,3 ,
+130–137.
+Thamhain, H.J. (1996) Enhancing innovative perfor-
+mance of self-directed teams. Engineering Manage-
+ment Journal ,8, 3, 31–39.
+Thomas, K.W. (1992) Conﬂict and negotiation pro-
+cesses in organizations. In: Dunetter, M.D. andLough, L.M. (eds.), Handbook of Work and Organi-
+zational Psychology (2nd ed.). Palo Alto CA:
+Consulting Psychologists Press, pp. 651–717.
+Tjosvold, D. (1985) Implications of controversy
+research for management. Journal of Management ,
+11, 21–37.
+Visart, C. (1976) Communication and R&D perfor-
+mance. In: Pelz, D.C. and Andrews, F.M. (eds),
+Scientists in Organisations . Ann Arbor MI: Institute
+for Social Research.
+Waldman, D.A. and Atwater, L.E. (1994) The nature
+of effective leadership and championing processes at
+different levels in a R&D hierarchy. Journal of High
+Technology Management Research ,5, 2, 233–245.
+West, M.A. (1997) Developing Creativity in Organiza-
+tions. Leicester: British Psychological Society.
+West, M.A. (2000) State of the art: creativity
+and innovation at work. Psychologist ,13,9 ,
+460–464.
+West, M.A. and Anderson, N.R. (1996) Innovation in
+top management teams. Journal of Applied Psychol-
+ogy,81, 6, 680–693.
+West, M.A., Borrill, C.S. and Unsworth, K.L. (1998)
+Team effectiveness in organizations. In: Cooper,
+C.L. and Robertson, I.T. (eds), International Review
+of Industrial Organizational Psychology . Chichester:
+John Wiley.
+West, M.A., Garrod, S. and Carletta, J. (1997) Group
+decision-making and effectiveness: unexploredboundaries. In: Cooper, C.L. and Jackson, S.E.(eds), Creating Tomorrow’s Organizations: a Hand-
+book for Future Research in Organizational Beha-
+viour. Chichester: Wiley, pp. 293–317.
+Yukl, G. (2002) Leadership in Organizations (5th ed.).
+New Jersey: Prentice Hall.
+Zaccaro, S.J., Rittman, A.L. and Marks, M.A. (2001)
+Team leadership. Leadership Quarterly ,12, 451–483.
+Zirger, B.J. and Maidique, A.M. (1990) A model of
+new product development: an empirical test. Man-
+agement Science ,36, 7, 867–882.Giles Hirst and Leon Mann
+158 R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004
+Appendix A. Questionnaire measures; communication factor, scale and items
+Leadership role performance
+Boundary Spanner . Coordinating the team’s task with outside stakeholders. Collaborating with
+others outside of the team. Scanning the environment inside and outside the organization for ideas/expertise. Negotiating resources for the team. Negotiating project goals with the customer.Facilitator . Ensuring all team members have the opportunity to express their ideas and opinions.
+Acting to ensure that conﬂicts aren’t adversely affecting the team or its members. Engaging inactivities to build relationships within the team.
+Innovator . Challenging team assumptions about problems to ensure the best solution. Initiating
+new strategies and approaches to team tasks.Director . Negotiating allocation of tasks with team members. Establishing standards and priorities.
+Ensuring milestones and deadlines are met.
+Boundary spanning
+Team Boundary Spanning . When necessary team members consult with individuals who possess
+knowledge relevant to the project. Team members scan the environment inside and outside the
+organization for technical ideas and expertise. Team members seek relevant information from
+across the organization. Team members have access to individuals who possess technical expertiserelevant to the project.
+Communication safety
+Participative Decision Making . If a problem is encountered, members constructively discuss
+appropriate actions. Important decisions about the project are made by limited numbers of theteam. The input of all members is considered. If a problem is encountered all members are involvedin its resolution.
+Open Discussion . Team members can express their views openly. Ideas are openly evaluated by
+team members. Team members do not express their opinions for fear of recrimination or conﬂict.Within the team, members raise questions when confused or uncertain of an issue.Power Conﬂict . There is destructive rivalry between members of the team. Members jockey to
+control the decisions of the team. To obtain resources or support, members form coalitions withothers. Meetings are characterized by arguments between different coalitions within the team.
+Reﬂexivity
+Task Reﬂexivity . The team steps back from daily routines to consider whether the methods used are
+the best available. The team often reviews its objectives. The methods used by the team are oftendiscussed. The team regularly considers whether work performed meets project objectives.Process Reﬂexivity . We regularly discuss whether the team is working effectively together. How
+well we communicate information is often discussed. The way decisions are made in this team israrely altered.
+Task communication
+Clarity of Objectives . Team members have a clear understanding of project objectives. Project
+objectives are understood by all members. There is a lack of clarity concerning project priorities.
+Project objectives are clearly communicated to all members.Feedback . The team receives clear feedback regarding the project’s performance. Team members
+receive clear feedback regarding the quality of project work.Information Flow . Information circulates throughout the team. It is often difﬁcult to get answers to
+important questions about my work. Team members have access to all the information required todo their work effectively.Clarity of Customer Requirements . Team members have a clear understanding of the expectations
+of customer/funding agencies. The team discusses project objectives with customer/fundingagencies. Customer/funding agencies provide clear directions concerning desired project outcomes.The team receives frequent feedback from customer/funding agencies.Team communication
+rBlackwell Publishing Ltd 2004 R&D Management 34, 2, 2004 159
+Note
+1.Moderating effect of R&D type . We controlled for
+R&D type as previous research has found that the
+nature of the research task moderates the relation-ship between communication and project perfor-mance (Brown and Eisenhardt, 1995). For example,
+Katz and Tushman (1979) found that external
+communication across organizational boundariesdisplayed a signiﬁcantly stronger positive relation-
+ship with performance for research compared to
+development and technical service team. Thus teamswere classiﬁed according whether they involvedresearch tasks (i.e. basic or applied research) or
+product development (i.e. product development or
+technical services). In order to increase stability and
+sample size, stakeholders’ assessments of perfor-mance were averaged across the four mail-outs.
+Consistent with Katz and Tushman (1979) we
+found that team boundary spanning displayed apositive relationship with team ratings of perfor-
+mance for research teams (team performance
+r¼0.71, po.05) but not product development
+teams (team performance r¼/C00.17). No other
+differences were evident according to R&D type
+across communication factors or different raters.Giles Hirst and Leon Mann
+160 R&D Management 34, 2, 2004 rBlackwell Publishing Ltd 2004

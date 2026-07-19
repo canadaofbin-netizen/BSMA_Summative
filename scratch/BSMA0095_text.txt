@@ -1,0 +1,1767 @@
+NPD Projects in Search of Top Management Support:
+The Role of Team Leader Social Capital
+Barthélemy Chollet , Sébastien Brion , Vincent Chauvet , Caroline Mothe , Mickaël Géraudel
+In  M@n@gement  2012/1 Vol. 15  , pages 44 to 75
+Publisher AIMS
+DOI 10.3917/mana.151.0044
+Uploaded: 06/07/2012
+Article available online at
+https://shs.cairn.info/journal-management-2012-1-page-44?lang=en
+Discover the contents of this issue, follow the journal by email, subscribe...
+Scan this QR code to access the page for this issue on Cairn.info.
+Electronic distribution Cairn.info for AIMS.
+You are authorized to reproduce this article within the limits of the terms of use of Cairn.info or, where applicable, the terms and conditions of the license subscribed to by your
+institution. Details and conditions can be found at cairn.info/copyright.
+Unless otherwise provided by law, the digital use of these resources for educational purposes is subject to authorization by the Publisher or, where applicable, by the collective
+management organization authorized for this purpose. This is particularly the case in France with the CFC, which is the approved organization in this area.44
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Barthélemy CHOLLETAssistant Professor
+Grenoble Ecole de Management
+barthelemy.chollet@grenoble-em.com
+Sébastien BRIONAsssociate Professor
+IREGE Research Center 
+Université de Savoie
+sebastien.brion@univ-savoie.fr
+Vincent CHAUVETAssistant professor
+IREGE Research Center 
+Université de Savoie
+vincent.chauvet@univ-savoie.fr
+Caroline MOTHEFull Professor
+IREGE Research Center 
+Université de Savoie
+caroline.mothe@univ-savoie.fr
+Mickaël GÉRAUDELAssistant Professor
+Montpellier Recherche Management
+Groupe Sup de Co Montpellier Business School
+m.geraudel@supco-montpellier.frNPD Projects in Search of Top Management 
+Support: The Role of Team Leader Social Capital
+Abstract:
+A number of studies have found that the performance of NPD projects greatly 
+depends on the support they get from top management. However, research 
+into why some projects get more support than others has been limited. The 
+present paper takes a political approach to NPD, in which top management 
+support is considered to be a function of a project leader’s ability to influence 
+decision processes through personal relationships. Mobilizing the bridging per -
+spective of social capital, we argue that project leaders need both strong ties to 
+high-ranking others and sparseness in their networks. Vertical strong ties bring 
+direct support and solidarity, resulting in improved access to resources and 
+priority over other projects; sparseness provides exposure to the full range of 
+information and interpretations in the organization, resulting in a more accurate 
+picture of the political landscape and thus enabling the implementation of an 
+appropriate influence strategy. A PLS analysis of a sample of 73 French project 
+leaders involved in NPD projects provided support for our hypotheses. Hence, 
+we contribute to a very recent stream of research showing that the structural 
+and relational dimensions of social capital are complementary .
+Keywords: 
+Strong ties, boundary spanning, new product development, organizational 
+influence
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)45
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Over the last twenty years new product development (NPD) has be -
+come an important aspect of competition between firms (Brown & 
+Eisenhardt, 1995) and a growing area of research in the fields of man -
+agement, strategy and marketing (Song & Montoya-Weiss, 2001). Stud -
+ies have identified a number of factors that impact NPD performance, 
+including appropriate corporate strategy and organizational climate 
+(Song and Montoya-Weiss, 2001), the existence of up-front work and 
+tough go/kill decisions throughout processes (Cooper & Kleinschmidt, 
+2007 ), and specific team member characteristics and effective group 
+dynamics (Keller, 2001; Lovelace, Shapiro, & Weingart, 2001; Nakata & 
+Im, 2010). Another dimension that has regularly been shown to have a 
+significant impact is support from senior management and the commit -
+ment of sufficient resources to a project (Thamain, 2004; Jeong et al. 
+2006; Swink et al. 2006; Cooper & Kleinschmidt, 2007; Barczak, Griffin, 
+& Kahn, 2009). The more resources and attention top management al -
+locates to an NPD project, the higher the probability it will be a success. 
+In a rational approach to NPD these findings would have clear and logi -
+cal implications, indicating that top managers must invest attention in 
+and allocate resources to strategically important projects. However, 
+this conclusion does not seem to match the reality of organizational life 
+as depicted in authoritative field studies (Dougherty & Hardy, 1996; An -
+cona & Caldwell, 1992 ). T op management support (TMS) is not only a 
+function of the intrinsic strategic value of projects; it is also the result of 
+complex political processes. First, different projects within an organiza -
+tion have to compete for resources (Ancona & Caldwell, 1992), which 
+puts pressure on teams to draw up an influence strategy rather than 
+simply waiting for decisions to be handed down. This leads to lobbying 
+tactics and results in a decoupling of the strategic value of a project 
+from the support it receives from top management. Second, as NPD 
+projects do not have a fixed and secure position in the firm’s functional 
+structure or hierarchy, project managers do not have a stable power 
+base (Pinto 2000). Because organizational design usually favors func -
+tional goals rather than the effectiveness of temporary projects, NPD 
+teams often have difficulty accessing key resources unless they make 
+strenuous efforts to promote their project (Ancona & Caldwell 1992).
+In line with this political view of NPD projects, NPD teams and their 
+leaders must consider TMS to be an endogenous variable which they 
+have to maximize over the course of their project, rather than as an ex -
+ogenous input. Thus, this approach to NPD raises new and important 
+questions for the understanding of performance drivers: why are some 
+leaders better than others at gaining TMS? How can leaders increase 
+their access to organizational resources and attention? The present 
+paper addresses these questions by focusing on the antecedents of 
+team leaders’ abilities to gain TMS for their projects. 
+Previous research has generally considered such abilities to be an out -
+come of a project leader’s “organizational influence” (Clark & Fujimoto, INTRODUCTION
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)46
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-751991; Eisenhardt & T abrizi, 1995; Scott, 1997; T atikonda & Rosenthal 
+2000), a construct that embraces a project leader’s informal status 
+and hierarchical power. In this paper we offer an alternative approach 
+in which organizational influence is also highly dependent on a proj -
+ect leader’s personal relationships. We argue that regardless of their 
+status or hierarchical rank, team leaders can leverage their social ties 
+throughout the organization to influence decision-making processes. 
+Based on the bridging perspective of social capital (Adler & Kwon, 
+2002), we conceptualize this need for social ties by underlining the im -
+portance of two aspects of a project leader’s network. In order to gain 
+TMS effectively, project leaders must have strong ties to senior manag -
+ers, as this will allow them to secure help directly from the top and gain 
+priority over other projects, and their network must also be sufficiently 
+sparse to ensure access to the wide variety of information needed to 
+form an accurate picture of the political landscape. Although these two 
+network conditions (strong ties and sparseness) have often been seen 
+as incompatible on a conceptual level (Burt, 1992; Hansen, Podolny, & 
+Pfeffer, 2001; Seibert, Kraimer, & Liden, 2001), we suggest that com -
+bining them is both possible and very necessary in the context of NPD 
+projects. 
+Our theoretical framework, which builds on both the political approach 
+to NPD projects and the bridging perspective of social capital, allowed 
+us to develop a number of hypotheses about NPD performance, TMS 
+and social capital. We then tested these hypotheses with respect to 
+data collected from NPD project leaders in French firms. Our results 
+support the notion that project leaders need both strong ties and net -
+work sparseness in order to gain TMS. In turn, gaining TMS impacts 
+NPD performance. We conclude by discussing the implications of these 
+findings, along with their limitations and avenues for future research.
+THEORETICAL BACKGROUND
+A political approach to NPD
+In a seminal study, Ancona and Caldwell (1992) found that teams that 
+dedicate most of their time to coordination or to the search for technical 
+knowledge were not the best performers. The best performing teams 
+were found to be those that dedicated equal or more time to relational 
+activities with top management in order to understand top manag -
+ers’ expectations and preferences, to differentiate between allies who 
+would support initiatives and potential enemies, and to carry out in -
+tense lobbying to promote the project and justify access to addition -
+al resources. Similarly, field studies of NPD processes (Dougherty & 
+Hardy, 1996; McLoughlin, Koch, & Dickson, 2001) have shown that the 
+development of an innovation rarely garners organization-wide support 
+and that team members have to engage in a range of relational activi -
+ties in order to lobby for resources and obtain the support of key actors.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)47
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Such findings substantiate the need to take a political approach to 
+NPD, and suggest that the resources a project receives are more a 
+function of a team’s ability to influence decision-making than a corol -
+lary of the project’s potential intrinsic strategic value. Of course, there 
+is nothing new in the notion that there is only limited rationality in the 
+way top management allocates resources and attention to subparts of 
+an organization (in our context, projects), and that such allocations are 
+the result of conflicting individual strategies (March & Olsen 1976; Oca -
+sio, 1997). Nevertheless, this aspect seems to have been overlooked in 
+NPD research, resulting in a series of unanswered questions. Although 
+studies have shown on an empirical level that a project team’s success 
+depends on the procurement of appropriate quantities of resources, 
+whether time, funds or staff, they have paid little attention to why some 
+teams are more successful than others in obtaining these resources 
+(e.g. Carbonell & Rodriguez-Escudero, 2009; Henard & Szymanski, 
+2001; Brown & Eisenhardt, 1995; Chen et al. 2010). 
+Part of the answer to this question is that much depends on the project 
+leader. In particular, project leaders with higher organizational status 
+seem to be better at getting support from top management (Clark & 
+Fujimoto, 1991; Eisenhardt & T abrizi, 1995; Scott, 1997; T atikonda & 
+Rosenthal 2000). Project leaders with strong organizational influence 
+bring both symbolic and instrumental value to a project. Their influence 
+and prestige make it easier for them and their team to convince out -
+siders that the project is important (Scott, 1997; Sarin & McDermott, 
+2003). Moreover, an influential leader can more easily gain access to 
+top management in order to secure resources (Eisenhardt & T abrizi, 
+1995). Finally, a project leader’s influence can also help minimize the 
+consequences of conflicts with outsiders (Sarin & McDermott, 2003).  
+Although these findings shed light on why some teams do better than 
+others in obtaining support from top management, they do not provide 
+a complete answer to the question. In particular, the notion of a proj -
+ect leader’s “organizational influence” remains unclear. Relying on high 
+status or organizational rank may not be the only way a project leader 
+can influence decision-making. Research into political behavior within 
+organizations (T readway et al., 2005; Hochwarter et al., 2007) shows 
+that individuals’ attempts to influence decisions are firmly based on re -
+lational mechanisms. Influence is not just something a person has; it 
+is also something a person makes happen through personal relation -
+ships. Thus, in an attempt to elucidate the political aspects of NPD pro -
+cesses more fully, we consider that, in addition to his/her organizational 
+status, a project leader’s ability to get TMS also depends on his/her 
+social capital. 
+Project leaders’ social capital from a bridging 
+perspective
+The importance of personal relationships for individual or organization -
+al performance has received a lot of attention (Granovetter, 2005) and 
+has been addressed from various angles. Some authors have used 
+embeddedness (Granovetter, 1985) to designate situations where or -
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)48
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75ganizational processes appear to be the result of social framing and 
+exchanges through social ties (Uzzi, 1997; Rost, 2010). Others have 
+referred to social networks (Zhou et al., 2009), or to social capital 
+(T sai and Ghoshal, 1998; Koka and Prescott, 2002; Batjargal, 2003; 
+Casanueva and Callego, 2010). Adler and Kwon (2002) made a cru -
+cial contribution by combining these different notions and by showing 
+how each relates to the broader integrative concept of social capital. In 
+the present paper we examine social capital from the project leader’s 
+perspective, viewing it as “ resources embedded in a social structure 
+of relationships which are accessed and/or mobilized in purposive ac -
+tions ” (Lin, 2001: 12). We adopt the “bridging perspective” of individual 
+social capital (Adler & Kwon, 2002: 19), according to which “ social 
+capital can help explain the differential success of individuals and firms 
+in their competitive rivalry: the actions of individuals and groups can 
+be greatly facilitated by their direct and indirect links to other actors in 
+social networks ”. 
+Such a perspective has already been applied to studies of innova -
+tion teams (Hansen, Podolny, & Pfeffer, 2001; Reagans, Zuckerman, 
+& McEvily, 2004), with the finding that certain types of personal rela -
+tionships between team members and the rest of their organization or 
+other organizations increase the chances of success. This observation 
+is also supported by research into the role of boundary-spanning ac -
+tivities in organizational and team performance (Katz, and T ushman, 
+1981; Marrone et al., 2007). Despite the notable contribution of these 
+studies, they do not pay sufficient attention to how personal relation -
+ships help teams handle the political aspects of innovative processes. 
+As Willem and Scarbrough (2006) pointed out, previous research has 
+misleadingly considered social capital to be a vehicle for knowledge 
+circulation and fruitful coordination, without paying enough attention to 
+its very political nature. They found that personal relationships serve as 
+tools to exert pressure and manipulate information as part of influence 
+strategies. Indeed, social networks are known to provide decisive path -
+ways through which actors can influence decision processes in a ben -
+eficial way and obtain political advantages over other actors (Krack -
+hardt, 1990; Burt, 1992; Lazega, 2001). For example, in his extensive 
+study of the functioning of a law firm, Lazega (2001) highlighted the fact 
+that professionals must be capable of understanding and manipulat -
+ing social relationships if they are to influence decisions in a context of 
+intense internal competition. Hence, there is a strong need for a better 
+understanding of how social capital helps team leaders in the political 
+processes associated with innovation projects.
+The bridging perspective makes it clear that the benefits of social capi -
+tal are related more to the quality and structural configuration of ties 
+than to their number (Adler & Kwon, 2002). Discussions of these two 
+dimensions in the literature have given rise to two theoretical debates, 
+one comparing the benefits of weak and strong ties (Granovetter, 1973; 
+Hansen, 1999), the other comparing dense networks of interconnected 
+contacts with sparse networks of unrelated others (Burt, 1992). In both 
+debates there is a conflict between two highly valuable outcomes of 
+social capital. On the one hand, personal relationships can result in 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)49
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75indirect connections to distant sources of information, which would 
+be expected to provide more diverse and accurate information and 
+thereby make it easier to seize opportunities and build more appro -
+priate strategies. Such an information advantage has been associated 
+either with network sparseness or with weak ties (Burt, 2004; Hansen, 
+Podolny, & Pfeffer, 2001). On the other hand, social capital facilitates 
+individual action through direct support and solidarity from close per -
+sonal contacts, with outcomes such as facilitated resource access, pri -
+ority over competing requests, and help completing a task. This type of 
+specific benefit is considered to result from either very dense networks 
+or strong ties. In line with recent developments in these debates (McFa -
+dyen et al., 2009; Rost, 2010), we argue that these favorable outcomes 
+(non-redundant information and solidarity) are not contradictory and 
+that both are required if a project is to benefit from TMS. 
+HYPOTHESES
+Top management support and NPD performance
+As part of a vast effort to understand what drives NPD project perfor -
+mance, many practice-oriented benchmark surveys have found that 
+TMS for a project is an essential dimension (Griffin, 1997; Thamain, 
+2004; Cooper & Kleinschmidt, 2007; Barczak, Griffin, & Kahn, 2009). 
+Overall , TMS involves senior managers’ ensuring “ that structure, pro -
+cesses, available resources, and other organizational mechanisms 
+support innovation teams ” (Barczak et al., 2009:12). The idea that TMS 
+favors performance is also supported by numerous empirical studies 
+that have been summarized in three important meta-analyses. A review 
+of 12 studies allowed Montoya-Weiss and Calantone (1994) to demon -
+strate a direct link between TMS and project performance. Henard and 
+Szymanski (2001) obtained analogous results in an analysis based on 
+41 studies. More recently, Chen et al. (2010) reported similar findings 
+following a meta-analysis of 70 studies that used NPD speed as the 
+performance metric.
+TMS facilitates the commitment of resources to a project, which is a 
+crucial factor in success (Dougherty & Hardy, 1996). It leads to more 
+funds being made available and to the allocation of appropriate people 
+with time freed up for the project (Cooper & Kleinschmidt, 2007). In ad -
+dition, by providing a clear expectation that additional resources will be 
+added or reallocated in the case of unforeseen events, TMS reduces 
+uncertainty for the team throughout the NPD process (Pate-Cornell and 
+Dillon, 2001) because the team can count on the project’s resources 
+being adjusted as needed (Lewis et al., 2002). Some authors maintain 
+that TMS is not only about the commitment of tangible resources (time, 
+human resources, funds), as these resources cannot really have an im -
+pact if they are not combined with a supportive attitude and leadership 
+(Ernst, 2002; Blindenbach-Driessen & Van den Ende, 2006). Similarly, 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)50
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Chen, Damanpour and Reilly (ibid, 2010:19) considered TMS as “se -
+nior management’s favorable attitude and commitments”. When team 
+members feel they have the interest and support of senior manage -
+ment, they are more likely to assume greater ownership of the proj -
+ect and adopt riskier options that may lead to more innovative ideas 
+(Swink, 2000; Akgün et al., 2007). They also tend to pay more atten -
+tion to detail, as they do not need to worry about conserving resources 
+for extra analyses or rework cycles for the design of the new product 
+(Swink, 2003). The importance of TMS is increased by the fact that rou -
+tines and functional goals in a firm’s structure often conflict with the 
+innovation-oriented objectives of NPD teams, thereby creating serious 
+obstacles to resource access (Dougherty & Hardy, 1996; Pinto, 2000). 
+TMS provides a project with sponsorship and visibility throughout the 
+organization (Swink, 2000). This considerably facilitates access to or -
+ganizational resources throughout the process, as other members of 
+the organization know that top management expects them to provide 
+assistance if needed (Sethi et al., 2001). 
+At the same time, top management has to avoid managerial over-com -
+mitment to projects, as this can lead to wasting resources and ineffec -
+tive over-control (Sethi et al., 2001; Bonner et al., 2002; Swink, T alluri, & 
+Pandejpong, 2006). Consequently, it can be argued that more support 
+is beneficial only up to a certain point and that there is a need for “bal -
+anced support” or “balanced top management commitment” (Anthony 
+& McKay, 1992; Swink et al., 2006). Despite these counter-arguments, 
+the above-mentioned contributions of TMS and previous empirical find -
+ings led us to hypothesize that TMS would positively impact NPD per -
+formance. 
+H1: The more successful a project leader is in gaining top man -
+agement support, the higher NPD performance
+Project leader’s social capital and top management 
+support
+Strong ties and top management support
+Granovetter (1973: 1361) defines the strength of a tie as “ a (probably 
+linear) combination of the amount of time, the emotional intensity, the 
+intimacy (mutual confiding), and the reciprocal services which charac -
+terize the tie ”. As well as developing a “strength of weak ties argument” 
+in which he pointed out the negative constraints that strong ties can ex -
+ert on individual actions, Granovetter underlined the value of strong ties 
+(1973), a path that has been followed by several other authors (Podolny 
+and Baron, 1997; Hansen et al., 2001; Collins and Clarks, 2003). First, 
+some of the information needed by project leaders will be unofficial and 
+therefore not publicly available. Obtaining access to such information 
+requires strong ties, especially if the information is sensitive and trans -
+ferring information poses risks for the provider. This is because strong 
+ties are often associated with high levels of trust (Ingram & Roberts, 
+2000; Uzzi & Lancaster, 2003). Second and more importantly, strong 
+ties include motivation for an alter  to provide resources and support to 
+a focal actor (Krackhardt, 1992). This is particularly crucial when there 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)51
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75is internal competition between projects. In such cases, project leaders 
+need support from key actors in the organization to obtain the neces -
+sary resources. A project leader’s strong ties are more likely to show 
+commitment to and stand up for him/her. Third, strong ties can result in 
+important referrals that promote a project. A person who is connected 
+to a project leader via a strong tie will often be aware of the resources 
+and competences the project leader possesses (Borgatti & Cross, 
+2003), increasing the probability that that person will spread favor -
+able information about the project. Furthermore, as well as spreading 
+information, strong ties often introduce a “positive bias” by only relay -
+ing the most favorable aspects. This phenomenon is explained by the 
+tendency for people to over-estimate the qualities of others with whom 
+they have strong ties, due to the emotional components of this type of 
+tie (Gershoff & Johar, 2006). Hence, a project leader’s strong ties are 
+more likely to result in positive comments about a project and thereby 
+enhance its legitimacy and visibility within the organization. 
+However, social resources theory (Lin, 1999; Seibert et al., 2001) sug -
+gests that strength of ties and network structure do not fully account 
+for social capital. The benefits provided by contacts also result from 
+the amount of resources they control (Lin, 1999). Lin (1999) particu -
+larly stresses the importance of contacts with people of a higher social 
+position, a notion that seems particularly pertinent when his focus on 
+job searching is transposed to our context of project leaders struggling 
+to obtain TMS. In this case, the availability of resources is highly de -
+pendent on the hierarchical position of contacts. Similarly, developing 
+positive personal relationships with top management has been shown 
+to be a way of building coalitions that can influence decision-making 
+processes in a favorable way (Hochwarter et al., 2007). Oh et al. (2004) 
+also refer to “vertical ties” as particularly important for team leaders, as 
+they provide access to resources that are not accessible in the team’s 
+immediate environment. Contacts at higher levels have greater formal 
+decision-making authority and can therefore strongly influence re -
+source allocation (Seibert et al., 2001). Connections to these influential 
+managers will “ facilitate an organization member’s ability to upwardly 
+influence as well as to gather needed resources in a timely manner to 
+accomplish tasks ” (ibid: 865). In addition, visible social ties to hierarchi -
+cal superiors can give the team legitimacy (Cross & Cummings, 2004), 
+thereby making it easier to get support from other senior managers, 
+rather than just from managers in the project leader’s personal network. 
+Combining the strength of strong ties and social resources theories, 
+we hypothesized that having strong ties to the firm’s top managers can 
+make it easier to obtain TMS for a project.
+H2: The greater the number of vertical strong ties in a project 
+leader’s network, the more successful he/she will be in gaining 
+top management support
+Network sparseness and top management support
+Research into political behavior in organizations has shown that build -
+ing a consistent strategy for influencing decision-making processes 
+requires an accurate vision of the “political landscape” so that focal 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)52
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75actors can put their actions into a global context (Krackhardt, 1990; 
+Hochwarter et al., 2007). As Ancona and Caldwell (1992) point out, 
+understanding the political landscape surrounding the team allows the 
+project leader to identify people who may support or threaten the proj -
+ect to understand how the project should be packaged in order to meet 
+the unofficial expectations of top management and to access informa -
+tion about project evaluation processes that is not readily obtainable. 
+Social ties at work are useful for this purpose because they are impor -
+tant vehicles for a lot of information that is not openly available (Krack -
+hardt, 1990; Balkundi & Kilduff, 2005; Hochwarter et al., 2007). 
+As noted above, vertical strong ties offer informational advantages. 
+However, what they affect is the type of information a project leader 
+can access (Ingram & Roberts, 2000; Uzzi & Lancaster, 2003), not the 
+breadth of the information, which is a crucial aspect in developing an 
+understanding of the political landscape (Burt 1992). Information diver -
+sity and breadth require complementary forms of social capital, and 
+depend on the structure of the network. In line with previous research, 
+we argue that information breadth is greater in “sparse networks”, that 
+is, networks with many poorly connected contacts (Rodan & Galunic, 
+2004; McFadyen et al., 2009). Consistent with Burt’s theory (1992, 
+2004), project leaders with a lot of “structural holes” (where there is no 
+tie between two contacts) in their networks will have different informa -
+tion sources and will be exposed to different perspectives. This should 
+make it easier for them to understand the internal organizational con -
+text and improve their ability to target key support and to adopt a lob -
+bying message that will meet top managers’ expectations. Conversely, 
+project leaders with highly cohesive networks will tend to be trapped in 
+a single vision of the work environment (Burt, 2004), as interconnected 
+contacts tend to have similar information (Burt, 1992), leading to an 
+incomplete and inaccurate understanding of how they can influence 
+decisions. 
+The above-described informational advantage of having a sparse net -
+work is also due to the position of tertius gaudens, a notion inherited 
+from Simmelian sociology (Burt, 1992). T ertius gaudens describes a 
+person who benefits from being between two unconnected parties. Be -
+cause there is no connection between the two parties, the focal actor 
+can manipulate them to his/her benefit, for example by controlling and 
+distorting the flow of information from one party to the other. As the fo -
+cal actor simultaneously interacts with people who do not know each 
+other well, he/she can exert tighter control over the circulation of project 
+information and make sure it is seen only from its best side. 
+Although some studies have reported a negative relationship between 
+network sparseness and performance (Ingram & Roberts, 2000; Obst -
+feld, 2005), others, particularly those in which team performance is the 
+dependent variable, have provided strong support for Burt’s hypoth -
+esis. For example, Hansen et al. (2001) found that structural holes and 
+brokering positions allow project teams to perform well in exploration 
+tasks, and Reagans et al. (2004) found that the performance of R&D 
+teams is related to the number of structural holes in their networks. In 
+addition, Vissa and Chacar (2009) showed that network sparseness in 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)53
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75the advice network of entrepreneurial teams leads to higher success. 
+H3: The greater the sparseness of a project leader’s network, 
+the more successful he/she will be in gaining top management 
+support
+The theoretical model for our research is summarized in Figure 1.
+Figure 1. Theoretical model
+ 
+ 
+NPD  
+Performance  Project leader’s 
+social capital  
+ 
+Top 
+management 
+support for the 
+project  H1 
+H3 H2 Vertical strong ties  
+Network sparseness  
+RESEARCH METHODOLOGY
+Sample and data collection
+We tested our hypotheses on a sample of project leaders involved in 
+NPD projects in a variety of industries. In March 2008 we sent an online 
+questionnaire to 782 project members listed in two French databases: 
+the AFITEP (French Association of Project Management) and Rhône-
+Alpes Chamber of Commerce. The first database included only project 
+leaders. The second was less specific; therefore, we asked human re -
+sources managers, as key informants, to pass on our questionnaire to 
+project leaders within their firms. Nevertheless, some responses came 
+from team members, and these questionnaires had to be eliminated to 
+ensure our final sample included only project leaders. 
+Respondents were asked to complete the questionnaire with reference 
+to a completed NPD project they had managed. Relying on project 
+leaders to collect information regarding an NPD project is a widespread 
+research method in the field (Song & Montoya-Weiss 2001; Olson et 
+al., 1995). An alternative approach is to rely on senior managers as 
+key informants, but project leaders tend to be more familiar with the de -
+tails of their project than senior managers (Henard & Szymanski, 2001; 
+Montoya-Weiss & Calantone, 1994). Moreover, our focus on TMS as a 
+central variable raises additional concerns about the reliability of se -
+nior managers as informants. In a meta-analysis of the effect of TMS 
+on NPD performance, Henard and Szymanski (2001) found that the 
+positive impact of TMS was stronger in studies that collected data from 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)54
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75project managers rather than from top managers. These authors sug -
+gested that senior managers often underestimate the importance of 
+their own support for NPD performance, as they found that senior man -
+agers tend to place more emphasis on external factors, such as the risk 
+of competitive responses to the new product. 
+After two follow-up emails sent after 10 and 20 days, we obtained 243 
+completed questionnaires (response rate of 31%). T o ensure that our 
+study was based on a homogenous sample, we crossed the sector 
+variable with the nature of the project variable (new product/service, 
+new process) and selected only projects involving the design of new 
+products/services. This reduced the sample to 83 questionnaires. As 
+10 of these questionnaires were incomplete, our final sample consist -
+ed of 73 valid questionnaires completed by NPD project leaders. The 
+company names on these questionnaires were all different , allowing us to 
+conclude that the project managers interviewed belonged to different firms. 
+Although the final sample was relatively small, its size was comparable 
+to the samples used by most previous studies of NPD projects (see, 
+for example, Gerwin & Barrowan, 2002, for a review of the sample 
+compositions of 26 studies). Most of the respondents worked for large 
+firms (more than 500 employees: 61.6%), with 64.4% of respondents 
+working for manufacturing firms and 35.6% of respondents working for 
+service firms. The mean project duration was 16 months. Most of the 
+project teams in the sample were relatively small (60% of project teams 
+had fewer than 5 members; 85% had fewer than 10 members). Further 
+details of sample characteristics are given in Appendix 1 .
+Measures 
+NPD Performance
+NPD performance has been defined as the degree to which a new 
+product achieves the goals originally established by the firm for the 
+product, for example, in terms of customer satisfaction, technological 
+advancement, and overall product performance (Kleinschmidt & Coo -
+per, 1991; Page, 1993; Nakata & Im, 2010), but how this performance 
+should be measured is still the subject of intense debate (Hart, Jan 
+Hultink, & T zokas, 2003). An overwhelming majority of studies have 
+used perceptual measures. In the present study we used subjective 
+measures for three main reasons: firms’ reluctance to release actual 
+financial data (Olson, Walker, & Ruekert, 1995), managers’ unwilling -
+ness to provide objective measures (Nakata & Im, 2010), and the need 
+to standardize business outcomes across different industry settings 
+(Olson et al., 1995). Moreover, previous research has demonstrated a 
+close correspondence between subjective and objective measures of 
+performance (Song & Parry, 1997; Nakata & Im, 2010).
+As in Olson et al. (1995), our measures consisted of a series of single-
+item assessments by the project managers. We chose measures that 
+capture “external performance” (Sarin & Mahajan, 2001), that is, mea -
+sures focusing on the end-result of the NPD project. We took into ac -
+count the market and the financial outcomes of the NPD project, with 
+items adapted from previous studies that took a similar approach to 
+performance measurement (Griffin & Page, 1993; Sethi, 2000; Sarin 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)55
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75& Mahajan, 2001; Garcia et al., 2008). As a result, we measured NPD 
+performance by combining the degrees to which the project (a) pro -
+vided access to new markets, (b) increased the firm’s turnover and (c) 
+increased the firm’s profits (see T able 1). The items were measured us -
+ing 6-point Likert scales.
+Top management support
+Although previous studies have found strong empirical evidence that 
+TMS impacts NPD performance (Chen et al., 2010; Carbonell & Rodri -
+guez-Escudero, 2009; Henard & Szymanski, 2001; Swink et al., 2006; 
+Cooper & Kleinschmidt, 2007; Barczak, Griffin, & Kahn, 2009), they 
+have used different perceptual measures to capture TMS, with differ -
+ences in the breadth of item formulation. In line with the notion that TMS 
+is about both providing resources and gaining attention (Ernst 2002; 
+Blindenbach-Driessen & Van den Ende, 2006), we followed Swink’s 
+approach for measuring TMS (Swink, 2003; Swink et al., 2006) as a 
+combination of two distinct items: one item capturing TMS in terms of 
+providing resources, the other item capturing TMS in terms of attention 
+from top managers. 
+The exact formulations of these two items (“ Acquire resources from 
+your hierarchy ”; “Persuade your hierarchy to support the team’s deci -
+sions ”) were taken from Ancona and Caldwell’s (1992) study of the 
+factors of NPD performance1. An advantage of Ancona and Caldwell’s 
+(1992) items is that they require the respondents to assess how good 
+they were at these activities during the project. Indeed, in line with the 
+notion that social capital impacts TMS through relational mechanisms, 
+we wanted to capture TMS as the outcome of intentional actions, rather 
+than as a variable that is exogenous to the team leader.
+Table 1.  Variables for NPD performance and top management support
+Variable Items
+NPD performance 
+(adapted from 
+Griffin & Page, 
+1993; Sethi, 2000; 
+Sarin & Mahajan, 
+2001; Garcia et al., 
+2008)Did this project allow your firm… [6-point Likert scale 
+from “to a very small extent” to “to a very great extent”]
+- T o win new markets?
+- T o increase financial returns?
+- T o increase its turnover?1.Their initial set included 24 items captur-
+ing a variety of relational activities that teams need to perform during a project (coordinat-ing with external groups, searching for ideas, solving conflicts, asking for resources, “talk-ing up” the project to outsiders, etc.)
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)56
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75TMS for the project 
+(adapted from 
+Ancona & Caldwell, 
+1992; Swink et al., 
+2006)During the project, to what extent did you manage 
+to… [6-point Likert scale from “to a very small extent” 
+to “to a very great extent”]
+- Persuade your hierarchy to support the team’s 
+decisions?
+- Acquire resources from your hierarchy?
+Social capital 
+Name generators.  Respondents were asked to list individuals with 
+whom they had a significant amount of contact in their day-to-day jobs. 
+T o address the risk of memory bias inherent to any ego-network study, 
+we used multiple items ( Appendix 2 ), with each extra item requiring 
+the respondent to make an additional recall effort (Brewer & Webster 
+1999). In addition, using multiple items prevents the measurement 
+from being influenced by the wording of the items (Straits 2000). Be -
+fore building the measures, we aggregated the names cited for differ -
+ent forms of interactions into a single list. This measurement strategy is 
+consistent with previous studies in the field of innovation (Burt, 2004; 
+Rodan & Galunic, 2004; Obstfeld, 2005; Regans & McEvily, 2003; 
+Reagans, Zuckerman, & McEvily, 2004)2. Once they had named their 
+contacts, respondents had to answer single-item questions (described 
+below) about each contact. The measures for each respondent are in -
+dices calculated by aggregating responses for all the contacts.
+Vertical strong ties.  As Granovetter stressed (1973), the definition of 
+strength of ties cited above does not presuppose any specific meth -
+od for measuring the concept. Although some authors have used the 
+duration of the tie (Podolny & Baron, 1997; Collins & Clark, 2003), a 
+large majority of studies have used either emotional closeness (Burt, 
+1992; Hansen, et al., 2001; Seibert, et al., 2001; Collins & Clark, 2003; 
+Reagans et al., 2004; Rodan & Galunic, 2004) or frequency of interac -
+tion (Burt, 1992; Gabbay & Zuckerman, 1998; McEvily & Zaheer, 1999; 
+Hansen et al., 2001; Collins & Clark, 2003; Levin & Cross, 2004; Rea -
+gans, et al., 2004). However, Marsden and Campbell (1984) found that 
+measurement validity was higher for measures of emotional closeness 
+than it was for measures of frequency of interaction, as frequency of 
+interaction is often a correlate of variables that are not connected to 
+tie strength, such as geographical proximity or task-interdependence. 
+Consequently, we followed Burt (1992), Reagans et al. (2004) and Ro -
+dan and Galunic (2004) and assessed emotional closeness by ask -
+ing respondents to rate each cited contact on a 4-point Likert scale of 
+“distant”; “not very close”; “close”; “very close”. In line with Seibert et al. 
+(2001), Perry-Smith (2006), and Zhou et al. (2009), strong ties were 
+considered to be those rated “very close”. Due to the focus of H2 and 
+the nature of our dependent variable (TMS), we only considered strong 
+ties connecting the respondent to top managers. Each respondent was 
+asked to assess the hierarchical level of every cited contact on the fol -
+lowing Likert scale: 5 for N: maximum level possible (CEO); 4 for N-1; 3 2.Due to the above-mentioned risk of mem-
+ory bias, using multiple items but consider-ing their outputs separately would lead to biased results. This has been demonstrated empirically by Burt, who found that aggre-gating names leads to stronger empirical results compared with analyzing the outputs of name-generators separately (Burt 1997).
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)57
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75for N-2; 2 for N-3; 1 for other levels. All cited contacts below level 4 were 
+excluded from calculations. 
+Network sparseness . We followed Burt (1992) and Anderson (2008) 
+and chose effective size to measure network sparseness. Effective 
+size is the number of contacts a respondent cites minus a “redundancy 
+factor” (Burt, 1992: 55) that accounts for the level of interconnections 
+between these contacts. 
+Figure 2. Ego’s network
+In Figure 2, Ego has six contacts (network size is 6) but the six contacts 
+cannot be considered six unique sources of information. For example, 
+because Saji is connected to JP and Gunther, he will provide little in -
+formation that is different from theirs. These connections increase the 
+amount of redundancy in the network and therefore reduce the breadth 
+of information access. The redundancy factor is calculated as the av -
+erage number of ties that a contact has to other contacts, not includ -
+ing ego. For instance, the number of ties to be considered for Saji is 
+2 (ties to JP and Gunther), for Zack it is 0, and for Cathy it is 1. In this 
+example, the contacts in the network have an average of 1.667 ties 
+(the redundancy factor) to other contacts, leading to an effective size 
+of 6-1.667=4.333. In order to calculate effective size, each respondent 
+was asked to indicate whether a pair of contacts was connected and 
+to do this for every pair of cited contacts. These data were processed 
+using UCINET VI software (Borgatti, Everett & Freeman, 2002) in order 
+to obtain an effective size for each respondent’s network. 
+Control variables
+We selected a group of variables to capture the characteristics of the 
+firms, the projects and the respondents. These variables were firm 
+size, project length, team size, project leader’s hierarchical level, and 
+the project’s degree of innovativeness. Firm size is commonly believed 
+to influence the product innovation process and affect NPD activities, 
+in particular because it may affect the number of resources available 
+to a project (Nakata & Im, 2010). We used the number of employees 
+as a single-item measure of firm size (1: less than 20 employees, 2: 
+from 20 to 249, 3: from 250 to 499, and 4: 500 or more employees). 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)58
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Project length was measured by the number of months team members 
+worked together to complete the project (Sethi, 2000); team size was 
+measured by the number of members in the project team. The project’s 
+level of innovativeness was measured by asking respondents to as -
+sess the degree to which their team had to rely on technological and/
+or marketing competencies that were new to the firm (Benner & T ush -
+man, 2003), on a 6-point Likert scale ranging from 1, very low, to 6, 
+very high . Previous research suggests that NPD projects with highly 
+innovative objectives tend to more easily attract attention and support 
+from senior managers, due to the strategic importance of such proj -
+ects and the risks they entail (Swink, 2000; Carbonnel et al., 2009). 
+Finally, we measured the hierarchical position of the respondents on 
+the following scale: 5 for N: maximum level possible (CEO); 4 for N-1; 3 
+for N-2; 2 for N-3; 1 for other levels. Due to their position, high-ranking 
+project leaders, whatever their social capital, were expected to impact 
+decision-making more easily and thereby obtain more TMS (Brown & 
+Eisenhardt, 1995; Sarin & Mac Dermott, 2003). 
+RESULTS
+Descriptive statistics are provided in Appendix 3 . Data analysis was 
+conducted using the partial least squares (PLS) method, which is a 
+structural modeling technique that is suited to assessing predictive re -
+lationships and building theories (Wold, 1986). Because PLS can be 
+used to model latent constructs, even under conditions of non-normal -
+ity, it is particularly suited to analyzing small- to medium-sized samples 
+(Chin, Marcolin, & Newsted, 1996). Our sample of 73 cases was large 
+enough to carry out a PLS analysis, as it satisfied the condition that the 
+sample size must be at least ten times larger than the largest number 
+of structural paths directed at any one construct (Subramani, 2004)3. 
+Results are only shown for the most stable models. PLS analyses are 
+carried out in two stages: validation of the relevance of the latent con -
+structs and assessment of the structural model’s explanatory and pre -
+dictive power. 
+Reliability and validity of measures
+The measurement model was first examined for convergent and dis -
+criminant validity (Gefen & Straub, 2005). Convergent validity is dem -
+onstrated when items measuring a latent variable load with significant 
+t-values on that construct. All the items loaded significantly on their hy -
+pothesized constructs, thereby indicating adequate convergent valid -
+ity4. Our model also showed convergent validity with average variance 
+extracted (AVE), as the AVE of our constructs was above the recom -
+mended threshold of 0.5 (see T able 2).3.The largest number of paths to any con-
+struct in the research model is 7. This in-cludes paths from the control variable.
+4.All intermediary results are available upon 
+request.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)59
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Table 2. Reliability and AVE
+ConstructComposite 
+ReliabilityAVECronbach’s 
+Alpha
+NPD Performance 0.845 0.645 0.729
+T op management 
+support0.856 0.750 0.691
+Factor loadings and cross-loadings were used to examine discriminant 
+validity, which is demonstrated when items strongly load on their theo -
+retically assigned factors and not on other factors in the model. All the 
+constructs had loadings above 0.6, without high cross-loadings on the 
+other constructs. The construct measures also showed adequate inter -
+nal consistency (T able 2). All the composite reliabilities were above the 
+recommended level of 0.7 (Nunnally, 1978). These analyses indicate 
+adequate construct validity and reliability for the measures. 
+Because the data collection process used in the present study could 
+induce a common-method bias, concerns about common-method and 
+single-informant biases were addressed using procedures and statisti -
+cal tests recommended by Krishnan, Martin and Noorderhaven (2006). 
+By performing one statistical remedy and two procedural remedies we 
+were able to rule out a number of common-method bias risks ( Appen -
+dix 4 ).
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)60
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Structural model results
+The results of the structural model tests and the hypotheses are shown 
+in Figure 3. 
+Figure 3. PLS results
+ 
+Vertical strong 
+ties 
+ 
+NPD  
+performance  Project  leader’s 
+social capital  Top 
+management 
+support  for the 
+project   
+Notes :  
+- * p < .05 (One -tailed  test: 1.645, df = 499);  
+- ** p < .01; (One -tailed test: 2.326, df = 499);  
+- *** p < .001 (One -tailed test: 3.090, df = 499)  
+Bold lines show significant relationships; dashed 
+grey lines show non significant relationships  Hierarchical level  
+Innovativeness  
+Team s ize 
+Firm size  
+Project length  
+ Control variables  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.301**  
+R² = 0.2 24 R² = 0.14 1 0.375***  
+0.175* 0.253 *** 
+Network 
+sparseness  
+ 
+ 
+ 
+ 0.235** 
+The structural model test (see T able 3) included estimates of the path 
+coefficients and the explained variance. Figure 3 shows path coeffi -
+cients and t-statistics obtained using bootstrap sampling procedures5. 
+The R² value for TMS (22.4%) was slightly higher than the R2 value for 
+NPD performance (14.1%). Significant links were found between TMS 
+and NPD performance ( b= 0.375, t = 4.177, p < 0.001), thus supporting 
+H1. As hypothesized in H2, the path from vertical strong ties to TMS 
+was positive and significant ( b= 0.253, t = 3.263, p < 0.001). H3 is also 
+supported, as network sparseness had a positive impact on TMS ( b= 
+0.175, t = 2.041, p< 0.05). Among the control variables, both the hier -
+archical position of the respondent and the degree of innovativeness 
+of the new product showed positive and significant paths to TMS ( b= 
+0.301, t = 2.964, p <0.01 and b= 0.235, t = 2.701, p <0.01, respectively). 
+This is consistent with previous findings that very innovative projects 
+tend to more easily catch the attention of top managers due to their 
+strategic value (Swink, 2000; Carbonnel et al., 2009). Prior research 
+has also shown that holding higher rank in the organization facilitates 
+the project leader’s access to resources (Eisenhardt & T abrizi, 1995; 
+Scott, 1997; Gerwin & Barrowman, 2002; Sarin & McDermott, 2003).5.The critical threshold for obtaining valid t-
+values is commonly reached at around 300 bootstrap iterations. T o enhance reliability, we used a bootstrap threshold of 500 iterations.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)61
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Table 3.  Structural model results
+DISCUSSION 
+Why do some NPD project teams perform better than others? One recur -
+rent answer to this question has been quite commonsensical: the success 
+of NPD projects is a function of the support they get from top management 
+(Thamain, 2004; Cooper & Kleinschmidt, 2007; Barczak, Griffin, & Kahn, 
+2009; Chen, Damanpour & Reilly, 2010). Although previous studies have 
+provided empirical support for this hypothesis, they have, rather surpris -
+ingly, ignored another important question that the hypothesis raises: why 
+do some NPD projects get more support than others? The relative lack of 
+attention paid to this question may be due to the predominance of what we 
+refer to as the “rational approach to NPD”, in which TMS is a project “in -
+put” that top managers have to modulate according to a project’s strategic 
+value. However, some studies have reported a different reality (Dougherty 
+& Hardy, 1996; McLoughlin, Koch, & Dickson, 2001) by suggesting that 
+TMS is something the project leader has to win in the face of both intense 
+internal competition and bounded rationality in the process of allocating 
+attention and organizational resources. Consequently, the present study 
+adopted a “political approach to NPD”, in which TMS is considered to be a 
+variable that project leaders attempt to maximize.
+In order to identify why some project leaders are more successful than 
+others in maximizing TMS, we built a model in which the TMS a project Top management support for the 
+projectNPD performance Hypotheses
+β  t β  t
+T op management 
+support0.375 4.177***H1
+Supported
+Vertical strong 
+ties0.253 3.263***H2
+Supported
+Network sparse -
+ness0.175 2.041*H3
+Supported
+Firm size
+T eam size
+Project length
+Degree of in -
+novativeness   
+Hierarchical level0.132
+-0.024
+-0.100
+0.235
+0.3011.104
+0.255
+0.936
+2.701**
+2.964**
+R² 0.224 0.141
+(* p<.05; ** p<.01; *** p<.001)
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)62
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75leader can obtain is a function of his/her social capital. We found that social 
+capital has an impact on a project’s TMS, which in turn impacts NPD per -
+formance. More specifically, we demonstrate that TMS is enhanced when 
+a project leader’s social capital is characterized by vertical strong ties and 
+a sparse network. These findings have several important managerial and 
+academic implications. 
+From a managerial point of view, they suggest that firms should pay more 
+attention to the political context in which innovation projects develop. Our 
+results show that projects can be hindered by a lack of TMS. Firms should 
+help project leaders develop their social capital, as this would facilitate 
+activities related to TMS and reduce the number of NPD project failures. 
+In addition, firms should choose team leaders on the basis of their social 
+capital, as well as on the basis of their managerial and technical skills. Our 
+study also suggests that project leaders should build strong ties and pay 
+attention to the sparseness of their network when developing their social 
+capital. In particular, maintaining ties to densely-connected others creates 
+a risk of getting trapped in a single vision, leading to ineffective political 
+behaviors. 
+From a theoretical point of view, our findings on the effect of social capi -
+tal on TMS shed new light on previous conclusions about the relationship 
+between a project leader’s organizational influence and NPD performance 
+(Eisenhardt & T abrizi, 1995; Scott, 1997; Gerwin & Barrowman, 2002; Sa -
+rin & McDermott, 2003). In these studies most of the influence a project 
+leader is capable of exerting over decision-making processes was consid -
+ered to be a result of his/her informal status or hierarchical rank. We show 
+that this understanding of the “influence” of project leaders may be insuffi -
+cient. Although our results show that hierarchical level has a strong impact 
+on TMS, we found that influence is also partly based on relational assets. 
+Our study’s most important contribution to the field of social capital in man -
+agement is in the description it provides of the specific nature of these rela -
+tional assets. Our results support the theory of structural holes (Burt, 1992) 
+in the context of NPD, as network sparseness appears to be an important 
+factor in activities designed to mobilize TMS. Most previous research has 
+assumed and tested a direct link between network sparseness and per -
+formance, without considering the mediating effects of specific variables 
+(Hansen et al., 2001; Reagans et al., 2004). In contrast, the present study 
+suggests that network sparseness helps a project leader acquire TMS by 
+providing access to more diverse information. T aken together, these results 
+are consistent with the political view of Burt’s structural holes theory (Burt, 
+1992). Our data also highlight the importance of the quality of relationships 
+for NPD team leaders, with vertical strong ties having a positive impact on 
+the amount of support project leaders get from top management. Vertical 
+strong ties provide good and direct connections to decision-makers, and 
+these connections are vital, as strong ties will generate solidarity, priority 
+over other projects and motivation to help. 
+In addition to providing support for these theories in the specific context 
+of NPD projects, we show that both sparseness and strong ties can come 
+into play at the same time, although these two network conditions have 
+often been seen as contradictory at a conceptual level (Burt, 1992; Han -
+sen, Podolny, & Pfeffer, 2001; Seibert, Kraimer, & Liden, 2001). We sug -
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)63
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75gest that it is possible to combine network sparseness and strong ties, 
+as having a lot of strong ties does not necessarily result in low network 
+sparseness. This is borne out by our descriptive statistics, which show a 
+negative but very weak correlation (6.9%) between network sparseness 
+and strong ties. We also suggest that combining these two aspects is ben -
+eficial. Strong ties to the organization’s top managers are an important way 
+of directly securing support from the top and make lobbying for a project 
+easier. However, in order to develop an effective strategy in a context of 
+internal competition and organizational complexity, it is also necessary to 
+have an accurate picture of the political landscape, and this can only be 
+obtained through exposure to the full range of visions, information and in -
+terpretations in the organization. Strong ties bring solidarity and facilitate 
+access to resources; sparseness provides a balanced and informed vision 
+of the appropriate strategy. 
+This approach is in line with a recent stream of research (McFadyen et al., 
+2009; Rost, 2010) which suggests that the relational and structural dimen -
+sions of social capital should be considered complementary rather than in -
+compatible. Rost (2010: 1) found that “in the presence of strong ties, weak 
+network architectures (structural holes or a peripheral network position) 
+leverage the strength of strong ties in the creation of innovation”. Similarly, 
+in a study of over 700 publications over an 11-year period, McFadyen et al. 
+(2009) concluded that the greatest contributions were made by research -
+ers who combined strong ties with a sparse network. Our results comple -
+ment these findings by showing that such a vision can be applied to the 
+political dimension of innovation, as well as to its technical dimension.
+Further research is now needed to follow up our finding that social capi -
+tal plays an important role in obtaining TMS. In particular, some authors 
+maintain that the effects of variables such as strong ties or network sparse -
+ness are contingent on other variables (Comet, 2007). In particular, in our 
+context, the amount of TMS a project leader obtains from his/her personal 
+network might depend on the way in which he/she interacts with mem -
+bers of the network, as well as on the network’s characteristics (strong ties, 
+sparseness). This is consistent with a recent research stream in which indi -
+vidual characteristics and behaviors 
+are considered contingency factors of social capital. For example, in a 
+study by Anderson (2008), managers’ average tie strength and network 
+sparseness had a positive impact on the amount and diversity of informa -
+tion they could obtain. However, this impact was stronger among manag -
+ers who had high scores on the need for cognition dimension, suggesting 
+that they were more effective at exploiting their networks. One important 
+outcome of pursuing this research avenue would be the identification of 
+the social skills or behaviors team leaders need in order to translate per -
+sonal relationships into TMS. As different stages of the innovation process 
+correspond to different types of constraint (Kanter, 1988), a promising ave -
+nue would be to consider time as another contingency factor and to look at 
+social capital and TMS along the life cycle of a project. The kinds of political 
+challenges leaders have to cope with, and hence the type of social capital 
+they need, may differ over time (Kijkuit & Van den Ende, 2007).
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)64
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Like all studies, the present research has a number of limitations. The 
+size and composition of the sample prevent us from generalizing our 
+empirical conclusions. Nevertheless, our sample was comparable in 
+size to the samples used in similar studies, and it was large enough for 
+the main purpose of this research, which was to simultaneously study 
+the links between social capital and TMS and between TMS and NPD 
+performance. Up until now this field has remained unexplored, at least 
+in terms of empirical studies. By applying a statistical tool (PLS) that is 
+appropriate for small sample sizes (Chin et al., 1996), we were able to 
+obtain statistically significant results. 
+Another limitation arises from concerns about common-method and 
+single-informant biases resulting from the fact that we collected data 
+only from NPD team leaders. We addressed these concerns by ap -
+plying a number of procedures and statistical tests recommended by 
+Krishnan, Martin and Noorderhaven (2006). T o avoid such concerns, 
+future studies should collect information from every member of project 
+teams, as well as from project leaders. Although project leaders are 
+generally much more involved than other team members in obtaining 
+TMS, future research could expand our results by examining whether 
+the social capital of other team members has an impact. In particu -
+lar, some teams may adopt a distributed approach when attempting 
+to leverage TMS through social ties, whereas others may have a more 
+centralized approach, relying only on the project leader’s social capital 
+(Maurer & Ebers, 2006). These different approaches are likely to lead 
+to different outcomes. 
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)65
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Acknowledgments:  The authors sincerely thank the reviewers and the editor 
+in chief for their extensive comments and suggestions for improvements. 
+Barthélemy Chollet  is an assistant professor at Grenoble Ecole de Manage -
+ment. His research deals with the role of social networks in organizations, es -
+pecially knowledge-intensive firms.
+Sébastien Brion  is associate professor at IAE Savoie-Mont-Blanc. His re -
+search focuses on innovation management and organizations that foster in -
+novation.
+Vincent Chauvet  is an assistant professor at the University of Savoie. His 
+research interests are broadly concerned with understanding how social net -
+works and absorptive capacity can leverage innovation within firms
+Caroline Mothe  is full professor of strategic management at the University of 
+Savoie, France, where she mainly teaches strategy and innovation manage -
+ment. Interested in interfirm cooperation and in innovative organizations, she 
+actually coordinates several research projects on intra and inter-organizational 
+innovation processes. 
+Mickaël Géraude l is assistant professor of strategic management at Groupe 
+Sup de Co Montpellier Business School. His research focuses on CEO social 
+networks and coopetition relationships among firms.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)66
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75REFERENCES 
+	Adler, P ., & Kwon, S. W. 
+(2002).
+Social capital: prospects for a new con -
+cept. Academy of Management Review, 
+27(1), 17-40.
+	Akgün, A.E., Keskin H., Byrne 
+J., & Aren, S. (2007).
+Emotional and learning capability and 
+their impact on product innovativeness 
+and firm performance. T echnovation, 
+27(9), 501-513.
+	Ancona, D. G., & Caldwell, D. 
+F . (1992).
+Bridging the boundary: external activi -
+ties and performance in organizational 
+teams. Administrative Science Quarterly, 
+37(4), 634-665.
+	Anderson, M. (2008).
+Social networks and the cognitive moti -
+vation to realize network opportunities: a 
+study of managers’ information gather -
+ing behaviors. Journal of Organizational 
+Behavior, 29 (1), 51-78. 
+	Anthony, M. T ., & Mckay, J. 
+(1992).
+From experience: Balancing the product 
+development process: Achieving prod -
+uct and cycle-time excellence in high 
+technology industries. Journal of Product 
+Innovation Management, 9 (2), 140-147.
+	Balkundi, P ., & Kilduff, M. 
+(2005).
+The ties that lead: A social network ap -
+proach to leadership. Leadership Quar -
+terly, 17 (4), 419-439.
+	Barczak, G., Griffin, A., & 
+Kahn K. B. (2009).
+Perspective: T rends and drivers of suc -
+cess in NPD practices: Results of the 
+2003 PDMA best practice study. Jour -
+nal of Product Innovation Management, 
+26(1), 3-23.	Batjargal, B. (2003).
+Social capital and entrepreneurial per -
+formance in Russia: A longitudinal study. 
+Organization Studies, 24 (4), 535-556.
+	Benner, M. J., & T ushman, 
+M.L. (2003).
+Exploitation, exploration, and process 
+management: The productivity dilemma 
+revisited. Academy of Management Re -
+view, 28 (2), 238-256.
+	Blindenbach-Driessen, F . P ., 
+& van den Ende, J. C. M. (2006).
+Innovation in project-based firms: The 
+context dependency of success factors. 
+Research Policy, 35 (4), 545-561.
+	Bonner, J. M., Ruekert, R. W., 
+& Walker Jr., O. C., (2002).
+Upper management control of new prod -
+uct development projects and project 
+performance. Journal of Product Innova -
+tion Management, 19 (3), 233-245.
+	Borgatti, S. P ., Everett, M. G., 
+& Freeman, L. C. (2002).
+Ucinet for windows: software for social 
+networks analysis . Harvard, MA: Ana -
+lytic T echnologies.
+	Borgatti, S. P ., & Cross, R. 
+(2003).
+A relational view of information seeking 
+and learning in social networks. Man -
+agement Science, 49 (4), 432-445.
+	Brewer D. D., & Webster, C. 
+M. (1999).
+Forgetting of friends and its effects on 
+measuring friendship networks. Social 
+Networks, 21 (4), 361-373.
+	Brown, S., & Eisenhardt, K. 
+(1995).
+Product development: past research, 
+present findings, and future directions. 
+Academy of Management Review, 
+20(2), 343-378.	Burt, R. S. (1992).
+Structural holes, the social structure of 
+competition . Cambridge: Harvard Uni -
+versity Press.
+	Burt, R. S. (1997).
+A note on social capital and network 
+content. Social Networks, 19 (4), 355-
+373.
+	Burt, R. S. (2004).
+Structural holes and good ideas. Ameri -
+can Journal of Sociology, 110 (2), 349-
+399.
+	Carbonell, P ., & Rodriguez-
+Escudero, A. (2009).
+Relationships among team’s organiza -
+tional context, innovation speed, and 
+technological uncertainty: An empirical 
+analysis. Journal of Engineering and 
+T echnology Management , 26(1-2), 28-
+45.
+	Casanueva, C., & Gallego, A. 
+(2010).
+Social Capital and Innovation: An Intra-
+departmental Perspective. Management 
+revue, 21 (2), 135-154.
+	Chen, J., Damanpour, F ., & 
+Reilly, R. (2010).
+Understanding antecedents of new 
+product development speed: A meta-
+analysis. Journal of Operations Manage -
+ment , 28(1), 17-33.
+	Chin, W. W., Marcolin, B. L., & 
+Newsted, P . R. (1996).
+A partial least squares latent variable 
+modeling approach for measuring inter -
+action effects , in J. I. DeGross, A. Sriniv -
+asan & S. L. Jarvenpaa (Eds.), Proceed -
+ings of the Seventeenth International 
+Conference on Information Systems  (pp. 
+21-41).Ohio: Cleveland.
+	Clark, K. B., & Fujimoto, T . 
+(1991).
+Product development performance: strategy, 
+organization, and management in the world 
+auto industry , Harvard Business School Press.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)67
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75	Collins, C. J., & Clark, K. D. 
+(2003).
+Strategic human resource practices, 
+top management team social networks, 
+and firm performance: the role of human 
+resource practices in creating organiza -
+tional competitive advantage. Academy 
+of Management Journal, 46 (6), 740-751.
+	Comet , C. (2007).
+Capital social et profits des artisans du 
+bâtiment : le poids des incertitudes so -
+ciotechniques. Revue Française de So -
+ciologie, 48 (1), 67-91.
+	Cooper, R. G., & 
+Kleinschmidt, E. J. (2007).
+Winning businesses in product develop -
+ment: the critical success factors. Re-
+search T echnology Management, 50 (3), 
+52-66.
+	Cross, R., & Cummings, J. N. 
+(2004).
+Tie and network correlates of individual 
+performance in knowledge-intensive 
+work. Academy of Management Journal, 
+47(6), 928-937.
+	Dougherty, D., & Hardy, C. 
+(1996).
+Sustained product innovation in large, 
+mature organizations: overcoming inno -
+vation-to-organization problems. Acad -
+emy of Management Journal, 39 (5), 
+1120-1153.
+	Eisenhardt, K. M., & T abrizi, 
+B. N. (1995).
+Accelerating adapative processes: Prod -
+uct innovation in the global computer in -
+dustry. Administrative Science Quarterly, 
+40(1), 84-110.
+	Ernst, H. (2002).
+Success factors of new product develop -
+ment: A review of the empirical literature. 
+International Journal of Management 
+Reviews, 4 (1), 1-40.	Gabbay, S. M., & Zuckerman 
+E. W. (1998).
+Social capital and opportunity in corpo -
+rate R&D: The contingent effect of con -
+tact density on mobility expectations. 
+Social Science Research, 27 (2), 189-
+217.  
+	Garcia, N., Sanzo, M. J., & 
+T respalacios, J. A. (2008).
+New product internal performance and 
+market performance: Evidence from 
+Spanish firms regarding the role of trust, 
+interfunctional integration, and innova -
+tion type. T echnovation, 28(11), 713-725.
+	Gefen, D., & Straub, D. 
+(2005).
+A practical guide of factorial validity us -
+ing PLS Graph: tutorial and annotated 
+examples. Association of Information 
+Systems, 16 , 91-109.
+	Gershoff, A. D., & Johar, G. V . 
+(2006).
+Do you know me? Consumer calibration 
+of friends’ knowledge. Journal of Con -
+sumer Research, 32 (4), 496-503.
+	Gerwin, D., & Barrowman, N. 
+J. (2002).
+An evaluation of Research on Integrated 
+Product Development. Management 
+Science, 48 (7), 938-953.
+	Granovetter, M. (1973).
+The strength of weak ties. American 
+Journal of Sociology , 78(6), 1360-1380.
+	Granovetter, M. (1985).
+Economic action and social structure: 
+the problem of embeddedness. Ameri -
+can Journal of Sociology, 91 (3), 481-
+510.
+	Granovetter, M. (2005).
+The Impact of Social Structure on Eco -
+nomic Outcomes. Journal of Economic 
+Perspectives, 19 (1), 33-50.	Griffin, A., & Page, A. L. 
+(1993).
+An interim report on measuring product 
+development success and failure. Jour -
+nal of Product Innovation Management, 
+10(4), 291-308.
+	Griffin, A. (1997).
+PDMA research on new product devel -
+opment practices: Updating trends and 
+benchmarking best practices. Journal of 
+Product Innovation Management, 14 (6), 
+429-458.
+	Hansen, M. T . (1999).
+The search transfer problem: The role of 
+weak ties in sharing knowledge across 
+organizational sub-units. Administrative 
+Science Quarterly, 44 , 82-111.
+	Hansen, M. T ., Podolny, J. M., 
+& Pfeffer, J. (2001).
+So many ties, so little time: A task con -
+tingency perspective on corporate social 
+capital in organizations. Research in the 
+Sociology of Organizations , 18, 21-57.
+	Hart, S., Hultink, E. J., T zokas, 
+N., & Commandeur, H. R. 
+(2003).
+Industrial Companies’ Evaluation Crite -
+ria in New Product Development Gates. 
+Journal of Product Innovation Manage -
+ment, 20 (1), 22-36.
+	Henard, D., & Szymanski, D. 
+(2001).
+Why some new products are more suc -
+cessful than others. Journal of Marketing 
+Research, 38 (3), 362-375.
+	Hochwarter, W., Ferris, G., 
+Zinko, R., Arnell, B., & James, 
+M. (2007).
+Reputation as a Moderator of Political 
+Behavior-Work Outcomes Relation -
+ships: A T wo-Study Investigation With 
+Convergent Results. Journal of Applied 
+Psychology , 92(2), 567-576.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)68
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75	Ingram, P ., Roberts, P . W. 
+(2000).
+Friendships among competitors in the 
+Sydney hotel industry. American Journal 
+of Sociology, 106 (2), 387-424.
+	Jeong, I., Pae J. H., & Zhou, 
+D. (2006).
+Antecedents and consequences of the 
+strategic orientations in new product de -
+velopment: The case of Chinese manu -
+facturers. Industrial Marketing Manage -
+ment, 35 (3), 348-358.
+	Kanter, R. M. (1988).
+Three tiers for innovation research. Com -
+munication Research, 15 (5), 509-523.
+	Katz, R., & T ushman, M. 
+(1981).
+An investigation into the managerial 
+roles and career paths of gatekeepers 
+and project supervisors in a major R&D 
+facility. R&D Management, 11 (3), 103-
+110.
+	Keller, R. T . (2001).
+Cross-functional project groups in re -
+search and new product development: 
+diversity, communications, job stress 
+and outcomes. Academy of Manage -
+ment Journal, 44 (3), 547-556.
+	Kijkuit, B. & van den Ende, J. 
+C. M. (2007).
+The Organizational Life of an Idea. Jour -
+nal of Management Studies, 44 (6), 863-
+882.
+	Kleinschmidt, E. J., & Cooper 
+R. G. (1991).
+The impact of product innovativeness 
+on performance. Journal of Production 
+Innovation Management, 8 (4), 240-251.
+	Koka, B. R., & Prescott, J. E. 
+(2002).
+Strategic Alliances as Social Capital: A 
+Multidimensional View. Strategic Man -
+agement Journal, 23 (9), 795-816.	Krackhardt, D. (1990).
+Assessing the political landscape: Struc -
+ture, cognition and power in organiza -
+tions. Administrative Science Quarterly, 
+35(2), 342-369. 
+	Krackhardt, D. (1992).
+The strength of strong ties: the impor -
+tance of philos in organizations. In N. 
+Nohria & R. G. Eccles (Eds.), Networks 
+and organizations: structure, form and 
+action (pp. 216-139).
+Boston: Harvard Business School Press.
+	Krishnan, R., Martin, X., & 
+Noorderhaven N. G. (2006).
+When does trust matter to alliance per -
+formance? Academy of Management 
+Journal, 49 (5), 894-917.
+	Lazega, E. (2001).
+The Collegial Phenomenon: The Social 
+Mechanisms of Cooperation Among 
+Peers in a Corporate Law Partnership . 
+Oxford: Oxford University Press.
+	Levin, D. Z., & Cross, R. 
+(2004).
+The strength of weak ties you can trust: 
+the mediating role of trust in effective 
+knowledge transfer. Management Sci -
+ence, 50 (11), 1477-1490.
+	Lewis, M. W., Welsh, M. A., 
+Dehler, G. E., & Green, S. G. 
+(2002).
+Product development tensions: Explor -
+ing contrasting styles of project manage -
+ment.  Academy of Management Jour -
+nal, 45 (3), 546-564.
+	Lin, N. (1999).
+Social networks and status attainment. 
+Annual Review of Sociology, 25 (1), 467-
+487.
+	Lin, N. (2001).
+Social Capital.  Cambridge: Cambridge 
+University Press.	Lovelace, K., Shapiro, D. L., & 
+Weingart, L. R. (2001).
+Maximizing cross-functional new prod -
+uct team’s innovativeness and constraint 
+adherence: A conflict communications 
+perspective. Academy of Management 
+Journal, 44 (4), 779-793.
+	March, J. G., & Olsen, J. P . 
+(1972).
+A garbage can model of organizational 
+choice. Administrative Science Quarter -
+ly, 17(1), 1-25.
+	Marrone, J. E., T esluk, P . E., & 
+Carson, J. B. (2007).
+A multilevel investigation of antecedents 
+and consequences of team member 
+boundary-spanning behavior. Academy 
+of Management Journal, 50 (6), 1423-
+1439.
+	Marsden, P ., & Campbell, C. 
+(1984).
+Measuring tie strength. Social Forces, 
+63(2), 482-501.
+	Maurer, I., & Ebers, M. (2006).
+Dynamics of social capital and their per -
+formance implications: Lessons from 
+biotechnology start-ups. Administrative 
+Science Quarterly, 51 (2), 262-292.
+	McEvily B., & Zaheer, A. 
+(1999).
+Briding ties: A source of firm heteroge -
+neity in competitive capabilities. Strate -
+gic Management Journal, 20 (12), 1133-
+1156.
+	McFadyen, M. A., Semadeni, 
+M., & Cannella Jr, A. A. (2009).
+Value of strong ties to disconnected 
+others: Examining knowledge creation 
+knowledge in biomedicine. Organization 
+Studies, 20 (3), 552-564.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)69
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75	McLoughlin, I., Koch, C., & 
+Dickson, K. (2001).
+What’s this “T osh”? Innovation networks 
+and new product development as a po -
+litical process. International Journal of 
+Innovation Management, 5 (3), 275-298.
+	Montoya-Weiss, M. M., & 
+Cantalone, R. (1994).
+Determinants of new product perfor -
+mance: a review and meta-analysis. 
+Journal of Product Innovation Manage -
+ment, 11 (5), 397-417.
+	Nakata, C., & Im, S. (2010).
+Spurring cross-functional integration 
+for higher new product performance: A 
+group effectiveness perspective. Jour -
+nal of Product Innovation Management, 
+27(4), 554-571.
+	Nunnally, J. C. (1978).
+Psychometric Theory . New Y ork: Mc -
+Graw Hill.
+	Obstfeld, D. (2005).
+Social networks, the tertius iungens ori -
+entation, and involvement in innovation. 
+Administrative Science Quarterly, 50 (1), 
+100-130.
+	Ocasio, W. (1997).
+T owards an attention-based view of the 
+firm. Strategic Management Journal, 18, 
+187-206.
+	Oh, H., Chung, M. H., & 
+Labianca, G. (2004).
+Group social capital and group effec -
+tiveness: the role of informal socializing 
+ties. Academy of Management Journal, 
+47(6), 860-875.
+	Olson, E. M., Walker Jr., O. 
+C., & Ruekert, R. W. (1995).
+Organizing for effective new product de -
+velopment: the moderating role of prod -
+uct innovativeness. Journal of Marketing, 
+59(1), 48–62.	Page, A. L. (1993).
+Assessing new product development 
+practices and performance: Establishing 
+crucial norms. Journal of product Innova -
+tion Management, 10 (4), 273-290.
+	Paté-Cornell, M. E., & Dillon, 
+R. (2001).
+Probabilistic risk analysis for the NASA 
+space shuttle: A brief history and current 
+work. Reliability Engineering and System 
+Safety, 74 (3), 345-352.
+	Perry-Smith, J. E. (2006).
+Social Y et Creative: The role of social 
+relationships in facilitating individual cre -
+ativity. Academy of Management Jour -
+nal, 49 (1), 85-101.
+	Pinto, J. K. (2000).
+Understanding the role of politics in suc -
+cessful project management. Interna -
+tional Journal of Project Management, 
+18(2), 85-92.
+	Podolny, J. M., & Baron, J. N. 
+(1997).
+Resources and relationships: Social 
+networks and mobility in the workplace. 
+American Sociological Review, 62 (5), 
+673-693.
+	Podsakoff, P . M., & 
+MacKenzie, S. B. (2003).
+Common Method Biases in Behavioral 
+Research: A Critical Review of the Lit -
+erature and Recommended Remedies. 
+Journal of Applied Psychology, 88 (5), 
+879-903.
+	Reagans, R., & McEvily, B. 
+(2003).
+Network structure and knowledge trans -
+fer: The effects of cohesion and range. 
+Administrative Science Quarterly, 48 (2), 
+240-267.	Reagans, R., Zuckerman, E. 
+W., & McEvily, B. (2004).
+How to make the team: social networks 
+vs. demography as criteria for designing 
+effective teams. Administrative Science 
+Quarterly, 49 (1), 101-133.
+	Rodan, S., & Galunic, C. 
+(2004).
+More than network structure: how knowl -
+edge heterogeneity influences manage -
+rial performance and innovativeness. 
+Strategic Management Journal, 25 (6), 
+541-562.
+	Rost, K. (2010).
+The strength of strong ties in the creation of 
+innovation. Research Policy, 40 (4), 588-604.
+	Sarin, S. & Mahajan, V . 
+(2001).
+The effect of reward structures on the 
+performance of cross-functional product 
+development teams. Journal of Market -
+ing, 65 (2), 35–53.
+	Sarin, S., & Mac Dermott, C. 
+(2003).
+The effect of team leader characteristics 
+on learning, knowledge application, and 
+performance of cross-functional new 
+product development teams. Decision 
+Science, 34 (4), 707-739.
+	Scott, S. (1997).
+Social identification effects in product 
+and process development teams. Jour -
+nal of Engineering & T echnology Man -
+agement, 14 (2), 97-127. 
+	Seibert, S. E., Kraimer, M.L., 
+& Liden, R.C. (2001).
+A social capital theory of career suc -
+cess. Academy of Management Journal, 
+44(2), 219-237.
+	Sethi, R. (2000).
+Superordinate identity in cross-func -
+tional product development teams: its 
+antecedents and effect on new product 
+performance. Journal of the Academy of 
+Marketing Science, 28 (3), 330–344.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)70
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75	Sethi, R., Smith, D. C., & 
+Park, C. W. (2001).
+Cross-functional product development 
+teams, creativity, and the innovativeness 
+of new consumer products. Journal of 
+Marketing Research, 38 (1), 73-85.
+	Song, X. M., & Parry, M. E. 
+(1997).
+A cross-national comparative study of 
+new product development processes: 
+Japan and the United States. Journal of 
+Marketing, 61 (2), 1-18.
+	Song, M., & Montoya-Weiss, 
+M. M. (2001).
+The effect of perceived technological 
+uncertainty on Japanese new product 
+development. Academy of Management 
+Journal, 44 (1), 61-80. 
+	Straits, B. C. (2000).
+Ego’s important discussants or signifi -
+cant people: An experiment in varying 
+the wording of personal network name 
+generators. Social Networks, 22 (2), 123-
+140.
+	Subramani, M. (2004).
+How do suppliers benefit from informa -
+tion technology use in supply chain re -
+lationships? MIS Quarterly, 28 (1), 45-73.
+	Swink, M. (2000).
+T echnological innovativeness as a mod -
+erator of new product design integration 
+and top management support. Journal of 
+Product Innovation Management, 17 (3), 
+208-220.
+	Swink, M. (2003).
+Completing projects on-time: How proj -
+ect acceleration affects new product 
+development. Journal of Engineering & 
+T echnology Management, 20 (4), 319-
+345.	Swink M., T alluri S., & 
+Pandejpong, T . (2006).
+Faster, better, cheaper: A study of NPD 
+project efficiency and performance trad -
+eoffs. Journal of Operations Manage -
+ment, 24 (5), 542-562.
+	T atikonda, M., & Rosenthal, 
+S. (2000).
+Successful execution of product devel -
+opment projects: Balancing firmness 
+and flexibility in the innovation process. 
+Journal of Operations Management, 
+18(4), 401-425. 
+	Thamhain, H. J. (2004).
+T eam leadership effectiveness in technol -
+ogy-based project environments. Project 
+Management Journal, 35 (4), 35-46. 
+	T readway, D., Hochwarter, W., 
+Kacmar, C., & Ferris, G. (2005).
+Political will, political skill, and political 
+behavior. Journal of Organizational Be -
+havior, 26 (3), 229-245.
+	T ourangeau, R., Rips, L. J., & 
+Rasinski, K. (2000).
+The psychology of survey response.  
+Cambridge: Cambridge University Press.
+	T sai, W., & Ghoshal, S. 
+(1998).
+Social Capital and Value Creation: The 
+Role of Intrafirm Networks. Academy of 
+Management Journal, 41 (4), 464-476.
+	Uzzi, B. (1997).
+Social structure and competition in in -
+terfirm networks: the paradox of embed -
+dedness. Administrative Science Quar -
+terly, 42 (1), 35-67.
+	Uzzi, B., & Lancaster, R. 
+(2003).
+Relational embeddedness and learn -
+ing: The case of bank loan managers 
+and their clients. Management Science, 
+49(4), 383-399.	Vissa, B., & Chacar, A. S. 
+(2009).
+Leveraging ties: the contingent value of 
+entrepreneurial teams’ external advice 
+networks on Indian software venture 
+performance. Strategic Management 
+Journal, 30 (11), 1179-1191.
+	Willem A. & Scarbrough, H. 
+(2006).
+Social capital and political bias in knowl -
+edge sharing: An exploratory study. Hu-
+man Relations, 59 (10), 1343-1370.
+	Wold, H. (1986).
+Partial Least Squares. In S. Kots & N. L. 
+Johnson (Eds.), Encyclopedia of Statisti -
+cal Sciences (6)(pp. 581-591).
+New Y ork: John Wiley.
+	Zhou, J., Shin, S. J., Brass, 
+D. J., Choi, J., & Zhang, Z. X. 
+(2009).
+Social Networks, personal values, and 
+creativity: evidence for curvilinear and 
+interaction effects. Journal of Applied 
+Psychology, 94 (6), 1544-1552.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)71
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Appendix 1. Sample characteristics
+Table a.  Characteristics of respondents’ firms (N=73)
+Variables Number Percent
+Firm size
+< 20 5 6.8%
+20 to 250 12 16.4%
+250 to 500 11 15.1%
+> 500 45 61.6%
+Industry
+Manufacturing 47 64.4%
+Services 26 35.6%
+Table b.  Characteristics of the NPD projects (N=73)
+Variables Number Percent
+Project duration 
+(months)
+0-5 8 11.0%
+6-11 21 28.7%
+12-23 24 32.9%
+24-35 10 13.7%
+36-48 10 13.7%
+Project-team size
+0-5 44 60.3%
+5-10 18 24.7%
+11-67 11 15.0%
+Degree of 
+innovativeness
+Very low 1 1.4%
+Low 2 2.7%
+Quite low 15 20.5%
+Quite high 23 31.5%
+High 27 37.0%
+Very high 5 6.9%
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)72
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Table c.  Characteristics of the respondents (N=73)
+Variables Number Percent
+Gender
+Women 12 16.4%
+Men 61 83.6%
+T enure in the firm 
+(years)
+1 to 3 27 37.1%
+4 to 5 15 20.5%
+6 to 9 15 20.5%
+10 and more 16 21.9%
+Education background
+College degree 2 2.7%
+Masters degree 62 84.9%
+PhD 9 12.4%
+Hierarchical level
+N=CEO 0 0.0%
+N-1 6 8.2%
+N-2 26 35.7%
+N-3 25 34.2%
+N-4 16 21.9%
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)73
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Appendix 2. Eliciting the respondent’s contacts (name-
+generators)
+Questions References
+T ask advice 
+As a project leader, getting your job done on a 
+daily basis often requires obtaining advice and 
+information from others. Over the last six months, 
+who are the key people you have regularly turned to 
+for information and work-related advice to enhance 
+your ability to do your day-to-day work? 
+[up to 10 names, 4.53 names cited on average]Adapted from 
+Podolny & Baron 
+(1997) and Rodan & 
+Galunic (2004) 
+Strategic information
+Getting your job done also requires general 
+information about the “goings-on” at your firm – 
+insights into the goals and strategies of important 
+individuals, divisions, or even the firm as a whole, 
+information about future organizational changes, 
+etc. Over the past six months, which people have 
+been important sources of this kind of information?
+[up to 4 names, 1.49 names cited on average]Adapted from 
+Podolny & Baron 
+(1997)
+Buy-in
+Pushing new ideas or initiatives often requires 
+support from others without which you cannot 
+proceed. If you were moving to a new job and 
+wanted to leave behind the best network advice you 
+could for the person taking over your old job, which 
+three or four people would you name as essential 
+sources of support? 
+[up to 4 names, 1.28 names cited on average]Adapted from Burt 
+(1992) and Rodan & 
+Galunic (2004)
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)74
+NPD Projects in Search of T op Management Support: The Role of T eam Leader social Capital M@n@gement vol. 15 no. 1, 2012, 43-75Job opportunities
+If you decided to find a job with another firm doing 
+the same kind of work you do for your current firm, 
+who are the two or three people with whom you 
+would be most likely discuss and evaluate your job 
+options?
+[up to 3 names, 0.36 names cited on average]Adapted from Burt 
+(1992)
+Anyone missing?
+Now that you have a list of contacts, please look over 
+it quickly. Is anyone significant missing? Have you 
+omitted anyone with whom you have had contact 
+over the last six months and without whom your 
+career or your tasks would have been much more 
+difficult? 
+[1 name, 0.25 names cited on average]Adapted from Burt 
+(1992)
+Appendix 3 . Means and standard deviations
+   Mean Sd 1 2 3 4 5 6 7 8 9
+1Firm size3.315 0.984 1.000
+2Hierarchical 
+level 2.333 0.957 -0.433 1.000
+3T op 
+Management 
+Support 4.358 1.140 -0.004 0.261 1.000
+4NP 
+innovativeness 4.205 1.027 0.141 0.014 0.253 1.000
+5NPD 
+performance 3.861 1.335 0.056 0.272 0.375 0.162 1.000
+6Project length 2.514 0.753 0.319 -0.116 -0.022 0.139 -0.167 1.000
+7Vertical strong 
+ties 0.452 1.014 -0.089 -0.028 0.207 -0.010 0.044 0.078 1.000
+8Network 
+sparseness 3.985 1.854 0.152 0.011 0.176 0.063 0.053 0.157 -0.069 1.000
+9T eam size 1.763 0.733 0.470 -0.290 -0.029 -0.037 -0.027 0.401 0.137 0.197 1.000
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)75
+Barthélemy CHOLLET , Sébastien BRION , Vincent CHAUVET , Caroline MOTHE  & Mickaël GÉRAUDELM@n@gement vol. 15 no. 1, 2012, 43-75Appendix 4. Remedies taken against common method 
+bias
+Remedy and rationale Implementation
+Statistical 
+Harman’s one-factor test. If a 
+substantial amount of common 
+method bias exists in data, a 
+single or general factor that 
+accounts for most of the variance 
+will emerge when all the variables 
+are entered together (Podsakoff  
+et al., 2003).An unrotated principal factor 
+analysis on all the variables used 
+in the model revealed five factors 
+with eigenvalues greater than 
+1, which together accounted for 
+66.8 % of the total variance. The 
+first factor did not account for a 
+majority of the variance (22.51 %)
+Procedural 
+T o reduce the respondents’ 
+tendency to give socially 
+desirable responses and/or to 
+be acquiescent or lenient when 
+crafting their responses we 
+protected respondent anonymity 
+(Podsakoff et al., 2003). 
+Reducing item ambiguity 
+(T ourangeau, Rips & Rasinski, 
+2000)The introductory web page of our 
+online survey assured complete 
+respondent anonymity.
+We pre-tested the survey, which 
+helped us identify and replace a 
+number of ambiguous questions.
+AIMS| Downloaded on 05/30/2026 from https://shs.cairn.info through University College London UCL (IP: 144.82.114.252)

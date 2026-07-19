@@ -1,0 +1,6 @@
+{
+  "ID": "BSMA0685",
+  "Final_Judgment": 1,
+  "Reason_Code": null,
+  "Rationale": "The Human GT is correct. The study evaluates individual-level data of N=177 expatriates engaging in boundary-spanning behaviors (e.g., communication, knowledge transfer, and coordination between headquarters and subsidiaries). This fulfills the criteria for valid intra-organizational boundary spanning behavior (Rule 17). The study uses a 1-to-1 expatriate-coworker pair design ('only one coworker per expatriate'), maintaining statistical independence and avoiding the dyadic data guardrail (Code 3). It also provides a complete zero-order correlation matrix (Table 1) with the required effect sizes. AI Validation1 incorrectly excluded the paper, likely due to a misinterpretation of the 'dyadic data' terminology or the cross-cultural nature of the construct."
+}

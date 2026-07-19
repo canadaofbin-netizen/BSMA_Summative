@@ -1,0 +1,2682 @@
+Coordination in Dynamic Teams: Investigating a 
+Learning–Productivity Trade-Off
+Anna T. Mayo,a,* Anita Williams Woolley,a Liny John,b Christine March,c Selma Witchel,c Andrew Nowalkc 
+aCarnegie Mellon University, Pittsburgh, Pennsylvania 15213; bChildren’s National Hospital, Washington, District of Columbia 20010; 
+cUPMC Children’s Hospital of Pittsburgh, Pittsburgh, Pennsylvania 15224 
+*Corresponding author 
+Contact: atmayo@cmu.edu , 
+https:/ /orcid.org/0000-0003-2167-1033 (ATM); awoolley@andrew.cmu.edu , 
+https:/ /orcid.org/0000-0003-0620-4744 (AWW); linyvjohn@gmail.com (LJ); christine.eklund@chp.edu (CM); witchelsf@upmc.edu (SW); 
+andrew.nowalk@chp.edu (AN) 
+Received: July 12, 2022 
+Revised: September 1, 2023; July 16, 2024 
+Accepted: August 12, 2024 
+Published Online in Articles in Advance: 
+October 14, 2024 
+https://doi.org/10.1287/orsc.2022.16729 
+Copyright: © 2024 The Author(s)Abstract. The rapid growth in the use of teams and multiple team membership has led 
+more organizations to structure work around dynamic teams, characterized by short life-
+spans and fluid membership boundaries. This approach to organizing work makes it diffi-
+cult for teams to work efficiently or to support the learning and growth of members. Given 
+the importance of productivity and learning, we ask how these processes can be supported 
+in dynamic teams. We do so in a randomized controlled field experiment conducted with 
+91 teams in a teaching hospital, a context in which physician trainees must learn while pro-
+viding patient care in dynamic teams of care providers. We randomly assigned physician 
+teams, or “core” teams, to launch their work with an intervention focused either on internal 
+coordination among the core team members or on external coordination with a changing 
+cast of external contributors such as nurses and specialists. We measured resulting levels 
+of internal and external coordination over teams’ week-long lifespans and observed that 
+external coordination was associated with improved team efficiency, whereas internal 
+coordination was associated with improved individual learning. Post hoc exploratory anal-
+ysis suggested that individual learning was highest when teams achieved high levels of 
+both internal and external coordination, and it was positively correlated with improvement 
+in the team’s patients’ average length of hospital stay. We discuss the implications of the 
+demonstrated causal effects of team launches, along with our exploratory findings, for the 
+management of dynamic teams and the opportunities to mitigate potential trade-offs 
+between learning and productivity.
+Open Access Statement: This work is licensed under a Creative Commons Attribution-NonCommercial- 
+ShareAlike 4.0 International License. You are free to download this work and share with others for 
+any purpose, except commercially, if you distribute your contributions under the same license as 
+the original, and you must attribute this work as “Organization Science. Copyright © 2024 The 
+Author(s). https:/ /doi.org/10.1287/orsc.2022.16729, used under a Creative Commons Attribution 
+License: https:/ /creativecommons.org/licenses/by-nc-sa/4.0/.” 
+Supplemental Material: The online appendix is available at https:/ /doi.org/10.1287/orsc.2022.16729. 
+Keywords: dynamic teams≡coordination≡learning≡productivity≡healthcare teams
+There has been a dramatic rise in the use of teams as a 
+primary structure for organizing work in many settings 
+(Weidmann and Deming 2021 ). Moreover, the number 
+of teams individuals contribute to simultaneously has 
+also risen sharply as organizations leverage unique 
+knowledge and skills across more areas (Wuchty et al. 
+2007 , O’Leary et al. 2011 , National Research Council of 
+the National Academies 2015 , Haeussler and Sauer -
+mann 2020 ). Given the accelerated pace of change in 
+their environments, these teams are also increasingly 
+dynamic teams, characterized by short lifespans and fluid 
+membership boundaries (Mayo 2022 ), such that they 
+take different forms in response to shifting demands (Edmondson 2012 , Tannenbaum et al. 2012 , Wageman 
+et al. 2012 , Mortensen and Haas 2018 ).
+The departure from more traditional team structures 
+that were bounded, stable, and interdependent (Hack -
+man 1987 ) poses opportunities for agility, but also sig-
+nificant challenges. First, dynamic team structures can 
+hamper team productivity (O’Leary et al. 2011 , Mayo 
+2022 , Rishani et al. 2024 ). Second, they can create diffi-
+culties for team and individual learning. With rapid 
+advances in technology and the associated growth in 
+information and new knowledge, working profes -
+sionals need to continuously update their skills. Conse -
+quently, learning has become a growing priority in 
+967 ORGANIZATION SCIENCE 
+Vol. 36, No. 2, March–April 2025, pp. 967–992 
+ISSN 1047-7039 (print), ISSN 1526-5455 (online) 
+ https://pubsonline.informs.org/journal/orsc many work settings (Bersin and Zao-Sanders 2019 ), in 
+large part because of its relation to organizational effec -
+tiveness (Argote and Miron-Spektor 2011 ). Team mem -
+bership stability provides important support for team 
+learning as well as individual learning, suggesting that 
+dynamic teaming is likely to inhibit both (Edmondson 
+et al. 2001 , Harvey et al. 2022 ). Moreover, investment in 
+one’s own learning and the development of others takes 
+time and attentional resources, and this could reduce 
+short-term productivity (Sobrero and Roberts 2001 , 
+Singer and Edmondson 2008 , Dennis et al. 2014 , Rabino -
+witz et al. 2016 ). Indeed, dynamic teamwork could exac -
+erbate the documented tensions between learning and 
+productivity (Singer and Edmondson 2008 ) as com-
+manding the shared attention needed to accomplish 
+either in these settings is extremely difficult.
+A natural solution to the problems created by the 
+absence of structure in teams could be to create new 
+structure, but exactly what kinds of structure would 
+support both learning and productivity in dynamic 
+teams is not clear. Extant research on team productivity 
+and performance demonstrates an important role of 
+external coordination—with constituencies outside of 
+the team boundary—to both provide and receive infor -
+mation and facilitate task coordination by creating ties 
+to others in the team’s environment (Ancona and Cald -
+well 1988 , Choi 2002 , Mayo 2022 ). By contrast, research 
+on learning in teams has highlighted the importance of 
+internally focused team process and coordination, such 
+as practices that facilitate knowledge sharing and inte-
+gration (for a review, see Edmondson et al. 2007 ). In an 
+ideal situation, a team would attempt to address both 
+internal and external coordination. However, much as 
+some extant work highlights the potential tension 
+between learning and productivity in teams, as both 
+compete for limited time and attention (Singer and 
+Edmondson 2008 ), research also points to potential ten-
+sions between internal and external coordination, with 
+teams often trading off between the two (Ancona and 
+Caldwell 1988 , 1992 ; Ancona 1990 ). Moreover, given the 
+short lifespans and fluid boundaries of dynamic teams, 
+there is reason to look to a growing body of research 
+that points to the advantages of short, focused interven -
+tions, such as the Safe Surgery Checklist or daily health -
+care huddles, which are successful in highly time- 
+pressured environments (Kilpatrick et al. 2020 , Murphy 
+2023 ). Taken together, it is essential to identify the mini -
+mally viable set of structures that will best support 
+dynamic team functioning.
+To address the question of what minimally viable set 
+of structures would best support dynamic teaming, we 
+conducted a randomized controlled experiment with 91 
+general pediatric inpatient teams to test two different 
+short, targeted interventions, both delivered to a team’s 
+core members (i.e., those contributors who are relatively 
+more stable and central to decision making; Ancona and Bresman 2007 , Humphrey et al. 2009 ). One intervention 
+focused on internal coordination of tasks and role 
+responsibilities among the core team members, and the 
+other focused on coordination of the core team with out-
+side contributors. Core teams received one intervention 
+or the other as they convened to begin working 
+together, and we examined the effects on coordination 
+behaviors and resulting team productivity and individ -
+ual learning. We observed that each intervention 
+increased the targeted coordination behaviors, as 
+expected. Our results further demonstrated that exter -
+nal coordination was associated with improved team 
+productivity based on the percentage of morning dis-
+charges. Additionally, teams’ internal coordination was 
+strongly related to individual learning, though an addi -
+tional post hoc analysis revealed that this was qualified 
+by an interaction effect: individual learning was highest 
+when teams achieved both high internal and external 
+coordination. Finally, in post hoc exploratory analyses, 
+we observed that the individual learning of team mem -
+bers was associated with their patients’ adjusted length 
+of stay, demonstrating a potential for synergies between 
+individual learning and team productivity. Additional 
+post hoc exploration also suggested that core teams 
+receiving the internally focused intervention were 
+slightly more likely to achieve high levels of both inter -
+nal and external coordination which produced the syn-
+ergistic learning and productivity outcomes.
+In reporting this field experiment, this paper makes 
+several theoretical and practical contributions. This 
+research adds to the research on dynamic teams— 
+which heretofore has been largely theoretical (Tannen -
+baum et al. 2012 , Wageman et al. 2012 , Edmondson and 
+Harvey 2018 , Mortensen and Haas 2018 ), or correla -
+tional or qualitative in nature (e.g., Majchrzak et al. 
+2007 , Mayo 2022 )—in that it supplies vital causal evi-
+dence of the impact of focusing attention squarely on 
+internal versus external coordination in a real-world set-
+ting permitting direct comparisons, revealing some 
+unique properties that result from each. By distinguish -
+ing between the role of external coordination for team 
+efficiency, and the role of internal coordination for 
+member learning, we also contribute to the emerging 
+theoretical understanding of dynamic teams. At the 
+same time, we contribute to research exploring the rela-
+tionship between learning and productivity by demon -
+strating the potential for synergy, where individual 
+learning and team productivity can be mutually reinfor -
+cing, and our post hoc explorations suggest implications 
+for theory development and avenues for future research 
+to capitalize on this. In supplying this evidence, our 
+paper also makes a significant practical contribution to 
+the management literature on managing dynamic teams 
+by demonstrating the efficacy of simple, low-cost inter -
+ventions to enhance learning and productivity in a chal-
+lenging teamwork environment. Finally, this work Mayo et al.: Coordination in Dynamic Teams 
+968 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) integrates and builds on extant research on team starts 
+(Ericksen and Dyer 2004 , Mathieu and Rapp 2009 , 
+Woolley 2009 , Ginnett 2010 , Hackman 2011 ) and team 
+huddles (e.g., Rodriguez et al. 2015 , Franklin et al. 2020 ). 
+Whereas extant work on team starts and huddles pre-
+sumes the ability to convene a full team (Jain et al. 2015 , 
+Rodriguez et al. 2015 ) and typically focuses on internal 
+team structures and processes (Mathieu and Rapp 
+2009 ), we extend this work to dynamic teams and fold 
+in consideration of external coordination and the differ -
+ential implications for team productivity and individual 
+learning.
+Theoretical Background
+Coordination in Dynamic Teams
+In order to adapt rapidly to volatile environments, orga -
+nizations are increasingly using “just-in-time” staffing 
+models (Capelli 2020 ) and temporary teams (Faraj and 
+Xiao 2006 , Valentine 2018 , Kim et al. 2023 ). A conse -
+quence of these trends is an increase in dynamic teams: 
+characterized by short lifespans and fluid membership 
+boundaries, resulting from fluctuating membership and 
+unclear boundaries as members drift in and out of the 
+team’s work (Mayo 2022 ).
+As the membership boundary around teams has 
+become increasingly fuzzy over the last few decades, 
+researchers have introduced ways to conceptualize or 
+clarify members based on their level of involvement in a 
+particular team. For instance, the distinction between 
+“core” and “noncore” contributors has gained currency 
+as a means of distinguishing different roles (Ancona 
+et al. 2002 , Humphrey et al. 2009 , Cummings and 
+Pletcher 2011 ), and it parallels concepts in networks 
+research that distinguish core and periphery members 
+(Long and Siau 2007 , Garcia et al. 2021 ). Core team 
+members are more central to decision making and 
+exhibit more stability in their collective work relative to 
+the peripheral members whose contributions may be 
+critical but who lack decision-making authority and sta-
+bility (Ancona and Bresman 2007 , Humphrey et al. 
+2009 ). Peripheral members are often involved to offer a 
+unique contribution of knowledge or supply additional 
+resources to support the core team’s work (Cummings 
+and Pletcher 2011 ).
+One of the key processes widely acknowledged as 
+fundamental to teamwork is coordination (Marks et al. 
+2001 ), or the “temporally unfolding and contextualized 
+process of input regulation and interaction articulation 
+to realize a collective performance” (Faraj and Xiao 
+2006 , p. 1157; as cited also in Okhuysen and Bechky 
+2009 ). Because the core group comprises only a subset of 
+the broader network of team members involved in car-
+rying out work, they often must coordinate work across 
+professional, unit, and departmental boundaries or engage 
+in “boundary work” (Chreim et al. 2013 , Meier 2015 , Langley et al. 2019 ), to exchange information, delegate, 
+and sequence events with periphery members. Accom -
+plishing coordination either within the core group 
+(internal coordination) or with those periphery mem -
+bers (external coordination) is nontrivial. The tempo -
+rary nature of the team limits core team members’ 
+ability to learn how to work together. At the same time, 
+coordination with periphery members in dynamic 
+teams is difficult for multiple reasons. First, dynamic 
+teams often cannot know, a priori, all of the external 
+members who might contribute throughout the team’s 
+lifespan, as the composition of that group constantly 
+changes either as a result of shift changes or the evolv -
+ing demands of the work (Humphrey et al. 2009 ). This 
+makes it difficult to clearly articulate a team boundary 
+at a team start that could direct attention and therefore 
+guide coordination. Second, integrating inputs from 
+outside a core group is difficult given that the boundary 
+differentiating core and periphery often aligns with 
+other differences in perspectives or training (Hall 2005 ). 
+Indeed, such cross-boundary work does not always 
+come naturally, with a tendency for members to instead 
+focus on the demands of their personal roles (Edmond -
+son 2012 ). Finally, when periphery members are scat-
+tered throughout an organization, working across 
+boundaries is even more complicated, as they tend to 
+be “out of sight, out of mind” (Kiesler and Cummings 
+2002 , p. 63).
+Traditional approaches to structuring coordination 
+often involve using clearly distinguished roles and stan-
+dardized routines to enable members’ inputs to fit 
+together. Although some aspects of a dynamic team’s 
+work can be facilitated using such structures, imposing 
+standard operating procedures may result in a lack of 
+adaptation to the dynamism inherent in the team and its 
+environment, or misaligned expectations as some mem -
+bers adjust as needed while others do not (Lifshitz- 
+Assaf et al. 2021 ). Consequently, a more successful 
+approach may lie in creating a minimal and flexible 
+structure (Lifshitz-Assaf et al. 2021 ). Because gathering 
+the entire set of contributors to a dynamic team is infea -
+sible, intervening with only the core members of a 
+dynamic team, who typically interact with each other 
+more frequently, is much more achievable. Indeed, a 
+qualitative study with dynamic teams suggests this may 
+be fruitful (Mayo 2022 ). Further, building on extant 
+work on the value of team launches (Marks et al. 2000 , 
+Hackman and Wageman 2005 ) and sufficiently brief 
+team huddles (Franklin et al. 2020 , Kilpatrick et al. 
+2020 ), and folding in consideration of periphery mem -
+bers in addition to the core, we suggest that an interven -
+tion with the core group could direct attention to the 
+(flexible) core-team roles and tasks and thereby support 
+internal coordination, or direct attention to the (flexible) 
+set of contributing periphery members and thereby sup-
+port external coordination. Building from these ideas, Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 969 below we further develop our theoretical arguments 
+and predictions related to the benefits of external and 
+internal coordination with respect to team productivity 
+and individual learning.
+Coordination and Productivity
+Team coordination can take a number of forms, depend -
+ing on the team’s task and environment, and here we 
+start with a focus on external coordination. Dynamic 
+teams arise more often than not in response to rapidly 
+changing environments, where they must manage 
+dynamic interdependencies (in terms of task, goal, 
+and/or knowledge interdependence; Raveendran et al. 
+2020 ) that span professional and functional boundaries, 
+such that external coordination with individuals outside 
+of the core team could allow for adaptively leveraging 
+widely distributed expertise and resources (Edmondson 
+2012 , Tannenbaum et al. 2012 , Wageman et al. 2012 , 
+Mortensen and Haas 2018 ). Indeed, they are character -
+ized by environments in which there is some relevant 
+knowledge or capability held by the periphery.
+Although the external coordination that a core team 
+carries out with periphery contributors cannot be speci -
+fied a priori and is not easy to achieve, we argue that it 
+has many benefits for team efficiency and productivity. 
+First, dynamic teams are commonly functioning within 
+a network of interdependencies with external contribu -
+tors that are not identifiable in advance, as those interde -
+pendencies tend to be dynamic. For instance, in 
+medicine, the need for a physician to coordinate external 
+information (e.g., gathering input from a nurse or spe-
+cialist) related to clinical reasoning and care planning 
+evolves over time (Kim 2020 , Mayo 2022 ). Similarly, in 
+product development teams, external coordination can 
+lead to new insights, but it is not obvious where the 
+valuable insights may reside when the team begins its 
+work (Cummings and Pletcher 2011 ). Second, the 
+degree to which those external interdependencies need 
+to be managed can vary, as research has long acknowl -
+edged the costs of cross-boundary coordination (Cum -
+mings and Kiesler 2005 ). Indeed, dynamic teams can 
+incur substantial costs from high levels of external coor-
+dination, which, given limited resources, could under -
+cut other necessary internal coordination, leading some 
+to call for only moderate external coordination (Ancona 
+and Caldwell 1988 , Ancona 1990 , Ancona and Bresman 
+2007 , Ziegert et al. 2022 ).
+Nevertheless, when a team has interdependencies 
+with others in its environment, particularly in environ -
+ments lacking hierarchical or centralized structures to 
+manage coordination, engaging in external coordination 
+is essential for productivity (Ancona et al. 2002 ), in part 
+because contributors provide essential information and 
+facilitate critical steps in the execution of tasks (Ander -
+sen 2015 ). For example, in hospital settings, a core 
+physician team is interdependent with multiple other professions and disciplines in delivering patient care, 
+including nurses, pharmacists, therapists, and other 
+medical specialists. In that setting, when a physician 
+team decides on medication treatment for a patient, that 
+core physician team typically completes a medication 
+order, and subsequently, periphery members such as a 
+pharmacist and a nurse must complete specific steps to 
+complete the process of administering the medication. 
+Core teams that coordinate with the periphery allow the 
+periphery to offer valuable input and ensure the periph -
+ery is aware of the next steps, which reduces the need 
+for backtracking (e.g., because the nurse can share rele-
+vant information about patient medication preferences 
+before the order is placed) and enables the periphery to 
+execute more efficiently (e.g., because the periphery is 
+aware that an order was placed). This coordination 
+enhances efficiency overall, as demonstrated by extant 
+research showing physicians’ effective coordination 
+with pharmacists results in shorter hospital stays for 
+patients (Chisholm-Burns et al. 2010 ). By contrast, if a 
+core team does not coordinate well with periphery 
+members, it is likely to lack essential input and face an 
+overall delay in execution. The impact of core–periphery 
+coordination has also been demonstrated in industries 
+beyond healthcare, where better coordination enables 
+the core to make use of relevant knowledge and exper -
+tise to not only achieve higher productivity but also be 
+more innovative (Cummings and Pletcher 2011 ). In 
+short, when periphery members have relevant exper -
+tise and can assist with task execution, we expect that a 
+core team’s external coordination with periphery 
+members—as distinct from the internal coordination 
+that is emphasized by many team interventions (e.g., 
+see Mathieu and Rapp 2009 )—will enhance team 
+productivity.
+Furthermore, we contend that the level of internal 
+coordination will not directly affect team productivity 
+in the majority of contexts deploying dynamic teams for 
+organizing work. Dynamic teams are often both a result 
+and a driver of interdependence across teams in their 
+broader context (O’Leary et al. 2012 , Larson et al. 2023 ), 
+as with high levels of knowledge, goal, and task interde -
+pendence across a multiteam system (Raveendran et al. 
+2020 ). In dynamic teams, the coordination of the core 
+team with others outside the team is, more often than 
+not, essential, as argued above. High levels of coordina -
+tion within the core team could also benefit productivity 
+in that this could allow for backup behaviors and 
+mutual adjustment within the core (Marks et al. 2001 ), 
+and this could enable the team’s ability to adapt as new 
+demands arise. However, it could be that the core team 
+opts to divide its work in a way that demands lower 
+levels of, if any, ongoing internal coordination (e.g., 
+with interdependence that emerges as pooled rather 
+than reciprocal; Thompson 1967 ). Such a choice could 
+be effective in that it could expedite decision speed Mayo et al.: Coordination in Dynamic Teams 
+970 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) (Hollenbeck et al. 2011 ) within the core and free atten -
+tion for external coordination, which may be of particu -
+lar importance given that dynamic teams focusing too 
+much on their internal coordination risk becoming too 
+insular and overlooking essential inputs from their envi-
+ronment (Ancona 1990 ). Taken together, we argue that 
+for dynamic teams working in their typical environ -
+ment, external coordination will be a strong driver of 
+team productivity, but internal coordination will not.
+Hypothesis 1.A dynamic team’s level of external coordi -
+nation will predict the team’s productivity.
+Coordination and Learning
+Although we anticipate that, in a dynamic team, the 
+core team’s external coordination will be a key driver of 
+productivity, we anticipate internal coordination will be 
+a key driver of learning among core members. Here, we 
+build on definitions of learning as a change in one’s set 
+of knowledge and potential behaviors as a function of 
+experience—an approach consistent with cognitive per-
+spectives across the study of individuals (Anderson 
+1993 , Walsh and Anderson 2012 ), groups (Wilson et al. 
+2007 , Argote 2013 ), and organizations (Huber 1991 , 
+Argote and Miron-Spektor 2011 ). We draw a distinction 
+between our focus on individual learning of knowledge 
+and research on team learning. In the latter, research 
+tends to focus on the behaviors that could change collec -
+tive knowledge (Edmondson 1999 , Edmondson et al. 
+2007 , Wiese et al. 2022 ) while inferring that such collec -
+tive (and individual) learning has occurred from perfor -
+mance gains (Wiese et al. 2022 ). Further, although team 
+learning has been shown to be important to team out-
+comes in a broad range of environments, in dynamic 
+teams, “the concept of team viability seems quaint” 
+(Maloney et al. 2019 , p. 275), such that learning to work 
+with any specific team may be a moot point. Instead, 
+organizations using dynamic team structures increas -
+ingly focus on supporting individual learning about 
+teamwork skills to enable better team effectiveness 
+(Hughes et al. 2016 ) as well as supporting individuals to 
+develop a robust and diverse range of skills to enhance 
+team ambidexterity and adaptation (Dean 2021 ).
+We have long known that direct experience (Thorn -
+dike 1898 ) and observation of others (Bandura 1971 , 
+Gioia and Manz 2011 ) facilitate learning. However, 
+recent work elaborates on this foundation to demon -
+strate that mere exposure to novel information is not 
+sufficient for learning. Instead, rather than being solely 
+an intrapersonal process, individuals can engage in a 
+process of coactive vicarious learning, involving a rela-
+tional process of “coconstructed, interpersonal learning 
+that occurs through discursive interactions” with others 
+(Myers 2018 , p. 610). This is consistent with classic 
+constructivist theory originating in developmental psy-
+chology, wherein children (and adults) acquire new knowledge by assimilating and accommodating new or 
+contradictory information through interaction with 
+others in their environment (Inhelder and Piaget 1958 ). 
+Building on these seminal ideas, a growing body of evi-
+dence demonstrates that in addition to learning from 
+experts, learners can also benefit greatly from collective 
+processing of new information with peers operating at 
+the same level of competence (Myers 2021 ), as demon -
+strated by the benefits of peer review and team-based 
+learning in educational environments (Cho and Schunn 
+2007 , Michaelsen and Sweet 2011 ). Studies in organiza -
+tional settings demonstrate similar effects of peer coach -
+ing, such as when members in interdependent teams 
+can seek and give each other advice to solve problems 
+(Wageman 2001 ). Consequently, an accumulating body 
+of evidence demonstrates that more coordinated, coop -
+erative, and interdependent work in groups is associ -
+ated not just with improved team learning (Edmondson 
+1996 , McGrath and Argote 2004 , Woolley and Aggarwal 
+2020 ) but also with individual learning (Johnson and 
+Johnson 1975 , Yager et al. 1986 , Wageman and Gordon 
+2005 ).
+There are, of course, benefits to being exposed to a 
+wealth of new information via contacts with others out-
+side one’s own core team, but such external learning 
+activities more readily result in improved capability 
+when they are coupled with the capacity to absorb it 
+(Nemanich et al. 2010 , Venkataramani and Tang 2024 ). 
+Absorptive capacity reflects an ability to understand 
+and integrate other’s expertise (Cohen and Levinthal 
+1990 ). Though often studied at the firm level, absorptive 
+capacity has more recently been examined at the team 
+(Venkataramani and Tang 2024 ) and even the individ -
+ual level of analysis (Siachou and Gkorezis 2014 ) in 
+response to calls for a better understanding of the micro -
+foundations of the construct (Volberda et al. 2010 , Tian 
+and Soo 2018 ). At the team level, the idea that internal 
+coordination creates a foundation for absorptive capac -
+ity such that teams can better learn from external coordi -
+nation is supported by research demonstrating that 
+teams can perform better as a result of external learning 
+activities (the behaviors theorized to yield learning, as 
+noted above) only if they also engage in more internal 
+learning activities, underscoring the essential role of 
+processing new knowledge with coworkers (Bresman 
+2010 , Myers 2021 ). Additionally, we note that research 
+examining a team’s ability to capitalize on external 
+inputs has done so by defining absorptive capacity in 
+terms of the team’s ability to form a shared understand -
+ing and then demonstrating that this internal ability 
+was associated with the ability to apply inputs from out-
+side the team (Nemanich et al. 2010 ). Critically, research 
+at the individual level is also consistent with this pat-
+tern. For instance, research on the correlates of individ -
+ual absorptive capacity has identified internal motivation 
+and personal empowerment as two important influences, Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 971 which are two internal states that are highly influenced 
+by the frequent interactions employees have with cow-
+orkers, much like dynamic team members would have 
+if they were engaged in high levels of internal coordi -
+nation (Conger and Kanungo 1988 ). By contrast, exter -
+nal coordination might provide opportunities to learn 
+from diverse new information—at least for those who 
+engage in the external coordination—but little to no 
+opportunity for the collective processing essential for 
+individual learning, either by those initially exposed 
+to the external inputs or others who never encounter 
+it. Taken together, the extant literature suggests that 
+whereas external coordination could provide novel 
+inputs and ideas, internal team coordination is vital to 
+fostering the intermember processes that underlie 
+individual learning.
+Hypothesis 2.A dynamic team’s level of internal coordina -
+tion will significantly predict individual member learning.
+Learning and Productivity
+Observations from a handful of studies point to a 
+potential trade-off between the level of learning that 
+occurs in a collaborative setting and the team’s effi-
+ciency or productivity (Sobrero and Roberts 2001 , Singer 
+and Edmondson 2008 ), based primarily on the logic that 
+both require time, which is a zero-sum resource. For 
+instance, research on the benefits of supplier–manufacturer 
+collaboration in new product development has demon -
+strated that learning by one of the collaborators—the 
+manufacturer—can detract from the short-term effi-
+ciency of the collaboration’s development process 
+overall (Sobrero and Roberts 2001 ). A similar tension is 
+also present in team-based settings where individual 
+learning is important, such as in academic teaching 
+hospitals. There, dedicating time to the education of 
+medical residents to support individual learning is 
+expected to slow the team’s provision of patient care 
+(e.g., Dennis et al. 2014 , Rabinowitz et al. 2016 ). Thus, 
+studies that have explicitly examined the relationship 
+between learning and productivity at different levels of 
+analysis have observed similar trade-offs, typically 
+attributed to the zero-sum nature of time as the pri-
+mary explanation. Other work recognizes the initial 
+trade-off but suggests a delayed benefit of learning—a 
+“worse-before-better” effect—noting that learning 
+involves experimentation that takes time to conduct 
+and may come with some errors, and thus the benefits 
+may take time to emerge (Singer and Edmondson 2008 , 
+p. 39; Nembhard and Tucker 2011 , p. 918). For instance, 
+the literature on learning curves—from the study of 
+individuals to teams to organizations—highlights this 
+nuanced tension between learning and productivity, 
+where gains in experience (thought to go hand in hand 
+with learning) can enhance performance (Argote and 
+Epple 1990 ); though, there may be an initial decrease in productivity before gains are realized (Musaji et al. 2020 ). 
+While recognizing that cross-level effects are not always 
+isomorphic, we take the robustness of these effects across 
+levels as compelling, and we both build from and map 
+the zero-sum and worse-before-better perspectives to 
+dynamic teams. In doing so, we note that the difficulties 
+of carrying out the collective processing necessary for 
+learning in such a complex setting could exacerbate any 
+potential trade-off between learning and productivity 
+derived from having scarce attentional resources, and the 
+short team lifespans could impede opportunities for 
+learning to yield performance gains.
+However, there may be conditions under which the 
+trade-off assumptions do not hold, and instead there 
+could be an opportunity for even near-term synergistic 
+gains in dynamic teams. This could occur because of 
+members’ increased competency from learning being 
+translated more immediately into productivity, or by 
+exposure to better ways of doing things fueling both 
+individual learning and, thus, group productivity. For 
+instance, Sarin and McDermott (2003 , p. 717) examined 
+team learning in terms of “how much members had 
+learned while conducting the project” (emphasis 
+added), and found that their measure of learning pre-
+dicted higher productivity in product development 
+teams as reflected in quicker speed to market. Similarly, 
+Kostopoulos and Bozionelos (2011 ) showed that mem -
+bers’ reports of their own new skill development while 
+working on a team project predicted manager ratings of 
+team productivity. Of note, these studies emphasize 
+individual learning that is achieved while working with 
+others, and thus their findings suggest that collective 
+and informal learning (rather than more didactic or for-
+mally reflective learning; e.g., see Nembhard and Tucker 
+2011) may be key to unlocking near-term synergies. For 
+instance, research suggests that collective work to address 
+challenges and errors can support individual learning 
+(Edmondson et al. 2007, Edmondson and Nembhard 
+2009) as well as unit performance improvement (Edmond -
+son 1996), whereas a qualitative study of nurses suggests 
+that when a nurse addresses a failure independently, 
+others do not have a chance to also learn from that failure, 
+and even if the nurse learns, this can limit the ability for 
+individual learning to support unit-level performance 
+(Tucker and Edmondson 2003). Moreover, collective pro-
+cessing not only supports an individual’s learning in terms 
+of gaining new knowledge but is also essential to gaining 
+the ability to apply it (Myers 2018). Thus, there appear to 
+be opportunities to find synergies between individual 
+learning and productivity, but how best to plant the seeds 
+for them to occur is not entirely clear.
+In sum, we take these findings to suggest that—at 
+least under certain conditions—individual learning 
+within a team context can enhance a team’s productivity. 
+We stop short here of making formal predictions about 
+the specific conditions moderating the relationship Mayo et al.: Coordination in Dynamic Teams 
+972 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) between learning and productivity, given the mixed evi-
+dence in the literature and the complexity of the contin -
+gencies surrounding these relationships. Instead, we will 
+present exploratory analyses to see what evidence exists 
+supporting or refuting our intuitions. We then build on 
+those empirical observations in our discussion to consider 
+the implications for theory and future research. We illus-
+trate our conceptual model in Figure 1, distinguishing 
+our evidence-based predictions from the relationships we 
+explore in our post hoc analyses.
+Research Setting
+This research took place within the general pediatric 
+inpatient service of a large and free-standing academic 
+children’s hospital. Here, there was an apprenticeship- 
+like model to medical education such that physician 
+teams were tasked with educating trainees, as well as 
+determining and executing care for a patient and decid -
+ing when that patient was ready to leave the hospital. 
+These physician teams were assigned to a shared panel of 
+patients over which they had decision-making authority. 
+These teams conducted their work with assistance and 
+input from nurses, specialists, pharmacists, social work -
+ers, care coordinators, patients and families, etc.
+Following extant research, we differentiated the core 
+team from periphery members based on (1) decision- 
+making authority and (2) consistency of engagement 
+with the team (Ancona and Bresman 2007 , Humphrey 
+et al. 2009 ). In our setting, core members included only 
+the physician team: typically one attending physician 
+(supervising physician), one senior resident (second or 
+third year of residency), two interns (first year of resi-
+dency), and two to three medical students. This core 
+team had decision-making authority for their patients, 
+and core members worked together for one week at a 
+time, sharing all of their patients. Although sometimes 
+the core members have higher status in the organization 
+than periphery members, this is not always the case. For instance, nurses are considered periphery members, not 
+because they are considered lower status than physi -
+cians, but because they did not have the same decision- 
+making authority. Further, even though they might 
+spend more time caring for a patient than the physicians 
+on the core team, they could rotate on and off service as 
+frequently as daily and shared only a small (often just 
+one) of the core team’s overall set of patients. By that 
+same token, medical specialists, who are often consid -
+ered higher status than primary care physicians, are 
+also periphery members in this setting, as they also did 
+not have ultimate decision-making authority and made 
+narrower and more temporary contributions to a case 
+than the core team.
+For each patient cared for by a core team, there was a 
+different set of periphery members such that each 
+patient’s care team was typically unique in its composi -
+tion and also experienced changing membership result -
+ing from shift changes or developments in the patient’s 
+condition. (See Figure 2for a stylized illustration of care 
+team structure in this setting.) Because of the shifting 
+composition of the periphery roles involved in each 
+case, there was no standard operating procedure for 
+determining accountability for specific tasks. For 
+instance, even though a nurse was assigned to every 
+patient, and there was a range of activities for which the 
+physician team could include the nurse or a specialist, 
+not all of these tasks necessarily had to involve periph -
+ery contributors. Instead, these connections could vary 
+as a function of the patient details as well as the idiosyn -
+cratic preferences of the core team. As is common in 
+medical settings, much of the planning of patient care 
+occurred during morning rounds, when each core team 
+discussed and made decisions about the care for each of 
+its assigned patients (Ervin et al. 2018 ). At this hospital, 
+core teams were instructed to include patient families 
+and nurses during morning rounds; however, prelimi -
+nary data collected in this setting demonstrated that the 
+Figure 1. Conceptual Model 
+Notes. When predicting coordination behaviors, gray dashed lines are controlled for, such that we can determine whether each intervention has 
+distinct effects on subsequent coordination behaviors. When predicting outcome measures, the black dashed lines reflect relationships that we 
+explore, but for which extant research evidence is not substantive enough to make a strong prediction. H1, Hypothesis 1; H2, Hypothesis 2.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 973 degree to which inpatient physician teams included 
+nurses in their morning rounds varied from 30% to 85%, 
+suggesting significant room for improvement in core 
+team external coordination.
+Methods
+Sample and Design
+The overall sample included 243 unique core team 
+members (21 attending physicians, 222 trainees) from 
+the general pediatric in-patient service and 33 unique 
+periphery members (nurses) who shared their patients. 
+Together, over the course of the study, these individuals 
+composed 91 teams.1Each week four new core teams 
+were constituted from the same pool of employees. 
+Scheduling for all members was constrained by shift 
+and/or training requirements, leading membership in 
+each core team to be largely random, in that it was not 
+dictated by ability, preferences, or history working 
+together. Because of the reconstitution of each core team 
+each week, we treated the core teams from week to 
+week as separate entities such that the unit of analysis 
+was a core team in a given week, along with the periph -
+ery members associated with each patient case. Our study design included three conditions: a control condi -
+tion and two distinct interventions.
+Interventions. The team launch interventions involved 
+only core team members and were implemented at the 
+core team’s start (Monday at 9:00 a.m.), when a core 
+team’s senior resident led fellow core members through 
+the assigned intervention, which averaged 10minutes.2
+Intervention materials are provided in Online Appen -
+dix B. Building from prior qualitative work (Mayo 2022 ), 
+we designed two interventions—team launches—that 
+focused either on internal coordination within the core or 
+external coordination with the periphery. Broadly speak -
+ing, the interventions were designed to direct the team’s 
+attention to specific issues in order to shape their coordi -
+nation behavior. The “core-attention” team launch 
+directed attention toward internal coordination, specifi -
+cally to roles and workflows among core team members. 
+The “periphery-attention” team launch directed attention 
+toward external coordination with potential periphery 
+members and relevant workflows. In structuring the 
+interventions, we followed evidence-based change man -
+agement practices and theory about “wise” interventions Figure 2. Illustration of Care Team Structure in the Research Setting 
+Note. Illustration of one core team (depicted in the center) and its ties to various periphery team members via shared patients, wherein the 
+periphery members (those external to the core) are themselves working on many different patient cases (indicated in white).Mayo et al.: Coordination in Dynamic Teams 
+974 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) including: (1) motivation for the change, (2) removal of 
+barriers to the change, and (3) the enabling of autono -
+mous work (Walton 2014 , Stouten et al. 2018 , Walton and 
+Wilson 2018 ). Consequently, each script has a motivation 
+for why focusing on the selected issues is important, 
+removes a barrier by directing the team to gather contact 
+details for other core or periphery members (as the lack of 
+that information was noted in preliminary observations 
+as a major barrier to coordination), and provides a discus -
+sion guide for collective planning on how the core team 
+wanted to address the relevant focal issues. Each discus -
+sion guide—the latter element—included the same num -
+ber of questions, with the core-attention version focused 
+on how members coordinate with each other, and the 
+periphery-attention version focused on who to coordi -
+nate with outside the team and how to do so.
+Block Random Assignment. The study involved two 
+phases. The first phase (September 2017 to December 
+2017) included data collection for the control condition 
+(n 48: for 12weeks, four core teams were observed 
+each week, identified by a color: Blue, Green, Red, and 
+Purple). During the second phase (January 2018 to 
+March 2018), we used block random assignment to 
+assign core teams to one of the two intervention condi -
+tions (the “core-attention team launch” or the “periphery- 
+attention team launch” intervention; n 24 per interven -
+tion: for twelve weeks, two core teams were assigned to 
+each intervention each week). Block random assignment 
+allowed us to prevent the contamination that would 
+occur if a core member received one intervention in one 
+week, but a different intervention in the next week. This 
+was a risk because members worked on multiple teams 
+across different weeks in the study. Thus, in coopera -
+tion with the hospital administration, we divided the 
+pool of physicians staffing the core teams into two 
+blocks (i.e., the Blue/Green teams and the Purple/Red 
+teams). Each block was then randomly assigned to an 
+intervention condition, and staffing assignments dur-
+ing the intervention phase of the study were restricted 
+so that each physician was always assigned to a team 
+within the same block (i.e., physicians were assigned 
+only to the Blue or Green team, or only to the Purple or 
+Red team).
+Condition Comparison. When comparing each team 
+launch to the control condition, it is important to note 
+the possibility that from phase one to phase two of data 
+collection the passage of time could have affected the 
+behaviors and performance of core team members. We 
+argue that these effects would likely be a reflection of 
+other environmental conditions—namely, the potential 
+for core team members working later in time to have 
+obtained more experience working in their specific posi-
+tions on these inpatient teams, and the potential for a 
+specific week to result in a higher patient load, for example, during flu season. We addressed this by using 
+control variables in our models (e.g., core team mem -
+bers’ experience in their position, the core team’s experi -
+ence working together, and the core team’s patient load; 
+each is discussed in more detail below).
+A key benefit of this study’s design is that, although 
+the control condition was implemented before the team 
+launches, the team launches were implemented concur -
+rently and thus served as controls for each other. This 
+allowed us to assess team launch effects as driven by the 
+team launch substance and not time (e.g., gained experi -
+ence) or demand effects (e.g., from receiving a team 
+launch of any kind). Further, the simultaneous imple -
+mentation of team launches reduced the likelihood that 
+core team members participating in a team launch 
+would share details across the two conditions, as all 
+members in all core teams in the general pediatric inpa -
+tient service received some form of team launch, com-
+pared with if some core teams were receiving some 
+form of a team launch while other core teams received 
+nothing.
+Measures
+Core and periphery members were surveyed at the end 
+of each week; all survey scales were responded to on a 
+seven-point scale (1 strongly disagree, 7 strongly 
+agree) unless otherwise noted. Productivity measures 
+and controls were based on hospital scheduling and 
+electronic medical records.
+External Coordination. We obtained our measure of 
+external coordination from periphery members who 
+shared patients with a focal core team in the study. In 
+this setting, we collected our ratings of external coordi -
+nation from nurses because they were the periphery 
+team members who were most consistently involved in 
+patient care. Nurses deal with different core teams, often 
+a different team for each of their patients, making them 
+an excellent informant about core team external coordi -
+nation. All nurses were blind to the study design and 
+team launch materials, including the condition assign -
+ments of core teams. On Wednesday and Friday each 
+week, we asked the nurses to respond to a short survey 
+about each team they worked with that day from the 
+general pediatric inpatient service.
+For our measure of external coordination, drawing on 
+the literature on coordination in organizations (i.e., 
+Okhuysen and Bechky 2009 ), we included items captur -
+ing both the structural and emergent components coor-
+dination (i.e. the routine and the emergent action), as 
+the two are orthogonal, and teams engaging in both can 
+be interpreted as engaging in more coordination than 
+teams that do only one or none. The survey included 
+items capturing these two components of their coordi -
+nation with the core team for each patient. For the struc -
+tural component, nurses were asked whether the core Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 975 team included them on their morning rounds for that 
+patient, and we aggregated responses for each core 
+team to calculate the percentage of patients for which 
+nurses had been included in morning rounds. For the 
+emergent component, we asked the nurse to rate the 
+extent to which “The team included me in the decision 
+making” and “The team valued my input” (scale: 1, 
+strongly disagree, to 7, strongly agree; α 0.91) because 
+coordination resulting in those perceptions could occur 
+during morning rounds or at other times. We had an 
+83% response rate to these surveys, and an average of 
+4.9 nurse responses per core team (min 2, max 10); 
+we excluded three teams receiving fewer than two 
+responses. The responses to the two emergent coordina -
+tion items exhibited acceptable levels of internal agree -
+ment and between-group variation to support 
+aggregation (F 1.48, p 0.005, ICC(1) 0.09; ICC(2) 
+0.32; median rWG(2) 0.61, mean rWG(2) 0.75). We z- 
+scored the two separate components of the external 
+coordination measure ((1) percentage of nurses invited 
+to rounds and (2) average of the two Likert-scale survey 
+scores) and averaged them to create an overall external 
+coordination score (α 0.83).3
+Internal Coordination. Because the main structural 
+component of internal coordination was morning 
+rounds (which were conducted by all core teams), for 
+our measure of core team internal coordination we 
+focused on emergent coordination. This was captured 
+based on core team members’ average response to the 
+item “We tended to run the list after rounds, discussing 
+each patient’s tasks/updates” (participation rate 
+90%). This practice, “running the list,” was known by 
+name because it is commonly done at handoffs (as a 
+structural coordination mechanism), but it is also an 
+example of emergent coordination because it involves 
+core team members spontaneously going beyond their 
+structural coordination routine of morning rounds to 
+spontaneously consider open tasks, prioritize them, and 
+delegate. It is also a practice that varies considerably 
+across teams. The level of agreement among members’ 
+responses was sufficient to justify aggregation at the 
+group level (between-group variance was significant: 
+F 2.96, p D0.001; ICC(1) 0.22; ICC(2) 0.66; mean 
+rWG(1) 0.81; median rWG(1) 0.86).
+Learning. We assessed individual learning in terms of 
+task mastery (Hoegl and Gemuenden 2001 ) based on 
+responses of core team members in trainee roles (i.e., 
+excluding the attending physician) to the items “I was 
+able to acquire important know-how during this week” 
+and “I learned important lessons from this week” (scale: 
+1, strongly disagree, to 7, strongly agree; α 0.87). This 
+measure was analyzed at the individual level for 
+hypothesis tests. In exploratory analyses, we examined 
+the relationship between core team members’ average learning and team productivity (i.e., to predict the 
+group-level outcome of productivity, we aggregate 
+learning to the group level by taking the average).4
+Productivity. We assessed productivity in two ways. 
+First, as a measure of each core team’s daily task produc -
+tivity, we calculated morning discharges, which is the per-
+centage of each team’s patient discharges that occurred 
+between 6:00 a.m. and 11:00 a.m. The hospital strongly 
+encouraged this because it improved throughput from 
+the hospital’s emergency department, which is often 
+busy and needs to be able to send sick patients into the 
+inpatient unit where beds are finite. As a second and 
+perhaps more comprehensive measure of productivity, 
+we calculated each patient’s severity-adjusted length of 
+stay: length of stay divided by the patient’s All Patient 
+Refined Diagnosis Related Group (APR DRG) weight, a 
+measure of case severity and complexity. We then took 
+the average of a team's patients scores, resulting in an 
+average severity-adjusted length of stay (average ALOS) for 
+a core team’s patients. ALOS scores are commonly used 
+for comparison of productivity across units in hospital 
+care (Gross et al. 1997 , Lu et al. 2015 ), as they capture 
+the efficiency of care while controlling for case severity 
+(as more severe cases usually require longer hospi -
+tal stays).5
+Control Variables. We accounted for several potentially 
+confounding variables by including them as controls in 
+our analyses (see Table 1for a comparison of all control 
+variable means by condition). Core teams across condi -
+tions marginally differed in their number of members or 
+core size (F 3.02, p 0.054), which can affect the diffi-
+culty of coordination. Core teams also differed by condi -
+tion on patient load (the number of patients admitted to 
+the core team during the week; F 4.96, p 0.009), 
+which can also impact coordination processes and diffi-
+culty. Core experience working together can also be a signif -
+icant advantage for unit performance (Reagans et al. 
+2005 ). Following prior work, we calculated the number 
+of weeks during which each dyad within the core team 
+had previously worked together during the year, then 
+aggregated to the team level. Core teams did not differ 
+by condition in their experience working together, nor 
+in the average case severity of patients,6but we controlled 
+for these variables given the potential effect on out-
+comes of interest based on extant work.
+To control for senior resident experience and average 
+intern experience, we used staffing records starting with 
+the beginning of the training year (over two months 
+prior to our study launch) and calculated the number of 
+weeks senior residents and interns had served in their 
+roles on the general pediatric inpatient service prior to 
+and including the week of observation. We also control 
+for attending experience based on the number of years of 
+experience of each team’s attending physicians (i.e., Mayo et al.: Coordination in Dynamic Teams 
+976 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) years practicing since board certification). Across the 
+three conditions, teams did not differ in the experience 
+of attending physicians; however, they did differ in 
+senior resident experience (F 7.69, p D0.001) and intern 
+experience (F 7.71, p D0.001; see Table 1). Finally, we 
+also controlled for the week in which each core team 
+observation occurred, as time can also serve as a general 
+indicator of the amount and type of work a core team 
+will face.
+Results
+Descriptive statistics and correlations are shown in 
+Table 2. Because core team members could be assigned 
+to different core teams over the course of the data collec -
+tion period, there is a lack of independence of our obser -
+vations of different teams, which violates a key 
+assumption of ordinary least squares models. Multiple 
+membership models (Browne et al. 2001 ) account for 
+this lack of independence. We therefore implemented 
+multiple membership models using the software R and 
+MLwiN, and the R package Z5TwÐtU! (Zhang et al. 
+2016 ), when predicting variables assessed at the group 
+level. To predict individual learning, we implemented 
+hierarchical linear models using the R package wyo7! and 
+the function lmer to account for the nesting of the learn -
+ing measure in both individuals (i.e., some individuals appear in the data more than once) and in teams. Model 
+results are reported in Tables 3–6.
+Effects of Team Launches on Internal and 
+External Coordination
+To verify whether our randomly assigned treatment, 
+the team launches, had the intended effects on core 
+teams’ coordination, we implemented multiple mem -
+bership models predicting both internal and external 
+coordination. As expected, we observed that the core- 
+attention team launch increased internal coordination 
+relative to both of the other conditions; specifically, the 
+control condition yielded less internal coordination 
+(Table 3, Model 3; B �1.09, p 0.002), as did the 
+periphery-attention team launch (B �0.64, p 0.002). 
+This effect remains even when controlling for core team 
+members’ experience working together, which was also 
+positively associated with internal coordination (B 
+1.15, p 0.006), consistent with extant research. We also 
+confirmed our expectation that the periphery-attention 
+team launch increased external coordination relative to 
+both the control condition (Table 3, Model 6; B �1.03, 
+p 0.019) and the core-attention team launch (B 0.72, 
+p 0.006). We further observed that the effect of the 
+intervention remained significant when controlling for 
+the senior resident’s experience, which was also Table 1. Comparison of Control Variable Means by Condition
+Variable Control Core-attention team launch Periphery-attention team launch
+Core size 7.00 6.61 6.36
+Attending experience (years) 16.06 14.52 17.18
+Senior resident experience (weeks) 1.63a3.39b2.31a
+Average intern experience (weeks) 2.24a3.29b3.00b
+Core experience working together (weeks) 1.17 1.19 1.23
+Patient load (admitted patients) 12.65a17.04b15.04c
+Average case severity 3.91 3.96 4.29
+Notes. a,b,cFor each variable, distinct letters indicate a significant difference across condition, p D0.05. Lack of a letter indicates there is not a 
+significant difference across conditions.
+Table 2. Descriptive Statistics and Correlations
+Statistic Mean SDCorrelations
+1 2 3 4 5 6 7 8 9 10 11
+1Average ALOS (days) 1.33 0.41
+2Morning discharges (%) 0.37 0.15 0.06
+3Average individual learning 6.26 0.36�0.27 0.19
+4Internal coordination 6.25 0.72 0.03 0.00 0.21
+5External coordination 0.00 0.93 0.17 0.36 0.02�0.02
+6Core size (# members) 6.75 1.07 0.07�0.11�0.04�0.03 0.14
+7Attending experience (years) 15.95 11.30 0.04 0.11 0.11 0.04 0.09 0.18
+8Senior resident experience (weeks) 2.24 1.89 0.01 0.10�0.03 0.12 0.24 0.08 0.04
+9Average intern experience (weeks) 2.69 1.22 0.04 0.18 0.11�0.03 0.12�0.42�0.02 0.03
+10Core experience together (average dyadic weeks) 1.19 0.17 0.12 0.12�0.03 0.21 0.06 0.04 0.03 0.16 0.08
+11Patient load (admitted patients) 14.34 5.83�0.39 0.23 0.08 0.11 0.16�0.01 0.03 0.20 0.03 0.01
+12Average case severity (average APR DRG) 4.02 0.77 0.31�0.15�0.20�0.01 0.22 0.13 0.05 0.09 0.13�0.06�0.14
+Notes. Values in bold are significant at p D0.05. N 91. SD, standard deviation.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 977 positively associated with external coordination (B 
+0.106, p 0.038).
+Individual Learning
+To test Hypothesis 1, we evaluated the relationship 
+between internal coordination and individual learning 
+(see Table 4, Model 3). Because we measured learning at 
+the individual level, we tested our prediction using a 
+hierarchical linear model to account for the nesting of 
+observations into individuals and teams. In support of 
+Hypothesis 1, internal coordination was significantly 
+and positively associated with individual learning (B 
+0.17, p 0.004). External coordination was also posi-
+tively associated with individual learning, but the effect size falls just below the standard threshold for statistical 
+significance (B 0.080, p 0.072). Further, the relation -
+ship between internal coordination and learning was 
+qualified by an interaction between internal and exter -
+nal coordination (B 0.10, p 0.046).7Probing this inter -
+action (see Figure 3), we observed that learning was 
+greatest when the core team exhibited high levels of 
+internal and external coordination. Plotting the marginal 
+effects of external coordination on learning (see Figure 4) 
+further demonstrated that, in contrast to the clear main 
+effect that internal coordination had on learning, external 
+coordination had a positive effect on learning only at 
+higher levels of internal coordination. In addition, in the 
+full model with controls included, individual learning is Table 3. Results from Multiple Membership Models Predicting Internal and External Coordination
+Internal coordination External coordination
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+Intercept 6.243*** 
+(0.075)5.272*** 
+(0.825)6.814*** 
+(0.900)0.000 
+(0.096)�2.841** 
+(1.036)�1.412 
+(1.175)
+Controls
+Week 0.019† 
+(0.010)�0.023 
+(0.020)0.006 
+(0.013)�0.031 
+(0.026)
+Average case severity 0.0003 
+(0.098)0.068 
+(0.093)0.209† 
+(0.123)0.133 
+(0.119)
+Patient load 0.006 
+(0.013)�0.001 
+(0.012)0.021 
+(0.016)0.021 
+(0.016)
+Core size �0.020 
+(0.079)�0.126† 
+(0.068)0.155 
+(0.101)0.166† 
+(0.099)
+Core experience together 0.771† 
+(0.431)1.146** 
+(0.416)0.053 
+(0.542)�0.009 
+(0.527)
+Attending experience 0.002 
+(0.006)0.005 
+(0.006)0.003 
+(0.008)0.001 
+(0.008)
+Senior resident experience 0.003 
+(0.042)�0.024 
+(0.040)0.075 
+(0.052)0.106* 
+(0.051)
+Average intern experience �0.081 
+(0.068)�0.118† 
+(0.065)0.107 
+(0.086)0.143† 
+(0.083)
+Key variables
+Control conditiona,b�1.088** 
+(0.353)�0.715** 
+(0.258)
+Periphery-attention team launcha�0.638** 
+(0.204)
+Core-attention team launchb�1.030* 
+(0.439)
+Random effect variance components
+Core members 0.413 
+(0.154)0.248 
+(0.286)0.369 
+(0.077)0.000 
+(0.000)0.000 
+(0.000)0.000 
+(0.000)
+Residual 0.096 
+(0.135)0.206 
+(0.280)0.033 
+(0.048)0.847 
+(0.126)0.719 
+(0.107)0.643 
+(0.095)
+DIC 195.7 186.1 173.6 243.1 228.3 218.1
+Observations 91 91 91 91 91 91
+Notes. Standard errors are shown in parentheses. DIC, deviance information criterion.
+aIn Models 1–3, the core-attention team launch condition is the referent, given that it was expected to differ from the other two conditions 
+with respect to internal coordination.
+bIn Models 4–6, the periphery-attention team launch condition is the referent, given that it was expected to differ from the other two 
+conditions with respect to external coordination.
+†p D0.10; *p D0.05; **p D0.01; ***p D0.001.Mayo et al.: Coordination in Dynamic Teams 
+978 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) higher in later weeks of observation within our data col-
+lection window (B 0.02, p 0.035), and the average case 
+severity of a core team’s patients was negatively associ -
+ated with individual learning (B �0.12, p 0.018).
+Productivity
+We tested Hypothesis 2, regarding the effect of external 
+coordination on productivity, using multiple member -
+ship models and examining two measures of team 
+productivity. One is the percentage of patients dis-
+charged between 6:00 a.m. and 11:00 a.m. (i.e., morning discharges), a measure that reflects the near-term impact 
+of a team whose members’ involvement is essential to 
+placing and executing discharge orders. Consistent with 
+Hypothesis 2, we found that external coordination was 
+associated with more morning discharges (B 0.05, 
+p 0.001). Translating this effect, a one-standard- 
+deviation increase in external coordination (0.93) was 
+associated with a 5% increase in discharges completed 
+in the morning. That is, for every 20 patients, one more 
+patient would be discharged in the morning. The sec-
+ond measure of team productivity we used to test this Table 4. Results from Hierarchical Linear Models Predicting Individual Learning
+Dependent variable Individual learning
+Model 1 Model 2 Model 3
+Intercept 6.421*** 
+(0.444)6.716*** 
+(0.443)6.631*** 
+(0.440)
+Key variables
+Core-attention team launcha�0.231 
+(0.217)�0.376† 
+(0.217)�0.452* 
+(0.218)
+Periphery-attention team launcha�0.308 
+(0.214)�0.430* 
+(0.213)�0.466* 
+(0.212)
+Internal coordination 0.131* 
+(0.056)0.172** 
+(0.059)
+External coordination 0.082† 
+(0.045)0.080† 
+(0.044)
+Internal ×external coordination 0.101* 
+(0.051)
+Controls
+Week 0.019 
+(0.012)0.024* 
+(0.012)0.025* 
+(0.012)
+Average case severity �0.106* 
+(0.053)�0.123* 
+(0.051)�0.121* 
+(0.051)
+Patient load �0.001 
+(0.007)�0.003 
+(0.007)0.000 
+(0.007)
+Core size 0.035 
+(0.044)0.032 
+(0.043)0.034 
+(0.043)
+Core experience working together �0.244 
+(0.223)�0.380† 
+(0.221)�0.398† 
+(0.219)
+Attending experience 0.003 
+(0.003)0.003 
+(0.003)0.003 
+(0.003)
+Senior resident experience �0.006 
+(0.023)�0.009 
+(0.023)�0.006 
+(0.023)
+Average intern experience 0.052 
+(0.038)0.055 
+(0.039)0.073† 
+(0.039)
+Random effect variance components
+Individuals 0.190 
+(0.436)0.195 
+(0.441)0.191 
+(0.438)
+Teams 0.032 
+(0.178)0.024 
+(0.154)0.022 
+(0.147)
+Residual 0.351 
+(0.592)0.348 
+(0.590)0.348 
+(0.590)
+Observations 477 477 477
+Notes. Observations are nested in 210 individuals and 91 teams. Standard errors are shown in parentheses.
+aThe control condition is the referent.
+†p D0.10; *p D0.05; **p D0.01; ***p D0.001.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 979 prediction was the average length of time a team’s 
+patients stayed in the hospital controlling for their 
+level of illness—or average severity-adjusted length of 
+stay—which is a somewhat more diffuse measure, as it 
+unfolds over longer periods and is affected not only by 
+the team’s work but also by factors such as organiza -
+tional strain. When examining the effect of external 
+coordination on average ALOS, we did not observe a 
+significant relationship (B 0.05, p 0.285). These find-
+ings, together, offered some support for our prediction 
+(Hypothesis 2) that external coordination improves 
+productivity. We also found that the team’s patients’ average case severity was associated with fewer morn -
+ing discharges (B �0.04, p 0.024), and having a 
+higher patient load was associated with an improved 
+average ALOS (B �0.03, p D0.001).8
+Exploratory Analyses
+As noted in the theoretical background section, in 
+addition to testing our predicted relationships, we 
+also conducted exploratory analyses to further exam -
+ine the dynamics of internal and external coordination 
+and their combined implications for learning and 
+productivity.Table 5. Results from Multiple Membership Models Predicting Productivity
+Morning discharges Average adjusted length of stay
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8
+Intercept 0.374*** 
+(0.015)0.357* 
+(0.165)0.481** 
+(0.162)0.053 
+(0.307)1.325*** 
+(0.043)0.733† 
+(0.424)0.855 
+(0.437)2.654*** 
+(0.805)
+Controls
+Week �0.007† 
+(0.004)�0.006 
+(0.004)�0.007† 
+(0.004)0.004 
+(0.011)0.006 
+(0.011)0.012 
+(0.011)
+Average case severity �0.036† 
+(0.020)�0.043* 
+(0.019)�0.035† 
+(0.019)0.098† 
+(0.050)0.089 
+(0.050)0.055 
+(0.050)
+Patient load 0.005† 
+(0.003)0.004 
+(0.002)0.004 
+(0.002)�0.030*** 
+(0.007)�0.031*** 
+(0.007)�0.031*** 
+(0.006)
+Core size �0.008 
+(0.016)�0.018 
+(0.016)�0.020 
+(0.016)0.041 
+(0.041)0.039 
+(0.042)0.049 
+(0.041)
+Core experience working together 0.076 
+(0.087)0.083 
+(0.085)0.105 
+(0.085)0.191 
+(0.223)0.158 
+(0.229)0.070 
+(0.223)
+Attending experience 0.001 
+(0.001)0.001 
+(0.001)0.001 
+(0.001)0.000 
+(0.003)0.000 
+(0.003)0.001 
+(0.003)
+Senior resident experience 0.008 
+(0.008)0.002 
+(0.008)0.003 
+(0.008)0.003 
+(0.022)�0.002 
+(0.022)�0.005 
+(0.022)
+Average intern experience 0.024† 
+(0.014)0.016 
+(0.014)0.012 
+(0.013)�0.002 
+(0.035)�0.005 
+(0.036)0.008 
+(0.035)
+Key variables
+Core-attention team launcha0.088 
+(0.075)0.078 
+(0.074)0.101 
+(0.074)0.029 
+(0.192)�0.019 
+(0.199)�0.115 
+(0.195)
+Periphery-attention team launcha0.165* 
+(0.072)0.113 
+(0.071)0.137† 
+(0.072)0.250 
+(0.185)0.189 
+(0.190)0.085 
+(0.188)
+Internal coordination �0.007 
+(0.021)�0.015 
+(0.021)0.031 
+(0.056)0.066 
+(0.055)
+External coordination 0.053** 
+(0.016)0.050** 
+(0.016)0.047 
+(0.044)0.058 
+(0.042)
+Average individual learning 0.065 
+(0.040)�0.275* 
+(0.104)
+Random effects
+Core members 0.000 
+(0.000)0.000 
+(0.000)0.000 
+(0.000)0.000 
+(0.000)0.016 
+(0.167)0.046 
+(0.090)0.028 
+(0.103)0.011 
+(0.103)
+Residual 0.022 
+(0.003)0.018 
+(0.003)0.016 
+(0.002)0.015 
+(0.002)0.153 
+(0.168)0.068 
+(0.089)0.084 
+(0.103)0.094 
+(0.104)
+DIC �90.7�109.9�119.8�122.5 96.4 61.1 59.7 52.9
+Observations 91 91 91 91 91 91 91 91
+Notes. Standard errors are shown in parentheses. DIC, deviance information criterion.
+aThe control condition is the referent.
+†p D0.10; *p D0.05; **p D0.01; ***p D0.001.Mayo et al.: Coordination in Dynamic Teams 
+980 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) Learning and Productivity. The expected relationship 
+between individual learning and team productivity was 
+not obvious based on extant research; thus, we con-
+ducted a post hoc exploratory analysis to examine if 
+there is evidence of synergistic gains in this context or if 
+these dynamic teams generally cannot accomplish both 
+successfully. Because productivity is a team-level vari-
+able, we aggregated our measure of learning at the team 
+level by taking the average learning of the trainees on 
+each core team. As shown in Table 5, Models 3 and 6, we 
+observed a positive relationship between learning and 
+both of our team productivity measures; for morning 
+discharges, the effect of learning was not significant (B 
+0.06, p 0.102; with a 95% confidence interval (CI) of 
+[�0.01, 0.14]), but learning did have a significant rela-
+tionship with average ALOS (B �0.27, p 0.008; with a 
+95% CI of [�0.48, �0.07]). In other words, a one- standard-deviation increase in a team’s average indi-
+vidual learning (0.36) was associated with an 8% 
+decrease in the average ALOS for that team’s patients.
+Indirect Effects. We further explored the fit of our 
+data with a model capturing the full sequence of theo-
+rized relationships—how a team launch increasing 
+internal versus external coordination impacts learning 
+and productivity—by estimating a structural equation 
+model with maximum-likelihood estimators (Bollen 
+2005 ). We used the lavaan package in R and implemen -
+ted Bollen-Stine’s model-based bootstrapping (5,000 
+samples) to test statistical significance (Rosseel 2012 ). 
+We again conducted the analysis at the team level, 
+requiring that we use an aggregated learning measure, 
+and we again take the average of the individual learning 
+scores for each team. Given the resulting reduction in 
+observations when predicting learning, to increase the 
+statistical power of our analysis, we also exclude control 
+variables, yielding a ratio of sample size to number of 
+free parameters of over 6:1 (i.e., greater than a recom -
+mendation of 5:1; Kenny 2020 ). In addition to these 
+adjustments, another caveat to keep in mind while 
+reviewing these exploratory results relates to the ways 
+our data violate an important assumption of this model 
+in that our units of analysis are not independent. There -
+fore, we emphasize the exploratory nature of this analy -
+sis and view the results as suggestive for future work 
+that could ideally test these relationships in a data set 
+that would enable more robust analyses.
+With these cautionary notes in mind, we first observe 
+that, as shown in Figure 5, the fit statistics indicate that 
+the model is a reasonable fit for the data: (χ2(14) 26.25, 
+p 0.566; comparative fit index (CFI) 0.796; root mean 
+square error of approximation (RMSEA) 0.098; stan-
+dardized root mean squared residual (SRMR) 0.088).9
+With regard to learning, as shown in Table 7, the analy -
+sis suggests that the core-attention team launch indi-
+rectly and positively impacted learning via internal 
+coordination, conditional on external coordination. Spe-
+cifically, relative to the control condition, when external 
+coordination was one standard deviation above aver -
+age, the core-attention team launch had a positive 
+impact on learning (B 0.13, p 0.022). Relative to 
+the periphery-attention team launch, when external 
+learning was one standard deviation above average, 
+there was also a positive effect, though it did not reach 
+standard thresholds of statistical significance (B 0.10, 
+p 0.078). With regard to morning discharges, we 
+observed that the periphery-attention team launch 
+indirectly improved the number of morning dis-
+charges via external coordination relative to the 
+control condition (B 0.04, p 0.015) and the core- 
+attention team launch (B 0.03, p 0.048). Finally, the 
+coefficients for the indirect effect of the core-attention 
+team launch on average ALOS via internal coordination Table 6. Results from Multiple Membership Models 
+Predicting Above-Mean Scores on Both Internal and Exter -
+nal Coordination
+Model 1 Model 2
+Intercept �0.239*** 
+(0.068)�0.307 
+(0.572)
+Conditions
+Core-attention team launcha0.283* 
+(0.117)0.721** 
+(0.246)
+Periphery-attention team launcha0.125 
+(0.119)0.516* 
+(0.238)
+Controls
+Week �0.029* 
+(0.014)
+Average case severity 0.077 
+(0.065)
+Patient load �0.008 
+(0.009)
+Core size �0.017 
+(0.054)
+Core experience working together 0.512† 
+(0.285)
+Attending experience 0.002 
+(0.004)
+Senior resident experience 0.029 
+(0.028)
+Average intern experience �0.014 
+(0.045)
+Random effect variance components
+Core members 0.000 
+(0.000)0.000 
+(0.000)
+Residual 0.211 
+(0.031)0.188 
+(0.028)
+DIC 116.7 106.4
+Observations 91 91
+Notes. Standard errors are in parentheses. DIC, deviance information 
+criterion.
+aThe control condition is the referent.
+†p D0.10; *p D0.05; **p D0.01; ***p D0.001.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 981 and learning, conditional on external coordination, 
+were in the predicted direction and larger than the 
+coefficients for this relationship in the control condi -
+tion and periphery-attention condition (when exter -
+nal coordination was one standard deviation above 
+average), but were not statistically significant (B 
+�0.05, p 0.108 and B �0.04, p 0.188, respectively). Of note, these patterns of (conditional) indirect effects 
+exist despite a component of those pathways (the 
+effects on learning) being nonsignificant in the model. 
+We suspect that the weaker effects on learning, and on 
+average ALOS via learning, are due in part to the 
+forced aggregation of the individual learning measure 
+to the group level—a constraint that implies reduced Figure 3. Interaction Effect of External and Internal Coordination on Individual Learning 
+Note. For ease of interpretation, we use a simplified ordinary least squares model to visualize the interaction.
+Figure 4. Estimated Coefficient of External Coordination on Individual Learning by Internal Coordination 
+Notes. For ease of interpretation, we use a simplified ordinary least squares model to estimate that the effect of external coordination on learning 
+(y-axis) is positive when the mean-centered internal coordination variable is above 0.12. The 95% confidence intervals are depicted in the shaded 
+gray region.Mayo et al.: Coordination in Dynamic Teams 
+982 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) power of our analysis and that washes out the variance 
+in individual scores within a team.
+Achieving Both Internal and External Coordination. A 
+final exploratory analysis focused on probing the obser -
+vation in our data that learning, and thus productivity, 
+was greatest among teams scoring high on the measures 
+of both internal and external coordination, leading us to 
+wonder what antecedents enable a team to achieve high 
+levels of both. Starting with a fairly coarse approach, we 
+identified teams that scored above average on both inter -
+nal and external coordination (or “high–high” coordina -
+tion teams) and compared rates across study conditions. 
+In doing so, we found that the core-attention team 
+launch generated the most high–high teams (52%, or 
+12/23 teams), followed by the periphery-attention team 
+launch (36%, or 8/22 teams), followed by the control 
+condition (24%, or 11/46 teams). Using multiple mem -
+bership models, and including study control variables, we applied dummy codes to the coordination categori -
+zations, coding “high–high” as one (and zero other -
+wise), and observed that both the core-attention team 
+launch and the periphery-attention team launch con-
+ditions were more likely to produce high–high teams 
+relative to the control condition (B 0.72, p 0.003; 
+B 0.52, p 0.030, respectively; see Table 6, Model 2). 
+We take these exploratory findings to suggest that 
+both team launches may have the potential for spill -
+over effects, altering not only the intended coordina -
+tion behaviors, but possibly prompting teams to 
+consider both areas of coordination. We also note, 
+even more speculatively, that the patterns suggest that 
+more spillover occurs across internal and external 
+coordination in teams receiving the core-attention 
+team launch, though given the small numbers of 
+teams, we reinforce again the very preliminary nature 
+of these observations and hope future work can build 
+on them to design and robustly test predictions related 
+to these effects.Figure 5. Structural Equation Model with Key Study Variables 
+Notes. In this figure, χ2(14) 26.25, p 0.571, CFI 0.80, RMSEA 0.10, and SRMR 0.09. Direct effects represented by dashed gray lines are 
+not significant.
+Table 7. Summary of (Conditional) Indirect Effects
+Mediation Effect p-value
+Indirect effect
+Periphery-attention team launch ↗external 
+coordination ↗morning dischargesRelative to the control condition: 0.04 0.015
+Relative to the core-attention condition: 0.03 0.048
+Conditional indirect effects (external learning one standard deviation above average)
+Core-attention team launch ↗internal 
+coordination ↗learningRelative to the control condition: 0.13 0.022
+Relative to the periphery-attention team launch: 0.10 0.078
+Core-attention team launch ↗internal 
+coordination ↗learning ↗average ALOSRelative to the control condition: �0.05 0.108
+Relative to the periphery-attention team launch: �0.04 0.188Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 983 Discussion
+We demonstrate that in dynamic teams, brief team 
+launches implemented with only a team’s core members 
+can enable more effective team coordination. Specifi -
+cally, we find that directing attention to core members’ 
+roles and workflows enhances internal coordination, 
+while directing attention to potential interdependencies 
+with periphery members who are external to the core 
+group enhances external coordination. Further, we find 
+that although external coordination fosters one measure 
+of productivity in the setting of hospital inpatient 
+teams—the percentage of patients discharged in the 
+morning—it is the combination of internal and external 
+coordination that facilitates core members’ learning, 
+which is associated with overall team productivity: 
+average adjusted patient length of stay. In conducting 
+this field experiment and reporting our findings, we 
+make a number of theoretical contributions to the exist -
+ing literature, particularly in reference to learning, 
+dynamic teams, and team launches.
+Revisiting the Learning–Productivity Trade-Off
+Whereas some research might suggest a trade-off 
+between learning and productivity (Sobrero and Rob-
+erts 2001 , Singer and Edmondson 2008 , Dennis et al. 
+2014 , Rabinowitz et al. 2016 ), other work suggests the 
+potential for synergistic gains (e.g., see Edmondson et al. 
+2007 , Wiese et al. 2022 ). Reflecting on the observed rela-
+tionship between coordination and learning in our 
+study, as well as the different results we observed for 
+the relationship between learning and our two produc -
+tivity measures (morning discharges and average 
+ALOS), suggests multiple theoretical implications for 
+consideration in future research on this topic.
+Although we initially predicted that internal coordi -
+nation would be important for learning, we additionally 
+find that internal coordination and external coordina -
+tion jointly explain variance in our learning measure. 
+Thus, although we predicted that core members can 
+learn through interaction with fellow core members, it 
+appears that core members—when they engage in inter -
+nal coordination—can also learn from the inputs of 
+periphery members obtained through external coordi -
+nation. These findings are consistent with some extant 
+work at the team level documenting that when a team 
+engages in a high level of both internal and external 
+learning activities—and particularly when the internal 
+activities reflect a more reciprocally interdependent pat-
+tern of work—the team (theoretically, at least in part 
+because those activities led to more individual learning) 
+performs best (Bresman 2010 , Myers 2021 ; cf. Wong 
+2004 ). Moreover, our theorizing complements that of 
+Myers (2021 ) in that we suggest our pattern of results 
+underscores the importance of creating conditions that enhance absorptive capacity—here, among the indivi -
+duals working in dynamic team settings. Our initial 
+focus when predicting learning was the idea that inter -
+actions within the core team—comprising individuals 
+with similar training and tasks—would afford visibility 
+of other’s work and opportunities to learn from each 
+other that are often absent in such dynamic settings 
+(Myers 2018 , 2022 ). In sum, our findings further suggest 
+that when a core team’s members work together, they 
+also boost each individual’s absorptive capacity for inte-
+grating outside information (e.g., Venkataramani and 
+Tang 2024 ) such that they can learn from interactions 
+with individuals who offer unique insights and often 
+span professional and disciplinary boundaries— 
+indeed, this underlying absorptive capacity gain could 
+explain why, when the foundation of internal coordina -
+tion was present, external coordination with periphery 
+members also boosted learning.
+In further probing how individual learning relates to 
+productivity, a deeper consideration of the different 
+productivity measures in our study suggests additional 
+insights. Although both indicators of productivity were 
+thought to benefit from enacted interdependence 
+between the core team and periphery members, the 
+nature of each outcome may mean that the form of inter -
+dependence that could support each varied. We first 
+consider the process of discharging patients in the 
+morning. As the day starts, it is likely that there is a clear 
+plan in place. That is, certain criteria, if met, would 
+mean the patient could be discharged. The matter of 
+determining whether those criteria are met and then 
+ensuring the critical steps are in place for discharge 
+likely involves the periphery (e.g., the core team may 
+need final input from consulting specialties in order to 
+place the discharge order), but it likely does not necessi -
+tate a high level of internal coordination. Thus, it is logi-
+cal that the quality of external coordination would 
+directly impact the efficiency of execution of a task such 
+as this. By contrast, reducing overall patient length of 
+stay involves a variety of interrelated decisions and 
+activities initiated very early in the treatment process 
+that likely benefit from higher levels of reciprocal inter -
+dependence among core team members in addition to 
+engagement with periphery members; namely, the team 
+must gather information, synthesize it, and make deci-
+sions, and then delegate and execute (Grippa et al. 
+2018 ). In moving through these activities, a qualitative 
+study of inpatient teams suggests that when teams 
+engage in external coordination to gather information 
+and internal coordination to delegate, a synergy is cre-
+ated that enables collective synthesis and decision 
+making—involving both core and periphery members 
+(Mayo 2022 ). That step of reasoning through the deci-
+sions collectively or hearing how others do so can offer 
+more insights that could be adapted and applied to 
+future, related events—in other words, more individual Mayo et al.: Coordination in Dynamic Teams 
+984 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) learning. This could explain why a measure of patients’ 
+average adjusted length of stay benefits from both exter -
+nal coordination as well as internal coordination, in that 
+the two ensure that relevant information is integrated 
+and that delegation is clear, but additionally because 
+they jointly create opportunities for accessing new 
+knowledge while also making sense of its relevance, 
+such that members gain both knowledge and an ability 
+to integrate and apply it (Myers 2018 ).
+Finally, we note that our multilevel approach, an 
+approach that has been called for in the literature more 
+broadly (House et al. 1995 , Hackman 2003 ), allows us to 
+identify a positive relationship between learning assessed 
+at the individual level, and productivity assessed at the 
+team level in terms of average ALOS. Our work thus 
+adds to research on the tensions and synergies between 
+individual and unit-level outcomes (Kerrissey et al. 2023 ), 
+and echoes adjacent research suggesting that team-level 
+learning can support organizational-level productivity 
+(Harvey et al. 2022 ).
+Dynamic Teaming, Right from the Start 
+Dynamic Teaming. As reported previously, we have 
+observed a dramatic increase in the use of dynamic 
+teams in many industries, with members working 
+together briefly and on multiple teams at once, and with 
+fluid, dispersed team membership (Lee and Edmond -
+son 2017 , Mortensen and Haas 2018 ). These dynamics 
+strain members’ attention, making it difficult to know 
+where to focus and with whom to work (Mayo 2022 ). A 
+burgeoning set of theory is emerging on these more 
+dynamic teams (Humphrey and Aime 2014 , Bernstein 
+et al. 2018 , Mortensen and Haas 2018 , Mayo 2022 ), and 
+our randomized controlled field experiment advances 
+both an understanding of the processes that contribute 
+to a dynamic team’s effectiveness and the causal impact 
+of team launches—implemented with only a team’s 
+core members—on coordination.
+Our choice to disentangle internal coordination and 
+external coordination allowed us to account for the dis-
+tinct effects of each behavior. And by disentangling 
+these behaviors from each other and from learning, we 
+are able to integrate work that has tended to focus on 
+either internal and external learning activities (Bresman 
+2010 , Bresman and Zellmer-Bruhn 2013 , Myers 2021 ) or 
+internal and external coordination (Choi 2002 , Mayo 
+2022 ), creating a path forward for understanding how 
+these constructs relate. Given our observation that inter -
+nal and external coordination jointly explain variance in 
+our learning measure, which in turn explains variance 
+in our broader measure of productivity, we suggest that 
+our findings offer insight into the effective dynamic 
+“teaming” practices (Edmondson 2012 ) that organiza -
+tions should seek to cultivate.
+Our work also speaks to how teams might cultivate 
+those teaming practices by focusing on the content of what happens in a team “right from the start” (Ericksen 
+and Dyer 2004 , p. 469) and by teasing out the implica -
+tions of directing attention to the core versus the periph -
+ery. Although each intervention tested in our setting 
+had a distinct effect—either on internal or external 
+coordination—our exploratory analyses suggested that 
+interventions on the core or the periphery could both 
+spill over and affect the ability of a team to achieve not 
+just high levels of internal coordination but also external 
+coordination, or vice versa. Moreover, we find some 
+suggestive evidence that the core intervention might 
+have greater spillover effect relative to the periphery 
+intervention. As in our results section, we again caution 
+against overinterpretation of these findings, and we 
+hope our results will spark additional research to both 
+replicate and extend their implications for practice. 
+Given the absence of both expansive time to plan 
+together and the ability to identify who should be 
+involved a priori, it is critical to identify the essential 
+conditions to put in place to best facilitate dynamic team 
+functioning. One possible explanation for our findings 
+is that our periphery-attention intervention directed 
+focus on and enabled external coordination, but may 
+have simultaneously resulted in more siloing of work 
+among core team members—for example, allocating 
+specific members to interface with different patients—in 
+a manner that inhibits internal coordination. In contrast, 
+the core-attention intervention directed focus on and 
+enabled more interdependent work among the core 
+team members, and this may have also increased 
+absorptive capacity. In this way, the core-attention inter -
+vention not only facilitated internal coordination, but 
+also enabled the team to better capitalize on periphery 
+members’ knowledge and resources both for individual 
+learning and for collective decision making, ultimately 
+resulting in better performance (as gauged by ALOS). 
+The possibility of synergistic gains between internal and 
+external coordination is consistent with prior qualitative 
+work on inpatient teams, as noted above (Mayo 2022 ). 
+Yet future work is needed to explore these ideas and fur-
+ther develop our understanding of what causally affects 
+dynamic team functioning, learning, and performance. 
+Our choice to test team launches focused on either the 
+core or the periphery allowed us to disentangle some of 
+the effects of internal versus external coordination, a 
+key goal of our work. Future work could look at the ben-
+efits of team launches with different mixes and levels of 
+focus on internal and external coordination to see if 
+there are opportunities to amplify potential synergies.
+Team Launches and Huddles. While advancing the-
+ory and empirical evidence related to dynamic teams, 
+our work also extends and adapts theory about the target 
+and content of team starts. Work on team launches— 
+whether generally acknowledging that “long-lasting 
+effects flow from events early in the life of a group” Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 985 (Hackman 1987 , p. 336; see also Mathieu and Rapp 2009 ) 
+or explicitly characterizing a team launch (Kerrissey and 
+Singer 2020 ), team start (Ericksen and Dyer 2004 , Woolley 
+2009 ), or brief that occurs prior to work beginning (e.g., 
+“premission briefings” (Marks et al. 2000 , p. 973) or 
+“prebriefs” (Traylor et al. 2021 , p. 6))—highlights how 
+gathering team members at the start of the team’s lifespan 
+offers an opportunity to set the stage for better team pro-
+cesses and performance. However, dynamic teams tend 
+to have a core team, often due to larger staffing decisions 
+(Kerrissey and Singer 2020 , Mayo 2022 ), that is supported 
+by more temporary, fluctuating periphery contributors. 
+Because the periphery shifts as tasks demand, the entire 
+team cannot be known at the team’s outset, such that it is 
+impossible to gather the full team for a team launch. This 
+is quite different than the underlying assumptions of 
+extant work on team launches, which presumes the pres-
+ence of the entire team at a team launch. We thus inte-
+grate work on the importance of “strategic core roles” 
+(Humphrey et al. 2009 , p. 51) to intervene solely with the 
+core members. Additionally, this allows us to disentangle 
+the role of content focused on work within the team’s 
+core, as opposed to work with periphery contributors. To 
+do this, we break from past research that views team 
+launches as a chance to establish clear team roles and a 
+clear team boundary (Hackman 2011 ), to instead test the 
+implication of establishing scaffolding for flexible core 
+roles and a shifting team boundary.
+Related work on team huddles, a practice commonly 
+used in healthcare settings, reveals that although the 
+term “huddle” can refer to a variety of activities (for a 
+review, see Franklin et al. 2020 ) and scholars have noted 
+the lack of a standard definition (Rodriguez et al. 2015 ), 
+there are features common across studies that are simi-
+lar to those of team launches. First, like launches, hud-
+dles serve as a tool for gathering people and directing 
+attention at the start of a day or shift (Shaikh 2020 ). As 
+with team launches, our work makes a few contribu -
+tions to the research on huddles. First, like team 
+launches, huddles are also commonly used within more 
+stable, bounded teams, enabling all of a team’s members 
+to participate (Jain et al. 2015 , Rodriguez et al. 2015 ). 
+Even when huddles span hospital divisions, they might 
+focus on a defined “interprofessional team,” one that 
+consistently includes the same roles from across divi-
+sions (McBeth et al. 2017 ). Thus, here, too, our work sug-
+gests expanding the focus of huddles to consider an 
+application to dynamic teams that incorporates consid -
+eration of periphery members who cannot be present. 
+Second, although the focus of huddles can vary, we can 
+apply a well-adopted distinction between taskwork and 
+teamwork (Mathieu and Rapp 2009 ) to better under -
+stand them; where the team launch work reviewed 
+above (and the content in our core-attention team 
+launches) typically focuses on teamwork, huddle con-
+tent has tended to focus on taskwork (e.g., reviewing patient care plans (Alaraj et al. 2017 ), alarm settings 
+(Bonafide et al. 2018 ), administrative or clinical chal-
+lenges (Pannick et al. 2017 ), or safety risks (Shaikh 
+2020 )). Although some prior work on team launches has 
+focused on both taskwork and teamwork (Mathieu and 
+Rapp 2009 ), and this approach would likely be useful in 
+any future setting, our findings suggest that future work 
+on huddles in healthcare would do well to expand the 
+focus to include teamwork. Third, whereas work on both 
+team launches and huddles commonly examines their 
+impact on team/unit-level or organization-level out-
+comes (Rowan et al. 2022 ), we look at the effect of the 
+team launches on individual learning. More work to 
+explore cross-level effects of team activities on individual 
+outcomes such as well-being or burnout, a pervasive chal-
+lenge in many settings, could be fruitful. Finally, recent 
+work highlights a lack of high-quality evidence regarding 
+the efficacy of huddles (Franklin et al. 2020 , Rowan et al. 
+2022 ); our research helps to answer that call.
+Toward a Broader Understanding of Team Scaf -
+folds. Our focus on team starts as a mechanism for sup-
+porting dynamic teams builds on and extends prior 
+theory on team scaffolds (Valentine and Edmondson 
+2015 ). Specifically, we join with others who have 
+highlighted the basic underlying function of managing 
+attention in organizations (March and Simon 1958 , Oca-
+sio 1997 , Bernstein et al. 2018 ) to suggest that attention 
+may be a central mechanism underlying the efficacy of 
+team scaffolds (Valentine and Edmondson 2015 ) as a 
+substitute for formal organizational structures. We posit 
+that there may be a broad class of scaffolds, including 
+team launches like those studied here, that operate via 
+directing attention and thereby guiding a team’s collec -
+tive interactions. For instance, here we focused on team 
+launches to enable internal and external team coordina -
+tion, but other scaffolds could help individual members 
+identify others’ expertise to aid the team in collectively 
+integrating information (Woolley et al. 2008 , Gupta and 
+Woolley 2018 ) or to facilitate decision making (Chidam -
+baram et al. 2021 ). This suggestion adds to the growing 
+body of research that highlights collective attention as a 
+fundamental process underlying collective intelligence 
+(Riedl and Woolley 2017 , Gupta and Woolley 2018 , 
+Mayo and Woolley 2021 , Woolley et al. 2023 ). Future 
+work to explore the underlying role of attention in team 
+launches like those used in our setting, and to consider a 
+broader class of team scaffolds that direct attention in 
+dynamic teams, could further enable organizations’ 
+ability to cultivate effective dynamic teams.
+Boundary Conditions and Generalizability
+Promoting External Coordination. In collecting data 
+from periphery members, we ultimately focused on 
+nurses, as theirs was the only external member role con-
+sistently involved in the patient care teams in our Mayo et al.: Coordination in Dynamic Teams 
+986 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) setting. There are at least a couple of implications of this 
+decision. The first relates to the effect of the intervention 
+on external coordination. For every patient, a core team 
+is assigned, and a nurse is also assigned. Nurse worksta -
+tions are also proximal to the patient rooms, a space fre-
+quented by the core team members. This consistency 
+and visibility could make nurses more top-of-mind for 
+core team members relative to other positions (e.g., 
+pharmacists, specialists, social work) that are more 
+inconsistently involved in patient care and more 
+removed geographically from the spaces a core team 
+typically inhabits. This could lead our intervention 
+effects on external intervention to be overestimated— 
+the effect could be smaller where there is more inconsis -
+tency and dispersion. However, nurses are also com-
+monly viewed as occupying a lower-status position 
+than physicians (Bransby et al. 2023 ). This could lead 
+our intervention effects to be underestimated—the 
+effect might be larger when promoting interaction with 
+higher-status individuals, to whom the core team might 
+more readily turn. Future work is needed to explore the 
+influence of periphery members’ attributes further.
+External Coordination and Productivity. The second 
+implication of focusing on nurses relates to our analysis 
+of the relationship between external coordination and 
+productivity. As already noted, we assume in our study 
+that external parties hold relevant information or capa -
+bilities, but, where this is not possible, it follows that 
+external coordination would also be less important or 
+possibly counterproductive (Woolley et al. 2013 ). Addi -
+tionally, it is important to note the role of automated 
+information systems in facilitating work in ways that 
+minimize the need for the core team to actively do so. 
+Given the expanding role of the electronic health record 
+(EHR), there is at least a moderate level of interdepen -
+dence between the core team and periphery members 
+built into many healthcare settings. For instance, at the 
+end of a patient’s admission, when the core team places 
+a discharge order into the hospital’s EHR system, 
+sequential interdependence that is hard coded into their 
+EHR system enables a nurse to see the order and com-
+plete the next steps without the core team ever taking 
+additional action to facilitate coordination. Similarly, 
+when prescribing medicine or ordering tests, periphery 
+members consulting the EHR can identify and execute 
+their tasks. Theoretically, such a system should reduce 
+or remove the need for extensive external coordination. 
+However, despite substantial investments in EHR sys-
+tems, some argue that the benefits for efficiency in coor-
+dination have been modest (DesRoches et al. 2010 , 
+Ayaad et al. 2019 , Dutta and Hwang 2020 ) suggesting 
+the continued need for team members to coordinate 
+with each other directly, and not simply through the 
+EHR system. That external coordination was valuable in 
+our study’s setting, where the EHR system is in regular use, further confirms its importance. It also suggests that 
+the importance of external coordination is likely even 
+greater in other settings where some aspects of coordi -
+nation are not as facilitated by information systems.
+Learning in Dynamic Teams. In this setting, we exam -
+ined individual learning of core members who were 
+specifically in the role of trainees, where learning is an 
+explicit goal. The amount of learning reported varied in 
+our experiment, despite learning being a stated priority. 
+Future research could focus on the degree to which the 
+findings generalize to settings in which learning is less 
+of an explicit goal, and whether facilitating internal 
+and/or external coordination may further amplify the 
+impact on individual learning.
+Limitations and Future Research
+We would be remiss if we did not acknowledge some 
+limitations to our work that have implications for future 
+research. First, we were able to account for the role of 
+shared experience within the core team. Perhaps more 
+critically for our study, this team characteristic did not 
+significantly differ across our conditions, giving confi -
+dence that this does not explain any differences across 
+our interventions. However, future work would likely 
+benefit from also testing the role of core–periphery 
+shared experience (e.g., for an analysis of attending/res -
+ident-nurse relations; see Kim et al. 2023 ).
+A second limitation of this research setting is that core 
+team members worked on different teams at different 
+time points over the course of the study, which creates a 
+lack of independence across the teams in our sample. We 
+addressed this issue statistically using multiple member -
+ship models that partition the variance explained by team 
+members. This solution will be helpful in future research 
+on dynamic teams, where individuals work on multiple 
+teams either simultaneously or over time during a study 
+period. That said, we were limited in our ability to imple -
+ment tests of indirect effects, as current models do not 
+allow us to do so while accounting for multiple member -
+ship. We opted to implement a structural equation model 
+and interpret it with caution. To that end, we acknowledge 
+that the weak results in the predictions of learning could 
+be driven by the violation of the assumption of indepen -
+dence or the loss of statistical power in aggregating learn -
+ing to the group level to implement the test of learning on 
+average ALOS. Taken together, although our results 
+advance a multilevel perspective on the impact of these 
+interventions across levels of analysis, additional advances 
+in multilevel statistical modeling will be helpful to further 
+refine our understanding.
+Relatedly, whereas we worked closely with hospital 
+administrators to limit “cross-contamination” of our 
+treatments through ensuring that core team members 
+were only scheduled on teams in blocks assigned to the Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 987 same condition, future work in similarly dynamic team 
+environments might more specifically evaluate the 
+diffusion of work practices that can result from a lack of 
+independence which in some settings could be exploited 
+as a feature rather than a bug.
+Finally, there are a few limitations to our intervention 
+design and our related tests of their effects that suggest 
+avenues for future research. First, as noted above, we 
+opted to compare interventions specifically focused on 
+either the core or the periphery. This was driven by an 
+interest in maximizing the differences between condi -
+tions to disentangle the effects of internal and external 
+coordination, and was reinforced given the limited sam-
+ple possible in our context, which precluded the addi -
+tional test of a more nuanced mixture of core and 
+periphery attention. We see this as a first step in build -
+ing toward future work that could test a team launch 
+that combines the two. Second, although some indivi -
+duals received the treatment (a team launch) more than 
+once in our study, the high turnover in our core teams 
+due to member rotations through other areas of the hos-
+pital for training, or through other administrative or 
+research roles, results in little variance in treatment 
+exposure. Future work that could better unpack the 
+effects of varying treatment exposures could also facili -
+tate smarter intervention design. Finally, we are limited 
+by the cross-sectional lens on teams in our study. Future 
+work to explore the effects over time could be achieved 
+via longitudinal work that explores how team processes 
+unfold, for instance, examining how long-lasting the 
+intervention effects are within a team’s lifespan. Addi -
+tionally, future work could step back to take a broader 
+view of the unit in which teams work, exploring how 
+behaviors could diffuse over time throughout the entire 
+unit. Both could be insightful with respect to refining 
+effective interventions. This could also have important 
+implications when taking into account another limita -
+tion of this work: the self-report nature of the learning 
+measure. Future work could build from our findings by 
+instead, or also, using supervisor ratings of learning or a 
+more objective test of learning, and this could be parti -
+cularly informative regarding the relationship between 
+learning and productivity if a longitudinal approach is 
+adopted.
+Conclusion
+The results reported here demonstrate that even in 
+dynamic teams, which are temporary and lack fixed 
+and clear boundaries, the existence of core teams can be 
+leveraged; team launches implemented with the core 
+team members can enable coordination and the poten -
+tial for both individual learning and productivity. In an 
+era when increasing sums are spent on new technolo -
+gies to enable coordination in complex systems, this 
+work highlights the power of a simple and low-cost 
+approach that builds on the foundational role of human attention in the structure and organization of work. 
+And if we are correct in assuming that the shift to more 
+dynamic and less structured environments for team -
+work is a development that is unlikely to be reversed, 
+then uncovering interventions such as this one could 
+have considerable theoretical and practical importance.
+Acknowledgments
+The authors thank Linda Argote, Brandy Aven, Amy 
+Edmondson, Chris Riedl, Chris Myers, Kathleen Sutcliffe, 
+Michaela Kerrissey, and participants of the University of 
+California Irvine Teams Conference, and the Collective 
+Intelligence Laboratory at Carnegie Mellon University for 
+input on earlier drafts. The authors also thank Jacob Hol-
+lander and Ben Miller for their research assistance in this 
+project. Finally, the authors thank Marissa King and three 
+anonymous reviewers for their invaluable input and 
+guidance.
+Endnotes
+1To assess the study design’s power, data were simulated based on 
+anticipated relationships among the constructs of interest, as well as 
+hypothetical individual effects (e.g., the effect of having a highly 
+skilled attending physician), effects of time (e.g., over time, we 
+could expect units to improve across the board with regard to some 
+coordination behaviors), and noise for each construct of interest 
+(i.e., error). One hundred data sets were simulated for a range of 
+sample sizes. Planned analyses were then run with each simulated 
+data set and used to recover the power to detect each hypothesized 
+effect. The power for a range of sample sizes and each effect is pro-
+vided in Online Appendix A. As described further in subsection 
+Block Random Assignment, each team in the second phase received 
+one of two team launches. In the first week that we implemented 
+the team launches, we did not implement the team launch in one of 
+the four core teams because of a last-minute scheduling change in 
+which a replacement core team member was added who was sched -
+uled to receive the alternate team launch in a later week. To avoid 
+contamination, we did not implement a team launch for that core 
+team and excluded it from analyses. Additionally, in the final week 
+of the study, because of another last-minute scheduling change, a 
+replacement core team member was slotted to receive one of the 
+team launches, but this individual had already received the alter -
+nate team launch in earlier weeks. We excluded this core team from 
+analyses. Finally, we included core teams in our analyses only if 
+they received a minimum of two nurse ratings, leading us to 
+exclude an additional three core teams. Subsequently, from the ini-
+tial set of 96 teams, our analyses include 91 core teams (46 in the 
+control condition, 23 in the core-attention team launch condition, 22 
+in the periphery-attention team launch condition).
+2Team launches were observed by an experimenter or research 
+assistant to ensure that they were implemented.
+3Results are consistent whether using the composite measure 
+reported in our primary analyses, solely the percentage of nurses 
+invited to rounds, or solely the two Likert-scale survey items about 
+being included in decision making and having input.
+4Results are consistent in both direction and significance whether 
+using the average learning score of a core team’s trainees or the 
+minimum. There was not enough variance in the team’s maximum 
+score for that to explain productivity. We also explored learning by 
+role but did not observe evidence that either learning differed by 
+role or that the relationship between learning and average ALOS 
+was driven by a particular role.Mayo et al.: Coordination in Dynamic Teams 
+988 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 5A team’s patient-related scores reflect all patients for which they 
+provided care. About 10% of the patient sample was cared for by 
+more than one team. Although the efficiency of treatment for 
+patients overlapping multiple core teams is dependent on the coor -
+dination of each team involved, even when the analysis is repeated 
+based solely on the first treating team, results are consistent in 
+direction with those reported, though the reduction in observations 
+included leads to wider confidence intervals and weaker results 
+straddling thresholds for statistical significance.
+6Results do not differ whether including or excluding the average 
+case severity of core teams’ patients.
+7To facilitate interpretation, internal coordination was centered 
+before exploring the interaction effect. External coordination was 
+already centered because of its initial scoring method.
+8One possibility for the relationship between patient load (mea -
+sured as admissions) and improved length of stay is that admis -
+sions tend to go up when respiratory illnesses spread in a 
+community. As such, teams receiving more admissions may be 
+receiving more admissions of the same type, and this could create 
+some efficiencies relative to having a more varied set of patient case 
+types. This logic would be consistent with past work demonstrating 
+a relationship between the volume of certain cases and outcomes 
+(e.g., see Kahn et al. 2006 ). Another is that high workloads stimulate 
+teams to develop new and better ways of coordinating as a means 
+of adapting to the increased volume, which can have spillover 
+effects on improving performance in many different areas of their 
+work (Joshi et al. 2016 ). Lastly, some studies have demonstrated 
+that higher patient volume forces a higher density of interactions 
+between doctors and more information sharing, which stimulates 
+better coordination among them and facilitates follow up across dif-
+ferent patient cases (Pollack et al. 2015 ).
+9These statistics can be more variable with smaller sample sizes, 
+and RMSEA and SRMR tend to be inflated in models with lower 
+degrees of freedom (Kenny 2020 ).
+References
+Alaraj A, Hussein AE, Esfahani DR, Amin-Hanjani S, Aletich VA, 
+Charbel FT (2017) Reducing length of stay in aneurysmal sub-
+arachnoid hemorrhage: A three year institutional experience. J. 
+Clinical Neurosci. 42:66–70.
+Ancona DG (1990) Outward bound: Strategies for team survival in 
+an organization. Acad. Management J. 33(2):334–365.
+Ancona DG, Bresman H (2007) X-Teams: How to Build Teams That 
+Lead, Innovate, and Succeed (Harvard Business School Publishing, 
+Boston).
+Ancona DG, Caldwell DF (1988) Beyond task and maintenance: Defin -
+ing external functions in groups. Organ. Stud. 13(4):468–494.
+Ancona DG, Caldwell DF (1992) Bridging the boundary: External 
+activity and performance in organizational teams. Admin. Sci. 
+Quart. 37(4):634–665.
+Ancona DG, Bresman H, Kaeufer K (2002) The comparative advan -
+tage of X-teams. MIT Sloan Management Rev. 43(3):33–39.
+Andersen TJ (2015) Interactive strategy-making: Combining central 
+reasoning with ongoing learning from decentralised responses. 
+J. General Management 40(4):69–88.
+Anderson JR (1993) Knowledge representation. Anderson JR, ed. 
+Rules of the Mind (Lawrence Erlbaum Associates, Publishers, 
+Hillsdale, NJ), 17–44.
+Argote L (2013) Organizational Learning: Creating, Retaining and 
+Transferring Knowledge (Springer, New York).
+Argote L, Epple D (1990) Learning curves in manufacturing. Science 
+247(4945):920–924.
+Argote L, Miron-Spektor E (2011) Organizational learning: From 
+experience to knowledge. Organ. Sci. 22(5):1123–1137.
+Ayaad O, Alloubani A, ALhajaa EA, Farhan M, Abuseif S, Al Hroub 
+A, Akhu-Zaheya L (2019) The role of electronic medical records in improving the quality of healthcare services: Comparative 
+study. Internat. J. Medical Inform. 127:63–67.
+Bandura A (1971) Social Learning Theory (General Learning Press, 
+New York).
+Bernstein E, Leonardi PM, Mortensen M (2018) Unbounded atten -
+tion: The benefits of an attention-based lens on work relation -
+ships. Working paper, Harvard Business School, Boston.
+Bersin J, Zao-Sanders M (2019) Making learning a part of everyday 
+work. Harvard Bus. Rev. (February 19), https:/ /hbr.org/2019/ 
+02/making-learning-a-part-of-everyday-work.
+Bollen KA (2005) Structural Equation Models (Wiley, New York).
+Bonafide CP, Localio AR, Stemler S, Ahumada L, Dewan M, Ely E, 
+Keren R (2018) Safety huddle intervention for reducing physio -
+logic monitor alarms: A hybrid effectiveness-implementation 
+cluster randomized trial. J. Hospital Med. 13(9):609–615.
+Bransby DP, Mayo AT, Cronin MA, Park K, Yuan CT (2023) A sys-
+tematic review of respect between acute care nurses and physi -
+cians. Health Care Management Rev. 48(3):237–248.
+Bresman H (2010) External learning activities and team perfor -
+mance: A multimethod field study. Organ. Sci. 21(1):81–96.
+Bresman H, Zellmer-Bruhn M (2013) The structural context of team 
+learning: Effects of organizational and team structure on inter -
+nal and external learning. Organ. Sci. 24(4):1120–1139.
+Browne WJ, Goldstein H, Rasbash J (2001) Multiple membership mul-
+tiple classification (MMMC) models. Statist. Model. 1(2):103–124.
+Capelli P (2020) Stop overengineering people management: The 
+trend toward optimization in disempowering employees. Har-
+vard Bus. Rev. (September–October), https:/ /hbr.org/2020/09/ 
+stop-overengineering-people-management.
+Chidambaram L, Summers J, Miranda S, Young A, Bostrom RP 
+(2021) Time, technology, and teams: From GSS to collective 
+action. Kilgour DM, Eden C, eds. Handbook of Group Decision 
+and Negotiation (Springer, Cham, Switzerland), 1–22.
+Chisholm-Burns MA, Kim Lee J, Spivey CA, Slack M, Herrier RN, 
+Hall-Lipsy E, Graff Zivin J, et al. (2010) US pharmacists’ 
+effect as team members on patient care. Medical Care 48(10): 
+923–933.
+Cho K, Schunn CD (2007) Scaffolded writing and rewriting in the 
+discipline: A web-based reciprocal peer review system. Comput. 
+Ed. 48(3):409–426.
+Choi JN (2002) External activities and team effectiveness: Review 
+and theoretical development. Small Group Res. 33(2):181–208.
+Chreim S, Langley A, Comeau-Vall ˘ee M, Huq JL, Reay T (2013) 
+Leadership as boundary work in healthcare teams. Leadership 
+9(2):201–228.
+Cohen WM, Levinthal DA (1990) Absorptive capacity: A new perspec -
+tive on learning and innovation. Admin. Sci. Quart. 35(1):128–152.
+Conger JA, Kanungo RN (1988) The empowerment process: Inte-
+grating theory and practice. Acad. Management Rev. 13(3): 
+471–482.
+Cummings JN, Kiesler S (2005) Collaborative research across disciplin -
+ary and organizational boundaries. Soc. Stud. Sci. 35(5):703–722.
+Cummings J, Pletcher C (2011) Why project networks beat project 
+teams. MIT Sloan Management Rev. 52(52307):75–83.
+Dean BP (2021) Multiteam systems as integrated networks for 
+engaging ambidexterity as dynamic capabilities. Internat. J. 
+Organ. Theory Behav. 24(4):300–319.
+Dennis AA, Cleland JA, Johnston P, Ker JS, Lough M, Rees CE (2014) 
+Exploring stakeholders’ views of medical education research pri-
+orities: A national survey. Medical Ed. 48(11):1078–1091.
+DesRoches CM, Campbell EG, Vogeli C, Zheng J, Rao SR, Shields 
+AE, Donelan K, Rosenbaum S, Bristol SJ, Jha AK (2010) Elec-
+tronic health records’ limited successes suggest more targeted 
+uses. Health Affairs 29(4):639–646.
+Dutta B, Hwang HG (2020) The adoption of electronic medical 
+record by physicians: A PRISMA-compliant systematic review. 
+Medicine (Baltimore) 99(8):e19290.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 989 Edmondson AC (1996) Learning from mistakes is easier said than 
+done: Group and organizational influences on the detection 
+and correction of human error. J. Appl. Behav. Sci. 32(1):5–28.
+Edmondson AC (1999) Psychological safety and learning behavior 
+in work teams. Admin. Sci. Quart. 44(2):350–383.
+Edmondson AC (2012) Teaming: How Organizations Learn, Innovate, 
+and Compete in the Knowledge Economy (John Wiley & Sons, Inc, 
+San Francisco).
+Edmondson AC, Harvey JF (2018) Cross-boundary teaming for 
+innovation: Integrating research on teams and knowledge in 
+organizations. Hum. Resource Management Rev. 28(4):347–360.
+Edmondson AC, Nembhard IM (2009) Product development and 
+learning in project teams: The challenges are the benefits. J. Pro-
+duction Innovation Management 26(2):123–138.
+Edmondson AC, Bohmer RM, Pisano GP (2001) Disrupted routines: 
+Team learning and new technology implementation in hospi -
+tals. Admin. Sci. Quart. 46(4):685–716.
+Edmondson AC, Dillon JR, Roloff KS (2007) Three perspectives on 
+team learning. Acad. Management Ann. 1(1):269–314.
+Ericksen J, Dyer L (2004) Right from the start: Exploring the effects 
+of early team events on subsequent project team development 
+and performance. Admin. Sci. Quart. 49(3):438–471.
+Ervin JN, Kahn JM, Cohen TR, Weingart LR (2018) Teamwork in 
+the intensive care unit. Amer. Psych. 73(4):468–477.
+Faraj S, Xiao Y (2006) Coordination in fast-response organizations. 
+Management Sci. 52(8):1155–1169.
+Franklin BJ, Gandhi TK, Bates DW, Huancahuari N, Morris CA, 
+Pearson M, Bass MB, Goralnick E (2020) Impact of multidisci -
+plinary team huddles on patient safety: A systematic review 
+and proposed taxonomy. BMJ Quality Safety 29(10):844–853.
+Garcia AJ, Mollaoglu S, Frank KA, Duva M, Zhao D (2021) Emer -
+gence and evolution of network structures in complex interor -
+ganizational project teams. J. Management Engrg. 37(5):04021056.
+Ginnett RC (2010) Crews as groups: Their formation and their lead-
+ership. Kanki B, Helmreich R, Anca J, eds. Crew Resource Man -
+agement (Elsevier, Amsterdam), 79–110.
+Gioia DA, Manz CC (2011) Linking cognition and behavior: A script 
+processing interpretation of vicarious learning. Acad. Manage -
+ment Rev. 10(3):527–539.
+Grippa F, Bucuvalas J, Booth A, Alessandrini E, Fronzetti Colladon 
+A, Wade LM (2018) Measuring information exchange and bro-
+kerage capacity of healthcare teams. Management Decision 
+56(10):2239–2251.
+Gross PA, Cataruozolo P, DeMauro P, Eason P, Elliot M, Wallen -
+stein S (1997) Severity adjustment for length of stay: Is it always 
+necessary? Clinical Performance Quality Health Care 5(4):169–172.
+Gupta P, Woolley AW (2018) Productivity in an era of multi-team -
+ing. Proc. ACM Human-Computer Interaction (ACM, New York).
+Hackman JR (1987) The design of work teams. Lorsch J, ed. Hand -
+book of Organizational Behavior (Prentice-Hall, Englewood Cliffs, 
+NJ), 315–342.
+Hackman JR (2003) Learning more by crossing levels: Evidence 
+from airplanes, hospitals, and orchestras. J. Organ. Behav. 
+24(8):905–922.
+Hackman JR (2011) Collaborative Intelligence (Berrett-Koehler Publish -
+ers, Inc., San Francisco).
+Hackman JR, Wageman R (2005) A theory of team coaching. Acad. 
+Management Rev. 30(2):269–287.
+Haeussler C, Sauermann H (2020) Division of labor in collaborative 
+knowledge production: The role of team size and interdisciplin -
+arity. Res. Policy 49(6):103987.
+Hall P (2005) Interprofessional teamwork: Professional cultures as 
+barriers. J. Interprofessional Care 19(Suppl 1):188–196.
+Harvey JF, Bresman H, Edmondson AC, Pisano GP (2022) A strate -
+gic view of team learning in organizations. Acad. Management 
+Ann. 16(2):476–507.Hoegl M, Gemuenden HG (2001) Teamwork quality and the success 
+of innovative projects: A theoretical concept and empirical evi-
+dence. Organ. Sci. 12(4):435–449.
+Hollenbeck JR, Ellis APJ, Humphrey SE, Garza AS, Ilgen DR (2011) 
+Asymmetry in structural adaptation: The differential impact of 
+centralizing vs. decentralizing team decision-making structures. 
+Organ. Behav. Human Decision Processes 114(1):64–74.
+House RJ, Rousseau DM, Thomas-Hunt M (1995) The meso para -
+digm: A framework for the integration of micro and macro 
+organizational behavior. Res. Organ. Behav. 17:71–114.
+Huber GP (1991) Organizational learning: The contributing pro-
+cesses and the literatures. Organ. Sci. 2(1):88–115.
+Hughes AM, Gregory ME, Joseph DL, Sonesh SC, Marlow SL, 
+Lacerenza CN, Benishek LE, King HB, Salas E (2016) Saving 
+lives: A meta-analysis of team training in healthcare. J. Appl. 
+Psych. 101(9):1266–1304.
+Humphrey SE, Aime F (2014) Team microdynamics: Toward an 
+organizing approach to teamwork. Acad. Management Ann. 
+8(1):443–503.
+Humphrey SE, Morgeson FP, Mannor MJ (2009) Developing a the-
+ory of the strategic core of teams: A role composition model of 
+team performance. J. Appl. Psych. 94(1):48–61.
+Inhelder B, Piaget J, eds. (1958) The Growth of Logical Thinking from 
+Childhood to Adolescence (Routledge, Abingdon, UK).
+Jain AL, Jones KC, Simon J, Patterson MD (2015) The impact of a 
+daily pre-operative surgical huddle on interruptions, delays, 
+and surgeon satisfaction in an orthopedic operating room: A 
+prospective study. Patient Safety Surgery 9(1):8.
+Johnson DW, Johnson RT (1975) Learning Together and Alone: Cooper -
+ation, Competition, and Individualization (Prentice-Hall, Engle -
+wood Cliffs, NJ).
+Joshi V, Lim C, Teng SG (2016) Simulation study: Improvement for 
+non-urgent patient processes in the emergency department. 
+Engrg. Management J. 28(3):145–157.
+Kahn JM, Goss CH, Heagerty PJ, Kramer AA, O’Brien CR, Ruben -
+feld GD (2006) Hospital volume and the outcomes of mechani -
+cal ventilation. New England J. Medicine 355(1):41–50.
+Kenny DA (2020) Measuring model fit. Retrieved July 19, 2023, 
+http:/ /www.davidakenny.net/cm/fit.htm.
+Kerrissey MJ, Singer SJ (2020) Leading frontline Covid-19 teams: 
+Research-informed strategies. NEJM Catalyst (May 11), https:/ / 
+catalyst.nejm.org/doi/abs/10.1056/CAT.20.0192.
+Kerrissey MJ, Novikov Z, Tietschert M, Phillips R, Singer SJ (2023) The 
+ambiguity of “we”: Perceptions of teaming in dynamic environ -
+ments and their implications. Soc. Sci. Medicine 320:115678.
+Kiesler S, Cummings JN (2002) What do we know about proximity 
+and distance in work groups? A legacy of research. Hinds P, 
+Kiesler S, eds. Distributed Work (MIT Press, Cambridge, MA), 
+57–82.
+Kilpatrick K, Paquette L, Jabbour M, Tchouaket E, Fernandez N, Al 
+Hakim G, Landry V, Gauthier N, Beaulieu MD, Dubois CA 
+(2020) Systematic review of the characteristics of brief team 
+interventions to clarify roles and improve functioning in health -
+care teams. PLoS One 15(6):e0234416.
+Kim JW (2020) Halos and egos: Rankings and interspecialty deference 
+in multispecialty U.S. Hospitals. Management Sci. 66(5):2248–2268.
+Kim SH, Song H, Valentine MA (2023) Learning in temporary 
+teams: The varying effects of partner exposure by team mem -
+ber role. Organ. Sci. 34(1):433–455.
+Kostopoulos KC, Bozionelos N (2011) Team exploratory and exploit -
+ative learning: Psychological safety, task conflict, and team per-
+formance. Group Organ. Management 36(3):385–415.
+Langley A, Lindberg K, Mørk BE, Nicolini D, Raviola E, Walter L 
+(2019) Boundary work among groups, occupations, and organi -
+zations: From cartography to process. Acad. Management Ann. 
+13(2):704–736.Mayo et al.: Coordination in Dynamic Teams 
+990 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) Larson LE, Harris-Watson A, Carter D, Asencio R, DeChurch L, 
+Kanfer R, Zaccaro SJ (2023) Staying apart to work better 
+together: Team structure in cross-functional teams. Acad. Man -
+agement Discoveries 9(3):320–338.
+Lee MY, Edmondson AC (2017) Self-managing organizations: 
+Exploring the limits of less-hierarchical organizing. Res. Organ. 
+Behav. 37:35–58.
+Lifshitz-Assaf H, Lebovitz S, Zalmanson L (2021) Minimal and 
+adaptive coordination: How hackathons’ projects accelerate 
+innovation without killing it. Acad. Management J. 64(3):684–715.
+Long Y, Siau K (2007) Social network structures in open source soft-
+ware development teams. J. Database Management 18(2):25–40.
+Lu M, Sajobi T, Lucyk K, Lorenzetti D, Quan H (2015) Systematic 
+review of risk adjustment models of hospital length of stay 
+(LOS). Medical Care 53(4):355–365.
+Majchrzak A, Jarvenpaa SL, Hollingshead AB (2007) Coordinating 
+expertise among emergent groups responding to disasters. 
+Organ. Sci. 18(1):147–161.
+Maloney MM, Shah PP, Zellmer-Bruhn M, Jones SL (2019) The last-
+ing benefits of teams: Tie vitality after teams disband. Organ. 
+Sci. 30(2):260–279.
+March JG, Simon HA (1958) Organizations (John Wiley & Sons, Inc, 
+New York).
+Marks MA, Mathieu JE, Zaccaro SJ (2001) A temporally based 
+framework and taxonomy of team processes. Acad. Management 
+Rev. 26(3):356–376.
+Marks MA, Zaccaro SJ, Mathieu JE (2000) Performance implications 
+of leader briefings and team-interaction training for team adap -
+tation to novel environments. J. Appl. Psych. 85(6):971–986.
+Mathieu JE, Rapp TL (2009) Laying the foundation for successful 
+team performance trajectories: The roles of team charters and 
+performance strategies. J. Appl. Psych. 94(1):90–103.
+Mayo AT (2022) Syncing up: A process model of emergent inter -
+dependence in dynamic teams. Admin. Sci. Quart. 67(3): 
+821–864.
+Mayo AT, Woolley AW (2021) Variance in group ability to trans -
+form resources into performance, and the role of coordinated 
+attention. Acad. Management Discoveries 7(2):225–246.
+McBeth CL, Durbin-Johnson B, Siegel EO (2017) Interprofessional 
+huddle: One children’s hospital’s approach to improving 
+patient flow. Pediatric Nursing 43(2):71–76.
+McGrath JL, Argote L (2004) Group processes in organizational con-
+texts. Hogg MA, Tindale RS, eds. Blackwell Handbook of Social 
+Psychology: Group Processes (Blackwell Publishers, Malden, MA), 
+603–627.
+Meier N (2015) Collaboration in healthcare through boundary work 
+and boundary objects. Qualitative Sociol. Rev. 11(3):60–82.
+Michaelsen L, Sweet M (2011) Team-based learning. New Directions 
+Teaching Learn. 2011(128):41–51.
+Mortensen M, Haas MR (2018) Rethinking teams: From bounded 
+membership to dynamic participation. Organ. Sci. 29(2):341–355.
+Murphy V (2023) Daily huddle best practice: An evidence-based 
+guide. Worldviews Evidence-Based Nursing 20(5):513–518.
+Musaji S, Schulze WS, De Castro JO (2020) How long does it take to 
+get to the learning curve? Acad. Management J. 63(1):205–223.
+Myers CG (2018) Coactive vicarious learning: Toward a relational 
+theory of vicarious learning in organizations. Acad. Management 
+Rev. 43(4):610–634.
+Myers CG (2021) Performance benefits of reciprocal vicarious learn -
+ing in teams. Acad. Management J. 64(3):926–947.
+Myers CG (2022) Storytelling as a tool for vicarious learning among 
+air medical transport crews. Admin. Sci. Quart. 67(2):378–422.
+National Research Council (2015) Enhancing the effectiveness of Team 
+Science (The National Academies Press, Washington, DC).
+Nemanich LA, Keller RT, Vera D, Chin WW (2010) Absorptive 
+capacity in R&D project teams: A conceptualization and empiri -
+cal test. IEEE Trans. Engrg. Management 57(4):674–688.Nembhard IM, Tucker AL (2011) Deliberate learning to improve 
+performance in dynamic service settings: Evidence from hospi -
+tal intensive care units. Organ. Sci. 22(4):907–922.
+Ocasio W (1997) Toward an attention-based view of the firm. Strate -
+gic Management J. 18(S1):187–206.
+Okhuysen GA, Bechky BA (2009) Coordination in organizations: An 
+integrative perspective. Acad. Management Ann. 3(1):463–502.
+O’Leary MB, Mortensen M, Woolley AW (2011) Multiple team 
+membership: A theoretical model of its effects on productivity 
+and learning for individuals and teams. Acad. Management Rev. 
+36(3):461–478.
+O’Leary MB, Woolley AW, Mortensen M (2012) Multiteam member -
+ship in relation to multiteam systems. Zaccaro SJ, Marks MA, 
+DeChurch LA, eds. Multiteam Systems: An Organization Form for 
+Dynamic and Complex Environments (Routledge, New York), 
+141–172.
+Pannick S, Athanasiou T, Long SJ, Beveridge I, Sevdalis N (2017) 
+Translating staff experience into organisational improvement: 
+The HEADS-UP stepped wedge, cluster controlled, non- 
+randomised trial. BMJ Open 7(7):e014333.
+Pollack CE, Lemke KW, Roberts E, Weiner JP (2015) Patient sharing 
+and quality of care: Measuring outcomes of care coordination 
+using claims data. Medical Care 53(4):317–323.
+Rabinowitz R, Farnan J, Hulland O, Kearns L, Long M, Monash B, 
+Bhansali P, Fromme HB (2016) Rounds today: A qualitative 
+study of internal medicine and pediatrics resident perceptions. 
+J. Graduate Medical Ed. 8(4):523–531.
+Raveendran M, Silvestri L, Gulati R (2020) The role of interdepen -
+dence in the microfoundations of organization design: Task, 
+goal, and knowledge interdependence. Acad. Management Ann. 
+14(2):828–868.
+Reagans R, Argote L, Brooks D (2005) Individual experience and 
+experience working together: Predicting learning rates from 
+knowing who knows what and knowing how to work together. 
+Management Sci. 51(6):869–881.
+Riedl C, Woolley AW (2017) Teams vs. crowds: Incentives, member 
+ability, and collective intelligence in temporary online team 
+organizations. Acad. Management Discoveries 3(4):382–403.
+Rishani M, Schouten ME, Hoever IJ (2024) Navigating multiple 
+team membership: A review and redirection of its influence on 
+effectiveness outcomes. Soc. Personality Psych. Compass 18(1): 
+e12899.
+Rodriguez HP, Meredith LS, Hamilton AB, Yano EM, Rubenstein 
+LV (2015) Huddle up! The adoption and use of structured team 
+communication for VA medical home implementation. Health 
+Care Management Rev. 40(4):286–299.
+Rosseel Y (2012) lavaan: An R package for structural equation 
+modeling. J. Statist. Software 48(2):1–36.
+Rowan BL, Anjara S, De Br˘un A, MacDonald S, Kearns EC, Mar-
+nane M, McAuliffe E (2022) The impact of huddles on a multi -
+disciplinary healthcare teams’ work engagement, teamwork 
+and job satisfaction: A systematic review. Eval. Clinical Practice 
+28(3):382–393.
+Sarin S, McDermott C (2003) The effect of team leader characteristics 
+on learning, knowledge application, and performance of cross- 
+functional new product development teams. Decision Sci. 34(4): 
+707–739.
+Shaikh U (2020) Improving patient safety and team communication 
+through daily huddles (Agency for Healthcare Research and 
+Quality, US Department of Health and Human Services, Rock -
+ville, MD). Retrieved January 29, 2020, https:/ /psnet.ahrq.gov/ 
+primer/improving-patient-safety-and-team-communication- 
+through-daily-huddles.
+Siachou E, Gkorezis P (2014) Do empowered employees absorb 
+knowledge? An empirical investigation of the effects of psycho -
+logical empowerment dimensions on absorptive capacity. Man -
+agement Res. Rev. 37(2):130–151.Mayo et al.: Coordination in Dynamic Teams 
+Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) 991 Singer SJ, Edmondson AC (2008) When learning and performance 
+are at odds: Confronting the tension. Kumar P, Ramsey P, eds. 
+Learning and Performance Matter (World Scientific, Singapore), 
+33–60.
+Sobrero M, Roberts EB (2001) The trade-off between efficiency and 
+learning in interorganizational relationships for product devel -
+opment. Management Sci. 47(4):493–511.
+Stouten J, Rousseau DM, De Cremer D (2018) Successful organiza -
+tional change: Integrating the management practice and schol -
+arly literatures. Acad. Management Annals 12(2):752–788.
+Tannenbaum SI, Mathieu JE, Salas E, Cohen D (2012) Teams are 
+changing: Are research and practice evolving fast enough? 
+Indust. Organ. Psych. 5(1):2–24.
+Thompson JD (1967) Organizations in Action: Social Science Bases of 
+Administrative Theory (McGraw Hill, Inc., New York).
+Thorndike EL (1898) Animal intelligence: An experimental study of 
+the associative processes in animals. Psych. Rev. Monograph Sup-
+plements 2(4):i–109.
+Tian AW, Soo C (2018) Enriching individual absorptive capacity. 
+Personnel Rev. 47(5):1116–1132.
+Traylor AM, Tannenbaum SI, Thomas EJ, Salas E (2021) Help -
+ing healthcare teams save lives during COVID-19: Insights 
+and countermeasures from team science. Amer. Psych. 
+76(1):1–13.
+Tucker AL, Edmondson AC (2003) Why hospitals don’t learn from 
+failures: Organizational and psychological dynamics that inhibit 
+system change. California Management Rev. 45(2):55–72.
+Valentine MA (2018) When equity seems unfair: The role of justice 
+enforceability in temporary team coordination. Acad. Manage -
+ment J. 61(6):2081–2105.
+Valentine MA, Edmondson AC (2015) Team scaffolds: How mesole -
+vel structures enable role-based coordination in temporary 
+groups. Organ. Sci. 26(2):405–422.
+Venkataramani V, Tang C (2024) When does external knowledge 
+benefit team creativity? The role of internal team network struc -
+ture and task complexity. Organ. Sci. 35(1):92–115.
+Volberda HW, Foss NJ, Lyles MA (2010) Absorbing the concept of 
+absorptive capacity: How to realize its potential in the organi -
+zation field. Organ. Sci. 21(4):931–951.
+Wageman R (2001) The meaning of interdependence. Turner ME, 
+ed. Groups at Work: Theory and Research (Lawrence Erlbaum 
+Associates Publishers, Mahwah, NJ), 197–217.
+Wageman R, Gordon FM (2005) As the twig is bent: How group 
+values shape emergent task interdependence in groups. Organ. 
+Sci. 16(6):687–700.
+Wageman R, Gardner H, Mortensen M (2012) The changing ecology 
+of teams: New directions for teams research. J. Organ. Behav. 
+33(3):301–315.
+Walsh MM, Anderson JR (2012) Learning from experience: Event-related 
+potential correlates of reward processing, neural adaptation, and 
+behavioral choice. Neurosci. Biobehav. Rev. 36(8):1870–1884.
+Walton GM (2014) The new science of wise psychological interven -
+tions. Current Directions Psych. Sci. 23(1):73–82.
+Walton GM, Wilson TD (2018) Wise interventions: Psychological reme -
+dies for social and personal problems. Psych. Rev. 125(5):617–655.
+Weidmann B, Deming DJ (2021) Team players: How social skills 
+improve team performance. Econometrica 89(6):2637–2657.
+Wiese CW, Burke CS, Tang Y, Hernandez C, Howell R (2022) Team learn -
+ing behaviors and performance: A meta-analysis of direct effects 
+and moderators. Group Organ. Management 47(3):571–611.
+Wilson JM, Goodman PS, Cronin MA (2007) Group learning. Acad. 
+Management Rev. 32(4):1041–1059.
+Wong SS (2004) Distal and local group learning: Performance trade- 
+offs and tensions. Organ. Sci. 15(6):645–656.
+Woolley AW (2009) Putting first things first: Outcome and process 
+focus in knowledge work teams. J. Organ. Behav. 30(3):427–452.Woolley AW, Aggarwal I (2020) Collective intelligence and group 
+learning. Argote L, Levine JM, eds. Handbook of Group and Orga -
+nizational Learning (Oxford University Press, London), 491–506.
+Woolley AW, Bear JB, Chang JW, DeCostanza AH (2013) The effects 
+of team strategic orientation on team process and information 
+search. Organ. Behav. Human Decision Processes 122(2):114–126.
+Woolley AW, Chow RM, Mayo AT, Riedl C, Chang JW (2023) Col-
+lective attention and collective intelligence: The role of hierar -
+chy and team gender composition. Organ. Sci. 34(3):1315–1331.
+Woolley AW, Gerbasi ME, Chabris CF, Kosslyn SM, Hackman JR 
+(2008) Bringing in the experts: How team composition and 
+work strategy jointly shape analytic effectiveness. Small Group 
+Res. 39(3):352–371.
+Wuchty S, Jones BF, Uzzi B (2007) The increasing dominance of 
+teams in production of knowledge. Science 316(5827):1036–1039.
+Yager S, Johnson RT, Johnson DW, Snider B (1986) The impact of 
+group processing on achievement in cooperative learning 
+groups. J. Soc. Psych. 126(3):389–397.
+Zhang Z, Parker RMA, Charlton CMJ, Leckie G, Browne WJ (2016) 
+R2MLwiN: A program to run MLwiN from within R. J. Statist. 
+Software 72(10):1–46.
+Ziegert JC, Knight AP, Resick CJ, Graham KA (2022) Addressing 
+performance tensions in multiteam systems: Balancing informal 
+mechanisms of coordination within and between teams. Acad. 
+Management J. 65(1):158–185.
+Anna T. Mayo is an assistant professor of organizational behav -
+ior at Carnegie Mellon’s Heinz College of Information Systems and 
+Public Policy. Her research focuses on organizational teamwork. 
+She earned her doctorate in organizational behavior and theory 
+from Carnegie Mellon University.
+Anita Williams Woolley is a professor of organizational behavior 
+and theory at Carnegie Mellon’s Tepper School of Business. Her 
+research focuses on collective intelligence and how artificial intelligence 
+can be used to enhance teamwork and collaboration. She earned her 
+doctorate in organizational behavior from Harvard University.
+Liny John is an assistant professor of pediatric oncology and Associ -
+ate Fellowship Program director of the Pediatric Hematology/Oncology 
+Program at Children’s National Hospital. Her research focuses on rare 
+pediatric solid tumors. She earned her medical degree at the University 
+of Pittsburgh School of Medicine, and she completed her pediatric resi-
+dency at UPMC Children’s Hospital of Pittsburgh and her pediatric 
+hematology/oncology fellowship at Children’s National Hospital.
+Christine March is an assistant professor of pediatrics and clinical 
+and translational science at the University of Pittsburgh. Her research 
+focuses on community-engaged interventions to support the care and 
+outcomes of youth with chronic disease. She earned her medical degree 
+at the University of Cincinnati, and her master’s degree in clinical research 
+from the University of Pittsburgh. She completed her residency, chief resi-
+dency, and fellowship at UPMC Children’s Hospital of Pittsburgh.
+Selma Witchel is a professor of pediatrics emerita at UPMC Chil-
+dren’s Hospital of Pittsburgh and the University of Pittsburgh School 
+of Medicine. Her research focuses on the physiology and genetics of the 
+hypothalamic–pituitary–gonadal and hypothalamic– pituitary–adrenal 
+axes. She earned her medical degree from the University of Pitts -
+burgh. She completed her residency at the University of Cincin -
+nati Children’s Hospital Medical Center and her fellowship at 
+UPMC Children’s Hospital of Pittsburgh.
+Andrew Nowalk is an associate professor of pediatrics at the 
+University of Pittsburgh School of Medicine and Pediatric Residency 
+Program director at UPMC Children’s Hospital of Pittsburgh. His 
+research focuses on pediatric scientist development and education. 
+He earned his medical degree and his doctorates in medicine 
+and microbiology from the University of Pittsburgh. He completed 
+his residency and fellowship at UPMC Children’s Hospital of 
+Pittsburgh.Mayo et al.: Coordination in Dynamic Teams 
+992 Organization Science, 2025, vol. 36, no. 2, pp. 967–992, © 2024 The Author(s) Copyright
+of
+Organization
+Science
+is
+the
+property
+of
+INFORMS:
+Institute
+for
+Operations
+Research
+&
+the
+Management
+Sciences
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.
