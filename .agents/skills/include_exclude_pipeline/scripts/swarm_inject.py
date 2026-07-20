@@ -10,14 +10,17 @@ Layer 5: 무결성 보고서 (Integrity Report)
 """
 
 import os
-import json
-import glob
 import re
+import json
 import csv
-import shutil
+import pandas as pd
+from datetime import datetime
 import openpyxl
-import subprocess
+from openpyxl import load_workbook
 import argparse
+import glob
+import shutil
+import subprocess
 
 # Removed hardcoded EXCEL_PATH
 CWD = os.getcwd()
@@ -308,7 +311,29 @@ def inject_swarm_results(excel_path):
                 status_str = str(verdict_val)
 
             ws.cell(row=target_row, column=5).value = status_str
-            ws.cell(row=target_row, column=6).value = data.get('Exclusion_Code', '')
+            EXCLUSION_CODE_MAP = {
+                1: "1 = No effect size of interest",
+                2: "2 = Non-employee samples",
+                3: "3 = Non-individual level",
+                4: "4 = Non-primary study",
+                5: "5 = Multiple reasons (specify in Notes)",
+                6: "6 = Duplicate",
+                7: "7 = Non-English language",
+                99: "99 = Other (specify in Notes)",
+                999: 999
+            }
+            
+            exc_code = data.get('Exclusion_Code', '')
+            if exc_code is None or str(exc_code).strip() == '':
+                exc_code = 999
+            
+            # Map to full string if possible
+            try:
+                mapped_exc_code = EXCLUSION_CODE_MAP.get(int(float(exc_code)), exc_code)
+            except (ValueError, TypeError):
+                mapped_exc_code = exc_code
+
+            ws.cell(row=target_row, column=6).value = mapped_exc_code
             note_str = f"{data.get('Reasoning', '')}. Verbatim Evidence: \"{data.get('Verbatim_Evidence', '')}\""
             ws.cell(row=target_row, column=16).value = note_str
 
@@ -319,13 +344,22 @@ def inject_swarm_results(excel_path):
             else:
                 stats["injected_clean"] += 1
 
-            # Remove processed file
-            os.remove(jpath)
+            # Store path to delete later
+            if not hasattr(inject_swarm_results, "files_to_delete"):
+                inject_swarm_results.files_to_delete = []
+            inject_swarm_results.files_to_delete.append(jpath)
             print(f"  [INJECTED] {art_id}: {'(repaired)' if was_repaired else '(clean)'}")
         else:
             print(f"  WARNING: Could not find {art_id} in Excel.")
 
     wb.save(excel_path)
+    
+    if hasattr(inject_swarm_results, "files_to_delete"):
+        for fpath in inject_swarm_results.files_to_delete:
+            try:
+                os.remove(fpath)
+            except Exception:
+                pass
 
     # ============================================================
     # Layer 5: Integrity Report
@@ -346,7 +380,7 @@ def inject_swarm_results(excel_path):
     print(f"  ---")
     print(f"  Total Injection Rate:           {total_injected}/{stats['total']} ({total_injected/stats['total']*100:.1f}%)" if stats['total'] > 0 else "  N/A")
     print(f"  Contamination Rate:             {contamination_rate:.1f}%  (threshold: < 10%)")
-    status_str = "✅ PASS" if contamination_rate < 10 else "❌ FAIL — PIPELINE HALT RECOMMENDED"
+    status_str = "PASS" if contamination_rate < 10 else "FAIL - PIPELINE HALT RECOMMENDED"
     print(f"  Status:                         {status_str}")
     print("=" * 60)
 
