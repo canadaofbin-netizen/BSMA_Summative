@@ -1,48 +1,48 @@
 ---
 name: lint_workspace
-description: 프로젝트 워크스페이스의 위생 상태, 버전 파편화, SSOT(단일 진실 공급원) 준수 여부를 정기적으로 감사(Audit)하는 스킬입니다.
+description: A skill that routinely audits the project workspace for hygiene, version fragmentation, and adherence to the Single Source of Truth (SSOT).
 ---
 # Skill: Workspace Linter & Hygiene Auditor
 
-이 스킬의 목적은 BSMA 프로젝트 워크스페이스 내부에 기술 부채(Technical Debt), 버전 파편화, 데이터 오염이 발생하지 않도록 감시하는 것입니다. 사용자가 `/lint` 명령을 내리거나 정기 감사를 요청할 때, **반드시 로컬 시스템 도구(CLI 명령어, Python 등)를 사용하여 실제 디렉토리 상태를 스캔한 후** 아래 절차에 따라 감사를 수행하십시오.
+The purpose of this skill is to monitor the BSMA project workspace to prevent technical debt, version fragmentation, and data contamination. When the user issues the `/lint` command or requests a routine audit, you MUST **use local system tools (CLI commands, Python, etc.) to scan the actual directory state** and conduct an audit according to the procedures below.
 
-## 1. 버전 파편화 및 레거시 파일 검사 (Code & Data Fragmentation)
-파이프라인 스크립트 및 데이터 폴더를 스캔하여 다음 안티패턴을 검사하십시오.
-- **스크립트:** `_v2`, `_v3`, `_old`, `_copy` 등의 접미사가 붙은 중복 코드 파일 존재 여부.
-- **데이터 시트:** 엑셀/CSV 파일에 `_final`, `_최종`, `_수정됨` 등의 비표준 네이밍 존재 여부 (Validation 파일은 정해진 네이밍 룰을 따라야 함).
-- **조치:** 발견 시 해당 파일들을 `99_Archives_and_Backups` 폴더로 이동(mv)하도록 제안하십시오.
+## 1. Code & Data Fragmentation Check (Version Fragmentation)
+Scan pipeline scripts and data folders for the following anti-patterns:
+- **Scripts:** Check for duplicated code files with suffixes like `_v2`, `_v3`, `_old`, or `_copy`.
+- **Data Sheets:** Check Excel/CSV files for non-standard naming conventions such as `_final`, `_최종`, or `_수정됨` (Validation files must follow strict naming rules).
+- **Action:** If found, recommend moving these files to the `99_Archives_and_Backups` folder (`mv`).
 
-## 2. 하드코딩 및 보안/환경 검사 (Hardcoded Path & Security)
-- **절대 경로 검사:** 스크립트 내부에 `C:\Users\...` 등의 특정 유저 로컬 경로나 구체적인 엑셀 파일명(`Validation2.xlsx`)이 전역 변수로 하드코딩되어 있는지 스캔. (발견 시 `argparse` 또는 `config.json` 주입 방식으로 리팩토링 권고).
-- **보안 검사:** OpenAI API Key 등 민감한 토큰이 코드에 노출되어 있는지 확인. (반드시 `.env`를 사용하도록 권고).
-- **의존성 검사:** 프로젝트 루트에 `requirements.txt` 또는 `pyproject.toml`이 존재하는지 확인.
+## 2. Hardcoded Path & Security Check
+- **Absolute Paths:** Scan Python scripts to see if specific user local paths (e.g., `C:\Users\...`) or specific Excel filenames (e.g., `Validation2.xlsx`) are hardcoded as global variables. (If found, recommend refactoring using `argparse` or a `config.json` injection approach).
+- **Security Check:** Ensure sensitive tokens like OpenAI API Keys are not exposed in the code. (Recommend using `.env` files).
+- **Dependency Check:** Verify that dependency files like `requirements.txt` or `pyproject.toml` exist in the project root.
 
-## 3. 디렉토리 위생 검사 (Zero Root Pollution Check)
-지정된 폴더 구조 규칙에 따라 오염을 검사하십시오.
-- **Root Directory:** 최상위 경로에 임시 스크립트(`.py`), 덤프된 `.json`, `.txt` 등 불필요한 스크래치 파일이 있는지 확인.
-- **01_Academic_Papers:** `.pdf` 이외의 확장자(예: 다운로드 중단된 `.crdownload`, 숨김 파일 등)가 있는지 확인.
-- **scratch/:** 처리가 끝난 `.json` 잔해물이나 1주일 이상 지난 낡은 에러 로그가 비워지지 않았는지 확인.
-- **조치:** 삭제(rm)보다는 `scratch/trash` 또는 `99_Archives`로의 안전한 이동을 제안하십시오.
+## 3. Zero Root Pollution Check (Directory Hygiene)
+Inspect the workspace for contamination based on the specified folder structure rules:
+- **Root Directory:** Check for unnecessary scratch files like temporary scripts (`.py`), dumped `.json`, or `.txt` files in the top-level path.
+- **01_Academic_Papers:** Ensure there are no extensions other than `.pdf` (e.g., incomplete downloads like `.crdownload`, or hidden files).
+- **scratch/:** Check if leftover `.json` remnants or old error logs (older than 1 week) have been left uncleared.
+- **Action:** Rather than immediate deletion (`rm`), recommend safely moving them to `scratch/trash` or `99_Archives`.
 
-## 4. SSOT(단일 진실 공급원) 무결성 검사
-- 규칙 문서가 중복으로 존재하는지 스캔하십시오. (예: `AGENTS.md`가 유일한 SSOT로 설정되었음에도, 과거의 `03_Coding_Rulebook` 폴더나 파편화된 `.md` 문서가 혼재하는지 확인).
-- **조치:** "Docs as Code" SSOT 원칙(Rule 8) 위반임을 명시하고, 중복 문서의 내용 병합(Merge) 및 기존 문서 삭제를 제안하십시오.
+## 4. Single Source of Truth (SSOT) Integrity Check
+- Scan for duplicated rule documents. (e.g., verify if the legacy `03_Coding_Rulebook` folder or fragmented `.md` documents have re-emerged, despite `AGENTS.md` being the sole SSOT).
+- **Action:** State clearly that this is a violation of the "Docs as Code" SSOT principle (Rule 8), and recommend merging duplicate content and deleting the old documents.
 
-## 5. 엄격한 네이밍 컨벤션 검사 (Strict Naming & ls-lint rules)
-- **공백 및 특수문자:** 워크스페이스 내의 모든 파일명 및 폴더명에 공백(space)이나 괄호 같은 특수문자가 포함되어 있는지 검사하십시오. (발견 시 `_`(언더스코어)로 치환할 것을 제안).
-- **논문 네이밍 룰 (Rule 17 준수):** `01_Academic_Papers` 내부의 `.pdf` 파일들이 정해진 명명 규칙인 `[ID] Author (Year) - Title.pdf`를 정확히 준수하는지 정규표현식으로 스캔하십시오.
-- **확장자 통일:** 데이터 시트가 `.csv`, `.xls` 등으로 파편화되지 않고 `.xlsx`로 통일되어 있는지 검사하십시오.
+## 5. Strict Naming & ls-lint rules
+- **Spaces & Special Characters:** Check if any file or folder names in the workspace contain spaces or special characters like parentheses. (If found, recommend replacing them with underscores `_`).
+- **Paper Naming Convention (Rule 17 Compliance):** Use regular expressions to scan whether the `.pdf` files inside `01_Academic_Papers` strictly follow the mandated naming convention: `[ID] Author (Year) - Title.pdf`.
+- **Extension Consistency:** Ensure data sheets are standardized as `.xlsx` and not fragmented into `.csv`, `.xls`, etc.
 
-## 6. 프로젝트 스캐폴딩 및 보안 검사 (Project Scaffold & Security)
-- **필수 파일 검사:** 루트 디렉토리에 `README.md`(프로젝트 가이드), `.gitignore`, 그리고 패키지 의존성 파일(`requirements.txt` 등)이 존재하는지 확인하십시오.
-- **환경 변수 템플릿:** 실제 API 키가 담긴 `.env` 파일이 직접 노출되지 않고, 구조만 공유하는 `.env.example` 파일이 존재하는지 확인하십시오.
+## 6. Project Scaffold & Security Check
+- **Required Files:** Check if the root directory contains a `README.md` (project guide), `.gitignore`, and package dependency files (e.g., `requirements.txt`).
+- **Environment Variable Template:** Ensure a structural `.env.example` file exists so that the actual `.env` file containing API keys is not directly exposed.
 
-## 7. 데이터 불변성 및 고스트 파일 검사 (Data Immutability & Ghost Files)
-- **원본 폴더 오염(Immutability):** `01_Academic_Papers` 폴더는 [Read-Only] 원칙을 가집니다. AI가 스크립트 실행 중 생성한 파생 파일(`.txt`, `.json`)이 이 폴더 내부에 생성되어 원본 폴더를 오염시켰는지 스캔하십시오.
-- **고스트 파일(0-Byte):** 스크립트 실행 오류로 인해 생성된 0-Byte(내용이 비어있는) 쓰레기 파일이나, 내부에 아무 파일도 없는 빈 폴더가 방치되어 있는지 스캔하십시오.
+## 7. Data Immutability & Ghost Files Check
+- **Original Folder Contamination (Immutability):** The `01_Academic_Papers` folder has a [Read-Only] principle. Scan if any derivative files (`.txt`, `.json`) generated during script execution have been saved inside this folder, contaminating the source data.
+- **Ghost Files (0-Byte):** Scan for 0-Byte (empty) garbage files generated due to script execution errors, or empty directories left behind.
 
-## 8. 실행 결과 보고 및 Action (Lint Report)
-감사가 끝나면 아티팩트(`workspace_lint_report.md`)로 결과를 상세히 출력하되, 다음 형식을 따르십시오.
-- **[Critical / Warning / Info]** 로 심각도를 명확히 분류하여 마크다운 테이블로 작성.
-- 오케스트레이터로서 사용자에게 다음과 같이 질문하고 피드백을 대기하십시오:
-  **"위 문제들을 바탕으로 워크스페이스를 정리하기 위한 쉘 스크립트(또는 Python 정리 코드)를 작성해 드릴까요? 아니면 제가 직접 안전한 폴더(99_Archives)로 이동(Auto-fix) 시킬까요?"**
+## 8. Lint Report & Action
+Once the audit is complete, output the detailed results to an artifact (`workspace_lint_report.md`) following this format:
+- Clearly classify the severity as **[Critical / Warning / Info]** and construct a markdown table.
+- As the orchestrator, ask the user the following question and wait for feedback:
+  **"Based on the issues above, would you like me to write a shell script (or Python cleanup code) to organize the workspace? Or should I automatically move them to a safe folder (99_Archives) right now (Auto-fix)?"**
