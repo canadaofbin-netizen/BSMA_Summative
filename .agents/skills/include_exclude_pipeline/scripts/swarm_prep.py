@@ -4,7 +4,7 @@ import glob
 import openpyxl
 import argparse
 
-EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation3.xlsx"
+EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation2.xlsx"
 PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
 PAYLOAD_OUT = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\subagents_payload.json"
 
@@ -127,10 +127,10 @@ def prep_swarm(batch_size=40):
 
     subagents = []
     for art_id, pdf_path in pending:
-        prompt = f"{preamble}\n\nNow review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs/{art_id}.json`."
+        prompt = f"Now review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs/{art_id}.json`."
 
         subagents.append({
-            "TypeName": "bsma_reviewer_v3",
+            "TypeName": "bsma_reviewer_v4",
             "Role": f"Reviewer for {art_id}",
             "Prompt": prompt
         })

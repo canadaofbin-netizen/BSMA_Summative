@@ -18,6 +18,7 @@ def inject_swarm_results():
         
     scattered = glob.glob(os.path.join(brain_dir, "*", "scratch", "outputs", "BSMA*.json"))
     scattered.extend(glob.glob(r"C:\Users\yunky\.gemini\antigravity\scratch\outputs\BSMA*.json"))
+    scattered.extend(glob.glob(r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\outputs\BSMA*.json"))
     for f in scattered:
         try:
             shutil.move(f, os.path.join(target_dir, os.path.basename(f)))
@@ -61,9 +62,27 @@ def inject_swarm_results():
                     break
                     
             if target_row:
-                ws.cell(row=target_row, column=5).value = verdict.get('status', 'ERROR')
-                ws.cell(row=target_row, column=6).value = verdict.get('reason_code', '')
-                note_str = f"{verdict.get('reason_summary', '')}. Verbatim Evidence: \"{verdict.get('verbatim', '')}\""
+                status_val = verdict.get('status')
+                if status_val is None:
+                    status_val = verdict.get('Verdict', 'ERROR')
+                ws.cell(row=target_row, column=5).value = status_val
+                
+                reason_code_val = verdict.get('reason_code')
+                if reason_code_val is None:
+                    reason_code_val = verdict.get('Exclusion_Code', '')
+                ws.cell(row=target_row, column=6).value = reason_code_val
+                
+                reason_summary_val = verdict.get('reason_summary')
+                if reason_summary_val is None:
+                    reason_summary_val = verdict.get('Reason_Summary')
+                if reason_summary_val is None:
+                    reason_summary_val = verdict.get('Reasoning', '')
+                    
+                verbatim_val = verdict.get('verbatim')
+                if verbatim_val is None:
+                    verbatim_val = verdict.get('Verbatim_Evidence', '')
+                    
+                note_str = f"{reason_summary_val}. Verbatim Evidence: \"{verbatim_val}\""
                 ws.cell(row=target_row, column=16).value = note_str
                 
                 injected_ids.append(art_id)

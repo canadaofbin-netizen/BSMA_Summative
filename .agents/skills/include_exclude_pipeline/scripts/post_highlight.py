@@ -2,7 +2,7 @@ import win32com.client
 import re
 import subprocess
 
-excel_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation3.xlsx"
+excel_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation2.xlsx"
 keywords = ["team", "firm", "students", "alliance"]
 
 print("==================================================")
@@ -48,7 +48,7 @@ finally:
 print("\n  -> Starting GitHub Auto-backup...")
 try:
     cwd_path = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY"
-    subprocess.run(["git", "add", "BSMA_AI_Run_Validation3.xlsx"], check=True, cwd=cwd_path)
+    subprocess.run(["git", "add", "BSMA_AI_Run_Validation2.xlsx"], check=True, cwd=cwd_path)
     subprocess.run(["git", "commit", "-m", "Auto-backup: Post-highlighting batch completed"], check=True, cwd=cwd_path)
     subprocess.run(["git", "push"], check=True, cwd=cwd_path)
     print("  -> GitHub Auto-backup successful!")
