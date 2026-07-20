@@ -4,7 +4,7 @@ import glob
 import openpyxl
 import argparse
 
-EXCEL_PATH = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\BSMA_AI_Run_Validation2.xlsx"
+PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
 PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
 PAYLOAD_OUT = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\subagents_payload.json"
 
@@ -19,8 +19,8 @@ def find_pdf_for_id(art_id):
         pass
     return None
 
-def prep_swarm(batch_size=40):
-    wb = openpyxl.load_workbook(EXCEL_PATH, data_only=True)
+def prep_swarm(excel_path, batch_size=40):
+    wb = openpyxl.load_workbook(excel_path, data_only=True)
     ws = wb.active
     
     pending = []
@@ -145,5 +145,6 @@ def prep_swarm(batch_size=40):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--batch", type=int, default=40, help="Number of subagents to prep")
+    parser.add_argument("--excel", type=str, required=True, help="Absolute path to the target Excel file")
     args = parser.parse_args()
-    prep_swarm(args.batch)
+    prep_swarm(args.excel, args.batch)

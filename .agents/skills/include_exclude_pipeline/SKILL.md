@@ -8,7 +8,7 @@ description: Orchestrates the automated Real-Swarm pipeline for evaluating inclu
 When the user asks you to "run the pipeline" or "파이프라인 돌려", you must act as the Master Orchestrator for the Include/Exclude screening process using Real Subagents. Do NOT use the dummy `run_batch.py` script.
 
 ## 1. Batch Payload Generation
-- Run `python .agents/skills/include_exclude_pipeline/scripts/swarm_prep.py --batch 40`
+- Run `python .agents/skills/include_exclude_pipeline/scripts/swarm_prep.py --batch 40 --excel "target_excel_file_path.xlsx"`
 - This script checks the target Excel file and generates a payload file at `scratch/subagents_payload.json` containing up to 40 pending papers.
 - If the script outputs that no more pending papers are found, proceed to Step 4 (Reporting).
 
@@ -18,7 +18,7 @@ When the user asks you to "run the pipeline" or "파이프라인 돌려", you mu
 - **Wait** asynchronously for all subagents to finish processing their PDFs and output their verdict JSONs into `scratch/outputs/`.
 
 ## 3. Data Injection & Loop
-- Once the subagents finish, run `python .agents/skills/include_exclude_pipeline/scripts/swarm_inject.py` to write their verdicts into the Excel sheet and clean up the JSON files.
+- Once the subagents finish, run `python .agents/skills/include_exclude_pipeline/scripts/swarm_inject.py --excel "target_excel_file_path.xlsx"` to write their verdicts into the Excel sheet and clean up the JSON files.
 - After injection completes, **loop back to Step 1** to process the next batch of 40 papers until the Excel queue is completely empty.
 
 ## 4. Final Reporting
