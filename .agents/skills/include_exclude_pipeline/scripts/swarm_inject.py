@@ -20,9 +20,9 @@ import subprocess
 import argparse
 
 # Removed hardcoded EXCEL_PATH
-OUTPUTS_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\outputs"
-QUARANTINE_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\quarantine"
-CWD = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY"
+CWD = os.getcwd()
+OUTPUTS_DIR = os.path.join(CWD, "scratch", "outputs")
+QUARANTINE_DIR = os.path.join(CWD, "scratch", "quarantine")
 
 # ============================================================
 # Layer 2-1: Contamination Detection (오염 패턴 검사)
@@ -181,13 +181,17 @@ def move_to_quarantine(json_path, reason, bsma_id):
 # Main: Triple-Lock Injection Pipeline
 # ============================================================
 def inject_swarm_results(excel_path):
-    brain_dir = r"C:\Users\yunky\.gemini\antigravity\brain"
+    # Dynamic Antigravity brain directory based on user home
+    brain_dir = os.path.join(os.path.expanduser("~"), ".gemini", "antigravity", "brain")
     target_dir = OUTPUTS_DIR
 
     # 0. Gather scattered JSONs from subagent workspaces
     os.makedirs(target_dir, exist_ok=True)
     scattered = glob.glob(os.path.join(brain_dir, "*", "scratch", "outputs", "BSMA*.json"))
-    scattered.extend(glob.glob(r"C:\Users\yunky\.gemini\antigravity\scratch\outputs\BSMA*.json"))
+    
+    # Also check the fallback scratch directory
+    fallback_scratch = os.path.join(os.path.expanduser("~"), ".gemini", "antigravity", "scratch", "outputs", "BSMA*.json")
+    scattered.extend(glob.glob(fallback_scratch))
     for f in scattered:
         try:
             shutil.move(f, os.path.join(target_dir, os.path.basename(f)))

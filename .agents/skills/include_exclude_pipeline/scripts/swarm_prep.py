@@ -4,9 +4,8 @@ import glob
 import openpyxl
 import argparse
 
-PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
-PDF_DIR = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\01_Academic_Papers"
-PAYLOAD_OUT = r"g:\My Drive\UCL\BSMA\BSMA ANTIGRAVITY\scratch\subagents_payload.json"
+PDF_DIR = os.path.join(os.getcwd(), "01_Academic_Papers")
+PAYLOAD_OUT = os.path.join(os.getcwd(), "scratch", "subagents_payload.json")
 
 def find_pdf_for_id(art_id):
     try:
