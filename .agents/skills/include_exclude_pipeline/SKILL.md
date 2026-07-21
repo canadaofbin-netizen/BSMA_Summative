@@ -33,3 +33,4 @@ As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When
 - **Rule 4 (Automated Github Sync):** After running `swarm_inject.py` successfully, you MUST run git commands to backup the `BSMA_Master_Coding_Sheet.xlsx`.
 - **See Screening Rule 8 (Exclusion Coding Protocol) in `references/screening_rules_core.md`**
 - **Rule 13 (Verbatim Quote Injection):** All subagent verdicts must include full verbatim evidence with no ellipsis truncation.
+- **Quantitative Prefix Rule:** If a paper is a quantitative study (regardless of whether it is included or excluded), the subagent's Reason summary MUST explicitly begin with the word "Quantitative" (e.g., "Quantitative primary study...").
