@@ -1,6 +1,6 @@
 ---
 name: extract_measures
-description: Automates the extraction of statistical data from included PDF papers using 4-Node subagents.
+description: Automates the extraction of 50-column statistical data from included PDF papers using a specialized 3-Specialist Subagent Swarm (Study/Sample, Table Matrix, and Measure Descriptors).
 ---
 
 # Skill: Extract Measures
@@ -18,88 +18,189 @@ When triggered, you must execute the following automated Two-Tier Verification w
      - **Tier 2 (Traps & Guardrails):** Level of Analysis (Exclude Team/Firm/Group aggregation, e.g., $N = \text{teams}$), Construct Homonymy (attitudes, branch identification, internal meetings are NOT BSB), Key Informant proxies, Purposive action vs mere communication.
   2. **Branching Decision:**
      - **If Verdict is `0 = exclude`:**
-       - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Nodes 1 through 4 (preventing token waste, cognitive overload, and forced miscoding).
+       - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Specialists A, B, or C (preventing token waste, cognitive overload, and forced miscoding).
        - Return fatal string: `[SCREENING_EXCLUDED: <Reason>]`.
        - Record in Excel: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion, Col 16 = Verbatim quotes (no ellipses).
        - Terminate processing for this paper.
      - **If Verdict is `1 = include`:**
-       - Confirmed empirical BSB study! Proceed immediately to spawn the **4-Node Extraction Pipeline (Nodes 1 to 4)** below.
+       - Confirmed empirical BSB study! Proceed immediately to spawn the **3-Specialist Swarm Extraction Pipeline (Specialists A, B, C)** below.
 
-## 2. 4-Node Subagent Invocation (Parallel Execution for Confirmed Papers)
-Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in parallel to prevent LLM cognitive overload and ensure 100% Zero-Defect extraction.
-**CRITICAL RULE:** Do NOT extract bibliometrics (Title, Author, Year, Country, N, etc.). They are already coded manually.
+## 2. 3-Specialist Subagent Swarm (Parallel Role-Separated Extraction)
+Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents in parallel. Distributing the extraction across clear functional boundaries eliminates LLM cognitive overload, prevents attention dilution, and ensures 100% Zero-Defect fidelity across the 50-column master schema.
 
-### Node 1: Pre-flight Triage Agent
-- **Prompt:** "Scan the Methodology section of the PDF [Path] for Time-lag/Longitudinal flags (e.g., 'Time 1', 'Time 2', 'T1', 'T2', 'six months later'). If found, return `{"is_longitudinal": true, "time_points": ["T1", "T2"]}`. If cross-sectional, return `{"is_longitudinal": false}`. Do not extract other data."
+### Specialist A: Study & Sample Specialist (`study_sample_descriptor` — Cols 17–26)
+- **Scope & Focus:** Abstract, Methodology ("Sample", "Participants", "Procedure"), and Correlation Table Footnotes.
+- **Objectives:**
+  1. **Study Design:** Determine if cross-sectional vs. longitudinal/time-lagged (record time points, waves, lags) [Cols 17–18].
+  2. **Geographic & Cultural Context:** Extract Country of sample, specify sub-regions, and classify International Context (Domestic vs. Cross-national) [Cols 19–21].
+  3. **Effective Sample Size ($N$):** Extract $N$ from Sample description and cross-verify with listwise $N$ in table footnotes (table footnote takes precedence per Extraction Rule 2) [Col 22].
+  4. **Demographics:** Extract Mean Age, % Female, Organizational Tenure (years), and Occupation Type/Job Role [Cols 23–26].
+  5. **Bias Scanner (Footnote Pre-check):** Check correlation table notes for partial correlations/controls (`is_partial_mixed`) or missing data imputation (`is_imputed`).
+  6. **Verbatim Evidence:** Extract exact verbatim sentences into `sample_quote` (strictly no ellipses per Rule 13).
+  7. **Zero Guesswork:** Enforce integer `999` for missing numeric metrics; `"Not Reported"` for missing strings.
+- **Prompt Blueprint:**
+  "Scan ONLY the Abstract, Sample/Participants section, and Correlation Table footnotes in the PDF [Path].
+  Extract Study & Sample Descriptors (Cols 17-26):
+  1. Study design: Cross-sectional vs. Longitudinal. If longitudinal, list time points (e.g. ['T1', 'T2']).
+  2. Geographic context: Country of sample, specific region if reported, and international context.
+  3. Sample size (N): Cross-verify methodology text N with listwise N in correlation table footnote.
+  4. Demographics: Mean Age, % Female, Org Tenure (years), and Occupation Type.
+  5. Bias flags: Check table footnotes for partial correlations, controls, or missing data imputation.
+  Return clean JSON strictly matching this schema (No Markdown, 999 for missing numbers, 'Not Reported' for missing strings):
+  {
+    \"study_design\": \"Cross-sectional\",
+    \"study_design_other\": \"Not Reported\",
+    \"country\": \"United States\",
+    \"country_specify\": \"Not Reported\",
+    \"international_context\": \"Domestic\",
+    \"sample_size_n\": 253,
+    \"mean_age\": 41.2,
+    \"pct_female\": 24.5,
+    \"org_tenure\": 8.3,
+    \"occupation_type\": \"R&D Scientists and Engineers\",
+    \"is_longitudinal\": false,
+    \"time_points\": [\"T1\"],
+    \"is_partial_mixed\": false,
+    \"is_imputed\": false,
+    \"sample_quote\": \"exact verbatim sentence describing sample and N\"
+  }"
 
-### Node 2: Footnote Scanner (Circuit Breaker)
-- **Prompt:** "Scan ONLY the footnotes/notes below the 'Means, Standard Deviations, and Correlations' table in the PDF [Path]. 
-  - If you detect keywords indicating partial correlations (e.g., 'controlling for', 'partial', 'residuals'), return `{"is_partial_mixed": true}`.
-  - If you detect keywords indicating missing data imputation (e.g., 'FIML', 'imputed', 'multiple imputation'), return `{"is_imputed": true}`. Otherwise, return false for both flags."
-
-### Node 3: Table Parser (Flat Statistics)
-- **Prompt:** "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path]. Refer to `references/extraction_edge_cases.md` for statistical traps.
-  - **Stage 1 (CoT):** Before extracting data, output a `<matrix_reasoning>` block. Explicitly state whether the upper or lower diagonal contains the zero-order correlations vs. corrected/partial correlations. If ambiguous, return `[AMBIGUOUS_MATRIX_DIAGONAL]`.
-  - **LATENT CIRCUIT BREAKER:** If the table title, labels, or footnotes contain keywords like 'Latent', 'AVE (Average Variance Extracted)', or 'Discriminant Validity', the values are NOT raw correlations. Return `[LATENT_CORRELATION_VIOLATION]`.
-  - **Stage 2 (Pruning):** If the table contains both Global (Total) scores and Sub-facet scores for the same construct, extract ONLY the sub-facets to preserve independence. Discard the Global score.
-  - **LoA CIRCUIT BREAKER:** If data is aggregated at Team/Unit/Firm level, return `[LoA_VIOLATION]`.
-  - Drop all demographic variables (Age, Gender, Tenure). 
-  - For remaining variables, copy the exact variable name/symbol from the table axis into `table_anchor_name`. Extract `mean` and `sd`. Include an `is_transformed` boolean (true if Log/Z-score was applied).
-  - Extract correlations mapping `var1_anchor` and `var2_anchor` to their `table_anchor_name`.
-  - **CELL PROOF RULE:** For every correlation, extract `cell_proof` containing the exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., '0.35**') for 100% auditability.
-  - Return JSON strictly following this structure (No Markdown):
-{
-  "is_transformed": false,
-  "variables": [{"table_anchor_name": "Exact Axis Name", "mean": 999, "sd": 999}],
-  "correlations": [
-    {
-      "var1_anchor": "Exact Axis Name 1",
-      "var2_anchor": "Exact Axis Name 2",
-      "r": 999,
-      "cell_proof": {
-        "row_header_quote": "Exact row header",
-        "col_header_quote": "Exact col header",
-        "raw_cell_value": "0.35**"
+### Specialist B: Table Matrix Specialist (`boundary_spanning_matrix` — Cols 41–50)
+- **Scope & Focus:** ONLY the "Means, Standard Deviations, and Correlations" square matrix table and its immediate notes.
+- **Objectives:**
+  1. **Stage 1 (CoT Matrix Reasoning):** Output a `<matrix_reasoning>` block identifying table number, lower vs. upper diagonal (zero-order vs. corrected/partial). If ambiguous, return fatal code `[AMBIGUOUS_MATRIX_DIAGONAL]`.
+  2. **Circuit Breakers:**
+     - **LATENT CIRCUIT BREAKER:** If matrix is CFA/SEM latent without raw zero-order correlations, record latent note or return `[LATENT_CORRELATION_VIOLATION]`.
+     - **LoA CIRCUIT BREAKER:** If table notes reveal group/team aggregation ($N = \text{teams}$), return `[LoA_VIOLATION]`.
+  3. **Stage 2 (Pruning & Coordinates):** Drop demographic control variables (Age, Gender, Tenure, Education).
+  4. **Table Axis Fidelity (Rule 14):** Copy exact variable index and verbatim table axis label into `table_anchor_name` character-for-character (e.g., `"1. External Communication"`, `"Ext. Comm."`). NEVER normalize or paraphrase.
+  5. **Descriptive Stats:** Extract `mean`, `sd`, and reliability (alpha) if printed in table or diagonal.
+  6. **Zero-Order Correlations ($r$):** Extract raw correlations between variable pairs.
+  7. **CELL PROOF AUDITABILITY (Extraction Rule 9):** For every correlation, extract `cell_proof` with exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., `"-0.24**"`).
+- **Prompt Blueprint:**
+  "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
+  - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number and lower vs. upper diagonal structure.
+  - Drop all demographic variables (Age, Gender, Tenure, Education).
+  - Copy exact variable name/symbol from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
+  - Extract mean, sd, and table-reported reliability for each variable.
+  - Extract zero-order correlations mapping var1_anchor and var2_anchor.
+  - CELL PROOF RULE: For every correlation, provide cell_proof with row_header_quote, col_header_quote, and raw_cell_value with asterisks.
+  Return JSON strictly matching this schema (No Markdown, 999 for missing numbers):
+  {
+    \"table_number\": \"Table 2\",
+    \"listwise_n\": 253,
+    \"is_transformed\": false,
+    \"variables\": [
+      {
+        \"var_index\": 1,
+        \"table_anchor_name\": \"1. External Communication\",
+        \"mean\": 3.45,
+        \"sd\": 0.82,
+        \"reliability_table\": 0.88
       }
-    }
-  ]
-}
-"
+    ],
+    \"correlations\": [
+      {
+        \"var1_anchor\": \"1. External Communication\",
+        \"var2_anchor\": \"2. Role Ambiguity\",
+        \"r\": -0.24,
+        \"cell_proof\": {
+          \"row_header_quote\": \"2. Role Ambiguity\",
+          \"col_header_quote\": \"1. External Communication\",
+          \"raw_cell_value\": \"-0.24**\"
+        }
+      }
+    ]
+  }"
 
-### Node 4: Text Analyzer (Delayed Classification & Anchor Reconciliation)
-- **Prompt:** "Focus ONLY on the Methodology ('Measures' and 'Sample') section in the PDF [Path]. Refer to `references/extraction_edge_cases.md` for measurement traps.
-  - **LoA CIRCUIT BREAKER:** If the Methodology text states the sample is aggregated at the Team/Firm level, return `[LoA_VIOLATION]`.
-  - **ANCHOR RECONCILIATION BRIDGE:** Use the candidate `table_anchor_name` list from Node 3 to reconcile textual measure labels with table axis labels, preventing fuzzy join mismatches.
-  - Use `<target_analysis>` block to classify the variable. If the measure explicitly targets 'inter-boundary' entities (e.g., outside the department, other teams, customers, external organizations), classify as `"BS"`. If intra-team, vague, or an outcome variable, strictly classify as `"NB"`.
-  - **ZERO-BSB CIRCUIT BREAKER:** If after analyzing all candidate variables, ZERO variables qualify as `"BS"` (`count(BS) == 0`), do NOT guess or force non-BS variables (e.g., attitudes, unit identification, internal meetings) into BS slots. Return `[NO_BSB_CONSTRUCT_VIOLATION]`.
-  - Extract `items`, `min`, `max`.
-  - **ITEMS PROOF RULE:** `items_quote` must be the exact sentence stating the number of items and scale anchor (e.g., 'measured with five items on a 7-point Likert scale').
-  - For `reliability`, use a polymorphic object with `type` (Alpha, Omega, CR, Not_Applicable, Not_Reported) and `value`. For objective/formative metrics (Firm Size, Age), type MUST be `"Not_Applicable"` and value `999`.
-  - **VERBATIM RULE:** `source_quote` must be the exact sentence. Escape quotes with `\"` and newlines with `\n`. `specific_measure` MUST be an exact, unmodified substring of `source_quote`.
-  - Return JSON strictly following this structure (No Markdown):
-{
-  "dataset_fingerprint": {"sample_origin": "Not Reported", "data_collection_year": 999},
-  "measure_details": [
-    {
-      "table_anchor_name": "Inferred Name Matching Node 3",
-      "classification_type": "BS",
-      "items": 999,
-      "items_quote": "exact sentence stating item count and anchors",
-      "min": 999,
-      "max": 999,
-      "reliability": {"type": "Not_Reported", "value": 999},
-      "specific_measure": "escaped string",
-      "source_quote": "exact escaped sentence"
-    }
-  ]
-}
-"
+### Specialist C: Measures Text Specialist (`measure_descriptor` — Cols 27–40)
+- **Scope & Focus:** ONLY the Methodology "Measures / Measurement Instruments" section.
+- **Objectives:**
+  1. **Construct Inventory & Classification:** Inspect all candidate variables described in text.
+     - **Boundary Spanning Behavior (BS):** Individual behaviors reaching across boundary interfaces (external organizations, clients/customers, other departments).
+     - **Non-Boundary Spanning (NB):** Internal behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
+  2. **ZERO-BSB CIRCUIT BREAKER:** If ZERO variables qualify as `"BS"`, return fatal code `[NO_BSB_CONSTRUCT_VIOLATION]`.
+  3. **Anchor Reconciliation Bridge:** Map each textual measure to the candidate table axis names (`table_anchor_name`) from Specialist B to prevent fuzzy join failures.
+  4. **Sub-scale Decomposition (Extraction Rule 6):** If a global scale (e.g., 13 items) is broken down into sub-scales in the matrix, decompose and extract exact item counts per sub-scale.
+  5. **BSB Measure Descriptors (Cols 27–33):**
+     - `number_of_items`: integer (or `999` if not reported).
+     - `min_score` / `max_score`: Likert anchors (e.g., 1 to 5, 1 to 7).
+     - `report_type`: Self-report / Supervisor-report / Peer-report / Objective / Not Reported.
+     - `report_type_note`: Specific details if multi-source.
+     - `specific_measure_used`: Exact, unmodified substring of `source_quote` capturing scale citation (Rule 14).
+     - `items_quote`: Exact verbatim sentence stating number of items and anchors (strictly no ellipses per Rule 13).
+     - `reliability`: polymorphic object `{"type": "Alpha"|"Omega"|"CR"|"Not_Reported"|"Not_Applicable", "value": 0.88}`.
+     - `notes`: Specific notes or composite definitions (Rule 7).
+  6. **Non-BS Measure Descriptors (Cols 34–40):**
+     - Identical rigorous schema for all substantive non-BS variables.
+- **Prompt Blueprint:**
+  "Focus ONLY on the Methodology ('Measures') section in the PDF [Path].
+  - Classify each variable as 'BS' (Boundary Spanning Behavior: actions spanning external boundaries, clients, other departments) or 'NB' (Non-BS: internal behaviors, attitudes, outcomes).
+  - ZERO-BSB CIRCUIT BREAKER: If 0 variables qualify as 'BS', return [NO_BSB_CONSTRUCT_VIOLATION].
+  - For each variable, extract:
+    1. table_anchor_name: Match exactly to candidate correlation table axis names.
+    2. number_of_items, min_score, max_score, report_type, report_type_note.
+    3. specific_measure_used: Must be an exact, unmodified substring of source_quote (Rule 14).
+    4. items_quote: Exact verbatim sentence stating item count and anchors (Rule 13: NO ellipses).
+    5. reliability: polymorphic object {type, value}.
+    6. source_quote: Full verbatim sentence introducing the scale.
+  Return JSON strictly matching this schema (No Markdown):
+  {
+    \"boundary_spanning_measures\": [
+      {
+        \"table_anchor_name\": \"1. External Communication\",
+        \"number_of_items\": 6,
+        \"min_score\": 1,
+        \"max_score\": 7,
+        \"report_type\": \"Self-report\",
+        \"report_type_note\": \"Not Reported\",
+        \"specific_measure_used\": \"Keller (1994)\",
+        \"items_quote\": \"External communication was measured using six items on a 7-point scale.\",
+        \"reliability\": {\"type\": \"Alpha\", \"value\": 0.88},
+        \"source_quote\": \"Keller (1994) developed the six-item external communication scale...\",
+        \"notes\": \"Primary external boundary-spanning facet\"
+      }
+    ],
+    \"non_bs_measures\": [
+      {
+        \"table_anchor_name\": \"2. Role Ambiguity\",
+        \"number_of_items\": 6,
+        \"min_score\": 1,
+        \"max_score\": 7,
+        \"report_type\": \"Self-report\",
+        \"report_type_note\": \"Not Reported\",
+        \"specific_measure_used\": \"Rizzo, House, and Lirtzman (1970)\",
+        \"items_quote\": \"Role ambiguity was assessed with six items on a 7-point Likert scale.\",
+        \"reliability\": {\"type\": \"Alpha\", \"value\": 0.84},
+        \"source_quote\": \"Role ambiguity was measured using the six-item scale from Rizzo, House, and Lirtzman (1970)...\",
+        \"notes\": \"Not Reported\"
+      }
+    ]
+  }"
+
+### Specialist D: Deterministic Integration & Cartesian Join Engine
+- **Orchestrator Role:**
+  - Await parallel execution of Specialists A, B, and C.
+  - If any specialist returns a fatal circuit breaker code (`[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately abort extraction and record screening verdict.
+  - Execute deterministic Python Cartesian join:
+    - For each BSB Measure ($i \in [1..M]$) and each Non-BS Measure ($j \in [1..K]$):
+      - Query Specialist B's matrix for correlation $r_{ij}$ and `cell_proof`.
+      - Construct 50-column row:
+        - Cols 1–16: Article Descriptors & Screening metadata.
+        - Cols 17–26: Study/Sample Descriptors from Specialist A.
+        - Cols 27–33: BSB Measure Descriptors from Specialist C.
+        - Cols 34–40: Non-BS Measure Descriptors from Specialist C.
+        - Cols 41–44: BSB Effect Size Stats (Table Name, Mean, SD, Reliability) from Specialist B.
+        - Cols 45–48: Non-BS Effect Size Stats (Table Name, Mean, SD, Reliability) from Specialist B.
+        - Col 49: Correlation $r_{ij}$ from Specialist B.
+        - Col 50: Notes (Composite notes + Cell Proof audit trail).
+    - Enforce Zero Guesswork Policy (`999` / `"Not Reported"`).
 
 ## 3. STRICT JSON ONLY & Hand-off
-- Wait asynchronously for all 4 subagents.
+- Wait asynchronously for all 3 subagents.
 - If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
   - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: No effect size of interest` (or `Construct Homonymy`) and inject verbatim evidence from the Measures text into Col 16.
-- Otherwise, merge the 4 valid JSON responses into a single cohesive payload and return it to the Orchestrator for Validation.
+- Otherwise, merge the 3 valid JSON responses via the Deterministic Integration Engine and return the complete payload to the Orchestrator for Validation.
 
 ## 4. Strict Domain Guardrails
 
@@ -113,7 +214,7 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 **Extraction Rule 3: Pure Number Enforcement:** When extracting correlation values ($r$) or descriptive statistics, you MUST strictly strip all significance asterisks (e.g., `*`, `**`) and alphabetical letters from numerical values (e.g., convert `0.45**` to `0.45`). Return pure floating-point numbers only.
 
 **[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 4: Multi-Node Extraction Pipeline:** You must utilize a 4-Node Pipeline (Pre-flight Triage, Footnote Scanner, CoT Table Parser, Text Analyzer Fingerprinting) to aggressively cross-verify extracted measurements.
+**Extraction Rule 4: 3-Specialist Swarm Architecture (Study/Sample, Matrix, Measures):** You must utilize a specialized 3-Specialist Subagent Swarm (`study_sample_descriptor`, `boundary_spanning_matrix`, `measure_descriptor`) followed by deterministic Python Cartesian integration to aggressively prevent cognitive overload and ensure 100% data integrity across all 50 columns.
 
 **[Originally AGENTS.md §C — relocated for context-window optimization]**
 **Extraction Rule 5: Physical Excel Isolation (4-Sheet Rule):** Data must be inserted into one of 4 isolated sheets (Raw_Metrics, Transformed_Metrics, Imputed_Metrics, Salami_Review_Queue) depending on its `is_transformed`, `is_imputed`, and dataset fingerprint flags to maintain 100% purity of the zero-order `Raw_Metrics`.
@@ -138,6 +239,9 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 
 **[Added via Data Integrity Upgrade]**
 **Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` and `"Not Reported"`, and (5) Atomic Excel Commit.
+
+**[Added via Data Integrity Upgrade]**
+**Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the exact name, numeric prefix, and abbreviation as printed in the correlation matrix axis (e.g., `"1. BSA"`, `"Ext. Comm."`). Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
 
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:

@@ -39,7 +39,7 @@ All operations must strictly adhere to the modularized domain rule files:
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Protects immutable vaults, defines validation terminology, and governs rollback backups.
 
 ### Skills (`.agents/skills/`)
-- [Skill: Batch Processor](file:///.agents/skills/batch_processor/SKILL.md) - Batch execution orchestrator for paper data extraction.
-- [Skill: Extract Measures](file:///.agents/skills/extract_measures/SKILL.md) - Primary metric and variable extraction from academic papers.
+- [Skill: Batch Processor](file:///.agents/skills/batch_processor/SKILL.md) - Batch execution orchestrator deploying the 3-Specialist Swarm for paper data extraction.
+- [Skill: Extract Measures](file:///.agents/skills/extract_measures/SKILL.md) - 3-Specialist Swarm (Study/Sample, Table Matrix, Measures) for 50-column paper data extraction.
 - [Skill: Include/Exclude Pipeline](file:///.agents/skills/include_exclude_pipeline/SKILL.md) - Automated paper inclusion and exclusion screening pipeline.
 - [Skill: Unified Linter](file:///.agents/skills/lint/SKILL.md) - Single-command (/lint) workspace hygiene and Excel data integrity auditor.
