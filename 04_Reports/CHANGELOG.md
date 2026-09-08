@@ -167,3 +167,36 @@ git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
    - Bivariate effect size extraction is halted. Cols 17–26 retain sample descriptors; Cols 27–50 are padded with `999` (1 single row); Col 16 records full verbatim evidence of aggregation.
    - **Screening Rule 1 Scope Clarification:** Leader BSB override priority strictly protects rater identity (subordinate rating leader), but is explicitly subordinate to the Level of Analysis aggregation exclusion.
 
+---
+
+## V4 -> V5: Dual Missing Data Protocol, Rule 14 Pruning, Rule 19 Streamlining & Rule 20 3-Tier Headers (2026-09-08)
+
+**Architectural & Data Integrity Upgrades:**
+
+1. **Dual Missing Data Protocol (Rule 1 Upgraded):**
+   - **Numeric Missing Values (Cols 17–50):** Integer `999` is strictly enforced for missing empirical numbers ($N$, Mean, SD, $\alpha$, $r$, item counts, Likert anchors) for unambiguous parsing by statistical software (R, SPSS, CMA, Stata).
+   - **Text / Non-Applicable Cells:** Left as clean BLANK cells (`None`). Writing `"Not Reported"` into Excel cells is strictly **prohibited** everywhere.
+   - Purged all hardcoded `"Not Reported"` strings from extraction skills, `universal_excel_inserter.py`, and batch sheets (`70_94_109.xlsx`, `49_53_66.xlsx`).
+
+2. **Rule 14 Enhancement: Table Layout Index Pruning (Cols 41 & 45):**
+   - Leading numbers that serve solely as table row/column coordinates (e.g., `"1. "`, `"7. "`, `"10. "`) are automatically pruned from variable names.
+   - The author's exact construct phrasing, sub-dimension wording (e.g., `"Internal COBSB"`, `"External COBSB"`), and published abbreviations (e.g., `"BSA"`, `"Org. Comm."`) remain 100% character-for-character preserved.
+   - The original coordinate with number is permanently preserved in Col 50 Notes / `cell_proof`.
+
+3. **Rule 19: Streamlined Extraction Layout & Exclude Termination:**
+   - **Separation of Concerns:** `BSMA_Master_Coding_Sheet.xlsx` serves as the permanent screening database containing bibliographic metadata in Cols 1–16.
+   - **Batch Extraction Sheets (`[start]_[end].xlsx`):**
+     - `Col 3 (Sample ID)`: Left clean blank (`None`).
+     - `Cols 7–16 (Article Descriptors)`: Left clean blank (`None`) to eliminate redundancy.
+     - `Included Papers (1 = include)`: Data population strictly begins at **Col 17**.
+     - `Excluded Papers (0 = exclude)`: Terminate immediately after **Col 6 (`Reason for Exclusion`)**, leaving all subsequent columns (Cols 7–50) clean blank (`None`).
+
+4. **Rule 20: Canonical 3-Tier Hierarchical Header Protocol:**
+   - Standardized Row 1 (Section Category), Row 2 (Sub-category), and Row 3 (Leaf Header) across all batch extraction sheets.
+   - Created `.agents/scripts/excel_template_util.py` to copy merged cell ranges, fonts, fills, and dimensions via openpyxl.
+   - Raw pandas `df.to_excel()` exports that inject `'Unnamed'` headers are strictly prohibited and actively caught by the linter.
+
+5. **Rule Numbering Deduplication (Rules 21–26):**
+   - Renumbered `vault_security.md` rules to Rules 21–26 to eliminate rule numbering collisions with `data_integrity.md` (Rule 14 and Rule 20).
+   - Entire rule system across `.agents/rules/` now possesses 100% unique rule numbers.
+
