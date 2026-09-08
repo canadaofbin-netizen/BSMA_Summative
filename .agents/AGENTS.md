@@ -19,6 +19,7 @@ You must strictly obey the core orchestration rules and enforce all specialized 
 
 - **/lint:** Runs the unified repository auditor via `python .agents/scripts/linter.py` to check workspace hygiene, PDF naming, 50-column Excel schemas, and rule index synchronization.
 - **/includeexclude:** Silently triggers the paper inclusion/exclusion screening pipeline across pending papers in batch mode.
+- **/summary:** Generates an executive diagnostic, variable taxonomy, and Cartesian pairing summary for any coding sheet or specified paper IDs via `python .agents/scripts/batch_summary.py`.
 
 ---
 
@@ -40,6 +41,7 @@ All operations must strictly adhere to the modularized domain rule files:
 
 ### Skills (`.agents/skills/`)
 - [Skill: Batch Processor](file:///.agents/skills/batch_processor/SKILL.md) - Batch execution orchestrator deploying the 3-Specialist Swarm for paper data extraction.
+- [Skill: Batch Summary](file:///.agents/skills/batch_summary/SKILL.md) - Executive diagnostic, variable taxonomy, and Cartesian pairing summary generator.
 - [Skill: Extract Measures](file:///.agents/skills/extract_measures/SKILL.md) - 3-Specialist Swarm (Study/Sample, Table Matrix, Measures) for 50-column paper data extraction.
 - [Skill: Include/Exclude Pipeline](file:///.agents/skills/include_exclude_pipeline/SKILL.md) - Automated paper inclusion and exclusion screening pipeline.
 - [Skill: Unified Linter](file:///.agents/skills/lint/SKILL.md) - Single-command (/lint) workspace hygiene and Excel data integrity auditor.

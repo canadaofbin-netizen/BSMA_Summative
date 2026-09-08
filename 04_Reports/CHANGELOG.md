@@ -226,3 +226,21 @@ git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
 3. **Linter Batch Data Row & Heuristic Audit (`linter.py`):**
    - Added Rule 1 data row scan: Verifies zero forbidden strings (`"Not Reported"`, `"N/A"`) in numeric columns of batch extraction sheets.
    - Added Rule 27 Heuristic Missing Data Guard: Detects papers in batch sheets with 100% missing Mean and SD, reporting domain-aware notices with Col 50 latent correlation verification.
+
+---
+
+## V5.2 -> V5.3: Batch Summary Diagnostic Skill & `/summary` Slash Command (2026-09-08)
+
+**Interactive Reporting & Variable Taxonomy Upgrades:**
+
+1. **Flexible CLI & Parsing Engine (`batch_summary.py`):**
+   - Created `.agents/scripts/batch_summary.py` supporting direct paper IDs (`70 94 109`), sheet paths (`03_Coding_Sheets/70_94_109.xlsx`), combined arguments, or zero-argument auto-detection of the latest batch sheet.
+   - Automatically resolves metadata from `01_Academic_Papers/` PDF registry and categorizes Non-BS correlates into domain taxonomy clusters.
+   - Produces clean academic Markdown output with zero decorative emojis.
+
+2. **Official Skill Definition (`batch_summary/SKILL.md`):**
+   - Established `.agents/skills/batch_summary/SKILL.md` governing executive KPI reporting, study-by-study deep dives, Cartesian topology verification, and data compliance checks.
+
+3. **Interactive Slash Command Registration:**
+   - Registered `**/summary**` in `.agents/AGENTS.md` Interactive Slash Commands and linked in the central Agent Customizations Index.
+
