@@ -19,8 +19,8 @@ For each paper in the batch, execute the Two-Tier verification workflow:
   - Re-evaluate the paper against the multi-tier screening hierarchy in `include_exclude_pipeline/references/screening_rules_core.md`.
   - If Verdict is `0 = exclude` (Construct Homonymy, Level of Analysis Aggregation, Work-Life boundaries):
     - **Fast-fail immediately.** Do NOT spawn Specialists B or C (preventing token waste, cognitive overload, and forced miscoding).
-    - Update Excel coding sheet: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy), Col 16 = Verbatim quote documenting aggregation/exclusion (no ellipses).
-    - Extract Study/Sample Descriptors (Cols 17–26) from Sample text if reported, and leave Cols 27–50 as clean blank cells (`None`) per Rule 1 Clean Blank Cell Protocol (1 single row). Halt correlation extraction to prevent ecological fallacy.
+    - Update Excel coding sheet: Col 1 = Coder Initials, Col 2 = Article ID, Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy).
+    - Terminate immediately after Col 6: Leave Cols 7–50 completely blank (`None`) per Rule 19 (1 single row). Halt extraction to prevent token waste and ecological fallacy.
     - Mark status in `batch_queue.csv` as `EXCLUDED` and proceed to the next paper.
   - If Verdict is `1 = include` (Individual-Level Empirical BSB):
     - Proceed to Tier 2 extraction below.

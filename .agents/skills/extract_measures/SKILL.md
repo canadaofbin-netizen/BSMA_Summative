@@ -19,11 +19,8 @@ When triggered, you must execute the following automated Two-Tier Verification w
    2. **Branching Decision:**
      - **If Verdict is `0 = exclude` (Construct Homonymy, Level of Analysis / Aggregated Data):**
        - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Specialist B or C (preventing token waste, cognitive overload, and forced miscoding).
-       - Record in Excel: Col 5 = `'0 = exclude'`.
-       - Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy).
-       - Col 16 = Verbatim quotes documenting the exclusion reason or aggregation evidence (strictly no ellipses per Rule 13).
-       - Cols 17–26 = Study/Sample Descriptors extracted from Sample text if reported.
-       - Cols 27–50 = Leave as clean blank cells (`None`) per Rule 1 Clean Blank Cell Protocol (1 single row). Terminate extraction for this paper.
+       - Record in Excel: Col 1 = Coder Initials, Col 2 = Article ID, Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy).
+       - Terminate immediately after Col 6: Leave Cols 7–50 completely blank (`None`) per Rule 19 (1 single row). Terminate extraction for this paper.
      - **If Verdict is `1 = include` (Individual-Level Empirical BSB):**
        - Confirmed individual-level empirical BSB study! Proceed immediately to spawn the full **3-Specialist Swarm Extraction Pipeline (Specialists A, B, C)** below.
 
@@ -188,15 +185,20 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
     - For each BSB Measure ($i \in [1..M]$) and each Non-BS Measure ($j \in [1..K]$):
       - Query Specialist B's matrix for correlation $r_{ij}$ and `cell_proof`.
       - Construct 50-column row:
-        - Cols 1–16: Article Descriptors & Screening metadata.
+        - Cols 1–2: Coder Initials & Paper ID.
+        - Col 3: Sample ID (leave blank / None).
+        - Col 4: Effect size ID (1, 2, 3...).
+        - Col 5: Inclusion-Exclusion Judgment ('1 = include').
+        - Col 6: Reason for Exclusion (leave blank / None).
+        - Cols 7–16: Article Descriptors (leave completely blank / None per Rule 19; already recorded during screening).
         - Cols 17–26: Study/Sample Descriptors from Specialist A.
         - Cols 27–33: BSB Measure Descriptors from Specialist C.
         - Cols 34–40: Non-BS Measure Descriptors from Specialist C.
-        - Cols 41–44: BSB Effect Size Stats (Table Name, Mean, SD, Reliability) from Specialist B.
-        - Cols 45–48: Non-BS Effect Size Stats (Table Name, Mean, SD, Reliability) from Specialist B.
+        - Cols 41–44: BSB Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
+        - Cols 45–48: Non-BS Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
         - Col 49: Correlation $r_{ij}$ from Specialist B.
         - Col 50: Notes (Composite notes + Cell Proof audit trail).
-    - Enforce Zero Guesswork Policy (`999` / `"Not Reported"`).
+    - Enforce Rule 1 Clean Blank Cell Protocol for missing/unreported fields.
 
 ## 3. STRICT JSON ONLY & Hand-off
 - Wait asynchronously for all 3 subagents.
@@ -246,7 +248,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the author's exact construct name, sub-dimension phrasing (e.g., `"Internal COBSB"`, `"External COBSB"`, `"Internal Com."`, `"External Com."`), and published abbreviations (e.g., `"BSA"`, `"Org. Comm."`, `"Dual Comm."`). Leading numbers that serve solely for table row/column layout indexing (e.g., `"1. "`, `"10. "`) are automatically pruned, while the original coordinate remains preserved in `cell_proof` and Col 50 Notes. Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
 
 **[Added via Level of Analysis Aggregation Protocol Upgrade]**
-**Extraction Rule 12: Level of Analysis Aggregation Protocol:** Studies where variables or correlations represent group, team, project, or department level aggregation ($N = \text{teams/groups/projects}$, e.g., Cummings 2004 with $N=182$ Work Groups, Brion et al. 2012 with $N=73$ NPD projects evaluating project-level performance and team size) are EXCLUDED under Code 3 (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy. Quantitative effect size extraction is halted. Study/Sample Descriptors (Cols 17–26) are extracted if reported, while Cols 27–50 are left as clean blank cells (`None`) per Rule 1 (1 single row). Col 16 explicitly documents the aggregation evidence with verbatim quotes (Rule 13).
+**Extraction Rule 12: Level of Analysis Aggregation Protocol:** Studies where variables or correlations represent group, team, project, or department level aggregation ($N = \text{teams/groups/projects}$, e.g., Cummings 2004 with $N=182$ Work Groups, Brion et al. 2012 with $N=73$ NPD projects evaluating project-level performance and team size) are EXCLUDED under Code 3 (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy. Quantitative effect size extraction is halted. The entry terminates immediately after Col 6 (`Reason for Exclusion`), leaving Cols 7–50 completely blank (`None`) (1 single row per Rule 19). Full verbatim evidence is preserved in the screening database.
 
 **[Added via Header Architecture Upgrade]**
 **Extraction Rule 13: Canonical 3-Tier Excel Header Protocol (Rule 20 Integration):** Whenever creating or updating Excel coding sheets (batch sheets or paper extractions), all sheets MUST be initialized via `excel_template_util.py` (inheriting from `03_Coding_Sheets/49_53_66.xlsx`). Row 1 (Section Category), Row 2 (Sub-category), and Row 3 (Leaf Column Names) must be completely preserved along with openpyxl cell styles, merged ranges, and column dimensions. Raw pandas `df.to_excel()` exports that introduce `'Unnamed'` headers are strictly prohibited. Data rows strictly begin at Row 4.
