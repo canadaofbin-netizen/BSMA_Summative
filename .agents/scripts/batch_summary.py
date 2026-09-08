@@ -419,6 +419,14 @@ def main():
             cleaned_args.append(arg)
 
     # Resolve target sheet
+    if target_sheet and not os.path.exists(target_sheet):
+        candidate = os.path.join(root_dir, "03_Coding_Sheets", target_sheet)
+        if os.path.exists(candidate):
+            target_sheet = candidate
+        else:
+            print(f"Error: Target sheet '{target_sheet}' not found.")
+            sys.exit(1)
+
     if not target_sheet:
         if paper_ids:
             target_sheet = find_sheet_for_paper_ids(root_dir, paper_ids)
