@@ -4,17 +4,18 @@
 ## Summary
 
 - **Critical Errors:** 0
-- **Warnings:** 2
+- **Warnings:** 3
 - **Passed Checks:** 6
 
 > [!WARNING]
 > **WARNINGS DETECTED:** Review and resolve the flagged warnings to maintain project hygiene.
 
-### [WARNING] (2)
+### [WARNING] (3)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
 | Workspace Hygiene | Ghost/Lock file detected: '03_Coding_Sheets\~$70_94_109.xlsx' | Remove temporary OS/Excel lock files. |
+| Workspace Hygiene | Ghost/Lock file detected: '03_Coding_Sheets\~$cross_val_retest_6_papers.xlsx' | Remove temporary OS/Excel lock files. |
 | Excel Data Integrity | 627 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
 ### [INFO] (2)
