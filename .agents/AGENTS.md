@@ -35,7 +35,7 @@ All operations must strictly adhere to the modularized domain rule files:
 
 ### Rules (`.agents/rules/`)
 - [Rule: Workspace & Directory Hygiene](file:///.agents/rules/workspace_hygiene.md) - Enforces 01_Academic_Papers PDF naming, zero root pollution, and scratch directory containment.
-- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Zero Guesswork (999), 50-column extraction schema, verbatim evidence, verbatim variable naming (Rule 14), and canonical 3-tier header protocol (Rule 20).
+- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Zero Guesswork & Clean Blank Cells (Rule 1), 50-column extraction schema, verbatim evidence/names (Rule 14), and canonical 3-tier header protocol (Rule 20).
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Protects immutable vaults, defines validation terminology, and governs rollback backups.
 
 ### Skills (`.agents/skills/`)

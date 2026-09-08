@@ -4,12 +4,18 @@ This document defines the strict data type policies, template schemas, and evide
 
 ---
 
-## 1. Universal Zero Guesswork Policy (Rule 1)
-- **Absolute Prohibition on Imputation:** Never guess or impute data.
-- **Type-Safe Missing Values:**
-  - If a numeric value is missing or not reported, YOU MUST return the integer `999`.
-  - If a string/text field is missing or not reported, YOU MUST return the string `"Not Reported"`.
-- **No Averaging / Deduction:** Do NOT calculate averages or deduce missing values under any circumstances.
+## 1. Universal Zero Guesswork & Clean Blank Cell Protocol (Rule 1)
+- **Absolute Prohibition on Imputation (Zero Guesswork):** Never guess, fabricate, or impute data. Do NOT calculate averages or deduce missing values under any circumstances.
+- **Clean Blank Cell Protocol for Human Readability:**
+  - In Excel coding sheets, cells that are not applicable, conditional, or not reported in the paper MUST be left as clean BLANK cells (`None`), matching the canonical format of `03_Coding_Sheets/49_53_66.xlsx` and `Full text coding sheet.xlsx`.
+  - **Conditional / Non-Applicable Columns:**
+    - `Col 6 (Reason for Exclusion)`: When a paper is `1 = include`, leave blank (`None`).
+    - `Cols 13, 18, 20, 31, 38 ("Other / Specify / Notes")`: When standard categories apply and no additional notes are needed, leave blank (`None`).
+    - `Col 16 (Notes)`: When a paper is `1 = include` and has no special screening notes, leave blank (`None`).
+  - **Unreported Metrics / Descriptive Stats:**
+    - If demographics (Age, % Female, Tenure) or table statistics (Mean, SD, Alpha) are not reported in the paper/table, leave them as clean blank cells (`None`) rather than cluttering with dummy `999` or `"Not Reported"` strings.
+  - **Excluded Papers (Code 0):**
+    - For excluded papers, record bibliographic metadata, exclusion judgment/reason, and verbatim evidence in Cols 1–16. Leave measurement and effect size columns (Cols 17–50 or Cols 27–50) as clean BLANK cells (`None`), mirroring Paper #66 in `49_53_66.xlsx`.
 
 ---
 
