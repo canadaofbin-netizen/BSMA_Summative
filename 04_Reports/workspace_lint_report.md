@@ -5,7 +5,7 @@
 
 - **Critical Errors:** 0
 - **Warnings:** 1
-- **Passed Checks:** 8
+- **Passed Checks:** 7
 
 > [!WARNING]
 > **WARNINGS DETECTED:** Review and resolve the flagged warnings to maintain project hygiene.
@@ -16,17 +16,17 @@
 |---|---|---|
 | Excel Data Integrity | 627 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
-### [INFO] (1)
+### [INFO] (2)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
+| Workspace Hygiene | Scratch directory contains 5 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
 
-### [PASS] (8)
+### [PASS] (7)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Workspace Hygiene | Scratch directory is clean (0 items) |  |
 | Workspace Hygiene | Root directory zero-pollution and hygiene verified. |  |
 | Academic Papers Registry | All 701 Academic Papers perfectly present and conform to '[ID] Author (Year) - Title.pdf' |  |
 | Excel Data Integrity | Master sheet has exact 50-column full-extraction structure. |  |

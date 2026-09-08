@@ -5,11 +5,27 @@ description: Automates the extraction of statistical data from included PDF pape
 
 # Skill: Extract Measures
 
-When triggered, you must execute the following automated workflow to extract measurement details from an academic paper.
-> **PREREQUISITE:** This paper has already passed rigorous screening and is **CONFIRMED for inclusion**.
-> **EXCEPTION (Exclusion Authority):** Even though included, if you discover a clear Level of Analysis violation, Construct Homonymy, or Ambiguous Diagonal during data extraction, you possess explicit authority to Fast-Fail and return the corresponding fatal string code (e.g., `[LoA_VIOLATION]`) to exclude the data.
+When triggered, you must execute the following automated Two-Tier Verification workflow to verify screening status and extract measurement details from an academic paper.
 
-## 1. 4-Node Subagent Invocation (Parallel Execution)
+## 1. Two-Tier Verification Workflow
+
+### Node 0: Pre-Extraction Screening Gate (Mandatory Pre-Flight Filter)
+- **Objective:** Prior to deploying measure extraction nodes, re-evaluate and verify the paper's eligibility using the authoritative multi-tier decision sequence defined in `include_exclude_pipeline/references/screening_rules_core.md`.
+- **Workflow:**
+  1. Evaluate the PDF against the Screening Hierarchy:
+     - **Tier 0 (Fast-Exit):** Qualitative-only, SEM-only path models lacking correlation matrices, non-English.
+     - **Tier 1 (Override Gates):** Leader BSB (Screening Rule 1), Intra-Organizational BSB (Screening Rule 2), Individual Employee Empirical BSB (Screening Rule 3).
+     - **Tier 2 (Traps & Guardrails):** Level of Analysis (Exclude Team/Firm/Group aggregation, e.g., $N = \text{teams}$), Construct Homonymy (attitudes, branch identification, internal meetings are NOT BSB), Key Informant proxies, Purposive action vs mere communication.
+  2. **Branching Decision:**
+     - **If Verdict is `0 = exclude`:**
+       - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Nodes 1 through 4 (preventing token waste, cognitive overload, and forced miscoding).
+       - Return fatal string: `[SCREENING_EXCLUDED: <Reason>]`.
+       - Record in Excel: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion, Col 16 = Verbatim quotes (no ellipses).
+       - Terminate processing for this paper.
+     - **If Verdict is `1 = include`:**
+       - Confirmed empirical BSB study! Proceed immediately to spawn the **4-Node Extraction Pipeline (Nodes 1 to 4)** below.
+
+## 2. 4-Node Subagent Invocation (Parallel Execution for Confirmed Papers)
 Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in parallel to prevent LLM cognitive overload and ensure 100% Zero-Defect extraction.
 **CRITICAL RULE:** Do NOT extract bibliometrics (Title, Author, Year, Country, N, etc.). They are already coded manually.
 
@@ -43,6 +59,7 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
   - **LoA CIRCUIT BREAKER:** If the Methodology text states the sample is aggregated at the Team/Firm level, return `[LoA_VIOLATION]`.
   - Use `<anchor_inference>` block to infer the `table_anchor_name` from the text to match the table's abbreviation.
   - Use `<target_analysis>` block to classify the variable. If the measure explicitly targets 'inter-boundary' entities (e.g., outside the department, other teams, customers, external organizations), classify as `"BS"`. If intra-team, vague, or an outcome variable, strictly classify as `"NB"`.
+  - **ZERO-BSB CIRCUIT BREAKER:** If after analyzing all candidate variables, ZERO variables qualify as `"BS"` (`count(BS) == 0`), do NOT guess or force non-BS variables (e.g., attitudes, unit identification, internal meetings) into BS slots. Return `[NO_BSB_CONSTRUCT_VIOLATION]`.
   - Extract `items`, `min`, `max`. 
   - For `reliability`, use a polymorphic object with `type` (Alpha, Omega, CR, Not_Applicable, Not_Reported) and `value`. For objective/formative metrics (Firm Size, Age), type MUST be `"Not_Applicable"` and value `999`.
   - **VERBATIM RULE:** `source_quote` must be the exact sentence. Escape quotes with `\"` and newlines with `\n`. `specific_measure` MUST be an exact, unmodified substring of `source_quote`.
@@ -64,12 +81,13 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 }
 "
 
-## 2. STRICT JSON ONLY & Hand-off
+## 3. STRICT JSON ONLY & Hand-off
 - Wait asynchronously for all 4 subagents.
-- If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
+- If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
+  - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: No effect size of interest` (or `Construct Homonymy`) and inject verbatim evidence from the Measures text into Col 16.
 - Otherwise, merge the 4 valid JSON responses into a single cohesive payload and return it to the Orchestrator for Validation.
 
-## 3. Strict Domain Guardrails
+## 4. Strict Domain Guardrails
 
 **[Originally AGENTS.md §C — relocated for context-window optimization]**
 **Extraction Rule 1: Zero-Order Correlation Preference & Latent Handling:** When extracting correlations, you are strictly forbidden from extracting standardized betas ($\beta$), path coefficients, partial correlations, or correlations with regression residuals from regression tables. You must prioritize extracting raw observed correlations from "Means, Standard Deviations, and Correlations" square matrices. **Latent Exception:** If the article ONLY provides correlations based on latent variables (e.g., CFA/SEM), you MUST STILL EXTRACT the reported value, BUT you must clearly write "Based on latent variables" in the Notes section for that effect size. Do NOT reject the paper just because correlations are latent.
@@ -92,7 +110,16 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 **[Added via Rule 9 Feedback]**
 **Extraction Rule 6: Sub-scale Item & Reliability Decomposition (Sub-dimension Mapping):** When a global construct is reported in the methodology text (e.g., "COBSBs with 13 items") but the correlation matrix breaks it down into multiple sub-scales/sub-dimensions (e.g., Service Delivery, Internal Influence), you MUST NOT blindly duplicate the global item count or global reliability across all sub-dimensions. The Text Analyzer and Orchestrator must actively parse the text to decompose and map the exact item counts (e.g., 5, 4, 4 instead of 13) and specific reliabilities to each corresponding sub-dimension. If the text does not specify the decomposed numbers, enforce the Zero Guesswork Policy (999).
 
-## 4. Cross-References (Global DNA)
+**[Added via Extraction Upgrade]**
+**Extraction Rule 7: Sub-dimension vs. Global Composite Extraction Protocol:** When a study provides both a global composite BSB score (e.g., Tushman gatekeeping BSA combining intra- and extra-unit communication) and an independent external communication sub-facet (e.g., Extraunit Communication):
+(a) Prioritize extracting the pure external boundary-spanning facet (`External Communication`) as the primary BSB measure.
+(b) If the global composite BSB is also extracted, it must be explicitly labeled with `"Global composite score"` in Col 50 (Notes) to preserve meta-analytic independence.
+(c) Purely intra-unit communication (within the team/department) must strictly remain classified as `"NB"`.
+
+**[Added via Extraction Upgrade]**
+**Extraction Rule 8: Subagent Quota & Local Python Fallback Protocol:** If `invoke_subagent` fails due to API rate limits or quota exhaustion (`RESOURCE_EXHAUSTED 429`), the Orchestrator must immediately execute an isolated local Python script using `fitz` (PyMuPDF) to extract the PDF text and correlation tables, maintaining 100% operational continuity without halting the pipeline.
+
+## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Zero Guesswork Policy):** This is why we strictly enforce `999` and `"Not Reported"` in the JSON schemas above. Do not deviate.
 - **Rule 9 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
