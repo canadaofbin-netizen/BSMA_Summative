@@ -27,3 +27,14 @@ This document defines the strict data type policies, template schemas, and evide
 - **Maximum Multi-Section Evidence:** Collect the maximum evidence possible from multiple sections (Abstract, Participants, Measures, Discussion) to robustly prove the sample type or exclusion reason.
 - **Exact Note Format:** Use brackets to indicate the section of each quote:  
   `[Reason summary]. Verbatim Evidence: "[Section 1] <exact quote 1>" [Section 2] "<exact quote 2>"`
+
+---
+
+## 4. Verbatim Variable & Measure Naming Standards (Rule 14)
+- **Table Axis Variable Name Fidelity (Cols 41 & 45):** 
+  - Variable names for Boundary Spanning Behavior (Col 41) and Non-BS Variables (Col 45) MUST character-for-character preserve the exact name, numeric prefix, and abbreviation as printed in the correlation matrix axis or table header (e.g., `"1. BSA"`, `"Ext. Comm."`, `"External Representation"`).
+  - **Prohibition of Post-Hoc Normalization:** NEVER paraphrase, expand, translate, or "beautify" table variable names (e.g., never arbitrarily convert `"Ext. Comm."` to `"External Communication Behavior"`).
+- **Methodology Specific Measure Substring Fidelity (Cols 32 & 39):**
+  - The `Specific Measure Used` field for BSB (Col 32) and Non-BS Variables (Col 39) MUST be an exact, unmodified substring of the methodology quote (`source_quote`), capturing the precise validated instrument or scale author citation (e.g., `"Bettencourt et al. (2005)"`, `"Rizzo, House, and Lirtzman (1970)"`).
+  - Never guess or construct synthetic instrument names when the author's exact phrasing is available in the text.
+

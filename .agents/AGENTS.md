@@ -26,7 +26,7 @@ You must strictly obey the core orchestration rules and enforce all specialized 
 
 All operations must strictly adhere to the modularized domain rule files:
 - [Rule: Workspace & Directory Hygiene](file:///.agents/rules/workspace_hygiene.md) - PDF naming format `[ID] Author (Year) - Title.pdf`, zero root pollution, scratch containment.
-- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Zero Guesswork Policy (`999`/`"Not Reported"`), 50-column master schema, verbatim evidence without `...` ellipses.
+- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Zero Guesswork Policy (`999`/`"Not Reported"`), 50-column master schema, verbatim evidence without `...` ellipses, and verbatim variable/measure naming (Rule 14).
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Immutable vault protection, frozen baselines, validation terminology, rollback backups, error logging.
 
 ---
@@ -35,7 +35,7 @@ All operations must strictly adhere to the modularized domain rule files:
 
 ### Rules (`.agents/rules/`)
 - [Rule: Workspace & Directory Hygiene](file:///.agents/rules/workspace_hygiene.md) - Enforces 01_Academic_Papers PDF naming, zero root pollution, and scratch directory containment.
-- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Zero Guesswork (999), 50-column extraction schema, and verbatim evidence formatting.
+- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Zero Guesswork (999), 50-column extraction schema, verbatim evidence, and verbatim variable naming (Rule 14).
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Protects immutable vaults, defines validation terminology, and governs rollback backups.
 
 ### Skills (`.agents/skills/`)
