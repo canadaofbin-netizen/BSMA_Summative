@@ -67,7 +67,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 ### Specialist B: Table Matrix Specialist (`boundary_spanning_matrix` — Cols 41–50)
 - **Scope & Focus:** ONLY the "Means, Standard Deviations, and Correlations" square matrix table and its immediate notes.
 - **Objectives:**
-  1. **Stage 1 (CoT Matrix Reasoning):** Output a `<matrix_reasoning>` block identifying table number, lower vs. upper diagonal (zero-order vs. corrected/partial). If ambiguous, return fatal code `[AMBIGUOUS_MATRIX_DIAGONAL]`.
+  1. **Stage 1 (CoT Matrix Reasoning):** Output a `<matrix_reasoning>` block identifying table number, manuscript/PDF page number, lower vs. upper diagonal (zero-order vs. corrected/partial). If ambiguous, return fatal code `[AMBIGUOUS_MATRIX_DIAGONAL]`.
   2. **Circuit Breakers:**
      - **LATENT CIRCUIT BREAKER:** If matrix is CFA/SEM latent without raw zero-order correlations, record latent note or return `[LATENT_CORRELATION_VIOLATION]`.
      - **LoA CIRCUIT BREAKER:** If table notes reveal group/team aggregation ($N = \text{teams}$), return `[LoA_VIOLATION]`.
@@ -75,20 +75,24 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   4. **Table Axis Fidelity & Index Pruning (Rule 14):** Copy substantive variable names and abbreviations into `table_anchor_name` character-for-character (e.g., `"External Communication"`, `"Ext. Comm."`, `"Internal COBSB"`). Automatically prune purely table-indexing numeric prefixes (e.g., `"1. "`, `"10. "`). NEVER paraphrase, translate, or normalize the construct wording.
   5. **Descriptive Stats:** Extract `mean`, `sd`, and reliability (alpha) if printed in table or diagonal.
   6. **Zero-Order Correlations ($r$):** Extract raw correlations between variable pairs.
-  7. **CELL PROOF AUDITABILITY (Extraction Rule 9):** For every correlation, extract `cell_proof` with exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., `"-0.24**"`).
+  7. **CELL PROOF & PROVENANCE AUDITABILITY (Extraction Rule 9):** For every correlation, extract `cell_proof` containing `table_number`, `table_page_number`, exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., `"-0.24**"`). If the matrix is based on latent variables, extract `latent_evidence_quote` (verbatim footnote or text sentence). If footnotes report sample size discrepancies or controls, extract `table_footnote_quote`.
 - **Prompt Blueprint:**
   "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
-  - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number and lower vs. upper diagonal structure.
+  - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number, table page number, and lower vs. upper diagonal structure.
   - Drop all demographic variables (Age, Gender, Tenure, Education).
   - Prune table-indexing numbers (e.g., '1. ', '10. ') while strictly copying exact variable construct names/symbols from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
   - Extract mean, sd, and table-reported reliability for each variable.
   - Extract zero-order correlations mapping var1_anchor and var2_anchor.
-  - CELL PROOF RULE: For every correlation, provide cell_proof with row_header_quote, col_header_quote, and raw_cell_value with asterisks.
-  Return JSON strictly matching this schema (No Markdown, 999 for missing numbers):
+  - CELL PROOF & PROVENANCE: For every correlation, provide cell_proof with table_number, table_page_number, row_header_quote, col_header_quote, and raw_cell_value with asterisks. If correlations are latent variables or have special footnotes, provide latent_evidence_quote or table_footnote_quote verbatim.
+  Return JSON strictly matching this schema (No Markdown, 999 for missing numbers, null for missing strings):
   {
     \"table_number\": \"Table 2\",
+    \"table_page_number\": 151,
     \"listwise_n\": 253,
     \"is_transformed\": false,
+    \"is_latent\": false,
+    \"latent_evidence_quote\": null,
+    \"table_footnote_quote\": null,
     \"variables\": [
       {
         \"var_index\": 1,
@@ -104,8 +108,10 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"var2_anchor\": \"Role Ambiguity\",
         \"r\": -0.24,
         \"cell_proof\": {
-          \"row_header_quote\": \"2. Role Ambiguity\",
-          \"col_header_quote\": \"1. External Communication\",
+          \"table_number\": \"Table 2\",
+          \"table_page_number\": 151,
+          \"row_header_quote\": \"Role Ambiguity\",
+          \"col_header_quote\": \"External Communication\",
           \"raw_cell_value\": \"-0.24**\"
         }
       }
@@ -197,7 +203,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         - Cols 41–44: BSB Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
         - Cols 45–48: Non-BS Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
         - Col 49: Correlation $r_{ij}$ from Specialist B.
-        - Col 50: Notes (Composite notes + Cell Proof audit trail).
+        - Col 49: Correlation $r_{ij}$ from Specialist B.
+        - Col 50: Notes (Strictly formatted per Rule 9: `Table X (p. Y), Row: <row>, Col: <col>, Raw: <val>` plus pipe-delimited verbatim evidence quotes for any methodological flags, e.g. `| Latent correlation: [<Location>] "<Quote>"` or `| Global composite: [<Location>] "<Quote>"`).
     - Enforce Rule 1 Dual Missing Data Protocol: integer `999` for missing numeric metrics, clean blank (`None`) for non-applicable text fields.
 
 ## 3. STRICT JSON ONLY & Hand-off
@@ -208,38 +215,29 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 
 ## 4. Strict Domain Guardrails
 
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 1: Zero-Order Correlation Preference & Latent Handling:** When extracting correlations, you are strictly forbidden from extracting standardized betas ($\beta$), path coefficients, partial correlations, or correlations with regression residuals from regression tables. You must prioritize extracting raw observed correlations from "Means, Standard Deviations, and Correlations" square matrices. **Latent Exception:** If the article ONLY provides correlations based on latent variables (e.g., CFA/SEM), you MUST STILL EXTRACT the reported value, BUT you must clearly write "Based on latent variables" in the Notes section for that effect size. Do NOT reject the paper just because correlations are latent.
+**Extraction Rule 1: Zero-Order Correlation Preference & Latent Handling:** When extracting correlations, you are strictly forbidden from extracting standardized betas ($\beta$), path coefficients, partial correlations, or correlations with regression residuals from regression tables. You must prioritize extracting raw observed correlations from "Means, Standard Deviations, and Correlations" square matrices. **Latent Exception:** If the article ONLY provides correlations based on latent variables (e.g., CFA/SEM), you MUST STILL EXTRACT the reported value, BUT you must document it in Col 50 Notes with the verbatim table note or text quote: `| Latent correlation: [<Location>] "<Quote>"`. Do NOT reject the paper just because correlations are latent.
 
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
-**Extraction Rule 2: Matrix-Specific N Guardrail:** When extracting the Sample Size ($N$), DO NOT blindly trust the $N$ stated in the Abstract or Methodology text. You MUST prioritize the "Listwise N" (effective sample size) explicitly printed at the bottom of the Correlation Matrix (e.g., in table notes). If they differ, the table's $N$ takes absolute precedence.
+**Extraction Rule 2: Matrix-Specific N Guardrail:** When extracting the Sample Size ($N$), DO NOT blindly trust the $N$ stated in the Abstract or Methodology text. You MUST prioritize the "Listwise N" (effective sample size) explicitly printed at the bottom of the Correlation Matrix (e.g., in table notes). If they differ, the table's $N$ takes absolute precedence, and the footnote quote must be documented in Col 50 Notes.
 
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
 **Extraction Rule 3: Pure Number Enforcement:** When extracting correlation values ($r$) or descriptive statistics, you MUST strictly strip all significance asterisks (e.g., `*`, `**`) and alphabetical letters from numerical values (e.g., convert `0.45**` to `0.45`). Return pure floating-point numbers only.
 
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
 **Extraction Rule 4: 3-Specialist Swarm Architecture (Study/Sample, Matrix, Measures):** You must utilize a specialized 3-Specialist Subagent Swarm (`study_sample_descriptor`, `boundary_spanning_matrix`, `measure_descriptor`) followed by deterministic Python Cartesian integration to aggressively prevent cognitive overload and ensure 100% data integrity across all 50 columns.
 
-**[Originally AGENTS.md §C — relocated for context-window optimization]**
 **Extraction Rule 5: Physical Excel Isolation (4-Sheet Rule):** Data must be inserted into one of 4 isolated sheets (Raw_Metrics, Transformed_Metrics, Imputed_Metrics, Salami_Review_Queue) depending on its `is_transformed`, `is_imputed`, and dataset fingerprint flags to maintain 100% purity of the zero-order `Raw_Metrics`.
 
 - **SEM-only Data Warning (Extraction Rule 1 supplement):** If a paper relies entirely on SEM path coefficients and does NOT provide a zero-order correlation matrix (even latent), it must be excluded for lacking extractable effect sizes. Do NOT confuse partial rectangular cross-correlation tables with full square correlation matrices.
 
 
-**[Added via Rule 9 Feedback]**
 **Extraction Rule 6: Sub-scale Item & Reliability Decomposition (Sub-dimension Mapping):** When a global construct is reported in the methodology text (e.g., "COBSBs with 13 items") but the correlation matrix breaks it down into multiple sub-scales/sub-dimensions (e.g., Service Delivery, Internal Influence), you MUST NOT blindly duplicate the global item count or global reliability across all sub-dimensions. The Text Analyzer and Orchestrator must actively parse the text to decompose and map the exact item counts (e.g., 5, 4, 4 instead of 13) and specific reliabilities to each corresponding sub-dimension. If the text does not specify the decomposed numbers, enforce the Dual Missing Data Protocol (`999`).
 
-**[Added via Extraction Upgrade]**
 **Extraction Rule 7: Sub-dimension vs. Global Composite Extraction Protocol:** When a study provides both a global composite BSB score (e.g., Tushman gatekeeping BSA combining intra- and extra-unit communication) and an independent external communication sub-facet (e.g., Extraunit Communication):
 (a) Prioritize extracting the pure external boundary-spanning facet (`External Communication`) as the primary BSB measure.
-(b) If the global composite BSB is also extracted, it must be explicitly labeled with `"Global composite score"` in Col 50 (Notes) to preserve meta-analytic independence.
+(b) If the global composite BSB is also extracted, it must be explicitly labeled with `| Global composite: [<Location>] "<exact methodology sentence proving formula/rank combination>"` in Col 50 (Notes) to preserve meta-analytic independence.
 (c) Purely intra-unit communication (within the team/department) must strictly remain classified as `"NB"`.
 
-**[Added via Extraction Upgrade]**
 **Extraction Rule 8: Subagent Quota & Local Python Fallback Protocol:** If `invoke_subagent` fails due to API rate limits or quota exhaustion (`RESOURCE_EXHAUSTED 429`), the Orchestrator must immediately execute an isolated local Python script using `fitz` (PyMuPDF) to extract the PDF text and correlation tables, maintaining 100% operational continuity without halting the pipeline.
 
-**[Added via Data Integrity Upgrade]**
-**Extraction Rule 9: Verbatim Cell Proof & Items Evidence Anchoring:** All extracted correlation values ($r$) and scale metrics (items count, scale anchors) must be accompanied by raw verbatim proofs (`cell_proof` with `raw_cell_value`, `row_header_quote`, `col_header_quote` and `items_quote` with the exact sentence describing the scale). Truncation with ellipses (`...`) is strictly forbidden. This ensures 100% auditability against the source PDF without manual re-reading.
+**Extraction Rule 9: Verbatim Cell Proof & Provenance Anchoring (Col 50 Standard):** All extracted correlation values ($r$) and scale metrics must be accompanied by raw verbatim proofs. Every Col 50 cell must start with `Table X (p. Y), Row: <row_header_quote>, Col: <col_header_quote>, Raw: <raw_cell_value>`. When special conditions exist (latent correlations, global composite scores, sample size discrepancies, partial correlations), a pipe-delimited verbatim quote from the table note or methodology text must be appended (`| <Flag>: [<Location>] "<Quote>"`). Truncation with ellipses (`...`) is strictly forbidden. This ensures 100% auditability against the source PDF in under 3 seconds without manual page scanning.
 
 **[Added via Data Integrity Upgrade]**
 **Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` for numeric and `None` (blank) for text, and (5) Atomic Excel Commit.

@@ -200,3 +200,12 @@ git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
    - Renumbered `vault_security.md` rules to Rules 21–26 to eliminate rule numbering collisions with `data_integrity.md` (Rule 14 and Rule 20).
    - Entire rule system across `.agents/rules/` now possesses 100% unique rule numbers.
 
+6. **Effect Size Coordinates, Provenance & Verbatim Audit Protocol (Rule 9 / Col 50 Notes):**
+   - Standardized Col 50 with mandatory physical coordinates: `Table X (p. Y), Row: <row_header>, Col: <col_header>, Raw: <raw_value>`.
+   - Strictly prohibited naked labels (`"Based on latent variables"`, `"Global composite score"`).
+   - Enforced Rule 13 verbatim quote provenance for all methodological flags:
+     - Latent correlations: `| Latent correlation: [<Table/Page>] "<exact table note or text quote>"`
+     - Global composite scores: `| Global composite: [<Section, p. Y>] "<exact formula/rank derivation quote>"`
+     - Sample N footnotes: `| Sample N footnote: [<Table Footnote>] "<exact effective N footnote quote>"`
+   - Updated all rows across `70_94_109.xlsx` and `49_53_66.xlsx` to full provenance compliance.
+

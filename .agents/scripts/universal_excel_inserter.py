@@ -311,17 +311,39 @@ def route_and_insert_data(excel_path, payload):
 
     # 5. Cartesian Product (N x M pairs)
     pairs = []
+    latent_quote = payload.get("latent_evidence_quote")
+    footnote_quote = payload.get("table_footnote_quote")
+
     for bs in bs_vars:
+        composite_quote = bs.get("composite_quote")
         for nb in nb_vars:
             r_val = 999
-            cell_proof = None
+            cell_proof_note = None
             for corr in correlations:
                 v1 = corr.get("var1_anchor", "")
                 v2 = corr.get("var2_anchor", "")
                 if (smart_anchor_match(bs["anchor"], v1) and smart_anchor_match(nb["anchor"], v2)) or \
                    (smart_anchor_match(bs["anchor"], v2) and smart_anchor_match(nb["anchor"], v1)):
                     r_val = sanitize_numeric(corr.get("r"))
-                    cell_proof = corr.get("cell_proof")
+                    cp = corr.get("cell_proof")
+                    if cp and isinstance(cp, dict):
+                        t_num = cp.get("table_number", payload.get("table_number", "Table"))
+                        t_page = cp.get("table_page_number", payload.get("table_page_number"))
+                        page_str = f" (p. {t_page})" if t_page else ""
+                        row_h = cp.get("row_header_quote", "")
+                        col_h = cp.get("col_header_quote", "")
+                        raw_v = cp.get("raw_cell_value", "")
+                        base_str = f"{t_num}{page_str}, Row: {row_h}, Col: {col_h}, Raw: {raw_v}"
+                        flags = []
+                        if latent_quote:
+                            flags.append(f"Latent correlation: {latent_quote}")
+                        if composite_quote:
+                            flags.append(f"Global composite: {composite_quote}")
+                        if footnote_quote:
+                            flags.append(f"Sample N footnote: {footnote_quote}")
+                        cell_proof_note = base_str + (" | " + " | ".join(flags) if flags else "")
+                    elif cp and isinstance(cp, str):
+                        cell_proof_note = cp
                     break
 
             pair_row = [
@@ -331,8 +353,8 @@ def route_and_insert_data(excel_path, payload):
                 nb["items"], nb["min"], nb["max"], None, nb["specific_measure"], nb["anchor"], nb["mean"], nb["sd"], nb["reliability"],
                 # Correlation (Col 36)
                 r_val,
-                # Cell Proof metadata
-                cell_proof
+                # Cell Proof metadata (Col 50 Notes)
+                cell_proof_note
             ]
             pairs.append(pair_row)
 

@@ -56,3 +56,21 @@ This document defines the strict data type policies, template schemas, and evide
 - **Strict Prohibition of Pandas Flat Header Exports:** NEVER use raw `pandas.DataFrame.to_excel()` to export or overwrite coding sheets. Doing so treats merged/empty cells in Row 1 as missing column labels, injecting corrupted `'Unnamed: X'` headers and destroying the 3-tier hierarchy.
 - **Template Inheritance via OpenPyXL:** All new or updated extraction sheets MUST be initialized via `excel_template_util.py` or cloned from the canonical template `03_Coding_Sheets/49_53_66.xlsx`, copying merged cell ranges, fonts, fills, alignments, and column dimensions with openpyxl.
 
+---
+
+## 6. Effect Size Coordinates, Provenance & Verbatim Audit Protocol (Rule 9 / Col 50 Notes)
+To ensure that any researcher can cross-verify effect sizes directly against the source PDF in under 3 seconds without manual page scanning, **Col 50 (Notes)** must strictly follow this unified provenance schema:
+- **Mandatory Table & Page Coordinate Prefix:** Every extracted correlation MUST begin with its exact physical table number and manuscript/PDF page:  
+  `Table X (p. Y), Row: <row_header_quote>, Col: <col_header_quote>, Raw: <raw_cell_value>`
+- **Mandatory Verbatim Provenance for Methodological Flags (Rule 13 Integration):** When special methodological conditions occur, a pipe (`|`) delimiter MUST be appended followed by the explicit flag and the exact, character-for-character verbatim sentence or footnote from the paper proving the condition:
+  - **Latent Variable Correlation:** When correlations are based on CFA/SEM latent constructs rather than raw observed scores:  
+    `... | Latent correlation: [<Table/Page/Section>] "<exact verbatim sentence or footnote proving latent structure/AVE diagonal>"`
+  - **Global Composite BSB Score:** When the measure combines multiple sub-dimensions into an overall composite score:  
+    `... | Global composite: [<Section, p. Y>] "<exact verbatim sentence defining how the composite/mean rank was calculated>"`
+  - **Sample Size / Pairwise N Discrepancy:** When matrix sample size differs from the text or is a pairwise range:  
+    `... | Sample N footnote: [<Table Footnote>] "<exact verbatim footnote sentence detailing effective N>"`
+  - **Partial / Imputed Correlation:** When correlations control for covariates or use imputed data:  
+    `... | Partial correlation: [<Table Footnote>] "<exact verbatim footnote explaining controls>"`
+- **Prohibition of Naked Labels:** Never enter naked flags (e.g., writing only `"Based on latent variables"` or `"Global composite score"`) without the corresponding table, page, and verbatim evidence quote.
+
+
