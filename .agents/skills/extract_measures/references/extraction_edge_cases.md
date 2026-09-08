@@ -44,7 +44,7 @@
 - **Mandatory Guardrail:**
   1. Do NOT blindly assign 13 items and the global $\alpha$ to all three sub-dimensions.
   2. Decompose the items based on the text (e.g., External Representation: 5 items; Internal Influence: 4 items; Service Delivery: 4 items).
-  3. If the text does NOT report decomposed item counts or reliabilities for each sub-dimension, enforce the **Zero Guesswork Policy (`999`)**.
+  3. If the text does NOT report decomposed item counts or reliabilities for each sub-dimension, enforce the **Dual Missing Data Protocol (`999`)**.
 
 ### Trap 4: Demographics and Objective Variable Pruning
 - **Pattern:** Correlation matrices frequently include control variables such as Age, Gender, Organizational Tenure, Education, and Firm Size.

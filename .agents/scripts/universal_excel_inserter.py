@@ -160,8 +160,8 @@ def sanitize_numeric(val, default=999):
     except (ValueError, TypeError):
         return default
 
-def sanitize_text(val, default="Not Reported"):
-    """Strictly coerce missing or placeholder strings to 'Not Reported'."""
+def sanitize_text(val, default=None):
+    """Strictly coerce missing or placeholder strings to None (clean blank in Excel)."""
     if val is None:
         return default
     val_str = str(val).strip()
@@ -172,13 +172,13 @@ def sanitize_text(val, default="Not Reported"):
 def sanitize_reliability(rel_dict):
     """Normalize polymorphic reliability object: {'type': ..., 'value': ...}."""
     if isinstance(rel_dict, dict):
-        rel_type = sanitize_text(rel_dict.get("type"), default="Not_Reported")
+        rel_type = sanitize_text(rel_dict.get("type"), default=None)
         rel_val = sanitize_numeric(rel_dict.get("value"), default=999)
         return {"type": rel_type, "value": rel_val}
     elif isinstance(rel_dict, (int, float)):
         return {"type": "Alpha", "value": sanitize_numeric(rel_dict, default=999)}
     else:
-        return {"type": "Not_Reported", "value": 999}
+        return {"type": None, "value": 999}
 
 # ============================================================
 # Layer 5: Token-Aware Anchor Reconciliation & Safe Matching
@@ -326,9 +326,9 @@ def route_and_insert_data(excel_path, payload):
 
             pair_row = [
                 # BS Variables (Cols 18-26)
-                bs["items"], bs["min"], bs["max"], "Not Reported", bs["specific_measure"], bs["anchor"], bs["mean"], bs["sd"], bs["reliability"],
+                bs["items"], bs["min"], bs["max"], None, bs["specific_measure"], bs["anchor"], bs["mean"], bs["sd"], bs["reliability"],
                 # NB Variables (Cols 27-35)
-                nb["items"], nb["min"], nb["max"], "Not Reported", nb["specific_measure"], nb["anchor"], nb["mean"], nb["sd"], nb["reliability"],
+                nb["items"], nb["min"], nb["max"], None, nb["specific_measure"], nb["anchor"], nb["mean"], nb["sd"], nb["reliability"],
                 # Correlation (Col 36)
                 r_val,
                 # Cell Proof metadata

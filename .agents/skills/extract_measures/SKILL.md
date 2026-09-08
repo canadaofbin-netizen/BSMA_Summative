@@ -92,7 +92,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
     \"variables\": [
       {
         \"var_index\": 1,
-        \"table_anchor_name\": \"1. External Communication\",
+        \"table_anchor_name\": \"External Communication\",
         \"mean\": 3.45,
         \"sd\": 0.82,
         \"reliability_table\": 0.88
@@ -100,8 +100,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
     ],
     \"correlations\": [
       {
-        \"var1_anchor\": \"1. External Communication\",
-        \"var2_anchor\": \"2. Role Ambiguity\",
+        \"var1_anchor\": \"External Communication\",
+        \"var2_anchor\": \"Role Ambiguity\",
         \"r\": -0.24,
         \"cell_proof\": {
           \"row_header_quote\": \"2. Role Ambiguity\",
@@ -124,11 +124,11 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   5. **BSB Measure Descriptors (Cols 27–33):**
      - `number_of_items`: integer (or `999` if not reported).
      - `min_score` / `max_score`: Likert anchors (e.g., 1 to 5, 1 to 7).
-     - `report_type`: Self-report / Supervisor-report / Peer-report / Objective / Not Reported.
+     - `report_type`: Self-report / Supervisor-report / Peer-report / Objective (leave blank if not reported).
      - `report_type_note`: Specific details if multi-source.
      - `specific_measure_used`: Exact, unmodified substring of `source_quote` capturing scale citation (Rule 14).
      - `items_quote`: Exact verbatim sentence stating number of items and anchors (strictly no ellipses per Rule 13).
-     - `reliability`: polymorphic object `{"type": "Alpha"|"Omega"|"CR"|"Not_Reported"|"Not_Applicable", "value": 0.88}`.
+     - `reliability`: polymorphic object `{"type": "Alpha"|"Omega"|"CR"|"Not_Applicable", "value": 0.88}` (if not reported, use `999` for value per Dual Missing Data Protocol).
      - `notes`: Specific notes or composite definitions (Rule 7).
   6. **Non-BS Measure Descriptors (Cols 34–40):**
      - Identical rigorous schema for all substantive non-BS variables.
@@ -147,7 +147,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   {
     \"boundary_spanning_measures\": [
       {
-        \"table_anchor_name\": \"1. External Communication\",
+        \"table_anchor_name\": \"External Communication\",
         \"number_of_items\": 6,
         \"min_score\": 1,
         \"max_score\": 7,
@@ -162,7 +162,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
     ],
     \"non_bs_measures\": [
       {
-        \"table_anchor_name\": \"2. Role Ambiguity\",
+        \"table_anchor_name\": \"Role Ambiguity\",
         \"number_of_items\": 6,
         \"min_score\": 1,
         \"max_score\": 7,
@@ -203,7 +203,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 ## 3. STRICT JSON ONLY & Hand-off
 - Wait asynchronously for all 3 subagents.
 - If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
-  - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: No effect size of interest` (or `Construct Homonymy`) and inject verbatim evidence from the Measures text into Col 16.
+  - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: No effect size of interest` (or `Construct Homonymy`). Verbatim evidence is preserved in the screening database (`BSMA_Master_Coding_Sheet.xlsx` Col 16 Notes), not in the extraction batch sheet (which blanks Cols 7-16 per Rule 19).
 - Otherwise, merge the 3 valid JSON responses via the Deterministic Integration Engine and return the complete payload to the Orchestrator for Validation.
 
 ## 4. Strict Domain Guardrails
@@ -227,7 +227,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 
 
 **[Added via Rule 9 Feedback]**
-**Extraction Rule 6: Sub-scale Item & Reliability Decomposition (Sub-dimension Mapping):** When a global construct is reported in the methodology text (e.g., "COBSBs with 13 items") but the correlation matrix breaks it down into multiple sub-scales/sub-dimensions (e.g., Service Delivery, Internal Influence), you MUST NOT blindly duplicate the global item count or global reliability across all sub-dimensions. The Text Analyzer and Orchestrator must actively parse the text to decompose and map the exact item counts (e.g., 5, 4, 4 instead of 13) and specific reliabilities to each corresponding sub-dimension. If the text does not specify the decomposed numbers, enforce the Zero Guesswork Policy (999).
+**Extraction Rule 6: Sub-scale Item & Reliability Decomposition (Sub-dimension Mapping):** When a global construct is reported in the methodology text (e.g., "COBSBs with 13 items") but the correlation matrix breaks it down into multiple sub-scales/sub-dimensions (e.g., Service Delivery, Internal Influence), you MUST NOT blindly duplicate the global item count or global reliability across all sub-dimensions. The Text Analyzer and Orchestrator must actively parse the text to decompose and map the exact item counts (e.g., 5, 4, 4 instead of 13) and specific reliabilities to each corresponding sub-dimension. If the text does not specify the decomposed numbers, enforce the Dual Missing Data Protocol (`999`).
 
 **[Added via Extraction Upgrade]**
 **Extraction Rule 7: Sub-dimension vs. Global Composite Extraction Protocol:** When a study provides both a global composite BSB score (e.g., Tushman gatekeeping BSA combining intra- and extra-unit communication) and an independent external communication sub-facet (e.g., Extraunit Communication):
@@ -256,7 +256,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Dual Missing Data Protocol):** This is why we strictly enforce `999` for missing numeric metrics and clean blank (`None`) for non-applicable text fields. `"Not Reported"` is prohibited.
-- **Rule 9 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
-- **Rule 13 (Verbatim Quote Injection):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation. *(Formerly Global Rule 30)*
+- **Core Principle 5 (Dynamic Skill Abstraction & Protection):** The Subagent Prompts provided in Section 2 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
+- **Rule 13 (Verbatim Quote Evidence Standards):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation.
 - **Measurement Edge Cases Reference:** Consult [references/extraction_edge_cases.md](file:///references/extraction_edge_cases.md) for detailed matrix and statistical trap warnings.
 

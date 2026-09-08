@@ -18,6 +18,7 @@ This document defines the strict workspace hygiene, directory isolation, and fil
 - **Zero Root Pollution:** The project root directory must remain strictly clean. Only the following files are permitted in the project root:
   - `.gitignore`
   - `desktop.ini`
+  - `README.md`
   All coding spreadsheets must reside in `03_Coding_Sheets/`. All reports must reside in `04_Reports/`.
 - **Scratch Directory Isolation:** All agents, subagents, and pipeline scripts are **STRICTLY FORBIDDEN** from creating temporary files (`.txt`, `.json`, `.py`, `.csv`, or any scratch/debug artifacts) in the root directory or inside any numbered project directory (`01_*/`, `02_*/`, `03_*/`, `04_*/`).
 - **Exclusive Temporary Destination:** ALL temporary outputs MUST be written exclusively to the `scratch/` directory.

@@ -30,6 +30,6 @@ Subagents must be injected with `references/screening_rules_core.md`.
 
 ## 6. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this pipeline, you must remember:
-- **Rule 4 (Automated Github Sync):** After running `swarm_inject.py` successfully, you MUST run git commands to backup the `BSMA_Master_Coding_Sheet.xlsx`.
+- **Core Principle 3 (Automated Github Sync):** After running `swarm_inject.py` successfully, you MUST run git commands to backup the `BSMA_Master_Coding_Sheet.xlsx`.
 - **See Screening Rule 8 (Exclusion Coding Protocol) in `references/screening_rules_core.md`**
 - **Rule 13 (Verbatim Quote Injection):** All subagent verdicts must include full verbatim evidence with no ellipsis truncation.

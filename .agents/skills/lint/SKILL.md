@@ -23,7 +23,7 @@ When the user types `/lint` or asks for a workspace/data check:
 ## 2. Four Core Audit Pillars
 
 1. **Workspace Hygiene (Rule 18):**
-   - Zero root pollution: Only `.gitignore` permitted in root.
+   - Zero root pollution: Only `.gitignore`, `desktop.ini`, and `README.md` permitted in root.
    - All Excel sheets strictly contained within `03_Coding_Sheets/`.
    - Ghost/lock files (`~$*.xlsx`, `.DS_Store`, `Thumbs.db`) detected.
    - Python bytecode/cache (`__pycache__`, `.pyc`) isolation.
@@ -37,7 +37,7 @@ When the user types `/lint` or asks for a workspace/data check:
 3. **Excel Data Integrity (Rules 1, 3, 13, 19):**
    - 50-column extraction schema strictly enforced on `03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx`.
    - Zero bold markdown (`**`) in header cells.
-   - Zero Guesswork Policy (Rule 1): Missing numbers = `999`, missing text = `"Not Reported"`.
+   - Dual Missing Data Protocol (Rule 1): Missing numbers = `999`, non-applicable text = blank (`None`). `"Not Reported"` is prohibited.
    - Verbatim evidence fidelity (Rule 13): Quotes in Col 16 (Notes) must include section indicators and forbid truncation ellipses (`...`).
 
 4. **Agent Protocols & SSOT Consistency:**
