@@ -75,7 +75,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
      - **LATENT CIRCUIT BREAKER:** If matrix is CFA/SEM latent without raw zero-order correlations, record latent note or return `[LATENT_CORRELATION_VIOLATION]`.
      - **LoA CIRCUIT BREAKER:** If table notes reveal group/team aggregation ($N = \text{teams}$), return `[LoA_VIOLATION]`.
   3. **Stage 2 (Pruning & Coordinates):** Drop demographic control variables (Age, Gender, Tenure, Education).
-  4. **Table Axis Fidelity (Rule 14):** Copy exact variable index and verbatim table axis label into `table_anchor_name` character-for-character (e.g., `"1. External Communication"`, `"Ext. Comm."`). NEVER normalize or paraphrase.
+  4. **Table Axis Fidelity & Index Pruning (Rule 14):** Copy substantive variable names and abbreviations into `table_anchor_name` character-for-character (e.g., `"External Communication"`, `"Ext. Comm."`, `"Internal COBSB"`). Automatically prune purely table-indexing numeric prefixes (e.g., `"1. "`, `"10. "`). NEVER paraphrase, translate, or normalize the construct wording.
   5. **Descriptive Stats:** Extract `mean`, `sd`, and reliability (alpha) if printed in table or diagonal.
   6. **Zero-Order Correlations ($r$):** Extract raw correlations between variable pairs.
   7. **CELL PROOF AUDITABILITY (Extraction Rule 9):** For every correlation, extract `cell_proof` with exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., `"-0.24**"`).
@@ -83,7 +83,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
   - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number and lower vs. upper diagonal structure.
   - Drop all demographic variables (Age, Gender, Tenure, Education).
-  - Copy exact variable name/symbol from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
+  - Prune table-indexing numbers (e.g., '1. ', '10. ') while strictly copying exact variable construct names/symbols from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
   - Extract mean, sd, and table-reported reliability for each variable.
   - Extract zero-order correlations mapping var1_anchor and var2_anchor.
   - CELL PROOF RULE: For every correlation, provide cell_proof with row_header_quote, col_header_quote, and raw_cell_value with asterisks.
@@ -243,7 +243,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` and `"Not Reported"`, and (5) Atomic Excel Commit.
 
 **[Added via Data Integrity Upgrade]**
-**Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the exact name, numeric prefix, and abbreviation as printed in the correlation matrix axis (e.g., `"1. BSA"`, `"Ext. Comm."`). Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
+**Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the author's exact construct name, sub-dimension phrasing (e.g., `"Internal COBSB"`, `"External COBSB"`, `"Internal Com."`, `"External Com."`), and published abbreviations (e.g., `"BSA"`, `"Org. Comm."`, `"Dual Comm."`). Leading numbers that serve solely for table row/column layout indexing (e.g., `"1. "`, `"10. "`) are automatically pruned, while the original coordinate remains preserved in `cell_proof` and Col 50 Notes. Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
 
 **[Added via Level of Analysis Aggregation Protocol Upgrade]**
 **Extraction Rule 12: Level of Analysis Aggregation Protocol:** Studies where variables or correlations represent group, team, project, or department level aggregation ($N = \text{teams/groups/projects}$, e.g., Cummings 2004 with $N=182$ Work Groups, Brion et al. 2012 with $N=73$ NPD projects evaluating project-level performance and team size) are EXCLUDED under Code 3 (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy. Quantitative effect size extraction is halted. Study/Sample Descriptors (Cols 17–26) are extracted, while Cols 27–50 are padded with `999` and `"Not Reported"` (1 single placeholder row). Col 16 explicitly documents the aggregation evidence with verbatim quotes (Rule 13).

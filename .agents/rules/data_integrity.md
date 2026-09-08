@@ -31,8 +31,9 @@ This document defines the strict data type policies, template schemas, and evide
 ---
 
 ## 4. Verbatim Variable & Measure Naming Standards (Rule 14)
-- **Table Axis Variable Name Fidelity (Cols 41 & 45):** 
-  - Variable names for Boundary Spanning Behavior (Col 41) and Non-BS Variables (Col 45) MUST character-for-character preserve the exact name, numeric prefix, and abbreviation as printed in the correlation matrix axis or table header (e.g., `"1. BSA"`, `"Ext. Comm."`, `"External Representation"`).
+- **Table Axis Variable Name Fidelity & Index Number Pruning (Cols 41 & 45):** 
+  - Variable names for Boundary Spanning Behavior (Col 41) and Non-BS Variables (Col 45) MUST character-for-character preserve the author's exact phrasing, internal/external sub-construct specifiers (e.g., `"Internal COBSB"`, `"External COBSB"`, `"Internal Com."`, `"External Com."`), and published abbreviations (e.g., `"BSA"`, `"Org. Comm."`, `"Dual Comm."`).
+  - **Table Layout Index Pruning:** Leading numbering prefixes (e.g., `"1. "`, `"2) "`, `"(3) "`, `"10. "`) that serve purely as table matrix row/column layout indices MUST be automatically pruned. Such numbers are indexing coordinates, not theoretical construct names. The full original coordinate with number is permanently preserved in Col 50 Notes / `cell_proof` (e.g., `Row: 7. Status, Col: 1`).
   - **Prohibition of Post-Hoc Normalization:** NEVER paraphrase, expand, translate, or "beautify" table variable names (e.g., never arbitrarily convert `"Ext. Comm."` to `"External Communication Behavior"`).
 - **Methodology Specific Measure Substring Fidelity (Cols 32 & 39):**
   - The `Specific Measure Used` field for BSB (Col 32) and Non-BS Variables (Col 39) MUST be an exact, unmodified substring of the methodology quote (`source_quote`), capturing the precise validated instrument or scale author citation (e.g., `"Bettencourt et al. (2005)"`, `"Rizzo, House, and Lirtzman (1970)"`).
