@@ -20,7 +20,7 @@
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Workspace Hygiene | Scratch directory contains 6 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
+| Workspace Hygiene | Scratch directory contains 15 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
 
 ### [PASS] (7)
