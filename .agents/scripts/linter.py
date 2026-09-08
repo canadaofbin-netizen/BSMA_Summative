@@ -200,6 +200,46 @@ class BSMAProjectLinter:
                 self.add_finding("PASS", category, "Zero ellipses detected in Col 16 Notes (Verbatim fidelity confirmed).")
 
             wb.close()
+
+            # Rule 20: Audit 3-Tier Hierarchical Header Protocol across coding sheets
+            batch_files = [
+                f for f in glob.glob(os.path.join(coding_dir, "*.xlsx"))
+                if not os.path.basename(f).startswith("~$")
+            ]
+            clean_3tier_sheets = []
+            unnamed_violations = []
+
+            for bf in batch_files:
+                bname = os.path.basename(bf)
+                try:
+                    b_wb = openpyxl.load_workbook(bf, data_only=True)
+                    b_ws = b_wb.active
+                    unnamed_cells = []
+                    for r in range(1, min(4, b_ws.max_row + 1)):
+                        for c in range(1, min(51, b_ws.max_column + 1)):
+                            val = str(b_ws.cell(r, c).value or "")
+                            if "unnamed" in val.lower():
+                                unnamed_cells.append(f"R{r}C{c}: '{val}'")
+                    if unnamed_cells:
+                        unnamed_violations.append((bname, unnamed_cells))
+                    elif bname != "BSMA_Master_Coding_Sheet.xlsx":
+                        clean_3tier_sheets.append(bname)
+                    b_wb.close()
+                except Exception as e:
+                    self.add_finding("WARNING", category, f"Could not inspect coding sheet '{bname}': {e}")
+
+            if unnamed_violations:
+                for bname, issues in unnamed_violations:
+                    if bname == "BSMA_Master_Coding_Sheet.xlsx":
+                        self.add_finding("INFO", category, f"Master Sheet '{bname}' contains legacy flat headers ({len(issues)} Unnamed cells).",
+                                         "Historical master sheet uses single-tier schema. Batch extraction sheets must strictly use Rule 20 3-tier structure.")
+                    else:
+                        self.add_finding("CRITICAL", category, f"Rule 20 violation in '{bname}': Contains 'Unnamed' headers in rows 1-3 ({len(issues)} instances).",
+                                         f"Samples: {issues[:5]}. Excel sheets must use canonical 3-tier headers without pandas 'Unnamed' pollution.")
+
+            if clean_3tier_sheets:
+                self.add_finding("PASS", category, f"Rule 20 canonical 3-tier headers verified in batch sheets: {clean_3tier_sheets} (zero 'Unnamed' headers).")
+
         except Exception as e:
             self.add_finding("CRITICAL", category, f"Failed to audit Master Excel sheet: {e}")
 

@@ -5,7 +5,7 @@
 
 - **Critical Errors:** 0
 - **Warnings:** 1
-- **Passed Checks:** 7
+- **Passed Checks:** 8
 
 > [!WARNING]
 > **WARNINGS DETECTED:** Review and resolve the flagged warnings to maintain project hygiene.
@@ -16,14 +16,15 @@
 |---|---|---|
 | Excel Data Integrity | 627 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
-### [INFO] (2)
+### [INFO] (3)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
 | Workspace Hygiene | Scratch directory contains 16 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
+| Excel Data Integrity | Master Sheet 'BSMA_Master_Coding_Sheet.xlsx' contains legacy flat headers (40 Unnamed cells). | Historical master sheet uses single-tier schema. Batch extraction sheets must strictly use Rule 20 3-tier structure. |
 
-### [PASS] (7)
+### [PASS] (8)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
@@ -31,6 +32,7 @@
 | Academic Papers Registry | All 701 Academic Papers perfectly present and conform to '[ID] Author (Year) - Title.pdf' |  |
 | Excel Data Integrity | Master sheet has exact 50-column full-extraction structure. |  |
 | Excel Data Integrity | No bold markdown in header cells. |  |
+| Excel Data Integrity | Rule 20 canonical 3-tier headers verified in batch sheets: ['49_53_66.xlsx', 'Full text coding sheet.xlsx', '70_94_109.xlsx'] (zero 'Unnamed' headers). |  |
 | Agent Protocols & SSOT | All 4 skills are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 3 rule modules are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | No stale directory paths detected in .agents scripts and skills. |  |

@@ -248,6 +248,9 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **[Added via Level of Analysis Aggregation Protocol Upgrade]**
 **Extraction Rule 12: Level of Analysis Aggregation Protocol:** Studies where variables or correlations represent group, team, project, or department level aggregation ($N = \text{teams/groups/projects}$, e.g., Cummings 2004 with $N=182$ Work Groups, Brion et al. 2012 with $N=73$ NPD projects evaluating project-level performance and team size) are EXCLUDED under Code 3 (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy. Quantitative effect size extraction is halted. Study/Sample Descriptors (Cols 17–26) are extracted, while Cols 27–50 are padded with `999` and `"Not Reported"` (1 single placeholder row). Col 16 explicitly documents the aggregation evidence with verbatim quotes (Rule 13).
 
+**[Added via Header Architecture Upgrade]**
+**Extraction Rule 13: Canonical 3-Tier Excel Header Protocol (Rule 20 Integration):** Whenever creating or updating Excel coding sheets (batch sheets or paper extractions), all sheets MUST be initialized via `excel_template_util.py` (inheriting from `03_Coding_Sheets/49_53_66.xlsx`). Row 1 (Section Category), Row 2 (Sub-category), and Row 3 (Leaf Column Names) must be completely preserved along with openpyxl cell styles, merged ranges, and column dimensions. Raw pandas `df.to_excel()` exports that introduce `'Unnamed'` headers are strictly prohibited. Data rows strictly begin at Row 4.
+
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Zero Guesswork Policy):** This is why we strictly enforce `999` and `"Not Reported"` in the JSON schemas above. Do not deviate.

@@ -43,6 +43,7 @@ For each paper in the batch, execute the Two-Tier verification workflow:
 - If verification returns `FATAL_REJECT`, treat it as a Fast-Fail (Abort immediately, mark as `PERMANENT_FAIL`).
 
 ## 5. 4-Sheet Excel Routing & Atomic Sync
+- **Canonical 3-Tier Header Enforcement (Rule 20):** When generating new coding sheets or batch files (e.g., `[start]_[end].xlsx`), NEVER use pandas flat export (`df.to_excel()`). Always initialize the sheet via `excel_template_util.py` to inherit the exact 3-tier header structure and styles from `03_Coding_Sheets/49_53_66.xlsx`, starting data strictly on Row 4.
 - **Excel Injection (Safe CLI Args):** ONLY if validation passed, save the merged JSON payload to a temporary file (e.g., `temp_payload.json`). Invoke `python .agents/scripts/universal_excel_inserter.py --excel 03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx --data-file temp_payload.json`. The script will handle routing to Raw, Transformed, Imputed, or Salami sheets.
 - **Atomic Sync:** The moment a paper succeeds or fails, immediately update its status and `ROLLBACK_COUNT` in `batch_queue.csv` and execute `git add .`, `git commit -m "Auto-extracted measures for [Paper ID]"`, and `git push` to save progress atomically.
 

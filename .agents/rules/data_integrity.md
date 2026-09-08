@@ -38,3 +38,14 @@ This document defines the strict data type policies, template schemas, and evide
   - The `Specific Measure Used` field for BSB (Col 32) and Non-BS Variables (Col 39) MUST be an exact, unmodified substring of the methodology quote (`source_quote`), capturing the precise validated instrument or scale author citation (e.g., `"Bettencourt et al. (2005)"`, `"Rizzo, House, and Lirtzman (1970)"`).
   - Never guess or construct synthetic instrument names when the author's exact phrasing is available in the text.
 
+---
+
+## 5. Hierarchical 3-Tier Header Protocol (Rule 20)
+- **Canonical 3-Tier Structure (Rows 1–3):** ALL Excel coding sheets (batch sheets, paper extracts, master sheets) MUST strictly implement the canonical 3-tier hierarchical header structure:
+  - **Row 1 (Section Category):** Section groupings (`Coder Initials`, `Sample ID`, `Effect size ID`, `Inclusion-Exclusion Judgment`, `Reason for Exclusion`, `Article Descriptors`, `Study/Sample Descriptors`, `Measure Descriptors`, `Effect Size`).
+  - **Row 2 (Sub-category):** Operational sub-constructs (`Boundary spanning`, `Non-boundary-spanning variable`, `Correlation r`, `Notes`).
+  - **Row 3 (Leaf Column Header):** Leaf column names (`Abstract`, `Title`, `Publication Name`, `Authors`, `Year`, ..., `Name`, `Mean`, `SD`, `Reliability (Alpha)`).
+  - **Row 4+:** Data rows strictly begin at Row 4.
+- **Strict Prohibition of Pandas Flat Header Exports:** NEVER use raw `pandas.DataFrame.to_excel()` to export or overwrite coding sheets. Doing so treats merged/empty cells in Row 1 as missing column labels, injecting corrupted `'Unnamed: X'` headers and destroying the 3-tier hierarchy.
+- **Template Inheritance via OpenPyXL:** All new or updated extraction sheets MUST be initialized via `excel_template_util.py` or cloned from the canonical template `03_Coding_Sheets/49_53_66.xlsx`, copying merged cell ranges, fonts, fills, alignments, and column dimensions with openpyxl.
+
