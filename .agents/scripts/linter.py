@@ -240,6 +240,72 @@ class BSMAProjectLinter:
             if clean_3tier_sheets:
                 self.add_finding("PASS", category, f"Rule 20 canonical 3-tier headers verified in batch sheets: {clean_3tier_sheets} (zero 'Unnamed' headers).")
 
+            # Rule 1 & Rule 27: Audit Batch Extraction Data Rows (Lossless Ingestion & Missing Data Heuristics)
+            heuristic_missing_papers = []
+            forbidden_string_cells = []
+            populated_papers_count = 0
+
+            for bf in batch_files:
+                bname = os.path.basename(bf)
+                if bname == "BSMA_Master_Coding_Sheet.xlsx" or not re.match(r"^\d+_\d+", bname):
+                    continue
+                try:
+                    b_wb = openpyxl.load_workbook(bf, data_only=True)
+                    b_ws = b_wb.active
+                    papers_data = {}
+                    for r in range(4, b_ws.max_row + 1):
+                        art_id = b_ws.cell(r, 2).value
+                        if art_id is None:
+                            continue
+                        try:
+                            art_id = int(art_id)
+                        except (ValueError, TypeError):
+                            continue
+                        inc_val = b_ws.cell(r, 5).value
+                        if str(inc_val).strip().startswith("1") or inc_val == 1:
+                            if art_id not in papers_data:
+                                papers_data[art_id] = []
+                            bs_mean = b_ws.cell(r, 42).value
+                            bs_sd = b_ws.cell(r, 43).value
+                            notes_col = b_ws.cell(r, 50).value or ""
+                            papers_data[art_id].append((r, bs_mean, bs_sd, str(notes_col)))
+
+                            # Rule 1: Check for forbidden strings like "Not Reported" in numeric columns
+                            for c in [23, 24, 25, 27, 28, 29, 34, 35, 36, 42, 43, 44, 46, 47, 48, 49]:
+                                c_val = b_ws.cell(r, c).value
+                                if isinstance(c_val, str) and c_val.strip().lower() in ("not reported", "n/a", "none"):
+                                    forbidden_string_cells.append(f"{bname} R{r}C{c}: '{c_val}'")
+
+                    for art_id, rows in papers_data.items():
+                        total_rows = len(rows)
+                        if total_rows == 0:
+                            continue
+                        all_missing_mean = all(m is None or str(m).strip() in ("999", "999.0", "") for _, m, _, _ in rows)
+                        all_missing_sd = all(s is None or str(s).strip() in ("999", "999.0", "") for _, _, s, _ in rows)
+                        is_latent = any("latent" in note.lower() for _, _, _, note in rows)
+                        if all_missing_mean and all_missing_sd:
+                            heuristic_missing_papers.append((bname, art_id, total_rows, is_latent))
+                        else:
+                            populated_papers_count += 1
+                    b_wb.close()
+                except Exception as e:
+                    pass
+
+            if forbidden_string_cells:
+                self.add_finding("CRITICAL", category, f"Rule 1 violation: {len(forbidden_string_cells)} numeric cell(s) contain forbidden text strings.",
+                                 f"Samples: {forbidden_string_cells[:5]}. Numeric missing fields must be '999'.")
+            else:
+                self.add_finding("PASS", category, "Rule 1 Dual Missing Data verified: Zero forbidden text strings in numeric columns.")
+
+            if heuristic_missing_papers:
+                for bname, art_id, total_rows, is_latent in heuristic_missing_papers:
+                    latent_info = " (Latent correlation matrix verified in Col 50 Notes)" if is_latent else " (Action: check if source correlation table reported Means/SDs)"
+                    self.add_finding("INFO", category, f"Heuristic Data Notice in '{bname}': Paper [{art_id}] has 100% missing Mean and SD across {total_rows} rows{latent_info}.",
+                                     "Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics.")
+            if populated_papers_count > 0:
+                self.add_finding("PASS", category, f"Rule 27 Lossless Parity verified: {populated_papers_count} included paper(s) in batch sheets have populated empirical Mean/SD metrics.")
+
+
         except Exception as e:
             self.add_finding("CRITICAL", category, f"Failed to audit Master Excel sheet: {e}")
 

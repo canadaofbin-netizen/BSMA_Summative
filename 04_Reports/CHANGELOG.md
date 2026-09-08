@@ -209,3 +209,20 @@ git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
      - Sample N footnotes: `| Sample N footnote: [<Table Footnote>] "<exact effective N footnote quote>"`
    - Updated all rows across `70_94_109.xlsx` and `49_53_66.xlsx` to full provenance compliance.
 
+---
+
+## V5.1 -> V5.2: Lossless Parity & Ingestion Safety Protocol (Rule 27) (2026-09-08)
+
+**Architectural & Data Loss Prevention Upgrades:**
+
+1. **Rule 27: Lossless Parity & Ingestion Safety Protocol (`data_integrity.md` Section 7):**
+   - **Prohibition of Ad-hoc Glue Code:** Strictly forbids creating one-off Python scripts in `scratch/` that assemble Excel rows using hardcoded value lists (e.g., `[var_name, 999, 999...]`). All Excel row construction and database updates must be driven by verified, schema-bound inserters (`universal_excel_inserter.py`) where fields are dynamically bound by dictionary keys.
+   - **Lossless Ingestion Guarantee:** Ensures any valid empirical statistic (Mean, SD, Sample Demographics, Reliability) extracted into JSON by subagents is never silently dropped or defaulted to `999`.
+
+2. **Automated Lossless Parity Verifier (`verify_ingestion_parity.py`):**
+   - Created `.agents/scripts/verify_ingestion_parity.py` to perform 1:1 cross-checks between subagent extraction JSON payloads and target Excel sheet cells.
+   - Automatically detects and flags critical assertions if any valid statistic in JSON becomes `999` in Excel, immediately halting pipeline commits.
+
+3. **Linter Batch Data Row & Heuristic Audit (`linter.py`):**
+   - Added Rule 1 data row scan: Verifies zero forbidden strings (`"Not Reported"`, `"N/A"`) in numeric columns of batch extraction sheets.
+   - Added Rule 27 Heuristic Missing Data Guard: Detects papers in batch sheets with 100% missing Mean and SD, reporting domain-aware notices with Col 50 latent correlation verification.

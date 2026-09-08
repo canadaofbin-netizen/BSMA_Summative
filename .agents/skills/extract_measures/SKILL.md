@@ -251,6 +251,9 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **[Added via Header Architecture Upgrade]**
 **Extraction Rule 13: Canonical 3-Tier Excel Header Protocol (Rule 20 Integration):** Whenever creating or updating Excel coding sheets (batch sheets or paper extractions), all sheets MUST be initialized via `excel_template_util.py` (inheriting from `03_Coding_Sheets/49_53_66.xlsx`). Row 1 (Section Category), Row 2 (Sub-category), and Row 3 (Leaf Column Names) must be completely preserved along with openpyxl cell styles, merged ranges, and column dimensions. Raw pandas `df.to_excel()` exports that introduce `'Unnamed'` headers are strictly prohibited. Data rows strictly begin at Row 4.
 
+**[Added via Lossless Ingestion Upgrade]**
+**Extraction Rule 14: Lossless Ingestion Parity & Ad-Hoc Glue Script Prohibition (Rule 27 Integration):** Agents are strictly forbidden from writing ad-hoc, one-off Python scripts in `scratch/` that assemble Excel rows using hardcoded value lists (e.g., `[var_name, 999, 999...]`). All Excel row construction and database updates MUST be driven by verified, schema-bound inserters (`universal_excel_inserter.py`) where fields are dynamically bound by dictionary keys. Furthermore, whenever an extraction sheet is created or updated, `verify_ingestion_parity.py` MUST be executed to guarantee zero empirical data drop between the source JSON extraction and target Excel cells. Any conversion of valid extracted metrics into `999` will abort the pipeline.
+
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Dual Missing Data Protocol):** This is why we strictly enforce `999` for missing numeric metrics and clean blank (`None`) for non-applicable text fields. `"Not Reported"` is prohibited.

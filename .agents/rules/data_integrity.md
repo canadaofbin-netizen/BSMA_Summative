@@ -73,4 +73,13 @@ To ensure that any researcher can cross-verify effect sizes directly against the
     `... | Partial correlation: [<Table Footnote>] "<exact verbatim footnote explaining controls>"`
 - **Prohibition of Naked Labels:** Never enter naked flags (e.g., writing only `"Based on latent variables"` or `"Global composite score"`) without the corresponding table, page, and verbatim evidence quote.
 
+---
+
+## 7. Lossless Parity & Ingestion Safety Protocol (Rule 27)
+- **Strict Prohibition of Ad-Hoc Glue Scripts (Universal Inserter Mandatory):** Agents are strictly forbidden from writing one-off, ad-hoc Python scripts in `scratch/` that construct Excel rows using raw hardcoded value lists (e.g., `[var_name, 999, 999...]`). All Excel row construction and database updates MUST be driven by verified, schema-bound inserters (such as `universal_excel_inserter.py`) where fields are dynamically bound by dictionary keys.
+- **Lossless Ingestion Guarantee (Zero Data Drop):** If any subagent extraction output (JSON) contains a valid empirical statistic (Mean, SD, Sample Demographics, or Reliability), that value MUST be faithfully transcribed into the target Excel cell. Under no circumstances may a known extracted numeric value be silently dropped or defaulted to `999`.
+- **Pre-Commit Lossless Parity Verification Gate:** Before committing any newly generated or modified Excel extraction sheet, the system MUST execute `verify_ingestion_parity.py` comparing the extraction JSON against the generated Excel sheet. If any valid metric extracted in the JSON is recorded as `999` in Excel, the verification MUST throw a critical assertion error, abort the commit, and quarantine the invalid payload.
+- **Heuristic Linter Guard (100% Missing Heuristic):** For all included papers in batch coding sheets, the repository auditor (`linter.py`) checks whether all effect size rows for a given paper have 100% missing (`999`) values for IV Mean/SD and DV Mean/SD. Since over 95% of published correlation tables report Means and SDs, a 100% missing rate triggers an automatic heuristic audit warning to verify whether the source paper's correlation table reported those metrics.
+
+
 
