@@ -38,7 +38,7 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
   - If you detect keywords indicating missing data imputation (e.g., 'FIML', 'imputed', 'multiple imputation'), return `{"is_imputed": true}`. Otherwise, return false for both flags."
 
 ### Node 3: Table Parser (Flat Statistics)
-- **Prompt:** "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
+- **Prompt:** "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path]. Refer to `references/extraction_edge_cases.md` for statistical traps.
   - **Stage 1 (CoT):** Before extracting data, output a `<matrix_reasoning>` block. Explicitly state whether the upper or lower diagonal contains the zero-order correlations vs. corrected/partial correlations. If ambiguous, return `[AMBIGUOUS_MATRIX_DIAGONAL]`.
   - **LATENT CIRCUIT BREAKER:** If the table title, labels, or footnotes contain keywords like 'Latent', 'AVE (Average Variance Extracted)', or 'Discriminant Validity', the values are NOT raw correlations. Return `[LATENT_CORRELATION_VIOLATION]`.
   - **Stage 2 (Pruning):** If the table contains both Global (Total) scores and Sub-facet scores for the same construct, extract ONLY the sub-facets to preserve independence. Discard the Global score.
@@ -46,21 +46,34 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
   - Drop all demographic variables (Age, Gender, Tenure). 
   - For remaining variables, copy the exact variable name/symbol from the table axis into `table_anchor_name`. Extract `mean` and `sd`. Include an `is_transformed` boolean (true if Log/Z-score was applied).
   - Extract correlations mapping `var1_anchor` and `var2_anchor` to their `table_anchor_name`.
+  - **CELL PROOF RULE:** For every correlation, extract `cell_proof` containing the exact `row_header_quote`, `col_header_quote`, and unedited `raw_cell_value` (with asterisks, e.g., '0.35**') for 100% auditability.
   - Return JSON strictly following this structure (No Markdown):
 {
   "is_transformed": false,
   "variables": [{"table_anchor_name": "Exact Axis Name", "mean": 999, "sd": 999}],
-  "correlations": [{"var1_anchor": "Exact Axis Name 1", "var2_anchor": "Exact Axis Name 2", "r": 999}]
+  "correlations": [
+    {
+      "var1_anchor": "Exact Axis Name 1",
+      "var2_anchor": "Exact Axis Name 2",
+      "r": 999,
+      "cell_proof": {
+        "row_header_quote": "Exact row header",
+        "col_header_quote": "Exact col header",
+        "raw_cell_value": "0.35**"
+      }
+    }
+  ]
 }
 "
 
-### Node 4: Text Analyzer (Delayed Classification)
-- **Prompt:** "Focus ONLY on the Methodology ('Measures' and 'Sample') section in the PDF [Path].
+### Node 4: Text Analyzer (Delayed Classification & Anchor Reconciliation)
+- **Prompt:** "Focus ONLY on the Methodology ('Measures' and 'Sample') section in the PDF [Path]. Refer to `references/extraction_edge_cases.md` for measurement traps.
   - **LoA CIRCUIT BREAKER:** If the Methodology text states the sample is aggregated at the Team/Firm level, return `[LoA_VIOLATION]`.
-  - Use `<anchor_inference>` block to infer the `table_anchor_name` from the text to match the table's abbreviation.
+  - **ANCHOR RECONCILIATION BRIDGE:** Use the candidate `table_anchor_name` list from Node 3 to reconcile textual measure labels with table axis labels, preventing fuzzy join mismatches.
   - Use `<target_analysis>` block to classify the variable. If the measure explicitly targets 'inter-boundary' entities (e.g., outside the department, other teams, customers, external organizations), classify as `"BS"`. If intra-team, vague, or an outcome variable, strictly classify as `"NB"`.
   - **ZERO-BSB CIRCUIT BREAKER:** If after analyzing all candidate variables, ZERO variables qualify as `"BS"` (`count(BS) == 0`), do NOT guess or force non-BS variables (e.g., attitudes, unit identification, internal meetings) into BS slots. Return `[NO_BSB_CONSTRUCT_VIOLATION]`.
-  - Extract `items`, `min`, `max`. 
+  - Extract `items`, `min`, `max`.
+  - **ITEMS PROOF RULE:** `items_quote` must be the exact sentence stating the number of items and scale anchor (e.g., 'measured with five items on a 7-point Likert scale').
   - For `reliability`, use a polymorphic object with `type` (Alpha, Omega, CR, Not_Applicable, Not_Reported) and `value`. For objective/formative metrics (Firm Size, Age), type MUST be `"Not_Applicable"` and value `999`.
   - **VERBATIM RULE:** `source_quote` must be the exact sentence. Escape quotes with `\"` and newlines with `\n`. `specific_measure` MUST be an exact, unmodified substring of `source_quote`.
   - Return JSON strictly following this structure (No Markdown):
@@ -68,9 +81,10 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
   "dataset_fingerprint": {"sample_origin": "Not Reported", "data_collection_year": 999},
   "measure_details": [
     {
-      "table_anchor_name": "Inferred Name",
+      "table_anchor_name": "Inferred Name Matching Node 3",
       "classification_type": "BS",
       "items": 999,
+      "items_quote": "exact sentence stating item count and anchors",
       "min": 999,
       "max": 999,
       "reliability": {"type": "Not_Reported", "value": 999},
@@ -119,8 +133,16 @@ Use the `invoke_subagent` tool to spawn FOUR specialized `research` subagents in
 **[Added via Extraction Upgrade]**
 **Extraction Rule 8: Subagent Quota & Local Python Fallback Protocol:** If `invoke_subagent` fails due to API rate limits or quota exhaustion (`RESOURCE_EXHAUSTED 429`), the Orchestrator must immediately execute an isolated local Python script using `fitz` (PyMuPDF) to extract the PDF text and correlation tables, maintaining 100% operational continuity without halting the pipeline.
 
+**[Added via Data Integrity Upgrade]**
+**Extraction Rule 9: Verbatim Cell Proof & Items Evidence Anchoring:** All extracted correlation values ($r$) and scale metrics (items count, scale anchors) must be accompanied by raw verbatim proofs (`cell_proof` with `raw_cell_value`, `row_header_quote`, `col_header_quote` and `items_quote` with the exact sentence describing the scale). Truncation with ellipses (`...`) is strictly forbidden. This ensures 100% auditability against the source PDF without manual re-reading.
+
+**[Added via Data Integrity Upgrade]**
+**Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` and `"Not Reported"`, and (5) Atomic Excel Commit.
+
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
 - **Rule 1 (Zero Guesswork Policy):** This is why we strictly enforce `999` and `"Not Reported"` in the JSON schemas above. Do not deviate.
 - **Rule 9 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
 - **Rule 13 (Verbatim Quote Injection):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation. *(Formerly Global Rule 30)*
+- **Measurement Edge Cases Reference:** Consult [references/extraction_edge_cases.md](file:///references/extraction_edge_cases.md) for detailed matrix and statistical trap warnings.
+
