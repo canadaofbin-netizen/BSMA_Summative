@@ -17,16 +17,11 @@ When the user asks you to "run the batch processor" or "extract data from papers
 For each paper in the batch, execute the Two-Tier verification workflow:
 - **Tier 1 (Node 0: Pre-Extraction Screening Gate):**
   - Re-evaluate the paper against the multi-tier screening hierarchy in `include_exclude_pipeline/references/screening_rules_core.md`.
-  - If Verdict is `0 = exclude` (e.g., Construct Homonymy, No BSB construct, Work-Life boundaries):
-    - **Fast-fail immediately.** Do NOT spawn Specialists A, B, or C (conserving API quota and preventing forced miscoding).
-    - Update Excel coding sheet: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion, Col 16 = Verbatim quote (no ellipses).
+  - If Verdict is `0 = exclude` (Construct Homonymy, Level of Analysis Aggregation, Work-Life boundaries):
+    - **Fast-fail immediately.** Do NOT spawn Specialists B or C (preventing token waste, cognitive overload, and forced miscoding).
+    - Update Excel coding sheet: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy), Col 16 = Verbatim quote documenting aggregation/exclusion (no ellipses).
+    - Extract Study/Sample Descriptors (Cols 17–26) from Sample text, and pad Cols 27–50 with `999` and `"Not Reported"` (1 single placeholder row). Halt correlation extraction to prevent ecological fallacy.
     - Mark status in `batch_queue.csv` as `EXCLUDED` and proceed to the next paper.
-  - If Verdict is `1 = include` with Team/Group Level Aggregation (Option A Protocol):
-    - Maintain literature inclusion: Col 5 = `'1 = include'`, Col 6 = `999`.
-    - Document in Col 16: `[INCLUDED IN REVIEW / EXCLUDED FROM META-EXTRACTION]` with exact verbatim quotes proving group-level unit of analysis.
-    - Extract Study/Sample Descriptors (Cols 17–26) via Specialist A.
-    - Pad Cols 27–50 with `999` and `"Not Reported"` (1 single placeholder row). Halt correlation extraction to prevent ecological fallacy.
-    - Mark status in `batch_queue.csv` as `INCLUDED_EXTRACTION_EXCLUDED` and proceed to the next paper.
   - If Verdict is `1 = include` (Individual-Level Empirical BSB):
     - Proceed to Tier 2 extraction below.
 - **Tier 2 (3-Specialist Swarm & Deterministic Integration):**

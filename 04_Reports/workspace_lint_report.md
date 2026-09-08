@@ -4,25 +4,24 @@
 ## Summary
 
 - **Critical Errors:** 0
-- **Warnings:** 3
+- **Warnings:** 2
 - **Passed Checks:** 6
 
 > [!WARNING]
 > **WARNINGS DETECTED:** Review and resolve the flagged warnings to maintain project hygiene.
 
-### [WARNING] (3)
+### [WARNING] (2)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
 | Workspace Hygiene | Ghost/Lock file detected: '03_Coding_Sheets\~$70_94_109.xlsx' | Remove temporary OS/Excel lock files. |
-| Workspace Hygiene | Ghost/Lock file detected: '03_Coding_Sheets\~$cross_val_retest_6_papers.xlsx' | Remove temporary OS/Excel lock files. |
 | Excel Data Integrity | 627 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
 ### [INFO] (2)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Workspace Hygiene | Scratch directory contains 15 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
+| Workspace Hygiene | Scratch directory contains 14 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
 
 ### [PASS] (6)

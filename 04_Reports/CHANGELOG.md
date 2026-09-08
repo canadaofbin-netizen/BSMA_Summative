@@ -144,3 +144,26 @@ git diff da6da1a 8086302 -- .agents/skills/include_exclude_pipeline/references/
 # V1 vs V3 (Strict -> Broad, Full Diff)
 git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
 ```
+
+---
+
+## V3 -> V4: 3-Specialist Extraction Swarm & Level-of-Analysis Aggregation Exclusion Protocol (2026-09-08)
+
+**Architectural & Methodological Upgrades:**
+
+1. **3-Specialist Subagent Swarm Architecture (`.agents/skills/extract_measures/SKILL.md`):**
+   - Upgraded full-text statistical extraction into three specialized roles running in parallel:
+     - **Specialist A (`study_sample_descriptor`):** Scope restricted to Sample/Participants text and table footnotes (Cols 17–26).
+     - **Specialist B (`boundary_spanning_matrix`):** Scope restricted to the correlation matrix table, extracting exact table axes, raw correlations ($r$), and verbatim `cell_proof` (Cols 41–50).
+     - **Specialist C (`measure_descriptor`):** Scope restricted to Methodology Measures text, classifying BSB vs Non-BS, scale anchors, item counts, and verbatim citations (Cols 27–40).
+   - Coordinated via a **Deterministic Integration Engine** executing Cartesian product mapping and Zero Guesswork coercion (`999`, `"Not Reported"`).
+
+2. **Rule 14 Codification (`.agents/rules/data_integrity.md`):**
+   - **Table Axis Fidelity (Cols 41 & 45):** Variable names must character-for-character preserve exact printed table axis labels, numbers, and abbreviations without post-hoc normalization or paraphrasing.
+   - **Specific Measure Substring Fidelity (Cols 32 & 39):** Scale instrument names must be exact, unmodified substrings of the methodology text quote (`source_quote`).
+
+3. **Level-of-Analysis Aggregation Exclusion Protocol (Code 3):**
+   - Studies where data or variables represent group-, team-, project-, or department-level aggregation ($N = \text{teams/groups/projects}$, e.g., Paper #66 Brion et al. 2012 with $N=73$ NPD projects; Paper #109 Cummings 2004 with $N=182$ Work Groups) are **strictly EXCLUDED under Code 3** (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy.
+   - Bivariate effect size extraction is halted. Cols 17–26 retain sample descriptors; Cols 27–50 are padded with `999` (1 single row); Col 16 records full verbatim evidence of aggregation.
+   - **Screening Rule 1 Scope Clarification:** Leader BSB override priority strictly protects rater identity (subordinate rating leader), but is explicitly subordinate to the Level of Analysis aggregation exclusion.
+

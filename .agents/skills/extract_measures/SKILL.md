@@ -16,19 +16,14 @@ When triggered, you must execute the following automated Two-Tier Verification w
      - **Tier 0 (Fast-Exit):** Qualitative-only, SEM-only path models lacking correlation matrices, non-English.
      - **Tier 1 (Override Gates):** Leader BSB (Screening Rule 1), Intra-Organizational BSB (Screening Rule 2), Individual Employee Empirical BSB (Screening Rule 3).
      - **Tier 2 (Traps & Guardrails):** Level of Analysis (Exclude Team/Firm/Group aggregation, e.g., $N = \text{teams}$), Construct Homonymy (attitudes, branch identification, internal meetings are NOT BSB), Key Informant proxies, Purposive action vs mere communication.
-  2. **Branching Decision:**
-     - **If Verdict is `0 = exclude` (No empirical BSB construct, e.g., Construct Homonymy, Work-Life boundaries):**
-       - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Specialists A, B, or C (preventing token waste, cognitive overload, and forced miscoding).
-       - Return fatal string: `[SCREENING_EXCLUDED: <Reason>]`.
-       - Record in Excel: Col 5 = `'0 = exclude'`, Col 6 = Reason for Exclusion, Col 16 = Verbatim quotes (no ellipses).
-       - Terminate processing for this paper.
-     - **If Verdict is `1 = include` with Team/Group Level Aggregation (Option A Protocol):**
-       - Genuine BSB empirical study where variables/correlations are aggregated at the Team/Group/Firm level ($N = \text{teams/groups}$, e.g., $N=182$ Work Groups).
-       - **Maintain Systematic Literature Inclusion:** Record Col 5 = `'1 = include'`, Col 6 = `999`.
-       - **Extraction Circuit Breaker:** Do NOT generate correlation pairs or extract effect sizes into the individual-level meta-analytic dataset (preventing cross-level ecological fallacy).
-       - **Col 16 Notes:** Record `[INCLUDED IN REVIEW / EXCLUDED FROM META-EXTRACTION] Level of Analysis aggregation detected (N = <N> <units>). Retained in systematic literature review pool, but excluded from quantitative meta-analytic effect size synthesis to prevent cross-level ecological fallacy. Verbatim Evidence: <exact quotes>`.
-       - **Study/Sample Descriptors (Cols 17–26):** Extract sample characteristics ($N$, Country, Design, Occupation) via Specialist A.
-       - **Measure & Effect Size Columns (Cols 27–50):** Pad with `999` and `"Not Reported"` (1 single placeholder row). Terminate extraction for this paper.
+   2. **Branching Decision:**
+     - **If Verdict is `0 = exclude` (Construct Homonymy, Level of Analysis / Aggregated Data):**
+       - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Specialist B or C (preventing token waste, cognitive overload, and forced miscoding).
+       - Record in Excel: Col 5 = `'0 = exclude'`.
+       - Col 6 = Reason for Exclusion (`3 = Non-individual level (team/firm/org analysis)` for aggregated data; `1 = No effect size of interest` for construct homonymy).
+       - Col 16 = Verbatim quotes documenting the exclusion reason or aggregation evidence (strictly no ellipses per Rule 13).
+       - Cols 17–26 = Study/Sample Descriptors extracted from Sample text.
+       - Cols 27–50 = Pad with `999` and `"Not Reported"` (1 single placeholder row). Terminate extraction for this paper.
      - **If Verdict is `1 = include` (Individual-Level Empirical BSB):**
        - Confirmed individual-level empirical BSB study! Proceed immediately to spawn the full **3-Specialist Swarm Extraction Pipeline (Specialists A, B, C)** below.
 
@@ -250,8 +245,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **[Added via Data Integrity Upgrade]**
 **Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the exact name, numeric prefix, and abbreviation as printed in the correlation matrix axis (e.g., `"1. BSA"`, `"Ext. Comm."`). Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
 
-**[Added via Screening & Extraction Decoupling Upgrade]**
-**Extraction Rule 12: Option A Protocol for Team/Group Level Aggregation:** Studies measuring genuine Boundary Spanning Behavior at the work group, team, or department level are marked `1 = include` in Col 5 with Col 6 = `999` to preserve systematic review literature coverage (PRISMA flow). However, to prevent cross-level ecological fallacy, quantitative effect size extraction is halted at the extraction gate. Study/Sample Descriptors (Cols 17–26) are extracted, while Cols 27–50 are padded with `999` and `"Not Reported"` (1 single placeholder row). Col 16 records `[INCLUDED IN REVIEW / EXCLUDED FROM META-EXTRACTION]` with exact verbatim proof.
+**[Added via Level of Analysis Aggregation Protocol Upgrade]**
+**Extraction Rule 12: Level of Analysis Aggregation Protocol:** Studies where variables or correlations represent group, team, project, or department level aggregation ($N = \text{teams/groups/projects}$, e.g., Cummings 2004 with $N=182$ Work Groups, Brion et al. 2012 with $N=73$ NPD projects evaluating project-level performance and team size) are EXCLUDED under Code 3 (`0 = exclude`, `3 = Non-individual level (team/firm/org analysis)`) to prevent cross-level ecological fallacy. Quantitative effect size extraction is halted. Study/Sample Descriptors (Cols 17–26) are extracted, while Cols 27–50 are padded with `999` and `"Not Reported"` (1 single placeholder row). Col 16 explicitly documents the aggregation evidence with verbatim quotes (Rule 13).
 
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
