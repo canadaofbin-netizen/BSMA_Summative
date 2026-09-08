@@ -4,18 +4,12 @@ This document defines the strict data type policies, template schemas, and evide
 
 ---
 
-## 1. Universal Zero Guesswork & Clean Blank Cell Protocol (Rule 1)
+## 1. Universal Zero Guesswork & Dual Missing Data Protocol (Rule 1)
 - **Absolute Prohibition on Imputation (Zero Guesswork):** Never guess, fabricate, or impute data. Do NOT calculate averages or deduce missing values under any circumstances.
-- **Clean Blank Cell Protocol for Human Readability:**
-  - In Excel coding sheets, cells that are not applicable, conditional, or not reported in the paper MUST be left as clean BLANK cells (`None`), matching the canonical format of `03_Coding_Sheets/49_53_66.xlsx` and `Full text coding sheet.xlsx`.
-  - **Conditional / Non-Applicable Columns:**
-    - `Col 6 (Reason for Exclusion)`: When a paper is `1 = include`, leave blank (`None`).
-    - `Cols 13, 18, 20, 31, 38 ("Other / Specify / Notes")`: When standard categories apply and no additional notes are needed, leave blank (`None`).
-    - `Col 16 (Notes)`: When a paper is `1 = include` and has no special screening notes, leave blank (`None`).
-  - **Unreported Metrics / Descriptive Stats:**
-    - If demographics (Age, % Female, Tenure) or table statistics (Mean, SD, Alpha) are not reported in the paper/table, leave them as clean blank cells (`None`) rather than cluttering with dummy `999` or `"Not Reported"` strings.
-  - **Excluded Papers (Code 0):**
-    - For excluded papers, record bibliographic metadata, exclusion judgment/reason, and verbatim evidence in Cols 1–16. Leave measurement and effect size columns (Cols 17–50 or Cols 27–50) as clean BLANK cells (`None`), mirroring Paper #66 in `49_53_66.xlsx`.
+- **Dual Missing Data Protocol (Numeric 999 vs. Clean Blank Text):**
+  - **Numeric Missing Values (Cols 17–50):** Whenever an empirical numeric metric is missing or not reported in the paper (Mean Age [Col 23], % Female [Col 24], Org Tenure [Col 25], Number of Items [Cols 27 & 34], Min/Max Likert Anchors [Cols 28, 29, 35, 36], Mean [Cols 42 & 46], SD [Cols 43 & 47], Reliability/Alpha [Cols 44 & 48]), YOU MUST enter the integer `999`. This ensures statistical analysis software (R, SPSS, CMA, Stata) can unambiguously identify missing data.
+  - **Text / Categorical Non-Applicable Fields:** Non-applicable or unneeded text cells (`Reason for Exclusion` for included papers, `Other (specify)`, `Report Type Note`, `Notes`, and `Article Descriptors`) MUST be left as clean BLANK cells (`None`). Writing `"Not Reported"` into Excel cells is strictly prohibited to eliminate visual clutter.
+  - **Excluded Papers (Code 0):** Terminate immediately at Col 6 (`Reason for Exclusion`), leaving all subsequent columns (Cols 7–50) as clean BLANK cells (`None`), mirroring Paper #66 in `49_53_66.xlsx`.
 
 ---
 

@@ -36,7 +36,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   4. **Demographics:** Extract Mean Age, % Female, Organizational Tenure (years), and Occupation Type/Job Role [Cols 23–26].
   5. **Bias Scanner (Footnote Pre-check):** Check correlation table notes for partial correlations/controls (`is_partial_mixed`) or missing data imputation (`is_imputed`).
   6. **Verbatim Evidence:** Extract exact verbatim sentences into `sample_quote` (strictly no ellipses per Rule 13).
-  7. **Zero Guesswork:** Enforce integer `999` for missing numeric metrics; `"Not Reported"` for missing strings.
+  7. **Zero Guesswork (Dual Missing Data Protocol):** Enforce integer `999` for missing numeric metrics; clean blank (`None`) for non-applicable text fields. `"Not Reported"` is prohibited.
 - **Prompt Blueprint:**
   "Scan ONLY the Abstract, Sample/Participants section, and Correlation Table footnotes in the PDF [Path].
   Extract Study & Sample Descriptors (Cols 17-26):
@@ -45,12 +45,12 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   3. Sample size (N): Cross-verify methodology text N with listwise N in correlation table footnote.
   4. Demographics: Mean Age, % Female, Org Tenure (years), and Occupation Type.
   5. Bias flags: Check table footnotes for partial correlations, controls, or missing data imputation.
-  Return clean JSON strictly matching this schema (No Markdown, 999 for missing numbers, 'Not Reported' for missing strings):
+  Return clean JSON strictly matching this schema (No Markdown, 999 for missing numbers, null for missing strings):
   {
     \"study_design\": \"Cross-sectional\",
-    \"study_design_other\": \"Not Reported\",
+    \"study_design_other\": null,
     \"country\": \"United States\",
-    \"country_specify\": \"Not Reported\",
+    \"country_specify\": null,
     \"international_context\": \"Domestic\",
     \"sample_size_n\": 253,
     \"mean_age\": 41.2,
@@ -152,7 +152,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"min_score\": 1,
         \"max_score\": 7,
         \"report_type\": \"Self-report\",
-        \"report_type_note\": \"Not Reported\",
+        \"report_type_note\": null,
         \"specific_measure_used\": \"Keller (1994)\",
         \"items_quote\": \"External communication was measured using six items on a 7-point scale.\",
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.88},
@@ -167,12 +167,12 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"min_score\": 1,
         \"max_score\": 7,
         \"report_type\": \"Self-report\",
-        \"report_type_note\": \"Not Reported\",
+        \"report_type_note\": null,
         \"specific_measure_used\": \"Rizzo, House, and Lirtzman (1970)\",
         \"items_quote\": \"Role ambiguity was assessed with six items on a 7-point Likert scale.\",
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.84},
         \"source_quote\": \"Role ambiguity was measured using the six-item scale from Rizzo, House, and Lirtzman (1970)...\",
-        \"notes\": \"Not Reported\"
+        \"notes\": null
       }
     ]
   }"
@@ -198,7 +198,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         - Cols 45–48: Non-BS Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
         - Col 49: Correlation $r_{ij}$ from Specialist B.
         - Col 50: Notes (Composite notes + Cell Proof audit trail).
-    - Enforce Rule 1 Clean Blank Cell Protocol for missing/unreported fields.
+    - Enforce Rule 1 Dual Missing Data Protocol: integer `999` for missing numeric metrics, clean blank (`None`) for non-applicable text fields.
 
 ## 3. STRICT JSON ONLY & Hand-off
 - Wait asynchronously for all 3 subagents.
@@ -242,7 +242,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **Extraction Rule 9: Verbatim Cell Proof & Items Evidence Anchoring:** All extracted correlation values ($r$) and scale metrics (items count, scale anchors) must be accompanied by raw verbatim proofs (`cell_proof` with `raw_cell_value`, `row_header_quote`, `col_header_quote` and `items_quote` with the exact sentence describing the scale). Truncation with ellipses (`...`) is strictly forbidden. This ensures 100% auditability against the source PDF without manual re-reading.
 
 **[Added via Data Integrity Upgrade]**
-**Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` and `"Not Reported"`, and (5) Atomic Excel Commit.
+**Extraction Rule 10: 5-Layer Defense-in-Depth & Python Type Coercion:** The data injection engine (`universal_excel_inserter.py`) must enforce 5 defensive layers: (1) Truncation Auto-Repair for cut-off JSON matrices, (2) Prompt Contamination Detection, (3) Quarantine Containment in `scratch/quarantine/`, (4) Automatic Type Coercion mapping missing values (`null`, `"-"`, `""`, `"N/A"`) to `999` for numeric and `None` (blank) for text, and (5) Atomic Excel Commit.
 
 **[Added via Data Integrity Upgrade]**
 **Extraction Rule 11: Verbatim Table Axis & Measure Substring Fidelity (Rule 14 Integration):** Correlation table axis variable names (Cols 41 & 45) must character-for-character preserve the author's exact construct name, sub-dimension phrasing (e.g., `"Internal COBSB"`, `"External COBSB"`, `"Internal Com."`, `"External Com."`), and published abbreviations (e.g., `"BSA"`, `"Org. Comm."`, `"Dual Comm."`). Leading numbers that serve solely for table row/column layout indexing (e.g., `"1. "`, `"10. "`) are automatically pruned, while the original coordinate remains preserved in `cell_proof` and Col 50 Notes. Specific measure names (Cols 32 & 39) must be exact unmodified substrings of methodology quotes (`source_quote`), capturing the precise validated instrument author citation. Post-hoc normalization, translation, or guessing is strictly forbidden.
@@ -255,7 +255,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 
 ## 5. Cross-References (Global DNA)
 As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When executing this skill, you must remember:
-- **Rule 1 (Zero Guesswork Policy):** This is why we strictly enforce `999` and `"Not Reported"` in the JSON schemas above. Do not deviate.
+- **Rule 1 (Dual Missing Data Protocol):** This is why we strictly enforce `999` for missing numeric metrics and clean blank (`None`) for non-applicable text fields. `"Not Reported"` is prohibited.
 - **Rule 9 (Dynamic Abstraction):** The Subagent Prompts provided in Section 1 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
 - **Rule 13 (Verbatim Quote Injection):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation. *(Formerly Global Rule 30)*
 - **Measurement Edge Cases Reference:** Consult [references/extraction_edge_cases.md](file:///references/extraction_edge_cases.md) for detailed matrix and statistical trap warnings.
