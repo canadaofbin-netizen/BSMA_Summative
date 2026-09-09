@@ -521,12 +521,7 @@ def format_summary_markdown(data: Dict[str, Any], lang: str = "en") -> str:
                     lines.append(f"  - {bsb_cnt}개 BSB × {nb_cnt}개 Non-BS = {p['rows_count']}행 (완전 직교 Cartesian 곱)")
                 else:
                     for b_n, n_list in bs_to_nb.items():
-                        if pid == 70 and b_n.lower() == "bsa":
-                            lines.append(f"  - `{b_n}` × {len(n_list)}개 Non-BS 변수 = {len(n_list)}행 (BSA 자체의 구성 요소인 Internal Com. 제외)")
-                        elif pid == 70 and b_n.lower().startswith("external com"):
-                            lines.append(f"  - `{b_n}` × {len(n_list)}개 Non-BS 변수 (Internal Com. 포함) = {len(n_list)}행")
-                        else:
-                            lines.append(f"  - `{b_n}` × {len(n_list)}개 Non-BS 변수 = {len(n_list)}행")
+                        lines.append(f"  - `{b_n}` × {len(n_list)}개 Non-BS 변수 = {len(n_list)}행")
                     lines.append(f"  - 합계: {p['rows_count']}행")
 
                 # Statistics completeness
@@ -595,12 +590,7 @@ def format_summary_markdown(data: Dict[str, Any], lang: str = "en") -> str:
                     lines.append(f"  - {bsb_cnt} BSB × {nb_cnt} Non-BS = {p['rows_count']} rows (Full Cartesian Product)")
                 else:
                     for b_n, n_list in bs_to_nb.items():
-                        if pid == 70 and b_n.lower() == "bsa":
-                            lines.append(f"  - `{b_n}` × {len(n_list)} Non-BS variables = {len(n_list)} rows (excluding `Internal Com.`, subcomponent of BSA)")
-                        elif pid == 70 and b_n.lower().startswith("external com"):
-                            lines.append(f"  - `{b_n}` × {len(n_list)} Non-BS variables (including `Internal Com.`) = {len(n_list)} rows")
-                        else:
-                            lines.append(f"  - `{b_n}` × {len(n_list)} Non-BS variables = {len(n_list)} rows")
+                        lines.append(f"  - `{b_n}` × {len(n_list)} Non-BS variables = {len(n_list)} rows")
                     lines.append(f"  - Total: {p['rows_count']} rows")
 
                 # Statistics completeness

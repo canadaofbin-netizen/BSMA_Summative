@@ -91,7 +91,7 @@ ASCII tree mapping all unique constructs across the evaluated sheet:
   2. Individual & Demographics (`개인/인구통계 특성`)
   3. Attitudes & Commitment (`태도/몰입 변수`)
   4. Control & Incentives (`업무/조직 통제`)
-  5. Internal Group Dynamics (`내부 행동/소통`)
+  5. Internal Group Dynamics (`내부 행동/소통` — Note: applies strictly to non-boundary internal dynamics such as team conflict or internal support; internal dissemination/influence BSBs reside under BSB Variables per Rule 28)
   6. Role Stress (`역할 스트레스`)
   7. Performance & Outcomes (`직무 성과`)
   8. General Non-BS Variables (`기타 변수`)

@@ -15,7 +15,7 @@ When triggered, you must execute the following automated Two-Tier Verification w
   1. Evaluate the PDF against the Screening Hierarchy:
      - **Tier 0 (Fast-Exit):** Qualitative-only, SEM-only path models lacking correlation matrices, non-English.
      - **Tier 1 (Override Gates):** Leader BSB (Screening Rule 1), Intra-Organizational BSB (Screening Rule 2), Individual Employee Empirical BSB (Screening Rule 3).
-     - **Tier 2 (Traps & Guardrails):** Level of Analysis (Exclude Team/Firm/Group aggregation, e.g., $N = \text{teams}$), Construct Homonymy (attitudes, branch identification, internal meetings are NOT BSB), Key Informant proxies, Purposive action vs mere communication.
+     - **Tier 2 (Traps & Guardrails):** Level of Analysis (Exclude Team/Firm/Group aggregation, e.g., $N = \text{teams}$), Construct Homonymy (attitudes, branch identification, routine internal meetings are NOT BSB; distinct from purposive gatekeeper internal dissemination / intraunit communication per Rule 28), Key Informant proxies, Purposive action vs mere communication.
    2. **Branching Decision:**
      - **If Verdict is `0 = exclude` (Construct Homonymy, Level of Analysis / Aggregated Data):**
        - **ABORT EXTRACTION IMMEDIATELY.** Do NOT spawn Specialist B or C (preventing token waste, cognitive overload, and forced miscoding).
@@ -123,7 +123,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 - **Objectives:**
   1. **Construct Inventory & Classification (Rule 28):** Inspect all candidate variables described in text.
      - **Boundary Spanning Behavior (BS):** Individual behaviors reaching across boundary interfaces (external organizations, clients/customers, other departments) AND internal dissemination/influence sub-dimensions that operationalize the two-step boundary-spanning information transfer process (e.g., Gatekeeper Intraunit Dissemination/Internal Communication, COBSB Internal Influence).
-     - **Non-Boundary Spanning (NB):** Routine internal behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
+     - **Non-Boundary Spanning (NB):** Routine internal operations/behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
   2. **ZERO-BSB CIRCUIT BREAKER:** If ZERO variables qualify as `"BS"`, return fatal code `[NO_BSB_CONSTRUCT_VIOLATION]`.
   3. **Anchor Reconciliation Bridge:** Map each textual measure to the candidate table axis names (`table_anchor_name`) from Specialist B to prevent fuzzy join failures.
   4. **Sub-scale Decomposition (Extraction Rule 6):** If a global scale (e.g., 13 items) is broken down into sub-scales in the matrix, decompose and extract exact item counts per sub-scale.
@@ -140,7 +140,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
      - Identical rigorous schema for all substantive non-BS variables.
 - **Prompt Blueprint:**
   "Focus ONLY on the Methodology ('Measures') section in the PDF [Path].
-  - Classify each variable as 'BS' (Boundary Spanning Behavior: actions spanning external boundaries, clients, other departments) or 'NB' (Non-BS: internal behaviors, attitudes, outcomes).
+  - Classify each variable as 'BS' (Boundary Spanning Behavior: actions spanning external boundaries, clients, other departments, AS WELL AS internal dissemination/influence sub-dimensions such as Gatekeeper Intraunit Dissemination/Internal Communication and COBSB Internal Influence per Rule 28) or 'NB' (Non-BS: routine internal operations, attitudes, job stress, performance outcomes).
   - ZERO-BSB CIRCUIT BREAKER: If 0 variables qualify as 'BS', return [NO_BSB_CONSTRUCT_VIOLATION].
   - For each variable, extract:
     1. table_anchor_name: Match exactly to candidate correlation table axis names.
