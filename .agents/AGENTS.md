@@ -27,7 +27,7 @@ You must strictly obey the core orchestration rules and enforce all specialized 
 
 All operations must strictly adhere to the modularized domain rule files:
 - [Rule: Workspace & Directory Hygiene](file:///.agents/rules/workspace_hygiene.md) - PDF naming format `[ID] Author (Year) - Title.pdf`, zero root pollution, scratch containment.
-- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Dual Missing Data Protocol (`999` for numeric / blank for text), 50-column master schema, verbatim evidence without `...` ellipses, verbatim variable/measure naming (Rule 14), and Lossless Parity & Ingestion Safety (Rule 27).
+- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Dual Missing Data Protocol (`999` for numeric / blank for text), 50-column master schema, verbatim evidence without `...` ellipses, verbatim variable/measure naming (Rule 14), Lossless Parity & Ingestion Safety (Rule 27), and Gatekeeper & Two-Step BSB Sub-dimension Classification (Rule 28).
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Immutable vault protection, frozen baselines, validation terminology, rollback backups, error logging.
 
 ---
@@ -36,7 +36,7 @@ All operations must strictly adhere to the modularized domain rule files:
 
 ### Rules (`.agents/rules/`)
 - [Rule: Workspace & Directory Hygiene](file:///.agents/rules/workspace_hygiene.md) - Enforces 01_Academic_Papers PDF naming, zero root pollution, and scratch directory containment.
-- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Dual Missing Data Protocol (Rule 1: `999` numeric / blank text), 50-column extraction schema, verbatim evidence/names (Rule 14), canonical 3-tier header protocol (Rule 20), and Lossless Parity & Ingestion Safety (Rule 27).
+- [Rule: Excel Coding Sheet Data Integrity](file:///.agents/rules/data_integrity.md) - Enforces Dual Missing Data Protocol (Rule 1: `999` numeric / blank text), 50-column extraction schema, verbatim evidence/names (Rule 14), canonical 3-tier header protocol (Rule 20), Lossless Parity & Ingestion Safety (Rule 27), and Gatekeeper & Two-Step BSB Sub-dimension Classification (Rule 28).
 - [Rule: Vault Security & Operational Safeguards](file:///.agents/rules/vault_security.md) - Protects immutable vaults, defines validation terminology, and governs rollback backups.
 
 ### Skills (`.agents/skills/`)

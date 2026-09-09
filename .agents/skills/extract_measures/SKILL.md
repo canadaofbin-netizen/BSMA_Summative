@@ -121,9 +121,9 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 ### Specialist C: Measures Text Specialist (`measure_descriptor` — Cols 27–40)
 - **Scope & Focus:** ONLY the Methodology "Measures / Measurement Instruments" section.
 - **Objectives:**
-  1. **Construct Inventory & Classification:** Inspect all candidate variables described in text.
-     - **Boundary Spanning Behavior (BS):** Individual behaviors reaching across boundary interfaces (external organizations, clients/customers, other departments).
-     - **Non-Boundary Spanning (NB):** Internal behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
+  1. **Construct Inventory & Classification (Rule 28):** Inspect all candidate variables described in text.
+     - **Boundary Spanning Behavior (BS):** Individual behaviors reaching across boundary interfaces (external organizations, clients/customers, other departments) AND internal dissemination/influence sub-dimensions that operationalize the two-step boundary-spanning information transfer process (e.g., Gatekeeper Intraunit Dissemination/Internal Communication, COBSB Internal Influence).
+     - **Non-Boundary Spanning (NB):** Routine internal behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
   2. **ZERO-BSB CIRCUIT BREAKER:** If ZERO variables qualify as `"BS"`, return fatal code `[NO_BSB_CONSTRUCT_VIOLATION]`.
   3. **Anchor Reconciliation Bridge:** Map each textual measure to the candidate table axis names (`table_anchor_name`) from Specialist B to prevent fuzzy join failures.
   4. **Sub-scale Decomposition (Extraction Rule 6):** If a global scale (e.g., 13 items) is broken down into sub-scales in the matrix, decompose and extract exact item counts per sub-scale.

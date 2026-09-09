@@ -81,5 +81,15 @@ To ensure that any researcher can cross-verify effect sizes directly against the
 - **Pre-Commit Lossless Parity Verification Gate:** Before committing any newly generated or modified Excel extraction sheet, the system MUST execute `verify_ingestion_parity.py` comparing the extraction JSON against the generated Excel sheet. If any valid metric extracted in the JSON is recorded as `999` in Excel, the verification MUST throw a critical assertion error, abort the commit, and quarantine the invalid payload.
 - **Heuristic Linter Guard (100% Missing Heuristic):** For all included papers in batch coding sheets, the repository auditor (`linter.py`) checks whether all effect size rows for a given paper have 100% missing (`999`) values for IV Mean/SD and DV Mean/SD. Since over 95% of published correlation tables report Means and SDs, a 100% missing rate triggers an automatic heuristic audit warning to verify whether the source paper's correlation table reported those metrics.
 
+---
 
-
+## 8. Gatekeeper & Two-Step BSB Sub-dimension Classification Protocol (Rule 28)
+- **Theoretical Foundations (Tushman's 2-Step Information Processing Model):** In classic boundary-spanning research (e.g., Tushman, 1977; Tushman & Scanlan, 1981; Sexton, 1995), boundary-spanning behavior (BSB) is fundamentally conceptualized as a **two-step information processing role**:
+  1. **External Information Acquisition (Extraunit Communication):** Gathering technical, market, or customer knowledge across organizational or project boundaries.
+  2. **Internal Information Dissemination (Intraunit Communication):** Translating, sharing, and disseminating that gathered external knowledge to colleagues within the unit.
+- **Mandatory BSB Classification (Col 41):** When a paper empirically operationalizes boundary spanning through this two-step architecture:
+  - **Internal Dissemination / Intraunit Communication** (e.g., `Internal Com.` in Sexton 1995) MUST be classified as a **Boundary Spanning Behavior (BSB) sub-dimension in Col 41**, NOT demoted to a Non-BS variable (Col 45).
+  - Similarly, in Customer-Oriented BSB (COBSB, e.g., Bettencourt & Brown 2003), **Internal Influence** (communicating customer needs to colleagues and management to improve internal service delivery) MUST be classified as a **BSB sub-dimension in Col 41**.
+- **Orthogonal Cartesian Pairing Topology:** When a study measures both the global composite BSB and its discrete external/internal sub-facets (e.g., `BSA`, `External Com.`, `Internal Com.`):
+  - Each BSB construct must be orthogonally paired with all substantive Non-BS variables ($N_{\text{BSB}} \times M_{\text{Non-BS}} = K \text{ rows}$).
+  - Substantive Non-BS variables (Col 45) include contextual, demographic, attitudinal, stress, and outcome constructs, but exclude BSB sub-dimensions.
