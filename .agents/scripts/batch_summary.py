@@ -84,7 +84,32 @@ VAR_EXPLANATIONS_KO = {
     "turnover intention": "이직 의도",
     "job satisfaction": "직무 만족",
     "psychological safety": "심리적 안전감",
-    "trust": "신뢰"
+    "trust": "신뢰",
+    "boundary spanning activities": "경계연결 활동 (Boundary Spanning Activities)",
+    "closed task-oriented dbs ties": "폐쇄형 과업 지향 DBS 연결 (경계연결)",
+    "closed friendship dbs ties": "폐쇄형 친교 지향 DBS 연결 (경계연결)",
+    "open task-oriented dbs ties": "개방형 과업 지향 DBS 연결 (경계연결)",
+    "open friendship dbs ties": "개방형 친교 지향 DBS 연결 (경계연결)",
+    "ebsb": "직원 경계연결 행동 (Employee Boundary-Spanning Behavior)",
+    "type of employee": "직원 유형 (IC vs IS)",
+    "age": "연령",
+    "gender": "성별",
+    "sex": "성별",
+    "education": "교육 수준",
+    "edu": "교육 수준",
+    "organizational tenure": "조직 근속 연수",
+    "tenure": "조직 근속 연수",
+    "overall job satisfaction": "전반적 직무 만족",
+    "organizational commitment": "조직 몰입",
+    "intention to leave": "이직 의도",
+    "closed task-oriented intrateam ties": "팀 내 폐쇄형 과업 연결",
+    "closed friendship intrateam ties": "팀 내 폐쇄형 친교 연결",
+    "managerial status": "관리직 지위 (관리자 여부)",
+    "informal leadership": "비공식적 리더십",
+    "ao": "성취 지향성 (Achievement Orientation)",
+    "pp": "성과 압박 (Performance Pressure)",
+    "cf": "인지적 유연성 (Cognitive Flexibility)",
+    "op": "강박적 열정 (Obsessive Work Passion)"
 }
 
 VAR_EXPLANATIONS_EN = {
@@ -124,7 +149,32 @@ VAR_EXPLANATIONS_EN = {
     "turnover intention": "Turnover Intention",
     "job satisfaction": "Job Satisfaction",
     "psychological safety": "Psychological Safety",
-    "trust": "Trust"
+    "trust": "Trust",
+    "boundary spanning activities": "Boundary Spanning Activities",
+    "closed task-oriented dbs ties": "Closed Task-Oriented DBS Ties",
+    "closed friendship dbs ties": "Closed Friendship DBS Ties",
+    "open task-oriented dbs ties": "Open Task-Oriented DBS Ties",
+    "open friendship dbs ties": "Open Friendship DBS Ties",
+    "ebsb": "Employee Boundary-Spanning Behavior",
+    "type of employee": "Type of Employee (IC vs IS)",
+    "age": "Age",
+    "gender": "Gender",
+    "sex": "Sex",
+    "education": "Education",
+    "edu": "Education",
+    "organizational tenure": "Organizational Tenure",
+    "tenure": "Organizational Tenure",
+    "overall job satisfaction": "Overall Job Satisfaction",
+    "organizational commitment": "Organizational Commitment",
+    "intention to leave": "Intention to Leave",
+    "closed task-oriented intrateam ties": "Closed Task-Oriented Intrateam Ties",
+    "closed friendship intrateam ties": "Closed Friendship Intrateam Ties",
+    "managerial status": "Managerial Status",
+    "informal leadership": "Informal Leadership",
+    "ao": "Achievement Orientation",
+    "pp": "Performance Pressure",
+    "cf": "Cognitive Flexibility",
+    "op": "Obsessive Work Passion"
 }
 
 CATEGORY_MAP_KO = {
@@ -155,15 +205,15 @@ CATEGORY_ORDER = ["context", "individual", "attitudes", "control", "internal", "
 def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, str]:
     """Categorize Non-BS variable into domain key and localized label."""
     v = var_name.lower().strip()
-    if any(k in v for k in ["org. size", "size", "industry", "complexity", "uncertainty", "interdepend", "technology", "environment", "structure", "formalization"]):
+    if any(k in v for k in ["org. size", "size", "industry", "complexity", "uncertainty", "interdepend", "technology", "environment", "structure", "formalization", "type of employee"]):
         key = "context"
-    elif any(k in v for k in ["comm.", "commitment", "satisfaction", "involvement", "engagement", "identification", "loyalty"]):
+    elif any(k in v for k in ["comm.", "commitment", "satisfaction", "involvement", "engagement", "identification", "loyalty", "passion", "op", "intention to leave", "turnover"]):
         key = "attitudes"
-    elif any(k in v for k in ["ambiguity", "conflict", "overload", "burnout", "exhaustion", "stress", "strain"]):
+    elif any(k in v for k in ["ambiguity", "conflict", "overload", "burnout", "exhaustion", "stress", "strain", "pressure", "pp"]):
         key = "stress"
-    elif any(k in v for k in ["performance", "creativity", "service", "delivery", "turnover", "citizenship", "ocb", "voice"]):
+    elif any(k in v for k in ["performance", "creativity", "service", "delivery", "citizenship", "ocb", "voice", "leadership"]):
         key = "performance"
-    elif any(k in v for k in ["proactive", "personality", "status", "degree", "occupation", "education", "experience", "age", "gender", "tenure"]):
+    elif any(k in v for k in ["proactive", "personality", "status", "degree", "occupation", "education", "edu", "experience", "age", "gender", "sex", "tenure", "ao", "flexibility", "cf"]):
         key = "individual"
     elif any(k in v for k in ["control", "incent", "reward", "compensation", "pay"]):
         key = "control"
