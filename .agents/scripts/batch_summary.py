@@ -109,7 +109,16 @@ VAR_EXPLANATIONS_KO = {
     "ao": "성취 지향성 (Achievement Orientation)",
     "pp": "성과 압박 (Performance Pressure)",
     "cf": "인지적 유연성 (Cognitive Flexibility)",
-    "op": "강박적 열정 (Obsessive Work Passion)"
+    "op": "강박적 열정 (Obsessive Work Passion)",
+    "boundary spanning": "경계연결 (Boundary Spanning - Scouting)",
+    "task interdependence": "과업 상호의존성 (Task Interdependence)",
+    "expert power": "전문가 권력 (Expert Power)",
+    "referent power": "준거적 권력 (Referent Power)",
+    "human capital": "인적 자본 (Human Capital - 경력/학력)",
+    "strategic orientation - collaboration": "전략적 협업 지향성 (Strategic Orientation - Collaboration)",
+    "rating": "플랫폼 평점/성과 (Upwork Rating)",
+    "remote work": "원격 근무 여부 (Remote Work)",
+    "contract time": "계약 기간/시간 (Contract Time)"
 }
 
 VAR_EXPLANATIONS_EN = {
@@ -174,7 +183,16 @@ VAR_EXPLANATIONS_EN = {
     "ao": "Achievement Orientation",
     "pp": "Performance Pressure",
     "cf": "Cognitive Flexibility",
-    "op": "Obsessive Work Passion"
+    "op": "Obsessive Work Passion",
+    "boundary spanning": "Boundary Spanning (Scouting Behavior)",
+    "task interdependence": "Task Interdependence",
+    "expert power": "Expert Power",
+    "referent power": "Referent Power",
+    "human capital": "Human Capital (Experience/Education)",
+    "strategic orientation - collaboration": "Strategic Orientation - Collaboration",
+    "rating": "Platform Job Success Rating",
+    "remote work": "Remote Work Arrangement",
+    "contract time": "Contract Time / Duration"
 }
 
 CATEGORY_MAP_KO = {
@@ -205,15 +223,15 @@ CATEGORY_ORDER = ["context", "individual", "attitudes", "control", "internal", "
 def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, str]:
     """Categorize Non-BS variable into domain key and localized label."""
     v = var_name.lower().strip()
-    if any(k in v for k in ["org. size", "size", "industry", "complexity", "uncertainty", "interdepend", "technology", "environment", "structure", "formalization", "type of employee"]):
+    if any(k in v for k in ["org. size", "size", "industry", "complexity", "uncertainty", "interdepend", "technology", "environment", "structure", "formalization", "type of employee", "remote", "contract"]):
         key = "context"
-    elif any(k in v for k in ["comm.", "commitment", "satisfaction", "involvement", "engagement", "identification", "loyalty", "passion", "op", "intention to leave", "turnover"]):
+    elif any(k in v for k in ["comm.", "commitment", "satisfaction", "involvement", "engagement", "identification", "loyalty", "passion", "op", "intention to leave", "turnover", "collaboration"]):
         key = "attitudes"
     elif any(k in v for k in ["ambiguity", "conflict", "overload", "burnout", "exhaustion", "stress", "strain", "pressure", "pp"]):
         key = "stress"
-    elif any(k in v for k in ["performance", "creativity", "service", "delivery", "citizenship", "ocb", "voice", "leadership"]):
+    elif any(k in v for k in ["performance", "creativity", "service", "delivery", "citizenship", "ocb", "voice", "leadership", "rating"]):
         key = "performance"
-    elif any(k in v for k in ["proactive", "personality", "status", "degree", "occupation", "education", "edu", "experience", "age", "gender", "sex", "tenure", "ao", "flexibility", "cf"]):
+    elif any(k in v for k in ["proactive", "personality", "status", "degree", "occupation", "education", "edu", "experience", "age", "gender", "sex", "tenure", "ao", "flexibility", "cf", "human capital", "power"]):
         key = "individual"
     elif any(k in v for k in ["control", "incent", "reward", "compensation", "pay"]):
         key = "control"

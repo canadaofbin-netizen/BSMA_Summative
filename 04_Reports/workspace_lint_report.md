@@ -35,7 +35,7 @@
 | Excel Data Integrity | No bold markdown in header cells. |  |
 | Excel Data Integrity | Rule 20 canonical 3-tier headers verified in batch sheets: ['49_53_66.xlsx', 'Full text coding sheet.xlsx', '70_94_109.xlsx', '203_207_208_225.xlsx'] (zero 'Unnamed' headers). |  |
 | Excel Data Integrity | Rule 1 Dual Missing Data verified: Zero forbidden text strings in numeric columns. |  |
-| Excel Data Integrity | Rule 27 Lossless Parity verified: 6 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
+| Excel Data Integrity | Rule 27 Lossless Parity verified: 7 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
 | Agent Protocols & SSOT | All 5 skills are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 3 rule modules are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | No stale directory paths detected in .agents scripts and skills. |  |
