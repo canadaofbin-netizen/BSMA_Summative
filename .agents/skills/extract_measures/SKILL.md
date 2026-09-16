@@ -81,7 +81,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number, table page number, and lower vs. upper diagonal structure.
   - Drop all demographic variables (Age, Gender, Tenure, Education).
   - Prune table-indexing numbers (e.g., '1. ', '10. ') while strictly copying exact variable construct names/symbols from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
-  - Extract mean, sd, and table-reported reliability for each variable.
+  - Extract mean, sd, and table-reported reliability for each variable. If mean/sd are missing from the primary correlation matrix, you MUST scan secondary descriptive statistics tables (e.g., Table 1) to find them. Do NOT overwrite explicitly printed table values with in-text narrative values (Rule 30).
   - Extract zero-order correlations mapping var1_anchor and var2_anchor.
   - CELL PROOF & PROVENANCE: For every correlation, provide cell_proof with table_number, table_page_number, row_header_quote, col_header_quote, and raw_cell_value with asterisks. If correlations are latent variables or have special footnotes, provide latent_evidence_quote or table_footnote_quote verbatim.
   Return JSON strictly matching this schema (No Markdown, 999 for missing numbers, null for missing strings):
@@ -148,7 +148,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
     3. specific_measure_used: Must be an exact, unmodified substring of source_quote (Rule 14).
     4. items_quote: Exact verbatim sentence stating item count and anchors (Rule 13: NO ellipses).
     5. reliability: polymorphic object {type, value}.
-    6. source_quote: Full verbatim sentence introducing the scale.
+    6. mean, sd: Extract descriptive statistics if explicitly reported in the text narrative.
+    7. source_quote: Full verbatim sentence introducing the scale.
   Return JSON strictly matching this schema (No Markdown):
   {
     \"boundary_spanning_measures\": [
@@ -162,6 +163,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"specific_measure_used\": \"Keller (1994)\",
         \"items_quote\": \"External communication was measured using six items on a 7-point scale.\",
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.88},
+        \"mean\": 3.45,
+        \"sd\": 0.82,
         \"source_quote\": \"Keller (1994) developed the six-item external communication scale...\",
         \"notes\": \"Primary external boundary-spanning facet\"
       }
@@ -177,6 +180,8 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"specific_measure_used\": \"Rizzo, House, and Lirtzman (1970)\",
         \"items_quote\": \"Role ambiguity was assessed with six items on a 7-point Likert scale.\",
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.84},
+        \"mean\": null,
+        \"sd\": null,
         \"source_quote\": \"Role ambiguity was measured using the six-item scale from Rizzo, House, and Lirtzman (1970)...\",
         \"notes\": null
       }

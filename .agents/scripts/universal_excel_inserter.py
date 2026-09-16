@@ -283,8 +283,8 @@ def route_and_insert_data(excel_path, payload):
             rel_sanitized = sanitize_reliability(match.get("reliability"))
             joined_vars.append({
                 "anchor": anchor,
-                "mean": sanitize_numeric(var.get("mean")),
-                "sd": sanitize_numeric(var.get("sd")),
+                "mean": sanitize_numeric(var.get("mean") if var.get("mean") not in [None, 999, "", "-", "n/a", "N/A"] else match.get("mean", 999)),
+                "sd": sanitize_numeric(var.get("sd") if var.get("sd") not in [None, 999, "", "-", "n/a", "N/A"] else match.get("sd", 999)),
                 "classification_type": match.get("classification_type", "NB"),
                 "items": sanitize_numeric(match.get("items")),
                 "items_quote": sanitize_text(match.get("items_quote")),

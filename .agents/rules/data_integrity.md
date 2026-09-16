@@ -110,3 +110,9 @@ To ensure that any researcher can cross-verify effect sizes directly against the
   - If a study on entrepreneurs or self-employed individuals measures **Work-Life or Work-Family boundary management** rather than organizational/client boundary spanning $\rightarrow$ Exclude under **`Code 1 (No effect size of interest / Construct Mismatch)`**.
   - If a study examines firm-level strategic alliances, inter-firm patenting, or macro MNE networks $\rightarrow$ Exclude under **`Code 3 (Non-individual level)`**.
 
+
+## 10. 3-Tier Data Hierarchy Protocol (Rule 30)
+- **Primary Source (Correlation Matrix):** Always extract Means, SDs, and reliabilities from the primary correlation matrix first.
+- **Secondary Source (Descriptive Tables):** If Means or SDs are entirely missing from the correlation matrix, you MUST scan secondary descriptive statistics tables (e.g., Table 1) before declaring them missing.
+- **Tertiary Source (In-text Narrative):** If still not found, check the methodology narrative text.
+- **Strict Prohibition (No Overwrite):** Under NO circumstances should in-text narrative values overwrite or supersede values explicitly printed in a table.
