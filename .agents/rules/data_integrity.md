@@ -93,3 +93,20 @@ To ensure that any researcher can cross-verify effect sizes directly against the
 - **Orthogonal Cartesian Pairing Topology:** When a study measures both the global composite BSB and its discrete external/internal sub-facets (e.g., `BSA`, `External Com.`, `Internal Com.`):
   - Each BSB construct must be orthogonally paired with all substantive Non-BS variables ($N_{\text{BSB}} \times M_{\text{Non-BS}} = K \text{ rows}$).
   - Substantive Non-BS variables (Col 45) include contextual, demographic, attitudinal, stress, and outcome constructs, but exclude BSB sub-dimensions.
+
+---
+
+## 9. Broadened Worker Population Boundary Protocol (Rule 29)
+- **Worker Definition (Broadened Inclusion Scope):** The target population for this meta-analysis encompasses all individual workers performing work-related boundary-spanning behaviors (BSB). This officially includes:
+  - Formally employed staff, specialists, managers, and executives (salaried or hourly organizational employees).
+  - Skilled digital freelancers (e.g., Upwork/platform professionals as in Lalos, 2024), gig workers, and independent contractors performing work across client or organizational networks.
+  - Self-employed professionals and entrepreneurs *provided* the study empirically measures their individual interpersonal boundary-spanning behavior (e.g., information scouting, task coordination, external representation across professional or organizational boundaries).
+- **Mandatory Inclusion (`1 = Include`):** Studies investigating individual boundary-spanning behavior among digital freelancers, gig workers, independent contractors, or self-employed workers that provide extractable zero-order effect sizes ($r$) MUST BE INCLUDED (`1 = Include`).
+- **Preserved Non-Worker Exclusions (`Code 2 = Non-employee samples`):** The exclusion under `Code 2` is strictly preserved and applied to non-worker populations who are not active labor/workforce participants:
+  - **Student Samples:** Undergraduate or graduate (including MBA) students participating in academic coursework, classroom exercises, or experimental simulations (e.g., Baldwin 1990; Lanaj & Hollenbeck 2015; Marrone et al. 2007; Nasim & Iqbal 2020; Kenda et al. 2021).
+  - **Consumer & Citizen Samples:** General consumers, product users, or online forum visitors (e.g., Albert et al. 2019).
+  - **Bibliometric / Synthetic Data:** Studies utilizing purely citation records (e.g., Web of Science) without human worker surveys.
+- **Level of Analysis & Construct Discriminant Safeguards:**
+  - If a study on entrepreneurs or self-employed individuals measures **Work-Life or Work-Family boundary management** rather than organizational/client boundary spanning $\rightarrow$ Exclude under **`Code 1 (No effect size of interest / Construct Mismatch)`**.
+  - If a study examines firm-level strategic alliances, inter-firm patenting, or macro MNE networks $\rightarrow$ Exclude under **`Code 3 (Non-individual level)`**.
+

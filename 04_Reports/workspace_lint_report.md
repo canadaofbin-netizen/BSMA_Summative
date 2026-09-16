@@ -14,7 +14,7 @@
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Excel Data Integrity | 627 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
+| Excel Data Integrity | 626 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
 ### [INFO] (4)
 
