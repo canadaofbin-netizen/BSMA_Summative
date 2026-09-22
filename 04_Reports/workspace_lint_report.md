@@ -24,7 +24,7 @@
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
 | Excel Data Integrity | Master Sheet 'BSMA_Master_Coding_Sheet.xlsx' contains legacy flat headers (40 Unnamed cells). | Historical master sheet uses single-tier schema. Batch extraction sheets must strictly use Rule 20 3-tier structure. |
 | Excel Data Integrity | Heuristic Data Notice in '49_53_66.xlsx': Paper [49] has 100% missing Mean and SD across 15 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
-| Excel Data Integrity | Heuristic Data Notice in '234_235_236_238.xlsx': Paper [234] has 100% missing Mean and SD across 5 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
+| Excel Data Integrity | Heuristic Data Notice in '234_235_236_238.xlsx': Paper [234] has 100% missing Mean and SD across 6 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
 
 ### [PASS] (10)
 
