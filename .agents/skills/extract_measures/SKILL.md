@@ -71,7 +71,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   2. **Circuit Breakers:**
      - **LATENT CIRCUIT BREAKER:** If matrix is CFA/SEM latent without raw zero-order correlations, record latent note or return `[LATENT_CORRELATION_VIOLATION]`.
      - **LoA CIRCUIT BREAKER:** If table notes reveal group/team aggregation ($N = \text{teams}$), return `[LoA_VIOLATION]`.
-  3. **Stage 2 (Pruning & Coordinates):** Drop demographic control variables (Age, Gender, Tenure, Education).
+  3. **Stage 2 (Matrix Variable Inventory & Coordinates):** Do NOT drop demographic or control variables (Age, Gender, Tenure, Education, Experience, Firm Size, etc.). Extract ALL variables reported in the correlation matrix that are paired with BSB, ensuring 100% lossless extraction (Lossless Ingestion Guarantee per Rule 27 & Rule 28).
   4. **Table Axis Fidelity & Index Pruning (Rule 14):** Copy substantive variable names and abbreviations into `table_anchor_name` character-for-character (e.g., `"External Communication"`, `"Ext. Comm."`, `"Internal COBSB"`). Automatically prune purely table-indexing numeric prefixes (e.g., `"1. "`, `"10. "`). NEVER paraphrase, translate, or normalize the construct wording.
   5. **Descriptive Stats:** Extract `mean`, `sd`, and reliability (alpha) if printed in table or diagonal.
   6. **Zero-Order Correlations ($r$):** Extract raw correlations between variable pairs.
@@ -79,7 +79,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 - **Prompt Blueprint:**
   "Focus ONLY on the 'Means, Standard Deviations, and Correlations' square matrix in the PDF [Path].
   - Stage 1 (CoT): Output <matrix_reasoning> explicitly stating table number, table page number, and lower vs. upper diagonal structure.
-  - Drop all demographic variables (Age, Gender, Tenure, Education).
+  - Do NOT drop demographic or control variables (Age, Gender, Tenure, Education, Experience, Firm Size, etc.). Extract ALL variables present in the correlation matrix that are paired with BSB (lossless extraction per Rule 27 & Rule 28).
   - Prune table-indexing numbers (e.g., '1. ', '10. ') while strictly copying exact variable construct names/symbols from table axis into table_anchor_name (Rule 14: no paraphrasing or normalization).
   - Extract mean, sd, and table-reported reliability for each variable. If mean/sd are missing from the primary correlation matrix, you MUST scan secondary descriptive statistics tables (e.g., Table 1) to find them. Do NOT overwrite explicitly printed table values with in-text narrative values (Rule 30).
   - Extract zero-order correlations mapping var1_anchor and var2_anchor.
@@ -123,7 +123,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 - **Objectives:**
   1. **Construct Inventory & Classification (Rule 28):** Inspect all candidate variables described in text.
      - **Boundary Spanning Behavior (BS):** Individual behaviors reaching across boundary interfaces (external organizations, clients/customers, other departments) AND internal dissemination/influence sub-dimensions that operationalize the two-step boundary-spanning information transfer process (e.g., Gatekeeper Intraunit Dissemination/Internal Communication, COBSB Internal Influence).
-     - **Non-Boundary Spanning (NB):** Routine internal operations/behaviors, attitudes (identification, commitment), perceptions, or non-boundary performance.
+     - **Non-Boundary Spanning (NB):** Routine internal operations/behaviors, attitudes (identification, commitment), perceptions, job stress, performance outcomes, AND ALL demographic and control variables (e.g., Age, Gender, Tenure, Education, Experience, Firm Size) that are paired with BSB in correlation matrices (Rule 28 L95). For single-item or objective demographic variables, extract them with `number_of_items: 1`, `min_score: 999`, `max_score: 999`, `report_type: "Objective"` (or `"Self-report"` if surveyed), `specific_measure_used: exact substring from text or variable name`, and `reliability: {"type": "Not_Applicable", "value": 999}`.
   2. **ZERO-BSB CIRCUIT BREAKER:** If ZERO variables qualify as `"BS"`, return fatal code `[NO_BSB_CONSTRUCT_VIOLATION]`.
   3. **Anchor Reconciliation Bridge:** Map each textual measure to the candidate table axis names (`table_anchor_name`) from Specialist B to prevent fuzzy join failures.
   4. **Sub-scale Decomposition (Extraction Rule 6):** If a global scale (e.g., 13 items) is broken down into sub-scales in the matrix, decompose and extract exact item counts per sub-scale.
@@ -137,10 +137,10 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
      - `reliability`: polymorphic object `{"type": "Alpha"|"Omega"|"CR"|"Not_Applicable", "value": 0.88}` (if not reported, use `999` for value per Dual Missing Data Protocol).
      - `notes`: Specific notes or composite definitions (Rule 7).
   6. **Non-BS Measure Descriptors (Cols 34–40):**
-     - Identical rigorous schema for all substantive non-BS variables.
+     - Identical rigorous schema for all substantive non-BS variables, including demographic and control variables reported in the correlation matrix paired with BSB. Single-item demographic variables default to `number_of_items: 1` and `reliability: {"type": "Not_Applicable", "value": 999}` per Rule 1.
 - **Prompt Blueprint:**
   "Focus ONLY on the Methodology ('Measures') section in the PDF [Path].
-  - Classify each variable as 'BS' (Boundary Spanning Behavior: actions spanning external boundaries, clients, other departments, AS WELL AS internal dissemination/influence sub-dimensions such as Gatekeeper Intraunit Dissemination/Internal Communication and COBSB Internal Influence per Rule 28) or 'NB' (Non-BS: routine internal operations, attitudes, job stress, performance outcomes).
+  - Classify each variable as 'BS' (Boundary Spanning Behavior: actions spanning external boundaries, clients, other departments, AS WELL AS internal dissemination/influence sub-dimensions such as Gatekeeper Intraunit Dissemination/Internal Communication and COBSB Internal Influence per Rule 28) or 'NB' (Non-BS: routine internal operations, attitudes, job stress, performance outcomes, AND all demographic/control variables such as Age, Gender, Tenure, Education, Experience per Rule 28 L95). Extract ALL variables paired with BSB in correlation matrices without dropping demographics.
   - ZERO-BSB CIRCUIT BREAKER: If 0 variables qualify as 'BS', return [NO_BSB_CONSTRUCT_VIOLATION].
   - For each variable, extract:
     1. table_anchor_name: Match exactly to candidate correlation table axis names.
@@ -193,7 +193,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
   - Await parallel execution of Specialists A, B, and C.
   - If any specialist returns a fatal circuit breaker code (`[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately abort extraction and record screening verdict.
   - Execute deterministic Python Cartesian join:
-    - For each BSB Measure ($i \in [1..M]$) and each Non-BS Measure ($j \in [1..K]$):
+    - For each BSB Measure ($i \in [1..M]$) and each Non-BS Measure ($j \in [1..K]$) (including all demographic and control constructs):
       - Query Specialist B's matrix for correlation $r_{ij}$ and `cell_proof`.
       - Construct 50-column row:
         - Cols 1–2: Coder Initials & Paper ID.
@@ -207,7 +207,6 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         - Cols 34–40: Non-BS Measure Descriptors from Specialist C.
         - Cols 41–44: BSB Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
         - Cols 45–48: Non-BS Effect Size Stats (Construct Name, Mean, SD, Reliability) from Specialist B.
-        - Col 49: Correlation $r_{ij}$ from Specialist B.
         - Col 49: Correlation $r_{ij}$ from Specialist B.
         - Col 50: Notes (Strictly formatted per Rule 9: `Table X (p. Y), Row: <row>, Col: <col>, Raw: <val>` plus pipe-delimited verbatim evidence quotes for any methodological flags, e.g. `| Latent correlation: [<Location>] "<Quote>"` or `| Global composite: [<Location>] "<Quote>"`).
     - Enforce Rule 1 Dual Missing Data Protocol: integer `999` for missing numeric metrics, clean blank (`None`) for non-applicable text fields.
@@ -238,7 +237,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 **Extraction Rule 7: Sub-dimension vs. Global Composite Extraction Protocol:** When a study provides both a global composite BSB score (e.g., Tushman gatekeeping BSA combining intra- and extra-unit communication) and an independent external communication sub-facet (e.g., Extraunit Communication):
 (a) Prioritize extracting the pure external boundary-spanning facet (`External Communication`) as the primary BSB measure.
 (b) If the global composite BSB is also extracted, it must be explicitly labeled with `| Global composite: [<Location>] "<exact methodology sentence proving formula/rank combination>"` in Col 50 (Notes) to preserve meta-analytic independence.
-(c) Purely intra-unit communication (within the team/department) must strictly remain classified as `"NB"`.
+(c) Intra-unit communication / internal dissemination that operationalizes the second stage of the two-step gatekeeper boundary-spanning process (e.g., Sexton 1995, Tushman 1977) MUST be classified as a BSB sub-dimension in Col 41 per Rule 28. Only non-boundary internal group dynamics (e.g., routine internal team meetings, interpersonal conflict) that are not part of the boundary-spanning architecture remain classified as "NB".
 
 **Extraction Rule 8: Subagent Quota & Local Python Fallback Protocol:** If `invoke_subagent` fails due to API rate limits or quota exhaustion (`RESOURCE_EXHAUSTED 429`), the Orchestrator must immediately execute an isolated local Python script using `fitz` (PyMuPDF) to extract the PDF text and correlation tables, maintaining 100% operational continuity without halting the pipeline.
 

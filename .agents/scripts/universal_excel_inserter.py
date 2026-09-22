@@ -183,18 +183,6 @@ def sanitize_reliability(rel_dict):
 # ============================================================
 # Layer 5: Token-Aware Anchor Reconciliation & Safe Matching
 # ============================================================
-DEMOGRAPHIC_KEYWORDS = ["age", "gender", "tenure", "education", "experience", "sex", "marital"]
-
-def is_demographic_anchor(anchor_name):
-    """Check if variable is a demographic control variable."""
-    if not anchor_name:
-        return False
-    lower = anchor_name.lower().strip()
-    for kw in DEMOGRAPHIC_KEYWORDS:
-        if kw == lower or re.search(rf'\b{kw}\b', lower):
-            return True
-    return False
-
 def is_internal_anchor(text):
     tokens = re.findall(r'\w+', text.lower())
     return any(t in ['internal', 'intra', 'inside', 'int'] for t in tokens)
@@ -262,15 +250,12 @@ def route_and_insert_data(excel_path, payload):
     correlations = payload.get("correlations", [])
     measure_details = payload.get("measure_details", [])
 
-    # 3. Inner Join (Smart Matching with Demographic Filter)
+    # 3. Safe Construct Join (Smart Matching — Lossless Zero-Drop Policy)
     joined_vars = []
     unmatched_vars = []
 
     for var in variables:
         anchor = var.get("table_anchor_name", "")
-        if is_demographic_anchor(anchor):
-            print(f"  [DEMOGRAPHIC_PRUNED] Dropped control variable: '{anchor}'")
-            continue
 
         match = None
         for detail in measure_details:
@@ -281,6 +266,12 @@ def route_and_insert_data(excel_path, payload):
 
         if match:
             rel_sanitized = sanitize_reliability(match.get("reliability"))
+            # Rule 30 & 27: If text reliability is missing (999), check if correlation table reported reliability
+            if rel_sanitized["value"] == 999 and var.get("reliability_table") not in [None, 999, "", "-", "n/a", "N/A"]:
+                table_rel = sanitize_numeric(var.get("reliability_table"), default=999)
+                if table_rel != 999:
+                    rel_sanitized = {"type": "Alpha", "value": table_rel}
+
             joined_vars.append({
                 "anchor": anchor,
                 "mean": sanitize_numeric(var.get("mean") if var.get("mean") not in [None, 999, "", "-", "n/a", "N/A"] else match.get("mean", 999)),
@@ -293,13 +284,33 @@ def route_and_insert_data(excel_path, payload):
                 "reliability_type": rel_sanitized["type"],
                 "reliability": rel_sanitized["value"],
                 "specific_measure": sanitize_text(match.get("specific_measure")),
-                "source_quote": sanitize_text(match.get("source_quote"))
+                "source_quote": sanitize_text(match.get("source_quote")),
+                "composite_quote": sanitize_text(match.get("composite_quote") or var.get("composite_quote"))
             })
         else:
             unmatched_vars.append(anchor)
+            # Lossless Parity (Rule 27 & 28): Route unmatched table variables as default Non-BS (NB) constructs
+            table_rel = sanitize_numeric(var.get("reliability_table"), default=999)
+            rel_type = "Alpha" if table_rel != 999 else "Not_Applicable"
+            rel_val = table_rel if table_rel != 999 else 999
+            joined_vars.append({
+                "anchor": anchor,
+                "mean": sanitize_numeric(var.get("mean"), default=999),
+                "sd": sanitize_numeric(var.get("sd"), default=999),
+                "classification_type": "NB",
+                "items": sanitize_numeric(var.get("items") or var.get("number_of_items"), default=1),
+                "items_quote": None,
+                "min": sanitize_numeric(var.get("min"), default=999),
+                "max": sanitize_numeric(var.get("max"), default=999),
+                "reliability_type": rel_type,
+                "reliability": rel_val,
+                "specific_measure": sanitize_text(var.get("specific_measure"), default=anchor),
+                "source_quote": None,
+                "composite_quote": sanitize_text(var.get("composite_quote"))
+            })
 
     if unmatched_vars:
-        print(f"  [WARNING] Unmatched table variables (could not link to measures): {unmatched_vars}")
+        print(f"  [ROUTED_DEFAULT_NB] Unmatched table variables routed as default Non-BS (NB) constructs: {unmatched_vars}")
 
     # 4. Separate into BS and NB
     bs_vars = [v for v in joined_vars if v["classification_type"] == "BS"]
@@ -315,7 +326,7 @@ def route_and_insert_data(excel_path, payload):
     footnote_quote = payload.get("table_footnote_quote")
 
     for bs in bs_vars:
-        composite_quote = bs.get("composite_quote")
+        composite_quote = bs.get("composite_quote") or payload.get("global_composite_quote") or payload.get("composite_quote")
         for nb in nb_vars:
             r_val = 999
             cell_proof_note = None
@@ -347,13 +358,13 @@ def route_and_insert_data(excel_path, payload):
                     break
 
             pair_row = [
-                # BS Variables (Cols 18-26)
+                # BS Measure Descriptors (Cols 27-29, 32) & Effect Size Stats (Cols 41-44)
                 bs["items"], bs["min"], bs["max"], None, bs["specific_measure"], bs["anchor"], bs["mean"], bs["sd"], bs["reliability"],
-                # NB Variables (Cols 27-35)
+                # Non-BS Measure Descriptors (Cols 34-36, 39) & Effect Size Stats (Cols 45-48)
                 nb["items"], nb["min"], nb["max"], None, nb["specific_measure"], nb["anchor"], nb["mean"], nb["sd"], nb["reliability"],
-                # Correlation (Col 36)
+                # Correlation r (Col 49)
                 r_val,
-                # Cell Proof metadata (Col 50 Notes)
+                # Cell Proof metadata & Provenance Flags (Col 50 Notes)
                 cell_proof_note
             ]
             pairs.append(pair_row)

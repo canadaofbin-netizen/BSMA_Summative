@@ -12,7 +12,7 @@
 | **Upper vs. Lower Matrix Trap** | Matrix Asymmetry | Upper diagonal contains latent CFA correlations or $p$-values; lower diagonal contains zero-order $r$ | Extract ONLY zero-order Pearson $r$ (usually lower diagonal). Check table footnote. |
 | **Listwise vs. Pairwise N Trap** | Sample Size | Abstract states $N=350$, but table note states "Listwise $N=312$" or "$N=300-345$" | Table listwise $N$ takes absolute precedence. If range, use conservative listwise minimum. |
 | **Reliability Polymorphism** | Reliability | Reporting CR ($\rho_c$) or $\omega$ instead of Cronbach's $\alpha$ | Record exact type in `reliability.type` (`Alpha`, `CR`, `Omega`, `Not_Reported`). Never guess. |
-| **Formative / Demographic Drop** | Objective Variables | Firm Age, Firm Size, Employee Tenure, Gender in correlation matrix | Drop demographic control variables. For objective variables kept, set reliability to `Not_Applicable` and `999`. |
+| **Demographic & Objective Controls** | Non-BS Classification | Employee Tenure, Age, Gender, Education, Firm Size in correlation matrix | Extract ALL paired variables as Non-BS (NB) constructs (Rule 28). For single-item/objective controls, set items to 1 and reliability to Not_Applicable (999). |
 | **Global vs. Sub-facet Redundancy** | Construct Independence | Table reports both "COBSB Total" and "Service Delivery, External Representation" | Extract sub-facets ONLY. If Global must be extracted, label Col 50 with `"Global composite score"`. |
 | **Reverse-Coded Scale Distortion** | Scale Direction | Negative correlation due to reversed scale item without textual mention | Rely on raw correlation sign reported in table. Do NOT invert signs post-hoc. |
 | **Scanned/Landscape OCR Warp** | Layout / OCR | Table printed landscape or image scanned (column alignment shifted) | Use PyMuPDF zoom/rotation or bounding-box slicing to inspect raw pixel text directly. |
@@ -46,11 +46,11 @@
   2. Decompose the items based on the text (e.g., External Representation: 5 items; Internal Influence: 4 items; Service Delivery: 4 items).
   3. If the text does NOT report decomposed item counts or reliabilities for each sub-dimension, enforce the **Dual Missing Data Protocol (`999`)**.
 
-### Trap 4: Demographics and Objective Variable Pruning
-- **Pattern:** Correlation matrices frequently include control variables such as Age, Gender, Organizational Tenure, Education, and Firm Size.
-- **Mandatory Guardrail:**
-  1. **Prune Demographics:** Pure control demographic variables (Age, Gender, Tenure, Education) must NOT be paired with BSB as meta-analytic outcome variables unless explicitly designated as substantive research variables.
-  2. **Formative/Single-Item Metrics:** For objective variables (e.g., Firm Size measured by number of employees, Objective Sales Revenue in dollars), reliability does not exist. Set `reliability.type = "Not_Applicable"` and `reliability.value = 999`. Items count should be `1`.
+### Trap 4: Demographic and Objective Control Variables (Mandatory Lossless Extraction)
+- **Pattern:** Correlation matrices frequently include control and demographic variables such as Age, Gender, Organizational Tenure, Education, Experience, and Firm Size.
+- **Mandatory Guardrail (Rule 27 & Rule 28 Integration):**
+  1. **Zero Dropping Policy:** Do NOT drop demographic or control variables. Every variable reported in the correlation matrix that pairs with BSB MUST be losslessly extracted as a substantive Non-BS (`NB`) variable in Col 45.
+  2. **Formative / Single-Item Metrics:** For single-item demographic or objective metrics (e.g., Age in years, Gender dummy, Tenure in years, Firm Size), set `number_of_items = 1`, `min_score = 999`, `max_score = 999`, `report_type = "4 = Objective"` (or `"1 = Self-report"`), and `reliability = {"type": "Not_Applicable", "value": 999}`.
 
 ---
 
@@ -69,7 +69,8 @@ Note: Values in parentheses on the diagonal are square roots of AVE. * p < .05, 
   - Diagonal values `(0.81)`, `(0.79)`, `(0.85)` are square roots of AVE, not correlations.
   - Lower triangle contains raw Pearson zero-order correlations.
   - Significance asterisks must be stripped: `0.34**` -> `0.34`, `0.28*` -> `0.28`.
-- **Node 3 Output Fragment:**
+- **Node 3 Output Fragment (Rule 28 Two-Step BSB Integration):**
+  *(Note: Per Rule 28, 'Intra-unit Comm.' is an internal dissemination BSB sub-dimension, so both BSB variables pair with 'Job Performance')*
   ```json
   {
     "correlations": [
@@ -81,6 +82,16 @@ Note: Values in parentheses on the diagonal are square roots of AVE. * p < .05, 
           "row_header_quote": "3. Job Performance",
           "col_header_quote": "1. External Communication",
           "raw_cell_value": "0.28*"
+        }
+      },
+      {
+        "var1_anchor": "Intra-unit Comm.",
+        "var2_anchor": "Job Performance",
+        "r": 0.41,
+        "cell_proof": {
+          "row_header_quote": "3. Job Performance",
+          "col_header_quote": "2. Intra-unit Comm.",
+          "raw_cell_value": "0.41**"
         }
       }
     ]
