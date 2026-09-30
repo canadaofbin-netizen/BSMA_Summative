@@ -34,9 +34,9 @@
 | Academic Papers Registry | All 701 Academic Papers perfectly present and conform to '[ID] Author (Year) - Title.pdf' |  |
 | Excel Data Integrity | Master sheet has exact 50-column full-extraction structure. |  |
 | Excel Data Integrity | No bold markdown in header cells. |  |
-| Excel Data Integrity | Rule 20 canonical 3-tier headers verified in batch sheets: ['49_53_66.xlsx', 'Full text coding sheet.xlsx', '70_94_109.xlsx', '203_207_208_225.xlsx', '234_235_236_238.xlsx'] (zero 'Unnamed' headers). |  |
+| Excel Data Integrity | Rule 20 canonical 3-tier headers verified in batch sheets: ['49_53_66.xlsx', 'Full text coding sheet.xlsx', '70_94_109.xlsx', '203_207_208_225.xlsx', '234_235_236_238.xlsx', '383_384_385_387_389.xlsx'] (zero 'Unnamed' headers). |  |
 | Excel Data Integrity | Rule 1 Dual Missing Data verified: Zero forbidden text strings in numeric columns. |  |
-| Excel Data Integrity | Rule 27 Lossless Parity verified: 7 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
+| Excel Data Integrity | Rule 27 Lossless Parity verified: 8 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
 | Agent Protocols & SSOT | All 5 skills are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 3 rule modules are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | No stale directory paths detected in .agents scripts and skills. |  |
