@@ -20,7 +20,7 @@
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Workspace Hygiene | Scratch directory contains 35 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
+| Workspace Hygiene | Scratch directory contains 37 temporary item(s) | Scratch directory holds temporary files. Ensure it is cleaned post-batch. |
 | Excel Data Integrity | Master sheet contains 723 coded paper entries. |  |
 | Excel Data Integrity | Master Sheet 'BSMA_Master_Coding_Sheet.xlsx' contains legacy flat headers (40 Unnamed cells). | Historical master sheet uses single-tier schema. Batch extraction sheets must strictly use Rule 20 3-tier structure. |
 | Excel Data Integrity | Heuristic Data Notice in '49_53_66.xlsx': Paper [49] has 100% missing Mean and SD across 15 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
@@ -36,7 +36,7 @@
 | Excel Data Integrity | No bold markdown in header cells. |  |
 | Excel Data Integrity | Rule 20 canonical 3-tier headers verified in batch sheets: ['49_53_66.xlsx', 'Full text coding sheet.xlsx', '70_94_109.xlsx', '203_207_208_225.xlsx', '234_235_236_238.xlsx', '383_384_385_387_389.xlsx', '392_398_399_403_407.xlsx'] (zero 'Unnamed' headers). |  |
 | Excel Data Integrity | Rule 1 Dual Missing Data verified: Zero forbidden text strings in numeric columns. |  |
-| Excel Data Integrity | Rule 27 Lossless Parity verified: 10 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
+| Excel Data Integrity | Rule 27 Lossless Parity verified: 11 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
 | Agent Protocols & SSOT | All 5 skills are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 3 rule modules are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | No stale directory paths detected in .agents scripts and skills. |  |
