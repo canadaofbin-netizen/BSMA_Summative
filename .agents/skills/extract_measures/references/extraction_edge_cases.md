@@ -13,7 +13,7 @@
 | **Listwise vs. Pairwise N Trap** | Sample Size | Abstract states $N=350$, but table note states "Listwise $N=312$" or "$N=300-345$" | Table listwise $N$ takes absolute precedence. If range, use conservative listwise minimum. |
 | **Reliability Polymorphism** | Reliability | Reporting CR ($\rho_c$) or $\omega$ instead of Cronbach's $\alpha$ | Record exact type in `reliability.type` (`Alpha`, `CR`, `Omega`, `Not_Reported`). Never guess. |
 | **Demographic & Objective Controls** | Non-BS Classification | Employee Tenure, Age, Gender, Education, Firm Size in correlation matrix | Extract ALL paired variables as Non-BS (NB) constructs (Rule 28). For single-item/objective controls, set items to 1 and reliability to Not_Applicable (999). |
-| **Global vs. Sub-facet Redundancy** | Construct Independence | Table reports both "COBSB Total" and "Service Delivery, External Representation" | Extract sub-facets ONLY. If Global must be extracted, label Col 50 with `"Global composite score"`. |
+| **Global vs. Sub-facet Redundancy** | Construct Independence | Table reports both "COBSB Total" and "Service Delivery, External Representation" | Prioritize sub-facets. If Global is also extracted, append `\| Global composite: [<Section, p. Y>] "<exact verbatim sentence>"` in Col 50 (Rule 9). |
 | **Reverse-Coded Scale Distortion** | Scale Direction | Negative correlation due to reversed scale item without textual mention | Rely on raw correlation sign reported in table. Do NOT invert signs post-hoc. |
 | **Scanned/Landscape OCR Warp** | Layout / OCR | Table printed landscape or image scanned (column alignment shifted) | Use PyMuPDF zoom/rotation or bounding-box slicing to inspect raw pixel text directly. |
 
@@ -29,7 +29,7 @@
 - **Mandatory Guardrail:**
   1. Always inspect the table notes: *"Note: Diagonal elements (in bold/parentheses) are the square root of AVE; below diagonal are correlations."*
   2. Extract from the **lower diagonal** when raw correlations are present.
-  3. If the paper ONLY provides latent correlations (no raw matrix), extract them but explicitly flag `"Based on latent variables"` in the notes.
+  3. If the paper ONLY provides latent correlations (no raw matrix), extract them and append the mandatory Rule 9 provenance flag in Col 50 Notes: `| Latent correlation: [<Table/Page/Section>] "<exact verbatim sentence or footnote proving latent structure>"` (naked labels without verbatim quotes are strictly prohibited).
   4. NEVER extract AVE square roots as correlation coefficients.
 
 ### Trap 2: Matrix-Specific Listwise $N$ Guardrail
@@ -37,7 +37,7 @@
 - **Mandatory Guardrail:**
   1. The effective sample size for the effect size is the matrix-specific $N$.
   2. The table footnote's listwise $N$ ($N=254$) **takes absolute precedence** over the text's sample description ($N=280$).
-  3. If only a pairwise range is provided (e.g., $240-275$), code the conservative minimum ($N=240$) and document the range in Col 50 Notes.
+  3. If only a pairwise range is provided (e.g., $240-275$), code the conservative minimum ($N=240$) and document the range in Col 50 Notes (`| Sample N footnote: [<Table Footnote>] "<exact verbatim footnote sentence detailing effective N>"`).
 
 ### Trap 3: Sub-dimension Mapping vs. Global Composite
 - **Pattern:** The text describes the focal BSB construct using a global label (e.g., *"Customer-oriented boundary-spanning behavior (COBSB) was measured with 13 items from Bettencourt et al. (2005)"*), but Table 1 lists three separate sub-scales: *"1. External Representation"*, *"2. Internal Influence"*, *"3. Service Delivery"*.
@@ -65,20 +65,24 @@ Variables                   Mean   SD     1        2        3
 3. Job Performance          4.05  0.58   0.28*    0.41**  (0.85)
 Note: Values in parentheses on the diagonal are square roots of AVE. * p < .05, ** p < .01.
 ```
-- **Node 3 CoT Reasoning:**
+- **Specialist B CoT Reasoning:**
   - Diagonal values `(0.81)`, `(0.79)`, `(0.85)` are square roots of AVE, not correlations.
   - Lower triangle contains raw Pearson zero-order correlations.
   - Significance asterisks must be stripped: `0.34**` -> `0.34`, `0.28*` -> `0.28`.
-- **Node 3 Output Fragment (Rule 28 Two-Step BSB Integration):**
+- **Specialist B Output Fragment (Rule 28 Two-Step BSB Integration):**
   *(Note: Per Rule 28, 'Intra-unit Comm.' is an internal dissemination BSB sub-dimension, so both BSB variables pair with 'Job Performance')*
   ```json
   {
+    "table_number": "Table 2",
+    "table_page_number": 151,
     "correlations": [
       {
         "var1_anchor": "External Communication",
         "var2_anchor": "Job Performance",
         "r": 0.28,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 151,
           "row_header_quote": "3. Job Performance",
           "col_header_quote": "1. External Communication",
           "raw_cell_value": "0.28*"
@@ -89,6 +93,8 @@ Note: Values in parentheses on the diagonal are square roots of AVE. * p < .05, 
         "var2_anchor": "Job Performance",
         "r": 0.41,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 151,
           "row_header_quote": "3. Job Performance",
           "col_header_quote": "2. Intra-unit Comm.",
           "raw_cell_value": "0.41**"
@@ -98,22 +104,23 @@ Note: Values in parentheses on the diagonal are square roots of AVE. * p < .05, 
   }
   ```
 
-### Example 2: Sub-scale Text Decomposition (Node 4)
+### Example 2: Sub-scale Text Decomposition (Specialist C)
 - **Text:** *"Boundary-spanning behavior was assessed using the 13-item scale developed by Bettencourt and Brown (2003), comprising external representation (5 items, alpha = .88), internal influence (4 items, alpha = .82), and service delivery (4 items, alpha = .85)."*
-- **Node 4 Output Fragment:**
+- **Specialist C Output Fragment:**
   ```json
   {
-    "measure_details": [
+    "boundary_spanning_measures": [
       {
         "table_anchor_name": "External Representation",
-        "classification_type": "BS",
-        "items": 5,
-        "items_quote": "external representation (5 items, alpha = .88)",
-        "min": 1,
-        "max": 7,
+        "number_of_items": 5,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Bettencourt and Brown (2003)",
+        "items_quote": "Boundary-spanning behavior was assessed using the 13-item scale developed by Bettencourt and Brown (2003), comprising external representation (5 items, alpha = .88), internal influence (4 items, alpha = .82), and service delivery (4 items, alpha = .85).",
         "reliability": {"type": "Alpha", "value": 0.88},
-        "specific_measure": "external representation",
-        "source_quote": "Boundary-spanning behavior was assessed using the 13-item scale developed by Bettencourt and Brown (2003), comprising external representation (5 items, alpha = .88)..."
+        "source_quote": "Boundary-spanning behavior was assessed using the 13-item scale developed by Bettencourt and Brown (2003), comprising external representation (5 items, alpha = .88), internal influence (4 items, alpha = .82), and service delivery (4 items, alpha = .85)."
       }
     ]
   }

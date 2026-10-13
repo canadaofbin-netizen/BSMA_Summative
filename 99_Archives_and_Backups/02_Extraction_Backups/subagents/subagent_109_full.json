@@ -1,0 +1,32 @@
+{
+  "node_0_screening": {
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "reasoning": "Paper #109 (Cummings, 2004) investigates work group structural diversity and knowledge sharing where the unit of analysis is exclusively the work group (N = 182 work groups). Although 957 individual group members completed surveys on knowledge sharing, member responses were explicitly averaged across members and applied to the entire group. All reported bivariate correlations in Table 2 (\"Correlation Matrix with Main Study Variables (N = 182 Work Groups)\") and subsequent ordered logit models in Tables 3 and 4 are aggregated at the work group level (N = 182). No individual-level correlation matrix or zero-order effect sizes exist. Therefore, the paper triggers the Level of Analysis (LoA) Circuit Breaker and must be excluded under Screening Rule 4 (Code 3: Non-individual level analysis).",
+    "verbatim_evidence": "[Qualitative and Quantitative Evidence] \"There was at least one respondent from each work group, and responses were averaged across members and applied to the entire group.\" [Footnote 1] \"Selection bias analyses were conducted at the group level of analysis (N = 182).\" [Table 2] \"Table 2 Correlation Matrix with Main Study Variables (N = 182 Work Groups)\" [Sample] \"Data used to test the above hypotheses (see Figure 1 for a complete model) come from a sample of 182 work groups and include (1) corporate database records, (2) 20 group interviews, (3) 182 surveys of group leaders, (4) 957 surveys of group members, and (5) senior executives’ ratings of group performance.\" [Preliminary Analyses] \"Second, intraclass correlations justifying a group-level analysis were significant for intragroup and external knowledge sharing.\""
+  },
+  "study_sample_descriptor": {
+    "coder_initials": "KY",
+    "article_id": 109,
+    "sample_id": 1,
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": "Not Reported",
+    "country": "USA",
+    "country_specify": "Not Reported",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 182,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "Work group members / leaders",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Sample] \"Data used to test the above hypotheses (see Figure 1 for a complete model) come from a sample of 182 work groups and include (1) corporate database records, (2) 20 group interviews, (3) 182 surveys of group leaders, (4) 957 surveys of group members, and (5) senior executives’ ratings of group performance.\""
+  },
+  "table_matrix": null,
+  "measure_details": null
+}

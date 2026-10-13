@@ -1,0 +1,632 @@
+{
+  "screening": {
+    "verdict": "1 = include",
+    "sample_type": "R&D technical professionals (scientists, engineers, technicians) in high technology industries",
+    "unit_of_analysis": "Individual employee level",
+    "effective_n": 253,
+    "empirical_bsb_construct": "Empirical individual-level boundary spanning activity measured via intraunit and extraunit communication frequency",
+    "reasoning": "The dissertation empirically measures individual-level boundary spanning activity and its sub-facet extraunit communication frequency among R&D professionals across six high-technology firms. A complete zero-order correlation matrix is reported in Table 3.9."
+  },
+  "study_details": {
+    "paper_id": 70,
+    "title": "Dual Commitment and Boundary Spanning Activity of R&D Professionals",
+    "authors": [
+      "Carol Sexton"
+    ],
+    "year": 1995,
+    "effective_sample_size": 253
+  },
+  "dataset_fingerprint": {
+    "sample_origin": "USA (California)",
+    "data_collection_year": 1994
+  },
+  "is_longitudinal": false,
+  "is_imputed": false,
+  "is_partial_mixed": false,
+  "is_transformed": false,
+  "table_matrix": {
+    "table_number": "Table 3.9",
+    "cot_reasoning": "Table 3.9 (p. 131 / PDF p. 151) is a landscape table presenting a lower triangular matrix of zero-order Pearson intercorrelations among 19 variables for N = 253. The upper diagonal is empty, and diagonal unities are omitted. Footnote a defines significance thresholds: absolute values of .12 and above are significant at p < .05, and absolute values of .17 and above are significant at p < .01. In accordance with Extraction Rule 7, both the global composite construct ('1. BSA') and the specific external sub-facet ('3. External Com.') are extracted, while intra-unit communication ('2. Internal Com.') is classified as 'NB'. Demographic variables (4. Age, 5. Sex, 6. Tenure) are pruned from substantive pairings.",
+    "variables": [
+      {
+        "table_anchor_name": "1. BSA",
+        "mean": 50.51,
+        "sd": 21.54
+      },
+      {
+        "table_anchor_name": "2. Internal Com.",
+        "mean": 2.19,
+        "sd": 1.02
+      },
+      {
+        "table_anchor_name": "3. External Com.",
+        "mean": 0.19,
+        "sd": 0.12
+      },
+      {
+        "table_anchor_name": "7. Status",
+        "mean": 2.94,
+        "sd": 1.08
+      },
+      {
+        "table_anchor_name": "8. Org. Size",
+        "mean": 2.58,
+        "sd": 0.66
+      },
+      {
+        "table_anchor_name": "9. Industry",
+        "mean": 0.62,
+        "sd": 0.49
+      },
+      {
+        "table_anchor_name": "10. Org. Comm.",
+        "mean": 5.06,
+        "sd": 1.24
+      },
+      {
+        "table_anchor_name": "11. Prof. Comm.",
+        "mean": 5.23,
+        "sd": 1.06
+      },
+      {
+        "table_anchor_name": "12. Dual Comm.",
+        "mean": 27.07,
+        "sd": 10.03
+      },
+      {
+        "table_anchor_name": "13. Complexity",
+        "mean": 53.33,
+        "sd": 14.67
+      },
+      {
+        "table_anchor_name": "14. Uncertainty",
+        "mean": 5.20,
+        "sd": 1.10
+      },
+      {
+        "table_anchor_name": "15. Interdepend.",
+        "mean": 3.53,
+        "sd": 1.36
+      },
+      {
+        "table_anchor_name": "16. Degree",
+        "mean": 2.58,
+        "sd": 1.17
+      },
+      {
+        "table_anchor_name": "17. Occupation",
+        "mean": 1.83,
+        "sd": 0.54
+      },
+      {
+        "table_anchor_name": "18. Prof. Control",
+        "mean": 3.28,
+        "sd": 1.25
+      },
+      {
+        "table_anchor_name": "19. Prof. Incent.",
+        "mean": 4.08,
+        "sd": 1.34
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "2. Internal Com.",
+        "r": 0.74,
+        "cell_proof": {
+          "row_header_quote": "2. Internal Com.",
+          "col_header_quote": "1",
+          "raw_cell_value": ".74**"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "3. External Com.",
+        "r": 0.73,
+        "cell_proof": {
+          "row_header_quote": "3. External Com.",
+          "col_header_quote": "1",
+          "raw_cell_value": ".73**"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "7. Status",
+        "r": 0.05,
+        "cell_proof": {
+          "row_header_quote": "7. Status",
+          "col_header_quote": "1",
+          "raw_cell_value": ".05"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "8. Org. Size",
+        "r": 0.03,
+        "cell_proof": {
+          "row_header_quote": "8. Org. Size",
+          "col_header_quote": "1",
+          "raw_cell_value": ".03"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "9. Industry",
+        "r": 0.02,
+        "cell_proof": {
+          "row_header_quote": "9. Industry",
+          "col_header_quote": "1",
+          "raw_cell_value": ".02"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "10. Org. Comm.",
+        "r": 0.18,
+        "cell_proof": {
+          "row_header_quote": "10. Org. Comm.",
+          "col_header_quote": "1",
+          "raw_cell_value": ".18**"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "11. Prof. Comm.",
+        "r": 0.01,
+        "cell_proof": {
+          "row_header_quote": "11. Prof. Comm.",
+          "col_header_quote": "1",
+          "raw_cell_value": ".01"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "12. Dual Comm.",
+        "r": -0.10,
+        "cell_proof": {
+          "row_header_quote": "12. Dual Comm.",
+          "col_header_quote": "1",
+          "raw_cell_value": "-.10"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "13. Complexity",
+        "r": -0.01,
+        "cell_proof": {
+          "row_header_quote": "13. Complexity",
+          "col_header_quote": "1",
+          "raw_cell_value": "-.01"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "14. Uncertainty",
+        "r": 0.17,
+        "cell_proof": {
+          "row_header_quote": "14. Uncertainty",
+          "col_header_quote": "1",
+          "raw_cell_value": ".17**"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "15. Interdepend.",
+        "r": 0.21,
+        "cell_proof": {
+          "row_header_quote": "15. Interdepend.",
+          "col_header_quote": "1",
+          "raw_cell_value": ".21**"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "16. Degree",
+        "r": -0.06,
+        "cell_proof": {
+          "row_header_quote": "16. Degree",
+          "col_header_quote": "1",
+          "raw_cell_value": "-.06"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "17. Occupation",
+        "r": 0.12,
+        "cell_proof": {
+          "row_header_quote": "17. Occupation",
+          "col_header_quote": "1",
+          "raw_cell_value": ".12*"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "18. Prof. Control",
+        "r": 0.02,
+        "cell_proof": {
+          "row_header_quote": "18. Prof. Control",
+          "col_header_quote": "1",
+          "raw_cell_value": ".02"
+        }
+      },
+      {
+        "var1_anchor": "1. BSA",
+        "var2_anchor": "19. Prof. Incent.",
+        "r": -0.01,
+        "cell_proof": {
+          "row_header_quote": "19. Prof. Incent.",
+          "col_header_quote": "1",
+          "raw_cell_value": "-.01"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "2. Internal Com.",
+        "r": 0.10,
+        "cell_proof": {
+          "row_header_quote": "3. External Com.",
+          "col_header_quote": "2",
+          "raw_cell_value": ".10"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "7. Status",
+        "r": 0.11,
+        "cell_proof": {
+          "row_header_quote": "7. Status",
+          "col_header_quote": "3",
+          "raw_cell_value": ".11"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "8. Org. Size",
+        "r": -0.05,
+        "cell_proof": {
+          "row_header_quote": "8. Org. Size",
+          "col_header_quote": "3",
+          "raw_cell_value": "-.05"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "9. Industry",
+        "r": -0.21,
+        "cell_proof": {
+          "row_header_quote": "9. Industry",
+          "col_header_quote": "3",
+          "raw_cell_value": "-.21**"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "10. Org. Comm.",
+        "r": 0.09,
+        "cell_proof": {
+          "row_header_quote": "10. Org. Comm.",
+          "col_header_quote": "3",
+          "raw_cell_value": ".09"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "11. Prof. Comm.",
+        "r": 0.03,
+        "cell_proof": {
+          "row_header_quote": "11. Prof. Comm.",
+          "col_header_quote": "3",
+          "raw_cell_value": ".03"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "12. Dual Comm.",
+        "r": -0.05,
+        "cell_proof": {
+          "row_header_quote": "12. Dual Comm.",
+          "col_header_quote": "3",
+          "raw_cell_value": "-.05"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "13. Complexity",
+        "r": 0.10,
+        "cell_proof": {
+          "row_header_quote": "13. Complexity",
+          "col_header_quote": "3",
+          "raw_cell_value": ".10"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "14. Uncertainty",
+        "r": 0.19,
+        "cell_proof": {
+          "row_header_quote": "14. Uncertainty",
+          "col_header_quote": "3",
+          "raw_cell_value": ".19**"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "15. Interdepend.",
+        "r": 0.27,
+        "cell_proof": {
+          "row_header_quote": "15. Interdepend.",
+          "col_header_quote": "3",
+          "raw_cell_value": ".27**"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "16. Degree",
+        "r": 0.17,
+        "cell_proof": {
+          "row_header_quote": "16. Degree",
+          "col_header_quote": "3",
+          "raw_cell_value": ".17**"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "17. Occupation",
+        "r": -0.13,
+        "cell_proof": {
+          "row_header_quote": "17. Occupation",
+          "col_header_quote": "3",
+          "raw_cell_value": "-.13*"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "18. Prof. Control",
+        "r": 0.13,
+        "cell_proof": {
+          "row_header_quote": "18. Prof. Control",
+          "col_header_quote": "3",
+          "raw_cell_value": ".13*"
+        }
+      },
+      {
+        "var1_anchor": "3. External Com.",
+        "var2_anchor": "19. Prof. Incent.",
+        "r": 0.11,
+        "cell_proof": {
+          "row_header_quote": "19. Prof. Incent.",
+          "col_header_quote": "3",
+          "raw_cell_value": ".11"
+        }
+      }
+    ]
+  },
+  "measure_details": [
+    {
+      "table_anchor_name": "1. BSA",
+      "classification_type": "BS",
+      "notes": "Global composite score",
+      "items": 999,
+      "items_quote": "This was done by obtaining percentile ranking of subjects on intraunit and extraunit communication activity scores and using the mean of the two ranks as the boundary spanning score.",
+      "min": 7.5,
+      "max": 95,
+      "reliability": {
+        "type": "Not_Reported",
+        "value": 999
+      },
+      "specific_measure": "boundary spanning score",
+      "source_quote": "This was done by obtaining percentile ranking of subjects on intraunit and extraunit communication activity scores and using the mean of the two ranks as the boundary spanning score."
+    },
+    {
+      "table_anchor_name": "3. External Com.",
+      "classification_type": "BS",
+      "items": 12,
+      "items_quote": "Extraunit communication frequency was measured by asking subjects to report frequency of work-related communication on a six-point scale (0=never, 1=about once a month, 2=less than once a week, 3=about once a week, 4=more than once a week, 5=almost every day) with each of 12 categories of individuals over the past month.",
+      "min": 0,
+      "max": 5,
+      "reliability": {
+        "type": "Not_Reported",
+        "value": 999
+      },
+      "specific_measure": "Extraunit communication frequency",
+      "source_quote": "Extraunit communication frequency is the second component of boundary spanning behavior."
+    },
+    {
+      "table_anchor_name": "2. Internal Com.",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "Subjects were asked about communication frequency within the last month with every other technical professional in the unit, using a 6-point Likert-type scale (0=never, 1=about once a month, 2=less than once a week, 3=about once a week, 4=more than once a week, 5=almost every day).",
+      "min": 0,
+      "max": 5,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "Intraunit communication frequency",
+      "source_quote": "Intraunit communication frequency is one of the two components of boundary spanning activity."
+    },
+    {
+      "table_anchor_name": "7. Status",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "For the purposes of this study, the large number of categorical values reported for job title were collapsed into 5 values, ranging from associate member (1) to manager (5).",
+      "min": 1,
+      "max": 5,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "job title",
+      "source_quote": "For the purposes of this study, the large number of categorical values reported for job title were collapsed into 5 values, ranging from associate member (1) to manager (5)."
+    },
+    {
+      "table_anchor_name": "8. Org. Size",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "Organizations were ranked from 1 (small) to 3 (large)",
+      "min": 1,
+      "max": 3,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "Organizational size",
+      "source_quote": "Organizational size was determined by the total number of technical professionals, both managers and non-managers, located at the site."
+    },
+    {
+      "table_anchor_name": "9. Industry",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "Because the majority of the sample (62 per cent) was engaged in research related to the microelectronics industry, it was decided to create a dichotomous variable to control for structural differences.",
+      "min": 0,
+      "max": 1,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "dichotomous variable",
+      "source_quote": "Because the majority of the sample (62 per cent) was engaged in research related to the microelectronics industry, it was decided to create a dichotomous variable to control for structural differences."
+    },
+    {
+      "table_anchor_name": "10. Org. Comm.",
+      "classification_type": "NB",
+      "items": 9,
+      "items_quote": "A 9-item short form was used (Angle & Perry, 1981).",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.92
+      },
+      "specific_measure": "Organizational Commitment Questionnaire",
+      "source_quote": "The Organizational Commitment Questionnaire (OCQ) (Porter et. al., 1974) is widely used and generally the preferred measure of organizational commitment (Ferris & Aranya, 1983)."
+    },
+    {
+      "table_anchor_name": "11. Prof. Comm.",
+      "classification_type": "NB",
+      "items": 9,
+      "items_quote": "Both sets of commitment items were measured using a 7-point Likert-type scale from 1=strongly disagree to 7=strongly agree.",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.90
+      },
+      "specific_measure": "format similar to the OCQ",
+      "source_quote": "This variable was measured using a format similar to the OCQ following Lachman & Aranya (1986)."
+    },
+    {
+      "table_anchor_name": "12. Dual Comm.",
+      "classification_type": "NB",
+      "items": 999,
+      "items_quote": "An interaction variable was created from the cross product of organizational commitment and professional commitment mean scale scores.",
+      "min": 999,
+      "max": 999,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "interaction variable",
+      "source_quote": "An interaction variable was created from the cross product of organizational commitment and professional commitment mean scale scores."
+    },
+    {
+      "table_anchor_name": "13. Complexity",
+      "classification_type": "NB",
+      "items": 4,
+      "items_quote": "Subjects were asked to indicate what percentage of their work falls into each of four categories.",
+      "min": 25,
+      "max": 100,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "weighted sum of the percentages",
+      "source_quote": "All of the above researchers used a weighted sum of the percentages as a measure of task complexity."
+    },
+    {
+      "table_anchor_name": "14. Uncertainty",
+      "classification_type": "NB",
+      "items": 3,
+      "items_quote": "A three-item scale was constructed and asked subjects to rate the extent of change of their task requirements on a seven-point scale ranging from 1 (almost no change) to 7 (constantly changing).",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.76
+      },
+      "specific_measure": "three-item scale",
+      "source_quote": "A three-item scale was constructed and asked subjects to rate the extent of change of their task requirements on a seven-point scale ranging from 1 (almost no change) to 7 (constantly changing)."
+    },
+    {
+      "table_anchor_name": "15. Interdepend.",
+      "classification_type": "NB",
+      "items": 3,
+      "items_quote": "The decision was made to delete the intraproject coordination item.",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.63
+      },
+      "specific_measure": "Extraproject Coordination scale",
+      "source_quote": "For the Extraproject Coordination scale, with intraproject coordination deleted, alpha was .63."
+    },
+    {
+      "table_anchor_name": "16. Degree",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "In addition, individual variables of highest degree attained and profession were used to indicate the individual's level of professionalization.",
+      "min": 1,
+      "max": 4,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "highest degree attained",
+      "source_quote": "In addition, individual variables of highest degree attained and profession were used to indicate the individual's level of professionalization."
+    },
+    {
+      "table_anchor_name": "17. Occupation",
+      "classification_type": "NB",
+      "items": 1,
+      "items_quote": "In addition, individual variables of highest degree attained and profession were used to indicate the individual's level of professionalization.",
+      "min": 1,
+      "max": 3,
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "specific_measure": "profession",
+      "source_quote": "In addition, individual variables of highest degree attained and profession were used to indicate the individual's level of professionalization."
+    },
+    {
+      "table_anchor_name": "18. Prof. Control",
+      "classification_type": "NB",
+      "items": 2,
+      "items_quote": "The estimate of scale reliability for each of these scales was .61 for Professional Control and .32 for Autonomy.",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.61
+      },
+      "specific_measure": "Professional Control",
+      "source_quote": "The estimate of scale reliability for each of these scales was .61 for Professional Control and .32 for Autonomy."
+    },
+    {
+      "table_anchor_name": "19. Prof. Incent.",
+      "classification_type": "NB",
+      "items": 3,
+      "items_quote": "The first factor, labeled \"Professional Incentives\" was straightforward: the underlying construct is organizational adoption of professional values.",
+      "min": 1,
+      "max": 7,
+      "reliability": {
+        "type": "Cronbach_Alpha",
+        "value": 0.72
+      },
+      "specific_measure": "Professional Incentives",
+      "source_quote": "The first factor, labeled \"Professional Incentives\" was straightforward: the underlying construct is organizational adoption of professional values."
+    }
+  ]
+}

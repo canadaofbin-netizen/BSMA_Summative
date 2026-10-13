@@ -165,7 +165,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.88},
         \"mean\": 3.45,
         \"sd\": 0.82,
-        \"source_quote\": \"Keller (1994) developed the six-item external communication scale...\",
+        \"source_quote\": \"Keller (1994) developed the six-item external communication scale to measure cross-boundary information exchange.\",
         \"notes\": \"Primary external boundary-spanning facet\"
       }
     ],
@@ -182,7 +182,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
         \"reliability\": {\"type\": \"Alpha\", \"value\": 0.84},
         \"mean\": null,
         \"sd\": null,
-        \"source_quote\": \"Role ambiguity was measured using the six-item scale from Rizzo, House, and Lirtzman (1970)...\",
+        \"source_quote\": \"Role ambiguity was measured using the six-item scale from Rizzo, House, and Lirtzman (1970).\",
         \"notes\": null
       }
     ]
@@ -214,7 +214,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 ## 3. STRICT JSON ONLY & Hand-off
 - Wait asynchronously for all 3 subagents.
 - If ANY subagent returns a fatal string code (e.g., `[LoA_VIOLATION]`, `[NO_BSB_CONSTRUCT_VIOLATION]`, `[AMBIGUOUS_MATRIX_DIAGONAL]`), immediately return that string code to the Orchestrator. Do NOT attempt to merge.
-  - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: No effect size of interest` (or `Construct Homonymy`). Verbatim evidence is preserved in the screening database (`BSMA_Master_Coding_Sheet.xlsx` Col 16 Notes), not in the extraction batch sheet (which blanks Cols 7-16 per Rule 19).
+  - On `[NO_BSB_CONSTRUCT_VIOLATION]`: Automatically convert the paper judgment to `0 = exclude` with `Reason for Exclusion: 1 = No effect size of interest`. Verbatim evidence is preserved in the screening database (`BSMA_Master_Coding_Sheet.xlsx` Col 16 Notes), not in the extraction batch sheet (which blanks Cols 7–16 per Rule 19).
 - Otherwise, merge the 3 valid JSON responses via the Deterministic Integration Engine and return the complete payload to the Orchestrator for Validation.
 
 ## 4. Strict Domain Guardrails
@@ -227,7 +227,7 @@ Use the `invoke_subagent` tool to spawn THREE specialized `research` subagents i
 
 **Extraction Rule 4: 3-Specialist Swarm Architecture (Study/Sample, Matrix, Measures):** You must utilize a specialized 3-Specialist Subagent Swarm (`study_sample_descriptor`, `boundary_spanning_matrix`, `measure_descriptor`) followed by deterministic Python Cartesian integration to aggressively prevent cognitive overload and ensure 100% data integrity across all 50 columns.
 
-**Extraction Rule 5: Physical Excel Isolation (4-Sheet Rule):** Data must be inserted into one of 4 isolated sheets (Raw_Metrics, Transformed_Metrics, Imputed_Metrics, Salami_Review_Queue) depending on its `is_transformed`, `is_imputed`, and dataset fingerprint flags to maintain 100% purity of the zero-order `Raw_Metrics`.
+**Extraction Rule 5: Dedicated Batch Coding Sheet Architecture (`[start]_[end].xlsx`):** Phase 2 full-text statistical extractions are stored in dedicated batch workbooks (`03_Coding_Sheets/[start]_[end].xlsx`) inside the canonical `"Extracted Data"` worksheet initialized via `.agents/scripts/excel_template_util.py` (inheriting the 3-tier header from `03_Coding_Sheets/49_53_66.xlsx`). Any methodological nuances (latent correlations, global composite scores, pairwise $N$ footnotes, or partial correlation controls) are documented directly in **Col 50 (`Notes`)** using the pipe-delimited provenance format required by Rule 9.
 
 - **SEM-only Data Warning (Extraction Rule 1 supplement):** If a paper relies entirely on SEM path coefficients and does NOT provide a zero-order correlation matrix (even latent), it must be excluded for lacking extractable effect sizes. Do NOT confuse partial rectangular cross-correlation tables with full square correlation matrices.
 
@@ -263,5 +263,5 @@ As a domain skill, this file is governed by the global `.agents/AGENTS.md`. When
 - **Rule 1 (Dual Missing Data Protocol):** This is why we strictly enforce `999` for missing numeric metrics and clean blank (`None`) for non-applicable text fields. `"Not Reported"` is prohibited.
 - **Core Principle 5 (Dynamic Skill Abstraction & Protection):** The Subagent Prompts provided in Section 2 are structural blueprints. The Orchestrator must dynamically deploy and tune them based on the specific paper context, rather than treating them as static strings.
 - **Rule 13 (Verbatim Quote Evidence Standards):** All subagent verdicts and text extractions must include full verbatim evidence with no ellipsis truncation.
-- **Measurement Edge Cases Reference:** Consult [references/extraction_edge_cases.md](file:///references/extraction_edge_cases.md) for detailed matrix and statistical trap warnings.
+- **Measurement Edge Cases Reference:** Consult [references/extraction_edge_cases.md](file:///.agents/skills/extract_measures/references/extraction_edge_cases.md) for detailed matrix and statistical trap warnings.
 

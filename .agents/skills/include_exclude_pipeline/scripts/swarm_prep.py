@@ -84,6 +84,13 @@ def prep_swarm(excel_path, batch_size=40):
         "organization, this IS a valid BSB construct -> INCLUDE. Do NOT exclude just because "
         "the paper labels it 'knowledge exchange' instead of 'boundary spanning behavior'. "
         "The construct captures the same purposive cross-boundary activity.\n\n"
+        "9. BROADENED WORKER POPULATION BOUNDARY (Rule 29): Active workforce participants "
+        "including salaried/hourly employees, digital freelancers (e.g., Upwork professionals), "
+        "gig workers, independent contractors, self-employed professionals/entrepreneurs measuring "
+        "work-related interpersonal BSB, and MBA/professional graduate consulting teams in real "
+        "client-facing field engagements MUST BE INCLUDED (1 = Include). Preserve Code 2 "
+        "(Non-employee samples) strictly for non-worker samples: undergraduate classroom/lab "
+        "simulations, general consumers/citizens, and bibliometric citation records.\n\n"
         "=== FEW-SHOT JUDGMENT EXAMPLES ===\n\n"
         "EXAMPLE 1 (INCLUDE - Leader BSB):\n"
         "Paper: 'Leader boundary-spanning behavior and creative behavior'\n"
@@ -112,21 +119,21 @@ def prep_swarm(excel_path, batch_size=40):
         "=== OUTPUT FORMAT (MANDATORY FIELD ORDER) ===\n\n"
         "You MUST output your JSON in EXACTLY this order:\n"
         "{\n"
-        '  "BSMA_ID": "...",           // 1st - Always preserved\n'
-        '  "Verdict": 0 or 1,          // 2nd - Always preserved\n'
-        '  "Exclusion_Code": ...,      // 3rd - Always preserved\n'
-        '  "Reasoning": "...",          // 4th - Summary of judgment\n'
-        '  "Verbatim_Evidence": "..."   // 5th - LAST. Extract MAXIMUM evidence (Rule 30)\n'
+        '  "BSMA_ID": "<BSMA_ID>",\n'
+        '  "Verdict": 0 or 1,\n'
+        '  "Exclusion_Code": "<code_or_999>",\n'
+        '  "Reasoning": "<summary_of_judgment>",\n'
+        '  "Verbatim_Evidence": "<full_verbatim_quotes_without_ellipses>"\n'
         "}\n\n"
         "IMPORTANT: Write Verbatim_Evidence LAST. Extract MAXIMUM evidence "
         "from ALL sections of the PDF (Abstract, Method, Results, Discussion). "
-        "Do NOT truncate or summarize quotes. Use full, complete sentences.\n\n"
+        "Do NOT truncate or summarize quotes (Rule 13: zero ellipses allowed). Use full, complete sentences.\n\n"
         "=== END OF PREAMBLE ==="
     )
 
     subagents = []
     for art_id, pdf_path in pending:
-        prompt = f"Now review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs/{art_id}.json`."
+        prompt = f"{preamble}\n\nNow review `{art_id}`. The PDF is at `{pdf_path}`. Output to `scratch/outputs/{art_id}.json`."
 
         subagents.append({
             "TypeName": "bsma_reviewer_v4",

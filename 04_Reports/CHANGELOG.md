@@ -244,3 +244,28 @@ git diff 0820472 8086302 -- .agents/skills/include_exclude_pipeline/references/
 3. **Interactive Slash Command Registration:**
    - Registered `**/summary**` in `.agents/AGENTS.md` Interactive Slash Commands and linked in the central Agent Customizations Index.
 
+---
+
+## V5.3 -> V5.4: Rules 28–31 Codification, Batch Extractions (up to Paper 511), & Full Repository Optimization (2026-10-13)
+
+**Architectural, Theoretical & Data Integrity Upgrades:**
+
+1. **Theoretical & Formatting Protocol Codification (Rules 28–31 in `.agents/rules/data_integrity.md`):**
+   - **Rule 28 (Gatekeeper & Two-Step BSB Sub-dimension Classification Protocol):** Formalized Tushman's two-step boundary-spanning information processing model (External Information Acquisition + Internal Information Dissemination) and COBSB sub-dimensions (`Internal Influence`, `External Representation`, `Service Delivery`) in Col 41, paired orthogonally with all substantive Non-BS and demographic variables in Col 45.
+   - **Rule 29 (Broadened Worker Population Boundary Protocol):** Clarified active workforce boundaries to include salaried/hourly employees, digital freelancers, gig workers, independent contractors, self-employed professionals/entrepreneurs measuring work-related interpersonal BSB, and MBA/graduate consulting teams in real client-facing field engagements (`1 = Include`), while preserving `Code 2` exclusions for undergraduate classroom simulations, consumers, and bibliometric records.
+   - **Rule 30 (3-Tier Data Hierarchy Protocol):** Enforced strict extraction precedence: Primary Correlation Matrix $\rightarrow$ Secondary Descriptive Tables $\rightarrow$ In-Text Narrative, prohibiting narrative overwrites of printed table values.
+   - **Rule 31 (Meeting-Ready Summary Artifact Formatting Protocol):** Standardized clean academic Markdown reporting with zero decorative graphs or ASCII trees, complete original correlation/descriptive tables, verbatim proof quotes, and clickable file links.
+
+2. **Master Architectural Map (`지도`) & Documentation Synchronization (`.agents/AGENTS.md`, `.agents/memory.md`):**
+   - Expanded `.agents/AGENTS.md` into the comprehensive 4-section Master Architectural Map detailing repository topology, coding sheet schemas (`BSMA_Master_Coding_Sheet.xlsx`, `Full text coding sheet.xlsx`, and all 7 `[start]_[end].xlsx` batch sheets), end-to-end pipeline dataflow, and a complete index of all rules, skills, scripts, and memory references.
+   - Harmonized `.agents/memory.md` with Rule 29 and adjudicated full-text extraction statuses (`BSMA0225`, `BSMA0304`, `BSMA0389`, `BSMA0398`, `BSMA0403`, `BSMA0407`, `BSMA0411`, `BSMA0501`, `BSMA0509`, `BSMA0512`).
+
+3. **Full-Text Batch Extractions & 100% Verbatim Audit Compliance (`03_Coding_Sheets/`):**
+   - Audited and cleaned all 7 batch coding sheets (`49_53_66.xlsx`, `70_94_109.xlsx`, `203_207_208_225.xlsx`, `234_235_236_238.xlsx`, `383_384_385_387_389.xlsx`, `392_398_399_403_407.xlsx`, `501_506_508_509_511.xlsx`), plus `BSMA_Master_Coding_Sheet.xlsx` (pruned to exact 701 papers, zero ellipses in Col 16) and `Full text coding sheet.xlsx` (pruned 1,067 empty trailing rows to exact 123-row human baseline).
+   - Eliminated 100% of ellipses (`...`) across all sheets by restoring complete verbatim PDF sentences, enforced 100% substring fidelity between `Cols 32/39` (`Specific Measure Used`) and `Cols 33/40` (`Broad Category / Quotes`) per Rule 14, and cleared residual notes on excluded rows per Rule 19.
+
+4. **Script Suite Refactoring & Storage Deduplication (~1.02 GB Reclaimed):**
+   - Upgraded `universal_excel_inserter.py` (real 50-column OpenPyXL template-inheriting inserter), `verify_ingestion_parity.py` (comprehensive 13-column parity verification), `batch_summary.py` (Rule 31 Markdown table taxonomy + dynamic compliance auditing + expanded bilingual dictionary), `linter.py` (recursive scratch check + deep Rules 1/9/13/14/19/20/27 auditing), and `backup_manager.py` (SHA-256 content deduplication across all coding sheets, reports, and `.agents/`).
+   - Reclaimed ~1.02 GB by purging redundant legacy branch backups, duplicate milestone zips, and scratch artifacts while strictly preserving `99_Archives_and_Backups/NEVER_CHANGE_IN_ANY_CASES/`.
+
+

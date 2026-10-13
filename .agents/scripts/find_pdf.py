@@ -2,17 +2,16 @@ import os
 import re
 import sys
 import argparse
-import glob
 import fitz  # PyMuPDF
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-def find_pdf_text(article_id, excel_path="03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx", texts_dir="scratch/pdf_texts"):
+def find_pdf_text(article_id, texts_dir="scratch/pdf_texts"):
     os.makedirs(texts_dir, exist_ok=True)
     target_txt = os.path.join(texts_dir, f"{article_id}.txt")
     
     # Extract number from Article ID (e.g., BSMA0005 -> 5)
-    m = re.search(r'(\d+)', article_id)
+    m = re.search(r'(\d+)', str(article_id))
     if not m:
         return target_txt
     art_no = int(m.group(1))
@@ -47,11 +46,10 @@ def find_pdf_text(article_id, excel_path="03_Coding_Sheets/BSMA_Master_Coding_Sh
     return target_txt
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--id", required=True)
-    parser.add_argument("--excel", default="03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx")
-    parser.add_argument("--dir", default="scratch/pdf_texts")
+    parser = argparse.ArgumentParser(description="Locate PDF by Paper ID and extract text to scratch/pdf_texts/")
+    parser.add_argument("--id", required=True, help="Paper ID (e.g., 53 or BSMA0053)")
+    parser.add_argument("--dir", default="scratch/pdf_texts", help="Output directory for extracted text")
     args = parser.parse_args()
     
-    result = find_pdf_text(args.id, args.excel, args.dir)
+    result = find_pdf_text(args.id, args.dir)
     print(result)

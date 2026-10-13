@@ -13,14 +13,11 @@ import os
 import re
 import json
 import csv
-import pandas as pd
 from datetime import datetime
 import openpyxl
-from openpyxl import load_workbook
 import argparse
 import glob
 import shutil
-import subprocess
 
 # Removed hardcoded EXCEL_PATH
 CWD = os.getcwd()
@@ -314,7 +311,7 @@ def inject_swarm_results(excel_path):
             EXCLUSION_CODE_MAP = {
                 1: "1 = No effect size of interest",
                 2: "2 = Non-employee samples",
-                3: "3 = Non-individual level",
+                3: "3 = Non-individual level (team/firm/org analysis)",
                 4: "4 = Non-primary study",
                 5: "5 = Multiple reasons (specify in Notes)",
                 6: "6 = Duplicate",
@@ -385,18 +382,10 @@ def inject_swarm_results(excel_path):
     print("=" * 60)
 
     if contamination_rate >= 10:
-        print("\n  ⚠️  WARNING: Contamination rate exceeds 10% threshold!")
-        print("  ⚠️  Review quarantined files before continuing.\n")
+        print("\n  WARNING: Contamination rate exceeds 10% threshold!")
+        print("  Review quarantined files before continuing.\n")
 
     print(f"\nSuccessfully injected {total_injected} papers into Excel.")
-
-    # Generate batch report & post-highlight
-    if injected_ids:
-        print("\nGenerating Intermediate Batch Report...")
-        subprocess.run(["python", ".agents/skills/include_exclude_pipeline/scripts/generate_batch_report.py", "--ids"] + injected_ids, cwd=CWD)
-
-    print("\nRunning Post-Highlighting & Backup...")
-    subprocess.run(["python", ".agents/skills/include_exclude_pipeline/scripts/post_highlight.py"], cwd=CWD)
 
 
 if __name__ == "__main__":

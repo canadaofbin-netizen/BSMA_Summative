@@ -1,0 +1,316 @@
+{
+  "node_0_screening": {
+    "verdict": "1 = include",
+    "sample_type": "Frontline service employees (FSEs) in international tourist hotels in Taiwan",
+    "unit_of_analysis": "Individual employee (N = 382)",
+    "empirical_bsb_construct": "Customer-Oriented Boundary-Spanning Behaviors (COBSBs: External Representation, Internal Influence, Service Delivery; Bettencourt et al., 2005)",
+    "verbatim_evidence": "[Methodology: Data collection] \"This study collected data from FSEs in international hotels in Taiwan to test the research hypotheses.\" [Methodology: Measures] \"For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each.\""
+  },
+  "study_sample_descriptor": {
+    "coder_initials": "KY",
+    "article_id": 94,
+    "sample_id": 1,
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": "Not Reported",
+    "country": "Taiwan",
+    "country_specify": "Not Reported",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 382,
+    "mean_age": 999,
+    "pct_female": 65.2,
+    "org_tenure": 999,
+    "occupation_type": "Hotel frontline service employees",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Methodology: Data collection] \"This study collected data from FSEs in international hotels in Taiwan to test the research hypotheses. There were 79 international hotels in Taiwan in September 2019 (Tourism Bureau, 2019). The human resource managers of all 79 hotels were contacted and asked if they would be willing to help collecting the data for this research; 25 agreed to do so. Thirty questionnaires were sealed in envelopes and sent to those human resource managers at 25 international hotels (750 sealed questionnaires in total). Then the mangers distributed questionnaires to their FSEs and FSEs returned the completed questionnaires in another sealed envelope to his/her managers for sending them back to us. The incentives of gift certificates (150 NTDs) were provided to thank to respondents of this study and a 1000 NTDs worth gift certificate was given to each manager for appreciating his/her kind assistance. Research data were collected from October 15th to December 15th in 2019. 382 valid samples were collected, for a response rate of 50.9%. The responses of the late respondents (51 persons) were compared to those of the early respondents (332 persons) to examine non-response bias. The results showed no differences in any variable and hence non-response bias is unlikely to be a problem (Armstrong & Overton, 1977). The final sample consisted of 249 female (65.2%) and 133 male (34.8%) staff. Of these, 29.3% were below 30 years of age, and 23.8% were aged 41–50. Most respondents were under 5 years of tenure (39.5%) and 51.8% had a university degree.\""
+  },
+  "table_matrix": {
+    "table_number": "Table 2",
+    "table_title": "Table 2. Means, standard deviations, and correlations.",
+    "cot_reasoning": "Table 2 (p. 426) displays a lower triangular zero-order Pearson correlation matrix with means and standard deviations for 7 substantive variables among N = 382 frontline service employees. Diagonal entries contain composite reliabilities or unities (omitted). Footnote ** indicates p < 0.01; * indicates p < 0.05. Pruning: No demographic control variables (e.g., age, gender, tenure) are present in the correlation matrix. All 12 pairings between the 3 COBSB sub-dimensions (External Representation, Internal Influence, Service Delivery) and the 4 substantive non-BS constructs (Role Conflict, Role Ambiguity, Proactive Personality, Employee Creativity) are extracted.",
+    "variables": [
+      {
+        "table_anchor_name": "Role Conflict",
+        "mean": 3.35,
+        "sd": 0.93,
+        "alpha": 0.619
+      },
+      {
+        "table_anchor_name": "Role Ambiguity",
+        "mean": 2.86,
+        "sd": 1.11,
+        "alpha": 0.777
+      },
+      {
+        "table_anchor_name": "Proactive Personality",
+        "mean": 2.88,
+        "sd": 1.1,
+        "alpha": 0.894
+      },
+      {
+        "table_anchor_name": "Employee Creativity",
+        "mean": 5.68,
+        "sd": 0.86,
+        "alpha": 0.839
+      },
+      {
+        "table_anchor_name": "External Representation",
+        "mean": 5.46,
+        "sd": 0.8,
+        "alpha": 0.871
+      },
+      {
+        "table_anchor_name": "Internal Influence",
+        "mean": 5.63,
+        "sd": 0.88,
+        "alpha": 0.872
+      },
+      {
+        "table_anchor_name": "Service Delivery",
+        "mean": 5.81,
+        "sd": 0.81,
+        "alpha": 0.876
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Role Conflict",
+        "r": -0.368,
+        "cell_proof": {
+          "row_header_quote": "ER",
+          "col_header_quote": "RC",
+          "raw_cell_value": "− 0.368**"
+        }
+      },
+      {
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Role Ambiguity",
+        "r": -0.391,
+        "cell_proof": {
+          "row_header_quote": "ER",
+          "col_header_quote": "RA",
+          "raw_cell_value": "− 0.391**"
+        }
+      },
+      {
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Proactive Personality",
+        "r": 0.083,
+        "cell_proof": {
+          "row_header_quote": "ER",
+          "col_header_quote": "PP",
+          "raw_cell_value": "0.083"
+        }
+      },
+      {
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Employee Creativity",
+        "r": 0.476,
+        "cell_proof": {
+          "row_header_quote": "ER",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.476**"
+        }
+      },
+      {
+        "var1_anchor": "Internal Influence",
+        "var2_anchor": "Role Conflict",
+        "r": -0.311,
+        "cell_proof": {
+          "row_header_quote": "II",
+          "col_header_quote": "RC",
+          "raw_cell_value": "− 0.311**"
+        }
+      },
+      {
+        "var1_anchor": "Internal Influence",
+        "var2_anchor": "Role Ambiguity",
+        "r": -0.368,
+        "cell_proof": {
+          "row_header_quote": "II",
+          "col_header_quote": "RA",
+          "raw_cell_value": "− 0.368**"
+        }
+      },
+      {
+        "var1_anchor": "Internal Influence",
+        "var2_anchor": "Proactive Personality",
+        "r": 0.049,
+        "cell_proof": {
+          "row_header_quote": "II",
+          "col_header_quote": "PP",
+          "raw_cell_value": "0.049"
+        }
+      },
+      {
+        "var1_anchor": "Internal Influence",
+        "var2_anchor": "Employee Creativity",
+        "r": 0.669,
+        "cell_proof": {
+          "row_header_quote": "II",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.669**"
+        }
+      },
+      {
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Role Conflict",
+        "r": -0.287,
+        "cell_proof": {
+          "row_header_quote": "SD",
+          "col_header_quote": "RC",
+          "raw_cell_value": "− 0.287**"
+        }
+      },
+      {
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Role Ambiguity",
+        "r": -0.374,
+        "cell_proof": {
+          "row_header_quote": "SD",
+          "col_header_quote": "RA",
+          "raw_cell_value": "− 0.374**"
+        }
+      },
+      {
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Proactive Personality",
+        "r": -0.174,
+        "cell_proof": {
+          "row_header_quote": "SD",
+          "col_header_quote": "PP",
+          "raw_cell_value": "− 0.174**"
+        }
+      },
+      {
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Employee Creativity",
+        "r": 0.669,
+        "cell_proof": {
+          "row_header_quote": "SD",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.669**"
+        }
+      }
+    ]
+  },
+  "measure_details": [
+    {
+      "table_anchor_name": "External Representation",
+      "classification_type": "BS",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Bettencourt et al. (2005)",
+      "items_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.871
+      },
+      "source_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each."
+    },
+    {
+      "table_anchor_name": "Internal Influence",
+      "classification_type": "BS",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Bettencourt et al. (2005)",
+      "items_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.872
+      },
+      "source_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each."
+    },
+    {
+      "table_anchor_name": "Service Delivery",
+      "classification_type": "BS",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Bettencourt et al. (2005)",
+      "items_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.876
+      },
+      "source_quote": "For the measure of COBSB, this research used a 9-item scale from Bettencourt et al. (2005); internal influence, external representation, and service delivery were assessed with 3 items each."
+    },
+    {
+      "table_anchor_name": "Role Conflict",
+      "classification_type": "NB",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Rizzo, House, and Lirtzman (1970)",
+      "items_quote": "For role ambiguity and role conflict, a 6-item scale (3 items each) from Rizzo, House, and Lirtzman (1970) was employed.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.619
+      },
+      "source_quote": "For role ambiguity and role conflict, a 6-item scale (3 items each) from Rizzo, House, and Lirtzman (1970) was employed."
+    },
+    {
+      "table_anchor_name": "Role Ambiguity",
+      "classification_type": "NB",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Rizzo, House, and Lirtzman (1970)",
+      "items_quote": "For role ambiguity and role conflict, a 6-item scale (3 items each) from Rizzo, House, and Lirtzman (1970) was employed.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.777
+      },
+      "source_quote": "For role ambiguity and role conflict, a 6-item scale (3 items each) from Rizzo, House, and Lirtzman (1970) was employed."
+    },
+    {
+      "table_anchor_name": "Proactive Personality",
+      "classification_type": "NB",
+      "items": 3,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Seibert, Kraimer, and Crant (2001)",
+      "items_quote": "A 3-item scale from Seibert, Kraimer, and Crant (2001) was utilized to assess proactive personality.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.894
+      },
+      "source_quote": "A 3-item scale from Seibert, Kraimer, and Crant (2001) was utilized to assess proactive personality."
+    },
+    {
+      "table_anchor_name": "Employee Creativity",
+      "classification_type": "NB",
+      "items": 4,
+      "min": 1,
+      "max": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Not Reported",
+      "specific_measure": "Zhou and George’s (2001) 4-item scale",
+      "items_quote": "For the measure of employee creativity, Zhou and George’s (2001) 4-item scale from was employed.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.839
+      },
+      "source_quote": "For the measure of employee creativity, Zhou and George’s (2001) 4-item scale from was employed."
+    }
+  ]
+}

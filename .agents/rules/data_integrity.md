@@ -14,13 +14,12 @@ This document defines the strict data type policies, template schemas, and evide
 ---
 
 ## 2. Template Structure & Format Compliance (Rules 3, 6, 19)
-- **Universal Master Insertion (Rule 6):** ALL successfully processed papers MUST be injected into `03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx`. Every paper must retain its assigned BSMA ID.
-- **50-Column Full Extraction Schema (Rule 19):** `03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx` is the ultimate master template and contains the 50-column "Full Text Data Extraction" structure (Columns A through AX, covering Study/Sample Descriptors and Measure Descriptors).
-- **Screening vs Extraction Sheet Separation (Rule 19):**
-  - **Screening Master (`BSMA_Master_Coding_Sheet.xlsx`):** Retains full bibliographic metadata in Cols 1–16 (Article ID, Judgments, Reasons, Abstract, Title, Authors, Year, Notes) as the permanent screening record.
-  - **Extraction Batch Sheets (`[start]_[end].xlsx`):** Dedicated full-text extraction sheets eliminate bibliographic redundancy:
+- **Universal Master Screening Registry (Rule 6):** ALL 701 candidate papers MUST be registered and assigned a canonical BSMA ID (`BSMA0001`–`BSMA0701`) in `03_Coding_Sheets/BSMA_Master_Coding_Sheet.xlsx`.
+- **50-Column Master Schema & Phase Separation (Rule 19):** All coding sheets inherit the canonical 50-column structure (Columns A through AX, covering Article Descriptors, Study/Sample Descriptors, Measure Descriptors, and Effect Size):
+  - **Phase 1 Screening Master (`BSMA_Master_Coding_Sheet.xlsx`):** Retains full bibliographic metadata and screening verdicts in Cols 1–16 (Article ID, Judgments, Reasons, Abstract, Title, Authors, Year, Verbatim Notes) across all 701 papers as the permanent Phase 1 screening registry.
+  - **Phase 2 Extraction Batch Sheets (`[start]_[end].xlsx`):** Dedicated 50-column full-text statistical extraction sheets eliminate bibliographic redundancy:
     - `Col 3 (Sample ID)`: Left blank (`None`).
-    - `Cols 7–16 (Article Descriptors)`: Left completely blank (`None`) because this metadata is already preserved in the screening database.
+    - `Cols 7–16 (Article Descriptors)`: Left completely blank (`None`) because this metadata is already preserved in the screening database (`BSMA_Master_Coding_Sheet.xlsx`).
     - `Included Papers (1 = include)`: Data population strictly begins at **Col 17 (Study/Sample Descriptors)** through Col 50 (`Effect Size`).
     - `Excluded Papers (0 = exclude)`: Terminate immediately after **Col 6 (`Reason for Exclusion`)**, leaving all subsequent columns (Cols 7–50) completely blank (`None`).
 - **Prohibition of Bold Headers (Rule 3):** Never use markdown bold (`**`) or rich text bolding inside Excel header cells.

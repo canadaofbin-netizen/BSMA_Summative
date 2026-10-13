@@ -41,7 +41,7 @@ graph TD
     C --> C2["Code 3: Non-Individual Level of Analysis (n = 200)<br><i>e.g., Firm alliances, team aggregation, dyadic ties</i>"]
     C --> C3["Code 5: Multiple Criteria Violations (n = 124)"]
     C --> C4["Code 4: Non-Primary / Theoretical Paper (n = 34)"]
-    C --> C5["Code 2: Non-Employee Samples (n = 7)<br><i>e.g., Students, independent entrepreneurs</i>"]
+    C --> C5["Code 2: Non-Employee / Non-Worker Samples (n = 7)<br><i>e.g., Classroom simulations, general consumers (Rule 29)</i>"]
     end
 
     style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
@@ -60,11 +60,11 @@ The workspace strictly enforces a clean, numbered sequential directory system de
 BSMA/
 ├── 01_Academic_Papers/              # 701 Primary PDFs in canonical [ID] format
 ├── 02_Reference_Manuals/            # Operational coding manuals & student guidelines
-├── 03_Coding_Sheets/                # Master Excel databases & human coding baselines
-├── 04_Reports/                      # Diagnostic reports, error logs, and changelogs
+├── 03_Coding_Sheets/                # Master Excel databases & batch extraction sheets
+├── 04_Reports/                      # Diagnostic reports, match rate audits, and changelogs
 ├── 99_Archives_and_Backups/         # Read-only immutable vault and milestone backups
-├── .agents/                         # AI orchestrator prompt, modular rules, and skills
-├── scratch/                         # Ephemeral processing directory (strictly isolated)
+├── .agents/                         # AI orchestrator map (지도), modular rules, skills, and scripts
+├── scratch/                         # Ephemeral processing directory (strictly isolated & empty at rest)
 ├── README.md                        # Master project documentation
 └── .gitignore                       # Git exclusion rules
 ```
@@ -75,31 +75,38 @@ BSMA/
 |---|---|---|
 | [`01_Academic_Papers/`](file:///01_Academic_Papers/) | Complete repository of 701 academic papers. Every file strictly adheres to `[ID] Author (Year) - Title.pdf`. Zero non-PDF files allowed. | `[1] ...pdf` ~ `[701] ...pdf` |
 | [`02_Reference_Manuals/`](file:///02_Reference_Manuals/) | Detailed coding protocols, variable operationalizations, and theoretical inclusion/exclusion guidelines. | `Coding manual for students_0625.docx` |
-| [`03_Coding_Sheets/`](file:///03_Coding_Sheets/) | Central ground truth and full-text extraction spreadsheets. | `BSMA_Master_Coding_Sheet.xlsx`<br>`Full text coding sheet.xlsx` *(123 papers / 145 coded rows)*<br>`49_53_66.xlsx` |
-| [`04_Reports/`](file:///04_Reports/) | Statistical audits, inter-rater reliability logs, and diagnostic reports. | `Match_Rate_Report.md`<br>`error_report.md`<br>`CHANGELOG.md`<br>`workspace_lint_report.md` |
-| [`99_Archives_and_Backups/`](file:///99_Archives_and_Backups/) | Immutable baseline snapshots and automated zip milestones. | `NEVER_CHANGE_IN_ANY_CASES/`<br>`02_Database_Milestones/` |
+| [`03_Coding_Sheets/`](file:///03_Coding_Sheets/) | Central ground truth and 50-column full-text extraction spreadsheets. | `BSMA_Master_Coding_Sheet.xlsx` *(701 papers)*<br>`Full text coding sheet.xlsx` *(123-row human baseline)*<br>`49_53_66.xlsx`, `70_94_109.xlsx`, `203_207_208_225.xlsx`, `234_235_236_238.xlsx`, `383_384_385_387_389.xlsx`, `392_398_399_403_407.xlsx`, `501_506_508_509_511.xlsx` |
+| [`04_Reports/`](file:///04_Reports/) | Statistical audits, inter-rater reliability logs, and diagnostic reports. | `Match_Rate_Report.md`<br>`CHANGELOG.md`<br>`workspace_lint_report.md` |
+| [`99_Archives_and_Backups/`](file:///99_Archives_and_Backups/) | Immutable baseline snapshots and deduplicated zip milestones. | `NEVER_CHANGE_IN_ANY_CASES/`<br>`02_Database_Milestones/`<br>`02_Extraction_Backups/` |
 
 ---
 
 ## 4. Execution Commands and Workflows
 
 ### 1. Unified Repository and Data Audit (/lint)
-Audits root hygiene, PDF filenames, Excel columns, verbatim quotes, and agent rule synchronization.
+Audits root hygiene, PDF filenames, 50-column Excel schemas, verbatim quotes (Rules 1, 9, 13, 14, 19, 20, 27), and agent rule synchronization.
 ```bash
 # Run full diagnostic audit
 python .agents/scripts/linter.py
 
-# Auto-clean temporary caches
+# Auto-clean temporary caches and ghost files
 python .agents/scripts/linter.py --fix
 ```
 *In Antigravity Chat UI, type:* `/lint`
 
-### 2. Phase 1 Screening Pipeline (/includeexclude)
+### 2. Batch Summary & Variable Taxonomy Diagnostic (/summary)
+Generates an executive KPI table, study-by-study breakdown, Non-BS construct taxonomy table, and Cartesian pairing verification for any batch sheet or paper IDs:
+```bash
+python .agents/scripts/batch_summary.py 03_Coding_Sheets/501_506_508_509_511.xlsx
+```
+*In Antigravity Chat UI, type:* `/summary`
+
+### 3. Phase 1 Screening Pipeline (/includeexclude)
 Executes the high-throughput screening engine on pending academic papers.
 *In Antigravity Chat UI, type:* `/includeexclude`
 
-### 3. Automated Milestone Backup
-Creates a timestamped zip snapshot of all active databases and reports:
+### 4. Automated Milestone Backup
+Creates a SHA-256 deduplicated timestamped zip snapshot of all active coding sheets, reports, and `.agents/` configurations:
 ```bash
 python .agents/scripts/backup_manager.py
 ```
