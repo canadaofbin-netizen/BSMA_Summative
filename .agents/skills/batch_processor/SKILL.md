@@ -48,5 +48,7 @@ For each paper in the batch, execute the Two-Tier verification workflow:
 - **Lossless Ingestion Parity Gate (Rule 27):** Immediately following injection, execute `python .agents/scripts/verify_ingestion_parity.py --excel <target_sheet> --json temp_payload.json --paper-id [Article_ID]`. If any valid empirical statistic in JSON was dropped or converted to `999` in Excel, the script aborts with code 1, immediately halting git commit and reverting changes.
 - **Atomic Sync:** The moment a paper succeeds or fails, immediately update its status and `ROLLBACK_COUNT` in `batch_queue.csv` and execute `git add .`, `git commit -m "Auto-extracted measures for [Paper ID]"`, and `git push` to save progress atomically.
 
-## 6. Reporting
-- Present a summary of the batch run to the user. Provide a link to the `error_log.md` if any failed.
+## 6. Reporting & Meeting-Ready Summary Artifact (Rule 31)
+- Upon completing batch extraction and verification, generate a **Meeting-Ready Summary Artifact** strictly adhering to **Rule 31 (`Meeting-Ready Summary Artifact Formatting Protocol`)** in `.agents/rules/data_integrity.md` and `.agents/skills/batch_summary/SKILL.md` (zero graphs/diagrams, executive summary table, full original correlation/descriptive tables for included papers, original proof tables for excluded papers, extracted effect size tables, verbatim quotes with zero ellipses, and clickable Excel coding sheet links).
+- Provide a link to `04_Reports/error_report.md` if any fatal errors occurred.
+

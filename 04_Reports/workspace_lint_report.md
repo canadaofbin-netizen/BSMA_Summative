@@ -4,16 +4,17 @@
 ## Summary
 
 - **Critical Errors:** 0
-- **Warnings:** 1
-- **Passed Checks:** 10
+- **Warnings:** 2
+- **Passed Checks:** 9
 
 > [!WARNING]
 > **WARNINGS DETECTED:** Review and resolve the flagged warnings to maintain project hygiene.
 
-### [WARNING] (1)
+### [WARNING] (2)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
+| Workspace Hygiene | Ghost/Lock file detected: '03_Coding_Sheets\~$392_398_399_403_407.xlsx' | Remove temporary OS/Excel lock files. |
 | Excel Data Integrity | 626 row(s) contain ellipsis '...' in Notes (Col 16) | Rule 13 strictly forbids ellipses or truncation in verbatim quotes. |
 
 ### [INFO] (5)
@@ -26,11 +27,10 @@
 | Excel Data Integrity | Heuristic Data Notice in '49_53_66.xlsx': Paper [49] has 100% missing Mean and SD across 15 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
 | Excel Data Integrity | Heuristic Data Notice in '234_235_236_238.xlsx': Paper [234] has 100% missing Mean and SD across 6 rows (Latent correlation matrix verified in Col 50 Notes). | Rule 27: Ensure source paper correlation table was thoroughly audited for descriptive statistics. |
 
-### [PASS] (10)
+### [PASS] (9)
 
 | Category | Message | Recommendation / Details |
 |---|---|---|
-| Workspace Hygiene | Root directory zero-pollution and hygiene verified. |  |
 | Academic Papers Registry | All 701 Academic Papers perfectly present and conform to '[ID] Author (Year) - Title.pdf' |  |
 | Excel Data Integrity | Master sheet has exact 50-column full-extraction structure. |  |
 | Excel Data Integrity | No bold markdown in header cells. |  |
