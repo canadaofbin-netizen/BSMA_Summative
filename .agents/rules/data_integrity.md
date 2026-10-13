@@ -117,3 +117,21 @@ To ensure that any researcher can cross-verify effect sizes directly against the
 - **Secondary Source (Descriptive Tables):** If Means or SDs are entirely missing from the correlation matrix, you MUST scan secondary descriptive statistics tables (e.g., Table 1) before declaring them missing.
 - **Tertiary Source (In-text Narrative):** If still not found, check the methodology narrative text.
 - **Strict Prohibition (No Overwrite):** Under NO circumstances should in-text narrative values overwrite or supersede values explicitly printed in a table.
+
+---
+
+## 11. Meeting-Ready Summary Artifact Formatting Protocol (Rule 31)
+Whenever generating a batch summary or deep diagnostic artifact for user/faculty meetings, you MUST strictly follow the canonical format established in `batch_392_to_511_10papers_summary.md`:
+- **Zero Graphs / Mermaid Diagrams:** Use ONLY structured Markdown tables and text. Never include Mermaid diagrams or ASCII charts in meeting summary artifacts.
+- **Section 1 — Executive Summary Table (`전체 총괄 요약표`):** A unified table covering all evaluated papers (`배치 구분`, `Paper ID`, `제1저자 및 연도`, `출처 / 학술지`, `최종 판정`, `추출 효과크기 / 배제 코드`, `표본 크기 (N) 및 연구 핵심 특징`), followed by total counts of Included papers (total effect size rows) and Excluded papers (by code).
+- **Section 2 — 100% Re-Verification Audit Table (when applicable):** A summary table documenting any corrections verified against the source PDFs (`Paper ID`, `재검증 점검 항목`, `이전 코딩값`, `원문 대조 후 최종 확정값`, `원문 근거 위치`).
+- **Included Paper Sections (`[포함 논문] Paper [ID] Author (Year)`):**
+  1. **Metadata & Design:** Full citation, final judgment, research purpose, sample & design descriptors ($N$, design, country, demographics with `999` specified), verbatim sample quote (strictly zero ellipses `...` per Rule 13), and measurement instrument summary (BSB & Non-BS scales, item counts, Likert ranges, report types, reliabilities, Means, SDs).
+  2. **Full Original Correlation Matrix Table (`원문 Table X`):** Complete reproduction of the source paper's descriptive and correlation matrix ($M, SD, \alpha/\text{CR}$, all matrix columns, footnotes, and significance stars) with BSB rows/cells bolded.
+  3. **Extracted Effect Sizes Table (`추출된 효과크기 목록`):** A structured table of all extracted BSB $\times$ Non-BS pairs (`행 번호`, `BSB 변수명 (Col 41)`, `상대 Non-BS 변수명 (Col 45)`, `표본 크기 (N)`, `상관계수 (r)`, `원문 셀 값 (Col 50)`).
+- **Excluded Paper Sections (`[배제 논문] Paper [ID] Author (Year)`):**
+  1. **Metadata & Exclusion Rationale:** Full citation, final judgment & exclusion code, and numbered explanation of why the paper is excluded for meeting defense.
+  2. **Original Source Table Proof (`원문 Table X — 배제 근거 표`):** Reproduction or excerpt of the source paper's table (e.g., firm-level matrix for `Code 3` or univariate/regression OR table for `Code 1`) demonstrating why individual-level bivariate correlations ($r$) cannot be extracted.
+  3. **Verbatim Exclusion Evidence Quotes:** Exact verbatim quotes with page/footnote coordinates and zero ellipses (`...`).
+- **Footer Links (`관련 코딩 시트 파일 링크`):** Direct `file:///` links to the verified `.xlsx` coding sheets in `03_Coding_Sheets/`.
+
