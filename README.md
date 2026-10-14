@@ -33,15 +33,16 @@ Manual full-text screening and parameter extraction across 701 empirical papers 
 ```mermaid
 graph TD
     A["<b>1. Identification</b><br>Initial Database Search Corpus<br>Web of Science, Scopus, Google Scholar<br>(N = 701)"] --> B["<b>2. Screening</b><br>Full-Text Empirical Screening<br>Dual Human-AI Auditing<br>(N = 701)"]
-    B --> C["<b>3. Excluded Studies</b><br>Total Excluded Studies<br>(n = 586)"]
-    B --> D["<b>4. Final Included</b><br>Zero-Order Effect Size Extraction<br>(n = 136)"]
+    B --> C["<b>3. Excluded Studies</b><br>Total Excluded Studies<br>(n = 585)"]
+    B --> D["<b>4. Final Included</b><br>Zero-Order Effect Size Extraction<br>(n = 116 Phase 1 / 123 Human Baseline)"]
 
-    subgraph "5 Core Exclusion Reasons Breakdown"
+    subgraph "Core Exclusion Reasons Breakdown (n = 585)"
     C --> C1["Code 1: No Effect Size / Wrong Construct (n = 216)<br><i>e.g., Work-Family boundaries, mere communication</i>"]
-    C --> C2["Code 3: Non-Individual Level of Analysis (n = 200)<br><i>e.g., Firm alliances, team aggregation, dyadic ties</i>"]
+    C --> C2["Code 3: Non-Individual Level of Analysis (n = 203)<br><i>e.g., Firm alliances, team aggregation, dyadic ties</i>"]
     C --> C3["Code 5: Multiple Criteria Violations (n = 124)"]
     C --> C4["Code 4: Non-Primary / Theoretical Paper (n = 34)"]
-    C --> C5["Code 2: Non-Employee / Non-Worker Samples (n = 7)<br><i>e.g., Classroom simulations, general consumers (Rule 29)</i>"]
+    C --> C5["Code 2: Non-Employee / Non-Worker Samples (n = 6)<br><i>e.g., Classroom simulations, general consumers (Rule 29)</i>"]
+    C --> C6["Code 7: Non-English Language (n = 2)"]
     end
 
     style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
@@ -125,7 +126,7 @@ Comparison of 701 academic papers between Human Ground Truth and Automated AI Sc
 *\*The remaining 4 boundary cases represent specialized qualitative/mixed-methods nuances preserved for transparency.*
 
 * **Total Academic Papers Audited:** 701 papers (100% Census Audit)
-* **Human-Verified Included Dataset:** 123 unique papers (145 coded rows in `03_Coding_Sheets/Full text coding sheet.xlsx`)
+* **Human-Verified Included Dataset:** 123 unique papers (123 coded rows in `03_Coding_Sheets/Full text coding sheet.xlsx`)
 * **Final Inter-Rater Consensus Agreement:** **99.43%**
 * **Final Cohen's Kappa ($\kappa$):** **`0.98`** *(Near Perfect Agreement, Landis & Koch standard)*
 

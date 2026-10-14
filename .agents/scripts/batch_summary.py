@@ -432,19 +432,22 @@ def find_sheet_for_paper_ids(root_dir: str, paper_ids: List[int]) -> Optional[st
     ]
     batch_sheets.sort(key=lambda x: os.path.getmtime(x), reverse=True)
 
+    full_text_path = os.path.join(coding_dir, "Full text coding sheet.xlsx")
+    if os.path.exists(full_text_path):
+        batch_sheets.append(full_text_path)
+
     target_id_set = set(paper_ids)
     for bs in batch_sheets:
         try:
             wb = openpyxl.load_workbook(bs, data_only=True)
-            ws = wb.active
+            ws = wb["Extracted Data"] if "Extracted Data" in wb.sheetnames else wb.active
             sheet_ids = set()
             for r in range(4, ws.max_row + 1):
                 val = ws.cell(r, 2).value
                 if val is not None:
-                    try:
-                        sheet_ids.add(int(val))
-                    except (ValueError, TypeError):
-                        pass
+                    m = re.search(r'(\d+)', str(val))
+                    if m:
+                        sheet_ids.add(int(m.group(1)))
             wb.close()
             if sheet_ids & target_id_set:
                 return bs
@@ -490,11 +493,12 @@ def parse_sheet_data(sheet_path: str, filter_ids: Optional[List[int]] = None, ro
     filter_set = set(filter_ids) if filter_ids else None
     papers_dict = {}
 
-    total_sheet_rows = ws.max_row - 3
+    is_master = os.path.basename(sheet_path) == "BSMA_Master_Coding_Sheet.xlsx"
+    start_row_idx = 3 if is_master else 4
+    total_sheet_rows = max(0, ws.max_row - (start_row_idx - 1))
     integrity_issues = []
 
     # Rule 20 check: Unnamed headers in rows 1-3
-    is_master = os.path.basename(sheet_path) == "BSMA_Master_Coding_Sheet.xlsx"
     if not is_master:
         for hr in range(1, min(4, ws.max_row + 1)):
             for hc in range(1, min(51, ws.max_column + 1)):
@@ -502,7 +506,7 @@ def parse_sheet_data(sheet_path: str, filter_ids: Optional[List[int]] = None, ro
                 if "unnamed" in hval.lower():
                     integrity_issues.append(f"Rule 20 R{hr}C{hc}: '{hval}'")
 
-    for r in range(4, ws.max_row + 1):
+    for r in range(start_row_idx, ws.max_row + 1):
         art_id_val = ws.cell(r, 2).value
         if art_id_val is None:
             continue
@@ -595,6 +599,11 @@ def parse_sheet_data(sheet_path: str, filter_ids: Optional[List[int]] = None, ro
                 for c in range(7, 51):
                     if ws.cell(r, c).value is not None and str(ws.cell(r, c).value).strip() != "":
                         integrity_issues.append(f"Rule 19 R{r}C{c}: non-blank in excluded batch row")
+        else:
+            # Master sheet Rule 13 check on Col 16
+            c16 = str(ws.cell(r, 16).value or "")
+            if "..." in c16:
+                integrity_issues.append(f"Rule 13 R{r}C16: contains ellipsis '...'")
 
         if bs_name:
             bs_clean = str(bs_name).strip()
@@ -634,6 +643,8 @@ def parse_sheet_data(sheet_path: str, filter_ids: Optional[List[int]] = None, ro
         p["coordinates"] = sorted(list(p["coordinates"]))
 
     total_parsed_rows = sum(p["rows_count"] for p in papers_dict.values())
+    min_row = min((p["start_row"] for p in papers_dict.values()), default=start_row_idx)
+    max_row = max((p["end_row"] for p in papers_dict.values()), default=start_row_idx)
     total_included_papers = sum(1 for p in papers_dict.values() if p["judgment"].startswith("1"))
     total_excluded_papers = sum(1 for p in papers_dict.values() if p["judgment"].startswith("0"))
 
@@ -651,6 +662,8 @@ def parse_sheet_data(sheet_path: str, filter_ids: Optional[List[int]] = None, ro
         "sheet_basename": os.path.basename(sheet_path),
         "total_sheet_rows": total_sheet_rows,
         "total_parsed_rows": total_parsed_rows,
+        "min_row": min_row,
+        "max_row": max_row,
         "included_count": total_included_papers,
         "excluded_count": total_excluded_papers,
         "total_effect_sizes": total_effect_sizes,
@@ -675,6 +688,8 @@ def format_summary_markdown(data: Dict[str, Any], lang: str = "en") -> str:
 
     integrity_ok = data.get("integrity_issues_count", 0) == 0
     integrity_badge = "100% PASS" if integrity_ok else f"FAIL ({data['integrity_issues_count']} issues)"
+    min_r = data.get("min_row", 4)
+    max_r = data.get("max_row", data["total_parsed_rows"] + 3)
 
     # ==========================================
     # SECTION 1: Sheet Diagnostic Overview Table
@@ -684,7 +699,7 @@ def format_summary_markdown(data: Dict[str, Any], lang: str = "en") -> str:
         lines.append("")
         lines.append("| 구분 | 수치 | 비고 |")
         lines.append("|---|:---:|---|")
-        lines.append(f"| **총 데이터 행 (Data Rows)** | **{data['total_parsed_rows']}행** | 엑셀 Row 4 ~ Row {data['total_parsed_rows'] + 3} (3개 계층 헤더 제외) |")
+        lines.append(f"| **총 데이터 행 (Data Rows)** | **{data['total_parsed_rows']}행** | 엑셀 Row {min_r} ~ Row {max_r} (3개 계층 헤더 제외) |")
 
         eff_parts = []
         for pid in sorted(data["papers"].keys()):
@@ -718,7 +733,7 @@ def format_summary_markdown(data: Dict[str, Any], lang: str = "en") -> str:
         lines.append("")
         lines.append("| Category | Metric | Notes |")
         lines.append("|---|:---:|---|")
-        lines.append(f"| **Total Data Rows** | **{data['total_parsed_rows']} rows** | Excel Row 4 ~ Row {data['total_parsed_rows'] + 3} (Excluding 3-tier header) |")
+        lines.append(f"| **Total Data Rows** | **{data['total_parsed_rows']} rows** | Excel Row {min_r} ~ Row {max_r} (Excluding 3-tier header) |")
 
         eff_parts = []
         for pid in sorted(data["papers"].keys()):

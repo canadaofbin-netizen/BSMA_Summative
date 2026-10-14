@@ -294,7 +294,7 @@ def inject_swarm_results(excel_path):
 
         # ========== ALL LOCKS PASSED: Inject to Excel ==========
         target_row = None
-        for row in range(4, ws.max_row + 1):
+        for row in range(3, ws.max_row + 1):
             if str(ws.cell(row, 2).value).strip() == art_id:
                 target_row = row
                 break
@@ -332,6 +332,14 @@ def inject_swarm_results(excel_path):
 
             ws.cell(row=target_row, column=6).value = mapped_exc_code
             note_str = f"{data.get('Reasoning', '')}. Verbatim Evidence: \"{data.get('Verbatim_Evidence', '')}\""
+            # Clean any prohibited '...' ellipses per Rule 13
+            note_str = re.sub(r'\s*\[\s*\.\.\.+\s*\]\s*', ' | ', note_str.replace('…', '...'))
+            note_str = re.sub(r'\s*\(\s*\.\.\.+\s*\)\s*', ' | ', note_str)
+            note_str = re.sub(r'([\'\"“‘\[])\s*\.\.\.+\s*', r'\1', note_str)
+            note_str = re.sub(r'\s*\.\.\.+\s*([\'\"”’\)\]])', r'\1', note_str)
+            note_str = re.sub(r'\s*\.\.\.+\s*$', '', note_str)
+            note_str = re.sub(r'\s*\.\.\.+\s*', ' | ', note_str)
+            note_str = re.sub(r'(?:\s*\|\s*){2,}', ' | ', note_str).strip()
             ws.cell(row=target_row, column=16).value = note_str
 
             injected_ids.append(art_id)

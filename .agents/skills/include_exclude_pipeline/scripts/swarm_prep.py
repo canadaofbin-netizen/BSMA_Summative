@@ -23,7 +23,7 @@ def prep_swarm(excel_path, batch_size=40):
     ws = wb.active
     
     pending = []
-    for row in range(4, ws.max_row + 1):
+    for row in range(3, ws.max_row + 1):
         art_id = str(ws.cell(row, 2).value).strip()
         status = ws.cell(row, 5).value
         

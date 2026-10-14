@@ -4,8 +4,8 @@ universal_excel_inserter.py — Defense-in-Depth 50-Column OpenPyXL Data Inserte
 Layer 1: Contamination Detection
 Layer 2: Truncation Detection & JSON Auto-Repair
 Layer 3: Quarantine Containment
-Layer 4: Zero Guesswork Coercion (Type-Safe Sanitizer, Rule 1)
-Layer 5: Token-Aware Anchor Reconciliation, Cartesian Join & Real 50-Column OpenPyXL Insertion
+Layer 4: Zero Guesswork Coercion (Type-Safe Sanitizer, Rule 1 & Trap 2 Range/Minus Normalization)
+Layer 5: Token-Aware Anchor Reconciliation, Multi-Schema/Multi-Study Unpacking & 50-Column OpenPyXL Insertion
 """
 
 import argparse
@@ -32,6 +32,16 @@ from excel_template_util import create_blank_coding_sheet
 
 CWD = os.getcwd()
 QUARANTINE_DIR = os.path.join(CWD, "scratch", "quarantine")
+
+EXCLUSION_CODE_MAP = {
+    "1": "1 = No effect size of interest",
+    "2": "2 = Non-employee samples",
+    "3": "3 = Non-individual level (team/firm/org analysis)",
+    "4": "4 = Non-primary study",
+    "5": "5 = Multiple reasons",
+    "6": "6 = Duplicate / retracted",
+    "7": "7 = Non-English language",
+}
 
 # ============================================================
 # Layer 1: Contamination Detection
@@ -153,27 +163,55 @@ def move_to_quarantine(file_path, reason, payload_id="PAYLOAD"):
 # Layer 4: Zero Guesswork Coercion (Type-Safe Sanitizer)
 # ============================================================
 def sanitize_numeric(val, default=999):
-    """Strictly coerce missing, null, or corrupted numbers to type-safe 999 (Rule 1)."""
+    """
+    Strictly coerce missing, null, or corrupted numbers to type-safe 999 (Rule 1).
+    Normalizes Unicode minus (\u2212) and dashes (\u2013, \u2014) to ASCII '-' and
+    extracts the leading numeric value (conservative minimum bound for ranges per Trap 2).
+    """
     if val is None or isinstance(val, bool):
         return default
     if isinstance(val, (int, float)):
         return default if val == 999 else val
-    val_str = str(val).strip().lower()
-    if val_str in ["", "-", "n/a", "na", "null", "none", "not reported", "not_reported", "999"]:
+    val_str = str(val).strip()
+    if val_str.lower() in ["", "-", "–", "—", "−", "n/a", "na", "null", "none", "not reported", "not_reported", "999"]:
         return default
-    cleaned = re.sub(r'[^\d.-]', '', val_str)
+    # Normalize Unicode minus and en/em dashes to ASCII hyphen-minus
+    normalized = val_str.replace('\u2212', '-').replace('\u2013', '-').replace('\u2014', '-')
+    # Extract the first signed float/int token (handles ".570**", "-0.368*", "0.78-0.85", "240-275")
+    m = re.search(r'[-+]?(?:\d+\.?\d*|\.\d+)', normalized)
+    if not m:
+        return default
     try:
-        f_val = float(cleaned)
+        f_val = float(m.group(0))
+        if f_val == 999:
+            return default
         return int(f_val) if f_val.is_integer() else f_val
     except (ValueError, TypeError):
         return default
 
 
+def clean_ellipses_for_rule13(text):
+    """Ensure verbatim quotes never contain prohibited '...' or '…' ellipses (Rule 13)."""
+    if not text:
+        return text
+    s = str(text).replace('…', '...')
+    if '...' not in s:
+        return s
+    s = re.sub(r'\s*\[\s*\.\.\.+\s*\]\s*', ' | ', s)
+    s = re.sub(r'\s*\(\s*\.\.\.+\s*\)\s*', ' | ', s)
+    s = re.sub(r'([\'\"“‘\[])\s*\.\.\.+\s*', r'\1', s)
+    s = re.sub(r'\s*\.\.\.+\s*([\'\"”’\)\]])', r'\1', s)
+    s = re.sub(r'\s*\.\.\.+\s*$', '', s)
+    s = re.sub(r'\s*\.\.\.+\s*', ' | ', s)
+    s = re.sub(r'(?:\s*\|\s*){2,}', ' | ', s)
+    return s.strip()
+
+
 def sanitize_text(val, default=None):
-    """Strictly coerce missing or placeholder strings to None (clean blank in Excel, Rule 1)."""
+    """Strictly coerce missing or placeholder strings to None (clean blank in Excel, Rule 1 & Rule 13)."""
     if val is None:
         return default
-    val_str = str(val).strip()
+    val_str = clean_ellipses_for_rule13(str(val).strip())
     if val_str.lower() in ["", "-", "n/a", "na", "null", "none", "999", "not reported", "not_reported"]:
         return default
     return val_str
@@ -190,6 +228,16 @@ def sanitize_reliability(rel_dict):
         return {"type": "Alpha" if rel_val != 999 else None, "value": rel_val}
     else:
         return {"type": None, "value": 999}
+
+
+def extract_table_index(name):
+    """Extract numeric table index prefix if present (e.g., '10. Org. Comm.' -> 10)."""
+    if not name:
+        return None
+    m = re.match(r'^\s*(?:\((\d+)\)|(\d+)[\.\)])\s*', str(name).strip())
+    if m:
+        return int(m.group(1) or m.group(2))
+    return None
 
 
 def prune_table_index_prefix(name):
@@ -213,10 +261,31 @@ def is_external_anchor(text):
     return any(t in ['external', 'extra', 'outside', 'inter', 'ext'] for t in tokens)
 
 
-def smart_anchor_match(anchor1, anchor2, threshold=0.70):
-    """Token-aware safe fuzzy match with abbreviation prefix support and directional protection."""
+def _tokens_match(t1, t2):
+    """Check if two individual word tokens match or are valid abbreviations of each other."""
+    if t1 == t2:
+        return True
+    shorter, longer = (t1, t2) if len(t1) <= len(t2) else (t2, t1)
+    if len(shorter) < 3:
+        return False
+    # Prevent 'com' / 'comm' (communication/commitment) from matching 'complexity' or 'competence'
+    if shorter in ('com', 'comm'):
+        return longer.startswith('commun') or longer.startswith('commit')
+    return longer.startswith(shorter)
+
+
+def smart_anchor_match(anchor1, anchor2, threshold=0.88):
+    """Token-aware safe fuzzy match with table-index guardrail, abbreviation prefix support, and directional protection."""
     if not anchor1 or not anchor2:
         return False
+
+    # Table-Index Guardrail: If both strings carry explicit table index prefixes (e.g. '10.' vs '11.'),
+    # different index numbers NEVER match each other.
+    idx1 = extract_table_index(anchor1)
+    idx2 = extract_table_index(anchor2)
+    if idx1 is not None and idx2 is not None and idx1 != idx2:
+        return False
+
     a1 = prune_table_index_prefix(anchor1).lower().strip()
     a2 = prune_table_index_prefix(anchor2).lower().strip()
 
@@ -229,38 +298,51 @@ def smart_anchor_match(anchor1, anchor2, threshold=0.70):
     if is_external_anchor(a1) and is_internal_anchor(a2):
         return False
 
-    ratio = SequenceMatcher(None, a1, a2).ratio()
-    if ratio >= threshold:
-        return True
-
     tokens1 = re.findall(r'\w+', a1)
     tokens2 = re.findall(r'\w+', a2)
     if not tokens1 or not tokens2:
         return False
 
-    shorter, longer = (tokens1, tokens2) if len(tokens1) <= len(tokens2) else (tokens2, tokens1)
-    all_matched = True
-    for s_tok in shorter:
-        if len(s_tok) < 3:
-            if s_tok not in longer:
-                all_matched = False
-                break
-        else:
-            if not any(l_tok.startswith(s_tok) or s_tok.startswith(l_tok) for l_tok in longer):
-                all_matched = False
-                break
+    # Acronym / Initialism check (e.g., 'bsa' <-> 'boundary spanning activity')
+    if len(tokens1) == 1 and len(tokens2) >= 2 and tokens1[0] == ''.join(w[0] for w in tokens2):
+        return True
+    if len(tokens2) == 1 and len(tokens1) >= 2 and tokens2[0] == ''.join(w[0] for w in tokens1):
+        return True
 
-    return all_matched
+    # Bijective token-by-token abbreviation match when token counts are equal
+    if len(tokens1) == len(tokens2):
+        if all(_tokens_match(t1, t2) for t1, t2 in zip(tokens1, tokens2)):
+            return True
+
+    # High-confidence character similarity only when leading tokens match
+    if _tokens_match(tokens1[0], tokens2[0]):
+        ratio = SequenceMatcher(None, a1, a2).ratio()
+        if ratio >= threshold:
+            return True
+
+    return False
 
 
 def extract_paper_id(payload, fallback_id=None):
-    """Extract numeric paper ID from payload or fallback string."""
-    for key in ("paper_id", "article_id", "id", "BSMA_ID"):
-        val = payload.get(key)
-        if val is not None:
-            m = re.search(r'(\d+)', str(val))
-            if m:
-                return int(m.group(1))
+    """Extract numeric paper ID from payload, nested blocks, or fallback string."""
+    blocks = [
+        payload,
+        payload.get("study_sample") or {},
+        payload.get("sample_descriptors") or {},
+        payload.get("study_sample_descriptor") or {},
+        payload.get("study_details") or {},
+        payload.get("node_0_screening") or {},
+        payload.get("screening") or {},
+    ]
+    for blk in blocks:
+        if not isinstance(blk, dict):
+            continue
+        for key in ("paper_id", "article_id", "id", "BSMA_ID"):
+            val = blk.get(key)
+            if val is not None and str(val).strip() not in ("", "999"):
+                m = re.search(r'(\d+)', str(val))
+                if m:
+                    return int(m.group(1))
     if fallback_id:
         m = re.search(r'(\d+)', str(fallback_id))
         if m:
@@ -269,21 +351,25 @@ def extract_paper_id(payload, fallback_id=None):
 
 
 def normalize_measure_details(payload):
-    """Normalize measure descriptors from either unified 'measure_details' or Specialist C lists."""
+    """Normalize measure descriptors from unified 'measure_details', 'text_measures', or Specialist C lists."""
     details = []
-    if "measure_details" in payload and isinstance(payload["measure_details"], list):
-        for m in payload["measure_details"]:
-            details.append(m)
+    for key in ("measure_details", "text_measures", "measure_descriptor", "measures"):
+        if key in payload and isinstance(payload[key], list):
+            for m in payload[key]:
+                if isinstance(m, dict):
+                    details.append(m)
     if "boundary_spanning_measures" in payload and isinstance(payload["boundary_spanning_measures"], list):
         for m in payload["boundary_spanning_measures"]:
-            m_copy = dict(m)
-            m_copy.setdefault("classification_type", "BS")
-            details.append(m_copy)
+            if isinstance(m, dict):
+                m_copy = dict(m)
+                m_copy.setdefault("classification_type", "BS")
+                details.append(m_copy)
     if "non_bs_measures" in payload and isinstance(payload["non_bs_measures"], list):
         for m in payload["non_bs_measures"]:
-            m_copy = dict(m)
-            m_copy.setdefault("classification_type", "NB")
-            details.append(m_copy)
+            if isinstance(m, dict):
+                m_copy = dict(m)
+                m_copy.setdefault("classification_type", "NB")
+                details.append(m_copy)
     return details
 
 
@@ -297,91 +383,86 @@ def compose_measure_quote_col(match_dict, specific_measure):
     combined = " ".join(parts).strip() if parts else None
     if combined and specific_measure and specific_measure not in combined:
         combined = f'Measured using {specific_measure}. {combined}'
+    elif not combined and specific_measure:
+        combined = f'Measured using {specific_measure}.'
     return combined
 
 
-def write_rows_to_excel(excel_path, paper_id, rows_to_write):
-    """Write 50-column rows for paper_id into excel_path, initializing template if needed."""
-    if not os.path.exists(excel_path):
-        os.makedirs(os.path.dirname(os.path.abspath(excel_path)), exist_ok=True)
-        create_blank_coding_sheet(excel_path)
+def extract_screening_verdict(payload):
+    """Extract inclusion/exclusion verdict and canonical exclusion reason across top-level or nested screening blocks."""
+    scr = payload.get("node_0_screening") or payload.get("screening") or {}
+    if not isinstance(scr, dict):
+        scr = {}
 
-    wb = openpyxl.load_workbook(excel_path)
-    ws = wb["Extracted Data"] if "Extracted Data" in wb.sheetnames else wb.active
+    raw_v = None
+    for k in ("judgment", "verdict", "Verdict", "status"):
+        if payload.get(k) is not None:
+            raw_v = payload.get(k)
+            break
+        if scr.get(k) is not None:
+            raw_v = scr.get(k)
+            break
 
-    # Remove any existing rows for this paper_id (idempotent update)
-    existing_rows = []
-    for r in range(4, ws.max_row + 1):
-        val = ws.cell(r, 2).value
-        if val is not None:
-            try:
-                if int(re.search(r'(\d+)', str(val)).group(1)) == int(paper_id):
-                    existing_rows.append(r)
-            except Exception:
-                pass
-    for r in reversed(existing_rows):
-        ws.delete_rows(r, 1)
+    v_str = str(raw_v if raw_v is not None else "1 = include").strip().lower()
+    is_excluded = v_str in ("0", "0 = exclude", "exclude", "excluded", "false") or v_str.startswith("0")
 
-    # Find next available row starting from Row 4
-    start_row = 4
-    for r in range(4, ws.max_row + 1):
-        if any(ws.cell(r, c).value is not None for c in range(1, 51)):
-            start_row = r + 1
+    raw_reason = None
+    for k in ("reason_for_exclusion", "exclusion_reason", "exclusion_code", "Exclusion_Code"):
+        if payload.get(k) is not None:
+            raw_reason = payload.get(k)
+            break
+        if scr.get(k) is not None:
+            raw_reason = scr.get(k)
+            break
 
-    for offset, row_vals in enumerate(rows_to_write):
-        target_r = start_row + offset
-        for c_idx, val in enumerate(row_vals[:50], start=1):
-            ws.cell(row=target_r, column=c_idx, value=val)
+    reason_str = sanitize_text(raw_reason, default="1 = No effect size of interest")
+    if reason_str and str(reason_str).strip() in EXCLUSION_CODE_MAP:
+        reason_str = EXCLUSION_CODE_MAP[str(reason_str).strip()]
 
-    wb.save(excel_path)
-    wb.close()
-    return start_row, start_row + len(rows_to_write) - 1
+    return is_excluded, reason_str
 
 
-def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=False):
-    print(f"Routing and inserting 50-column data into {excel_path}...")
-
-    paper_id = extract_paper_id(payload, fallback_id=payload_id)
-    coder_initials = sanitize_text(payload.get("coder_initials"), default="KY")
-
-    # Check if paper is excluded (0 = exclude)
-    judgment_raw = str(payload.get("judgment") or payload.get("verdict") or payload.get("Verdict") or "1 = include").strip()
-    if judgment_raw in ("0", "0 = exclude", "0 = Exclude") or judgment_raw.lower().startswith("0"):
-        reason = sanitize_text(
-            payload.get("reason_for_exclusion") or payload.get("exclusion_reason") or payload.get("Exclusion_Code"),
-            default="1 = No effect size of interest"
-        )
-        excluded_row = [coder_initials, paper_id, None, None, "0 = exclude", reason] + [None] * 44
-        r_start, r_end = write_rows_to_excel(excel_path, paper_id, [excluded_row])
-        print(f"Inserted Excluded Paper [{paper_id}] at Row {r_start} (Cols 7-50 blank per Rule 19).")
-        if do_backup:
-            backup_databases()
-        return True, "SUCCESS_EXCLUDED_1_ROW"
-
-    # Extract Study/Sample Descriptors (Cols 17-26)
-    sample_block = payload.get("study_sample") or payload.get("sample_descriptors") or {}
+def build_rows_for_single_study(study_payload, paper_id, coder_initials, start_eff_id=1):
+    """Build 50-column Cartesian pair rows for a single study payload dict."""
+    sample_blocks = [
+        study_payload.get("study_sample") or {},
+        study_payload.get("sample_descriptors") or {},
+        study_payload.get("study_sample_descriptor") or {},
+        study_payload.get("study_details") or {},
+        study_payload.get("design") or {},
+        study_payload.get("node_0_screening") or {},
+        study_payload.get("screening") or {},
+        study_payload,
+    ]
 
     def get_sample_field(*keys, is_num=False, default=None):
-        for k in keys:
-            if k in sample_block and sample_block[k] is not None:
-                return sanitize_numeric(sample_block[k]) if is_num else sanitize_text(sample_block[k], default=default)
-            if k in payload and payload[k] is not None:
-                return sanitize_numeric(payload[k]) if is_num else sanitize_text(payload[k], default=default)
+        for blk in sample_blocks:
+            if not isinstance(blk, dict):
+                continue
+            for k in keys:
+                if k in blk and blk[k] is not None:
+                    res = sanitize_numeric(blk[k]) if is_num else sanitize_text(blk[k], default=default)
+                    if (is_num and res != 999) or (not is_num and res is not None):
+                        return res
         return 999 if is_num else default
 
     study_design = get_sample_field("study_design")
     study_design_other = get_sample_field("study_design_other")
-    country = get_sample_field("country")
+    country = get_sample_field("country", "country_of_sample")
     country_specify = get_sample_field("country_specify")
     international_context = get_sample_field("international_context")
-    sample_size_n = get_sample_field("listwise_n", "sample_size_n", "sample_n", is_num=True)
+    sample_size_n = get_sample_field("listwise_n", "sample_size_n", "sample_n", "effective_sample_size", "effective_n", is_num=True)
     mean_age = get_sample_field("mean_age", is_num=True)
     pct_female = get_sample_field("pct_female", "percent_female", is_num=True)
     org_tenure = get_sample_field("org_tenure", "tenure", is_num=True)
-    occupation_type = get_sample_field("occupation_type", "occupation")
+    occupation_type = get_sample_field("occupation_type", "occupation", "sample_type")
 
-    # Extract Variables, Correlations, and Measure Details
-    raw_vars = payload.get("variables", [])
+    # Unpack matrix block (top-level or nested under 'table_matrix' / 'boundary_spanning_matrix')
+    matrix_block = study_payload.get("table_matrix") or study_payload.get("boundary_spanning_matrix") or {}
+    if not isinstance(matrix_block, dict):
+        matrix_block = {}
+
+    raw_vars = study_payload.get("variables") if study_payload.get("variables") is not None else matrix_block.get("variables", [])
     if isinstance(raw_vars, dict):
         variables = []
         for k, v in raw_vars.items():
@@ -389,12 +470,17 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
             v_copy.setdefault("table_anchor_name", v.get("name") or str(k))
             variables.append(v_copy)
     else:
-        variables = list(raw_vars)
+        variables = list(raw_vars) if isinstance(raw_vars, list) else []
 
-    correlations = payload.get("correlations", [])
-    measure_details = normalize_measure_details(payload)
+    correlations = study_payload.get("correlations") if study_payload.get("correlations") is not None else matrix_block.get("correlations", [])
+    measure_details = normalize_measure_details(study_payload)
 
-    # Safe Construct Join (Smart Matching — Lossless Zero-Drop Policy per Rule 27 & Rule 28)
+    table_number_default = study_payload.get("table_number") or matrix_block.get("table_number") or "Table 1"
+    table_page_default = study_payload.get("table_page_number") or matrix_block.get("table_page_number")
+    latent_quote = sanitize_text(study_payload.get("latent_evidence_quote") or matrix_block.get("latent_evidence_quote"))
+    footnote_quote = sanitize_text(study_payload.get("table_footnote_quote") or matrix_block.get("table_footnote_quote"))
+
+    # Safe Construct Join (Exact Match First, then Smart Matching — Lossless Zero-Drop Policy per Rule 27 & Rule 28)
     joined_vars = []
     unmatched_vars = []
 
@@ -403,11 +489,20 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
         anchor = prune_table_index_prefix(raw_anchor)
 
         match = None
+        # Pass 1: Exact match on raw_anchor or pruned anchor
         for detail in measure_details:
             detail_anchor = detail.get("table_anchor_name") or detail.get("name") or ""
-            if smart_anchor_match(anchor, detail_anchor):
+            if raw_anchor.strip().lower() == detail_anchor.strip().lower() or \
+               anchor.lower() == prune_table_index_prefix(detail_anchor).lower():
                 match = detail
                 break
+        # Pass 2: Smart fuzzy match (respecting table index prefix)
+        if match is None:
+            for detail in measure_details:
+                detail_anchor = detail.get("table_anchor_name") or detail.get("name") or ""
+                if smart_anchor_match(raw_anchor, detail_anchor):
+                    match = detail
+                    break
 
         if match:
             rel_sanitized = sanitize_reliability(match.get("reliability"))
@@ -428,7 +523,7 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
                 "raw_anchor": raw_anchor,
                 "mean": sanitize_numeric(var.get("mean") if var.get("mean") not in [None, 999, "", "-", "n/a", "N/A"] else match.get("mean", 999)),
                 "sd": sanitize_numeric(var.get("sd") if var.get("sd") not in [None, 999, "", "-", "n/a", "N/A"] else match.get("sd", 999)),
-                "classification_type": match.get("classification_type", "NB"),
+                "classification_type": match.get("classification_type", var.get("classification_type", "NB")),
                 "items": sanitize_numeric(match.get("number_of_items") if match.get("number_of_items") is not None else match.get("items")),
                 "min": sanitize_numeric(match.get("min_score") if match.get("min_score") is not None else match.get("min")),
                 "max": sanitize_numeric(match.get("max_score") if match.get("max_score") is not None else match.get("max")),
@@ -457,7 +552,7 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
                 "min": sanitize_numeric(var.get("min_score") if var.get("min_score") is not None else var.get("min"), default=999),
                 "max": sanitize_numeric(var.get("max_score") if var.get("max_score") is not None else var.get("max"), default=999),
                 "report_type": sanitize_text(var.get("report_type")),
-                "report_type_note": sanitize_text(var.get("report_type_note")),
+                "report_type_note": sanitize_text(match_dict_note if (match_dict_note := var.get("report_type_note")) else None),
                 "specific_measure": spec_meas,
                 "quote_col": quote_col,
                 "reliability_type": rel_type,
@@ -472,53 +567,65 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
     nb_vars = [v for v in joined_vars if v["classification_type"] == "NB"]
 
     if not bs_vars:
-        print("  [ZERO_BSB_CONSTRUCT] No variables classified as BS. Triggering Zero-BSB Circuit Breaker.")
-        return False, "ZERO_BSB_CONSTRUCT"
+        return [], start_eff_id
 
     rows_to_write = []
-    latent_quote = sanitize_text(payload.get("latent_evidence_quote"))
-    footnote_quote = sanitize_text(payload.get("table_footnote_quote"))
-    eff_id = 1
+    eff_id = start_eff_id
 
     for bs in bs_vars:
-        composite_quote = bs.get("composite_quote") or sanitize_text(payload.get("global_composite_quote") or payload.get("composite_quote"))
+        composite_quote = bs.get("composite_quote") or sanitize_text(study_payload.get("global_composite_quote") or study_payload.get("composite_quote"))
         for nb in nb_vars:
             r_val = 999
             cell_proof_note = None
+            matched_corr = None
+            # Pass 1: Exact pruned anchor match
             for corr in correlations:
-                v1 = corr.get("var1_anchor", "")
-                v2 = corr.get("var2_anchor", "")
-                if (smart_anchor_match(bs["anchor"], v1) and smart_anchor_match(nb["anchor"], v2)) or \
-                   (smart_anchor_match(bs["anchor"], v2) and smart_anchor_match(nb["anchor"], v1)):
-                    r_val = sanitize_numeric(corr.get("r"))
-                    cp = corr.get("cell_proof")
-                    if cp and isinstance(cp, dict):
-                        t_num = cp.get("table_number") or payload.get("table_number") or "Table 1"
-                        if not str(t_num).lower().startswith("table"):
-                            t_num = f"Table {t_num}"
-                        t_page = cp.get("table_page_number") or payload.get("table_page_number")
-                        page_str = f" (p. {t_page})" if t_page else ""
-                        row_h = cp.get("row_header_quote", nb["raw_anchor"])
-                        col_h = cp.get("col_header_quote", bs["raw_anchor"])
-                        raw_v = cp.get("raw_cell_value", str(r_val))
-                        base_str = f"{t_num}{page_str}, Row: {row_h}, Col: {col_h}, Raw: {raw_v}"
-                        flags = []
-                        if latent_quote:
-                            flags.append(f"Latent correlation: {latent_quote}")
-                        if composite_quote:
-                            flags.append(f"Global composite: {composite_quote}")
-                        if footnote_quote:
-                            flags.append(f"Sample N footnote: {footnote_quote}")
-                        cell_proof_note = base_str + (" | " + " | ".join(flags) if flags else "")
-                    elif cp and isinstance(cp, str):
-                        cell_proof_note = cp if cp.lower().startswith("table") else f"Table 1, {cp}"
+                v1 = prune_table_index_prefix(corr.get("var1_anchor", "")).lower()
+                v2 = prune_table_index_prefix(corr.get("var2_anchor", "")).lower()
+                if (bs["anchor"].lower() == v1 and nb["anchor"].lower() == v2) or \
+                   (bs["anchor"].lower() == v2 and nb["anchor"].lower() == v1):
+                    matched_corr = corr
                     break
+            # Pass 2: Smart anchor match (respecting table index prefix)
+            if matched_corr is None:
+                for corr in correlations:
+                    v1 = corr.get("var1_anchor", "")
+                    v2 = corr.get("var2_anchor", "")
+                    if (smart_anchor_match(bs["raw_anchor"], v1) and smart_anchor_match(nb["raw_anchor"], v2)) or \
+                       (smart_anchor_match(bs["raw_anchor"], v2) and smart_anchor_match(nb["raw_anchor"], v1)):
+                        matched_corr = corr
+                        break
+
+            if matched_corr is not None:
+                r_val = sanitize_numeric(matched_corr.get("r"))
+                cp = matched_corr.get("cell_proof")
+                if cp and isinstance(cp, dict):
+                    t_num = cp.get("table_number") or table_number_default
+                    if not str(t_num).lower().startswith("table"):
+                        t_num = f"Table {t_num}"
+                    t_page = cp.get("table_page_number") or table_page_default
+                    page_str = f" (p. {t_page})" if t_page else ""
+                    row_h = clean_ellipses_for_rule13(cp.get("row_header_quote", nb["raw_anchor"]))
+                    col_h = clean_ellipses_for_rule13(cp.get("col_header_quote", bs["raw_anchor"]))
+                    raw_v = cp.get("raw_cell_value", str(r_val))
+                    base_str = f"{t_num}{page_str}, Row: {row_h}, Col: {col_h}, Raw: {raw_v}"
+                    flags = []
+                    if latent_quote:
+                        flags.append(f"Latent correlation: {latent_quote}")
+                    if composite_quote:
+                        flags.append(f"Global composite: {composite_quote}")
+                    if footnote_quote:
+                        flags.append(f"Sample N footnote: {footnote_quote}")
+                    cell_proof_note = base_str + (" | " + " | ".join(flags) if flags else "")
+                elif cp and isinstance(cp, str):
+                    cp_clean = clean_ellipses_for_rule13(cp)
+                    cell_proof_note = cp_clean if cp_clean.lower().startswith("table") else f"Table 1, {cp_clean}"
 
             if cell_proof_note is None:
-                t_num = payload.get("table_number") or "Table 1"
+                t_num = table_number_default
                 if not str(t_num).lower().startswith("table"):
                     t_num = f"Table {t_num}"
-                t_page = payload.get("table_page_number")
+                t_page = table_page_default
                 page_str = f" (p. {t_page})" if t_page else ""
                 cell_proof_note = f"{t_num}{page_str}, Row: {nb['raw_anchor']}, Col: {bs['raw_anchor']}, Raw: {r_val}"
 
@@ -576,12 +683,94 @@ def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=F
             rows_to_write.append(full_50_col_row)
             eff_id += 1
 
-    r_start, r_end = write_rows_to_excel(excel_path, paper_id, rows_to_write)
-    print(f"Inserted {len(rows_to_write)} Cartesian Pair row(s) for Paper [{paper_id}] into {excel_path} (Rows {r_start}-{r_end}).")
+    return rows_to_write, eff_id
+
+
+def write_rows_to_excel(excel_path, paper_id, rows_to_write):
+    """Write 50-column rows for paper_id into excel_path, initializing template if needed."""
+    if not os.path.exists(excel_path):
+        os.makedirs(os.path.dirname(os.path.abspath(excel_path)), exist_ok=True)
+        create_blank_coding_sheet(excel_path)
+
+    wb = openpyxl.load_workbook(excel_path)
+    ws = wb["Extracted Data"] if "Extracted Data" in wb.sheetnames else wb.active
+
+    # Remove any existing rows for this paper_id (idempotent update)
+    existing_rows = []
+    for r in range(4, ws.max_row + 1):
+        val = ws.cell(r, 2).value
+        if val is not None:
+            try:
+                if int(re.search(r'(\d+)', str(val)).group(1)) == int(paper_id):
+                    existing_rows.append(r)
+            except Exception:
+                pass
+    for r in reversed(existing_rows):
+        ws.delete_rows(r, 1)
+
+    # Find next available row starting from Row 4
+    start_row = 4
+    for r in range(4, ws.max_row + 1):
+        if any(ws.cell(r, c).value is not None for c in range(1, 51)):
+            start_row = r + 1
+
+    for offset, row_vals in enumerate(rows_to_write):
+        target_r = start_row + offset
+        for c_idx, val in enumerate(row_vals[:50], start=1):
+            ws.cell(row=target_r, column=c_idx, value=val)
+
+    wb.save(excel_path)
+    wb.close()
+    return start_row, start_row + len(rows_to_write) - 1
+
+
+def route_and_insert_data(excel_path, payload, payload_id="PAYLOAD", do_backup=False):
+    print(f"Routing and inserting 50-column data into {excel_path}...")
+
+    paper_id = extract_paper_id(payload, fallback_id=payload_id)
+    coder_initials = sanitize_text(
+        payload.get("coder_initials") or (payload.get("study_sample_descriptor") or {}).get("coder_initials"),
+        default="KY"
+    )
+
+    is_excluded, reason = extract_screening_verdict(payload)
+    if is_excluded:
+        excluded_row = [coder_initials, paper_id, None, None, "0 = exclude", reason] + [None] * 44
+        r_start, r_end = write_rows_to_excel(excel_path, paper_id, [excluded_row])
+        print(f"Inserted Excluded Paper [{paper_id}] at Row {r_start} (Cols 7-50 blank per Rule 19).")
+        if do_backup:
+            backup_databases()
+        return True, "SUCCESS_EXCLUDED_1_ROW"
+
+    # Support multi-study payloads ('studies' array) or single-study payload
+    studies_list = payload.get("studies")
+    if isinstance(studies_list, list) and studies_list:
+        study_payloads = []
+        for st in studies_list:
+            if isinstance(st, dict):
+                merged = dict(payload)
+                merged.pop("studies", None)
+                merged.update(st)
+                study_payloads.append(merged)
+    else:
+        study_payloads = [payload]
+
+    all_rows_to_write = []
+    eff_id = 1
+    for st_payload in study_payloads:
+        st_rows, eff_id = build_rows_for_single_study(st_payload, paper_id, coder_initials, start_eff_id=eff_id)
+        all_rows_to_write.extend(st_rows)
+
+    if not all_rows_to_write:
+        print("  [ZERO_BSB_CONSTRUCT] No variables classified as BS. Triggering Zero-BSB Circuit Breaker.")
+        return False, "ZERO_BSB_CONSTRUCT"
+
+    r_start, r_end = write_rows_to_excel(excel_path, paper_id, all_rows_to_write)
+    print(f"Inserted {len(all_rows_to_write)} Cartesian Pair row(s) for Paper [{paper_id}] into {excel_path} (Rows {r_start}-{r_end}).")
 
     if do_backup:
         backup_databases()
-    return True, f"SUCCESS_{len(rows_to_write)}_PAIRS"
+    return True, f"SUCCESS_{len(all_rows_to_write)}_PAIRS"
 
 
 def main():
