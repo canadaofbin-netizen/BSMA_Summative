@@ -1,0 +1,451 @@
+{
+  "paper_id": 580,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Time-lagged three-wave multi-source survey design (Time 1, Time 2, Time 3) with a two-month lag between waves: T1 middle manager ratings of servant leadership, leader boundary-spanning behaviour (LBSB), ethical leadership, and demographics; T2 middle manager ratings of structural empowerment; T3 middle manager ratings of RBSE and supervisor ratings of exploitative and explorative learning.",
+    "country": "Southern Asia",
+    "country_specify": "Southern Asia (alumni of a public-sector university in Southern Asia working across manufacturing and service sectors: steel, textiles, cement manufacturing, telecommunications, hospitality and tourism)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 344,
+    "listwise_n": 344,
+    "mean_age": 41.94,
+    "pct_female": 46.2,
+    "org_tenure": 3.53,
+    "occupation_type": "Middle managers (with at least five direct reports) and their supervisors in manufacturing and service sectors",
+    "is_longitudinal": true,
+    "time_points": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "We collected data from 344 middle managers and their supervisors who were alumni of a renowned public-sector university in Southern Asia. This university offers a wide range of graduate and executive education programmes and maintains a comprehensive database of its alumni working in different administrative and leadership positions. Instead of directly examining the cultural and socioeconomic characteristics of the South Asian region, our research aimed to provide fresh insights that complement existing studies, which have primarily been influenced by Western perspectives. Initially, we obtained permission from 500 alumni to participate in our research and extended invitations to them. Prior to collecting data, we conducted a briefing session to ensure the participants understood our research objectives and could provide appropriate responses to our surveys. For example, we restricted participation to middle managers with at least five direct reports to ensure that our sample included individuals with a certain level of managerial responsibility. Additionally, participants received an information sheet that outlined our research protocol and our commitment to upholding ethical standards. Our final sample consisted of middle managers and supervisors from various firms operating in the manufacturing and service sectors, including steel, textiles, cement manufacturing, telecommunications, hospitality and tourism. We conducted three rounds of surveys (with two months between each round) to minimize common method bias. At Time 1, we received 398 responses from middle managers who rated their supervisors’ levels of servant leadership and boundary-spanning behaviour. Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure. At Time 2, we gathered data from 387 middle managers who rated their perceptions of structural empowerment at work. At Time 3, we received responses from 377 middle managers regarding their perception of RBSE, whereas 351 supervisors rated two aspects of middle managers’ learning ambidexterity (i.e. exploitative and explorative learning). After reviewing and matching the data from different survey rounds, 344 middle manager/supervisor responses were retained for hypothesis testing. The final sample consisted of 53.8% male and 46.2% female middle managers. The mean age and tenure with the current organization were 41.94 years and 3.53 years, respectively. Regarding education, 55.8% of the respondents had completed undergraduate degrees and the remaining 44.2% had master’s degrees."
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "LBSB",
+      "classification_type": "BS",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Subordinate-rated Leader Boundary-Spanning Behaviour (LBSB): Middle managers rated their supervisors' boundary-spanning behaviour at Time 1. Table 1 (p. 9) also reports AVE = 0.73, square root of AVE = 0.85, MSV = 0.004, ASV = 0.002.",
+      "specific_measure_used": "Marrone, Tesluk and Carson (2007)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Leader boundary-spanning behaviour. Leader boundary-spanning behaviour was also assessed at Time 1 using a six-item scale (α = 0.94) developed by Marrone, Tesluk and Carson (2007). Sample item: ‘My supervisor reaches out to individuals outside of our organization that can offer expertise or ideas about the task at hand’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Leader boundary-spanning behaviour was also assessed at Time 1 using a six-item scale (α = 0.94) developed by Marrone, Tesluk and Carson (2007).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.94
+      },
+      "mean": 3.39,
+      "sd": 1.27,
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Servant leadership",
+      "classification_type": "NB",
+      "number_of_items": 7,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Middle managers rated their supervisors' servant leadership at Time 1. Table 1 (p. 9) also reports AVE = 0.52, square root of AVE = 0.72, MSV = 0.10, ASV = 0.06.",
+      "specific_measure_used": "Liden et al.’s (2015)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Servant leadership. At Time 1, servant leadership was assessed using Liden et al.’s (2015) seven-item scale (α = 0.88). Sample item: ‘My leader puts my best interests ahead of his/her own’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). At Time 1, servant leadership was assessed using Liden et al.’s (2015) seven-item scale (α = 0.88).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.02,
+      "sd": 0.91,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Structural empowerment",
+      "classification_type": "NB",
+      "number_of_items": 12,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Middle managers self-reported their perceptions of structural empowerment at Time 2. Table 1 (p. 9) also reports AVE = 0.74, square root of AVE = 0.86, MSV = 0.10, ASV = 0.07.",
+      "specific_measure_used": "Laschinger et al. (2001)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Structural empowerment. We measured structural empowerment at Time 2 using the 12-item scale (α = 0.92) developed by Laschinger et al. (2001). Sample item: ‘I have the chance to gain new skills and knowledge on the job’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). We measured structural empowerment at Time 2 using the 12-item scale (α = 0.92) developed by Laschinger et al. (2001).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.92
+      },
+      "mean": 3.12,
+      "sd": 0.85,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "RBSE",
+      "classification_type": "NB",
+      "number_of_items": 10,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Middle managers self-reported their role breadth self-efficacy (RBSE) at Time 3. Table 1 (p. 9) also reports AVE = 0.64, square root of AVE = 0.80, MSV = 0.18, ASV = 0.09.",
+      "specific_measure_used": "Parker (1998)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). RBSE. We measured RBSE at Time 3 using a 10-item scale (α = 0.94) developed by Parker (1998). Sample item: ‘I feel confident while contributing to discussions about the company’s strategy’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). We measured RBSE at Time 3 using a 10-item scale (α = 0.94) developed by Parker (1998).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.94
+      },
+      "mean": 3.11,
+      "sd": 1.18,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Exploitative learning",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Supervisors rated middle managers' exploitative learning at Time 3. Table 1 (p. 9) also reports AVE = 0.61, square root of AVE = 0.78, MSV = 0.21, ASV = 0.11.",
+      "specific_measure_used": "Chung, Yang and Huang (2015)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Exploitative learning and explorative learning. At Time 3, supervisors rated middle managers’ exploitative (α = 0.87) and explorative learning (α = 0.89) using a modified five-item scale from Chung, Yang and Huang (2015). Sample item (exploitative learning): ‘He/she searches for the usual and generally proven methods and solutions to work-related problems’. Sample item (explorative learning): ‘He/she collects novel information and ideas that go beyond his/her experience’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). At Time 3, supervisors rated middle managers’ exploitative (α = 0.87) and explorative learning (α = 0.89) using a modified five-item scale from Chung, Yang and Huang (2015).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.87
+      },
+      "mean": 3.93,
+      "sd": 0.98,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Explorative learning",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Supervisors rated middle managers' explorative learning at Time 3. Table 1 (p. 9) also reports AVE = 0.63, square root of AVE = 0.79, MSV = 0.21, ASV = 0.10.",
+      "specific_measure_used": "Chung, Yang and Huang (2015)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Exploitative learning and explorative learning. At Time 3, supervisors rated middle managers’ exploitative (α = 0.87) and explorative learning (α = 0.89) using a modified five-item scale from Chung, Yang and Huang (2015). Sample item (exploitative learning): ‘He/she searches for the usual and generally proven methods and solutions to work-related problems’. Sample item (explorative learning): ‘He/she collects novel information and ideas that go beyond his/her experience’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). At Time 3, supervisors rated middle managers’ exploitative (α = 0.87) and explorative learning (α = 0.89) using a modified five-item scale from Chung, Yang and Huang (2015).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.89
+      },
+      "mean": 3.71,
+      "sd": 1.05,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Ethical leadership",
+      "classification_type": "NB",
+      "number_of_items": 10,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Middle managers rated their supervisors' ethical leadership as a control variable.",
+      "specific_measure_used": "Brown, Treviño and Harrison (2005)",
+      "source_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). We also controlled for ethical leadership given that it shares similarities with servant leadership and other related concepts. Ethical leadership was measured using a 10-item scale (α = 0.92) from Brown, Treviño and Harrison (2005). Sample item: ‘My supervisor listens to what employees have to say’.",
+      "items_quote": "All constructs were measured using a five-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree). Ethical leadership was measured using a 10-item scale (α = 0.92) from Brown, Treviño and Harrison (2005).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.92
+      },
+      "mean": 3.01,
+      "sd": 1.05,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Demographic control variable reported by middle managers at Time 1 (in years).",
+      "specific_measure_used": "age",
+      "source_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure. We controlled for demographic factors, such as age, gender, work experience and education, because previous research has shown that they can impact the outcomes of leadership and organizational learning (Ali et al., 2022).",
+      "items_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 41.94,
+      "sd": 5.24,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Demographic control variable reported by middle managers at Time 1 (53.8% male, 46.2% female; Mean and SD reported as '–' in Table 2).",
+      "specific_measure_used": "gender",
+      "source_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure. We controlled for demographic factors, such as age, gender, work experience and education, because previous research has shown that they can impact the outcomes of leadership and organizational learning (Ali et al., 2022).",
+      "items_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Education",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Demographic control variable reported by middle managers at Time 1 (55.8% undergraduate degrees, 44.2% master's degrees; Mean and SD reported as '–' in Table 2).",
+      "specific_measure_used": "education",
+      "source_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure. We controlled for demographic factors, such as age, gender, work experience and education, because previous research has shown that they can impact the outcomes of leadership and organizational learning (Ali et al., 2022).",
+      "items_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999,
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Tenure",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Demographic control variable (tenure with the current organization in years) reported by middle managers at Time 1.",
+      "specific_measure_used": "employment tenure",
+      "source_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure. The mean age and tenure with the current organization were 41.94 years and 3.53 years, respectively.",
+      "items_quote": "Additionally, middle managers provided demographic information including age, gender, graduate qualifications and employment tenure.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.53,
+      "sd": 1.4,
+      "notes": null
+    }
+  ],
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 9,
+    "listwise_n": 344,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "1. Servant leadership",
+        "mean": 3.02,
+        "sd": 0.91,
+        "reliability_table": 0.88
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "2. Structural empowerment",
+        "mean": 3.12,
+        "sd": 0.85,
+        "reliability_table": 0.92
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "3. RBSE",
+        "mean": 3.11,
+        "sd": 1.18,
+        "reliability_table": 0.94
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "4. Exploitative learning",
+        "mean": 3.93,
+        "sd": 0.98,
+        "reliability_table": 0.87
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "5. Explorative learning",
+        "mean": 3.71,
+        "sd": 1.05,
+        "reliability_table": 0.89
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "6. LBSB",
+        "mean": 3.39,
+        "sd": 1.27,
+        "reliability_table": 0.94
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "7. Ethical leadership",
+        "mean": 3.01,
+        "sd": 1.05,
+        "reliability_table": 0.92
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "8. Age",
+        "mean": 41.94,
+        "sd": 5.24,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "9. Gender",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 10,
+        "table_anchor_name": "10. Education",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 11,
+        "table_anchor_name": "11. Tenure",
+        "mean": 3.53,
+        "sd": 1.4,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Servant leadership",
+        "r": 0.01,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "6. LBSB",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.01"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Structural empowerment",
+        "r": -0.05,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "6. LBSB",
+          "col_header_quote": "2",
+          "raw_cell_value": "–0.05"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "RBSE",
+        "r": 0.01,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "6. LBSB",
+          "col_header_quote": "3",
+          "raw_cell_value": "0.01"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Exploitative learning",
+        "r": -0.07,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "6. LBSB",
+          "col_header_quote": "4",
+          "raw_cell_value": "–0.07"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Explorative learning",
+        "r": 0.01,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "6. LBSB",
+          "col_header_quote": "5",
+          "raw_cell_value": "0.01"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Ethical leadership",
+        "r": 0.25,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "7. Ethical leadership",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.25**"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Age",
+        "r": -0.02,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "8. Age",
+          "col_header_quote": "6",
+          "raw_cell_value": "–0.02"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Gender",
+        "r": -0.01,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "9. Gender",
+          "col_header_quote": "6",
+          "raw_cell_value": "–0.01"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Education",
+        "r": 0.0,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "10. Education",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.00"
+        }
+      },
+      {
+        "var1_anchor": "LBSB",
+        "var2_anchor": "Tenure",
+        "r": -0.05,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 9,
+          "row_header_quote": "11. Tenure",
+          "col_header_quote": "6",
+          "raw_cell_value": "–0.05"
+        }
+      }
+    ]
+  }
+}

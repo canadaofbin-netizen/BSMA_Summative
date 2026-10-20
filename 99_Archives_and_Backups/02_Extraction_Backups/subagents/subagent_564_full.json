@@ -1,0 +1,12 @@
+{
+  "paper_id": 564,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 564,
+    "judgment": "0 = exclude",
+    "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+    "screening_notes": "Paper [564] (Tasselli, Zappa, & Lomi, 2020) investigates the dynamic coevolution of task-related communication ties and organizational vocabulary similarity within and across five organizational subunits among 40 managers in a multiunit energy organization across 3 time periods. Although data were collected from 40 managers, the empirical unit of analysis, variable construction, descriptive statistics/correlations (Table 1, p. 1302), and regression models (Tables 2 and 3) are strictly at the dyadic (i, j) pair level (40 x 39 = 1,560 directed dyads per wave; 4,680 total dyad-period observations across 3 waves; n = 4,485 dyadic observations in Table 1). Every focal variable is operationalized as a relational dyadic pair property between manager i and manager j (e.g., Interpersonal tie, Interpersonal tie change, Vocabulary similarity, Same subunit). There is NO individual-level (N = 40 managers) zero-order Pearson correlation matrix or individual-level boundary-spanning effect size reported anywhere in the paper. Per BSMA screening rules and dyadic edge-case protocols, purely dyadic (i, j) relational analyses without an individual-level correlation matrix must be excluded under Code 3 = Non-individual level (team/firm/org analysis)."
+  }
+}

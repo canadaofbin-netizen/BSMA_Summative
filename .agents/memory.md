@@ -210,7 +210,7 @@ Canonical audit log of 77 adjudicated papers and their definitive inclusion/excl
 
 ## 7. Phase 2 Full-Text Extraction Batch Adjudications (`03_Coding_Sheets/`)
 
-Canonical registry of all 29 papers adjudicated and extracted across the 7 Phase 2 batch sheets in `03_Coding_Sheets/`:
+Canonical registry of all 34 papers adjudicated and extracted across the 8 Phase 2 batch sheets in `03_Coding_Sheets/`:
 
 | Batch Sheet | BSMA_ID | Phase 2 Status | Exclusion Code | Extracted Rows | Methodological Ruling & Precedent Summary |
 |---|---|---|---|---|---|
@@ -243,4 +243,9 @@ Canonical registry of all 29 papers adjudicated and extracted across the 7 Phase
 | `501_506_508_509_511.xlsx` | `BSMA0508` | `1 = include` | - | 7 | Included ($N=245$ frontline employees in 3-to-5-star hotels). `Customer-oriented boundary-spanning behaviors` paired with 7 non-BS variables. |
 | `501_506_508_509_511.xlsx` | `BSMA0509` | `1 = include` | - | 12 | Included ($N=137$ humanitarian aid workers across 59 organizations). `Boundary‐spanning leadership` paired with 12 non-BS variables. |
 | `501_506_508_509_511.xlsx` | `BSMA0511` | `1 = include` | - | 10 | Included ($N=158$ public infrastructure project managers). `Boundary spanning activities` paired with 10 non-BS variables. |
+| `564_573_580_584_595.xlsx` | `BSMA0564` | `0 = exclude` | `3 = Non-individual level` | 1 | Excluded (`Code 3`): Dyadic `(i, j)` pair-level network unit of analysis ($N=4,680$ directed dyads across 3 waves from 40 managers; $n=4,485$ dyads in Table 1) with no individual-level correlation matrix. |
+| `564_573_580_584_595.xlsx` | `BSMA0573` | `1 = include` | - | 126 | Included ($N=245$ R&D scientists and engineers across 16 labs). 9 cross-laboratory BSB bridging tie dimensions (`Bridging direct raw ties`, `Bridging weak ties`, `Bridging strong ties`, `Bridging non-Simmelian ties`, `Bridging Simmelian ties`, `Bridging weak non-Simmelian ties`, `Bridging strong non-Simmelian ties`, `Bridging weak Simmelian ties`, `Bridging strong Simmelian ties`) paired with 14 non-BS variables (9 $\times$ 14 = 126 rows). |
+| `564_573_580_584_595.xlsx` | `BSMA0580` | `1 = include` | - | 10 | Included ($N=344$ middle managers and supervisors across 3 time-lagged waves). `LBSB` (Leader boundary-spanning behaviour, Marrone et al., 2007) paired with 10 non-BS variables. |
+| `564_573_580_584_595.xlsx` | `BSMA0584` | `1 = include` | - | 8 | Included ($N=213$ National Government of the Netherlands employees). `Intergroup leadership` (Rast et al., 2018 adaptation) paired with 8 non-BS variables. |
+| `564_573_580_584_595.xlsx` | `BSMA0595` | `1 = include` | - | 10 | Included ($N=398$ matched dyads of knowledge workers and their immediate supervisors in 4 industrial research institutes in Southwest China). `Boundary spanning (T2)` paired with 10 non-BS variables. |
 

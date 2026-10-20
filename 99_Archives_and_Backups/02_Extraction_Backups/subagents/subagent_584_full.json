@@ -1,0 +1,373 @@
+{
+  "paper_id": 584,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "Netherlands",
+    "country_specify": "National Government of the Netherlands (survey initiated by the Dutch Ministry of the Interior and Kingdom Relations)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 213,
+    "listwise_n": 213,
+    "mean_age": 53.98,
+    "pct_female": 28,
+    "org_tenure": 999,
+    "occupation_type": "Employees of the National Government of the Netherlands (police officers, elementary school teachers, executive workers of the Ministry of Waterways and Public Works, magistrates)",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "This study was part of a survey initiated by the Dutch Ministry of the Interior and Kingdom Relations. Respondents were drawn from a national panel of employees designed to be representative of employees of the National Government of the Netherlands. Respondents varied from police officers to elementary school teachers and from executive workers of the Ministry of Waterways and Public Works to magistrates. Of the 279 respondents who initially participated in this study, 213 respondents filled out the questionnaire completely (83%). Among these respondents 28% were female, their average age was 53.98 years (SD = 7.88 years), and most of them received higher education: 4% had a Ph.D., 30% had a university degree, 41% had finished higher vocational education, 21% had finished middle vocational education or pre-university education, and 4% had primary or secondary education."
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Intergroup leadership",
+      "classification_type": "BS",
+      "number_of_items": 9,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Employees rated their manager's intergroup leadership behavior across departmental boundaries.",
+      "specific_measure_used": "Rast and colleagues' (2018) “leader rhetoric scale”",
+      "items_quote": "The nine items focused on communicating the importance of intergroup collaboration and its value for one's own group (i.e., stimulation of an intergroup relational identity) and on acting in ways that are in line with the communicated intergroup relational identity (e.g., “My manager emphasizes that the collaboration with other departments shapes our identity”; “My manager makes clear that collaboration with other departments is crucial for ‘who we are’ as a department”).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.94
+      },
+      "mean": 3.36,
+      "sd": 0.96,
+      "source_quote": "We adapted Rast and colleagues' (2018) “leader rhetoric scale” to measure intergroup leadership. The nine items focused on communicating the importance of intergroup collaboration and its value for one's own group (i.e., stimulation of an intergroup relational identity) and on acting in ways that are in line with the communicated intergroup relational identity (e.g., “My manager emphasizes that the collaboration with other departments shapes our identity”; “My manager makes clear that collaboration with other departments is crucial for ‘who we are’ as a department”). These items proved to be internally reliable (Cronbach's α = .94) (see Appendix for the full scale).",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "gender (coded as male = 0/female = 1)",
+      "items_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.28,
+      "sd": 0.45,
+      "source_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "age (in years)",
+      "items_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 53.98,
+      "sd": 7.88,
+      "source_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Education",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 8,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.)",
+      "items_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 6.29,
+      "sd": 1.52,
+      "source_quote": "To control for the influence of demographic variables, we included gender (coded as male = 0/female = 1) because women tend to be more prone to relational identification than men, and men tend to be more prone to collective identification than women (Fritz & van Knippenberg, 2017), age (in years), and level of education (coded ordinally from the lowest to the highest level of received education, that is, 1 = elementary school to 8 = Ph.D.) as both older and higher educated employees have more intergroup contact and probably more access to resources outside the own group.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Team identification",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "6-item Mael and Ashforth (1992) scale",
+      "items_quote": "To control for the extent to which employees identified with their team, we measured their team identification with an adaptation of the 6-item Mael and Ashforth (1992) scale with the team as referent (e.g., “When someone criticizes my team, it feels like a personal insult”; “This team's successes are my successes”) (van Knippenberg & van Schie, 2000). Cronbach's α was .75 for satisfactory reliability.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.75
+      },
+      "mean": 3.87,
+      "sd": 0.63,
+      "source_quote": "To control for the extent to which employees identified with their team, we measured their team identification with an adaptation of the 6-item Mael and Ashforth (1992) scale with the team as referent (e.g., “When someone criticizes my team, it feels like a personal insult”; “This team's successes are my successes”) (van Knippenberg & van Schie, 2000). Cronbach's α was .75 for satisfactory reliability.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Organizational identification",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Mael and Ashforth's (1992) 6-item scale",
+      "items_quote": "To control for the extent to which employees identified with their organization, we measured their organizational identification with Mael and Ashforth's (1992) 6-item scale (e.g., “When someone criticizes my organization, it feels like a personal insult”; “This organization's successes are my successes”); Cronbach's α was .86 for good reliability.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.86
+      },
+      "mean": 3.46,
+      "sd": 0.79,
+      "source_quote": "To control for the extent to which employees identified with their organization, we measured their organizational identification with Mael and Ashforth's (1992) 6-item scale (e.g., “When someone criticizes my organization, it feels like a personal insult”; “This organization's successes are my successes”); Cronbach's α was .86 for good reliability.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Psychological empowerment",
+      "classification_type": "NB",
+      "number_of_items": 12,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "12-item instrument by Spreitzer (1995)",
+      "items_quote": "We measured psychological empowerment using the 12-item instrument by Spreitzer (1995) assessing the four main aspects of empowerment: Meaning (e.g., “The work I do is very important to me”); competence (e.g., “I am confident about my ability to do my job”); self-determination (e.g., “I have significantly autonomy in determining how I do my job”); and impact (e.g., “My impact on what happens in my department is high”). These items proved to be internally reliable (Cronbach's α = .84).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.84
+      },
+      "mean": 3.71,
+      "sd": 0.49,
+      "source_quote": "We measured psychological empowerment using the 12-item instrument by Spreitzer (1995) assessing the four main aspects of empowerment: Meaning (e.g., “The work I do is very important to me”); competence (e.g., “I am confident about my ability to do my job”); self-determination (e.g., “I have significantly autonomy in determining how I do my job”); and impact (e.g., “My impact on what happens in my department is high”). These items proved to be internally reliable (Cronbach's α = .84).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Resources",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Kanter (1977) and Seibert et al. (2011)",
+      "items_quote": "We measured the extent to which employees had access to resources needed for optimal performance at work from all other individuals (i.e., others within and outside their organization, friends, acquaintances, etc.) with four items. Based on research of Kanter (1977) and Seibert et al. (2011), we asked respondents specifically about information, instrumental means, social support, and opportunities to learn and grow, that is, “How much of the information you need to optimally carry out your work do you receive from people in your social network?”; “How much of the instrumental means you need to optimally carry out your work do you receive from people in your social network?”; “How much of the social support you need to optimally carry out your work do you receive from people in your social network?”; and “How much of the opportunities to learn and grow you need to optimally carry out your work do you receive from people in your social network?” The four items proved to be internally reliability (Cronbach's α = .75).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.75
+      },
+      "mean": 2.69,
+      "sd": 0.94,
+      "source_quote": "We measured the extent to which employees had access to resources needed for optimal performance at work from all other individuals (i.e., others within and outside their organization, friends, acquaintances, etc.) with four items. Based on research of Kanter (1977) and Seibert et al. (2011), we asked respondents specifically about information, instrumental means, social support, and opportunities to learn and grow, that is, “How much of the information you need to optimally carry out your work do you receive from people in your social network?”; “How much of the instrumental means you need to optimally carry out your work do you receive from people in your social network?”; “How much of the social support you need to optimally carry out your work do you receive from people in your social network?”; and “How much of the opportunities to learn and grow you need to optimally carry out your work do you receive from people in your social network?” The four items proved to be internally reliability (Cronbach's α = .75).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Intergroup relational identification",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Rast and colleagues (2018)",
+      "items_quote": "To measure intergroup relational identification, we again adapted items from Rast and colleagues (2018). The five items focused on the provision of self-definition in terms of the in-group's relationship with one or more relevant outgroups (e.g., “The relationship with other departments forms our identity”; “Who we are as our departments is defined by our relationship with other departments”). These items proved to be internally reliable (Cronbach's α = .90) (see Appendix for the full scale).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.90
+      },
+      "mean": 3.49,
+      "sd": 0.89,
+      "source_quote": "To measure intergroup relational identification, we again adapted items from Rast and colleagues (2018). The five items focused on the provision of self-definition in terms of the in-group's relationship with one or more relevant outgroups (e.g., “The relationship with other departments forms our identity”; “Who we are as our departments is defined by our relationship with other departments”). These items proved to be internally reliable (Cronbach's α = .90) (see Appendix for the full scale).",
+      "notes": null
+    }
+  ],
+  "table_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 715,
+    "listwise_n": 213,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "1. Gender",
+        "mean": 0.28,
+        "sd": 0.45,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "2. Age",
+        "mean": 53.98,
+        "sd": 7.88,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "3. Education",
+        "mean": 6.29,
+        "sd": 1.52,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "4. Team identification",
+        "mean": 3.87,
+        "sd": 0.63,
+        "reliability_table": 0.75
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "5. Organizational identification",
+        "mean": 3.46,
+        "sd": 0.79,
+        "reliability_table": 0.86
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "6. Psychological empowerment",
+        "mean": 3.71,
+        "sd": 0.49,
+        "reliability_table": 0.84
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "7. Resources",
+        "mean": 2.69,
+        "sd": 0.94,
+        "reliability_table": 0.75
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "8. Intergroup relational identification",
+        "mean": 3.49,
+        "sd": 0.89,
+        "reliability_table": 0.90
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "9. Intergroup leadership",
+        "mean": 3.36,
+        "sd": 0.96,
+        "reliability_table": 0.94
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "1. Gender",
+        "r": 0.16,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "1 (1. Gender)",
+          "raw_cell_value": ".16*"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "2. Age",
+        "r": 0.01,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "2 (2. Age)",
+          "raw_cell_value": ".01"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "3. Education",
+        "r": 0.06,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "3 (3. Education)",
+          "raw_cell_value": ".06"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "4. Team identification",
+        "r": 0.20,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "4 (4. Team identification)",
+          "raw_cell_value": ".20**"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "5. Organizational identification",
+        "r": 0.15,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "5 (5. Organizational identification)",
+          "raw_cell_value": ".15*"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "6. Psychological empowerment",
+        "r": 0.31,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "6 (6. Psychological empowerment)",
+          "raw_cell_value": ".31**"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "7. Resources",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "7 (7. Resources)",
+          "raw_cell_value": ".17*"
+        }
+      },
+      {
+        "var1_anchor": "9. Intergroup leadership",
+        "var2_anchor": "8. Intergroup relational identification",
+        "r": 0.35,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 715,
+          "row_header_quote": "9. Intergroup leadership",
+          "col_header_quote": "8 (8. Intergroup relational identification)",
+          "raw_cell_value": ".35**"
+        }
+      }
+    ]
+  }
+}

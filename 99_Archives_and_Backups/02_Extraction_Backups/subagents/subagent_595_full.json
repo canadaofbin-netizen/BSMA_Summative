@@ -1,0 +1,447 @@
+{
+  "paper_id": 595,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Two-wave time-lagged design (T1 and T2, approximately three months apart) with multisource leader-member dyads",
+    "country": "China",
+    "country_specify": "Southwest China (four research institutes operating in the petrochemical, chemical, coal exploration, iron and steel industries)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 398,
+    "listwise_n": 398,
+    "mean_age": 30.34,
+    "pct_female": 48.25,
+    "org_tenure": 3.4,
+    "occupation_type": "Knowledge workers in four research institutes (petrochemical, chemical, coal exploration, iron and steel industries)",
+    "is_longitudinal": true,
+    "time_points": ["T1", "T2"],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "Knowledge workers and their immediate leaders in four research institutes in the southwest of China were the participants in this study. The four research institutes were operating in the petrochemical, chemical, coal exploration, iron and steel industries. These members were encouraged to develop new products or improve the production process, which requires them to generate new and relevant ideas. To prevent common method bias, data were collected in two waves. Wave 1 (T1) survey of knowledge workers form contained the predictor variables (i.e. perceived transformational leadership of leaders), the first stage mediator (i.e. their perspective taking) and control variables (i.e. their demographics). Wave 2 (T2) survey of knowledge workers contained the second stage mediator (i.e. their boundary-spanning). In contrast, the survey of leaders included their demographics and the creative performance of individual members. After matching the leader-member responses at two-time points, we obtained 398 leader-member dyads, comprising 398 members and 159 leaders. For the member sample, 51.75% were male. For the leader sample, 79.75% were male. The average age of the members and leaders were 30.3 years old (SD = 6.25) and 37.06 years old (SD = 6.13), respectively."
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary spanning (T2)",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 2 (T2)",
+      "specific_measure_used": "Marrone et al. (2007)",
+      "items_quote": "To avoid central tendency bias among respondents the ratings were done using a six-point scale, ranging from strongly disagree (1) to strongly agree (6). Boundary spanning was accessed using the four-item subscale taken from Marrone et al. (2007). A sample item was, ‘I proactively seek the advice and support of my faculty advisor’. The internal reliability of this scale is 0.84.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.84
+      },
+      "mean": 4.47,
+      "sd": 0.76,
+      "source_quote": "Boundary spanning was accessed using the four-item subscale taken from Marrone et al. (2007). A sample item was, ‘I proactively seek the advice and support of my faculty advisor’. The internal reliability of this scale is 0.84.",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Supervisor age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Self-reported by immediate leaders/supervisors in the leader survey (T2) in years",
+      "specific_measure_used": "age",
+      "items_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 37.06,
+      "sd": 6.13,
+      "source_quote": "In contrast, the survey of leaders included their demographics and the creative performance of individual members. Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Supervisor gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Self-reported by immediate leaders/supervisors in the leader survey (T2); dummy coded female (0) and males (1)",
+      "specific_measure_used": "gender",
+      "items_quote": "Gender was given these dummy codes; female (0) and males (1).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.79,
+      "sd": 0.4,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Gender was given these dummy codes; female (0) and males (1).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Supervisor education",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Self-reported by immediate leaders/supervisors in the leader survey (T2); coded 1 = high school or lower, 2 = college, 3 = bachelor's degree, 4 = postgraduate degree",
+      "specific_measure_used": "educational levels",
+      "items_quote": "Education was also given the following codes; employees who had high school education or lower were given (1), those that had a college education (2), those that had a bachelor’s degree (3), and those that had a postgraduate degree (4).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.24,
+      "sd": 0.7,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Education was also given the following codes; employees who had high school education or lower were given (1), those that had a college education (2), those that had a bachelor’s degree (3), and those that had a postgraduate degree (4).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Subordinate age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 1 (T1) in years",
+      "specific_measure_used": "age",
+      "items_quote": "Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 30.34,
+      "sd": 6.25,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Subordinate gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 1 (T1); dummy coded female (0) and males (1)",
+      "specific_measure_used": "gender",
+      "items_quote": "Gender was given these dummy codes; female (0) and males (1).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.52,
+      "sd": 0.5,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Gender was given these dummy codes; female (0) and males (1).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Subordinate education",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 1 (T1); coded 1 = high school or lower, 2 = college, 3 = bachelor's degree, 4 = postgraduate degree",
+      "specific_measure_used": "educational levels",
+      "items_quote": "Education was also given the following codes; employees who had high school education or lower were given (1), those that had a college education (2), those that had a bachelor’s degree (3), and those that had a postgraduate degree (4).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.13,
+      "sd": 0.73,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Education was also given the following codes; employees who had high school education or lower were given (1), those that had a college education (2), those that had a bachelor’s degree (3), and those that had a postgraduate degree (4).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "The subordinate’s tenure with supervisor",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 1 (T1) in years",
+      "specific_measure_used": "tenure with the leader",
+      "items_quote": "Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.4,
+      "sd": 2.69,
+      "source_quote": "Both the member and leader’s demographic variables such as age, gender and educational levels, as well as the member’s tenure with the leader were statistically controlled for in our study because prior studies indicated that such variables are possibly associated with member creative performance (Gong et al., 2009; Liao et al., 2010; Ng and Feldman, 2013; Zhang and Bartol, 2010). Respondents were requested to self-report their age and tenure with their leaders in years.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Transformational leadership (T1)",
+      "classification_type": "NB",
+      "number_of_items": 16,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Rated by knowledge workers (subordinates) evaluating their immediate team leader in Wave 1 (T1)",
+      "specific_measure_used": "Multifactor Leadership Questionnaire (Bass and Avolio, 1997)",
+      "items_quote": "To avoid central tendency bias among respondents the ratings were done using a six-point scale, ranging from strongly disagree (1) to strongly agree (6). We used the sixteen-item measurement of the Multifactor Leadership Questionnaire (Bass and Avolio, 1997) to measure transformational leadership.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.9
+      },
+      "mean": 4.62,
+      "sd": 0.64,
+      "source_quote": "We used the sixteen-item measurement of the Multifactor Leadership Questionnaire (Bass and Avolio, 1997) to measure transformational leadership. This scale consists of four dimensions: idealized influence (e.g. “Our team leader emphasized the importance of having a collective sense of mission”), inspirational motivation (e.g. “Our team leader expresses confidence that goals will be achieved”), individualized consideration (e.g. “Our team leader helps others to develop their strengths”) and intellectual stimulation (e.g. “Our team leader gets others to look at problems from many different angles”). Because the research was based on the effect of transformational leadership as a whole construct on subordinate creative performance instead of differential influences of the various dimensions, previous studies were followed (Bai et al., 2016) to combine the four factors into one transformational leadership factor. The internal reliability for this scale is 0.90.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Perspective taking (T1)",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported by knowledge workers (subordinates) in Wave 1 (T1)",
+      "specific_measure_used": "Davis (1996)",
+      "items_quote": "To avoid central tendency bias among respondents the ratings were done using a six-point scale, ranging from strongly disagree (1) to strongly agree (6). Perspective taking was accessed using the four-item subscale taken from Davis (1996).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.73
+      },
+      "mean": 4.55,
+      "sd": 0.53,
+      "source_quote": "Perspective taking was accessed using the four-item subscale taken from Davis (1996). A sample item was, ‘On the job, I frequently try to take other people’s perspective. The internal reliability of this scale is 0.73.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Creative performance (T2)",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Rated by immediate leaders/supervisors in Wave 2 (T2). Table 1 diagonal reports Cronbach's alpha = 0.93 (text p. 488 states 0.92; Table 1 takes precedence per Rule 30).",
+      "specific_measure_used": "Farmer et al. (2003)",
+      "items_quote": "To avoid central tendency bias among respondents the ratings were done using a six-point scale, ranging from strongly disagree (1) to strongly agree (6). Creative performance was accessed using the four-item subscale taken from Farmer et al. (2003).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.93
+      },
+      "mean": 4.58,
+      "sd": 0.91,
+      "source_quote": "In contrast, the survey of leaders included their demographics and the creative performance of individual members. Creative performance was accessed using the four-item subscale taken from Farmer et al. (2003). A sample item was, ‘This employee tries new ideas or methods first’. The internal reliability for this scale is 0.92.",
+      "notes": null
+    }
+  ],
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 490,
+    "listwise_n": 398,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "1. Supervisor age",
+        "mean": 37.06,
+        "sd": 6.13,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "2. Supervisor gender",
+        "mean": 0.79,
+        "sd": 0.4,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "3. Supervisor education",
+        "mean": 3.24,
+        "sd": 0.7,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "4. Subordinate age",
+        "mean": 30.34,
+        "sd": 6.25,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "5. Subordinate gender",
+        "mean": 0.52,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "6. Subordinate education",
+        "mean": 3.13,
+        "sd": 0.73,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "7. The subordinate’s tenure with supervisor",
+        "mean": 3.4,
+        "sd": 2.69,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "8. Transformational leadership (T1)",
+        "mean": 4.62,
+        "sd": 0.64,
+        "reliability_table": 0.9
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "9. Perspective taking (T1)",
+        "mean": 4.55,
+        "sd": 0.53,
+        "reliability_table": 0.73
+      },
+      {
+        "var_index": 10,
+        "table_anchor_name": "10. Boundary spanning (T2)",
+        "mean": 4.47,
+        "sd": 0.76,
+        "reliability_table": 0.84
+      },
+      {
+        "var_index": 11,
+        "table_anchor_name": "11. Creative performance (T2)",
+        "mean": 4.58,
+        "sd": 0.91,
+        "reliability_table": 0.93
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Supervisor age",
+        "r": 0.09,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.09"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Supervisor gender",
+        "r": 0.07,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "2",
+          "raw_cell_value": "0.07"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Supervisor education",
+        "r": 0.0,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "3",
+          "raw_cell_value": "0.00"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Subordinate age",
+        "r": 0.06,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "4",
+          "raw_cell_value": "0.06"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Subordinate gender",
+        "r": 0.06,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "5",
+          "raw_cell_value": "0.06"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Subordinate education",
+        "r": -0.1,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "6",
+          "raw_cell_value": "-0.10"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "The subordinate’s tenure with supervisor",
+        "r": 0.09,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "7",
+          "raw_cell_value": "0.09"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Transformational leadership (T1)",
+        "r": 0.32,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "8",
+          "raw_cell_value": "0.32**"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Perspective taking (T1)",
+        "r": 0.3,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "10. Boundary spanning (T2)",
+          "col_header_quote": "9",
+          "raw_cell_value": "0.30**"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning (T2)",
+        "var2_anchor": "Creative performance (T2)",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 490,
+          "row_header_quote": "11. Creative performance (T2)",
+          "col_header_quote": "10",
+          "raw_cell_value": "0.17**"
+        }
+      }
+    ]
+  }
+}

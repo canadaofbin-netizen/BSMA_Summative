@@ -1,5 +1,5 @@
 # BSMA Project Unified Lint Report
-> Audited Workspace: `G:\My Drive\Kyubin_Yun_Workspace\03_Oklahoma_University\02_BSMA_Project\BSMA`
+> Audited Workspace: `/home/canadaofbin/gdrive/Kyubin_Yun_Workspace/03_Oklahoma_University/02_BSMA_Project/BSMA`
 
 ## Summary
 
@@ -29,13 +29,13 @@
 | Excel Data Integrity | Master sheet has exact 50-column full-extraction structure. |  |
 | Excel Data Integrity | No bold markdown in header cells. |  |
 | Excel Data Integrity | Zero ellipses detected in Master Sheet Col 16 Notes (Verbatim fidelity confirmed). |  |
-| Excel Data Integrity | Rule 20 canonical 3-tier headers verified in 8 sheets: ['203_207_208_225.xlsx', '234_235_236_238.xlsx', '383_384_385_387_389.xlsx', '392_398_399_403_407.xlsx', '49_53_66.xlsx', '501_506_508_509_511.xlsx', '70_94_109.xlsx', 'Full text coding sheet.xlsx'] (zero 'Unnamed' headers). |  |
+| Excel Data Integrity | Rule 20 canonical 3-tier headers verified in 9 sheets: ['203_207_208_225.xlsx', '234_235_236_238.xlsx', '383_384_385_387_389.xlsx', '392_398_399_403_407.xlsx', '49_53_66.xlsx', '501_506_508_509_511.xlsx', '564_573_580_584_595.xlsx', '70_94_109.xlsx', 'Full text coding sheet.xlsx'] (zero 'Unnamed' headers). |  |
 | Excel Data Integrity | Rule 1 Dual Missing Data verified: Zero forbidden text strings in numeric columns across all batch sheets. |  |
 | Excel Data Integrity | Rule 9 Provenance Coordinates verified: 100% of included batch rows start with 'Table X' in Col 50. |  |
 | Excel Data Integrity | Rule 13 Verbatim Quotes verified: Zero ellipses ('...') across all 7 batch extraction sheets. |  |
 | Excel Data Integrity | Rule 14 Measure Substring Fidelity verified across all 7 batch extraction sheets. |  |
 | Excel Data Integrity | Rule 19 Streamlined Batch Schema verified (Cols 3 & 7-16 blank on included; Cols 7-50 blank on excluded). |  |
-| Excel Data Integrity | Rule 27 Lossless Parity verified: 16 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
+| Excel Data Integrity | Rule 27 Lossless Parity verified: 20 included paper(s) in batch sheets have populated empirical Mean/SD metrics. |  |
 | Agent Protocols & SSOT | All 5 skills are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 3 rule modules are perfectly synchronized with AGENTS.md index. |  |
 | Agent Protocols & SSOT | All 7 core scripts in .agents/scripts/ are synchronized with AGENTS.md index. |  |

@@ -193,7 +193,55 @@ VAR_EXPLANATIONS_KO = {
     "ao": "성취 지향성 (Achievement Orientation)",
     "pp": "성과 압박 (Performance Pressure)",
     "cf": "인지적 유연성 (Cognitive Flexibility)",
-    "op": "강박적 열정 (Obsessive Work Passion)"
+    "op": "강박적 열정 (Obsessive Work Passion)",
+    "bridging direct raw ties": "경계연결 직접 원시 유대 (타 연구실 외부 지식 비중 E-I 지수)",
+    "bridging weak ties": "경계연결 약한 유대 (비빈번 소통 기반 타 연구실 지식 가교)",
+    "bridging strong ties": "경계연결 강한 유대 (빈번 소통 기반 타 연구실 지식 가교)",
+    "bridging non-simmelian ties": "경계연결 비-짐멜리안 유대 (삼자 파벌에 속하지 않는 타 연구실 가교)",
+    "bridging simmelian ties": "경계연결 짐멜리안 유대 (삼자 파벌에 배태된 타 연구실 가교)",
+    "bridging weak non-simmelian ties": "경계연결 약한 비-짐멜리안 유대",
+    "bridging strong non-simmelian ties": "경계연결 강한 비-짐멜리안 유대",
+    "bridging weak simmelian ties": "경계연결 약한 짐멜리안 유대",
+    "bridging strong simmelian ties": "경계연결 강한 짐멜리안 유대",
+    "patents": "특허 출원 건수 (혁신 창출 성과)",
+    "simmelian ties": "짐멜리안 유대 총수 (삼자 파벌 내 호혜적 유대)",
+    "strong ties": "강한 유대 총수 (주 1회 이상 소통 유대)",
+    "job grade": "직급 수준 (조직 내 공식 직위 계층)",
+    "structural holes": "구조적 공백 (네트워크 비중복성/효율성 지수)",
+    "head of laboratory": "연구실장 여부 (더미 변수)",
+    "degree of alters located outside ego’s lab": "타 연구실 소속 연결 상대자 수 (외부 연결 중심성)",
+    "degree of alters located outside ego's lab": "타 연구실 소속 연결 상대자 수 (외부 연결 중심성)",
+    "previous patenting experience": "과거 특허 출원 경험 유무",
+    "total ties": "전체 네트워크 유대 총수 (내·외부 합산)",
+    "lab size": "소속 연구실 규모 (연구원 수)",
+    "seniority": "근속 연수 (조직 재직 기간)",
+    "level of education": "학력 수준 (학사/석사/박사)",
+    "scientific knowledge": "과학적 지식 교류 총량",
+    "industrial knowledge": "산업·기술적 지식 교류 총량",
+    "lbsb": "리더 경계연결 행동 (Leader Boundary-Spanning Behaviour)",
+    "structural empowerment": "구조적 임파워먼트 (Structural Empowerment)",
+    "rbse": "역할 기반 자기효능감 (Role-Breadth Self-Efficacy)",
+    "exploitative learning": "활용적 학습 (Exploitative Learning)",
+    "explorative learning": "탐험적 학습 (Explorative Learning)",
+    "ethical leadership": "윤리적 리더십 (Ethical Leadership)",
+    "intergroup leadership": "집단 간 경계연결 리더십 (Intergroup Leadership)",
+    "team identification": "팀 동일시 (Team Identification)",
+    "organizational identification": "조직 동일시 (Organizational Identification)",
+    "psychological empowerment": "심리적 임파워먼트 (Psychological Empowerment)",
+    "resources": "집단 간 협업 지원 자원 (Intergroup Resources)",
+    "intergroup relational identification": "집단 간 관계적 동일시 (Intergroup Relational Identification)",
+    "boundary spanning (t2)": "경계연결 행동 (Boundary Spanning, Time 2)",
+    "supervisor age": "상사 연령",
+    "supervisor gender": "상사 성별",
+    "supervisor education": "상사 교육 수준",
+    "subordinate age": "부하직원 연령",
+    "subordinate gender": "부하직원 성별",
+    "subordinate education": "부하직원 교육 수준",
+    "the subordinate’s tenure with supervisor": "상사와의 함께 일한 근속 기간 (Dyadic Tenure)",
+    "the subordinate's tenure with supervisor": "상사와의 함께 일한 근속 기간 (Dyadic Tenure)",
+    "transformational leadership (t1)": "변혁적 리더십 (Transformational Leadership, Time 1)",
+    "perspective taking (t1)": "관점 수용 (Perspective Taking, Time 1)",
+    "creative performance (t2)": "창의적 직무 성과 (Creative Performance, Time 2)"
 }
 
 VAR_EXPLANATIONS_EN = {
@@ -343,7 +391,55 @@ VAR_EXPLANATIONS_EN = {
     "ao": "Achievement Orientation",
     "pp": "Performance Pressure",
     "cf": "Cognitive Flexibility",
-    "op": "Obsessive Work Passion"
+    "op": "Obsessive Work Passion",
+    "bridging direct raw ties": "Bridging Direct Raw Ties (E-I Index of Cross-Lab Knowledge Ties)",
+    "bridging weak ties": "Bridging Weak Ties (Infrequent Cross-Lab Knowledge Ties)",
+    "bridging strong ties": "Bridging Strong Ties (Frequent Cross-Lab Knowledge Ties)",
+    "bridging non-simmelian ties": "Bridging Non-Simmelian Ties (Cross-Lab Ties Outside Triadic Cliques)",
+    "bridging simmelian ties": "Bridging Simmelian Ties (Cross-Lab Ties Embedded in Triadic Cliques)",
+    "bridging weak non-simmelian ties": "Bridging Weak Non-Simmelian Ties",
+    "bridging strong non-simmelian ties": "Bridging Strong Non-Simmelian Ties",
+    "bridging weak simmelian ties": "Bridging Weak Simmelian Ties",
+    "bridging strong simmelian ties": "Bridging Strong Simmelian Ties",
+    "patents": "Number of Patents Filed (Innovation Output)",
+    "simmelian ties": "Total Simmelian Ties (Reciprocal Ties Embedded in Triads)",
+    "strong ties": "Total Strong Ties (Weekly or More Frequent Communication)",
+    "job grade": "Job Grade (Formal Organizational Rank)",
+    "structural holes": "Structural Holes (Network Efficiency / Non-Redundancy Index)",
+    "head of laboratory": "Head of Laboratory (Dummy Variable)",
+    "degree of alters located outside ego’s lab": "Degree of Alters Located Outside Ego's Lab",
+    "degree of alters located outside ego's lab": "Degree of Alters Located Outside Ego's Lab",
+    "previous patenting experience": "Previous Patenting Experience (Prior Patent Dummy)",
+    "total ties": "Total Network Ties (Internal + External Knowledge Ties)",
+    "lab size": "Laboratory Size (Number of Researchers in Lab)",
+    "seniority": "Organizational Seniority / Tenure (Years)",
+    "level of education": "Level of Education (BA/MS/PhD)",
+    "scientific knowledge": "Total Scientific Knowledge Ties",
+    "industrial knowledge": "Total Industrial Knowledge Ties",
+    "lbsb": "Leader Boundary-Spanning Behaviour (LBSB)",
+    "structural empowerment": "Structural Empowerment",
+    "rbse": "Role-Breadth Self-Efficacy (RBSE)",
+    "exploitative learning": "Exploitative Learning",
+    "explorative learning": "Explorative Learning",
+    "ethical leadership": "Ethical Leadership",
+    "intergroup leadership": "Intergroup Leadership (Boundary-Spanning Leadership)",
+    "team identification": "Team Identification",
+    "organizational identification": "Organizational Identification",
+    "psychological empowerment": "Psychological Empowerment",
+    "resources": "Perceived Intergroup Collaboration Resources",
+    "intergroup relational identification": "Intergroup Relational Identification",
+    "boundary spanning (t2)": "Boundary Spanning Behavior (Time 2)",
+    "supervisor age": "Supervisor Age",
+    "supervisor gender": "Supervisor Gender",
+    "supervisor education": "Supervisor Education",
+    "subordinate age": "Subordinate Age",
+    "subordinate gender": "Subordinate Gender",
+    "subordinate education": "Subordinate Education",
+    "the subordinate’s tenure with supervisor": "Subordinate's Dyadic Tenure with Supervisor",
+    "the subordinate's tenure with supervisor": "Subordinate's Dyadic Tenure with Supervisor",
+    "transformational leadership (t1)": "Transformational Leadership (Time 1)",
+    "perspective taking (t1)": "Perspective Taking (Time 1)",
+    "creative performance (t2)": "Creative Performance (Time 2)"
 }
 
 CATEGORY_MAP_KO = {
@@ -377,14 +473,15 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
     if any(k in v for k in [
         "org. size", "size", "industry", "complexity", "uncertainty", "interdepend",
         "technology", "environment", "structure", "formalization", "type of employee",
-        "contract", "armed conflict", "remote work", "strategic orientation"
+        "contract", "armed conflict", "remote work", "strategic orientation", "resources"
     ]):
         key = "context"
     elif any(k in v for k in [
         "comm.", "commitment", "satisfaction", "involvement", "engagement", "identification",
         "loyalty", "passion", "op", "intention to leave", "turnover", "je (", "embeddedness",
         "meaningfulness", "centrality", "calling", "vision", "hope/faith", "altruistic love",
-        "member", "trust", "support", "coaching", "servant leadership"
+        "member", "trust", "support", "coaching", "servant leadership", "ethical leadership",
+        "transformational leadership", "perspective taking"
     ]):
         key = "attitudes"
     elif any(k in v for k in [
@@ -395,22 +492,23 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
     elif any(k in v for k in [
         "performance", "creativity", "service", "delivery", "citizenship", "ocb", "voice",
         "leadership", "innovativeness", "learning", "collaboration", "acap", "competence",
-        "influence", "perceived", "objective", "rating", "cs"
+        "influence", "perceived", "objective", "rating", "cs", "patents", "knowledge"
     ]):
         key = "performance"
     elif any(k in v for k in [
         "proactive", "personality", "status", "degree", "occupation", "education", "edu",
-        "experience", "age", "gender", "sex", "tenure", "ao", "flexibility", "cf",
-        "ethnicity", "gmat", "human capital", "self-efficacy", "hierarchical level",
-        "managerial", "boundary-spanning role", "locus of control"
+        "experience", "age", "gender", "sex", "tenure", "seniority", "ao", "flexibility", "cf",
+        "ethnicity", "gmat", "human capital", "self-efficacy", "rbse", "hierarchical level",
+        "job grade", "head of laboratory", "managerial", "boundary-spanning role", "locus of control"
     ]):
         key = "individual"
     elif any(k in v for k in [
-        "control", "incent", "reward", "compensation", "pay", "autonomy", "power"
+        "control", "incent", "reward", "compensation", "pay", "autonomy", "power", "empowerment"
     ]):
         key = "control"
     elif any(k in v for k in [
-        "internal", "intra", "prototypicality"
+        "internal", "intra", "prototypicality", "simmelian ties", "strong ties", "total ties",
+        "structural holes", "alters located outside"
     ]):
         key = "internal"
     else:
