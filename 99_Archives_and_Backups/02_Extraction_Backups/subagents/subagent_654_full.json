@@ -1,0 +1,873 @@
+{
+  "paper_id": "654",
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "South Korea",
+    "country_specify": "Seoul, South Korea (retail banks and insurance companies)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 346,
+    "listwise_n": 346,
+    "mean_age": 35,
+    "pct_female": 51,
+    "org_tenure": 10,
+    "occupation_type": "Retail bank and insurance service employees",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Abstract, p. 539] \"Using a sample of 469 Korean bank and insurance employees, research model and hypotheses were tested.\" [Sampling procedure and data collection, p. 543] \"Data for the study were collected from a cross-sectional sample of retail bank and insurance employees in South Korea. The sample contained responses from service employees. Participation was solicited from various large banks across the country. All the organizations involved in the data collection offered services and sell service products directly to customers.\" [Sample characteristics, p. 543] \"Questionnaires were distributed to 500 service employees across several banks. Of these, 346 completed questionnaires were returned, for a response rate of 69.2 percent (interviewer presence certainly aided this response rate). The employee sample was 49 percent male, with an average age of 35 years and ten-year tenure in their current position; 68.6 percent of the sample had a university degree.\""
+  },
+  "specialist_A": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "South Korea",
+    "country_specify": "Seoul, South Korea (retail banks and insurance companies)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 346,
+    "mean_age": 35,
+    "pct_female": 51,
+    "org_tenure": 10,
+    "occupation_type": "Retail bank and insurance service employees",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Abstract, p. 539] \"Using a sample of 469 Korean bank and insurance employees, research model and hypotheses were tested.\" [Sampling procedure and data collection, p. 543] \"Data for the study were collected from a cross-sectional sample of retail bank and insurance employees in South Korea. The sample contained responses from service employees. Participation was solicited from various large banks across the country. All the organizations involved in the data collection offered services and sell service products directly to customers.\" [Sample characteristics, p. 543] \"Questionnaires were distributed to 500 service employees across several banks. Of these, 346 completed questionnaires were returned, for a response rate of 69.2 percent (interviewer presence certainly aided this response rate). The employee sample was 49 percent male, with an average age of 35 years and ten-year tenure in their current position; 68.6 percent of the sample had a university degree.\""
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table I",
+    "table_page_number": 544,
+    "listwise_n": 346,
+    "is_transformed": false,
+    "is_latent": true,
+    "latent_evidence_quote": "[Measurement model analysis and results, p. 543] \"To do this, an eight-construct confirmatory factor analysis was estimated using the covariance matrix as input. I used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997; Cronbach’s α = 0.77) and selected the lowest positive correlation (g = 0.032) between MV market and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).\"",
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "SPU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.939
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "COU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.932
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "CUU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.937
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "PJF",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.858
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "EC",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.808
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.874
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.916
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.871
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "SPU",
+        "r": -0.227,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.227**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "COU",
+        "r": -0.250,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.250**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "CUU",
+        "r": -0.381,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.381**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "PJF",
+        "r": 0.296,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.296**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "EC",
+        "r": 0.313,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.313**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "SPU",
+        "r": -0.231,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.231**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "COU",
+        "r": -0.345,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.345**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "CUU",
+        "r": -0.340,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.340**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "PJF",
+        "r": 0.384,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.384**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "EC",
+        "r": 0.243,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.243**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "SPU",
+        "r": -0.137,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.137**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "COU",
+        "r": -0.277,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.277**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "CUU",
+        "r": -0.162,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.162**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "PJF",
+        "r": 0.240,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.240**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "EC",
+        "r": 0.267,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.267**"
+        }
+      }
+    ]
+  },
+  "specialist_B": {
+    "table_number": "Table I",
+    "table_page_number": 544,
+    "listwise_n": 346,
+    "is_transformed": false,
+    "is_latent": true,
+    "latent_evidence_quote": "[Measurement model analysis and results, p. 543] \"To do this, an eight-construct confirmatory factor analysis was estimated using the covariance matrix as input. I used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997; Cronbach’s α = 0.77) and selected the lowest positive correlation (g = 0.032) between MV market and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).\"",
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "SPU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.939
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "COU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.932
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "CUU",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.937
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "PJF",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.858
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "EC",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.808
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.874
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.916
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.871
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "SPU",
+        "r": -0.227,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.227**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "COU",
+        "r": -0.250,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.250**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "CUU",
+        "r": -0.381,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.381**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "PJF",
+        "r": 0.296,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.296**"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "EC",
+        "r": 0.313,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "SD",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.313**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "SPU",
+        "r": -0.231,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.231**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "COU",
+        "r": -0.345,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.345**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "CUU",
+        "r": -0.340,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.340**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "PJF",
+        "r": 0.384,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.384**"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "EC",
+        "r": 0.243,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "ER",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.243**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "SPU",
+        "r": -0.137,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "SPU",
+          "raw_cell_value": "-0.137**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "COU",
+        "r": -0.277,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "COU",
+          "raw_cell_value": "-0.277**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "CUU",
+        "r": -0.162,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "CUU",
+          "raw_cell_value": "-0.162**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "PJF",
+        "r": 0.240,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "PJF",
+          "raw_cell_value": "0.240**"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "EC",
+        "r": 0.267,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 544,
+          "row_header_quote": "II",
+          "col_header_quote": "EC",
+          "raw_cell_value": "0.267**"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "SD",
+      "classification_type": "BS",
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.874, CR = 0.892, AVE = 0.647.",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "items_quote": "Service delivery was measured with a five-item scale that reflects the extent to which the employees serve customers in a conscientious, responsive, flexible, and courteous manner.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.874
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. Service delivery was measured with a five-item scale that reflects the extent to which the employees serve customers in a conscientious, responsive, flexible, and courteous manner.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) Service delivery: Reliability = 0.874, CR = 0.892, AVE = 0.647.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "ER",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.916, CR = 0.919, AVE = 0.793.",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "items_quote": "External representation was measured using a four-item scale designed to measure the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods, and services.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.916
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. External representation was measured using a four-item scale designed to measure the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods, and services.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) External representation: Reliability = 0.916, CR = 0.919, AVE = 0.793.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "II",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.871, CR = 0.773, AVE = 0.642. Classified as BSB per Rule 28 (COBSB Internal Influence sub-dimension).",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "items_quote": "Internal influence was measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and co-workers ways to improve service delivery by the organization, co-workers, and the individual employee.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.871
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. Internal influence was measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and co-workers ways to improve service delivery by the organization, co-workers, and the individual employee.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) Internal influence: Reliability = 0.871, CR = 0.773, AVE = 0.642.\"",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "SPU",
+      "classification_type": "NB",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.939, CR = 0.898, AVE = 0.709.",
+      "specific_measure_used": "Duffy et al. (2002)",
+      "items_quote": "Each individual reported how often their supervisor intentionally engaged in undermining behaviors. Response options ranged from 1 (not at all) to 7 (every day).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.939
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 542] \"I assessed individual perceptions of supervisor and coworker undermining with the 13 item scale from Duffy et al. (2002). Each individual reported how often their supervisor intentionally engaged in undermining behaviors. Response options ranged from 1 (not at all) to 7 (every day).\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Supervisor undermining: Reliability = 0.939, CR = 0.898, AVE = 0.709.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "COU",
+      "classification_type": "NB",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Methodology text (p. 542) states 13 items (Table AI p. 549 lists 12 item lines); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.932, CR = 0.930, AVE = 0.761.",
+      "specific_measure_used": "Duffy et al. (2002)",
+      "items_quote": "Participants also responded to the thirteen items concerning how often coworkers intentionally engaged in undermining behaviors directed at them. Response options ranged from 1 (not at all) to 7 (every day).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.932
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 542] \"I assessed individual perceptions of supervisor and coworker undermining with the 13 item scale from Duffy et al. (2002). Participants also responded to the thirteen items concerning how often coworkers intentionally engaged in undermining behaviors directed at them. Response options ranged from 1 (not at all) to 7 (every day).\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Coworker undermining: Reliability = 0.932, CR = 0.930, AVE = 0.761.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "CUU",
+      "classification_type": "NB",
+      "number_of_items": 7,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "6 of 13 items deleted based on preliminary interviews leaving 7 items (confirmed in Table AI p. 549); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.937, CR = 0.934, AVE = 0.779.",
+      "specific_measure_used": "Duffy et al.’s (2002)",
+      "items_quote": "Among the thirteen item scales, six items were deleted based on the preliminary interviews with service employees; they considered these items to be related to supervisor or coworker undermining rather than undermining from customers.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.937
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 542] \"Customer undermining measurement scales were revised to reflect how often customers intentionally engaged in undermining behaviors based on Duffy et al.’s (2002) supervisor and coworker undermining scales. Among the thirteen item scales, six items were deleted based on the preliminary interviews with service employees; they considered these items to be related to supervisor or coworker undermining rather than undermining from customers.\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Customer undermining: Reliability = 0.937, CR = 0.934, AVE = 0.779.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "PJF",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.858, CR = 0.909, AVE = 0.770.",
+      "specific_measure_used": "Saks and Ashforth (1997)",
+      "items_quote": "The response format for P-J fit was a seven-point Likert scale with 1 representing “not at all” and 7 representing “completely.”",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.858
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 542] \"Person-job fit was assessed by four items developed by Saks and Ashforth (1997). A sample item is: “To what extent do your knowledge, skills, and abilities ‘match’ or fit the requirements of the job?” The response format for P-J fit was a seven-point Likert scale with 1 representing “not at all” and 7 representing “completely.”\" [Table AI, p. 549] \"P-J fit (Saks and Ashforth, 1997): Reliability = 0.858, CR = 0.909, AVE = 0.770.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "EC",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Methodology text (p. 543) states 3 items (Table AI p. 549 lists 5 item lines); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.808, CR = 0.920, AVE = 0.756.",
+      "specific_measure_used": "Cadogan and Lee’s (2009)",
+      "items_quote": "To measure the ethical climate, three items of Cadogan and Lee’s (2009) research were used.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.808
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "[Measures, p. 543] \"To measure the ethical climate, three items of Cadogan and Lee’s (2009) research were used. Cadogan and Lee (2009) modified and extended Hunt et al.’s (1989) measure of ethical values.\" [Table AI, p. 549] \"Ethical climate (Cadogan and Lee, 2009): Reliability = 0.808, CR = 0.920, AVE = 0.756.\"",
+      "notes": null
+    }
+  ],
+  "specialist_C": {
+    "boundary_spanning_measures": [
+      {
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "number_of_items": 5,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.874, CR = 0.892, AVE = 0.647.",
+        "specific_measure_used": "Bettencourt et al. (2005)",
+        "items_quote": "Service delivery was measured with a five-item scale that reflects the extent to which the employees serve customers in a conscientious, responsive, flexible, and courteous manner.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.874
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. Service delivery was measured with a five-item scale that reflects the extent to which the employees serve customers in a conscientious, responsive, flexible, and courteous manner.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) Service delivery: Reliability = 0.874, CR = 0.892, AVE = 0.647.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "number_of_items": 4,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.916, CR = 0.919, AVE = 0.793.",
+        "specific_measure_used": "Bettencourt et al. (2005)",
+        "items_quote": "External representation was measured using a four-item scale designed to measure the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods, and services.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.916
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. External representation was measured using a four-item scale designed to measure the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods, and services.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) External representation: Reliability = 0.916, CR = 0.919, AVE = 0.793.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "number_of_items": 4,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.871, CR = 0.773, AVE = 0.642. Classified as BSB per Rule 28 (COBSB Internal Influence sub-dimension).",
+        "specific_measure_used": "Bettencourt et al. (2005)",
+        "items_quote": "Internal influence was measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and co-workers ways to improve service delivery by the organization, co-workers, and the individual employee.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.871
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 543] \"Bettencourt et al. (2005) developed the customer-oriented boundary-spanning behavior measures based on their conceptual definitions and prior research involving measurement of related pro-social behaviors and/or service quality constructs. Internal influence was measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and co-workers ways to improve service delivery by the organization, co-workers, and the individual employee.\" [Table AI, p. 549] \"Boundary spanning behavior (Bettencourt et al., 2005) Internal influence: Reliability = 0.871, CR = 0.773, AVE = 0.642.\"",
+        "notes": null
+      }
+    ],
+    "non_bs_measures": [
+      {
+        "table_anchor_name": "SPU",
+        "classification_type": "NB",
+        "number_of_items": 13,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.939, CR = 0.898, AVE = 0.709.",
+        "specific_measure_used": "Duffy et al. (2002)",
+        "items_quote": "Each individual reported how often their supervisor intentionally engaged in undermining behaviors. Response options ranged from 1 (not at all) to 7 (every day).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.939
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 542] \"I assessed individual perceptions of supervisor and coworker undermining with the 13 item scale from Duffy et al. (2002). Each individual reported how often their supervisor intentionally engaged in undermining behaviors. Response options ranged from 1 (not at all) to 7 (every day).\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Supervisor undermining: Reliability = 0.939, CR = 0.898, AVE = 0.709.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "COU",
+        "classification_type": "NB",
+        "number_of_items": 13,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Methodology text (p. 542) states 13 items (Table AI p. 549 lists 12 item lines); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.932, CR = 0.930, AVE = 0.761.",
+        "specific_measure_used": "Duffy et al. (2002)",
+        "items_quote": "Participants also responded to the thirteen items concerning how often coworkers intentionally engaged in undermining behaviors directed at them. Response options ranged from 1 (not at all) to 7 (every day).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.932
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 542] \"I assessed individual perceptions of supervisor and coworker undermining with the 13 item scale from Duffy et al. (2002). Participants also responded to the thirteen items concerning how often coworkers intentionally engaged in undermining behaviors directed at them. Response options ranged from 1 (not at all) to 7 (every day).\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Coworker undermining: Reliability = 0.932, CR = 0.930, AVE = 0.761.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "CUU",
+        "classification_type": "NB",
+        "number_of_items": 7,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "6 of 13 items deleted based on preliminary interviews leaving 7 items (confirmed in Table AI p. 549); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.937, CR = 0.934, AVE = 0.779.",
+        "specific_measure_used": "Duffy et al.’s (2002)",
+        "items_quote": "Among the thirteen item scales, six items were deleted based on the preliminary interviews with service employees; they considered these items to be related to supervisor or coworker undermining rather than undermining from customers.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.937
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 542] \"Customer undermining measurement scales were revised to reflect how often customers intentionally engaged in undermining behaviors based on Duffy et al.’s (2002) supervisor and coworker undermining scales. Among the thirteen item scales, six items were deleted based on the preliminary interviews with service employees; they considered these items to be related to supervisor or coworker undermining rather than undermining from customers.\" [Table AI, p. 549] \"Social undermining (Duffy et al., 2002) Customer undermining: Reliability = 0.937, CR = 0.934, AVE = 0.779.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "PJF",
+        "classification_type": "NB",
+        "number_of_items": 4,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.858, CR = 0.909, AVE = 0.770.",
+        "specific_measure_used": "Saks and Ashforth (1997)",
+        "items_quote": "The response format for P-J fit was a seven-point Likert scale with 1 representing “not at all” and 7 representing “completely.”",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.858
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 542] \"Person-job fit was assessed by four items developed by Saks and Ashforth (1997). A sample item is: “To what extent do your knowledge, skills, and abilities ‘match’ or fit the requirements of the job?” The response format for P-J fit was a seven-point Likert scale with 1 representing “not at all” and 7 representing “completely.”\" [Table AI, p. 549] \"P-J fit (Saks and Ashforth, 1997): Reliability = 0.858, CR = 0.909, AVE = 0.770.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "EC",
+        "classification_type": "NB",
+        "number_of_items": 3,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Methodology text (p. 543) states 3 items (Table AI p. 549 lists 5 item lines); Table AI (p. 549) reports Cronbach's alpha (Reliability) = 0.808, CR = 0.920, AVE = 0.756.",
+        "specific_measure_used": "Cadogan and Lee’s (2009)",
+        "items_quote": "To measure the ethical climate, three items of Cadogan and Lee’s (2009) research were used.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.808
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "[Measures, p. 543] \"To measure the ethical climate, three items of Cadogan and Lee’s (2009) research were used. Cadogan and Lee (2009) modified and extended Hunt et al.’s (1989) measure of ethical values.\" [Table AI, p. 549] \"Ethical climate (Cadogan and Lee, 2009): Reliability = 0.808, CR = 0.920, AVE = 0.756.\"",
+        "notes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "coder_initials": "KY",
+  "paper_id": 668,
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 668,
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "notes": "Excluded under Code 3 (Non-individual level: buying situation / transaction unit of analysis and multi-person team consensus ratings). Verbatim Evidence: \"[4.1 Research setting and data collection, p. 322] We focused on the buyer–supplier relations at the buying situation level. Each buying situation is defined as production goods in a specific commodity area provided to a specific manufacturing site by a supplier. For example, for the automotive assembler, a buying situation can be exhaust systems provided to a GM plant by a Delphi division. The buying situation was adopted as the unit of analysis since buyer–supplier relationship management practices in manufacturing industries vary significantly across buying situations (Laseter and Ramdas, 2002; Takeishi, 2001; Dyer and Hatch, 2006).\" \"[4.1 Research setting and data collection, p. 323] These responses provide completed information on all focal constructs for 345 buying situations in the automotive industry and 143 buying situations in the food industry.\" \"[4.1 Research setting and data collection, p. 323] By including an item in the survey asking how the survey was completed, we found that 55.5% of the completed questionnaires for the automotive assembler and 50.2% of the completed questionnaires for the food processor were completed by consensus reached among multiple supplier personnel who were familiar with their firm's working relations with the manufacturer.\""
+  }
+}

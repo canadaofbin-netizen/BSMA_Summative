@@ -1,0 +1,17 @@
+{
+  "paper_id": 646,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 646,
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "rationale": "Firm-level unit of analysis (N = 202 manufacturing SMEs in China). Senior managers/chairmen/general managers served as single key informants rating firm-level strategic constructs: Green entrepreneurial orientation (GEO), firm-level Boundary-spanning search (BSS, O'Cass et al., 2014, 8 items measuring organizational search across technological and market boundaries), Environmental dynamism (ED), and Enterprise sustainable performance (ESP, Habib et al., 2020, 15 items with 'Your company' referent). No individual employee interpersonal boundary-spanning behavior is measured.",
+    "verbatim_quotes": [
+      "[Introduction, p. 3] Boundary-spanning search (BSS) is a resource search behavior of enterprises across organizational or technological boundaries that can have a significant impact on sustainable acquisition performance (Jung and Lee, 2016; Wang et al., 2020a,b,c; Yang et al., 2021).",
+      "[Sample and data collection, pp. 7-8] The survey respondents are SMEs from four industrial manufacturing zones in China’s coastal provinces. Because our focus is on small to medium-sized businesses, according to China’s Statistical Method for Dividing Large, Medium, Small and Micro Enterprises (2017), we constrained our sample to firms with not more than 1,000 employees and an operating income of <400 million yuan. | First, the project team contacted the local government to obtain all enterprise data, and then 250 enterprises were randomly selected as the sample. The local government department will publish the survey notice on the enterprise work contact network. The chairman, general manager or senior managers of the sample companies were identified as respondents.",
+      "[Measures, p. 8] The ESP Questionnaire by Habib et al. (2020) was used, which includes 3 dimensions of economic performance, environmental performance and social performance, with 15 questions, such as “Your company reduces energy costs,” “Your company reduces waste (water and/or solid) emissions,” all of which ask about the status of the ESP. | The BSS questionnaire developed by O'Cass et al. (2014) was used, including two dimensions of prospective BSS and following BSS, with eight questions. Questions such as “Identify new opportunities in new markets and new customer groups ahead of competitors” and “Follow competitors to improve the quality of existing products” were set."
+    ]
+  }
+}

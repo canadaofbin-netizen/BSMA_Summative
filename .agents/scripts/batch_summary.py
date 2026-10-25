@@ -241,7 +241,20 @@ VAR_EXPLANATIONS_KO = {
     "the subordinate's tenure with supervisor": "상사와의 함께 일한 근속 기간 (Dyadic Tenure)",
     "transformational leadership (t1)": "변혁적 리더십 (Transformational Leadership, Time 1)",
     "perspective taking (t1)": "관점 수용 (Perspective Taking, Time 1)",
-    "creative performance (t2)": "창의적 직무 성과 (Creative Performance, Time 2)"
+    "creative performance (t2)": "창의적 직무 성과 (Creative Performance, Time 2)",
+    "sd": "고객 서비스 전달 행동 (Service Delivery - COBSB 하위 차원)",
+    "er": "대외 홍보/대변 행동 (External Representation - COBSB 하위 차원)",
+    "ii": "내부 개선 제안 행동 (Internal Influence - COBSB 하위 차원)",
+    "spu": "상사의 사회적 훼방/과소평가 행동 (Supervisor Undermining)",
+    "cou": "동료의 사회적 훼방/과소평가 행동 (Coworker Undermining)",
+    "cuu": "고객의 사회적 훼방/무례 행동 (Customer Undermining)",
+    "pjf": "개인-직무 적합성 (Person-Job Fit)",
+    "ec": "윤리적 풍토 (Ethical Climate)",
+    "p-o fit": "개인-조직 적합성 (Person-Organization Fit)",
+    "asm": "성취 추구 동기 (Achievement Striving Motivation)",
+    "ee": "정서적 소진 (Emotional Exhaustion)",
+    "ci": "시장 경쟁 강도 지각 (Competitive Intensity)",
+    "mv": "공통방법분산 마커 변수 (Method Variance Marker - 가족 식사 중요도)"
 }
 
 VAR_EXPLANATIONS_EN = {
@@ -439,7 +452,20 @@ VAR_EXPLANATIONS_EN = {
     "the subordinate's tenure with supervisor": "Subordinate's Dyadic Tenure with Supervisor",
     "transformational leadership (t1)": "Transformational Leadership (Time 1)",
     "perspective taking (t1)": "Perspective Taking (Time 1)",
-    "creative performance (t2)": "Creative Performance (Time 2)"
+    "creative performance (t2)": "Creative Performance (Time 2)",
+    "sd": "Service Delivery (COBSB Sub-dimension)",
+    "er": "External Representation (COBSB Sub-dimension)",
+    "ii": "Internal Influence (COBSB Sub-dimension)",
+    "spu": "Supervisor Social Undermining",
+    "cou": "Coworker Social Undermining",
+    "cuu": "Customer Social Undermining",
+    "pjf": "Person-Job Fit (P-J Fit)",
+    "ec": "Ethical Climate",
+    "p-o fit": "Person-Organization Fit (P-O Fit)",
+    "asm": "Achievement Striving Motivation",
+    "ee": "Emotional Exhaustion (Burnout Sub-dimension)",
+    "ci": "Perceived Competitive Intensity",
+    "mv": "Method Variance Marker (Perceived Family Meal Importance)"
 }
 
 CATEGORY_MAP_KO = {
@@ -473,7 +499,7 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
     if any(k in v for k in [
         "org. size", "size", "industry", "complexity", "uncertainty", "interdepend",
         "technology", "environment", "structure", "formalization", "type of employee",
-        "contract", "armed conflict", "remote work", "strategic orientation", "resources"
+        "contract", "armed conflict", "remote work", "strategic orientation", "resources", "ec", "ci"
     ]):
         key = "context"
     elif any(k in v for k in [
@@ -481,12 +507,12 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
         "loyalty", "passion", "op", "intention to leave", "turnover", "je (", "embeddedness",
         "meaningfulness", "centrality", "calling", "vision", "hope/faith", "altruistic love",
         "member", "trust", "support", "coaching", "servant leadership", "ethical leadership",
-        "transformational leadership", "perspective taking"
+        "transformational leadership", "perspective taking", "pjf", "p-o fit"
     ]):
         key = "attitudes"
     elif any(k in v for k in [
         "ambiguity", "conflict", "overload", "burnout", "exhaustion", "stress", "strain",
-        "pressure", "pp", "tension"
+        "pressure", "pp", "tension", "spu", "cou", "cuu", "ee"
     ]):
         key = "stress"
     elif any(k in v for k in [
@@ -499,7 +525,8 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
         "proactive", "personality", "status", "degree", "occupation", "education", "edu",
         "experience", "age", "gender", "sex", "tenure", "seniority", "ao", "flexibility", "cf",
         "ethnicity", "gmat", "human capital", "self-efficacy", "rbse", "hierarchical level",
-        "job grade", "head of laboratory", "managerial", "boundary-spanning role", "locus of control"
+        "job grade", "head of laboratory", "managerial", "boundary-spanning role", "locus of control",
+        "asm", "mv"
     ]):
         key = "individual"
     elif any(k in v for k in [

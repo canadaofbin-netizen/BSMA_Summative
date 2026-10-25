@@ -210,7 +210,7 @@ Canonical audit log of 77 adjudicated papers and their definitive inclusion/excl
 
 ## 7. Phase 2 Full-Text Extraction Batch Adjudications (`03_Coding_Sheets/`)
 
-Canonical registry of all 34 papers adjudicated and extracted across the 8 Phase 2 batch sheets in `03_Coding_Sheets/`:
+Canonical registry of all 39 papers adjudicated and extracted across the 9 Phase 2 batch sheets in `03_Coding_Sheets/`:
 
 | Batch Sheet | BSMA_ID | Phase 2 Status | Exclusion Code | Extracted Rows | Methodological Ruling & Precedent Summary |
 |---|---|---|---|---|---|
@@ -248,4 +248,9 @@ Canonical registry of all 34 papers adjudicated and extracted across the 8 Phase
 | `564_573_580_584_595.xlsx` | `BSMA0580` | `1 = include` | - | 10 | Included ($N=344$ middle managers and supervisors across 3 time-lagged waves). `LBSB` (Leader boundary-spanning behaviour, Marrone et al., 2007) paired with 10 non-BS variables. |
 | `564_573_580_584_595.xlsx` | `BSMA0584` | `1 = include` | - | 8 | Included ($N=213$ National Government of the Netherlands employees). `Intergroup leadership` (Rast et al., 2018 adaptation) paired with 8 non-BS variables. |
 | `564_573_580_584_595.xlsx` | `BSMA0595` | `1 = include` | - | 10 | Included ($N=398$ matched dyads of knowledge workers and their immediate supervisors in 4 industrial research institutes in Southwest China). `Boundary spanning (T2)` paired with 10 non-BS variables. |
+| `645_646_654_655_668.xlsx` | `BSMA0645` | `0 = exclude` | `3 = Non-individual level` | 1 | Excluded (`Code 3`): Team-level unit of analysis ($n=70$ R&D teams across 18 companies in Northern China, aggregated from 315 team members). No individual-level correlation matrix is reported. |
+| `645_646_654_655_668.xlsx` | `BSMA0646` | `0 = exclude` | `3 = Non-individual level` | 1 | Excluded (`Code 3`): Firm-level unit of analysis ($N=202$ Chinese manufacturing SMEs; single senior executive key informant rating firm-level `Boundary-spanning search` and `Enterprise sustainable performance`). |
+| `645_646_654_655_668.xlsx` | `BSMA0654` | `1 = include` | - | 15 | Included ($N=346$ Korean retail bank and insurance service employees; Abstract states $N=469$, Sample characteristics p. 543 reports $N=346$). 3 COBSB sub-dimensions (`SD`, `ER`, `II`, Bettencourt et al., 2005) paired with 5 non-BS variables (`SPU`, `COU`, `CUU`, `PJF`, `EC`) from the lower unadjusted triangle of Table I (p. 544) (3 $\times$ 5 = 15 rows). |
+| `645_646_654_655_668.xlsx` | `BSMA0655` | `1 = include` | - | 15 | Included ($N=346$ Korean retail bank frontline service employees; shares underlying $N=346$ bank dataset with `BSMA0654` Yoo 2013 but reports 5 distinct non-BS constructs). 3 COBSB sub-dimensions (`SD`, `ER`, `II`, Bettencourt & MacKenzie, 2005) paired with 5 non-BS variables (`P-O fit`, `ASM`, `EE`, `CI`, `MV`) from the lower unadjusted triangle of Table I (p. 1636) (3 $\times$ 5 = 15 rows). |
+| `645_646_654_655_668.xlsx` | `BSMA0668` | `0 = exclude` | `3 = Non-individual level` | 1 | Excluded (`Code 3`): Buying situation / transaction unit of analysis ($N=345$ automotive and $N=143$ food buying situations reported by 230 and 125 supplier salespeople, with >50% completed by multi-person supplier team consensus; also conceptualizes purchasing agent capabilities rather than behavioral frequency). |
 

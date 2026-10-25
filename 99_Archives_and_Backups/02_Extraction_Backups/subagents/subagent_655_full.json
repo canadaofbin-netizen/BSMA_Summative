@@ -1,0 +1,872 @@
+{
+  "paper_id": "655",
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "Cross-sectional",
+    "study_design_other": null,
+    "country": "South Korea",
+    "country_specify": "Seoul",
+    "international_context": "Domestic",
+    "sample_size_n": 346,
+    "mean_age": 35,
+    "pct_female": 51,
+    "org_tenure": 10,
+    "occupation_type": "Retail bank frontline service employees",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "Data for the study were collected from a cross-sectional sample of retail bank frontline service employees in South Korea. Participation was solicited from various large banks across the country. Questionnaires were distributed to 500 frontline employees across several banks. Of these, 346 usable questionnaires were returned, for a response rate of 69.2 per cent (interviewer presence certainly aided this response rate). The employee sample is 49 per cent male, with an average age of 35 years, ten-year tenure in the current position and 68.6 per cent of the sample has a university degree."
+  },
+  "specialist_A": {
+    "study_design": "Cross-sectional",
+    "study_design_other": null,
+    "country": "South Korea",
+    "country_specify": "Seoul",
+    "international_context": "Domestic",
+    "sample_size_n": 346,
+    "mean_age": 35,
+    "pct_female": 51,
+    "org_tenure": 10,
+    "occupation_type": "Retail bank frontline service employees",
+    "is_longitudinal": false,
+    "time_points": [
+      "T1"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "Data for the study were collected from a cross-sectional sample of retail bank frontline service employees in South Korea. Participation was solicited from various large banks across the country. Questionnaires were distributed to 500 frontline employees across several banks. Of these, 346 usable questionnaires were returned, for a response rate of 69.2 per cent (interviewer presence certainly aided this response rate). The employee sample is 49 per cent male, with an average age of 35 years, ten-year tenure in the current position and 68.6 per cent of the sample has a university degree."
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table I",
+    "table_page_number": 1636,
+    "listwise_n": 346,
+    "is_transformed": false,
+    "is_latent": true,
+    "latent_evidence_quote": "[Measurement model analysis and results, p. 1636] \"To do this, a seven-construct confirmatory factor analysis was estimated using the covariance matrix as input. We used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997 Cronbach’s α = 0.77) and selected lowest positive correlation (r = 0.027) between MV marker and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).\"",
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "P-O fit",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.907
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "ASM",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.941
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "EE",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.846
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "CI",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.852
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.874
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.916
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.896
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "MV",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.770
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "P-O fit",
+        "r": 0.627,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.627*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "ASM",
+        "r": 0.550,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.550*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "EE",
+        "r": -0.003,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.003"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "CI",
+        "r": 0.174,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.174*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "MV",
+        "r": 0.057,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "SD",
+          "raw_cell_value": "0.057"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "P-O fit",
+        "r": 0.684,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.684*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "ASM",
+        "r": 0.376,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.376*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "EE",
+        "r": -0.145,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.145*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "CI",
+        "r": 0.037,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.037"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "MV",
+        "r": 0.069,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "ER",
+          "raw_cell_value": "0.069"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "P-O fit",
+        "r": 0.540,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.540*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "ASM",
+        "r": 0.508,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.508*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "EE",
+        "r": -0.070,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.070"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "CI",
+        "r": 0.129,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.129*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "MV",
+        "r": 0.027,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "II",
+          "raw_cell_value": "0.027"
+        }
+      }
+    ]
+  },
+  "specialist_B": {
+    "table_number": "Table I",
+    "table_page_number": 1636,
+    "listwise_n": 346,
+    "is_transformed": false,
+    "is_latent": true,
+    "latent_evidence_quote": "[Measurement model analysis and results, p. 1636] \"To do this, a seven-construct confirmatory factor analysis was estimated using the covariance matrix as input. We used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997 Cronbach’s α = 0.77) and selected lowest positive correlation (r = 0.027) between MV marker and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).\"",
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "P-O fit",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.907
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "ASM",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.941
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "EE",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.846
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "CI",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.852
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.874
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.916
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.896
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "MV",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.770
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "P-O fit",
+        "r": 0.627,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.627*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "ASM",
+        "r": 0.550,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.550*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "EE",
+        "r": -0.003,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.003"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "CI",
+        "r": 0.174,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "SD",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.174*"
+        }
+      },
+      {
+        "var1_anchor": "SD",
+        "var2_anchor": "MV",
+        "r": 0.057,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "SD",
+          "raw_cell_value": "0.057"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "P-O fit",
+        "r": 0.684,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.684*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "ASM",
+        "r": 0.376,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.376*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "EE",
+        "r": -0.145,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.145*"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "CI",
+        "r": 0.037,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "ER",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.037"
+        }
+      },
+      {
+        "var1_anchor": "ER",
+        "var2_anchor": "MV",
+        "r": 0.069,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "ER",
+          "raw_cell_value": "0.069"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "P-O fit",
+        "r": 0.540,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "P-O fit",
+          "raw_cell_value": "0.540*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "ASM",
+        "r": 0.508,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "ASM",
+          "raw_cell_value": "0.508*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "EE",
+        "r": -0.070,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "EE",
+          "raw_cell_value": "-0.070"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "CI",
+        "r": 0.129,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "II",
+          "col_header_quote": "CI",
+          "raw_cell_value": "0.129*"
+        }
+      },
+      {
+        "var1_anchor": "II",
+        "var2_anchor": "MV",
+        "r": 0.027,
+        "cell_proof": {
+          "table_number": "Table I",
+          "table_page_number": 1636,
+          "row_header_quote": "MV",
+          "col_header_quote": "II",
+          "raw_cell_value": "0.027"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "SD",
+      "classification_type": "BS",
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+      "items_quote": "Service delivery is measured with a five-item scale that reflects the extent to which the employee serves customers in a conscientious, responsive, flexible and courteous manner.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.874
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "ER",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+      "items_quote": "External representation is measured using a four-item scale designed to tap the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods and services.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.916
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "II",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+      "items_quote": "Internal influence is measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and coworkers about ways to improve service delivery by the organization, coworkers and oneself.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.896
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "P-O fit",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Netemeyer et al. (1997)",
+      "items_quote": "Four items asked service workers to assess the fit between their personal values and the organization’s values. The items are evaluated on five-point scales ranging from “strongly disagree” to “strongly agree.”",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.907
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "P – O fit was assessed using a scale developed by Netemeyer et al. (1997) that measures the congruence of the values of an individual employee with the perceived values of his/her organization (i.e. P – O fit based on employee perceptions of this fit).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "ASM",
+      "classification_type": "NB",
+      "number_of_items": 11,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Halbesleben and Bowler (2007)",
+      "items_quote": "Achievement-striving motivation is measured with eleven items that are scored on a 7-point Likert-type scale ranging from 1 (strongly disagree) to 7 (strongly agree).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.941
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "Achievement-striving motivation was measured with the Halbesleben and Bowler (2007) scale. This scale was based on the Motivation Orientation Inventory (Barrick et al., 2002).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "EE",
+      "classification_type": "NB",
+      "number_of_items": 9,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Maslach and Jackson’s (1981)",
+      "items_quote": "The emotional exhaustion subscale includes nine questions that are scored on a seven-point frequency scale ranging from “never” to “daily”.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.846
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "To measure employee emotional exhaustion, Maslach and Jackson’s (1981) emotional exhaustion subscale (a component of burnout) was used.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "CI",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Pelham and Wilson (1996)",
+      "items_quote": "The competitive intensity scale includes three questions that are scored on a seven-point frequency scale ranging from “not threatening” to “very threatening.”",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.852
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "To measure competitive intensity, a scale from Pelham and Wilson (1996) was used.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "MV",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Putrevu and Ratchford, 1997",
+      "items_quote": "We used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997 Cronbach’s α = 0.77) and selected lowest positive correlation (r = 0.027) between MV marker and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.770
+      },
+      "mean": 999,
+      "sd": 999,
+      "source_quote": "To assess the potential common method bias, we applied the “MV” marker method and used a scale theoretically unrelated to at least one scale in the analysis as the method variance (MV) marker, which offered a proxy for common method variance (Lindell and Whitney 2001).",
+      "notes": null
+    }
+  ],
+  "specialist_C": {
+    "boundary_spanning_measures": [
+      {
+        "table_anchor_name": "SD",
+        "classification_type": "BS",
+        "number_of_items": 5,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+        "items_quote": "Service delivery is measured with a five-item scale that reflects the extent to which the employee serves customers in a conscientious, responsive, flexible and courteous manner.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.874
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "ER",
+        "classification_type": "BS",
+        "number_of_items": 4,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+        "items_quote": "External representation is measured using a four-item scale designed to tap the extent to which an employee is a vocal advocate to outsiders of his/her organization’s image, goods and services.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.916
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "II",
+        "classification_type": "BS",
+        "number_of_items": 4,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Bettencourt and MacKenzie (2005)",
+        "items_quote": "Internal influence is measured with a four-item scale intended to capture the extent to which a person takes individual initiative in communicating to the firm and coworkers about ways to improve service delivery by the organization, coworkers and oneself.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.896
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "Bettencourt and MacKenzie (2005) developed the BSB measure based on their conceptual definitions and prior research involving measurement of related pro-social behavior and/or service quality constructs.",
+        "notes": null
+      }
+    ],
+    "non_bs_measures": [
+      {
+        "table_anchor_name": "P-O fit",
+        "classification_type": "NB",
+        "number_of_items": 4,
+        "min_score": 1,
+        "max_score": 5,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Netemeyer et al. (1997)",
+        "items_quote": "Four items asked service workers to assess the fit between their personal values and the organization’s values. The items are evaluated on five-point scales ranging from “strongly disagree” to “strongly agree.”",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.907
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "P – O fit was assessed using a scale developed by Netemeyer et al. (1997) that measures the congruence of the values of an individual employee with the perceived values of his/her organization (i.e. P – O fit based on employee perceptions of this fit).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "ASM",
+        "classification_type": "NB",
+        "number_of_items": 11,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Halbesleben and Bowler (2007)",
+        "items_quote": "Achievement-striving motivation is measured with eleven items that are scored on a 7-point Likert-type scale ranging from 1 (strongly disagree) to 7 (strongly agree).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.941
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "Achievement-striving motivation was measured with the Halbesleben and Bowler (2007) scale. This scale was based on the Motivation Orientation Inventory (Barrick et al., 2002).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "EE",
+        "classification_type": "NB",
+        "number_of_items": 9,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Maslach and Jackson’s (1981)",
+        "items_quote": "The emotional exhaustion subscale includes nine questions that are scored on a seven-point frequency scale ranging from “never” to “daily”.",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.846
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "To measure employee emotional exhaustion, Maslach and Jackson’s (1981) emotional exhaustion subscale (a component of burnout) was used.",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "CI",
+        "classification_type": "NB",
+        "number_of_items": 3,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Pelham and Wilson (1996)",
+        "items_quote": "The competitive intensity scale includes three questions that are scored on a seven-point frequency scale ranging from “not threatening” to “very threatening.”",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.852
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "To measure competitive intensity, a scale from Pelham and Wilson (1996) was used.",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "MV",
+        "classification_type": "NB",
+        "number_of_items": 5,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": null,
+        "specific_measure_used": "Putrevu and Ratchford, 1997",
+        "items_quote": "We used a five-item scale that measured the subject’s perceived family meal importance (Putrevu and Ratchford, 1997 Cronbach’s α = 0.77) and selected lowest positive correlation (r = 0.027) between MV marker and other variables to adjust the construct correlation and statistical significance (Lindell and Whitney, 2001).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.770
+        },
+        "mean": 999,
+        "sd": 999,
+        "source_quote": "To assess the potential common method bias, we applied the “MV” marker method and used a scale theoretically unrelated to at least one scale in the analysis as the method variance (MV) marker, which offered a proxy for common method variance (Lindell and Whitney 2001).",
+        "notes": null
+      }
+    ]
+  }
+}

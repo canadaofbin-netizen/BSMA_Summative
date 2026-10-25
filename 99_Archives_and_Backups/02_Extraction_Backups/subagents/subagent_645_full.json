@@ -1,0 +1,17 @@
+{
+  "paper_id": 645,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 645,
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "rationale": "Team-level unit of analysis (n = 70 R&D teams across 18 companies in Northern China, aggregated from 315 team members). Both boundary-spanning constructs in Table 1 (7. Team member boundary-spanning behavior mean and 8. Team member boundary-spanning differentiation [TMBSD], calculated as within-group mean and within-group SD of Marrone et al.'s 2007 6-item scale) and all outcome/mediator constructs (Team information sharing, Team goal interdependence, Team creativity) are analyzed exclusively at the team level (n = 70). No individual-level correlation matrix is reported.",
+    "verbatim_quotes": [
+      "[Section 3.1 Sample and procedure, p. 1068] Our data were collected from 70 R&D teams in 18 companies from Northern China. After excluding the teams did not meet this cut-off point, the resulting sample consisted of 315 team members from 70 teams.",
+      "[Section 3.3 Team member boundary-spanning differentiation, p. 1069] Following guidelines for assessing separation diversity (Harrison & Klein, 2007), we calculated TMBSD using the within-group standard deviation of individual boundary spanning.",
+      "[Section 4 Results & Table 1 Note, pp. 1069-1070] We calculated three statistical indices to justify data aggregation to team levels. | Note: n = 70; the figures on the diagonal in parentheses are the alpha coefficients."
+    ]
+  }
+}
