@@ -1,0 +1,412 @@
+{
+  "paper_id": "692",
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Multi-wave, multi-source time-lagged design across 2 phases (~1 month lag): T1 employee self-report (boundary-spanning behavior, role stress, role-breadth self-efficacy, paradoxical mindset, demographics) and T2 supervisor rating (~1 month later: employee creativity)",
+    "country": "China",
+    "country_specify": "Beijing, Shenzhen, and Shanghai",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 536,
+    "listwise_n": 536,
+    "mean_age": 29.97,
+    "pct_female": 51.9,
+    "org_tenure": 3.66,
+    "occupation_type": "Enterprise employees across 27 enterprises in finance, consulting, Internet, and other industries",
+    "is_longitudinal": true,
+    "time_points": [
+      "T1",
+      "T2 (approx. 1 month later)"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "The sample of this study comes from several enterprises in Beijing, Shenzhen and Shanghai, mainly involving in finance, consulting, Internet and other industries. The data collection was conducted in two phases, one from the subordinate and one from the supervisor. In the first phase, 620 subordinates were invited to participate in the study. We asked subordinates to rate their boundary-spanning behavior, role-breadth self-efficacy, role stress and subordinates' basic personal information. A total of 590 employees completed the survey. The second phase of data collection was conducted about a month later, involving 135 supervisors. We asked supervisors to rate the creativity of subordinates who had completed the first phase of the questionnaire and the supervisors' basic personal information, and a total of 120 supervisors completed the survey. After two rounds of research, we matched the subordinate and supervisor questionnaires according to a pre-determined number. After deleting the unpaired and incomplete questionnaires, 536 employees' questionnaires (effective recovery rate 90.32%) and 111 supervisors' questionnaires (effective recovery rate 82.22%) were obtained. In the subordinate sample, the proportion of men and women was basically equal, and the proportion of men was 48.1%. The average age of subordinates was 29.97 (SD = 4.49), and the average length of service in the unit was 3.66 years (SD = 3.84)."
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 6,
+    "listwise_n": 536,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": "Note. Individual level N = 536, team level N = 111, * p < 0.05, ** p < 0.01, *** p < 0.001. The numbers in diagonal brackets are AVE for variables. Because the team functions and the enterprise have been converted to dummy variables, these two variables are not included in the table.",
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "1. gender - employee",
+        "mean": 1.48,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "2. age-employee",
+        "mean": 29.97,
+        "sd": 4.49,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "3. education level- employee",
+        "mean": 3.68,
+        "sd": 0.76,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "4. marriage - employees",
+        "mean": 1.53,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "5. tenure- employee",
+        "mean": 3.66,
+        "sd": 3.84,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "6. paradoxical mindset",
+        "mean": 3.57,
+        "sd": 0.61,
+        "reliability_table": 0.86
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "7. boundary-spanning behavior of employees",
+        "mean": 4.78,
+        "sd": 1.15,
+        "reliability_table": 0.8
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "8. role stress",
+        "mean": 2.6,
+        "sd": 0.43,
+        "reliability_table": 0.76
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "9. role-breadth self efficacy",
+        "mean": 3.81,
+        "sd": 0.52,
+        "reliability_table": 0.73
+      },
+      {
+        "var_index": 10,
+        "table_anchor_name": "10. individual creativity",
+        "mean": 3.54,
+        "sd": 0.71,
+        "reliability_table": 0.97
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "1. gender - employee",
+        "r": -0.1,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "1",
+          "raw_cell_value": "−0.10"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "2. age-employee",
+        "r": 0.1,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "2",
+          "raw_cell_value": "0.10*"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "3. education level- employee",
+        "r": 0.05,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "3",
+          "raw_cell_value": "0.05"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "4. marriage - employees",
+        "r": 0.06,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "4",
+          "raw_cell_value": "0.06"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "5. tenure- employee",
+        "r": 0.13,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "5",
+          "raw_cell_value": "0.13**"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "6. paradoxical mindset",
+        "r": 0.2,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "7. boundary-spanning behavior of employees",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.20***"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "8. role stress",
+        "r": 0.15,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "8. role stress",
+          "col_header_quote": "7",
+          "raw_cell_value": "0.15***"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "9. role-breadth self efficacy",
+        "r": 0.19,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "9. role-breadth self efficacy",
+          "col_header_quote": "7",
+          "raw_cell_value": "0.19***"
+        }
+      },
+      {
+        "var1_anchor": "7. boundary-spanning behavior of employees",
+        "var2_anchor": "10. individual creativity",
+        "r": -0.02,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 6,
+          "row_header_quote": "10. individual creativity",
+          "col_header_quote": "7",
+          "raw_cell_value": "−0.02"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "7. boundary-spanning behavior of employees",
+      "classification_type": "BS",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Evaluated by employee at Time 1",
+      "specific_measure_used": "Faraj and Yan (2009)",
+      "items_quote": "Using A seven-point scale, 1 to 7 represented \"very inconsistent\" to \"very consistent\". A total of 4 measurement items, a typical measurement item is \"I will contact with important people outside the team to obtain information and resources for the team\". Cronbach's α is 0.80 for employee boundary-spanning behavior and 0.79 for team's boundary-spanning behavior.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.8
+      },
+      "mean": 4.78,
+      "sd": 1.15,
+      "source_quote": "Boundary-spanning behavior. Using a scale developed by Faraj and Yan (2009), employees were asked to rate the extent to which they had received information and resources from outside the team.",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "1. gender - employee",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Employee demographic control at Time 1 (1 = female, 2 = male)",
+      "specific_measure_used": "gender (1 female, 2 male)",
+      "items_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.48,
+      "sd": 0.5,
+      "source_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "2. age-employee",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Employee demographic control at Time 1 (in years)",
+      "specific_measure_used": "age (in years)",
+      "items_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 29.97,
+      "sd": 4.49,
+      "source_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "3. education level- employee",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Employee demographic control at Time 1 (1 = junior high and below to 5 = graduate and above)",
+      "specific_measure_used": "education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above)",
+      "items_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.68,
+      "sd": 0.76,
+      "source_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "4. marriage - employees",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Employee demographic control at Time 1 (1 = unmarried, 2 = married)",
+      "specific_measure_used": "marriage (1 unmarried, 2 married)",
+      "items_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.53,
+      "sd": 0.5,
+      "source_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "5. tenure- employee",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Employee demographic control at Time 1 (length of service in years)",
+      "specific_measure_used": "length of service (in years)",
+      "items_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.66,
+      "sd": 3.84,
+      "source_quote": "Previous studies have shown that demographics variables impact boundary-spanning behavior and creativity (Marrone et al., 2007), so we controlled for gender (1 female, 2 male), age (in years), marriage (1 unmarried, 2 married), education (1 junior high and below, 2 technical secondary/high school, 3 junior college, 4 undergraduate, 5 graduate and above) and length of service (in years) at the individual level, and the gender, age, marriage, education, and length of service of the leader at the team level, the same encoding as the corresponding variables at the employee level.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "6. paradoxical mindset",
+      "classification_type": "NB",
+      "number_of_items": 9,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Evaluated by employee at Time 1 (individual control variable)",
+      "specific_measure_used": "Miron-Spektor, Ingram, Keller, Smith, and Lewis (2018)",
+      "items_quote": "There were a total of 9 items, and a typical measuring item is \"I can better understand problems when I deal with conflicting perspectives\". Cronbach's α of the scale is 0.86.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.86
+      },
+      "mean": 3.57,
+      "sd": 0.61,
+      "source_quote": "Paradox mindset was measured using a scale developed by Miron-Spektor, Ingram, Keller, Smith, and Lewis (2018).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "8. role stress",
+      "classification_type": "NB",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Evaluated by employee at Time 1 (includes 5 reverse-scored items)",
+      "specific_measure_used": "Li and Zhang (2009)",
+      "items_quote": "Using a five-point scale, 1 to 5 stands for \"strongly disagree\" and \"strongly agree\". A typical measurement item is \"I received conflicting requests from two or more people\". Cronbach's α is 0.76.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.76
+      },
+      "mean": 2.6,
+      "sd": 0.43,
+      "source_quote": "Role stress. The scale was developed by Li and Zhang (2009), a total of 13 items, 5 of which were reverse scoring items.",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "9. role-breadth self efficacy",
+      "classification_type": "NB",
+      "number_of_items": 7,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Evaluated by employee at Time 1",
+      "specific_measure_used": "Parker (1998)",
+      "items_quote": "Using a five-point scale, 1 to 5 stands for \"strongly disagree\" and \"strongly agree\". Cronbach's α is 0.73.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.73
+      },
+      "mean": 3.81,
+      "sd": 0.52,
+      "source_quote": "Role breadth self-efficacy. Using a scale developed by Parker (1998), there are seven measurement items, and a typical measuring item is \"I can contact people outside the company (such as customers) to discuss the problem\".",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "10. individual creativity",
+      "classification_type": "NB",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "3 = Supervisor-report",
+      "report_type_note": "Evaluated by supervisor at Time 2 (approx. 1 month later)",
+      "specific_measure_used": "Zhou and George (2001)",
+      "items_quote": "We asked supervisors to rate their subordinates' creativity, and a five-point scale ranging from 1 to 5 representing \"strongly disagree\" to \"strongly agree\". A typical measurement item is \"He/she will propose new ways to achieve the work goal\". Supervisor's evaluation of each subordinate as an individual level of individual creativity, the supervisor's evaluation of all subordinates as a team level of team creativity. Cronbach's α of individual creativity is 0.97 and Cronbach's α of team creativity is 0.98.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.97
+      },
+      "mean": 3.54,
+      "sd": 0.71,
+      "source_quote": "Creativity. Use a scale developed by Zhou and George (2001), a total of 13 items.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "paper_id": "691",
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "Longitudinal",
+    "study_design_other": "Multi-wave (2 waves, 1-month lag) and multi-source (employee self-report at T1, leader-report at T2)",
+    "country": "China",
+    "country_specify": "Beijing, Shenzhen and Shanghai",
+    "international_context": "Domestic",
+    "sample_size_n": 519,
+    "listwise_n": 519,
+    "mean_age": 29.87,
+    "pct_female": 55.5,
+    "org_tenure": 3.46,
+    "occupation_type": "Employees from 38 companies including banks, consulting companies, real estate companies and Internet companies",
+    "is_longitudinal": true,
+    "time_points": ["T1", "T2"],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "Participants were recruited from 38 companies, including banks, consulting companies, real estate companies and Internet companies located in Beijing, Shenzhen and Shanghai, China. Multi-wave and multi-source approaches were used. At Time 1, paper-and-pencil surveys were distributed to 620 employees during their breaks at work. Among them, 597 employees returned the surveys to their human resource managers, who then sent them to us. Employees rated boundary-spanning behaviour, intrinsic motivation, ego depletion, organisational support and demographic information. Approximately one month later, 135 leaders rated these employees' innovative behaviour and team type and reported their demographic information. A total of 120 leaders returned the survey. We were able to pair 519 employees (83.71%) with their leaders to obtain 108 (80.00%) matching data. Among the employees, 55.50% were women, 54.50% were married and more than half (62.80%) had earned a college degree or higher. Their average age and tenure respectively were 29.87 years old (SD = 4.34) and 3.46 years old (SD = 3.50), respectively."
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 3",
+    "table_page_number": 690,
+    "listwise_n": 519,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "Gender-employee",
+        "mean": 1.45,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "Age-employee",
+        "mean": 29.87,
+        "sd": 4.34,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "Education-employee",
+        "mean": 3.74,
+        "sd": 0.73,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "Marriage-employee",
+        "mean": 1.52,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "Tenure-employee",
+        "mean": 3.46,
+        "sd": 3.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "Boundary-spanning behaviour",
+        "mean": 4.68,
+        "sd": 1.0,
+        "reliability_table": 0.79
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "Ego depletion",
+        "mean": 2.2,
+        "sd": 0.68,
+        "reliability_table": 0.97
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "Intrinsic motivation",
+        "mean": 5.29,
+        "sd": 1.28,
+        "reliability_table": 0.96
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "Innovative behaviour",
+        "mean": 4.33,
+        "sd": 1.27,
+        "reliability_table": 0.97
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Gender-employee",
+        "r": -0.08,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "1 Gender-employee",
+          "raw_cell_value": "-0.08"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Age-employee",
+        "r": 0.09,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "2 Age-employee",
+          "raw_cell_value": "0.09*"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Education-employee",
+        "r": 0.22,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "3 Education-employee",
+          "raw_cell_value": "0.22***"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Marriage-employee",
+        "r": 0.11,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "4 Marriage-employee",
+          "raw_cell_value": "0.11*"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Tenure-employee",
+        "r": 0.14,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "5 Tenure-employee",
+          "raw_cell_value": "0.14**"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Ego depletion",
+        "r": 0.003,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "7 Ego depletion",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.003"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Intrinsic motivation",
+        "r": 0.02,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "8 Intrinsic motivation",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.02"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Innovative behaviour",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "9 Innovative behaviour",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.17***"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary-spanning behaviour",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "Self-report",
+      "report_type_note": "Rated by employees at Time 1",
+      "specific_measure_used": "Faraj and Yan's (2009)",
+      "items_quote": "Faraj and Yan's (2009) four-item scale was adopted to measure employees' boundary-spanning behaviour (Cronbach's alpha = 0.79). A sample item was \"I solicit information and resources from elsewhere in and/or beyond the division\" (from 1 = strongly disagree to 7 = strongly agree).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.79
+      },
+      "mean": 4.68,
+      "sd": 1.0,
+      "source_quote": "Faraj and Yan's (2009) four-item scale was adopted to measure employees' boundary-spanning behaviour (Cronbach's alpha = 0.79). A sample item was \"I solicit information and resources from elsewhere in and/or beyond the division\" (from 1 = strongly disagree to 7 = strongly agree).",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Gender-employee",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": "Demographic control rated by employees at Time 1 (1 = female, 2 = male)",
+      "specific_measure_used": "gender (1 = female, 2 = male)",
+      "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.45,
+      "sd": 0.5,
+      "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Age-employee",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": "Demographic control rated by employees at Time 1 (in years)",
+      "specific_measure_used": "age (in years)",
+      "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 29.87,
+      "sd": 4.34,
+      "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Education-employee",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "Self-report",
+      "report_type_note": "Demographic control rated by employees at Time 1 (1 = middle school or below to 5 = postgraduate degree)",
+      "specific_measure_used": "education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree)",
+      "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.74,
+      "sd": 0.73,
+      "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Marriage-employee",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": "Demographic control rated by employees at Time 1 (1 = single, 2 = married)",
+      "specific_measure_used": "marital status (1 = single, 2 = married)",
+      "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.52,
+      "sd": 0.5,
+      "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Tenure-employee",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "Self-report",
+      "report_type_note": "Demographic control rated by employees at Time 1 (in years)",
+      "specific_measure_used": "tenure (in years)",
+      "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.46,
+      "sd": 3.5,
+      "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Ego depletion",
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "Self-report",
+      "report_type_note": "Rated by employees at Time 1",
+      "specific_measure_used": "Johnson et al. (2014)",
+      "items_quote": "We employed the five-item scale (Cronbach's alpha = 0.97) of Johnson et al. (2014) to measure employees' ego depletion. We asked the employees to rate how they felt after having performed boundary-spanning behaviour. A sample item was \"I feel mentally exhausted\", (from 1 = strongly disagree to 5 = strongly agree).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.97
+      },
+      "mean": 2.2,
+      "sd": 0.68,
+      "source_quote": "We employed the five-item scale (Cronbach's alpha = 0.97) of Johnson et al. (2014) to measure employees' ego depletion. We asked the employees to rate how they felt after having performed boundary-spanning behaviour. A sample item was \"I feel mentally exhausted\", (from 1 = strongly disagree to 5 = strongly agree).",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Intrinsic motivation",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "Self-report",
+      "report_type_note": "Rated by employees at Time 1",
+      "specific_measure_used": "Grant's (2008)",
+      "items_quote": "After measuring employees' boundary-spanning behaviour, we asked the employees, \"Why do you engage in these behaviours?\" (from 1 = strongly disagree to 5 = strongly agree). Four items from Grant's (2008) scale were adopted (Cronbach's alpha = 0.96). A sample item was \"Because I enjoy it\".",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.96
+      },
+      "mean": 5.29,
+      "sd": 1.28,
+      "source_quote": "After measuring employees' boundary-spanning behaviour, we asked the employees, \"Why do you engage in these behaviours?\" (from 1 = strongly disagree to 5 = strongly agree). Four items from Grant's (2008) scale were adopted (Cronbach's alpha = 0.96). A sample item was \"Because I enjoy it\".",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Innovative behaviour",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "Supervisor-report",
+      "report_type_note": "Rated by team leaders at Time 2 (approximately one month after Time 1)",
+      "specific_measure_used": "Scott and Bruce (1994)",
+      "items_quote": "Leaders rated employees' innovative behaviour using a six-item scale (Cronbach's alpha = 0.97) developed by Scott and Bruce (1994). A sample item was \"he/she searches out new technologies, processes, techniques and/or product ideas\", (from 1 = strongly disagree to 7 = strongly agree).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.97
+      },
+      "mean": 4.33,
+      "sd": 1.27,
+      "source_quote": "Leaders rated employees' innovative behaviour using a six-item scale (Cronbach's alpha = 0.97) developed by Scott and Bruce (1994). A sample item was \"he/she searches out new technologies, processes, techniques and/or product ideas\", (from 1 = strongly disagree to 7 = strongly agree).",
+      "notes": null
+    }
+  ],
+  "specialist_A": {
+    "study_design": "Longitudinal",
+    "study_design_other": "Multi-wave (2 waves, 1-month lag) and multi-source (employee self-report at T1, leader-report at T2)",
+    "country": "China",
+    "country_specify": "Beijing, Shenzhen and Shanghai",
+    "international_context": "Domestic",
+    "sample_size_n": 519,
+    "mean_age": 29.87,
+    "pct_female": 55.5,
+    "org_tenure": 3.46,
+    "occupation_type": "Employees from 38 companies including banks, consulting companies, real estate companies and Internet companies",
+    "is_longitudinal": true,
+    "time_points": ["T1", "T2"],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "Participants were recruited from 38 companies, including banks, consulting companies, real estate companies and Internet companies located in Beijing, Shenzhen and Shanghai, China. Multi-wave and multi-source approaches were used. At Time 1, paper-and-pencil surveys were distributed to 620 employees during their breaks at work. Among them, 597 employees returned the surveys to their human resource managers, who then sent them to us. Employees rated boundary-spanning behaviour, intrinsic motivation, ego depletion, organisational support and demographic information. Approximately one month later, 135 leaders rated these employees' innovative behaviour and team type and reported their demographic information. A total of 120 leaders returned the survey. We were able to pair 519 employees (83.71%) with their leaders to obtain 108 (80.00%) matching data. Among the employees, 55.50% were women, 54.50% were married and more than half (62.80%) had earned a college degree or higher. Their average age and tenure respectively were 29.87 years old (SD = 4.34) and 3.46 years old (SD = 3.50), respectively."
+  },
+  "specialist_B": {
+    "table_number": "Table 3",
+    "table_page_number": 690,
+    "listwise_n": 519,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "Gender-employee",
+        "mean": 1.45,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "Age-employee",
+        "mean": 29.87,
+        "sd": 4.34,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "Education-employee",
+        "mean": 3.74,
+        "sd": 0.73,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "Marriage-employee",
+        "mean": 1.52,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 5,
+        "table_anchor_name": "Tenure-employee",
+        "mean": 3.46,
+        "sd": 3.5,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 6,
+        "table_anchor_name": "Boundary-spanning behaviour",
+        "mean": 4.68,
+        "sd": 1.0,
+        "reliability_table": 0.79
+      },
+      {
+        "var_index": 7,
+        "table_anchor_name": "Ego depletion",
+        "mean": 2.2,
+        "sd": 0.68,
+        "reliability_table": 0.97
+      },
+      {
+        "var_index": 8,
+        "table_anchor_name": "Intrinsic motivation",
+        "mean": 5.29,
+        "sd": 1.28,
+        "reliability_table": 0.96
+      },
+      {
+        "var_index": 9,
+        "table_anchor_name": "Innovative behaviour",
+        "mean": 4.33,
+        "sd": 1.27,
+        "reliability_table": 0.97
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Gender-employee",
+        "r": -0.08,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "1 Gender-employee",
+          "raw_cell_value": "-0.08"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Age-employee",
+        "r": 0.09,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "2 Age-employee",
+          "raw_cell_value": "0.09*"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Education-employee",
+        "r": 0.22,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "3 Education-employee",
+          "raw_cell_value": "0.22***"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Marriage-employee",
+        "r": 0.11,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "4 Marriage-employee",
+          "raw_cell_value": "0.11*"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Tenure-employee",
+        "r": 0.14,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "6 Boundary-spanning behaviour",
+          "col_header_quote": "5 Tenure-employee",
+          "raw_cell_value": "0.14**"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Ego depletion",
+        "r": 0.003,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "7 Ego depletion",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.003"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Intrinsic motivation",
+        "r": 0.02,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "8 Intrinsic motivation",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.02"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behaviour",
+        "var2_anchor": "Innovative behaviour",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 690,
+          "row_header_quote": "9 Innovative behaviour",
+          "col_header_quote": "6 Boundary-spanning behaviour",
+          "raw_cell_value": "0.17***"
+        }
+      }
+    ]
+  },
+  "specialist_C": {
+    "boundary_spanning_measures": [
+      {
+        "table_anchor_name": "Boundary-spanning behaviour",
+        "number_of_items": 4,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Self-report",
+        "report_type_note": "Rated by employees at Time 1",
+        "specific_measure_used": "Faraj and Yan's (2009)",
+        "items_quote": "Faraj and Yan's (2009) four-item scale was adopted to measure employees' boundary-spanning behaviour (Cronbach's alpha = 0.79). A sample item was \"I solicit information and resources from elsewhere in and/or beyond the division\" (from 1 = strongly disagree to 7 = strongly agree).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.79
+        },
+        "mean": 4.68,
+        "sd": 1.0,
+        "source_quote": "Faraj and Yan's (2009) four-item scale was adopted to measure employees' boundary-spanning behaviour (Cronbach's alpha = 0.79). A sample item was \"I solicit information and resources from elsewhere in and/or beyond the division\" (from 1 = strongly disagree to 7 = strongly agree).",
+        "notes": null
+      }
+    ],
+    "non_bs_measures": [
+      {
+        "table_anchor_name": "Gender-employee",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": "Demographic control rated by employees at Time 1 (1 = female, 2 = male)",
+        "specific_measure_used": "gender (1 = female, 2 = male)",
+        "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 1.45,
+        "sd": 0.5,
+        "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Age-employee",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": "Demographic control rated by employees at Time 1 (in years)",
+        "specific_measure_used": "age (in years)",
+        "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 29.87,
+        "sd": 4.34,
+        "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Education-employee",
+        "number_of_items": 1,
+        "min_score": 1,
+        "max_score": 5,
+        "report_type": "Self-report",
+        "report_type_note": "Demographic control rated by employees at Time 1 (1 = middle school or below to 5 = postgraduate degree)",
+        "specific_measure_used": "education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree)",
+        "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 3.74,
+        "sd": 0.73,
+        "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Marriage-employee",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": "Demographic control rated by employees at Time 1 (1 = single, 2 = married)",
+        "specific_measure_used": "marital status (1 = single, 2 = married)",
+        "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 1.52,
+        "sd": 0.5,
+        "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Tenure-employee",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "Self-report",
+        "report_type_note": "Demographic control rated by employees at Time 1 (in years)",
+        "specific_measure_used": "tenure (in years)",
+        "items_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 3.46,
+        "sd": 3.5,
+        "source_quote": "Therefore, we controlled for gender (1 = female, 2 = male), marital status (1 = single, 2 = married), age (in years), education (1 = middle school education or below, 2 = high school education, 3 = associate's degree, 4 = bachelor's degree, 5 = postgraduate degree) and tenure (in years).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Ego depletion",
+        "number_of_items": 5,
+        "min_score": 1,
+        "max_score": 5,
+        "report_type": "Self-report",
+        "report_type_note": "Rated by employees at Time 1",
+        "specific_measure_used": "Johnson et al. (2014)",
+        "items_quote": "We employed the five-item scale (Cronbach's alpha = 0.97) of Johnson et al. (2014) to measure employees' ego depletion. We asked the employees to rate how they felt after having performed boundary-spanning behaviour. A sample item was \"I feel mentally exhausted\", (from 1 = strongly disagree to 5 = strongly agree).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.97
+        },
+        "mean": 2.2,
+        "sd": 0.68,
+        "source_quote": "We employed the five-item scale (Cronbach's alpha = 0.97) of Johnson et al. (2014) to measure employees' ego depletion. We asked the employees to rate how they felt after having performed boundary-spanning behaviour. A sample item was \"I feel mentally exhausted\", (from 1 = strongly disagree to 5 = strongly agree).",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Intrinsic motivation",
+        "number_of_items": 4,
+        "min_score": 1,
+        "max_score": 5,
+        "report_type": "Self-report",
+        "report_type_note": "Rated by employees at Time 1",
+        "specific_measure_used": "Grant's (2008)",
+        "items_quote": "After measuring employees' boundary-spanning behaviour, we asked the employees, \"Why do you engage in these behaviours?\" (from 1 = strongly disagree to 5 = strongly agree). Four items from Grant's (2008) scale were adopted (Cronbach's alpha = 0.96). A sample item was \"Because I enjoy it\".",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.96
+        },
+        "mean": 5.29,
+        "sd": 1.28,
+        "source_quote": "After measuring employees' boundary-spanning behaviour, we asked the employees, \"Why do you engage in these behaviours?\" (from 1 = strongly disagree to 5 = strongly agree). Four items from Grant's (2008) scale were adopted (Cronbach's alpha = 0.96). A sample item was \"Because I enjoy it\".",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Innovative behaviour",
+        "number_of_items": 6,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "Supervisor-report",
+        "report_type_note": "Rated by team leaders at Time 2 (approximately one month after Time 1)",
+        "specific_measure_used": "Scott and Bruce (1994)",
+        "items_quote": "Leaders rated employees' innovative behaviour using a six-item scale (Cronbach's alpha = 0.97) developed by Scott and Bruce (1994). A sample item was \"he/she searches out new technologies, processes, techniques and/or product ideas\", (from 1 = strongly disagree to 7 = strongly agree).",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.97
+        },
+        "mean": 4.33,
+        "sd": 1.27,
+        "source_quote": "Leaders rated employees' innovative behaviour using a six-item scale (Cronbach's alpha = 0.97) developed by Scott and Bruce (1994). A sample item was \"he/she searches out new technologies, processes, techniques and/or product ideas\", (from 1 = strongly disagree to 7 = strongly agree).",
+        "notes": null
+      }
+    ]
+  }
+}

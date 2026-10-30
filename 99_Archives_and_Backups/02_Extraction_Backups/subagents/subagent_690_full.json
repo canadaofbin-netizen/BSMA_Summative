@@ -1,0 +1,359 @@
+{
+  "paper_id": "690",
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Two-wave time-lagged survey design with a two-month interval between Phase 1 (demographics, team faultlines, team motivational climate, and leader-reported team characteristics) and Phase 2 (employee boundary-spanning behavior and employee creativity)",
+    "country": "China",
+    "country_specify": "Northern China (13 high-tech companies)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 336,
+    "listwise_n": 336,
+    "mean_age": 30.43,
+    "pct_female": 41.4,
+    "org_tenure": 4.65,
+    "occupation_type": "Employees in thirteen high-tech companies",
+    "is_longitudinal": true,
+    "time_points": [
+      "Phase 1",
+      "Phase 2 (2 months later)"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Samples and procedure, p. 9] \"This research utilized multi-wave and multi-source data from thirteen high-tech companies in Northern China to investigate the proposed causal relationships. Data were gathered from both team members and their leaders in two phases over two months. In Phase 1, team leaders provided critical information regarding the teams, including team size, composition, and establishment duration. Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. They also evaluated their perceptions of resource-based faultlines, team performance motivational climate, and team mastery motivational climate. Two months later, in Phase 2, the same team members reported their boundary-spanning behavior and creativity during the previous two months. Through data collection and a filtering process (excluding teams with fewer than four members), the study gathered a complete sample that included 336 employees across 65 teams, yielding a team response rate of 73.05%. Regarding demographics, 58.6% of participants were male, with an average age of 30.43 years and an average tenure of 4.65 years. Most participants (89%) held at least a bachelor’s degree, and team sizes ranged from 4 to 7 members.\""
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 12,
+    "listwise_n": 336,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": "[Table 2 Footnote, p. 12] \"Note(s): N = 336 for individual-level data, N = 65 for team-level data; *p < 0.05. **p < 0.01\"",
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "Education level",
+        "mean": 3.1,
+        "sd": 0.61,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "Tenure",
+        "mean": 4.66,
+        "sd": 5.02,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "Boundary-spanning behavior",
+        "mean": 5.18,
+        "sd": 0.84,
+        "reliability_table": 0.89
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "Employee creativity",
+        "mean": 5.16,
+        "sd": 0.8,
+        "reliability_table": 0.84
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Education level",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "3. Boundary-spanning behavior",
+          "col_header_quote": "1 (1. Education level)",
+          "raw_cell_value": "-0.03"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Tenure",
+        "r": -0.05,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "3. Boundary-spanning behavior",
+          "col_header_quote": "2 (2. Tenure)",
+          "raw_cell_value": "-0.05"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Employee creativity",
+        "r": 0.51,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "4. Employee creativity",
+          "col_header_quote": "3 (3. Boundary-spanning behavior)",
+          "raw_cell_value": "0.51**"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary-spanning behavior",
+      "classification_type": "BS",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Phase 2 employee self-report of boundary-spanning behavior during the previous two months; Cronbach's alpha = 0.89.",
+      "specific_measure_used": "Marrone et al. (2007)",
+      "items_quote": "[Measures, p. 9] \"All survey items were evaluated using a 7-point Likert scale (1 = strongly disagree, 7 = strongly agree).\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.89
+      },
+      "mean": 5.18,
+      "sd": 0.84,
+      "source_quote": "[Section 3.2.2 Employee boundary-spanning behavior, p. 9] \"We used a simplified six-item scale, developed by Marrone et al. (2007), to measure employee boundary-spanning behavior. A sample item is, “I made efforts to connect with individuals outside my team to acquire professional knowledge and information relevant to work or tasks.” The Cronbach’s alpha was 0.89.\"",
+      "notes": null
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Education level",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Phase 1 self-reported demographic control variable; 89% held at least a bachelor's degree.",
+      "specific_measure_used": "education level",
+      "items_quote": "[Samples and procedure, p. 9] \"Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. Most participants (89%) held at least a bachelor’s degree, and team sizes ranged from 4 to 7 members.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.1,
+      "sd": 0.61,
+      "source_quote": "[Section 3.2.5 Control variables, p. 10] \"At the individual level, we controlled for demographic factors due to their potential influence on employee creativity. Specifically, this study selected employee tenure and education level as control variables to isolate the effects of the focal variables.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Tenure",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Phase 1 self-reported demographic control variable (in years; Table 2 M = 4.66, SD = 5.02; text p. 9 reports average tenure of 4.65 years).",
+      "specific_measure_used": "employee tenure",
+      "items_quote": "[Samples and procedure, p. 9] \"Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. Regarding demographics, 58.6% of participants were male, with an average age of 30.43 years and an average tenure of 4.65 years.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 4.66,
+      "sd": 5.02,
+      "source_quote": "[Section 3.2.5 Control variables, p. 10] \"At the individual level, we controlled for demographic factors due to their potential influence on employee creativity. Specifically, this study selected employee tenure and education level as control variables to isolate the effects of the focal variables.\"",
+      "notes": null
+    },
+    {
+      "table_anchor_name": "Employee creativity",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Phase 2 employee self-assessment of creativity during the previous two months; Cronbach's alpha = 0.84.",
+      "specific_measure_used": "Farmer et al. (2003)",
+      "items_quote": "[Measures, p. 9] \"All survey items were evaluated using a 7-point Likert scale (1 = strongly disagree, 7 = strongly agree).\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.84
+      },
+      "mean": 5.16,
+      "sd": 0.8,
+      "source_quote": "[Section 3.2.3 Employee creativity, p. 10] \"Team members were asked to evaluate their creativity using the four-item scale developed by Farmer et al. (2003). A sample item is, “I proactively try out new ideas or approaches at work.” The Cronbach’s alpha for this scale was 0.84.\"",
+      "notes": null
+    }
+  ],
+  "specialist_A": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Two-wave time-lagged survey design with a two-month interval between Phase 1 (demographics, team faultlines, team motivational climate, and leader-reported team characteristics) and Phase 2 (employee boundary-spanning behavior and employee creativity)",
+    "country": "China",
+    "country_specify": "Northern China (13 high-tech companies)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 336,
+    "mean_age": 30.43,
+    "pct_female": 41.4,
+    "org_tenure": 4.65,
+    "occupation_type": "Employees in thirteen high-tech companies",
+    "is_longitudinal": true,
+    "time_points": [
+      "Phase 1",
+      "Phase 2 (2 months later)"
+    ],
+    "is_partial_mixed": false,
+    "is_imputed": false,
+    "sample_quote": "[Samples and procedure, p. 9] \"This research utilized multi-wave and multi-source data from thirteen high-tech companies in Northern China to investigate the proposed causal relationships. Data were gathered from both team members and their leaders in two phases over two months. In Phase 1, team leaders provided critical information regarding the teams, including team size, composition, and establishment duration. Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. They also evaluated their perceptions of resource-based faultlines, team performance motivational climate, and team mastery motivational climate. Two months later, in Phase 2, the same team members reported their boundary-spanning behavior and creativity during the previous two months. Through data collection and a filtering process (excluding teams with fewer than four members), the study gathered a complete sample that included 336 employees across 65 teams, yielding a team response rate of 73.05%. Regarding demographics, 58.6% of participants were male, with an average age of 30.43 years and an average tenure of 4.65 years. Most participants (89%) held at least a bachelor’s degree, and team sizes ranged from 4 to 7 members.\""
+  },
+  "specialist_B": {
+    "table_number": "Table 2",
+    "table_page_number": 12,
+    "listwise_n": 336,
+    "is_transformed": false,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": "[Table 2 Footnote, p. 12] \"Note(s): N = 336 for individual-level data, N = 65 for team-level data; *p < 0.05. **p < 0.01\"",
+    "variables": [
+      {
+        "var_index": 1,
+        "table_anchor_name": "Education level",
+        "mean": 3.1,
+        "sd": 0.61,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 2,
+        "table_anchor_name": "Tenure",
+        "mean": 4.66,
+        "sd": 5.02,
+        "reliability_table": 999
+      },
+      {
+        "var_index": 3,
+        "table_anchor_name": "Boundary-spanning behavior",
+        "mean": 5.18,
+        "sd": 0.84,
+        "reliability_table": 0.89
+      },
+      {
+        "var_index": 4,
+        "table_anchor_name": "Employee creativity",
+        "mean": 5.16,
+        "sd": 0.8,
+        "reliability_table": 0.84
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Education level",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "3. Boundary-spanning behavior",
+          "col_header_quote": "1 (1. Education level)",
+          "raw_cell_value": "-0.03"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Tenure",
+        "r": -0.05,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "3. Boundary-spanning behavior",
+          "col_header_quote": "2 (2. Tenure)",
+          "raw_cell_value": "-0.05"
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Employee creativity",
+        "r": 0.51,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 12,
+          "row_header_quote": "4. Employee creativity",
+          "col_header_quote": "3 (3. Boundary-spanning behavior)",
+          "raw_cell_value": "0.51**"
+        }
+      }
+    ]
+  },
+  "specialist_C": {
+    "boundary_spanning_measures": [
+      {
+        "table_anchor_name": "Boundary-spanning behavior",
+        "number_of_items": 6,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Phase 2 employee self-report of boundary-spanning behavior during the previous two months; Cronbach's alpha = 0.89.",
+        "specific_measure_used": "Marrone et al. (2007)",
+        "items_quote": "[Measures, p. 9] \"All survey items were evaluated using a 7-point Likert scale (1 = strongly disagree, 7 = strongly agree).\"",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.89
+        },
+        "mean": 5.18,
+        "sd": 0.84,
+        "source_quote": "[Section 3.2.2 Employee boundary-spanning behavior, p. 9] \"We used a simplified six-item scale, developed by Marrone et al. (2007), to measure employee boundary-spanning behavior. A sample item is, “I made efforts to connect with individuals outside my team to acquire professional knowledge and information relevant to work or tasks.” The Cronbach’s alpha was 0.89.\"",
+        "notes": null
+      }
+    ],
+    "non_bs_measures": [
+      {
+        "table_anchor_name": "Education level",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Phase 1 self-reported demographic control variable; 89% held at least a bachelor's degree.",
+        "specific_measure_used": "education level",
+        "items_quote": "[Samples and procedure, p. 9] \"Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. Most participants (89%) held at least a bachelor’s degree, and team sizes ranged from 4 to 7 members.\"",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 3.1,
+        "sd": 0.61,
+        "source_quote": "[Section 3.2.5 Control variables, p. 10] \"At the individual level, we controlled for demographic factors due to their potential influence on employee creativity. Specifically, this study selected employee tenure and education level as control variables to isolate the effects of the focal variables.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Tenure",
+        "number_of_items": 1,
+        "min_score": 999,
+        "max_score": 999,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Phase 1 self-reported demographic control variable (in years; Table 2 M = 4.66, SD = 5.02; text p. 9 reports average tenure of 4.65 years).",
+        "specific_measure_used": "employee tenure",
+        "items_quote": "[Samples and procedure, p. 9] \"Team members supplied personal demographic details such as age, gender, education level, specialization, functional background, and tenure. Regarding demographics, 58.6% of participants were male, with an average age of 30.43 years and an average tenure of 4.65 years.\"",
+        "reliability": {
+          "type": "Not_Applicable",
+          "value": 999
+        },
+        "mean": 4.66,
+        "sd": 5.02,
+        "source_quote": "[Section 3.2.5 Control variables, p. 10] \"At the individual level, we controlled for demographic factors due to their potential influence on employee creativity. Specifically, this study selected employee tenure and education level as control variables to isolate the effects of the focal variables.\"",
+        "notes": null
+      },
+      {
+        "table_anchor_name": "Employee creativity",
+        "number_of_items": 4,
+        "min_score": 1,
+        "max_score": 7,
+        "report_type": "1 = Self-report",
+        "report_type_note": "Phase 2 employee self-assessment of creativity during the previous two months; Cronbach's alpha = 0.84.",
+        "specific_measure_used": "Farmer et al. (2003)",
+        "items_quote": "[Measures, p. 9] \"All survey items were evaluated using a 7-point Likert scale (1 = strongly disagree, 7 = strongly agree).\"",
+        "reliability": {
+          "type": "Alpha",
+          "value": 0.84
+        },
+        "mean": 5.16,
+        "sd": 0.8,
+        "source_quote": "[Section 3.2.3 Employee creativity, p. 10] \"Team members were asked to evaluate their creativity using the four-item scale developed by Farmer et al. (2003). A sample item is, “I proactively try out new ideas or approaches at work.” The Cronbach’s alpha for this scale was 0.84.\"",
+        "notes": null
+      }
+    ]
+  }
+}

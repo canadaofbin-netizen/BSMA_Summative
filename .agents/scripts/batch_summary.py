@@ -254,7 +254,26 @@ VAR_EXPLANATIONS_KO = {
     "asm": "성취 추구 동기 (Achievement Striving Motivation)",
     "ee": "정서적 소진 (Emotional Exhaustion)",
     "ci": "시장 경쟁 강도 지각 (Competitive Intensity)",
-    "mv": "공통방법분산 마커 변수 (Method Variance Marker - 가족 식사 중요도)"
+    "mv": "공통방법분산 마커 변수 (Method Variance Marker - 가족 식사 중요도)",
+    "education level": "학력 수준 (Education Level)",
+    "boundary-spanning behaviour": "경계연결 행동 (Boundary-Spanning Behaviour)",
+    "gender-employee": "직원 성별",
+    "age-employee": "직원 연령",
+    "education-employee": "직원 교육 수준",
+    "marriage-employee": "직원 결혼 여부",
+    "tenure-employee": "직원 조직 근속 연수",
+    "ego depletion": "자아 고갈 (Ego Depletion)",
+    "intrinsic motivation": "내재적 동기 (Intrinsic Motivation)",
+    "innovative behaviour": "혁신 행동 (Innovative Behaviour)",
+    "boundary-spanning behavior of employees": "직원 경계연결 행동 (Boundary-Spanning Behavior of Employees)",
+    "gender - employee": "직원 성별",
+    "education level- employee": "직원 교육 수준",
+    "marriage - employees": "직원 결혼 여부",
+    "tenure- employee": "직원 조직 근속 연수",
+    "paradoxical mindset": "역설적 마인드셋 (Paradoxical Mindset)",
+    "role stress": "역할 스트레스 (Role Stress)",
+    "role-breadth self efficacy": "역할 기반 자기효능감 (Role-Breadth Self-Efficacy)",
+    "individual creativity": "개인 창의성 (Individual Creativity)"
 }
 
 VAR_EXPLANATIONS_EN = {
@@ -465,7 +484,26 @@ VAR_EXPLANATIONS_EN = {
     "asm": "Achievement Striving Motivation",
     "ee": "Emotional Exhaustion (Burnout Sub-dimension)",
     "ci": "Perceived Competitive Intensity",
-    "mv": "Method Variance Marker (Perceived Family Meal Importance)"
+    "mv": "Method Variance Marker (Perceived Family Meal Importance)",
+    "education level": "Education Level",
+    "boundary-spanning behaviour": "Boundary-Spanning Behaviour",
+    "gender-employee": "Employee Gender",
+    "age-employee": "Employee Age",
+    "education-employee": "Employee Education Level",
+    "marriage-employee": "Employee Marital Status",
+    "tenure-employee": "Employee Organizational Tenure",
+    "ego depletion": "Ego Depletion",
+    "intrinsic motivation": "Intrinsic Motivation",
+    "innovative behaviour": "Innovative Behaviour",
+    "boundary-spanning behavior of employees": "Employee Boundary-Spanning Behavior",
+    "gender - employee": "Employee Gender",
+    "education level- employee": "Employee Education Level",
+    "marriage - employees": "Employee Marital Status",
+    "tenure- employee": "Employee Organizational Tenure",
+    "paradoxical mindset": "Paradoxical Mindset",
+    "role stress": "Role Stress",
+    "role-breadth self efficacy": "Role-Breadth Self-Efficacy (RBSE)",
+    "individual creativity": "Individual Creativity"
 }
 
 CATEGORY_MAP_KO = {
@@ -512,21 +550,21 @@ def categorize_non_bs_variable(var_name: str, lang: str = "en") -> Tuple[str, st
         key = "attitudes"
     elif any(k in v for k in [
         "ambiguity", "conflict", "overload", "burnout", "exhaustion", "stress", "strain",
-        "pressure", "pp", "tension", "spu", "cou", "cuu", "ee"
-    ]):
+        "pressure", "pp", "tension", "spu", "cou", "cuu", "depletion"
+    ]) or v == "ee":
         key = "stress"
     elif any(k in v for k in [
         "performance", "creativity", "service", "delivery", "citizenship", "ocb", "voice",
-        "leadership", "innovativeness", "learning", "collaboration", "acap", "competence",
+        "leadership", "innovativeness", "innovative", "learning", "collaboration", "acap", "competence",
         "influence", "perceived", "objective", "rating", "cs", "patents", "knowledge"
     ]):
         key = "performance"
     elif any(k in v for k in [
         "proactive", "personality", "status", "degree", "occupation", "education", "edu",
         "experience", "age", "gender", "sex", "tenure", "seniority", "ao", "flexibility", "cf",
-        "ethnicity", "gmat", "human capital", "self-efficacy", "rbse", "hierarchical level",
+        "ethnicity", "gmat", "human capital", "self-efficacy", "self efficacy", "rbse", "hierarchical level",
         "job grade", "head of laboratory", "managerial", "boundary-spanning role", "locus of control",
-        "asm", "mv"
+        "asm", "mv", "marriage", "motivation", "paradoxical", "mindset"
     ]):
         key = "individual"
     elif any(k in v for k in [
