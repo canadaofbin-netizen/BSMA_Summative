@@ -1,0 +1,557 @@
+{
+  "paper_id": 501,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": null,
+    "country": "China",
+    "country_specify": "eleven hospitals in China",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 297,
+    "listwise_n": 297,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "Nurses (Hospital nurses)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 179,
+    "listwise_n": 297,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "T1 BSL",
+        "classification_type": "BS",
+        "mean": 4.05,
+        "sd": 0.88,
+        "reliability_table": 0.92
+      },
+      {
+        "table_anchor_name": "T1 ACAP",
+        "classification_type": "NB",
+        "mean": 4.17,
+        "sd": 0.93,
+        "reliability_table": 0.79
+      },
+      {
+        "table_anchor_name": "T1 JE",
+        "classification_type": "NB",
+        "mean": 4.5,
+        "sd": 0.97,
+        "reliability_table": 0.73
+      },
+      {
+        "table_anchor_name": "T2 ACAP",
+        "classification_type": "NB",
+        "mean": 4.17,
+        "sd": 0.91,
+        "reliability_table": 0.83
+      },
+      {
+        "table_anchor_name": "T2 JE",
+        "classification_type": "NB",
+        "mean": 4.43,
+        "sd": 1.02,
+        "reliability_table": 0.77
+      },
+      {
+        "table_anchor_name": "T3 ACAP",
+        "classification_type": "NB",
+        "mean": 4.18,
+        "sd": 0.93,
+        "reliability_table": 0.82
+      },
+      {
+        "table_anchor_name": "T3 JE",
+        "classification_type": "NB",
+        "mean": 4.55,
+        "sd": 0.93,
+        "reliability_table": 0.82
+      },
+      {
+        "table_anchor_name": "T2 BSL",
+        "classification_type": "BS",
+        "mean": 3.9,
+        "sd": 0.83,
+        "reliability_table": 0.88
+      },
+      {
+        "table_anchor_name": "T3 BSL",
+        "classification_type": "BS",
+        "mean": 3.93,
+        "sd": 0.9,
+        "reliability_table": 0.88
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T1 ACAP",
+        "r": 0.445,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T1 ACAP",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.445***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T1-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T1 JE",
+        "r": 0.327,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T1 JE",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.327***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T1-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T2 ACAP",
+        "r": 0.297,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 ACAP",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.297***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T1-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T2 JE",
+        "r": 0.191,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 JE",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.191***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T1-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T3 ACAP",
+        "r": 0.15,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 ACAP",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.150**",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T1-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T1 BSL",
+        "var2_anchor": "T3 JE",
+        "r": 0.124,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 JE",
+          "col_header_quote": "T1 BSL",
+          "raw_cell_value": "0.124*",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T1-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T1 ACAP",
+        "r": 0.159,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 BSL",
+          "col_header_quote": "T1 ACAP",
+          "raw_cell_value": "0.159**",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T2-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T1 JE",
+        "r": 0.129,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 BSL",
+          "col_header_quote": "T1 JE",
+          "raw_cell_value": "0.129*",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T2-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T2 ACAP",
+        "r": 0.436,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 ACAP",
+          "col_header_quote": "T2 BSL",
+          "raw_cell_value": "0.436***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T2-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T2 JE",
+        "r": 0.262,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T2 JE",
+          "col_header_quote": "T2 BSL",
+          "raw_cell_value": "0.262***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T2-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T3 ACAP",
+        "r": 0.328,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 ACAP",
+          "col_header_quote": "T2 BSL",
+          "raw_cell_value": "0.328***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T2-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T2 BSL",
+        "var2_anchor": "T3 JE",
+        "r": 0.186,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 JE",
+          "col_header_quote": "T2 BSL",
+          "raw_cell_value": "0.186**",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Prospective cross-lagged (T2-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T1 ACAP",
+        "r": 0.144,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 BSL",
+          "col_header_quote": "T1 ACAP",
+          "raw_cell_value": "0.144*",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T3-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T1 JE",
+        "r": 0.095,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 BSL",
+          "col_header_quote": "T1 JE",
+          "raw_cell_value": "0.095",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T3-T1)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T2 ACAP",
+        "r": 0.197,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 BSL",
+          "col_header_quote": "T2 ACAP",
+          "raw_cell_value": "0.197***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T3-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T2 JE",
+        "r": 0.117,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 BSL",
+          "col_header_quote": "T2 JE",
+          "raw_cell_value": "0.117*",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Reverse-lagged (T3-T2)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T3 ACAP",
+        "r": 0.425,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 ACAP",
+          "col_header_quote": "T3 BSL",
+          "raw_cell_value": "0.425***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T3-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      },
+      {
+        "var1_anchor": "T3 BSL",
+        "var2_anchor": "T3 JE",
+        "r": 0.236,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 179,
+          "row_header_quote": "T3 JE",
+          "col_header_quote": "T3 BSL",
+          "raw_cell_value": "0.236***",
+          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "extra_flags": [
+            "Concurrent (T3-T3)",
+            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+          ]
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "T1 BSL",
+      "classification_type": "BS",
+      "number_of_items": 24,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Hospital nurses evaluated their managers across 6 dimensions (buffering, reflecting, connecting, mobilizing, weaving, transforming). Composite Reliability (CR) from Table 1 (p. 179) reported in Col 44.",
+      "specific_measure_used": "Palus et al. (2014)",
+      "source_quote": "The main factors were assessed using the measurement instrument on a 6-point scale ranging from 1 (“strongly disagree”) to 6 (“strongly agree”). BSL was measured using twenty-four items developed by Palus et al. (2014), which assess managers’ abilities to navigate across six dimensions: buffering, reflecting, connecting, mobilizing, weaving, and transforming. Each dimension is assessed by four items, totaling twenty-four items on the scale.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.92
+      },
+      "mean": 4.05,
+      "sd": 0.88
+    },
+    {
+      "table_anchor_name": "T2 BSL",
+      "classification_type": "BS",
+      "number_of_items": 24,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Hospital nurses evaluated their managers across 6 dimensions (buffering, reflecting, connecting, mobilizing, weaving, transforming). Composite Reliability (CR) from Table 1 (p. 179) reported in Col 44.",
+      "specific_measure_used": "Palus et al. (2014)",
+      "source_quote": "The main factors were assessed using the measurement instrument on a 6-point scale ranging from 1 (“strongly disagree”) to 6 (“strongly agree”). BSL was measured using twenty-four items developed by Palus et al. (2014), which assess managers’ abilities to navigate across six dimensions: buffering, reflecting, connecting, mobilizing, weaving, and transforming. Each dimension is assessed by four items, totaling twenty-four items on the scale.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.9,
+      "sd": 0.83
+    },
+    {
+      "table_anchor_name": "T3 BSL",
+      "classification_type": "BS",
+      "number_of_items": 24,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Hospital nurses evaluated their managers across 6 dimensions (buffering, reflecting, connecting, mobilizing, weaving, transforming). Composite Reliability (CR) from Table 1 (p. 179) reported in Col 44.",
+      "specific_measure_used": "Palus et al. (2014)",
+      "source_quote": "The main factors were assessed using the measurement instrument on a 6-point scale ranging from 1 (“strongly disagree”) to 6 (“strongly agree”). BSL was measured using twenty-four items developed by Palus et al. (2014), which assess managers’ abilities to navigate across six dimensions: buffering, reflecting, connecting, mobilizing, weaving, and transforming. Each dimension is assessed by four items, totaling twenty-four items on the scale.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.93,
+      "sd": 0.9
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "T1 ACAP",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Yildiz et al. (2019)",
+      "source_quote": "ACAP refers to an individual’s ability to recognize, assimilate, and utilize new information and knowledge across boundaries. The scale created by Yildiz et al. (2019) consists of fourteen items divided into three sub-dimensions: recognition (four items), assimilation (six items), and exploitation (four items).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.79
+      },
+      "mean": 4.17,
+      "sd": 0.93
+    },
+    {
+      "table_anchor_name": "T1 JE",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Mitchell et al. (2001)",
+      "source_quote": "JE is defined as the situational and cognitive factors that keep individuals connected to people or work-related issues (Crossley et al. 2007). The scale for JE, developed by Mitchell et al. (2001), includes fourteen items: six items related to fit, four items to sacrifices, and four items to links.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.73
+      },
+      "mean": 4.5,
+      "sd": 0.97
+    },
+    {
+      "table_anchor_name": "T2 ACAP",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Yildiz et al. (2019)",
+      "source_quote": "ACAP refers to an individual’s ability to recognize, assimilate, and utilize new information and knowledge across boundaries. The scale created by Yildiz et al. (2019) consists of fourteen items divided into three sub-dimensions: recognition (four items), assimilation (six items), and exploitation (four items).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.83
+      },
+      "mean": 4.17,
+      "sd": 0.91
+    },
+    {
+      "table_anchor_name": "T2 JE",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Mitchell et al. (2001)",
+      "source_quote": "JE is defined as the situational and cognitive factors that keep individuals connected to people or work-related issues (Crossley et al. 2007). The scale for JE, developed by Mitchell et al. (2001), includes fourteen items: six items related to fit, four items to sacrifices, and four items to links.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.77
+      },
+      "mean": 4.43,
+      "sd": 1.02
+    },
+    {
+      "table_anchor_name": "T3 ACAP",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Yildiz et al. (2019)",
+      "source_quote": "ACAP refers to an individual’s ability to recognize, assimilate, and utilize new information and knowledge across boundaries. The scale created by Yildiz et al. (2019) consists of fourteen items divided into three sub-dimensions: recognition (four items), assimilation (six items), and exploitation (four items).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.82
+      },
+      "mean": 4.18,
+      "sd": 0.93
+    },
+    {
+      "table_anchor_name": "T3 JE",
+      "classification_type": "NB",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Composite Reliability (CR) from Table 1 (p. 179) reported in Col 48.",
+      "specific_measure_used": "Mitchell et al. (2001)",
+      "source_quote": "JE is defined as the situational and cognitive factors that keep individuals connected to people or work-related issues (Crossley et al. 2007). The scale for JE, developed by Mitchell et al. (2001), includes fourteen items: six items related to fit, four items to sacrifices, and four items to links.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.82
+      },
+      "mean": 4.55,
+      "sd": 0.93
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "paper_id": 207,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": null,
+    "country": "USA",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 132,
+    "listwise_n": 132,
+    "mean_age": 42.6,
+    "pct_female": 25,
+    "org_tenure": 3.5,
+    "occupation_type": "Scientists, engineers, and technicians in nuclear science research facility (FRIB)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 906,
+    "listwise_n": 132,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Closed task-oriented DBS ties",
+        "classification_type": "BS",
+        "mean": 7.34,
+        "sd": 9.74,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Closed task-oriented intrateam ties",
+        "classification_type": "NB",
+        "mean": 0.6,
+        "sd": 1.25,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Closed friendship intrateam ties",
+        "classification_type": "NB",
+        "mean": 0.67,
+        "sd": 1.31,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Managerial status",
+        "classification_type": "NB",
+        "mean": 0.35,
+        "sd": 0.48,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Informal leadership",
+        "classification_type": "NB",
+        "mean": 3.66,
+        "sd": 0.77,
+        "reliability_table": 0.88
+      },
+      {
+        "table_anchor_name": "Closed friendship DBS ties",
+        "classification_type": "BS",
+        "mean": 1.11,
+        "sd": 2.07,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Open task-oriented DBS ties",
+        "classification_type": "BS",
+        "mean": 44.05,
+        "sd": 28.15,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Open friendship DBS ties",
+        "classification_type": "BS",
+        "mean": 6.64,
+        "sd": 7.45,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Closed task-oriented DBS ties",
+        "var2_anchor": "Closed task-oriented intrateam ties",
+        "r": 0.1,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "5. Closed task-oriented intrateam ties",
+          "col_header_quote": "1",
+          "raw_cell_value": ".10"
+        }
+      },
+      {
+        "var1_anchor": "Closed task-oriented DBS ties",
+        "var2_anchor": "Closed friendship intrateam ties",
+        "r": -0.11,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "6. Closed friendship intrateam ties",
+          "col_header_quote": "1",
+          "raw_cell_value": "-.11"
+        }
+      },
+      {
+        "var1_anchor": "Closed task-oriented DBS ties",
+        "var2_anchor": "Managerial status",
+        "r": 0.42,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "7. Managerial status",
+          "col_header_quote": "1",
+          "raw_cell_value": ".42**"
+        }
+      },
+      {
+        "var1_anchor": "Closed task-oriented DBS ties",
+        "var2_anchor": "Informal leadership",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "8. Informal leadership",
+          "col_header_quote": "1",
+          "raw_cell_value": ".17"
+        }
+      },
+      {
+        "var1_anchor": "Closed friendship DBS ties",
+        "var2_anchor": "Closed task-oriented intrateam ties",
+        "r": -0.04,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "5. Closed task-oriented intrateam ties",
+          "col_header_quote": "2",
+          "raw_cell_value": "-.04"
+        }
+      },
+      {
+        "var1_anchor": "Closed friendship DBS ties",
+        "var2_anchor": "Closed friendship intrateam ties",
+        "r": -0.14,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "6. Closed friendship intrateam ties",
+          "col_header_quote": "2",
+          "raw_cell_value": "-.14"
+        }
+      },
+      {
+        "var1_anchor": "Closed friendship DBS ties",
+        "var2_anchor": "Managerial status",
+        "r": 0.45,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "7. Managerial status",
+          "col_header_quote": "2",
+          "raw_cell_value": ".45**"
+        }
+      },
+      {
+        "var1_anchor": "Closed friendship DBS ties",
+        "var2_anchor": "Informal leadership",
+        "r": 0.16,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "8. Informal leadership",
+          "col_header_quote": "2",
+          "raw_cell_value": ".16"
+        }
+      },
+      {
+        "var1_anchor": "Open task-oriented DBS ties",
+        "var2_anchor": "Closed task-oriented intrateam ties",
+        "r": 0.24,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "5. Closed task-oriented intrateam ties",
+          "col_header_quote": "3",
+          "raw_cell_value": ".24**"
+        }
+      },
+      {
+        "var1_anchor": "Open task-oriented DBS ties",
+        "var2_anchor": "Closed friendship intrateam ties",
+        "r": -0.19,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "6. Closed friendship intrateam ties",
+          "col_header_quote": "3",
+          "raw_cell_value": "-.19*"
+        }
+      },
+      {
+        "var1_anchor": "Open task-oriented DBS ties",
+        "var2_anchor": "Managerial status",
+        "r": 0.28,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "7. Managerial status",
+          "col_header_quote": "3",
+          "raw_cell_value": ".28**"
+        }
+      },
+      {
+        "var1_anchor": "Open task-oriented DBS ties",
+        "var2_anchor": "Informal leadership",
+        "r": 0.14,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "8. Informal leadership",
+          "col_header_quote": "3",
+          "raw_cell_value": ".14"
+        }
+      },
+      {
+        "var1_anchor": "Open friendship DBS ties",
+        "var2_anchor": "Closed task-oriented intrateam ties",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "5. Closed task-oriented intrateam ties",
+          "col_header_quote": "4",
+          "raw_cell_value": "-.03"
+        }
+      },
+      {
+        "var1_anchor": "Open friendship DBS ties",
+        "var2_anchor": "Closed friendship intrateam ties",
+        "r": -0.14,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "6. Closed friendship intrateam ties",
+          "col_header_quote": "4",
+          "raw_cell_value": "-.14"
+        }
+      },
+      {
+        "var1_anchor": "Open friendship DBS ties",
+        "var2_anchor": "Managerial status",
+        "r": 0.39,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "7. Managerial status",
+          "col_header_quote": "4",
+          "raw_cell_value": ".39**"
+        }
+      },
+      {
+        "var1_anchor": "Open friendship DBS ties",
+        "var2_anchor": "Informal leadership",
+        "r": 0.17,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 906,
+          "row_header_quote": "8. Informal leadership",
+          "col_header_quote": "4",
+          "raw_cell_value": ".17"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Closed task-oriented DBS ties",
+      "classification_type": "BS",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Relational network survey with confirmed reciprocal ties",
+      "specific_measure_used": "hybrid fixed roster and free recall method",
+      "source_quote": "[Methodology, p. 905] \"As we noted, we used the hybrid fixed roster and free recall method to first establish who had relationships with whom. Because we are interested in ties that bridged different teams, we defined closed DBS ties as occurring when (a) individual i and individual j are in different teams, (b) they have a reciprocated, confirmed tie, and (c) both have a reciprocated, confirmed tie in common with at least one other individual in a team different from both individual i and individual j. Two closed DBS tie measures (task-oriented and friendship relationships) were calculated for each individual.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 7.34,
+      "sd": 9.74
+    },
+    {
+      "table_anchor_name": "Closed friendship DBS ties",
+      "classification_type": "BS",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Relational network survey with confirmed reciprocal ties",
+      "specific_measure_used": "hybrid fixed roster and free recall method",
+      "source_quote": "[Methodology, p. 905] \"As we noted, we used the hybrid fixed roster and free recall method to first establish who had relationships with whom. Because we are interested in ties that bridged different teams, we defined closed DBS ties as occurring when (a) individual i and individual j are in different teams, (b) they have a reciprocated, confirmed tie, and (c) both have a reciprocated, confirmed tie in common with at least one other individual in a team different from both individual i and individual j. Two closed DBS tie measures (task-oriented and friendship relationships) were calculated for each individual.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.11,
+      "sd": 2.07
+    },
+    {
+      "table_anchor_name": "Open task-oriented DBS ties",
+      "classification_type": "BS",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Relational network survey with confirmed reciprocal ties",
+      "specific_measure_used": "hybrid fixed roster and free recall method",
+      "source_quote": "[Methodology, p. 905] \"As we noted, we used the hybrid fixed roster and free recall method to first establish who had relationships with whom. We defined open DBS ties as occurring when (a) individual i and individual j are in different teams, (b) they have a reciprocated, confirmed tie, and (c) neither have a symmetric tie in common with any other individual in a team different from both individual i and individual j.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 44.05,
+      "sd": 28.15
+    },
+    {
+      "table_anchor_name": "Open friendship DBS ties",
+      "classification_type": "BS",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Relational network survey with confirmed reciprocal ties",
+      "specific_measure_used": "hybrid fixed roster and free recall method",
+      "source_quote": "[Methodology, p. 905] \"As we noted, we used the hybrid fixed roster and free recall method to first establish who had relationships with whom. We defined open DBS ties as occurring when (a) individual i and individual j are in different teams, (b) they have a reciprocated, confirmed tie, and (c) neither have a symmetric tie in common with any other individual in a team different from both individual i and individual j.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 6.64,
+      "sd": 7.45
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Closed task-oriented intrateam ties",
+      "classification_type": "NB",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Network tie count within team",
+      "specific_measure_used": "closed triads within teams",
+      "source_quote": "[Methodology, p. 905] \"controlled for the number of open ties and the number of closed triads within teams.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.6,
+      "sd": 1.25
+    },
+    {
+      "table_anchor_name": "Closed friendship intrateam ties",
+      "classification_type": "NB",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Network tie count within team",
+      "specific_measure_used": "closed triads within teams",
+      "source_quote": "[Methodology, p. 905] \"controlled for the number of open ties and the number of closed triads within teams.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.67,
+      "sd": 1.31
+    },
+    {
+      "table_anchor_name": "Managerial status",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "4 = Objective",
+      "report_type_note": "Organizational chart coding (0=non-manager, 1=manager)",
+      "specific_measure_used": "organizational chart in place when the study took place",
+      "source_quote": "[Methodology, p. 905] \"We obtained participants' managerial status from the organizational chart in place when the study took place.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.35,
+      "sd": 0.48
+    },
+    {
+      "table_anchor_name": "Informal leadership",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "2 = Supervisor-report",
+      "report_type_note": "Immediate supervisors rated each individual standing as an informal leader",
+      "specific_measure_used": "six items (alpha = .88) adapted from prior research (Kent & Moss, 1990; Taggar et al., 1999; see Appendix B)",
+      "source_quote": "[Methodology, p. 905] \"Immediate supervisors rated each individual's standing as an informal leader on a scale (1 = strongly disagree; 5 = strongly agree) using six items (alpha = .88) adapted from prior research (Kent & Moss, 1990; Taggar et al., 1999; see Appendix B). As discussed above, a given participant's informal leadership was rated with reference to the team where they held no formal authority.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.66,
+      "sd": 0.77
+    }
+  ]
+}

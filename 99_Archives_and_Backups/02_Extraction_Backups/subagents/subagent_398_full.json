@@ -1,0 +1,281 @@
+{
+  "paper_id": 398,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": null,
+    "country": "United States",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 170,
+    "listwise_n": 170,
+    "mean_age": 41.92,
+    "pct_female": 10,
+    "org_tenure": 9.04,
+    "occupation_type": "Employees in a manufacturing and engineering firm (nonmanagement team members)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 1143,
+    "listwise_n": 170,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary-spanning behavior",
+        "classification_type": "BS",
+        "mean": 2.62,
+        "sd": 0.83,
+        "reliability_table": 0.94
+      },
+      {
+        "table_anchor_name": "Age",
+        "classification_type": "NB",
+        "mean": 41.92,
+        "sd": 11.11,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Gender",
+        "classification_type": "NB",
+        "mean": 1.1,
+        "sd": 0.3,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Ethnicity",
+        "classification_type": "NB",
+        "mean": 1.35,
+        "sd": 0.48,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Supportive coaching",
+        "classification_type": "NB",
+        "mean": 3.72,
+        "sd": 0.69,
+        "reliability_table": 0.88
+      },
+      {
+        "table_anchor_name": "Boundary-spanning self-efficacy",
+        "classification_type": "NB",
+        "mean": 3.63,
+        "sd": 0.82,
+        "reliability_table": 0.95
+      },
+      {
+        "table_anchor_name": "Job satisfaction",
+        "classification_type": "NB",
+        "mean": 3.27,
+        "sd": 1.08,
+        "reliability_table": 0.88
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Age",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "6. Boundary-spanning behavior",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.03",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Gender",
+        "r": -0.13,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "6. Boundary-spanning behavior",
+          "col_header_quote": "2",
+          "raw_cell_value": "−.13",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Ethnicity",
+        "r": 0.18,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "6. Boundary-spanning behavior",
+          "col_header_quote": "3",
+          "raw_cell_value": ".18*",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Supportive coaching",
+        "r": 0.19,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "6. Boundary-spanning behavior",
+          "col_header_quote": "4",
+          "raw_cell_value": ".19*",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Boundary-spanning self-efficacy",
+        "r": 0.35,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "6. Boundary-spanning behavior",
+          "col_header_quote": "5",
+          "raw_cell_value": ".35**",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Job satisfaction",
+        "r": 0.29,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1143,
+          "row_header_quote": "7. Job satisfaction",
+          "col_header_quote": "6",
+          "raw_cell_value": ".29**",
+          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary-spanning behavior",
+      "classification_type": "BS",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Ancona and Caldwell’s (1992)",
+      "source_quote": "We closely followed Ancona and Caldwell’s (1992) development of boundary-spanning items and selected 13 items from their research to assess the extent to which team members engaged in various boundary-spanning behaviors aimed at establishing and maintaining relationships with key external parties. Two of our constructs, supportive coaching and boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree to 5 = strongly agree), whereas our other two constructs utilized alternative anchor points (boundary spanning behavior, 1 = a very small extent to 5 = a very great extent; job satisfaction, 1 = very dissatisfied to 5 = very satisfied).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.94
+      },
+      "mean": 2.62,
+      "sd": 0.83
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "measured age in years",
+      "source_quote": "We included gender, age, and ethnicity/race as variables in all substantive equations. We measured age in years; we coded gender using male = 1 and female = 2.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 41.92,
+      "sd": 11.11
+    },
+    {
+      "table_anchor_name": "Gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "coded gender using male = 1 and female = 2",
+      "source_quote": "We included gender, age, and ethnicity/race as variables in all substantive equations. We measured age in years; we coded gender using male = 1 and female = 2.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.1,
+      "sd": 0.3
+    },
+    {
+      "table_anchor_name": "Ethnicity",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "coded the measure using Caucasian/White = 1 and all others = 2",
+      "source_quote": "Finally, we asked respondents, “What is your ethnicity/race?” and included seven response options: African American/Black, Asian, Caucasian/White, Hispanic/Latino, Native American, Pacific Islander, and Other. Given the preponderance of Caucasian/White respondents, we ultimately coded the measure using Caucasian/White = 1 and all others = 2.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.35,
+      "sd": 0.48
+    },
+    {
+      "table_anchor_name": "Supportive coaching",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Morgeson, 2005",
+      "source_quote": "We relied on previous studies assessing supportive-coaching behaviors of encouragement and empowerment (e.g., Morgeson, 2005), as well as our discussions and interviews of organizational personnel, to develop a four-item scale for the purposes of this study that asked respondents to rate the extent to which they agreed that their lead encouraged and empowered employee engagement in boundary spanning. Two of our constructs, supportive coaching and boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree to 5 = strongly agree), whereas our other two constructs utilized alternative anchor points (boundary spanning behavior, 1 = a very small extent to 5 = a very great extent; job satisfaction, 1 = very dissatisfied to 5 = very satisfied).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.72,
+      "sd": 0.69
+    },
+    {
+      "table_anchor_name": "Boundary-spanning self-efficacy",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Marrone et al. (2007)",
+      "source_quote": "A previously established six-item scale from Marrone et al. (2007) was used to assess the extent to which team members agreed with statements regarding their confidence in their ability to effectively carry out and manage boundary-spanning behaviors. Two of our constructs, supportive coaching and boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree to 5 = strongly agree), whereas our other two constructs utilized alternative anchor points (boundary spanning behavior, 1 = a very small extent to 5 = a very great extent; job satisfaction, 1 = very dissatisfied to 5 = very satisfied).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.95
+      },
+      "mean": 3.63,
+      "sd": 0.82
+    },
+    {
+      "table_anchor_name": "Job satisfaction",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Job Satisfaction Relative to Expectations instrument (Bacharach et al., 1991)",
+      "source_quote": "Survey items for this measure were from the five-item Job Satisfaction Relative to Expectations instrument (Bacharach et al., 1991). The measure assesses the extent of agreement between broad satisfaction elements of a job relative to employee expectation. Two of our constructs, supportive coaching and boundary-spanning self-efficacy, used traditional Likert scales (1 = strongly disagree to 5 = strongly agree), whereas our other two constructs utilized alternative anchor points (boundary spanning behavior, 1 = a very small extent to 5 = a very great extent; job satisfaction, 1 = very dissatisfied to 5 = very satisfied).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 3.27,
+      "sd": 1.08
+    }
+  ]
+}

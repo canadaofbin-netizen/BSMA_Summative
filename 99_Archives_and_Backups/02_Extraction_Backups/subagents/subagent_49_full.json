@@ -1,487 +1,407 @@
 {
-  "node_0_screening": {
-    "verdict": "1 = include",
-    "sample_type": "Full-time frontline hotel employees (5-star hotels in Antalya, Turkey)",
-    "unit_of_analysis": 250,
-    "study_design": "Two-wave lagged design (two weeks-lagged periods, Time I and Time II)",
-    "empirical_bsb_construct": "Customer-Oriented Boundary-Spanning Behaviors (COBSBs: external representation, internalized influence, service delivery; Bettencourt et al., 2005)",
-    "reasoning": "Empirical survey collecting individual employee boundary-spanning data from 250 frontline hotel employees across 14 five-star hotels in Antalya, Turkey. Reports a complete zero-order correlation matrix among substantive variables in Table 2.",
-    "verbatim_evidence": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items."
+  "paper_id": 49,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Two-wave lagged survey over two weeks (Time I: COBSBs and demographics; Time II: spiritual leadership)",
+    "country": "Turkey",
+    "country_specify": "Antalya, Turkey (14 five-star hotels)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 250,
+    "listwise_n": 250,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "Full-time frontline hotel employees"
   },
-  "study_details": {
-    "title": "Workplace spirituality – customer engagement Nexus: the mediated role of spiritual leadership on customer–oriented boundary–spanning behaviors",
-    "authors": "Steven W. Bayighomog & Hüseyin Araslı",
-    "year": 2019,
-    "journal": "The Service Industries Journal",
-    "country_of_sample": "Turkey",
-    "effective_sample_size": 250
-  },
-  "design": {
-    "is_longitudinal": true,
-    "time_points": [
-      "Time I",
-      "Time II"
-    ],
-    "notes": "Two weeks-lagged periods: Time I assessed COBSBs and demographics; Time II assessed spiritual leadership. Authors note the overall model was analyzed cross-sectionally."
-  },
-  "table_matrix": {
+  "boundary_spanning_matrix": {
     "table_number": "Table 2",
-    "table_title": "Table 2. Intercorrelations and discriminant validity criterion.",
-    "cot_reasoning": "Table 2 is an 8x8 correlation matrix. The diagonal values (0.821, 0.747, 0.708, 0.717, 0.728, 0.774, 0.753, 0.726) represent the square roots of the Average Variance Extracted (AVEs) for discriminant validity evaluation per Fornell & Larcker (1981). The lower diagonal contains the zero-order bivariate correlations (Pearson r). The upper diagonal is empty. No demographic variables are included in the matrix. Means and standard deviations are not reported in Table 2 or anywhere in the text, so they are coded as 999 following the Zero Guesswork Policy.",
-    "is_transformed": false,
+    "table_page_number": 651,
+    "listwise_n": 250,
+    "is_latent": true,
+    "latent_evidence_quote": "[Table 2 Note, p. 651] \"Figures on the diagonal represent the AVEs square roots.\"",
+    "table_footnote_quote": null,
     "variables": [
       {
-        "table_anchor_name": "1. Vision",
-        "mean": 999,
-        "sd": 999
-      },
-      {
-        "table_anchor_name": "2. Hope/Faith",
-        "mean": 999,
-        "sd": 999
-      },
-      {
-        "table_anchor_name": "3. Altruistic love",
-        "mean": 999,
-        "sd": 999
-      },
-      {
-        "table_anchor_name": "4. Calling",
-        "mean": 999,
-        "sd": 999
-      },
-      {
-        "table_anchor_name": "5. Member",
-        "mean": 999,
-        "sd": 999
-      },
-      {
         "table_anchor_name": "6. External Representation",
+        "classification_type": "BS",
         "mean": 999,
-        "sd": 999
+        "sd": 999,
+        "reliability_table": 0.85
       },
       {
         "table_anchor_name": "7. Internalized Influence",
+        "classification_type": "BS",
         "mean": 999,
-        "sd": 999
+        "sd": 999,
+        "reliability_table": 0.8
       },
       {
         "table_anchor_name": "8. Service Delivery",
+        "classification_type": "BS",
         "mean": 999,
-        "sd": 999
+        "sd": 999,
+        "reliability_table": 0.85
+      },
+      {
+        "table_anchor_name": "1. Vision",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.91
+      },
+      {
+        "table_anchor_name": "2. Hope/Faith",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.86
+      },
+      {
+        "table_anchor_name": "3. Altruistic love",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.78
+      },
+      {
+        "table_anchor_name": "4. Calling",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.81
+      },
+      {
+        "table_anchor_name": "5. Member",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.85
       }
     ],
     "correlations": [
       {
-        "var1_anchor": "2. Hope/Faith",
-        "var2_anchor": "1. Vision",
-        "r": 0.57,
-        "cell_proof": {
-          "row_header_quote": "2. Hope/Faith",
-          "col_header_quote": "1",
-          "raw_cell_value": ".570**"
-        }
-      },
-      {
-        "var1_anchor": "3. Altruistic love",
-        "var2_anchor": "1. Vision",
-        "r": 0.522,
-        "cell_proof": {
-          "row_header_quote": "3. Altruistic love",
-          "col_header_quote": "1",
-          "raw_cell_value": ".522**"
-        }
-      },
-      {
-        "var1_anchor": "3. Altruistic love",
-        "var2_anchor": "2. Hope/Faith",
-        "r": 0.564,
-        "cell_proof": {
-          "row_header_quote": "3. Altruistic love",
-          "col_header_quote": "2",
-          "raw_cell_value": ".564**"
-        }
-      },
-      {
-        "var1_anchor": "4. Calling",
-        "var2_anchor": "1. Vision",
-        "r": 0.382,
-        "cell_proof": {
-          "row_header_quote": "4. Calling",
-          "col_header_quote": "1",
-          "raw_cell_value": ".382**"
-        }
-      },
-      {
-        "var1_anchor": "4. Calling",
-        "var2_anchor": "2. Hope/Faith",
-        "r": 0.485,
-        "cell_proof": {
-          "row_header_quote": "4. Calling",
-          "col_header_quote": "2",
-          "raw_cell_value": ".485**"
-        }
-      },
-      {
-        "var1_anchor": "4. Calling",
-        "var2_anchor": "3. Altruistic love",
-        "r": 0.536,
-        "cell_proof": {
-          "row_header_quote": "4. Calling",
-          "col_header_quote": "3",
-          "raw_cell_value": ".536**"
-        }
-      },
-      {
-        "var1_anchor": "5. Member",
-        "var2_anchor": "1. Vision",
-        "r": 0.415,
-        "cell_proof": {
-          "row_header_quote": "5. Member",
-          "col_header_quote": "1",
-          "raw_cell_value": ".415**"
-        }
-      },
-      {
-        "var1_anchor": "5. Member",
-        "var2_anchor": "2. Hope/Faith",
-        "r": 0.441,
-        "cell_proof": {
-          "row_header_quote": "5. Member",
-          "col_header_quote": "2",
-          "raw_cell_value": ".441**"
-        }
-      },
-      {
-        "var1_anchor": "5. Member",
-        "var2_anchor": "3. Altruistic love",
-        "r": 0.47,
-        "cell_proof": {
-          "row_header_quote": "5. Member",
-          "col_header_quote": "3",
-          "raw_cell_value": ".470**"
-        }
-      },
-      {
-        "var1_anchor": "5. Member",
-        "var2_anchor": "4. Calling",
-        "r": 0.572,
-        "cell_proof": {
-          "row_header_quote": "5. Member",
-          "col_header_quote": "4",
-          "raw_cell_value": ".572**"
-        }
-      },
-      {
-        "var1_anchor": "6. External Representation",
-        "var2_anchor": "1. Vision",
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Vision",
         "r": 0.314,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "6. External Representation",
           "col_header_quote": "1",
           "raw_cell_value": ".314**"
         }
       },
       {
-        "var1_anchor": "6. External Representation",
-        "var2_anchor": "2. Hope/Faith",
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Hope/Faith",
         "r": 0.318,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "6. External Representation",
           "col_header_quote": "2",
           "raw_cell_value": ".318**"
         }
       },
       {
-        "var1_anchor": "6. External Representation",
-        "var2_anchor": "3. Altruistic love",
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Altruistic love",
         "r": 0.36,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "6. External Representation",
           "col_header_quote": "3",
           "raw_cell_value": ".360**"
         }
       },
       {
-        "var1_anchor": "6. External Representation",
-        "var2_anchor": "4. Calling",
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Calling",
         "r": 0.526,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "6. External Representation",
           "col_header_quote": "4",
           "raw_cell_value": ".526**"
         }
       },
       {
-        "var1_anchor": "6. External Representation",
-        "var2_anchor": "5. Member",
+        "var1_anchor": "External Representation",
+        "var2_anchor": "Member",
         "r": 0.535,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "6. External Representation",
           "col_header_quote": "5",
           "raw_cell_value": ".535**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "1. Vision",
+        "var1_anchor": "Internalized Influence",
+        "var2_anchor": "Vision",
         "r": 0.254,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "7. Internalized Influence",
           "col_header_quote": "1",
           "raw_cell_value": ".254**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "2. Hope/Faith",
+        "var1_anchor": "Internalized Influence",
+        "var2_anchor": "Hope/Faith",
         "r": 0.289,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "7. Internalized Influence",
           "col_header_quote": "2",
           "raw_cell_value": ".289**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "3. Altruistic love",
+        "var1_anchor": "Internalized Influence",
+        "var2_anchor": "Altruistic love",
         "r": 0.313,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "7. Internalized Influence",
           "col_header_quote": "3",
           "raw_cell_value": ".313**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "4. Calling",
+        "var1_anchor": "Internalized Influence",
+        "var2_anchor": "Calling",
         "r": 0.505,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "7. Internalized Influence",
           "col_header_quote": "4",
           "raw_cell_value": ".505**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "5. Member",
+        "var1_anchor": "Internalized Influence",
+        "var2_anchor": "Member",
         "r": 0.505,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "7. Internalized Influence",
           "col_header_quote": "5",
           "raw_cell_value": ".505**"
         }
       },
       {
-        "var1_anchor": "7. Internalized Influence",
-        "var2_anchor": "6. External Representation",
-        "r": 0.552,
-        "cell_proof": {
-          "row_header_quote": "7. Internalized Influence",
-          "col_header_quote": "6",
-          "raw_cell_value": ".552**"
-        }
-      },
-      {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "1. Vision",
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Vision",
         "r": 0.28,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "8. Service Delivery",
           "col_header_quote": "1",
           "raw_cell_value": ".280**"
         }
       },
       {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "2. Hope/Faith",
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Hope/Faith",
         "r": 0.392,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "8. Service Delivery",
           "col_header_quote": "2",
           "raw_cell_value": ".392**"
         }
       },
       {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "3. Altruistic love",
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Altruistic love",
         "r": 0.371,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "8. Service Delivery",
           "col_header_quote": "3",
           "raw_cell_value": ".371**"
         }
       },
       {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "4. Calling",
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Calling",
         "r": 0.479,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "8. Service Delivery",
           "col_header_quote": "4",
           "raw_cell_value": ".479**"
         }
       },
       {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "5. Member",
+        "var1_anchor": "Service Delivery",
+        "var2_anchor": "Member",
         "r": 0.491,
         "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 651,
           "row_header_quote": "8. Service Delivery",
           "col_header_quote": "5",
           "raw_cell_value": ".491**"
         }
-      },
-      {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "6. External Representation",
-        "r": 0.516,
-        "cell_proof": {
-          "row_header_quote": "8. Service Delivery",
-          "col_header_quote": "6",
-          "raw_cell_value": ".516**"
-        }
-      },
-      {
-        "var1_anchor": "8. Service Delivery",
-        "var2_anchor": "7. Internalized Influence",
-        "r": 0.514,
-        "cell_proof": {
-          "row_header_quote": "8. Service Delivery",
-          "col_header_quote": "7",
-          "raw_cell_value": ".514**"
-        }
       }
     ]
   },
-  "text_measures": [
+  "boundary_spanning_measures": [
     {
       "table_anchor_name": "6. External Representation",
       "classification_type": "BS",
-      "target_analysis": "External representation explicitly targets outsiders and external stakeholders through vocal promotion and advocacy of the organization's image, services, and products.",
-      "items": 4,
-      "items_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.",
-      "min": 999,
-      "max": 999,
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Cronbach's alpha = 0.85 (CR = 0.86) from Table 1 (p. 650).",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.85
       },
-      "composite_reliability": 0.86,
-      "specific_measure": "external representation",
-      "source_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "7. Internalized Influence",
       "classification_type": "BS",
-      "target_analysis": "Internalized influence involves frontline employees communicating customer needs and improvements across internal peers and organizational leadership as part of customer-oriented boundary-spanning behavior (intra-organizational boundary spanning).",
-      "items": 4,
-      "items_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.",
-      "min": 999,
-      "max": 999,
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "4 items administered in Bettencourt et al. (2005); 1 item (inter_4) dropped during CFA leaving 3 retained items in Table 1 (p. 650), Cronbach's alpha = 0.80 (CR = 0.80).",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.8
       },
-      "composite_reliability": 0.8,
-      "specific_measure": "internal influence",
-      "source_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "8. Service Delivery",
       "classification_type": "BS",
-      "target_analysis": "Service delivery reflects role-prescribed frontline boundary-spanning performance delivering services directly to external customers.",
-      "items": 5,
-      "items_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.",
-      "min": 999,
-      "max": 999,
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Cronbach's alpha = 0.85 (CR = 0.85) from Table 1 (p. 650).",
+      "specific_measure_used": "Bettencourt et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.85
       },
-      "composite_reliability": 0.85,
-      "specific_measure": "service delivery",
-      "source_quote": "Staffs’ COBSBs were assessed with the scale developed by Bettencourt et al. (2005) that measures service delivery with 5 items, internal influence and external representation with both 4 items."
-    },
+      "mean": 999,
+      "sd": 999
+    }
+  ],
+  "non_bs_measures": [
     {
       "table_anchor_name": "1. Vision",
       "classification_type": "NB",
-      "target_analysis": "Subdimension of spiritual leadership reflecting leader's vision; internal leadership perception, not boundary spanning.",
-      "items": 5,
-      "items_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).",
-      "min": 1,
-      "max": 5,
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Cronbach's alpha = 0.91 (CR = 0.91) from Table 1 (p. 650).",
+      "specific_measure_used": "Fry et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.91
       },
-      "composite_reliability": 0.91,
-      "specific_measure": "spiritual leadership scale was adopted from Fry et al. (2005)",
-      "source_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree)."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "2. Hope/Faith",
       "classification_type": "NB",
-      "target_analysis": "Subdimension of spiritual leadership reflecting hope and faith; internal leadership perception, not boundary spanning.",
-      "items": 5,
-      "items_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).",
-      "min": 1,
-      "max": 5,
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Cronbach's alpha = 0.86 (CR = 0.86) from Table 1 (p. 650).",
+      "specific_measure_used": "Fry et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.86
       },
-      "composite_reliability": 0.86,
-      "specific_measure": "spiritual leadership scale was adopted from Fry et al. (2005)",
-      "source_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree)."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "3. Altruistic love",
       "classification_type": "NB",
-      "target_analysis": "Subdimension of spiritual leadership reflecting altruistic love; internal leadership perception, not boundary spanning.",
-      "items": 7,
-      "items_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).",
-      "min": 1,
-      "max": 5,
+      "number_of_items": 7,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "7 items administered in Fry et al. (2005); 3 items (altrust2, altrust3, altrust7) dropped during CFA leaving 4 retained items in Table 1 (p. 650), Cronbach's alpha = 0.78 (CR = 0.78).",
+      "specific_measure_used": "Fry et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.78
       },
-      "composite_reliability": 0.78,
-      "specific_measure": "spiritual leadership scale was adopted from Fry et al. (2005)",
-      "source_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree)."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "4. Calling",
       "classification_type": "NB",
-      "target_analysis": "Spiritual survival/well-being dimension measuring employee internal sense of calling; internal psychological state, not boundary spanning.",
-      "items": 4,
-      "items_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).",
-      "min": 1,
-      "max": 5,
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Sense of calling subscale; Cronbach's alpha = 0.81 (CR = 0.81) from Table 1 (p. 650).",
+      "specific_measure_used": "Fry et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.81
       },
-      "composite_reliability": 0.81,
-      "specific_measure": "spiritual leadership scale was adopted from Fry et al. (2005)",
-      "source_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree)."
+      "mean": 999,
+      "sd": 999
     },
     {
       "table_anchor_name": "5. Member",
       "classification_type": "NB",
-      "target_analysis": "Spiritual survival/well-being dimension measuring employee internal sense of membership and belonging; internal psychological state, not boundary spanning.",
-      "items": 5,
-      "items_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).",
-      "min": 1,
-      "max": 5,
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Sense of membership subscale; Cronbach's alpha = 0.85 (CR = 0.85) from Table 1 (p. 650).",
+      "specific_measure_used": "Fry et al. (2005)",
+      "source_quote": "[Measures, p. 648] \"The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree).\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.85
       },
-      "composite_reliability": 0.85,
-      "specific_measure": "spiritual leadership scale was adopted from Fry et al. (2005)",
-      "source_quote": "The spiritual leadership scale was adopted from Fry et al. (2005) and includes 26 items nested into five subscales and assessed using 5-point Likert-type anchors (strongly disagree to strongly agree)."
+      "mean": 999,
+      "sd": 999
     }
   ]
 }

@@ -39,7 +39,8 @@ def normalize_anchor(s: str) -> str:
     if not s:
         return ""
     s_clean = re.sub(r'^\s*(?:\(\d+\)|\d+[\.\)])\s*', '', str(s).strip().lower())
-    s_clean = s_clean.replace(".", "").replace("(", "").replace(")", "").replace(" ", "").replace("_", "").replace("-", "")
+    for ch in (".", "(", ")", " ", "_", "-", "\u2010", "\u2011", "\u2013", "\u2014"):
+        s_clean = s_clean.replace(ch, "")
     return s_clean
 
 
@@ -166,6 +167,7 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
 
     json_vars: Dict[str, Dict[str, Any]] = {}
     json_corrs: List[Tuple[str, str, float]] = []
+    json_corr_ns: List[Tuple[str, str, float]] = []
     expected_ns: List[float] = []
     expected_ages: List[float] = []
     expected_females: List[float] = []
@@ -219,6 +221,11 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
                     r_num = parse_metric(c.get("r"))
                     if v1 and v2 and r_num is not None:
                         json_corrs.append((v1, v2, r_num))
+                    pair_n = parse_metric(
+                        c.get("pairwise_n") if c.get("pairwise_n") is not None else c.get("sample_size_n")
+                    )
+                    if v1 and v2 and pair_n is not None:
+                        json_corr_ns.append((v1, v2, pair_n))
 
         sample_blocks = [
             st_payload.get("study_sample") or {},
@@ -255,9 +262,15 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
         if ten_val is not None:
             expected_tenures.append(ten_val)
 
+    # Check whether every row in paper_rows is governed by a correlation-level pairwise_n
+    all_rows_have_pairwise_n = bool(json_corr_ns) and all(
+        bool(find_corr_entries(str(ws.cell(r, 41).value or ""), str(ws.cell(r, 45).value or ""), json_corr_ns))
+        for r in paper_rows
+    )
+
     # 3. Verify Sample Size N (Col 22) and Demographics (Cols 23, 24, 25) across paper_rows
     for label, col_idx, exp_list in [
-        ("Sample Size N (Col 22)", 22, expected_ns),
+        ("Sample Size N (Col 22)", 22, [] if all_rows_have_pairwise_n else expected_ns),
         ("Demographics Mean Age (Col 23)", 23, expected_ages),
         ("Demographics % Female (Col 24)", 24, expected_females),
         ("Demographics Org Tenure (Col 25)", 25, expected_tenures),
@@ -327,11 +340,14 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
                 ]:
                     check_cell_parity(r, f"Non-BS '{nb_name}'", field_lbl, col_i, cands)
 
-        # Check Correlation r (Col 49)
+        # Check Correlation r (Col 49) and optional Pairwise Sample Size N (Col 22)
         if bs_name and nb_name:
             exp_rs = find_corr_entries(str(bs_name), str(nb_name), json_corrs)
             if exp_rs:
                 check_cell_parity(r, f"Pair ('{bs_name}' x '{nb_name}')", "Correlation r (Col 49)", 49, exp_rs)
+            exp_pair_ns = find_corr_entries(str(bs_name), str(nb_name), json_corr_ns)
+            if exp_pair_ns:
+                check_cell_parity(r, f"Pair ('{bs_name}' x '{nb_name}')", "Pairwise Sample Size N (Col 22)", 22, exp_pair_ns)
 
     wb.close()
 

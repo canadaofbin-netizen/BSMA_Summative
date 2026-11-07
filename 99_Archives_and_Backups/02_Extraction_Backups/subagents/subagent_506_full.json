@@ -1,0 +1,420 @@
+{
+  "paper_id": 506,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "New Zealand",
+    "country_specify": "New Zealand (NZ Telecom)",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 69,
+    "listwise_n": 69,
+    "mean_age": 999,
+    "pct_female": 0,
+    "org_tenure": 999,
+    "occupation_type": "Industrial product managers"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 176,
+    "listwise_n": 69,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary spanning",
+        "classification_type": "BS",
+        "mean": 67.9,
+        "sd": 47.2,
+        "reliability_table": 0.69
+      },
+      {
+        "table_anchor_name": "Uncertainty (perceived)",
+        "classification_type": "NB",
+        "mean": 74,
+        "sd": 13.8,
+        "reliability_table": 0.84
+      },
+      {
+        "table_anchor_name": "Person role conflict",
+        "classification_type": "NB",
+        "mean": 7.6,
+        "sd": 2.4,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Intersender conflict",
+        "classification_type": "NB",
+        "mean": 14.4,
+        "sd": 3.7,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Intrasender conflict",
+        "classification_type": "NB",
+        "mean": 8.1,
+        "sd": 2.4,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Role overload conflict",
+        "classification_type": "NB",
+        "mean": 7.5,
+        "sd": 2.7,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Role ambiguity",
+        "classification_type": "NB",
+        "mean": 21,
+        "sd": 5.4,
+        "reliability_table": 0.95
+      },
+      {
+        "table_anchor_name": "Job satisfaction",
+        "classification_type": "NB",
+        "mean": 19.1,
+        "sd": 4.8,
+        "reliability_table": 0.73
+      },
+      {
+        "table_anchor_name": "Job-related tension",
+        "classification_type": "NB",
+        "mean": 33.7,
+        "sd": 8.6,
+        "reliability_table": 0.96
+      },
+      {
+        "table_anchor_name": "Performance (overall)",
+        "classification_type": "NB",
+        "mean": 4.9,
+        "sd": 6,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Performance (coordinating)",
+        "classification_type": "NB",
+        "mean": 2,
+        "sd": 1.8,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Uncertainty (perceived)",
+        "r": -0.145,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Boundary spanning X2",
+          "col_header_quote": "X1",
+          "raw_cell_value": "-.145"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Person role conflict",
+        "r": -0.072,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Person role conflict X3",
+          "col_header_quote": "X2",
+          "raw_cell_value": "-.072"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Intersender conflict",
+        "r": -0.111,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Intersender conflict X4",
+          "col_header_quote": "X2",
+          "raw_cell_value": "-.111"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Intrasender conflict",
+        "r": -0.068,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Intrasender conflict X5",
+          "col_header_quote": "X2",
+          "raw_cell_value": "-.068"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Role overload conflict",
+        "r": 0.112,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Role overload conflict X6",
+          "col_header_quote": "X2",
+          "raw_cell_value": ".112"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Role ambiguity",
+        "r": -0.295,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Role ambiguity X7",
+          "col_header_quote": "X2",
+          "raw_cell_value": "-.295"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Job satisfaction",
+        "r": 0.283,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Job satisfaction X8",
+          "col_header_quote": "X2",
+          "raw_cell_value": ".283"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Job-related tension",
+        "r": -0.034,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Job-related tension X9",
+          "col_header_quote": "X2",
+          "raw_cell_value": "-.034"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Performance (overall)",
+        "r": 0.058,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Performance (overall) X10a",
+          "col_header_quote": "X2",
+          "raw_cell_value": ".058"
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning",
+        "var2_anchor": "Performance (coordinating)",
+        "r": 0.302,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 176,
+          "row_header_quote": "Performance (coordinating) X10b",
+          "col_header_quote": "X2",
+          "raw_cell_value": ".302"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary spanning",
+      "classification_type": "BS",
+      "number_of_items": 11,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Continuous frequency scales aggregated into a global composite measure (Table 1 p. 175: 11 items, alpha = 0.69). Note: Sample text reports median age = 37 and median job tenure = 15 years (coded 999 in Cols 23 & 25 per Rule 1).",
+      "specific_measure_used": "Aiken and Hage [2] and used successfully by Leifer [48] and Lysonski [50]",
+      "source_quote": "Boundary spanning, defined as the frequency of verbal, written, formal and informal communication beyond the product manager’s department, was measured using a modified instrument designed by Aiken and Hage [2] and used successfully by Leifer [48] and Lysonski [50]. Respondents in this study reported the frequencies of various boundary activities excluding strictly social contact on continuous scales; these were aggregated to develop a global measure.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.69
+      },
+      "mean": 67.9,
+      "sd": 47.2,
+      "composite_quote": "[Methodology, p. 174] \"Respondents in this study reported the frequencies of various boundary activities excluding strictly social contact on continuous scales; these were aggregated to develop a global measure.\""
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Uncertainty (perceived)",
+      "classification_type": "NB",
+      "number_of_items": 15,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Duncan [23]",
+      "source_quote": "The instrument, using 15 interval scaled items, was adapted from a scale developed by Duncan [23], who identified the main dimensions of uncertainty in decision making.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.84
+      },
+      "mean": 74,
+      "sd": 13.8
+    },
+    {
+      "table_anchor_name": "Person role conflict",
+      "classification_type": "NB",
+      "number_of_items": 2,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 1 (p. 175) reports global 10-item Role conflict alpha = .97; 2-item sub-scale alpha is not separately reported (999 per Extraction Rule 6).",
+      "specific_measure_used": "Rizzo et al. [67]",
+      "source_quote": "Role conflict is defined as the degree of incompatibility or incongruity of expectations associated with a role. Ten Likert scaled items were used to measure role conflict along various dimensions. The specific types of role conflict measured were: person role: incompatibility between the product manager’s expectations and the expectations otherwise associated with his role; intrasender: incompatible expectations from another person; intersender: expectations of one person incompatible with those of another person; and role overload: a product manager’s responsibilities exceed the time and resources available for accomplishment. Both of these scales were developed and validated by Rizzo et al. [67] while others [69] have reported the psychometric soundness of the scales.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 7.6,
+      "sd": 2.4
+    },
+    {
+      "table_anchor_name": "Intersender conflict",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 1 (p. 175) reports global 10-item Role conflict alpha = .97; 4-item sub-scale alpha is not separately reported (999 per Extraction Rule 6).",
+      "specific_measure_used": "Rizzo et al. [67]",
+      "source_quote": "Role conflict is defined as the degree of incompatibility or incongruity of expectations associated with a role. Ten Likert scaled items were used to measure role conflict along various dimensions. The specific types of role conflict measured were: person role: incompatibility between the product manager’s expectations and the expectations otherwise associated with his role; intrasender: incompatible expectations from another person; intersender: expectations of one person incompatible with those of another person; and role overload: a product manager’s responsibilities exceed the time and resources available for accomplishment. Both of these scales were developed and validated by Rizzo et al. [67] while others [69] have reported the psychometric soundness of the scales.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 14.4,
+      "sd": 3.7
+    },
+    {
+      "table_anchor_name": "Intrasender conflict",
+      "classification_type": "NB",
+      "number_of_items": 2,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 1 (p. 175) reports global 10-item Role conflict alpha = .97; 2-item sub-scale alpha is not separately reported (999 per Extraction Rule 6).",
+      "specific_measure_used": "Rizzo et al. [67]",
+      "source_quote": "Role conflict is defined as the degree of incompatibility or incongruity of expectations associated with a role. Ten Likert scaled items were used to measure role conflict along various dimensions. The specific types of role conflict measured were: person role: incompatibility between the product manager’s expectations and the expectations otherwise associated with his role; intrasender: incompatible expectations from another person; intersender: expectations of one person incompatible with those of another person; and role overload: a product manager’s responsibilities exceed the time and resources available for accomplishment. Both of these scales were developed and validated by Rizzo et al. [67] while others [69] have reported the psychometric soundness of the scales.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 8.1,
+      "sd": 2.4
+    },
+    {
+      "table_anchor_name": "Role overload conflict",
+      "classification_type": "NB",
+      "number_of_items": 2,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 1 (p. 175) reports global 10-item Role conflict alpha = .97; 2-item sub-scale alpha is not separately reported (999 per Extraction Rule 6).",
+      "specific_measure_used": "Rizzo et al. [67]",
+      "source_quote": "Role conflict is defined as the degree of incompatibility or incongruity of expectations associated with a role. Ten Likert scaled items were used to measure role conflict along various dimensions. The specific types of role conflict measured were: person role: incompatibility between the product manager’s expectations and the expectations otherwise associated with his role; intrasender: incompatible expectations from another person; intersender: expectations of one person incompatible with those of another person; and role overload: a product manager’s responsibilities exceed the time and resources available for accomplishment. Both of these scales were developed and validated by Rizzo et al. [67] while others [69] have reported the psychometric soundness of the scales.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 7.5,
+      "sd": 2.7
+    },
+    {
+      "table_anchor_name": "Role ambiguity",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Rizzo et al. [67]",
+      "source_quote": "Role ambiguity, defined as a lack of clarity in terms of how one will be evaluated and what is expected, was measured with six-item Likert scale items. Both of these scales were developed and validated by Rizzo et al. [67] while others [69] have reported the psychometric soundness of the scales.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.95
+      },
+      "mean": 21,
+      "sd": 5.4
+    },
+    {
+      "table_anchor_name": "Job satisfaction",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Ref [7] = Beehr et al. (1976); Ref [66] = Quinn & Shepard (1974).",
+      "specific_measure_used": "several other studies [e.g., 7, 66]",
+      "source_quote": "Job satisfaction was measured with five Likert type items. The questions assessed the product manager’s evaluations about promotion opportunities, chances to demonstrate individual ability and initiative, satisfaction with the position compared to other positions, whether the product manager would recommend the position to others and overall job satisfaction. A scale of this type was used successfully in several other studies [e.g., 7, 66].",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.73
+      },
+      "mean": 19.1,
+      "sd": 4.8
+    },
+    {
+      "table_anchor_name": "Job-related tension",
+      "classification_type": "NB",
+      "number_of_items": 11,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Manifest Anxiety Scale developed by Taylor [72] and dimensions from a study by House and Rizzo [31]",
+      "source_quote": "Job-related tension was measured by 11 items employing Likert scales which incorporated measures of work-related worry, relief when leaving work, items from the Manifest Anxiety Scale developed by Taylor [72] and dimensions from a study by House and Rizzo [31]. Job tension is the extent to which an individual is psychologically bothered by work-related matters.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.96
+      },
+      "mean": 33.7,
+      "sd": 8.6
+    },
+    {
+      "table_anchor_name": "Performance (overall)",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 10,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Busch and Bush [15]",
+      "source_quote": "Two aspects of performance were measured using two self-rating items. The first item measured overall performance in terms of managing the assigned product line while the second item asked for the product manager’s rating in terms of his interpersonal relations in gaining the cooperation of others who can assist in implementing product plans. A ten-point scale was used with endpoints of “just satisfactory” and “clear excellence.” A review of the literature on self-rated measures of performance by Busch and Bush [15] found strong support for their use. Michaels et al. [52] used this approach in the industrial setting for industrial buyers while Behrman and Perreault [8] used it for industrial salespeople.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 4.9,
+      "sd": 6
+    },
+    {
+      "table_anchor_name": "Performance (coordinating)",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 10,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Busch and Bush [15]",
+      "source_quote": "Two aspects of performance were measured using two self-rating items. The first item measured overall performance in terms of managing the assigned product line while the second item asked for the product manager’s rating in terms of his interpersonal relations in gaining the cooperation of others who can assist in implementing product plans. A ten-point scale was used with endpoints of “just satisfactory” and “clear excellence.” A review of the literature on self-rated measures of performance by Busch and Bush [15] found strong support for their use. Michaels et al. [52] used this approach in the industrial setting for industrial buyers while Behrman and Perreault [8] used it for industrial salespeople.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2,
+      "sd": 1.8
+    }
+  ]
+}

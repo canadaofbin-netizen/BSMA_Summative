@@ -1,0 +1,12 @@
+{
+  "paper_id": 407,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "1 = No effect size of interest",
+  "node_0_screening": {
+    "paper_id": 407,
+    "verdict": "0 = exclude",
+    "exclusion_code": "1 = No effect size of interest",
+    "rationale": "Qualitative / conceptual or non-correlational study with no individual-level boundary-spanning effect size of interest."
+  }
+}

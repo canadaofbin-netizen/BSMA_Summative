@@ -1,6 +1,323 @@
 {
-  "verdict": "0 = exclude",
-  "exclusion_code": "1 = No effect size of interest",
-  "reasoning": "The study fails Node 0 Pre-Extraction Screening Gate due to Construct Homonymy (Screening Rule 4) and the Zero-BSB Circuit Breaker. Although the title refers to a 'Boundary-Spanning Part of One's Organization' (referring contextually to bank branches), the paper does not measure interpersonal Boundary Spanning Behavior (BSB). First, 'Branch manager identification' measures cognitive/attitudinal social identification (self-categorization and perceived overlap between individual self-identity and branch identity), which is an attitude rather than a behavior. Second, 'CS-related meetings' assesses the frequency of internal, within-branch communication with colleagues and supervisors ('discuss CS related topics or issues with your colleagues in the branch' and 'with your Bank Manager'), representing purely intra-unit internal meetings rather than cross-boundary spanning. No other substantive variable in the study operationalizes BSB (count(BS) == 0). Therefore, the study contains no effect size of interest.",
-  "verbatim_evidence": "Branch manager identification (t1). Two items were used to measure identification with the branch (Bergami and Bagozzi, 2000). The first one consisted of an eight-point visual and verbal representation of the perceived overlap between the individual’s self-identity and the identity of the branch, while the second item instructed participants to ‘indicate the degree to which your self-image overlaps with the identity of the branch as you perceive it’ and used a five-point scale. The correlation between the items was 0.69 (p < 0.01). CS-related meetings (t1). Two items were used to assess CS-related meetings between managers and colleagues. One item asked, ‘How many times during the last month did you discuss CS-related topics or issues with your Bank Manager?’ (i.e., the supervisor). The second one asked: ‘How many times during the last month did you discuss CS related topics or issues with your colleagues in the branch?’ Both items were followed by a six-point scale going from ‘never,’ to ‘one or two times,’ to ‘three or four times,’ to ‘one or two times per week,’ to ‘three or four times per week.’ The correlation between items was r = 0.89 (p < 0.01)."
+  "paper_id": 53,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": "Two-wave survey with customer satisfaction (t2) reported six months after t1 survey",
+    "country": "Europe",
+    "country_specify": "European banking and financial services company (Parsimonia, operating across 17 Western and Eastern European countries)",
+    "international_context": "1 = Cross-national",
+    "sample_size_n": 1461,
+    "listwise_n": 1461,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "Bank managers"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 99,
+    "listwise_n": 1461,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "1. Branch identification",
+        "classification_type": "BS",
+        "mean": 5.21,
+        "sd": 0.92,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "4. CS-related meetings",
+        "classification_type": "BS",
+        "mean": 2.35,
+        "sd": 0.94,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "2. Locus of control",
+        "classification_type": "NB",
+        "mean": 3.89,
+        "sd": 0.69,
+        "reliability_table": 0.72
+      },
+      {
+        "table_anchor_name": "3. Performance control",
+        "classification_type": "NB",
+        "mean": 5.2,
+        "sd": 0.76,
+        "reliability_table": 0.75
+      },
+      {
+        "table_anchor_name": "5. CS",
+        "classification_type": "NB",
+        "mean": 3.14,
+        "sd": 0.92,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "6. Age",
+        "classification_type": "NB",
+        "mean": 2.83,
+        "sd": 0.74,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "7. Type of branch",
+        "classification_type": "NB",
+        "mean": 1.11,
+        "sd": 0.32,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Branch identification",
+        "var2_anchor": "Locus of control",
+        "r": -0.01,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "2. Locus of control",
+          "col_header_quote": "1",
+          "raw_cell_value": "−0.01"
+        }
+      },
+      {
+        "var1_anchor": "Branch identification",
+        "var2_anchor": "Performance control",
+        "r": 0.26,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "3. Performance control",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.26**"
+        }
+      },
+      {
+        "var1_anchor": "Branch identification",
+        "var2_anchor": "CS",
+        "r": 0.06,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "5. CS",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.06*"
+        }
+      },
+      {
+        "var1_anchor": "Branch identification",
+        "var2_anchor": "Age",
+        "r": 0.03,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "6. Age",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.03"
+        }
+      },
+      {
+        "var1_anchor": "Branch identification",
+        "var2_anchor": "Type of branch",
+        "r": 0.08,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "7. Type of branch",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.08**"
+        }
+      },
+      {
+        "var1_anchor": "CS-related meetings",
+        "var2_anchor": "Locus of control",
+        "r": -0.02,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "4. CS-related meetings",
+          "col_header_quote": "2",
+          "raw_cell_value": "−0.02"
+        }
+      },
+      {
+        "var1_anchor": "CS-related meetings",
+        "var2_anchor": "Performance control",
+        "r": 0.1,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "4. CS-related meetings",
+          "col_header_quote": "3",
+          "raw_cell_value": "0.10**"
+        }
+      },
+      {
+        "var1_anchor": "CS-related meetings",
+        "var2_anchor": "CS",
+        "r": 0.02,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "5. CS",
+          "col_header_quote": "4",
+          "raw_cell_value": "0.02"
+        }
+      },
+      {
+        "var1_anchor": "CS-related meetings",
+        "var2_anchor": "Age",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "6. Age",
+          "col_header_quote": "4",
+          "raw_cell_value": "−0.03"
+        }
+      },
+      {
+        "var1_anchor": "CS-related meetings",
+        "var2_anchor": "Type of branch",
+        "r": 0,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 99,
+          "row_header_quote": "7. Type of branch",
+          "col_header_quote": "4",
+          "raw_cell_value": "−0.00"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "1. Branch identification",
+      "classification_type": "BS",
+      "number_of_items": 2,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "2-item scale combining an 8-point item and a 5-point item (min/max coded 999); paper reports 2-item bivariate correlation r = 0.69 (p < 0.01) on p. 98 rather than Cronbach's alpha (coded 999 in Col 44).",
+      "specific_measure_used": "identification with the branch (Bergami and Bagozzi, 2000)",
+      "source_quote": "[Measures, pp. 97-98] \"Two items were used to measure identification with the branch (Bergami and Bagozzi, 2000). The first one consisted of an eight-point visual and verbal representation of the perceived overlap between the individual’s self-identity and the identity of the branch, while the second item instructed participants to ‘indicate the degree to which your self-image overlaps with the identity of the branch as you perceive it’ and used a five-point scale. The correlation between the items was 0.69 (p < 0.01).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 5.21,
+      "sd": 0.92
+    },
+    {
+      "table_anchor_name": "4. CS-related meetings",
+      "classification_type": "BS",
+      "number_of_items": 2,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "2-item scale; paper reports 2-item bivariate correlation r = 0.89 (p < 0.01) on p. 98 rather than Cronbach's alpha (coded 999 in Col 44).",
+      "specific_measure_used": "CS-related meetings between managers and colleagues",
+      "source_quote": "[Measures, p. 98] \"Two items were used to assess CS-related meetings between managers and colleagues. One item asked, ‘How many times during the last month did you discuss CS-related topics or issues with your Bank Manager?’ (i.e., the supervisor). The second one asked: ‘How many times during the last month did you discuss CS related topics or issues with your colleagues in the branch?’ Both items were followed by a six-point scale going from ‘never,’ to ‘one or two times,’ to ‘three or four times,’ to ‘one or two times per week,’ to ‘three or four times per week.’ The correlation between items was r = 0.89 (p < 0.01).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.35,
+      "sd": 0.94
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "2. Locus of control",
+      "classification_type": "NB",
+      "number_of_items": 13,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "16-item Hodgkinson (1992) scale administered; 3 items removed during EFA leaving 13 retained items (Cronbach's alpha = 0.72).",
+      "specific_measure_used": "locus of control scale developed by Hodgkinson (1992)",
+      "source_quote": "[Measures, p. 98] \"We used the 16-item locus of control scale developed by Hodgkinson (1992). All the items were followed by a seven-point scale, going from ‘completely disagree’ to ‘completely agree.’ We removed three items as they revealed low reliability during the exploratory factor analysis. Cronbach’s alpha of locus of control measures was equal to 0.72.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.72
+      },
+      "mean": 3.89,
+      "sd": 0.69
+    },
+    {
+      "table_anchor_name": "3. Performance control",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "performance control related to CS (Ajzen, 1991; Sparks et al., 1997)",
+      "source_quote": "[Measures, p. 98] \"Three items were used to measure performance control related to CS (Ajzen, 1991; Sparks et al., 1997). The first was ‘How much control do you have over CS?’ and was recorded with a seven-point scale going from ‘no control” to “total control.” Cronbach’s alpha of the measures was equal to 0.75.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.75
+      },
+      "mean": 5.2,
+      "sd": 0.76
+    },
+    {
+      "table_anchor_name": "5. CS",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 0,
+      "max_score": 100,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Managers reported their branch's external TRI*M customer satisfaction index (0-100 scale) across four ordinal brackets (<50, 51-60, 61-70, >70) at t2.",
+      "specific_measure_used": "TRI*M index",
+      "source_quote": "[Measures, p. 98] \"Six months after the first survey, bank managers were invited to report the CS evaluations they received from their customers. Parsimonia used the TRI*M index, which is composed of four items aimed to measure overall CS, quality of the service, referrals, and competitiveness of the service. The trim index uses a scale from 0 to 100 points and bank managers were invited to report the index score they achieved, choosing among four alternatives: <50, between 51 and 60, between 61 and 70, and > 70.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 3.14,
+      "sd": 0.92
+    },
+    {
+      "table_anchor_name": "6. Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "1 = Self-report",
+      "report_type_note": "4 ordinal age categories (<30, 30-40, 41-50, >50 years).",
+      "specific_measure_used": "age of the bank managers",
+      "source_quote": "[Sample & Statistical procedures, pp. 97-98] \"In terms of age, 48.1% of the managers were between 41 and 50 years old, 31.9% between 30 and 40 years old, 18.4% were more than 50 years old, and 1.6% were less than 30 years old.\" \"Hypotheses were tested by controlling for type of branch (retail versus commercial, C1), and age of the bank managers (C2).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.83,
+      "sd": 0.74
+    },
+    {
+      "table_anchor_name": "7. Type of branch",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Binary control variable for branch focus (retail/families vs. commercial/small firms).",
+      "specific_measure_used": "type of branch (retail versus commercial",
+      "source_quote": "[Sample & Statistical procedures, pp. 97-98] \"Of the sample, 88% worked at agencies focused on families, while the remaining worked at agencies dedicated to small firms.\" \"Hypotheses were tested by controlling for type of branch (retail versus commercial, C1), and age of the bank managers (C2).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.11,
+      "sd": 0.32
+    }
+  ]
 }

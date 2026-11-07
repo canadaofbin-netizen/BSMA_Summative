@@ -1,0 +1,12 @@
+{
+  "paper_id": 238,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "1 = No effect size of interest",
+  "node_0_screening": {
+    "paper_id": 238,
+    "verdict": "0 = exclude",
+    "exclusion_code": "1 = No effect size of interest",
+    "rationale": "No bivariate correlation or convertible effect size reported for an individual-level boundary-spanning construct."
+  }
+}

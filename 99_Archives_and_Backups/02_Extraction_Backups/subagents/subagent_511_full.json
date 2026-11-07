@@ -1,0 +1,429 @@
+{
+  "paper_id": 511,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "Netherlands",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 158,
+    "listwise_n": 158,
+    "mean_age": 999,
+    "pct_female": 15.82,
+    "org_tenure": 999,
+    "occupation_type": "Public infrastructure project managers"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 3",
+    "table_page_number": 417,
+    "listwise_n": 158,
+    "is_latent": true,
+    "latent_evidence_quote": "[Table 3 Title, p. 417] \"TABLE 3 Descriptive statistics and correlation between latent variables and control variables.\"",
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary spanning activities",
+        "classification_type": "BS",
+        "mean": 4.95,
+        "sd": 1.47,
+        "reliability_table": 0.968
+      },
+      {
+        "table_anchor_name": "Role conflict",
+        "classification_type": "NB",
+        "mean": 4.14,
+        "sd": 1.33,
+        "reliability_table": 0.742
+      },
+      {
+        "table_anchor_name": "Role ambiguity",
+        "classification_type": "NB",
+        "mean": 2.23,
+        "sd": 0.86,
+        "reliability_table": 0.816
+      },
+      {
+        "table_anchor_name": "Top-management support",
+        "classification_type": "NB",
+        "mean": 5.71,
+        "sd": 1.01,
+        "reliability_table": 0.854
+      },
+      {
+        "table_anchor_name": "Co-worker support",
+        "classification_type": "NB",
+        "mean": 6.23,
+        "sd": 0.97,
+        "reliability_table": 0.933
+      },
+      {
+        "table_anchor_name": "Role autonomy",
+        "classification_type": "NB",
+        "mean": 5.63,
+        "sd": 0.96,
+        "reliability_table": 0.876
+      },
+      {
+        "table_anchor_name": "Years of experience",
+        "classification_type": "NB",
+        "mean": 2.92,
+        "sd": 0.997,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Managerial role (project manager = reference)",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Stakeholder complexity",
+        "classification_type": "NB",
+        "mean": 2.65,
+        "sd": 1.749,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Spatial complexity",
+        "classification_type": "NB",
+        "mean": 1.97,
+        "sd": 1.213,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Contract type (Design-and-Construct [D&C] = reference)",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Role conflict",
+        "r": 0.298,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Role conflict",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.298**",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Role ambiguity",
+        "r": -0.045,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Role ambiguity",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "-0.045",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Top-management support",
+        "r": -0.017,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Top-management support",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "-0.017",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Co-worker support",
+        "r": -0.003,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Co-worker support",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "-0.003",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Role autonomy",
+        "r": 0.104,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Role autonomy",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.104",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Years of experience",
+        "r": 0.279,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Years of experience",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.279**",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Managerial role (project manager = reference)",
+        "r": -0.57,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Managerial role (project manager = reference)",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "-0.570**",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Stakeholder complexity",
+        "r": 0.116,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Stakeholder complexity",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.116",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Spatial complexity",
+        "r": 0.208,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Spatial complexity",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.208**",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary spanning activities",
+        "var2_anchor": "Contract type (Design-and-Construct [D&C] = reference)",
+        "r": 0.12,
+        "cell_proof": {
+          "table_number": "Table 3",
+          "table_page_number": 417,
+          "row_header_quote": "Contract type (Design-and-Construct [D&C] = reference)",
+          "col_header_quote": "Boundary spanning activities",
+          "raw_cell_value": "0.120",
+          "sample_n_footnote": "\"*Correlation is significant at the 0.01 level (2-tailed). **Correlation is significant at the 0.05 level (2-tailed).\""
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary spanning activities",
+      "classification_type": "BS",
+      "number_of_items": 14,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Second-order construct combining 4 dimensions (Information exchange, Relational activities, Coordination/negotiation, Mediation/facilitation; Table 2 pp. 414-415: alpha = 0.968, CR = 0.968).",
+      "specific_measure_used": "Yan et al. (2020), Ancona and Caldwell (1992), Henttonen et al. (2016), and Van Meerkerk and Edelenbos (2014)",
+      "source_quote": "All the items for this study, presented in Table 2, were measured using a 7-point Likert scale. The choices for the boundary spanning measurement scale ranged from 1 (“very little involvement”) to 7 (“involvement to a great extent”). Boundary Spanning Activity (Cronbach's alpha (α) = 0.968; Composite reliability (CR) = 0.968; Average variance extracted (AVE) = 0.684) Information collection and knowledge (IK) exchange activities: Partly adapted from Yan et al. (2020), Ancona and Caldwell (1992), Henttonen et al. (2016), and Van Meerkerk and Edelenbos (2014). Relational activities (RA): Partly based on Walter et al. (2006) and Van Meerkerk and Edelenbos (2014). Coordination and negotiation (CN) activities: Partly based on Walter et al. (2006), Ancona and Caldwell (1992), and Van Meerkerk and Edelenbos (2018b). Mediation and facilitation (MF) of collaboration: Partly adapted from Ancona and Caldwell (1992) and Jehn and Mannix (2001).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.968
+      },
+      "mean": 4.95,
+      "sd": 1.47
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Role conflict",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Adapted from Babin and Boles (1996)",
+      "source_quote": "Role conflict and role ambiguity were also measured with 1 indicating “strongly disagree” to 7 indicating “strongly agree.” Role conflict (RCON) (α = 0.742; CR = 0.749; AVE = 0.504) Adapted from Babin and Boles (1996).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.742
+      },
+      "mean": 4.14,
+      "sd": 1.33
+    },
+    {
+      "table_anchor_name": "Role ambiguity",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Adapted from Babin and Boles (1996)",
+      "source_quote": "Role conflict and role ambiguity were also measured with 1 indicating “strongly disagree” to 7 indicating “strongly agree.” Role ambiguity (RAMB) (α = 0.816; CR = 0.826; AVE = 0.557) Adapted from Babin and Boles (1996).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.816
+      },
+      "mean": 2.23,
+      "sd": 0.86
+    },
+    {
+      "table_anchor_name": "Top-management support",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Adapted from Van Meerkerk and Edelenbos (2018b)",
+      "source_quote": "The items for the organizational conditions investigated how they experienced their role within the collaboration of the specified project and it was measured by checking the extent to which the respondent was in agreement with the item scaling from 1 (“strongly disagree”) to 7 (“strongly agree”). Top-management support (TMP) (α = 0.854; Composite reliability (CR) = 0.857; AVE = 0.667) Adapted from Van Meerkerk and Edelenbos (2018b).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.854
+      },
+      "mean": 5.71,
+      "sd": 1.01
+    },
+    {
+      "table_anchor_name": "Co-worker support",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Adapted from Hammer et al. (2004)",
+      "source_quote": "The items for the organizational conditions investigated how they experienced their role within the collaboration of the specified project and it was measured by checking the extent to which the respondent was in agreement with the item scaling from 1 (“strongly disagree”) to 7 (“strongly agree”). Co-worker support (CWS) (α = 0.933; CR = 0.935; AVE = 0.783) Adapted from Hammer et al. (2004).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.933
+      },
+      "mean": 6.23,
+      "sd": 0.97
+    },
+    {
+      "table_anchor_name": "Role autonomy",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Adapted from Tummers and Bekkers (2014)",
+      "source_quote": "The items for the organizational conditions investigated how they experienced their role within the collaboration of the specified project and it was measured by checking the extent to which the respondent was in agreement with the item scaling from 1 (“strongly disagree”) to 7 (“strongly agree”). Role autonomy (RAUTO) (α = 0.876; CR = 0.875; AVE = 0.701) Adapted from Tummers and Bekkers (2014).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.876
+      },
+      "mean": 5.63,
+      "sd": 0.96
+    },
+    {
+      "table_anchor_name": "Years of experience",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "5-category ordinal scale in Table 1 (1 = 1-5 yrs to 5 = >30 yrs).",
+      "specific_measure_used": "years of experience",
+      "source_quote": "To determine the project and respondent characteristics, respondents were asked to fill in personal demographics, their role in the project team, the contract type, to list the amount of stakeholders involved (i.e., stakeholder complexity), and to list the related spatial developments—road construction, improving waterway network, ensuring water quality and safety, housing, development of industrial, commercial or recreational area, and landscaping—that were part of the project (i.e., spatial complexity) (cf. Verweij et al., 2013). The demographic characteristics (age, years of experience, and gender) and project characteristics (contract type, infrastructure system, stakeholder complexity, and spatial complexity) from Table 1 were tested as control variables in the model to see whether there is a significant impact of these variables on the structural model (see Figure 2).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.92,
+      "sd": 0.997
+    },
+    {
+      "table_anchor_name": "Managerial role (project manager = reference)",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 3 (p. 417) prints N/A for Mean and SD.",
+      "specific_measure_used": "role in the project team",
+      "source_quote": "To determine the project and respondent characteristics, respondents were asked to fill in personal demographics, their role in the project team, the contract type, to list the amount of stakeholders involved (i.e., stakeholder complexity), and to list the related spatial developments—road construction, improving waterway network, ensuring water quality and safety, housing, development of industrial, commercial or recreational area, and landscaping—that were part of the project (i.e., spatial complexity) (cf. Verweij et al., 2013). The demographic characteristics (age, years of experience, and gender) and project characteristics (contract type, infrastructure system, stakeholder complexity, and spatial complexity) from Table 1 were tested as control variables in the model to see whether there is a significant impact of these variables on the structural model (see Figure 2).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999
+    },
+    {
+      "table_anchor_name": "Stakeholder complexity",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "6-category ordinal scale in Table 1 (1 = 1-10 stakeholders to 6 = >50 stakeholders).",
+      "specific_measure_used": "amount of stakeholders involved (i.e., stakeholder complexity)",
+      "source_quote": "To determine the project and respondent characteristics, respondents were asked to fill in personal demographics, their role in the project team, the contract type, to list the amount of stakeholders involved (i.e., stakeholder complexity), and to list the related spatial developments—road construction, improving waterway network, ensuring water quality and safety, housing, development of industrial, commercial or recreational area, and landscaping—that were part of the project (i.e., spatial complexity) (cf. Verweij et al., 2013). The demographic characteristics (age, years of experience, and gender) and project characteristics (contract type, infrastructure system, stakeholder complexity, and spatial complexity) from Table 1 were tested as control variables in the model to see whether there is a significant impact of these variables on the structural model (see Figure 2).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.65,
+      "sd": 1.749
+    },
+    {
+      "table_anchor_name": "Spatial complexity",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 6,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Count of 1 to 6 spatial functions in Table 1.",
+      "specific_measure_used": "Verweij et al., 2013",
+      "source_quote": "To determine the project and respondent characteristics, respondents were asked to fill in personal demographics, their role in the project team, the contract type, to list the amount of stakeholders involved (i.e., stakeholder complexity), and to list the related spatial developments—road construction, improving waterway network, ensuring water quality and safety, housing, development of industrial, commercial or recreational area, and landscaping—that were part of the project (i.e., spatial complexity) (cf. Verweij et al., 2013). The demographic characteristics (age, years of experience, and gender) and project characteristics (contract type, infrastructure system, stakeholder complexity, and spatial complexity) from Table 1 were tested as control variables in the model to see whether there is a significant impact of these variables on the structural model (see Figure 2).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.97,
+      "sd": 1.213
+    },
+    {
+      "table_anchor_name": "Contract type (Design-and-Construct [D&C] = reference)",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 3 (p. 417) prints N/A for Mean and SD.",
+      "specific_measure_used": "contract type",
+      "source_quote": "To determine the project and respondent characteristics, respondents were asked to fill in personal demographics, their role in the project team, the contract type, to list the amount of stakeholders involved (i.e., stakeholder complexity), and to list the related spatial developments—road construction, improving waterway network, ensuring water quality and safety, housing, development of industrial, commercial or recreational area, and landscaping—that were part of the project (i.e., spatial complexity) (cf. Verweij et al., 2013). The demographic characteristics (age, years of experience, and gender) and project characteristics (contract type, infrastructure system, stakeholder complexity, and spatial complexity) from Table 1 were tested as control variables in the model to see whether there is a significant impact of these variables on the structural model (see Figure 2).",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999
+    }
+  ]
+}

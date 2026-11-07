@@ -1,0 +1,419 @@
+{
+  "paper_id": 225,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "USA",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 143,
+    "listwise_n": 143,
+    "mean_age": 47.5,
+    "pct_female": 47,
+    "org_tenure": 999,
+    "occupation_type": "Skilled Digital Freelancers (Accountants and Software Engineers via Upwork)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 118,
+    "listwise_n": 143,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary Spanning",
+        "classification_type": "BS",
+        "mean": 2.65,
+        "sd": 0.91,
+        "reliability_table": 0.859
+      },
+      {
+        "table_anchor_name": "Task Interdependence",
+        "classification_type": "NB",
+        "mean": 3.717,
+        "sd": 0.511,
+        "reliability_table": 0.707
+      },
+      {
+        "table_anchor_name": "Expert Power",
+        "classification_type": "NB",
+        "mean": 4.307,
+        "sd": 0.575,
+        "reliability_table": 0.8
+      },
+      {
+        "table_anchor_name": "Human Capital",
+        "classification_type": "NB",
+        "mean": 2.314,
+        "sd": 0.61,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Referent Power",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 0.897
+      },
+      {
+        "table_anchor_name": "Strategic Orientation - Collaboration",
+        "classification_type": "NB",
+        "mean": 3.527,
+        "sd": 0.705,
+        "reliability_table": 0.825
+      },
+      {
+        "table_anchor_name": "Marker Variable",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Gender",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Rating",
+        "classification_type": "NB",
+        "mean": 999,
+        "sd": 999,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Remote Work",
+        "classification_type": "NB",
+        "mean": 4.279,
+        "sd": 1.46,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Contract Time",
+        "classification_type": "NB",
+        "mean": 1.489,
+        "sd": 0.812,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Task Interdependence",
+        "r": 0.183,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "2. Task Interdependence",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.183*"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Expert Power",
+        "r": 0.015,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "3. Expert Power",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.015"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Human Capital",
+        "r": 0.102,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "4. Human Capital",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.102"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Referent Power",
+        "r": 0.118,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "5. Referent Power",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.118"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Strategic Orientation - Collaboration",
+        "r": 0.268,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "6. Strategic Orientation - Collaboration",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.268"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Marker Variable",
+        "r": 0.155,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "7. Marker Variable",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.155"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Gender",
+        "r": 0.066,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "8. Gender",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.066"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Rating",
+        "r": 0.001,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "9. Rating",
+          "col_header_quote": "1",
+          "raw_cell_value": "0.001"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Remote Work",
+        "r": -0.127,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "10. Remote Work",
+          "col_header_quote": "1",
+          "raw_cell_value": "-0.127"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning",
+        "var2_anchor": "Contract Time",
+        "r": -0.131,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 118,
+          "row_header_quote": "11. Contract Time",
+          "col_header_quote": "1",
+          "raw_cell_value": "-0.131"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary Spanning",
+      "classification_type": "BS",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Ancona et al. (1992A)",
+      "source_quote": "[Methodology, p. 51-52] \"Ancona et al. (1992A) developed a boundary spanning scale that aids in understanding boundary spanning at a micro level. The six scouting items from this scale were used for this study because they measure high-frequency communicators, expertise, and access to information, which are characteristics of skilled digital freelancers.\" Scouting sub-dimension only. Items adapted: network wording substituted for competing organization wording due to non-disclosure concerns. 5-point Likert from Strongly Disagree (1) to Strongly Agree (5). In-text alpha = 0.858; Table 3 (p. 119) renders 0.859.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.859
+      },
+      "mean": 2.65,
+      "sd": 0.91
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Task Interdependence",
+      "classification_type": "NB",
+      "number_of_items": 9,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Original 10-item scale; 1 item removed to increase alpha from 0.691 to 0.707, yielding 9 final items.",
+      "specific_measure_used": "Pearce et al., 1991",
+      "source_quote": "[Methodology, pp. 48-49] \"interaction was measured using an established interdependence scale (Pearce et al., 1991) due to its reliability and validity of measuring employee-perceived, self-report task interdependence.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.707
+      },
+      "mean": 3.717,
+      "sd": 0.511
+    },
+    {
+      "table_anchor_name": "Expert Power",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Original 4-item scale augmented with 2 additional items after pilot study to increase alpha from 0.745 to 0.800.",
+      "specific_measure_used": "Hinkin et al. (1989)",
+      "source_quote": "[Methodology, pp. 49-50] \"The 4-item Hinkin et al. (1989) expert power scale was adapted from the seminal work of French et al. (1959).\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.8
+      },
+      "mean": 4.307,
+      "sd": 0.575
+    },
+    {
+      "table_anchor_name": "Human Capital",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 3,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Ordinal college education level (1 = low [no education/associate], 2 = medium [bachelor's], 3 = high [master's/PhD]); Table 1 M = 2.314, SD = 0.610.",
+      "specific_measure_used": "level of college education",
+      "source_quote": "[Results, p. 66] \"Skilled digital freelancer level of college education was used to measure human capital. Low level of education = 1 and included no education or an associate degree; medium level of education = 2 and included a bachelor’s degree; and high level of education = 3 and included a master’s degree or PhD.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.314,
+      "sd": 0.61
+    },
+    {
+      "table_anchor_name": "Referent Power",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Table 1 (p. 117) omits Mean and SD for Referent Power (coded 999 per Rule 1); Cronbach's alpha = 0.897 from Table 3 (p. 119).",
+      "specific_measure_used": "Hinkin & Schriesheim, 1989",
+      "source_quote": "[Methodology, p. 50] \"Specifically, the 4-item referent power scale (Hinkin & Schriesheim, 1989) was applied as a post hoc test.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.897
+      },
+      "mean": 999,
+      "sd": 999
+    },
+    {
+      "table_anchor_name": "Strategic Orientation - Collaboration",
+      "classification_type": "NB",
+      "number_of_items": 5,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Collaborate 6-item subscale with 1 item removed to yield 5 final items (Table 3, p. 119 alpha = 0.825).",
+      "specific_measure_used": "Soda et al., 2018",
+      "source_quote": "[Methodology, p. 50] \"Collaboration was assessed using an established strategic orientation toward brokering scale (Soda et al., 2018).\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.825
+      },
+      "mean": 3.527,
+      "sd": 0.705
+    },
+    {
+      "table_anchor_name": "Marker Variable",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "3-item blue attitude marker variable included in Table 2 (7. Marker Variable); Mean, SD, and alpha not reported in Tables 1 or 3 (coded 999 per Rule 1).",
+      "specific_measure_used": "Miller & Simmering, 2022",
+      "source_quote": "[Appendix F: Survey Instrument, p. 113] \"MARKER VARIABLES (Miller & Simmering, 2022) Likert Scale: 1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree. I think blue is a pretty color. I like the color blue. Blue is a lovely color.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999
+    },
+    {
+      "table_anchor_name": "Gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": "47% female (n = 66) and 53% male (n = 77); Mean and SD not reported in Table 1.",
+      "specific_measure_used": "The gender you identify with is",
+      "source_quote": "[Appendix F: Survey Instrument, p. 114] \"2.) The gender you identify with is: a. Male b. Female c. Non-binary/third gender d. Prefer not to say\" [Sample, p. 61] \"Forty seven percent of participants identified as female (n = 66) and 53% as male (n = 77).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999
+    },
+    {
+      "table_anchor_name": "Rating",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Self-reported Upwork reputation rating item; Mean and SD omitted in Table 1 (coded 999 per Rule 1).",
+      "specific_measure_used": "What is your reputation rating?",
+      "source_quote": "[Appendix F: Survey Instrument, p. 114] \"4.) What is your reputation rating?\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 999,
+      "sd": 999
+    },
+    {
+      "table_anchor_name": "Remote Work",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": "5 ordinal categories from 0% (1) to 100% (5) weekly remote freelance work; Table 1 M = 4.279, SD = 1.460.",
+      "specific_measure_used": "percentage of your weekly freelance work is typically conducted remotely",
+      "source_quote": "[Appendix F: Survey Instrument, p. 114] \"7.) What percentage of your weekly freelance work is typically conducted remotely (rather than at the employing organization's site)? a. 0% b. Up to 25% c. Up to 50% d. Up to 75% e. 100%\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 4.279,
+      "sd": 1.46
+    },
+    {
+      "table_anchor_name": "Contract Time",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 3,
+      "report_type": "1 = Self-report",
+      "report_type_note": "Recoded into 3 ordinal duration categories (<6 months = 1, 6-12 months = 2, >1 year = 3); Table 1 M = 1.489, SD = 0.812.",
+      "specific_measure_used": "contract times of less than 6 months = 1, 6 – 12 months = 2, and greater than 1 year = 3",
+      "source_quote": "[Results, p. 68] \"I analyzed contract time by contrasting contract times of less than 6 months = 1, 6 – 12 months = 2, and greater than 1 year = 3.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.489,
+      "sd": 0.812
+    }
+  ]
+}

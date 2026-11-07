@@ -1,0 +1,347 @@
+{
+  "paper_id": 208,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "2 = Longitudinal design",
+    "study_design_other": null,
+    "country": "China",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 336,
+    "listwise_n": 336,
+    "mean_age": 30.682,
+    "pct_female": 51.79,
+    "org_tenure": 999,
+    "occupation_type": "High-tech enterprise employees"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 2",
+    "table_page_number": 95,
+    "listwise_n": 336,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "EBSB",
+        "classification_type": "BS",
+        "mean": 3.778,
+        "sd": 0.78,
+        "reliability_table": 0.885
+      },
+      {
+        "table_anchor_name": "Sex",
+        "classification_type": "NB",
+        "mean": 1.518,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Age",
+        "classification_type": "NB",
+        "mean": 30.682,
+        "sd": 6.588,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Edu",
+        "classification_type": "NB",
+        "mean": 2.417,
+        "sd": 0.772,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Tenure",
+        "classification_type": "NB",
+        "mean": 2.506,
+        "sd": 1.146,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "AO",
+        "classification_type": "NB",
+        "mean": 3.807,
+        "sd": 0.869,
+        "reliability_table": 0.863
+      },
+      {
+        "table_anchor_name": "PP",
+        "classification_type": "NB",
+        "mean": 3.706,
+        "sd": 0.927,
+        "reliability_table": 0.821
+      },
+      {
+        "table_anchor_name": "CF",
+        "classification_type": "NB",
+        "mean": 3.695,
+        "sd": 0.814,
+        "reliability_table": 0.937
+      },
+      {
+        "table_anchor_name": "OP",
+        "classification_type": "NB",
+        "mean": 3.676,
+        "sd": 0.715,
+        "reliability_table": 0.875
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "Sex",
+        "r": -0.029,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "1",
+          "raw_cell_value": "-0.029"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "Age",
+        "r": -0.019,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "2",
+          "raw_cell_value": "-0.019"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "Edu",
+        "r": -0.096,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "3",
+          "raw_cell_value": "-0.096"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "Tenure",
+        "r": -0.079,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "4",
+          "raw_cell_value": "-0.079"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "AO",
+        "r": 0.105,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "5",
+          "raw_cell_value": "0.105"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "PP",
+        "r": 0.23,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.230**"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "CF",
+        "r": 0.29,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "7",
+          "raw_cell_value": "0.290**"
+        }
+      },
+      {
+        "var1_anchor": "EBSB",
+        "var2_anchor": "OP",
+        "r": -0.134,
+        "cell_proof": {
+          "table_number": "Table 2",
+          "table_page_number": 95,
+          "row_header_quote": "9 EBSB",
+          "col_header_quote": "8",
+          "raw_cell_value": "-0.134*"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "EBSB",
+      "classification_type": "BS",
+      "number_of_items": 6,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "six-item scale developed by Marrone et al. (2007)",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Employee boundary-spanning behavior. It is assessed using the six-item scale developed by Marrone et al. (2007). A sample item is “I would Persuade outsiders (e.g., faculty, clients) to support the team decisions.”, with Cronbach’s alpha of 0.885.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.885
+      },
+      "mean": 3.778,
+      "sd": 0.78
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Sex",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Gender, age, education, and organization tenure are controlled",
+      "source_quote": "[Section 3.1 & 3.2, p. 94] \"In terms of sample characteristics, there are 162 males (48.21%) and 174 females (51.79%).\" \"Gender, age, education, and organization tenure are controlled according to Marrone et al. (2007).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.518,
+      "sd": 0.5
+    },
+    {
+      "table_anchor_name": "Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Gender, age, education, and organization tenure are controlled",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Gender, age, education, and organization tenure are controlled according to Marrone et al. (2007).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 30.682,
+      "sd": 6.588
+    },
+    {
+      "table_anchor_name": "Edu",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "education",
+      "source_quote": "[Section 3.1 & 3.2, p. 94] \"In terms of education, 42 people (12.50%) are college graduates or below, 129 people (38.39%) are undergraduates, 148 people (44.05%) are masters, and 17 people (5.06%) are PhDs or above.\" \"Gender, age, education, and organization tenure are controlled according to Marrone et al. (2007).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.417,
+      "sd": 0.772
+    },
+    {
+      "table_anchor_name": "Tenure",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "number of years of working experience in the organization",
+      "source_quote": "[Section 3.1 & 3.2, p. 94] \"in terms of the number of years of working experience in the organization, 85 people (25.30%) have worked in the organization for less than one year, 89 people (26.49%) have worked there for 1-3 years, and 69 people (20.54%) have worked there for 4-5 years, and 93 people (27.68%) have worked more than 5 years.\" \"Gender, age, education, and organization tenure are controlled according to Marrone et al. (2007).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 2.506,
+      "sd": 1.146
+    },
+    {
+      "table_anchor_name": "AO",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "four-item scale developed by Baumann et al. (2005)",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Achievement orientation. It is assessed using the four-item scale developed by Baumann et al. (2005). A sample item is “I often volunteer for difficult tasks.” The scale’s Cronbach alpha is 0.863.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.863
+      },
+      "mean": 3.807,
+      "sd": 0.869
+    },
+    {
+      "table_anchor_name": "PP",
+      "classification_type": "NB",
+      "number_of_items": 4,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "four-item scale created by Mitchell et al. (2019)",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Performance pressure. The measurement uses a four-item scale created by Mitchell et al. (2019). A sample item is “The pressures for performance in my workplace are high.” Lastly, Cronbach’s alpha was 0.821.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.821
+      },
+      "mean": 3.706,
+      "sd": 0.927
+    },
+    {
+      "table_anchor_name": "CF",
+      "classification_type": "NB",
+      "number_of_items": 12,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "scale developed by Martin and Rubin (1995)",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Cognitive flexibility. The scale developed by Martin and Rubin (1995) is used, with 12 items, of which items 2, 3, 5 and 10 were reverse scored, with representative items such as 'I am willing to commit myself to creative problem solving'. The scale’s Cronbach alpha is 0.937.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.937
+      },
+      "mean": 3.695,
+      "sd": 0.814
+    },
+    {
+      "table_anchor_name": "OP",
+      "classification_type": "NB",
+      "number_of_items": 7,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "seven-item scale from Vallerand et al. (2003)",
+      "source_quote": "[Section 3.2 Measures, p. 94] \"Obsessive work passion. It is scaled by a seven-item scale from Vallerand et al. (2003). A sample item is “I have a feeling of being controlled by my work.” Besides, Cronbach’s alpha was 0.875.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.875
+      },
+      "mean": 3.676,
+      "sd": 0.715
+    }
+  ]
+}

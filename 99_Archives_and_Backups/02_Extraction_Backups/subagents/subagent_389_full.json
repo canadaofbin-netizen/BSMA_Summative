@@ -1,0 +1,12 @@
+{
+  "paper_id": 389,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 389,
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "rationale": "Team/organizational-level unit of analysis; no individual-level boundary-spanning correlation matrix."
+  }
+}

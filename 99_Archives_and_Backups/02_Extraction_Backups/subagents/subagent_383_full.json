@@ -1,0 +1,997 @@
+{
+  "paper_id": 383,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "USA",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 170,
+    "listwise_n": 170,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "Product managers in consumer package goods industries"
+  },
+  "studies": [
+    {
+      "study_sample_descriptor": {
+        "study_design": "1 = Cross-sectional design",
+        "study_design_other": null,
+        "country": "USA",
+        "country_specify": null,
+        "international_context": "0 = Domestic",
+        "sample_size_n": 170,
+        "listwise_n": 170,
+        "mean_age": 999,
+        "pct_female": 999,
+        "org_tenure": 999,
+        "occupation_type": "Product managers in consumer package goods industries"
+      },
+      "boundary_spanning_matrix": {
+        "table_number": "Table 4",
+        "table_page_number": 34,
+        "listwise_n": 170,
+        "is_latent": false,
+        "latent_evidence_quote": null,
+        "table_footnote_quote": null,
+        "variables": [
+          {
+            "table_anchor_name": "Aggregate boundary spanning",
+            "classification_type": "BS",
+            "mean": 84.4,
+            "sd": 45.3,
+            "reliability_table": 0.74
+          },
+          {
+            "table_anchor_name": "Role Conflict",
+            "classification_type": "NB",
+            "mean": 38.6,
+            "sd": 8.5,
+            "reliability_table": 0.84
+          },
+          {
+            "table_anchor_name": "Person-role conflict",
+            "classification_type": "NB",
+            "mean": 7.7,
+            "sd": 2.3,
+            "reliability_table": 999
+          },
+          {
+            "table_anchor_name": "Intersender conflict",
+            "classification_type": "NB",
+            "mean": 14.9,
+            "sd": 3.8,
+            "reliability_table": 999
+          },
+          {
+            "table_anchor_name": "Intrasender conflict",
+            "classification_type": "NB",
+            "mean": 7.2,
+            "sd": 2.6,
+            "reliability_table": 999
+          },
+          {
+            "table_anchor_name": "Role-overload conflict",
+            "classification_type": "NB",
+            "mean": 8.7,
+            "sd": 2.3,
+            "reliability_table": 999
+          },
+          {
+            "table_anchor_name": "Role Ambiguity",
+            "classification_type": "NB",
+            "mean": 15.6,
+            "sd": 4.7,
+            "reliability_table": 0.83
+          },
+          {
+            "table_anchor_name": "informal boundary spanning",
+            "classification_type": "BS",
+            "mean": 43.6,
+            "sd": 29.3,
+            "reliability_table": 0.73
+          },
+          {
+            "table_anchor_name": "formal boundary spanning",
+            "classification_type": "BS",
+            "mean": 23.9,
+            "sd": 16.8,
+            "reliability_table": 0.77
+          },
+          {
+            "table_anchor_name": "internal organizational boundary spanning",
+            "classification_type": "BS",
+            "mean": 57.7,
+            "sd": 35.2,
+            "reliability_table": 0.71
+          },
+          {
+            "table_anchor_name": "external organizational boundary spanning",
+            "classification_type": "BS",
+            "mean": 19.9,
+            "sd": 15.8,
+            "reliability_table": 0.64
+          }
+        ],
+        "correlations": [
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Role Conflict",
+            "r": 0.28,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Role Conflict",
+              "raw_cell_value": ".28ª"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Person-role conflict",
+            "r": 0.18,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Person-role conflict",
+              "raw_cell_value": ".18ᵇ"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Intersender conflict",
+            "r": 0.3,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Intersender conflict",
+              "raw_cell_value": ".30ª"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Intrasender conflict",
+            "r": 0.22,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Intrasender conflict",
+              "raw_cell_value": ".22ª"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Role-overload conflict",
+            "r": 0.11,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Role-overload conflict",
+              "raw_cell_value": ".11"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Role Ambiguity",
+            "r": 0,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Role Ambiguity",
+              "raw_cell_value": ".00"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Role Conflict",
+            "r": 0.14,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Role Conflict",
+              "raw_cell_value": ".14ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Person-role conflict",
+            "r": 0.05,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Person-role conflict",
+              "raw_cell_value": ".05"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Intersender conflict",
+            "r": 0.17,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Intersender conflict",
+              "raw_cell_value": ".17ᵇ"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Intrasender conflict",
+            "r": 0.12,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Intrasender conflict",
+              "raw_cell_value": ".12ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Role-overload conflict",
+            "r": 0.05,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Role-overload conflict",
+              "raw_cell_value": ".05"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Role Ambiguity",
+            "r": 0.1,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Role Ambiguity",
+              "raw_cell_value": ".10"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Role Conflict",
+            "r": 0.24,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Role Conflict",
+              "raw_cell_value": ".24ª"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Person-role conflict",
+            "r": 0.13,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Person-role conflict",
+              "raw_cell_value": ".13ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Intersender conflict",
+            "r": 0.22,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Intersender conflict",
+              "raw_cell_value": ".22ᵃ"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Intrasender conflict",
+            "r": 0.24,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Intrasender conflict",
+              "raw_cell_value": ".24ᵇ"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Role-overload conflict",
+            "r": 0.01,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Role-overload conflict",
+              "raw_cell_value": ".01"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Role Ambiguity",
+            "r": 0.05,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Role Ambiguity",
+              "raw_cell_value": ".05"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Role Conflict",
+            "r": 0.22,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Role Conflict",
+              "raw_cell_value": ".22ª"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Person-role conflict",
+            "r": 0.13,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Person-role conflict",
+              "raw_cell_value": ".13ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Intersender conflict",
+            "r": 0.23,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Intersender conflict",
+              "raw_cell_value": ".23ª"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Intrasender conflict",
+            "r": 0.17,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Intrasender conflict",
+              "raw_cell_value": ".17ᵇ"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Role-overload conflict",
+            "r": 0.1,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Role-overload conflict",
+              "raw_cell_value": ".10"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Role Ambiguity",
+            "r": 0.13,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Role Ambiguity",
+              "raw_cell_value": ".13ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Role Conflict",
+            "r": 0.12,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Role Conflict",
+              "raw_cell_value": ".12ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Person-role conflict",
+            "r": 0,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Person-role conflict",
+              "raw_cell_value": ".00"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Intersender conflict",
+            "r": 0.13,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Intersender conflict",
+              "raw_cell_value": ".13ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Intrasender conflict",
+            "r": 0.16,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Intrasender conflict",
+              "raw_cell_value": ".16ᶜ"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Role-overload conflict",
+            "r": 0.04,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Role-overload conflict",
+              "raw_cell_value": ".04"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Role Ambiguity",
+            "r": -0.04,
+            "cell_proof": {
+              "table_number": "Table 4",
+              "table_page_number": 34,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Role Ambiguity",
+              "raw_cell_value": "-.04"
+            }
+          }
+        ]
+      },
+      "boundary_spanning_measures": [
+        {
+          "table_anchor_name": "Aggregate boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 11,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities (Table 1 footnote a: \"This does not add to 19 since some of the subscales overlap\").",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.74
+          },
+          "mean": 84.4,
+          "sd": 45.3,
+          "composite_quote": "[Methodology, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication; external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants; formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others; informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like; selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
+        },
+        {
+          "table_anchor_name": "informal boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring informal face-to-face or telephone conversations or informal written communication (e.g., informal notes, memos) beyond the product manager's department (4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.73
+          },
+          "mean": 43.6,
+          "sd": 29.3
+        },
+        {
+          "table_anchor_name": "formal boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring formal meetings and formal written communication occurring (e.g., reports or data from others) beyond the product manager's department (4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.77
+          },
+          "mean": 23.9,
+          "sd": 16.8
+        },
+        {
+          "table_anchor_name": "internal organizational boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Internal boundary spanning facet measuring internal verbal and written communication beyond the product manager's department (e.g., finance, production, R&D per Rule 28; 4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.71
+          },
+          "mean": 57.7,
+          "sd": 35.2
+        },
+        {
+          "table_anchor_name": "external organizational boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" External boundary spanning facet measuring external verbal and written communication (e.g., customers, suppliers, the trade, consultants per Rule 28; 4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.64
+          },
+          "mean": 19.9,
+          "sd": 15.8
+        }
+      ],
+      "non_bs_measures": [
+        {
+          "table_anchor_name": "Role Conflict",
+          "classification_type": "NB",
+          "number_of_items": 10,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Overall 10-item role conflict scale from Rizzo, House, and Lirtzman (1970), comprising intrasender, intersender, person-role, and role overload conflict.",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.84
+          },
+          "mean": 38.6,
+          "sd": 8.5
+        },
+        {
+          "table_anchor_name": "Person-role conflict",
+          "classification_type": "NB",
+          "number_of_items": 2,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Sub-dimension of role conflict measuring incompatibility between expectations of product manager and role expectations (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "reliability": {
+            "type": "Not_Applicable",
+            "value": 999
+          },
+          "mean": 7.7,
+          "sd": 2.3
+        },
+        {
+          "table_anchor_name": "Intersender conflict",
+          "classification_type": "NB",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Sub-dimension of role conflict measuring incompatible expectations across multiple role senders (4 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "reliability": {
+            "type": "Not_Applicable",
+            "value": 999
+          },
+          "mean": 14.9,
+          "sd": 3.8
+        },
+        {
+          "table_anchor_name": "Intrasender conflict",
+          "classification_type": "NB",
+          "number_of_items": 2,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Sub-dimension of role conflict measuring incompatible expectations from a single role sender (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "reliability": {
+            "type": "Not_Applicable",
+            "value": 999
+          },
+          "mean": 7.2,
+          "sd": 2.6
+        },
+        {
+          "table_anchor_name": "Role-overload conflict",
+          "classification_type": "NB",
+          "number_of_items": 2,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Sub-dimension of role conflict measuring responsibilities exceeding available time and resources (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "reliability": {
+            "type": "Not_Applicable",
+            "value": 999
+          },
+          "mean": 8.7,
+          "sd": 2.3
+        },
+        {
+          "table_anchor_name": "Role Ambiguity",
+          "classification_type": "NB",
+          "number_of_items": 6,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
+          "source_quote": "Role ambiguity scale measuring inconsistencies about job responsibilities and performance evaluation, developed and validated by Rizzo, House, and Lirtzman (1970); 6 items, alpha 0.83.",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.83
+          },
+          "mean": 15.6,
+          "sd": 4.7
+        }
+      ]
+    },
+    {
+      "study_sample_descriptor": {
+        "study_design": "1 = Cross-sectional design",
+        "study_design_other": null,
+        "country": "USA",
+        "country_specify": null,
+        "international_context": "0 = Domestic",
+        "sample_size_n": 170,
+        "listwise_n": 170,
+        "mean_age": 999,
+        "pct_female": 999,
+        "org_tenure": 999,
+        "occupation_type": "Product managers in consumer package goods industries"
+      },
+      "boundary_spanning_matrix": {
+        "table_number": "Table 2",
+        "table_page_number": 33,
+        "listwise_n": 170,
+        "is_latent": false,
+        "latent_evidence_quote": null,
+        "table_footnote_quote": null,
+        "variables": [
+          {
+            "table_anchor_name": "Aggregate boundary spanning",
+            "classification_type": "BS",
+            "mean": 84.4,
+            "sd": 45.3,
+            "reliability_table": 0.74
+          },
+          {
+            "table_anchor_name": "Perceived",
+            "classification_type": "NB",
+            "mean": 41.1,
+            "sd": 5.9,
+            "reliability_table": 0.67
+          },
+          {
+            "table_anchor_name": "Objective",
+            "classification_type": "NB",
+            "mean": 28.4,
+            "sd": 5.3,
+            "reliability_table": 0.48
+          },
+          {
+            "table_anchor_name": "informal boundary spanning",
+            "classification_type": "BS",
+            "mean": 43.6,
+            "sd": 29.3,
+            "reliability_table": 0.73
+          },
+          {
+            "table_anchor_name": "formal boundary spanning",
+            "classification_type": "BS",
+            "mean": 23.9,
+            "sd": 16.8,
+            "reliability_table": 0.77
+          },
+          {
+            "table_anchor_name": "internal organizational boundary spanning",
+            "classification_type": "BS",
+            "mean": 57.7,
+            "sd": 35.2,
+            "reliability_table": 0.71
+          },
+          {
+            "table_anchor_name": "external organizational boundary spanning",
+            "classification_type": "BS",
+            "mean": 19.9,
+            "sd": 15.8,
+            "reliability_table": 0.64
+          }
+        ],
+        "correlations": [
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Perceived",
+            "r": 0.11,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Perceived",
+              "raw_cell_value": ".11ª"
+            }
+          },
+          {
+            "var1_anchor": "Aggregate boundary spanning",
+            "var2_anchor": "Objective",
+            "r": -0.02,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "Aggregate boundary spanning",
+              "col_header_quote": "Objective",
+              "raw_cell_value": "-.02"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Perceived",
+            "r": 0.1,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Perceived",
+              "raw_cell_value": ".10ª"
+            }
+          },
+          {
+            "var1_anchor": "informal boundary spanning",
+            "var2_anchor": "Objective",
+            "r": -0.03,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "informal boundary spanning",
+              "col_header_quote": "Objective",
+              "raw_cell_value": "-.03"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Perceived",
+            "r": 0.1,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Perceived",
+              "raw_cell_value": ".10ª"
+            }
+          },
+          {
+            "var1_anchor": "formal boundary spanning",
+            "var2_anchor": "Objective",
+            "r": 0,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "formal boundary spanning",
+              "col_header_quote": "Objective",
+              "raw_cell_value": ".00"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Perceived",
+            "r": 0.1,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Perceived",
+              "raw_cell_value": ".10ª"
+            }
+          },
+          {
+            "var1_anchor": "internal organizational boundary spanning",
+            "var2_anchor": "Objective",
+            "r": -0.04,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "internal organizational boundary spanning",
+              "col_header_quote": "Objective",
+              "raw_cell_value": "-.04"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Perceived",
+            "r": 0.03,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Perceived",
+              "raw_cell_value": ".03"
+            }
+          },
+          {
+            "var1_anchor": "external organizational boundary spanning",
+            "var2_anchor": "Objective",
+            "r": 0.04,
+            "cell_proof": {
+              "table_number": "Table 2",
+              "table_page_number": 33,
+              "row_header_quote": "external organizational boundary spanning",
+              "col_header_quote": "Objective",
+              "raw_cell_value": ".04"
+            }
+          }
+        ]
+      },
+      "boundary_spanning_measures": [
+        {
+          "table_anchor_name": "Aggregate boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 11,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities (Table 1 footnote a: \"This does not add to 19 since some of the subscales overlap\").",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.74
+          },
+          "mean": 84.4,
+          "sd": 45.3,
+          "composite_quote": "[Methodology, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication; external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants; formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others; informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like; selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
+        },
+        {
+          "table_anchor_name": "informal boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring informal face-to-face or telephone conversations or informal written communication (e.g., informal notes, memos) beyond the product manager's department (4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.73
+          },
+          "mean": 43.6,
+          "sd": 29.3
+        },
+        {
+          "table_anchor_name": "formal boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring formal meetings and formal written communication occurring (e.g., reports or data from others) beyond the product manager's department (4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.77
+          },
+          "mean": 23.9,
+          "sd": 16.8
+        },
+        {
+          "table_anchor_name": "internal organizational boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Internal boundary spanning facet measuring internal verbal and written communication beyond the product manager's department (e.g., finance, production, R&D per Rule 28; 4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.71
+          },
+          "mean": 57.7,
+          "sd": 35.2
+        },
+        {
+          "table_anchor_name": "external organizational boundary spanning",
+          "classification_type": "BS",
+          "number_of_items": 4,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "specific_measure_used": "Aiken and Hage (1972)",
+          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" External boundary spanning facet measuring external verbal and written communication (e.g., customers, suppliers, the trade, consultants per Rule 28; 4 items).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.64
+          },
+          "mean": 19.9,
+          "sd": 15.8
+        }
+      ],
+      "non_bs_measures": [
+        {
+          "table_anchor_name": "Perceived",
+          "classification_type": "NB",
+          "number_of_items": 9,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": null,
+          "specific_measure_used": "Duncan (1972)",
+          "source_quote": "Perceived environmental uncertainty in decision making adapted from Duncan (1972) and Spekman (1979); Table 1 reports 9 items used in the final administration with alpha 0.67.",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.67
+          },
+          "mean": 41.1,
+          "sd": 5.9
+        },
+        {
+          "table_anchor_name": "Objective",
+          "classification_type": "NB",
+          "number_of_items": 7,
+          "min_score": 999,
+          "max_score": 999,
+          "report_type": "1 = Self-report",
+          "report_type_note": "Product managers reported objective environmental conditions across structured operational items",
+          "specific_measure_used": "objective method to quantify environmental uncertainty",
+          "source_quote": "[Methodology, p. 30] \"The objective method to quantify environmental uncertainty used six structured items: sales and price volatility of the product class, intensity of brand competition, brand switching, advertising activity, delay in feedback of product line decision after implementation, and market share fluctuations.\" Objective environmental uncertainty measuring market volatility across product class and competitors (7 items reported in Table 1; alpha 0.48).",
+          "reliability": {
+            "type": "Alpha",
+            "value": 0.48
+          },
+          "mean": 28.4,
+          "sd": 5.3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "paper_id": 203,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "USA",
+    "country_specify": null,
+    "international_context": "0 = Domestic",
+    "sample_size_n": 209,
+    "listwise_n": 209,
+    "mean_age": 31.97,
+    "pct_female": 47.4,
+    "org_tenure": 4.31,
+    "occupation_type": "Information Center (IC) and Information Systems (IS) personnel"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 286,
+    "listwise_n": 209,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary Spanning Activities",
+        "classification_type": "BS",
+        "mean": 2.19,
+        "sd": 0.7,
+        "reliability_table": 0.83
+      },
+      {
+        "table_anchor_name": "Type of Employee",
+        "classification_type": "NB",
+        "mean": 1.64,
+        "sd": 0.48,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Age",
+        "classification_type": "NB",
+        "mean": 1.51,
+        "sd": 0.79,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Gender",
+        "classification_type": "NB",
+        "mean": 1.53,
+        "sd": 0.5,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Education",
+        "classification_type": "NB",
+        "mean": 1.95,
+        "sd": 0.6,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Organizational Tenure",
+        "classification_type": "NB",
+        "mean": 0.46,
+        "sd": 0.37,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Role Ambiguity",
+        "classification_type": "NB",
+        "mean": 3.13,
+        "sd": 0.95,
+        "reliability_table": 0.84
+      },
+      {
+        "table_anchor_name": "Role Conflict",
+        "classification_type": "NB",
+        "mean": 4.03,
+        "sd": 0.96,
+        "reliability_table": 0.78
+      },
+      {
+        "table_anchor_name": "Overall Job Satisfaction",
+        "classification_type": "NB",
+        "mean": 1.77,
+        "sd": 0.45,
+        "reliability_table": 0.82
+      },
+      {
+        "table_anchor_name": "Organizational Commitment",
+        "classification_type": "NB",
+        "mean": 4.46,
+        "sd": 1.27,
+        "reliability_table": 0.87
+      },
+      {
+        "table_anchor_name": "Intention to Leave",
+        "classification_type": "NB",
+        "mean": 2.71,
+        "sd": 1.04,
+        "reliability_table": 0.89
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Type of Employee",
+        "r": -0.54,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "6. Boundary Spanning Activities",
+          "col_header_quote": "1",
+          "raw_cell_value": "-0.54"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Age",
+        "r": 0.13,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "6. Boundary Spanning Activities",
+          "col_header_quote": "2",
+          "raw_cell_value": "0.13",
+          "extra_flags": [
+            "Log transformation: [Table 1 Footnote, p. 286] \"* Using the log of age and organizational tenure.\""
+          ]
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Gender",
+        "r": -0.02,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "6. Boundary Spanning Activities",
+          "col_header_quote": "3",
+          "raw_cell_value": "-0.02"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Education",
+        "r": -0.03,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "6. Boundary Spanning Activities",
+          "col_header_quote": "4",
+          "raw_cell_value": "-0.03"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Organizational Tenure",
+        "r": 0.26,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "6. Boundary Spanning Activities",
+          "col_header_quote": "5",
+          "raw_cell_value": "0.26",
+          "extra_flags": [
+            "Log transformation: [Table 1 Footnote, p. 286] \"* Using the log of age and organizational tenure.\""
+          ]
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Role Ambiguity",
+        "r": 0.01,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "7. Role Ambiguity",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.01"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Role Conflict",
+        "r": 0.15,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "8. Role Conflict",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.15"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Overall Job Satisfaction",
+        "r": 0.1,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "9. Overall Job Satisfaction",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.10"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Organizational Commitment",
+        "r": 0.15,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "10. Organizational Commitment",
+          "col_header_quote": "6",
+          "raw_cell_value": "0.15"
+        }
+      },
+      {
+        "var1_anchor": "Boundary Spanning Activities",
+        "var2_anchor": "Intention to Leave",
+        "r": -0.17,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 286,
+          "row_header_quote": "11. Intention to Leave",
+          "col_header_quote": "6",
+          "raw_cell_value": "-0.17"
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary Spanning Activities",
+      "classification_type": "BS",
+      "number_of_items": 10,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "ten-item instrument developed by Miles and Perreault (1976) and used by Baroudi (1985)",
+      "source_quote": "[Methodology, p. 282] \"Boundary spanning activities, defined as communication beyond an employee's immediate department, were measured by modifying the ten-item instrument developed by Miles and Perreault (1976) and used by Baroudi (1985). The measure is useful to investigate several aspects of boundary spanning activities, including internal verbal and written communication, formal meetings and written communication, and informal contact and written communication. Each item was scored on a five-point scale ranging from (1) not part of my job to (5) a very significant part of my job.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.83
+      },
+      "mean": 2.19,
+      "sd": 0.7
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Type of Employee",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Employee type was coded (1 = IC; 2 = IS) on the questionnaire cover sheet.",
+      "source_quote": "[Measures, p. 282] \"The analysis included five demographic variables: employee type, gender, age, organizational tenure, and education. Employee type was coded (1 = IC; 2 = IS) on the questionnaire cover sheet.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.64,
+      "sd": 0.48
+    },
+    {
+      "table_anchor_name": "Age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Age was measured in years.",
+      "source_quote": "[Measures, p. 282] \"Age was measured in years.\" [Sample and Procedure, p. 282] \"Because organizational tenure and age are not normally distributed, a logarithmic transformation has been used (Velleman and Hoaglin 1981).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.51,
+      "sd": 0.79
+    },
+    {
+      "table_anchor_name": "Gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Gender was assessed with a fixed-response item",
+      "source_quote": "[Measures, p. 282] \"Gender was assessed with a fixed-response item (1 = female; 2 = male).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.53,
+      "sd": 0.5
+    },
+    {
+      "table_anchor_name": "Education",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 4,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Education consisted of four levels from (1) high school to (4) Ph.D. degree.",
+      "source_quote": "[Measures, p. 282] \"Education consisted of four levels from (1) high school to (4) Ph.D. degree.\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.95,
+      "sd": 0.6
+    },
+    {
+      "table_anchor_name": "Organizational Tenure",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Organizational tenure included length of time employees worked for the company.",
+      "source_quote": "[Measures, p. 282] \"Organizational tenure included length of time employees worked for the company.\" [Sample and Procedure, p. 282] \"Because organizational tenure and age are not normally distributed, a logarithmic transformation has been used (Velleman and Hoaglin 1981).\"",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.46,
+      "sd": 0.37
+    },
+    {
+      "table_anchor_name": "Role Ambiguity",
+      "classification_type": "NB",
+      "number_of_items": 999,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "scales developed by Rizzo, House and Lirtzman (1970)",
+      "source_quote": "[Methodology, p. 283] \"Role ambiguity and role conflict were operationalized by the scales developed by Rizzo, House and Lirtzman (1970). Each scale was scored using a seven-point response mode ranging from (1) 'very false' to (7) 'very true.'\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.84
+      },
+      "mean": 3.13,
+      "sd": 0.95
+    },
+    {
+      "table_anchor_name": "Role Conflict",
+      "classification_type": "NB",
+      "number_of_items": 999,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "scales developed by Rizzo, House and Lirtzman (1970)",
+      "source_quote": "[Methodology, p. 283] \"Role ambiguity and role conflict were operationalized by the scales developed by Rizzo, House and Lirtzman (1970). Each scale was scored using a seven-point response mode ranging from (1) 'very false' to (7) 'very true.'\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.78
+      },
+      "mean": 4.03,
+      "sd": 0.96
+    },
+    {
+      "table_anchor_name": "Overall Job Satisfaction",
+      "classification_type": "NB",
+      "number_of_items": 999,
+      "min_score": 0,
+      "max_score": 3,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Job Descriptive Index (JDI) developed by Smith, Kendall and Hulin (1969)",
+      "source_quote": "[Measures, p. 283] \"Satisfaction was assessed through the Job Descriptive Index (JDI) developed by Smith, Kendall and Hulin (1969). The JDI measures satisfaction with five facets of the job: the work itself, supervision, coworkers, pay, and promotion. The three-point JDI responses were defined so that a negative response ('yes' to a negative item or 'no' to a positive item) was scored 0. A positive response was scored 3, and 'I don't know' response ('?') was scored 2. Therefore, the five subscales were aggregated and averaged to create a composite measure of overall job satisfaction. The alpha reliability coefficient for the overall job satisfaction scale was 0.82.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.82
+      },
+      "mean": 1.77,
+      "sd": 0.45
+    },
+    {
+      "table_anchor_name": "Organizational Commitment",
+      "classification_type": "NB",
+      "number_of_items": 9,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "abbreviated version of the Organizational Commitment Question (OCQ) developed by Porter et al. (1976)",
+      "source_quote": "[Measures, pp. 283-284] \"It is measured by an abbreviated version of the Organizational Commitment Question (OCQ) developed by Porter et al. (1976). The nine items used to construct the scale tap two of the three dimensions of commitment included in the longer version of the OCQ: (1) a strong belief in and acceptance of the organization's goals and values; and (2) a willingness to exert considerable effort on behalf of the organization. The response options to the items ranged from (1) strongly disagree to (5) strongly agree. The reliability coefficient (alpha) for this scale was 0.87.\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.87
+      },
+      "mean": 4.46,
+      "sd": 1.27
+    },
+    {
+      "table_anchor_name": "Intention to Leave",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "three items developed by Mobley, Horner and Hollingsworth (1978)",
+      "source_quote": "[Methodology, p. 284] \"Intention was measured via three items developed by Mobley, Horner and Hollingsworth (1978), and assessed the employee's intent to leave the organization. Responses to each item were recorded on a five-point scale ranging from (1) 'very unlikely' to (5) 'very likely.'\"",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.89
+      },
+      "mean": 2.71,
+      "sd": 1.04
+    }
+  ]
+}

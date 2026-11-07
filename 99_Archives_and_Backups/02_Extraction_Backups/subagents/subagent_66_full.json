@@ -1,6 +1,12 @@
 {
-  "verdict": "0 = exclude",
-  "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
-  "reasoning": "The study fails Node 0 Pre-Extraction Screening Gate and the Level of Analysis (LoA) Circuit Breaker. Although 73 project leaders completed surveys, the dependent variables and outcomes are aggregated at the project level (N = 73 completed NPD projects, evaluating project commercial/financial success, project duration, and team size). Under the Level of Analysis Aggregation Protocol (Screening Rule 1 & Rule 4, Extraction Rule 12), studies correlating leader BSB with project-level or firm-level aggregated outcomes constitute aggregated data and must be excluded under Code 3 to prevent cross-level ecological fallacy.",
-  "verbatim_evidence": "[Methodology] Project leaders were required to complete the questionnaire with reference to a completed NPD project. [Abstract] A Partial Least Squares test on 73 NPD projects showed that [Appendix 1 Table b] Characteristics of the NPD projects (N=73). Project duration, Project team size. [Appendix 2] Commercial and financial success: Did this project allow your firm to win new markets?"
+  "paper_id": 66,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "3 = Non-individual level (team/firm/org analysis)",
+  "node_0_screening": {
+    "paper_id": 66,
+    "verdict": "0 = exclude",
+    "exclusion_code": "3 = Non-individual level (team/firm/org analysis)",
+    "rationale": "Team-level unit of analysis; boundary-spanning construct and correlations reported exclusively at the team level."
+  }
 }

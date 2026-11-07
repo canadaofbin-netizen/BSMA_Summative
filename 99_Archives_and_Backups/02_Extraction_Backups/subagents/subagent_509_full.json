@@ -1,0 +1,503 @@
+{
+  "paper_id": 509,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "International / Multiple countries",
+    "country_specify": "Afghanistan (26%), Asia elsewhere (31%), Africa (31%), Europe (4%), Americas (4%), Oceania (1%), Unspecified (3%)",
+    "international_context": "1 = Cross-national",
+    "sample_size_n": 137,
+    "listwise_n": 137,
+    "mean_age": 40,
+    "pct_female": 31,
+    "org_tenure": 999,
+    "occupation_type": "Humanitarian aid workers (local and expatriate staff across 59 aid organizations)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 600,
+    "listwise_n": 137,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary‐spanning leadership",
+        "classification_type": "BS",
+        "mean": 5.19,
+        "sd": 1.51,
+        "reliability_table": 0.86
+      },
+      {
+        "table_anchor_name": "Collaboration",
+        "classification_type": "NB",
+        "mean": 4.85,
+        "sd": 1.35,
+        "reliability_table": 0.9
+      },
+      {
+        "table_anchor_name": "Leader in‐group prototypicality",
+        "classification_type": "NB",
+        "mean": 4.96,
+        "sd": 1.64,
+        "reliability_table": 0.88
+      },
+      {
+        "table_anchor_name": "Field learning",
+        "classification_type": "NB",
+        "mean": 4.54,
+        "sd": 1.49,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Field creativity",
+        "classification_type": "NB",
+        "mean": 4.89,
+        "sd": 1.47,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Group membership",
+        "classification_type": "NB",
+        "mean": 1.64,
+        "sd": 0.48,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "In‐group size",
+        "classification_type": "NB",
+        "mean": 36,
+        "sd": 95,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Out‐group size",
+        "classification_type": "NB",
+        "mean": 51,
+        "sd": 101,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Leader gender",
+        "classification_type": "NB",
+        "mean": 1.67,
+        "sd": 0.47,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Leader age",
+        "classification_type": "NB",
+        "mean": 46,
+        "sd": 11,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Follower gender",
+        "classification_type": "NB",
+        "mean": 1.68,
+        "sd": 0.46,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Follower age",
+        "classification_type": "NB",
+        "mean": 40,
+        "sd": 11,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Armed conflict setting",
+        "classification_type": "NB",
+        "mean": 0.42,
+        "sd": 0.49,
+        "reliability_table": 999
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Collaboration",
+        "r": 0.67,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "2 Collaboration",
+          "col_header_quote": "1",
+          "raw_cell_value": ".67**",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Leader in‐group prototypicality",
+        "r": 0.37,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "3 Leader in‐group prototypicality",
+          "col_header_quote": "1",
+          "raw_cell_value": ".37**",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Field learning",
+        "r": 0.42,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "4 Field learning",
+          "col_header_quote": "1",
+          "raw_cell_value": ".42**",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Field creativity",
+        "r": 0.47,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "5 Field creativity",
+          "col_header_quote": "1",
+          "raw_cell_value": ".47**",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Group membership",
+        "r": 0.07,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "6 Group membership",
+          "col_header_quote": "1",
+          "raw_cell_value": ".07",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "In‐group size",
+        "r": -0.18,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "7 In‐group size",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.18*",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Out‐group size",
+        "r": -0.11,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "8 Out‐group size",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.11",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Leader gender",
+        "r": -0.09,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "9 Leader gender",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.09",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Leader age",
+        "r": -0.26,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "10 Leader age",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.26**",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Follower gender",
+        "r": 0.23,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "11 Follower gender",
+          "col_header_quote": "1",
+          "raw_cell_value": ".23*",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Follower age",
+        "r": 0.02,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "12 Follower age",
+          "col_header_quote": "1",
+          "raw_cell_value": ".02",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      },
+      {
+        "var1_anchor": "Boundary‐spanning leadership",
+        "var2_anchor": "Armed conflict setting",
+        "r": -0.04,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 600,
+          "row_header_quote": "13 Armed conflict setting",
+          "col_header_quote": "1",
+          "raw_cell_value": "−.04",
+          "sample_n_footnote": "\"Note. N = 137. Cronbach's Alphas are provided in parentheses where applicable. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations. *p < .05. **p < .001.\""
+        }
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary‐spanning leadership",
+      "classification_type": "BS",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": "Expatriate and local humanitarian aid workers rated their field office manager.",
+      "specific_measure_used": "Intergroup Rhetoric Scale by Rast (2013)",
+      "source_quote": "We measured boundary-spanning leadership using a three-item scale adopted from the Intergroup Rhetoric Scale by Rast (2013). We separately asked expatriate and local respondents to describe whether their field office manager (1) “interacts frequently with both local and expatriate employees”, (2) “is equally available for the local and expatriate employees during office hours”, and (3) “puts a lot of effort in strengthening the relationship between the local and expatriate group”. Participants completed this measure via a 7-point Likert scale (1 = not at all, 7 = very much), with high scores indicating stronger perceptions that the field office manager engages in boundary spanning. Factor loadings for each item were .83, .83, and .79, respectively, with a Cronbach's alpha of .86.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.86
+      },
+      "mean": 5.19,
+      "sd": 1.51
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Collaboration",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Jap (2001)",
+      "source_quote": "We then measured the perceived effectiveness of collaboration using a three-item scale adopted from Jap (2001). Participants completed this measure via a 7-point Likert scale (1 = strongly disagree, 7 = strongly agree), with high scores indicating a high degree of perceived collaboration between groups. Factor loadings for each item were .84, .82, and .95, respectively, with a Cronbach's alpha of .90.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.9
+      },
+      "mean": 4.85,
+      "sd": 1.35
+    },
+    {
+      "table_anchor_name": "Leader in‐group prototypicality",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": null,
+      "specific_measure_used": "van Knippenberg and van Knippenberg (2005)",
+      "source_quote": "To measure leader in-group prototypicality, we utilized a three-item scale adopted from van Knippenberg and van Knippenberg (2005). Participants completed the measure via a 7-point Likert scale (1 = not at all, 7 = very much), with high scores indicating stronger perceptions that the field office manager is highly in-group prototypical for the respondent's group. Factor loadings for each item were .76, .89, and .88, respectively, with a Cronbach's alpha of .88.",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.88
+      },
+      "mean": 4.96,
+      "sd": 1.64
+    },
+    {
+      "table_anchor_name": "Field learning",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Ahmad & Schroeder, 2003; Fugate, Stank, & Mentzer, 2009",
+      "source_quote": "We developed an item for field learning based on reports from the field-level learning and organizational learning literatures (e.g., Ahmad & Schroeder, 2003; Fugate, Stank, & Mentzer, 2009). Namely, we asked: (1) “In comparison to other comparable field offices, how would you judge the operational learning of your field office (i.e., learning between programs, expatriates, and local employees)?” Participants completed both items via a 7‐point Likert scale ranging from −3 = far worse (1) to +3 = far better (7), with high scores suggesting a high level of perceived learning or creativity.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 4.54,
+      "sd": 1.49
+    },
+    {
+      "table_anchor_name": "Field creativity",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 7,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Hargadon & Bechky, 2006; Ramalingam et al., 2009",
+      "source_quote": "Likewise, we used the team creativity literature and humanitarian case studies (e.g., Hargadon & Bechky, 2006; Ramalingam et al., 2009) to construct a single-item scale for field creativity. We asked: (1) “In comparison to other comparable field offices, how would you judge the operational creativity of your field office (i.e., finding solutions to difficult problems)?” Participants completed both items via a 7‐point Likert scale ranging from −3 = far worse (1) to +3 = far better (7), with high scores suggesting a high level of perceived learning or creativity.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 4.89,
+      "sd": 1.47
+    },
+    {
+      "table_anchor_name": "Group membership",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Group membership was coded 0 = local and 1 = expatriate",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.64,
+      "sd": 0.48
+    },
+    {
+      "table_anchor_name": "In‐group size",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "in-group size",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 36,
+      "sd": 95
+    },
+    {
+      "table_anchor_name": "Out‐group size",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "out-group size",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 51,
+      "sd": 101
+    },
+    {
+      "table_anchor_name": "Leader gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": null,
+      "specific_measure_used": "Gender was coded 1 = male and 2 = female",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.67,
+      "sd": 0.47
+    },
+    {
+      "table_anchor_name": "Leader age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "5 = Subordinate-report",
+      "report_type_note": null,
+      "specific_measure_used": "leader's and aid workers' age and gender",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 46,
+      "sd": 11
+    },
+    {
+      "table_anchor_name": "Follower gender",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 1,
+      "max_score": 2,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Gender was coded 1 = male and 2 = female",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 1.68,
+      "sd": 0.46
+    },
+    {
+      "table_anchor_name": "Follower age",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "leader's and aid workers' age and gender",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 40,
+      "sd": 11
+    },
+    {
+      "table_anchor_name": "Armed conflict setting",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "4 = Objective / Sociometric",
+      "report_type_note": null,
+      "specific_measure_used": "Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations",
+      "source_quote": "In this vein, we included group membership, in-group size, out-group size, leader's and aid workers' age and gender, and armed conflict setting. Group membership was coded 0 = local and 1 = expatriate. Gender was coded 1 = male and 2 = female. Armed conflict setting was coded 1 = responses from Afghanistan, Iraq, Yemen, South Sudan, Nigeria, Chad, Kenya, Congo, and Pakistan and 0 = responses from other field locations.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.42,
+      "sd": 0.49
+    }
+  ]
+}

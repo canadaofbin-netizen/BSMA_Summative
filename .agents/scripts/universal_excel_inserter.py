@@ -576,6 +576,7 @@ def build_rows_for_single_study(study_payload, paper_id, coder_initials, start_e
         composite_quote = bs.get("composite_quote") or sanitize_text(study_payload.get("global_composite_quote") or study_payload.get("composite_quote"))
         for nb in nb_vars:
             r_val = 999
+            row_sample_n = sample_size_n
             cell_proof_note = None
             matched_corr = None
             # Pass 1: Exact pruned anchor match
@@ -598,6 +599,12 @@ def build_rows_for_single_study(study_payload, paper_id, coder_initials, start_e
 
             if matched_corr is not None:
                 r_val = sanitize_numeric(matched_corr.get("r"))
+                corr_n = sanitize_numeric(
+                    matched_corr.get("pairwise_n") if matched_corr.get("pairwise_n") is not None else matched_corr.get("sample_size_n"),
+                    default=999,
+                )
+                if corr_n != 999:
+                    row_sample_n = corr_n
                 cp = matched_corr.get("cell_proof")
                 if cp and isinstance(cp, dict):
                     t_num = cp.get("table_number") or table_number_default
@@ -614,8 +621,15 @@ def build_rows_for_single_study(study_payload, paper_id, coder_initials, start_e
                         flags.append(f"Latent correlation: {latent_quote}")
                     if composite_quote:
                         flags.append(f"Global composite: {composite_quote}")
-                    if footnote_quote:
-                        flags.append(f"Sample N footnote: {footnote_quote}")
+                    row_fn_quote = sanitize_text(cp.get("sample_n_footnote")) or footnote_quote
+                    if row_fn_quote:
+                        flags.append(f"Sample N footnote: {row_fn_quote}")
+                    extra_flags = cp.get("extra_flags")
+                    if isinstance(extra_flags, list):
+                        for ef in extra_flags:
+                            ef_clean = sanitize_text(ef)
+                            if ef_clean:
+                                flags.append(ef_clean)
                     cell_proof_note = base_str + (" | " + " | ".join(flags) if flags else "")
                 elif cp and isinstance(cp, str):
                     cp_clean = clean_ellipses_for_rule13(cp)
@@ -645,7 +659,7 @@ def build_rows_for_single_study(study_payload, paper_id, coder_initials, start_e
                 country,                 # Col 19: Country
                 country_specify,         # Col 20: Country (specify)
                 international_context,   # Col 21: International Context
-                sample_size_n,           # Col 22: Sample size (N)
+                row_sample_n,            # Col 22: Sample size (N)
                 mean_age,                # Col 23: Mean Age
                 pct_female,              # Col 24: % Female
                 org_tenure,              # Col 25: Org Tenure

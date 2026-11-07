@@ -1,0 +1,12 @@
+{
+  "paper_id": 384,
+  "coder_initials": "KY",
+  "judgment": "0 = exclude",
+  "reason_for_exclusion": "6 = Duplicate / retracted",
+  "node_0_screening": {
+    "paper_id": 384,
+    "verdict": "0 = exclude",
+    "exclusion_code": "6 = Duplicate / retracted",
+    "rationale": "Duplicate / overlapping doctoral dissertation or conference record superseded by published study in corpus."
+  }
+}

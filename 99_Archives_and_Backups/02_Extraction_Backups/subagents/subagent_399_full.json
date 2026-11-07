@@ -1,0 +1,249 @@
+{
+  "paper_id": 399,
+  "coder_initials": "KY",
+  "judgment": "1 = include",
+  "reason_for_exclusion": null,
+  "study_sample_descriptor": {
+    "study_design": "1 = Cross-sectional design",
+    "study_design_other": null,
+    "country": "United States",
+    "country_specify": "Mid-Atlantic United States",
+    "international_context": "0 = Domestic",
+    "sample_size_n": 190,
+    "listwise_n": 190,
+    "mean_age": 999,
+    "pct_female": 999,
+    "org_tenure": 999,
+    "occupation_type": "MBA students (consulting teams)"
+  },
+  "boundary_spanning_matrix": {
+    "table_number": "Table 1",
+    "table_page_number": 1432,
+    "listwise_n": 190,
+    "is_latent": false,
+    "latent_evidence_quote": null,
+    "table_footnote_quote": null,
+    "variables": [
+      {
+        "table_anchor_name": "Boundary-spanning behavior",
+        "classification_type": "BS",
+        "mean": 2.91,
+        "sd": 0.7,
+        "reliability_table": 0.86
+      },
+      {
+        "table_anchor_name": "Boundary-spanning role",
+        "classification_type": "NB",
+        "mean": 3.09,
+        "sd": 0.82,
+        "reliability_table": 0.86
+      },
+      {
+        "table_anchor_name": "Boundary-spanning self-efficacy",
+        "classification_type": "NB",
+        "mean": 4.07,
+        "sd": 0.69,
+        "reliability_table": 0.92
+      },
+      {
+        "table_anchor_name": "Asian ethnicity",
+        "classification_type": "NB",
+        "mean": 0.31,
+        "sd": 0.46,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "GMAT score",
+        "classification_type": "NB",
+        "mean": 653.9,
+        "sd": 57.89,
+        "reliability_table": 999
+      },
+      {
+        "table_anchor_name": "Role overload",
+        "classification_type": "NB",
+        "mean": 2.47,
+        "sd": 0.85,
+        "reliability_table": 0.83
+      }
+    ],
+    "correlations": [
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Boundary-spanning role",
+        "r": 0.4,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1432,
+          "row_header_quote": "2. Boundary-spanning role",
+          "col_header_quote": "1. Boundary-spanning behavior",
+          "raw_cell_value": ".40**",
+          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 186 for \"Boundary-spanning role\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+        },
+        "pairwise_n": 186
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Boundary-spanning self-efficacy",
+        "r": 0.25,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1432,
+          "row_header_quote": "3. Boundary-spanning self-efficacy",
+          "col_header_quote": "1. Boundary-spanning behavior",
+          "raw_cell_value": ".25**",
+          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 190 for \"Boundary-spanning self-efficacy\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+        },
+        "pairwise_n": 190
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Asian ethnicity",
+        "r": -0.23,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1432,
+          "row_header_quote": "4. Asian ethnicity",
+          "col_header_quote": "1. Boundary-spanning behavior",
+          "raw_cell_value": "-.23**",
+          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 182 for \"Asian ethnicity\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+        },
+        "pairwise_n": 182
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "GMAT score",
+        "r": -0.19,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1432,
+          "row_header_quote": "5. GMAT score",
+          "col_header_quote": "1. Boundary-spanning behavior",
+          "raw_cell_value": "-.19*",
+          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 177 for \"GMAT score\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+        },
+        "pairwise_n": 177
+      },
+      {
+        "var1_anchor": "Boundary-spanning behavior",
+        "var2_anchor": "Role overload",
+        "r": -0.04,
+        "cell_proof": {
+          "table_number": "Table 1",
+          "table_page_number": 1432,
+          "row_header_quote": "6. Role overload",
+          "col_header_quote": "1. Boundary-spanning behavior",
+          "raw_cell_value": "-.04",
+          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 186 for \"Role overload\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+        },
+        "pairwise_n": 186
+      }
+    ]
+  },
+  "boundary_spanning_measures": [
+    {
+      "table_anchor_name": "Boundary-spanning behavior",
+      "classification_type": "BS",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "2 = Peer-report",
+      "report_type_note": "Peer ratings aggregated across consulting team members rating each individual teammate (median rwg = .80, ICC[1] = .28, ICC[2] = .71).",
+      "specific_measure_used": "Ancona and Caldwell's (1992)",
+      "source_quote": "Closely following existing research, we measured individual boundary-spanning behavior with six items adapted directly from Ancona and Caldwell's (1992) study and modified to reflect the current consulting team context. Team members rated the degree to which each of their teammates engaged in boundary-spanning behaviors (1, \"not at all,\" to 5, \"to a very great extent\"). A principal components analysis yielded a single factor (alpha = .86).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.86
+      },
+      "mean": 2.91,
+      "sd": 0.7
+    }
+  ],
+  "non_bs_measures": [
+    {
+      "table_anchor_name": "Boundary-spanning role",
+      "classification_type": "NB",
+      "number_of_items": 6,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "role theory",
+      "source_quote": "In accordance with role theory, we had all participants rate the extent to which they perceived each of the six boundary-spanning behaviors as an expected part of their responsibilities (1, \"not at all,\" to 5, \"to a very great extent\"). Principal components analysis yielded a single factor (alpha = .86).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.86
+      },
+      "mean": 3.09,
+      "sd": 0.82
+    },
+    {
+      "table_anchor_name": "Boundary-spanning self-efficacy",
+      "classification_type": "NB",
+      "number_of_items": 8,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Parker's (1998)",
+      "source_quote": "We measured boundary-spanning self-efficacy by asking team members to rate their confidence in their ability to successfully engage in a variety of boundary-spanning behaviors. Scale items were based in part upon Parker's (1998) role breadth self-efficacy scale, which asks respondents to rate how confident they feel about contacting individuals outside of their own work units. Eight items were rated on a five-point disagree/agree Likert scale, and principal components analysis yielded a single factor (alpha = .92).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.92
+      },
+      "mean": 4.07,
+      "sd": 0.69
+    },
+    {
+      "table_anchor_name": "Asian ethnicity",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 0,
+      "max_score": 1,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Williams & O'Reilly, 1998",
+      "source_quote": "Previous research has shown effects among demographic attributes and employee attitudes and behaviors (Williams & O'Reilly, 1998). Consequently, we included Asian ethnicity (1, \"Asian,\" and 0, \"other\"), and GMAT score (a continuous score) as controls when predicting individual boundary-spanning behavior.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 0.31,
+      "sd": 0.46
+    },
+    {
+      "table_anchor_name": "GMAT score",
+      "classification_type": "NB",
+      "number_of_items": 1,
+      "min_score": 999,
+      "max_score": 999,
+      "report_type": "4 = Objective / Sociometric",
+      "report_type_note": null,
+      "specific_measure_used": "GMAT score",
+      "source_quote": "Consequently, we included Asian ethnicity (1, \"Asian,\" and 0, \"other\"), and GMAT score (a continuous score) as controls when predicting individual boundary-spanning behavior.",
+      "reliability": {
+        "type": "Not_Applicable",
+        "value": 999
+      },
+      "mean": 653.9,
+      "sd": 57.89
+    },
+    {
+      "table_anchor_name": "Role overload",
+      "classification_type": "NB",
+      "number_of_items": 3,
+      "min_score": 1,
+      "max_score": 5,
+      "report_type": "1 = Self-report",
+      "report_type_note": null,
+      "specific_measure_used": "Beehr et al. (1976)",
+      "source_quote": "Three items were adapted from Beehr et al. (1976) and modified for the current context. They were rated on a five-point disagree/agree Likert scale. A principal components analysis yielded a single factor (alpha = .83).",
+      "reliability": {
+        "type": "Alpha",
+        "value": 0.83
+      },
+      "mean": 2.47,
+      "sd": 0.85
+    }
+  ]
+}
