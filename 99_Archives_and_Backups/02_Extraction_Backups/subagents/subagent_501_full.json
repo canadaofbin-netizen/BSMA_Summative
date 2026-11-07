@@ -99,10 +99,10 @@
           "row_header_quote": "T1 ACAP",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.445***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T1-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T1-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -116,10 +116,10 @@
           "row_header_quote": "T1 JE",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.327***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T1-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T1-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -133,10 +133,10 @@
           "row_header_quote": "T2 ACAP",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.297***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T1-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T1-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -150,10 +150,10 @@
           "row_header_quote": "T2 JE",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.191***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T1-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T1-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -167,10 +167,10 @@
           "row_header_quote": "T3 ACAP",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.150**",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T1-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T1-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -184,10 +184,10 @@
           "row_header_quote": "T3 JE",
           "col_header_quote": "T1 BSL",
           "raw_cell_value": "0.124*",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T1-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T1-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -201,10 +201,10 @@
           "row_header_quote": "T2 BSL",
           "col_header_quote": "T1 ACAP",
           "raw_cell_value": "0.159**",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T2-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T2-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -218,10 +218,10 @@
           "row_header_quote": "T2 BSL",
           "col_header_quote": "T1 JE",
           "raw_cell_value": "0.129*",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T2-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T2-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -235,10 +235,10 @@
           "row_header_quote": "T2 ACAP",
           "col_header_quote": "T2 BSL",
           "raw_cell_value": "0.436***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T2-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T2-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -252,10 +252,10 @@
           "row_header_quote": "T2 JE",
           "col_header_quote": "T2 BSL",
           "raw_cell_value": "0.262***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T2-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T2-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -269,10 +269,10 @@
           "row_header_quote": "T3 ACAP",
           "col_header_quote": "T2 BSL",
           "raw_cell_value": "0.328***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T2-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T2-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -286,10 +286,10 @@
           "row_header_quote": "T3 JE",
           "col_header_quote": "T2 BSL",
           "raw_cell_value": "0.186**",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Prospective cross-lagged (T2-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Prospective Cross-Lagged T2-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -303,10 +303,10 @@
           "row_header_quote": "T3 BSL",
           "col_header_quote": "T1 ACAP",
           "raw_cell_value": "0.144*",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T3-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T3-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -320,10 +320,10 @@
           "row_header_quote": "T3 BSL",
           "col_header_quote": "T1 JE",
           "raw_cell_value": "0.095",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T3-T1)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T3-T1, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -337,10 +337,10 @@
           "row_header_quote": "T3 BSL",
           "col_header_quote": "T2 ACAP",
           "raw_cell_value": "0.197***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T3-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T3-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -354,10 +354,10 @@
           "row_header_quote": "T3 BSL",
           "col_header_quote": "T2 JE",
           "raw_cell_value": "0.117*",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Reverse-lagged (T3-T2)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Reverse-Lagged T3-T2, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -371,10 +371,10 @@
           "row_header_quote": "T3 ACAP",
           "col_header_quote": "T3 BSL",
           "raw_cell_value": "0.425***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T3-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T3-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       },
@@ -388,10 +388,10 @@
           "row_header_quote": "T3 JE",
           "col_header_quote": "T3 BSL",
           "raw_cell_value": "0.236***",
-          "sample_n_footnote": "\"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
+          "sample_n_footnote": "[Table 1, p. 179] \"Notes: * p<0.05, ** p<0.01, *** p<0.001. Abbreviations: BSL, Boundary-spanning leadership; ACAP, Absorptive capacity; JE, Job embeddedness.\"",
           "extra_flags": [
-            "Concurrent (T3-T3)",
-            "Reliabilities in Cols 44 & 48 are Composite Reliabilities (CR) from Table 1 (p. 179)"
+            "Wave pairing: [Results - Concurrent T3-T3, p. 178] \"All primary variables exhibited strong correlations among measures within the same time point, and a trend was observed whereby the correlations decreased as the difference in time points increased.\"",
+            "Composite Reliability (CR): [Results, p. 178] \"To evaluate the validity of the measurement instrument, we conducted a confirmatory factor analysis to calculate the average variance extracted (AVE) and the composite reliability (CR), as proposed by Farrell (2010) and Bagozzi and Yi (1988).\""
           ]
         }
       }

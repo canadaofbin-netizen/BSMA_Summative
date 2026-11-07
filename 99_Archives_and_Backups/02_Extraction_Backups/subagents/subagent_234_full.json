@@ -21,7 +21,7 @@
     "table_page_number": 1141,
     "listwise_n": 124,
     "is_latent": true,
-    "latent_evidence_quote": "[p. 1140] \"To assess discriminant validity, Fornell & Larcker (1981) suggested the use of Average Variance Extracted (AVE), which should be greater than the variances shared between the construct. The comparison can be made in the correlation matrix (see Table 2), including the correlations between different constructs in the off-diagonal elements of the matrix, and the square roots of the AVE for each of the constructs along the diagonal.\"",
+    "latent_evidence_quote": "[Results - Performance Implications of Boundary Spanners, p. 1140] \"To assess discriminant validity, Fornell & Larcker (1981) suggested the use of Average Variance Extracted (AVE), which should be greater than the variances shared between the construct. The comparison can be made in the correlation matrix (see Table 2), including the correlations between different constructs in the off-diagonal elements of the matrix, and the square roots of the AVE for each of the constructs along the diagonal.\"",
     "table_footnote_quote": null,
     "variables": [
       {
@@ -159,7 +159,7 @@
       "report_type": "3 = Others",
       "report_type_note": "Sociometric peer nominations: respondents nominated up to five contacts for work-related advice to calculate in-degree centrality for intra- and inter-department contacts; boundary spanners were defined as individuals in the top third of both intra-department and external communication distributions following Tushman & Scanlan (1981b). Single-item sociometric measure; PLS Table 1 single-item internal consistency = 1 is coded 999 per Rule 1.",
       "specific_measure_used": "Sparrowe (2001)",
-      "source_quote": "[Methodology, p. 1138] \"To assess the network relations, we follow the work of Sparrowe (2001) by asking the respondents one question: 'Who do you go to for help or advice on work-related matters?'\" Operationalized as a two-step boundary spanner following Tushman & Scanlan (1981b): individuals who are both internal communication stars (top third of intra-department advice communication distribution) and external communication stars (top third of inter-department advice communication distribution) based on sociometric advice nominations.",
+      "source_quote": "[Measures, p. 1138] \"To assess the network relations, we follow the work of Sparrowe (2001) by asking the respondents one question: 'Who do you go to for help or advice on work-related matters?' Respondents were free to nominate as many as five contacts. After coding the data into the socio-matrices measuring social interaction, we calculated the in-degree centrality for each individual concerning to intra- and inter-department contacts. The in-degree centrality of an actor (individual i) was the number of individuals that ask individual i work-related matters in their answers to the above question. Consistent with Tushman & Scanlan (1981b), internal communication stars were defined as those individuals in the top third of the intra-department communication and external communication stars were defined as those who are in the top third of an external communication distribution. And boundary spanners are those who are both internal and external communication stars (Tushman & Scanlan, 1981b).\"",
       "reliability": {
         "type": "Not_Applicable",
         "value": 999
@@ -178,7 +178,7 @@
       "report_type": "3 = Others",
       "report_type_note": "Sociometric peer nominations: respondents nominated the most competent persons in the company; in-degree centrality was calculated for each individual. Single-item sociometric measure; PLS Table 1 single-item internal consistency = 1 is coded 999 per Rule 1.",
       "specific_measure_used": "Tushman & Scanlan (1981a)",
-      "source_quote": "[Methodology, p. 1139] \"Following the work of Tushman & Scanlan (1981a), we used one question to assess the level of intellectual capability of individuals.\" Single-item sociometric measure assessing intellectual capability by calculating in-degree centrality of peer nominations of the most competent persons in the company.",
+      "source_quote": "[Measures, p. 1139] \"Following the work of Tushman & Scanlan (1981a), we used one question to assess the level of intellectual capability of individuals. The item was: 'Please indicate who are the most competent persons in the company.' To create a single-item measure of competence, we calculated the in-degree centrality for each individual in their answers to the above question.\"",
       "reliability": {
         "type": "Not_Applicable",
         "value": 999
@@ -195,7 +195,7 @@
       "report_type": "3 = Others",
       "report_type_note": "Sociometric peer nominations: respondents nominated individuals on two questions regarding who they rely on without fear and who always keeps promises; in-degree centrality across the two items was used.",
       "specific_measure_used": "We developed two questions to examine the inter-personal trusting relationships in the company",
-      "source_quote": "[Methodology, p. 1139] \"We developed two questions to examine the inter-personal trusting relationships in the company: (1) 'Please indicate whom you can rely on without any fear that they will take advantage of you' and (2) 'In general, who will always keep the promises they make to you?'\" Two-item sociometric measure developed by the authors to assess interpersonal trusting relationships by calculating in-degree centrality of peer nominations.",
+      "source_quote": "[Measures, p. 1139] \"We developed two questions to examine the inter-personal trusting relationships in the company: (1) 'Please indicate whom you can rely on without any fear that they will take advantage of you' and (2) 'In general, who will always keep the promises they make to you?' To measure an actor's trustworthiness, we calculated the in-degree centrality for each individual to measure the level of trustworthiness in his answers to the above question.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.8
@@ -212,7 +212,7 @@
       "report_type": "4 = Objective",
       "report_type_note": "Objective archival data from company records coded hierarchically (0 = non-supervisors, 1 = supervisors, 2 = senior supervisors).",
       "specific_measure_used": "company records",
-      "source_quote": "Single objective item coded from company records reflecting hierarchical formal rank: 0 for non-supervisors, 1 for supervisors, and 2 for senior supervisors who manage supervisors.",
+      "source_quote": "[Measures, p. 1139] \"There are four levels of hierarchy in the company. From company records, we coded rank as 0 for non-supervisors, 1 for supervisors and 2 for senior supervisors who manage some supervisors.\"",
       "reliability": {
         "type": "Not_Applicable",
         "value": 999
@@ -227,9 +227,9 @@
       "min_score": 1,
       "max_score": 5,
       "report_type": "2 = Supervisor-report",
-      "report_type_note": null,
+      "report_type_note": "Three-item scale rated by direct supervisors on a 5-point Likert format adapted from Mehra et al. (2001).",
       "specific_measure_used": "Mehra et al., 2001",
-      "source_quote": "[Methodology, p. 1139] \"Following prior research (Mehra et al., 2001), supervisors related subordinates' innovativeness on three items.\" Three-item scale rated by direct supervisors on a 5-point Likert format adapted from Mehra et al. (2001).",
+      "source_quote": "[Measures, p. 1139] \"Using a six-item scale arranged in five-point Likert format, supervisors rated the performance of those subordinates who reported directly to them.\" \"Following prior research (Mehra et al., 2001), supervisors related subordinates' innovativeness on three items: (1) the degree to which the subordinate generated creative work-related ideas; (2) the degree to which the subordinate promoted and championed work-related ideas to others; and (3) the degree to which the subordinate sought new technologies, processes, techniques and/or product related ideas.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.65
@@ -246,7 +246,7 @@
       "report_type": "2 = Supervisor-report",
       "report_type_note": null,
       "specific_measure_used": "Supervisors related subordinates’ performance on three items",
-      "source_quote": "[Methodology, p. 1139] \"Using a six-item scale arranged in five-point Likert format, supervisors rated the performance of those subordinates who reported directly to them. Supervisors related subordinates’ performance on three items: (1) the overall job performance of the individual; (2) the likelihood that the subordinate would achieve future career-related success (such as promotions, awards, bonuses, and involvement in high-profile projects); and (3) the likelihood you would pick the subordinate to succeed you in your job.\"",
+      "source_quote": "[Measures, p. 1139] \"Using a six-item scale arranged in five-point Likert format, supervisors rated the performance of those subordinates who reported directly to them.\" \"Supervisors related subordinates’ performance on three items: (1) the overall job performance of the individual; (2) the likelihood that the subordinate would achieve future career-related success (such as promotions, awards, bonuses, and involvement in high-profile projects); and (3) the likelihood you would pick the subordinate to succeed you in your job.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.77
@@ -263,7 +263,7 @@
       "report_type": "4 = Objective",
       "report_type_note": "Objective length of time a person has been with the company in years.",
       "specific_measure_used": "length of time a person has been with the company",
-      "source_quote": "Tenure was included as control variables because prior work has suggested that the length of time a person has been with the company is likely to affect his or her work performance.",
+      "source_quote": "[Measures, p. 1139] \"Tenure was included as control variables because prior work has suggested that the length of time a person has been with the company is likely to affect his or her work performance.\"",
       "reliability": {
         "type": "Not_Applicable",
         "value": 999

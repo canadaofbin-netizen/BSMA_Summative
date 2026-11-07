@@ -217,6 +217,7 @@ class BSMAProjectLinter:
             rule14_violations = []
             rule19_violations = []
             populated_papers_count = 0
+            batch_sheet_count = 0
 
             for bf in batch_files:
                 bname = os.path.basename(bf)
@@ -238,6 +239,7 @@ class BSMAProjectLinter:
 
                     # Detailed batch sheet row checks for [start]_[end].xlsx
                     if bname != "BSMA_Master_Coding_Sheet.xlsx" and re.match(r"^\d+_\d+", bname):
+                        batch_sheet_count += 1
                         papers_data = {}
                         for r in range(4, b_ws.max_row + 1):
                             art_id = b_ws.cell(r, 2).value
@@ -250,10 +252,10 @@ class BSMAProjectLinter:
 
                             inc_val = str(b_ws.cell(r, 5).value or "").strip()
 
-                            # Rule 13: Check all text/quote columns for '...'
+                            # Rule 13: Check all text/quote columns for '...' or Unicode '…'
                             for c in [16, 31, 33, 38, 40, 50]:
                                 c_txt = str(b_ws.cell(r, c).value or "")
-                                if "..." in c_txt:
+                                if "..." in c_txt or "\u2026" in c_txt:
                                     rule13_batch_ellipses.append(f"{bname} R{r}C{c} (Paper {art_id})")
 
                             if inc_val.startswith("1"):
@@ -338,16 +340,16 @@ class BSMAProjectLinter:
                 self.add_finding("PASS", category, "Rule 9 Provenance Coordinates verified: 100% of included batch rows start with 'Table X' in Col 50.")
 
             if rule13_batch_ellipses:
-                self.add_finding("WARNING", category, f"Rule 13 violation: {len(rule13_batch_ellipses)} cell(s) in batch sheets contain ellipsis '...'",
+                self.add_finding("WARNING", category, f"Rule 13 violation: {len(rule13_batch_ellipses)} cell(s) in batch sheets contain ellipsis ('...' or '…')",
                                  f"Samples: {rule13_batch_ellipses[:5]}")
             else:
-                self.add_finding("PASS", category, "Rule 13 Verbatim Quotes verified: Zero ellipses ('...') across all 7 batch extraction sheets.")
+                self.add_finding("PASS", category, f"Rule 13 Verbatim Quotes verified: Zero ellipses ('...' / '…') across all {batch_sheet_count} batch extraction sheets.")
 
             if rule14_violations:
                 self.add_finding("WARNING", category, f"Rule 14 violation: {len(rule14_violations)} specific measure name(s) not verbatim substrings of quote columns.",
                                  f"Samples: {rule14_violations[:5]}")
             else:
-                self.add_finding("PASS", category, "Rule 14 Measure Substring Fidelity verified across all 7 batch extraction sheets.")
+                self.add_finding("PASS", category, f"Rule 14 Measure Substring Fidelity verified across all {batch_sheet_count} batch extraction sheets.")
 
             if rule19_violations:
                 self.add_finding("WARNING", category, f"Rule 19 violation: {len(rule19_violations)} cell(s) violate batch sheet blank-column rules.",

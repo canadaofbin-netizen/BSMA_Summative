@@ -13,7 +13,7 @@
     "listwise_n": 253,
     "mean_age": 38.65,
     "pct_female": 12,
-    "org_tenure": 6.65,
+    "org_tenure": 6.69,
     "occupation_type": "R&D technical professionals"
   },
   "boundary_spanning_matrix": {
@@ -63,7 +63,7 @@
         "table_anchor_name": "Tenure",
         "classification_type": "NB",
         "mean": 0.62,
-        "sd": 0.42,
+        "sd": 0.47,
         "reliability_table": 999
       },
       {
@@ -642,25 +642,28 @@
       {
         "var1_anchor": "BSA",
         "var2_anchor": "Sex",
-        "r": 0.06,
+        "r": 0.04,
         "cell_proof": {
           "table_number": "Table 3.9",
           "table_page_number": 131,
           "row_header_quote": "5. Sex",
           "col_header_quote": "1",
-          "raw_cell_value": ".06"
+          "raw_cell_value": ".04"
         }
       },
       {
         "var1_anchor": "BSA",
         "var2_anchor": "Tenure",
-        "r": 0.14,
+        "r": 0.19,
         "cell_proof": {
           "table_number": "Table 3.9",
           "table_page_number": 131,
           "row_header_quote": "6. Tenure",
           "col_header_quote": "1",
-          "raw_cell_value": ".14"
+          "raw_cell_value": ".19",
+          "extra_flags": [
+            "Log transformation: [Data Analysis, p. 63] \"Organizational tenure (Mean=6.65 yrs., sd=6.65) was substantially positively skewed and was converted to a logarithm with base 10 (Tabachnick & Fidell, 1989).\""
+          ]
         }
       },
       {
@@ -690,13 +693,16 @@
       {
         "var1_anchor": "External Com.",
         "var2_anchor": "Tenure",
-        "r": 0.14,
+        "r": 0.19,
         "cell_proof": {
           "table_number": "Table 3.9",
           "table_page_number": 131,
           "row_header_quote": "6. Tenure",
           "col_header_quote": "3",
-          "raw_cell_value": ".14"
+          "raw_cell_value": ".19",
+          "extra_flags": [
+            "Log transformation: [Data Analysis, p. 63] \"Organizational tenure (Mean=6.65 yrs., sd=6.65) was substantially positively skewed and was converted to a logarithm with base 10 (Tabachnick & Fidell, 1989).\""
+          ]
         }
       },
       {
@@ -726,13 +732,16 @@
       {
         "var1_anchor": "Internal Com.",
         "var2_anchor": "Tenure",
-        "r": 0.17,
+        "r": 0.07,
         "cell_proof": {
           "table_number": "Table 3.9",
           "table_page_number": 131,
           "row_header_quote": "6. Tenure",
           "col_header_quote": "2",
-          "raw_cell_value": ".17"
+          "raw_cell_value": ".07",
+          "extra_flags": [
+            "Log transformation: [Data Analysis, p. 63] \"Organizational tenure (Mean=6.65 yrs., sd=6.65) was substantially positively skewed and was converted to a logarithm with base 10 (Tabachnick & Fidell, 1989).\""
+          ]
         }
       }
     ]
@@ -833,15 +842,15 @@
       "min_score": 999,
       "max_score": 999,
       "report_type": "1 = Self-report",
-      "report_type_note": "Log10-transformed organizational tenure in Table 3.9 (M = 0.62, SD = 0.42); untransformed organizational tenure Mean = 6.65 years (SD = 6.65) on p. 63.",
+      "report_type_note": "Log10-transformed organizational tenure in Table 3.9 (M = 0.62, SD = 0.47); untransformed organizational tenure Mean = 6.69 years in Table 3.4 (p. 126; in-text p. 63 reports Mean = 6.65, SD = 6.65).",
       "specific_measure_used": "number of years an individual had worked within the organization",
-      "source_quote": "[Control Variables, pp. 61, 63] \"Tenure was measured as number of years an individual had worked within the organization.\" \"Organizational tenure (Mean=6.65 yrs., sd=6.65) was substantially positively skewed and was converted to a logarithm with base 10.\"",
+      "source_quote": "[Control Variables, p. 61] \"Tenure was measured as number of years an individual had worked within the organization.\" [Data Analysis, p. 63] \"Organizational tenure (Mean=6.65 yrs., sd=6.65) was substantially positively skewed and was converted to a logarithm with base 10 (Tabachnick & Fidell, 1989).\"",
       "reliability": {
         "type": "Not_Applicable",
         "value": 999
       },
       "mean": 0.62,
-      "sd": 0.42
+      "sd": 0.47
     },
     {
       "table_anchor_name": "Status",

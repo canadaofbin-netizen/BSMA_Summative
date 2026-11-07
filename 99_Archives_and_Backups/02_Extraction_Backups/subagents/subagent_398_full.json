@@ -5,7 +5,7 @@
   "reason_for_exclusion": null,
   "study_sample_descriptor": {
     "study_design": "2 = Longitudinal design",
-    "study_design_other": null,
+    "study_design_other": "Two-wave time-lagged survey separated by a 3-month gap (Wave 1: supportive coaching and boundary-spanning self-efficacy; Wave 2: boundary-spanning behavior and job satisfaction)",
     "country": "United States",
     "country_specify": null,
     "international_context": "0 = Domestic",
@@ -85,7 +85,7 @@
           "row_header_quote": "6. Boundary-spanning behavior",
           "col_header_quote": "1",
           "raw_cell_value": "−.03",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       },
       {
@@ -98,7 +98,7 @@
           "row_header_quote": "6. Boundary-spanning behavior",
           "col_header_quote": "2",
           "raw_cell_value": "−.13",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       },
       {
@@ -111,7 +111,7 @@
           "row_header_quote": "6. Boundary-spanning behavior",
           "col_header_quote": "3",
           "raw_cell_value": ".18*",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       },
       {
@@ -124,7 +124,7 @@
           "row_header_quote": "6. Boundary-spanning behavior",
           "col_header_quote": "4",
           "raw_cell_value": ".19*",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       },
       {
@@ -137,7 +137,7 @@
           "row_header_quote": "6. Boundary-spanning behavior",
           "col_header_quote": "5",
           "raw_cell_value": ".35**",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       },
       {
@@ -150,7 +150,7 @@
           "row_header_quote": "7. Job satisfaction",
           "col_header_quote": "6",
           "raw_cell_value": ".29**",
-          "sample_n_footnote": "\"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
+          "sample_n_footnote": "[Table 1, p. 1143] \"Note: N = 170. Scale reliabilities are along the diagonal in parentheses. Listwise deletion following variable creation. *p < .05 **p < .01\""
         }
       }
     ]

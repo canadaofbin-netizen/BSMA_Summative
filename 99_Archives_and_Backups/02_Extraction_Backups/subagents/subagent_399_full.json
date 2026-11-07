@@ -76,9 +76,9 @@
           "table_number": "Table 1",
           "table_page_number": 1432,
           "row_header_quote": "2. Boundary-spanning role",
-          "col_header_quote": "1. Boundary-spanning behavior",
+          "col_header_quote": "1",
           "raw_cell_value": ".40**",
-          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 186 for \"Boundary-spanning role\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+          "sample_n_footnote": "[Table 1, p. 1432] \"Level 1 Variables n Mean s.d.\" \"1. Boundary-spanning behavior 190 2.91 0.70\" \"2. Boundary-spanning role 186 3.09 0.82\" \"* p < .05 **p< .01\""
         },
         "pairwise_n": 186
       },
@@ -90,9 +90,9 @@
           "table_number": "Table 1",
           "table_page_number": 1432,
           "row_header_quote": "3. Boundary-spanning self-efficacy",
-          "col_header_quote": "1. Boundary-spanning behavior",
+          "col_header_quote": "1",
           "raw_cell_value": ".25**",
-          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 190 for \"Boundary-spanning self-efficacy\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+          "sample_n_footnote": "[Table 1, p. 1432] \"Level 1 Variables n Mean s.d.\" \"1. Boundary-spanning behavior 190 2.91 0.70\" \"3. Boundary-spanning self-efficacy 190 4.07 0.69\" \"* p < .05 **p< .01\""
         },
         "pairwise_n": 190
       },
@@ -104,9 +104,9 @@
           "table_number": "Table 1",
           "table_page_number": 1432,
           "row_header_quote": "4. Asian ethnicity",
-          "col_header_quote": "1. Boundary-spanning behavior",
+          "col_header_quote": "1",
           "raw_cell_value": "-.23**",
-          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 182 for \"Asian ethnicity\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+          "sample_n_footnote": "[Table 1, p. 1432] \"Level 1 Variables n Mean s.d.\" \"1. Boundary-spanning behavior 190 2.91 0.70\" \"4. Asian ethnicity 182 0.31 0.46\" \"* p < .05 **p< .01\""
         },
         "pairwise_n": 182
       },
@@ -118,9 +118,9 @@
           "table_number": "Table 1",
           "table_page_number": 1432,
           "row_header_quote": "5. GMAT score",
-          "col_header_quote": "1. Boundary-spanning behavior",
+          "col_header_quote": "1",
           "raw_cell_value": "-.19*",
-          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 177 for \"GMAT score\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+          "sample_n_footnote": "[Table 1, p. 1432] \"Level 1 Variables n Mean s.d.\" \"1. Boundary-spanning behavior 190 2.91 0.70\" \"5. GMAT score 177 653.90 57.89\" \"* p < .05 **p< .01\""
         },
         "pairwise_n": 177
       },
@@ -132,9 +132,9 @@
           "table_number": "Table 1",
           "table_page_number": 1432,
           "row_header_quote": "6. Role overload",
-          "col_header_quote": "1. Boundary-spanning behavior",
+          "col_header_quote": "1",
           "raw_cell_value": "-.04",
-          "sample_n_footnote": "[Table 1, p. 1432] Variable-specific sample size column reports n = 186 for \"Role overload\" and n = 190 for \"1. Boundary-spanning behavior\" (total individual sample N = 190); \"* p < .05 ** p < .01\"."
+          "sample_n_footnote": "[Table 1, p. 1432] \"Level 1 Variables n Mean s.d.\" \"1. Boundary-spanning behavior 190 2.91 0.70\" \"6. Role overload 186 2.47 0.85\" \"* p < .05 **p< .01\""
         },
         "pairwise_n": 186
       }

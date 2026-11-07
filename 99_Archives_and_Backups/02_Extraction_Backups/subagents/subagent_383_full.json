@@ -488,16 +488,16 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 11 items, alpha = 0.74; footnote a: subscales overlap).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities (Table 1 footnote a: \"This does not add to 19 since some of the subscales overlap\").",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.74
           },
           "mean": 84.4,
           "sd": 45.3,
-          "composite_quote": "[Methodology, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication; external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants; formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others; informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like; selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
+          "composite_quote": "[Methodology - Boundary Spanning, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication. external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants. formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others. informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like. selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
         },
         {
           "table_anchor_name": "informal boundary spanning",
@@ -506,9 +506,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Sub-dimension reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 4 items, alpha = 0.73).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring informal face-to-face or telephone conversations or informal written communication (e.g., informal notes, memos) beyond the product manager's department (4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.73
@@ -523,9 +523,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Sub-dimension reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 4 items, alpha = 0.77).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring formal meetings and formal written communication occurring (e.g., reports or data from others) beyond the product manager's department (4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.77
@@ -540,9 +540,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Internal boundary spanning facet beyond the product manager's department (e.g., finance, production, R&D per Rule 28; Table 1, p. 32: 4 items, alpha = 0.71).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Internal boundary spanning facet measuring internal verbal and written communication beyond the product manager's department (e.g., finance, production, R&D per Rule 28; 4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"internal boundary spanning: internal verbal and written communication.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.71
@@ -557,9 +557,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "External boundary spanning facet outside the firm (Table 1, p. 32: 4 items, alpha = 0.64).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" External boundary spanning facet measuring external verbal and written communication (e.g., customers, suppliers, the trade, consultants per Rule 28; 4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.64
@@ -576,9 +576,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "Overall 10-item Likert scale comprising intrasender, intersender, person-role, and role-overload conflict (Table 1, p. 32: alpha = 0.84; Likert point anchors unstated, coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Overall 10-item role conflict scale from Rizzo, House, and Lirtzman (1970), comprising intrasender, intersender, person-role, and role overload conflict.",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role conflict, defined as the degree of incongruity or incompatibility of expectations associated with a role, was measured by a 10-item Likert scale.\" \"Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.84
@@ -593,9 +593,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "2-item subscale (Table 1, p. 32); subscale alpha not reported in Table 1 (coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Sub-dimension of role conflict measuring incompatibility between expectations of product manager and role expectations (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role conflict, defined as the degree of incongruity or incompatibility of expectations associated with a role, was measured by a 10-item Likert scale.\" \"person role: incompatibility between the expectations of a product manager and the expectations otherwise associated with a role.\" \"Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Not_Applicable",
             "value": 999
@@ -610,9 +610,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "4-item subscale (Table 1, p. 32); subscale alpha not reported in Table 1 (coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Sub-dimension of role conflict measuring incompatible expectations across multiple role senders (4 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role conflict, defined as the degree of incongruity or incompatibility of expectations associated with a role, was measured by a 10-item Likert scale.\" \"intersender: expectations of a role sender incompatible with those of another sender.\" \"Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Not_Applicable",
             "value": 999
@@ -627,9 +627,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "2-item subscale (Table 1, p. 32); subscale alpha not reported in Table 1 (coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Sub-dimension of role conflict measuring incompatible expectations from a single role sender (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role conflict, defined as the degree of incongruity or incompatibility of expectations associated with a role, was measured by a 10-item Likert scale.\" \"intrasender: incompatible expectations from a single role sender.\" \"Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Not_Applicable",
             "value": 999
@@ -644,9 +644,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "2-item subscale (Table 1, p. 32); subscale alpha not reported in Table 1 (coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Sub-dimension of role conflict measuring responsibilities exceeding available time and resources (2 items from Rizzo, House, and Lirtzman (1970); subscale reliability not reported in Table 1).",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role conflict, defined as the degree of incongruity or incompatibility of expectations associated with a role, was measured by a 10-item Likert scale.\" \"role overload: a product manager's responsibilities exceed the time and resources available for accomplishment.\" \"Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Not_Applicable",
             "value": 999
@@ -661,9 +661,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "6-item Likert scale (Table 1, p. 32: alpha = 0.83; Likert point anchors unstated, coded 999 per Rule 1).",
           "specific_measure_used": "Rizzo, House, and Lirtzman (1970)",
-          "source_quote": "Role ambiguity scale measuring inconsistencies about job responsibilities and performance evaluation, developed and validated by Rizzo, House, and Lirtzman (1970); 6 items, alpha 0.83.",
+          "source_quote": "[Methodology - Role Pressures, p. 31] \"Role ambiguity, defined as inconsistencies about job responsibilities and performance evaluation, was measured with a six-item Likert scale. Both of these scales were developed and validated by Rizzo, House, and Lirtzman (1970).\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.83
@@ -876,16 +876,16 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 11 items, alpha = 0.74; footnote a: subscales overlap).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Aggregate boundary spanning composite combining internal, external, formal, informal, and selected boundary spanning activities (Table 1 footnote a: \"This does not add to 19 since some of the subscales overlap\").",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.74
           },
           "mean": 84.4,
           "sd": 45.3,
-          "composite_quote": "[Methodology, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication; external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants; formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others; informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like; selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
+          "composite_quote": "[Methodology - Boundary Spanning, p. 31] \"Aggregate boundary spanning was measured with the following dimensions (these components are examined separately in the analysis): internal boundary spanning: internal verbal and written communication. external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants. formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others. informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like. selected aspects: includes travel and coordinating activities. Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\""
         },
         {
           "table_anchor_name": "informal boundary spanning",
@@ -894,9 +894,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Sub-dimension reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 4 items, alpha = 0.73).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring informal face-to-face or telephone conversations or informal written communication (e.g., informal notes, memos) beyond the product manager's department (4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"informal boundary spanning: informal face-to-face or telephone conversations or informal written communication, e.g., informal notes, memos, and the like.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.73
@@ -911,9 +911,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Sub-dimension reported on continuous frequency scales excluding strictly social contacts (Table 1, p. 32: 4 items, alpha = 0.77).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Sub-dimension of boundary spanning measuring formal meetings and formal written communication occurring (e.g., reports or data from others) beyond the product manager's department (4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"formal boundary spanning: formal meetings and formal written communication occurring, e.g., reports or data from others.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.77
@@ -928,9 +928,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "Internal boundary spanning facet beyond the product manager's department (e.g., finance, production, R&D per Rule 28; Table 1, p. 32: 4 items, alpha = 0.71).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" Internal boundary spanning facet measuring internal verbal and written communication beyond the product manager's department (e.g., finance, production, R&D per Rule 28; 4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"internal boundary spanning: internal verbal and written communication.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.71
@@ -945,9 +945,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported frequencies of boundary activities on continuous scales excluding strictly social contacts.",
+          "report_type_note": "External boundary spanning facet outside the firm (Table 1, p. 32: 4 items, alpha = 0.64).",
           "specific_measure_used": "Aiken and Hage (1972)",
-          "source_quote": "[Methodology, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" External boundary spanning facet measuring external verbal and written communication (e.g., customers, suppliers, the trade, consultants per Rule 28; 4 items).",
+          "source_quote": "[Methodology - Boundary Spanning, p. 31] \"Boundary spanning, defined as communication beyond a product manager's department, was measured by refining an instrument developed by Aiken and Hage (1972) and used by Leifer (1975).\" \"external boundary spanning: external verbal and written communication, e.g., customers, suppliers, trade, consultants.\" \"Product managers reported the frequencies of these boundary activities on continuous scales excluding strictly social contacts.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.64
@@ -964,9 +964,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": null,
+          "report_type_note": "Table 2 variable 'Environmental uncertainty: Perceived'; initial 15-item Duncan (1972) / Spekman (1979) adaptation reduced to 9 items in Table 1 (p. 32, alpha = 0.67); interval scale bounds unstated (coded 999 per Rule 1).",
           "specific_measure_used": "Duncan (1972)",
-          "source_quote": "Perceived environmental uncertainty in decision making adapted from Duncan (1972) and Spekman (1979); Table 1 reports 9 items used in the final administration with alpha 0.67.",
+          "source_quote": "[Methodology - Environmental Uncertainty, p. 30] \"The perceptual measure with 15 interval-scaled items was adapted from a scale developed by Duncan (1972) who identified the main dimensions of uncertainty in decision making.\" \"This study's final instrument benefited from Spekman's (1979) uncertainty instrument which was based on Duncan's scale.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.67
@@ -981,9 +981,9 @@
           "min_score": 999,
           "max_score": 999,
           "report_type": "1 = Self-report",
-          "report_type_note": "Product managers reported objective environmental conditions across structured operational items",
+          "report_type_note": "Table 2 variable 'Environmental uncertainty: Objective'; product managers reported objective environmental conditions across structured items (Table 1, p. 32 reports 7 items and alpha = 0.48; text p. 30 lists six structured dimensions).",
           "specific_measure_used": "objective method to quantify environmental uncertainty",
-          "source_quote": "[Methodology, p. 30] \"The objective method to quantify environmental uncertainty used six structured items: sales and price volatility of the product class, intensity of brand competition, brand switching, advertising activity, delay in feedback of product line decision after implementation, and market share fluctuations.\" Objective environmental uncertainty measuring market volatility across product class and competitors (7 items reported in Table 1; alpha 0.48).",
+          "source_quote": "[Methodology - Environmental Uncertainty, p. 30] \"The objective method to quantify environmental uncertainty used six structured items: sales and price volatility of the product class, intensity of brand competition, brand switching, advertising activity, delay in feedback of product line decision after implementation, and market share fluctuations. These dimensions were identified as major causes of uncertainty for product managers.\"",
           "reliability": {
             "type": "Alpha",
             "value": 0.48

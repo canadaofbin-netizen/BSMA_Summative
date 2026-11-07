@@ -32,7 +32,7 @@
         "reliability_table": 0.83
       },
       {
-        "table_anchor_name": "Type of Employee",
+        "table_anchor_name": "Type of Employee (1 = IC; 2 = IS)",
         "classification_type": "NB",
         "mean": 1.64,
         "sd": 0.48,
@@ -46,7 +46,7 @@
         "reliability_table": 999
       },
       {
-        "table_anchor_name": "Gender",
+        "table_anchor_name": "Gender (1 = Female; 2 = Male)",
         "classification_type": "NB",
         "mean": 1.53,
         "sd": 0.5,
@@ -105,7 +105,7 @@
     "correlations": [
       {
         "var1_anchor": "Boundary Spanning Activities",
-        "var2_anchor": "Type of Employee",
+        "var2_anchor": "Type of Employee (1 = IC; 2 = IS)",
         "r": -0.54,
         "cell_proof": {
           "table_number": "Table 1",
@@ -132,7 +132,7 @@
       },
       {
         "var1_anchor": "Boundary Spanning Activities",
-        "var2_anchor": "Gender",
+        "var2_anchor": "Gender (1 = Female; 2 = Male)",
         "r": -0.02,
         "cell_proof": {
           "table_number": "Table 1",
@@ -252,7 +252,7 @@
   ],
   "non_bs_measures": [
     {
-      "table_anchor_name": "Type of Employee",
+      "table_anchor_name": "Type of Employee (1 = IC; 2 = IS)",
       "classification_type": "NB",
       "number_of_items": 1,
       "min_score": 1,
@@ -286,7 +286,7 @@
       "sd": 0.79
     },
     {
-      "table_anchor_name": "Gender",
+      "table_anchor_name": "Gender (1 = Female; 2 = Male)",
       "classification_type": "NB",
       "number_of_items": 1,
       "min_score": 1,

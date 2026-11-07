@@ -31,6 +31,7 @@ from universal_excel_inserter import (
     smart_anchor_match,
     extract_screening_verdict,
     normalize_measure_details,
+    build_rows_for_single_study,
 )
 
 
@@ -80,7 +81,7 @@ def find_var_entry(anchor_name: str, json_vars: Dict[str, Dict[str, Any]]) -> Op
 
 
 def find_corr_entries(bs_name: str, nb_name: str, json_corrs: List[Tuple[str, str, float]]) -> List[float]:
-    """Find all matching correlation r values between bs_name and nb_name across studies."""
+    """Find all matching correlation r values between bs_name and nb_name within a study."""
     bs_norm = normalize_anchor(bs_name)
     nb_norm = normalize_anchor(nb_name)
     exact_matches = [
@@ -102,8 +103,8 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
     Compare JSON extraction output against Excel sheet data for a specific paper.
     Returns: (passed, violations, confirmations)
     """
-    violations = []
-    confirmations = []
+    violations: List[str] = []
+    confirmations: List[str] = []
 
     if not os.path.exists(excel_path):
         return False, [f"Excel file not found: {excel_path}"], []
@@ -143,6 +144,8 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
         ], []
 
     if excel_is_excluded:
+        if len(paper_rows) != 1:
+            violations.append(f"Excluded Paper [{paper_id}] expects 1 row, but Excel has {len(paper_rows)} rows.")
         # Also verify Cols 7-50 are blank per Rule 19
         non_blank = [c for c in range(7, 51) if ws.cell(first_row, c).value not in (None, "")]
         if non_blank:
@@ -165,33 +168,96 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
     else:
         study_payloads = [payload]
 
-    json_vars: Dict[str, Dict[str, Any]] = {}
-    json_corrs: List[Tuple[str, str, float]] = []
-    json_corr_ns: List[Tuple[str, str, float]] = []
-    expected_ns: List[float] = []
-    expected_ages: List[float] = []
-    expected_females: List[float] = []
-    expected_tenures: List[float] = []
+    # Compute deterministic Cartesian row slice per study when full BS/NB definitions exist
+    import io
+    import contextlib
+    from collections import Counter
+    expected_slice_rows: List[List[List[Any]]] = []
+    eff_counter = 1
+    with contextlib.redirect_stdout(io.StringIO()):
+        for st_payload in study_payloads:
+            st_built, eff_counter = build_rows_for_single_study(st_payload, paper_id, "KY", start_eff_id=eff_counter)
+            expected_slice_rows.append(st_built)
 
-    def merge_var_entry(name: str, data: Dict[str, Any]):
-        if not name:
-            return
-        norm = normalize_anchor(name)
-        if not norm:
-            return
-        entry = json_vars.setdefault(norm, {"raw_name": name})
-        for k, v in data.items():
-            raw_v = extract_reliability_val(v) if k == "reliability" else v
-            m_val = parse_metric(raw_v)
-            if m_val is not None:
-                vals_list = entry.setdefault(f"{k}_vals", [])
-                if not any(abs(m_val - existing) <= 1e-4 for existing in vals_list):
-                    vals_list.append(m_val)
-                entry[k] = v
-            elif k not in entry:
-                entry[k] = v
+    study_slices: List[Tuple[Dict[str, Any], List[int], str, List[List[Any]]]] = []
+    if all(len(st_b) > 0 for st_b in expected_slice_rows):
+        expected_counts = [len(st_b) for st_b in expected_slice_rows]
+        expected_total = sum(expected_counts)
+        if len(paper_rows) != expected_total:
+            violations.append(
+                f"Cartesian Row Count mismatch for Paper [{paper_id}]: "
+                f"JSON expects {expected_total} rows (slices {expected_counts}), "
+                f"but Excel has {len(paper_rows)} rows."
+            )
+        offset = 0
+        for idx, (st_payload, st_b) in enumerate(zip(study_payloads, expected_slice_rows), start=1):
+            cnt = len(st_b)
+            st_lbl = f"[Study {idx}] " if len(study_payloads) > 1 else ""
+            study_slices.append((st_payload, paper_rows[offset:offset + cnt], st_lbl, st_b))
+            offset += cnt
+    else:
+        # Partial specialist JSON fallback (e.g., Specialist A or B standalone check without full BS/NB join)
+        for idx, st_payload in enumerate(study_payloads, start=1):
+            st_lbl = f"[Study {idx}] " if len(study_payloads) > 1 else ""
+            study_slices.append((st_payload, paper_rows, st_lbl, []))
 
-    for st_payload in study_payloads:
+    def get_var_candidates(j_var: Dict[str, Any], *keys: str) -> List[float]:
+        out: List[float] = []
+        for k in keys:
+            for v in j_var.get(f"{k}_vals", []):
+                if not any(abs(v - x) <= 1e-4 for x in out):
+                    out.append(v)
+        return out
+
+    def check_cell_parity(row_num: int, prefix: str, field_lbl: str, col_i: int, candidate_nums: List[float]):
+        if not candidate_nums:
+            return
+        ex_raw = ws.cell(row_num, col_i).value
+        ex_num = parse_metric(ex_raw)
+        if ex_num is None:
+            violations.append(f"Row {row_num} {prefix} {field_lbl}: JSON has {candidate_nums}, but Excel has '{ex_raw}' (dropped to 999).")
+        elif not any(abs(c_num - ex_num) <= 1e-3 for c_num in candidate_nums):
+            violations.append(f"Row {row_num} {prefix} {field_lbl}: JSON has {candidate_nums}, but Excel has '{ex_num}' (value mismatch).")
+        else:
+            confirmations.append(f"Row {row_num} {prefix} {field_lbl} verified: {ex_raw}")
+
+    # 3. Verify each study slice independently (preventing cross-study pooling collisions)
+    for st_payload, st_rows, st_lbl, st_built in study_slices:
+        if not st_rows:
+            continue
+        if st_built and len(st_rows) == len(st_built):
+            exp_pairs = Counter((normalize_anchor(b[40]), normalize_anchor(b[44])) for b in st_built)
+            act_pairs = Counter((normalize_anchor(ws.cell(r, 41).value), normalize_anchor(ws.cell(r, 45).value)) for r in st_rows)
+            if exp_pairs != act_pairs:
+                missing_p = list((exp_pairs - act_pairs).elements())
+                extra_p = list((act_pairs - exp_pairs).elements())
+                violations.append(
+                    f"{st_lbl}Cartesian Variable Pair bijection mismatch for Paper [{paper_id}]: "
+                    f"missing pairs={missing_p}, unexpected pairs={extra_p}."
+                )
+
+        json_vars: Dict[str, Dict[str, Any]] = {}
+        json_corrs: List[Tuple[str, str, float]] = []
+        json_corr_ns: List[Tuple[str, str, float]] = []
+
+        def merge_var_entry(name: str, data: Dict[str, Any]):
+            if not name:
+                return
+            norm = normalize_anchor(name)
+            if not norm:
+                return
+            entry = json_vars.setdefault(norm, {"raw_name": name})
+            for k, v in data.items():
+                raw_v = extract_reliability_val(v) if k == "reliability" else v
+                m_val = parse_metric(raw_v)
+                if m_val is not None:
+                    vals_list = entry.setdefault(f"{k}_vals", [])
+                    if not any(abs(m_val - existing) <= 1e-4 for existing in vals_list):
+                        vals_list.append(m_val)
+                    entry[k] = v
+                elif k not in entry:
+                    entry[k] = v
+
         matrix_block = st_payload.get("table_matrix") or st_payload.get("boundary_spanning_matrix") or {}
         if not isinstance(matrix_block, dict):
             matrix_block = {}
@@ -250,104 +316,63 @@ def verify_paper_parity(excel_path: str, json_path: str, paper_id: int) -> Tuple
             return None
 
         n_val = get_st_metric("listwise_n", "sample_size_n", "sample_n", "effective_sample_size", "effective_n")
-        if n_val is not None:
-            expected_ns.append(n_val)
         age_val = get_st_metric("mean_age")
-        if age_val is not None:
-            expected_ages.append(age_val)
         fem_val = get_st_metric("pct_female", "percent_female")
-        if fem_val is not None:
-            expected_females.append(fem_val)
         ten_val = get_st_metric("org_tenure", "tenure")
-        if ten_val is not None:
-            expected_tenures.append(ten_val)
 
-    # Check whether every row in paper_rows is governed by a correlation-level pairwise_n
-    all_rows_have_pairwise_n = bool(json_corr_ns) and all(
-        bool(find_corr_entries(str(ws.cell(r, 41).value or ""), str(ws.cell(r, 45).value or ""), json_corr_ns))
-        for r in paper_rows
-    )
+        # 4. Verify Sample Size N, Demographics, Measures, Stats, and r row-by-row across st_rows
+        for r in st_rows:
+            bs_name = ws.cell(r, 41).value
+            nb_name = ws.cell(r, 45).value
 
-    # 3. Verify Sample Size N (Col 22) and Demographics (Cols 23, 24, 25) across paper_rows
-    for label, col_idx, exp_list in [
-        ("Sample Size N (Col 22)", 22, [] if all_rows_have_pairwise_n else expected_ns),
-        ("Demographics Mean Age (Col 23)", 23, expected_ages),
-        ("Demographics % Female (Col 24)", 24, expected_females),
-        ("Demographics Org Tenure (Col 25)", 25, expected_tenures),
-    ]:
-        if exp_list:
-            excel_vals_raw = [ws.cell(r, col_idx).value for r in paper_rows]
-            excel_nums = [parse_metric(v) for v in excel_vals_raw if parse_metric(v) is not None]
-            if not excel_nums:
-                violations.append(f"{label}: JSON has {exp_list}, but Excel has '{excel_vals_raw[0]}' (dropped to 999).")
-            else:
-                for exp_v in exp_list:
-                    if not any(abs(exp_v - ex_n) <= 1e-3 for ex_n in excel_nums):
-                        violations.append(f"{label}: JSON has '{exp_v}', but Excel has {sorted(set(excel_nums))} (value mismatch).")
-                    else:
-                        confirmations.append(f"{label} verified: {exp_v}")
-
-    # 4. Verify Variable Measure Descriptors, Means, SDs, Reliabilities, and Correlations across rows
-    def get_var_candidates(j_var: Dict[str, Any], *keys: str) -> List[float]:
-        out: List[float] = []
-        for k in keys:
-            for v in j_var.get(f"{k}_vals", []):
-                if not any(abs(v - x) <= 1e-4 for x in out):
-                    out.append(v)
-        return out
-
-    def check_cell_parity(row_num: int, prefix: str, field_lbl: str, col_i: int, candidate_nums: List[float]):
-        if not candidate_nums:
-            return
-        ex_raw = ws.cell(row_num, col_i).value
-        ex_num = parse_metric(ex_raw)
-        if ex_num is None:
-            violations.append(f"Row {row_num} {prefix} {field_lbl}: JSON has {candidate_nums}, but Excel has '{ex_raw}' (dropped to 999).")
-        elif not any(abs(c_num - ex_num) <= 1e-3 for c_num in candidate_nums):
-            violations.append(f"Row {row_num} {prefix} {field_lbl}: JSON has {candidate_nums}, but Excel has '{ex_num}' (value mismatch).")
-        else:
-            confirmations.append(f"Row {row_num} {prefix} {field_lbl} verified: {ex_raw}")
-
-    for r in paper_rows:
-        bs_name = ws.cell(r, 41).value
-        nb_name = ws.cell(r, 45).value
-
-        # Check BSB variable (Cols 27, 28, 29, 42, 43, 44)
-        if bs_name:
-            j_var = find_var_entry(str(bs_name), json_vars)
-            if j_var:
-                for field_lbl, col_i, cands in [
-                    ("Items (Col 27)", 27, get_var_candidates(j_var, "number_of_items", "items")),
-                    ("Min Score (Col 28)", 28, get_var_candidates(j_var, "min_score", "min")),
-                    ("Max Score (Col 29)", 29, get_var_candidates(j_var, "max_score", "max")),
-                    ("Mean (Col 42)", 42, get_var_candidates(j_var, "mean")),
-                    ("SD (Col 43)", 43, get_var_candidates(j_var, "sd")),
-                    ("Reliability (Col 44)", 44, get_var_candidates(j_var, "reliability", "reliability_table", "alpha")),
-                ]:
-                    check_cell_parity(r, f"BSB '{bs_name}'", field_lbl, col_i, cands)
-
-        # Check Non-BS variable (Cols 34, 35, 36, 46, 47, 48)
-        if nb_name:
-            j_var = find_var_entry(str(nb_name), json_vars)
-            if j_var:
-                for field_lbl, col_i, cands in [
-                    ("Items (Col 34)", 34, get_var_candidates(j_var, "number_of_items", "items")),
-                    ("Min Score (Col 35)", 35, get_var_candidates(j_var, "min_score", "min")),
-                    ("Max Score (Col 36)", 36, get_var_candidates(j_var, "max_score", "max")),
-                    ("Mean (Col 46)", 46, get_var_candidates(j_var, "mean")),
-                    ("SD (Col 47)", 47, get_var_candidates(j_var, "sd")),
-                    ("Reliability (Col 48)", 48, get_var_candidates(j_var, "reliability", "reliability_table", "alpha")),
-                ]:
-                    check_cell_parity(r, f"Non-BS '{nb_name}'", field_lbl, col_i, cands)
-
-        # Check Correlation r (Col 49) and optional Pairwise Sample Size N (Col 22)
-        if bs_name and nb_name:
-            exp_rs = find_corr_entries(str(bs_name), str(nb_name), json_corrs)
-            if exp_rs:
-                check_cell_parity(r, f"Pair ('{bs_name}' x '{nb_name}')", "Correlation r (Col 49)", 49, exp_rs)
-            exp_pair_ns = find_corr_entries(str(bs_name), str(nb_name), json_corr_ns)
+            # Row-level Sample Size N (Col 22): pairwise override takes precedence, else study-level sample_size_n
+            exp_pair_ns = find_corr_entries(str(bs_name or ""), str(nb_name or ""), json_corr_ns) if (bs_name and nb_name) else []
             if exp_pair_ns:
-                check_cell_parity(r, f"Pair ('{bs_name}' x '{nb_name}')", "Pairwise Sample Size N (Col 22)", 22, exp_pair_ns)
+                check_cell_parity(r, f"{st_lbl}Pair ('{bs_name}' x '{nb_name}')", "Pairwise Sample Size N (Col 22)", 22, exp_pair_ns)
+            elif n_val is not None:
+                check_cell_parity(r, f"{st_lbl}Study Sample", "Sample Size N (Col 22)", 22, [n_val])
+
+            # Row-level Demographics (Cols 23, 24, 25)
+            if age_val is not None:
+                check_cell_parity(r, f"{st_lbl}Demographics", "Mean Age (Col 23)", 23, [age_val])
+            if fem_val is not None:
+                check_cell_parity(r, f"{st_lbl}Demographics", "% Female (Col 24)", 24, [fem_val])
+            if ten_val is not None:
+                check_cell_parity(r, f"{st_lbl}Demographics", "Org Tenure (Col 25)", 25, [ten_val])
+
+            # Check BSB variable (Cols 27, 28, 29, 42, 43, 44)
+            if bs_name:
+                j_var = find_var_entry(str(bs_name), json_vars)
+                if j_var:
+                    for field_lbl, col_i, cands in [
+                        ("Items (Col 27)", 27, get_var_candidates(j_var, "number_of_items", "items")),
+                        ("Min Score (Col 28)", 28, get_var_candidates(j_var, "min_score", "min")),
+                        ("Max Score (Col 29)", 29, get_var_candidates(j_var, "max_score", "max")),
+                        ("Mean (Col 42)", 42, get_var_candidates(j_var, "mean")),
+                        ("SD (Col 43)", 43, get_var_candidates(j_var, "sd")),
+                        ("Reliability (Col 44)", 44, get_var_candidates(j_var, "reliability", "reliability_table", "alpha")),
+                    ]:
+                        check_cell_parity(r, f"{st_lbl}BSB '{bs_name}'", field_lbl, col_i, cands)
+
+            # Check Non-BS variable (Cols 34, 35, 36, 46, 47, 48)
+            if nb_name:
+                j_var = find_var_entry(str(nb_name), json_vars)
+                if j_var:
+                    for field_lbl, col_i, cands in [
+                        ("Items (Col 34)", 34, get_var_candidates(j_var, "number_of_items", "items")),
+                        ("Min Score (Col 35)", 35, get_var_candidates(j_var, "min_score", "min")),
+                        ("Max Score (Col 36)", 36, get_var_candidates(j_var, "max_score", "max")),
+                        ("Mean (Col 46)", 46, get_var_candidates(j_var, "mean")),
+                        ("SD (Col 47)", 47, get_var_candidates(j_var, "sd")),
+                        ("Reliability (Col 48)", 48, get_var_candidates(j_var, "reliability", "reliability_table", "alpha")),
+                    ]:
+                        check_cell_parity(r, f"{st_lbl}Non-BS '{nb_name}'", field_lbl, col_i, cands)
+
+            # Check Correlation r (Col 49)
+            if bs_name and nb_name:
+                exp_rs = find_corr_entries(str(bs_name), str(nb_name), json_corrs)
+                if exp_rs:
+                    check_cell_parity(r, f"{st_lbl}Pair ('{bs_name}' x '{nb_name}')", "Correlation r (Col 49)", 49, exp_rs)
 
     wb.close()
 

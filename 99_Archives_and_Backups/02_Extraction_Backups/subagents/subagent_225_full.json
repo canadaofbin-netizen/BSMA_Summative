@@ -233,9 +233,9 @@
       "min_score": 1,
       "max_score": 5,
       "report_type": "1 = Self-report",
-      "report_type_note": null,
+      "report_type_note": "Scouting sub-dimension only; items adapted with network wording substituted for competing organization wording due to non-disclosure concerns; 5-point Likert from Strongly Disagree (1) to Strongly Agree (5); in-text alpha = 0.858, Table 3 (p. 119) = 0.859.",
       "specific_measure_used": "Ancona et al. (1992A)",
-      "source_quote": "[Methodology, p. 51-52] \"Ancona et al. (1992A) developed a boundary spanning scale that aids in understanding boundary spanning at a micro level. The six scouting items from this scale were used for this study because they measure high-frequency communicators, expertise, and access to information, which are characteristics of skilled digital freelancers.\" Scouting sub-dimension only. Items adapted: network wording substituted for competing organization wording due to non-disclosure concerns. 5-point Likert from Strongly Disagree (1) to Strongly Agree (5). In-text alpha = 0.858; Table 3 (p. 119) renders 0.859.",
+      "source_quote": "[Methodology, pp. 51-52] \"Ancona et al. (1992A) developed a boundary spanning scale that aids in understanding boundary spanning at a micro level. The six scouting items from this scale were used for this study because they measure high-frequency communicators, expertise, and access to information, which are characteristics of skilled digital freelancers.\"",
       "reliability": {
         "type": "Alpha",
         "value": 0.859
@@ -351,10 +351,10 @@
       "table_anchor_name": "Gender",
       "classification_type": "NB",
       "number_of_items": 1,
-      "min_score": 1,
-      "max_score": 2,
+      "min_score": 999,
+      "max_score": 999,
       "report_type": "1 = Self-report",
-      "report_type_note": "47% female (n = 66) and 53% male (n = 77); Mean and SD not reported in Table 1.",
+      "report_type_note": "47% female (n = 66) and 53% male (n = 77); exact dummy numeric coding (0/1 vs. 1/2) and Mean/SD not reported in text or Table 1 (coded 999 per Rule 1).",
       "specific_measure_used": "The gender you identify with is",
       "source_quote": "[Appendix F: Survey Instrument, p. 114] \"2.) The gender you identify with is: a. Male b. Female c. Non-binary/third gender d. Prefer not to say\" [Sample, p. 61] \"Forty seven percent of participants identified as female (n = 66) and 53% as male (n = 77).\"",
       "reliability": {
